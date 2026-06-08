@@ -59,6 +59,6 @@ The company takes on different levels of risk depending on the mortgages it buys
 
 ## What to watch
 
-Anyone interested in Freddie Mac should watch the mortgage market. Watch interest rates — when rates fall, homeowners refinance their mortgages, which creates opportunities for fees but also turns over the portfolio. Watch housing prices and employment — they determine whether people can keep paying their mortgages. Watch the Federal Housing Finance Agency, which regulates Freddie Mac and decides what changes to the company's rules or structure might happen.
+Anyone interested in Freddie Mac should watch the mortgage market. Watch interest rates — when rates fall, homeowners refinance their mortgages, which creates opportunities for fees but also turns over the portfolio. Watch housing prices and employment — they determine whether people can keep paying their mortgages. Watch the [Federal Housing Finance Agency](/federal-housing-finance-agency/), which regulates Freddie Mac and decides what changes to the company's rules or structure might happen.
 
 You can read Freddie Mac's annual filings to the SEC to see how many mortgages it owns, what the [delinquency](/delinquency/) rate is, and how its profits and losses are moving. These documents show you where the risks are building.

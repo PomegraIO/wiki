@@ -30,12 +30,12 @@ TDACU trades as a unit that includes one warrant, exercisable into one share at 
 
 ## Blank-check risks and regulatory scrutiny
 
-SPACs became controversial over the late 2010s and into 2021 as the vehicle proliferated and a handful of deals underperformed or proved misleading about their target's prospects. Regulators and scrutinizers noted that SPACs enabled less due diligence, weaker disclosure, and sometimes optimistic projections that failed to materialize.
+SPACs became controversial over the late 2010s and into 2021 as the vehicle proliferated and a handful of deals underperformed or proved misleading about their target's prospects. Regulators and scrutinizers noted that SPACs enabled less [due diligence](/due-diligence/), weaker disclosure, and sometimes optimistic projections that failed to materialize.
 
 For TDACU investors, the key risk was management execution: whether the team could identify a genuinely attractive target, negotiate fair terms, and close the deal before the deadline. Post-merger, investors faced the standard risks of any newly public biotech or healthcare company — execution on R&D, regulatory approval, reimbursement, and competition. The SPAC structure itself did not solve those challenges; it merely changed the path to liquidity.
 
 ## How to research Translational Development Acquisition Corp.
 
-SEC filings for SPACs include the proxy statement (or proxy/prospectus) that details the proposed merger, the target company's financials, and pro forma projections. The S-1 registration statement filed at or before the IPO outlines the SPAC's structure, uses of proceeds, and management biographies. Later, DEFM14A filings (the proxy statement for the merger vote) and 8-K current reports track material developments. SEC CIK 0001926599 anchors searches on EDGAR. For current status — whether the merger has closed, been abandoned, or is pending — check recent 8-K filings or news sources, as SPAC timelines can shift.
+SEC filings for SPACs include the [proxy statement](/proxy-statement/) (or proxy/prospectus) that details the proposed merger, the target company's financials, and pro forma projections. The S-1 registration statement filed at or before the IPO outlines the SPAC's structure, uses of proceeds, and management biographies. Later, DEFM14A filings (the proxy statement for the merger vote) and 8-K current reports track material developments. SEC CIK 0001926599 anchors searches on EDGAR. For current status — whether the merger has closed, been abandoned, or is pending — check recent 8-K filings or news sources, as SPAC timelines can shift.
 
 The warrant pricing relative to the common stock can signal market sentiment: a deep discount to intrinsic value suggests skepticism about the deal's success or the combined company's prospects.

@@ -38,7 +38,7 @@ Gold is a commodity, priced globally, so Sonoro cannot control the selling price
 
 ## What are the key risks?
 
-Permitting delays or denial would be catastrophic — the project cannot proceed without government approval. Environmental conditions or opposition could extend the process. Gold prices are volatile; a sustained decline in the gold price could make the project uneconomical, especially if costs rise. Mining projects frequently experience cost overruns and construction delays. Supply-chain disruptions could affect equipment delivery. Political risk in Mexico, though Sonora is relatively stable, is a perpetual concern in a resource development business.
+Permitting delays or denial would be catastrophic — the project cannot proceed without government approval. Environmental conditions or opposition could extend the process. Gold prices are volatile; a sustained decline in the gold price could make the project uneconomical, especially if costs rise. Mining projects frequently experience cost overruns and construction delays. Supply-chain disruptions could affect equipment delivery. [Political risk](/political-risk/) in Mexico, though Sonora is relatively stable, is a perpetual concern in a resource development business.
 
 The company is also tiny compared to major gold producers, meaning it has limited financial flexibility if the project encounters obstacles or costs exceed estimates. Success depends on executing permitting, completing construction on budget, achieving the projected ore recovery and throughput rates, and maintaining adequate capital reserves or access to [debt financing](/debt-financing/).
 

@@ -15,7 +15,7 @@ handwritten: true
 
 ## What does ASCRF represent, and how is it different from the common shares?
 
-ASCRF is a particular class of equity issued by ASPAC II. When the SPAC was originally formed, investors could purchase units containing common shares, warrants, and rights. The "rights" are essentially contingent claims: upon consummation of a [business combination](/business-combination-purchase/), each shareholder becomes entitled to receive one-tenth of an additional ordinary share. ASCRF represents these accumulated rights, traded separately. This structure creates a layered capital table: some investors hold plain common shares (ASCBF), others hold warrants (ASCWF), and still others hold the rights that convert if and when a [merger](/merger/) closes. Each security class has different economics and risks.
+ASCRF is a particular class of equity issued by ASPAC II. When the SPAC was originally formed, investors could purchase units containing common shares, warrants, and rights. The "rights" are essentially [contingent claims](/contingent-claim/): upon consummation of a [business combination](/business-combination-purchase/), each shareholder becomes entitled to receive one-tenth of an additional ordinary share. ASCRF represents these accumulated rights, traded separately. This structure creates a layered capital table: some investors hold plain common shares (ASCBF), others hold warrants (ASCWF), and still others hold the rights that convert if and when a [merger](/merger/) closes. Each security class has different economics and risks.
 
 ## Why did ASPAC II move from Nasdaq to the OTC market?
 

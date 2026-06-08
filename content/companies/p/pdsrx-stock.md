@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Principal Real Asset Fund is a [mutual fund](/mutual-fund/) that buys real assets: property, infrastructure, commodities, and companies tied to those sectors. The fund is managed by Principal Global Investors, part of [Principal Financial](/pfg-stock/) Group. The idea is straightforward: instead of owning mostly stocks and [bonds](/bond/), you own stakes in things with physical presence—oil pipelines, farmland, timber forests, ports, wind farms, mining companies. These assets often pay steady income and can behave differently than traditional stocks when [inflation](/inflation/) picks up or when the economy shifts.
+Principal [Real Asset Fund](/real-asset-fund/) is a [mutual fund](/mutual-fund/) that buys real assets: property, infrastructure, commodities, and companies tied to those sectors. The fund is managed by Principal Global Investors, part of [Principal Financial](/pfg-stock/) Group. The idea is straightforward: instead of owning mostly stocks and [bonds](/bond/), you own stakes in things with physical presence—oil pipelines, farmland, timber forests, ports, wind farms, mining companies. These assets often pay steady income and can behave differently than traditional stocks when [inflation](/inflation/) picks up or when the economy shifts.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Principal Real Asset Fund is a [mutual fund](/mutual-fund/) that buys real asset
 
 ## What real assets actually mean
 
-Real assets are things you can touch—literally. A real-estate investment trust (REIT) owns shopping centers or office buildings. An infrastructure fund owns highways with tolls, natural-gas pipelines, or electrical-transmission lines. Commodities funds own oil reserves or crops or metals in the ground. The fund buys shares of companies and trusts that hold these assets. So you are not owning the pipeline yourself; you own a slice of a company that operates it, collects revenue, and pays out [dividends](/dividend/) to shareholders.
+Real assets are things you can touch—literally. A real-estate investment trust (REIT) owns shopping centers or office buildings. An [infrastructure fund](/pe-infrastructure-fund/) owns highways with tolls, natural-gas pipelines, or electrical-transmission lines. [Commodities funds](/commodities-fund/) own oil reserves or crops or metals in the ground. The fund buys shares of companies and trusts that hold these assets. So you are not owning the pipeline yourself; you own a slice of a company that operates it, collects revenue, and pays out [dividends](/dividend/) to shareholders.
 
 This is different from owning a stock in [Apple](/aapl-stock/) or Amazon, where your return depends on selling software and services. Real assets produce revenue because they are essential—people need to drive roads, heat homes, eat food. That gives the income stream a structural reliability that tech stocks often lack.
 
@@ -57,4 +57,4 @@ The fund also carries management risk: the team at Principal Global Investors mu
 
 ## How to research this fund
 
-Start with the fund's prospectus at SEC CIK 0001756404, which details holdings, fees, and strategy. Check the fact sheet for the current [asset allocation](/asset-allocation/)—what percentage is real estate versus infrastructure versus commodities—and the [dividend yield](/dividend-yield/). Look at the fund's performance versus a real-asset benchmark or a general commodity fund like a broad commodities ETF. Read the [annual report](/10-k/) to see which specific holdings the managers favor and how their bets have played out. A smart investor also keeps an eye on interest rates and inflation expectations: when real rates are negative or inflation is sticky, real assets often outperform.
+Start with the fund's prospectus at SEC CIK 0001756404, which details holdings, fees, and strategy. Check the fact sheet for the current [asset allocation](/asset-allocation/)—what percentage is real estate versus infrastructure versus commodities—and the [dividend yield](/dividend-yield/). Look at the fund's performance versus a real-asset benchmark or a general commodity fund like a broad commodities ETF. Read the [annual report](/10-k/) to see which specific holdings the managers favor and how their bets have played out. A smart investor also keeps an eye on interest rates and [inflation expectations](/inflation-expectations/): when real rates are negative or inflation is sticky, real assets often outperform.

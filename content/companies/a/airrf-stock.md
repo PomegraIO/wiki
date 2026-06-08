@@ -21,7 +21,7 @@ Rather than absorbing all exploration costs alone, Aurion structures deals that 
 
 ### Operations and Strategy
 
-Aurion's team conducts field work and geological assessment directly, positioning the company as a true operator rather than a passive permit holder. The company's geographic focus—a single region in Finland—allows deep geological knowledge and efficient logistics. Finland provides a stable regulatory environment and established mining infrastructure, reducing the permitting and political risks that plague exploration in other jurisdictions.
+Aurion's team conducts field work and geological assessment directly, positioning the company as a true operator rather than a passive permit holder. The company's geographic focus—a single region in Finland—allows deep geological knowledge and efficient logistics. Finland provides a stable regulatory environment and established mining infrastructure, reducing the permitting and [political risks](/political-risk/) that plague exploration in other jurisdictions.
 
 ### At a glance
 - Trades on TSX Venture Exchange (TSX-V: AU) and OTC (OTCQX: AIRRF)

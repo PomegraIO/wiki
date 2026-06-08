@@ -65,6 +65,6 @@ Fourth, the back-end economics of textile recycling and bulk sales of unsaleable
 
 ## How to research Savers
 
-Investors should begin with Savers' annual 10-K filing (SEC CIK 0001883313), which breaks revenue between retail sales and recycling operations, describes the nonprofit partner base, and lays out the inventory sourcing strategy. The quarterly earnings calls surface trends in store traffic, average transaction size, and donation volume — the leading indicators of health for a thrift chain.
+Investors should begin with Savers' annual 10-K filing (SEC CIK 0001883313), which breaks revenue between retail sales and recycling operations, describes the nonprofit partner base, and lays out the inventory sourcing strategy. The quarterly earnings calls surface trends in store traffic, average transaction size, and donation volume — the [leading indicators](/leading-indicator/) of health for a thrift chain.
 
 Key metrics to monitor: comparable-store sales growth (whether like-for-like stores are selling more over time), the ratio of retail revenue to recycling revenue (what portion of goods sell at retail versus go to recycling), and gross margin (the spread between what goods cost and what they sell for, net of labor). During periods of [inflation](/inflation/), secondhand goods become relatively attractive, which can help sales. During periods of technological change, online resale gains share from physical thrift stores. Understanding where the economy and consumer behavior are heading matters as much as the company's own operational metrics.

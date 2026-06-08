@@ -43,9 +43,9 @@ GM's competitive moat is fragile. It possesses strong brand equity (Chevrolet is
 
 **Tesla's operational model:** Tesla manufactures vehicles with fewer labor hours, lower factory footprints, and superior battery economics—not through 50 years of tradition, but through design-for-manufacturability from inception. Its Gigafactories are far more efficient than retooled legacy plants. If traditional OEMs cannot match this operational maturity, they lose margin to competitors.
 
-**Regulatory risk:** Fuel economy standards and emissions regulations in the U.S., Europe, and China are tightening. These mandates accelerate the EV transition, but they also pose execution risk. Missing regulatory milestones triggers fines and reputational damage.
+**Regulatory risk:** Fuel economy standards and emissions regulations in the U.S., Europe, and China are tightening. These mandates accelerate the EV transition, but they also pose [execution risk](/execution-risk/). Missing regulatory milestones triggers fines and reputational damage.
 
-**Raw material volatility:** Battery materials—lithium, cobalt, nickel—are concentrated in geographies with political risk (Democratic Republic of Congo for cobalt, Argentina for lithium). Supply interruptions or price spikes can devastate battery production economics.
+**Raw material volatility:** Battery materials—lithium, cobalt, nickel—are concentrated in geographies with [political risk](/political-risk/) (Democratic Republic of Congo for cobalt, Argentina for lithium). Supply interruptions or price spikes can devastate battery production economics.
 
 **Labor costs:** GM's UAW agreements, while renegotiated in 2023, remain costly relative to non-union EV competitors or foreign suppliers. Wage rates, pension obligations, and work rules are substantially higher than at Tesla Fremont or Giga Berlin.
 
@@ -65,7 +65,7 @@ Investors and analysts commonly monitor [GM's 10-K](/wiki/10-k/) and quarterly e
 
 **Leverage and debt maturity:** GM has substantial debt from the post-bankruptcy restructuring and ongoing financing operations. Debt-to-capital and [interest coverage ratios](/interest-coverage-ratio/) matter for credit stability, especially if earnings weaken.
 
-**UAW labor cost per vehicle:** Unit labor costs drive competitiveness. Has the company achieved productivity improvements to offset wage increases?
+**UAW labor cost per vehicle:** [Unit labor costs](/unit-labor-cost/) drive competitiveness. Has the company achieved productivity improvements to offset wage increases?
 
 ## Pressures and Risks Ahead
 

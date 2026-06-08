@@ -70,7 +70,7 @@ Exit timing matters. Selling into a hot market (when buyers are aggressive and v
 
 ## Tax and Regulatory Considerations
 
-Investment companies have special tax status. If Insight Digital is structured as a pass-through entity (LLC, partnership), earnings pass through to equity holders and are taxed at the individual level. If it is a corporation, earnings are taxed at the corporate level and distributions are taxed again (double taxation). The choice affects investor returns.
+Investment companies have special tax status. If Insight Digital is structured as a pass-through entity (LLC, partnership), earnings pass through to equity holders and are taxed at the individual level. If it is a corporation, earnings are taxed at the corporate level and distributions are taxed again ([double taxation](/double-taxation/)). The choice affects investor returns.
 
 Regulatory oversight depends on the exact structure. If Insight Digital is a private-equity or investment-company type structure, it may be subject to specific rules.
 

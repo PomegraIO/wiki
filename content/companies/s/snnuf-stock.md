@@ -67,7 +67,7 @@ Reimbursement pressure is relentless. Healthcare systems worldwide are asking wh
 
 Product liability is a perennial healthcare device risk. If a Smith & Nephew implant fails in the body, the company faces litigation, potential recalls, and reputational damage. The company maintains insurance but must also hold reserves for known and anticipated claims.
 
-The geographic mix matters. Smith & Nephew has meaningful exposure to emerging markets where growth is faster but pricing power is lower and political risk is higher. A significant downturn in any major market — Europe, the United States, Australia — would hit earnings.
+The geographic mix matters. Smith & Nephew has meaningful exposure to emerging markets where growth is faster but pricing power is lower and [political risk](/political-risk/) is higher. A significant downturn in any major market — Europe, the United States, Australia — would hit earnings.
 
 Currency exposure is real: the company reports in pounds sterling but earns revenue across many currencies. A sustained shift in exchange rates can materially affect reported results.
 

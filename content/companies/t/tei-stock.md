@@ -36,7 +36,7 @@ This is fundamentally different from a [mutual fund](/mutual-fund/). With a mutu
 
 ## Why emerging-market income, and what that involves
 
-Developed-market bonds (US Treasuries, German Bunds, Japanese government debt) trade at very low yields because they are considered safe. Emerging-market bonds trade at higher yields to compensate investors for political risk, [currency risk](/currency-risk/), and lower credit quality. Similarly, dividend-paying stocks in developing economies offer higher yields than their US or European equivalents.
+Developed-market bonds (US Treasuries, German Bunds, Japanese government debt) trade at very low yields because they are considered safe. Emerging-market bonds trade at higher yields to compensate investors for [political risk](/political-risk/), [currency risk](/currency-risk/), and lower credit quality. Similarly, dividend-paying stocks in developing economies offer higher yields than their US or European equivalents.
 
 Templeton's strategy exploits that yield gap. By concentrating in higher-yielding securities across developing economies, it can generate a payout to shareholders that substantially exceeds what a comparable developed-market fund could offer. In recent years, that yield has often ranged from 6–8% annually, compared to 2–3% for a typical US dividend fund.
 
@@ -44,11 +44,11 @@ The unit economics favour the fund manager: assets are fixed (no net inflow or o
 
 ## Currency and country concentration: where the real risk lives
 
-An emerging-market bond fund is fundamentally exposed to currency swings. If Templeton holds Brazilian real-denominated bonds and the real weakens against the dollar, the fund's return is immediately hurt even if the bonds themselves perform as promised. Similarly, if the fund holds [Indian rupees](/indian-rupee/) or Mexican pesos, large currency movements can dwarf the income benefit. Over a full market cycle, currency headwinds can wipe out years of yield pickup.
+An emerging-market bond fund is fundamentally exposed to currency swings. If Templeton holds Brazilian real-denominated bonds and the real weakens against the dollar, the fund's return is immediately hurt even if the bonds themselves perform as promised. Similarly, if the fund holds [Indian rupees](/indian-rupee/) or [Mexican pesos](/mexian-peso/), large currency movements can dwarf the income benefit. Over a full [market cycle](/market-cycle/), currency headwinds can wipe out years of [yield pickup](/yield-pickup/).
 
 The second layer of risk is country-specific. Emerging markets are not a homogeneous asset class. A fund holding bonds issued by the government of a stable country (say, Chile or South Korea) faces very different risks than one concentrated in higher-yielding but less stable issuers. Franklin Templeton controls the specific country and credit allocation, which is the key active bet in the fund. If the fund is overweight unstable sovereigns and a debt crisis emerges in one, the portfolio can suffer material loss.
 
-Political and regulatory risk is constant in emerging markets. [Debt restructurings](/debt-restructuring/), capital controls, currency devaluations, and changes in government policy happen periodically and often catch investors off guard. Templeton's managers must navigate these risks, and their success or failure on that dimension is not visible in the yield — it appears in total returns over time.
+Political and regulatory risk is constant in emerging markets. [Debt restructurings](/debt-restructuring/), capital controls, [currency devaluations](/currency-devaluation/), and changes in government policy happen periodically and often catch investors off guard. Templeton's managers must navigate these risks, and their success or failure on that dimension is not visible in the yield — it appears in total returns over time.
 
 ## The premium/discount dynamic
 

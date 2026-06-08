@@ -55,7 +55,7 @@ The rare-disease drug market is attractive: smaller patient populations mean sma
 
 Pharming's geographic [diversification](/diversification/) is both a strength and a source of complexity. Operating in Europe and the United States means managing two distinct regulatory frameworks (European Medicines Agency approval and FDA approval), two reimbursement systems with different rules and timelines, and two commercial environments with different competitors and market dynamics. A product approved in one region may face delays in another, and pricing pressure in one market can affect the company's ability to fund operations.
 
-In Europe, where Pharming originated, regulatory familiarity is higher, but competition from other rare-disease companies and pressure on healthcare budgets is real. In the United States, reimbursement is more generous but market access requires building relationships with hospital networks and specialists across a fragmented system. Emerging markets offer growth but require partnerships and have higher regulatory and political risk.
+In Europe, where Pharming originated, regulatory familiarity is higher, but competition from other rare-disease companies and pressure on healthcare budgets is real. In the United States, reimbursement is more generous but market access requires building relationships with hospital networks and specialists across a fragmented system. Emerging markets offer growth but require partnerships and have higher regulatory and [political risk](/political-risk/).
 
 ## Profitability and capital intensity
 

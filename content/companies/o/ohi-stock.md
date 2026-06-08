@@ -16,7 +16,7 @@ Omega Healthcare Investors is a [real estate investment trust](/real-estate-inve
 
 Omega's portfolio consists of hundreds of properties across the United States, representing over a billion square feet of real estate. The company does not run the day-to-day operations of these facilities; instead, specialized healthcare operators manage the homes and serve the residents. Omega's role is to be the landlord—acquiring properties, maintaining title, and collecting rent. The triple-net lease structure means the operator covers property taxes, insurance, and maintenance costs, leaving Omega with predictable, mostly recurring revenue.
 
-This strategy relies entirely on the health and creditworthiness of the operators. A strong operator can fill beds, maintain occupancy, and pay rent reliably. A weak operator faces operational losses, which can lead to rent defaults and ultimately force Omega to take back a property or renegotiate terms. The real risk in Omega's business is not market cycles or [interest rates](/interest-rate/) alone, but the fundamental viability of senior care operators in a complex, thinly margined industry.
+This strategy relies entirely on the health and creditworthiness of the operators. A strong operator can fill beds, maintain occupancy, and pay rent reliably. A weak operator faces operational losses, which can lead to rent defaults and ultimately force Omega to take back a property or renegotiate terms. The real risk in Omega's business is not [market cycles](/market-cycle/) or [interest rates](/interest-rate/) alone, but the fundamental viability of senior care operators in a complex, thinly margined industry.
 
 <aside class="wiki-infobox">
 
@@ -58,7 +58,7 @@ To manage this, Omega seeks operators with proven track records, adequate capita
 
 ## Revenue and Dividend Yield
 
-Omega's financial performance is measured by funds from operations (FFO), a common metric for REITs that excludes [depreciation](/depreciation/) and focuses on actual cash-generating ability. FFO grew substantially during the 2010s as Omega acquired properties, but growth has been more modest in recent years amid operator challenges and regulatory headwinds. The company distributes substantially all taxable income to shareholders as [dividends](/dividend/), a statutory requirement for REIT status.
+Omega's financial performance is measured by [funds from operations](/funds-from-operations/) (FFO), a common metric for REITs that excludes [depreciation](/depreciation/) and focuses on actual cash-generating ability. FFO grew substantially during the 2010s as Omega acquired properties, but growth has been more modest in recent years amid operator challenges and regulatory headwinds. The company distributes substantially all taxable income to shareholders as [dividends](/dividend/), a statutory requirement for REIT status.
 
 [Dividend yield](/dividend-yield/) is meaningful for Omega shareholders but must be evaluated in context of distribution sustainability. A high yield coupled with declining occupancy or operator stress signals risk that distributions may be cut. Conversely, a lower yield may reflect investor confidence in stable, growing operations. The company's dividend history includes cuts during periods of operator stress, most notably in 2020–2021 when pandemic-related facility lockdowns and staffing shortages strained operators' profitability.
 

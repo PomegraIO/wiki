@@ -30,7 +30,7 @@ This positioning matters. The accounting services market is bifurcated. At the t
 
 ## Revenue and Economics
 
-CBIZ's business model depends on professional labor. Revenue per employee and utilization rates drive profitability. In advisory and audit, the economics are tied to the billable hours model: clients pay for work performed, often at standard rates determined by seniority and complexity. Tax work is more recession-resistant because regulatory compliance doesn't vanish during downturns, but advisory work contracts when clients postpone discretionary projects.
+CBIZ's business model depends on professional labor. [Revenue per employee](/revenue-per-employee/) and utilization rates drive profitability. In advisory and audit, the economics are tied to the billable hours model: clients pay for work performed, often at standard rates determined by seniority and complexity. Tax work is more recession-resistant because regulatory compliance doesn't vanish during downturns, but advisory work contracts when clients postpone discretionary projects.
 
 Insurance services, conversely, are commission-based. A client's property and casualty policy renews annually, generating repeating commission revenue without new billable hours. This creates a more stable, less labor-dependent segment—one reason the company has pursued insurance acquisitions and growth.
 

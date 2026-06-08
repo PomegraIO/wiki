@@ -33,7 +33,7 @@ Using futures for Solana exposure introduces additional mechanics. Futures contr
 
 ## Cost and liquidity
 
-The [expense ratio](/expense-ratio/), the annual cost to hold the fund, tends to be moderate relative to specialized cryptocurrency or [thematic ETFs](/thematic-etf/), though higher than passive broad-market equity funds due to the added complexity of the cryptocurrency component and the need for active index rebalancing. The fund trades on NASDAQ, which means it has good liquidity during stock-market hours for most retail and institutional buyers; execution quality is unlikely to be an issue for reasonable order sizes.
+The [expense ratio](/expense-ratio/), the annual cost to hold the fund, tends to be moderate relative to specialized cryptocurrency or [thematic ETFs](/thematic-etf/), though higher than passive broad-market equity funds due to the added complexity of the cryptocurrency component and the need for active [index rebalancing](/index-rebalancing/). The fund trades on NASDAQ, which means it has good liquidity during stock-market hours for most retail and institutional buyers; execution quality is unlikely to be an issue for reasonable order sizes.
 
 ## Who this is for and what to watch
 

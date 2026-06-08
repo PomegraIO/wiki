@@ -57,7 +57,7 @@ The firm's long-term positioning depends on either building sufficient brand equ
 
 Cannabis remains illegal under federal law, classified as a Schedule I substance despite legalization in numerous states. This creates persistent uncertainty about the durable legality of state-licensed cannabis operations and about the future of the industry. Federal law change—whether through rescheduling, descheduling, or safe-banking legislation—could transform the competitive landscape, allowing interstate commerce, access to banking services, and federal trademark and patent protection.
 
-Resonate, like all cannabis operators, operates within the framework of current state-law legality while acknowledging irreducible federal legal risk. This legal ambiguity also constrains access to mainstream banking, credit, and investment services, increasing capital costs and operational friction relative to conventional consumer-goods companies.
+Resonate, like all cannabis operators, operates within the framework of current state-law legality while acknowledging irreducible federal [legal risk](/legal-risk/). This legal ambiguity also constrains access to mainstream banking, credit, and investment services, increasing capital costs and operational friction relative to conventional consumer-goods companies.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -29,7 +29,7 @@ The antiques and collectibles market is notorious for misattribution, counterfei
 
 ## Monetization: Commissions and Subscription Tiers
 
-1stdibs earns [revenue](/operating-margin/) through platform commissions on sales (a percentage of transaction value) and through seller subscriptions and premium listing features. Dealers pay annual or monthly fees to list, with higher tiers offering enhanced visibility, analytics, and tools. This dual revenue model mirrors SaaS subscription economics—predictable recurring revenue from subscriptions—combined with transaction-based upside (if sales volume on the platform grows). The company has also experimented with seller financing and advertising products, adding small revenue streams without diluting the core marketplace experience.
+1stdibs earns [revenue](/operating-margin/) through platform commissions on sales (a percentage of transaction value) and through seller subscriptions and premium listing features. Dealers pay annual or monthly fees to list, with higher tiers offering enhanced visibility, analytics, and tools. This dual revenue model mirrors SaaS subscription economics—predictable recurring revenue from subscriptions—combined with transaction-based upside (if sales volume on the platform grows). The company has also experimented with [seller financing](/seller-financing/) and advertising products, adding small revenue streams without diluting the core marketplace experience.
 
 ## Competitive Dynamics: Auction Houses vs. Discoverability
 

@@ -41,7 +41,7 @@ Online gambling operates in a heavily regulated landscape that differs by countr
 
 The regulatory environment is volatile. Tax rates have risen in several markets. The United Kingdom has signaled interest in tightening regulations on affordability and marketing to vulnerable customers. Some countries have banned or restricted certain forms of betting or the marketing thereof. A significant regulatory change—higher taxes, stricter responsible-gambling rules, or restrictions on bonus spending—can rapidly erode margins across an entire region.
 
-There is also political risk. Some jurisdictions have viewed online gambling with suspicion or attempted to protect state-run or state-licensed operators from private competition. Changes in government can bring regulatory shifts.
+There is also [political risk](/political-risk/). Some jurisdictions have viewed online gambling with suspicion or attempted to protect state-run or state-licensed operators from private competition. Changes in government can bring regulatory shifts.
 
 ## The customer acquisition treadmill
 

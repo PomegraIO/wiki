@@ -41,7 +41,7 @@ The company's integration, once a moat, became a liability. Clients want flexibi
 
 The business has faced margin compression and revenue volatility. Client consolidation — large retailers and telecoms controlling significant budgets — gives buyers leverage on pricing. The fixed costs of operating facilities and paying full-time staff don't flex easily if volumes drop.
 
-Debt levels have periodically strained the [balance sheet](/balance-sheet/), limiting reinvestment in higher-margin technology and analytics. Restructuring initiatives have aimed to close or optimize facilities and reduce headcount, but execution risk is high and savings often lag the pace of revenue decline.
+Debt levels have periodically strained the [balance sheet](/balance-sheet/), limiting reinvestment in higher-margin technology and analytics. Restructuring initiatives have aimed to close or optimize facilities and reduce headcount, but [execution risk](/execution-risk/) is high and savings often lag the pace of revenue decline.
 
 ## What to Watch
 
@@ -49,7 +49,7 @@ An investor evaluating Harte-Hanks should monitor client concentration and reten
 
 Watch the path to profitability. The company has experimented with various strategic pivots — embracing omnichannel, building CRM tools, acquiring smaller marketing-tech assets. Execution on transformation is harder than strategy; customer wins and retention in high-margin categories matter more than press releases.
 
-Facility utilization and labor metrics in call centers are worth tracking: if headcount is declining faster than revenue (negative indicator) or revenue per employee is rising (positive), that suggests the company is improving productivity. The [10-K](/wiki/10-k/) and quarterly earnings calls will detail facility changes and capacity plans.
+Facility utilization and labor metrics in call centers are worth tracking: if headcount is declining faster than revenue (negative indicator) or [revenue per employee](/revenue-per-employee/) is rising (positive), that suggests the company is improving productivity. The [10-K](/wiki/10-k/) and quarterly earnings calls will detail facility changes and capacity plans.
 
 **At a glance**
 - Legacy business in print and direct mail in secular decline

@@ -53,7 +53,7 @@ The sponsor holds approximately 20 percent of the company's equity through [foun
 
 ## The timing and deadline pressure
 
-Twenty-four months is the standard SPAC window, derived from the time needed to identify targets, conduct due diligence, and complete regulatory and shareholder approvals. Lafayette Digital has until January 12, 2028 to announce a combination. If management is efficient, the company could announce a target in late 2026 or early 2027, leaving several months for shareholder votes and [closing conditions](/closing-condition/).
+Twenty-four months is the standard SPAC window, derived from the time needed to identify targets, conduct [due diligence](/due-diligence/), and complete regulatory and shareholder approvals. Lafayette Digital has until January 12, 2028 to announce a combination. If management is efficient, the company could announce a target in late 2026 or early 2027, leaving several months for shareholder votes and [closing conditions](/closing-condition/).
 
 The deadline also creates a window-closing dynamic: as the date approaches, the sponsor's leverage in negotiations weakens. Potential target companies know the sponsor faces a reputational and financial cliff if the deadline passes uncombined. This is why some targets are announced near the deadline — the sponsor may have overpaid to get a deal done rather than liquidate.
 

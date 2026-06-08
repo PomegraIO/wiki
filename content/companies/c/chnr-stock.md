@@ -31,7 +31,7 @@ The pricing of these raises is crucial. If CHNR raises capital when the stock pr
 
 CHNR's holdings in mainland China are subject to the risk that Chinese authorities will restrict foreign ownership, alter concession terms, or use regulatory means to freeze or confiscate the claims. The relationship between the United States and China has grown more adversarial; foreign access to Chinese mineral resources has become a sensitive national issue. These are not typical geological or commodity-price risks; they are political-economy risks that can wipe out the value of exploration work overnight.
 
-A firm operating in neutral jurisdictions—Canada, Peru, Australia—faces only geological and commodity risk. CHNR faces an additional layer: the risk that the host government will render its claims worthless regardless of what lies beneath the surface. This risk is not typically quantified in the [balance sheet](/balance-sheet/) but is embedded in the valuation of the equity itself. Investors in CHNR are implicitly betting that Chinese authorities will permit continued foreign exploration and development.
+A firm operating in neutral jurisdictions—Canada, Peru, Australia—faces only geological and [commodity risk](/commodity-risk/). CHNR faces an additional layer: the risk that the host government will render its claims worthless regardless of what lies beneath the surface. This risk is not typically quantified in the [balance sheet](/balance-sheet/) but is embedded in the valuation of the equity itself. Investors in CHNR are implicitly betting that Chinese authorities will permit continued foreign exploration and development.
 
 ## Cash Burn and Runway
 

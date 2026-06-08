@@ -36,7 +36,7 @@ Throughout this process, the capital sits in trust, earning minimal interest. Sh
 
 ## The risk and reality of being a SPAC shareholder
 
-SPAC investors face a clear tension. They are betting that the sponsors — the founders and managers — will find and negotiate a merger with a genuinely valuable company, and that the deal will be priced fairly. The sponsor team earns carried interest (a share of the profit), which aligns incentives in theory. In practice, that structure has sometimes encouraged sponsors to complete *any* merger quickly rather than wait for the best target, or to accept poor valuation terms to lock in their carried interest.
+SPAC investors face a clear tension. They are betting that the sponsors — the founders and managers — will find and negotiate a merger with a genuinely valuable company, and that the deal will be priced fairly. The sponsor team earns [carried interest](/carried-interest-compensation/) (a share of the profit), which aligns incentives in theory. In practice, that structure has sometimes encouraged sponsors to complete *any* merger quickly rather than wait for the best target, or to accept poor valuation terms to lock in their carried interest.
 
 Additionally, SPAC shareholders face dilution. The sponsors receive free shares ([founder shares](/founder-shares/) or promote) worth roughly 20 percent of the company, and they earn advisory fees and other compensation. When the SPAC merges, those costs come out of the capital available to the now-public operating company.
 

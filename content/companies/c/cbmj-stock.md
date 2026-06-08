@@ -40,7 +40,7 @@ Some conservative outlets have differentiated through geographic focus (regional
 
 A conservative-aligned media company faces regulatory and business risk that non-partisan outlets do not. Politicians and activists on the left may criticize, boycott, or attempt to pressure advertisers away from conservative outlets. Section 230 of the Communications Decency Act, which protects online platforms from liability for user-generated content, is periodically threatened by politicians, and conservative outlets are frequent targets of proposed regulation. Social media platforms have occasionally removed or demonetized accounts associated with conservative figures, creating risk for outlets dependent on social distribution.
 
-Additionally, advertising boycotts are real. Advertisers may decline to spend on media perceived as too extreme. This creates a balancing act: CBMJ must maintain ideological clarity to retain audience but avoid reputational risk that scares advertisers. A misstep—on-air personality accused of misconduct, a reporting error, or controversial rhetoric—can accelerate advertiser departure.
+Additionally, advertising boycotts are real. Advertisers may decline to spend on media perceived as too extreme. This creates a balancing act: CBMJ must maintain ideological clarity to retain audience but avoid [reputational risk](/reputational-risk/) that scares advertisers. A misstep—on-air personality accused of misconduct, a reporting error, or controversial rhetoric—can accelerate advertiser departure.
 
 ## Scale and Profitability Challenges
 

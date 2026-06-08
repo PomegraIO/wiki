@@ -41,7 +41,7 @@ Write-downs for inventory obsolescence and markdowns on slow-moving styles appea
 
 ## Scale and Competitive Position
 
-In its disclosed competitive context, DBGI positions itself as a growth-focused player in a highly fragmented market. The apparel and footwear industry comprises everything from vertically integrated giants to single-brand boutiques. DBGI describes itself as a multi-brand operator with the flexibility to acquire or divest portfolios in response to market dynamics. This agility is presented as a strength in the filings; the company can pivot into brands showing promise and away from underperformers more quickly than fully integrated competitors.
+In its disclosed competitive context, DBGI positions itself as a growth-focused player in a highly [fragmented market](/fragmented-market/). The apparel and footwear industry comprises everything from vertically integrated giants to single-brand boutiques. DBGI describes itself as a multi-brand operator with the flexibility to acquire or divest portfolios in response to market dynamics. This agility is presented as a strength in the filings; the company can pivot into brands showing promise and away from underperformers more quickly than fully integrated competitors.
 
 However, scale matters in apparel—purchasing power with suppliers, marketing reach, and data infrastructure all benefit from size. DBGI is smaller than major publicly listed competitors and must compete in a market where brand loyalty and retail shelf space are finite. The filings acknowledge this competitive intensity and the importance of trend-reading and execution speed.
 

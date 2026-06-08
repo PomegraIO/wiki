@@ -61,7 +61,7 @@ In travel payments and digital solutions, the company faces fragmented competiti
 
 ## Challenges and what to watch
 
-Execution risk is paramount. The transition to software and services has been underway for years, and the market is not yet convinced it is complete. Investor skepticism about whether a legacy hardware company can truly become a software-first business has depressed valuations relative to pure-play software companies.
+[Execution risk](/execution-risk/) is paramount. The transition to software and services has been underway for years, and the market is not yet convinced it is complete. Investor skepticism about whether a legacy hardware company can truly become a software-first business has depressed valuations relative to pure-play software companies.
 
 Macroeconomic sensitivity matters. Retail spending slumps during downturns, dragging down POS software revenue. Travel declines in [recessions](/recession/), hurting the digital-solutions segment. ATM traffic has been declining steadily. The company has limited structural growth drivers.
 

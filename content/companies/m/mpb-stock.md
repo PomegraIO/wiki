@@ -44,7 +44,7 @@ Mid Penn's ability to underwrite loans carefully—to assess borrower credit qua
 
 ## Leverage and Return on Equity
 
-Banks are highly leveraged institutions. Mid Penn holds, perhaps, five to ten dollars of assets for every dollar of shareholder equity (the specific ratio varies by business mix and regulation). This means a small percentage change in asset value, or a small spread compression, can be magnified in its effect on shareholder returns. Conversely, when the bank is profitable, leverage amplifies returns to shareholders. This leverage is managed by regulators; banks must maintain minimum ratios of equity to risk-weighted assets. But within that constraint, MPB's return on shareholder capital depends on its ability to deploy that equity to generate net income.
+Banks are highly leveraged institutions. Mid Penn holds, perhaps, five to ten dollars of assets for every dollar of shareholder equity (the specific ratio varies by business mix and regulation). This means a small percentage change in asset value, or a small spread compression, can be magnified in its effect on shareholder returns. Conversely, when the bank is profitable, leverage amplifies returns to shareholders. This leverage is managed by regulators; banks must maintain minimum ratios of equity to [risk-weighted assets](/risk-weighted-assets/). But within that constraint, MPB's return on shareholder capital depends on its ability to deploy that equity to generate net income.
 
 ## The Path to Profitability for a Regional Player
 

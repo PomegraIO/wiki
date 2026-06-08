@@ -21,7 +21,7 @@ When Chain Bridge I launched, the thesis was narrowly focused: identify a compan
 
 ## The CommLoan letter of intent
 
-In September 2025, Chain Bridge I announced a non-binding letter of intent (LOI) to combine with CommLoan, a [commercial real estate](/commercial-real-estate/) lending technology company. CommLoan operates what it describes as the first true commercial mortgage lending marketplace — a platform that connects lenders and borrowers in commercial real estate finance, attempting to streamline a traditionally opaque and fragmented market. Rather than national security, the new direction aims at fintech and commercial real estate — sectors with large dollar volumes and historically inefficient workflows.
+In September 2025, Chain Bridge I announced a non-binding [letter of intent](/letter-of-intent-ma/) (LOI) to combine with CommLoan, a [commercial real estate](/commercial-real-estate/) lending technology company. CommLoan operates what it describes as the first true commercial mortgage lending marketplace — a platform that connects lenders and borrowers in commercial real estate finance, attempting to streamline a traditionally opaque and [fragmented market](/fragmented-market/). Rather than national security, the new direction aims at fintech and commercial real estate — sectors with large dollar volumes and historically inefficient workflows.
 
 Under the anticipated deal, the combined company would be called CommLoan Inc. and would be led by CommLoan founder and CEO Mitch Ginsberg. The new public company's [common stock](/common-stock/) is expected to list on the [Nasdaq](/nasdaq/) Capital Market (a smaller tier than the main exchange). Closing was anticipated during the first half of 2026.
 

@@ -41,7 +41,7 @@ This quality bias is deliberate: the fund's creators believe that rewarding comp
 
 FTCS trades on the [NASDAQ](/nasdaq/) with reasonable daily volume, making it accessible to both small retail investors and larger institutions. The [expense ratio](/expense-ratio/) sits in the economical range for a systematic, actively managed ETF. The fund's steady focus on balance-sheet strength and return-on-capital metrics has attracted institutional interest, which has contributed to adequate liquidity and asset growth.
 
-The fund is most suitable for investors who believe that capital-efficient, financially strong businesses will outperform over a market cycle, or those seeking to tilt a broad US equity exposure toward quality. It also appeals to conservative allocators who want to avoid the most leveraged or speculative corners of the [stock market](/stock-market/) while maintaining large-cap equity exposure.
+The fund is most suitable for investors who believe that capital-efficient, financially strong businesses will outperform over a [market cycle](/market-cycle/), or those seeking to tilt a broad US equity exposure toward quality. It also appeals to conservative allocators who want to avoid the most leveraged or speculative corners of the [stock market](/stock-market/) while maintaining large-cap equity exposure.
 
 ## Risks and limitations
 

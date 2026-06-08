@@ -33,7 +33,7 @@ MSP Recovery's scale advantage is real but not insurmountable. The company must 
 
 ## Regulatory Risk and Reputational Exposure
 
-A significant competitive threat to MSP Recovery is regulatory scrutiny and litigation. Medical debt collection and claims recovery is increasingly controversial. Consumer advocacy groups, state attorneys general, and some federal regulators view aggressive collection tactics and subrogation policies as extractive—particularly when recovery efforts target patients directly or delay necessary medical care. Congressional scrutiny of medical debt and surprise billing has created political risk to the business model.
+A significant competitive threat to MSP Recovery is regulatory scrutiny and litigation. Medical debt collection and claims recovery is increasingly controversial. Consumer advocacy groups, state attorneys general, and some federal regulators view aggressive collection tactics and subrogation policies as extractive—particularly when recovery efforts target patients directly or delay necessary medical care. Congressional scrutiny of medical debt and surprise billing has created [political risk](/political-risk/) to the business model.
 
 Competitors that maintain lower regulatory profiles (in-house insurer teams, smaller regional firms) may have advantage over a public company subject to SEC disclosure and media spotlight. Regulatory changes that restrict subrogation or claim recovery would compress the market for all players, but impact would be proportional to business exposure. MSP Recovery's dependence on this market is higher than diversified competitors.
 
@@ -71,7 +71,7 @@ Competitors with lower litigation profiles or in-house status (not subject to pr
 
 MSP Recovery's competitive future likely involves consolidation. The company has moderate scale but faces rivals both larger (diversified debt collectors) and better-capitalized (private-equity-backed). Strategic options are limited: (1) grow via [acquisition](/acquisition/) and organic investment to become a dominant player, (2) diversify into adjacent healthcare services to reduce dependence on subrogation, or (3) accept acquisition by a larger platform seeking healthcare recovery capabilities.
 
-Each path involves execution risk and competitive uncertainty. Growth via acquisition requires capital and integration discipline. [Diversification](/diversification/) requires moving beyond core competency into new markets. Acquisition by a larger platform risks loss of independence and cultural misalignment.
+Each path involves [execution risk](/execution-risk/) and competitive uncertainty. Growth via acquisition requires capital and integration discipline. [Diversification](/diversification/) requires moving beyond core competency into new markets. Acquisition by a larger platform risks loss of independence and cultural misalignment.
 
 ## Outlook: Specialized Middleman Under Margin Pressure
 

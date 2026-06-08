@@ -33,7 +33,7 @@ This structure creates two phenomena that matter to investors. First, the fund c
 
 ## The AMT filter and why it exists
 
-The alternative minimum tax is a US federal tax rule that applies to high-income individuals and affects how municipal bond income is taxed. Most municipal bonds are exempt from regular federal income tax. But some bonds — typically those issued to finance non-essential projects or corporate-subsidized activities — lose that exemption under the AMT and become taxable to AMT-subject taxpayers. A wealthy investor subject to the AMT would receive no tax benefit from an AMT bond, making it a poor investment. NEA's portfolio is explicitly screened to exclude these bonds, which narrows the universe of eligible securities but ensures that all its income is valuable to its target shareholders.
+The [alternative minimum tax](/alternative-minimum-tax/) is a US federal tax rule that applies to high-income individuals and affects how municipal bond income is taxed. Most municipal bonds are exempt from regular federal income tax. But some bonds — typically those issued to finance non-essential projects or corporate-subsidized activities — lose that exemption under the AMT and become taxable to AMT-subject taxpayers. A wealthy investor subject to the AMT would receive no tax benefit from an AMT bond, making it a poor investment. NEA's portfolio is explicitly screened to exclude these bonds, which narrows the universe of eligible securities but ensures that all its income is valuable to its target shareholders.
 
 ## Diversification within fixed income
 
@@ -45,7 +45,7 @@ The fund's focus on [investment-grade bonds](/investment-grade-bond/) means it a
 
 Municipal bonds are fixed-income instruments. When [interest rates](/interest-rate/) rise, the value of outstanding bonds falls (because investors can now buy new bonds with higher yields). A bond fund holding existing bonds sees its net asset value decline in rising-rate environments. This is a mechanical reality of the closed-end fund structure and the bond market itself. Conversely, in falling-rate environments, the bonds appreciate and the fund's value rises.
 
-Since 2022, the US [Federal Reserve](/federal-reserve/) raised rates substantially, which pressured all bond funds. Managers have worked to shorten duration (the average maturity of the portfolio) to reduce interest-rate sensitivity, but a fund holding bonds must live with the volatility of a bond market. Investors in closed-end municipal bond funds must be comfortable holding through periods when the fund trades at a discount to NAV and the price per share declines, even if the underlying bonds are paying interest reliably.
+Since 2022, the US [Federal Reserve](/federal-reserve/) raised rates substantially, which pressured all bond funds. Managers have worked to shorten duration (the average maturity of the portfolio) to reduce interest-rate sensitivity, but a fund holding bonds must live with the volatility of a bond market. Investors in closed-end [municipal bond funds](/municipal-bond-fund/) must be comfortable holding through periods when the fund trades at a discount to NAV and the price per share declines, even if the underlying bonds are paying interest reliably.
 
 ## Credit risk and recession sensitivity
 

@@ -18,7 +18,7 @@ Psilocybin research has experienced a resurgence over the past decade, driven by
 
 What distinguishes psilocybin from traditional antidepressants (like SSRIs) is the proposed acute psychoactive experience: rather than daily pills taken for weeks, psilocybin therapy typically involves one or a few doses administered under clinical supervision, with psychological support. Early clinical data from academic institutions has suggested efficacy rates higher than conventional antidepressants and faster symptom relief, though sample sizes in published studies have been small.
 
-Regulatory pathways have opened. The FDA and other regulators have granted "breakthrough therapy" designations to some psilocybin programs, acknowledging early clinical signals and accelerating development timelines. However, psilocybin remains a Schedule I controlled substance in the United States (alongside heroin and LSD), and manufacturing, possession, and clinical use require DEA licensing and strict compliance. This creates both barriers and moats: regulatory hurdles protect approved developers from easy competition, but also mean long timelines, high compliance costs, and execution risk.
+Regulatory pathways have opened. The FDA and other regulators have granted "breakthrough therapy" designations to some psilocybin programs, acknowledging early clinical signals and accelerating development timelines. However, psilocybin remains a Schedule I controlled substance in the United States (alongside heroin and LSD), and manufacturing, possession, and clinical use require DEA licensing and strict compliance. This creates both barriers and moats: regulatory hurdles protect approved developers from easy competition, but also mean long timelines, high compliance costs, and [execution risk](/execution-risk/).
 
 ## Psyence's business model and pipeline
 
@@ -51,7 +51,7 @@ With no path to profitability visible before a licensing deal or approval, Psyen
 
 Clinical risk is paramount. Psilocybin is still relatively understudied in large, controlled trials. If a Phase 2 or Phase 3 trial fails to meet its primary endpoints, or if unexpected safety signals emerge, the program stalls. Even if efficacy is demonstrated, regulatory approval is not guaranteed; the FDA might request additional data, impose restrictions on who can receive the drug, or deny approval entirely.
 
-Regulatory and legal risk is also substantial. Psilocybin's Schedule I status creates compliance and manufacturing complexity. A change in DEA policy or a shift in political attitudes toward psychedelics could help (if restrictions ease) or hurt (if a government crack down occurs). International regulatory paths vary widely.
+Regulatory and [legal risk](/legal-risk/) is also substantial. Psilocybin's Schedule I status creates compliance and manufacturing complexity. A change in DEA policy or a shift in political attitudes toward psychedelics could help (if restrictions ease) or hurt (if a government crack down occurs). International regulatory paths vary widely.
 
 Partnership risk: if Psyence fails to find a partner willing to license its programs at a reasonable valuation, the company may struggle to fund subsequent trials or may be forced to raise capital on unfavorable terms.
 

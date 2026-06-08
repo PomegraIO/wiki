@@ -43,7 +43,7 @@ UWM's earnings are driven by mortgage origination volume, which depends on two b
 
 From 2020 through 2021, rates fell and stayed low, creating a historic refinance boom that filled origination pipelines. From 2022 onward, rates rose sharply, collapsing refinancing volume and keeping originations lean. UWM's profitability and stock price swung wildly in response, which is the nature of the business.
 
-Housing starts and existing home sales also matter. A weak real estate market reduces purchase originations. A strong one fills them. The company is thus a proxy for both the macro housing cycle and the interest-rate cycle, with particular sensitivity to rate changes.
+[Housing starts](/housing-starts/) and existing home sales also matter. A weak real estate market reduces purchase originations. A strong one fills them. The company is thus a proxy for both the macro housing cycle and the interest-rate cycle, with particular sensitivity to rate changes.
 
 ## Revenue concentration and servicing portfolio
 
@@ -57,6 +57,6 @@ UWM's largest risk is a structural shift in the mortgage market away from the wh
 
 A second risk is interest-rate volatility itself. Rapid rate spikes can cause pipeline crises and margin compression. High rates over a sustained period reduce overall origination volume and can squeeze the economics of the servicing portfolio if loan prepayments slow and borrowers stop refinancing.
 
-Regulatory changes to mortgage underwriting standards, lending standards, or capital requirements can also reshape the business model. The mortgage industry is heavily regulated, and any change to origination or servicing rules impacts the cost structure and profitability of players like UWM.
+Regulatory changes to [mortgage underwriting](/mortgage-underwriting/) standards, lending standards, or capital requirements can also reshape the business model. The mortgage industry is heavily regulated, and any change to origination or servicing rules impacts the cost structure and profitability of players like UWM.
 
 For investors researching UWM, the SEC filings (CIK 0001783398) reveal origination volumes by channel, average loan sizes, origination margins, servicing portfolio trends, and mortgage servicing costs. The quarterly results and management commentary on mortgage-market conditions are crucial indicators of near-term momentum. The company's long-term case rests on whether it can maintain its cost and scale advantages as the wholesale mortgage channel evolves.

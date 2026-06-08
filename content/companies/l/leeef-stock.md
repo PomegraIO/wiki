@@ -58,5 +58,5 @@ Investors researching Leef via its filings should scrutinize market-by-market sa
 ### Wider context
 - Consumer discretionary sector
 - [Regulatory compliance costs](/balance-sheet/)
-- Market fragmentation and regional advantage
+- [Market fragmentation](/market-fragmentation/) and regional advantage
 </div>

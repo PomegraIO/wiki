@@ -16,7 +16,7 @@ The Baron Risk Optimized Large Cap ETF tracks a portfolio of about 80 to 100 lar
 
 The core holdings are the same companies you find in any large-cap index: the Apples and Microsofts and Procter & Gambles of the world. The difference is the weight each one gets. A stock with historically high volatility — one that swings around a lot — gets a lighter position. A stable, predictable earner gets a heavier one. The fund also tends to lean toward companies with steadier [dividend](/dividend/) payments and lower debt loads, which accords with the overall mandate to find the smoother path through large-cap territory.
 
-The portfolio is diversified across the usual sectors — technology, healthcare, financials, consumer staples — so there is no hidden bet on one corner of the market. Over a full market cycle, the fund will own a fair slice of the American mega-cap space, just arranged to pull toward the less chaotic side.
+The portfolio is diversified across the usual sectors — technology, healthcare, financials, consumer staples — so there is no hidden bet on one corner of the market. Over a full [market cycle](/market-cycle/), the fund will own a fair slice of the American mega-cap space, just arranged to pull toward the less chaotic side.
 
 ## How it costs and trades
 

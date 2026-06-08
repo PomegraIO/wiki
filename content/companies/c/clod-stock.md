@@ -67,6 +67,6 @@ Start with Themes' prospectus and fact sheet, which list current holdings and th
 
 Cloud trends feature prominently in technology analyst reports and industry commentary. Follow discussion of cloud adoption rates, customer spending intensity, shifts in competitive positioning among major providers, and the emergence of new cloud use cases. These macro and competitive factors affect the entire portfolio collectively.
 
-Watch for commentary on data-center capacity, semiconductor supply in data centers, and the pace of enterprise migration to cloud—these are leading indicators of spending across the ecosystem.
+Watch for commentary on data-center capacity, semiconductor supply in data centers, and the pace of enterprise migration to cloud—these are [leading indicators](/leading-indicator/) of spending across the ecosystem.
 
 CLOD trades under its ticker on NASDAQ and suits investors with conviction about cloud computing's structural importance and who prefer ecosystem-level exposure to picking individual stocks.

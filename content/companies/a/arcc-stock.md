@@ -26,7 +26,7 @@ handwritten: true
 
 Ares Capital is a [business development company](/business-development-company/), a regulated structure that allows it to borrow funds and deploy capital into debt and equity positions while distributing most earnings to shareholders as taxable income. The company targets middle-market companies—typically with [enterprise values](/enterprise-value/) between $50 million and $2 billion—providing financing solutions that traditional banks often sideline or where lenders seek higher yields than the broader credit markets offer.
 
-The firm operates across senior secured lending (the bread and butter of its portfolio), subordinated debt, equity co-investments, and structured products. This [diversification](/diversification/) across investment types and industries shields it from [concentration risk](/concentration-risk/), though it also means portfolio performance depends entirely on the quality of management's deal sourcing and underwriting judgment. Every position is illiquid by nature; Ares must hold these loans and equity stakes to maturity or until underlying companies are sold or refinanced.
+The firm operates across senior secured lending (the bread and butter of its portfolio), subordinated debt, equity co-investments, and [structured products](/structured-product/). This [diversification](/diversification/) across investment types and industries shields it from [concentration risk](/concentration-risk/), though it also means portfolio performance depends entirely on the quality of management's deal sourcing and underwriting judgment. Every position is illiquid by nature; Ares must hold these loans and equity stakes to maturity or until underlying companies are sold or refinanced.
 
 ## Income Generation and Distribution
 

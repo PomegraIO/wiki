@@ -24,7 +24,7 @@ When a SPAC goes public, it typically raises a specified amount — say $200 mil
 
 The appeal to investors lies partly in the relative speed: a company that might spend 12–18 months on a traditional IPO roadshow can become public through a SPAC merger in half that time. It also lies partly in the judgment of the SPAC sponsor — if the team has a history of identifying and building valuable companies, investors are betting on their skill to find the next one.
 
-However, SPACs also carry distinctive risks. The management team has an incentive to complete *any* merger before the deadline expires, which can lead to overpriced acquisitions or weak due diligence. Shareholders who were attracted to the SPAC for the sponsor's reputation may not want to own the target company that emerges. [Share dilution](/share-dilution/), when new equity is issued to pay for the merger, often costs the original SPAC shareholders real value. And the operating company that emerges, newly public and often cash-constrained, may face market skepticism that a traditional IPO would not.
+However, SPACs also carry distinctive risks. The management team has an incentive to complete *any* merger before the deadline expires, which can lead to overpriced acquisitions or weak [due diligence](/due-diligence/). Shareholders who were attracted to the SPAC for the sponsor's reputation may not want to own the target company that emerges. [Share dilution](/share-dilution/), when new equity is issued to pay for the merger, often costs the original SPAC shareholders real value. And the operating company that emerges, newly public and often cash-constrained, may face market skepticism that a traditional IPO would not.
 
 ## The SPAC landscape
 

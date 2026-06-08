@@ -18,7 +18,7 @@ handwritten: true
 
 RGYY is a specialized fund that implements a [covered call](/covered-call/) income strategy on top of leveraged exposure to [Rigetti Computing](/rgti-stock/). Rather than simply holding shares or a [leveraged ETF](/leveraged-etf/), RGYY holds positions in RGTX (the 2x long Rigetti ETF) and sells weekly call options against it. Those sold calls generate immediate income—the [option premium](/option-premium/) collected upfront—but limit how much upside RGYY shareholders capture if Rigetti rallies sharply.
 
-The motivation is straightforward: option buyers pay premium to obtain upside potential, and RGYY captures that premium on behalf of its shareholders. In a flat or rising market where Rigetti stays below the [strike prices](/strike-price/) of the sold calls, shareholders collect the full benefit of call premium. In a down market, the premium provides a buffer against losses. Only in a strong rally does the cap on gains become a real cost.
+The motivation is straightforward: [option buyers](/option-buyer/) pay premium to obtain upside potential, and RGYY captures that premium on behalf of its shareholders. In a flat or rising market where Rigetti stays below the [strike prices](/strike-price/) of the sold calls, shareholders collect the full benefit of call premium. In a down market, the premium provides a buffer against losses. Only in a strong rally does the cap on gains become a real cost.
 
 ## Who sponsors RGYY and how does it trade?
 

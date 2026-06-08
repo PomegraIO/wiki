@@ -23,7 +23,7 @@ VTWV holds all members of the Russell 2000 Value Index, weighted by [market capi
 
 ## Origin and rationale: why value indexing at small-cap scale
 
-Value as a formal investment concept emerged in the 1980s and 1990s as academic research (notably by Fama and French) showed that lower-valuation stocks, on average, delivered higher returns than higher-valuation stocks over long periods. This value premium — the outperformance of cheap stocks — held across market caps, sectors, and time periods, though it was never reliable in any single year.
+Value as a formal investment concept emerged in the 1980s and 1990s as academic research (notably by Fama and French) showed that lower-valuation stocks, on average, delivered higher returns than higher-valuation stocks over long periods. This [value premium](/value-premium/) — the outperformance of cheap stocks — held across market caps, sectors, and time periods, though it was never reliable in any single year.
 
 Russell Investments created the Russell 2000 Value and Growth indexes in the 1990s to formalize this distinction for small-cap investors. The idea was straightforward: if value worked in the large-cap S&P 500 (where [value funds](/value-fund/) already existed), it should work in small-cap too. VTWV and its predecessor products (Vanguard has offered Russell 2000 value funds since the indexes were created) became a way for investors to express the value tilt without hand-picking small-cap stocks.
 
@@ -51,7 +51,7 @@ The fund trades on the [NASDAQ](/nasdaq/) with reasonable but not exceptional li
 
 The central risk is style risk: value outperformance is not guaranteed. From the 1990s through the early 2000s, value beat growth decisively. From 2010 onwards, growth dramatically outpaced value, particularly in tech-heavy markets. An investor in VTWV during the 2010s experienced years of underperformance versus a growth-tilted peer. That drawback — the possibility of a multi-year period where your bet is wrong — is the price of the value tilt.
 
-A secondary risk is small-cap-specific: small-cap stocks are less stable, more subject to [idiosyncratic risk](/idiosyncratic-risk/), and less liquid than large-cap. A value company can deteriorate unexpectedly; the market can shift the valuation it assigns to a sector. Regional banks, which are often over-represented in small-cap value, are sensitive to interest rates and credit cycles.
+A secondary risk is small-cap-specific: small-cap stocks are less stable, more subject to [idiosyncratic risk](/idiosyncratic-risk/), and less liquid than large-cap. A value company can deteriorate unexpectedly; the market can shift the valuation it assigns to a sector. Regional banks, which are often over-represented in small-cap value, are sensitive to interest rates and [credit cycles](/credit-cycle/).
 
 There is also the "value trap" risk: a stock can be cheap for good reasons — a company might be in secular decline — and the value filter catches those traps along with genuine bargains. The Russell 2000 Value Index spreads that risk, but it does not eliminate it.
 

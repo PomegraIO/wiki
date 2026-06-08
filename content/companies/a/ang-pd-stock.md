@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**ANG-PD is a depositary share representing a fractional interest in Series D [preferred stock](/preferred-stock/) of American National Group, a mid-sized insurance holding company with roots back to 1905.** Based in Galveston, Texas, the company operates through interconnected insurance businesses spanning life insurance, annuities (including pension risk transfer solutions), and property-casualty coverage. The preferred equity trades as a single unit, paying a fixed quarterly [dividend](/dividend/), and appeals primarily to income-focused investors seeking exposure to the insurance sector's steady cash generation.
+**ANG-PD is a [depositary share](/depositary-share/) representing a fractional interest in Series D [preferred stock](/preferred-stock/) of American National Group, a mid-sized insurance holding company with roots back to 1905.** Based in Galveston, Texas, the company operates through interconnected insurance businesses spanning life insurance, annuities (including pension risk transfer solutions), and property-casualty coverage. The preferred equity trades as a single unit, paying a fixed quarterly [dividend](/dividend/), and appeals primarily to income-focused investors seeking exposure to the insurance sector's steady cash generation.
 
 Insurance Portfolio and Core Segments
 

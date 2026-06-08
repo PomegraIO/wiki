@@ -45,7 +45,7 @@ The competitive landscape in memory consists of just four significant players gl
 
 Semiconductor manufacturers compete on process technology—the ability to pack more transistors into the same physical space and produce chips more efficiently. This race to smaller geometries (measured in nanometres) is technically demanding and expensive. Kioxia must continually invest billions in new equipment and manufacturing knowledge to stay competitive with Samsung and SK Hynix. Fall behind in the technology race and costs rise relative to competitors, eroding margins; leadership in process technology can deliver a temporary advantage and justify premium pricing.
 
-Kioxia has pursued both planar and 3D NAND architectures, and the company has invested in next-generation process nodes to maintain technological parity. These investments are essential to survival but carry risk: a competitor might achieve a breakthrough faster, or the company might spend billions on a process node that turns out not to work or to miss its performance targets. Technology risk is endemic to semiconductor manufacturing.
+Kioxia has pursued both planar and 3D NAND architectures, and the company has invested in next-generation process nodes to maintain technological parity. These investments are essential to survival but carry risk: a competitor might achieve a breakthrough faster, or the company might spend billions on a process node that turns out not to work or to miss its performance targets. [Technology risk](/technology-risk/) is endemic to semiconductor manufacturing.
 
 ## Cyclicality and market demand
 
@@ -61,7 +61,7 @@ Competition from Samsung and SK Hynix is relentless, and those companies have de
 
 ## How to research Kioxia as an investment
 
-Kioxia files with the SEC (CIK 0002053383) as an American depositary receipt, and its [annual reports](/10-k/) provide detailed operational and financial data. The company also files with Japanese regulators, and both sets of documents are useful. Pay close attention to the company's gross margins and [operating margins](/operating-margin/) over time—these reveal how well Kioxia is managing the brutal economics of commoditised memory.
+Kioxia files with the SEC (CIK 0002053383) as an American [depositary receipt](/depositary-receipt/), and its [annual reports](/10-k/) provide detailed operational and financial data. The company also files with Japanese regulators, and both sets of documents are useful. Pay close attention to the company's gross margins and [operating margins](/operating-margin/) over time—these reveal how well Kioxia is managing the brutal economics of commoditised memory.
 
 Track NAND spot prices in industry reports; prices correlate closely with Kioxia's selling prices and profitability. Monitor smartphone maker guidance on unit sales and average selling prices, as well as data-centre capital expenditure trends. These end-market signals predict memory-chip demand one to two quarters ahead. Also watch Kioxia's technology roadmap and capital expenditure plans to understand its strategic bets and assess how well it is competing in the technology race against Samsung and SK Hynix.
 

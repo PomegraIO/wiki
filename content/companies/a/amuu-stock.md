@@ -13,7 +13,7 @@ handwritten: true
 
 > A fund that bets on AMD to rise — hard and fast, but only for today.
 
-The Direxion Daily AMD Bull 2X ETF (ticker AMUU) is a leveraged exchange-traded fund that moves twice as much as the underlying stock. If AMD shares rise 1% in a day, AMUU aims to rise 2%; if AMD falls 1%, AMUU falls roughly 2%. It does this through a daily rebalancing mechanism, resetting the leverage each close, which means it is built for tactical bets held over hours or days, not for buy-and-hold investing over months or years.
+The Direxion Daily AMD Bull 2X ETF (ticker AMUU) is a leveraged exchange-traded fund that moves twice as much as the underlying stock. If AMD shares rise 1% in a day, AMUU aims to rise 2%; if AMD falls 1%, AMUU falls roughly 2%. It does this through a daily rebalancing mechanism, resetting the leverage each close, which means it is built for tactical bets held over hours or days, not for [buy-and-hold investing](/buy-and-hold/) over months or years.
 
 ## What AMUU tracks
 
@@ -29,7 +29,7 @@ The mathematics are brutal in ranging markets. Suppose AMD trades at 100, then f
 
 AMUU is issued by Direxion Shares, a division of Rafferty Asset Management that specialises in leveraged and [inverse ETFs](/inverse-etf/). The fund launched in 2019 as part of Direxion's single-stock leveraged suite. Direxion is transparent about the daily reset mechanism and the volatility decay risk — it appears in the prospectus — but many retail buyers either miss it or underestimate how quickly it can erode returns in choppy markets.
 
-The fund trades on the NYSE Arca exchange with typically tight liquidity around 100,000 shares per day, making intra-day entry and exit reasonably straightforward for retail traders. The expense ratio is on the higher end for a single-stock fund, reflecting the cost of maintaining leverage through derivatives and daily rebalancing.
+The fund trades on the [NYSE Arca](/nyse-arca/) exchange with typically tight liquidity around 100,000 shares per day, making intra-day entry and exit reasonably straightforward for retail traders. The expense ratio is on the higher end for a single-stock fund, reflecting the cost of maintaining leverage through derivatives and daily rebalancing.
 
 ## Who AMUU is for — and who it is not
 

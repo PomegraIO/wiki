@@ -31,7 +31,7 @@ One tangible benefit of public company status is the ability to raise capital by
 
 ## Regulatory Obligations and Reporting Quality
 
-As an SEC filer, JANEL submits annual [10-K](/10-k/) reports, quarterly 10-Qs, and proxy statements. These documents provide the most reliable window into company operations and management compensation. However, the quality of disclosure is often poor for microcap companies: minimal [segment reporting](/segment-reporting/), vague descriptions of business, and sparse financial detail. Auditors for microcap companies are often small regional firms with limited capacity to enforce accounting standards or challenge management assertions.
+As an SEC filer, JANEL submits annual [10-K](/10-k/) reports, quarterly 10-Qs, and [proxy statements](/proxy-statement/). These documents provide the most reliable window into company operations and management compensation. However, the quality of disclosure is often poor for microcap companies: minimal [segment reporting](/segment-reporting/), vague descriptions of business, and sparse financial detail. Auditors for microcap companies are often small regional firms with limited capacity to enforce accounting standards or challenge management assertions.
 
 ## Liquidity and Trading Dynamics
 

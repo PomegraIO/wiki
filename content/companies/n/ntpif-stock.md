@@ -39,7 +39,7 @@ Nam Tai's bet has always been that southern China — particularly the Pearl Riv
 
 The company positioned itself as a landlord to manufacturers and logistics companies, not a developer of shopping centers or office parks for white-collar workers. Industrial real estate is less glamorous than commercial or residential, but it is essential. Every smartphone, every pair of shoes, every component that goes into a car — all of it is made in factories that someone has to build and lease. Nam Tai was one of those someones.
 
-The advantage of focusing on industrial is that the demand is steady and rising as long as manufacturing activity is strong. The disadvantage is that industrial real estate is cyclical — when manufacturing slows, tenants reduce space or leave, and vacancy rates rise. Nam Tai's fortunes are tied to the health of manufacturing in southern China and the broader global economy's appetite for goods made there.
+The advantage of focusing on industrial is that the demand is steady and rising as long as manufacturing activity is strong. The disadvantage is that industrial real estate is cyclical — when manufacturing slows, tenants reduce space or leave, and [vacancy rates](/vacancy-rate-property/) rise. Nam Tai's fortunes are tied to the health of manufacturing in southern China and the broader global economy's appetite for goods made there.
 
 ## The land and the tenants
 
@@ -53,7 +53,7 @@ The company's cash flow depends on occupancy rates and the rental income tenants
 
 Nam Tai has been public in various forms for decades, with shares trading on the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/) and through OTC Markets in the United States. Like many Hong Kong-listed companies with operations in mainland China, it navigates the regulatory landscape of both jurisdictions. Mainland Chinese authorities have increasingly scrutinized Hong Kong-listed companies, and changes in regulations affecting foreign ownership of Chinese real estate have created uncertainty for some developers.
 
-Nam Tai's operational transparency and governance quality are relevant for any investor. Since the company is mostly illiquid in US markets, it is primarily of interest to sophisticated investors familiar with Chinese real estate and comfortable with the regulatory and political risks that come with it.
+Nam Tai's operational transparency and governance quality are relevant for any investor. Since the company is mostly illiquid in US markets, it is primarily of interest to sophisticated investors familiar with Chinese real estate and comfortable with the regulatory and [political risks](/political-risk/) that come with it.
 
 ## The real-estate cycle and the risks
 

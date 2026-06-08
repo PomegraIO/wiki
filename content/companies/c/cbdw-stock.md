@@ -37,7 +37,7 @@ Most SPACs have a deadline — often two years from their inception — to compl
 
 ## How to Research 1606 CORP.
 
-The best way to understand where this SPAC stands is to read its latest [10-K](/10-k/) annual report filed with the [SEC](/securities-and-exchange-commission/). You can find it on EDGAR by searching for the CIK number 1877461. The filing will tell you who the sponsors are, how much cash is in the trust, what deadline they face, and whether any merger discussions are underway. The company's proxy statements (filed as DEF 14A documents) will detail any merger proposal and allow you to vote on it if you are a shareholder. Press releases and investor presentations often announce big milestones in the search for a target.
+The best way to understand where this SPAC stands is to read its latest [10-K](/10-k/) annual report filed with the [SEC](/securities-and-exchange-commission/). You can find it on EDGAR by searching for the CIK number 1877461. The filing will tell you who the sponsors are, how much cash is in the trust, what deadline they face, and whether any merger discussions are underway. The company's [proxy statements](/proxy-statement/) (filed as DEF 14A documents) will detail any merger proposal and allow you to vote on it if you are a shareholder. Press releases and investor presentations often announce big milestones in the search for a target.
 
 ## The Longer Context
 

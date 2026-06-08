@@ -39,7 +39,7 @@ RenX also benefits from sourcing advantages: partnerships with waste-management 
 
 ## What are the main risks?
 
-The company is pre-revenue-profitable and early-stage, which introduces execution risk. Scaling production, managing multiple facilities, hiring skilled operations teams, and maintaining quality standards across a growing network is operationally complex. Missteps in capital allocation or facility management can erode economics quickly.
+The company is pre-revenue-profitable and early-stage, which introduces [execution risk](/execution-risk/). Scaling production, managing multiple facilities, hiring skilled operations teams, and maintaining quality standards across a growing network is operationally complex. Missteps in capital allocation or facility management can erode economics quickly.
 
 The engineered soils market is sensitive to construction cycles and weather. A sustained downturn in construction activity or reduced public investment in landscaping and remediation projects would pressure demand and pricing. Seasonal volatility also means that working capital requirements can spike in off-season months while revenue remains low.
 
@@ -53,4 +53,4 @@ Start with the company's annual 10-K filing, which details the composition of re
 
 Monitor quarterly earnings calls for updates on new facility construction or [acquisitions](/acquisition/). Because the business is capital-intensive, management commentary on capital discipline and return thresholds matters more than short-term quarterly earnings. Track the company's gross margin trajectory: margin improvement indicates pricing power or efficiency gains; margin compression suggests overcapacity or input [inflation](/inflation/).
 
-For context, compare RenX's capital intensity and profitability profile to larger aggregates competitors like Martin Marietta or Forterra. Also follow [construction spending](/construction-spending/) forecasts and publicly funded infrastructure projects—these are leading indicators of demand for landscaping and remediation materials. Industry analysts covering building materials and aggregates often cover soil-amendment producers; their reports provide benchmarks for pricing and volume trends.
+For context, compare RenX's capital intensity and profitability profile to larger aggregates competitors like Martin Marietta or Forterra. Also follow [construction spending](/construction-spending/) forecasts and publicly funded infrastructure projects—these are [leading indicators](/leading-indicator/) of demand for landscaping and remediation materials. Industry analysts covering building materials and aggregates often cover soil-amendment producers; their reports provide benchmarks for pricing and volume trends.

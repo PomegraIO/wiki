@@ -21,7 +21,7 @@ The bank's lending portfolio tilts toward real estate—a feature inherited from
 
 ## Diversified Revenue Streams Beyond Deposits
 
-Beyond traditional banking, the company operates insurance and title services, lines of business that are ancillary to banking but meaningful contributors to net income for smaller institutions. Title insurance generates fees from real estate transactions; insurance operations (likely including homeowner and property coverage) provide both premium revenue and opportunities to cross-sell to existing depositors.
+Beyond traditional banking, the company operates insurance and title services, lines of business that are ancillary to banking but meaningful contributors to net income for smaller institutions. [Title insurance](/title-insurance/) generates fees from real estate transactions; insurance operations (likely including homeowner and property coverage) provide both premium revenue and opportunities to cross-sell to existing depositors.
 
 These non-banking arms reduce reliance on net interest margin (the spread between deposit costs and lending rates) and create multiple revenue channels. For a small bank, such [diversification](/diversification/) matters: a decline in mortgage originations can be offset by a strong quarter in insurance commissions or title closings.
 
@@ -53,7 +53,7 @@ Like all [public companies](/wiki/public-company/), Quaint Oak must file a [10-K
 
 **Interest-rate environment and repricing**: A steepening or flattening [yield curve](/yield-curve/) affects the bank's net interest margin. A curve that inverts (short rates higher than long rates) can reduce mortgage originations and refinance volume.
 
-**Title and insurance underwriting**: These divisions' profitability can be cyclical. Title revenue depends on transaction volume (which follows housing starts and refinance activity); insurance depends on premium growth and loss ratios.
+**Title and insurance underwriting**: These divisions' profitability can be cyclical. Title revenue depends on transaction volume (which follows [housing starts](/housing-starts/) and refinance activity); insurance depends on premium growth and loss ratios.
 
 **Regulatory capital ratios**: As long as the bank maintains [capital adequacy](/wiki/capital-adequacy/) above regulatory minimums, it can pay [dividends](/dividend/) and repurchase shares. Falling capital ratios (due to losses or rapid asset growth) can force restrictions on shareholder returns.
 

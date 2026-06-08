@@ -48,7 +48,7 @@ Many oncology drugs receive orphan drug designation, a regulatory incentive that
 
 Few independent biotechs with a single product candidate can sustain themselves to approval and commercialization on equity capital alone. Licensing deals, co-development agreements, or strategic [acquisitions](/acquisition/) are common waypoints. A larger pharma company might license a promising cancer drug from Coherus, paying upfront capital plus milestone payments and royalties. Alternatively, Coherus might be acquired outright by a pharma company seeking to add the drug to its oncology portfolio.
 
-These partnership dynamics are shaped by sector conditions. In hot markets, when pharma companies are aggressively seeking late-stage oncology assets, terms favor smaller biotechs. In cooler markets, biotechs must accept less favorable terms or remain independent—which requires sustained capital and introduces execution risk.
+These partnership dynamics are shaped by sector conditions. In hot markets, when pharma companies are aggressively seeking late-stage oncology assets, terms favor smaller biotechs. In cooler markets, biotechs must accept less favorable terms or remain independent—which requires sustained capital and introduces [execution risk](/execution-risk/).
 
 ## Patient and Physician Adoption
 

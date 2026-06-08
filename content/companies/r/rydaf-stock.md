@@ -56,7 +56,7 @@ Megaprojects are also where things go wrong. Costs overrun. Timelines slip. Tech
 
 The first and largest is the energy transition. If the world moves faster toward renewable electricity and away from fossil fuels than Shell expects, the company's reserves become stranded assets—worth far less than the balance sheet assumes. That is not imminent, but the trajectory is clear.
 
-Regulation is a second risk. Carbon taxes, emissions regulations, and bans on fossil fuels in certain jurisdictions reshape the economics of the business. A carbon tax that does not exist today might be law in a decade, changing the competitive advantage of natural gas over coal and oil.
+Regulation is a second risk. Carbon taxes, emissions regulations, and bans on fossil fuels in certain jurisdictions reshape the economics of the business. A [carbon tax](/carbon-tax/) that does not exist today might be law in a decade, changing the competitive advantage of natural gas over coal and oil.
 
 Geopolitical risk is the third. Shell operates in politically unstable regions. Wars, coups, and nationalist movements can expropriate assets, impose new taxes, or exclude the company entirely. The company's operating presence in Russia, for instance, was disrupted by sanctions in 2022.
 

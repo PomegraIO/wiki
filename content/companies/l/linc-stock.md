@@ -29,7 +29,7 @@ For-profit education operators face compliance costs and regulatory scrutiny tha
 
 ## Working Capital and Cash Conversion Cycles
 
-Education firms have unique cash-conversion dynamics. A student enrolls, federal aid is disbursed (often in lump sums per term), and tuition is collected upfront. The company then pays instructors, staff, and facility costs over the term or semester. If enrollment deposits arrive in one lump and costs are spread, the firm benefits from favorable working capital—a natural float. Conversely, if students drop out (triggering refund obligations), or if aid disbursement is delayed, working capital can tighten quickly. Lincoln's balance sheet shows [accounts receivable](/accounts-receivable/) (tuition owed by students, minimal if aid is direct), student refund liabilities (obligations to students who withdraw), and deferred revenue (advance tuition collected but not yet earned). The working-capital line is a sensitive indicator of enrollment health and refund pressure.
+Education firms have unique cash-conversion dynamics. A student enrolls, federal aid is disbursed (often in lump sums per term), and tuition is collected upfront. The company then pays instructors, staff, and facility costs over the term or semester. If enrollment deposits arrive in one lump and costs are spread, the firm benefits from favorable working capital—a natural float. Conversely, if students drop out (triggering refund obligations), or if aid disbursement is delayed, working capital can tighten quickly. Lincoln's balance sheet shows [accounts receivable](/accounts-receivable/) (tuition owed by students, minimal if aid is direct), student refund liabilities (obligations to students who withdraw), and [deferred revenue](/deferred-revenue/) (advance tuition collected but not yet earned). The working-capital line is a sensitive indicator of enrollment health and refund pressure.
 
 ## Equity Financing and Dividend Policy
 
@@ -45,7 +45,7 @@ Federal student aid and state education funding are crucial revenue sources for 
 
 ## Cash Flow and Capital Allocation Priorities
 
-Lincoln's [free-cash-flow](/free-cash-flow/) determines what is available for debt repayment, dividends, buybacks, or reinvestment. In a tuition-dependent, enrollment-sensitive model, FCF is volatile and difficult to forecast. Management's capital allocation priorities—which are disclosed in conference calls and proxy statements—reveal whether the firm prioritizes debt reduction, growth, or shareholder returns. A firm reducing leverage aggressively may sacrifice growth and competitiveness; a firm prioritizing growth may defer debt paydown and risk covenant breaches if enrollment falters.
+Lincoln's [free-cash-flow](/free-cash-flow/) determines what is available for debt repayment, dividends, buybacks, or reinvestment. In a tuition-dependent, enrollment-sensitive model, FCF is volatile and difficult to forecast. Management's capital allocation priorities—which are disclosed in conference calls and [proxy statements](/proxy-statement/)—reveal whether the firm prioritizes debt reduction, growth, or shareholder returns. A firm reducing leverage aggressively may sacrifice growth and competitiveness; a firm prioritizing growth may defer debt paydown and risk covenant breaches if enrollment falters.
 
 ## Reading the 10-K
 

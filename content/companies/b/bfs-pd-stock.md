@@ -27,7 +27,7 @@ SAUL's founding was deliberate; the company was built by investors and operators
 
 SAUL's properties generate revenue through two mechanisms. The primary source is base rent — fixed monthly or annual payments from tenants, much like an apartment landlord. This revenue is predictable and recurring, the backbone of REIT cash flow.
 
-The second source is contingent or percentage rent. When a tenant's sales exceed a specified threshold, SAUL captures a percentage of the excess sales as additional rental income. This mechanism originated in an era when property owners wanted a share in tenant success; it has fallen out of favor in modern retail leases but remains part of SAUL's portfolio. Percentage rent creates upside when the local economy booms and tenants thrive, but it is naturally unstable because it depends on tenant performance.
+The second source is contingent or [percentage rent](/percentage-rent/). When a tenant's sales exceed a specified threshold, SAUL captures a percentage of the excess sales as additional rental income. This mechanism originated in an era when property owners wanted a share in tenant success; it has fallen out of favor in modern retail leases but remains part of SAUL's portfolio. Percentage rent creates upside when the local economy booms and tenants thrive, but it is naturally unstable because it depends on tenant performance.
 
 SAUL's tenants are a mix of national chains (supermarkets, chains), regional players, and independent operators. The vast majority of rent comes from the base rent paid by stable, credit-worthy anchor tenants. Smaller tenants in the shadow of these anchors tend to be local cafes, hardware stores, fitness studios, and other services that benefit from the foot traffic the anchor generates.
 
@@ -47,7 +47,7 @@ To adapt, SAUL has modernized some of its older properties, added services and a
 
 ## How to research SAUL Centers
 
-Investors studying SAUL should start with the annual 10-K (SEC CIK 0000907254), which details the portfolio of properties, lease terms, tenant concentration, and rent roll maturity. Key metrics include the occupancy rate (percentage of rentable square feet leased), the lease maturity schedule (when rents come up for renewal), and tenant credit quality.
+Investors studying SAUL should start with the annual 10-K (SEC CIK 0000907254), which details the portfolio of properties, lease terms, tenant concentration, and [rent roll](/rent-roll/) maturity. Key metrics include the occupancy rate (percentage of rentable square feet leased), the lease maturity schedule (when rents come up for renewal), and tenant credit quality.
 
 Watch the quarterly earnings calls for updates on same-center [net operating income](/net-operating-income/) (comparable-center revenue and expense trends) and any material tenant losses or lease signings. Track the spread between tenant sales and the rent growth SAUL achieves in renewals; strong sales should translate to successful rent increases, while declining sales can signal trouble ahead.
 

@@ -59,7 +59,7 @@ For investors, the key metrics are partnership announcements (evidence of custom
 
 ## How to research SaverOne
 
-Start with the company's 10-K and quarterly earnings reports. Look for partnership announcements and press releases about new ADAS integrations or fleet deployments. These are leading indicators of commercial traction. Track the company's patent filings—the company has filed patents in the US, Europe, and Israel around RF-based VRU detection and driver monitoring, which is evidence of R&D activity and IP protection.
+Start with the company's 10-K and quarterly earnings reports. Look for partnership announcements and press releases about new ADAS integrations or fleet deployments. These are [leading indicators](/leading-indicator/) of commercial traction. Track the company's patent filings—the company has filed patents in the US, Europe, and Israel around RF-based VRU detection and driver monitoring, which is evidence of R&D activity and IP protection.
 
 Monitor the broader automotive-safety and ADAS market. Track regulatory developments (NHTSA guidance, EU safety mandates) that create tailwinds for SaverOne's solutions. Watch for announcements from competitors or potential acquirers in the automotive-tech space—SaverOne is a potential acquisition target for a Tier-1 supplier or automotive OEM seeking to build out its ADAS and safety-technology portfolio.
 

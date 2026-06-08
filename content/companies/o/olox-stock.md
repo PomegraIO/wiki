@@ -41,7 +41,7 @@ Olenox now organizes its revenue and operations across three divisions:
 
 **Development and Environmental** is the least-proven segment. It includes two offerings: prefabricated green residential and commercial projects (buildings marketed with sustainability certifications and energy-efficient systems), and a patented waste-collection and waste-treatment solution targeted at medical and hazardous-waste operations. The latter is experimental—the company holds proprietary technology for waste sorting and safe disposal, but the path to scalable revenue remains uncertain.
 
-The strategic intention is clear: spread risk across construction, healthcare, and environmental sectors rather than depend entirely on residential housing cycles. The challenge is execution—each segment requires different customer relationships, different sales cycles, and different technical expertise, making the company a multi-business operator rather than a single, repeatable model.
+The strategic intention is clear: [spread risk](/spread-risk/) across construction, healthcare, and environmental sectors rather than depend entirely on residential housing cycles. The challenge is execution—each segment requires different customer relationships, different sales cycles, and different technical expertise, making the company a multi-business operator rather than a single, repeatable model.
 
 ## The prefabrication opportunity and the path to margins
 
@@ -55,7 +55,7 @@ The gross margins on modular construction are typically higher than site-built (
 
 The 2026 rebranding points to real internal and external pressures. The "Safe & Green" name had become limiting—it signaled a premium, environmentally conscious builder, but that positioning is costly to maintain and appeals to a narrower market than the construction industry at large. The rebranding as Olenox attempts to signal modernization, efficiency, and systems thinking rather than a specific material or philosophy.
 
-This reframing carries execution risk. The company must convince customers that its modular platform is not a niche but a standard option for faster, more reliable delivery. Customers in the construction industry are conservative about new vendors, especially when they involve unfamiliar supply chains and assembly logistics. Olenox must prove that its factories can scale, that its components integrate with existing trades, and that the total cost of ownership (including design, manufacture, transport, and assembly) is truly lower than traditional construction.
+This reframing carries [execution risk](/execution-risk/). The company must convince customers that its modular platform is not a niche but a standard option for faster, more reliable delivery. Customers in the construction industry are conservative about new vendors, especially when they involve unfamiliar supply chains and assembly logistics. Olenox must prove that its factories can scale, that its components integrate with existing trades, and that the total cost of ownership (including design, manufacture, transport, and assembly) is truly lower than traditional construction.
 
 Additionally, the medical and environmental segments are immature. Medical modular facilities are a promising category, but Olenox enters a market where larger construction firms and prefab specialists are also experimenting. The waste-management technology, while proprietary, requires regulatory approval and adoption by operators who have long relationships with incumbent waste handlers.
 

@@ -38,7 +38,7 @@ The fund rebalances periodically as the S&P 500 itself rebalances, when stocks a
 
 ## Market dynamics and investor flows
 
-The popularity of large-cap equities has waxed and waned with market cycles. In periods when growth stocks (many of which are large-cap) outperform value stocks (a mix of large and small caps), inflows to large-cap core funds accelerate. In cycles that favor small and mid-cap stocks or value strategies, investors may reduce large-cap exposure. ALRG's asset base and investor demand fluctuate accordingly.
+The popularity of large-cap equities has waxed and waned with [market cycles](/market-cycle/). In periods when growth stocks (many of which are large-cap) outperform value stocks (a mix of large and small caps), inflows to large-cap core funds accelerate. In cycles that favor small and mid-cap stocks or value strategies, investors may reduce large-cap exposure. ALRG's asset base and investor demand fluctuate accordingly.
 
 The expense ratio and competitive positioning have remained relatively stable, with Allspring defending its market share through operational efficiency and the firm's broader brand presence with institutional clients. The fund benefits from Allspring's distribution relationships and from advisors who value the firm's depth of research and alternatives offerings across asset classes.
 

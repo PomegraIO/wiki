@@ -29,7 +29,7 @@ Leverage Shares manages this drag mathematically — it is not hidden or unexpec
 
 ## The mechanics of leverage
 
-GLWG achieves 2x leverage through a combination of stock index futures on Corning (or similar derivatives) and total-return swaps that let the fund synthetically own more Corning exposure than it could buy outright. The manager borrows cash or uses margin to fund this oversized position, and the cost of that borrowing flows through to the fund's [expense ratio](/expense-ratio/) and performance.
+GLWG achieves 2x leverage through a combination of [stock index futures](/stock-index-futures/) on Corning (or similar derivatives) and total-return swaps that let the fund synthetically own more Corning exposure than it could buy outright. The manager borrows cash or uses margin to fund this oversized position, and the cost of that borrowing flows through to the fund's [expense ratio](/expense-ratio/) and performance.
 
 The fund does not hold Corning shares directly. Instead, it maintains a derivatives book that replicates the price exposure. This structure allows for efficient daily rebalancing (easier to adjust derivatives than to buy and sell actual shares constantly) and keeps the fund liquid and tradeable during exchange hours.
 
@@ -39,7 +39,7 @@ GLWG is designed for traders with a specific, short-term thesis: they believe Co
 
 Institutional traders sometimes use GLWG as a tactical hedge or directional bet during earnings announcements or other high-conviction catalysts where they expect a sharp single-day move. Retail traders often use it the same way, though retail investors are statistically poor at [market timing](/market-timing/) and are more likely to buy into rallies and hold through reversals — a recipe for loss in a leveraged instrument.
 
-The fund is actively hostile to buy-and-hold investing. Someone who believes Corning is a great business and wants to own it for five years should buy plain Corning stock (GLW) on a brokerage platform. Someone who thinks it will rise 2% next week might briefly use GLWG to amplify that bet; if the week ends flat, the amplification has cost them money.
+The fund is actively hostile to [buy-and-hold investing](/buy-and-hold/). Someone who believes Corning is a great business and wants to own it for five years should buy plain Corning stock (GLW) on a brokerage platform. Someone who thinks it will rise 2% next week might briefly use GLWG to amplify that bet; if the week ends flat, the amplification has cost them money.
 
 ## Costs and how to research
 

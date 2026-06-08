@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Spotify is a digital-audio platform headquartered in Stockholm but globally distributed, serving hundreds of millions of listeners who stream music and podcasts on demand. The company does not produce the music it plays; instead, it operates a technology platform that connects listeners to recorded audio and collects fees from both sides. This two-sided market creates an unusual economics: rights holders (record labels, music publishers, podcast producers) earn money when their content is played, listeners pay subscriptions for ad-free or premium access, and advertisers pay to reach engaged listeners. The company's profit depends on its ability to balance these three sometimes-conflicting interests while keeping the technology and user experience at the forefront.
+Spotify is a digital-audio platform headquartered in Stockholm but globally distributed, serving hundreds of millions of listeners who stream music and podcasts on demand. The company does not produce the music it plays; instead, it operates a technology platform that connects listeners to recorded audio and collects fees from both sides. This [two-sided market](/two-sided-market-finance/) creates an unusual economics: rights holders (record labels, music publishers, podcast producers) earn money when their content is played, listeners pay subscriptions for ad-free or premium access, and advertisers pay to reach engaged listeners. The company's profit depends on its ability to balance these three sometimes-conflicting interests while keeping the technology and user experience at the forefront.
 
 <aside class="wiki-infobox">
 <table>

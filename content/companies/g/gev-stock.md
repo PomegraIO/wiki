@@ -52,11 +52,11 @@ The installed base is a moat, but it comes with a liability. Many of Vernova's g
 
 ## Risks and Headwinds
 
-**Commodity and execution risk** loom in wind. Turbine pricing has fallen 50%+ in a decade as competition and scale-up brought costs down. Vernova must sell higher volumes at lower unit margins and drive down internal costs to compensate. Supply chain disruptions, rare-earth materials pricing, and transportation costs can squeeze profitability fast.
+**Commodity and [execution risk](/execution-risk/)** loom in wind. Turbine pricing has fallen 50%+ in a decade as competition and scale-up brought costs down. Vernova must sell higher volumes at lower unit margins and drive down internal costs to compensate. Supply chain disruptions, rare-earth materials pricing, and transportation costs can squeeze profitability fast.
 
 **Regulatory and energy-policy volatility** affect both segments. Tax credits for wind in the US have swung in and out. Nuclear policy varies by country; some are expanding capacity, others phase it out. Grid interconnection queues in the US are clogged, slowing renewable projects. Vernova's orders are sensitive to subsidy certainty and permitting pace.
 
-**Geographic concentration** in North America and Europe means exposure to developed-market growth rates. Emerging markets offer cheaper competition and lower margins. War in Europe and shifting US energy policy introduce political risk.
+**Geographic concentration** in North America and Europe means exposure to developed-market growth rates. Emerging markets offer cheaper competition and lower margins. War in Europe and shifting US energy policy introduce [political risk](/political-risk/).
 
 **Integration and separation overhead** are real. Spinning from GE means building independent finance, supply chain, and corporate functions. Share turnover by GE shareholders can pressure the stock in early years.
 
@@ -64,7 +64,7 @@ The installed base is a moat, but it comes with a liability. Many of Vernova's g
 
 The [10-K](/wiki/10-k/) is essential. Look for the mix of new equipment orders versus service revenue—the ratio signals whether installed base cash is offsetting slower growth in new capacity. Check backlog by segment and geography; a 24-month wind backlog signals confidence. Review [EBITDA](/wiki/ebitda-margin/) margins by segment; gas and power services run 25%+, wind lower at first.
 
-Earnings calls are critical for understanding utilization rates, warranty costs, and supply chain health. Watch gross margins quarter-to-quarter; they're a leading indicator of pricing power or cost pressure.
+Earnings calls are critical for understanding utilization rates, warranty costs, and supply chain health. Watch gross margins quarter-to-quarter; they're a [leading indicator](/leading-indicator/) of pricing power or cost pressure.
 
 Compare Vernova's wind turbine pricing and efficiency against peers; a megawatt-hour cost advantage is sustainability. Follow grid modernization budgets in key markets—US infrastructure spending, EU grid strengthening, Asia's interconnection plans. These drive electrification demand.
 

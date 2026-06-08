@@ -16,7 +16,7 @@ Nuveen Taxable Municipal [Income Fund](/income-fund/) (ticker: NBB on the [New Y
 
 Municipal bonds come in two broad flavors. [Tax-exempt bonds](/tax-exempt-bond/) can be held by individuals in taxable accounts and the interest is not subject to federal income tax—a significant advantage that lowers yields. Taxable municipal bonds pay fully taxable interest but are issued for specific purposes (like facilities to support private businesses or refundings of older debt) where the tax exemption is not available. They therefore offer higher yields to compensate.
 
-NBB invests primarily in taxable municipal bonds and related instruments, as well as some bonds issued by healthcare systems, universities, and other municipal-like issuers. The fund's portfolio may include Build America Bonds (issued under stimulus programs), taxable school bonds, and taxable water authority bonds. Because these bonds yield more than their tax-exempt peers, they appeal to investors in tax-deferred accounts who do not benefit from the tax exemption and want higher income.
+NBB invests primarily in taxable municipal bonds and related instruments, as well as some bonds issued by healthcare systems, universities, and other municipal-like issuers. The fund's portfolio may include [Build America Bonds](/build-america-bonds/) (issued under stimulus programs), taxable school bonds, and taxable water authority bonds. Because these bonds yield more than their tax-exempt peers, they appeal to investors in tax-deferred accounts who do not benefit from the tax exemption and want higher income.
 
 ## The diversification across geographies and issuers
 

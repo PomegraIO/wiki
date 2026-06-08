@@ -30,7 +30,7 @@ The office-equipment segment — multifunction copiers and printers — has hist
 
 As a Japanese company with manufacturing in Japan, Singapore, Vietnam, the United States, and elsewhere, Canon faces complex currency translation and transaction risks. The 20-F must disclose where Canon manufactures, where it sells, and how changes in exchange rates (especially the yen versus the dollar and euro) affect its reported results. If Canon manufactures in Japan and sells in the United States, a strong yen shrinks dollar-denominated revenues when translated back to yen.
 
-Canon's consolidated results on the 20-F reflect these currency headwinds or tailwinds. The company's risk disclosures detail what percentage of revenue comes from each major region and currency, giving readers a framework for understanding how a 5% or 10% shift in the yen-dollar rate would impact profitability. The footnotes on derivative financial instruments show whether Canon hedges these exposures or bears them naked.
+Canon's consolidated results on the 20-F reflect these currency headwinds or tailwinds. The company's risk disclosures detail what percentage of revenue comes from each major region and currency, giving readers a framework for understanding how a 5% or 10% shift in the yen-dollar rate would impact profitability. The footnotes on [derivative financial instruments](/derivative-financial-instrument-asset/) show whether Canon hedges these exposures or bears them naked.
 
 ## Supply Chain and Manufacturing Footprint
 

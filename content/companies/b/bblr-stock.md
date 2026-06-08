@@ -4,7 +4,7 @@ description: "BBLR is a software and services platform that enables on-demand lo
 keywords: ["BBLR", "logistics", "supply chain", "software platform", "SMB", "fulfillment"]
 ---
 
-*In an era when supply-chain transparency has become a competitive necessity rather than a luxury, **Bubblr Inc. (BBLR)** competes in the vast, fragmented market for logistics coordination software. While enterprise platforms like Flexport and Shippo command venture capital and global reach, Bubblr targets a specific economic segment: small to mid-market businesses that lack the infrastructure to manage multi-carrier shipments, last-mile delivery, and real-time package tracking at scale. The company bridges the gap between spreadsheet-based fulfillment and expensive enterprise systems, operating at the margin where volume and automation begin to pay.*
+*In an era when supply-chain transparency has become a competitive necessity rather than a luxury, **Bubblr Inc. (BBLR)** competes in the vast, [fragmented market](/fragmented-market/) for logistics coordination software. While enterprise platforms like Flexport and Shippo command venture capital and global reach, Bubblr targets a specific economic segment: small to mid-market businesses that lack the infrastructure to manage multi-carrier shipments, last-mile delivery, and real-time package tracking at scale. The company bridges the gap between spreadsheet-based fulfillment and expensive enterprise systems, operating at the margin where volume and automation begin to pay.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BBLR</td></tr>

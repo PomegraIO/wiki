@@ -13,7 +13,7 @@ handwritten: true
 
 ## The premise
 
-AUGW is built for the investor who has already lived through a crash. It tracks the Russell 1000 — the thousand largest U.S. companies — and caps annual losses at 20%. This is the deepest protection among the standard buffer funds. It costs that depth: the upside cap is tighter, and the fees are higher. But the protection is real.
+AUGW is built for the investor who has already lived through a crash. It tracks the Russell 1000 — the thousand largest U.S. companies — and caps annual losses at 20%. This is the deepest protection among the standard [buffer funds](/buffer-fund/). It costs that depth: the upside cap is tighter, and the fees are higher. But the protection is real.
 
 ## Russell 1000 base
 
@@ -23,7 +23,7 @@ The underlying index is broad. Two thousand-plus companies in the Russell 1000, 
 
 In 2008, the Russell 1000 fell 41% from peak to trough. AUGW would have capped that at 20%. In 2000–2002, the decline was 46%. AUGW caps it at 20%. That difference — avoiding a 40% loss and landing on 20% instead — means the difference between losing your house and staying in your house, for some people.
 
-The cost is real. When markets rise 35%, AUGW might rise 18% or 22%, depending on the annual reset and current volatility. You give up more upside than a 10% or 15% buffer fund. Over a full market cycle (bull, crash, recovery), the deeper buffer costs more in opportunity cost than the shallower ones.
+The cost is real. When markets rise 35%, AUGW might rise 18% or 22%, depending on the annual reset and current volatility. You give up more upside than a 10% or 15% buffer fund. Over a full [market cycle](/market-cycle/) (bull, crash, recovery), the deeper buffer costs more in opportunity cost than the shallower ones.
 
 ## The mechanics
 

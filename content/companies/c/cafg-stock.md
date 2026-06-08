@@ -22,7 +22,7 @@ CAFG begins with the Morningstar US Small Cap Index, which represents the smalle
 
 The result is a subset of thirty to forty small-cap names — a much tighter basket than the broad small-cap index. These are not venture-stage startups or unprofitable growth stories; they are modest-sized operating companies that have already proven they can make money and are still expanding. They tend to be mature enough to withstand economic cycles but young or energetic enough to still grow.
 
-The style is sometimes called growth at a reasonable price or GARP — balancing the momentum of growth stocks with the valuation discipline of value screening. Small-cap companies with this combination are naturally less fashionable than mega-cap growth names and less defended than classic [dividend](/dividend/) plays, so they often trade at prices that reward patience.
+The style is sometimes called [growth at a reasonable price](/growth-at-reasonable-price-garp/) or GARP — balancing the momentum of growth stocks with the valuation discipline of value screening. Small-cap companies with this combination are naturally less fashionable than mega-cap growth names and less defended than classic [dividend](/dividend/) plays, so they often trade at prices that reward patience.
 
 ## The small-cap advantage and its real risks
 
@@ -42,4 +42,4 @@ The Morningstar-ruled selection is transparent and mechanical — published befo
 
 CAFG is well suited to investors who believe small-cap stocks will outperform over time, who want growth exposure but are uncomfortable with the downside of unprofitable companies, and who can tolerate moderate volatility over a multi-year horizon. It works as a satellite holding — perhaps five to fifteen percent of an equity portfolio — rather than a core position. It is less appropriate for investors seeking current income, as the companies it selects tend to reinvest cash rather than pay dividends.
 
-Investors can track the fund's factsheet on the Pacer website or through major financial platforms, which show the top holdings, the expense ratio, and the fund's performance relative to the broad small-cap index. The holdings list reveals the actual companies selected and their relative weights. Performance data over multiple market cycles will show whether the cash-flow screen delivers the smoother ride it is designed for.
+Investors can track the fund's factsheet on the Pacer website or through major financial platforms, which show the top holdings, the expense ratio, and the fund's performance relative to the broad small-cap index. The holdings list reveals the actual companies selected and their relative weights. Performance data over multiple [market cycles](/market-cycle/) will show whether the cash-flow screen delivers the smoother ride it is designed for.

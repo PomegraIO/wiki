@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Most equity investors choose a market-cap lane and stay: large caps for stability, small caps for growth, or some mix. BDYN does not. BlackRock's dynamic fund rotates among large, mid, and small caps based on where the manager sees the most attractive risk-adjusted opportunity at each stage of the market cycle.
+Most equity investors choose a market-cap lane and stay: large caps for stability, small caps for growth, or some mix. BDYN does not. BlackRock's dynamic fund rotates among large, mid, and small caps based on where the manager sees the most attractive risk-adjusted opportunity at each stage of the [market cycle](/market-cycle/).
 
 ## The rotation thesis
 

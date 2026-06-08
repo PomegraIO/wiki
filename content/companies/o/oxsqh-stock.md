@@ -52,7 +52,7 @@ The portfolio's composition changes over time as new loans are originated, exist
 
 The economics of middle-market lending are heavily influenced by interest rates and credit market conditions. In low-rate environments, borrowing costs decline, competition for deals increases, and lenders must make larger loans or accept lower spreads to maintain yield. In high-rate environments, borrowing costs rise, borrowers face pressure, but lenders can capture wider spreads on new originations. The existing portfolio's value is sensitive to changes in interest rates as well — when rates rise, the value of fixed-rate loans in the portfolio may decline because investors require higher yields to compensate for the opportunity cost.
 
-Credit cycles also affect the business. In economic expansions, companies refinance smoothly, defaults are low, and new opportunities emerge. In downturns, companies struggle with leverage, defaults rise, and recoveries in bankruptcy become critical to returns. Oxford Square's performance over any multi-year period reflects both the starting interest rate environment and the credit cycle through which it lived.
+[Credit cycles](/credit-cycle/) also affect the business. In economic expansions, companies refinance smoothly, defaults are low, and new opportunities emerge. In downturns, companies struggle with leverage, defaults rise, and recoveries in bankruptcy become critical to returns. Oxford Square's performance over any multi-year period reflects both the starting interest rate environment and the credit cycle through which it lived.
 
 ## How to research Oxford Square Capital
 

@@ -16,7 +16,7 @@ This fund exists to give traders a tighter way to bet on Sui without borrowing c
 
 ## What Sui is and why someone might want exposure to it
 
-Sui is a blockchain designed for speed and low transaction costs, built by former engineers at Meta (Facebook's parent company). It operates on a different architecture than [Ethereum](/ethereum/), meant to process smart contracts and transactions far faster and cheaper than older chains. Whether Sui succeeds as a mainstream blockchain remains unsettled — adoption is real but speculative, and the token's price swings reflect that uncertainty. Some traders are confident Sui will win a larger share of blockchain activity; others see it as one of many competing platforms. TXXS exists for the first group, at least in the short run.
+Sui is a blockchain designed for speed and low transaction costs, built by former engineers at Meta (Facebook's parent company). It operates on a different architecture than [Ethereum](/ethereum/), meant to process [smart contracts](/smart-contract/) and transactions far faster and cheaper than older chains. Whether Sui succeeds as a mainstream blockchain remains unsettled — adoption is real but speculative, and the token's price swings reflect that uncertainty. Some traders are confident Sui will win a larger share of blockchain activity; others see it as one of many competing platforms. TXXS exists for the first group, at least in the short run.
 
 ## How daily leverage and reset work — and why it matters for holding periods
 
@@ -28,7 +28,7 @@ This is called **volatility decay**, and it gets worse the longer the [holding p
 
 ## Structure and who sponsors it
 
-21Shares is an issuer of crypto-focused ETFs and ETNs. The fund is structured as an ETF, meaning shares trade on a US exchange (in this case, the NYSE Arca) and the fund holds its own account of SUI tokens with a [custodian](/custodian/). Daily rebalancing is handled mechanically by the fund sponsor.
+21Shares is an issuer of crypto-focused ETFs and ETNs. The fund is structured as an ETF, meaning shares trade on a US exchange (in this case, the [NYSE Arca](/nyse-arca/)) and the fund holds its own account of SUI tokens with a [custodian](/custodian/). Daily rebalancing is handled mechanically by the fund sponsor.
 
 ## Costs
 

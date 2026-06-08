@@ -41,7 +41,7 @@ However, leverage is a two-edged tool. In a credit crunch, Golub Capital may fin
 
 ## Fee Structure and Incentives
 
-Golub Capital's sponsor (Golub Capital, the private wealth management firm) collects an investment advisory fee—typically 1 percent of assets—and a performance-based incentive fee equal to a percentage of gains above a hurdle rate. These fees are taken from the fund's income and reduce shareholder distributions. The [performance fee](/performance-fee/) aligns the sponsor with the shareholders' return but also creates an incentive to take on more leverage or more risk to generate higher asset values and larger incentive payouts.
+Golub Capital's sponsor (Golub Capital, the private wealth management firm) collects an investment advisory fee—typically 1 percent of assets—and a performance-based incentive fee equal to a percentage of gains above a [hurdle rate](/hurdle-rate/). These fees are taken from the fund's income and reduce shareholder distributions. The [performance fee](/performance-fee/) aligns the sponsor with the shareholders' return but also creates an incentive to take on more leverage or more risk to generate higher asset values and larger incentive payouts.
 
 ## Duration Risk and Endpoint Economics
 

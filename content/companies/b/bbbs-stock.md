@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*BondBloxx BBB Rated 1-5 Year [Corporate Bond](/corporate-bond/) ETF (ticker BBBS) is a short-duration [fixed-income ETF](/fixed-income-etf/) holding BBB-rated corporate [bonds](/bond/) due within one to five years. It captures the steeper part of the [yield curve](/yield-curve/) — where maturities are still long enough to offer meaningful yield pickup but short enough that interest-rate moves inflict less damage.*
+*BondBloxx BBB Rated 1-5 Year [Corporate Bond](/corporate-bond/) ETF (ticker BBBS) is a short-duration [fixed-income ETF](/fixed-income-etf/) holding BBB-rated corporate [bonds](/bond/) due within one to five years. It captures the steeper part of the [yield curve](/yield-curve/) — where maturities are still long enough to offer meaningful [yield pickup](/yield-pickup/) but short enough that interest-rate moves inflict less damage.*
 
 <aside class="wiki-infobox">
 <table>

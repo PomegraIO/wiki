@@ -55,7 +55,7 @@ Innventure itself is not profitable. The company takes a [management fee](/manag
 
 ## The investor case
 
-For equity investors in Innventure, the bet is that the management team can build three or more technology-first companies, each solving a real market problem, to the point of acquisition or scale. That is hard. Most venture bets fail. Innventure's leverage is that it starts with proven technology and corporate partnerships, not pure speculation. But execution risk remains high, and the path to liquidity is long — most portfolio companies are five to ten years away from a meaningful exit, if they get there at all.
+For equity investors in Innventure, the bet is that the management team can build three or more technology-first companies, each solving a real market problem, to the point of acquisition or scale. That is hard. Most venture bets fail. Innventure's leverage is that it starts with proven technology and corporate partnerships, not pure speculation. But [execution risk](/execution-risk/) remains high, and the path to liquidity is long — most portfolio companies are five to ten years away from a meaningful exit, if they get there at all.
 
 The warrant holders (INVLW) are betting that Innventure's shares will appreciate significantly, enough to make the warrants valuable. That is a longer-duration, more leveraged bet on the same underlying companies. It is suitable for high-risk investors with patience.
 

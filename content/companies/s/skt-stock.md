@@ -36,7 +36,7 @@ The outlet format matters because it attracts a particular customer: people hunt
 
 ## How does Tanger actually make money?
 
-Tanger's revenue comes almost entirely from rent paid by the retailers who occupy the shopping centers. That rent is usually structured as a base lease payment plus a percentage of the tenant's sales above a certain threshold (called percentage rent or overage rent). So Tanger is not just a passive landlord collecting a fixed fee; it has some upside when tenants do well — a tenant that generates strong sales pays more rent, which is good for Tanger. Conversely, when a retailer struggles, it may request rent concessions or default, which hurts Tanger's income.
+Tanger's revenue comes almost entirely from rent paid by the retailers who occupy the shopping centers. That rent is usually structured as a base lease payment plus a percentage of the tenant's sales above a certain threshold (called [percentage rent](/percentage-rent/) or overage rent). So Tanger is not just a passive landlord collecting a fixed fee; it has some upside when tenants do well — a tenant that generates strong sales pays more rent, which is good for Tanger. Conversely, when a retailer struggles, it may request rent concessions or default, which hurts Tanger's income.
 
 The company also collects from tenants common-area maintenance fees (property taxes, insurance, landscaping, parking lot upkeep) and other ancillary charges. These cover the costs of operating the property but are largely passed through to tenants, so they are not a source of profit in the way the base and percentage rent are.
 
@@ -58,7 +58,7 @@ Tanger's [balance sheet](/balance-sheet/) has faced cycles of stress and recover
 
 ## How to research Tanger
 
-Tanger's annual 10-K filing (SEC CIK 0000899715) breaks down revenue by property and by tenant, showing which centers are strongest and which are struggling. Watch the funds from operations (FFO) metric, which is the cash available to pay dividends after capital expenditures — it is more relevant for REITs than traditional net income. The occupancy rate and the blended average rent (rent per occupied square foot) tell you whether Tanger is gaining or losing pricing power and space utilization.
+Tanger's annual 10-K filing (SEC CIK 0000899715) breaks down revenue by property and by tenant, showing which centers are strongest and which are struggling. Watch the [funds from operations](/funds-from-operations/) (FFO) metric, which is the cash available to pay dividends after capital expenditures — it is more relevant for REITs than traditional net income. The occupancy rate and the blended average rent (rent per occupied square foot) tell you whether Tanger is gaining or losing pricing power and space utilization.
 
 The health of the dividend is worth monitoring: if FFO falls and Tanger must cut the dividend, the equity will likely fall sharply because the primary appeal of a REIT is income. Also watch the debt maturity schedule and the company's [credit rating](/credit-rating/); a downgrade or a spike in refinancing costs can force difficult choices between maintaining dividends and deleveraging.
 

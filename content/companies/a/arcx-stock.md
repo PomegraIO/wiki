@@ -17,7 +17,7 @@ ARCX is a leveraged fund, which means it uses borrowed money to amplify returns.
 
 Leverage is simple on the surface. If you have a thousand dollars and borrow another thousand, you have two thousand to invest. If your investments go up ten percent, you gain two hundred dollars instead of a hundred — your two-thousand portfolio rises to twenty-two hundred, a ten-percent jump on your original one-thousand stake. That is a two-times multiplier, or 2X leverage.
 
-ARCX borrows money from banks every single day to buy twice as much index exposure as the fund's actual assets would allow. The fund then sells shares to investors and uses that capital to pay back the loan. The borrowed money costs something — an [interest rate](/interest-rate/) — which comes out of returns. So on any given day, ARCX holds twice the notional value of the index, trying to capture twice the daily move.
+ARCX borrows money from banks every single day to buy twice as much index exposure as the fund's actual assets would allow. The fund then sells shares to investors and uses that capital to pay back the loan. The borrowed money costs something — an [interest rate](/interest-rate/) — which comes out of returns. So on any given day, ARCX holds twice the [notional value](/notional-value/) of the index, trying to capture twice the daily move.
 
 ## The daily reset problem and volatility decay
 

@@ -27,7 +27,7 @@ The warrant ticker LCFYW represents long-duration optionality: warrant holders g
 
 ## The shift toward AI-driven products
 
-Locafy launched a suite of AI-powered SEO products in its 2026 fiscal year, reflecting an industry-wide trend toward machine learning in search and marketing. The company's platform now automates listing syndication, business listing optimization, and answer-engine optimization — marketing tailored for how AI systems crawl and rank content. This product evolution matters to investors because it signals management's view of where the market is heading. Traditional SEO was static and rules-based; AI-driven SEO is adaptive and data-intensive. A company that does not evolve its product toward these newer techniques risks obsolescence.
+Locafy launched a suite of AI-powered SEO products in its 2026 [fiscal year](/fiscal-year-definition/), reflecting an industry-wide trend toward machine learning in search and marketing. The company's platform now automates listing syndication, business listing optimization, and answer-engine optimization — marketing tailored for how AI systems crawl and rank content. This product evolution matters to investors because it signals management's view of where the market is heading. Traditional SEO was static and rules-based; AI-driven SEO is adaptive and data-intensive. A company that does not evolve its product toward these newer techniques risks obsolescence.
 
 ## The installed base and unit economics
 

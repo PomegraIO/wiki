@@ -70,7 +70,7 @@ Regulatory changes, particularly in flavoring compounds and food safety, can req
 
 Start with IFF's annual [10-K](/wiki/10-k/) filing, which details segment revenue, gross margins by business, customer concentration (identifying major customers), and supply chain risks. Watch for management commentary on raw material [inflation](/inflation/), pricing power, and customer destocking or acceleration trends.
 
-Investors often track IFF's earnings, with focus on gross margin pressure (a leading indicator of raw material cost stress), segment growth rates (Nourish is growing faster than Scent or Taste), and free [cash flow conversion](/cash-flow-conversion/). The company's ability to pass through raw material costs to customers is a key metric; in inflationary periods, IFF and peers face margin compression if customers resist price increases.
+Investors often track IFF's earnings, with focus on gross margin pressure (a [leading indicator](/leading-indicator/) of raw material cost stress), segment growth rates (Nourish is growing faster than Scent or Taste), and free [cash flow conversion](/cash-flow-conversion/). The company's ability to pass through raw material costs to customers is a key metric; in inflationary periods, IFF and peers face margin compression if customers resist price increases.
 
 For forward outlook, monitor quarterly earnings calls for commentary on new product wins (IFF competes heavily on innovation), customer inventory levels, and demand signals from major food and beverage companies. IFF is a supplier's supplier: if food and beverage makers are pulling inventory, or if consumer demand for premium fragrances is cooling, IFF typically sees it within 6–12 months.
 

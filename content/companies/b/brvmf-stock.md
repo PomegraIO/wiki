@@ -17,7 +17,7 @@ keywords: mining, minerals, exploration, junior miner, commodities, permitting, 
 
 ## The Exploration-to-Production Timeline and Capital Risk
 
-A junior miner's path from mineral resource identification to first ore is typically 7–12 years, involving exploration drilling, resource estimation, environmental assessment, permitting, and then construction. Over this span, the company must raise capital multiple times — each funding round potentially dilutive, each market cycle a threat to financing availability. Bravo must shepherd its property through this gauntlet: proving the deposit is real (drilling), that it is economic (feasibility study), that it is legal to develop (environmental and permitting), and that capital is available at acceptable terms. Any stumble — exploration results that disappoint, permitting delays, a commodities bear market — cascades into financing stress and shareholder dilution. The longer the timeline, the more equity holders are diluted and the higher the bar for final returns.
+A junior miner's path from mineral resource identification to first ore is typically 7–12 years, involving exploration drilling, resource estimation, environmental assessment, permitting, and then construction. Over this span, the company must raise capital multiple times — each funding round potentially dilutive, each [market cycle](/market-cycle/) a threat to financing availability. Bravo must shepherd its property through this gauntlet: proving the deposit is real (drilling), that it is economic (feasibility study), that it is legal to develop (environmental and permitting), and that capital is available at acceptable terms. Any stumble — exploration results that disappoint, permitting delays, a commodities bear market — cascades into financing stress and shareholder dilution. The longer the timeline, the more equity holders are diluted and the higher the bar for final returns.
 
 ## Commodity Price Dependency and Economic Unraveling
 
@@ -29,7 +29,7 @@ Mining requires permits from environmental agencies, indigenous-land consultatio
 
 ## Geological and Metallurgical Uncertainty
 
-Exploration data is probabilistic, not deterministic. Bravo's estimates of deposit size, ore grade, and extractability are based on drilled samples and modeling; actual geology can differ. A deposit may be larger than estimated (good surprise) or spotty and lower-grade than data suggested (bad surprise). Moreover, how to extract and process the ore efficiently is often unknown until a detailed engineering study. Some ores require complex hydrometallurgical or pyrometallurgical processes that are capital-intensive and have execution risk. If Bravo's metallurgy turns out to be trickier than anticipated, costs spike and project returns erode sharply.
+Exploration data is probabilistic, not deterministic. Bravo's estimates of deposit size, ore grade, and extractability are based on drilled samples and modeling; actual geology can differ. A deposit may be larger than estimated (good surprise) or spotty and lower-grade than data suggested (bad surprise). Moreover, how to extract and process the ore efficiently is often unknown until a detailed engineering study. Some ores require complex hydrometallurgical or pyrometallurgical processes that are capital-intensive and have [execution risk](/execution-risk/). If Bravo's metallurgy turns out to be trickier than anticipated, costs spike and project returns erode sharply.
 
 ## Financing Cycles and Dilution Cascade
 

@@ -65,6 +65,6 @@ Fourth, earnings are cyclical and tied to financial activity. During [recessions
 
 The company files a detailed [10-K](/wiki/10-k/) annually. Watch for disclosure on customer concentration (a handful of megabanks dominate revenue), mix of recurring vs. transaction revenue, debt levels, and progress on cloud migration. Analyst reports focus on whether FIS is winning deals with large banks and whether it is successfully modernizing its technology stack faster than the competition.
 
-Key metrics to track: recurring revenue as a percentage of total (higher is better and stickier); revenue per employee (a proxy for productivity); and customer concentration (lower is safer). Pay attention to news about major banking clients switching platforms or signing long-term contracts—these often signal strategic shifts.
+Key metrics to track: recurring revenue as a percentage of total (higher is better and stickier); [revenue per employee](/revenue-per-employee/) (a proxy for productivity); and customer concentration (lower is safer). Pay attention to news about major banking clients switching platforms or signing long-term contracts—these often signal strategic shifts.
 
 The capital markets segment is sensitive to trading volumes and M&A activity; the banking segment is more stable but faces long-term headwinds from consolidation and declining banking revenues in developed markets. Wealth Solutions is growing faster but from a smaller base and faces intense competition from fintech wealth platforms.

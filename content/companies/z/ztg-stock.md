@@ -22,7 +22,7 @@ Zenta Group's three divisions operate somewhat independently:
 
 **Business Investment Consulting** covers [merger](/merger/) and [acquisition](/acquisition/) advisory and administrative services for clients seeking to acquire assets or enter new markets. This segment is more cyclical and event-driven than the stable industrial park work.
 
-**Fintech and Blockchain Services** is Zenta's growth narrative—a relatively new offering built on proprietary algorithms, big data modeling, and blockchain infrastructure. The company licenses these tools and services to financial institutions and businesses needing [distributed ledger](/distributed-ledger/) solutions. This segment attracted the attention of early investors who saw Macau as a potential fintech hub, though execution risk remains high in a nascent market.
+**Fintech and Blockchain Services** is Zenta's growth narrative—a relatively new offering built on proprietary algorithms, big data modeling, and blockchain infrastructure. The company licenses these tools and services to financial institutions and businesses needing [distributed ledger](/distributed-ledger/) solutions. This segment attracted the attention of early investors who saw Macau as a potential fintech hub, though [execution risk](/execution-risk/) remains high in a nascent market.
 
 | Business Segment | Focus | Revenue Character |
 |---|---|---|

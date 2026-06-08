@@ -40,7 +40,7 @@ The portfolio spans multiple states with significant concentration in the Northe
 
 ## The Revenue Engine
 
-Urban Edge generates revenue primarily through rent collection—both base rent from tenants and, importantly, percentage rent tied to tenant sales performance. This structure aligns UE's fortunes with tenant success. The company also derives income from property management services provided to properties it operates but may not fully own, from occasional development projects, and from maintaining elevated occupancy rates in a competitive retail landscape.
+Urban Edge generates revenue primarily through rent collection—both base rent from tenants and, importantly, [percentage rent](/percentage-rent/) tied to tenant sales performance. This structure aligns UE's fortunes with tenant success. The company also derives income from property management services provided to properties it operates but may not fully own, from occasional development projects, and from maintaining elevated occupancy rates in a competitive retail landscape.
 
 Anchor tenants—large retailers and grocers that drive traffic—provide stability, though UE has limited leverage with major chains. Smaller shop tenants pay higher percentage rents relative to their lease obligations, and these secondary and tertiary space retailers are more sensitive to the economic cycle and neighborhood health. Revenue thus depends on maintaining high occupancy, careful tenant curation, and ongoing property maintenance to keep centers attractive to both retailers and shoppers.
 
@@ -56,7 +56,7 @@ The regulatory environment for real estate development, zoning changes, and loca
 
 As a REIT, Urban Edge is required by tax law to distribute at least 90 percent of taxable income as [dividends](/dividend/). This structure appeals to income-focused investors but constrains the capital available for debt reduction or aggressive repositioning. The company funds growth and redevelopment primarily through [debt financing](/debt-financing/) or selective asset sales, which means profitability and balance-sheet strength are central to investor confidence.
 
-The metric investors watch closely is Funds From Operations (FFO)—a common real estate measure that captures operating cash flow while adjusting for [depreciation](/depreciation/). When FFO rises and the dividend holds or grows, shareholders benefit from both the distribution and potential share price appreciation. When FFO stagnates or contracts, the dividend becomes harder to justify, and the stock often suffers.
+The metric investors watch closely is [Funds From Operations](/funds-from-operations/) (FFO)—a common real estate measure that captures operating cash flow while adjusting for [depreciation](/depreciation/). When FFO rises and the dividend holds or grows, shareholders benefit from both the distribution and potential share price appreciation. When FFO stagnates or contracts, the dividend becomes harder to justify, and the stock often suffers.
 
 ## Research Points
 

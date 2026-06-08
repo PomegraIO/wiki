@@ -46,7 +46,7 @@ Manufacturing and supply-chain excellence matter more for specialty drugs than f
 
 The largest risk is clinical and commercial failure of key products. A failed late-stage trial or an unexpected safety signal can destroy value in a specialty pharma company in months. Pricing pressure from insurers, hospital group purchasing organizations, and government payers (Medicare, Medicaid, Veterans Affairs) is constant and structural — payers are always seeking to lower drug costs, and Scilex's smaller size gives it less leverage in negotiations than a megacap would have. Generic and biosimilar competition, when it arrives for key products, can reduce prices overnight.
 
-Regulatory risk is also substantial. A change in pain-management guidelines, increased scrutiny of injection-based therapies, or shifts in how payers cover pain management can ripple through Scilex's revenue. The company's dependence on partnerships and licensing also introduces execution risk — a partner might deprioritize a Scilex-licensed drug, or a licensing agreement might expire, leaving the company to either renegotiate on worse terms or lose the revenue stream entirely.
+Regulatory risk is also substantial. A change in pain-management guidelines, increased scrutiny of injection-based therapies, or shifts in how payers cover pain management can ripple through Scilex's revenue. The company's dependence on partnerships and licensing also introduces [execution risk](/execution-risk/) — a partner might deprioritize a Scilex-licensed drug, or a licensing agreement might expire, leaving the company to either renegotiate on worse terms or lose the revenue stream entirely.
 
 ## How to research Scilex
 

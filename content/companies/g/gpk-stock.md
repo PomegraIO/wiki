@@ -32,7 +32,7 @@ This differentiation commands a modest price premium and creates switching costs
 
 ## Raw-Material Cost Exposure and Margin Volatility
 
-Graphic Packaging's primary cost driver is the price of containerboard feedstock. Unlike vertically integrated competitors that grow trees or operate their own pulp mills, Graphic Packaging buys most of its raw materials from suppliers. This exposure means the company's margins fluctuate with input costs.
+Graphic Packaging's primary [cost driver](/cost-driver/) is the price of containerboard feedstock. Unlike vertically integrated competitors that grow trees or operate their own pulp mills, Graphic Packaging buys most of its raw materials from suppliers. This exposure means the company's margins fluctuate with input costs.
 
 When containerboard prices rise faster than Graphic Packaging can raise prices to customers, margins compress. Conversely, when raw-material costs fall and the company can pass some benefit through to customers or retain the advantage temporarily, margins expand. This dynamic has generated persistent volatility in earnings. The company historically operated with lower returns during periods of elevated raw-material costs, limiting its capacity to invest in new equipment or return capital to shareholders.
 

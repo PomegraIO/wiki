@@ -24,7 +24,7 @@ The trust charges a [management fee](/management-fee/)—typically around one pe
 
 ## Why own shares instead of the asset directly?
 
-Holding cryptocurrency directly requires technical competence: choosing a wallet provider, managing recovery phrases and private keys, understanding the distinction between hot wallets (connected to the internet, convenient but riskier) and cold storage (offline, secure but inconvenient). For many investors—especially those with large portfolios managed by institutions—the friction is too high and the security risk too acute. A trust offers an intermediary that absolves the shareholder of custody burden: Grayscale handles the security, insurance, and infrastructure.
+Holding cryptocurrency directly requires technical competence: choosing a wallet provider, managing recovery phrases and private keys, understanding the distinction between hot wallets (connected to the internet, convenient but riskier) and [cold storage](/cold-storage-crypto/) (offline, secure but inconvenient). For many investors—especially those with large portfolios managed by institutions—the friction is too high and the security risk too acute. A trust offers an intermediary that absolves the shareholder of custody burden: Grayscale handles the security, insurance, and infrastructure.
 
 Furthermore, many institutional investors (pensions, trusts, endowments) are constrained by policy or fiduciary rules: they cannot hold cryptocurrency directly, but they can hold shares in a regulated trust. ETCG opens a door that is closed to direct ownership. This is not trivial: it explains some of the historical trading premium that ETCG shares have commanded relative to their NAV.
 

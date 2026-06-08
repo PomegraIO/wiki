@@ -24,7 +24,7 @@ handwritten: true
 
 </aside>
 
-Bitwise 10 Crypto Index ETF (NYSE Arca: BITW) gives investors exposure to the cryptocurrency market's largest assets without requiring a crypto exchange account, a wallet, or the operational complexity of self-custody. The fund holds physical cryptocurrencies — [Bitcoin](/bitcoin/), [Ethereum](/ethereum/), and eight others — and the shares trade on a traditional [stock exchange](/stock-exchange/). For someone with a brokerage account but no experience with crypto platforms, BITW simplifies entry.
+Bitwise 10 Crypto Index ETF ([NYSE Arca](/nyse-arca/): BITW) gives investors exposure to the cryptocurrency market's largest assets without requiring a crypto exchange account, a wallet, or the operational complexity of self-custody. The fund holds physical cryptocurrencies — [Bitcoin](/bitcoin/), [Ethereum](/ethereum/), and eight others — and the shares trade on a traditional [stock exchange](/stock-exchange/). For someone with a brokerage account but no experience with crypto platforms, BITW simplifies entry.
 
 ## How it works
 

@@ -41,7 +41,7 @@ The second is **Aerospace Systems**, which makes parts, controls, and safety sys
 
 The third is **Performance Materials and Technologies**, which makes chemicals, catalysts, and specialized materials used by refineries, chemical plants, and energy companies. This is the most cyclical division; it rises when oil prices are high and energy companies are spending, and it falls during downturns. The margins are high, but earnings are volatile.
 
-The fourth, and newest as a focused unit, is **Safety and Productivity Solutions**, which includes sensors, software, and equipment for industrial safety, gas detection, and workplace productivity. This is a fragmented market where Honeywell has built scale through [acquisitions](/acquisition/).
+The fourth, and newest as a focused unit, is **Safety and Productivity Solutions**, which includes sensors, software, and equipment for industrial safety, gas detection, and workplace productivity. This is a [fragmented market](/fragmented-market/) where Honeywell has built scale through [acquisitions](/acquisition/).
 
 ## How Honeywell makes money
 

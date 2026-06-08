@@ -19,7 +19,7 @@ keywords: ["community bank", "retail banking", "commercial lending", "local bank
 
 CPKF's competitive arena begins with deposits. Community banks fund their lending operations primarily through customer deposits—checking accounts, savings accounts, money market deposits, and CDs. The bank pays depositors interest (set by market competition) and uses the gap between deposit costs and loan yields to cover operating expenses and build profit.
 
-This "spread" model faces constant pressure. When [Federal Reserve](/federal-reserve/) [interest rates](/interest-rate/) rise, depositors demand higher rates on savings and money market accounts; CPKF must match or exceed competitor rates or lose deposits to larger banks (Chase, [Bank of America](/bank-of-america/)) or to online-only banks offering higher yields. When rates fall, depositors are "stuck" with lower returns, but the bank cannot easily reduce deposit rates below zero—depositors will simply move money to competitors.
+This "spread" model faces constant pressure. When [Federal Reserve](/federal-reserve/) [interest rates](/interest-rate/) rise, depositors demand higher rates on savings and [money market accounts](/money-market-account/); CPKF must match or exceed competitor rates or lose deposits to larger banks (Chase, [Bank of America](/bank-of-america/)) or to online-only banks offering higher yields. When rates fall, depositors are "stuck" with lower returns, but the bank cannot easily reduce deposit rates below zero—depositors will simply move money to competitors.
 
 CPKF's competitive position on deposits is determined by its ability to offer rates close enough to market to retain existing customers while avoiding rate wars that compress margins. Larger banks have lower cost of funds (depositors view them as safer) and can thus offer higher rates while maintaining better spreads. CPKF must compete on service, convenience, and relationship—a banker who knows a local business owner and can offer flexible terms might retain a deposit relationship even if rate-sensitive depositors are lost.
 
@@ -35,7 +35,7 @@ Community banks generally carry higher loan-loss rates than large national banks
 
 CPKF must operate physical branches, pay tellers, hire loan officers, maintain loan servicing infrastructure, and comply with banking regulation. These costs do not scale linearly. A branch in a small town costs roughly the same to operate whether it serves 5,000 customers or 50,000. A compliance officer costs the same whether the bank has $1 billion in assets or $10 billion.
 
-Large national banks achieve much lower operating costs as a percentage of revenue because they spread fixed costs across massive deposit and loan bases. CPKF, as a smaller community bank, operates at a cost disadvantage relative to scale peers. This forces the bank to either operate at lower overall profitability or to charge higher loan rates and offer lower deposit rates to compensate for higher cost-to-income ratios.
+Large national banks achieve much lower operating costs as a percentage of revenue because they spread fixed costs across massive deposit and loan bases. CPKF, as a smaller community bank, operates at a cost disadvantage relative to scale peers. This forces the bank to either operate at lower overall profitability or to charge higher loan rates and offer lower deposit rates to compensate for higher [cost-to-income ratios](/cost-income-ratio/).
 
 The technology arms race exacerbates this. Mobile banking, online origination, and fraud prevention require continuous investment in technology infrastructure. CPKF must maintain competitive mobile apps, cybersecurity defenses, and payment processing systems, but cannot achieve the economies of scale that megabanks gain from amortizing these investments across millions of customers. Technology is a cost burden more than a competitive advantage for a small bank.
 
@@ -47,7 +47,7 @@ CPKF faces a choice: grow organically (acquire customers and deposits at a slow 
 
 ## Capital Adequacy and Return on Assets
 
-CPKF must maintain capital ratios set by banking regulators (typically 10–12% of risk-weighted assets). Capital is the bank's cushion against losses; too little capital and the bank faces restrictions on [dividends](/dividend/) and dividends, and potential failure. Too much capital and shareholders are not earning a competitive return.
+CPKF must maintain capital ratios set by banking regulators (typically 10–12% of [risk-weighted assets](/risk-weighted-assets/)). Capital is the bank's cushion against losses; too little capital and the bank faces restrictions on [dividends](/dividend/) and dividends, and potential failure. Too much capital and shareholders are not earning a competitive return.
 
 The bank's [return-on-equity](/return-on-equity/) (profit divided by equity capital) determines shareholder value. Community banks typically achieve 8–12% ROE, well below the 15–18% that large banks target. This reflects the structural disadvantage of community banking: lower scale, higher costs, and higher credit risk compress returns. CPKF must manage this trade-off—retain enough capital to absorb losses and grow the bank, but return enough profit to shareholders to justify the investment.
 

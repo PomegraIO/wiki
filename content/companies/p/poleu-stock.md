@@ -48,7 +48,7 @@ After a merger closes, the newly public company trades on the market. The origin
 
 ## History and reputation
 
-SPACs became a dominant path to going public during the 2020–2021 boom. Hundreds of SPAC IPOs raised billions of dollars. Many of those SPACs either failed to find targets before their deadline, or closed deals at prices that later proved to be inflated. Investor returns from SPAC mergers have lagged traditional IPOs, and the model fell out of favor. New SPAC IPOs have slowed significantly. That said, SPACs are still a legitimate path to public markets, and a SPAC sponsored by a credible team with deep pockets (like the Andretti family) has a real chance of finding and executing a successful acquisition.
+SPACs became a dominant path to going public during the 2020–2021 boom. Hundreds of [SPAC IPOs](/spac-ipo/) raised billions of dollars. Many of those SPACs either failed to find targets before their deadline, or closed deals at prices that later proved to be inflated. Investor returns from SPAC mergers have lagged traditional IPOs, and the model fell out of favor. New SPAC IPOs have slowed significantly. That said, SPACs are still a legitimate path to public markets, and a SPAC sponsored by a credible team with deep pockets (like the Andretti family) has a real chance of finding and executing a successful acquisition.
 
 ## What happens next
 

@@ -39,7 +39,7 @@ Leverage matters. REITs use borrowed funds to amplify returns. Ready Capital lik
 
 ## Origination Volume and Deal-Flow Reality
 
-Ready Capital's pipeline is the leading indicator of earnings trajectory. A robust pipeline (loans in underwriting or application phase) signals next-quarter revenue. An empty pipeline signals a tough market. Origination spreads vary by loan type and market conditions — in competitive markets, Ready Capital may choose to originate lighter volume at better terms rather than chase marginal deals. Track quarterly earnings releases for origination volume (dollar and unit counts), close rates, and pipeline comment.
+Ready Capital's pipeline is the [leading indicator](/leading-indicator/) of earnings trajectory. A robust pipeline (loans in underwriting or application phase) signals next-quarter revenue. An empty pipeline signals a tough market. Origination spreads vary by loan type and market conditions — in competitive markets, Ready Capital may choose to originate lighter volume at better terms rather than chase marginal deals. Track quarterly earnings releases for origination volume (dollar and unit counts), close rates, and pipeline comment.
 
 ## The Call Feature and What It Does
 
@@ -63,4 +63,4 @@ SEC filings are authoritative: 10-K for annual comprehensive data, 10-Q for quar
 
 [Credit ratings](/credit-rating/) from Moody's or S&P track the REIT's financial health and refinancing risk. Analyst reports from banks and [brokers](/broker/) offer third-party views on the business trajectory. Mortgage-market data from sources like the MBA (Mortgage Bankers Association) provide context on industry trends — whether origination volume is broadly expanding or contracting helps frame Ready Capital's own numbers.
 
-For preferred shareholders specifically: monitor the yield spread between RC-PE and risk-free rates (Treasury yields). A widening spread suggests market is repricing Ready Capital's credit risk upward — a warning signal to pay closer attention to the business health.
+For preferred shareholders specifically: monitor the yield spread between RC-PE and [risk-free rates](/risk-free-rate/) (Treasury yields). A widening spread suggests market is repricing Ready Capital's credit risk upward — a warning signal to pay closer attention to the business health.

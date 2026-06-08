@@ -56,7 +56,7 @@ Like all consumer discretionary companies, SharkNinja faces the classic risks. C
 
 The patent moat works until it doesn't. Competitors in the countertop appliance and vacuum spaces are resourced and watching. A major competitor launching a genuinely better product at scale could take share quickly. The company also depends heavily on its ability to identify trends early and manufacture at speed; misjudging what consumers want or stumbling in execution would be costly.
 
-International expansion, while promising, carries execution risk and regulatory complexity. Each country has different retail dynamics, consumer preferences, and compliance requirements. The company's supply chain is agile, maintained through long-standing factory partnerships and competitive bidding practices, but geopolitical risks, tariff changes, and logistics costs remain real factors to watch.
+International expansion, while promising, carries [execution risk](/execution-risk/) and regulatory complexity. Each country has different retail dynamics, consumer preferences, and compliance requirements. The company's supply chain is agile, maintained through long-standing factory partnerships and competitive bidding practices, but geopolitical risks, tariff changes, and logistics costs remain real factors to watch.
 
 ## How would you research this company?
 

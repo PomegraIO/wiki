@@ -57,7 +57,7 @@ The dominant risk is catastrophic loss: a major hurricane or series of severe we
 
 A secondary risk is regulatory: Florida's insurance commissioner has broad authority to restrict rates, approve or deny policy forms, and oversee solvency. Rate suppression by regulators in a hard market (when losses are rising and premiums must keep pace) would directly compress margins.
 
-TypTap's execution risk is also material. If adoption stalls or competitive pressures intensify, the growth narrative unwinds and the platform may not return invested capital.
+TypTap's [execution risk](/execution-risk/) is also material. If adoption stalls or competitive pressures intensify, the growth narrative unwinds and the platform may not return invested capital.
 
 ## The Investor Angle
 

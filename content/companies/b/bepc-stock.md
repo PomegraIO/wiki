@@ -54,7 +54,7 @@ Brookfield has also grown its energy-storage business, adding batteries alongsid
 
 What makes Brookfield Renewable attractive to investors is the combination of low-cost, inflation-protected long-term contracts and extremely durable assets. A hydropower dam generating electricity under a 30-year contract is not a cyclical business—it is closer to a [bond](/bond/) with embedded growth, because many contracts include [inflation](/inflation/) escalators that raise the price paid for electricity as years pass. That combination of durability and [inflation hedging](/inflation-hedging/) appeals to large institutional investors seeking stable, predictable returns.
 
-The company is also a magnet for capital from pension funds, insurance companies, and infrastructure funds that have trillions of dollars seeking long-term, low-risk investments. This deep investor appetite for renewable infrastructure means Brookfield has relatively low cost of capital compared to riskier businesses, which in turn makes new projects economically feasible.
+The company is also a magnet for capital from pension funds, insurance companies, and [infrastructure funds](/pe-infrastructure-fund/) that have trillions of dollars seeking long-term, low-risk investments. This deep investor appetite for renewable infrastructure means Brookfield has relatively low cost of capital compared to riskier businesses, which in turn makes new projects economically feasible.
 
 ## Risks and pressures
 

@@ -45,7 +45,7 @@ Global supply chains increasingly bypass middlemen. Large end customers (retaile
 
 ## Regulatory and Compliance Complexity
 
-Multinational traders must navigate customs, anti-bribery laws (FCPA), sanctions regimes, and labeling/packaging rules across dozens of countries. A misstep — shipping products to a sanctioned entity, underreporting duties, mislabeling goods — can trigger fines, shipment seizure, or criminal liability for executives. Compliance costs rise with geographic complexity. BRVO, as a smaller player, may lack the compliance infrastructure of global giants, increasing operational and legal risk.
+Multinational traders must navigate customs, anti-bribery laws (FCPA), sanctions regimes, and labeling/packaging rules across dozens of countries. A misstep — shipping products to a sanctioned entity, underreporting duties, mislabeling goods — can trigger fines, shipment seizure, or criminal liability for executives. Compliance costs rise with geographic complexity. BRVO, as a smaller player, may lack the compliance infrastructure of global giants, increasing operational and [legal risk](/legal-risk/).
 
 ## Key Filings and Monitoring
 
@@ -55,7 +55,7 @@ BRVO's [10-k](/10-k/) discloses geographic revenue breakdown, major customers an
 
 ### Closely related
 - [brun-stock](/brun-stock/) — similarly exposed to margin compression and demand volatility
-- [brvmf-stock](/brvmf-stock/) — capital-intensive international operations with execution risk
+- [brvmf-stock](/brvmf-stock/) — capital-intensive international operations with [execution risk](/execution-risk/)
 
 ### Wider context
 - [stock](/stock/) — smaller multinational traders and valuation

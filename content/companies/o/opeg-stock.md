@@ -32,7 +32,7 @@ handwritten: true
 
 ## What OPEG targets and how it works
 
-OPEG aims to replicate 2x the daily price movement of OPEN stock. If Opendoor rises 2 percent in a trading day, OPEG targets a 4 percent gain; if OPEN falls 1 percent, OPEG aims for a 2 percent loss. This leverage is synthetic—the fund does not margin-purchase shares but instead uses derivative instruments (swaps, futures, and other contracts) to achieve the 2x exposure. At the close of each trading day, the fund resets its derivative positions to match exactly 2x the underlying stock's notional value, discarding yesterday's leverage hedge and establishing tomorrow's fresh exposure. This daily rebalancing is what makes OPEG a daily-reset product, distinguishing it from funds that maintain constant leverage over longer periods.
+OPEG aims to replicate 2x the daily price movement of OPEN stock. If Opendoor rises 2 percent in a trading day, OPEG targets a 4 percent gain; if OPEN falls 1 percent, OPEG aims for a 2 percent loss. This leverage is synthetic—the fund does not margin-purchase shares but instead uses derivative instruments (swaps, futures, and other contracts) to achieve the 2x exposure. At the close of each trading day, the fund resets its derivative positions to match exactly 2x the underlying stock's [notional value](/notional-value/), discarding yesterday's leverage hedge and establishing tomorrow's fresh exposure. This daily rebalancing is what makes OPEG a daily-reset product, distinguishing it from funds that maintain constant leverage over longer periods.
 
 ## Who should use it, and when
 
@@ -52,7 +52,7 @@ This is not a flaw or a surprise; it is the mathematical consequence of daily re
 
 Leverage Shares charges an [expense ratio](/expense-ratio/) that covers management and the cost of maintaining the swap agreements and [futures contracts](/futures-contract/) that deliver the leverage. These costs are embedded in the fund's daily performance—they show up in the tracking error between OPEG and its target (2x OPEN's daily return). In a stable market, the tracking error is tiny. In a volatile one, it widens.
 
-OPEG trades on NYSE Arca during standard market hours. Liquidity depends on the fund's assets and trading volume; most days the [bid-ask spread](/bid-ask-spread/) is tight, but in thin markets it can widen, raising the cost of entry and exit.
+OPEG trades on [NYSE Arca](/nyse-arca/) during standard market hours. Liquidity depends on the fund's assets and trading volume; most days the [bid-ask spread](/bid-ask-spread/) is tight, but in [thin markets](/thin-market/) it can widen, raising the cost of entry and exit.
 
 ## How to monitor and research OPEG
 

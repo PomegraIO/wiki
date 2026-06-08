@@ -73,4 +73,4 @@ As weaker developers fail, stronger ones consolidate market share. This creates 
 
 ## Path Forward: Structural Headwinds
 
-Happy City operates in a market with deteriorating fundamentals, intense competition, and regulatory constraints that are tightening, not easing. Growth is limited by shrinking demand, and profitability is pressured by lower pricing power. The company must navigate a lengthy credit cycle downturn while managing geopolitical exposure and [currency risk](/currency-risk/). Without a clear path to differentiation or cost leadership, the company's return profile is challenged.
+Happy City operates in a market with deteriorating fundamentals, intense competition, and regulatory constraints that are tightening, not easing. Growth is limited by shrinking demand, and profitability is pressured by lower pricing power. The company must navigate a lengthy [credit cycle](/credit-cycle/) downturn while managing geopolitical exposure and [currency risk](/currency-risk/). Without a clear path to differentiation or cost leadership, the company's return profile is challenged.

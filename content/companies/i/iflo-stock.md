@@ -32,7 +32,7 @@ The free-cash-flow investment idea itself gained traction in the 1990s and 2000s
 
 ## How IFLO applies the free-cash-flow lens internationally
 
-IFLO takes that concept into the international developed-markets universe. The fund starts with the MSCI World ex-USA Index, which includes over 900 developed-market stocks outside the United States across Europe, Japan, Asia-Pacific, and other regions. From this broad universe, IFLO's rules-based process selects stocks with high free cash flow yield (free cash flow per share relative to price) and strong free cash flow growth, rebalancing quarterly.
+IFLO takes that concept into the international developed-markets universe. The fund starts with the MSCI World ex-USA Index, which includes over 900 developed-market stocks outside the United States across Europe, Japan, Asia-Pacific, and other regions. From this broad universe, IFLO's rules-based process selects stocks with high free [cash flow yield](/cash-flow-yield/) (free cash flow per share relative to price) and strong free cash flow growth, rebalancing quarterly.
 
 The approach is transparent: the same methodology applies to every stock in the universe. Managers do not elevate stocks they like personally or suppress stocks they dislike. This removes behavioral biases that plague subjective stock-picking and creates a repeatable system.
 

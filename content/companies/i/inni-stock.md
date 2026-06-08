@@ -20,7 +20,7 @@ Where Innovaro may defensibly compete is through scientific reputation and the r
 
 ## Capital Access and Funding Constraints
 
-Innovaro's ability to compete directly correlates with capital availability. Early-stage biotech burns cash to fund research and trials; without steady access to equity capital (venture funding, institutional investment, capital raises) or debt, the company cannot advance its pipeline. During market downturns or when investor appetite for speculative biotech cools, smaller firms like Innovaro face existential pressure. Larger biotech firms with revenue, profitability, or investment-grade debt ratings can fund pipelines through market cycles; Innovaro cannot. This creates a structural disadvantage: a competitor backed by a larger parent company or a well-funded VC consortium can fund long-duration trials that Innovaro cannot afford, effectively starving it of competitive parity.
+Innovaro's ability to compete directly correlates with capital availability. Early-stage biotech burns cash to fund research and trials; without steady access to equity capital (venture funding, institutional investment, capital raises) or debt, the company cannot advance its pipeline. During market downturns or when investor appetite for speculative biotech cools, smaller firms like Innovaro face existential pressure. Larger biotech firms with revenue, profitability, or investment-grade debt ratings can fund pipelines through [market cycles](/market-cycle/); Innovaro cannot. This creates a structural disadvantage: a competitor backed by a larger parent company or a well-funded VC consortium can fund long-duration trials that Innovaro cannot afford, effectively starving it of competitive parity.
 
 ## Indication Selection and White Space
 

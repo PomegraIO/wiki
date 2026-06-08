@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Indofood Sukses Makmur, Tbk is Indonesia's most significant food company and one of the largest consumer-packaged-goods manufacturers in Southeast Asia. Listed on the Jakarta [Stock Exchange](/stock-exchange/) (ticker PIFMF for American depositary shares), it controls commanding positions across instant noodles, snack foods, branded condiments, dairy, and distribution networks that reach into thousands of small retailers across the region. The company's wealth comes from the simple insight that developing markets need shelf-stable, affordable staples manufactured at scale—and that whoever builds the deepest distribution network to reach those customers tends to win.
+Indofood Sukses Makmur, Tbk is Indonesia's most significant food company and one of the largest consumer-packaged-goods manufacturers in Southeast Asia. Listed on the Jakarta [Stock Exchange](/stock-exchange/) (ticker PIFMF for American [depositary shares](/depositary-share/)), it controls commanding positions across instant [noodles](/ndls-stock/), snack foods, branded condiments, dairy, and distribution networks that reach into thousands of small retailers across the region. The company's wealth comes from the simple insight that developing markets need shelf-stable, affordable staples manufactured at scale—and that whoever builds the deepest distribution network to reach those customers tends to win.
 
 <aside class="wiki-infobox">
 <table>

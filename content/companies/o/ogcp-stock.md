@@ -31,7 +31,7 @@ In response, ESRT has moved to diversify its portfolio and de-emphasize pure Man
 
 ## The operating model: property management and leasing
 
-ESRT manages a portfolio where a significant share of revenue comes from long-term leases with institutional tenants (law firms, financial firms, media companies, government agencies). These leases provide stable, recurring cash flow with multi-year terms and annual rent escalation clauses.
+ESRT manages a portfolio where a significant share of revenue comes from long-term leases with institutional tenants (law firms, financial firms, media companies, government agencies). These leases provide stable, recurring cash flow with multi-year terms and annual [rent escalation clauses](/rent-escalation-clause/).
 
 The company also owns the Empire State Building, which is operated not purely as a commercial office and retail space but as a tourist destination and historical landmark. The building generates revenue from office tenants, retail on the ground floors, and the observation deck, which draws millions of visitors annually and is a cultural icon that distinguishes ESRT from a typical [office REIT](/office-reit/).
 
@@ -57,6 +57,6 @@ Investors studying ESRT should start with the annual 10-K (SEC CIK 0001553079) a
 
 Watch the quarterly earnings calls for updates on same-property [net operating income](/net-operating-income/) (comparable-property revenue and expense trends), major tenant wins or losses, and any commentary on repositioning efforts or asset sales.
 
-The REIT's dividend, the AFFO (Adjusted Funds From Operations, a common REIT metric), and the FFO [payout ratio](/payout-ratio/) (the percentage of FFO returned as dividend) all signal the sustainability of distributions. A payout ratio above 100% suggests the REIT is borrowing or selling assets to fund dividends, a warning sign.
+The REIT's dividend, the AFFO ([Adjusted Funds From Operations](/adjusted-funds-from-operations/), a common REIT metric), and the FFO [payout ratio](/payout-ratio/) (the percentage of FFO returned as dividend) all signal the sustainability of distributions. A payout ratio above 100% suggests the REIT is borrowing or selling assets to fund dividends, a warning sign.
 
 Track also the company's comments on the Empire State Building and the observation deck — this asset is iconic and profitable, but its growth is limited, and major capital expenditures could affect near-term returns.

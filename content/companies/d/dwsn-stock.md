@@ -47,7 +47,7 @@ These headwinds compress the addressable market for seismic-acquisition services
 
 ## Competitive Dynamics and Scale
 
-Dawson competes with other onshore seismic-acquisition companies of similar scale, as well as with larger integrated oilfield-services conglomerates that have seismic divisions. Larger competitors have advantages: diversified service offerings (reducing exposure to seismic-only demand), international operations (hedging against U.S. market cycles), and stronger balance sheets to weather downturns. Smaller competitors survive by specializing in niche basins, maintaining low-cost operations, or building strong relationships with specific E&P clients.
+Dawson competes with other onshore seismic-acquisition companies of similar scale, as well as with larger integrated oilfield-services conglomerates that have seismic divisions. Larger competitors have advantages: diversified service offerings (reducing exposure to seismic-only demand), international operations (hedging against U.S. [market cycles](/market-cycle/)), and stronger balance sheets to weather downturns. Smaller competitors survive by specializing in niche basins, maintaining low-cost operations, or building strong relationships with specific E&P clients.
 
 Dawson's differentiation has historically rested on operational excellence, crew expertise, and responsiveness. These qualities matter in competitive bids, but they do not fully insulate the company from commodity-price cycles. When exploration budgets collapse, even excellent execution cannot generate revenue.
 
@@ -55,7 +55,7 @@ Dawson's differentiation has historically rested on operational excellence, crew
 
 To evaluate Dawson Geophysical, examine the [10-K](/10-k/) (CIK 799165) for: (1) revenue by product/service line and by geographic region; (2) equipment and crew utilization rates (disclosed as a percentage of available capacity); (3) backlog or current contract commitments (an indicator of near-term demand); (4) [fixed assets](/balance-sheet/) and [depreciation](/stock/) (understanding equipment base and replacement cycles); and (5) profitability trends in relation to oil prices.
 
-Track oil and [natural gas](/natural-gas/) prices ([WTI crude](/wti-crude/), [Henry Hub](/henry-hub/) natural gas) and monitor major oil companies' exploration budgets and announcements. These are the leading indicators of demand for Dawson's services. Additionally, review industry reports from energy research firms and oilfield-services analysts to contextualize Dawson's market position and competitive outlook.
+Track oil and [natural gas](/natural-gas/) prices ([WTI crude](/wti-crude/), [Henry Hub](/henry-hub/) natural gas) and monitor major oil companies' exploration budgets and announcements. These are the [leading indicators](/leading-indicator/) of demand for Dawson's services. Additionally, review industry reports from energy research firms and oilfield-services analysts to contextualize Dawson's market position and competitive outlook.
 
 ## The Founding Model Under Pressure
 

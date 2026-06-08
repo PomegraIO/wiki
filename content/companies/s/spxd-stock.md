@@ -18,7 +18,7 @@ The practical effect is a portfolio that holds the same S&P 500 companies but di
 
 ## Who is Xtrackers, and what kind of fund is this?
 
-Xtrackers is the ETF sponsor owned by Deutsche Börse and [BlackRock](/blk-stock/) (through iShares' relationship structures), operating globally and specializing in index tracking and factor-based strategies. SPXD is a traditional index-tracking ETF, not actively managed. The fund aims to replicate its index's returns as closely as possible, meaning the manager does not make discretionary bets on individual stocks — the holdings are determined entirely by the rules of the index methodology.
+Xtrackers is the [ETF sponsor](/etf-sponsor/) owned by Deutsche Börse and [BlackRock](/blk-stock/) (through iShares' relationship structures), operating globally and specializing in index tracking and factor-based strategies. SPXD is a traditional index-tracking ETF, not actively managed. The fund aims to replicate its index's returns as closely as possible, meaning the manager does not make discretionary bets on individual stocks — the holdings are determined entirely by the rules of the index methodology.
 
 ## How does it trade and what does it cost?
 

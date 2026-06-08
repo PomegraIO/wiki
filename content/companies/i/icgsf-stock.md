@@ -47,7 +47,7 @@ Investor sentiment is also driven by precious-metals prices. When gold and silve
 
 Large producers like Barrick and Newmont have their own exploration programs and can also acquire prospective junior properties directly. This creates a potential exit path for ICG: if the company makes a discovery that catches the attention of a producer, the producer may offer to acquire the property or the company itself.
 
-However, [acquisition](/acquisition/) by a large producer can also be a loss for early shareholders. Producers typically acquire junior discoveries at prices representing only a fraction of the long-term mine value—they are risk-adjusted for development and production execution risk. Shareholders of a junior that is acquired are paid a premium to where the stock traded, but substantially less than the theoretical discounted value of the discovered mine.
+However, [acquisition](/acquisition/) by a large producer can also be a loss for early shareholders. Producers typically acquire junior discoveries at prices representing only a fraction of the long-term mine value—they are risk-adjusted for development and production [execution risk](/execution-risk/). Shareholders of a junior that is acquired are paid a premium to where the stock traded, but substantially less than the theoretical discounted value of the discovered mine.
 
 Mid-tier producers represent different competitors and potential acquirers. Companies like Coeur d'Alene focus on precious metals and may be more active in acquiring small silver or gold deposits that complement their existing operations.
 
@@ -55,7 +55,7 @@ Mid-tier producers represent different competitors and potential acquirers. Comp
 
 Precious-metals exploration occurs primarily in jurisdictions with stable mining regulations and reliable permitting. In North America, this includes Nevada, Idaho, Oregon, British Columbia, Yukon, and Quebec. Within each jurisdiction, competing juniors vie for the best available claims (parcels of mining rights).
 
-Jurisdictions compete for mining investment by maintaining favorable tax structures, efficient permitting, and legal certainty. Jurisdictions with unpredictable regulatory changes or high political risk see less exploration investment. ICG's properties are subject to the regulatory regimes of the jurisdictions where they are located. An adverse regulatory shift (new environmental requirements, changes to water permitting, or restrictions on mining in sensitive areas) can devalue ICG's properties relative to competitors in more favorable jurisdictions.
+Jurisdictions compete for mining investment by maintaining favorable tax structures, efficient permitting, and legal certainty. Jurisdictions with unpredictable regulatory changes or high [political risk](/political-risk/) see less exploration investment. ICG's properties are subject to the regulatory regimes of the jurisdictions where they are located. An adverse regulatory shift (new environmental requirements, changes to water permitting, or restrictions on mining in sensitive areas) can devalue ICG's properties relative to competitors in more favorable jurisdictions.
 
 ## Competitive Advantages and Vulnerabilities
 

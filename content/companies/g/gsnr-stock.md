@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Grayscale Near Trust ([NASDAQ](/nasdaq/): GSNR) holds the NEAR token, which runs the NEAR Protocol blockchain. The trust allows investors to buy and sell shares on an exchange while Grayscale manages custody of the underlying cryptocurrency. NEAR Protocol itself is a [public blockchain](/public-blockchain/) designed to be a faster, cheaper alternative to [Ethereum](/ethereum/) for smart contracts and decentralized applications. The trust is a bet on both NEAR's technology and Grayscale's ability to manage it responsibly.
+Grayscale Near Trust ([NASDAQ](/nasdaq/): GSNR) holds the NEAR token, which runs the [NEAR Protocol](/near-protocol/) blockchain. The trust allows investors to buy and sell shares on an exchange while Grayscale manages custody of the underlying cryptocurrency. NEAR Protocol itself is a [public blockchain](/public-blockchain/) designed to be a faster, cheaper alternative to [Ethereum](/ethereum/) for [smart contracts](/smart-contract/) and decentralized applications. The trust is a bet on both NEAR's technology and Grayscale's ability to manage it responsibly.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,7 +38,7 @@ Like other Grayscale cryptocurrency trusts, GSNR is a [closed-end fund](/closed-
 
 Grayscale charges a [management fee](/management-fee/) for operating the trust, holding the digital assets, and handling administration. That fee is a direct drag on returns. Additionally, the fact that shares can trade above or below the NEAR token's true value means investors can overpay if they buy when the trust is trading at a large premium, or get a bargain if they buy at a discount. The premium or discount can persist for years, making it difficult to reason about how much value you are actually getting for your money.
 
-The closed-end structure was necessary before spot cryptocurrency ETFs were approved, because it allowed Grayscale to offer regulated cryptocurrency exposure when ETFs were not an option. Now that spot Ethereum and Bitcoin ETFs exist, and spot Ethereum and Bitcoin ETFs offer better liquidity and tighter pricing, the advantage of a closed-end trust has diminished. Investors should compare GSNR not to direct NEAR token ownership, but to alternative ways to gain NEAR exposure.
+The closed-end structure was necessary before spot [cryptocurrency ETFs](/cryptocurrency-etf/) were approved, because it allowed Grayscale to offer regulated cryptocurrency exposure when ETFs were not an option. Now that spot Ethereum and Bitcoin ETFs exist, and spot Ethereum and Bitcoin ETFs offer better liquidity and tighter pricing, the advantage of a closed-end trust has diminished. Investors should compare GSNR not to direct NEAR token ownership, but to alternative ways to gain NEAR exposure.
 
 ## The competitive pressure on NEAR as a network
 

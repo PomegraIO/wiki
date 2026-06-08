@@ -43,12 +43,12 @@ Second, when a deal is announced, SPAC investors can choose to vote against it a
 
 Third, the SPAC sponsors, underwriters, and other insiders have financial incentives that may not align with public shareholders. The sponsors typically hold [founder shares](/founder-shares/) that are very cheap (or free) and are worthless unless a deal closes and the stock price rises. This misalignment can push sponsors to do a deal at any price just to get something closed and keep their shares alive. SPAC sponsors also earn fees and advisory payments, regardless of whether the final deal makes money for the other shareholders.
 
-Fourth, the private company that is acquired is opaque — investors have less public information about it than they would about an established public company. The information provided during the merger process may be optimistic, and investors are trusting the SPAC sponsors to have done due diligence properly.
+Fourth, the private company that is acquired is opaque — investors have less public information about it than they would about an established public company. The information provided during the merger process may be optimistic, and investors are trusting the SPAC sponsors to have done [due diligence](/due-diligence/) properly.
 
 ## What happens next
 
 If GSR IV closes a merger, the private company's shareholders become shareholders in a now-public entity, and SPAC investors retain their shares in what is now a real, operating company. The SPAC disappears; only the merged company remains, usually trading under a new name and ticker that reflects the acquired business.
 
-The SPAC trend accelerated in the 2020s as investors and companies saw it as a fast route to public markets. Regulatory scrutiny has since increased around SPAC accounting, sponsor compensation, and disclosure practices, pushing toward more transparency and stricter rules on what sponsors can claim about future earnings.
+The SPAC trend accelerated in the 2020s as investors and companies saw it as a fast route to public markets. Regulatory scrutiny has since increased around [SPAC accounting](/special-purpose-acquisition-company-accounting/), sponsor compensation, and disclosure practices, pushing toward more transparency and stricter rules on what sponsors can claim about future earnings.
 
 The bottom line: a SPAC is a financial shortcut. It is neither inherently good nor bad — it depends entirely on whether the target acquired is a solid business and whether the deal price is fair.

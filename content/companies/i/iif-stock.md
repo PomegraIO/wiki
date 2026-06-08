@@ -49,7 +49,7 @@ Morgan Stanley earns its money from the annual management fee, regardless of per
 
 ## What actually sits inside the fund
 
-Morgan Stanley India Investment Fund holds a diversified portfolio of Indian equities. This typically includes large blue-chip companies — banks, energy firms, telecommunications, consumer goods, information technology — as well as smaller growth-stage companies. The exact makeup changes over time as the manager buys and sells, but the fund is always exposed to India's economy: its growth rate, corporate profitability, rupee stability, and political risk.
+Morgan Stanley India Investment Fund holds a diversified portfolio of Indian equities. This typically includes large blue-chip companies — banks, energy firms, telecommunications, consumer goods, information technology — as well as smaller growth-stage companies. The exact makeup changes over time as the manager buys and sells, but the fund is always exposed to India's economy: its growth rate, corporate profitability, rupee stability, and [political risk](/political-risk/).
 
 The fund may also hold cash, [bonds](/bond/), or other assets — a buffer against volatile markets. During downturns, the manager might hold more cash than usual. During [bull markets](/bull-market/), the manager might be fully invested.
 

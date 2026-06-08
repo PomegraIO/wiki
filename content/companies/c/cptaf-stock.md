@@ -31,7 +31,7 @@ Investors should read Captivision's [10-K](/10-k/) annual report filed with the 
 
 ## Risk Profile and Execution Dependence
 
-Captivision's core risk is execution risk. The company operates in highly competitive consumer internet and digital media markets where scale, network effects, and brand moat confer advantage. Captivision lacks scale; its platforms are not entrenched. This means the company is vulnerable to competition from larger, better-capitalized rivals (Meta, Amazon, Google subsidiaries) offering similar services or features. Additionally, the company's ability to retain talent and invest in product innovation depends on cash availability and belief in the company's future among employees—a challenge for small, listed OTC firms. If a key executive departs or a major product fails, the company's prospects can deteriorate rapidly.
+Captivision's core risk is [execution risk](/execution-risk/). The company operates in highly competitive consumer internet and digital media markets where scale, network effects, and brand moat confer advantage. Captivision lacks scale; its platforms are not entrenched. This means the company is vulnerable to competition from larger, better-capitalized rivals (Meta, Amazon, Google subsidiaries) offering similar services or features. Additionally, the company's ability to retain talent and invest in product innovation depends on cash availability and belief in the company's future among employees—a challenge for small, listed OTC firms. If a key executive departs or a major product fails, the company's prospects can deteriorate rapidly.
 
 ## Position in the Ecosystem
 

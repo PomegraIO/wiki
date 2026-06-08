@@ -55,7 +55,7 @@ SPACs have a mixed track record. Some have found great companies and done well. 
 
 There is also timing risk. Energy markets, power sector valuations, and investor appetite for energy stocks all change. A company that looked attractive when the SPAC was founded might look less attractive by the time the deal closes, or vice versa.
 
-Shareholders considering whether to keep their shares after a merger is announced should study the target company's business, financials, and management carefully. The proxy statement will have detailed information. Ask yourself: if this were a regular private company looking for investment, would I want to invest in it at the proposed valuation?
+Shareholders considering whether to keep their shares after a merger is announced should study the target company's business, financials, and management carefully. The [proxy statement](/proxy-statement/) will have detailed information. Ask yourself: if this were a regular private company looking for investment, would I want to invest in it at the proposed valuation?
 
 ## How to research United Acquisition
 

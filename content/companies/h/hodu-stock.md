@@ -31,7 +31,7 @@ handwritten: true
 
 ## Leveraged ETFs emerge from the 2000s market evolution
 
-Direxion Shares pioneered leveraged exchange-traded funds in 2006, initially focusing on broad indexes and sectors. The innovation addressed a demand from active traders and [hedge funds](/hedge-fund/): the ability to amplify market exposure in liquid, tradable instruments without borrowing margin or executing complex derivatives strategies individually. Early [leveraged ETFs](/leveraged-etf/) tracked the S&P 500, [Nasdaq](/nasdaq/) 100, and [Treasury bonds](/treasury-bond/), gaining adoption among tactical traders. By the 2020s, as single-stock trading and meme-stock mania reshaped retail investing, ETF sponsors expanded the universe to cover individual company stocks, including high-volume, volatile securities like Robinhood Markets.
+Direxion Shares pioneered leveraged exchange-traded funds in 2006, initially focusing on broad indexes and sectors. The innovation addressed a demand from active traders and [hedge funds](/hedge-fund/): the ability to amplify market exposure in liquid, tradable instruments without borrowing margin or executing complex derivatives strategies individually. Early [leveraged ETFs](/leveraged-etf/) tracked the S&P 500, [Nasdaq](/nasdaq/) 100, and [Treasury bonds](/treasury-bond/), gaining adoption among tactical traders. By the 2020s, as single-stock trading and meme-stock mania reshaped retail investing, [ETF sponsors](/etf-sponsor/) expanded the universe to cover individual company stocks, including high-volume, volatile securities like Robinhood Markets.
 
 ## Robinhood Markets: from commission-free disruption to public company
 
@@ -55,13 +55,13 @@ This decay is not a bug or a market malfunction; it is the mathematical conseque
 
 ## The unsuitable-for-hold problem and transaction costs
 
-For this reason, HODU is unsuitable for buy-and-hold investing. It is designed for traders making a bullish directional bet on HOOD stock lasting hours, days, or at most a few weeks. Holding HODU for months or years is almost certain to result in losses relative to holding HOOD outright, because volatility decay will eventually overcome upside moves. The fund's [expense ratio](/expense-ratio/) of approximately 0.95% annually adds another drag; combined with the mathematical cost of daily rebalancing, HODU's total cost of ownership for multi-month holds is formidable.
+For this reason, HODU is unsuitable for [buy-and-hold investing](/buy-and-hold/). It is designed for traders making a bullish directional bet on HOOD stock lasting hours, days, or at most a few weeks. Holding HODU for months or years is almost certain to result in losses relative to holding HOOD outright, because volatility decay will eventually overcome upside moves. The fund's [expense ratio](/expense-ratio/) of approximately 0.95% annually adds another drag; combined with the mathematical cost of daily rebalancing, HODU's total cost of ownership for multi-month holds is formidable.
 
 ## Risks, market events, and gap risk
 
 HODU multiplies every risk inherent in HOOD stock. Regulatory changes affecting Robinhood's business model — restrictions on payment for order flow, limits on margin lending, new trading rules — amplify losses beyond the underlying stock move. Competitive pressure from other brokerages (traditional firms lowering commissions, crypto exchanges offering trading) translates to doubled exposure to market share loss. Market downturns that suppress retail trading activity simultaneously suppress HOOD's stock and HODU's returns.
 
-Gap risk is particular to leveraged instruments. If HOOD gaps down significantly at the open due to news released after hours, HODU holders face a magnified gap loss with no ability to rebalance during the gap. A 5% after-hours gap becomes a 10% opening loss in HODU, with no intermediate price to exit.
+[Gap risk](/gap-risk/) is particular to leveraged instruments. If HOOD gaps down significantly at the open due to news released after hours, HODU holders face a magnified gap loss with no ability to rebalance during the gap. A 5% after-hours gap becomes a 10% opening loss in HODU, with no intermediate price to exit.
 
 ## Who uses HODU and regulatory caution
 

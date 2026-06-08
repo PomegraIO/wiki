@@ -17,7 +17,7 @@ keywords: ["community bank", "florida banking", "mortgage lending", "commercial 
 
 ## The Florida Market and Regional Footprint
 
-BankUnited's competitive arena is the Southeast and coastal Mid-Atlantic, with particular concentration in Florida. This geographic anchor matters because Florida's economy is driven by real estate, tourism, and retirees—and thus mortgage lending and commercial property finance are central to the region's credit cycle. A downturn in Florida real estate directly affects BankUnited's loan book; an upturn similarly benefits it. The bank operates branch networks rather than purely digital operations, which means customer [acquisition](/acquisition/) and retention are tied to physical presence, branch staffing, and customer service reputation in each market. This contrasts with internet-only banks, which serve a national customer base from call centers.
+BankUnited's competitive arena is the Southeast and coastal Mid-Atlantic, with particular concentration in Florida. This geographic anchor matters because Florida's economy is driven by real estate, tourism, and retirees—and thus mortgage lending and commercial property finance are central to the region's [credit cycle](/credit-cycle/). A downturn in Florida real estate directly affects BankUnited's loan book; an upturn similarly benefits it. The bank operates branch networks rather than purely digital operations, which means customer [acquisition](/acquisition/) and retention are tied to physical presence, branch staffing, and customer service reputation in each market. This contrasts with internet-only banks, which serve a national customer base from call centers.
 
 ## Deposit-Funded Lending Model
 

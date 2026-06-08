@@ -44,7 +44,7 @@ However, this focus is also a constraint. If the local agricultural sector faces
 
 ## Regulatory Environment and Capital Requirements
 
-Community banks operate under federal and state oversight. The bank must maintain minimum capital ratios (typically 8-10% of risk-weighted assets, depending on the specific formula). Regulators examine the bank's loan portfolio, risk management, compliance with lending laws, and capital adequacy. If a bank falls short of capital ratios or has excessive loan losses, regulators can require the bank to stop paying dividends, raise capital, or, in severe cases, merge or wind down.
+Community banks operate under federal and state oversight. The bank must maintain minimum capital ratios (typically 8-10% of [risk-weighted assets](/risk-weighted-assets/), depending on the specific formula). Regulators examine the bank's loan portfolio, risk management, compliance with lending laws, and capital adequacy. If a bank falls short of capital ratios or has excessive loan losses, regulators can require the bank to stop paying dividends, raise capital, or, in severe cases, merge or wind down.
 
 For KFFB, operating in Kentucky, the bank is subject to both federal regulation (from the [Federal Reserve](/federal-reserve/), the Comptroller of the Currency, or the FDIC, depending on its charter) and Kentucky state banking law. Compliance operations include [Know Your Customer](/know-your-customer/) (KYC) and [anti-money laundering](/anti-money-laundering/) (AML) programs, lending law compliance (fair lending, truth in lending, consumer protection), and data security. These operations add overhead that small community banks struggle to absorb at the scale they operate.
 

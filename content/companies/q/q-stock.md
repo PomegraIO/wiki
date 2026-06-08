@@ -49,7 +49,7 @@ Cyclicality is the most immediate concern. Semiconductor fabs operate on multi-y
 
 Geopolitical and regulatory risks are growing. Export controls on semiconductor equipment and materials, tensions around Taiwan and global chip supply security, and potential U.S. incentives (like CHIPS Act funding) that favor domestically produced materials could all reshape Qnity's cost structure and market access.
 
-Finally, there is the inherent execution risk of any recent IPO from a corporate [spinoff](/spinoff/). Qnity is still integrating its independent finance, supply chain, and strategic functions. Any stumbles in that transition could distract management or slow decision-making at a critical moment.
+Finally, there is the inherent [execution risk](/execution-risk/) of any recent IPO from a corporate [spinoff](/spinoff/). Qnity is still integrating its independent finance, supply chain, and strategic functions. Any stumbles in that transition could distract management or slow decision-making at a critical moment.
 
 ## Research Pointers
 

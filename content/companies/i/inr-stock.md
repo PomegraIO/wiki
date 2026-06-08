@@ -61,7 +61,7 @@ The company should also disclose its drilling schedule and capital budget. Inves
 
 INFINITY's stock is traded over-the-counter (OTC), which typically indicates a smaller, less-liquid company. OTC stocks face wider [bid-ask spreads](/stock/) and lower trading volume, making entry and exit more difficult and costly for investors. The company may not have institutional investor coverage, limiting information flow.
 
-For shareholders, INFINITY represents a speculative investment tied to the company's exploration success and commodity prices. There is no guarantee that exploration will yield commercial discoveries, that discoveries will be developed profitably, or that shareholders will ever receive a return of capital. Due diligence requires careful reading of SEC filings and, ideally, independent assessment of the company's lease positions and geological prospects by industry experts.
+For shareholders, INFINITY represents a speculative investment tied to the company's exploration success and commodity prices. There is no guarantee that exploration will yield commercial discoveries, that discoveries will be developed profitably, or that shareholders will ever receive a return of capital. [Due diligence](/due-diligence/) requires careful reading of SEC filings and, ideally, independent assessment of the company's lease positions and geological prospects by industry experts.
 
 <div class="wiki-seealso">
 

@@ -47,7 +47,7 @@ The company operates with leverage — borrowing against the portfolio to fund a
 
 ## Tenant credit and currency risks
 
-The quality of Vesta's revenue depends on the creditworthiness of its tenants. Most are substantial industrial firms with good payment history, but a [recession](/recession/) or a significant disruption to manufacturing in Mexico could raise vacancy rates and create downward pressure on rents. [Currency risk](/currency-risk/) is also material — Vesta's rents are collected in Mexican pesos while the company reports in dollars, and a significant peso [depreciation](/depreciation/) would reduce reported dollar revenues.
+The quality of Vesta's revenue depends on the creditworthiness of its tenants. Most are substantial industrial firms with good payment history, but a [recession](/recession/) or a significant disruption to manufacturing in Mexico could raise [vacancy rates](/vacancy-rate-property/) and create downward pressure on rents. [Currency risk](/currency-risk/) is also material — Vesta's rents are collected in [Mexican pesos](/mexian-peso/) while the company reports in dollars, and a significant peso [depreciation](/depreciation/) would reduce reported dollar revenues.
 
 The political and regulatory environment in Mexico introduces additional risk. Changes in labor law, taxation, or infrastructure investment can shift the calculus for multinational manufacturers deciding where to locate operations. Similarly, the security environment in different regions of Mexico has occasionally affected both tenant confidence and the company's operations.
 

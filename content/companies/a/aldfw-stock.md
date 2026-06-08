@@ -47,7 +47,7 @@ From a warrant holder's perspective, the investment thesis is: "I trust Robert K
 
 ## What to watch
 
-Tracking Aldel Financial II requires watching for deal announcements (typically disclosed in press releases and SEC 8-K filings). Once a target is named, the investor materials and proxy statement will detail the transaction terms, the merged company's financials, and the standalone-entity financials. At that point, the question becomes: is this a good business at a reasonable valuation? The SPAC structure is transparent about the sponsor incentives, but that transparency does not eliminate the risk. Public shareholders voting on the deal must assess whether the target is genuinely attractive or merely convenient.
+Tracking Aldel Financial II requires watching for deal announcements (typically disclosed in press releases and SEC 8-K filings). Once a target is named, the investor materials and [proxy statement](/proxy-statement/) will detail the transaction terms, the merged company's financials, and the standalone-entity financials. At that point, the question becomes: is this a good business at a reasonable valuation? The SPAC structure is transparent about the sponsor incentives, but that transparency does not eliminate the risk. Public shareholders voting on the deal must assess whether the target is genuinely attractive or merely convenient.
 
 The company files quarterly reports with the SEC (CIK 0002031561) that detail cash-trust balance, expenses, and any deal discussions. These filings are public, searchable, and informative about the timeline pressure management is facing.
 

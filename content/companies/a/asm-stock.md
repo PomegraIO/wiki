@@ -22,7 +22,7 @@ Avino generates revenue from three main products:
 - **Gold** — extracted alongside silver from the same ore body  
 - **Copper** — a third metal stream from Durango operations
 
-The company is neither a micro-cap explorer betting everything on an unproven deposit nor a mega-cap diversified miner. It occupies the mid-cap segment: established production, real cash flows, meaningful scale, and multi-decade track record. That also means it carries exposure to Mexican operating conditions—labor costs, permitting timelines, tax policy, and regional factors all matter. Currency fluctuations between the [Canadian dollar](/canadian-dollar/), [US dollar](/us-dollar/), and Mexican peso affect reported earnings and project economics.
+The company is neither a micro-cap explorer betting everything on an unproven deposit nor a mega-cap diversified miner. It occupies the mid-cap segment: established production, real cash flows, meaningful scale, and multi-decade track record. That also means it carries exposure to Mexican operating conditions—labor costs, permitting timelines, tax policy, and regional factors all matter. Currency fluctuations between the [Canadian dollar](/canadian-dollar/), [US dollar](/us-dollar/), and [Mexican peso](/mexian-peso/) affect reported earnings and project economics.
 
 Investors treat Avino differently depending on their objectives. For those seeking direct precious-metals exposure, it offers an alternative to holding mining ETFs or commodity funds—you own shares in an actual producer. For traders, the stock has reasonable liquidity and volatility. For holders concerned about [inflation](/inflation/) or macroeconomic uncertainty, mining stocks often benefit when investors move toward hard assets and away from paper currencies.
 

@@ -32,7 +32,7 @@ In practice, this means ORIENTAL RISE HOLDINGS functions as a vehicles for its f
 
 ## The core businesses within the group
 
-**Property Development** is the foundation. The company and its subsidiaries identify land or development opportunities, acquire them, and develop residential, commercial, or mixed-use properties. Development is capital-intensive and carries execution risk — a project can face construction delays, cost overruns, market downturns, or changes in regulatory environment that compress returns. Once completed, the company can sell the property outright, hold it for rental income, or operate it through a subsidiary management company.
+**Property Development** is the foundation. The company and its subsidiaries identify land or development opportunities, acquire them, and develop residential, commercial, or mixed-use properties. Development is capital-intensive and carries [execution risk](/execution-risk/) — a project can face construction delays, cost overruns, market downturns, or changes in regulatory environment that compress returns. Once completed, the company can sell the property outright, hold it for rental income, or operate it through a subsidiary management company.
 
 **Property Management** generates recurring revenue. Once a property is developed, someone has to maintain it, collect rent, manage tenants, and handle the day-to-day operations. This service is offered to both properties the company owns and third-party properties. Property management businesses are stable and lower-risk than development — revenue is recurring and margins are predictable, though the business is labour-intensive and competitive.
 
@@ -42,7 +42,7 @@ In practice, this means ORIENTAL RISE HOLDINGS functions as a vehicles for its f
 
 The company was built by entrepreneurs with deep ties to Asian real estate and a conviction that strategic property acquisition and development could create value. This founder mentality shapes the capital allocation: rather than maximizing short-term profits from one subsidiary, the leadership team has historically been willing to deploy capital across multiple projects and geographies, betting on their own ability to spot opportunities and execute better than the market. This can be far-sighted — a developer who buys land before a region booms has made a brilliant investment. It can also be disastrous if a region does not develop as expected or if macroeconomic conditions shift.
 
-The holding company structure allows this opportunistic approach. Instead of being locked into a single business model or geography, the parent company can take stakes in new subsidiaries, expand existing ones, or exit underperforming assets. This flexibility has probably served the company well during the volatile real estate cycles in Asian markets over the past decades. However, it also means the company's success is heavily dependent on management's skill and judgment in these allocation decisions — something that is hard to evaluate from outside and carries single-person risk if critical decisions rest with the founder or a small leadership team.
+The holding company structure allows this opportunistic approach. Instead of being locked into a single business model or geography, the parent company can take stakes in new subsidiaries, expand existing ones, or exit underperforming assets. This flexibility has probably served the company well during the volatile [real estate cycles](/real-estate-cycle/) in Asian markets over the past decades. However, it also means the company's success is heavily dependent on management's skill and judgment in these allocation decisions — something that is hard to evaluate from outside and carries single-person risk if critical decisions rest with the founder or a small leadership team.
 
 ## The actual economics and what drives profitability
 
@@ -56,7 +56,7 @@ The company's consolidated financial performance reflects all three businesses, 
 
 ## Risks and dependencies
 
-ORIENTAL RISE HOLDINGS is exposed to real estate market cycles in the regions where it operates. An extended downturn in property prices, rental demand, or tourism can simultaneously compress all three of its core business lines. The company is also dependent on access to capital for development projects — if debt markets tighten or equity capital becomes scarce, growth plans stall.
+ORIENTAL RISE HOLDINGS is exposed to real estate [market cycles](/market-cycle/) in the regions where it operates. An extended downturn in property prices, rental demand, or tourism can simultaneously compress all three of its core business lines. The company is also dependent on access to capital for development projects — if debt markets tighten or equity capital becomes scarce, growth plans stall.
 
 The company is also exposed to regulatory risk. Property markets and hospitality are heavily regulated in most countries. Changes in property taxes, foreign ownership rules, environmental regulations, or labour laws can materially affect profitability. In some of the regions where ORIENTAL RISE HOLDINGS operates, regulatory change can happen quickly and unpredictably.
 

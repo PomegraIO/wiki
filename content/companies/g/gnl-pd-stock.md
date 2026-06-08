@@ -38,7 +38,7 @@ The challenge Global Net Lease preferreds face is competition from other instrum
 
 The REIT preferred sector as a whole sits in a peculiar spot. Preferred dividends are not tax-deductible to the issuer, which makes them more expensive than debt from the REIT's perspective. Yet they are not equity either, so they do not participate in asset appreciation. From the investor's side, a REIT preferred offers tax-qualified dividend treatment in the United States (a feature that boosts after-tax yield), but the lack of upside and the subordination to debt make them less appealing during strong market rallies.
 
-Global Net Lease preferreds, specifically, compete against preferreds issued by larger, more established net-lease REITs. A larger peer with better credit metrics and a longer operating history may be able to issue preferreds at lower yields, signaling the market's perception of lower default risk. If Global Net Lease's preferreds consistently trade at a wider yield spread to those peers, it suggests investors see higher [credit risk](/credit-risk/).
+Global Net Lease preferreds, specifically, compete against preferreds issued by larger, more established [net-lease REITs](/net-lease-reit/). A larger peer with better credit metrics and a longer operating history may be able to issue preferreds at lower yields, signaling the market's perception of lower default risk. If Global Net Lease's preferreds consistently trade at a wider yield spread to those peers, it suggests investors see higher [credit risk](/credit-risk/).
 
 ## The dividend and the balance sheet
 

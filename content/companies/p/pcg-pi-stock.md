@@ -48,7 +48,7 @@ Revenue comes from customer rates, which are set through regulatory proceedings.
 
 This framework has advantages and drawbacks. On the plus side, regulated utilities generate predictable, stable cash flows and can justify long-term infrastructure investment that pure merchant generators cannot. On the negative side, the regulated return cap limits how profitable a utility can be, and the capital-intensity of the business means that much cash flow is reinvested rather than returned as dividends.
 
-For PG&E specifically, the post-bankruptcy settlement changed the model in important ways. The company now faces higher environmental and wildfire-prevention spending mandates. The Public Utilities Commission has imposed stricter oversight of capital spending and operational safety. Insurance costs have risen. And customer activism and climate politics have begun to shape regulatory outcomes in ways that constrain the company's flexibility.
+For PG&E specifically, the post-bankruptcy settlement changed the model in important ways. The company now faces higher environmental and wildfire-prevention spending mandates. The Public Utilities Commission has imposed stricter oversight of capital spending and operational [safety. Insurance](/saft-stock/) costs have risen. And customer activism and climate politics have begun to shape regulatory outcomes in ways that constrain the company's flexibility.
 
 ## Scale and geography: why utilities are regional
 

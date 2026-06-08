@@ -35,7 +35,7 @@ The company's therapeutic candidates belong to a broader class of agents called 
 
 Like all clinical-stage biotech companies, CG Oncology's value depends entirely on the success of its programs. The company has advanced its lead candidate through early clinical testing, with trials designed to evaluate safety, tolerability, and evidence of anti-tumor activity. In oncology, regulatory approval typically requires demonstrating benefit in a clearly defined patient population, which means CG Oncology must show that the drug works in specific tumor types and that the side-effect profile is acceptable relative to alternatives.
 
-The competitive landscape in oncology is intense and crowded. Immunotherapy as a class has become a mainstream cancer treatment, and investors scrutinize every entrant for proof that its approach is truly differentiated. CG Oncology's intratumoral approach is a genuine differentiator, but execution risk remains high: many promising early-stage cancer therapies fail in later-stage testing, either because efficacy does not translate or because unexpected toxicities emerge.
+The competitive landscape in oncology is intense and crowded. Immunotherapy as a class has become a mainstream cancer treatment, and investors scrutinize every entrant for proof that its approach is truly differentiated. CG Oncology's intratumoral approach is a genuine differentiator, but [execution risk](/execution-risk/) remains high: many promising early-stage cancer therapies fail in later-stage testing, either because efficacy does not translate or because unexpected toxicities emerge.
 
 ## Business model and funding
 

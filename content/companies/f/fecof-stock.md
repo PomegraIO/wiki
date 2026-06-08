@@ -48,7 +48,7 @@ Environmental regulation is also geographically determined. Mining in a jurisdic
 
 The path from property to producing mine runs through dozens of government approvals and environmental permits, all geographically specific. These might include mining licenses, water rights, environmental permits, indigenous consultation and agreements, and local land use approvals. The time and cost to secure such permits vary dramatically by geography.
 
-A property in Canada or Australia might require 5–10 years of permitting, environmental study, and community consultation before mining can begin, but the legal framework is predictable and the political system is stable. A property in a less stable jurisdiction might require less formal permitting but faces greater political risk: a change in government, a shift in policy toward resource nationalism, or confiscation risk could rapidly destroy the value of FEC's holding.
+A property in Canada or Australia might require 5–10 years of permitting, environmental study, and community consultation before mining can begin, but the legal framework is predictable and the political system is stable. A property in a less stable jurisdiction might require less formal permitting but faces greater [political risk](/political-risk/): a change in government, a shift in policy toward resource nationalism, or confiscation risk could rapidly destroy the value of FEC's holding.
 
 Such political and regulatory risk is a pure function of geography. FEC cannot mitigate this risk through better management or technology; it only exists or it does not, depending on where the property is located. Investors in resource companies must explicitly price in the geopolitical risk of the jurisdictions in which those companies operate.
 

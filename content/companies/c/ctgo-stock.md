@@ -31,13 +31,13 @@ Senior metals prices also drive the cost of mining. If zinc, copper, or other ba
 
 Junior mining companies fund exploration through equity raises. Contango might issue 10 million shares to raise $5 million for a drill program. If the company raises again next year, another 10 million shares might be issued. By the time the resource is delineated and the company is seeking production capital, original shareholders have been diluted 5:1, 10:1, or worse. Equity holders in junior miners accept this dilution as the cost of funding early-stage projects, but massive dilution means that even if the mine eventually produces gold, per-share earnings may not reflect that success because the share count has exploded.
 
-Contango's [balance sheet](/balance-sheet/) likely shows "shareholders' equity" built up from accumulated equity raises, but that equity is underwater if the company has burned cash on failed exploration programs. The company's stock price reflects both the value of existing projects and the probability that future raises will be dilutive, which creates a perpetual pressure on equity valuation.
+Contango's [balance sheet](/balance-sheet/) likely shows "[shareholders' equity](/shareholders-equity/)" built up from accumulated equity raises, but that equity is underwater if the company has burned cash on failed exploration programs. The company's stock price reflects both the value of existing projects and the probability that future raises will be dilutive, which creates a perpetual pressure on equity valuation.
 
 ## Permitting and Development Timeline Risk
 
 A mining project requires permits from local, state, and federal authorities—environmental impact assessments, water rights, air quality reviews, and agreements with indigenous communities. Permitting can take 3–7 years and fail at any stage if public opposition emerges or regulators impose restrictions. A company with a 5-million-ounce [gold resource](/goro-stock/) sitting in a challenging jurisdiction (environmentally sensitive, indigenous lands, political instability) faces years of uncertainty and possible failure.
 
-Contango's 10-K should disclose which projects are fully permitted, in permitting, or pre-permitting. Early-stage projects have little near-term value because regulatory uncertainty is extreme. Late-stage projects (shovel-ready) command higher valuations because execution risk has been mostly eliminated.
+Contango's 10-K should disclose which projects are fully permitted, in permitting, or pre-permitting. Early-stage projects have little near-term value because regulatory uncertainty is extreme. Late-stage projects (shovel-ready) command higher valuations because [execution risk](/execution-risk/) has been mostly eliminated.
 
 ## Joint Ventures and Royalties
 

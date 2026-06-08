@@ -47,7 +47,7 @@ FactSet is highly profitable and generates substantial [free cash flow](/wiki/ca
 
 ## Structural pressures and risks
 
-**Technology and disruption**: Younger financial software firms are building AI-powered research assistants and alternative data platforms. If a new entrant can deliver better-than-Bloomberg analysis at lower cost through machine learning, FactSet's defensibility erodes. The company has begun integrating AI features (generative AI for research summaries, predictive analytics), but execution risk remains.
+**Technology and disruption**: Younger financial software firms are building AI-powered research assistants and alternative data platforms. If a new entrant can deliver better-than-Bloomberg analysis at lower cost through machine learning, FactSet's defensibility erodes. The company has begun integrating AI features (generative AI for research summaries, predictive analytics), but [execution risk](/execution-risk/) remains.
 
 **Data vendor dependence**: FactSet doesn't generate all its own data; it licenses from exchanges, news providers, and alternative data vendors. If a key vendor becomes unavailable or raises prices sharply, it affects margins and product quality. Vendor relationships are generally long and stable, but [concentration risk](/concentration-risk/) exists.
 

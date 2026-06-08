@@ -66,7 +66,7 @@ Recovery in default would depend on [liquidation value](/liquidation-value/) of 
 
 9.0% is a material yield for unsecured debt. Reflects market's pricing of Redwood Trust [credit risk](/credit-risk/)—higher than investment-grade corporate debt (typically 4–7%), comparable to other mortgage REIT debt and high-yield corporates. Spread over Treasuries compensates for credit risk and illiquidity relative to government debt.
 
-A prospective buyer asks: Is 9.0% sufficient compensation for the risk that Redwood Trust's earnings falter and the note is impaired? The answer depends on personal risk tolerance, rate expectations, and view of the mortgage market cycle. In a strong economy with stable rates, RWTO is likely collected in full. In recession, especially one that drives mortgage defaults, Redwood Trust's earnings could vanish and noteholders could face material losses.
+A prospective buyer asks: Is 9.0% sufficient compensation for the risk that Redwood Trust's earnings falter and the note is impaired? The answer depends on personal risk tolerance, rate expectations, and view of the mortgage [market cycle](/market-cycle/). In a strong economy with stable rates, RWTO is likely collected in full. In recession, especially one that drives mortgage defaults, Redwood Trust's earnings could vanish and noteholders could face material losses.
 
 ## Research checklist
 

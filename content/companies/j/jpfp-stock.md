@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **JPMorgan Managed Futures Plus ETF** (JPFP) is an exchange-traded fund holding a portfolio of [futures contracts](/futures-contract/) across equities, fixed-income, and commodities, managed according to systematic trend-following and momentum rules. The fund is designed as a diversifier within a broader portfolio, particularly useful for investors seeking exposure to managed futures without the complexity of direct futures trading.*
+*The **JPMorgan [Managed Futures](/managed-futures/) Plus ETF** (JPFP) is an exchange-traded fund holding a portfolio of [futures contracts](/futures-contract/) across equities, fixed-income, and commodities, managed according to systematic trend-following and momentum rules. The fund is designed as a diversifier within a broader portfolio, particularly useful for investors seeking exposure to managed futures without the complexity of direct futures trading.*
 
 ## What the fund tracks and holds
 
@@ -46,4 +46,4 @@ Concentration in trend-following is another hidden risk. If JPFP's index uses th
 
 Start with the prospectus and fact sheet, which detail the exact algorithm used to construct positions and the fund's fee structure. The key questions are: which specific momentum indicators are used, how many markets does the index trade, what is the maximum leverage permitted, and how frequently does the index rebalance? These details determine whether JPFP is a broad, stable diversifier or a concentrated, fast-trading strategy.
 
-Compare JPFP's rolling returns against other managed futures funds and against a simple diversified portfolio over at least one full market cycle. Watch especially how it behaves in periods when stocks and bonds both fall; that is when the fund proves its worth. Examine the prospectus for the fund's largest positions and consider whether the concentration in a few key markets appeals to you or concerns you. Be honest about whether you can tolerate owning an asset that will almost certainly underperform in a strong bull market — because if that drawdown leads you to sell in frustration, you will have missed the crashes when JPFP would have shined.
+Compare JPFP's rolling returns against other [managed futures funds](/managed-futures-fund/) and against a simple diversified portfolio over at least one full [market cycle](/market-cycle/). Watch especially how it behaves in periods when stocks and bonds both fall; that is when the fund proves its worth. Examine the prospectus for the fund's largest positions and consider whether the concentration in a few key markets appeals to you or concerns you. Be honest about whether you can tolerate owning an asset that will almost certainly underperform in a strong bull market — because if that drawdown leads you to sell in frustration, you will have missed the crashes when JPFP would have shined.

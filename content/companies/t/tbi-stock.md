@@ -66,7 +66,7 @@ Customer concentration is another consideration. If PeopleScout loses a major en
 
 To assess TrueBlue as a potential investment, start with the company's annual [10-K filing](/wiki/10-k/) (SEC CIK 768899), which breaks revenue by segment, details the [contribution margin](/contribution-margin/) of each business, and lays out the company's debt and capital structure. Watch for gross margin trends by segment—declining PeopleReady gross margins signal increased worker attrition or pricing pressure, while declining PeopleManagement SaaS margins suggest churn or cost [inflation](/inflation/).
 
-Quarterly commentary from management is valuable. Pay attention to PeopleReady placement volumes and the spread per placement; they are the leading indicators of segment health. For PeopleManagement, track customer additions and retention rates. For PeopleScout, watch the conversion rate from sales pipeline to signed contracts and the average contract value.
+Quarterly commentary from management is valuable. Pay attention to PeopleReady placement volumes and the spread per placement; they are the [leading indicators](/leading-indicator/) of segment health. For PeopleManagement, track customer additions and retention rates. For PeopleScout, watch the conversion rate from sales pipeline to signed contracts and the average contract value.
 
 Monitor working capital, especially the time lag between when TrueBlue pays workers and when it collects payment from employers. If that gap widens, it signals either payment delays or higher volumes that are cash-accretive upfront but require funding. Also watch the company's debt levels and [free cash flow](/free-cash-flow/) generation—high debt combined with volatile earnings creates [refinancing risk](/refinancing-risk/).
 

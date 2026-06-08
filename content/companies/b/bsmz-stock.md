@@ -59,7 +59,7 @@ Interest-rate risk is the main concern if you sell before maturity. If rates ris
 
 Start with Invesco's fund website, where you will find the prospectus, fact sheet, and complete list of holdings. The prospectus is the authoritative legal document explaining what the fund is allowed to hold, what it costs, and what risks it carries. The fact sheet provides a quick snapshot: the current distribution rate, average credit quality, duration (a measure of how sensitive the bonds are to interest-rate changes), and trading volume.
 
-To understand the individual bonds in the portfolio, you can consult the Municipal Securities Rulemaking Board's public database, which shows pricing, [credit ratings](/credit-rating/), and issuer information for municipal bonds. This gives you a granular view of what you actually own. Many municipal issuers also publish financial statements and budgets publicly, so if a particular bond in the fund concerns you, you can dig into that issuer's credit story.
+To understand the individual bonds in the portfolio, you can consult the [Municipal Securities Rulemaking Board's](/municipal-securities-rulemaking-board/) public database, which shows pricing, [credit ratings](/credit-rating/), and issuer information for municipal bonds. This gives you a granular view of what you actually own. Many municipal issuers also publish financial statements and budgets publicly, so if a particular bond in the fund concerns you, you can dig into that issuer's credit story.
 
 ## Who is BSMZ for?
 

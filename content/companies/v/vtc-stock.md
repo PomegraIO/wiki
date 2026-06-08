@@ -55,6 +55,6 @@ Finally, examine VTC's behaviour during recent downturns — March 2020, Septemb
 
 ## The reinvestment question
 
-A subtle consideration: if you are holding VTC to live off the income, understand that the fund's annual distribution reflects both the interest the bonds pay and the realised gains or losses from sales and maturities. The fund's yield is therefore a snapshot that does not guarantee future income. If you are relying on VTC as an income source, monitor whether distributions are stable or declining over time, which could signal either lower reinvestment rates or credit deterioration.
+A subtle consideration: if you are holding VTC to live off the income, understand that the fund's annual distribution reflects both the interest the bonds pay and the realised gains or losses from sales and maturities. The fund's yield is therefore a snapshot that does not guarantee future income. If you are relying on VTC as an income source, monitor whether distributions are stable or declining over time, which could signal either lower [reinvestment rates](/reinvestment-rate-dcf/) or credit deterioration.
 
 VTC is ultimately a buy-and-hold tool for investors comfortable with moderate volatility in their fixed-income sleeve and trusting that corporate credit will persist as a long-term asset class. For a retiree or a conservative saver, it fills the bond portion of a portfolio efficiently.

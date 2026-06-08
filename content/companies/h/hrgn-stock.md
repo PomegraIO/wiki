@@ -29,7 +29,7 @@ HRGN has structured partnerships with larger pharmaceutical and medical-device f
 
 ## Equity Structure and Dilution
 
-HRGN's public shares represent one class of equity, with institutional investors ([mutual funds](/mutual-fund/), [hedge funds](/hedge-fund/)) holding significant stakes. The company has authorized shares available for future equity issuances and option grants to employees. Each new capital raise dilutes existing shareholders' ownership percentage. Over time, as the company issues shares to fund operations and [acquisitions](/acquisition/), early investors and founders see their ownership stakes decline. This is expected and accepted in biotech but represents a real trade-off between preserving runway and preserving ownership—management must balance the timing and size of capital raises.
+HRGN's public shares represent one class of equity, with institutional investors ([mutual funds](/mutual-fund/), [hedge funds](/hedge-fund/)) holding significant stakes. The company has [authorized shares](/authorized-shares/) available for future equity issuances and option grants to employees. Each new capital raise dilutes existing shareholders' ownership percentage. Over time, as the company issues shares to fund operations and [acquisitions](/acquisition/), early investors and founders see their ownership stakes decline. This is expected and accepted in biotech but represents a real trade-off between preserving runway and preserving ownership—management must balance the timing and size of capital raises.
 
 ## No Dividend, No Buyback
 

@@ -18,7 +18,7 @@ The 10-K should disclose CareView's revenue model with clarity: are customers ch
 
 Customer concentration is the critical risk metric. If the largest customer represents more than 10–15% of revenue, the loss of that customer creates a material revenue shock. The 10-K should break out revenue by customer concentration in a table or narrative. For a company like CareView, customer concentration risk is often high in early stages; as the user base diversifies, this risk diminishes.
 
-The analyst should also examine customer [acquisition](/acquisition/) cost (CAC) and churn rate, either from disclosed metrics or inferred from revenue trends. If CareView reports 100 customers in 2024 and 110 in 2025, but revenue grew 20%, the implication is that existing customers expanded their usage (positive) or that new customers signed at higher volume but churn is occurring below the surface. Churn is often disclosed in the MD&A (Management Discussion and Analysis) section of the 10-K or in earnings call transcripts.
+The analyst should also examine customer [acquisition](/acquisition/) cost (CAC) and churn rate, either from disclosed metrics or inferred from revenue trends. If CareView reports 100 customers in 2024 and 110 in 2025, but revenue grew 20%, the implication is that existing customers expanded their usage (positive) or that new customers signed at higher volume but churn is occurring below the surface. Churn is often disclosed in the MD&A ([Management Discussion and Analysis](/management-discussion-and-analysis/)) section of the 10-K or in earnings call transcripts.
 
 ## Margin Structure and Path to Profitability
 
@@ -40,7 +40,7 @@ Long-term care is heavily regulated and reimbursement is government-dependent: M
 
 ## Balance Sheet and Runway Factors
 
-Unlike clinical-stage biotech, a SaaS company should have positive gross margins and a clear path to profitability. The 10-K [balance sheet](/balance-sheet/) should show: customer [intangible assets](/intangible-assets/) (capitalized implementation costs), deferred revenue (a liability that represents cash collected upfront and revenue to be recognized over time—a favorable liability for SaaS companies), and cash position. Deferred revenue is a strong signal of recurring, stable revenue; growing deferred revenue indicates customer expansion and renewal confidence.
+Unlike clinical-stage biotech, a SaaS company should have positive gross margins and a clear path to profitability. The 10-K [balance sheet](/balance-sheet/) should show: customer [intangible assets](/intangible-assets/) (capitalized implementation costs), [deferred revenue](/deferred-revenue/) (a liability that represents cash collected upfront and revenue to be recognized over time—a favorable liability for SaaS companies), and cash position. Deferred revenue is a strong signal of recurring, stable revenue; growing deferred revenue indicates customer expansion and renewal confidence.
 
 If CareView is cash-negative operationally but has a growing deferred revenue base and expanding customer count, the company is on a plausible path to sustainability. If cash burn is accelerating despite revenue growth, it suggests unsustainable unit economics or over-aggressive sales spending that will require external funding.
 

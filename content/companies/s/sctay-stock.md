@@ -27,7 +27,7 @@ Sectra is a Swedish technology company specializing in medical imaging systems, 
 
 Sectra's core business is enabling hospitals and healthcare systems to manage, store, and share medical images — X-rays, CT scans, MRI images — and the patient data attached to them. The company builds the software systems (PACS, or Picture Archiving and Communication Systems) that radiology departments use to view and archive images. Beyond imaging, Sectra has expanded into broader health IT and into cybersecurity, serving government and defense clients with secure communication and information-handling systems.
 
-The company is not a household name because it sells to institutions — hospitals, defense ministries, IT departments — rather than consumers. Yet it is a foundational part of how modern healthcare systems operate. A hospital that switches to Sectra's imaging system cannot easily switch away; thousands of patient images are integrated into Sectra's archive, and switching vendors means migrating that data, retraining staff, and accepting migration risk.
+The company is not a household name because it sells to institutions — hospitals, defense ministries, IT departments — rather than consumers. Yet it is a foundational part of how modern healthcare systems operate. A hospital that switches to Sectra's imaging system cannot easily switch away; thousands of patient images are integrated into Sectra's archive, and switching vendors means migrating that data, retraining staff, and accepting [migration risk](/migration-risk/).
 
 ## Why is Sectra shifting away from pure hardware?
 

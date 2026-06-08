@@ -22,7 +22,7 @@ PTNQ rebalances monthly. At the close of the last trading day of each month, the
 
 ## Who issues PTNQ and what does it cost?
 
-Pacer Financial, the ETF sponsor, manages PTNQ and licenses or develops the Trendpilot algorithm. The fund's [expense ratio](/expense-ratio/) is quoted in its prospectus and is materially higher than a static index-tracking ETF (which typically cost 0.03% to 0.10% annually) because active management, even rules-based, carries overhead — portfolio review, rebalancing trades, the licensing cost of the algorithm itself. For investors who believe that systematic momentum can earn excess returns in exchange for those costs, PTNQ is a convenient vehicle. For buy-and-hold, low-cost index investors, the fee is a drag.
+Pacer Financial, the [ETF sponsor](/etf-sponsor/), manages PTNQ and licenses or develops the Trendpilot algorithm. The fund's [expense ratio](/expense-ratio/) is quoted in its prospectus and is materially higher than a static index-tracking ETF (which typically cost 0.03% to 0.10% annually) because active management, even rules-based, carries overhead — portfolio review, rebalancing trades, the licensing cost of the algorithm itself. For investors who believe that systematic momentum can earn excess returns in exchange for those costs, PTNQ is a convenient vehicle. For buy-and-hold, low-cost index investors, the fee is a drag.
 
 ## What are the real risks with a momentum strategy?
 

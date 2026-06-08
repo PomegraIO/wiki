@@ -4,7 +4,7 @@ description: "Technology or services company trading under ticker CRE on public 
 keywords: ["enterprise", "technology", "services", "SaaS", "software", "business solutions", "digital"]
 ---
 
-*[**Cre8 Enterprise Ltd**](https://www.cre8enterprise.com/) (**CRE**) is a publicly traded technology or services enterprise operating in a competitive digital market. The company's business model, technology stack, and market positioning expose it to the common risks of enterprise software and services firms: rapid technological change, intense competition, customer concentration, execution risk in product development, and dependency on maintaining customer satisfaction and retention in a market where switching costs are often low and vendor alternatives abundant.*
+*[**Cre8 Enterprise Ltd**](https://www.cre8enterprise.com/) (**CRE**) is a publicly traded technology or services enterprise operating in a competitive digital market. The company's business model, technology stack, and market positioning expose it to the common risks of enterprise software and services firms: rapid technological change, intense competition, customer concentration, [execution risk](/execution-risk/) in product development, and dependency on maintaining customer satisfaction and retention in a market where switching costs are often low and vendor alternatives abundant.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CRE</td></tr>
@@ -35,7 +35,7 @@ Enterprise technology often requires scaling—expanding to larger customer base
 
 ## Data Security and Privacy Compliance
 
-Cre8, if handling customer or user data, faces heightened regulatory and reputational risk around data security and privacy. Breaches, inadvertent data exposure, or non-compliance with regulations like GDPR, HIPAA, or industry-specific standards can trigger regulatory fines, customer lawsuits, and customer churn. The cost of remediation and compliance—security audits, encryption, access controls, incident response, legal—is substantial and ongoing. As regulations tighten and customer expectations around data protection increase, these costs rise. Cre8's failure to maintain robust security or privacy practices can undermine customer trust and create material financial and legal liabilities.
+Cre8, if handling customer or user data, faces heightened regulatory and [reputational risk](/reputational-risk/) around data security and privacy. Breaches, inadvertent data exposure, or non-compliance with regulations like GDPR, HIPAA, or industry-specific standards can trigger regulatory fines, customer lawsuits, and customer churn. The cost of remediation and compliance—security audits, encryption, access controls, incident response, legal—is substantial and ongoing. As regulations tighten and customer expectations around data protection increase, these costs rise. Cre8's failure to maintain robust security or privacy practices can undermine customer trust and create material financial and legal liabilities.
 
 ## Talent Acquisition and Retention
 

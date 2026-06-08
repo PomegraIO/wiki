@@ -39,7 +39,7 @@ Ongoing capital expenditure is substantial — equipment replacement, mine devel
 
 Coal mining employs skilled and semi-skilled labor. Underground mining particularly requires trained miners, equipment operators, and safety personnel. Peabody operates mines 24/7 typically, with crews rotating in shifts. The workforce is concentrated in coal-producing regions, subject to regional labor market dynamics. Mining also involves unions and collective bargaining in many regions, affecting labor costs and work rules.
 
-Safety is paramount in mining. Accidents, fatalities, and injuries are significant operational and legal risks. The company invests heavily in safety systems, training, and compliance with mining regulations. A major incident at a mine can suspend operations, trigger investigations, and damage reputation.
+Safety is paramount in mining. Accidents, fatalities, and injuries are significant operational and [legal risks](/legal-risk/). The company invests heavily in safety systems, training, and compliance with mining regulations. A major incident at a mine can suspend operations, trigger investigations, and damage reputation.
 
 ## Commodity Price Exposure and Hedging
 

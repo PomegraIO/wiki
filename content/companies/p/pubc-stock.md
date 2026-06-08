@@ -65,4 +65,4 @@ Look at the annual and quarterly filings (SEC CIK 0001575858) for updates on rev
 
 The key question is whether the company is gaining market share in agricultural minerals (growing faster than the market) or stagnating. If revenue growth stalls and the kaolin-concrete project does not materialize, the company will likely remain a tiny, slow-growth operator. If either agricultural demand picks up or the kaolin opportunity advances, there is potential for the company to scale.
 
-Purebase is a speculative micro-cap with a real product in a real market but very limited scale. It is the sort of company that interests only the most patient investors and those willing to accept significant illiquidity and execution risk in exchange for exposure to a potential long-term compounder in agricultural sustainability.
+Purebase is a speculative micro-cap with a real product in a real market but very limited scale. It is the sort of company that interests only the most patient investors and those willing to accept significant illiquidity and [execution risk](/execution-risk/) in exchange for exposure to a potential long-term compounder in agricultural sustainability.

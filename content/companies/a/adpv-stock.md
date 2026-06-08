@@ -14,7 +14,7 @@ The Adaptiv Select ETF (ADPV) is an actively managed exchange-traded fund that a
 
 ## What drives the selection process
 
-The fund employs systematic screening across a broad universe of U.S.-listed stocks, filtering candidates based on a combination of financial metrics, valuation measures, and momentum indicators. This quantitative approach removes emotion from stock selection and applies consistent rules across market cycles. Stocks meeting the criteria are weighted according to their scores, creating a portfolio that might diverge significantly from traditional market-cap weighting. The methodology typically emphasizes companies exhibiting positive momentum, improving valuations, or both, though the exact weighting scheme remains proprietary to the fund sponsor.
+The fund employs systematic screening across a broad universe of U.S.-listed stocks, filtering candidates based on a combination of financial metrics, valuation measures, and momentum indicators. This quantitative approach removes emotion from stock selection and applies consistent rules across [market cycles](/market-cycle/). Stocks meeting the criteria are weighted according to their scores, creating a portfolio that might diverge significantly from traditional market-cap weighting. The methodology typically emphasizes companies exhibiting positive momentum, improving valuations, or both, though the exact weighting scheme remains proprietary to the fund sponsor.
 
 ## Costs and trading mechanics
 

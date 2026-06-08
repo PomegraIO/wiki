@@ -23,7 +23,7 @@ Cement is made by heating limestone, silica, iron, and alumina to roughly 1,450 
 
 The economics of cement hinge on utilization. A cement plant has a fixed capacity; once built, it either runs near full capacity (high margins) or runs far below it (severe losses). Demand is cyclical. In boom times, construction projects proliferate, ready-mix concrete plants need cement, and capacity runs hot. In a [recession](/recession/), construction collapses, orders dry up, and mills sit idle.
 
-Aggregates—sand, gravel, crushed stone—are even more location-specific than cement. A quarry operates where deposits exist; transportation by truck beyond roughly 100 miles becomes uneconomical. So Titan's aggregates business is truly local. A quarry in Georgia serves the Georgia and nearby-state market; a quarry in South Carolina serves the Carolinas. The advantage is high margins in a tight region once a quarry is permitted and running, but the disadvantage is that demand in any one region can swing sharply based on state highway budgets and local real estate cycles.
+Aggregates—sand, gravel, crushed stone—are even more location-specific than cement. A quarry operates where deposits exist; transportation by truck beyond roughly 100 miles becomes uneconomical. So Titan's aggregates business is truly local. A quarry in Georgia serves the Georgia and nearby-state market; a quarry in South Carolina serves the Carolinas. The advantage is high margins in a tight region once a quarry is permitted and running, but the disadvantage is that demand in any one region can swing sharply based on state highway budgets and local [real estate cycles](/real-estate-cycle/).
 
 ## Upstream dependencies and costs
 

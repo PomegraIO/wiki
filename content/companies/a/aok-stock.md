@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The iShares Core 30/70 Conservative Allocation ETF (ticker: AOK, on NYSE Arca) is built for people who need their money to be steady and predictable. It is mostly [bonds](/bond/) — seven parts bonds, three parts stocks — which means it does not bounce around as much as the [stock market](/stock-market/). If you are retired and living off your portfolio, or you are getting close and you cannot afford to see your money swing wildly up and down, this fund is the all-in-one answer.
+The iShares Core 30/70 Conservative Allocation ETF (ticker: AOK, on [NYSE Arca](/nyse-arca/)) is built for people who need their money to be steady and predictable. It is mostly [bonds](/bond/) — seven parts bonds, three parts stocks — which means it does not bounce around as much as the [stock market](/stock-market/). If you are retired and living off your portfolio, or you are getting close and you cannot afford to see your money swing wildly up and down, this fund is the all-in-one answer.
 
 <aside class="wiki-infobox">
 <table>

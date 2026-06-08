@@ -25,7 +25,7 @@ Community banks rely on net interest margin—the spread between what they earn 
 
 ## Deposit Flight in Competitive Environment
 
-Retail and commercial depositors increasingly shop for the best rates and are willing to move deposits with a single online transfer. A bank offering below-market rates will lose deposits to money-market funds, high-yield savings accounts, or competitors. Cullman, lacking the scale and brand of national banks, must either match rates (squeezing margins) or tolerate deposit outflows. Deposit outflows require the bank to shrink its loan book—fewer mortgages and small-business loans mean slower growth and lower revenue. The bank is trapped: maintain margins by accepting smaller deposits, or chase deposits by accepting lower spreads.
+Retail and commercial depositors increasingly shop for the best rates and are willing to move deposits with a single online transfer. A bank offering below-market rates will lose deposits to money-market funds, [high-yield savings accounts](/high-yield-savings-account/), or competitors. Cullman, lacking the scale and brand of national banks, must either match rates (squeezing margins) or tolerate deposit outflows. Deposit outflows require the bank to shrink its loan book—fewer mortgages and small-business loans mean slower growth and lower revenue. The bank is trapped: maintain margins by accepting smaller deposits, or chase deposits by accepting lower spreads.
 
 ## Credit Risk and Loan Portfolio Quality
 
@@ -33,7 +33,7 @@ Cullman's loan portfolio concentrates in its region. If a major employer in its 
 
 ## Limited Scale and Expense Base Disadvantage
 
-Smaller banks have higher costs per dollar of assets than larger institutions. Technology investments, compliance programs, and risk management require fixed costs that larger banks amortize across a bigger asset base. Cullman must maintain a compliance function, cybersecurity infrastructure, and anti-money-laundering systems comparable in rigor to large banks, but it cannot spread these costs across a $100 billion asset base. This leaves Cullman's cost-to-income ratio uncompetitive compared to national peers. Margins are already narrow; high costs relative to assets make profitability precarious.
+Smaller banks have higher costs per dollar of assets than larger institutions. Technology investments, compliance programs, and risk management require fixed costs that larger banks amortize across a bigger asset base. Cullman must maintain a compliance function, cybersecurity infrastructure, and anti-money-laundering systems comparable in rigor to large banks, but it cannot spread these costs across a $100 billion asset base. This leaves Cullman's [cost-to-income ratio](/cost-income-ratio/) uncompetitive compared to national peers. Margins are already narrow; high costs relative to assets make profitability precarious.
 
 ## Limited Capital and Shock Absorption
 

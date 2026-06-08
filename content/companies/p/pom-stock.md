@@ -13,11 +13,11 @@ handwritten: true
 
 > "Scale in healthcare is survival; without it, you are either a niche provider or an acquisition target."
 
-POMDOCTOR Limited is a Cayman Islands holding company operating a B2C online healthcare platform in China. The company sells pharmaceutical products through an internet portal and develops telemedicine services for chronic-disease management, connecting patients, pharmacies, suppliers, medical professionals, and other healthcare participants. It completed an [initial public offering](/initial-public-offering/) on the [NASDAQ](/nasdaq/) Global Market in 2023, raising capital by offering American Depositary Shares (ADSs) at $4.00 per share under the ticker symbol POM.
+POMDOCTOR Limited is a Cayman Islands holding company operating a B2C online healthcare platform in China. The company sells pharmaceutical products through an internet portal and develops telemedicine services for chronic-disease management, connecting patients, pharmacies, suppliers, medical professionals, and other healthcare participants. It completed an [initial public offering](/initial-public-offering/) on the [NASDAQ](/nasdaq/) Global Market in 2023, raising capital by offering American [Depositary Shares](/depositary-share/) (ADSs) at $4.00 per share under the ticker symbol POM.
 
 ## The structure and the regulatory context
 
-POMDOCTOR is a Cayman Islands company—a common structure for Chinese operating companies raising capital in the United States. The actual operations occur in China through subsidiaries and through a Variable Interest Entity (VIE) arrangement with Guangzhou Qilekang Digital Health Medical Technology Co., Ltd. A VIE is a contractual relationship that grants the Cayman parent economic rights and control of the Chinese operating subsidiary without direct ownership, a workaround to Chinese restrictions on foreign ownership of certain sectors including healthcare and internet services.
+POMDOCTOR is a Cayman Islands company—a common structure for Chinese operating companies raising capital in the United States. The actual operations occur in China through subsidiaries and through a [Variable Interest Entity](/variable-interest-entity/) (VIE) arrangement with Guangzhou Qilekang Digital Health Medical Technology Co., Ltd. A VIE is a contractual relationship that grants the Cayman parent economic rights and control of the Chinese operating subsidiary without direct ownership, a workaround to Chinese restrictions on foreign ownership of certain sectors including healthcare and internet services.
 
 VIE structures carry distinct risks. If Chinese regulators change rules around internet healthcare or foreign ownership, or if the VIE contracts are disputed, the Cayman parent could lose control or economic benefit. Several high-profile Chinese tech companies have faced VIE-related regulatory shocks, creating uncertainty for foreign investors.
 
@@ -66,7 +66,7 @@ Typically, the stock price will reflect whether management is deploying capital 
 Review SEC filings under CIK 0001877971:
 
 - **Business-segment breakdown**: Revenue from e-pharmacy, telemedicine, advertising, and other services. Which segments are growing fastest? Which are most profitable?
-- **User and provider metrics**: How many monthly active users? How many registered doctors? Trends in these numbers are leading indicators of platform traction.
+- **User and provider metrics**: How many monthly active users? How many registered doctors? Trends in these numbers are [leading indicators](/leading-indicator/) of platform traction.
 - **Geographic mix and concentration**: Is the company concentrated in one city or province, or dispersed across China? Geographic expansion is capital-intensive and risky.
 - **Gross margin trends**: Are margins stable or declining? Pricing pressure or competitive intensity shows up here.
 - **Operating expenses and burn rate**: Is the company moving toward profitability, or is cash burn accelerating?

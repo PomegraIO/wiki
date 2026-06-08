@@ -29,7 +29,7 @@ This appeal is strongest for retirees or others with low risk tolerance who do n
 
 ## Risks and limitations
 
-Despite the downside protection, buffer funds carry risks that are often misunderstood. First, the buffer is not a guarantee—it is a feature of that specific one-year outcome period. Once the year ends and the fund resets, the buffer resets too. If a massive crash happens just after a December reset, the new buffer may not protect against it. The protection is annual, not permanent.
+Despite the downside protection, [buffer funds](/buffer-fund/) carry risks that are often misunderstood. First, the buffer is not a guarantee—it is a feature of that specific one-year outcome period. Once the year ends and the fund resets, the buffer resets too. If a massive crash happens just after a December reset, the new buffer may not protect against it. The protection is annual, not permanent.
 
 Second, the upside is genuinely capped. A leveraged or unhedged large-cap fund might double in a strong decade; BDEC would capture only the buffered portion of that gain. Over a very long [holding period](/holding-period/), the lost upside compounds significantly. An investor who holds for 20 years misses out on the difference between uncapped and buffered returns, and that difference matters.
 

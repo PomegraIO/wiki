@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-CBRZ is the inverse twin of CBRX: a 2x short leveraged daily-reset ETF against the Cboe [Bitcoin](/bitcoin/) Volatility Risk Premium Index. Where CBRX is a bet that volatility premiums will stay fat and calm will persist, CBRZ is the mirror image — a bet that those premiums are overstated and that a volatility spike will compress them. The fund is structured for investors who expect the volatility risk premium to contract (realized volatility to exceed implied), and who want 2x leverage on that bet with daily rebalancing.
+CBRZ is the inverse twin of CBRX: a 2x short leveraged daily-reset ETF against the Cboe [Bitcoin](/bitcoin/) [Volatility Risk](/volatility-risk/) Premium Index. Where CBRX is a bet that volatility premiums will stay fat and calm will persist, CBRZ is the mirror image — a bet that those premiums are overstated and that a volatility spike will compress them. The fund is structured for investors who expect the volatility risk premium to contract (realized volatility to exceed implied), and who want 2x leverage on that bet with daily rebalancing.
 
 ## Short volatility premium: the thesis and the execution
 

@@ -51,7 +51,7 @@ The company faces a fundamental tension: its core warehouse and cargo business d
 
 A second pressure is competition. Warehouse and cargo handling are not high-barrier industries where a single player can dominate for decades without threat. Japanese competitors, multinational logistics giants like DHL and Kuehne+Nagel, and even clients' own vertical integration all erode pricing power. Mitsui-Soko's advantage lies in its scale, its geographic network, and specialized expertise in sectors like pharmaceuticals, but these are gradually commoditizing as new entrants build similar capabilities.
 
-The company also carries exposure to its home market's particular vulnerabilities: Japan's aging workforce, deflationary pressures, and mature domestic demand for goods. Much of the growth the company pursues must come from international expansion, particularly in Southeast Asia and India, which introduces execution risk and currency headwinds.
+The company also carries exposure to its home market's particular vulnerabilities: Japan's aging workforce, deflationary pressures, and mature domestic demand for goods. Much of the growth the company pursues must come from international expansion, particularly in Southeast Asia and India, which introduces [execution risk](/execution-risk/) and currency headwinds.
 
 ## How to Research Mitsui-Soko
 

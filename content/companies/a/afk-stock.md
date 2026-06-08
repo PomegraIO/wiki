@@ -27,7 +27,7 @@ South Africa's dominance reflects economic reality: it is the continent's larges
 
 ## How the fund works and what it costs
 
-AFK is a standard, non-leveraged ETF. It holds the underlying stocks directly or holds them through subsidiary funds, moving proportionally with the index. Shares trade on the NYSE Arca exchange during market hours, meaning investors can buy or sell throughout the day at market prices rather than once-daily pricing. The fund's [expense ratio](/expense-ratio/) reflects the costs of holding a basket of less-liquid stocks across multiple African exchanges and currencies.
+AFK is a standard, non-leveraged ETF. It holds the underlying stocks directly or holds them through subsidiary funds, moving proportionally with the index. Shares trade on the [NYSE Arca](/nyse-arca/) exchange during market hours, meaning investors can buy or sell throughout the day at market prices rather than once-daily pricing. The fund's [expense ratio](/expense-ratio/) reflects the costs of holding a basket of less-liquid stocks across multiple African exchanges and currencies.
 
 The fund is denominated in [U.S. dollars](/us-dollar/), so U.S.-based investors buying AFK are implicitly taking a position in African currencies — primarily [South African rand](/south-african-rand/), Egyptian pound, Nigerian naira, and others. When those currencies strengthen against the dollar, AFK benefits from currency appreciation on top of stock gains. When they weaken, AFK loses that currency windfall. For investors, this currency exposure is both a feature ([diversification](/diversification/) beyond pure equities) and a risk (currency moves can be volatile and swamp stock performance).
 

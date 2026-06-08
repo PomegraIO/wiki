@@ -33,7 +33,7 @@ Movado positions its watches at the premium-to-luxury price point, typically ran
 
 ## Promotional Environment and Margin Compression
 
-When demand softens, luxury goods companies face pressure to move inventory through discounting. Department stores, particularly those facing margin pressure of their own, push brands for promotional programs and markdowns. In strong demand environments, Movado can maintain pricing discipline; in weak environments, the company is forced to support retail with promotional spending, coupons, and clearance sales. This dynamic can erode gross margins by 200–400 basis points when the [business cycle](/business-cycle/) deteriorates. The company's [gross-profit-margin](/gross-profit-margin/) is therefore a leading indicator of whether the business is in a strong or weak demand phase.
+When demand softens, luxury goods companies face pressure to move inventory through discounting. Department stores, particularly those facing margin pressure of their own, push brands for promotional programs and markdowns. In strong demand environments, Movado can maintain pricing discipline; in weak environments, the company is forced to support retail with promotional spending, coupons, and clearance sales. This dynamic can erode gross margins by 200–400 basis points when the [business cycle](/business-cycle/) deteriorates. The company's [gross-profit-margin](/gross-profit-margin/) is therefore a [leading indicator](/leading-indicator/) of whether the business is in a strong or weak demand phase.
 
 ## Geographic Exposure and Currency
 

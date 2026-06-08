@@ -37,7 +37,7 @@ The fund seeks both current income through dividends paid by the stocks it owns 
 
 The investment process is genuinely fundamental. It is not built on chasing trends or spotting algorithmic patterns. It is built on answering real questions: Does this company have sustainable competitive advantages? Are its managers competent and honest? Can it grow earnings faster than the broader market? Is the stock price reasonable given the prospects?
 
-The fund typically holds 30 to 60 stocks. That is concentrated enough that each position reflects a real conviction, but diverse enough to spread risk across different industries and company profiles. The managers work together, debating which opportunities offer the best risk-reward trade-off.
+The fund typically holds 30 to 60 stocks. That is concentrated enough that each position reflects a real conviction, but diverse enough to [spread risk](/spread-risk/) across different industries and company profiles. The managers work together, debating which opportunities offer the best risk-reward trade-off.
 
 This is the opposite of a passive fund that simply holds everything in an index. Thornburg's managers are making choices about which specific companies to own and which to avoid. They believe their research allows them to identify better opportunities than the market price reflects.
 

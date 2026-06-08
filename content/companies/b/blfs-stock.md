@@ -49,7 +49,7 @@ BIOLIFE's [primary market](/primary-market/) has been North America, where most 
 
 ## Research Path
 
-Study BIOLIFE's 10-K for detail on revenue by product line (media vs. logistics), gross-margin trends, customer concentration, and manufacturing capacity plans. Monitor quarterly earnings calls for color on new cell-therapy program wins and on adoption rates of BIOLIFE's services by major cell-therapy manufacturers. Track FDA approvals and clinical trial readouts for cell therapies—these are leading indicators of future demand for BIOLIFE's products. Review competitive announcements from larger life-sciences suppliers regarding their cell-therapy preservation offerings.
+Study BIOLIFE's 10-K for detail on revenue by product line (media vs. logistics), gross-margin trends, customer concentration, and manufacturing capacity plans. Monitor quarterly earnings calls for color on new cell-therapy program wins and on adoption rates of BIOLIFE's services by major cell-therapy manufacturers. Track FDA approvals and clinical trial readouts for cell therapies—these are [leading indicators](/leading-indicator/) of future demand for BIOLIFE's products. Review competitive announcements from larger life-sciences suppliers regarding their cell-therapy preservation offerings.
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>

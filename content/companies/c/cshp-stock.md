@@ -1,0 +1,31 @@
+---
+title: "iShares Enhanced Short-Term Bond Active ETF (CSHP)"
+description: "An actively managed ETF holding short-term corporate and government bonds, where a human fund manager makes portfolio decisions to seek outperformance over a passive index."
+keywords:
+  - bond fund
+  - active management
+  - short-term debt
+  - fixed income
+  - ishares
+handwritten: true
+---
+
+The iShares Enhanced Short-Term [Bond](/bond/) [Active ETF](/active-etf/) brings active decision-making to the short-term bond market. Rather than simply tracking an index of short-term bonds — which a passive fund would do — CSHP employs a portfolio manager or team who select specific bonds, duration, and sector positioning to target returns above those of a passive short-term bond index. The fund holds [corporate bonds](/corporate-bond/) from investment-grade companies, government securities, and other short-term debt instruments, typically with maturities under five years.
+
+This is active management applied to the fixed-income world, which has its own distinct challenges and opportunities compared to stock picking. A bond manager's advantage comes not from predicting individual company fates, but from positioning early on interest-rate moves, finding value in [credit spreads](/credit-spread/) across sectors, and understanding term structure — the different yields available at different time horizons. The question is whether a manager's skill at these tasks can overcome the drag of the fund's [expense ratio](/expense-ratio/) and cover transaction costs.
+
+The fund's selection of "short-term" bonds is deliberate. Short-term bonds are less sensitive to interest-rate swings than long-term bonds, which means the fund will not move dramatically in price if the [Federal Reserve](/federal-reserve/) unexpectedly raises or cuts rates. This makes the fund less volatile than a long-term bond fund but also means returns are more muted. A short-term bond fund is not meant to deliver equity-like growth; it is meant to provide steady income with lower drawdowns.
+
+The active component gives the manager latitude to rotate between sectors. If the manager believes corporate spreads are too tight relative to risk — that companies are paying too little above government rates to compensate for default risk — the fund can tilt toward government bonds. If the manager sees opportunity in certain corporate sectors, the fund can overweight those names. This flexibility is the theoretical advantage over a passive [index fund](/index-fund/), which has no such discretion.
+
+The fund itself is sponsored by iShares, a major ETF subsidiary of [BlackRock](/blk-stock/), one of the world's largest asset managers. BlackRock's fixed-income team brings research capabilities and scale, but like all [actively managed funds](/actively-managed-fund/), CSHP faces the challenge that most active managers fail to beat their indexes over time. This is especially true in the bond market, where credit-rating agencies and the broader market process information relatively quickly, making it harder for a single manager to exploit mispricing at scale.
+
+CSHP's returns depend almost entirely on whether the portfolio manager's bond-selection and positioning decisions outweigh the cost of running the fund. This requires looking at the trailing three-, five-, and ten-year records versus a suitable benchmark — typically a broad short-term bond index from Bloomberg or another provider. A fund that has beaten its benchmark over rolling periods suggests genuine skill or at minimum a style that has been rewarded in the recent environment. A fund that has trailed its benchmark should raise the question of whether the fee is worth paying.
+
+The fund carries an annual expense ratio that is higher than a passive short-term [bond ETF](/bond-etf/) — which might cost 0.03% to 0.1% — but lower than a traditional actively managed bond [mutual fund](/mutual-fund/). The exact figure depends on fund size and BlackRock's pricing, typically in the range of 0.3% to 0.6% per year. On a 3–4% yield from short-term bonds, this expense ratio represents a meaningful slice of returns.
+
+[Interest-rate risk](/interest-rate-risk/) exists but is muted. A short-term bond fund's value will still decline if rates rise sharply, because existing bonds become less attractive as new issuances offer higher yields. But the magnitude of decline is much smaller than in a long-term bond fund. A fund with an average maturity of three years might lose 3–5% in value if short-term rates jump suddenly by 100 basis points. A long-term fund could lose 20% or more. This makes CSHP suitable for investors who want predictable income but still need some protection against rising rates.
+
+[Credit risk](/credit-risk/) is present but controlled. The fund holds [investment-grade bonds](/investment-grade-bond/) — debt rated BBB– and higher by rating agencies — which are the safer tier of corporate debt. These companies have manageable debt loads and reasonably reliable cash flows. But investment-grade is not risk-free; in a severe [recession](/recession/) or if a particular company falls out of favor, the fund's value can decline if the market reprices the credit risk. The 2008 financial crisis saw even highly rated corporate bonds decline sharply as investors repriced credit globally.
+
+Any investor considering CSHP should start with iShares' fund fact sheet and prospectus, which detail the current holdings, the manager's approach, the expense ratio, and the fund's allocation across sectors and geographies. Compare CSHP's trailing performance against a passive short-term bond index like the Bloomberg Aggregate Bond Index's short-term subset. Over the past three years and five years, has the manager added enough value to cover the extra fees? If the fund has trailed consistently, the case for active management is weak. If the fund has beaten its benchmark over multiple trailing periods, examine whether that outperformance seems durable or driven by sector bets that might reverse. Watch the fund's portfolio turnover: very high turnover suggests the manager is trading frequently (perhaps incurring costs) in pursuit of edge. Review the holdings list to understand whether the portfolio is genuinely concentrated in the strongest credits or if it is indistinguishable from a passive fund.

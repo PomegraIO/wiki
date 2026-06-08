@@ -37,7 +37,7 @@ The fund also carries [market risk](/market-risk/). Even if the underlying real 
 
 ## Real estate cycle and interest rates
 
-Real estate is highly sensitive to the economic cycle and to interest rates. In a strong economy, companies expand and need more office space, retailers do well and fill shopping centers, and residents move up to larger homes. Rents rise and vacancy rates fall. Property values climb. The opposite happens in downturns: empty offices, shuttered stores, defaults. Real estate is also sensitive to [inflation](/inflation/) and interest rates. Rising rates reduce the present value of future rent streams, pushing down property prices. They also make mortgage borrowing more expensive, dampening demand.
+Real estate is highly sensitive to the economic cycle and to interest rates. In a strong economy, companies expand and need more office space, retailers do well and fill shopping centers, and residents move up to larger homes. Rents rise and [vacancy rates](/vacancy-rate-property/) fall. Property values climb. The opposite happens in downturns: empty offices, shuttered stores, defaults. Real estate is also sensitive to [inflation](/inflation/) and interest rates. Rising rates reduce the present value of future rent streams, pushing down property prices. They also make mortgage borrowing more expensive, dampening demand.
 
 A closed-end fund investing in real estate will have good years during strong economic periods with stable interest rates, and tough years when the cycle turns or rates spike. Understanding where we are in the cycle and where rates are headed is crucial to understanding the fund's near-term prospects.
 

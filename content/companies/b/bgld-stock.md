@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **FT Vest Gold Strategy Quarterly Buffer ETF** (ticker BGLD) pursues gold exposure with a protective twist: it wraps a quarterly buffer mechanism around a gold underlying, aiming to cushion investors against losses while capturing gains within a capped range.*
+*The **FT Vest Gold Strategy Quarterly [Buffer ETF](/buffer-etf/)** (ticker BGLD) pursues gold exposure with a protective twist: it wraps a quarterly buffer mechanism around a gold underlying, aiming to cushion investors against losses while capturing gains within a capped range.*
 
 > "A buffered ETF trades upside for downside protection — you get a cushion against loss, but your gains are capped at a set ceiling."
 

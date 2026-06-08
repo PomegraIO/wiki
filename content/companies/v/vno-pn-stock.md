@@ -19,7 +19,7 @@ handwritten: true
 
 Unlike banks, which take deposits and make loans, and unlike industrials, which manufacture goods, REITs exist to own real estate and distribute most of their income to shareholders. By law, a REIT must distribute at least 90% of its taxable income to shareholders as dividends, and those dividends are taxable at ordinary income rates for most recipients. That high payout requirement means REITs are perpetually capital-constrained—they need new debt or equity to fund [acquisitions](/acquisition/), renovations, or debt repayment.
 
-Vornado Realty Trust is a diversified REIT, meaning it owns multiple property types: office buildings and campuses (the largest slice, concentrated in Washington DC and New York), retail centers including premium malls and urban retail, and apartment buildings. This [diversification](/diversification/) provides some cushion if one property type falls out of favor, but it also means Vornado's fortunes track the health of three different real estate markets with different fundamentals.
+Vornado Realty Trust is a [diversified REIT](/diversified-reit/), meaning it owns multiple property types: office buildings and campuses (the largest slice, concentrated in Washington DC and New York), retail centers including premium malls and urban retail, and apartment buildings. This [diversification](/diversification/) provides some cushion if one property type falls out of favor, but it also means Vornado's fortunes track the health of three different real estate markets with different fundamentals.
 
 ## Why perpetual preferreds for a REIT
 

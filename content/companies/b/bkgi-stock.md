@@ -17,7 +17,7 @@ handwritten: true
 
 Infrastructure assets are the backbone of modern economies. Toll roads collect payments from drivers. Water utilities collect from households and industry. Airports and seaports move goods. Electricity networks distribute power. Telecommunications networks carry data. Gas pipelines transport fuel. Data centers house servers. These are all essential services that are difficult to replace and generate predictable cash flows. Demand for them does not vanish in [recessions](/recession/), which is why infrastructure owners can reliably pay dividends. Most infrastructure assets are long-lived, with concession agreements or regulated rates that protect returns, so the revenues can be quite stable across economic cycles.
 
-The return profile is attractive to many investors: modest but reliable [dividend yields](/dividend-yield/), some capital appreciation from growth, and lower volatility than typical equities. For that reason, infrastructure funds have become popular in pension portfolios and with conservative investors seeking income.
+The return profile is attractive to many investors: modest but reliable [dividend yields](/dividend-yield/), some capital appreciation from growth, and lower volatility than typical equities. For that reason, [infrastructure funds](/pe-infrastructure-fund/) have become popular in pension portfolios and with conservative investors seeking income.
 
 ## BKGI's global reach
 

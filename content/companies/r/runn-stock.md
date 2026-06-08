@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Running Oak Efficient [Growth ETF](/growth-etf/) (RUNN)** is an [actively managed fund](/actively-managed-fund/) that selects U.S. stocks by combining multiple investment factors—value, momentum, quality, and others—to identify underpriced companies with strong price momentum, wrapping the strategy in a defined-outcome structure that caps upside in exchange for downside protection.*
+*The **Running Oak Efficient [Growth ETF](/growth-etf/) (RUNN)** is an [actively managed fund](/actively-managed-fund/) that selects U.S. stocks by combining multiple [investment factors](/investment-factor-asset-growth/)—value, momentum, quality, and others—to identify underpriced companies with strong price momentum, wrapping the strategy in a defined-outcome structure that caps upside in exchange for downside protection.*
 
 ## What is RUNN and what does it track?
 
@@ -39,7 +39,7 @@ RUNN is an ETF, so it trades on an exchange ([NASDAQ](/nasdaq/) under the ticker
 
 The defined-outcome feature appeals to investors who are uncomfortable with large annual swings in their portfolio and prefer to know the range of possible outcomes in advance. It also appeals to those who see tail-risk events as a real [cost of equity](/cost-of-equity/) ownership and want insurance. However, the capped upside means that in a year when U.S. equities soar, RUNN will participate less fully. Over very long periods, this cap likely becomes a drag relative to a fully exposed equity fund.
 
-RUNN is most suitable for investors who prefer limited upside in strong [bull markets](/bull-market/) in exchange for downside protection, who want exposure to U.S. equities without uncapped volatility, and who understand that factor premiums are real but cyclical and not guaranteed in any given period.
+RUNN is most suitable for investors who prefer limited upside in strong [bull markets](/bull-market/) in exchange for downside protection, who want exposure to U.S. equities without uncapped volatility, and who understand that [factor premiums](/factor-premium/) are real but cyclical and not guaranteed in any given period.
 
 ## Understanding the fund through its prospectus
 

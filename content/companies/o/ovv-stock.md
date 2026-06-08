@@ -37,7 +37,7 @@ Ovintiv's revenue comes from selling the oil and natural gas it produces. A barr
 
 The business is inherently cyclical: when oil prices are high, margins are wide and companies earn large profits and can reinvest in drilling. When prices are low, margins compress, some projects become uneconomical, and companies cut capital spending or even suspend production. Ovintiv's profitability swings with the oil and natural gas cycle, a characteristic that defines the investment case.
 
-Beyond production revenue, the company generates modest income from natural gas liquids (NGLs) recovered during production and from selling non-core assets. The vast majority of revenue, however, comes from commodity sales.
+Beyond production revenue, the company generates modest income from [natural gas liquids](/natural-gas-liquids/) (NGLs) recovered during production and from selling non-core assets. The vast majority of revenue, however, comes from commodity sales.
 
 ## The asset base and the production profile
 

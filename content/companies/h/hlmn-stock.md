@@ -41,7 +41,7 @@ Yet these are tendencies, not guarantees. A severe economic shock could erase ye
 
 ## Reading the Filings for Cyclical Signals
 
-Hillman's [10-K](/10-k/) will reveal how the company measures its own cyclicality: backlog trends, inventory-to-sales ratios, days-sales-outstanding metrics, and [forward guidance](/forward-guidance/). In the "Risk Factors" section, the company explicitly identifies construction cycles and economic sensitivity. Investors should track inventory buildup as a leading indicator of a demand slowdown and debt levels as a measure of financial fragility in a downturn. A company loaded with fixed-debt obligations faces greater stress when [operating margins](/operating-margin/) compress.
+Hillman's [10-K](/10-k/) will reveal how the company measures its own cyclicality: backlog trends, [inventory-to-sales ratios](/inventory-to-sales-ratio/), days-sales-outstanding metrics, and [forward guidance](/forward-guidance/). In the "Risk Factors" section, the company explicitly identifies construction cycles and economic sensitivity. Investors should track inventory buildup as a [leading indicator](/leading-indicator/) of a demand slowdown and debt levels as a measure of financial fragility in a downturn. A company loaded with fixed-debt obligations faces greater stress when [operating margins](/operating-margin/) compress.
 
 The company's relationship with major retailers (home centers, for instance) also matters. Large retail customers have bargaining leverage and can demand favorable terms, which Hillman must absorb or risk losing volume. In a tightening credit environment, Hillman may also face longer [cash conversion cycles](/cash-conversion-cycle/)—customers pay slower, and suppliers demand faster payment—squeezing working capital.
 

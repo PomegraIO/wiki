@@ -45,7 +45,7 @@ Asset quality, interest margins, and capital levels are the three primary levers
 
 The company's SEC filings detail its deposit base by type: demand deposits (checking accounts), savings, money market, and time deposits (certificates of deposit). The company discloses the concentration of deposits by size of depositor (to assess whether a few large depositors represent [concentration risk](/concentration-risk/)) and the average rate paid on deposits.
 
-Deposits are the primary source of funding for a bank's lending activities. The company's filings emphasize deposit growth and the stability of its deposit base as competitive strengths. The company discloses whether it relies on brokered deposits (deposits sourced through intermediaries rather than through branch relationships), which are typically less stable and more rate-sensitive than core deposits.
+Deposits are the primary source of funding for a bank's lending activities. The company's filings emphasize deposit growth and the stability of its deposit base as competitive strengths. The company discloses whether it relies on [brokered deposits](/brokered-deposit/) (deposits sourced through intermediaries rather than through branch relationships), which are typically less stable and more rate-sensitive than core deposits.
 
 The company's filings note that deposit competition in its markets is intense, with community banks, credit unions, and online banks all competing for deposits. The company must therefore offer competitive rates to retain existing deposits and attract new ones, a constraint that limits the interest margins the bank can earn.
 

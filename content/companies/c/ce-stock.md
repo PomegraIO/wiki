@@ -30,7 +30,7 @@ The business model relies on scale and vertical integration. A portion of the ac
 
 ## Revenue and Market Position
 
-The company's revenue in recent years has typically centered on approximately $8 billion to $10 billion annually, though this figure varies with oil and chemical market cycles. The Acetyl Chain accounts for roughly 50–55% of sales; Engineered Materials account for the balance. Profitability is cyclical, driven by the difference between raw material costs (feedstock chemicals derived from crude oil and natural gas) and the selling prices of finished products, which lag commodity input prices by quarters and are often negotiated annually on longer-term contracts.
+The company's revenue in recent years has typically centered on approximately $8 billion to $10 billion annually, though this figure varies with oil and chemical [market cycles](/market-cycle/). The Acetyl Chain accounts for roughly 50–55% of sales; Engineered Materials account for the balance. Profitability is cyclical, driven by the difference between raw material costs (feedstock chemicals derived from crude oil and natural gas) and the selling prices of finished products, which lag commodity input prices by quarters and are often negotiated annually on longer-term contracts.
 
 Major customers include large chemical distributors, automotive OEMs, adhesive manufacturers, and paint and coatings producers. The top ten customers typically represent 20–25% of sales. International revenue is substantial—roughly 40–50% of total sales come from operations outside North America—and the company faces competition from well-capitalized European and Asian chemical manufacturers, particularly in acetyl intermediates where Chinese producers have gained cost advantages.
 

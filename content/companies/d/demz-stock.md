@@ -24,7 +24,7 @@ handwritten: true
 </table>
 </aside>
 
-The Democratic Large Cap Core ETF inverts the usual model of index-fund construction. Rather than relying on a commercial index provider or a single manager's judgement, DEMZ gives its investors a ballot. Each year, shareholders vote directly on which large-cap US stocks belong in the portfolio, turning the fund's composition into an explicit expression of collective values rather than a top-down mandate.
+The Democratic Large Cap Core ETF inverts the usual model of index-fund construction. Rather than relying on a commercial [index provider](/index-provider/) or a single manager's judgement, DEMZ gives its investors a ballot. Each year, shareholders vote directly on which large-cap US stocks belong in the portfolio, turning the fund's composition into an explicit expression of collective values rather than a top-down mandate.
 
 ## How voting shapes the portfolio
 
@@ -50,4 +50,4 @@ Voting introduces material uncertainty. Holdings can shift substantially year to
 
 ## Who should consider DEMZ
 
-Best suited to investors wanting large-cap exposure with explicit values alignment and who find traditional ESG indices too rigid or imposed. It works for longer-term holders comfortable with modest annual portfolio turnover and tracking error versus the broad market. Tax-advantaged accounts like IRAs, where turnover carries no tax cost, make DEMZ particularly appealing. Passive investors seeking minimal decision burden or those indifferent to ESG are better served by simple broad-market index funds at lower cost. Research the prospectus, recent ballots, and historical fact sheets. Compare DEMZ's performance against the S&P 500 and other ESG large-cap funds over various market cycles to assess whether voting adds or subtracts value in practice.
+Best suited to investors wanting large-cap exposure with explicit values alignment and who find traditional ESG indices too rigid or imposed. It works for longer-term holders comfortable with modest annual portfolio turnover and tracking error versus the broad market. Tax-advantaged accounts like IRAs, where turnover carries no tax cost, make DEMZ particularly appealing. Passive investors seeking minimal decision burden or those indifferent to ESG are better served by simple broad-market index funds at lower cost. Research the prospectus, recent ballots, and historical fact sheets. Compare DEMZ's performance against the S&P 500 and other ESG large-cap funds over various [market cycles](/market-cycle/) to assess whether voting adds or subtracts value in practice.

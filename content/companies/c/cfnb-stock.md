@@ -39,7 +39,7 @@ CFNB's customers are typically small-to-mid-size businesses and fleet operators.
 
 CFNB's credit losses spike during [recessions](/recession/) when small-business failure rates rise. A construction boom drives lease demand and low defaults; a construction bust drives low demand and high defaults. CFNB must hold reserves (set aside capital) to cover expected losses, which reduces reported earnings. Severe underestimation of credit losses (too-optimistic underwriting during booms) can result in large write-downs when losses materialize in busts.
 
-The company's [earnings-per-share](/earnings-per-share/) volatility is therefore tied to the small-business credit cycle. CFNB in a boom year may report strong earnings that subsequently reverse when the cycle turns. Shareholders are skeptical of earnings peaks during booms because they know losses are coming.
+The company's [earnings-per-share](/earnings-per-share/) volatility is therefore tied to the small-business [credit cycle](/credit-cycle/). CFNB in a boom year may report strong earnings that subsequently reverse when the cycle turns. Shareholders are skeptical of earnings peaks during booms because they know losses are coming.
 
 ## Residual Value and Equipment Disposition
 

@@ -41,9 +41,9 @@ This combination of debt and equity is the central strategy. The debt provides s
 
 ## Portfolio composition and investment size
 
-Gladstone typically makes individual investments of up to $75 million in a single portfolio company, and it often serves as the primary or sole equity and debt provider. This concentrated influence allows Gladstone board representation: the company participates on the boards of its portfolio companies and has say in strategic decisions. In return, Gladstone often has the right of first refusal if the portfolio company wants to raise additional capital, ensuring that Gladstone can maintain or increase its ownership position.
+Gladstone typically makes individual investments of up to $75 million in a single portfolio company, and it often serves as the primary or sole equity and debt provider. This concentrated influence allows Gladstone board representation: the company participates on the boards of its portfolio companies and has say in strategic decisions. In return, Gladstone often has the [right of first refusal](/right-of-first-refusal-equity/) if the portfolio company wants to raise additional capital, ensuring that Gladstone can maintain or increase its ownership position.
 
-The portfolio is diversified across industries and geographies—commercial services, industrial manufacturing, healthcare, software and IT services, and specialty finance are typical sectors—to spread risk. However, [diversification](/diversification/) is imperfect: these are all lower-middle-market businesses with revenue between roughly $20 million and $100 million, all deeply illiquid, and all sensitive to economic cycles and competition. If a [recession](/recession/) hits, multiple portfolio companies may struggle simultaneously.
+The portfolio is diversified across industries and geographies—commercial services, industrial manufacturing, healthcare, software and IT services, and specialty finance are typical sectors—to [spread risk](/spread-risk/). However, [diversification](/diversification/) is imperfect: these are all lower-middle-market businesses with revenue between roughly $20 million and $100 million, all deeply illiquid, and all sensitive to economic cycles and competition. If a [recession](/recession/) hits, multiple portfolio companies may struggle simultaneously.
 
 ## How Gladstone funds itself
 

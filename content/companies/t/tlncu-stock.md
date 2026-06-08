@@ -21,7 +21,7 @@ The separation of units into distinct tradable instruments (shares under TLNC, w
 
 ## Sector focus: energy and power transition
 
-Talon's stated investment thesis targets the energy and power sectors, with particular emphasis on businesses exposed to decarbonisation trends and the global energy transition. This framing — common in post-2021 SPACs — reflects investor appetite for companies poised to benefit from renewable energy adoption, electric-vehicle proliferation, grid modernisation, carbon capture, and related trends. The company has not publicly announced a specific target, so potential acquisition candidates remain unknown. Readers should expect the target to be announced in a regulatory filing (Form 8-K) and fleshed out in a subsequent proxy statement filed with the SEC.
+Talon's stated investment thesis targets the energy and power sectors, with particular emphasis on businesses exposed to decarbonisation trends and the global energy transition. This framing — common in post-2021 SPACs — reflects investor appetite for companies poised to benefit from renewable energy adoption, electric-vehicle proliferation, grid modernisation, carbon capture, and related trends. The company has not publicly announced a specific target, so potential acquisition candidates remain unknown. Readers should expect the target to be announced in a regulatory filing (Form 8-K) and fleshed out in a subsequent [proxy statement](/proxy-statement/) filed with the SEC.
 
 ## The SPAC redemption risk
 

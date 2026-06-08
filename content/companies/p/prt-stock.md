@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-PermRock Royalty Trust holds a straightforward but elegant asset: an eighty percent net profits interest in oil and gas properties in the Permian Basin. Unlike oil companies that pump their own wells, hire geologists, and carry the machinery and cost, PermRock does none of those things. It owns the right to collect a slice of the profits after someone else sells the extracted oil and gas. The trust has no employees. It collects cash, pays the bills, and passes what remains to its unitholders in monthly distributions. This is how a royalty trust works — a legal structure that lets a company harvest cash from energy without the overhead of an operating business.
+PermRock Royalty Trust holds a straightforward but elegant asset: an eighty percent net [profits interest](/profits-interest/) in oil and gas properties in the Permian Basin. Unlike oil companies that pump their own wells, hire geologists, and carry the machinery and cost, PermRock does none of those things. It owns the right to collect a slice of the profits after someone else sells the extracted oil and gas. The trust has no employees. It collects cash, pays the bills, and passes what remains to its unitholders in monthly distributions. This is how a royalty trust works — a legal structure that lets a company harvest cash from energy without the overhead of an operating business.
 
 <aside class="wiki-infobox">
 <table>

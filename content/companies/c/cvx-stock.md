@@ -49,7 +49,7 @@ Chevron, like other major oil companies, has begun investing in renewable energy
 
 ## Geopolitical exposure and commodity-price volatility
 
-Chevron operates in multiple countries and is exposed to political risk. A civil war, a coup, a regulatory change, or a resource-nationalist government that raises taxes on oil exports can all disrupt operations and profits. The company has had to navigate the Venezuelan political crisis, sanctions regimes that affect where it can operate, and environmental activism that has blocked some development projects. These risks are not theoretical; they have caused Chevron to write off or defer billions in asset values.
+Chevron operates in multiple countries and is exposed to [political risk](/political-risk/). A civil war, a coup, a regulatory change, or a resource-nationalist government that raises taxes on oil exports can all disrupt operations and profits. The company has had to navigate the Venezuelan political crisis, sanctions regimes that affect where it can operate, and environmental activism that has blocked some development projects. These risks are not theoretical; they have caused Chevron to write off or defer billions in asset values.
 
 Commodity prices introduce another layer of volatility. When oil prices soar, Chevron's earnings can double or triple year-over-year. When prices collapse, profits can shrink just as dramatically. This creates a challenge for long-term investors and employees: in a good year, the company might spend freely and make optimistic forecasts; in a bad year, it must slash capital budgets and lay off workers. The most disciplined integrated oil companies try to smooth this volatility by living within a disciplined spending envelope even in good years, saving profits in downturns, and maintaining a healthy balance sheet. Chevron has generally been better at this than some peers, but commodity volatility still creates real uncertainty.
 
@@ -63,7 +63,7 @@ One major project consuming significant capital is Chevron's stake in the Tengiz
 
 Chevron has positioned itself as the "[free cash flow](/free-cash-flow/)" story among oil companies. Rather than spending every dollar it earns on development, the company aims to generate large amounts of cash after paying [dividends](/dividend/) and maintaining the core business. That free cash flow is returned to shareholders through [share buybacks](/share-buyback/) or available for additional dividends. During periods of high oil prices, when Chevron's cash generation is exceptional, this approach has made the stock attractive to yield-seeking investors.
 
-The company's capital discipline — its willingness to say no to development projects that do not meet hurdle rates — distinguishes it from some competitors that have historically pursued growth at all costs. This discipline is unpopular in boom years but prevents the massive write-downs and restructurings that companies sometimes face when commodity prices inevitably fall.
+The company's capital discipline — its willingness to say no to development projects that do not meet [hurdle rates](/hurdle-rate/) — distinguishes it from some competitors that have historically pursued growth at all costs. This discipline is unpopular in boom years but prevents the massive write-downs and restructurings that companies sometimes face when commodity prices inevitably fall.
 
 ## The refining and marketing arm
 

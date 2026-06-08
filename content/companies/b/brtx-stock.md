@@ -33,7 +33,7 @@ Even if BRTX obtains FDA clearance, payers (insurers, government programs, hospi
 
 ## Capital Availability and Financing Stress
 
-Biotech financing markets are cyclical and sentiment-driven. When investor appetite for early-stage biotech cools — during market downturns, rising [interest rates](/interest-rate/), or periods of sector-wide clinical disappointments — companies like BRTX face a freeze: existing capital sources dry up, and the company must either halt programs or dilute shareholders at punitive terms. BRTX's ability to raise capital hinges on trial momentum. A delay or setback can shift perception from "promising catalyst ahead" to "execution risk ahead," widening financing costs dramatically or closing the door entirely.
+Biotech financing markets are cyclical and sentiment-driven. When investor appetite for early-stage biotech cools — during market downturns, rising [interest rates](/interest-rate/), or periods of sector-wide clinical disappointments — companies like BRTX face a freeze: existing capital sources dry up, and the company must either halt programs or dilute shareholders at punitive terms. BRTX's ability to raise capital hinges on trial momentum. A delay or setback can shift perception from "promising catalyst ahead" to "[execution risk](/execution-risk/) ahead," widening financing costs dramatically or closing the door entirely.
 
 ## Competitive Displacement Risk
 

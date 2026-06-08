@@ -31,11 +31,11 @@ Securities custody and nominee services involve holding client assets, settling 
 
 ## Asset Management Services: Long-Term Capital Deployment
 
-The second segment bundles asset management offerings. Unlike securities brokerage, where Plutus is largely earning fees on client transactions, asset management involves deploying capital into portfolios on behalf of clients—[mutual funds](/mutual-fund/), separately managed accounts, or investment vehicles—and earning [management fees](/management-fee/) based on assets under management.
+The second segment bundles asset management offerings. Unlike securities brokerage, where Plutus is largely earning fees on client transactions, asset management involves deploying capital into portfolios on behalf of clients—[mutual funds](/mutual-fund/), [separately managed accounts](/separately-managed-account/), or investment vehicles—and earning [management fees](/management-fee/) based on assets under management.
 
 This segment's appeal is predictability. A fund with $100 million under management that charges a 1.0% management fee generates $1 million in annual revenue, regardless of market conditions. Growth comes from raising more capital into funds, acquiring existing assets under management, or charging higher fees for superior performance.
 
-The challenge is competition and the secular trend toward lower fees. Global asset managers and low-cost index providers have compressed margins across the industry. Smaller, regional players like Plutus must compete on differentiation—expertise, local market knowledge, personalized service, or specialized strategies—or resign themselves to slower growth and lower margins. The shift toward passive investing ([index funds](/index-fund/)) globally has also reduced demand for active management, where asset managers must justify their fees through outperformance.
+The challenge is competition and the secular trend toward lower fees. Global asset managers and low-cost [index providers](/index-provider/) have compressed margins across the industry. Smaller, regional players like Plutus must compete on differentiation—expertise, local market knowledge, personalized service, or specialized strategies—or resign themselves to slower growth and lower margins. The shift toward passive investing ([index funds](/index-fund/)) globally has also reduced demand for active management, where asset managers must justify their fees through outperformance.
 
 ## Revenue and Profitability: Recent Trends
 

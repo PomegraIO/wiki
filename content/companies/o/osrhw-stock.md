@@ -46,7 +46,7 @@ The holding-company structure means OSR is a financial vehicle as much as an ope
 
 ## The challenges that matter
 
-A clinical-stage company trading on public markets faces the standard biotech risks: execution risk on trials, competition from larger pharma players with bigger R&D budgets and faster regulatory relationships, the possibility of a failed Phase 2 trial that consumes years and hundreds of millions of dollars with no revenue result. The immunotherapy space is crowded, and the bar for differentiation has risen sharply.
+A clinical-stage company trading on public markets faces the standard biotech risks: [execution risk](/execution-risk/) on trials, competition from larger pharma players with bigger R&D budgets and faster regulatory relationships, the possibility of a failed Phase 2 trial that consumes years and hundreds of millions of dollars with no revenue result. The immunotherapy space is crowded, and the bar for differentiation has risen sharply.
 
 The holding-company structure introduces additional complexity. OSR does not have the operational unity of a single-focus biotech; it is managing multiple regulatory environments, multiple product timelines, and currency/geopolitical exposure across three countries. That diversification is a hedge against clinical failure but a drag on focus. A US biotech can optimize for US regulatory approval; OSR must coordinate across regimes that move at different speeds.
 

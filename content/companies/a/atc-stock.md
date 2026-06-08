@@ -39,7 +39,7 @@ The most subtle risk is being called away too early, at a moment when the thesis
 
 ## The appropriate investor profile
 
-Sophisticated traders with strong conviction in Coinbase's direction over a defined timeframe — typically weeks to a few months. Experienced investors comfortable sizing structured products as satellite tactical positions, not core holdings. Anyone with the discipline to monitor call levels, observation dates, GraniteShares' [credit ratings](/credit-rating/), and to exit when the thesis is resolved. Not appropriate for passive, long-term holders, retirement accounts, or investors uncomfortable with leverage, counterparty exposure, leverage decay, or the involuntary termination risk of early calls. Retail investors new to structured products should avoid this fund.
+Sophisticated traders with strong conviction in Coinbase's direction over a defined timeframe — typically weeks to a few months. Experienced investors comfortable sizing [structured products](/structured-product/) as satellite tactical positions, not core holdings. Anyone with the discipline to monitor call levels, observation dates, GraniteShares' [credit ratings](/credit-rating/), and to exit when the thesis is resolved. Not appropriate for passive, long-term holders, retirement accounts, or investors uncomfortable with leverage, counterparty exposure, leverage decay, or the involuntary termination risk of early calls. Retail investors new to structured products should avoid this fund.
 
 ## Due diligence checklist before entry
 

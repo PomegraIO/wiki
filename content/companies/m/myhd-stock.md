@@ -27,7 +27,7 @@ MYHD instead offers a time-limited commitment. You buy a fund that will mature o
 
 ## Who issues MYHD and what does it cost?
 
-State Street Global Advisors, a division of State Street Corporation, manages MYHD. State Street is one of the big three [custodians](/custodian/) and asset managers globally, alongside [BlackRock](/blk-stock/) and Vanguard. The fund's [expense ratio](/expense-ratio/) is moderate for a specialist fixed-income product, typically in the range of 35 to 50 basis points annually. This is higher than a plain Treasury ETF or broad stock fund, but reasonable for an actively managed bond portfolio.
+State Street Global Advisors, a division of [State Street Corporation](/state-street-corporation/), manages MYHD. State Street is one of the big three [custodians](/custodian/) and asset managers globally, alongside [BlackRock](/blk-stock/) and Vanguard. The fund's [expense ratio](/expense-ratio/) is moderate for a specialist fixed-income product, typically in the range of 35 to 50 basis points annually. This is higher than a plain Treasury ETF or broad stock fund, but reasonable for an actively managed bond portfolio.
 
 MYHD trades on the [NASDAQ](/nasdaq/) during market hours. The fund is liquid enough for most institutional and retail traders, though its daily volume is smaller than mega-cap stock ETFs. The fund can be bought and sold throughout the trading day at prices set by market supply and demand.
 

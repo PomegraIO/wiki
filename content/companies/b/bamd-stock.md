@@ -72,4 +72,4 @@ Look at the sector breakdown: what percentage is in utilities, financials, consu
 
 Check the 10-year dividend history of the top 10 holdings. Have they raised dividends steadily? Cut them? Frozen them? Consistency is a good sign; stress or recent changes are yellow flags.
 
-Finally, compare BAMD's total return (price appreciation plus dividends) to a broad index benchmark and to peer dividend ETFs over a full market cycle. Dividend funds win in slow or falling markets and lag in booming ones. Evaluate whether the historical performance aligns with your expectations and whether the current valuation (price relative to earnings and dividend yield) is attractive or richly priced.
+Finally, compare BAMD's total return (price appreciation plus dividends) to a broad index benchmark and to peer dividend ETFs over a full [market cycle](/market-cycle/). Dividend funds win in slow or falling markets and lag in booming ones. Evaluate whether the historical performance aligns with your expectations and whether the current valuation (price relative to earnings and dividend yield) is attractive or richly priced.

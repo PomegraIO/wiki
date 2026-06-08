@@ -46,13 +46,13 @@ Ares REIT's properties are screened and managed by Ares' real estate team. The f
 
 Like most REITs, Ares uses leverage. The fund might buy a property for $100 million and finance it with $70 million of debt and $30 million of equity. That leverage amplifies returns if the property appreciates, but it also increases risk and the fixed cost burden. Debt must be serviced regardless of how much rent comes in.
 
-The leverage is typically prudent—loan-to-value ratios in the 50 to 65 percent range are normal for commercial REITs. But the property market is cyclical. When the economy weakens and tenants default or demand discounts on renewal, cash flow dips and the fund feels the pressure.
+The leverage is typically prudent—[loan-to-value ratios](/loan-to-value-ratio/) in the 50 to 65 percent range are normal for commercial REITs. But the property market is cyclical. When the economy weakens and tenants default or demand discounts on renewal, cash flow dips and the fund feels the pressure.
 
 ## Fee structure and sponsor incentives
 
 The sponsor (Ares Management) takes multiple layers of fees. There is an upfront [acquisition](/acquisition/) fee, typically around 2 percent of capital raised, paid as the properties are bought. There is a management fee, usually around 1 percent annually of assets. And if the fund outperforms a benchmark or generates strong returns, the sponsor may be entitled to a [performance fee](/performance-fee/) or promote. These fees come directly out of shareholder returns.
 
-This fee structure creates a classic agency problem. The sponsor is motivated to raise as much capital as possible (higher assets under management) and to charge high upfront fees, which are paid immediately. Shareholders benefit if the properties perform well over 10 years. But if properties underperform, the sponsor has already been paid. This incentive misalignment is one reason non-traded REITs have a mixed track record.
+This fee structure creates a classic agency problem. The sponsor is motivated to raise as much capital as possible (higher assets under management) and to charge high upfront fees, which are paid immediately. Shareholders benefit if the properties perform well over 10 years. But if properties underperform, the sponsor has already been paid. This incentive misalignment is one reason [non-traded REITs](/non-traded-reit/) have a mixed track record.
 
 ## The illiquidity trade
 

@@ -20,7 +20,7 @@ The Hemopurifier operates as an immunoadsorption device—it essentially works a
 
 Aethlon is firmly in the clinical development stage, meaning the Hemopurifier has not yet been cleared for commercial use. The company has filed applications with the FDA and is running clinical trials, including the AEMD-2022-06 trial, to test safety and efficacy. This is a preclinical and early-stage clinical player—there is no commercial revenue yet, and the company burns cash funding its research and development efforts.
 
-This positioning places Aethlon in a high-risk, high-reward category. Success would require regulatory approval, demonstrated clinical benefit over existing treatments, and market adoption. Failure means the company's assets and shareholders' equity could be significantly impaired or worthless.
+This positioning places Aethlon in a high-risk, high-reward category. Success would require regulatory approval, demonstrated clinical benefit over existing treatments, and market adoption. Failure means the company's assets and [shareholders' equity](/shareholders-equity/) could be significantly impaired or worthless.
 
 ## How should you evaluate Aethlon as an investment or research subject?
 

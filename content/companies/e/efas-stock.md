@@ -51,7 +51,7 @@ Currency exposure is another consideration. If a dollar-based investor believes 
 
 ## Risks worth knowing
 
-The fund's sector tilt toward financials and utilities can backfire. Financial stocks are sensitive to [interest rates](/interest-rate/) and credit cycles; utilities are sensitive to inflation and regulatory pressures. A sharp rise in rates or a financial crisis can hit EFAS harder than a diversified EAFE fund.
+The fund's sector tilt toward financials and utilities can backfire. Financial stocks are sensitive to [interest rates](/interest-rate/) and [credit cycles](/credit-cycle/); utilities are sensitive to inflation and regulatory pressures. A sharp rise in rates or a financial crisis can hit EFAS harder than a diversified EAFE fund.
 
 Dividend cuts are a real risk. When a company cuts its dividend, the fund's yield drops, and the stock is often removed from the index if its yield no longer ranks among the highest. An investor in EFAS during a broad dividend-cut cycle could experience both income surprises and unwanted selling pressure.
 

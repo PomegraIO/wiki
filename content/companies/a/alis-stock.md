@@ -40,7 +40,7 @@ The performance of SPAC mergers has been mixed. Some have generated strong retur
 
 The SPAC boom of 2020–2021 triggered regulatory scrutiny. The [Securities and Exchange Commission](/securities-and-exchange-commission/) began questioning whether SPAC sponsors and their advisors were adequately disclosing conflicts of interest, and whether projections given to public shareholders were reliable. Multiple SPAC mergers ended in shareholder litigation after the combined company's performance fell far short of projections. A few companies that went public via SPAC merger later faced fraud investigations.
 
-By 2022–2023, the SPAC market had cooled considerably. Investors became more skeptical of blank-check structures, redemptions increased (shareholders chose to take their money back rather than invest in the unknown merger target), and the economic incentives for sponsors deteriorated. The number of SPAC IPOs and completed mergers fell sharply from their peak.
+By 2022–2023, the SPAC market had cooled considerably. Investors became more skeptical of blank-check structures, redemptions increased (shareholders chose to take their money back rather than invest in the unknown merger target), and the economic incentives for sponsors deteriorated. The number of [SPAC IPOs](/spac-ipo/) and completed mergers fell sharply from their peak.
 
 ## The economics of a SPAC's life cycle
 

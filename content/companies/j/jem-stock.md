@@ -32,7 +32,7 @@ The company's IPO prospectus stated it intended to use net proceeds for brand [a
 
 ## What is the current state of the stock?
 
-707 Cayman Holdings received a notification from Nasdaq in October 2025 stating it no longer meets the exchange's continued listing requirement: the stock must maintain a minimum bid price of $1.00 per share. The company was given a 180-calendar-day grace period to regain compliance, setting an April 15, 2026 deadline.
+707 Cayman Holdings received a notification from Nasdaq in October 2025 stating it no longer meets the exchange's continued listing requirement: the stock must maintain a minimum bid price of $1.00 per share. The company was given a 180-calendar-day [grace period](/grace-period-credit/) to regain compliance, setting an April 15, 2026 deadline.
 
 In response, the company announced a 20-for-1 [share consolidation](/share-consolidation/) effective in April 2026 to mechanically boost the per-share price. This is a standard and often-used remedy, but it does not address the underlying reason for the price weakness: the stock has suffered steep losses since the IPO.
 
@@ -46,11 +46,11 @@ The fundamental challenge is that 707 Cayman is newly public and must prove its 
 
 **Apparel Industry Cyclicality:** The apparel sector is sensitive to consumer spending, fashion cycles, and retail consolidation. A supply chain service provider depends on its customers' health and demand. If brands face margin pressure or consolidation, outsourcing partners feel it directly.
 
-**Execution Risk:** A one-year-old public company has limited track record. Investors cannot yet assess whether the team can profitably scale, retain customers, and generate the returns implied by a public listing. Many micro-cap IPOs fail to clear this bar.
+**[Execution Risk](/execution-risk/):** A one-year-old public company has limited track record. Investors cannot yet assess whether the team can profitably scale, retain customers, and generate the returns implied by a public listing. Many micro-cap IPOs fail to clear this bar.
 
 ## How would a researcher approach this?
 
-Start with the [10-K](/wiki/10-k/) filing for the most recent fiscal year and any subsequent [6-K](/wiki/10-k/) reports, which are required for foreign private issuers. These will show revenue, expenses, customer concentration, and geographic breakdown. Pay close attention to customer concentration: if a handful of clients represent most revenue, the company faces single-customer risk.
+Start with the [10-K](/wiki/10-k/) filing for the most recent [fiscal year](/fiscal-year-definition/) and any subsequent [6-K](/wiki/10-k/) reports, which are required for foreign private issuers. These will show revenue, expenses, customer concentration, and geographic breakdown. Pay close attention to customer concentration: if a handful of clients represent most revenue, the company faces single-customer risk.
 
 Watch the Nasdaq delisting timeline closely. If the stock fails to close above $1.00 for 10 consecutive trading days by April 15, 2026, delisting becomes likely unless further remedies are approved. Delisting would make the stock much harder to trade and would further damage investor confidence.
 

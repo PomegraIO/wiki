@@ -47,7 +47,7 @@ Avio found itself competing in a market that was both more competitive and more 
 
 In response, Avio has pursued a double strategy. First, the company has invested in modernizing Vega, proposing an evolved version called Vega-C with improved payload capacity and lower costs. Second, the company has attempted to move up the supply chain, offering propulsion components and subsystems to other launch providers and to satellite manufacturers rather than relying solely on its role as prime contractor for a single vehicle.
 
-The company also went public in 2017, listing on the Italian [stock exchange](/stock-exchange/) and later offering American Depositary Receipts to attract broader international investment. The public markets brought capital, transparency, and accountability — but also the pressure to compete and grow in a way that a government-backed contractor had never quite had to do. Investors wanted to see a clear path to profitability and growth, not merely the comfortable cost-plus contracts of the old model.
+The company also went public in 2017, listing on the Italian [stock exchange](/stock-exchange/) and later offering American [Depositary Receipts](/depositary-receipt/) to attract broader international investment. The public markets brought capital, transparency, and accountability — but also the pressure to compete and grow in a way that a government-backed contractor had never quite had to do. Investors wanted to see a clear path to profitability and growth, not merely the comfortable cost-plus contracts of the old model.
 
 ## Current competitive position and risks
 

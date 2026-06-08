@@ -39,7 +39,7 @@ The company's cost structure includes wages for central management and sorting-c
 
 Logistics is a brutally competitive, low-margin business. J&T competes against both established companies and newer entrants. In Southeast Asia, Grab Express (the delivery arm of ride-hailing company Grab), Kerry Logistics, and local players like ACS in Vietnam offer overlapping services. In Brazil and Mexico, regional incumbents and startups like Loggi fight aggressively on price and speed. To maintain share, J&T must keep improving efficiency and service levels while prices remain under pressure.
 
-The company is also exposed to regulatory risk across thirteen jurisdictions. Any government tightening labor regulations on contractor classification, raising environmental standards, or imposing parcel surcharges could affect margins. The company's heavy reliance on contractor networks creates scale but also means it does not fully control labor practices—a reputational and legal risk if contractors operate below local standards.
+The company is also exposed to regulatory risk across thirteen jurisdictions. Any government tightening labor regulations on contractor classification, raising environmental standards, or imposing parcel surcharges could affect margins. The company's heavy reliance on contractor networks creates scale but also means it does not fully control labor practices—a reputational and [legal risk](/legal-risk/) if contractors operate below local standards.
 
 Currency fluctuations matter too. J&T earns revenue in thirteen different currencies but has taken on debt in dollars. If emerging-market currencies weaken, the cost of servicing that debt rises in local terms.
 

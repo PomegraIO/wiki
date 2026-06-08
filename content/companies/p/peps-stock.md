@@ -27,7 +27,7 @@ The system repeats this throughout the year, especially after market volatility.
 
 ## From boutique idea to ETF structure
 
-Parametric pioneered this approach for large separately managed accounts — portfolios run directly for wealthy individuals. The insights proved so valuable that the firm eventually adapted the strategy into a [mutual fund](/mutual-fund/) and, more recently, into an ETF. The ETF structure is important: because ETFs can exchange shares in kind (trading a block of securities instead of selling them for cash), the tax efficiency is enhanced. Mutual funds, by contrast, must often handle redemptions by selling securities, triggering capital gains. The ETF structure lets PEPS deliver more of its tax benefit to long-term holders.
+Parametric pioneered this approach for large [separately managed accounts](/separately-managed-account/) — portfolios run directly for wealthy individuals. The insights proved so valuable that the firm eventually adapted the strategy into a [mutual fund](/mutual-fund/) and, more recently, into an ETF. The ETF structure is important: because ETFs can exchange shares in kind (trading a block of securities instead of selling them for cash), the tax efficiency is enhanced. Mutual funds, by contrast, must often handle redemptions by selling securities, triggering capital gains. The ETF structure lets PEPS deliver more of its tax benefit to long-term holders.
 
 ## What PEPS holds and how it differs from a standard index fund
 

@@ -1,0 +1,36 @@
+---
+title: "Fitz-Gerald Must Have Portfolio ETF (FITZ)"
+description: "FITZ applies proprietary stock-picking to build a portfolio of companies that meet a 'must-have' standard—a concentrated, actively managed fund betting that a disciplined selection process beats broader market benchmarks."
+keywords:
+  - active management
+  - stock picking
+  - concentrated portfolio
+  - proprietary screening
+  - must-have companies
+  - fundamental analysis
+handwritten: true
+---
+
+The Fitz-Gerald Must Have Portfolio ETF operates on a conviction that most stocks are optional. A company might be profitable, growing, or beloved by a certain set of investors, but that does not make it "must have." FITZ is built around a relatively simple but demanding filter: which companies are so essential to their industries, so durable in their competitive position, or so profitable relative to their price that an investor should be willing to hold them as permanent core positions regardless of market conditions? The fund's answer is typically around 30 to 50 stocks—a concentrated portfolio of what the fund's managers believe are the highest-quality, most defensible businesses they can identify.
+
+This is active management at its most straightforward: no complex factor models, no [statistical arbitrage](/hedge-fund-statistical-arbitrage/), no [macro hedging](/macro-hedging/). Just disciplined fundamental analysis applied to a narrow list of requirements. A company must have proven competitive advantages, reliable cash generation, reasonable valuation, and management that has demonstrated competence over multiple cycles. The fund's bet is that this intentionally narrow list, refreshed quarterly or semi-annually, will outperform a broad market index because the 30 to 50 stocks in the portfolio are simply better businesses than the median stock in the broader market.
+
+The appeal is clear to certain investors: own only the best, ignore the mediocre, and let compounding do the work. The challenge is equally clear: beat an index over time after fees, and without those fees, you could have just bought the index and owned all the best companies anyway (since they are all in there). FITZ's track record and fees matter enormously to whether this concentration and active management actually works.
+
+The fund carries a higher [expense ratio](/expense-ratio/) than a passive index ETF, which is the admission that active management comes with a cost. That cost is only worth paying if the manager's selection process is genuinely better than chance, and if that edge is not entirely consumed by the fees themselves. Some active managers accomplish this; many do not. The fund's holdings are transparent and updated regularly, so an investor can see exactly which 30 or 50 stocks the managers believe are "must have" at any given moment and judge for themselves whether the picks look compelling or whether they look like expensive growth names or the same mega-cap technology stocks everyone else owns.
+
+One structural feature worth noting is that FITZ, like all actively managed equity funds, will drift away from its starting allocations as different stocks perform differently. A stock that was 2 percent of the portfolio and appreciates 50 percent becomes 3 percent, while a stock that declines drops in weight. Over time, this drift means the portfolio becomes increasingly concentrated in its strongest performers and smaller in its laggards—sometimes a good thing (you are overweighting what worked), sometimes a problem (you are now holding a much larger position in something that has already run up). Good active managers rebalance to prevent excessive drift; poor ones drift and then panic-sell winners to "take profits." How FITZ handles this rebalancing matters to actual returns.
+
+The investor suited to FITZ is one who believes that (1) most stocks are not worth owning, (2) a disciplined filter can identify the better ones, (3) concentration in the best ideas adds value over [diversification](/diversification/), and (4) the manager's process is good enough to overcome the fund's fees and the inevitable periods when "must have" stocks underperform the broader market. Investors who are comfortable with broad, passive diversification should probably stay away—they will own FITZ's 30 best stocks anyway, just mixed in with 470 others, at a much lower cost. The fund is for investors who have conviction that picking quality beats owning everything.
+
+## The practical challenges of active stock selection
+
+One of the overlooked costs of owning an [actively managed fund](/actively-managed-fund/) is emotional volatility. When FITZ is underperforming the broad market—which it will, for months or years at a time—the investor has to live with the discomfort of watching a stock index go up while their fund lags. That is not a financial cost, but it is a real cost, because it tempts investors to abandon ship at exactly the wrong moment (selling after underperformance is a classic pattern of poor investor returns). Passive funds do not create this temptation in the same way: if you own the index, you do not wonder if you should own something else instead.
+
+A second challenge is capacity. As a fund grows in assets, it becomes harder to maintain a concentrated position without becoming a meaningful shareholder in those 30 to 50 companies. Once you own 5 percent of a small-cap company, you cannot easily exit without moving the stock price. This forces larger versions of FITZ to either dilute the concentrated approach by owning more stocks, or accept that they cannot deploy all incoming investor capital without compromising their strategy. Investors in a fund that has gotten very large should check the size of the fund and ask whether the original "must have" approach is still intact or whether it has evolved into something broader.
+
+## The track record question
+
+The only sensible way to evaluate FITZ is to look at its actual returns over full [market cycles](/market-cycle/)—not just the recent periods that led an investor to notice the fund in the first place. An actively managed fund should be judged on whether it has beaten its benchmark (typically a broad US equity index) after fees over five, ten, and fifteen-year periods. If FITZ has not done so, the concentration and active management are not adding value and a passive alternative is the rational choice. If it has done so, the next question is whether that outperformance is plausible to have repeated in the future, or whether it was the result of being overweighted in sectors that just happened to boom (which is luck, not skill, and is unlikely to repeat).
+
+Many active managers beat the market in some periods and underperform in others. The key is whether the long-term average skews positive by enough to justify the fees and the emotional costs of underperformance. For FITZ specifically, an investor should check the fund's inception date, its returns during strong [bull markets](/bull-market/) and weak [bear markets](/bear-market/), and how it compares to a simple alternative like owning a low-cost broad-market [index fund](/index-fund/). That comparison, made honestly and over a full cycle, is the only reliable way to decide whether FITZ's "must have" approach is worth the premium cost of active management.

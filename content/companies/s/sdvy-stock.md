@@ -32,7 +32,7 @@ The result is a concentrated portfolio of 100 to 150 holdings, significantly sma
 
 Over time, dividend-payers have outperformed non-dividend-payers on a risk-adjusted basis, a phenomenon sometimes called the dividend yield premium. SDVY captures this by holding only dividend growers, which statistically exhibit lower volatility and better downside protection than the broader SMID-cap universe. The dividend yield itself provides both current income and some ballast during equity downturns; companies that have committed to and grown their dividends tend to have more stable earnings and stronger [balance sheets](/balance-sheet/) than non-payers.
 
-That said, the SMID-cap dimension introduces higher volatility and lower liquidity than a similar strategy applied to large-cap dividend growers. Smaller firms have less analyst coverage, higher execution risk, and are more exposed to economic cycles and changes in credit conditions. A firm that has raised its dividend for five consecutive years may nonetheless face pressure to cut if its industry enters a downturn.
+That said, the SMID-cap dimension introduces higher volatility and lower liquidity than a similar strategy applied to large-cap dividend growers. Smaller firms have less analyst coverage, higher [execution risk](/execution-risk/), and are more exposed to economic cycles and changes in credit conditions. A firm that has raised its dividend for five consecutive years may nonetheless face pressure to cut if its industry enters a downturn.
 
 ## Expense ratio, turnover, and costs
 

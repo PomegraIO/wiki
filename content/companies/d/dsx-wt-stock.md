@@ -52,6 +52,6 @@ In recent years, environmental regulations — particularly strict fuel specific
 
 ## Understanding Diana as an investment
 
-A shareholder in Diana Shipping is betting on global trade cycles and shipping rates. The company owns no hidden moat; its ships are commodities themselves, purchased on open markets and subject to global supply. The real variables are management's skill in capital allocation, the company's financial discipline during rate downturns, and pure exposure to shipping market cycles.
+A shareholder in Diana Shipping is betting on global trade cycles and shipping rates. The company owns no hidden moat; its ships are commodities themselves, purchased on open markets and subject to global supply. The real variables are management's skill in capital allocation, the company's financial discipline during rate downturns, and pure exposure to shipping [market cycles](/market-cycle/).
 
 To research Diana, start with the company's quarterly and annual 10-K filing (SEC CIK 0001318885), which discloses fleet composition, debt levels, and utilization rates. Watch the Baltic Dry Index for near-term market signals. Monitor global trade flows, particularly commodity demand from China and India, and any regulatory changes that might affect fuel costs or port operations. Shipping stocks often trade with higher volatility than the underlying business fundamentals warrant, but they reward investors who can time the cycle — buying when rates are depressed and selling when they reach peaks.

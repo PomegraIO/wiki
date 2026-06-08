@@ -32,7 +32,7 @@ At closing, the SPAC merges with the target, and the public shareholders' SPAC s
 
 ## What are the risks and criticisms?
 
-The SPAC path has drawn increasing regulatory and investor scrutiny. Critics point to several structural weaknesses: the SPAC sponsor's incentive to complete any deal, rather than finding an optimal target; the compressed timeline, which may not allow thorough due diligence; and the inevitable dilution of public shareholders through founder shares and PIPE pricing. Warrant terms have also been controversial, with some designs enriching SPAC sponsors at public shareholders' expense.
+The SPAC path has drawn increasing regulatory and investor scrutiny. Critics point to several structural weaknesses: the SPAC sponsor's incentive to complete any deal, rather than finding an optimal target; the compressed timeline, which may not allow thorough [due diligence](/due-diligence/); and the inevitable dilution of public shareholders through founder shares and PIPE pricing. Warrant terms have also been controversial, with some designs enriching SPAC sponsors at public shareholders' expense.
 
 Regulatory authorities have tightened SPAC rules in recent years, imposing stricter disclosure requirements for target companies, expanded warrant registration standards, and heightened scrutiny of sponsor conflicts. These changes have increased the cost and complexity of the SPAC process, but advocates argue the structure still offers speed and certainty compared to traditional IPOs.
 

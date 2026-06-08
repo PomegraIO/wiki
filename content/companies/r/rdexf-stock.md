@@ -53,7 +53,7 @@ The Michipicoten Greenstone Belt itself is a geological asset. It is part of a l
 
 Junior mining companies carry specific structural risks. Commodity price exposure is the most obvious: gold trading is global, and prices fluctuate on macro factors far outside any single company's control. If gold prices fall materially, the project's economics degrade and capital may dry up. Permitting risk is real: Ontario mining requires provincial environmental assessment and federal review if the project crosses certain thresholds. Public opposition, regulatory scrutiny, or unforeseen environmental issues can delay or block a project. Financing risk means the company must continue to raise capital as development advances, and if market sentiment sours or equity markets seize, the company may struggle to fund the next stage.
 
-[Operational risk](/operational-risk/) emerges once production begins: mining projects sometimes encounter geological surprises, cost overruns, or ore grades lower than anticipated. The PEA is a planning document, not a guarantee. Any transition from development company to producer carries the inherent execution risk of a major capital project.
+[Operational risk](/operational-risk/) emerges once production begins: mining projects sometimes encounter geological surprises, cost overruns, or ore grades lower than anticipated. The PEA is a planning document, not a guarantee. Any transition from development company to producer carries the inherent [execution risk](/execution-risk/) of a major capital project.
 
 ## How to research RPX Gold as a mining investment
 

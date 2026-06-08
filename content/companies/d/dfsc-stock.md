@@ -29,7 +29,7 @@ As a defense software contractor, DEFSEC follows the government contracting paym
 
 ## Deferred Revenue and Contract Advances
 
-DEFSEC may receive advance payments or progress billings on multiyear contracts. These appear as deferred revenue (a liability) on the balance sheet and represent prepaid customer value that the company will recognize as revenue as contract milestones are achieved. Stable or growing deferred revenue is a positive signal; it indicates customer commitment and future cash flow visibility. If deferred revenue declines while backlog stagnates, it may signal contract delays or agency budget constraints.
+DEFSEC may receive advance payments or progress billings on multiyear contracts. These appear as [deferred revenue](/deferred-revenue/) (a liability) on the balance sheet and represent prepaid customer value that the company will recognize as revenue as contract milestones are achieved. Stable or growing deferred revenue is a positive signal; it indicates customer commitment and future cash flow visibility. If deferred revenue declines while backlog stagnates, it may signal contract delays or agency budget constraints.
 
 ## Personnel and Clearance-Holding Staff as Assets
 

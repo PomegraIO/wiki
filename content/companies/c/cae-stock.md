@@ -61,7 +61,7 @@ The annual [10-K](/wiki/10-k/) filing with the SEC reveals the company's revenue
 
 Industry metrics worth tracking: airline pilot hiring trends (published by aviation industry associations), military equipment budgets in key markets (US, NATO allies, Canada), and simulator utilization rates at major training centers. A tightening pilot shortage drives training volume higher; a recession depresses it.
 
-Watch for backlog conversion—a large order book is only valuable if CAE successfully executes and ships on time. Execution risk on major government contracts is real, and past delays have affected investor confidence.
+Watch for backlog conversion—a large order book is only valuable if CAE successfully executes and ships on time. [Execution risk](/execution-risk/) on major government contracts is real, and past delays have affected investor confidence.
 
 The company's geographic exposure and customer concentration also matter. Dependence on any single airline or military customer introduces [concentration risk](/concentration-risk/); [diversification](/diversification/) across regions and segments provides stability.
 

@@ -33,7 +33,7 @@ The ownership structure changed materially in late 2025 when TUTU Business Servi
 
 ## What makes this business risky?
 
-Commodity exposure is the core risk. Timber prices move with global construction activity, housing starts, and manufacturing demand — all cyclical and beyond the company's control. When the China property market slows, global timber demand often follows, as happened in 2024–2025. Tariffs and trade barriers have also become material headwinds.
+Commodity exposure is the core risk. Timber prices move with global construction activity, [housing starts](/housing-starts/), and manufacturing demand — all cyclical and beyond the company's control. When the China property market slows, global timber demand often follows, as happened in 2024–2025. Tariffs and trade barriers have also become material headwinds.
 
 [Operational risk](/operational-risk/) is elevated by vertical integration. Managing forest concessions requires regulatory compliance and sustainable harvesting practices; running mills requires capital investment and skilled labor; maintaining a global distribution network adds complexity and working-capital needs. Each layer adds cost and risk that a pure trading or distribution company would avoid.
 

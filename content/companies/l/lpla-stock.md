@@ -51,7 +51,7 @@ The company also earns revenue from advisory software, compliance tools, and fin
 
 ## Competition and Market Consolidation
 
-LPL faces competition from other broker-dealers. Rival firms like Edward Jones, Raymond James, and Roblins Holdings also sponsor independent advisors and compete for assets and advisor loyalty. Larger financial institutions like [Charles Schwab](/charles-schwab/) have also entered the space. The market has consolidated significantly — smaller broker-dealers have been acquired, and the large players have become larger.
+LPL faces competition from other broker-dealers. Rival firms like [Edward Jones](/edward-jones/), Raymond James, and Roblins Holdings also sponsor independent advisors and compete for assets and advisor loyalty. Larger financial institutions like [Charles Schwab](/charles-schwab/) have also entered the space. The market has consolidated significantly — smaller broker-dealers have been acquired, and the large players have become larger.
 
 What distinguishes LPL is scale. It has the most independent advisors on its platform and the largest asset base. Scale gives LPL advantages in technology investment, in negotiating with [custodians](/custodian/) and third-party service providers, and in regulatory expertise. A smaller competitor must invest almost as much in compliance infrastructure but spreads costs across a smaller base.
 
@@ -77,4 +77,4 @@ Start with the annual 10-K filing, which breaks down revenue sources, details th
 
 Compare the company's growth in assets against market indices to see if LPL is capturing share from competitors. Watch for commentary on interest rates and the net interest margin impact. Monitor regulatory news and any disclosed investigations or enforcement actions. Because the business is tied to asset levels and market performance, understanding the company's exposure to different market scenarios is important.
 
-The valuation question for LPL hinges on how much you value the recurring revenue from assets under administration, the cyclicality of trading and advisory fees, and the interest-income contribution. This is a mature, profitable business with durable competitive advantages from scale and network effects, but also genuine sensitivity to market cycles and regulatory change. Nothing here constitutes investment advice, but it should clarify how the broker-dealer business works and where LPL's earnings and risks come from.
+The valuation question for LPL hinges on how much you value the recurring revenue from assets under administration, the cyclicality of trading and advisory fees, and the interest-income contribution. This is a mature, profitable business with durable competitive advantages from scale and network effects, but also genuine sensitivity to [market cycles](/market-cycle/) and regulatory change. Nothing here constitutes investment advice, but it should clarify how the broker-dealer business works and where LPL's earnings and risks come from.

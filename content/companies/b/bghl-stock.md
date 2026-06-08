@@ -62,7 +62,7 @@ If BGHL operates subsidiaries across multiple countries, each faces different re
 
 The MD&A discusses material acquisitions and [divestitures](/divestiture/) in the past year. Large acquisitions represent bets by management on the acquired company's future performance; watch whether past acquisitions have met their targets. Divestitures may signal underperformance or a pivot in strategic direction.
 
-The purchase price allocation (detailed in the notes to the financial statements) shows how much BGHL paid for acquired companies and how that purchase price was allocated to identified assets, intangibles, and goodwill. A disproportionate allocation to goodwill suggests overpayment or inflated expectations.
+The [purchase price allocation](/purchase-price-allocation/) (detailed in the notes to the financial statements) shows how much BGHL paid for acquired companies and how that purchase price was allocated to identified assets, intangibles, and goodwill. A disproportionate allocation to goodwill suggests overpayment or inflated expectations.
 
 ## Cash conversion: operating to free cash flow
 

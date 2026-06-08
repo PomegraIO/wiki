@@ -91,4 +91,4 @@ On earnings calls:
 - Watch for M&A activity. Resideo might acquire complementary software or device startups to accelerate the pivot.
 - Listen to discussions of debt reduction and financial flexibility.
 
-Valuation depends heavily on whether the market believes Resideo can execute the shift from hardware to software and services. That is not a forgone conclusion; it is a business execution risk. The installed base is an asset, but only if Resideo can convert it. Anyone investing should understand the metrics that signal whether the transition is working.
+Valuation depends heavily on whether the market believes Resideo can execute the shift from hardware to software and services. That is not a forgone conclusion; it is a business [execution risk](/execution-risk/). The installed base is an asset, but only if Resideo can convert it. Anyone investing should understand the metrics that signal whether the transition is working.

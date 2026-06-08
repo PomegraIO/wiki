@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The Amplify Bloomberg AI Equal Weight ETF combines two distinct methodological choices: it uses Bloomberg's curated index of artificial intelligence-exposed companies as its starting universe, then applies equal weighting to each holding rather than the market-capitalization weighting standard across most indexes.
+The Amplify Bloomberg AI Equal Weight ETF combines two distinct methodological choices: it uses Bloomberg's curated index of artificial intelligence-exposed companies as its starting universe, then applies equal weighting to each holding rather than the [market-capitalization weighting](/market-cap-weighting/) standard across most indexes.
 
 **The index universe.** The Bloomberg AI Index identifies companies deemed to have material exposure to artificial intelligence development or deployment. The methodology is proprietary to Bloomberg, but typically includes semiconductor manufacturers, cloud-infrastructure providers, software vendors with embedded AI capabilities, and companies using AI internally to improve operations. The selection and rebalancing of the index happen outside the ETF — Amplify's job is to fund-manage what Bloomberg publishes.
 
@@ -20,7 +20,7 @@ The Amplify Bloomberg AI Equal Weight ETF combines two distinct methodological c
 
 **Concentration and liquidity.** The Bloomberg AI Index, before equal weighting, is already a thematic concentration — all holdings are selected for AI exposure, so they have correlated risk. Equal weighting does not diversify that correlation; it merely tilts the bet toward the smaller components. If the AI theme falls out of favor, the entire portfolio suffers. Some holdings in the index may be illiquid or difficult to short-sell, and the frequent rebalancing required by equal weighting means AIVC must be able to transact in a wide range of sizes; this can create friction, especially if the fund grows large relative to the liquidity of its smaller holdings.
 
-**Sector composition.** The fund's makeup shifts with each index rebalancing, but typically it will hold semiconductors, software, infrastructure providers, and possibly pure-play AI companies. Because equal weighting gives smaller players the same position as giants, AIVC may own a broader slice of the AI ecosystem than a cap-weighted alternative, including companies that are genuine leaders in narrow niches alongside household names.
+**Sector composition.** The fund's makeup shifts with each [index rebalancing](/index-rebalancing/), but typically it will hold semiconductors, software, infrastructure providers, and possibly pure-play AI companies. Because equal weighting gives smaller players the same position as giants, AIVC may own a broader slice of the AI ecosystem than a cap-weighted alternative, including companies that are genuine leaders in narrow niches alongside household names.
 
 **Cost structure.** The [expense ratio](/expense-ratio/) covers both fund operations and the embedded cost of quarterly rebalancing. That cost is visible in the fund's tracking error relative to the Bloomberg AI Index — the difference between the fund's return and the index's return, which is what the fees and slippage consume. A fund that costs 0.65 percent per year might see 0.30 to 0.50 percent of that evaporate to rebalancing friction, leaving only the stated fee as pure fund overhead.
 

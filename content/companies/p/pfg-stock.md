@@ -49,7 +49,7 @@ Principal competes in markets crowded with rivals. In retirement-plan administra
 
 First is **scale**. The company operates at a size that matters to employers. Large firms need a single vendor that can handle retirement plans, payroll integration, employee education, and insurance products under one roof. That bundling is expensive and time-consuming for a new employer to replace, which creates stickiness.
 
-Second is **institutional relationships**. Having served some employer clients for decades builds trust and makes it politically difficult to leave — the benefits department knows the Principal contacts, the workflows are set, and switching introduces execution risk.
+Second is **institutional relationships**. Having served some employer clients for decades builds trust and makes it politically difficult to leave — the benefits department knows the Principal contacts, the workflows are set, and switching introduces [execution risk](/execution-risk/).
 
 Third is **regulatory and operational complexity**. The pension and insurance businesses are heavily regulated, and compliance matters enormously. A company that has built sophisticated compliance infrastructure and earned regulators' confidence has a moat against nimbler newcomers.
 
@@ -57,7 +57,7 @@ The company is not, however, insulated from pressure. Its annuity business faces
 
 ## Headwinds and evolution
 
-Principal's core markets are mature. The shift from defined-benefit to defined-contribution pensions is nearly complete. Growth in its key segments comes mostly from [inflation](/inflation/) in wage levels (which lifts contributions), the slow hiring of new companies, and incremental gains in market share. That is not nothing, but it is not the kind of trajectory that justifies a steep valuation.
+Principal's core markets are mature. [The shift from defined-benefit to defined-contribution pensions](/defined-benefit-to-defined-contribution-shift/) is nearly complete. Growth in its key segments comes mostly from [inflation](/inflation/) in wage levels (which lifts contributions), the slow hiring of new companies, and incremental gains in market share. That is not nothing, but it is not the kind of trajectory that justifies a steep valuation.
 
 The company has adjusted by building newer businesses. It has expanded into Asia-Pacific, where pension systems are less mature and growth remains faster than in the United States. It has shifted from defined-contribution record-keeping toward advisory services and retirement-income solutions, selling higher-margin services to help people spend their savings wisely in retirement. And it has invested in digital tools and workplace-benefits platforms to stay relevant as benefits administration moves online.
 

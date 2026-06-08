@@ -73,7 +73,7 @@ Regulated utilities are not risk-free, though people often think they are.
 
 **Interest rate risk** matters because utilities finance their infrastructure with debt. When [interest rates](/interest-rate/) are high, the cost of borrowing money to build a new power plant goes up, which reduces the profit from that investment. Conversely, when rates fall, utilities benefit because they can refinance old debt at lower cost.
 
-**Commodity risk** hits the natural gas business. If the price of natural gas rises, Fortis has to buy it at higher cost. Regulators will eventually allow the company to pass the higher cost through to customers, but there is usually a lag. That lag eats into margins.
+**[Commodity risk](/commodity-risk/)** hits the natural gas business. If the price of natural gas rises, Fortis has to buy it at higher cost. Regulators will eventually allow the company to pass the higher cost through to customers, but there is usually a lag. That lag eats into margins.
 
 **[Operational risk](/operational-risk/)** is the day-to-day risk that something goes wrong — a dam fails, a pipeline ruptures, or a power plant breaks. These are catastrophic events. Fortis insures itself, but insurance is not perfect, and a major disaster could be very expensive.
 

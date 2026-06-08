@@ -52,7 +52,7 @@ Beyond food delivery, Meituan operates local services (cleaning, plumbing, beaut
 
 ## Regulatory and Geopolitical Headwinds
 
-Meituan operates under Chinese regulatory jurisdiction, which has recently intensified scrutiny of technology platforms. Regulators may impose restrictions on delivery fees, gig-worker classification (which affects labor costs), or data usage. A sudden regulatory shift could compress margins or require operational restructuring. Additionally, ADR holders face [currency risk](/currency-risk/) (returns must be converted from Chinese yuan to [U.S. dollars](/us-dollar/)) and political risk (restrictions on foreign ownership of Chinese assets).
+Meituan operates under Chinese regulatory jurisdiction, which has recently intensified scrutiny of technology platforms. Regulators may impose restrictions on delivery fees, gig-worker classification (which affects labor costs), or data usage. A sudden regulatory shift could compress margins or require operational restructuring. Additionally, ADR holders face [currency risk](/currency-risk/) (returns must be converted from Chinese yuan to [U.S. dollars](/us-dollar/)) and [political risk](/political-risk/) (restrictions on foreign ownership of Chinese assets).
 
 The company's value to Western investors is therefore discounted for regulatory and geopolitical uncertainty. This is reflected in the OTC listing rather than a primary exchange—the company's U.S. liquidity is limited.
 

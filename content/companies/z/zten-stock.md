@@ -40,7 +40,7 @@ The fund is not equally weighted; it weights holdings by the size of the outstan
 
 ## Interest-rate risk and spread risk
 
-ZTEN faces two main risks. [Interest-rate risk](/interest-rate-risk/) is the mechanical decline in bond prices when yields rise — an unavoidable cost of investing in longer-duration instruments. Spread risk is the danger that corporate bond credit spreads widen (borrowing costs rise relative to Treasury rates) in a [recession](/recession/) or credit crunch, causing even bonds whose issuers do not default to lose value. In 2020, for instance, corporate-bond spreads spiked during the pandemic shock, even as the underlying businesses often remained solvent.
+ZTEN faces two main risks. [Interest-rate risk](/interest-rate-risk/) is the mechanical decline in bond prices when yields rise — an unavoidable cost of investing in longer-duration instruments. [Spread risk](/spread-risk/) is the danger that corporate bond credit spreads widen (borrowing costs rise relative to Treasury rates) in a [recession](/recession/) or credit crunch, causing even bonds whose issuers do not default to lose value. In 2020, for instance, corporate-bond spreads spiked during the pandemic shock, even as the underlying businesses often remained solvent.
 
 A third, smaller risk is issuer-specific default — the chance that a company borrowed in the bond market and then encountered distress. In a diversified portfolio like ZTEN, a single default affects only a small portion of the fund, but it is a real possibility. The fund's investment-grade focus reduces this risk significantly compared to high-yield alternatives.
 

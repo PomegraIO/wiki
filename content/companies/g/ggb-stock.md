@@ -27,7 +27,7 @@ Gerdau's costs move with commodity prices too. Iron ore and scrap metal are inpu
 
 ## Currency and geography
 
-Gerdau earns much of its revenue outside Brazil, which diversifies its exposure but introduces [currency risk](/currency-risk/). When the Brazilian real depreciates against the [US dollar](/us-dollar/), Gerdau's local-currency costs rise but its ability to charge in dollars (or buy and sell globally) provides some hedge. A rising dollar lifts reported earnings when Gerdau converts foreign revenues back to reais for consolidation. A falling dollar does the reverse. For a long-term investor analyzing the business, currency swings can mask or exaggerate the underlying operational performance.
+Gerdau earns much of its revenue outside Brazil, which diversifies its exposure but introduces [currency risk](/currency-risk/). When the [Brazilian real](/brazilian-real/) depreciates against the [US dollar](/us-dollar/), Gerdau's local-currency costs rise but its ability to charge in dollars (or buy and sell globally) provides some hedge. A rising dollar lifts reported earnings when Gerdau converts foreign revenues back to reais for consolidation. A falling dollar does the reverse. For a long-term investor analyzing the business, currency swings can mask or exaggerate the underlying operational performance.
 
 The geographic spread also means Gerdau competes in multiple markets simultaneously. North America is more profitable but more competitive; Brazil offers growth but faces macro headwinds. A diversified portfolio of mills limits the impact of any single region's downturn but also means management must run multiple businesses with different competitive dynamics and margins.
 

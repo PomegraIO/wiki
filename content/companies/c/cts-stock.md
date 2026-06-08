@@ -51,7 +51,7 @@ Customers expect suppliers to help solve engineering problems: if an OEM is stru
 
 The automotive industry is cyclical: in growth years, OEMs increase platform volumes and introduce new models, driving CTS revenue up. In [recessions](/recession/), vehicle production drops sharply—new car sales might fall 30–50% in a severe downturn—and supplier revenues follow. CTS's cost base is semi-fixed: plants, labor agreements, and long-term contracts create costs that don't disappear when demand softens.
 
-The electrification of vehicles also creates structural headwinds and opportunities. Electric vehicles require different sensors and fewer traditional engine components. Suppliers that supplied only traditional powertrain sensors face declining demand; those that develop EV-specific capabilities grow. CTS has been repositioning toward electrified powertrains and autonomous-vehicle sensors, but this transition carries execution risk and requires capital investment in new engineering and capabilities.
+The electrification of vehicles also creates structural headwinds and opportunities. Electric vehicles require different sensors and fewer traditional engine components. Suppliers that supplied only traditional powertrain sensors face declining demand; those that develop EV-specific capabilities grow. CTS has been repositioning toward electrified powertrains and autonomous-vehicle sensors, but this transition carries [execution risk](/execution-risk/) and requires capital investment in new engineering and capabilities.
 
 ## Profitability Drivers and Margin Constraints
 

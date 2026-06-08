@@ -4,7 +4,7 @@ description: "Real estate development and project management firm focused on inf
 keywords: ["real estate development", "commercial property", "project management", "growth markets", "infrastructure development"]
 ---
 
-*BTC Development Corp. (BDCI) operates as a private real estate development and construction project management firm with public equity. The company sources land, secures financing, and shepherds mixed-use and commercial properties from acquisition through permitting, construction, and eventual sale or long-term hold—earning profit through development fees, carried interests, and direct ownership stakes in completed projects.*
+*BTC Development Corp. (BDCI) operates as a private real estate development and construction project management firm with public equity. The company sources land, secures financing, and shepherds mixed-use and commercial properties from acquisition through permitting, construction, and eventual sale or long-term hold—earning profit through development fees, [carried interests](/carried-interest-compensation/), and direct ownership stakes in completed projects.*
 
 <aside class="wiki-infobox">
 <table>
@@ -18,7 +18,7 @@ keywords: ["real estate development", "commercial property", "project management
 
 ## The Real Estate Project Factory
 
-Real estate development economics differ sharply from operating businesses: instead of recurring revenue and margin dollars, developers harvest profit in concentrated bursts—when a project closes, capital is deployed, and a new project must be identified to replace it. BDCI's model sequences projects across stages: **land acquisition** (often with seller financing or option agreements that reduce upfront capital), **entitlement** (navigating municipal zoning, environmental review, and permit phases), **construction financing and execution** (partnering with general contractors and securing construction loans), and **disposition or hold** (selling the completed property to an institutional buyer, owner-occupant, or holding it for longer-term [dividend](/dividend/) and appreciation potential).
+Real estate development economics differ sharply from operating businesses: instead of recurring revenue and margin dollars, developers harvest profit in concentrated bursts—when a project closes, capital is deployed, and a new project must be identified to replace it. BDCI's model sequences projects across stages: **land acquisition** (often with [seller financing](/seller-financing/) or option agreements that reduce upfront capital), **entitlement** (navigating municipal zoning, environmental review, and permit phases), **construction financing and execution** (partnering with general contractors and securing [construction loans](/construction-loan/)), and **disposition or hold** (selling the completed property to an institutional buyer, owner-occupant, or holding it for longer-term [dividend](/dividend/) and appreciation potential).
 
 Revenue and profit timing is uneven. A project that takes three years to entitle and build generates almost no profit until completion; the moment it closes, the developer recognizes the full development gain, often 25–40% above cost. This "lumpiness" in earnings makes real estate development businesses volatile: a year with two project closings can look exceptional; a year with one closing pushed into the following year will appear weak. Investors and lenders must think in terms of *project pipeline* (how many projects are in progress and at what stage) rather than quarterly smoothness.
 
@@ -36,12 +36,12 @@ The margin at exit depends on three variables: *acquisition cost* (what was paid
 
 Developers live under an acute constraint: they cannot complete projects without access to construction capital. If a construction lender becomes cautious or credit markets tighten, developments grind to a halt mid-construction. BDCI is therefore vulnerable to:
 
-- **Credit cycle risk**: When banks tighten lending standards ([recession](/recession/), rising rates, fallen property values), developers with projects in mid-flight face renegotiation pressure, cost escalations, or project abandonment.
+- **[Credit cycle](/credit-cycle/) risk**: When banks tighten lending standards ([recession](/recession/), rising rates, fallen property values), developers with projects in mid-flight face renegotiation pressure, cost escalations, or project abandonment.
 - **[Market timing](/market-timing/) risk**: Entitlements might take years; market conditions at completion might differ sharply from conditions when the project was conceived. An office development approved during growth may face obsolescence and leasing difficulty in a remote-work era.
 - **Debt service and equity calls**: If a project becomes distressed (cost overruns, delayed absorption), BDCI must inject additional equity to complete it or face lender [foreclosure](/foreclosure/).
 - **Land and [carry cost](/carry-cost-forex/) exposure**: Land banks (inventory of titled or optioned real estate awaiting development) create ongoing [property tax](/property-tax/), insurance, and financing costs even when no revenue is being generated.
 
-For investors, the key question is whether BDCI's pipeline projects are sufficiently advanced and well-sited to absorb near-term construction cost and [interest rate](/interest-rate/) headwinds, or whether the company is vulnerable to project delays and capital calls.
+For investors, the key question is whether BDCI's pipeline projects are sufficiently advanced and well-sited to absorb near-term construction cost and [interest rate](/interest-rate/) headwinds, or whether the company is vulnerable to project delays and [capital calls](/capital-call/).
 
 ## Recurring vs. Episodic Earnings
 

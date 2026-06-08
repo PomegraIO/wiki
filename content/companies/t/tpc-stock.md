@@ -46,7 +46,7 @@ Tutor Perini also occasionally bids for and wins projects in which it takes an e
 
 ## The construction cycle and market positioning
 
-The construction industry is cyclical, driven by government budgets (for infrastructure), real estate cycles (for building), and industrial investment. Tutor Perini's revenue and profit opportunities expand when customers are spending and contract when they pull back. The company does not control those cycles, so survivability depends on maintaining enough financial strength and cash flow during downturns to persist until the cycle turns.
+The construction industry is cyclical, driven by government budgets (for infrastructure), [real estate cycles](/real-estate-cycle/) (for building), and industrial investment. Tutor Perini's revenue and profit opportunities expand when customers are spending and contract when they pull back. The company does not control those cycles, so survivability depends on maintaining enough financial strength and cash flow during downturns to persist until the cycle turns.
 
 Tutor Perini's competitive position has been that of a mid-sized generalist with strength in civil and heavy work. The largest projects sometimes go to mega-contractors with stronger [balance sheets](/balance-sheet/) and more capacity (Bechtel, Jacobs, Fluor for mega-projects); smaller projects go to smaller regional contractors. Tutor Perini competes in the middle, bidding on projects in the hundreds of millions of dollars range where its scale and expertise are credible without being overkill.
 

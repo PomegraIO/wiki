@@ -46,7 +46,7 @@ For Parabilis shareholders, the value story is straightforward: if zolucatetide 
 
 But that is an enormous if. Most clinical-stage biotech companies fail. Even companies with credible early signals and major pharma partners see Phase 3 trials flop. The Wnt pathway is clinically validated (genetic mutations in the pathway drive cancer), but zolucatetide's specific approach—interfering with b-catenin and TCF—has never been tested at scale. Toxicity, efficacy, manufacturing challenges, and regulatory hurdles all remain.
 
-The Regeneron partnership de-risks some technical and regulatory questions. It signals that a sophisticated pharma partner believes the science is sound enough to co-invest and co-develop. That endorsement raises the bar for skepticism but does not eliminate the execution risk. Regeneron and other pharma majors have backed failed programs before.
+The Regeneron partnership de-risks some technical and regulatory questions. It signals that a sophisticated pharma partner believes the science is sound enough to co-invest and co-develop. That endorsement raises the bar for skepticism but does not eliminate the [execution risk](/execution-risk/). Regeneron and other pharma majors have backed failed programs before.
 
 ## What is changing for Parabilis now
 

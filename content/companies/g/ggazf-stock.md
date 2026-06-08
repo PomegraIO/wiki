@@ -69,7 +69,7 @@ Goldgroup exists in a narrow viable band. Gold prices must remain high enough to
 
 If all conditions align, Goldgroup becomes an operating mine and shareholder value can be captured. If any condition fails — gold crashes, permitting stalls for years, capital markets freeze, or mining studies reveal unexpected costs — the company stalls or fails, destroying shareholder value.
 
-For investors, Goldgroup is a bet on all these dominoes falling in the right order. The company's moat is the ore body — valuable if the mine gets built, worthless if it doesn't. Execution risk is the binding constraint.
+For investors, Goldgroup is a bet on all these dominoes falling in the right order. The company's moat is the ore body — valuable if the mine gets built, worthless if it doesn't. [Execution risk](/execution-risk/) is the binding constraint.
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>

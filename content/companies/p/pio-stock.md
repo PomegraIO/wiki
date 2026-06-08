@@ -46,7 +46,7 @@ That said, some segments of the water business are genuinely profitable: special
 
 ## Risks worth considering
 
-**Regulatory and political risk.** Water is essential and therefore politically charged. Governments can force price controls, redirect investment, or shift from private to public management. A change in administration or a political backlash against private water companies can hit returns sharply.
+**Regulatory and [political risk](/political-risk/).** Water is essential and therefore politically charged. Governments can force price controls, redirect investment, or shift from private to public management. A change in administration or a political backlash against private water companies can hit returns sharply.
 
 **Emerging-market and [currency volatility](/currency-volatility/).** PIO's inclusion of Chinese, Indian, and other emerging-market water firms adds exposure to higher growth potential but also geopolitical risk, currency volatility, and less-liquid markets. Emerging-market stocks can swing more sharply than developed-market equivalents.
 

@@ -58,7 +58,7 @@ Capital intensity is moderate compared to some industrials but significant relat
 
 ## Research and observation
 
-A reader evaluating Hexcel should start with the 10-K (SEC CIK 0000717605), which discloses revenue by market segment and customer concentration. Watch for Boeing and Airbus production-rate guidance and monthly data (available publicly from the manufacturers) as a leading indicator of Hexcel demand. Earnings calls should illuminate capacity utilization, pricing negotiations with customers, and the health of defence and space programs.
+A reader evaluating Hexcel should start with the 10-K (SEC CIK 0000717605), which discloses revenue by market segment and customer concentration. Watch for Boeing and Airbus production-rate guidance and monthly data (available publicly from the manufacturers) as a [leading indicator](/leading-indicator/) of Hexcel demand. Earnings calls should illuminate capacity utilization, pricing negotiations with customers, and the health of defence and space programs.
 
 Key metrics include gross margin trends (watch for raw-material cost absorption or customer pricing gains), operating leverage (revenue growth should expand margins if the company manages costs), and cash generation. The [balance sheet](/balance-sheet/) matters: does Hexcel have the financial flexibility to invest in new capacity if a major program ramps, or is it financially constrained?
 

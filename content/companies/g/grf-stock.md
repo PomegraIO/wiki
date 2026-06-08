@@ -40,7 +40,7 @@ Eagle Capital Growth Fund invests primarily in large-cap growth companies across
 
 The benchmark is the S&P 500, a broad market index of large U.S. public companies. Meeting the benchmark is the minimal expectation. Beating it requires the manager to pick better-quality companies than the index, or to time [sector rotations](/sector-rotation/), or to find overlooked opportunities. Outperformance is difficult to achieve consistently, especially for a large fund.
 
-The fund's long-term mandate — growth over years, not months — gives the manager some freedom to hold positions through market cycles and to avoid short-term performance chasing. But it also means the fund is neither a [bond](/bond/) substitute (it fluctuates with equity markets) nor an aggressive growth vehicle (it is diversified rather than concentrated). It occupies the middle ground of a conventional growth equity portfolio.
+The fund's long-term mandate — growth over years, not months — gives the manager some freedom to hold positions through [market cycles](/market-cycle/) and to avoid short-term performance chasing. But it also means the fund is neither a [bond](/bond/) substitute (it fluctuates with equity markets) nor an aggressive growth vehicle (it is diversified rather than concentrated). It occupies the middle ground of a conventional growth equity portfolio.
 
 ## Where the risk lives
 

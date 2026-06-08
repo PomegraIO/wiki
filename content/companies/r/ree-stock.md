@@ -27,7 +27,7 @@ This is the honest reality: REE Automotive is not yet a revenue-generating busin
 
 > "The corner module is just one piece of the puzzle. What matters is whether OEMs actually choose to adopt this platform instead of developing their own electric trucks."
 
-The addressable market is real: global demand for electric commercial vehicles is growing as regulations tighten and operating costs for batteries decline. But REE faces headwinds. Established heavy-duty OEMs (Volvo, Scania, Daimler) have their own electrification programs and may prefer vertical integration over third-party platforms. Newer EV startups like Nikola and Arrival are also targeting similar niches. Execution risk is high.
+The addressable market is real: global demand for electric commercial vehicles is growing as regulations tighten and operating costs for batteries decline. But REE faces headwinds. Established heavy-duty OEMs (Volvo, Scania, Daimler) have their own electrification programs and may prefer vertical integration over third-party platforms. Newer EV startups like Nikola and Arrival are also targeting similar niches. [Execution risk](/execution-risk/) is high.
 
 ## Capital Needs and Runway
 

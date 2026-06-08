@@ -47,9 +47,9 @@ The company's disclosures on credit concentrations—by geography, counterparty,
 
 ## Market Context and Positioning
 
-The universe of finance companies, [business-development companies](/bdc-stock/) (BDCs), and specialized credit investors varies in focus and leverage. Some target private credit and direct lending; others concentrate on public corporate debt, structured products, or distressed situations. Jefferson Capital's specific niche within this landscape shapes the risk-return profile and the investor base likely to hold it.
+The universe of finance companies, [business-development companies](/bdc-stock/) (BDCs), and specialized credit investors varies in focus and leverage. Some target private credit and direct lending; others concentrate on public corporate debt, [structured products](/structured-product/), or distressed situations. Jefferson Capital's specific niche within this landscape shapes the risk-return profile and the investor base likely to hold it.
 
-Credit cycles and [equity](/stock/) market sentiment influence both the value of Jefferson Capital's portfolio and its ability to raise new capital or refinance debt. In periods when credit spreads widen, existing holdings fall in value but new investments can be made at better terms; when spreads tighten, valuations look better but the yield available to reinvest declines.
+[Credit cycles](/credit-cycle/) and [equity](/stock/) market sentiment influence both the value of Jefferson Capital's portfolio and its ability to raise new capital or refinance debt. In periods when credit spreads widen, existing holdings fall in value but new investments can be made at better terms; when spreads tighten, valuations look better but the yield available to reinvest declines.
 
 ## See Also
 

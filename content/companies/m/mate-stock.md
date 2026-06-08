@@ -27,7 +27,7 @@ At its core, MATE employs a quantitative model that examines price momentum acro
 
 The fund applies this logic across a wide universe: developed-market equities, emerging-market equities, government [bonds](/bond/), commodities like [crude oil](/crude-oil/) and copper, and currencies like the euro and [British pound](/british-pound/). The model does not favor any particular market; it simply follows the signals wherever they appear.
 
-Position sizing is dynamic. When a trend is strong and recent price action confirms it, MATE concentrates capital in that bet. When a trend weakens or reverses, the fund reduces exposure or flips to a short position. This responsiveness is the intended edge: capturing gains when trends persist and cutting losses before they grow severe.
+[Position sizing](/position-sizing/) is dynamic. When a trend is strong and recent price action confirms it, MATE concentrates capital in that bet. When a trend weakens or reverses, the fund reduces exposure or flips to a short position. This responsiveness is the intended edge: capturing gains when trends persist and cutting losses before they grow severe.
 
 ## Multi-asset diversification and tactical flexibility
 

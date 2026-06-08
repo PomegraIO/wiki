@@ -28,7 +28,7 @@ handwritten: true
 
 Safe Bulkers' earnings are set by the Baltic Dry Index and the regional indices it components: the Capesize (for the largest ships), the Panamax, the Supramax, and others. These indices track the time-charter rates (the daily rental price per deadweight ton) that shipowners can charge for their vessels. When China is importing iron ore at a frantic pace to feed construction and steel mills, rates spike. When global growth slows and import orders flatten, rates collapse. A good year might see ships earning $30,000 per day; a bad year might see $10,000. The difference is literally the difference between profit and loss.
 
-This is not a business where the company can raise prices to customers, maintain market share, or invest in brand loyalty. The contract for a single voyage is settled in minutes on a global marketplace with thousands of equivalent vessels bidding for cargoes. The only lever Safe Bulkers has is to own the most reliable, fuel-efficient, and well-maintained vessels, which can attract better rates when spot rates are weak and can expand margins when rates are strong. But that lever is small; rates overwhelm everything.
+This is not a business where the company can raise prices to customers, maintain market share, or invest in brand loyalty. The contract for a single voyage is settled in minutes on a global marketplace with thousands of equivalent vessels bidding for cargoes. The only lever Safe Bulkers has is to own the most reliable, fuel-efficient, and well-maintained vessels, which can attract better rates when [spot rates](/spot-rate/) are weak and can expand margins when rates are strong. But that lever is small; rates overwhelm everything.
 
 ## Fleet composition and strategy
 
@@ -48,7 +48,7 @@ Safe Bulkers must make enormous upfront capital investments to own ships. The co
 
 This creates a leverage cycle: in good years when rates are high, the company generates cash and can reduce debt or invest in new vessels. In weak years, the company struggles to generate cash and becomes dependent on its credit lines to cover operating costs and debt service. Refinancing becomes dangerous—rates that are cheap when the company's cash flow is strong become expensive when it is weak.
 
-The company's [common stock](/common-stock/) provides the equity cushion that debt holders rely on. The Series D preferred shares (SB-PD) represent a second layer in the capital structure, senior to common equity but subordinate to debt. The preferred shareholders receive fixed distributions, meaning they take priority over common shareholders for any cash the company generates, but they rank below creditors. This makes them less risky than common shares but riskier than [bonds](/bond/), with yields between the two.
+The company's [common stock](/common-stock/) provides the [equity cushion](/equity-cushion/) that debt holders rely on. The Series D preferred shares (SB-PD) represent a second layer in the capital structure, senior to common equity but subordinate to debt. The preferred shareholders receive fixed distributions, meaning they take priority over common shareholders for any cash the company generates, but they rank below creditors. This makes them less risky than common shares but riskier than [bonds](/bond/), with yields between the two.
 
 ## Fuel and environmental pressures
 

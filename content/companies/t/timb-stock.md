@@ -44,7 +44,7 @@ The company competes on network availability more than on leading-edge performan
 
 Like all telecoms, TIM is bounded by the physics of radio spectrum and the costs of maintaining or upgrading infrastructure. Brazil's regulators control spectrum auctions, which determine the frequencies and total capacity available to each operator and shape the competitive dynamics for the coming decade. Licensing fees are substantial; so are site maintenance, backhaul, and energy costs. Margins are compressed by intense price competition in the consumer segment and held up only by higher-margin B2B contracts and broadband bundles.
 
-Currency exposure is structural. TIM reports earnings in Brazilian Real, a volatile currency; USD debt service creates recurring foreign-exchange headwinds. Macroeconomic slowdowns in Brazil ripple through the customer base, especially lower-income subscribers who reduce data spending during [recessions](/recession/).
+Currency exposure is structural. TIM reports earnings in [Brazilian Real](/brazilian-real/), a volatile currency; USD debt service creates recurring foreign-exchange headwinds. Macroeconomic slowdowns in Brazil ripple through the customer base, especially lower-income subscribers who reduce data spending during [recessions](/recession/).
 
 ## Ownership and strategic tension
 

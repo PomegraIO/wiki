@@ -32,7 +32,7 @@ A threat, and opportunity, is the shift toward more efficient, connected equipme
 
 ## Cyclicality and the business environment
 
-RMX's revenue ebbs and flows with construction cycles. New residential and commercial building drives demand for HVAC systems and boilers. Replacement cycles—the point at which aging equipment becomes too expensive to repair—also matter. Historically, [recessions](/recession/) suppress both new construction and discretionary replacement, which has made RMX shares volatile through the credit cycle. A tight labor market can also crimp sales because contractors, facing staff shortages, defer jobs or use lower-cost equipment to preserve margins.
+RMX's revenue ebbs and flows with construction cycles. New residential and commercial building drives demand for HVAC systems and boilers. Replacement cycles—the point at which aging equipment becomes too expensive to repair—also matter. Historically, [recessions](/recession/) suppress both new construction and discretionary replacement, which has made RMX shares volatile through the [credit cycle](/credit-cycle/). A tight labor market can also crimp sales because contractors, facing staff shortages, defer jobs or use lower-cost equipment to preserve margins.
 
 Energy prices influence the mix. When fuel or electricity is expensive, customers upgrade to more efficient systems, which favors RMX if it has efficient offerings. When energy is cheap, pressure to upgrade weakens. Regulatory tightening—building codes requiring higher efficiency, or environmental rules restricting certain refrigerants—forces replacement waves but also raises the cost bar for entry and favors companies with the scale and capital to comply.
 

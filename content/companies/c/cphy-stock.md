@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The **F/m Compoundr High Yield [Bond ETF](/bond-etf/)** (CPHY) invests in [bonds](/bond/) issued by US companies that do not qualify as investment-grade — firms carrying meaningful default risk but offering substantially higher [interest rates](/interest-rate/) in return for that risk. It is designed for investors willing to tolerate credit cycles and occasional defaults in exchange for yields well above safer [corporate bonds](/corporate-bond/).*
+*The **F/m Compoundr High Yield [Bond ETF](/bond-etf/)** (CPHY) invests in [bonds](/bond/) issued by US companies that do not qualify as investment-grade — firms carrying meaningful default risk but offering substantially higher [interest rates](/interest-rate/) in return for that risk. It is designed for investors willing to tolerate [credit cycles](/credit-cycle/) and occasional defaults in exchange for yields well above safer [corporate bonds](/corporate-bond/).*
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ handwritten: true
 
 ## Before the junk bond market: the origins in the 1970s
 
-For most of finance history, corporate bonds were divided sharply into two categories. Large, stable companies could borrow at investment-grade rates — interest rates only slightly above US Treasury yields — because their probability of default was very low. Everyone else could not access the bond market at all. If a smaller or riskier company needed capital, it went to banks or private lenders, or it did not borrow.
+For most of finance history, corporate bonds were divided sharply into two categories. Large, stable companies could borrow at investment-grade rates — interest rates only slightly above US Treasury yields — because their [probability of default](/probability-of-default/) was very low. Everyone else could not access the bond market at all. If a smaller or riskier company needed capital, it went to banks or private lenders, or it did not borrow.
 
 In the 1970s, this binary segregation began to crack. Michael Milken and his colleagues at Drexel Burnham Lambert recognized that the market was missing an opportunity. A company that did not quite qualify as investment-grade was not certain to default. It was risky, yes, but the default risk was not infinite. If that company had to pay a steep enough interest rate — say, 8% or 10% above Treasuries — then lenders could be compensated for that risk. The company would get capital, lenders would get paid for risk, and both would benefit.
 
@@ -75,7 +75,7 @@ The fund's [diversification](/diversification/) rule — no single issuer can re
 
 Default risk is central. Over a typical credit cycle, 2–4% of high-yield bonds default per year on average, though the rate falls near zero in booms and spikes into double digits during severe recessions. Even if average [default rates](/default-rate/) are moderate, the timing matters: an investor who buys near the peak of the cycle will experience above-average defaults.
 
-Liquidity risk is the second major danger. While the largest, most-traded high-yield bonds are relatively liquid, many smaller or distressed issuers trade thinly. In a market panic, when investors are selling in size, bid-ask spreads widen and the fund may not be able to sell holdings at fair prices. The fund itself has exchange liquidity, but the underlying securities do not always.
+[Liquidity risk](/liquidity-risk/) is the second major danger. While the largest, most-traded high-yield bonds are relatively liquid, many smaller or distressed issuers trade thinly. In a market panic, when investors are selling in size, [bid-ask spreads](/bid-ask-spread/) widen and the fund may not be able to sell holdings at fair prices. The fund itself has exchange liquidity, but the underlying securities do not always.
 
 Interest-rate risk is real as well, particularly if rates rise sharply or if economic shocks occur. CPHY's intermediate-to-long duration means the fund will fall meaningfully in price if rates spike unexpectedly.
 
@@ -83,7 +83,7 @@ Interest-rate risk is real as well, particularly if rates rise sharply or if eco
 
 CPHY is appropriate for investors who understand credit cycles, can tolerate 10–20% losses in bad years, hold the fund for years through multiple economic cycles, and have enough capital that a loss would not impair their financial plans. It is not appropriate for conservative savers, near-retirees, or anyone who cannot afford to lose that capital.
 
-Start with the fund's fact sheet: the yield, the weighted-average credit rating (a measure of overall credit quality), and the maturity profile. Compare the yield spread to Treasury yields — a wide spread may indicate attractive entry points or markets pricing in imminent distress.
+Start with the fund's fact sheet: the yield, the weighted-average [credit rating](/credit-rating/) (a measure of overall credit quality), and the maturity profile. Compare the yield spread to Treasury yields — a wide spread may indicate attractive entry points or markets pricing in imminent distress.
 
 Examine the top holdings and their industries to understand concentration. Study the fund's performance through prior credit cycles, especially the 2008 financial crisis and the 2020 pandemic. Did it recover? How long did recovery take? How much did the price fall in crisis? These historical benchmarks are more instructive than looking at returns during calm periods.
 

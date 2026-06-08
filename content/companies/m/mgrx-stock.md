@@ -43,7 +43,7 @@ As the company scales, it must manage supplier relationships carefully—reliabl
 
 The dietary supplement category operates under a lighter regulatory touch than pharmaceuticals. Mangoceuticals can make structure-function claims ("supports joint health") without the rigor of drug approval, but cannot make disease claims ("treats arthritis"). This distinction shapes everything the company can say on labels and in marketing.
 
-Customers buying Mangoceuticals are making a bet that the company has conducted due diligence, that the compounds really do what the label suggests, and that they are not just paying for marketing. The regulatory framework gives the company latitude but also means that customers rely more heavily on brand reputation and word-of-mouth than on government seal-of-approval. That makes customer trust and independent review more valuable than formal certification.
+Customers buying Mangoceuticals are making a bet that the company has conducted [due diligence](/due-diligence/), that the compounds really do what the label suggests, and that they are not just paying for marketing. The regulatory framework gives the company latitude but also means that customers rely more heavily on brand reputation and word-of-mouth than on government seal-of-approval. That makes customer trust and independent review more valuable than formal certification.
 
 ## The 10-K Tells a Story of Scale and Speed
 

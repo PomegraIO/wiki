@@ -26,7 +26,7 @@ Sachem Capital Corp (ticker: SACH) is a specialty finance company that makes sho
 
 ## The bridge-lending business
 
-Sachem was founded in 2007 to fill a gap in the commercial real estate financing market. When a developer needs to acquire or refinance a property quickly—before conventional long-term financing is available, or because the property is too distressed for a bank to touch—Sachem offers a bridge loan. These loans are typically structured for one to three years, at [interest rates](/interest-rate/) well above prime (often double-digit yields), and are secured by the property itself.
+Sachem was founded in 2007 to fill a gap in the commercial real estate financing market. When a developer needs to acquire or refinance a property quickly—before conventional long-term financing is available, or because the property is too distressed for a bank to touch—Sachem offers a [bridge loan](/bridge-loan-real-estate/). These loans are typically structured for one to three years, at [interest rates](/interest-rate/) well above prime (often double-digit yields), and are secured by the property itself.
 
 The appeal to borrowers is speed and flexibility; the appeal to Sachem is high interest income. A dollar of capital deployed at 12% annual interest generates meaningful cash flow. The downside is [credit risk](/credit-risk/): if the underlying property loses value or the borrower cannot refinance when the bridge loan comes due, Sachem faces losses.
 

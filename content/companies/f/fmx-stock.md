@@ -58,7 +58,7 @@ The competitive intensity is moderate. Banks cannot easily enter Mexico because 
 
 ## Risks and pressures
 
-FMX faces several structural challenges. First, Mexican interest rates and the direction of the Mexican peso matter enormously. If the central bank raises rates, net interest margins widen — the bank earns more on its lending than it pays on deposits. If rates fall, margins compress. Peso strength or weakness affects how much the bank can earn or lose on foreign-exchange transactions and on investments denominated in other currencies.
+FMX faces several structural challenges. First, Mexican interest rates and the direction of the [Mexican peso](/mexian-peso/) matter enormously. If the central bank raises rates, net interest margins widen — the bank earns more on its lending than it pays on deposits. If rates fall, margins compress. Peso strength or weakness affects how much the bank can earn or lose on foreign-exchange transactions and on investments denominated in other currencies.
 
 Second, credit risk in the Mexican economy is real. During [recessions](/recession/) or periods of social or political instability, loan defaults rise sharply. FMX must maintain enough capital and loan-loss reserves to survive a downturn, which restrains how aggressively it can lend.
 

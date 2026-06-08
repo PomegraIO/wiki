@@ -27,7 +27,7 @@ Imagine asking: which large companies are profitable? Not just revenue, but actu
 
 AFLG does not use just one factor. It blends multiple traits: value, quality, momentum (whether the stock has been going up), and growth. Companies that rank well across these dimensions get larger positions. Companies that rank poorly get smaller positions or are excluded. The exact blend of factors and how much weight each one gets is the secret sauce — First Trust updates these occasionally, but the fund does not disclose the precise formula publicly.
 
-The catch is that factors work in waves. Sometimes value stocks win for years. Then suddenly growth stocks dominate. A factor strategy can outperform in some years and lag in others. AFLG investors are betting that over a full market cycle, the factors First Trust has chosen will beat a simple index fund. That is not guaranteed.
+The catch is that factors work in waves. Sometimes value stocks win for years. Then suddenly growth stocks dominate. A factor strategy can outperform in some years and lag in others. AFLG investors are betting that over a full [market cycle](/market-cycle/), the factors First Trust has chosen will beat a simple index fund. That is not guaranteed.
 
 ## How it trades and what it costs
 

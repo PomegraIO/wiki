@@ -38,7 +38,7 @@ Critical Metals Corp. is positioned as a development company—an owner of miner
 
 The company's challenge is not proving that the minerals exist in the ground; it is executing on two very different development schedules—one (Wolfsberg) closer to mine construction, the other (Tanbreez) still in the exploration and initial design phase—while maintaining sufficient capital to advance both projects. Mining development capital is typically lumpy: a company can spend modestly on exploration and early-stage work, then faces a discrete funding cliff when it transitions to detailed engineering, environmental permitting, and construction. Securing that capital in equity or project-finance form when the minerals themselves are abundant but politically scarce is the core business risk.
 
-Investors in CRMLW are holding warrants on Critical Metals Corp. common shares, providing leverage to the upside if the company successfully develops these deposits and brings them to production, or if larger mining companies acquire the projects at a valuation premium. The downside is that mineral development is long, capital-intensive, and subject to commodity price swings, regulatory change, and construction execution risk.
+Investors in CRMLW are holding warrants on Critical Metals Corp. common shares, providing leverage to the upside if the company successfully develops these deposits and brings them to production, or if larger mining companies acquire the projects at a valuation premium. The downside is that mineral development is long, capital-intensive, and subject to commodity price swings, regulatory change, and construction [execution risk](/execution-risk/).
 
 ---
 

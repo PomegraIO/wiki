@@ -55,4 +55,4 @@ Dividend stocks are not insulated from [market risk](/market-risk/). If the over
 
 The Dividend Strength Screen has proven robust over its history, but it has no guarantee of predicting which dividend-payers will maintain or raise their dividends into the future. Economic shocks, industry disruption, or competitive pressures can force even well-capitalised companies to cut their dividends.
 
-Investors researching FTDS should compare its historical dividend payments and capital returns to alternative dividend funds and to a broad-market or equal-weighted index over full market cycles. The prospectus details the Dividend Strength Score's component metrics and historical performance relative to the dividend-paying subset of the Russell 1000.
+Investors researching FTDS should compare its historical dividend payments and capital returns to alternative dividend funds and to a broad-market or [equal-weighted index](/equal-weighted-index/) over full [market cycles](/market-cycle/). The prospectus details the Dividend Strength Score's component metrics and historical performance relative to the dividend-paying subset of the Russell 1000.

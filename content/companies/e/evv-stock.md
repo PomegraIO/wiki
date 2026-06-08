@@ -44,7 +44,7 @@ Returns to a closed-end fund shareholder come from two sources: the income distr
 
 ## Regulatory framework and fee structure
 
-As a registered investment company, EVV is subject to Investment Company Act rules that limit leverage, require detailed disclosure, and govern how the manager is compensated. The fund charges an annual [expense ratio](/expense-ratio/) covering [management fees](/management-fee/) and operating costs. These fees are paid out of fund assets before distributions are paid, so they reduce the net income available to shareholders.
+As a [registered investment company](/registered-investment-company/), EVV is subject to Investment Company Act rules that limit leverage, require detailed disclosure, and govern how the manager is compensated. The fund charges an annual [expense ratio](/expense-ratio/) covering [management fees](/management-fee/) and operating costs. These fees are paid out of fund assets before distributions are paid, so they reduce the net income available to shareholders.
 
 ## Investor profile and considerations
 

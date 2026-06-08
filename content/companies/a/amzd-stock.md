@@ -33,13 +33,13 @@ Direxion Shares issues AMZD, part of the firm's suite of single-stock inverse pr
 
 ## Liquidity and costs
 
-AMZD trades on NYSE Arca with typical daily volume in the range of 50,000 to 150,000 shares, providing adequate liquidity for retail and small institutional traders to enter and exit without moving the price dramatically. The [bid-ask spread](/bid-ask-spread/) is usually tight (pennies) during regular hours, making intra-day trading practical. The expense ratio covers the cost of maintaining derivatives and daily rebalancing.
+AMZD trades on [NYSE Arca](/nyse-arca/) with typical daily volume in the range of 50,000 to 150,000 shares, providing adequate liquidity for retail and small institutional traders to enter and exit without moving the price dramatically. The [bid-ask spread](/bid-ask-spread/) is usually tight (pennies) during regular hours, making intra-day trading practical. The expense ratio covers the cost of maintaining derivatives and daily rebalancing.
 
 ## Who uses AMZD and why
 
 Traders use AMZD for tactical bearish bets when they expect Amazon to decline over a few hours or days. Institutional investors sometimes use it for temporary hedges — if a portfolio holds significant Amazon stock and management fears a near-term market shock, buying AMZD provides a quick offset without selling the long position. Some traders use it as a component of pair trades: long a competitor of Amazon's while short Amazon via AMZD, betting on relative performance. Retail hedgers also use it for insurance against holdings they want to keep long-term but worry about near-term drawdowns.
 
-AMZD is not suitable for buy-and-hold investing. Anyone holding AMZD for weeks expecting Amazon to decline will likely be disappointed by the volatility decay, especially if Amazon's movement is choppy rather than unidirectional. Over such periods, directly shorting Amazon stock or buying a [put option](/put-option/) would likely prove cheaper.
+AMZD is not suitable for [buy-and-hold investing](/buy-and-hold/). Anyone holding AMZD for weeks expecting Amazon to decline will likely be disappointed by the volatility decay, especially if Amazon's movement is choppy rather than unidirectional. Over such periods, directly shorting Amazon stock or buying a [put option](/put-option/) would likely prove cheaper.
 
 ## Real risks
 

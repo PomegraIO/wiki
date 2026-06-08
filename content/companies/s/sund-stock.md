@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Sundance Strategies operates as a specialty finance advisory firm focused on the life settlement market—a segment of alternative finance that has grown substantially in recent years but remains volatile, thinly understood by most investors, and dependent on regulatory stability. The company provides professional services to [bond](/bond/) issuers, investors, and aggregators seeking to acquire, package, and monetize portfolios of existing life insurance policies. Its business divides into two primary operations: advisory services and [structured finance](/structured-finance/) facilitation.
+Sundance Strategies operates as a specialty finance advisory firm focused on the [life settlement](/life-insurance-settlement/) market—a segment of alternative finance that has grown substantially in recent years but remains volatile, thinly understood by most investors, and dependent on regulatory stability. The company provides professional services to [bond](/bond/) issuers, investors, and aggregators seeking to acquire, package, and monetize portfolios of existing life insurance policies. Its business divides into two primary operations: advisory services and [structured finance](/structured-finance/) facilitation.
 
 ## Advisory Services and Portfolio Selection
 
@@ -19,7 +19,7 @@ Sundance advises clients on the [acquisition](/acquisition/) and selection of li
 
 ## Structured Bond Issuance
 
-The second operation is the structuring and facilitation of asset-backed bond issuances secured by life settlement portfolios. An issuer acquires a portfolio of life insurance policies, then structures bonds backed by the future death benefits as collateral. Investors purchase these bonds, accepting the longevity risk (the risk that insureds live longer than expected and delays or reduces principal repayment) in exchange for a coupon. Sundance facilitates this process, using common structured finance techniques—tranching of risk, credit enhancement, principal protection mechanisms—to create securities that appeal to different investor risk tolerances. The company may also earn fees on the structuring and issuance itself.
+The second operation is the structuring and facilitation of asset-backed bond issuances secured by life settlement portfolios. An issuer acquires a portfolio of life insurance policies, then structures bonds backed by the future death benefits as collateral. Investors purchase these bonds, accepting the longevity risk (the risk that insureds live longer than expected and delays or reduces principal repayment) in exchange for a coupon. Sundance facilitates this process, using common structured finance techniques—tranching of risk, [credit enhancement](/credit-enhancement/), principal protection mechanisms—to create securities that appeal to different investor risk tolerances. The company may also earn fees on the structuring and issuance itself.
 
 In December 2025, Sundance announced a partnership with ClearUnited, Inc. to launch a $250 million bond issuance backed by approximately $600 million in underlying life insurance policies. This deal represents a meaningful volume of activity and demonstrates that Sundance is successfully competing for transactions in a market that is growing but fragmented.
 
@@ -41,7 +41,7 @@ Fifth, competition and scale barriers are relevant. Larger financial services fi
 
 ## Alternative Revenue Streams
 
-Sundance has experimented with emerging opportunities, such as structuring life-settlement-backed non-fungible tokens (NFTs) and exploring digital or decentralized finance applications for life settlement assets. These initiatives suggest the company is attempting to find new distribution channels and investor bases, but they remain exploratory and unproven. Digital representations of life settlements are novel, and regulatory clarity around such instruments remains uncertain.
+Sundance has experimented with emerging opportunities, such as structuring life-settlement-backed [non-fungible tokens](/non-fungible-token/) (NFTs) and exploring digital or decentralized finance applications for life settlement assets. These initiatives suggest the company is attempting to find new distribution channels and investor bases, but they remain exploratory and unproven. Digital representations of life settlements are novel, and regulatory clarity around such instruments remains uncertain.
 
 ## Financial Health and Capital Position
 

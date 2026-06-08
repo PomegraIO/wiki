@@ -86,7 +86,7 @@ Monitor key metrics:
 - **Fleet utilization rates**, indicating how much of the fleet is generating revenue
 - **Free cash flow after capex**, crucial for understanding actual cash generation
 - **Debt-to-EBITDA**, which tells you leverage headroom during cyclical downturns
-- **Spot and contract rate trends** in the Gulf and Mississippi corridors, which provide leading indicators of shipping demand
+- **Spot and contract rate trends** in the Gulf and Mississippi corridors, which provide [leading indicators](/leading-indicator/) of shipping demand
 
 Watch broader macroeconomic indicators: refinery utilization, chemical production indices, and petrochemical plant capacity additions tell you whether Kirby's customer base is expanding or contracting. Energy prices and shipping sentiment in port reports and industry publications offer real-time color on demand.
 

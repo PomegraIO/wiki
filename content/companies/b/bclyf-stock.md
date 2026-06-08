@@ -53,7 +53,7 @@ The post-pandemic period has been volatile on this front. The U.S. [Federal Rese
 
 ## Regulatory and political pressure
 
-Barclays operates under intense regulatory scrutiny in the UK, Europe, and the U.S. The UK [Financial Conduct Authority](/financial-conduct-authority/) and the Prudential Regulation Authority set rules on capital, liquidity, and lending. The [European Central Bank](/european-central-bank/) oversees eurozone operations. The U.S. Federal Reserve oversees U.S. operations. Regulators regularly conduct stress tests (imaginary scenarios to see if Barclays would survive a severe financial shock) and issue enforcement actions if violations are found.
+Barclays operates under intense regulatory scrutiny in the UK, Europe, and the U.S. The UK [Financial Conduct Authority](/financial-conduct-authority/) and the [Prudential Regulation Authority](/prudential-regulation-authority/) set rules on capital, liquidity, and lending. The [European Central Bank](/european-central-bank/) oversees eurozone operations. The U.S. Federal Reserve oversees U.S. operations. Regulators regularly conduct stress tests (imaginary scenarios to see if Barclays would survive a severe financial shock) and issue enforcement actions if violations are found.
 
 There is also political pressure. Large banks are unpopular with a significant share of voters and policymakers, especially after 2008. Calls for windfall taxes on bank profits, restrictions on executive pay, and rules forcing banks to lend more to small businesses are periodic political noise. Barclays has to navigate all of this, balancing profitability with social and political legitimacy.
 

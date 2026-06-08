@@ -17,7 +17,7 @@ keywords: [boat-manufacturing, recreation, dealer-network, watercraft, cik-16382
 
 ## Fixed Assets and Manufacturing Footprint
 
-Unlike advisory firms that operate with minimal tangible assets, MasterCraft's [balance sheet](/balance-sheet/) is dominated by property, plant, and equipment. The company operates manufacturing facilities—likely in Tennessee and Arkansas based on industry geography—equipped with molding lines, assembly stations, and test platforms for fiberglass hull construction. These facilities represent tens of millions of dollars in capital investment and are carried on the books as fixed assets, depreciated over their useful lives.
+Unlike advisory firms that operate with minimal tangible assets, MasterCraft's [balance sheet](/balance-sheet/) is dominated by [property, plant, and equipment](/property-plant-equipment/). The company operates manufacturing facilities—likely in Tennessee and Arkansas based on industry geography—equipped with molding lines, assembly stations, and test platforms for fiberglass hull construction. These facilities represent tens of millions of dollars in capital investment and are carried on the books as fixed assets, depreciated over their useful lives.
 
 The size and utilization of this manufacturing base directly affects [operating margins](/operating-margin/). If MasterCraft operates at 70% capacity (producing 70% of maximum theoretical annual volume), high fixed costs—facility overhead, insurance, maintenance—are spread across fewer boats, raising per-unit cost. At 95% capacity, fixed costs are leveraged, and margin expands. This operating leverage cuts both ways: in a boom year, profits accelerate; in a downturn, margins compress sharply.
 

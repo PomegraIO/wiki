@@ -45,7 +45,7 @@ Supply-side challenges exist too. The company's outputs—compost, liquid fertil
 
 SusGlobal's model of acquiring small waste-treatment operators and integrating them into a standardized platform mirrors the playbook used by water utilities and solid waste companies. The appeal is evident: a single well-run facility costs far more than one operator can capitalize, and having multiple facilities across jurisdictions provides geographic [diversification](/diversification/) and the ability to spread fixed overhead costs.
 
-The execution risk is real. Each acquired facility is an operational asset with site-specific challenges—soil conditions, local feedstock characteristics, equipment aging, staff transitions. Integrating ten of them while maintaining reliable operations and retaining trained technicians is harder than the financial model suggests. Any facility downtime or loss of a key municipal contract can disproportionately hurt earnings.
+The [execution risk](/execution-risk/) is real. Each acquired facility is an operational asset with site-specific challenges—soil conditions, local feedstock characteristics, equipment aging, staff transitions. Integrating ten of them while maintaining reliable operations and retaining trained technicians is harder than the financial model suggests. Any facility downtime or loss of a key municipal contract can disproportionately hurt earnings.
 
 SusGlobal's durability also hinges on whether it can negotiate long-term, fixed-fee contracts with municipalities rather than relying on spot-market revenue. A ten-year municipal waste service agreement is a cash machine; month-to-month arrangements are fragile. Watch for the contract mix in the 10-K filing—contract backlog is a key health indicator.
 

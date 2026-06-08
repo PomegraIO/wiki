@@ -35,7 +35,7 @@ The fund's specific weightings change over time as the manager rotates between w
 
 Active management costs money. BMED carries an [expense ratio](/expense-ratio/) higher than a passive health-care index ETF would — the manager's fees, the trading costs of executing the manager's trades, and the compliance overhead all add up. For this higher fee, investors are betting that the manager's stock-picking skill will outperform the index by more than the fee drag — a historically difficult bet. Studies of active fund managers show that most do not beat their benchmarks after fees over long periods.
 
-BMED's performance relative to a passive health-care index is a useful barometer. If BMED has outperformed the broader health-care sector over a full market cycle, the active-management fee was money well spent. If it has underperformed, the investor is paying for something that did not add value.
+BMED's performance relative to a passive health-care index is a useful barometer. If BMED has outperformed the broader health-care sector over a full [market cycle](/market-cycle/), the active-management fee was money well spent. If it has underperformed, the investor is paying for something that did not add value.
 
 ## Risk concentration and the innovation premium
 

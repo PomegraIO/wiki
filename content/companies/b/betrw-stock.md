@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Better Home & Finance](/betr-stock/) Holding Co ([NASDAQ](/nasdaq/): BETR; warrant: BETRW) is a digital-native mortgage lender and home services platform that has originated more than $110 billion in residential loans since its founding in 2016. The company has bundled mortgage origination, real estate transactions, title insurance, and [homeowners insurance](/homeowners-insurance/) into a single digital experience, using proprietary artificial intelligence to streamline loan underwriting and processing.
+[Better Home & Finance](/betr-stock/) Holding Co ([NASDAQ](/nasdaq/): BETR; warrant: BETRW) is a digital-native mortgage lender and home services platform that has originated more than $110 billion in residential loans since its founding in 2016. The company has bundled mortgage origination, real estate transactions, [title insurance](/title-insurance/), and [homeowners insurance](/homeowners-insurance/) into a single digital experience, using proprietary artificial intelligence to streamline loan underwriting and processing.
 
 ## Mortgage origination and the funnel
 

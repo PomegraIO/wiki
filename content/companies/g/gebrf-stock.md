@@ -40,7 +40,7 @@ This requires ongoing investment in marketing, third-party certifications (B-Cor
 
 ## Supplier Relationships and Supply Chain Transparency
 
-For a sustainability-positioned brand, supply chain transparency is both an asset and a risk. Transparency—publicly stating where materials are sourced, who manufactures the product, and what environmental and labor standards are upheld—builds consumer trust but also exposes Greenbriar to reputational risk if supply chain partners are later found to deviate from stated standards. A supplier that misrepresents its practices or faces labor or environmental violations creates liability for Greenbriar.
+For a sustainability-positioned brand, supply chain transparency is both an asset and a risk. Transparency—publicly stating where materials are sourced, who manufactures the product, and what environmental and labor standards are upheld—builds consumer trust but also exposes Greenbriar to [reputational risk](/reputational-risk/) if supply chain partners are later found to deviate from stated standards. A supplier that misrepresents its practices or faces labor or environmental violations creates liability for Greenbriar.
 
 Managing this requires ongoing auditing, supplier relationships, and governance. Greenbriar must balance its desire to work with smaller, mission-aligned suppliers against the risk that smaller suppliers have less robust compliance infrastructure. Choosing larger, more efficient suppliers reduces risk but may undermine the brand narrative of supporting small business or disadvantaged communities.
 

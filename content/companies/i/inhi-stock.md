@@ -16,7 +16,7 @@ keywords: ["entertainment", "gaming", "digital media", "cyclical", "consumer dis
 
 ## The Consumption-Tied Cycle
 
-Unitrend's fortune swings with consumer discretionary spending in ways that directly amplify broader economic cycles. When households tighten budgets during [recessions](/recession/), spending on digital entertainment—subscriptions, in-game purchases, streaming tokens—contracts sharply, often faster than essential consumption. The company's revenue streams depend on willingness to pay for non-essential digital goods, making it far more vulnerable to credit cycles, job uncertainty, and confidence shifts than utilities or staple retailers. Recovery, conversely, can be swift: as disposable income returns, pent-up demand for entertainment rebounds, and platforms that survive downturns often emerge with stronger user retention and habit formation.
+Unitrend's fortune swings with consumer discretionary spending in ways that directly amplify broader economic cycles. When households tighten budgets during [recessions](/recession/), spending on digital entertainment—subscriptions, in-game purchases, streaming tokens—contracts sharply, often faster than essential consumption. The company's revenue streams depend on willingness to pay for non-essential digital goods, making it far more vulnerable to [credit cycles](/credit-cycle/), job uncertainty, and confidence shifts than utilities or staple retailers. Recovery, conversely, can be swift: as disposable income returns, pent-up demand for entertainment rebounds, and platforms that survive downturns often emerge with stronger user retention and habit formation.
 
 ## Revenue Model and Seasonal Sensitivity
 

@@ -58,7 +58,7 @@ The company also faces operational costs: pipeline maintenance, labor, energy to
 
 **Refineries and shipping demand.** Downstream refinery closures or a shift in where refineries source crude (e.g., increased imports via ship instead of domestic pipeline) would reduce PAA volumes. This is not imminent, but is a structural question as refining margins and locations adjust.
 
-**MLP tax complexity for unitholders.** While the MLP pass-through structure is favorable for taxable accounts, it creates a tax-filing burden (unitholders receive a Schedule K-1 each year, requiring specialized tax accounting). This limits the investor base compared to a traditional C corporation or an S corp alternative.
+**MLP tax complexity for unitholders.** While the MLP pass-through structure is favorable for taxable accounts, it creates a tax-filing burden (unitholders receive a [Schedule K-1](/schedule-k-1/) each year, requiring specialized tax accounting). This limits the investor base compared to a traditional C corporation or an S corp alternative.
 
 ## How to research it
 
@@ -70,4 +70,4 @@ Pay attention to crude oil market dynamics: monthly production data from the EIA
 
 ---
 
-Plains All American Pipeline is a straightforward infrastructure play on the Permian Basin and North American crude logistics. It is not a play on oil prices (tariffs are largely fixed), nor is it a growth equity (volumes grow modestly with production). Instead, it offers stable, contract-backed cash flows tied to real asset usage—suitable for income-focused investors comfortable with the long-term energy transition risk and the MLP tax structure.
+Plains All American Pipeline is a straightforward infrastructure play on the Permian Basin and North American crude logistics. It is not a play on oil prices (tariffs are largely fixed), nor is it a growth equity (volumes grow modestly with production). Instead, it offers stable, contract-backed cash flows tied to real asset usage—suitable for income-focused investors comfortable with the long-term [energy transition risk](/energy-transition-risk/) and the MLP tax structure.

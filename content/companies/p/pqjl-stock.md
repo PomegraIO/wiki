@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The PGIM Nasdaq-100 Buffer products emerged from a broader industry shift in the 2010s toward defined-outcome ETFs — structured vehicles that promised to engineer specific return profiles rather than simply tracking an index. PGIM, a major division of [Prudential Financial](/pru-stock/), brought its expertise in structured products and derivatives to the ETF market and launched a family of buffer funds tied to the Nasdaq-100. The July variant, ticker PQJL, was part of that rollout, offering investors a steady-state template: Nasdaq-100 returns dampened by a protection layer, renewed each July.
+The PGIM Nasdaq-100 Buffer products emerged from a broader industry shift in the 2010s toward defined-outcome ETFs — structured vehicles that promised to engineer specific return profiles rather than simply tracking an index. PGIM, a major division of [Prudential Financial](/pru-stock/), brought its expertise in [structured products](/structured-product/) and derivatives to the ETF market and launched a family of [buffer funds](/buffer-fund/) tied to the Nasdaq-100. The July variant, ticker PQJL, was part of that rollout, offering investors a steady-state template: Nasdaq-100 returns dampened by a protection layer, renewed each July.
 
 ## The originating thesis and market need
 
@@ -29,7 +29,7 @@ This recurring reset was PGIM's insight: it keeps the fund's protection relevant
 
 ## Evolution and adoption through the market cycle
 
-The buffer ETF family launched initially into a rising-market environment where the caps were generous and the protection seemed like a free good. As volatility increased in 2022 and 2023, however, the cost of puts rose sharply, and caps tightened — PQJL's upside caps fell from the previous years' ~16-18 percent annually to the 8-10 percent range. The product's appeal shifted: it went from "free protection in a low-vol [bull market](/bull-market/)" to "expensive protection in a high-vol environment." Investor adoption slowed as users realized they were trading meaningfully less upside for protection that cost more than they initially expected.
+The [buffer ETF](/buffer-etf/) family launched initially into a rising-market environment where the caps were generous and the protection seemed like a free good. As volatility increased in 2022 and 2023, however, the cost of puts rose sharply, and caps tightened — PQJL's upside caps fell from the previous years' ~16-18 percent annually to the 8-10 percent range. The product's appeal shifted: it went from "free protection in a low-vol [bull market](/bull-market/)" to "expensive protection in a high-vol environment." Investor adoption slowed as users realized they were trading meaningfully less upside for protection that cost more than they initially expected.
 
 The July reset cadence gave PGIM a testing ground; months when volatility spiked upward (like March 2020 and March 2023) saw dramatically tighter caps at the reset, revealing how much the product's terms depend on [market timing](/market-timing/). A July reset into a crisis would offer mediocre protection at terrible caps, making the trade-off very unfavorable.
 

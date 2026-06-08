@@ -27,7 +27,7 @@ The company also operates dotfloor.com, a direct-to-consumer e-commerce channel 
 
 ## Market Position and Challenges
 
-Northann enters a flooring market dominated by larger, entrenched manufacturers with established supply chains, retail relationships, and price leverage. The 3D-printing moat is real but narrow. Competitors could theoretically adopt similar processes; the defensibility rests on proprietary equipment, software, design libraries, and brand recognition—none of which is insurmountable. Execution risk is high: ramping a new U.S. plant requires capital, logistics expertise, and demand stability. The company is thinly capitalized relative to growth ambitions, and losses have widened even as sales accelerate.
+Northann enters a flooring market dominated by larger, entrenched manufacturers with established supply chains, retail relationships, and price leverage. The 3D-printing moat is real but narrow. Competitors could theoretically adopt similar processes; the defensibility rests on proprietary equipment, software, design libraries, and brand recognition—none of which is insurmountable. [Execution risk](/execution-risk/) is high: ramping a new U.S. plant requires capital, logistics expertise, and demand stability. The company is thinly capitalized relative to growth ambitions, and losses have widened even as sales accelerate.
 
 Flooring itself is a cyclical end market, sensitive to residential construction and renovation activity. Economic downturns shrink discretionary home spending quickly. Additionally, supply-chain and labor costs for the South Carolina facility remain uncertain; manufacturing in the U.S. at competitive prices is notoriously difficult for commodity-like products.
 

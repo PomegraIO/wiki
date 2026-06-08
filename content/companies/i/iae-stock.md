@@ -28,7 +28,7 @@ Closed-end funds are famous for their distributions — regular monthly or quart
 
 ## The managers' difficult position
 
-Voya manages the fund with a dual mandate: generate returns and maintain a steady, attractive distribution. When markets rise and portfolios appreciate, both are easy. When markets fall or [dividend yields](/dividend-yield/) compress across Asia-Pacific, the manager faces a harder choice: cut the distribution and face redemption pressure, or maintain it using leverage or return-of-capital tactics that erode the underlying portfolio over time. Neither is painless.
+Voya manages the fund with a [dual mandate](/dual-mandate-central-bank/): generate returns and maintain a steady, attractive distribution. When markets rise and portfolios appreciate, both are easy. When markets fall or [dividend yields](/dividend-yield/) compress across Asia-Pacific, the manager faces a harder choice: cut the distribution and face redemption pressure, or maintain it using leverage or return-of-capital tactics that erode the underlying portfolio over time. Neither is painless.
 
 ## What could break this business
 

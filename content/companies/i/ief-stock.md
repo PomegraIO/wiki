@@ -71,4 +71,4 @@ Check the fund's yield occasionally. A significant move up or down signals a shi
 
 Watch the Fed. Its policy stance and [forward guidance](/forward-guidance/) move IEF more than anything else. When Powell says rates are on hold, bond prices stabilize. When he signals hikes, prices fall. Straightforward cause-and-effect.
 
-That is it. No company earnings to read. No manager skill to evaluate. No competitive dynamics. IEF is about interest rates, inflation expectations, and patience. Buy it if your time horizon matches the bond duration and you need a volatility cushion. Sell or avoid if you expect rates to rise meaningfully and cannot tolerate the interim price declines.
+That is it. No company earnings to read. No manager skill to evaluate. No competitive dynamics. IEF is about interest rates, [inflation expectations](/inflation-expectations/), and patience. Buy it if your time horizon matches the bond duration and you need a volatility cushion. Sell or avoid if you expect rates to rise meaningfully and cannot tolerate the interim price declines.

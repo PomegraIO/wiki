@@ -47,7 +47,7 @@ This leverage cuts both ways. In a healthy economy with low defaults, leverage a
 
 BDC shares trade at prices determined by how much investors are willing to pay for the [dividend yield](/dividend-yield/) and potential asset growth. If a BDC is paying a 9 per cent annual dividend and investors believe the [net asset value](/net-asset-value/) per share will hold steady or grow, then a share trading at 100 dollars would offer a 9 per cent yield. If investors grow pessimistic about loan performance or if interest rates fall (reducing the spread CION can earn), shares can fall sharply.
 
-CION, like other BDCs, is attractive to income-focused investors who want regular dividend payments. But BDCs are not stable wealth-preservation vehicles; they are leveraged credit exposures. An investor in CION needs to understand that returns will vary with credit cycles, that loan losses can eat into dividends, and that the net asset value per share (the accounting value of the underlying portfolio) can fluctuate sharply.
+CION, like other BDCs, is attractive to income-focused investors who want regular dividend payments. But BDCs are not stable wealth-preservation vehicles; they are leveraged credit exposures. An investor in CION needs to understand that returns will vary with [credit cycles](/credit-cycle/), that loan losses can eat into dividends, and that the net asset value per share (the accounting value of the underlying portfolio) can fluctuate sharply.
 
 ## Sponsor alignment and governance
 

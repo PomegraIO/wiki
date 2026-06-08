@@ -70,6 +70,6 @@ Start with Brookstone's prospectus and fact sheet, which list the current holdin
 
 Check the current price-to-earnings ratio and [price-to-sales ratio](/price-to-sales-ratio/) of BAMG and compare them to a broad index. A much higher multiple signals that growth expectations are priced in and there is limited margin for disappointment. A lower multiple suggests growth is out of favour and risk-reward might be attractive.
 
-Review the fund's 5 and 10-year track record versus a large-cap index and a value-oriented peer fund. Growth outperforms in some periods and lags in others. Has BAMG beaten its benchmark over a full market cycle, or has it mostly tracked the whims of whether growth is in or out of favour?
+Review the fund's 5 and 10-year track record versus a large-cap index and a value-oriented peer fund. Growth outperforms in some periods and lags in others. Has BAMG beaten its benchmark over a full [market cycle](/market-cycle/), or has it mostly tracked the whims of whether growth is in or out of favour?
 
 Finally, think about how BAMG fits into your total portfolio. If all your stock holdings are growth-tilted (BAMG, individual tech stocks, etc.), you are not diversified by style — you are concentrated. Adding a value or dividend fund elsewhere creates balance and reduces the risk of a long growth drought.

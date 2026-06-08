@@ -61,7 +61,7 @@ Review the 10-K for detailed loan-portfolio composition by type and geography. E
 
 ### Wider context
 - Net interest margin — key profitability metric
-- Credit cycle — economic driver
+- [Credit cycle](/credit-cycle/) — economic driver
 - [Federal Reserve](/federal-reserve/) — rate-setting authority
 - Nonperforming loans — asset-quality measure
 - Agricultural lending — sector exposure

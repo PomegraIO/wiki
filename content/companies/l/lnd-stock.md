@@ -45,7 +45,7 @@ BrasilAgro integrates cattle operations, particularly on pasture-based systems w
 
 ## Environmental Regulation and Native Vegetation Compliance
 
-Brazil's environmental law requires preservation of native cerrado and Amazon vegetation on private land. BrasilAgro must maintain forest reserves, comply with wetland protection rules, and monitor water use. Non-compliance can result in fines, land seizure, or export restrictions on agricultural commodities. The company's environmental compliance is not optional—it is a legal and commercial necessity. Many agricultural purchasers (especially those in export markets) require certified, legally produced commodities. Environmental stewardship, properly managed, can also be a marketing asset and insure against regulatory or reputational risk.
+Brazil's environmental law requires preservation of native cerrado and Amazon vegetation on private land. BrasilAgro must maintain forest reserves, comply with wetland protection rules, and monitor water use. Non-compliance can result in fines, land seizure, or export restrictions on agricultural commodities. The company's environmental compliance is not optional—it is a legal and commercial necessity. Many agricultural purchasers (especially those in export markets) require certified, legally produced commodities. Environmental stewardship, properly managed, can also be a marketing asset and insure against regulatory or [reputational risk](/reputational-risk/).
 
 ## Commodity Price Exposure and Revenue Timing
 

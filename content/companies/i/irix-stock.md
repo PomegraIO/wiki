@@ -4,7 +4,7 @@ description: "Medical-device manufacturer specializing in laser-based surgical a
 keywords: [laser, medical device, ophthalmic, surgical, aesthetic, FDA, manufacturing]
 ---
 
-*IRIDEX, which trades under **IRIX** on [Nasdaq](/nasdaq/), designs and manufactures medical-laser systems used by surgeons in operating rooms and dermatologists in outpatient clinics across ophthalmology, ear-nose-throat procedures, and cosmetic medicine. The company's revenue model rests on the capital equipment sale itself and the recurring consumables—laser tips, mirrors, fiber optics—that customers must replenish after each use, creating a installed-base dependency that persists across market cycles.*
+*IRIDEX, which trades under **IRIX** on [Nasdaq](/nasdaq/), designs and manufactures medical-laser systems used by surgeons in operating rooms and dermatologists in outpatient clinics across ophthalmology, ear-nose-throat procedures, and cosmetic medicine. The company's revenue model rests on the capital equipment sale itself and the recurring consumables—laser tips, mirrors, fiber optics—that customers must replenish after each use, creating a installed-base dependency that persists across [market cycles](/market-cycle/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>IRIX</td></tr>

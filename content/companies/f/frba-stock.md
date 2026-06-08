@@ -35,7 +35,7 @@ The bank expanded regionally in the latter part of the twentieth century, openin
 
 ## How First Bank makes money
 
-Like all banks, First Bank generates revenue from three main sources. The largest is net interest income — the spread between the interest it pays on customer deposits and the interest it collects on loans. The bank's loan portfolio includes mortgages for home purchases, construction loans to developers, commercial loans to businesses, and consumer installment loans. Deposit gathering remains fundamental: the bank takes money from depositors and lends it out, keeping the difference.
+Like all banks, First Bank generates revenue from three main sources. The largest is net interest income — the spread between the interest it pays on customer deposits and the interest it collects on loans. The bank's loan portfolio includes mortgages for home purchases, [construction loans](/construction-loan/) to developers, commercial loans to businesses, and consumer installment loans. Deposit gathering remains fundamental: the bank takes money from depositors and lends it out, keeping the difference.
 
 A second revenue stream comes from fees. These include deposit account fees, loan origination and servicing fees, credit card fees, wire transfer fees, and trust and wealth [management fees](/management-fee/). For a regional bank, fee income is typically smaller than net interest income but meaningful and growing.
 

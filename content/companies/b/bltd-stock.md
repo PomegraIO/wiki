@@ -42,7 +42,7 @@ Third, long bonds can be a portfolio stabilizer in a broader diversified portfol
 
 ## Duration and volatility
 
-A long-term bond fund has a duration of ten, fifteen, twenty years or more. That duration directly translates to price volatility. If BLTD has a duration of fifteen years and interest rates rise one percent, you can expect the fund's share price to fall around fifteen percent. Conversely, a one-percent rate drop pushes the price up fifteen percent. Over a full market cycle — a [bull market](/bull-market/) in bonds, then a [bear market](/bear-market/) — these swings can be substantial. An investor in BLTD must accept this as the cost of the higher yield.
+A long-term bond fund has a duration of ten, fifteen, twenty years or more. That duration directly translates to price volatility. If BLTD has a duration of fifteen years and interest rates rise one percent, you can expect the fund's share price to fall around fifteen percent. Conversely, a one-percent rate drop pushes the price up fifteen percent. Over a full [market cycle](/market-cycle/) — a [bull market](/bull-market/) in bonds, then a [bear market](/bear-market/) — these swings can be substantial. An investor in BLTD must accept this as the cost of the higher yield.
 
 ## Credit quality and defaults
 

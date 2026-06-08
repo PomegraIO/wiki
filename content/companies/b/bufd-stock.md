@@ -33,7 +33,7 @@ For example, the fund might buy puts at 95 percent of the current index level, a
 
 ## Cost and monthly mechanics
 
-The ladder is expensive to maintain. Buying multiple puts for deeper protection consumes a lot of premium revenue. To afford it, the fund has to sell calls at tighter strike prices — capping upside more severely than a standard buffer fund. This is the trade: deep downside protection demands giving up more upside.
+The ladder is expensive to maintain. Buying multiple puts for deeper protection consumes a lot of premium revenue. To afford it, the fund has to sell calls at tighter strike prices — capping upside more severely than a standard [buffer fund](/buffer-fund/). This is the trade: deep downside protection demands giving up more upside.
 
 Monthly resets mean the entire ladder expires and is replaced. The fund looks at the market price, recalibrates the ladder (the strikes move up if the market has risen, down if it has fallen), sells new calls for the month ahead, buys new puts, and repeats. Each reset incurs trading costs and marks the fund's position to current market levels. Investors bear those rolling costs through the [expense ratio](/expense-ratio/).
 

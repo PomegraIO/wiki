@@ -41,13 +41,13 @@ The 10–11% annual loss cap is tighter than the caps on BUFR (roughly 13%) or B
 
 BUFT trades on an exchange, so it has real-time pricing throughout the trading day, just like any other ETF. You can buy or sell at any time the market is open. The fund's [net asset value](/net-asset-value/) — the actual per-share worth of all the stocks and bonds inside — is calculated daily, and there is usually a small [bid-ask spread](/bid-ask-spread/) (the cost of buying and selling) that reflects the liquidity of the fund. BUFT typically trades with reasonable liquidity, though not as much volume as the broader S&P 500 ETFs.
 
-The options that provide the downside cap are part of the fund's internal mechanics, not something you have to think about or manage. The fund administrator handles the buying, selling, and resetting of the options layer. You simply own shares of BUFT and receive the returns (and losses) the fund delivers after all those mechanics are accounted for.
+The options that provide the downside cap are part of the fund's internal mechanics, not something you have to think about or manage. The [fund administrator](/fund-administrator/) handles the buying, selling, and resetting of the options layer. You simply own shares of BUFT and receive the returns (and losses) the fund delivers after all those mechanics are accounted for.
 
 ## Performance through different market environments
 
 In a typical rising-market year (stocks up 10–15%, bonds up 2–5%), BUFT trails a comparable unprotected balanced fund by roughly the amount of its extra expense ratio, about 0.5–0.75%. You gave up something for the insurance you did not need that year. In a flat or slightly negative year (common for balanced portfolios when stocks and bonds move in opposite directions), BUFT often performs similarly to an unprotected fund because the cap does not matter. But in a bad year — say, stocks down 20% and bonds down 5%, creating a 15% loss for a 65/35 portfolio — BUFT's losses get clamped at around 10–11%, a meaningful cushion.
 
-Over a full market cycle, BUFT typically trails an unprotected balanced fund by the cost of the options hedge. This is not a hidden advantage — it is the transparent trade of the structure. The fund is not trying to beat a standard balanced approach; it is trying to make a standard balanced approach psychologically bearable for an investor who would otherwise panic in a downturn.
+Over a full [market cycle](/market-cycle/), BUFT typically trails an unprotected balanced fund by the cost of the options hedge. This is not a hidden advantage — it is the transparent trade of the structure. The fund is not trying to beat a standard balanced approach; it is trying to make a standard balanced approach psychologically bearable for an investor who would otherwise panic in a downturn.
 
 ## Who this fund is for
 
@@ -57,7 +57,7 @@ BUFT is not for investors who are comfortable with volatility or who have demons
 
 ## Risks and considerations
 
-The primary risk is that the protection is not perfect. Options-based hedges work in normal markets, but in a market dislocation severe enough to break traditional pricing models, the cap could be breached. This is rare, but not impossible. It happened in 2008 to some structured products, and it could happen again in an unprecedented event.
+The primary risk is that the protection is not perfect. Options-based hedges work in normal markets, but in a market dislocation severe enough to break traditional pricing models, the cap could be breached. This is rare, but not impossible. It happened in 2008 to some [structured products](/structured-product/), and it could happen again in an unprecedented event.
 
 A second risk is that you might get the behaviour wrong about yourself. You think you will panic in a 15% drawdown, so you buy BUFT. But then the drawdown happens and you hold anyway, proving you were more patient than you thought. In that case, you paid for insurance you did not need, and it is hard to undo the decision retroactively.
 

@@ -81,7 +81,7 @@ For an OTC technology company with opaque operations, the best assessment tool i
 
 If the company reports mounting losses, no revenue, and dwindling cash, and management offers vague or boilerplate language about future plans, the company is likely in a slow death spiral. If the company reports ongoing R&D with clear milestones and an articulated path to revenue, the investment is speculative but not necessarily a sure loss.
 
-HMMR's viability depends on answers to questions that are not knowable from public disclosure: Does the company have a working prototype? Are customers interested? Has the company secured any purchase commitments or partnerships? Is the team executing on schedule and within budget? Without transparency into these questions, investing in HMMR is a bet on the management team's credibility and the narrative around the technology. That is a valid speculative bet, but it should be treated as such—with appropriate position sizing and risk management.
+HMMR's viability depends on answers to questions that are not knowable from public disclosure: Does the company have a working prototype? Are customers interested? Has the company secured any purchase commitments or partnerships? Is the team executing on schedule and within budget? Without transparency into these questions, investing in HMMR is a bet on the management team's credibility and the narrative around the technology. That is a valid speculative bet, but it should be treated as such—with appropriate [position sizing](/position-sizing/) and risk management.
 
 <div class="wiki-seealso">
 

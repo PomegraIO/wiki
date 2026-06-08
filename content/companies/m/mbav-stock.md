@@ -36,7 +36,7 @@ MBAV adds value by:
 - Offering a structure that allows the private-company founders to negotiate directly with the SPAC sponsor rather than with numerous institutional investors.
 - Accelerating the timeline to public-company status and enabling liquidity for early shareholders of the private target.
 
-However, this intermediation comes at a cost: the SPAC sponsor captures 20% of the post-merger company, diluting the private-company founders. Additionally, the investor base acquired through the SPAC IPO is different (typically more retail, less sophisticated) than that in a traditional IPO, which can affect post-merger liquidity and stock performance.
+However, this intermediation comes at a cost: the SPAC sponsor captures 20% of the post-merger company, diluting the private-company founders. Additionally, the investor base acquired through the [SPAC IPO](/spac-ipo/) is different (typically more retail, less sophisticated) than that in a traditional IPO, which can affect post-merger liquidity and stock performance.
 
 ## No Operating Business or Proprietary Assets
 
@@ -48,7 +48,7 @@ This means that at any point before a merger announcement, MBAV shareholders are
 
 The quality of a SPAC deal depends almost entirely on the sponsor's reputation, deal-sourcing networks, and bargaining skill. Reputable sponsors (those with prior SPAC experience and strong track records) can negotiate better terms and identify higher-quality targets. Inexperienced or poorly capitalized sponsors may accept lower-quality targets or overpay significantly.
 
-Public investors in MBAV bear the sponsor's due-diligence and execution risk. If the sponsor team has strong sector expertise and relationships, the chances of a successful deal are higher. If the team is weak or opportunistic, MBAV shareholders may find themselves in a forced holding of a mediocre or declining company post-merger.
+Public investors in MBAV bear the sponsor's due-diligence and [execution risk](/execution-risk/). If the sponsor team has strong sector expertise and relationships, the chances of a successful deal are higher. If the team is weak or opportunistic, MBAV shareholders may find themselves in a forced holding of a mediocre or declining company post-merger.
 
 ## Post-Merger Integration and Public-Company Burden
 

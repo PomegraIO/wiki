@@ -55,7 +55,7 @@ Underwriting profitability has compressed in many lines over the past decade as 
 
 ## Key Metrics to Watch
 
-The 10-K is essential reading. Look for combined ratios by segment to understand which lines are profitable and which are not. Earned premiums, ceded premiums (business reinsured to others), and premium growth rates signal competitive position. Loss development tables show whether prior-year reserves are proving adequate or deficient. [Return on equity](/return-on-equity/)—net income divided by shareholders' equity—benchmarks the company against alternative investments.
+The 10-K is essential reading. Look for combined ratios by segment to understand which lines are profitable and which are not. Earned premiums, ceded premiums (business reinsured to others), and premium growth rates signal competitive position. Loss development tables show whether prior-year reserves are proving adequate or deficient. [Return on equity](/return-on-equity/)—net income divided by [shareholders' equity](/shareholders-equity/)—benchmarks the company against alternative investments.
 
 Catastrophic losses cannot be predicted, so attention to the company's exposure models and [stress testing](/stress-testing/) is prudent. Does management quantify probable maximum loss (PML) from a single event or correlated set of events? What is the [tail risk](/wiki/conditional-value-at-risk/) the company is willing to retain? These questions matter for long-term investors, as a single severe cat year can wipe out years of underwriting profit.
 

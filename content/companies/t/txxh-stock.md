@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-21Shares emerged in the early 2010s as the cryptocurrency industry's first dedicated ETF sponsor, launching in Switzerland before expanding globally. The firm was born from the conviction that digital assets and blockchain technology deserved regulated, institutional-grade fund vehicles and that demand from asset allocators would grow as crypto matured. 21Shares built its early reputation on single-asset crypto funds — [Bitcoin](/bitcoin/) ETFs, [Ethereum](/ethereum/) ETFs, and others — traded on traditional exchanges and structured to give traditional investors crypto exposure without a crypto exchange account.
+21Shares emerged in the early 2010s as the cryptocurrency industry's first dedicated [ETF sponsor](/etf-sponsor/), launching in Switzerland before expanding globally. The firm was born from the conviction that digital assets and blockchain technology deserved regulated, institutional-grade fund vehicles and that demand from asset allocators would grow as crypto matured. 21Shares built its early reputation on single-asset crypto funds — [Bitcoin](/bitcoin/) ETFs, [Ethereum](/ethereum/) ETFs, and others — traded on traditional exchanges and structured to give traditional investors crypto exposure without a crypto exchange account.
 
 From those origins, 21Shares expanded beyond single assets into thematic and diversified products. The 21Shares 2x Long HYPE ETF (TXXH) represents that strategic evolution: rather than tracking a single coin like Bitcoin or Ethereum, it targets the Solactive Hype and Emerging Technologies Index, a basket of cryptocurrencies and blockchain tokens selected around the theme of newer, emerging projects in the space.
 

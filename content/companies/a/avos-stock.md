@@ -39,7 +39,7 @@ The compounding effect is real. A company paying a 3% dividend that grows 7% per
 
 By holding dividend payers across many countries, AVOS reduces the risk that weakness in any single market crushes the fund's returns. A downturn in European banks does not wipe out exposure to growing dividend payers in Asia or Canada. That [diversification](/diversification/) is a genuine strength, especially for investors who want exposure to quality dividend-growth stories beyond the United States.
 
-Currency exposure is a subtle feature. Many of AVOS's non-U.S. holdings pay dividends in their home currencies (euros, [British pounds](/british-pound/), [Japanese yen](/japanese-yen/), Brazilian reals). The fund may leave that currency exposure as-is (so a rising dollar hurts returns when those foreign dividends are converted back) or hedge it away (a cost that reduces returns but stabilizes them in dollar terms). The fund's prospectus and fact sheet disclose how currency is handled.
+Currency exposure is a subtle feature. Many of AVOS's non-U.S. holdings pay dividends in their home currencies (euros, [British pounds](/british-pound/), [Japanese yen](/japanese-yen/), [Brazilian reals](/brazilian-real/)). The fund may leave that currency exposure as-is (so a rising dollar hurts returns when those foreign dividends are converted back) or hedge it away (a cost that reduces returns but stabilizes them in dollar terms). The fund's prospectus and fact sheet disclose how currency is handled.
 
 ## Income and tax considerations
 

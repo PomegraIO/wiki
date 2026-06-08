@@ -20,7 +20,7 @@ The alternative frame. Investors comparing ONEQ to the Nasdaq-100 (which holds o
 
 Holdings skew. Technology and growth companies dominate by sector weight, a structural fact of what trades on the Nasdaq. In periods when big tech rallies, ONEQ tags along. In tech downturns, ONEQ falls harder than a market-cap-weighted US index would. The small and mid-cap slices add resilience when mega-cap growth stumbles, but they cannot fully hedge that sector concentration.
 
-Costs and trading. The [expense ratio](/expense-ratio/) is minimal, quoted in basis points. Trading happens on NYSE Arca with ample liquidity and tight spreads; retail and institutional investors alike enter and exit without material friction. ONEQ functions as a one-ticket way to own "the entire Nasdaq" without trading individual stocks or managing a portfolio.
+Costs and trading. The [expense ratio](/expense-ratio/) is minimal, quoted in basis points. Trading happens on [NYSE Arca](/nyse-arca/) with ample liquidity and tight spreads; retail and institutional investors alike enter and exit without material friction. ONEQ functions as a one-ticket way to own "the entire Nasdaq" without trading individual stocks or managing a portfolio.
 
 Tracking fidelity. ONEQ's returns should track the Nasdaq Composite precisely, minus only the stated expense ratio. Fidelity's scale ensures that tracking error—slippage from the true index return—remains negligible. Any material deviation warrants investigation; persistent tracking error beyond a few basis points suggests operational or structural issues.
 

@@ -62,7 +62,7 @@ The existence of a foreign parent also means that Santander UK's profits are sub
 
 ## Economic and regulatory headwinds
 
-Santander UK faces structural challenges common to all traditional UK banks. Interest margins are compressed by competition and by the regulatory environment, which sets capital requirements and limits how much risk banks can take. The UK market for mortgages is mature and slowing, which limits growth. Rising cost-to-income ratios are a chronic problem — the cost of running a bank has grown faster than revenues, squeezing profitability. Regulation, particularly post-2008, has become more demanding, requiring banks to hold more capital and to spend more on compliance.
+Santander UK faces structural challenges common to all traditional UK banks. Interest margins are compressed by competition and by the regulatory environment, which sets capital requirements and limits how much risk banks can take. The UK market for mortgages is mature and slowing, which limits growth. Rising [cost-to-income ratios](/cost-income-ratio/) are a chronic problem — the cost of running a bank has grown faster than revenues, squeezing profitability. Regulation, particularly post-2008, has become more demanding, requiring banks to hold more capital and to spend more on compliance.
 
 Additionally, the UK interest-rate environment affects the bank directly. When the [Bank of England](/bank-of-england/) raises rates sharply, mortgage customers face higher payments, defaults can rise, and economic growth may slow. When rates are very low, savers get poor returns, savings accounts become less attractive, and the bank cannot earn wide spreads between borrowing and lending rates.
 

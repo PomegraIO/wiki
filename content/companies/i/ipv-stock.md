@@ -25,7 +25,7 @@ Every SPAC begins with a fixed pool of capital raised in its [initial-public-off
 
 ## Business-Model Screening and Private-Equity Alignment
 
-The types of companies InterPrivate V targets are predominantly those that fit a platform-buyout pattern: profitable, with defensible customer bases, recurring revenue, or clear margin-expansion paths. This is not venture capital or growth-stage funding. Instead, the SPAC serves as a capital vehicle for the sponsor's underlying thesis about private market exits. Many InterPrivate deals are built to enable a private-equity seller (or founder) to exit into a public structure while maintaining operational independence. This pivot away from early-stage narrative plays makes IPV's merger criteria more conservative and output-focused. The company does not market "moonshot" potential; it markets a path to profitability and a [balance-sheet](/balance-sheet/) strong enough to sustain the business through market cycles.
+The types of companies InterPrivate V targets are predominantly those that fit a platform-buyout pattern: profitable, with defensible customer bases, recurring revenue, or clear margin-expansion paths. This is not venture capital or growth-stage funding. Instead, the SPAC serves as a capital vehicle for the sponsor's underlying thesis about private market exits. Many InterPrivate deals are built to enable a private-equity seller (or founder) to exit into a public structure while maintaining operational independence. This pivot away from early-stage narrative plays makes IPV's merger criteria more conservative and output-focused. The company does not market "moonshot" potential; it markets a path to profitability and a [balance-sheet](/balance-sheet/) strong enough to sustain the business through [market cycles](/market-cycle/).
 
 ## Comparison to Industry Peers: Repeated Sponsors vs. First-Time Vehicles
 
@@ -39,7 +39,7 @@ One structural feature distinguishing InterPrivate V from non-institutional SPAC
 
 Since InterPrivate V's CIK is 2105274 and the company files with the [securities-and-exchange-commission](/securities-and-exchange-commission/), its periodic disclosures via 10-Q and 10-K filings will map the merger search, any exclusivity agreements with targets, and eventually the merger proxy process. The institutional investors in IPV expect detailed disclosure and sponsor accountability. The company's governance structure—its independent directors and [audit committee](/audit-committee/)—reflects standards that are more robust than early retail-pitched SPACs, because the institutional customer base demands it. This rigor means fewer surprises and cleaner post-merger integration planning.
 
-InterPrivate Investment Partners V stands apart by being built around institutional dry powder, sponsor experience, and a profitability-first acquisition thesis rather than narrative spectacle.
+InterPrivate Investment Partners V stands apart by being built around institutional [dry powder](/pe-dry-powder/), sponsor experience, and a profitability-first acquisition thesis rather than narrative spectacle.
 
 <div class="wiki-seealso">
 ### Closely related

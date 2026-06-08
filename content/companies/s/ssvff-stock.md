@@ -32,7 +32,7 @@ This model is common in mining. Juniors carry the higher risk and lower capital 
 
 ## Why Mexico and Argentina matter for silver mining
 
-Both countries are established mining jurisdictions with long histories of precious-metal production. Mexico is one of the world's largest silver producers, with major mines in Durango, Zacatecas, and Sonora that yield silver as a primary product and as a byproduct of copper mining. The country has transparent mining laws, established infrastructure, and a trained workforce. Political risk exists, as it does across Latin America, but the regulatory framework is familiar to the mining industry.
+Both countries are established mining jurisdictions with long histories of precious-metal production. Mexico is one of the world's largest silver producers, with major mines in Durango, Zacatecas, and Sonora that yield silver as a primary product and as a byproduct of copper mining. The country has transparent mining laws, established infrastructure, and a trained workforce. [Political risk](/political-risk/) exists, as it does across Latin America, but the regulatory framework is familiar to the mining industry.
 
 Argentina similarly has a large mineral endowment, particularly in its northwest near Chile, where the Andes mountain range host copper and precious-metal deposits. The region around Salta and Catamarca has attracted major mining investment, though Argentina's broader macroeconomic volatility has occasionally stalled or complicated development. Exploration in both countries requires navigating local permitting, environmental review, and community relations — overhead that juniors must budget for and that can slow timelines.
 

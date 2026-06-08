@@ -30,7 +30,7 @@ The fund may also concentrate by sector. School bonds, transportation bonds, hou
 
 BMOP may vary its credit-quality exposure. Investment-grade municipal bonds—those rated in the top four tiers by major rating agencies—carry lower default risk but offer lower yields. High-yield (or non-investment-grade) municipal bonds offer higher yields to compensate for higher default risk. The managers can tilt the portfolio toward investment-grade in uncertain environments, or increase high-yield exposure when they judge the rewards sufficient relative to risk.
 
-Credit cycles matter enormously in municipal investing. A [recession](/recession/) that reduces sales-tax collections and property values can cause rating downgrades and defaults across many issuers simultaneously. BMOP's managers must assess not just individual issuer credit, but broader economic and credit-cycle risk. Periods of strong economic growth and stable revenues are when the managers can extend credit risk; periods of economic stress demand higher quality.
+[Credit cycles](/credit-cycle/) matter enormously in municipal investing. A [recession](/recession/) that reduces sales-tax collections and property values can cause rating downgrades and defaults across many issuers simultaneously. BMOP's managers must assess not just individual issuer credit, but broader economic and credit-cycle risk. Periods of strong economic growth and stable revenues are when the managers can extend credit risk; periods of economic stress demand higher quality.
 
 ## Duration and interest-rate exposure
 

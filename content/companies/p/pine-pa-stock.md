@@ -17,7 +17,7 @@ The properties themselves are mostly single-tenant, net-lease buildings — a st
 
 ### The thesis: cash flow and stability
 
-REITs like Alpine exist for one essential reason: they convert volatile, lumpy real estate ownership into predictable quarterly dividend income. A single-tenant net-lease REIT's revenue is the sum of rents collected, which is stable if tenants pay and renew leases. A single property might appreciate or depreciate, but a diversified portfolio of hundreds of properties smooths those movements. The investor trades the possibility of a large capital gain for the certainty of steady income. That appeals to retirees and income-focused portfolios.
+REITs like Alpine exist for one essential reason: they convert volatile, lumpy real estate ownership into predictable quarterly dividend income. A single-tenant [net-lease REIT's](/net-lease-reit/) revenue is the sum of rents collected, which is stable if tenants pay and renew leases. A single property might appreciate or depreciate, but a diversified portfolio of hundreds of properties smooths those movements. The investor trades the possibility of a large capital gain for the certainty of steady income. That appeals to retirees and income-focused portfolios.
 
 Alpine's tenant roster includes restaurants, retail shops, service businesses, and other single-unit operations. The company focuses on strengthening its properties through strategic [acquisitions](/acquisition/) — buying buildings in markets with demographic tailwinds, in categories (restaurant, automotive service) where the tenant base is stable. The tenant quality matters: a restaurant run by an owner-operator with deep local ties and a track record is a better bet than a chain that is struggling nationally.
 
@@ -33,9 +33,9 @@ Single-tenant properties in secondary and [tertiary markets](/tertiary-market/) 
 
 ### The acquisition strategy and capital allocation
 
-Alpine grows by acquiring properties. The company identifies deals — either purchasing directly from property owners or buying from private sellers and institutional owners who are exiting positions — and funds the acquisition through a combination of equity, debt, and operating cash flow. Each acquisition adds revenue (the new rent stream) but requires due diligence (is the tenant solid? is the market sound?) and financing (what debt and equity is needed?).
+Alpine grows by acquiring properties. The company identifies deals — either purchasing directly from property owners or buying from private sellers and institutional owners who are exiting positions — and funds the acquisition through a combination of equity, debt, and operating cash flow. Each acquisition adds revenue (the new rent stream) but requires [due diligence](/due-diligence/) (is the tenant solid? is the market sound?) and financing (what debt and equity is needed?).
 
-Alpine's guidance and investor communication typically focus on acquisition volume, the yield on acquisitions, and the growth in earnings per share or funds from operations (FFO), a metric specific to REITs that strips out certain non-cash items to show the cash the business generates. Strong acquisition activity is a sign of confidence and capital availability; a slowdown signals either fewer opportunities or concerns about the cost of capital.
+Alpine's guidance and investor communication typically focus on acquisition volume, the yield on acquisitions, and the growth in earnings per share or [funds from operations](/funds-from-operations/) (FFO), a metric specific to REITs that strips out certain non-cash items to show the cash the business generates. Strong acquisition activity is a sign of confidence and capital availability; a slowdown signals either fewer opportunities or concerns about the cost of capital.
 
 Capital allocation also reflects the dividend. REITs are required by law to distribute most of their taxable income to shareholders, so the [payout ratio](/payout-ratio/) is usually high. Alpine's dividend policy and any changes to it reveal whether management views the future as stable (maintain the dividend) or uncertain (build capital).
 

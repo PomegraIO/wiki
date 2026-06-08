@@ -35,7 +35,7 @@ The manager of the fund — Invesco — decides which bonds go into the portfoli
 
 ## The maturity date is the key
 
-The most important thing to understand is that BSJU is not a fund you hold forever. It has an endpoint. In 2030, the bonds mature. You get your principal back. That is different from owning a typical high-yield bond fund, which never matures — the manager just rolls the portfolio over and over, reinvesting in new bonds indefinitely.
+The most important thing to understand is that BSJU is not a fund you hold forever. It has an endpoint. In 2030, the bonds mature. You get your principal back. That is different from owning a typical [high-yield bond fund](/high-yield-bond-fund/), which never matures — the manager just rolls the portfolio over and over, reinvesting in new bonds indefinitely.
 
 Because of that endpoint, the fund's character changes over time. Right now, the fund has five or more years until maturity. That makes it sensitive to interest-rate changes and to [credit spreads](/credit-spread/) (the extra yield you demand for taking on junk-bond risk). But as time passes, the fund gets closer to 2030. The bonds get closer to maturity. The price swings from interest-rate changes get smaller. By late 2029, BSJU will feel less like a long-duration bond fund and more like cash waiting to be collected.
 

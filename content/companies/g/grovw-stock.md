@@ -55,7 +55,7 @@ This pullback from retail also reflected a broader market reality: while sustain
 
 Grove has consistently tied its business story to environmental and health impact. The company became the first plastic-neutral retailer by investing in offset projects and purchasing carbon credits. It adopted the "Beyond Plastic" initiative with a goal of eliminating plastic packaging entirely by 2025. These are commitments that require capital, product reformulation, and partnership with suppliers willing to adopt new packaging materials. The company is a Certified B Corporation, a legal designation that requires the business to consider not just shareholder returns but the impact on workers, customers, suppliers, and the environment.
 
-Whether these commitments strengthen or constrain the business is debatable. Environmental messaging attracts a demographic willing to pay a premium and to tolerate supply constraints, but it also creates reputational risk if the company is perceived as greenwashing or failing to deliver on promises. The sustainability narrative is central to Grove's brand identity; any erosion of credibility would undermine the entire positioning.
+Whether these commitments strengthen or constrain the business is debatable. Environmental messaging attracts a demographic willing to pay a premium and to tolerate supply constraints, but it also creates [reputational risk](/reputational-risk/) if the company is perceived as greenwashing or failing to deliver on promises. The sustainability narrative is central to Grove's brand identity; any erosion of credibility would undermine the entire positioning.
 
 ## The path forward: profitability and scale
 

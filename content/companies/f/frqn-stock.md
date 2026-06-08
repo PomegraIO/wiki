@@ -33,7 +33,7 @@ The moat for specialty lenders is strongest when capital is scarce and credit su
 
 ## Balance-Sheet Dependency and Franchise Risk
 
-Frequency Holdings is a capital-intensive business: its competitive power is inseparable from the capital it deploys. A downturn in asset quality—a rise in loan losses—could impair capital, reduce lending capacity, and trigger rating downgrades or investor flight. The moat is fragile in the sense that it can be eroded by a single credit cycle or underwriting misstep. A larger, better-capitalized competitor can weather credit losses more easily and continue lending through downturns, gaining market share. Frequency's moat therefore rests on execution—steady, conservative credit decisions over many years—as much as on structural advantage. The firm must maintain its reputation for sound underwriting and relationship stability, or the moat evaporates.
+Frequency Holdings is a capital-intensive business: its competitive power is inseparable from the capital it deploys. A downturn in asset quality—a rise in loan losses—could impair capital, reduce lending capacity, and trigger rating downgrades or investor flight. The moat is fragile in the sense that it can be eroded by a single [credit cycle](/credit-cycle/) or underwriting misstep. A larger, better-capitalized competitor can weather credit losses more easily and continue lending through downturns, gaining market share. Frequency's moat therefore rests on execution—steady, conservative credit decisions over many years—as much as on structural advantage. The firm must maintain its reputation for sound underwriting and relationship stability, or the moat evaporates.
 
 <div class="wiki-seealso">
 ### Closely related

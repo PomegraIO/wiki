@@ -67,7 +67,7 @@ This vertical integration is both a strength and a constraint. It ties up capita
 
 ## Cyclicality, commodity exposure, and infrastructure demand
 
-Prysmian's earnings are sensitive to several macro factors. The price of copper is the single largest cost driver in many cable products, and when copper prices fall sharply, the company's gross margins compress (customer quotes had priced in higher material costs). Conversely, when copper rallies, margins may widen if Prysmian locked in supply at lower costs.
+Prysmian's earnings are sensitive to several macro factors. The price of copper is the single largest [cost driver](/cost-driver/) in many cable products, and when copper prices fall sharply, the company's gross margins compress (customer quotes had priced in higher material costs). Conversely, when copper rallies, margins may widen if Prysmian locked in supply at lower costs.
 
 Infrastructure spending cycles also matter enormously. Government investment in electrical grids, renewable energy, and broadband networks drives demand for Prysmian's products. Periods of aggressive infrastructure spending (such as post-crisis stimulus programs or major renewable-energy build-outs) can lead to multi-year booms in cable demand. Periods of austerity lead to slumps.
 

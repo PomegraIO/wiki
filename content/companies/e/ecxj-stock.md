@@ -57,7 +57,7 @@ CXJ must therefore balance growth (adding stores) against saturation risk. In al
 
 Modern convenience stores face disruption from alternative retail models: online grocery, vending machines, food-delivery apps, and cashierless stores. CXJ must innovate to remain relevant. This includes deploying self-checkout and mobile-payment capabilities, expanding prepared-food offerings to differentiate from grocery stores, and integrating delivery services where feasible.
 
-Technology upgrades, however, require capital investment that franchisees may not afford. CXJ therefore must invest in shared-use infrastructure (networks, software platforms) and provide financing or subsidy to franchisees to adopt new capabilities. Technology risk is thus distributed between franchisor and franchisees.
+Technology upgrades, however, require capital investment that franchisees may not afford. CXJ therefore must invest in shared-use infrastructure (networks, software platforms) and provide financing or subsidy to franchisees to adopt new capabilities. [Technology risk](/technology-risk/) is thus distributed between franchisor and franchisees.
 
 ## Geographic Concentration and Macroeconomic Sensitivity
 

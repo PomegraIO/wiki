@@ -37,7 +37,7 @@ Assembly equipment is subject to technological disruption. If a new technology (
 
 ## Customer concentration and contract terms
 
-Mycronic's sales are likely concentrated among a relatively small number of large EMS providers and electronics OEMs. A loss of a single large customer—due to bankruptcy, [merger](/merger/), or competitive defection—can materially impact orders. Additionally, large customers often negotiate long-lead times, volume discounts, and extended payment terms, all of which compress unit profitability and extend the [cash conversion cycle](/cash-conversion-cycle/). A company dependent on a handful of large customers has less pricing power and more execution risk than a company with a distributed customer base. The unit profitability of each machine order is therefore not uniform; it varies by customer size, order size, and negotiated terms.
+Mycronic's sales are likely concentrated among a relatively small number of large EMS providers and electronics OEMs. A loss of a single large customer—due to bankruptcy, [merger](/merger/), or competitive defection—can materially impact orders. Additionally, large customers often negotiate long-lead times, volume discounts, and extended payment terms, all of which compress unit profitability and extend the [cash conversion cycle](/cash-conversion-cycle/). A company dependent on a handful of large customers has less pricing power and more [execution risk](/execution-risk/) than a company with a distributed customer base. The unit profitability of each machine order is therefore not uniform; it varies by customer size, order size, and negotiated terms.
 
 ## The path to margin stability
 

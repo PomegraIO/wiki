@@ -47,7 +47,7 @@ A third risk is talent. BigBear is competing for machine-learning and software e
 
 ## How would an investor research BigBear?
 
-Start with the SEC filings (CIK 0001836981) and the quarterly earnings reports and shareholder letters, which break down the revenue by customer segment and contract type. BigBear should disclose the pipeline of pending contract awards, the contract values, and the renewal rates of existing customers—these are the real leading indicators of growth. Pay attention to gross margins and [operating margins](/operating-margin/), which will reveal whether the software business is scaling efficiently.
+Start with the SEC filings (CIK 0001836981) and the quarterly earnings reports and shareholder letters, which break down the revenue by customer segment and contract type. BigBear should disclose the pipeline of pending contract awards, the contract values, and the renewal rates of existing customers—these are the real [leading indicators](/leading-indicator/) of growth. Pay attention to gross margins and [operating margins](/operating-margin/), which will reveal whether the software business is scaling efficiently.
 
 Separately, track government spending announcements and defense budget trends. If Congress increases funding for supply-chain resilience, cybersecurity, or autonomous systems, that is a tailwind for BigBear. Conversely, if geopolitical tensions ease and defense budgets contract, headwinds will follow.
 

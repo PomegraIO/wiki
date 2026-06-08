@@ -27,7 +27,7 @@ The Tyman acquisition represented a leap in strategic ambition. Founded in 1993,
 
 Quanex operates across three primary business lines after the Tyman integration:
 
-**North American Fenestration** manufactures vinyl profiles, insulating glass spacers, window and door screens, and related sealing components sold to major window and door OEMs like Andersen, Marvin, and Pella. This segment is the heart of the business, dependent on residential window replacement cycles and new construction housing starts.
+**North American Fenestration** manufactures vinyl profiles, insulating glass spacers, window and door screens, and related sealing components sold to major window and door OEMs like Andersen, Marvin, and Pella. This segment is the heart of the business, dependent on residential window replacement cycles and new construction [housing starts](/housing-starts/).
 
 **European Fenestration** encompasses the company's UK-based vinyl extrusion business and IG spacer operations serving European window manufacturers. This segment faces cyclicality linked to EU housing and renovation trends, often offset seasonally against North American peaks.
 
@@ -71,7 +71,7 @@ Start with the company's most recent [10-K](/wiki/10-k/) filing with the SEC (CI
 
 Watch quarterly earnings reports for trends in **net sales by segment**, **adjusted [EBITDA](/ebitda/) margin**, and **backlog or order trends**. Guidance commentary is critical; if management signals softening housing demand ahead, earnings revisions typically follow within a quarter or two.
 
-Industry data points worth tracking include US housing starts (published monthly by the Census Bureau), pending home sales (which lead actual starts by several months), and mortgage rate trends. These are leading indicators of Quanex's end-market health.
+Industry data points worth tracking include US housing starts (published monthly by the Census Bureau), pending home sales (which lead actual starts by several months), and mortgage rate trends. These are [leading indicators](/leading-indicator/) of Quanex's end-market health.
 
 Quanex also trades on the NYSE under ticker NX. Institutional analyst coverage is moderate; firms like Citi, [Goldman Sachs](/goldman-sachs/), and RBC Capital track the company and publish periodic research notes. Read the company's investor day presentations and strategy updates for insight into management's long-term vision post-Tyman.
 

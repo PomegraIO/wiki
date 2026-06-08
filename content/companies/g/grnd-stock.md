@@ -35,7 +35,7 @@ The platform must also combat spam, bot accounts, and fake profiles, which degra
 
 Grindr likely operates a freemium model: a free tier with basic features (browse nearby users, message, basic profile), and paid tiers (Grindr+ or Premium) that unlock additional features such as unlimited favorites, incognito mode, ad-free browsing, or viewing who has viewed your profile.
 
-Freemium economics are driven by conversion rates: how many free users pay for subscriptions? If 5% of users convert to paying subscribers, the company can monetize at scale. Improving conversion requires constantly refining features, creating scarcity or FOMO (fear of missing out) that drives subscription, and balancing paywalls carefully—too aggressive, and users churn; too permissive, and conversion suffers.
+Freemium economics are driven by conversion rates: how many free users pay for subscriptions? If 5% of users convert to paying subscribers, the company can monetize at scale. Improving conversion requires constantly refining features, creating scarcity or FOMO ([fear of missing out](/fear-of-missing-out-fomo/)) that drives subscription, and balancing paywalls carefully—too aggressive, and users churn; too permissive, and conversion suffers.
 
 Subscription retention is material. A user who pays for a month and then cancels represents [acquisition](/acquisition/) cost sunk with no long-term value. Monthly churn rates of 20–40% are typical for dating and social apps, requiring constant new user acquisition to maintain total paying users.
 
@@ -59,7 +59,7 @@ Grindr expanded to over 180 countries and has tens of millions of users, suggest
 
 ## International Operations and Regulatory Risk
 
-Grindr operates in jurisdictions where homosexuality is criminalized. A user in such a country using location-based dating app is at risk of arrest, blackmail, or violence. This creates ethical and legal risk for Grindr. The company must balance user privacy (not revealing location or identity to authorities) against legal compliance. Some jurisdictions may block the app or compel disclosure of user data.
+Grindr operates in jurisdictions where homosexuality is criminalized. A user in such a country using location-based dating app is at risk of arrest, blackmail, or violence. This creates ethical and [legal risk](/legal-risk/) for Grindr. The company must balance user privacy (not revealing location or identity to authorities) against legal compliance. Some jurisdictions may block the app or compel disclosure of user data.
 
 The company may take steps to protect users in hostile environments: offering anonymity features, avoiding data storage in countries with anti-LGBTQ+ laws, and raising awareness about safety. However, these are imperfect solutions. A hostile government can block the app entirely or compel cooperation. This is regulatory risk that the company cannot fully mitigate.
 
@@ -75,7 +75,7 @@ Platform migration—moving from self-hosted infrastructure to cloud, or from on
 
 ## Moderation at Scale and Reputational Risk
 
-Grindr has been criticized for enabling sexual exploitation and for inadequate moderation of content involving minors. These criticisms, whether fair, accurate, or both, create reputational risk and legal exposure. Regulators in some jurisdictions have scrutinized age-gating and content policies.
+Grindr has been criticized for enabling sexual exploitation and for inadequate moderation of content involving minors. These criticisms, whether fair, accurate, or both, create [reputational risk](/reputational-risk/) and legal exposure. Regulators in some jurisdictions have scrutinized age-gating and content policies.
 
 The company must invest heavily in abuse prevention: age verification, reporting workflows, machine learning to detect exploitation, and swift response to law enforcement requests. These investments are cost centers (they reduce revenue or increase operating cost) but are essential to avoid legal liability and regulatory intervention.
 

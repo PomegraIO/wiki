@@ -32,7 +32,7 @@ China has multiple real-estate information platforms and major internet companie
 
 ## Foreign-Issuer Risk and Disclosure Gaps
 
-As a US-listed China-based company, Fangdd faces structural risks inherent to the foreign-issuer structure. Audits are conducted under Chinese accounting standards or GAAP, but with the caveat that Chinese auditors operate under government oversight. The company may face requests from Chinese regulators to provide data or restrict information shared with US investors. There is also residual risk of delisting or regulatory action against foreign issuers that fail to meet US audit standards or that are deemed to pose national-security concerns. These risks are real and have affected other Chinese tech companies.
+As a US-listed China-based company, Fangdd faces structural risks inherent to the foreign-issuer structure. Audits are conducted under Chinese accounting standards or GAAP, but with the caveat that Chinese auditors operate under government oversight. The company may face requests from Chinese regulators to provide data or restrict information shared with US investors. There is also [residual risk](/residual-risk/) of delisting or regulatory action against foreign issuers that fail to meet US audit standards or that are deemed to pose national-security concerns. These risks are real and have affected other Chinese tech companies.
 
 ## User Growth Saturation and Market Maturity
 

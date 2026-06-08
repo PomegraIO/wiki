@@ -43,7 +43,7 @@ The fund rebalances regularly. Bonds that have gotten expensive (high price, low
 
 ## Trading, costs, and income payments
 
-AVGB trades on NYSE Arca during normal market hours. You can buy or sell throughout the day at the market price. The fund is liquid — there is steady investor demand for credit ETFs — so spreads are tight and execution is straightforward.
+AVGB trades on [NYSE Arca](/nyse-arca/) during normal market hours. You can buy or sell throughout the day at the market price. The fund is liquid — there is steady investor demand for credit ETFs — so spreads are tight and execution is straightforward.
 
 The annual [expense ratio](/expense-ratio/) is roughly 0.25 to 0.35%. A traditional bond [mutual fund](/mutual-fund/) with a human manager might charge 0.50% or more. A passive, index-tracking [bond ETF](/bond-etf/) might charge 0.05%. AVGB sits in the middle — active rules-based selection costs more than a passive index but less than hand-picked active management.
 

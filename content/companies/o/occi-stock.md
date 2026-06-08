@@ -32,9 +32,9 @@ OFS Credit Company operates under this BDC framework, which shapes everything ab
 
 ## The private credit gap OFS fills
 
-Banks are the traditional lenders to businesses of all sizes, but after the 2008 financial crisis, bank regulation tightened significantly. Banks must maintain higher capital levels, and they face regulatory pressure to avoid [credit risks](/credit-risk/), especially in middle-market segments where each loan is smaller and the due diligence per dollar is less scalable. In response, many banks pulled back from lending to private middle-market companies — businesses too small to access [public debt](/public-debt/) markets but too large or complex for simple trade-credit or small-business lending.
+Banks are the traditional lenders to businesses of all sizes, but after the 2008 financial crisis, bank regulation tightened significantly. Banks must maintain higher capital levels, and they face regulatory pressure to avoid [credit risks](/credit-risk/), especially in middle-market segments where each loan is smaller and the [due diligence](/due-diligence/) per dollar is less scalable. In response, many banks pulled back from lending to private middle-market companies — businesses too small to access [public debt](/public-debt/) markets but too large or complex for simple trade-credit or small-business lending.
 
-This retreat opened an opportunity for non-bank lenders like OFS Credit Company. OFS stepped into the gap, providing loans to middle-market companies that banks no longer wanted to fund, and pricing those loans at a spread above risk-free rates that compensates for the credit risk and illiquidity. As long as OFS assesses credit risk accurately and avoids bad bets, the interest income can be substantial.
+This retreat opened an opportunity for non-bank lenders like OFS Credit Company. OFS stepped into the gap, providing loans to middle-market companies that banks no longer wanted to fund, and pricing those loans at a spread above [risk-free rates](/risk-free-rate/) that compensates for the credit risk and illiquidity. As long as OFS assesses credit risk accurately and avoids bad bets, the interest income can be substantial.
 
 ## The portfolio: what OFS lends on
 
@@ -46,7 +46,7 @@ OFS's fundamental job is assessing which companies will repay their loans and wh
 
 ## Leverage and the equity cushion
 
-Like many investment funds, OFS uses leverage — it borrows money to invest, which magnifies both returns and risks. If OFS buys a portfolio of loans that yield 8%, and it can borrow at 4% to fund some of that purchase, the net [return on equity](/return-on-equity/) is higher than the 8% yield. This leverage is attractive to shareholders but requires careful management. If too many loans in the portfolio default, the interest income falls, leverage becomes a drag, and the equity cushion erodes.
+Like many investment funds, OFS uses leverage — it borrows money to invest, which magnifies both returns and risks. If OFS buys a portfolio of loans that yield 8%, and it can borrow at 4% to fund some of that purchase, the net [return on equity](/return-on-equity/) is higher than the 8% yield. This leverage is attractive to shareholders but requires careful management. If too many loans in the portfolio default, the interest income falls, leverage becomes a drag, and the [equity cushion](/equity-cushion/) erodes.
 
 OFS must maintain adequate equity relative to the size of its debt — the so-called coverage ratios that protect lenders. Regulators monitor these ratios, and if they slip too low, the company faces restrictions on new investments or pressure to reduce leverage. In a severe credit downturn, an over-levered BDC can run into trouble.
 

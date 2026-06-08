@@ -26,7 +26,7 @@ The years 2020–2021 were expansive for Upstart. The [Federal Reserve](/federal
 
 ## The 2022–2023 contraction and cyclicality
 
-The thesis collided with the credit cycle in 2022–2023. As the Federal Reserve raised interest rates sharply to combat [inflation](/inflation/), credit suddenly became expensive, and loan origination volumes collapsed. Consumers took on less debt, credit availability tightened, and [default rates](/default-rate/) began to rise. For a company like Upstart that earns revenue per loan originated, a drop in origination volume is immediately damaging.
+The thesis collided with the [credit cycle](/credit-cycle/) in 2022–2023. As the Federal Reserve raised interest rates sharply to combat [inflation](/inflation/), credit suddenly became expensive, and loan origination volumes collapsed. Consumers took on less debt, credit availability tightened, and [default rates](/default-rate/) began to rise. For a company like Upstart that earns revenue per loan originated, a drop in origination volume is immediately damaging.
 
 More problematically, Upstart's credit models began to underperform. The machine-learning models had been trained on years of loose-credit-environment data. When the credit cycle swung hard and quickly, borrower behavior changed—defaults rose faster than the models predicted—and lenders, stung by unexpected losses, scaled back their purchases of Upstart-originated loans. This is the core risk of AI-driven credit underwriting: the models are only as reliable as the data they are trained on, and a regime change in the credit cycle or the macro environment can invalidate them.
 

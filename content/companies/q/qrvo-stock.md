@@ -35,7 +35,7 @@ Qorvo was formed in 2015 through the [merger](/merger/) of RFMD (RF Micro Device
 
 Qorvo competes with Skyworks and Broadcom in mobile RF (where Broadcom is more dominant in some applications), and with specialized defense-focused suppliers in military applications. The competitive dynamic favors scale and technological breadth — a customer prefers buying multiple RF components from one supplier that can integrate them and provide support, rather than sourcing from many vendors. Qorvo's breadth (the merger created) gives it this advantage.
 
-However, Qorvo is not a pure-play RF company anymore. In recent years it has acquired companies and built capabilities in adjacent areas such as power management and wireless connectivity, which partially blurs its identity as a focused RF specialist. The company is betting that customers want an integrated solution rather than point components, but this strategy carries execution risk if the company cannot smoothly integrate disparate product lines.
+However, Qorvo is not a pure-play RF company anymore. In recent years it has acquired companies and built capabilities in adjacent areas such as power management and wireless connectivity, which partially blurs its identity as a focused RF specialist. The company is betting that customers want an integrated solution rather than point components, but this strategy carries [execution risk](/execution-risk/) if the company cannot smoothly integrate disparate product lines.
 
 ## Revenue composition and end-market dependency
 

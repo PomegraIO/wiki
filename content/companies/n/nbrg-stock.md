@@ -4,7 +4,7 @@ description: "SPAC formed to acquire and merge with operating businesses; capita
 keywords: [SPAC, special-purpose-acquisition-company, blank-check-company, merger-arbitrage, capital-deployment]
 ---
 
-*[Newbridge Acquisition Ltd](/nbrg-stock/) ([NBRG](/nbrg-stock/)) is a [special-purpose-acquisition company](/special-purpose-acquisition-company/) incorporated to identify and acquire an operating business, typically through [merger](/merger/) or asset purchase. As a capital acquisition vehicle, its returns and timeline are shaped entirely by when and on what terms the sponsor completes a transaction—factors that sit at the intersection of market windows, capital availability, and M&A cycle timing.*
+*[Newbridge Acquisition Ltd](/nbrg-stock/) ([NBRG](/nbrg-stock/)) is a [special-purpose-acquisition company](/special-purpose-acquisition-company/) incorporated to identify and acquire an operating business, typically through [merger](/merger/) or asset purchase. As a capital acquisition vehicle, its returns and timeline are shaped entirely by when and on what terms the sponsor completes a transaction—factors that sit at the intersection of [market windows](/market-window/), capital availability, and M&A cycle timing.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>NBRG</td></tr>
@@ -49,7 +49,7 @@ Unlike an IPO, which brings an already-operating company to public markets, Newb
 
 ## Looking ahead
 
-Newbridge's future returns depend on three factors: the speed at which the sponsor identifies a suitable target (speed to transaction), the quality of the target's secular business prospects (industry tailwinds), and the market environment at announcement and close (the M&A and credit cycle). None of these is within Newbridge's control as a vehicle. Investors in the SPAC are placing trust in the sponsor's deal sourcing, [market timing](/market-timing/), and negotiation skill—betting that the sponsor can navigate both the dealmaking cycle and identify a target with durable fundamentals.
+Newbridge's future returns depend on three factors: the speed at which the sponsor identifies a suitable target (speed to transaction), the quality of the target's secular business prospects (industry tailwinds), and the market environment at announcement and close (the M&A and [credit cycle](/credit-cycle/)). None of these is within Newbridge's control as a vehicle. Investors in the SPAC are placing trust in the sponsor's deal sourcing, [market timing](/market-timing/), and negotiation skill—betting that the sponsor can navigate both the dealmaking cycle and identify a target with durable fundamentals.
 
 ### Closely related
 [SPAC](/special-purpose-acquisition-company/)

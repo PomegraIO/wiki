@@ -51,7 +51,7 @@ The company's [balance sheet](/balance-sheet/) is relatively straightforward: mo
 
 ## Growth Through Acquisition
 
-INNODATA has pursued [acquisitions](/acquisition/) to expand its capabilities and client base. Buying other data services or content processing companies allows INNODATA to gain new expertise, customer relationships, and operating capacity. Acquisitions in this space often involve integrating new teams and processes, which carry execution risk. The company's filings discuss material acquisitions, integration costs, and [goodwill](/goodwill/) or [intangible assets](/intangible-assets/) on the [balance sheet](/balance-sheet/).
+INNODATA has pursued [acquisitions](/acquisition/) to expand its capabilities and client base. Buying other data services or content processing companies allows INNODATA to gain new expertise, customer relationships, and operating capacity. Acquisitions in this space often involve integrating new teams and processes, which carry [execution risk](/execution-risk/). The company's filings discuss material acquisitions, integration costs, and [goodwill](/goodwill/) or [intangible assets](/intangible-assets/) on the [balance sheet](/balance-sheet/).
 
 ## Understanding INNODATA Through Its Disclosures
 

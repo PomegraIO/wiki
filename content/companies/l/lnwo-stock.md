@@ -36,9 +36,9 @@ The integrity of gaming machines is existential to LNWO's business: a scandal in
 
 ## Anti-Money Laundering and Suspicious Activity Reporting
 
-Gaming operators (and, indirectly, LNWO as a systems provider) fall under Bank Secrecy Act oversight, with casinos designated as "money services businesses." LNWO systems must support compliance with [anti-money laundering](/anti-money-laundering/) (AML) requirements: casinos using LNWO's gaming floor systems must report suspicious transactions, maintain customer identification programs, and flag large transactions. LNWO's systems must embed functionality to support casinos' [AML compliance](/aml-compliance/)—reporting formats, customer identification workflows, and transaction monitoring.
+Gaming operators (and, indirectly, LNWO as a systems provider) fall under Bank Secrecy Act oversight, with casinos designated as "money services businesses." LNWO systems must support compliance with [anti-money laundering](/anti-money-laundering/) (AML) requirements: casinos using LNWO's gaming [floor systems](/floor-system-monetary-policy/) must report suspicious transactions, maintain customer identification programs, and flag large transactions. LNWO's systems must embed functionality to support casinos' [AML compliance](/aml-compliance/)—reporting formats, customer identification workflows, and transaction monitoring.
 
-If LNWO's systems fail to support casino AML compliance, casinos may be assessed penalties by the Financial Crimes Enforcement Network (FinCEN). LNWO faces reputational and commercial risk if its systems are seen as inadequate to support compliance. Regulators expect gaming companies to maintain robust AML frameworks; weakness here can trigger enforcement actions.
+If LNWO's systems fail to support casino AML compliance, casinos may be assessed penalties by the [Financial Crimes Enforcement Network](/financial-crimes-enforcement-network/) (FinCEN). LNWO faces reputational and commercial risk if its systems are seen as inadequate to support compliance. Regulators expect gaming companies to maintain robust AML frameworks; weakness here can trigger enforcement actions.
 
 ## Responsible Gaming and Player Protection
 

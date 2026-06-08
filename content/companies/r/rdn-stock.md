@@ -42,7 +42,7 @@ Radian Group is primarily a mortgage insurance company. When a borrower puts dow
 
 This is the core engine. The company generates premium income upfront, invests reserves, and manages claims over years. Once a borrower reaches 20 percent equity or refinances, the insurance usually terminates. A sizable insurance portfolio produces a long tail of cash flow from old loans still in force.
 
-Through subsidiaries, Radian also provides mortgage and real-estate services—title insurance, appraisals, flood insurance, and mortgage origination support—mostly to the same captive pool of lenders and borrowers it already serves through mortgage insurance.
+Through subsidiaries, Radian also provides mortgage and real-estate services—[title insurance](/title-insurance/), appraisals, [flood insurance](/flood-insurance-personal/), and mortgage origination support—mostly to the same captive pool of lenders and borrowers it already serves through mortgage insurance.
 
 ## Why is mortgage insurance so sensitive to credit cycles?
 
@@ -56,7 +56,7 @@ Radian operates as a financial leverage play: it collects a small percentage upf
 
 ## How does the mortgage insurance market work?
 
-The private mortgage insurance industry has a handful of major competitors. Radian is one of the two or three largest, typically competing with Genworth Mortgage Insurance, [MGIC Investment](/mtg-stock/) Corporation, and United Guaranty. The market is consolidated because insurers need capital depth, modeling expertise, and relationships with major lenders (banks, mortgage servicers, large mortgage originators).
+The [private mortgage insurance](/private-mortgage-insurance-personal/) industry has a handful of major competitors. Radian is one of the two or three largest, typically competing with Genworth Mortgage Insurance, [MGIC Investment](/mtg-stock/) Corporation, and United Guaranty. The market is consolidated because insurers need capital depth, modeling expertise, and relationships with major lenders (banks, mortgage servicers, large mortgage originators).
 
 Lenders shop for competitive rates and service. Radian's advantage lies in scale, underwriting discipline, technology, and a long track record. Switching costs are moderate—a lender can move to a competitor, but Radian's installed base of old cohorts and relationship depth create some stickiness.
 
@@ -68,7 +68,7 @@ The core risk is a housing downturn or recession that triggers defaults across R
 
 Capital is another constraint. The company must maintain regulatory capital buffers to pay claims during stress. A severe loss event can exhaust capital faster than premiums can rebuild it, forcing [dividend](/dividend/) suspension, equity raises, or cost cuts. Radian's dividend history shows pauses during 2008–2009 and other downturns.
 
-Reputational risk attaches to any payment denials or claims handling disputes. Policymakers have periodically questioned PMI consumer value (borrowers sometimes view it as a tax), and political pressure occasionally surfaces to regulate PMI pricing or simplify removal criteria.
+[Reputational risk](/reputational-risk/) attaches to any payment denials or claims handling disputes. Policymakers have periodically questioned PMI consumer value (borrowers sometimes view it as a tax), and political pressure occasionally surfaces to regulate PMI pricing or simplify removal criteria.
 
 [Concentration risk](/concentration-risk/) is embedded. Radian's portfolio is dominated by newly originated loans in its underwriting years; loss development is front-loaded. A sharp rise in defaults three to five years after origination can overwhelm a year's premium collection.
 
@@ -107,7 +107,7 @@ Quarterly earnings calls reveal management's views on origination pipelines, def
 
 Compare Radian to rivals. Genworth and MGIC offer cross-checks on market conditions, pricing, and loss trends.
 
-The mortgage insurance cycle does not move in isolation—it tracks housing starts, home prices, employment trends, and Fed policy. A recession or rate shock that hammers the broader mortgage market will hit Radian proportionally or harder, given its leverage.
+The mortgage insurance cycle does not move in isolation—it tracks [housing starts](/housing-starts/), home prices, employment trends, and Fed policy. A recession or rate shock that hammers the broader mortgage market will hit Radian proportionally or harder, given its leverage.
 
 ## What is the company's long-term position?
 

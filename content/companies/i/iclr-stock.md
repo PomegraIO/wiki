@@ -55,7 +55,7 @@ Geopolitical risk is real as well. ICON runs trials in many countries, and sanct
 
 ## How a reader would research ICON
 
-Start with the 10-K (SEC CIK 0001060955), which lays out trial volume, customer concentration, segment profitability, and the backlog of future trials. Look for metrics like "trial initiation rate" and "patient enrollment pace" — these are the leading indicators of future revenue. The earnings calls matter because management gives commentary on the pharma pipeline, customer spending intentions, and new contract wins. Watch the gross margin trend: if it is falling, it usually signals increased competition or rising costs to win work.
+Start with the 10-K (SEC CIK 0001060955), which lays out trial volume, customer concentration, segment profitability, and the backlog of future trials. Look for metrics like "trial initiation rate" and "patient enrollment pace" — these are the [leading indicators](/leading-indicator/) of future revenue. The earnings calls matter because management gives commentary on the pharma pipeline, customer spending intentions, and new contract wins. Watch the gross margin trend: if it is falling, it usually signals increased competition or rising costs to win work.
 
 The [price-to-earnings ratio](/price-to-earnings-ratio/) and [price-to-sales ratio](/price-to-sales-ratio/) reveal how the market values the earnings power of these contracts. Because trials have long duration and variable timing, the backlog — the value of work already contracted but not yet performed — is a key metric to understand. That backlog, expressed in dollars, is the most honest picture of future revenue.
 

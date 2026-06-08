@@ -39,7 +39,7 @@ Commodity price assumptions are disclosed, often in the MD&A: at what gold or co
 
 ## Jurisdiction and political risk
 
-The [10-K](/10-k/) discloses the countries and regions where Gold Strike holds claims. Each jurisdiction has its own mining law, permitting process, political stability, and investment climate. A project in Canada or Australia faces lower political risk but must meet stricter environmental standards; a project in an emerging-market region may be faster to permit but faces higher [country risk](/country-risk/) (expropriation, political instability, corruption). Gold Strike discloses material risks tied to each jurisdiction, such as indigenous-land claims, opposition from environmental groups, or government instability.
+The [10-K](/10-k/) discloses the countries and regions where Gold Strike holds claims. Each jurisdiction has its own mining law, permitting process, political stability, and investment climate. A project in Canada or Australia faces lower [political risk](/political-risk/) but must meet stricter environmental standards; a project in an emerging-market region may be faster to permit but faces higher [country risk](/country-risk/) (expropriation, political instability, corruption). Gold Strike discloses material risks tied to each jurisdiction, such as indigenous-land claims, opposition from environmental groups, or government instability.
 
 The company also discloses whether it has obtained title or must negotiate concession agreements. If title is disputed or not yet confirmed, the company does not own the property in a conventional sense and may lose rights if a competing claimant prevails or if the host government changes policy. These title issues are material risks disclosed in the risk-factor section.
 

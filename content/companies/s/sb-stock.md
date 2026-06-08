@@ -12,7 +12,7 @@ handwritten: true
 
 **SAFE Bulkers operates one of the smaller modern fleets in international dry bulk shipping, moving commodities like grain, coal, and minerals across global sea lanes with a focus on newer, fuel-efficient vessels that meet contemporary environmental standards.** The company sits in a cyclical industry where revenues swing sharply with ocean freight rates, which themselves depend on commodity supply chains, global trade flows, and the size of the worldwide merchant fleet. Unlike integrated shipping conglomerates, SAFE Bulkers owns only dry bulk tonnage—no containers, tankers, or specialty vessels—and operates largely on the spot market rather than through long-term charters.
 
-Shipping is a capital-intensive, low-margin business. A modern dry bulk carrier costs tens of millions of dollars to build and operates for decades. Owners either sign time charters with industrial customers (fixing revenue for a period) or expose themselves to spot rates that fluctuate daily based on immediate supply and demand. SAFE Bulkers has historically tilted toward spot exposure, which amplifies volatility but also offers upside when rates spike during tight market conditions.
+Shipping is a capital-intensive, low-margin business. A modern dry bulk carrier costs tens of millions of dollars to build and operates for decades. Owners either sign time charters with industrial customers (fixing revenue for a period) or expose themselves to [spot rates](/spot-rate/) that fluctuate daily based on immediate supply and demand. SAFE Bulkers has historically tilted toward spot exposure, which amplifies volatility but also offers upside when rates spike during tight market conditions.
 
 ## Fleet and Business Positioning
 
@@ -36,7 +36,7 @@ SAFE Bulkers' competitive position rests on fleet quality, operational efficienc
 
 Dry bulk shipping is notoriously volatile, and SAFE Bulkers is a direct play on that volatility. The BDI and earnings can swing 50–80% year-over-year. Key risks include:
 
-**Market cycle risk.** A sharp slowdown in global commodity demand (triggered by [recession](/recession/), industrial contraction, or geopolitical disruption) can collapse freight rates overnight, turning profits into losses. This is the dominant risk; shipping booms are typically unsustainable and inevitably correct.
+**[Market cycle](/market-cycle/) risk.** A sharp slowdown in global commodity demand (triggered by [recession](/recession/), industrial contraction, or geopolitical disruption) can collapse freight rates overnight, turning profits into losses. This is the dominant risk; shipping booms are typically unsustainable and inevitably correct.
 
 **Fuel and operating cost [inflation](/inflation/).** Bunker prices, wage growth, and regulatory compliance costs (emissions equipment, scrubbers, ballast treatments) squeeze margins. SAFE Bulkers cannot fully pass these costs to customers during rate downturns.
 

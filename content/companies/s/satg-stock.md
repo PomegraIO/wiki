@@ -33,7 +33,7 @@ SATG emerged as one of the firm's Bitcoin-focused products, capitalizing on the 
 
 ## How SATG's leverage mechanism works
 
-SATG uses derivatives and rebalancing to achieve its 2x daily target. If Bitcoin rises 1% in a trading session, SATG aims to rise 2%. If Bitcoin falls 3%, SATG targets a 6% loss. The fund accomplishes this by holding options, futures, or synthetic positions that track Bitcoin's daily move, then rebalancing back to the 2x ratio at the close. This daily reset is what distinguishes SATG from a traditional leveraged [mutual fund](/mutual-fund/), which might compound leverage over longer periods.
+SATG uses derivatives and rebalancing to achieve its 2x daily target. If Bitcoin rises 1% in a trading session, SATG aims to rise 2%. If Bitcoin falls 3%, SATG targets a 6% loss. The fund accomplishes this by holding options, futures, or [synthetic positions](/synthetic-position/) that track Bitcoin's daily move, then rebalancing back to the 2x ratio at the close. This daily reset is what distinguishes SATG from a traditional leveraged [mutual fund](/mutual-fund/), which might compound leverage over longer periods.
 
 The sponsor — Leverage Shares — maintains these positions dynamically throughout the day. As Bitcoin price moves, SATG's delta exposure shifts, requiring the fund to buy or sell more derivatives to stay at 2x. At 4 p.m. New York time, the day's leverage is unwound entirely, and the fund resets to a clean 2x position for the next session. This constant rebalancing is what creates the fund's greatest hidden cost.
 

@@ -21,7 +21,7 @@ MarketDesk, as a manager of quantitative and actively managed strategies, built 
 
 ## How the fund selects stocks
 
-FMTM's selection process is systematic and active. Rather than following a rigid index formula, the portfolio managers use momentum metrics to identify stocks exhibiting the strongest relative strength within the U.S. equity universe. These metrics typically include price momentum (how much the stock has risen relative to a reference period, often the past three to twelve months), earnings revision momentum (the pace at which analyst estimates for future earnings are rising or falling), and sometimes other signals such as volume strength or relative performance versus specific sectors or indices.
+FMTM's selection process is systematic and active. Rather than following a rigid index formula, the portfolio managers use momentum metrics to identify stocks exhibiting the strongest relative strength within the U.S. equity universe. These metrics typically include price momentum (how much the stock has risen relative to a reference period, often the past three to twelve months), [earnings revision momentum](/earnings-revision-momentum/) (the pace at which analyst estimates for future earnings are rising or falling), and sometimes other signals such as volume strength or relative performance versus specific sectors or indices.
 
 The fund is "focused," meaning it does not try to hold a representative sample of all U.S. stocks, but instead concentrates the portfolio in the stocks with the strongest momentum signals. This concentration amplifies both the upside if momentum continues and the downside if momentum reverses. The number of holdings is typically in the range of forty to eighty companies — concentrated enough to express meaningful conviction but diversified enough to manage single-stock risk.
 
@@ -33,7 +33,7 @@ FMTM's positioning reflects this evolution. Modern momentum managers like Market
 
 ## Sector and style tilts
 
-Because momentum tends to concentrate in certain market environments, FMTM's sector composition shifts with market cycles. In bull markets with strong economic growth, cyclical sectors (technology, discretionary, financials) often lead on momentum and dominate the portfolio. In risk-off environments, the fund may be smaller or even hold fewer holdings if the number of stocks with genuinely positive momentum narrows. The fund's average stock quality, as measured by things like profitability or balance-sheet strength, fluctuates; [momentum investing](/momentum-investing/) in late-stage bull markets often finds itself holding lower-quality names simply because those stocks have experienced the biggest recent rallies.
+Because momentum tends to concentrate in certain market environments, FMTM's sector composition shifts with [market cycles](/market-cycle/). In bull markets with strong economic growth, cyclical sectors (technology, discretionary, financials) often lead on momentum and dominate the portfolio. In risk-off environments, the fund may be smaller or even hold fewer holdings if the number of stocks with genuinely positive momentum narrows. The fund's average stock quality, as measured by things like profitability or balance-sheet strength, fluctuates; [momentum investing](/momentum-investing/) in late-stage bull markets often finds itself holding lower-quality names simply because those stocks have experienced the biggest recent rallies.
 
 This variability is a feature and a risk. An investor in FMTM is not buying a stable sector or style exposure — the portfolio's composition is dynamic and may drift significantly over time as market conditions and momentum signals evolve.
 
@@ -45,7 +45,7 @@ Time horizon matters crucially. Momentum strategies are most suitable for invest
 
 ## Costs and expenses
 
-The [expense ratio](/expense-ratio/) reflects active management and the systematic research required to identify and monitor momentum signals. This is higher than a passive broad-market [index fund](/index-fund/) but reasonable for an actively managed equity fund with frequent turnover. The fund's turnover rate (the percentage of the portfolio replaced each year) is usually moderate to high, reflecting the active rebalancing required to stay synchronized with changing momentum signals. Higher turnover means higher implicit trading costs, which are not explicitly charged to investors but reduce net returns.
+The [expense ratio](/expense-ratio/) reflects active management and the systematic research required to identify and monitor momentum signals. This is higher than a passive broad-market [index fund](/index-fund/) but reasonable for an actively managed equity fund with frequent turnover. The fund's turnover rate (the percentage of the portfolio replaced each year) is usually moderate to high, reflecting the active rebalancing required to stay synchronized with changing momentum signals. Higher turnover means higher [implicit trading costs](/implicit-trading-costs/), which are not explicitly charged to investors but reduce net returns.
 
 ## Researching FMTM and monitoring
 

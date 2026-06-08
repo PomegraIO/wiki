@@ -42,7 +42,7 @@ The company also maintained relationships with larger partners—notably, a tie-
 
 By 2026, IBG's board and management evidently concluded that incremental expansion in spirits was insufficient for long-term value creation. In March 2026, the company announced acquisition of a 51 percent controlling stake in BlockFuel Energy Inc., a Texas-based oil and gas operator with assets primarily in Oklahoma. The structure was revealing: IBG provided BlockFuel a $2.5 million loan to facilitate a share repurchase, then accepted BlockFuel shares and warrants as consideration. The combined entity would operate under the BlockFuel name, with IBG's beverage business restructured as an Australian subsidiary under CEO Sahil Beri's leadership as President of that unit.
 
-This transformation signals that management views energy operations—specifically U.S. onshore oil and gas—as offering superior returns and capital efficiency compared to consumer spirits. BlockFuel holds producing acreage in Oklahoma and has executed a Letter of Intent to acquire approximately 4,000 contiguous acres of additional producing fields, aimed at scaling operations and lowering per-unit extraction costs.
+This transformation signals that management views energy operations—specifically U.S. onshore oil and gas—as offering superior returns and capital efficiency compared to consumer spirits. BlockFuel holds producing acreage in Oklahoma and has executed a [Letter of Intent](/letter-of-intent-ma/) to acquire approximately 4,000 contiguous acres of additional producing fields, aimed at scaling operations and lowering per-unit extraction costs.
 
 ## BlockFuel Energy Business Model
 
@@ -52,7 +52,7 @@ Oil and gas operations are highly capital-intensive and cyclical, tied directly 
 
 ## Execution Risk and Structure
 
-The [merger](/merger/) and transition introduced substantial execution risk. Managing a two-continent, two-industry company is operationally complex. The separation of beverage operations into a subsidiary under a new parent company focused on energy operations could create tax inefficiencies and management complexity. The warrant issuance (3.8 million shares at $0.0001 per share [exercise price](/exercise-price/)) represents massive future dilution if exercised, potentially shifting voting control away from current shareholders.
+The [merger](/merger/) and transition introduced substantial [execution risk](/execution-risk/). Managing a two-continent, two-industry company is operationally complex. The separation of beverage operations into a subsidiary under a new parent company focused on energy operations could create tax inefficiencies and management complexity. The warrant issuance (3.8 million shares at $0.0001 per share [exercise price](/exercise-price/)) represents massive future dilution if exercised, potentially shifting voting control away from current shareholders.
 
 More fundamentally, the company's credibility with energy investors is unproven. An inexperienced management team or a company carrying the legacy brand identity of a spirits maker may face skepticism from institutional energy investors accustomed to operating companies with deep sector expertise and track records.
 

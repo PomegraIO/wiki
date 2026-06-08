@@ -37,13 +37,13 @@ By the early 2020s, Great Elm had expanded beyond direct lending into [collatera
 
 Throughout its history, Great Elm has had to navigate the inherent tension in BDC investing: deploying capital at spread margins that are attractive relative to the [credit risk](/credit-risk/), while ensuring the portfolio remains diversified enough that any single credit failure does not materially impair the company's earnings.
 
-The company's external investment manager conducts due diligence on potential borrowers, assesses their ability to service debt through a full economic cycle, and negotiates covenants — contractual obligations requiring the borrower to maintain minimum financial ratios or restrict [dividends](/dividend/) or additional borrowing. These covenants give Great Elm early warning if a borrower is deteriorating, and some control to address the problem before losses crystallize.
+The company's external investment manager conducts [due diligence](/due-diligence/) on potential borrowers, assesses their ability to service debt through a full economic cycle, and negotiates covenants — contractual obligations requiring the borrower to maintain minimum financial ratios or restrict [dividends](/dividend/) or additional borrowing. These covenants give Great Elm early warning if a borrower is deteriorating, and some control to address the problem before losses crystallize.
 
 Credit losses inevitably emerge. Some loans are made to businesses that encounter operational problems, market share losses, or industry disruption. Others are made to sound businesses struck by unexpected shocks — a customer concentration issue, an equipment failure, a regulatory change. Great Elm must then decide whether to work with the borrower through a difficult period or take losses by selling the position or writing it down.
 
 ## Cyclical resilience and vulnerability
 
-A company constructed like Great Elm Capital is inherently sensitive to the credit cycle. In an expansionary environment, unemployment stays low, revenues grow, and borrowers service their debt reliably. [Default rates](/default-rate/) across the portfolio stay in the low single digits. Realized losses are modest. The company collects interest reliably and can distribute meaningful earnings to shareholders and note holders.
+A company constructed like Great Elm Capital is inherently sensitive to the [credit cycle](/credit-cycle/). In an expansionary environment, unemployment stays low, revenues grow, and borrowers service their debt reliably. [Default rates](/default-rate/) across the portfolio stay in the low single digits. Realized losses are modest. The company collects interest reliably and can distribute meaningful earnings to shareholders and note holders.
 
 When the economy contracts, that picture inverts sharply. Unemployment rises, customer demand weakens, and some borrowers begin to struggle. Delinquencies increase, covenants are breached, and management must decide whether borrowers can recover or must be written down. The company's earnings may fall sharply, and dividends to shareholders are often cut to preserve capital.
 

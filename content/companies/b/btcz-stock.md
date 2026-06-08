@@ -39,7 +39,7 @@ If Bitcoin enters a sustained [bull market](/bull-market/) while an investor is 
 
 ## Structure, costs, and trading
 
-BTCZ trades on NYSE Arca with moderate daily volume, and spreads are typically 1–3 cents on large Bitcoin moves. The fund's [expense ratio](/expense-ratio/) is in the 70–100 basis point range, covering the cost of leverage and fund management. Because it uses Bitcoin futures to implement the inverse exposure rather than borrowing actual Bitcoin, BTCZ avoids the extreme [basis risk](/basis-risk/) of some inverse products. However, the daily rebalancing cost (the [bid-ask spread](/bid-ask-spread/) and market impact of daily position adjustments) is a hidden drag that does not appear in the stated expense ratio.
+BTCZ trades on [NYSE Arca](/nyse-arca/) with moderate daily volume, and spreads are typically 1–3 cents on large Bitcoin moves. The fund's [expense ratio](/expense-ratio/) is in the 70–100 basis point range, covering the cost of leverage and fund management. Because it uses Bitcoin futures to implement the inverse exposure rather than borrowing actual Bitcoin, BTCZ avoids the extreme [basis risk](/basis-risk/) of some inverse products. However, the daily rebalancing cost (the [bid-ask spread](/bid-ask-spread/) and market impact of daily position adjustments) is a hidden drag that does not appear in the stated expense ratio.
 
 ## Who should research BTCZ and how
 

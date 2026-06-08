@@ -26,7 +26,7 @@ The catch is competition and regulatory risk. Banks, fintech companies, digital 
 
 ## The government sector and economic shifts
 
-Paysign's largest customer segment has historically been government agencies. When the U.S. government needs to send unemployment insurance, welfare payments, tax refunds, or disaster relief funds to individuals, someone has to move that money. Prepaid cards are one mechanism: the government loads money onto a card issued to the recipient, who can then use it to access cash or make purchases.
+Paysign's largest customer segment has historically been government agencies. When the U.S. government needs to send [unemployment insurance](/unemployment-insurance/), welfare payments, tax refunds, or disaster relief funds to individuals, someone has to move that money. Prepaid cards are one mechanism: the government loads money onto a card issued to the recipient, who can then use it to access cash or make purchases.
 
 This is a high-volume, low-margin, highly regulated segment. But it is also stable. Government budgets fluctuate, but the ongoing need to distribute benefits does not disappear. During economic downturns, unemployment benefits surge, which means card volume and transaction count spike—counterintuitively good for volume-based fee businesses. Conversely, during strong economic periods when unemployment falls, government-distributed benefit volumes decline.
 

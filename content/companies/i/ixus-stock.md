@@ -69,7 +69,7 @@ Some investors prefer currency-hedged international funds, which attempt to neut
 
 ## Risk profile: developed and emerging together
 
-IXUS carries the risk profile of its components. Developed-market holdings are relatively stable but offer modest growth. Emerging-market holdings offer higher potential returns but with significantly more volatility and political risk. In a crisis, emerging-market stocks often fall more sharply than developed ones. During strong growth periods, emerging markets often outperform.
+IXUS carries the risk profile of its components. Developed-market holdings are relatively stable but offer modest growth. Emerging-market holdings offer higher potential returns but with significantly more volatility and [political risk](/political-risk/). In a crisis, emerging-market stocks often fall more sharply than developed ones. During strong growth periods, emerging markets often outperform.
 
 Geopolitical events — trade tensions, sanctions, military conflict — can impact specific countries or regions disproportionately. A tension with Russia, for example, directly affects Russian holdings. Similarly, conflict or political instability in the Middle East impacts energy prices, affecting oil-exporting emerging economies within the fund.
 

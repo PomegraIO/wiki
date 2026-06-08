@@ -46,7 +46,7 @@ Parker's chief rivals vary by segment. Eaton, a diversified industrial, competes
 
 Forward earnings rest on three things: aerospace production rates (driven by airline capex and aircraft delivery backlogs), industrial capex (manufacturing investment, energy, logistics spending), and the health of automotive and transport aftermarket. A recession that hits all three simultaneously can cut earnings 40 percent or more. Conversely, a burst of capex investment can drive 30 percent earnings growth in a single year.
 
-The company monitors order flow, customer backlog, and booking rates carefully. Analysts watch the aerospace division's revenue growth relative to airframe OEM deliveries as a leading indicator. A widening gap suggests either margin improvement (good) or demand softening (bad). Input cost [inflation](/inflation/)—steel, aluminum, electronics—directly impacts margins on fixed-price contracts, making visibility on commodity prices important.
+The company monitors order flow, customer backlog, and booking rates carefully. Analysts watch the aerospace division's revenue growth relative to airframe OEM deliveries as a [leading indicator](/leading-indicator/). A widening gap suggests either margin improvement (good) or demand softening (bad). Input cost [inflation](/inflation/)—steel, aluminum, electronics—directly impacts margins on fixed-price contracts, making visibility on commodity prices important.
 
 ## Capital Allocation and Valuation
 

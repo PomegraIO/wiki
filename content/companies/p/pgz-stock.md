@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Real estate sits at the centre of how people live and how capital seeks yield. Office parks, shopping centres, warehouses, and apartment buildings generate steady cash flows that find their way to investors who own them outright or hold pieces of them through securities. Most individual investors cannot buy buildings directly — capital requirements are too high, expertise is scarce, and the work of managing property is specialized. [Closed-end funds](/closed-end-fund/) like Principal Real Estate Income Fund exist to solve this problem, giving ordinary savers access to real estate's income stream without owning the brick and mortar themselves.
+Real estate sits at the centre of how people live and how capital seeks yield. Office parks, shopping centres, warehouses, and apartment buildings generate steady cash flows that find their way to investors who own them outright or hold pieces of them through securities. Most individual investors cannot buy buildings directly — capital requirements are too high, expertise is scarce, and the work of managing property is specialized. [Closed-end funds](/closed-end-fund/) like Principal [Real Estate Income Fund](/real-estate-income-fund/) exist to solve this problem, giving ordinary savers access to real estate's income stream without owning the brick and mortar themselves.
 
 <aside class="wiki-infobox">
 <table>
@@ -53,7 +53,7 @@ The primary risk is interest-rate sensitivity. When real estate investors borrow
 
 The second risk is leverage. Some closed-end [real estate funds](/real-estate-fund/) borrow money at short-term rates and lend it out at long-term rates to boost their distribution yields above what the underlying securities generate naturally. This works well until short-term rates rise faster than long-term rates (an inversion), or until credit markets freeze and the fund cannot roll over its borrowings. PGZ's leverage varies depending on market conditions and the adviser's judgment, but it always exists to some degree and amplifies both gains and losses.
 
-A third, subtler risk is distribution erosion. Real estate cycles through boom and bust. In busts, property values fall, rents stagnate, and mortgage defaults rise. When a fund's underlying income shrinks, [dividends](/dividend/) are sometimes maintained from capital returns — paying you income partly from your own principal. This feels fine until you realize the fund's underlying value is being consumed to keep the yield high. The true test of a real estate income fund is whether its distributions come from genuine economic earnings or from running down the capital base.
+A third, subtler risk is distribution erosion. [Real estate cycles](/real-estate-cycle/) through boom and bust. In busts, property values fall, rents stagnate, and mortgage defaults rise. When a fund's underlying income shrinks, [dividends](/dividend/) are sometimes maintained from capital returns — paying you income partly from your own principal. This feels fine until you realize the fund's underlying value is being consumed to keep the yield high. The true test of a real estate income fund is whether its distributions come from genuine economic earnings or from running down the capital base.
 
 ## How to research Principal Real Estate Income Fund
 

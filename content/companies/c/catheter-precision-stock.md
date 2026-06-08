@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Catheter Precision, Incorporated designs medical devices that help cardiologists visualize and treat dangerous heart rhythms. The company's tools target one specific surgical specialty: cardiac electrophysiology, which deals with disorders of the heart's electrical system — irregular beating patterns that can lead to stroke, heart failure, or sudden death. A customer for Catheter Precision is a hospital electrophysiology lab, and what they are really buying is a better view inside the beating heart and more reliable tools for stopping arrhythmias once those dangerous rhythms are identified.
+[Catheter Precision](/vtak-stock/), Incorporated designs medical devices that help cardiologists visualize and treat dangerous heart rhythms. The company's tools target one specific surgical specialty: cardiac electrophysiology, which deals with disorders of the heart's electrical system — irregular beating patterns that can lead to stroke, heart failure, or sudden death. A customer for Catheter Precision is a hospital electrophysiology lab, and what they are really buying is a better view inside the beating heart and more reliable tools for stopping arrhythmias once those dangerous rhythms are identified.
 
 ## What Catheter Precision Makes
 

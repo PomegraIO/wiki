@@ -58,7 +58,7 @@ Lobo's defensibility rests on focus and stickiness. Lobo is built for constructi
 
 ## Growth Constraints and Market Opportunity
 
-Lobo operates in a large but fragmented market. The US construction industry is worth $1.5+ trillion in annual spending, but is hyper-fragmented: the top 20 contractors control less than 15% of the market. Most construction is done by small, regional firms (100–500 employees) with limited technology budgets and legacy systems. This fragmentation is good for a small software company (many potential customers, low risk of single-customer concentration) and bad (high customer-acquisition cost, slow sales cycles, small annual contract values per customer).
+Lobo operates in a large but [fragmented market](/fragmented-market/). The US construction industry is worth $1.5+ trillion in annual spending, but is hyper-fragmented: the top 20 contractors control less than 15% of the market. Most construction is done by small, regional firms (100–500 employees) with limited technology budgets and legacy systems. This fragmentation is good for a small software company (many potential customers, low risk of single-customer concentration) and bad (high customer-acquisition cost, slow sales cycles, small annual contract values per customer).
 
 Lobo's scaling challenge is sales efficiency. A $10 million revenue goal requires 200–300 active customers, each paying $30–50k annually. Acquiring 300 construction companies, each requiring a 6–12 week sales cycle and 12-week implementation, is resource-intensive. A larger company with a 200-person sales team can acquire thousands of customers; Lobo, with a smaller sales team, will grow slower.
 

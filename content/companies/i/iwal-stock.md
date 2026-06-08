@@ -41,7 +41,7 @@ As a pre-revenue or low-revenue fintech startup, iWallet faces chronic cash burn
 
 ## Path to Profitability (Highly Uncertain)
 
-iWallet's business model assumes that scale—enough users and transaction volume—will eventually cover operating costs through accumulated transaction fees, account fees, or financial services partnerships. However, the company's 10-K provides little evidence of an actual runway toward this goal. User acquisition costs may remain stubbornly high, retention rates may plateau, or larger competitors may capture the target market before iWallet achieves scale. The disclosures often include forward-looking statements about profitability timelines, but these are typically speculative and subject to high execution risk.
+iWallet's business model assumes that scale—enough users and transaction volume—will eventually cover operating costs through accumulated transaction fees, account fees, or financial services partnerships. However, the company's 10-K provides little evidence of an actual runway toward this goal. User acquisition costs may remain stubbornly high, retention rates may plateau, or larger competitors may capture the target market before iWallet achieves scale. The disclosures often include forward-looking statements about profitability timelines, but these are typically speculative and subject to high [execution risk](/execution-risk/).
 
 ## Red Flags and Monitoring Points
 

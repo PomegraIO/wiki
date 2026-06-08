@@ -16,7 +16,7 @@ Mercator [Acquisition](/acquisition/) Corp. is a [special-purpose acquisition co
 
 Mercator has identified technology and software infrastructure companies serving financial services, real estate, and asset management as its target sector. These are typically private software makers that provide essential tools or platforms — payment processing, property management, asset tracking, risk assessment — for larger institutions that rely on their products but lack public-market liquidity. SPACs in this space are betting that the right private software company can be acquired at a sensible valuation, scaled through operational improvements or market expansion, and made profitable enough to justify a public-market listing.
 
-The sponsor is Hondius Capital Management, and the SPAC's Chief Executive Officer is Shawn Matthews. These are the individuals responsible for identifying targets, conducting due diligence, and structuring a deal that balances the interests of the SPAC's public shareholders with those of the private company's existing owners.
+The sponsor is Hondius Capital Management, and the SPAC's Chief Executive Officer is Shawn Matthews. These are the individuals responsible for identifying targets, conducting [due diligence](/due-diligence/), and structuring a deal that balances the interests of the SPAC's public shareholders with those of the private company's existing owners.
 
 ## How much capital is Mercator raising?
 

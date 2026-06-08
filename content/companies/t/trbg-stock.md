@@ -57,7 +57,7 @@ The timing reflects conditions in clean energy. Hydrogen production is cost-comp
 
 ## Execution risks and uncertainties
 
-TurboGen faces substantial execution risk. The first is manufacturing scale. The company has built prototypes and early production units; scaling to thousands of units per year requires supplier networks, quality control, and supply-chain complexity that are difficult to build quickly. Any misstep in manufacturing scaling could strangle the company's growth before it achieves critical mass.
+TurboGen faces substantial [execution risk](/execution-risk/). The first is manufacturing scale. The company has built prototypes and early production units; scaling to thousands of units per year requires supplier networks, quality control, and supply-chain complexity that are difficult to build quickly. Any misstep in manufacturing scaling could strangle the company's growth before it achieves critical mass.
 
 The second is customer acquisition. Selling distributed power systems is a complex sale, not a commodity transaction. Customers require technical education, financing discussions, integration studies, and ongoing support. The company is not yet at the scale where it can afford regional sales teams in all target markets; it is relying on strategic partners. If those partnerships fail to deliver meaningful pipelines, growth will stall.
 

@@ -27,7 +27,7 @@ MFIC invests in middle-market enterprises precisely because mainstream lenders h
 
 The incentive structure creates a subtle risk. MFIC's investment managers earn a [management fee](/management-fee/) tied to assets under management, not to returns. This can create pressure to deploy capital quickly into mediocre opportunities rather than wait for strong deals. A manager overseeing $500 million in assets collects a 1% to 1.5% fee regardless of whether the underlying portfolio companies are thriving or failing. Over time, this can lead to looser underwriting, longer covenant packages, and a deteriorating portfolio.
 
-Peer BDCs manage this differently. Some maintain strict approval thresholds and turn down more deals; others farm out underwriting to third-party advisors with alignment-of-interest contracts. MFIC's governance structure—detailed in its proxy statement and 10-K filings—determines which path it takes. A reader researching MFIC should examine whether management and boards hold significant equity stakes (aligning them with shareholder returns) or minimal stakes (aligning them only with asset growth).
+Peer BDCs manage this differently. Some maintain strict approval thresholds and turn down more deals; others farm out underwriting to third-party advisors with alignment-of-interest contracts. MFIC's governance structure—detailed in its [proxy statement](/proxy-statement/) and 10-K filings—determines which path it takes. A reader researching MFIC should examine whether management and boards hold significant equity stakes (aligning them with shareholder returns) or minimal stakes (aligning them only with asset growth).
 
 ## Valuation, Discounts, and the NAV Discount
 

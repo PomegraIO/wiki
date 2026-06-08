@@ -33,7 +33,7 @@ The best roll-up acquirers impose discipline on deal size. iOThree does not purs
 
 ## Earnout Obligations and Deferred Compensation
 
-Many acquisitions include earnouts: additional payments if the acquired business hits revenue or profit milestones post-acquisition. Earnouts defer part of the purchase price but shift risk. If the acquired team leaves or the business decelerates, the earnout may not be paid, reducing total cost. If the business thrives, earnouts can exceed the initial estimate, raising effective purchase price. iOThree's balance sheet must reflect earnout obligations—both accrued liabilities (known amounts) and [contingent liabilities](/contingent-liabilities-government/) (potential payments). These liabilities affect the company's net [leverage ratios](/leverage-ratio-forex/) and debt-to-equity calculations, potentially constraining future acquisition capacity if earnouts spike.
+Many acquisitions include earnouts: additional payments if the acquired business hits revenue or profit milestones post-acquisition. Earnouts defer part of the purchase price but shift risk. If the acquired team leaves or the business decelerates, the earnout may not be paid, reducing total cost. If the business thrives, earnouts can exceed the initial estimate, raising effective purchase price. iOThree's balance sheet must reflect earnout obligations—both [accrued liabilities](/accrued-liabilities/) (known amounts) and [contingent liabilities](/contingent-liabilities-government/) (potential payments). These liabilities affect the company's net [leverage ratios](/leverage-ratio-forex/) and debt-to-equity calculations, potentially constraining future acquisition capacity if earnouts spike.
 
 ## Currency and Cross-Border Deal Risk
 

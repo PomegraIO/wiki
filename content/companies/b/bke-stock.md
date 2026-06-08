@@ -43,7 +43,7 @@ Filings note that social media and influencer partnerships are expanding channel
 
 Apparel sourcing is disclosed in 10-K risk sections: manufacturing concentrated in low-wage geographies (Asia, Latin America), freight and tariff risks, and supplier concentration. Filings note that tariff changes (particularly U.S.–China tariffs) materially impact product cost, and that supply-chain disruption (factory closures, port congestion) can disrupt seasonal buys. Proprietary brands give Buckle some sourcing flexibility and negotiating power, but wholesale relationships bind the company to brand-owner supply chains.
 
-Filings disclose that labor and environmental standards in supplier factories are managed through third-party audits and compliance programs, reflecting regulatory and reputational risk. A major supplier collapse or audit failure is disclosed as a potential operational disruption.
+Filings disclose that labor and environmental standards in supplier factories are managed through third-party audits and compliance programs, reflecting regulatory and [reputational risk](/reputational-risk/). A major supplier collapse or audit failure is disclosed as a potential operational disruption.
 
 ## Profitability Under Maturity and Transition
 

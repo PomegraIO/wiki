@@ -22,7 +22,7 @@ A traditional IPO requires a company to hire investment banks, file extensive di
 
 ## What happens to investors if the SPAC stays blank?
 
-If Plum Acquisition Corp. III fails to complete a merger before its deadline, it must liquidate. Shareholders who held through to that point receive their pro-rata share of the trust account, effectively getting their money back (minus expenses). Warrant holders typically receive nothing. The investor pool that funded the SPAC thus has downside protection—they lose little but also gain little if no deal closes. This asymmetry is central to the SPAC model: investors have a real option, not just shares in a speculative blank check.
+If Plum Acquisition Corp. III fails to complete a merger before its deadline, it must liquidate. Shareholders who held through to that point receive their pro-rata share of the trust account, effectively getting their money back (minus expenses). Warrant holders typically receive nothing. The investor pool that funded the SPAC thus has downside protection—they lose little but also gain little if no deal closes. This asymmetry is central to the SPAC model: investors have a [real option](/real-option/), not just shares in a speculative blank check.
 
 ## What are the SPAC sponsor's incentives?
 
@@ -34,4 +34,4 @@ The SEC has been tightening oversight of SPACs in recent years. New rules requir
 
 ## How would an investor track Plum Acquisition Corp. III?
 
-Anyone holding shares should monitor the company's quarterly SEC filings and press releases for any announcement of a merger target. The prospectus or registration statement issued when the SPAC first went public sets the deadline for a merger; once a deal is announced, the terms appear in proxy statements. The company's investor relations website and SEC filings (CIK 0001845550) will detail any merger progress, extensions requested, or dissolution proceedings if a deal does not materialize.
+Anyone holding shares should monitor the company's quarterly SEC filings and press releases for any announcement of a merger target. The prospectus or registration statement issued when the SPAC first went public sets the deadline for a merger; once a deal is announced, the terms appear in [proxy statements](/proxy-statement/). The company's investor relations website and SEC filings (CIK 0001845550) will detail any merger progress, extensions requested, or dissolution proceedings if a deal does not materialize.

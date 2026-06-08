@@ -16,7 +16,7 @@ The company trades in three forms: Class A ordinary shares (SBXD), units that bu
 
 ## What it is hunting for
 
-From inception, SBXD signalled its interest in finding and acquiring a business in the digital asset space, with a preference for institutional-grade fintech and cryptocurrency-related operations. In June 2025, the company announced that it had reached a letter of intent with Parataxis Holdings LLC and Parataxis Holdings Inc. to merge. This was not a casual partnership inquiry—it represented SBXD's target.
+From inception, SBXD signalled its interest in finding and acquiring a business in the digital asset space, with a preference for institutional-grade fintech and cryptocurrency-related operations. In June 2025, the company announced that it had reached a [letter of intent](/letter-of-intent-ma/) with Parataxis Holdings LLC and Parataxis Holdings Inc. to merge. This was not a casual partnership inquiry—it represented SBXD's target.
 
 Parataxis Holdings is an institutional digital asset management platform focused on [bitcoin](/bitcoin/) as the primary investment thesis. The firm positions itself as bitcoin-native, meaning bitcoin is not one option among many but the central anchor of its investment strategy and operational design. Parataxis emphasises institutional-grade operations, compliance infrastructure, and the ability to manage capital at scale in digital assets. The merger would bring Parataxis to public markets under a new holding company named Parataxis Holdings Inc., with the ticker symbol PRTX on the New York [Stock Exchange](/stock-exchange/).
 
@@ -24,7 +24,7 @@ Parataxis Holdings is an institutional digital asset management platform focused
 
 The merger agreement values the combined company at approximately 400 million dollars. The cash from SBXD's trust, roughly 200 million dollars at IPO, will seed Parataxis's operations. Of that amount, 31 million was earmarked to be deployed immediately into bitcoin upon closing, positioning the public company as a capital allocator itself, not merely an asset manager. Additionally, the merger agreement grants Parataxis the right to issue and sell up to 400 million dollars in additional equity after the transaction closes, giving the combined entity a powerful tool to raise capital for further bitcoin and digital asset purchases or expansion.
 
-The original closing timeline was May 6, 2026. On May 1, 2026, the parties amended the agreement to extend the outside closing date to August 6, 2026, a move typically made when shareholder votes, regulatory reviews, or due diligence timelines need additional space. As of late May 2026, the transaction had not yet closed, meaning SBXD remains a blank-check company awaiting shareholder approval and regulatory clearance.
+The original closing timeline was May 6, 2026. On May 1, 2026, the parties amended the agreement to extend the outside closing date to August 6, 2026, a move typically made when shareholder votes, regulatory reviews, or [due diligence](/due-diligence/) timelines need additional space. As of late May 2026, the transaction had not yet closed, meaning SBXD remains a blank-check company awaiting shareholder approval and regulatory clearance.
 
 ## The regulatory and investor dynamics
 

@@ -34,7 +34,7 @@ Every high-rise, shopping mall, airport, hospital, and metro system faces the sa
 
 The elevator market is fragmented globally but concentrated at the top. Otis competes against a handful of well-capitalized global rivals — Thyssenkrupp (Germany), Schindler (Switzerland), and Kone (Finland) are the strongest — as well as regional and local competitors. Yet Otis retains the largest installed base and the deepest service network, advantages that compound over time. A building manager who inherits an Otis system already in place has little incentive to rip it out; Otis can service and upgrade it. New construction in North America, the Middle East, and much of Asia tends to default to Otis or one of the other global leaders because specifying a small, unproven vendor introduces risk that architects and developers cannot justify.
 
-The competitive advantage, in other words, is partly technological — Otis holds patents and has skilled engineers — but mostly structural: the installed base, the service network, the reputation for reliability, and the switching cost built into how the elevator industry works. A competitor selling a slightly better product has a much harder time than a new entrant in a fragmented market would.
+The competitive advantage, in other words, is partly technological — Otis holds patents and has skilled engineers — but mostly structural: the installed base, the service network, the reputation for reliability, and the switching cost built into how the elevator industry works. A competitor selling a slightly better product has a much harder time than a new entrant in a [fragmented market](/fragmented-market/) would.
 
 ## How does the business model work?
 

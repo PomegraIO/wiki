@@ -30,7 +30,7 @@ The most informative sources are AmBase's [10-K](/wiki/10-k/) annual filing and 
 - [10-K](/wiki/10-k/) — annual report required for SEC-listed companies
 - [Closed-end fund](/wiki/closed-end-fund/) — investment vehicle with similar asset-allocation focus
 - Holding company — corporate structure for managing subsidiaries and investments
-- [Balance sheet](/wiki/balance-sheet/) — primary financial statement for asset-based valuations
+- [Balance sheet](/wiki/balance-sheet/) — primary financial statement for [asset-based valuations](/asset-based-valuation/)
 
 ### Wider context
 - [Public company](/wiki/public-company/) — structure and disclosure requirements

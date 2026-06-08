@@ -36,7 +36,7 @@ The regulatory environment for DTC wine is complex. Shipping wine across state l
 
 ## Production and inventory cycles
 
-Crimson Wine's fiscal year likely revolves around harvest (typically September–October in California), production (fermentation and initial aging), and marketing/sales push during the winter holidays and spring entertaining seasons. Peak shipping volumes probably occur in Q4 (year-end holidays) and Q2 (spring), with Q3 (just post-harvest) showing low revenue but high inventory buildup.
+Crimson Wine's [fiscal year](/fiscal-year-definition/) likely revolves around harvest (typically September–October in California), production (fermentation and initial aging), and marketing/sales push during the winter holidays and spring entertaining seasons. Peak shipping volumes probably occur in Q4 (year-end holidays) and Q2 (spring), with Q3 (just post-harvest) showing low revenue but high inventory buildup.
 
 The company's inventory [balance sheet](/balance-sheet/) is weighted with work-in-process (aging wine) and finished goods (bottled wine awaiting sale). Wine that is not yet released does not generate revenue, so a large inventory base of maturing wine is a cash drag that must be financed. For a company in growth mode, this inventory buildup can push cash flow negative even if the underlying business is profitable. This is why wine companies often have seasonal working capital needs and may draw on credit lines around harvest.
 

@@ -45,7 +45,7 @@ The Fed held interest rates near zero from 2009 to 2021. When the Fed's rate is 
 
 This changed between 2022 and 2024 when the Fed rapidly raised rates. Deposit rates began to rise (though often slowly, as banks tried to delay rate hikes on deposits), but loan rates rose faster and borrowers became more reluctant to borrow at higher rates. The spread compressed. Moreover, high-interest savings accounts and money-market funds outside the banking system began offering attractive rates, drawing deposits away from banks.
 
-For a large bank or a digital bank, this is manageable — size and technology let them compete on price. For a regional bank with higher operating costs and limited technology, the pressure is acute. Northwest must compete for deposits in a world where customers can earn 4-5 percent in a high-yield savings account at an online bank, but it must do so while operating hundreds of branches in specific communities.
+For a large bank or a digital bank, this is manageable — size and technology let them compete on price. For a regional bank with higher operating costs and limited technology, the pressure is acute. Northwest must compete for deposits in a world where customers can earn 4-5 percent in a [high-yield savings account](/high-yield-savings-account/) at an online bank, but it must do so while operating hundreds of branches in specific communities.
 
 ## Credit risk and economic sensitivity
 

@@ -50,7 +50,7 @@ X Financial competes in a crowded market that includes other loan facilitation p
 
 Key risks include regulatory tightening (further restrictions could shrink the addressable market), competition from well-capitalized banks, [concentration risk](/concentration-risk/) (if revenue is concentrated among a few large lending partners, a partner exit or dispute could hurt earnings), credit quality (if the company's underwriting proves too loose, [default rates](/default-rate/) could spike and partners might reduce volume), and China-specific macro risks (economic slowdown could suppress demand for personal loans).
 
-The company is also sensitive to credit cycles: during downturns, loan demand may fall while defaults rise, compressing margins and increasing charge-offs. X Financial has no direct control over partner lenders' credit decisions or terms once a match is made, which limits its ability to manage credit quality end-to-end.
+The company is also sensitive to [credit cycles](/credit-cycle/): during downturns, loan demand may fall while defaults rise, compressing margins and increasing charge-offs. X Financial has no direct control over partner lenders' credit decisions or terms once a match is made, which limits its ability to manage credit quality end-to-end.
 
 ## Understanding the Business
 

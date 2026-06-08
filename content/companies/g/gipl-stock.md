@@ -37,7 +37,7 @@ GIPL competed in markets served by large, global systems integrators (Deloitte, 
 
 ## Acquisition Strategy and Scaling
 
-GIPL pursued growth through acquisitions of smaller IT services and consulting firms, particularly those with complementary skill sets or geographic presence. An acquisition brought new engineers, new client relationships, and new revenue quickly, but at the cost of integration challenges, cultural friction, and the risk that key staff left post-acquisition. GIPL's ability to execute acquisitions successfully—retaining talent, integrating operations, growing combined revenue—was critical to its strategy. In a fragmented market (there are thousands of regional IT services and consulting firms), a company that could acquire disciplined, at scale, could consolidate the market and emerge as a stronger mid-market player.
+GIPL pursued growth through acquisitions of smaller IT services and consulting firms, particularly those with complementary skill sets or geographic presence. An acquisition brought new engineers, new client relationships, and new revenue quickly, but at the cost of integration challenges, cultural friction, and the risk that key staff left post-acquisition. GIPL's ability to execute acquisitions successfully—retaining talent, integrating operations, growing combined revenue—was critical to its strategy. In a [fragmented market](/fragmented-market/) (there are thousands of regional IT services and consulting firms), a company that could acquire disciplined, at scale, could consolidate the market and emerge as a stronger mid-market player.
 
 ## The Sustainability Question and Sectoral Trends
 

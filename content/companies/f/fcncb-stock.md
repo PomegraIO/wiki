@@ -39,7 +39,7 @@ Regional banks do not have the distribution power or brand recognition of JPMorg
 
 ## Capital and dividend policy
 
-Like all large banks, First Citizens BancShares operates under capital requirements set by the Federal Reserve. The bank must hold a minimum ratio of capital (equity) to risk-weighted assets, and must stress-test its [balance sheet](/balance-sheet/) against severe macroeconomic scenarios to ensure it could survive a downturn. These requirements constrain how much the bank can return to shareholders relative to earnings.
+Like all large banks, First Citizens BancShares operates under capital requirements set by the Federal Reserve. The bank must hold a minimum ratio of capital (equity) to [risk-weighted assets](/risk-weighted-assets/), and must stress-test its [balance sheet](/balance-sheet/) against severe macroeconomic scenarios to ensure it could survive a downturn. These requirements constrain how much the bank can return to shareholders relative to earnings.
 
 The company has historically returned capital through both a [dividend](/dividend/) and [share buybacks](/share-buyback/), though the size and pacing of both depend on earnings and regulatory constraints. In stress periods or downturns, banks cut buybacks immediately to preserve capital; dividends tend to be stickier. For long-term holders, the dividend represents a baseline return; capital appreciation depends on the bank's ability to grow earnings and return to favor with investors.
 

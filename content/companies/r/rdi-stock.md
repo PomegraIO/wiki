@@ -59,7 +59,7 @@ The company's debt load remains elevated relative to operating earnings, a legac
 
 ## International exposure and foreign exchange
 
-Reading operates outside the United States, primarily in Australia and New Zealand. This creates foreign exchange exposure: earnings in Australian and New Zealand dollars must be converted to [US dollars](/us-dollar/) for consolidated reporting, and a weaker foreign currency reduces reported profits even if local operations are steady. Currency can swing meaningfully over periods of years, which adds a layer of uncertainty to earnings forecasts independent of theater operations.
+Reading operates outside the United States, primarily in Australia and New Zealand. This creates foreign exchange exposure: earnings in Australian and [New Zealand dollars](/new-zealand-dollar/) must be converted to [US dollars](/us-dollar/) for consolidated reporting, and a weaker foreign currency reduces reported profits even if local operations are steady. Currency can swing meaningfully over periods of years, which adds a layer of uncertainty to earnings forecasts independent of theater operations.
 
 International expansion is also constrained by the small population bases of Australia and New Zealand relative to the US. Theater circuit growth in those markets is limited by how many screens the market can support, and many of the best locations are already occupied. International operations have become more of a stable, lower-growth income stream than a growth engine.
 

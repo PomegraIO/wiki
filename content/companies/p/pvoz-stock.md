@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Park View OZ REIT Inc ([NASDAQ](/nasdaq/): PVOZ) is a publicly traded [real estate investment trust](/real-estate-investment-trust/) designed to capitalize on the Opportunity Zone tax incentive program established under the Tax Cuts and [Jobs Act](/jobs-act/) of 2017. The fund invests in residential multifamily properties located in designated qualified opportunity zones across the United States, with a strategy to benefit from both property appreciation and the favorable tax treatment extended to investors who hold opportunity zone investments for specified periods.
+Park View OZ REIT Inc ([NASDAQ](/nasdaq/): PVOZ) is a publicly traded [real estate investment trust](/real-estate-investment-trust/) designed to capitalize on the Opportunity Zone tax incentive program established under the Tax Cuts and [Jobs Act](/jobs-act/) of 2017. The fund invests in residential multifamily properties located in designated qualified opportunity zones across the United States, with a strategy to benefit from both property appreciation and the favorable tax treatment extended to investors who hold [opportunity zone investments](/opportunity-zone-real-estate/) for specified periods.
 
 ## Origins and the opportunity zone landscape
 
@@ -35,7 +35,7 @@ By 2024, the fund showed dramatic improvement in results. Revenue grew approxima
 
 ## Cyclicality and the opportunity zone wager
 
-The underlying thesis of opportunity zone investing assumes that distressed areas will recover and that the ten-year hold period will witness property appreciation. This assumption is sound at the macro level—economically depressed regions often do revitalize over decades—but at the individual property or fund level, execution risk is substantial. If a particular region fails to attract employment or business investment, properties may stagnate. If broader recessions occur, the apartment market faces elevated vacancy and rent pressure, eroding both current income and future exit value.
+The underlying thesis of opportunity zone investing assumes that distressed areas will recover and that the ten-year hold period will witness property appreciation. This assumption is sound at the macro level—economically depressed regions often do revitalize over decades—but at the individual property or fund level, [execution risk](/execution-risk/) is substantial. If a particular region fails to attract employment or business investment, properties may stagnate. If broader recessions occur, the apartment market faces elevated vacancy and rent pressure, eroding both current income and future exit value.
 
 Park View's portfolio of multifamily properties is sensitive to [residential real estate](/residential-real-estate/) cycles. A recession that drives high unemployment typically forces rent concessions and vacancy increases, compressing NOI ([net operating income](/net-operating-income/)) and property values. Conversely, periods of strong employment and household formation drive rent growth and appreciation. The fund's legal hold period is ten years, but in practice, investors may decide to exit earlier or later depending on market conditions and personal tax circumstances.
 

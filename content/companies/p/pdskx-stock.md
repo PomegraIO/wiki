@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Principal Real Asset Fund is a diversified, closed-end [mutual fund](/mutual-fund/) that invests in physical assets and the companies that own or produce them. The fund sits in the supply chain as a capital allocator, channeling investor money upstream into mines, timberlands, farmland, and infrastructure — the foundations of economic production. The fund does not mine ore or grow timber itself; it owns stakes in the companies and partnerships that do, collecting returns in the form of commodity sales, rental payments, and harvest proceeds flowing back to equity holders.
+Principal [Real Asset Fund](/real-asset-fund/) is a diversified, closed-end [mutual fund](/mutual-fund/) that invests in physical assets and the companies that own or produce them. The fund sits in the supply chain as a capital allocator, channeling investor money upstream into mines, timberlands, farmland, and infrastructure — the foundations of economic production. The fund does not mine ore or grow timber itself; it owns stakes in the companies and partnerships that do, collecting returns in the form of commodity sales, rental payments, and harvest proceeds flowing back to equity holders.
 
 > "Real assets are claims on actual things—not promises on paper, but productive capacity you can point to and measure."
 
@@ -32,15 +32,15 @@ The fund's core thesis is that real assets offer [inflation](/inflation/) protec
 
 ## What "real assets" means in this context
 
-The fund targets a broad category: anything with physical utility and a claim on actual production. This includes traditional commodities (oil, [natural gas](/natural-gas/), metals); extractive companies (mining firms, timber REITs); agricultural land and timber; infrastructure (pipelines, utilities, toll roads); and [real estate investment trusts](/real-estate-investment-trust/). The common thread is that these assets generate economic returns by producing or controlling something tangible that society needs or values.
+The fund targets a broad category: anything with physical utility and a claim on actual production. This includes traditional commodities (oil, [natural gas](/natural-gas/), metals); extractive companies (mining firms, [timber REITs](/timber-reit/)); agricultural land and timber; infrastructure (pipelines, utilities, toll roads); and [real estate investment trusts](/real-estate-investment-trust/). The common thread is that these assets generate economic returns by producing or controlling something tangible that society needs or values.
 
 This is distinct from most stock mutual funds, which own companies in every sector — software, retail, finance, pharmaceuticals. Those companies are ultimately valuable because they produce goods and services, but the return chain is indirect. A real-assets fund aims to own the underlying productive assets more directly.
 
 ## How the fund invests
 
-Principal Real Asset Fund allocates capital both directly and indirectly. Direct holdings are rare — the fund cannot realistically mine [iron ore](/iron-ore/) — but it may own land or mineral rights. Far more common is indirect ownership through equity stakes in publicly traded companies (mining conglomerates such as Glencore, BHP Group, Newmont; timber REITs; agricultural real estate companies) and through interests in private investment funds or partnerships that specialise in real assets (farmland funds, private infrastructure funds, commodity partnerships).
+Principal Real Asset Fund allocates capital both directly and indirectly. Direct holdings are rare — the fund cannot realistically mine [iron ore](/iron-ore/) — but it may own land or mineral rights. Far more common is indirect ownership through equity stakes in publicly traded companies (mining conglomerates such as Glencore, BHP Group, Newmont; timber REITs; agricultural real estate companies) and through interests in private investment funds or partnerships that specialise in real assets (farmland funds, private [infrastructure funds](/pe-infrastructure-fund/), commodity partnerships).
 
-The allocation shifts with opportunity and market conditions. A 2024 portfolio snapshot shows significant weights in traditional mining, energy infrastructure, utilities, and timber. The fund may also hold cash or other positions. The fund's advisor makes tactical shifts based on [relative valuations](/relative-valuation/) and economic outlook — for instance, increasing infrastructure exposure if inflation expectations rise, or reducing energy exposure if fossil-fuel regulation tightens.
+The allocation shifts with opportunity and market conditions. A 2024 portfolio snapshot shows significant weights in traditional mining, energy infrastructure, utilities, and timber. The fund may also hold cash or other positions. The fund's advisor makes tactical shifts based on [relative valuations](/relative-valuation/) and economic outlook — for instance, increasing infrastructure exposure if [inflation expectations](/inflation-expectations/) rise, or reducing energy exposure if fossil-fuel regulation tightens.
 
 ## Interval fund structure: liquidity on a schedule
 
@@ -58,7 +58,7 @@ This matters for the investor's vantage point. A pension fund or insurance compa
 
 The fund's returns flow from the companies and assets it holds. Mining companies profit when metal prices rise (driven by demand for construction, electronics, batteries); timber companies profit when lumber prices rise and harvests sell; utilities and infrastructure generate steady cash flows from regulated rate bases or contracted tariffs. Agricultural land generates rents from farmers or appreciates if demand for food or biomass feedstock strengthens.
 
-None of these returns are guaranteed. Commodity prices are volatile. Mining companies face [operational risks](/operational-risk/) (mine collapses, [environmental liability](/environmental-liability/), commodity-price crashes). Timber harvests are subject to weather and disease. Infrastructure investments face regulatory and political risk. Agricultural land can suffer from drought or shifts in crop demand.
+None of these returns are guaranteed. Commodity prices are volatile. Mining companies face [operational risks](/operational-risk/) (mine collapses, [environmental liability](/environmental-liability/), commodity-price crashes). Timber harvests are subject to weather and disease. Infrastructure investments face regulatory and [political risk](/political-risk/). Agricultural land can suffer from drought or shifts in crop demand.
 
 The fund's diversification across these categories is meant to smooth returns: when metal prices fall, timber may be stable; when agriculture faces headwinds, utilities may perform well.
 

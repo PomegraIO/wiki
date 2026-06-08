@@ -43,7 +43,7 @@ The capital-allocation question for Thomson Reuters is whether to grow organical
 
 Thomson Reuters faces headwinds from several directions. First, customer budgets for professional services are under pressure as firms modernize and consolidate tools; that forces Thomson Reuters to demonstrate strong ROI and to compete aggressively on pricing. Second, the market for legal and financial data is fragmenting as new entrants—some using artificial intelligence and newer data sources—challenge the incumbent. Third, regulation around data privacy and [algorithmic trading](/algorithmic-trading/) adds compliance costs and limits what the company can do with its data assets. Finally, the macroeconomic cycle matters: when financial-services firms lay off staff or reduce deal activity during a downturn, their spending on Thomson Reuters subscriptions often follows.
 
-The company is also in transition. It has been modernizing its legacy software platforms—case systems that run on infrastructure built decades ago—to be cloud-native and easier to use. This is necessary to compete, but it is capital-heavy and creates execution risk. If any major platform is poorly migrated or perceived as inferior to the legacy version, customer churn could accelerate.
+The company is also in transition. It has been modernizing its legacy software platforms—case systems that run on infrastructure built decades ago—to be cloud-native and easier to use. This is necessary to compete, but it is capital-heavy and creates [execution risk](/execution-risk/). If any major platform is poorly migrated or perceived as inferior to the legacy version, customer churn could accelerate.
 
 ## How to research Thomson Reuters
 

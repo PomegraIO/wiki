@@ -59,5 +59,5 @@ DORIAN competes with hundreds of other shipping companies, including large, dive
 ### Wider context
 - [/stock/](/stock/) — how shipping companies are valued
 - [/free-cash-flow/](/free-cash-flow/) — cash generation in cyclical industries
-- [/enterprise-value/](/enterprise-value/) — asset-based valuation in shipping
+- [/enterprise-value/](/enterprise-value/) — [asset-based valuation](/asset-based-valuation/) in shipping
 </div>

@@ -34,7 +34,7 @@ The timeline also affects deal quality. A merger announced three months before t
 
 If management finds a target and negotiates terms, a proxy is filed. It contains the target's historical financials, management's projections for the combined company, deal terms, and proposed post-merger governance. Shareholders vote. Those who dislike the deal redeem at trust value. Those who remain own a piece of the newly public company.
 
-The public company that emerges is a real company with real execution risk. Projections are guesses. Management teams sometimes disappoint. Markets reprrice newly public companies based on first results, competitive pressure, and changes in investor sentiment. SPAC investors are effectively buying a newly public company they could not directly IPO because of regulatory or market friction — which is the whole point, but also means there is no second chance to price the IPO "right" the way traditional offerings get.
+The public company that emerges is a real company with real [execution risk](/execution-risk/). Projections are guesses. Management teams sometimes disappoint. Markets reprrice newly public companies based on first results, competitive pressure, and changes in investor sentiment. SPAC investors are effectively buying a newly public company they could not directly IPO because of regulatory or market friction — which is the whole point, but also means there is no second chance to price the IPO "right" the way traditional offerings get.
 
 ## Why Silver Pegasus exists
 
@@ -56,6 +56,6 @@ Are redemption rates high? If many shareholders have already redeemed, the effec
 
 ## The research path
 
-Silver Pegasus filings are in the SEC database (CIK 0002028735). The initial prospectus describes the raise and the team. Subsequent 10-K filings show any material events — large shareholder redemptions, management changes, or announced acquisition searches. Once a target is identified, the proxy statement is the critical document. It spells out deal terms, valuation, financial projections, and post-merger ownership.
+Silver Pegasus filings are in the SEC database (CIK 0002028735). The initial prospectus describes the raise and the team. Subsequent 10-K filings show any material events — large shareholder redemptions, management changes, or announced acquisition searches. Once a target is identified, the [proxy statement](/proxy-statement/) is the critical document. It spells out deal terms, valuation, financial projections, and post-merger ownership.
 
 For the warrant holder or share holder, monitoring the company through the acquisition search and then evaluating the proposed target against comparable public companies is the essential work. SPAC investing is fundamentally a bet on the management team's judgment and the quality of the target they negotiate.

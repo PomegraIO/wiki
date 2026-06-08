@@ -43,7 +43,7 @@ Alternatively, if BGL operates its own refinery, the operational complexity mult
 
 ## Compliance and Conflict Minerals
 
-BGL operates in a regulated environment. The [Dodd-Frank Act](/dodd-frank-act/), the UK Modern Slavery Act, and other regulations require that precious-metals companies know their supply chain. If gold originates from conflict zones or involves child labor, BGL cannot sell it in many markets. This means BGL must conduct due diligence on suppliers, document the origin of each lot of gold, and maintain records auditable by regulators and customers.
+BGL operates in a regulated environment. The [Dodd-Frank Act](/dodd-frank-act/), the UK Modern Slavery Act, and other regulations require that precious-metals companies know their supply chain. If gold originates from conflict zones or involves child labor, BGL cannot sell it in many markets. This means BGL must conduct [due diligence](/due-diligence/) on suppliers, document the origin of each lot of gold, and maintain records auditable by regulators and customers.
 
 Compliance is operationally intensive. The company must train staff, implement tracking systems, and conduct regular audits. A lapse in compliance can result in customers refusing to buy, regulators issuing fines, and reputational damage. BGL must embed compliance into every operation—from the mine to the refinery to the sales desk.
 

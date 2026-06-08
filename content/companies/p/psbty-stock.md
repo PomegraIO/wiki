@@ -34,7 +34,7 @@ Geographic spread is another form of defensibility. A network of 300+ stores acr
 
 Capital-intensive retail businesses are only attractive if they generate strong returns on invested capital. Sumber Alfaria must continuously open new stores to grow—organic expansion of the same store base yields modest returns given thin margins. Each new store represents capital deployed; the company must select locations carefully (low foot traffic kills returns on the investment) and operate efficiently to earn back the capital within a reasonable timeframe.
 
-[Interest rates](/interest-rate/) affect the hurdle rate. When rates are high, the cost of financing store expansion rises, making only the highest-return locations economically viable. When rates are low, more marginal locations become acceptable. Rising costs (labor, freight, rent) compress margins; [inflation](/inflation/) erodes the real return on past investments unless pricing can keep pace. Indonesian inflation and currency fluctuation against hard currencies (which affects import costs) create headwinds that mature retailers in developed economies do not face as acutely.
+[Interest rates](/interest-rate/) affect the [hurdle rate](/hurdle-rate/). When rates are high, the cost of financing store expansion rises, making only the highest-return locations economically viable. When rates are low, more marginal locations become acceptable. Rising costs (labor, freight, rent) compress margins; [inflation](/inflation/) erodes the real return on past investments unless pricing can keep pace. Indonesian inflation and currency fluctuation against hard currencies (which affects import costs) create headwinds that mature retailers in developed economies do not face as acutely.
 
 ## The working capital cycle
 

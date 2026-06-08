@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ONESPAWORLD runs spas and wellness programs inside cruise ships and at resort destinations. You board a cruise, book a massage or facial in the ship's spa, and that transaction flows through ONESPAWORLD. The company contracts with the cruise operators and resorts to staff, manage, and profit from the wellness side of the vacation experience. It is a pure-play bet on travel, leisure spending, and the growth of the wellness market—especially the habit of travelers adding spa services to their trips.
+ONESPAWORLD runs spas and wellness programs inside cruise ships and at resort destinations. You board a cruise, book a massage or facial in the ship's spa, and that transaction flows through ONESPAWORLD. The company contracts with the cruise operators and resorts to staff, manage, and profit from the wellness side of the vacation experience. It is a pure-play bet on [travel, leisure](/tnl-stock/) spending, and the growth of the wellness market—especially the habit of travelers adding spa services to their trips.
 
 <aside class="wiki-infobox">
 <table>

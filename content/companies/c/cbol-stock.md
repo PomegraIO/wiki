@@ -38,7 +38,7 @@ The practical consequence is that an investor's average outcome over a year will
 
 ## Full downside protection—a real difference
 
-Unlike CBOJ and CBOO, which protect against only 10 percent of downside loss, CBOL offers 100 percent downside protection. This means the put options in each quarterly bucket are set at the money—if bitcoin falls 50 percent in a three-month period, that quarter's bucket is protected against all of it. The trade-off is that the cap on upside gains is tighter, typically in the 8–10 percent quarterly range rather than the annual caps Calamos offers elsewhere. Over a year, a 10 percent quarterly cap repeats four times, creating a cumulative upside ceiling of roughly 40 percent before expenses, which is generous compared to many structured products but still a meaningful cap.
+Unlike CBOJ and CBOO, which protect against only 10 percent of downside loss, CBOL offers 100 percent downside protection. This means the put options in each quarterly bucket are set at the money—if bitcoin falls 50 percent in a three-month period, that quarter's bucket is protected against all of it. The trade-off is that the cap on upside gains is tighter, typically in the 8–10 percent quarterly range rather than the annual caps Calamos offers elsewhere. Over a year, a 10 percent quarterly cap repeats four times, creating a cumulative upside ceiling of roughly 40 percent before expenses, which is generous compared to many [structured products](/structured-product/) but still a meaningful cap.
 
 ## Calamos's investment rationale
 

@@ -17,7 +17,7 @@ keywords: ["refrigeration", "industrial cooling", "food processing", "cold chain
 
 ## Who Buys Refrigeration Systems
 
-A food processor operating a large freezing facility or a cold storage warehouse provider moving thousands of tons through their docks each month faces a cascade of decisions about refrigeration. Do they buy a system designed for maximum throughput or for lowest energy cost? Should they retrofit an aging system or install new? Which supplier can they trust to keep their facility running 24/7 without breakdown? Kelso Technologies addresses these questions by manufacturing compressors, condensers, evaporators, and complete refrigeration units designed for industrial-scale food handling. Its customers are not end consumers buying household freezers—they are industrial operators whose revenue depends on reliably moving perishables at scale.
+A food processor operating a large freezing facility or a [cold storage](/cold-storage-crypto/) warehouse provider moving thousands of tons through their docks each month faces a cascade of decisions about refrigeration. Do they buy a system designed for maximum throughput or for lowest energy cost? Should they retrofit an aging system or install new? Which supplier can they trust to keep their facility running 24/7 without breakdown? Kelso Technologies addresses these questions by manufacturing compressors, condensers, evaporators, and complete refrigeration units designed for industrial-scale food handling. Its customers are not end consumers buying household freezers—they are industrial operators whose revenue depends on reliably moving perishables at scale.
 
 ## The North American Food-Cold-Chain Dependency
 

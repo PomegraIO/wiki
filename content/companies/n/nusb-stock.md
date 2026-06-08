@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Nuveen Ultra Short [Income ETF](/income-etf/)**, trading under ticker NUSB, is an exchange-traded fund that holds a diversified portfolio of short-dated debt securities — [bonds](/bond/), [floating-rate notes](/floating-rate-note/), and money-market instruments with maturities typically under one year. It seeks to deliver a steady income stream with minimal exposure to rising [interest rates](/interest-rate/), a characteristic that shapes its behaviour across the full credit cycle.*
+*The **Nuveen Ultra Short [Income ETF](/income-etf/)**, trading under ticker NUSB, is an exchange-traded fund that holds a diversified portfolio of short-dated debt securities — [bonds](/bond/), [floating-rate notes](/floating-rate-note/), and money-market instruments with maturities typically under one year. It seeks to deliver a steady income stream with minimal exposure to rising [interest rates](/interest-rate/), a characteristic that shapes its behaviour across the full [credit cycle](/credit-cycle/).*
 
 > "The core appeal of an ultra-short fund like NUSB is that it can pay meaningful income while barely moving when rates shift."
 

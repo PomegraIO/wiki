@@ -12,7 +12,7 @@ handwritten: true
 
 ## What does HCI Group actually do?
 
-HCI Group operates as a holding company for insurance subsidiaries primarily engaged in property and casualty insurance, with a particular focus on [homeowners insurance](/homeowners-insurance/) in Florida. The parent company does not sell insurance itself; instead, it owns and oversees operating subsidiaries including Homeowners Choice Property & Casualty Insurance Company, which is the dominant profit engine. The group also operates reinsurance programs, real estate holdings, information technology businesses, and insurance products outside homeowners coverage such as flood insurance and wind-only policies. The HCIIP preferred shares represent the company's 7% Series A cumulative [redeemable preferred stock](/redeemable-preferred/), a fixed-income instrument that trades on the [NASDAQ](/nasdaq/) Capital Market.
+HCI Group operates as a holding company for insurance subsidiaries primarily engaged in property and casualty insurance, with a particular focus on [homeowners insurance](/homeowners-insurance/) in Florida. The parent company does not sell insurance itself; instead, it owns and oversees operating subsidiaries including Homeowners Choice Property & Casualty Insurance Company, which is the dominant profit engine. The group also operates reinsurance programs, real estate holdings, information technology businesses, and insurance products outside homeowners coverage such as [flood insurance](/flood-insurance-personal/) and wind-only policies. The HCIIP preferred shares represent the company's 7% Series A cumulative [redeemable preferred stock](/redeemable-preferred/), a fixed-income instrument that trades on the [NASDAQ](/nasdaq/) Capital Market.
 
 ## Where does HCI's competitive advantage lie?
 
@@ -38,7 +38,7 @@ The most obvious risk is hurricane loss frequency and severity. A year with mult
 
 A second risk is the regulatory environment. Florida's insurance regulator, the Office of Insurance Regulation, controls rate increases and policy form language. Rate restrictions that prevent premiums from rising with increasing hurricane frequency or construction costs can leave insurers underwater; if HCI is unable to raise rates fast enough to cover rising reinsurance costs and loss experience, the business becomes unprofitable even without major storms. Politics around property insurance in Florida frequently creates tension between carriers and regulators over adequate rates.
 
-A third risk is competition and market capacity. As conditions stabilize or as markets perceive less hurricane risk, competitors re-enter the Florida market, capacity increases, and prices fall. Conversely, if major hurricanes strike, carriers leave or contract, and the market becomes starved for capacity — but that capacity scarcity does not always translate to price increases if regulators resist them. HCI's opportunity set is thus a function of broader market cycles.
+A third risk is competition and market capacity. As conditions stabilize or as markets perceive less hurricane risk, competitors re-enter the Florida market, capacity increases, and prices fall. Conversely, if major hurricanes strike, carriers leave or contract, and the market becomes starved for capacity — but that capacity scarcity does not always translate to price increases if regulators resist them. HCI's opportunity set is thus a function of broader [market cycles](/market-cycle/).
 
 ## How would an investor research HCI Group?
 

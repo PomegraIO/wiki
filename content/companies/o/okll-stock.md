@@ -59,7 +59,7 @@ OKLL charges a stated [expense ratio](/expense-ratio/) for administration and ma
 
 ## Oklo Inc. and the context for leverage
 
-Oklo is a advanced nuclear technology company focused on compact reactor designs and spent-fuel recycling. It is a young, pre-revenue or early-revenue business in a capital-intensive, heavily regulated industry with long development timelines and substantial execution risk. The stock is volatile because the company's path to profitability is uncertain and regulatory outcomes are unpredictable. An investor in OKLL is not placing a long-term bet on whether Oklo's technology will succeed or whether the company will eventually become profitable. Instead, they are making a short-term tactical bet that Oklo stock will move sharply in a specific direction in the next few days or weeks.
+Oklo is a advanced nuclear technology company focused on compact reactor designs and spent-fuel recycling. It is a young, pre-revenue or early-revenue business in a capital-intensive, heavily regulated industry with long development timelines and substantial [execution risk](/execution-risk/). The stock is volatile because the company's path to profitability is uncertain and regulatory outcomes are unpredictable. An investor in OKLL is not placing a long-term bet on whether Oklo's technology will succeed or whether the company will eventually become profitable. Instead, they are making a short-term tactical bet that Oklo stock will move sharply in a specific direction in the next few days or weeks.
 
 ## When OKLL makes sense
 

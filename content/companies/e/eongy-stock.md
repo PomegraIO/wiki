@@ -45,7 +45,7 @@ E.ON's profitability hinges on two things: the regulatory framework that sets th
 
 This regulated structure is a double-edged sword. In bad economic times, when a typical company's profits might collapse, E.ON's distribution business continues to earn its allowed return. But in good times, E.ON cannot pocket the upside the way a competitive business can. It is a trade: stability for limited upside.
 
-The energy transition adds complexity. E.ON must upgrade its networks to support distributed renewable generation — solar panels and wind turbines that feed power back into the local grid — and to handle new demand patterns as heating and transportation electrify. These upgrades require investment and can be approved by regulators as "growth capex" that supports returns, but they also introduce execution risk and regulatory uncertainty: will the regulator approve the investment timeline and cost? Will new policies accelerate or slow the pace of transition?
+The energy transition adds complexity. E.ON must upgrade its networks to support distributed renewable generation — solar panels and wind turbines that feed power back into the local grid — and to handle new demand patterns as heating and transportation electrify. These upgrades require investment and can be approved by regulators as "growth capex" that supports returns, but they also introduce [execution risk](/execution-risk/) and regulatory uncertainty: will the regulator approve the investment timeline and cost? Will new policies accelerate or slow the pace of transition?
 
 ## Natural gas and stranded assets
 

@@ -53,7 +53,7 @@ The competitive environment is intensely crowded. [Berkshire Hathaway](/brk-b-st
 
 ## How to understand CNA's economics
 
-An investor evaluating CNA should focus on three metrics. The combined ratio shows whether the company is making an underwriting profit or loss; a ratio under 100 means premiums exceeded claims and expenses. The [return on equity](/return-on-equity/) reveals how efficiently the company deploys shareholder capital to generate earnings. The book value per share, found in the company's [annual report](/10-k/) and quarterly filings, tracks the destruction or creation of shareholder value over time.
+An investor evaluating CNA should focus on three metrics. The combined ratio shows whether the company is making an underwriting profit or loss; a ratio under 100 means premiums exceeded claims and expenses. The [return on equity](/return-on-equity/) reveals how efficiently the company deploys shareholder capital to generate earnings. The [book value per share](/book-value-per-share/), found in the company's [annual report](/10-k/) and quarterly filings, tracks the destruction or creation of shareholder value over time.
 
 The annual 10-K filing (SEC CIK 0000021175) is the place to start. It breaks down premium income by business segment, describes the major risks the company faces, and discloses reserve adequacy and investment holdings. The quarterly earnings calls offer color on underwriting trends, competitive pressures, and management's confidence in reserves set aside for old claims not yet settled. Watch for commentary on pricing trends — are commercial lines getting more competitive or are rates holding? — and for any indications that the company is loosening underwriting standards. Those shifts often precede trouble.
 

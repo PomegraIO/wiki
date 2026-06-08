@@ -72,7 +72,7 @@ The IPO provided capital to the company, though the modest raise suggests either
 
 ## Understanding the Company
 
-For investors or analysts, the [10-K](/wiki/10-k/) filing will reveal segment profitability, customer concentration metrics, and cash flow. Key metrics to track include project revenue per employee (a benchmark of productivity in service businesses), gross margin by service line (indicating which technologies generate premium pricing), and customer retention and repeat engagement rates.
+For investors or analysts, the [10-K](/wiki/10-k/) filing will reveal segment profitability, customer concentration metrics, and cash flow. Key metrics to track include project [revenue per employee](/revenue-per-employee/) (a benchmark of productivity in service businesses), gross margin by service line (indicating which technologies generate premium pricing), and customer retention and repeat engagement rates.
 
 The company's distinct identity lies in its combination of heritage production capability with emerging virtual and immersive technology. It is not a software company in the traditional sense—it does not license or distribute Quantum Human or Quantum Fit globally. It is not a large creative holding company with global scale. It is a specialized, technology-forward production shop serving premium clients in a specific geography.
 

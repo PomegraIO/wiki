@@ -23,7 +23,7 @@ From a competitive standpoint, AvalonBay ranks alongside rivals like Equity Resi
 Investors evaluating AVB should monitor:
 - **Leasing rates and rent growth**: reported quarterly, driven by local employment, supply, and household formation
 - **Same-community growth**: year-over-year change in [net operating income](/net-operating-income/) from properties owned in both periods, stripping out [acquisitions](/acquisition/) and dispositions
-- **Funds from operations (FFO) and adjusted FFO**: REIT-specific metrics that reflect operating performance before [depreciation](/depreciation/) and non-recurring items
+- **[Funds from operations](/funds-from-operations/) (FFO) and adjusted FFO**: REIT-specific metrics that reflect operating performance before [depreciation](/depreciation/) and non-recurring items
 - **Development pipeline**: projects underway, construction costs, anticipated yield on completion
 - **Debt and [leverage**: ratio](/leverage-ratio-forex/) of [net debt](/net-debt/) to adjusted [EBITDA](/ebitda/), [refinancing risk](/refinancing-risk/), fixed-rate exposure
 - **Dividend sustainability**: [payout ratio](/payout-ratio/) and coverage, management's capital allocation philosophy

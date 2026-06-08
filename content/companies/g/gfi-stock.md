@@ -51,7 +51,7 @@ The company carries material debt, typical for a major miner. Debt levels fluctu
 
 ## Regulatory and social risks
 
-Gold Fields operates in jurisdictions with varying governance maturity and political stability. South African mines face labor-intensive operations, powerful unions, electricity supply constraints (loadshedding), and periodic strikes. West African operations navigate evolving regulatory frameworks, political risk, and security concerns in some regions. Australia offers the most predictable regime but is also the most expensive to operate. Peru and Chile expose the company to mining-hostile political movements and indigenous land-rights disputes.
+Gold Fields operates in jurisdictions with varying governance maturity and political stability. South African mines face labor-intensive operations, powerful unions, electricity supply constraints (loadshedding), and periodic strikes. West African operations navigate evolving regulatory frameworks, [political risk](/political-risk/), and security concerns in some regions. Australia offers the most predictable regime but is also the most expensive to operate. Peru and Chile expose the company to mining-hostile political movements and indigenous land-rights disputes.
 
 Environmental liabilities are embedded in the legacy of century-old mining. Tailings management, acid mine drainage, habitat restoration, and water stewardship are ongoing compliance costs and reputational flashpoints. Stricter ESG standards globally and local environmental regulation increasingly influence permitting timelines and operational costs.
 

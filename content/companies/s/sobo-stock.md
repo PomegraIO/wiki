@@ -58,7 +58,7 @@ The most significant long-term threat to South Bow is the energy transition. Dee
 
 ## How to research South Bow
 
-The 10-K (SEC CIK 0002019061) breaks revenue by business segment (equipment vs. services) and by geography. Watch for: the backlog of equipment orders (a leading indicator of future revenue), the status of major offshore projects by region, crew utilization and vessel deployment rates, and management commentary on operator spending plans. Quarterly calls reveal demand trends, pricing commentary, and any project delays or cost overruns.
+The 10-K (SEC CIK 0002019061) breaks revenue by business segment (equipment vs. services) and by geography. Watch for: the backlog of equipment orders (a [leading indicator](/leading-indicator/) of future revenue), the status of major offshore projects by region, crew utilization and vessel deployment rates, and management commentary on operator spending plans. Quarterly calls reveal demand trends, pricing commentary, and any project delays or cost overruns.
 
 Key metrics: backlog-to-quarterly-revenue shows near-term visibility. Gross margin by segment indicates pricing power and cost control. [Return on invested capital](/return-on-invested-capital/) measures deployment efficiency. Leverage and liquidity are critical in this industry, because a downturn can quickly erode cash flow and the company may need to refinance debt at unfavorable terms.
 

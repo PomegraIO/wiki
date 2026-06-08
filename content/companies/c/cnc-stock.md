@@ -57,7 +57,7 @@ Centene is also a dividend-paying stock, returning capital to shareholders. The 
 
 ## How would a researcher approach this company?
 
-Begin with the company's annual 10-K (SEC CIK 0001071739), which details membership by state and program, payment rates, medical-cost ratios, and the risk landscape. The 10-K describes major state contracts and whether Centene won, lost, or renegotiated coverage in recent procurement cycles — a leading indicator of future revenue.
+Begin with the company's annual 10-K (SEC CIK 0001071739), which details membership by state and program, payment rates, medical-cost ratios, and the risk landscape. The 10-K describes major state contracts and whether Centene won, lost, or renegotiated coverage in recent procurement cycles — a [leading indicator](/leading-indicator/) of future revenue.
 
 Quarterly earnings calls reveal membership trends, medical-cost trends, and management's outlook on rate changes and state budgets. Watch the medical-loss ratio — the percentage of revenue that goes to paying medical claims — because it indicates whether the company is managing costs effectively or whether pressure is building.
 

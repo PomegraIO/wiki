@@ -19,7 +19,7 @@ The CSI 500 comprises stocks ranked 301 to 800 on the Shanghai and Shenzhen exch
 
 ## Access mechanics and how they differ from the larger-cap fund
 
-ASHS operates under the same foreign-access framework as its larger cousin, but liquidity is thinner. The Shanghai-Hong Kong and Shenzhen-Hong Kong Stock Connect programs have caps on foreign ownership and daily trading limits. Smaller companies in the CSI 500 are more sensitive to these constraints; some days the Connect mechanism can fill up before certain stocks trade, creating gridlock. The fund tracks these developments and adjusts its replication method—sometimes holding A-shares directly, sometimes using derivatives—to stay as close to the index as possible. [Bid-ask spreads](/bid-ask-spread/) on ASHR tend to be tighter, but ASHS can experience wider spreads, especially during volatile periods when foreign investor appetite for Chinese small-caps wavers.
+ASHS operates under the same foreign-access framework as its larger cousin, but liquidity is thinner. The Shanghai-Hong Kong and Shenzhen-Hong Kong [Stock Connect programs](/stock-connect-programs/) have caps on foreign ownership and daily trading limits. Smaller companies in the CSI 500 are more sensitive to these constraints; some days the Connect mechanism can fill up before certain stocks trade, creating gridlock. The fund tracks these developments and adjusts its replication method—sometimes holding A-shares directly, sometimes using derivatives—to stay as close to the index as possible. [Bid-ask spreads](/bid-ask-spread/) on ASHR tend to be tighter, but ASHS can experience wider spreads, especially during volatile periods when foreign investor appetite for Chinese small-caps wavers.
 
 ## Cost structure and the trade-off with smaller size
 
@@ -27,7 +27,7 @@ ASHS carries a higher net [expense ratio](/expense-ratio/) than the CSI 300-trac
 
 ## The attractiveness and the pitfalls
 
-Small-cap Chinese companies are where growth often hides. A rising consumer brand, a regional tech innovator, or a manufacturing specialist expanding into new provinces can post revenue growth that dwarfs the 300's pace. Because these stocks are less followed by international analysts and less traded by foreign capital, there may be pockets of mispricing. That is the bull case. The bear case is that smaller companies face more execution risk, less transparency, weaker governance, and tighter margins. A supplier depends on a single large customer. A growth-stage tech firm lives or dies by managing cash burn. A regional bank's loan book is more concentrated and harder to scrutinize from abroad. Information asymmetry widens as you move down the cap spectrum, and the CSI 500 is where that begins to sting.
+Small-cap Chinese companies are where growth often hides. A rising consumer brand, a regional tech innovator, or a manufacturing specialist expanding into new provinces can post revenue growth that dwarfs the 300's pace. Because these stocks are less followed by international analysts and less traded by foreign capital, there may be pockets of mispricing. That is the bull case. The bear case is that smaller companies face more [execution risk](/execution-risk/), less transparency, weaker governance, and tighter margins. A supplier depends on a single large customer. A growth-stage tech firm lives or dies by managing cash burn. A regional bank's loan book is more concentrated and harder to scrutinize from abroad. Information asymmetry widens as you move down the cap spectrum, and the CSI 500 is where that begins to sting.
 
 ## Regulatory and political backdrop
 
@@ -35,7 +35,7 @@ Small-cap stocks are more sensitive to shifts in Chinese [monetary policy](/mone
 
 ## Currency and structural drift
 
-The yuan matters here too. Smaller companies often earn most revenue domestically and have less natural hedging against currency moves than multinationals. A strengthening yuan lifts reported returns for dollar-based investors, but a weakening renminbi can be painful. Over time, the composition of the CSI 500 shifts as companies grow in or out of the index; investors should expect gradual style drift as a natural consequence of tracking a small-cap index rather than a static list.
+The yuan matters here too. Smaller companies often earn most revenue domestically and have less [natural hedging](/natural-hedging/) against currency moves than multinationals. A strengthening yuan lifts reported returns for dollar-based investors, but a weakening renminbi can be painful. Over time, the composition of the CSI 500 shifts as companies grow in or out of the index; investors should expect gradual style drift as a natural consequence of tracking a small-cap index rather than a static list.
 
 ## How to stay informed
 

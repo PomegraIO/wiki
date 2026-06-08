@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-UUUG is a leveraged exchange-traded fund sponsored by Leverage Shares that targets two times the daily return of the Sprott Uranium ETF (UUUU). It uses derivatives — primarily swap agreements and futures — to achieve that leverage, resetting daily so that any [overnight gap](/overnight-gap/) translates to a fresh starting point for the next day's amplification. The fund is designed for tactical, short-term positioning in uranium exposure, not for buy-and-hold investing.
+UUUG is a leveraged exchange-traded fund sponsored by Leverage Shares that targets two times the daily return of the Sprott Uranium ETF (UUUU). It uses derivatives — primarily swap agreements and futures — to achieve that leverage, resetting daily so that any [overnight gap](/overnight-gap/) translates to a fresh starting point for the next day's amplification. The fund is designed for tactical, short-term positioning in uranium exposure, not for [buy-and-hold investing](/buy-and-hold/).
 
 ## The leverage mechanism and daily reset
 

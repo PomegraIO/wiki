@@ -50,4 +50,4 @@ The fund's prospectus and fact sheet explain the daily reset mechanism, the use 
 
 To understand American Express itself, read the company's annual 10-K filing (SEC CIK 0000004962). Pay attention to the card-services revenue segment, the bank's lending portfolio, and credit-card charge-off rates, all of which drive volatility in the stock. Analyst reports on American Express often discuss competitive positioning versus Visa and Mastercard and the state of consumer and corporate spending.
 
-Before trading AXPG, check American Express's recent price volatility, upcoming earnings dates, and any news in the financial or payments sector that might affect the stock. That due diligence is what separates competent tactical trading from reckless leverage.
+Before trading AXPG, check American Express's recent price volatility, upcoming earnings dates, and any news in the financial or payments sector that might affect the stock. That [due diligence](/due-diligence/) is what separates competent tactical trading from reckless leverage.

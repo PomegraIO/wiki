@@ -13,7 +13,7 @@ handwritten: true
 
 > "A regional bank's earnings follow the real estate cycle with a lag."
 
-Bank OZK is a regional commercial bank with roots in the American South and now operating across multiple states, but the defining feature is not geography—it is specialization. OZK has built a significant portion of its lending book around real estate, particularly construction loans and commercial mortgages. When real estate is booming, construction projects are financed, and OZK tends to perform well. When real estate stumbles, the bank's credit quality and profitability suffer. This makes OZK a cyclical play on the health of American real estate markets and [interest rates](/interest-rate/).
+Bank OZK is a regional commercial bank with roots in the American South and now operating across multiple states, but the defining feature is not geography—it is specialization. OZK has built a significant portion of its lending book around real estate, particularly [construction loans](/construction-loan/) and commercial mortgages. When real estate is booming, construction projects are financed, and OZK tends to perform well. When real estate stumbles, the bank's credit quality and profitability suffer. This makes OZK a cyclical play on the health of American real estate markets and [interest rates](/interest-rate/).
 
 ## The construction loan business
 
@@ -23,7 +23,7 @@ OZK built a business around this niche. The bank developed expertise in underwri
 
 ## The real estate cycle and credit quality
 
-OZK's fortunes are directly tied to the real estate cycle. In a building boom, the bank's construction portfolio grows, rates are paid reliably, and credit losses are low. In a downturn, projects are abandoned, builders struggle to service debt, and OZK faces elevated credit losses. The bank's profitability swings with the cycle, which is why regional banks focused on real estate lending are seen as economically cyclical rather than defensive.
+OZK's fortunes are directly tied to the [real estate cycle](/real-estate-cycle/). In a building boom, the bank's construction portfolio grows, rates are paid reliably, and credit losses are low. In a downturn, projects are abandoned, builders struggle to service debt, and OZK faces elevated credit losses. The bank's profitability swings with the cycle, which is why regional banks focused on real estate lending are seen as economically cyclical rather than defensive.
 
 Credit quality is the persistent risk. A construction or commercial mortgage that appears sound at origination can deteriorate rapidly if the underlying project or market softens. OZK's credit metrics—the nonperforming loan ratio, loan loss reserves, and charge-offs—are worth monitoring closely in any period of economic uncertainty.
 

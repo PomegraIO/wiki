@@ -55,7 +55,7 @@ The company is also vulnerable to reputational and political pressure from advoc
 
 ## Researching Sturm, Ruger
 
-Investors studying Ruger should review the annual 10-K filing (SEC CIK 0000095029), which details unit sales and revenue by product line, manufacturing costs, and the company's exposure to regulatory and reputational risk. The quarterly earnings calls provide color on demand trends, backlog, and any changes in dealer sentiment or retail environment.
+Investors studying Ruger should review the annual 10-K filing (SEC CIK 0000095029), which details unit sales and revenue by product line, manufacturing costs, and the company's exposure to regulatory and [reputational risk](/reputational-risk/). The quarterly earnings calls provide color on demand trends, backlog, and any changes in dealer sentiment or retail environment.
 
 Track unit sales volume by product line — this is a more reliable indicator of demand than revenue, because prices can fluctuate. Monitor gross margins, which reflect both pricing power and manufacturing efficiency. Watch for inventory levels; rising inventory in a weak demand environment signals that the company over-produced and may face margin pressure ahead.
 

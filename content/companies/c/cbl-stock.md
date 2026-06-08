@@ -14,7 +14,7 @@ CBL & Associates Properties is a [real estate investment trust](/real-estate-inv
 
 ## The Business: Regional Retail Property Owner
 
-CBL owns approximately 50 to 60 properties concentrated in secondary and tertiary U.S. markets. Its portfolio focuses on established regional shopping malls and open-air shopping centers anchored by department stores, national retailers, and local merchants. The company generates revenue primarily through base rents, percentage rents on sales above certain thresholds, and ancillary services such as parking, [management fees](/management-fee/), and tenant reimbursements for common area maintenance and property taxes.
+CBL owns approximately 50 to 60 properties concentrated in secondary and tertiary U.S. markets. Its portfolio focuses on established regional shopping malls and open-air shopping centers anchored by department stores, national retailers, and local merchants. The company generates revenue primarily through base rents, [percentage rents](/percentage-rent/) on sales above certain thresholds, and ancillary services such as parking, [management fees](/management-fee/), and tenant reimbursements for common area maintenance and property taxes.
 
 The geographic footprint spans predominantly the Southeast and Mid-Atlantic, with additional properties in the Midwest and Southwest. This regional focus creates both competitive advantages and vulnerabilities: CBL develops deep relationships with local communities and understands its tenant base intimately, but concentration in specific markets leaves the portfolio exposed to regional economic downturns.
 

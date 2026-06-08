@@ -35,7 +35,7 @@ Brookfield now operates through seven primary segments: **Asset Management**, **
 
 **Private Equity** targets both control and minority positions in corporate or operating assets, often with a strategic fit to Brookfield's real-asset expertise.
 
-A defining feature is the **perpetual capital model**—roughly $150+ billion of shareholders' equity and permanent debt funding that never requires redemption or deployment by a specified date. This allows Brookfield to buy countercyclically during stress, hold assets indefinitely, and pursue multi-decade value creation without the pressure to exit or recycle capital on a fund cycle. Competitors relying on time-bound funds cannot match this advantage.
+A defining feature is the **perpetual capital model**—roughly $150+ billion of [shareholders' equity](/shareholders-equity/) and permanent debt funding that never requires redemption or deployment by a specified date. This allows Brookfield to buy countercyclically during stress, hold assets indefinitely, and pursue multi-decade value creation without the pressure to exit or recycle capital on a fund cycle. Competitors relying on time-bound funds cannot match this advantage.
 
 ## Revenue and Earnings Dynamics
 

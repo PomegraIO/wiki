@@ -33,7 +33,7 @@ handwritten: true
 
 Foxx Development was formed to acquire and operate a consumer electronics business focused on serving the U.S. carrier channel. The company went public via merger with a SPAC in late September 2024, a decision that speaks to the challenges facing a hardware startup in the current era. A traditional IPO would have demanded higher scale, profitability, or at least a larger trailing revenue base. The SPAC route allowed Foxx to bypass that gatekeeping, raise public capital, and begin trading without needing to meet the typical listing standards of profitability or scale. It is a common playbook for hardware startups betting on rapid growth or accessing capital that private investors will not provide.
 
-The risk of going public so early is visibility into execution. Within months of listing, Foxx must report quarterly results, conduct earnings calls, and subject its strategy to public scrutiny. For a young manufacturing company with thin margins, execution risk is substantial. The benefit is capital and the ability to offer employee and investor equity as an incentive to build the business.
+The risk of going public so early is visibility into execution. Within months of listing, Foxx must report quarterly results, conduct earnings calls, and subject its strategy to public scrutiny. For a young manufacturing company with thin margins, [execution risk](/execution-risk/) is substantial. The benefit is capital and the ability to offer employee and investor equity as an incentive to build the business.
 
 ## The carrier model and its economics
 

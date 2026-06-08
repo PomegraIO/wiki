@@ -53,7 +53,7 @@ This stability allows MEDI Group to lever more heavily than a more cyclical busi
 
 MEDI Group has likely expanded through acquisitions of smaller medical practices, diagnostic clinics, or specialized providers. In a fragmented healthcare market, consolidation is a natural growth strategy. The company can acquire a family clinic or outpatient diagnostic center, integrate it into the MEDI Group management system, and realize synergies through procurement savings, shared back-office functions, and cross-referrals.
 
-These acquisitions are financed through a combination of cash (if available), debt (syndicated loans or seller financing), and equity. An acquisition that costs $50 million might be financed $10 million in cash, $20 million in debt, and $20 million in new shares. The sellers (if former sole proprietors) become shareholders, aligning their incentives with the combined company's success.
+These acquisitions are financed through a combination of cash (if available), debt (syndicated loans or [seller financing](/seller-financing/)), and equity. An acquisition that costs $50 million might be financed $10 million in cash, $20 million in debt, and $20 million in new shares. The sellers (if former sole proprietors) become shareholders, aligning their incentives with the combined company's success.
 
 ## Dividend Policy and Capital Returns
 

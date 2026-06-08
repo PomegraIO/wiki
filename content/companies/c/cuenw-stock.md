@@ -40,7 +40,7 @@ The company's growth depends on network effects and customer [acquisition](/acqu
 
 ## The structural risk: growth in volatile markets
 
-Cuentas' greatest vulnerability is concentration in emerging-market growth. Many of its core markets — Latin America in particular — have experienced periods of rapid regulatory change, currency instability, and macroeconomic stress. A sudden tightening of lending [regulation, a](/regulation-a/) ban on certain fee structures, or a currency crisis could impair profitability overnight. The company is also exposed to competitive pressure from larger fintech platforms entering the space and from traditional banks adapting their digital services to reach the same customers.
+Cuentas' greatest vulnerability is concentration in emerging-market growth. Many of its core markets — Latin America in particular — have experienced periods of rapid regulatory change, currency instability, and macroeconomic stress. A sudden tightening of lending [regulation, a](/regulation-a/) ban on certain fee structures, or a [currency crisis](/currency-crisis/) could impair profitability overnight. The company is also exposed to competitive pressure from larger fintech platforms entering the space and from traditional banks adapting their digital services to reach the same customers.
 
 The lending business adds [credit risk](/credit-risk/): a downturn in the economies where Cuentas operates could trigger defaults across its loan portfolio, particularly among small merchants whose revenues are closely tied to local economic activity. Unlike a large bank with a diversified global loan book, Cuentas' concentration in specific geographies and customer segments means a regional [recession](/recession/) could significantly impact results.
 

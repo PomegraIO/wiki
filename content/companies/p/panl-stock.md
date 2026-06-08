@@ -15,7 +15,7 @@ Pangaea Logistics is a shipping company that moves dry bulk cargo — grains, co
 
 ## How the shipping business works
 
-A dry bulk shipper operates on a simple principle: contract with customers (mining companies, grain traders, exporters) to move cargo and quote a price per ton or per voyage. When rates are high and supply of shipping is tight, margins are good. When rates collapse because global trade is weak or too many ships are chasing too little cargo, margins shrivel and losses loom. Spot rates — the price to move cargo immediately — swing wildly based on supply and demand for shipping capacity and the actual supply of commodities to move.
+A dry bulk shipper operates on a simple principle: contract with customers (mining companies, grain traders, exporters) to move cargo and quote a price per ton or per voyage. When rates are high and supply of shipping is tight, margins are good. When rates collapse because global trade is weak or too many ships are chasing too little cargo, margins shrivel and losses loom. [Spot rates](/spot-rate/) — the price to move cargo immediately — swing wildly based on supply and demand for shipping capacity and the actual supply of commodities to move.
 
 Most shippers, including Pangaea, use a mix of contracting approaches. Some cargo is moved under spot contracts where the shipper quotes a rate and the customer accepts or declines that moment. Some cargo is moved under time charters, where the shipper agrees to rent the vessel to a customer for a fixed period at a fixed rate. The latter provides stability; the former exposes the shipper to spot-market volatility. In a strong cycle, spot rates spike and unchartered vessels earn enormous daily rates; in a downturn, the same vessel may sit idle or move cargo at a loss.
 
@@ -55,7 +55,7 @@ The company pays [dividends](/dividend/) when cash generation supports it but cu
 
 ## How to research Pangaea
 
-The 10-K filing and quarterly 10-Q reports disclose the fleet composition, the number of vessels owned versus chartered, average daily shipping rates earned per vessel, daily operating costs, and terminal revenue. Watch the average spot rates quoted in the filings or in industry reporting; these are the leading indicator of pricing trends.
+The 10-K filing and quarterly 10-Q reports disclose the fleet composition, the number of vessels owned versus chartered, average daily shipping rates earned per vessel, daily operating costs, and terminal revenue. Watch the average spot rates quoted in the filings or in industry reporting; these are the [leading indicator](/leading-indicator/) of pricing trends.
 
 Track the number of vessels idle versus in productive use. An expanding fleet earning spot-market rates is a sign of strength; increasing idle time is a warning. Examine the [debt-to-equity ratio](/debt-to-equity-ratio/) and liquidity: shipping companies often carry debt, and a downturn can quickly erode equity value, tightening financial covenants.
 

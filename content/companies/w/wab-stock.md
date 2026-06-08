@@ -46,7 +46,7 @@ The GE merger also brought integration challenges and debt. Wabtec incurred subs
 
 Start with Wabtec's [10-K](/wiki/10-k/) annual report, filed with the SEC. The 10-K lays out the locomotive and freight car markets, customer concentration (identifying which railroads and transit agencies drive revenue), product backlogs, and segment profitability. Pay attention to the "Geographic" section to understand international exposure.
 
-Watch for signals on capital spending across the railroad industry. Many analysts track carload volumes and automotive shipments as leading indicators of freight demand; Wabtec's orders often follow a lag. Industry conferences (including the American Railroad Car Institute and Association of American Railroads events) showcase new technology and offer insight into fleet modernization plans.
+Watch for signals on capital spending across the railroad industry. Many analysts track carload volumes and automotive shipments as [leading indicators](/leading-indicator/) of freight demand; Wabtec's orders often follow a lag. Industry conferences (including the American Railroad Car Institute and Association of American Railroads events) showcase new technology and offer insight into fleet modernization plans.
 
 Management guidance on margins and [free cash flow](/free-cash-flow/) is critical. Wabtec is capital-intensive, and a spike in [interest rates](/interest-rate/) or a credit crunch can throttle rail sector investment. Conversely, government infrastructure spending—particularly on rail—can provide tailwinds.
 

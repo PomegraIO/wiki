@@ -61,7 +61,7 @@ The cost: developing and scaling new sustainable materials requires research and
 
 ## Competitive positioning and risks
 
-Amcor competes against other large global packaging manufacturers (Huhtamaki, Sealed Air, Trinseo, others) and against thousands of small regional suppliers. The competitive advantage is scale, geographic footprint, and customer relationships. But scale is only an advantage if the company can achieve economies that smaller competitors cannot. In fragmented markets with strong customers, that advantage is limited.
+Amcor competes against other large global packaging manufacturers (Huhtamaki, Sealed Air, Trinseo, others) and against thousands of small regional suppliers. The competitive advantage is scale, geographic footprint, and customer relationships. But scale is only an advantage if the company can achieve economies that smaller competitors cannot. In [fragmented markets](/fragmented-market/) with strong customers, that advantage is limited.
 
 The business faces headwinds: customer consolidation squeezing prices, sensitivity to commodity costs, capital intensity limiting flexibility, and ongoing pressure to invest in sustainable solutions. Offsetting these is steady demand — goods will always need packaging — and the stickiness of customer relationships once established.
 

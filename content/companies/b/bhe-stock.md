@@ -48,7 +48,7 @@ Contract manufacturers can either remain commodity-level (standard assembly, no 
 
 ## Researching Further
 
-Benchmark's customer concentration, facility footprint, and operating margins are disclosed in [10-K](/10-k/) filings via the [SEC](/securities-and-exchange-commission/) (CIK 863436). Quarterly earnings calls often address capacity utilization, backlog, and customer demand trends—leading indicators of future revenue.
+Benchmark's customer concentration, facility footprint, and operating margins are disclosed in [10-K](/10-k/) filings via the [SEC](/securities-and-exchange-commission/) (CIK 863436). Quarterly earnings calls often address capacity utilization, backlog, and customer demand trends—[leading indicators](/leading-indicator/) of future revenue.
 
 <div class="wiki-seealso">
 ### Closely related

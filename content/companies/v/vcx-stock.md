@@ -47,13 +47,13 @@ Fundrise makes this traditionally expert-driven, network-dependent process avail
 
 Fundrise's main competitors in the retail venture space are platforms like AngelList (now Bolt), which also lets retail investors buy into early-stage companies, and secondary-market platforms such as Forge and EquityZen, which buy and sell stakes in later-stage private companies. Fundrise's historical strength was in real estate; its venture push is a more recent diversification, meaning it competes against both established venture firms (who have decades of deal flow and track records) and against other retail-focused platforms.
 
-Fundrise's competitive advantages include a large existing user base, a brand that appeals to younger retail investors interested in alternative assets, and the integration of real estate and venture into one platform. Its disadvantages include the shorter track record in venture capital compared to traditional venture firms and the inherent fees (typical range: 1–2% annually plus carried interest on profits) that eat into returns.
+Fundrise's competitive advantages include a large existing user base, a brand that appeals to younger retail investors interested in alternative assets, and the integration of real estate and venture into one platform. Its disadvantages include the shorter track record in venture capital compared to traditional venture firms and the inherent fees (typical range: 1–2% annually plus [carried interest](/carried-interest-compensation/) on profits) that eat into returns.
 
 ## Risks and liquidity constraints
 
 Venture investments are inherently illiquid — you cannot sell your stake instantly like a stock. Fundrise's quarterly redemption window provides more liquidity than many private-equity structures, but it is far less liquid than a mutual fund or exchange-traded fund. An investor who needs cash quickly cannot immediately access it without potentially accepting a discount.
 
-Returns on venture investments take years to materialize, and the portfolio's value depends largely on how many of the underlying companies achieve successful exits ([acquisitions](/acquisition/) or IPOs). Setbacks in the venture market — tightening credit for startups, a shift in investor appetite away from venture, or simply bad timing in the market cycle — can crimp returns across the entire portfolio.
+Returns on venture investments take years to materialize, and the portfolio's value depends largely on how many of the underlying companies achieve successful exits ([acquisitions](/acquisition/) or IPOs). Setbacks in the venture market — tightening credit for startups, a shift in investor appetite away from venture, or simply bad timing in the [market cycle](/market-cycle/) — can crimp returns across the entire portfolio.
 
 ## How to research Fundrise Innovation Fund
 

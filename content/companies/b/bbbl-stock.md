@@ -45,7 +45,7 @@ The fund's [expense ratio](/expense-ratio/) — again, typically 0.15 to 0.30 pe
 
 ## Trading and liquidity
 
-BBBL trades on NYSE Arca as a secondary-market ETF, meaning you buy and sell at market price throughout the day. For a large, widely held fund, [bid-ask spreads](/bid-ask-spread/) are tight, often a penny or two per share. The underlying corporate bonds themselves are less liquid — you cannot always find a buyer or seller for every bond at any moment — but BBBL's structure handles that by holding a diversified portfolio and allowing [authorized participants](/authorized-participant/) to create or redeem shares using baskets of the underlying bonds. This keeps the ETF's market price close to the underlying bonds' [net asset value](/net-asset-value/).
+BBBL trades on [NYSE Arca](/nyse-arca/) as a secondary-market ETF, meaning you buy and sell at market price throughout the day. For a large, widely held fund, [bid-ask spreads](/bid-ask-spread/) are tight, often a penny or two per share. The underlying corporate bonds themselves are less liquid — you cannot always find a buyer or seller for every bond at any moment — but BBBL's structure handles that by holding a diversified portfolio and allowing [authorized participants](/authorized-participant/) to create or redeem shares using baskets of the underlying bonds. This keeps the ETF's market price close to the underlying bonds' [net asset value](/net-asset-value/).
 
 ## The investor's questions
 

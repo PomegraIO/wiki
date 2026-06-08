@@ -21,7 +21,7 @@ The Turkish market is maturing, which means growth is slow. Smartphone penetrati
 
 ## International operations: Eastern expansion
 
-Beyond Turkey, Turkcell operates mobile networks in Kazakhstan, Uzbekistan, Azerbaijan, Georgia, and several countries in the Balkans (Albania, Bosnia, North Macedonia, Montenegro, Serbia). These markets are less mature than Turkey; mobile penetration is still growing in some. That growth offers expansion opportunities, but it also introduces regulatory, currency, and political risk that does not exist in Turkey.
+Beyond Turkey, Turkcell operates mobile networks in Kazakhstan, Uzbekistan, Azerbaijan, Georgia, and several countries in the Balkans (Albania, Bosnia, North Macedonia, Montenegro, Serbia). These markets are less mature than Turkey; mobile penetration is still growing in some. That growth offers expansion opportunities, but it also introduces regulatory, currency, and [political risk](/political-risk/) that does not exist in Turkey.
 
 The international operations generate a meaningful share of Turkcell's overall profit and cash flow. However, they are volatile—currency fluctuations in less-stable markets can swing reported earnings, and regulatory changes can reduce profitability. Turkcell has to balance the long-term growth opportunity in these markets against the near-term earnings volatility they introduce.
 
@@ -51,7 +51,7 @@ In international markets, competition is more fragmented and pricing can be more
 
 ## Foreign currency and emerging-market risks
 
-Turkcell reports earnings in Turkish lira, but it earns revenue in the currencies of multiple countries. When those currencies weaken against the dollar or the lira, Turkcell's reported earnings and cash flows are affected. Turkey itself has experienced [currency volatility](/currency-volatility/)—the lira has weakened significantly against major currencies in recent years—which creates translation and transaction risk for Turkcell's international operations and any foreign borrowing.
+Turkcell reports earnings in [Turkish lira](/turkish-lira/), but it earns revenue in the currencies of multiple countries. When those currencies weaken against the dollar or the lira, Turkcell's reported earnings and cash flows are affected. Turkey itself has experienced [currency volatility](/currency-volatility/)—the lira has weakened significantly against major currencies in recent years—which creates translation and transaction risk for Turkcell's international operations and any foreign borrowing.
 
 Emerging markets also introduce political risk. Changes in government, nationalizations, or hostile regulatory shifts are possible (if unlikely in the near term). These are [tail risks](/tail-risk/), but they are part of the investment profile of an operator with significant assets in developing countries.
 

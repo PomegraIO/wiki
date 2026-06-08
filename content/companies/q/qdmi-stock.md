@@ -40,7 +40,7 @@ For a micro-cap company like QDM, funding growth and scaling operations in a com
 
 QDM's primary geographic focus on China and the Asia-Pacific region creates both opportunity and risk. China's growing middle class and increasing demand for insurance products represent a large addressable market. However, the company is exposed to currency fluctuations between the yuan and the dollar, regulatory shifts in China's insurance sector, and the geopolitical complexities that affect any foreign company operating in the region.
 
-Additionally, companies with substantial China exposure carry execution risk. Changes in regulation, taxation, or foreign investment rules can alter the operating environment quickly and materially. For a small, OTC-traded company, the combination of limited resources, geographic concentration, and regulatory complexity in China amplifies the risks that a larger, diversified firm might absorb.
+Additionally, companies with substantial China exposure carry [execution risk](/execution-risk/). Changes in regulation, taxation, or foreign investment rules can alter the operating environment quickly and materially. For a small, OTC-traded company, the combination of limited resources, geographic concentration, and regulatory complexity in China amplifies the risks that a larger, diversified firm might absorb.
 
 ## OTC trading and liquidity
 

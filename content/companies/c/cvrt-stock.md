@@ -1,0 +1,33 @@
+---
+title: "Calamos Convertible Equity Alternative ETF (CVRT)"
+description: "An exchange-traded fund holding convertible securities—bonds that can be converted into stock—offering bond-like income with equity-like upside exposure to mid-cap and large-cap companies."
+keywords:
+  - convertible bonds
+  - hybrid securities
+  - convertible ETF
+  - Calamos
+  - fixed income
+  - equity alternative
+  - convertible arbitrage
+handwritten: true
+---
+
+**What it holds.** CVRT holds convertible securities issued by US companies. A [convertible bond](/convertible-bond/) is a hybrid instrument: it is a [bond](/bond/) (a loan) that pays interest like any fixed-income security, but it also grants the holder the right to convert it into shares of the issuing company at a preset price. If the stock stays low, the investor collects [coupon payments](/coupon-payment/) and gets repaid at maturity like any bondholder. If the stock rises above the conversion price, the investor can convert the bond into shares and capture the stock's upside, or sell the convertible security to another investor for a premium.
+
+**The issuer and strategy.** Calamos Investments manages CVRT. The fund selects convertibles from a mix of large-cap and mid-cap companies across sectors, aiming to balance income (the coupon payments) with growth potential (the equity conversion feature). The portfolio is typically 50 to 100 issues, diversified across financials, technology, healthcare, industrials, and consumer discretionary. Calamos employs research to identify convertibles where the issuer is likely to see stock appreciation, making the conversion option valuable while the bond leg provides downside cushion.
+
+**Why convertibles as a separate asset class.** Convertible bonds occupy a unique space in the capital markets. They offer more yield than the underlying stock (because the bond coupon is higher than any [dividend](/dividend/) the stock might pay) and less interest-rate sensitivity than straight bonds (because the equity option creates price support). For an investor who wants both income and stock-market exposure, convertibles can deliver a blend: you get paid while you wait for the stock to rise, rather than getting zero income from a straight stock ownership. If the stock never rises, you still get coupons and get your principal back at maturity. If the stock soars, you participate in the upside, though less than a direct stock investment would capture.
+
+**The real risks.** Convertibles are more complex than either bonds or stocks, and their pricing depends on multiple factors. If the issuing company's credit quality deteriorates, the bond floor sinks (and the convertible with it), even if the stock price rises. If [interest rates](/interest-rate/) spike, the bond component of the convertible falls in price, offsetting some of the equity upside. If the stock craters, the convertible cushion (the bond value) provides some downside protection, but it is not guaranteed protection — a company in financial distress can default on its bonds regardless of whether the stock is worth anything.
+
+Convertibles also trade in a less liquid market than stocks or US [Treasury bonds](/treasury-bond/). [Bid-ask spreads](/bid-ask-spread/) can be wider, especially for smaller or lower-grade issues. The fund itself trades like an ETF, so you can buy and sell shares during market hours, but the underlying securities are less frequently traded than mega-cap stocks. This usually matters more during stress events when spreads widen and prices move in dislocated ways.
+
+**Duration and interest-rate exposure.** Most convertibles have maturity dates 5 to 10 years out, creating an intermediate duration — the fund's price sensitivity to interest-rate changes is moderate. If rates rise sharply, CVRT will decline, but less than a long-term bond fund would. If rates fall, CVRT will gain, but less than a straight stock fund would in a typical risk-on scenario.
+
+**Income and capital gains.** The fund distributes the coupon income from the convertibles it holds, typically monthly or quarterly. That income is usually in the form of interest, taxed as ordinary income in a taxable account. If a convertible bond is converted to stock and the stock rises further, the fund may realize capital gains; those are taxed as capital gains. Over time, the after-tax return of CVRT in a taxable account depends on the mix of coupons and capital appreciation and how the latter is taxed — likely less attractive than in a tax-sheltered account.
+
+**Composition and sector exposure.** CVRT's holdings reflect the composition of the convertible bond market, which is concentrated in sectors that issue convertibles: technology, healthcare, some industrials, and specialty finance. Traditional value sectors like utilities and consumer staples issue fewer convertibles. The fund is therefore biased toward growth-oriented companies and sectors, which is a structural feature of the convertible market itself, not a choice Calamos made alone.
+
+**Concentration and [diversification](/diversification/).** Holding 50 to 100 convertibles provides meaningful diversification, but the fund is not a market-weight portfolio. The largest issuers may be overrepresented, and the smaller, less liquid convertibles may be underrepresented. Calamos manages this weighting based on its conviction on the underlying stocks and the attractiveness of the convertible terms.
+
+**How to research CVRT.** Start with the prospectus and the fact sheet, which detail the portfolio composition, the maturity profile, the credit quality mix, and the [current yield](/current-yield/). Compare CVRT's yield to both straight [investment-grade bonds](/investment-grade-bond/) (to see the equity premium you are giving up for the convertible feature) and to a diversified large-cap stock fund (to see the income advantage and the growth potential you are trading against upside capture). Look at the issuer breakdown — are you comfortable with the credit quality and the sectors represented? Understand the tax implications in your specific account type. Read Calamos' commentary on the convertible market and its thesis on the issuers it holds. Track CVRT's performance over full [market cycles](/market-cycle/) — [bull markets](/bull-market/), [bear markets](/bear-market/), and sideways periods — to see how the hybrid nature plays out in practice. Ask yourself whether you want convertible-bond exposure specifically or whether you are just seeking income and upside, because there are many paths to that goal (dividend stocks, [balanced funds](/balanced-fund/), bond-and-stock combination funds), and convertibles are one specialized approach.

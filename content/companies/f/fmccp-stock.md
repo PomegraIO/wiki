@@ -45,7 +45,7 @@ Freddie Mac, constrained by its charter to buy mortgages of a certain quality, c
 
 ## The aftermath and the present
 
-The conservatorship has now lasted for more than a decade and a half. The government, through the Federal Housing Finance Agency, controls Freddie Mac. A [dividend](/dividend/) cap prevents the company from accumulating capital the way a normal corporation would. Freddie Mac continues to operate, to buy mortgages, and to issue securities, but as a ward of the state rather than a freely governed enterprise.
+The conservatorship has now lasted for more than a decade and a half. The government, through the [Federal Housing Finance Agency](/federal-housing-finance-agency/), controls Freddie Mac. A [dividend](/dividend/) cap prevents the company from accumulating capital the way a normal corporation would. Freddie Mac continues to operate, to buy mortgages, and to issue securities, but as a ward of the state rather than a freely governed enterprise.
 
 The company returned to profitability relatively quickly after the crisis because housing prices recovered and employment improved. [Delinquency](/delinquency/) rates fell. The company's guarantee fees continued to flow in. But Freddie Mac remains constrained by its conservatorship status and by ongoing policy debates about what should happen to it long term. Should it be privatized? Should it be merged with Fannie Mae? Should it be restructured entirely? No consensus has emerged.
 

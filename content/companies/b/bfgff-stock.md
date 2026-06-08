@@ -36,7 +36,7 @@ The zinc operation contributes a meaningful but smaller slice of total revenue. 
 
 Giant Mining runs mines across multiple countries, and that geographic spread is both an asset and a liability. Mines are immobile; ore grades deplete over time; and each mine is unique in ore body, depth, infrastructure, and local labor availability. Spreading operations across jurisdictions reduces the risk of any single government or geopolitical crisis wiping out the entire business, but it raises complexity and exposes the company to varying tax regimes, permitting frameworks, and labor regulations.
 
-Some mines are in stable, developed jurisdictions with predictable regulatory frameworks and strong rule of law. Others operate in countries with less established mining codes, political risk, or changing attitudes toward foreign mining investment. Emerging-market mines can offer richer ore bodies or lower operating costs, but they come with heightened permitting risk, supply-chain disruption, and the possibility of sudden regulatory changes or pressure to sell or renegotiate terms.
+Some mines are in stable, developed jurisdictions with predictable regulatory frameworks and strong rule of law. Others operate in countries with less established mining codes, [political risk](/political-risk/), or changing attitudes toward foreign mining investment. Emerging-market mines can offer richer ore bodies or lower operating costs, but they come with heightened permitting risk, supply-chain disruption, and the possibility of sudden regulatory changes or pressure to sell or renegotiate terms.
 
 ## The dual pressure: commodity prices and operating costs
 

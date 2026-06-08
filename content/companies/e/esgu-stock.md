@@ -19,7 +19,7 @@ ESGU starts with the universe of large and mid-cap U.S. stocks—the backbone of
 
 The practical effect is that ESGU looks much like the S&P 500 at first glance. Technology, healthcare, and financials dominate, and mega-cap names like [Microsoft](/msft-stock/), [Apple](/aapl-stock/), JPMorgan, and [Nvidia](/nvda-stock/) occupy large positions. But closer inspection reveals that ESGU carries less exposure to energy companies than a market-cap-weighted index would, slightly favours companies with independent boards, and avoids a handful of firms involved in major controversies. For someone used to owning a plain total-market US index, the transition to ESGU would feel familiar—same universe, same trading patterns, slightly different composition at the edges.
 
-MSCI, the index provider, computes ESG scores for each company based on environmental practices, labour relations, governance structures, and product impact. These scores are mechanistic and measurable—not subjective judgements by fund managers, but systematic application of published criteria. A company's ESG score either meets the threshold for inclusion or underweighting, or it does not.
+MSCI, the [index provider](/index-provider/), computes ESG scores for each company based on environmental practices, labour relations, governance structures, and product impact. These scores are mechanistic and measurable—not subjective judgements by fund managers, but systematic application of published criteria. A company's ESG score either meets the threshold for inclusion or underweighting, or it does not.
 
 ## The consequences of fossil-fuel reduction
 

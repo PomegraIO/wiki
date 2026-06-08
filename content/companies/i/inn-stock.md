@@ -16,7 +16,7 @@ The second layer of protection is Summit's reliance on major franchise systemsâ€
 
 ## Asset Appreciation and Equity Stability
 
-Unlike hotel operators who manage franchised properties on behalf of others, INN owns the underlying real estate. This creates a moat through asset appreciation that management cannot unlock by selling the business or cutting corners: as land and hospitality real estate in premier locations appreciate, the REIT's [balance sheet](/balance-sheet/) strengthens, allowing lower-cost capital for reinvestment and defensive flexibility during downturns. Competitors who operate leased properties or short-term management contracts lack this equity cushion; their value depends entirely on operational performance and are exposed to lease renewals at higher rates or non-renewal.
+Unlike hotel operators who manage franchised properties on behalf of others, INN owns the underlying real estate. This creates a moat through asset appreciation that management cannot unlock by selling the business or cutting corners: as land and hospitality real estate in premier locations appreciate, the REIT's [balance sheet](/balance-sheet/) strengthens, allowing lower-cost capital for reinvestment and defensive flexibility during downturns. Competitors who operate leased properties or short-term management contracts lack this [equity cushion](/equity-cushion/); their value depends entirely on operational performance and are exposed to lease renewals at higher rates or non-renewal.
 
 ## Vulnerability: Capital Intensity and Rate Environment
 
@@ -28,7 +28,7 @@ The [hotel REIT](/hotel-reit/) industry has consolidated significantly (Apple Ho
 
 ## Differentiation Through Market Positioning
 
-Where INN differentiates is in its focus on leisure-only markets. Competing REITs ([Apple](/aapl-stock/) Hospitality, Chatham) diversify across business, airport, and resort segments. INN's undiversified bet on leisure means higher occupancy volatility but also deeper expertise and relationships in resort and vacation-destination markets. This focus creates an operational moat: INN's management and capital allocation are tuned to leisure-market dynamics, occupancy patterns, and seasonal pricing, a skill set that is valuable precisely because it is specialized. A diversified REIT entering the space with greater capital but less leisure expertise faces a learning curve INN has already paid.
+Where INN differentiates is in its focus on leisure-only markets. Competing REITs ([Apple](/aapl-stock/) Hospitality, Chatham) diversify across business, airport, and resort segments. INN's undiversified bet on leisure means higher occupancy volatility but also deeper expertise and relationships in resort and vacation-destination markets. This focus creates an operational moat: INN's management and capital allocation are tuned to leisure-market dynamics, occupancy patterns, and seasonal pricing, a skill set that is valuable precisely because it is specialized. A [diversified REIT](/diversified-reit/) entering the space with greater capital but less leisure expertise faces a learning curve INN has already paid.
 
 ## Reputational and Relationship Moat
 

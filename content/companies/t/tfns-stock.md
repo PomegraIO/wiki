@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*T. Rowe Price Financials ETF ([NASDAQ](/nasdaq/): TFNS) is a passively managed exchange-traded fund that tracks a broad index of large-cap financial-services companies—commercial banks, insurance carriers, securities [brokers](/broker/), investment banks, and specialized financial intermediaries. It offers sector-level exposure to the entire financial system in a single, liquid instrument.*
+*[T. Rowe Price](/t-rowe-price/) Financials ETF ([NASDAQ](/nasdaq/): TFNS) is a passively managed exchange-traded fund that tracks a broad index of large-cap financial-services companies—commercial banks, insurance carriers, securities [brokers](/broker/), investment banks, and specialized financial intermediaries. It offers sector-level exposure to the entire financial system in a single, liquid instrument.*
 
 <aside class="wiki-infobox">
 <table>
@@ -37,7 +37,7 @@ Investors use TFNS for two reasons: to gain pure-play financials exposure withou
 
 ## Risks: cycle, regulation, concentration
 
-Banks are fundamentally cyclical. When the [yield curve](/yield-curve/) steepens, net interest margins widen and earnings rise. When the curve flattens or inverts, margins compress and loan losses loom. TFNS has no shelter from these swings—a severe credit cycle hits the entire sector at once. Regulatory risk is structural: capital requirements, resolution frameworks, conduct standards, and tax policy can all shift overnight and reshape the sector's profitability.
+Banks are fundamentally cyclical. When the [yield curve](/yield-curve/) steepens, net interest margins widen and earnings rise. When the curve flattens or inverts, margins compress and loan losses loom. TFNS has no shelter from these swings—a severe [credit cycle](/credit-cycle/) hits the entire sector at once. Regulatory risk is structural: capital requirements, resolution frameworks, conduct standards, and tax policy can all shift overnight and reshape the sector's profitability.
 
 Concentration is modest but real. The largest banks and insurers—JP Morgan, Bank of America, [UnitedHealth](/unh-stock/), [Berkshire Hathaway](/brk-b-stock/)—collectively drive much of the fund's movement. A stress event that hits the system simultaneously affects all of them, and there is no [diversification](/diversification/) escape. For most holders this is acceptable given the low fees, but it matters.
 

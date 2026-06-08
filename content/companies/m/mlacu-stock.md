@@ -37,7 +37,7 @@ This phase is crucial and often invisible to public shareholders. SPACs succeede
 
 Once a target company was identified and terms were negotiated, Mountain Lake would announce the transaction. The announcement included the valuation — how much the SPAC was paying for the target company — and the deal structure. Sometimes the sponsors would raise additional capital, called a PIPE (private investment in public equity), where outside investors bought shares alongside the merger to increase the capital available to the combined company.
 
-The deal was then put to Mountain Lake's shareholders for a vote. Investors who had bought units in the IPO now faced a choice: approve the merger and become shareholders in the combined entity, or redeem their shares for cash from the trust account and exit before the deal closed. Many SPAC IPO investors were not committed long-term believers in the sponsors; they were chasing IPO profits. When an indifferent or unattractive target was announced, redemptions sometimes exceeded half the outstanding shares, shrinking the capital pool available to the combined company.
+The deal was then put to Mountain Lake's shareholders for a vote. Investors who had bought units in the IPO now faced a choice: approve the merger and become shareholders in the combined entity, or redeem their shares for cash from the trust account and exit before the deal closed. Many [SPAC IPO](/spac-ipo/) investors were not committed long-term believers in the sponsors; they were chasing IPO profits. When an indifferent or unattractive target was announced, redemptions sometimes exceeded half the outstanding shares, shrinking the capital pool available to the combined company.
 
 ## From blank check to operating company
 

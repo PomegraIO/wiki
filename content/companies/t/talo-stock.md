@@ -78,6 +78,6 @@ The company's 10-K filing (SEC CIK 0001724965) is essential for understanding th
 
 Scrutinize the capital plan: how much is Talos budgeting to spend, on which wells, and how confident is management that they will be economic at current commodity prices? A company that reduces CapEx sharply in response to falling crude prices may be slowing reserve replacement.
 
-Watch crude oil and natural gas prices as leading indicators of free cash flow. The price of oil in particular moves the company's earnings far more than management decisions do. Monitor the company's leverage (total debt divided by [EBITDA](/ebitda/)) and the maturity of debt; a highly leveraged company in a commodity downturn faces [refinancing risk](/refinancing-risk/).
+Watch crude oil and natural gas prices as [leading indicators](/leading-indicator/) of free cash flow. The price of oil in particular moves the company's earnings far more than management decisions do. Monitor the company's leverage (total debt divided by [EBITDA](/ebitda/)) and the maturity of debt; a highly leveraged company in a commodity downturn faces [refinancing risk](/refinancing-risk/).
 
 And understand the reserve profile: is the company's production coming from large, long-lived fields that will generate cash for many years, or from smaller fields that are declining rapidly? Talos's future depends on the quality and size of the reserves it is drilling and acquiring today.

@@ -17,7 +17,7 @@ The company generates revenue through two core business segments:
 - **Garment Manufacturing**: Advises and partners with garment producers, selling to wholesalers predominantly in mainland China
 - **Logistics Services**: Runs delivery and courier operations serving several provinces, providing last-mile fulfillment for textile and related goods
 
-In the broader context of Chinese industrial services, Addentax is small—the kind of mid-market operator that rarely makes headlines but keeps supply chains moving. Addentax trades on the OTC markets under ticker ATXG and trades thinly compared to major exchanges. Like many small-cap firms operating in emerging markets and service sectors, it carries execution risk tied to China regulatory shifts, labor costs, and freight volatility.
+In the broader context of Chinese industrial services, Addentax is small—the kind of mid-market operator that rarely makes headlines but keeps supply chains moving. Addentax trades on the OTC markets under ticker ATXG and trades thinly compared to major exchanges. Like many small-cap firms operating in emerging markets and service sectors, it carries [execution risk](/execution-risk/) tied to China regulatory shifts, labor costs, and freight volatility.
 
 The company filed regular SEC reports in its early years as a smaller reporting company, then as an emerging growth company, signaling typical startup-to-scale trajectory. Investors watching this stock are betting on China's continued focus on garment manufacturing efficiency and regional logistics needs, though trading liquidity and information flow remain limited.
 

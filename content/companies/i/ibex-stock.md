@@ -29,7 +29,7 @@ IBEX competes against global competitors: Teleperformance and TTEC in France and
 
 ## Geographic concentration and regulatory risk
 
-The Philippines' advantage is English fluency among a large workforce willing to work at lower wages than U.S. or European counterparts. But it is also a regulatory and political risk. Changes to Philippine labor law (minimum-wage increases, mandatory benefits expansions) flow directly to IBEX's cost of goods sold. Currency fluctuations matter: if the Philippine peso strengthens against the dollar, IBEX's reported [earnings per share](/earnings-per-share/) decline even if operational performance is flat. Geopolitical tension, data-residency laws, or restrictions on offshoring could alter the economics.
+The Philippines' advantage is English fluency among a large workforce willing to work at lower wages than U.S. or European counterparts. But it is also a regulatory and [political risk](/political-risk/). Changes to Philippine labor law (minimum-wage increases, mandatory benefits expansions) flow directly to IBEX's cost of goods sold. Currency fluctuations matter: if the Philippine peso strengthens against the dollar, IBEX's reported [earnings per share](/earnings-per-share/) decline even if operational performance is flat. Geopolitical tension, data-residency laws, or restrictions on offshoring could alter the economics.
 
 Data security and privacy compliance are critical. Clients entrust IBEX with customer data, payment information, and proprietary business logic. IBEX must maintain SOC 2 certifications, GDPR compliance, and security protocols. A data breach or compliance failure can lead to client termination and reputational damage that takes years to repair.
 

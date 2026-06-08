@@ -48,7 +48,7 @@ Commodity prices also shape the sector. When precious metals prices are strong, 
 
 The core risk is exploration risk: the company may find nothing of commercial value despite spending significant capital. Exploration is a numbers game; only a small fraction of claims staked yield deposits large enough to mine.
 
-Regulatory and political risk is also material. Mining licenses in Fiji and other South Pacific nations depend on government [goodwill](/goodwill/) and stable legal frameworks. Changes in mining policy, new environmental restrictions, or shifts in relationships with local communities could limit the company's ability to explore or could render a discovered deposit uneconomical to develop.
+Regulatory and [political risk](/political-risk/) is also material. Mining licenses in Fiji and other South Pacific nations depend on government [goodwill](/goodwill/) and stable legal frameworks. Changes in mining policy, new environmental restrictions, or shifts in relationships with local communities could limit the company's ability to explore or could render a discovered deposit uneconomical to develop.
 
 Funding risk is chronic for junior explorers with no revenue. Each new exploration phase requires capital; if equity capital becomes unavailable or too expensive, the company's exploration campaigns slow or halt. Larger mining companies sometimes provide funding through option agreements (paying the junior to explore), which mitigates this risk but typically gives the funder first right to develop any deposit found.
 

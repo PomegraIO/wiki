@@ -51,7 +51,7 @@ The core bet is that consumers will pay a premium for a snack designed specifica
 
 Instead, NightFood is positioned as a niche brand that owns a specific occasion and appeals to consumers with particular values: health-conscious, nighttime snackers, people watching sugar intake or blood-glucose levels. This positioning is defensible (competitors cannot easily rebrand themselves as nighttime-specific without losing their existing customer base) and has room for growth, but the total addressable market is smaller.
 
-The company's long-term strategy likely depends on either vertical expansion — moving beyond ice cream into a broader portfolio of nighttime snacks, from cookies to crackers to non-dairy alternatives — or geographic expansion, bringing the NightFood brand to retailers and consumers outside the United States. Both require capital and carry execution risk.
+The company's long-term strategy likely depends on either vertical expansion — moving beyond ice cream into a broader portfolio of nighttime snacks, from cookies to crackers to non-dairy alternatives — or geographic expansion, bringing the NightFood brand to retailers and consumers outside the United States. Both require capital and carry [execution risk](/execution-risk/).
 
 ## The capital dynamics: growth versus survival
 

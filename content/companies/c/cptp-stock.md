@@ -4,7 +4,7 @@ description: "Rhode Island-based real estate holding company and property develo
 keywords: ["real-estate", "commercial-property", "mixed-use", "development", "regional"]
 ---
 
-*Capital Properties Inc. (CPTP) is a regionally focused real estate company anchored in Rhode Island, holding and developing commercial and mixed-use properties in the Providence metropolitan area and surrounding regions. Rather than operating as a diversified [real-estate-investment-trust](/real-estate-investment-trust/), CPTP functions as a smaller property developer and owner, managing its own portfolio and financing its own development activities, with returns dependent on the local real estate cycle and management's ability to identify and develop value.*
+*Capital Properties Inc. (CPTP) is a regionally focused real estate company anchored in Rhode Island, holding and developing commercial and mixed-use properties in the Providence metropolitan area and surrounding regions. Rather than operating as a diversified [real-estate-investment-trust](/real-estate-investment-trust/), CPTP functions as a smaller property developer and owner, managing its own portfolio and financing its own development activities, with returns dependent on the local [real estate cycle](/real-estate-cycle/) and management's ability to identify and develop value.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CPTP</td></tr>
@@ -32,7 +32,7 @@ CPTP's revenue comes from rent paid by tenants in completed, leased properties, 
 
 ## Local Market Dependencies
 
-CPTP's growth is constrained by the size and growth rate of the Providence market. A company whose portfolio is concentrated in a single metro is vulnerable to local economic shocks—factory closures, major employer relocations, or demographic decline—in ways that a nationally diversified REIT is not. The company's success depends on being the most skilled real estate operator in Rhode Island: identifying properties before others, obtaining permits efficiently, and executing renovations on budget and on time. In a slow-growth region, CPTP must be a net creator of value through smart redevelopment, or it will merely collect existing rents and deploy capital inefficiently.
+CPTP's growth is constrained by the size and growth rate of the Providence market. A company whose portfolio is concentrated in a single metro is vulnerable to local economic shocks—factory closures, major employer relocations, or demographic decline—in ways that a nationally [diversified REIT](/diversified-reit/) is not. The company's success depends on being the most skilled real estate operator in Rhode Island: identifying properties before others, obtaining permits efficiently, and executing renovations on budget and on time. In a slow-growth region, CPTP must be a net creator of value through smart redevelopment, or it will merely collect existing rents and deploy capital inefficiently.
 
 ## Reading the Filings
 

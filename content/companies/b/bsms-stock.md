@@ -15,7 +15,7 @@ handwritten: true
 
 ## The Bullet Structure and Its Appeal
 
-The appeal of BSMS lies in its simplicity and finality. Unlike most municipal bond funds, which intend to operate in perpetuity — rolling from one bond to the next across decades — BSMS is built to wind down. As 2028 arrives, the portfolio matures, the fund shrinks, and eventually it closes or merges. There is no ongoing [reinvestment risk](/reinvestment-risk/), no perpetual need to find new bonds to replace maturing ones, no slow style drift as the manager's priorities or the bond market changes. You buy BSMS knowing precisely when your money will come home.
+The appeal of BSMS lies in its simplicity and finality. Unlike most [municipal bond funds](/municipal-bond-fund/), which intend to operate in perpetuity — rolling from one bond to the next across decades — BSMS is built to wind down. As 2028 arrives, the portfolio matures, the fund shrinks, and eventually it closes or merges. There is no ongoing [reinvestment risk](/reinvestment-risk/), no perpetual need to find new bonds to replace maturing ones, no slow style drift as the manager's priorities or the bond market changes. You buy BSMS knowing precisely when your money will come home.
 
 ## The underlying bonds
 

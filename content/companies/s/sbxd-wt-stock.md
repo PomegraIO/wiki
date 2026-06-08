@@ -57,7 +57,7 @@ Conversely, if SBXD trades at $11.50, SBXD.U at $12.00, and SBXD-WT at $1.50, th
 
 Before a merger is announced, warrant prices reflect abstract speculation on SilverBox's sponsors' ability to identify a good target. There is little concrete information to analyze, so trading is driven by sentiment, historical SPAC warrant performance, and [market risk](/market-risk/) appetite.
 
-Once a merger is announced and a proxy statement is filed, warrant prices become more grounded. Investors can read the target's financials and strategy and form a view on whether the post-merger stock is likely to appreciate meaningfully above the strike. A strong merger announcement (a quality target, favorable terms, strong growth prospects) can drive warrant prices up sharply, as speculators buy in anticipation of stock appreciation. A weak announcement can drive them down.
+Once a merger is announced and a [proxy statement](/proxy-statement/) is filed, warrant prices become more grounded. Investors can read the target's financials and strategy and form a view on whether the post-merger stock is likely to appreciate meaningfully above the strike. A strong merger announcement (a quality target, favorable terms, strong growth prospects) can drive warrant prices up sharply, as speculators buy in anticipation of stock appreciation. A weak announcement can drive them down.
 
 ## Tax and exercise considerations
 

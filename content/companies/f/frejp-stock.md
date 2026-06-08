@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Freddie Mac](/freddie-mac/) — the [Federal Home Loan Mortgage](/fmcc-stock/) Corporation — is the largest purchaser of residential mortgages in the United States and one of the two dominant players in the secondary mortgage market, alongside [Fannie Mae](/fannie-mae/). FREJP is a depositary share representing a claim on Freddie Mac's Series J [Preferred Stock](/preferred-stock/), one of several [tranches](/tranche/) of preferred equity the company has issued to raise capital. Understanding FREJP requires understanding the engine it represents: the machinery that buys home loans from local banks and lenders, pools them, and repackages them as mortgage-backed securities sold to global investors.
+[Freddie Mac](/freddie-mac/) — the [Federal Home Loan Mortgage](/fmcc-stock/) Corporation — is the largest purchaser of residential mortgages in the United States and one of the two dominant players in the secondary mortgage market, alongside [Fannie Mae](/fannie-mae/). FREJP is a [depositary share](/depositary-share/) representing a claim on Freddie Mac's Series J [Preferred Stock](/preferred-stock/), one of several [tranches](/tranche/) of preferred equity the company has issued to raise capital. Understanding FREJP requires understanding the engine it represents: the machinery that buys home loans from local banks and lenders, pools them, and repackages them as mortgage-backed securities sold to global investors.
 
 <aside class="wiki-infobox">
 <table>
@@ -71,4 +71,4 @@ For investors in FREJP, the key risk is that Freddie Mac's dividend policy could
 
 Start with Freddie Mac's annual and quarterly filings with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under its CIK 0001026214. The 10-K filing details the single-family and multifamily segments, the investment portfolio, and management's view of the risks. Freddie Mac's official investor relations website provides press releases, earnings reports, and information on the company's regulatory status.
 
-For FREJP specifically, monitor dividend declarations: Freddie Mac announces dividends on preferred shares periodically, and changes in policy or skipped payments are material news for holders. Also watch regulatory developments — any announcements from the Federal Housing Finance Agency (FHFA) about Freddie Mac's capital requirements, dividend policy, or path out of conservatorship directly affect the security's value and income prospects.
+For FREJP specifically, monitor dividend declarations: Freddie Mac announces dividends on preferred shares periodically, and changes in policy or skipped payments are material news for holders. Also watch regulatory developments — any announcements from the [Federal Housing Finance Agency](/federal-housing-finance-agency/) (FHFA) about Freddie Mac's capital requirements, dividend policy, or path out of conservatorship directly affect the security's value and income prospects.

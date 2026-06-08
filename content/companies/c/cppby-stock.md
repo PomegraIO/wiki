@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-Central Pattana Public Co Limited, which trades in the United States as an [American Depositary Receipt](/adr/) under the ticker CPPBY, is Thailand's dominant retail property operator. The company develops, owns, and manages an extensive network of shopping centres and community malls across Thailand and one major property in Malaysia. Each American Depositary Share represents ten ordinary shares of the parent company, allowing international investors access to Thailand's largest shopping centre franchise without holding Thai-listed securities directly.
+Central Pattana Public Co Limited, which trades in the United States as an [American Depositary Receipt](/adr/) under the ticker CPPBY, is Thailand's dominant retail property operator. The company develops, owns, and manages an extensive network of shopping centres and community malls across Thailand and one major property in Malaysia. Each American [Depositary Share](/depositary-share/) represents ten ordinary shares of the parent company, allowing international investors access to Thailand's largest shopping centre franchise without holding Thai-listed securities directly.
 
 ## The Core Business
 
-Central Pattana is fundamentally a landlord and a property developer. The company does not operate retail stores; instead, it acquires land, builds or acquires shopping centres, and leases space to retailers and restaurants. Tenants pay base rent plus, in many cases, percentage rents based on their sales above a threshold — a structure that aligns the landlord's interests with retail performance. The company also collects fees for common areas, parking, and services provided to tenants.
+Central Pattana is fundamentally a landlord and a property developer. The company does not operate retail stores; instead, it acquires land, builds or acquires shopping centres, and leases space to retailers and restaurants. Tenants pay base rent plus, in many cases, [percentage rents](/percentage-rent/) based on their sales above a threshold — a structure that aligns the landlord's interests with retail performance. The company also collects fees for common areas, parking, and services provided to tenants.
 
 The business model is capital-intensive at the outset but generates reliable cash flow once a property is built and stabilised. A newly completed centre may take months to lease up, but once fully occupied by a mix of anchor tenants and smaller retailers, rental income is predictable and usually grows with [inflation](/inflation/) and the local economy. The company's challenge is to maintain occupancy, negotiate rent escalations with existing tenants, and manage the inevitable turnover that comes from changing retail landscapes and tenant bankruptcies.
 

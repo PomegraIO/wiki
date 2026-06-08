@@ -13,7 +13,7 @@ handwritten: true
 
 Eureka [Acquisition](/acquisition/) Corp is a company created to do one thing: raise money from public investors and use it to buy or merge with another business. It is what people call a blank-check company, or SPAC. Think of it like this: someone says, "I want to buy a company, but I don't have the money myself. I'll form a shell company, take it public, pool investor cash, and then use that pool to buy a real operating business." That is the entire idea.
 
-Eureka went public on July 3, 2024. It raised USD 50 million by selling 5 million units on the [Nasdaq](/nasdaq/). Each unit is a package containing one share of Class A stock and one right (a claim on fractional shares if the deal closes). The shares trade under the ticker EURKU as units, EURK as standalone shares, and EURKR as standalone rights.
+Eureka went public on July 3, 2024. It raised USD 50 million by selling 5 million units on the [Nasdaq](/nasdaq/). Each unit is a package containing one share of Class A stock and one right (a claim on [fractional shares](/fractional-shares/) if the deal closes). The shares trade under the ticker EURKU as units, EURK as standalone shares, and EURKR as standalone rights.
 
 ## Where the money goes
 
@@ -23,7 +23,7 @@ If you own a EURKU unit and do not like the deal Eureka proposes, you can demand
 
 ## How the structure works
 
-When Eureka finds a target company and negotiates a deal, a proxy statement goes out to shareholders explaining the terms. Shareholders vote. If the deal passes, Eureka merges with the target company. The target's owners end up owning a chunk of the public company. The original SPAC investors now own a different chunk. Everyone holds shares in what used to be a private company, but is now public.
+When Eureka finds a target company and negotiates a deal, a [proxy statement](/proxy-statement/) goes out to shareholders explaining the terms. Shareholders vote. If the deal passes, Eureka merges with the target company. The target's owners end up owning a chunk of the public company. The original SPAC investors now own a different chunk. Everyone holds shares in what used to be a private company, but is now public.
 
 The rights are a bonus. Each right is worth one-fifth of a share upon deal completion. This sweetens the pot for investors who stayed public and participated in the IPO. If you bought a unit for USD 10.00 and held it through the deal, you get your share of the combined company plus a fractional share bonus.
 

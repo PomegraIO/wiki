@@ -39,7 +39,7 @@ This is both the appeal and the risk. If you want steady monthly or quarterly ca
 
 CXH is a fund, so its "revenue" is the total value of its assets under management. Larger assets mean lower fees (as a percentage) and more stable operations. Smaller funds face pressure to either grow or shut down.
 
-The size of a municipal bond fund matters because it affects the diversity of holdings and the fees charged. A fund with billions under management can hold hundreds of bonds and negotiate lower fees with providers. A tiny fund might hold only a few dozen bonds and charge higher fees, making it harder for the fund to compete.
+The size of a [municipal bond fund](/municipal-bond-fund/) matters because it affects the diversity of holdings and the fees charged. A fund with billions under management can hold hundreds of bonds and negotiate lower fees with providers. A tiny fund might hold only a few dozen bonds and charge higher fees, making it harder for the fund to compete.
 
 ## Interest rates and bond values
 

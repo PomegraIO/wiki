@@ -16,7 +16,7 @@ handwritten: true
 
 ## What is KKR and why does it run a closed-end fund?
 
-KKR is a global investment manager that operates private-equity funds (investing in the ownership of companies), infrastructure funds, and credit funds (lending to companies). The firm has developed deep expertise in originating and managing credit investments. KKR Income Opportunities Fund is one of the ways KKR makes those investment capabilities available to retail shareholders who cannot invest directly in KKR's private credit funds. The fund gives individual investors access to a portfolio of loans and [bonds](/bond/) that KKR's credit professionals have sourced and continue to manage.
+KKR is a global investment manager that operates private-equity funds (investing in the ownership of companies), [infrastructure funds](/pe-infrastructure-fund/), and credit funds (lending to companies). The firm has developed deep expertise in originating and managing credit investments. KKR Income Opportunities Fund is one of the ways KKR makes those investment capabilities available to retail shareholders who cannot invest directly in KKR's private credit funds. The fund gives individual investors access to a portfolio of loans and [bonds](/bond/) that KKR's credit professionals have sourced and continue to manage.
 
 ## The portfolio and income generation
 

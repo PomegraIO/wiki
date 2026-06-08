@@ -82,7 +82,7 @@ Research on BGFR must answer: Does this company have a real business, any custom
 
 ### Wider context
 - [public-company](/public-company/) (OTC markets & listing requirements)
-- [10-k](/10-k/) (essential filing for OTC due diligence)
+- [10-k](/10-k/) (essential filing for OTC [due diligence](/due-diligence/))
 - [balance-sheet](/balance-sheet/) (to assess cash and runway)
 - [income-statement](/income-statement/) (to verify revenue and profitability)
 </div>

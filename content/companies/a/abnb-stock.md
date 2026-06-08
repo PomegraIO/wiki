@@ -33,7 +33,7 @@ After years of heavy spending on growth and regulation, Airbnb achieved consiste
 
 ## Trust and risk management
 
-Central to the platform's function is Trust & Safety: identity verification, host insurance, guest damage protection, dispute resolution, and review systems. Poor experiences—property condition issues, dishonest hosts or guests, discrimination—can damage brand and retention. The company invests continuously in anti-fraud tools, cleanliness standards, and responsive customer support. Regulatory and legal risks remain material; changes to zoning laws, tax compliance requirements, or platform liability rules in key jurisdictions can shift economics materially.
+Central to the platform's function is Trust & Safety: identity verification, host insurance, guest damage protection, dispute resolution, and review systems. Poor experiences—property condition issues, dishonest hosts or guests, discrimination—can damage brand and retention. The company invests continuously in anti-fraud tools, cleanliness standards, and responsive customer support. Regulatory and [legal risks](/legal-risk/) remain material; changes to zoning laws, tax compliance requirements, or platform liability rules in key jurisdictions can shift economics materially.
 
 At a glance:
 

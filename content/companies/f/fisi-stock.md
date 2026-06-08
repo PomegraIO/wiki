@@ -50,7 +50,7 @@ A bank like FISI, with limited pricing power and a commodity product (deposits a
 
 ## Credit Quality and Geography
 
-FISI's loan portfolio is concentrated in small-business loans and mortgages across upstate New York, a region with mixed economic fundamentals. Manufacturing has declined, but healthcare, education (SUNY campuses), and logistics are present. Agricultural lending and rural real estate are part of the mix. This geographic concentration means FISI's credit cycle is tightly bound to the region's health. A regional [recession](/recession/) or a specific industry shock (loss of a major employer, agricultural downturn) can drive loan losses up sharply.
+FISI's loan portfolio is concentrated in small-business loans and mortgages across upstate New York, a region with mixed economic fundamentals. Manufacturing has declined, but healthcare, education (SUNY campuses), and logistics are present. Agricultural lending and rural real estate are part of the mix. This geographic concentration means FISI's [credit cycle](/credit-cycle/) is tightly bound to the region's health. A regional [recession](/recession/) or a specific industry shock (loss of a major employer, agricultural downturn) can drive loan losses up sharply.
 
 Historically, FISI has not experienced catastrophic loan losses; the bank survived the 2008–2009 crisis and the 2020 COVID shock without major impairments. But this history of stability reflects the region's relative resilience, not necessarily superior credit underwriting. A severe or prolonged regional recession could test the bank's [capital adequacy](/capital-adequacy/) and force dividend cuts or capital raises.
 

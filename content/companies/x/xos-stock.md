@@ -22,7 +22,7 @@ The **Mobile Charging** product is a modular battery-and-charger unit on a trail
 
 Revenue comes from vehicle sales; Xos operates a made-to-order manufacturing model with limited production capacity. Each truck sells for $200k–$350k depending on spec and battery size—roughly 2–3x a comparable diesel truck on sticker, but with lifetime fuel savings that can bridge the gap for high-utilization fleets. The company also earns service and parts revenue, though early fleets are sparse enough that this remains noise.
 
-Operating burn is severe. Xos is pre-positive-cash-flow: R&D, homologation (certification), factory tooling, and fleet management consume cash faster than sales generate it. The company has raised capital from institutional investors and strategic backers (UPS notably placed a small order), but the implied timeline to profitability—conditional on execution, scaling, and market adoption—stretches years into the future. Seasonality in fleet purchasing and price pressure from legacy truck makers add execution risk.
+Operating burn is severe. Xos is pre-positive-cash-flow: R&D, homologation (certification), factory tooling, and fleet management consume cash faster than sales generate it. The company has raised capital from institutional investors and strategic backers (UPS notably placed a small order), but the implied timeline to profitability—conditional on execution, scaling, and market adoption—stretches years into the future. Seasonality in fleet purchasing and price pressure from legacy truck makers add [execution risk](/execution-risk/).
 
 ## Where it sits in the EV truck landscape
 
@@ -55,4 +55,4 @@ At a glance:
 
 The [10-K](/wiki/10-k/) filing is essential: look at the manufacturing capacity roadmap, backlog, cash burn rate, and vehicle gross margins. Investor decks often surface the unit economics and fleet [acquisition](/acquisition/) strategy. Trade publications covering electric vehicles and fleet logistics (FleetOwner, Commercial Vehicle News) track adoption and competitive moves. SEC filings under Xos, Inc. (CIK 1819493) trace dilution and capital raises; PIPE investors and board composition signal confidence or desperation.
 
-For fleet operators considering Xos, the test is a controlled pilot: one vehicle in service for 6–12 months, real maintenance and charging costs logged. The macro thesis (EV last-mile is inevitable) is sound; the micro thesis (Xos executes better than competitors and survives the next downturn) is speculative and demands direct due diligence.
+For fleet operators considering Xos, the test is a controlled pilot: one vehicle in service for 6–12 months, real maintenance and charging costs logged. The macro thesis (EV last-mile is inevitable) is sound; the micro thesis (Xos executes better than competitors and survives the next downturn) is speculative and demands direct [due diligence](/due-diligence/).

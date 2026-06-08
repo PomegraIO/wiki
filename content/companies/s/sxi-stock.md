@@ -55,7 +55,7 @@ STANDEX's strength lies in the specificity of its businesses. Each segment serve
 
 The central risk is the cyclicality of the markets it serves. When food-service spending softens during an economic downturn — fewer restaurant openings, fewer hotel renovations — the Food Service segment suffers. When industrial production falls, demand for engineered products and components declines. STANDEX is not recession-proof, though it is often more durable than the economy because some of its revenue (aftermarket and service) is less volatile than new equipment orders.
 
-A second risk is execution: acquisition-and-manage models work only if management is disciplined. Failed integrations, overpaid [acquisitions](/acquisition/), or misjudged cultural fits can destroy value. STANDEX's long history suggests it has learned to do this reasonably well, but M&A always carries execution risk.
+A second risk is execution: acquisition-and-manage models work only if management is disciplined. Failed integrations, overpaid [acquisitions](/acquisition/), or misjudged cultural fits can destroy value. STANDEX's long history suggests it has learned to do this reasonably well, but M&A always carries [execution risk](/execution-risk/).
 
 A third risk is the global supply chain. STANDEX manufactures across multiple continents and relies on suppliers worldwide. Disruptions to shipping, tariffs, or geopolitical tensions can raise costs or delay deliveries to customers.
 
@@ -67,4 +67,4 @@ Watch the [operating margins](/operating-margin/) by segment. If margins are sta
 
 Monitor capital allocation: how much the company is spending on acquisitions, how much on debt reduction or buybacks, and how much on organic investment. A company that acquires discipline compounds value over time; one that overpays or fails to integrate is destructive.
 
-Finally, track end-market conditions in food service (restaurant openings, commercial construction) and industrial production indices. These are leading indicators of whether STANDEX's segments are likely to see headwinds or tailwinds in the quarters ahead.
+Finally, track end-market conditions in food service (restaurant openings, commercial construction) and industrial production indices. These are [leading indicators](/leading-indicator/) of whether STANDEX's segments are likely to see headwinds or tailwinds in the quarters ahead.

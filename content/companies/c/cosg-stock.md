@@ -45,7 +45,7 @@ Cosmos Group's filings disclose the parent-company management team (CEO, CFO, [b
 
 ## Intercompany Accounting and Consolidation Adjustments
 
-A subtle but important element of Cosmos Group's 10-K is the consolidation mechanics. The company's consolidated income statement, balance sheet, and [cash flow statement](/cash-flow-statement/) are derived by combining all subsidiaries' results and eliminating intercompany transactions (sales between subsidiaries, intercompany loans, management fees paid from subsidiary to parent). The filings disclose the magnitude of consolidation adjustments in the footnotes. A large consolidation adjustment might signal significant intercompany transactions, which could indicate either efficient internal allocation of resources or complex structures designed to minimize taxes or transfer risk. The consolidation adjustments are disclosed but are often opaque to non-expert readers.
+A subtle but important element of Cosmos Group's 10-K is the consolidation mechanics. The company's consolidated income statement, balance sheet, and [cash flow statement](/cash-flow-statement/) are derived by combining all subsidiaries' results and eliminating intercompany transactions (sales between subsidiaries, intercompany loans, management fees paid from subsidiary to parent). The filings disclose the magnitude of consolidation adjustments in the footnotes. A large consolidation adjustment might signal significant intercompany transactions, which could indicate either efficient internal allocation of resources or complex structures designed to minimize taxes or [transfer risk](/transfer-risk/). The consolidation adjustments are disclosed but are often opaque to non-expert readers.
 
 ## Risk Concentration in Subsidiary Dependency
 

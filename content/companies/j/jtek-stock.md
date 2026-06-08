@@ -49,7 +49,7 @@ In periods when growth stocks broadly outperform — when [interest rates](/inte
 
 ## Costs, concentration, and the active management question
 
-At 0.65 percent annually, JTEK's [expense ratio](/expense-ratio/) is moderate among actively managed equity funds but meaningfully higher than a passive technology [index fund](/index-fund/), which typically costs 0.05 to 0.20 percent. JPMorgan needs to generate at least 0.65 percent of annual outperformance net of trading costs and taxes to justify the fee. Over a full market cycle, that is a meaningful hurdle.
+At 0.65 percent annually, JTEK's [expense ratio](/expense-ratio/) is moderate among actively managed equity funds but meaningfully higher than a passive technology [index fund](/index-fund/), which typically costs 0.05 to 0.20 percent. JPMorgan needs to generate at least 0.65 percent of annual outperformance net of trading costs and taxes to justify the fee. Over a full [market cycle](/market-cycle/), that is a meaningful hurdle.
 
 Concentration compounds both the opportunity and the risk. If JPMorgan's team correctly identifies the technology companies that will outperform the sector, the concentrated portfolio amplifies those gains. If the team's selections lag, the concentration amplifies losses. A concentrated portfolio is not inherently wrong; it reflects the manager's conviction. But it demands higher confidence in the manager's edge.
 

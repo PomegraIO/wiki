@@ -54,7 +54,7 @@ The path to growth is constrained. Organic growth is limited by market size. [Ac
 
 **Credit Losses.** A [recession](/recession/), agricultural downturn, or commercial real estate correction in Louisiana or Mississippi can trigger loan losses. The bank's concentration in these geographies is both its franchise advantage and its risk.
 
-**Deposit Competition.** Larger banks, credit unions, and yield-chasing savers moving to money-market funds or high-yield savings accounts can erode Origin's deposit base and raise funding costs.
+**Deposit Competition.** Larger banks, credit unions, and yield-chasing savers moving to money-market funds or [high-yield savings accounts](/high-yield-savings-account/) can erode Origin's deposit base and raise funding costs.
 
 **Regulatory Capital and Compliance.** As a publicly traded bank, Origin faces ongoing [stress testing](/stress-testing/), capital planning, and regulatory scrutiny. Regulatory changes (Dodd-Frank amendments, capital rules) can impose operational costs and limit flexibility.
 

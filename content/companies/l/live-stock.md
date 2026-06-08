@@ -38,7 +38,7 @@ Also examine capital returns. If the company is generating excess cash, does it 
 
 ## Tax and Financial Engineering
 
-Holding companies often have complex tax structures. Intercompany loans, transfer pricing, and royalty arrangements can shift profits around and optimize tax. This is legal and normal, but it complicates financial analysis. You must look beyond the consolidated [income statement](/income-statement/) to understand true economics. A holding company might show strong consolidated earnings but have them mostly taxed away at the parent level, or vice versa.
+Holding companies often have complex tax structures. Intercompany loans, [transfer pricing](/transfer-pricing/), and royalty arrangements can shift profits around and optimize tax. This is legal and normal, but it complicates financial analysis. You must look beyond the consolidated [income statement](/income-statement/) to understand true economics. A holding company might show strong consolidated earnings but have them mostly taxed away at the parent level, or vice versa.
 
 Also watch for special situations: [spin-offs](/spin-off/), sell-downs, or [mergers](/merger/). A holding company is the ideal restructuring vehicle. If LIVE's segments perform better independently, a spin-off could unlock value. Conversely, if a larger peer acquires LIVE, synergies might be material. This creates optionality, and optionality has value.
 
@@ -58,7 +58,7 @@ This complexity means LIVE trades on valuation swings more volatile than a focus
 
 Start by reading the 10-K segment disclosures thoroughly. For each business: revenue, [operating margin](/operating-margin/), [return on equity](/return-on-equity/), and capital expenditure. Compare margins and returns across segments. Which are core growth drivers? Which are cash cows or liability drags? Then look at corporate overhead: What percentage of consolidated revenue goes to parent-level costs (headquarters, legal, finance)? High overhead relative to revenue is a leakage.
 
-Next, assess the CEO's historical capital allocation. Review investor presentations and proxy statements for insight into strategy. Is management transparent about why it owns each business? Is there a stated thesis for how segments create value together, or are they just a portfolio?
+Next, assess the CEO's historical capital allocation. Review investor presentations and [proxy statements](/proxy-statement/) for insight into strategy. Is management transparent about why it owns each business? Is there a stated thesis for how segments create value together, or are they just a portfolio?
 
 Then value each segment independently using [price-to-earnings ratios](/price-to-earnings-ratio/), [price-to-sales ratios](/price-to-sales-ratio/), or discounted [free cash flow](/free-cash-flow/) methods. Sum the segment values, subtract holding-company overhead, and compare to the current stock price. This "sum-of-the-parts" valuation shows whether the market is pricing in a discount (opportunity) or premium (overvaluation).
 

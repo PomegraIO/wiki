@@ -24,7 +24,7 @@ The competitive landscape for climate investing has become crowded. Large asset 
 
 ClimateRock's approach centers on identifying capital-efficient projects and companies aligned with climate mitigation and adaptation. This might include renewable energy installations (solar, wind, hydro), energy-efficiency retrofits, grid-scale battery storage, sustainable agriculture, carbon capture technologies, and climate-adaptation infrastructure. The firm's thesis is that these assets are increasingly essential to global economic functioning, regulatory compliance, and the decarbonization pathway, and therefore offer both impact and financial returns.
 
-The fund must navigate a critical challenge: climate investments often require long [holding periods](/holding-period/), operate in regulated industries with margin constraints, and may face technology disruption risk (a solar farm built in 2015 faces different economic conditions by 2025 due to panel-cost compression). ClimateRock's value lies in its ability to source projects with favorable contract structures (power purchase agreements, government subsidies, or carbon pricing frameworks that lock in cash flows) and manage portfolio volatility.
+The fund must navigate a critical challenge: climate investments often require long [holding periods](/holding-period/), operate in regulated industries with margin constraints, and may face technology disruption risk (a solar farm built in 2015 faces different economic conditions by 2025 due to panel-cost compression). ClimateRock's value lies in its ability to source projects with favorable contract structures ([power purchase agreements](/power-purchase-agreement/), government subsidies, or carbon pricing frameworks that lock in cash flows) and manage portfolio volatility.
 
 ## Regulatory and Policy Tailwinds
 
@@ -46,7 +46,7 @@ This model has worked in stable policy environments with clear subsidy structure
 
 ## Competitive Dynamics and Exit Strategy
 
-The climate-investing space has attracted capital from multiple sources: dedicated climate VCs, large infrastructure funds rebranding as climate investors, private equity firms pivoting to energy transition, and corporate venture arms from utilities and energy majors. This competition for deal access and favorable terms is acute. ClimateRock's ability to differentiate rests on deal sourcing relationships, willingness to partner with development finance institutions, and governance structures that allow faster decision-making than large institutional investors.
+The climate-investing space has attracted capital from multiple sources: dedicated climate VCs, large [infrastructure funds](/pe-infrastructure-fund/) rebranding as climate investors, private equity firms pivoting to energy transition, and corporate venture arms from utilities and energy majors. This competition for deal access and favorable terms is acute. ClimateRock's ability to differentiate rests on deal sourcing relationships, willingness to partner with development finance institutions, and governance structures that allow faster decision-making than large institutional investors.
 
 Exit strategy varies by asset class. Some renewable projects are held to maturity; others are refinanced or sold to larger infrastructure funds seeking cash-flow yields. ClimateRock must maintain a balanced pipeline: some mature, cash-flowing assets to support distributions; others in growth or development stages offering appreciation upside.
 

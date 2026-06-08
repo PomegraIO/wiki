@@ -19,7 +19,7 @@ handwritten: true
 
 AVSD follows an index of developed-market international equities that have passed a responsibility filter. The fund begins with the universe of large and mid-cap stocks traded in developed countries outside North America, then applies exclusions based on environmental, social, and governance (ESG) criteria. Companies with severe controversies, violations, or business practices that flagrantly contradict widely accepted standards may be excluded.
 
-The specific methodology is rules-based and transparent — published by the index provider so investors know exactly which practices trigger removal. This is not a subjective judgment about which companies are "good"; it is a mechanical filter removing outliers and severe offenders. The resulting portfolio is smaller than an unscreened international index but remains diversified across dozens of countries, currencies, and sectors.
+The specific methodology is rules-based and transparent — published by the [index provider](/index-provider/) so investors know exactly which practices trigger removal. This is not a subjective judgment about which companies are "good"; it is a mechanical filter removing outliers and severe offenders. The resulting portfolio is smaller than an unscreened international index but remains diversified across dozens of countries, currencies, and sectors.
 
 The fund owns German industrial companies, Japanese conglomerates, European pharmaceuticals, Australian banks, Canadian energy firms — the whole developed world except the United States, minus the companies that have crossed clear red lines on responsibility. For many investors, that balance preserves global [diversification](/diversification/) while reducing exposure to egregious practices.
 
@@ -27,7 +27,7 @@ The fund owns German industrial companies, Japanese conglomerates, European phar
 
 AVSD's holdings are denominated in many currencies — euros, yen, pounds sterling, [Australian dollars](/australian-dollar/), [Canadian dollars](/canadian-dollar/), and others. A US investor holding AVSD is therefore exposed to currency fluctuations. When the [US dollar](/us-dollar/) weakens, foreign revenues and assets become more valuable in dollar terms, creating a tailwind. When the dollar strengthens, that same exposure becomes a headwind.
 
-This currency exposure can amplify or dampen returns compared to US equities. Over decades, currency effects tend to average out, but in any single year or market cycle, they can be substantial. Some investors view currency exposure as an advantage (true global diversification), others as a risk (unhedged foreign exchange).
+This currency exposure can amplify or dampen returns compared to US equities. Over decades, currency effects tend to average out, but in any single year or [market cycle](/market-cycle/), they can be substantial. Some investors view currency exposure as an advantage (true global diversification), others as a risk (unhedged foreign exchange).
 
 The geographic diversification is genuine: developed markets rise and fall on their own cycles. A European [recession](/recession/) does not necessarily coincide with a US recession. Japan's long [deflation](/deflation/) unfolded separately from American growth. By holding international equities, AVSD reduces the risk that a single country's economic problems will crush the entire portfolio.
 

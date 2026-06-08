@@ -44,7 +44,7 @@ The SPAC structure has attracted deals in high-growth, pre-profitability busines
 
 ## Data and Documentation
 
-Mountain Crest's [10-K](/10-k/) filing and merger proxy statements (when filed) will provide the granular detail: cash position, sponsor compensation, warrant structures, redemption rights, and deal economics. Those primary sources are the proper place to evaluate specific risk and opportunity.
+Mountain Crest's [10-K](/10-k/) filing and merger [proxy statements](/proxy-statement/) (when filed) will provide the granular detail: cash position, sponsor compensation, warrant structures, redemption rights, and deal economics. Those primary sources are the proper place to evaluate specific risk and opportunity.
 
 <div class="wiki-seealso">
 ### Closely related

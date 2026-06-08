@@ -22,7 +22,7 @@ The company maintains compliance with QOZ rules by ensuring that at least 90 per
 
 Belpointe PREP targets ground-up construction and redevelopment of multifamily residential and mixed-use projects in what the company identifies as growing Sun Belt and university-anchored markets. The fund has built a portfolio that leans toward markets with demographic tailwinds: population inflow, expanding employment bases, and strong rental demand. Rather than pursuing passive hold strategies, the company actively develops properties through acquisition, redevelopment, and lease-up phases before stabilization.
 
-The fund employs a leverage strategy tuned to each asset: it uses property-level debt and corporate-level borrowing to amplify returns, typically targeting 50 to 70 percent loan-to-value ratios on stabilized properties. This moderate leverage is calibrated to balance return potential with prudent risk management, recognizing that real estate development carries execution risk, market-cycle risk, and construction-cost volatility.
+The fund employs a leverage strategy tuned to each asset: it uses property-level debt and corporate-level borrowing to amplify returns, typically targeting 50 to 70 percent [loan-to-value ratios](/loan-to-value-ratio/) on stabilized properties. This moderate leverage is calibrated to balance return potential with prudent risk management, recognizing that real estate development carries [execution risk](/execution-risk/), market-cycle risk, and construction-cost volatility.
 
 The company is externally managed by Belpointe PREP Manager, LLC, an affiliate of the broader Belpointe organization, which brings real estate development, property management, and opportunity zone expertise to each transaction. This external management structure separates the fund's governance from day-to-day operations, allowing for professional, specialized oversight.
 
@@ -30,7 +30,7 @@ The company is externally managed by Belpointe PREP Manager, LLC, an affiliate o
 
 Belpointe PREP began trading on NYSE American on October 18, 2021, under the ticker OZ—a straightforward choice that signals its core mission. The company raised aggregate gross offering proceeds of approximately $368.6 million by the end of 2025. As a publicly traded fund, it issued Class A units (the primary retail offering) and Class B units held by the sponsor. Unlike many private QOZ funds, Belpointe PREP offers public investors continuous liquidity through the securities exchange, though unit prices fluctuate with market sentiment, property valuations, and broader real estate conditions.
 
-The fund is structured as a partnership for U.S. federal income tax purposes, which preserves the tax characteristics of the underlying investments and allows capital gains deferrals and exclusions to flow through to unitholders. This pass-through tax treatment is central to the fund's appeal: investors can achieve the tax benefits of direct opportunity zone investment while gaining the [diversification](/diversification/) and professional management of a pooled vehicle.
+The fund is structured as a partnership for U.S. federal income tax purposes, which preserves the tax characteristics of the underlying investments and allows capital gains deferrals and exclusions to flow through to unitholders. This pass-through tax treatment is central to the fund's appeal: investors can achieve the tax benefits of direct [opportunity zone investment](/opportunity-zone-real-estate/) while gaining the [diversification](/diversification/) and professional management of a pooled vehicle.
 
 ## Financial Position and Valuation
 
@@ -44,7 +44,7 @@ The regulatory environment itself carries uncertainty. The opportunity zone rule
 
 ## Key Risks and Pressures
 
-Real estate development carries inherent execution risk. Construction delays, cost overruns, supply-chain disruptions, and labor challenges can squeeze project returns and extend timelines to cash flow stabilization. Once built, multifamily and mixed-use properties face market-cycle exposure: downturns in employment, rising vacancy rates, or compressed rents can compress yields. Geographic and product concentration—if the fund's portfolio clusters in a few markets or property types—amplifies this cycle risk.
+Real estate development carries inherent execution risk. Construction delays, cost overruns, supply-chain disruptions, and labor challenges can squeeze project returns and extend timelines to cash flow stabilization. Once built, multifamily and mixed-use properties face market-cycle exposure: downturns in employment, rising [vacancy rates](/vacancy-rate-property/), or compressed rents can compress yields. Geographic and product concentration—if the fund's portfolio clusters in a few markets or property types—amplifies this cycle risk.
 
 Leverage amplifies both returns and downside. If properties decline in value or fail to stabilize at projected rent levels, debt covenants and refinancing challenges can emerge. A prolonged period of rising interest rates raises the cost of property-level debt, pressuring unlevered returns.
 

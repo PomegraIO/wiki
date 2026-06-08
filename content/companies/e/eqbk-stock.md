@@ -4,7 +4,7 @@ description: "EQUITY BANCSHARES operates as a community bank holding company cha
 keywords: ["community bank", "Colorado", "loan portfolio", "deposits", "credit risk"]
 ---
 
-*EQUITY BANCSHARES INC (EQBK), a Colorado-chartered bank holding company, is a regional community bank whose deposits and loan portfolio reflect the economic health and real estate cycles of the Mountain West. Reading EQBK's 10-K requires focus on loan composition, provisions for credit losses, and deposit stickiness in competitive markets.*
+*EQUITY BANCSHARES INC (EQBK), a Colorado-chartered bank holding company, is a regional community bank whose deposits and loan portfolio reflect the economic health and [real estate cycles](/real-estate-cycle/) of the Mountain West. Reading EQBK's 10-K requires focus on loan composition, provisions for credit losses, and deposit stickiness in competitive markets.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>EQBK</td></tr>
@@ -41,11 +41,11 @@ EQBK's net income flows from three drivers: (1) the spread on loans and deposits
 
 ## The Common Equity Tier 1 (CET1) Ratio and Regulatory Capital
 
-EQBK, as a bank holding company above a certain size, reports regulatory capital ratios: Common Equity Tier 1 (CET1), [Tier 1 capital](/tier-1-capital/), and total capital. These appear in the 10-K's risk section and are expressed as percentages of risk-weighted assets. Regulators set minimum thresholds; EQBK must maintain CET1 above 4.5% (plus buffers for well-capitalized institutions). If EQBK's ratio is tight, it has limited cushion to absorb losses or pay dividends. If it is strong (8%+), the bank is overcapitalized and could return capital to shareholders. This ratio is a constraint on strategy. A bank below minimum feels regulatory pressure; one well above it can grow or repay shareholders.
+EQBK, as a bank holding company above a certain size, reports regulatory capital ratios: Common Equity Tier 1 (CET1), [Tier 1 capital](/tier-1-capital/), and total capital. These appear in the 10-K's risk section and are expressed as percentages of [risk-weighted assets](/risk-weighted-assets/). Regulators set minimum thresholds; EQBK must maintain CET1 above 4.5% (plus buffers for well-capitalized institutions). If EQBK's ratio is tight, it has limited cushion to absorb losses or pay dividends. If it is strong (8%+), the bank is overcapitalized and could return capital to shareholders. This ratio is a constraint on strategy. A bank below minimum feels regulatory pressure; one well above it can grow or repay shareholders.
 
 ## Dividends and Capital Return Discipline
 
-Many regional banks return capital via dividends and buybacks, constrained by regulatory approval and capital ratios. EQBK's [cash flow statement](/cash-flow-statement/) shows dividends paid and shares repurchased. Look for consistency: does the company raise the dividend annually, signaling confidence, or freeze it during uncertain periods? Buyback programs announced in press releases may or may not be executed in full. The 10-K will note any capital return programs and whether they are subject to regulatory approval. A bank that suspends or cuts dividends is signaling deteriorating capital position or credit quality.
+Many regional banks return capital via dividends and buybacks, constrained by regulatory approval and capital ratios. EQBK's [cash flow statement](/cash-flow-statement/) shows dividends paid and shares repurchased. Look for consistency: does the company raise the dividend annually, signaling confidence, or freeze it during uncertain periods? Buyback programs announced in press releases may or may not be executed in full. The 10-K will note any [capital return programs](/capital-return-program/) and whether they are subject to regulatory approval. A bank that suspends or cuts dividends is signaling deteriorating capital position or credit quality.
 
 <div class="wiki-seealso">
 ### Closely related

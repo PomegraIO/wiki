@@ -33,7 +33,7 @@ handwritten: true
 
 **The competitive and intellectual-property landscape.** Neuropsychiatric drugs are a crowded space. Pharma giants have massive psychiatry portfolios. Biotech startups swarm. If NRX has genuine intellectual property—a unique molecular mechanism or a defensible patent position—that is valuable. If the candidates are "me-too" drugs (similar to existing treatments) or if the IP is weak, the path to approval and commercial viability is much harder.
 
-**Capitalization and dilution.** NRX has likely raised money multiple times through equity offerings, convertible notes, and warrants like NRXPW. Each round dilutes existing shareholders and warrant holders by issuing new shares at lower valuations (usually). If the company must raise again before a key milestone (trial success, partnership, approval), warrant holders will face further dilution.
+**Capitalization and dilution.** NRX has likely raised money multiple times through equity offerings, [convertible notes](/convertible-notes/), and warrants like NRXPW. Each round dilutes existing shareholders and warrant holders by issuing new shares at lower valuations (usually). If the company must raise again before a key milestone (trial success, partnership, approval), warrant holders will face further dilution.
 
 **Clinical trial risk is not theoretical.** A Phase 2 trial can show a drug is safe but ineffective. A Phase 3 trial—larger, costly, longer—can fail on efficacy even after Phase 2 success. Regulators set high bars. A single failed late-stage trial can crater the company's valuation. Warrant holders in a clinical-stage biotech are betting that management's science is sound and that the trials will succeed. That is a low-probability, high-leverage bet.
 

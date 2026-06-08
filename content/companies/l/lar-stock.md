@@ -40,7 +40,7 @@ What distinguishes Lithium Argentina is not unique technology or a moat beyond t
 
 ## Risks and pressures
 
-Execution risk is substantial. Mining projects frequently suffer delays and cost overruns. Caucharí-Olaroz is still not in commercial production, and the path to first production may extend further. Commodity risk is acute: if lithium prices fall sharply, the project economics worsen, and equity and debt financing become harder to secure. Regulatory risk in Argentina is real; provincial governments can change policies, environmental standards can tighten, and water-rights disputes can resurface.
+[Execution risk](/execution-risk/) is substantial. Mining projects frequently suffer delays and cost overruns. Caucharí-Olaroz is still not in commercial production, and the path to first production may extend further. [Commodity risk](/commodity-risk/) is acute: if lithium prices fall sharply, the project economics worsen, and equity and debt financing become harder to secure. Regulatory risk in Argentina is real; provincial governments can change policies, environmental standards can tighten, and water-rights disputes can resurface.
 
 [Market risk](/market-risk/) is also significant. Global lithium demand is tied to electric vehicle adoption, battery storage growth, and industrial demand. If EV sales decelerate or battery chemistry shifts away from lithium (a longer-term possibility), demand may not grow as expected. Finally, the sheer number of lithium projects now in development globally means that prices may remain pressured unless demand growth is brisk.
 

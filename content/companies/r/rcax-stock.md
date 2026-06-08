@@ -31,7 +31,7 @@ This concentration gives leverage its sharpest edge. During thematic rallies (wh
 
 RCAX's [expense ratio](/expense-ratio/) typically runs 0.95 to 1.10 percent, higher than unleveraged robotics ETFs because daily rebalancing and derivatives require ongoing trading costs. The implicit costs — [bid-ask spreads](/bid-ask-spread/) on entry and exit, rebalancing slippage — are not captured in the stated expense ratio but reduce net returns.
 
-Decay risk is non-negotiable. A leveraged ETF held for years through multiple market cycles typically underperforms even if the underlying index is flat. Volatility, not direction, is the enemy of leveraged products.
+Decay risk is non-negotiable. A leveraged ETF held for years through multiple [market cycles](/market-cycle/) typically underperforms even if the underlying index is flat. Volatility, not direction, is the enemy of leveraged products.
 
 RCAX is designed for tactical traders with a specific thesis: robotics stocks will rally in the near term (weeks to months), and amplified upside is desired. It is unsuitable for retirement accounts, buy-and-hold strategies, or investors uncomfortable with 2x daily volatility swings. It is a satellite position, not a core holding.
 

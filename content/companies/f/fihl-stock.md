@@ -25,7 +25,7 @@ The larger and stickier the float (premiums stable, claims far in the future), t
 
 ## Premium Income and Underwriting Cycles
 
-Pelagos' premium income comes from direct insurance (coverage sold to end customers or [brokers](/broker/)) and reinsurance (insurance sold to other insurers to transfer risk). The balance sheet carries earned premiums (premiums recognized as revenue as policies expire) and unearned premiums (premiums for future coverage periods, a liability owed to policyholders). As policies age and risk is worn off, unearned premiums convert to earned premiums and release as revenue.
+Pelagos' premium income comes from direct insurance (coverage sold to end customers or [brokers](/broker/)) and reinsurance (insurance sold to other insurers to [transfer risk](/transfer-risk/)). The balance sheet carries earned premiums (premiums recognized as revenue as policies expire) and unearned premiums (premiums for future coverage periods, a liability owed to policyholders). As policies age and risk is worn off, unearned premiums convert to earned premiums and release as revenue.
 
 Underwriting is cyclical. In soft markets (abundant insurance capacity, low prices), Pelagos competes on service and relationships, earning slim margins. In hard markets (capacity scarcity after a catastrophe, rising prices), Pelagos collects fat underwriting profits. The balance sheet reflects this: in soft markets, loss reserves are high relative to premiums (because margins are thin and loss risks are severe); in hard markets, reserves shrink as a percentage of premiums.
 

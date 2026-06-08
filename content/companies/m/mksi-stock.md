@@ -70,4 +70,4 @@ Watch for orders and backlog. When MKS has a growing backlog and high order rate
 
 Look at gross margins by product category — higher margins on specialized sensors than on commodity items. And track how much revenue comes from service and maintenance contracts, because those are more stable and less cyclical than new equipment sales.
 
-Finally, follow semiconductor spending trends. Equipment spending by chip makers is a leading indicator of MKS's health. When you see major fab buildout announcements or increased capital budgets from Intel, Samsung, TSMC, and others, that is a green light for MKS. When fab spending slows, MKS revenue will follow a few quarters later.
+Finally, follow semiconductor spending trends. Equipment spending by chip makers is a [leading indicator](/leading-indicator/) of MKS's health. When you see major fab buildout announcements or increased capital budgets from Intel, Samsung, TSMC, and others, that is a green light for MKS. When fab spending slows, MKS revenue will follow a few quarters later.

@@ -60,7 +60,7 @@ Dependence on indirect distribution is a chronic vulnerability. Impinj has limit
 
 Competitive pricing pressure is steady. As RFID adoption matures from "early adopter" to "standard practice," customers demand price concessions, and competitors capture wallet share by bundling readers, software, and tags. Gross margins on endpoint ICs, while strong, have compressed over the past decade as volumes increased and manufacturing scale benefited competitors as well as Impinj.
 
-Manufacturing concentration carries residual risk. While Impinj fabless (outsources chip production to Taiwan and other contract manufacturers), supply disruptions in semiconductor fab capacity, rare-earth magnet availability for antenna components, and logistics can stress deliveries during demand surges. The post-COVID semiconductor shortage taught Impinj and the industry that RFID is not immune to global supply constraints.
+Manufacturing concentration carries [residual risk](/residual-risk/). While Impinj fabless (outsources chip production to Taiwan and other contract manufacturers), supply disruptions in semiconductor fab capacity, rare-earth magnet availability for antenna components, and logistics can stress deliveries during demand surges. The post-COVID semiconductor shortage taught Impinj and the industry that RFID is not immune to global supply constraints.
 
 Finally, the long-term risk is disruption from new radio technologies. If ultra-wideband, LoRaWAN, or other standards achieve sub-cent-per-tag economics while delivering superior range or power efficiency, RAIN's moat erodes. So far, RAIN's simplicity—passive, battery-free, easy to read—has protected it, but paradigm shifts in IoT hardware and software are unpredictable.
 

@@ -1,0 +1,26 @@
+---
+title: "WisdomTree U.S. High Yield Corporate Bond Fund (QHY)"
+description: "A WisdomTree ETF that holds U.S. corporate bonds rated below investment grade, weighted by yield and rebalanced regularly to prioritize income generation."
+keywords:
+  - ETF
+  - high-yield bonds
+  - corporate bonds
+  - junk bonds
+  - fixed income
+  - credit risk
+handwritten: true
+---
+
+*The **WisdomTree U.S. High Yield [Corporate Bond](/corporate-bond/) Fund** (QHY) is an exchange-traded fund holding a broad basket of U.S. corporate [bonds](/bond/) that carry below-investment-grade ratings — bonds issued by companies with weaker [balance sheets](/balance-sheet/) or more financial stress, and therefore higher default risk. The fund is weighted by yield, meaning its largest holdings are the bonds offering the highest interest payments, and it rebalances quarterly to lock in yield and manage [interest-rate risk](/interest-rate-risk/). It is designed for investors seeking higher income than U.S. Treasuries or [investment-grade bonds](/investment-grade-bond/) provide, with the understanding that the risk of company default is meaningfully higher.*
+
+**Portfolio composition.** QHY holds roughly 400 to 600 individual corporate bonds at any time. The vast majority are U.S. domiciled, with maturities spread across 1 to 30+ years. The bonds are rated at least BB on the Standard & Poor's scale (or equivalents from Moody's or Fitch) — the top tier of speculative-grade debt. Below that sits B and lower, which the fund may touch but rarely, and default becomes a real possibility. The largest individual holdings are typically bonds from mature, cyclical companies — industrials, retailers, telecommunications firms, some financial institutions — that have managed to stay just above the investment-grade threshold.
+
+**Yield and mechanics.** [High-yield bonds](/high-yield-bond/) carry [coupon rates](/coupon-rate/) — the annual interest paid as a percentage of face value — that run 5 to 10 percent or more depending on the state of markets and the credit quality of each issuer. That is a substantial premium over investment-grade corporates (which might yield 4 to 6 percent) and vastly higher than U.S. [Treasury bonds](/treasury-bond/) (typically 2 to 4 percent at various maturities). QHY's weighting by yield means the fund gravitates toward the bonds offering the most income, which creates a natural rebalancing drag: as some bonds move closer to maturity and their yield falls, they shrink in weight, and the fund buys newer or lower-quality issues offering higher yield to stay aligned with the index. This steady rebalancing works as a sort of value discipline — the fund is mechanically selling bonds that have appreciated and buying those at higher yields — but it also locks in churn and occasional tax consequences for taxable holders.
+
+**Risks and return drivers.** The primary risk is default: if an issuer cannot pay its coupon or principal, the bondholder's income stops and capital may be lost. [Default rates](/default-rate/) in high-yield markets are cyclical — rising during [recessions](/recession/) and credit crunches, falling during expansions — so QHY's value fluctuates sharply with economic forecasts and [central bank](/central-bank/) policy. When investors fear recession, they sell high-yield bonds en masse, and the fund's price drops even if no defaults have occurred yet. Conversely, when the economic outlook brightens, high-yield bonds rally sharply as fears recede. This volatility is much higher than investment-grade corporate bonds, and far higher than Treasury bonds.
+
+A secondary risk is interest-rate risk. All bonds fall in value when [interest rates](/interest-rate/) rise, because a fixed 7 percent coupon becomes less attractive when newly issued bonds offer 8 percent. High-yield bonds are somewhat less sensitive to rate moves than longer-duration investment-grade or Treasury bonds, but they are not immune. During periods of rapid Fed rate increases, [high-yield bond funds](/high-yield-bond-fund/) can suffer significant drawdowns even absent any deterioration in actual credit quality.
+
+**[Expense ratio](/expense-ratio/) and liquidity.** QHY typically carries an expense ratio in the range of 0.35 to 0.50 percent, reflecting the ongoing work of managing and rebalancing the portfolio. Individual bonds are less liquid than stocks — a position holder may take hours or days to exit a large position without moving the market — so the fund manager must manage cash flows and portfolio turnover carefully. The fund itself, trading on an [exchange, offers](/equity-unit-exchange-offer/) good liquidity; most investors can buy or sell shares at reasonable spreads.
+
+**Who this is for.** QHY is suitable for income-focused investors comfortable with moderate to high volatility and the possibility of losses if a recession triggers defaults. It is often used as a higher-yield substitute for investment-grade bonds within a fixed-income sleeve, though the risk profile is materially different. It is not appropriate for conservative portfolios seeking stable principal preservation, and it is unsuitable for those unable to stomach a 20–30 percent drawdown in a bad year.

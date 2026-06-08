@@ -46,7 +46,7 @@ The result is a pure inflation-tracking vehicle with minimal interest-rate volat
 
 ## The coupon and real yield trade-off
 
-RBIL's holdings carry coupons determined at issue and adjusted by inflation. When TIPS are issued, they pay a [real yield](/real-yield/) — the [coupon rate](/coupon-rate/) above inflation expectations. In periods of high real yields (when bonds are cheap relative to expected inflation), TIPS coupons are higher. In periods of low real yields (when bonds are expensive), coupons are lower.
+RBIL's holdings carry coupons determined at issue and adjusted by inflation. When TIPS are issued, they pay a [real yield](/real-yield/) — the [coupon rate](/coupon-rate/) above [inflation expectations](/inflation-expectations/). In periods of high real yields (when bonds are cheap relative to expected inflation), TIPS coupons are higher. In periods of low real yields (when bonds are expensive), coupons are lower.
 
 The fund does not try to boost returns by extending duration or buying longer bonds. It strictly sticks to one-to-three-year TIPS. This means that in a rising real-yield environment (when TIPS become cheaper), RBIL will hold coupons lower than longer-duration TIPS available elsewhere. But in a falling real-yield environment (when TIPS become expensive), RBIL avoids the capital losses that longer TIPS would suffer.
 

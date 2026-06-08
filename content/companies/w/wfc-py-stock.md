@@ -15,7 +15,7 @@ handwritten: true
 
 ## The gold rush to banking: 1852–1960s
 
-Wells Fargo's original core business — moving precious metals and currency across the western frontier — was essential to the California Gold Rush and the early development of the American West. The company's reputation for reliability and security made it the trusted [custodian](/custodian/) of the era's wealth. As the frontier settled and cities emerged, Wells Fargo evolved from a stagecoach business into a bank, first as a de facto treasurer for miners and merchants, then as a formal banking institution.
+Wells Fargo's original core business — moving precious metals and currency across the western frontier — was essential to the California Gold Rush and the early development of the American West. The company's reputation for reliability and security made it the trusted [custodian](/custodian/) of the era's wealth. As the frontier settled and cities emerged, Wells Fargo evolved from a stagecoach business into a [bank, first](/bfc-stock/) as a de facto treasurer for miners and merchants, then as a formal banking institution.
 
 By the early 20th century, Wells Fargo was a respected western bank with strong regional presence. Unlike eastern megabanks like National City Bank (later Citibank) or Chase, Wells Fargo built its identity in the West, serving merchants, farmers, and small businesses across California and neighboring states. The bank operated conservatively, with a reputation for prudent lending and strong capital reserves.
 

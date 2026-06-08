@@ -35,7 +35,7 @@ As a U.S.-based software company, Navan is subject to the Export Administration 
 
 If Navan's platform includes encryption or performs data security functions, the company must comply with EAR Part 740 rules. This may require securing export licenses, implementing technology control measures to prevent use in sanctioned jurisdictions, and maintaining records of customers and sales. A breach of export controls—such as selling to an Iranian company or providing software to a customer that redistributes it to a sanctioned entity—triggers criminal penalties, fines, and potential revocation of export rights.
 
-Navan's global customer base means it must implement controls preventing sales to sanctioned countries (currently Iran, North Korea, Syria, Crimea) and screening customers against the Office of Foreign Assets Control (OFAC) list. False-positive blocks can frustrate legitimate customers; missed violations expose the company to enforcement action.
+Navan's global customer base means it must implement controls preventing sales to sanctioned countries (currently Iran, North Korea, Syria, Crimea) and screening customers against the [Office of Foreign Assets Control](/office-of-foreign-assets-control/) (OFAC) list. False-positive blocks can frustrate legitimate customers; missed violations expose the company to enforcement action.
 
 ## SOC 2 and Security Compliance Standards
 
@@ -45,7 +45,7 @@ The company must also comply with specific industry standards if it serves regul
 
 ## FCPA and Anti-Corruption Compliance
 
-As a company with global employees and customers, Navan is subject to the Foreign Corrupt Practices Act (FCPA), which prohibits bribery of foreign officials. Travel and expense platforms can inadvertently facilitate FCPA violations if customers use them to book travel or approve reimbursements that conceal bribes. Navan must implement controls to prevent its platform from being used for illegal payments and train employees and customers on FCPA rules.
+As a company with global employees and customers, Navan is subject to the [Foreign Corrupt Practices Act](/foreign-corrupt-practices-act/) (FCPA), which prohibits bribery of foreign officials. Travel and expense platforms can inadvertently facilitate FCPA violations if customers use them to book travel or approve reimbursements that conceal bribes. Navan must implement controls to prevent its platform from being used for illegal payments and train employees and customers on FCPA rules.
 
 An employee at a customer company could use Navan's platform to book a luxury hotel stay, classify it as business travel, and use it as a disguised bribe to a foreign official. While Navan did not directly participate, the company's platform was used for the violation. If the company knowingly enables such activity or fails to implement reasonable anti-corruption controls, Navan faces potential FCPA liability, settlements, and reputational damage.
 

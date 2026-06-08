@@ -4,7 +4,7 @@ description: "Canadian junior gold explorer focused on exploration-stage propert
 keywords: [gold-exploration, senegal-mining, junior-explorer, precious-metals, exploration-stage]
 ---
 
-*Compass Gold Corp. (COGDF) is a Canadian-headquartered mineral explorer developing early-stage gold properties in Senegal, West Africa. The company's entire value proposition rests on its ability to discover economic gold deposits in a region where geology is promising but operational and political risks are high. Geography is not incidental to Compass's story—it is the story: where the company operates, what regulations it faces, what infrastructure exists, and how stable the jurisdiction is all determine whether Compass's acreage can become a producing mine or remains an expensive exploration speculative play.*
+*Compass Gold Corp. (COGDF) is a Canadian-headquartered mineral explorer developing early-stage gold properties in Senegal, West Africa. The company's entire value proposition rests on its ability to discover economic gold deposits in a region where geology is promising but operational and [political risks](/political-risk/) are high. Geography is not incidental to Compass's story—it is the story: where the company operates, what regulations it faces, what infrastructure exists, and how stable the jurisdiction is all determine whether Compass's acreage can become a producing mine or remains an expensive exploration speculative play.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>COGDF</td></tr>

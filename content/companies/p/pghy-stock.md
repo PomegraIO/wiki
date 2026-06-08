@@ -1,0 +1,34 @@
+---
+title: "Invesco Global ex-US High Yield Corporate Bond ETF (PGHY)"
+description: "PGHY is a fixed-income ETF that holds high-yield (below-investment-grade) corporate bonds issued outside the United States, offering higher income at the cost of credit and currency risk."
+keywords:
+  - high yield bonds
+  - emerging markets
+  - junk bonds
+  - global fixed income
+  - corporate bonds
+  - currency risk
+handwritten: true
+---
+
+*The Invesco Global ex-US High Yield [Corporate Bond](/corporate-bond/) ETF (PGHY) owns a portfolio of corporate [bonds](/bond/) issued by non-US companies that carry below-investment-grade [credit ratings](/credit-rating/) — meaning they offer higher yields than safer government bonds or investment-grade corporates, in exchange for real default risk.*
+
+For an investor accustomed to US [Treasury bonds](/treasury-bond/) or bonds issued by investment-grade US corporations, the fixed-income landscape outside the United States can feel like a different planet. Beyond the shelter of the [US dollar](/us-dollar/) and US legal protections, investors encounter a broader spectrum of borrowers at varied stages of development and creditworthiness. PGHY represents one answer to the question of how to capture yield in that broader world: by holding a diversified basket of bonds rated below investment grade, issued in Europe, emerging markets, and other non-US economies.
+
+The term "high yield" is euphemistic — these bonds are more accurately called [junk bonds](/junk-bond/) or non-investment-grade debt. They are bonds issued by companies whose financial condition or industry dynamics suggest a meaningful [probability of default](/probability-of-default/) within any given year. To compensate investors for accepting that risk, these bonds offer yields two, three, four, or more percentage points higher than equivalent government bonds or high-quality corporate debt. In benign markets with stable economies and confident investors, junk bonds perform well and the higher yield is received without incident. In downturns, defaults rise sharply and prices collapse.
+
+PGHY concentrates its risk in non-US corporates for one structural reason: yields outside the US have often been higher than US junk yields, because many non-US economies carry higher [inflation](/inflation/), higher [political risk](/political-risk/), or weaker institutional credit markets. Over the past two decades, US corporations have borrowed cheaply and extensively, compressing junk yields; non-US corporates, especially in emerging markets, have continued to offer wider spreads for the same credit quality. An investor hunting yield might find more basis points available in global junk than in US junk. PGHY captures that bet.
+
+The portfolio typically includes major borrowers in Europe (including the United Kingdom), Latin America, Asia, and the Middle East. The bonds are denominated in US dollars, euros, and other currencies — PGHY does not hedge currency exposure, so a strong dollar will reduce returns for non-dollar bonds (or vice versa if the dollar weakens). The weighting toward different countries and currencies shifts over time as Invesco's portfolio managers rebalance.
+
+A typical PGHY holding might be a bond issued by a mid-sized European telecom company, a Latin American oil or mining firm, an Asian technology company, or a conglomerate in an emerging market. These are real businesses in real industries, but their credit profiles are weaker than investment-grade issuers — either because the company is overleveraged, the industry is cyclical and currently weak, or the country's economy carries structural risks. The bonds might carry coupons of 5%, 6%, 7%, or higher, reflecting the added default risk.
+
+The [diversification](/diversification/) across geography and sectors matters profoundly. When emerging markets face capital outflows, non-US high-yield typically gets hit hard — investors flee to safety and US dollar assets. When a particular industry (say, energy) faces a price shock, all the energy-heavy borrowers in the portfolio suffer simultaneously. PGHY's geographic and sectoral spread dampens but does not eliminate these shocks. A serious global [recession](/recession/) would likely produce defaults across the portfolio, given the credit quality of the borrowers.
+
+The fund's duration — the weighted-average maturity of its bonds — is typically medium, in the range of four to six years. This means the portfolio has meaningful interest-rate sensitivity: if global yields rise sharply, PGHY's prices will fall, both because investors demand higher yields and because the [credit risk](/credit-risk/) premium on junk bonds typically widens in periods of market stress. Conversely, when risk appetite is high and yields fall, PGHY can deliver strong total returns. Much of the fund's return comes from changes in bond prices and [credit spreads](/credit-spread/), not just the coupon income — a distinction that makes the fund far more volatile than its yield alone would suggest.
+
+PGHY trades on an exchange with typically moderate liquidity for a [bond ETF](/bond-etf/). The [bid-ask spread](/bid-ask-spread/) can widen during market stress when bond trading slows. The [expense ratio](/expense-ratio/) is modest, usually in the 0.40–0.55% range for an active (or semi-active) fixed-income [fund. Distributions](/fund-distribution/) are paid monthly and reflect the coupon income from the portfolio plus or minus any capital gains or losses realized from trading.
+
+The fund makes most sense for an investor with a long time horizon, a tolerance for volatility, and a belief that non-US economies and their borrowers offer attractive risk-adjusted returns relative to US assets. It is poorly suited for someone who cannot afford a 10–15% decline in fund value in a bad year, or for someone who needs the safety and liquidity of higher-rated debt. Tax treatment depends on the investor's jurisdiction and account type, but the high turnover of a bond fund and the prevalence of foreign bonds can create tax inefficiencies in taxable accounts.
+
+Research into PGHY should begin with the fund's fact sheet and prospectus, which show the current holdings, duration, yield, and credit-quality breakdown. Comparing the fund's yield and credit spread to other global high-yield funds and to pure-play emerging-market bond funds will clarify whether PGHY's fees and positioning are competitive. Tracking the fund's currency exposure — both disclosed and undisclosed through its bond holdings — provides insight into whether the fund is, in effect, also making a bet on currency valuations. Finally, examining PGHY's performance during periods of market stress, particularly emerging-market crises, reveals how deeply the fund declines when risk appetite collapses.

@@ -53,7 +53,7 @@ Fusion Fuel operates across multiple regulatory regimes. If the company develops
 
 ## Reporting and Transparency
 
-The [SEC](/securities-and-exchange-commission/) requires Fusion Fuel to disclose material regulatory risks in its [10-K](/10-k/) and quarterly reports. Pending permits, litigation over environmental approvals, and changes to subsidy rules must be disclosed. Any loss of green hydrogen certification, a major project delay due to permitting, or a change in tax credit eligibility can materially affect financial forecasts. Investors examining Fusion Fuel should focus on the company's regulatory pipeline: How many facilities have secured all major permits? How many are in permitting and what is the timeline? Have there been regulatory setbacks or unexpected cost increases? The answers reveal regulatory execution risk.
+The [SEC](/securities-and-exchange-commission/) requires Fusion Fuel to disclose material regulatory risks in its [10-K](/10-k/) and quarterly reports. Pending permits, litigation over environmental approvals, and changes to subsidy rules must be disclosed. Any loss of green hydrogen certification, a major project delay due to permitting, or a change in tax credit eligibility can materially affect financial forecasts. Investors examining Fusion Fuel should focus on the company's regulatory pipeline: How many facilities have secured all major permits? How many are in permitting and what is the timeline? Have there been regulatory setbacks or unexpected cost increases? The answers reveal regulatory [execution risk](/execution-risk/).
 
 <div class="wiki-seealso">
 ### Closely related

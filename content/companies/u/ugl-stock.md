@@ -31,7 +31,7 @@ Additionally, the fund must continuously roll gold futures contracts as they app
 
 ## Who invests in UGL and why
 
-Gold itself serves multiple purposes in investor portfolios. For many, it is a hedge against currency devaluation or inflation — when [central banks](/central-bank/) expand money supplies sharply, gold tends to hold its purchasing power. For others, it is insurance against equity market crashes; gold often rises when stocks fall during crises. Some investors simply believe gold is undervalued and will appreciate over time. UGL appeals to those who hold these bullish gold views but want magnified exposure.
+Gold itself serves multiple purposes in investor portfolios. For many, it is a hedge against [currency devaluation](/currency-devaluation/) or inflation — when [central banks](/central-bank/) expand money supplies sharply, gold tends to hold its purchasing power. For others, it is insurance against equity market crashes; gold often rises when stocks fall during crises. Some investors simply believe gold is undervalued and will appreciate over time. UGL appeals to those who hold these bullish gold views but want magnified exposure.
 
 Traders use UGL for tactical bets on expected gold appreciation over periods of days or weeks. If a trader believes gold will spike due to a geopolitical event or a shift in macroeconomic expectations, holding UGL can generate larger percentage gains from a smaller capital commitment than holding unleveraged gold exposure.
 
@@ -47,7 +47,7 @@ This decay is built into the structure. It is not a flaw in fund management; it 
 
 ## The economic environment and gold's role
 
-Gold prices depend on multiple factors beyond the size and direction of gold's move. Central bank [monetary policy](/monetary-policy/), [real interest rates](/real-interest-rate/) (the return on safe assets like [Treasury bonds](/treasury-bond/), adjusted for inflation), currency exchange rates, and investor risk appetite all influence gold's attractiveness. In environments where real [interest rates](/interest-rate/) are negative — meaning the purchasing power return on [bonds](/bond/) is negative — gold often outperforms because it offers a store of value without interest-rate drag. When real interest rates rise, gold becomes less attractive by comparison, because bonds and cash now offer better real returns.
+Gold prices depend on multiple factors beyond the size and direction of gold's move. Central bank [monetary policy](/monetary-policy/), [real interest rates](/real-interest-rate/) (the return on safe assets like [Treasury bonds](/treasury-bond/), adjusted for inflation), currency exchange rates, and investor risk appetite all influence gold's attractiveness. In environments where real [interest rates](/interest-rate/) are negative — meaning the purchasing power return on [bonds](/bond/) is negative — gold often outperforms because it offers a store of value without interest-rate drag. When real interest rates [rise, gold](/ryes-stock/) becomes less attractive by comparison, because bonds and cash now offer better real returns.
 
 Geopolitical tension, financial system stress, and equity market crashes all tend to boost gold demand as investors seek safe havens. Long-term inflation or central bank weakness can also drive gold higher. UGL captures all of these dynamics, amplified three-fold on a daily basis. The challenge is that these macro environments often bring volatility, which works against the fund through daily rebalancing decay.
 

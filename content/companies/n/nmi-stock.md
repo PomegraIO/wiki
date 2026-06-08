@@ -77,7 +77,7 @@ Start by looking at the fund's [annual report](/10-k/) and fact sheet. These tel
 
 Look at the fund's discount or premium. Is it trading at a discount (good) or premium (bad)? Has this changed over time? A fund that trades at a big premium is being overpaid by the market.
 
-Check the fund's yield — how much income it is paying out relative to the share price. Compare this to other municipal bond funds. Also look at the fund's history: have the payments been steady, or have they fluctuated a lot? Stable payments are better.
+Check the fund's yield — how much income it is paying out relative to the share price. Compare this to other [municipal bond funds](/municipal-bond-fund/). Also look at the fund's history: have the payments been steady, or have they fluctuated a lot? Stable payments are better.
 
 Finally, look at the bonds in the portfolio. Are they mostly from strong states and cities, or is the fund taking on more risk to chase higher income? A fund that is taking too much credit risk might be unsustainable.
 

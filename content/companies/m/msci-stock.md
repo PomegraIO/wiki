@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-MSCI is a specialized financial-information company that produces indexes, analytics, and research tools for institutional investors worldwide. Its most famous product is its family of [stock market](/stock-market/) indexes — among them the MSCI World Index, the MSCI Emerging Markets Index, and hundreds of others — which track the performance of different segments of global equities. Trillions of dollars in assets are pegged to these indexes, making MSCI one of the most influential — if least visible — companies in finance. Beyond indexes, the company sells research, analytics platforms, and data that help investors understand risk, analyze their portfolios, and make allocation decisions.
+MSCI is a specialized financial-information company that produces indexes, analytics, and research tools for institutional investors worldwide. Its most famous product is its family of [stock market](/stock-market/) indexes — among them the [MSCI World Index](/msci-world-index/), the [MSCI Emerging Markets Index](/msci-emerging-markets-index/), and hundreds of others — which track the performance of different segments of global equities. Trillions of dollars in assets are pegged to these indexes, making MSCI one of the most influential — if least visible — companies in finance. Beyond indexes, the company sells research, analytics platforms, and data that help investors understand risk, analyze their portfolios, and make allocation decisions.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ In 1998, Morgan Stanley spun off MSCI as a separate company, taking the index bu
 
 ## The index business at scale
 
-Today, index licensing is MSCI's largest revenue source. The company's indexes are woven into the global financial system. Hundreds of billions or trillions in assets — exact numbers vary with market movements and are proprietary — are invested in funds designed to track MSCI indexes. Asset managers, insurance companies, and pension funds all run index-tracking vehicles. When someone invests in a low-cost index mutual fund that claims to track "emerging markets," they are almost certainly tracking an MSCI emerging markets index.
+Today, [index licensing](/index-licensing/) is MSCI's largest revenue source. The company's indexes are woven into the global financial system. Hundreds of billions or trillions in assets — exact numbers vary with market movements and are proprietary — are invested in funds designed to track MSCI indexes. Asset managers, insurance companies, and pension funds all run index-tracking vehicles. When someone invests in a low-cost index mutual fund that claims to track "emerging markets," they are almost certainly tracking an MSCI emerging markets index.
 
 The power of this position is subtle but enormous. Once an index gains adoption, the money that flows into index funds creates a form of stickiness. A pension fund manager cannot simply switch from the MSCI Emerging Markets Index to a competitor's version without triggering rebalancing costs and explaining the change to stakeholders. Changing indexes is also a technical undertaking — valuations and performance records are attached to the old index. This means large investors, once committed to an MSCI index, are likely to stay with it for decades.
 
@@ -51,7 +51,7 @@ MSCI also acquired RiskMetrics (a firm that provides risk analytics) and Barra (
 
 ## The competitive and structural picture
 
-MSCI competes with other index providers, most visibly [S&P Global](/spgi-stock/) (which owns the [S&P 500 index](/sp-500-index/) and hundreds of others) and FTSE Russell (owned by the [London Stock Exchange](/london-stock-exchange/) group). But MSCI's dominance in emerging markets and its deep integration into global portfolio management give it a strong franchise. New competitors cannot easily dislodge it because the cost to large investors of switching indexes is real.
+MSCI competes with other [index providers](/index-provider/), most visibly [S&P Global](/spgi-stock/) (which owns the [S&P 500 index](/sp-500-index/) and hundreds of others) and FTSE Russell (owned by the [London Stock Exchange](/london-stock-exchange/) group). But MSCI's dominance in emerging markets and its deep integration into global portfolio management give it a strong franchise. New competitors cannot easily dislodge it because the cost to large investors of switching indexes is real.
 
 The fundamental business model has a built-in risk: if active asset managers decline and the world shifts entirely to passive index investing, MSCI's growth depends on the total pool of assets growing, not on gaining share. However, emerging markets and analytics remain areas where MSCI can grow faster than the market, because adoption of these tools is still ramping.
 

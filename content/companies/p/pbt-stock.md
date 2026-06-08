@@ -50,7 +50,7 @@ This is not unique to PBT — it is the nature of all resource-extraction assets
 
 ## Tax reporting and complexity
 
-Because PBT is structured as a trust, each shareholder receives a Schedule K-1 at tax time, showing their pro-rata share of the trust's taxable income, return of capital, and various other components. This is more complicated than owning a regular stock or fund, and it requires careful tax filing. The return-of-capital portion (in good years, a significant slice of the distribution) is not taxable when received but reduces the shareholder's [cost basis](/cost-basis/) for future capital-gains calculation — a benefit that does not show up in the year received. This catches many small shareholders off guard if they are not careful.
+Because PBT is structured as a trust, each shareholder receives a [Schedule K-1](/schedule-k-1/) at tax time, showing their pro-rata share of the trust's taxable income, return of capital, and various other components. This is more complicated than owning a regular stock or fund, and it requires careful tax filing. The return-of-capital portion (in good years, a significant slice of the distribution) is not taxable when received but reduces the shareholder's [cost basis](/cost-basis/) for future capital-gains calculation — a benefit that does not show up in the year received. This catches many small shareholders off guard if they are not careful.
 
 For anyone holding PBT, accurate tax software or a tax professional familiar with K-1 forms is essential. The benefit of lower taxable income than the headline distribution rate suggests is real, but only if the tax situation is handled correctly.
 

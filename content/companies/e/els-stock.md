@@ -26,7 +26,7 @@ handwritten: true
 
 ## The earliest days and the growth into a national player
 
-Equity Lifestyle Properties traces its origins to 1968, founded as a owner and operator of mobile-home parks in an era when the manufactured-housing industry was still finding its place in American residential real estate. For decades it remained a regional consolidator, buying independent parks in fragmented markets and bringing them under professional management. Through the 1980s and 1990s, the company methodically expanded, acquiring parks and building operational expertise across states.
+Equity Lifestyle Properties traces its origins to 1968, founded as a owner and operator of mobile-home parks in an era when the manufactured-housing industry was still finding its place in American residential real estate. For decades it remained a regional consolidator, buying independent parks in [fragmented markets](/fragmented-market/) and bringing them under professional management. Through the 1980s and 1990s, the company methodically expanded, acquiring parks and building operational expertise across states.
 
 The strategic shift came in the early 2000s when ELS went public and began using public-market capital to accelerate what had been a steady acquisition strategy. That access to capital transformed the company's scale. Over the following two decades, ELS became the largest operator of manufactured-housing communities in the United States and one of the largest RV park operators, through a combination of [acquisitions](/acquisition/) — sometimes buying platforms of multiple parks at once — and greenfield development. By the 2020s, the company operated hundreds of communities across North America, housing tens of thousands of residents.
 

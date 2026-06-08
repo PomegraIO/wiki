@@ -28,7 +28,7 @@ FACT II [Acquisition](/acquisition/) Corp. exists to find a company worth acquir
 
 > A SPAC is fundamentally a bet on the sponsor's judgment.
 
-FACT II Acquisition Corp. raised capital by selling units to public investors—each unit containing one share and a fractional warrant. The $175 million sits in a trust account, locked away until a [business combination](/business-combination-purchase/) closes or investors vote to redeem their shares in full. The real capital in the equation is the sponsor's skin in the game: the founders and their money, backing their ability to find and execute a quality deal. If the SPAC buys a dud, the sponsor's reputation and capital burn. If it succeeds, the sponsor retains a carried interest in the merged company.
+FACT II Acquisition Corp. raised capital by selling units to public investors—each unit containing one share and a fractional warrant. The $175 million sits in a trust account, locked away until a [business combination](/business-combination-purchase/) closes or investors vote to redeem their shares in full. The real capital in the equation is the sponsor's skin in the game: the founders and their money, backing their ability to find and execute a quality deal. If the SPAC buys a dud, the sponsor's reputation and capital burn. If it succeeds, the sponsor retains a [carried interest](/carried-interest-compensation/) in the merged company.
 
 The incentive structure creates obvious tension. Public shareholders have an exit: they can redeem their shares at [net asset value](/net-asset-value/) (roughly $10 per share) if they dislike the proposed target. Sponsors have no such escape hatch. That asymmetry theoretically makes sponsors selective, though a long history of SPAC deals has shown that selectivity varies widely.
 
@@ -46,6 +46,6 @@ For SPAC investors, the window matters. The longer a deal takes to complete, the
 
 ## Reading a SPAC as an investment
 
-Anyone examining FACT II should start with the [merger](/merger/) agreement and proxy statement filed with the SEC, which discloses the target company's financials, management, market position, and the deal's economic terms. The trust account balance appears in every quarterly 10-Q filing. Most critically: understand what the sponsor has done before. Track record matters. A sponsor with prior SPAC wins carries different risk from a first-time operator.
+Anyone examining FACT II should start with the [merger](/merger/) agreement and [proxy statement](/proxy-statement/) filed with the SEC, which discloses the target company's financials, management, market position, and the deal's economic terms. The trust account balance appears in every quarterly 10-Q filing. Most critically: understand what the sponsor has done before. Track record matters. A sponsor with prior SPAC wins carries different risk from a first-time operator.
 
 Before completion, FACT II trades primarily on sentiment about whether the deal will close and on the trust account redemption value. After the merger closes, the company becomes a legitimate aerospace and defence supplier, and its valuation will depend entirely on execution, growth, competition, and the durability of its customer relationships in a capital-intensive, heavily regulated industry.

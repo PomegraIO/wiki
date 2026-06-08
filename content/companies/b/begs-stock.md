@@ -47,7 +47,7 @@ The implication is that BEGS can experience rapid, large drawdowns. A 15 percent
 
 Leveraged ETFs are tools, not long-term buy-and-hold investments. They are designed for traders and tactical allocators who make short-term bets—days to weeks—on directional moves in an asset class. A trader who believes cryptocurrency and metals will rise significantly over the next week might use BEGS to amplify the expected gain. If the thesis plays out, the amplified return is the reward. If it fails, the amplified loss is the cost.
 
-Leveraged ETFs are unsuitable for long-term buy-and-hold investors. The decay drag, the rebalancing friction, and the tax inefficiency (due to daily internal trading) compound to a severe drag over years. An investor who holds BEGS for a decade through various market cycles is almost certain to underperform a 2x allocation to the underlying index purchased once and rebalanced annually. The daily reset mechanism, though mathematically sound for short-term tactical use, becomes a liability in extended holding periods.
+Leveraged ETFs are unsuitable for long-term buy-and-hold investors. The decay drag, the rebalancing friction, and the tax inefficiency (due to daily internal trading) compound to a severe drag over years. An investor who holds BEGS for a decade through various [market cycles](/market-cycle/) is almost certain to underperform a 2x allocation to the underlying index purchased once and rebalanced annually. The daily reset mechanism, though mathematically sound for short-term tactical use, becomes a liability in extended holding periods.
 
 ## Costs and structure
 

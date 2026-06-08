@@ -28,7 +28,7 @@ handwritten: true
 
 ## How the strategy works
 
-AIYY owns a basket of stocks in the artificial-intelligence and large-cap technology space. Against those holdings, YieldMax writes call options each month — essentially selling investors the right to buy those stocks at a fixed price. Those option buyers pay a premium upfront, which YieldMax collects and distributes to AIYY shareholders.
+AIYY owns a basket of stocks in the artificial-intelligence and large-cap technology space. Against those holdings, YieldMax writes call options each month — essentially selling investors the right to buy those stocks at a fixed price. Those [option buyers](/option-buyer/) pay a premium upfront, which YieldMax collects and distributes to AIYY shareholders.
 
 The mechanics are straightforward but consequential. Suppose AIYY holds a tech stock trading at $100. Each month the fund writes and sells a call option with a [strike price](/strike-price/) of, say, $105 — giving the call buyer the right to buy the stock at that price. If the stock stays below $105 at expiration, the option expires worthless, YieldMax pockets the premium, and the process repeats next month. If the stock rallies past $105, the call is exercised: the stock gets called away at $105, and AIYY shareholders miss any gain beyond that price.
 

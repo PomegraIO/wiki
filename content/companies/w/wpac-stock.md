@@ -52,6 +52,6 @@ There is also dilution. The sponsors keep founder shares that were dirt cheap. I
 
 ## What to look for
 
-If you are considering WPAC shares, start with the announcement of a merger target if one exists. Read the proxy statement filed with the SEC. It lays out the deal terms, the sponsors' stakes, the warrant terms, the capital structure of the combined company, and pro-forma financial statements showing what the merged company might look like. Understand what you are really buying into — not the SPAC itself, but the business on the other side of the merger.
+If you are considering WPAC shares, start with the announcement of a merger target if one exists. Read the [proxy statement](/proxy-statement/) filed with the SEC. It lays out the deal terms, the sponsors' stakes, the warrant terms, the capital structure of the combined company, and pro-forma financial statements showing what the merged company might look like. Understand what you are really buying into — not the SPAC itself, but the business on the other side of the merger.
 
 If no merger target has been announced yet, you are purely betting on the sponsors' track record and their stated investment strategy. Check what deals they have done before and how those companies have performed.

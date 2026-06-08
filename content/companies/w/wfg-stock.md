@@ -51,7 +51,7 @@ Owning timberland matters. It means West Fraser's costs are partially decoupled 
 
 ## Economics and cyclicality
 
-Forest products are brutally cyclical. Housing starts and single-family home construction drive the bulk of lumber demand in North America. When the housing market is strong, builders buy lumber, prices rise, and West Fraser's mills run at capacity and earn strong margins. When housing slows — [recession](/recession/), rising [interest rates](/interest-rate/), tightening credit — construction drops, lumber prices collapse, and the company moves into loss-making territory if it has not cut production fast enough.
+Forest products are brutally cyclical. [Housing starts](/housing-starts/) and single-family home construction drive the bulk of lumber demand in North America. When the housing market is strong, builders buy lumber, prices rise, and West Fraser's mills run at capacity and earn strong margins. When housing slows — [recession](/recession/), rising [interest rates](/interest-rate/), tightening credit — construction drops, lumber prices collapse, and the company moves into loss-making territory if it has not cut production fast enough.
 
 This means West Fraser's earnings and stock price swing wildly. Investors have to understand the housing cycle and expect volatility. The company generates strong [free cash flow](/free-cash-flow/) when margins are healthy and can reinvest or return capital. In downturns, it cuts costs, reduces capital spending, and may need to draw on credit. [Dividend](/dividend/) sustainability depends on the cyclical phase.
 

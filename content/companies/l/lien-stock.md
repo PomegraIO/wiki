@@ -29,7 +29,7 @@ The assets of a BDC are not exchange-traded securities with transparent market p
 
 ## Management and Discretion Risk
 
-A BDC is usually an externally managed company: the board hires an investment adviser to pick and monitor loans. The adviser earns [management fees](/management-fee/) (typically 1–2% of assets) regardless of performance, creating misalignment. The adviser can also earn incentive fees if returns exceed a hurdle rate. In principle, the board polices the adviser; in practice, board oversight of a large illiquid portfolio is difficult. Conflicts of interest emerge if the adviser operates a family of funds (equity funds, other BDCs, [hedge funds](/hedge-fund/)) and must allocate prime opportunities fairly. Chicago Atlantic's borrowers and advisers should be scrutinized: who picks the credits, how often do they monitor, and what is the track record?
+A BDC is usually an externally managed company: the board hires an investment adviser to pick and monitor loans. The adviser earns [management fees](/management-fee/) (typically 1–2% of assets) regardless of performance, creating misalignment. The adviser can also earn incentive fees if returns exceed a [hurdle rate](/hurdle-rate/). In principle, the board polices the adviser; in practice, board oversight of a large illiquid portfolio is difficult. Conflicts of interest emerge if the adviser operates a family of funds (equity funds, other BDCs, [hedge funds](/hedge-fund/)) and must allocate prime opportunities fairly. Chicago Atlantic's borrowers and advisers should be scrutinized: who picks the credits, how often do they monitor, and what is the track record?
 
 ## Dividend Sustainability Under Stress
 

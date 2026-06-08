@@ -65,7 +65,7 @@ The fourth risk is that a 20 percent loss, while better than 50 percent, is stil
 
 Start with Calamos's fact sheet and prospectus for CBTO specifically. They detail the current cap and floor, the expense ratio, the underlying Bitcoin exposure, and the outcome period dates. Understand the exact start and end dates; confirm you can hold for the full year without liquidity needs.
 
-Look at historical data on prior October series. How often did Bitcoin stay within the cap and floor? What was the actual return of a prior October series versus a direct Bitcoin investment? This shows the cost of protection over real market cycles.
+Look at historical data on prior October series. How often did Bitcoin stay within the cap and floor? What was the actual return of a prior October series versus a direct Bitcoin investment? This shows the cost of protection over real [market cycles](/market-cycle/).
 
 Compare the cap to Bitcoin's recent volatility and price trends. If Bitcoin has already moved 25 percent in the first month of the outcome period, a 35 percent cap may be tight; there is less room to run. If Bitcoin is consolidating, a 35 percent cap might be generous, and CBTO could outperform spot Bitcoin.
 

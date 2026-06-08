@@ -34,7 +34,7 @@ The implicit return on each new unit can be estimated: if a restaurant requires 
 
 ## Labor Costs and Wage Inflation Sensitivity
 
-Cheesecake Factory's 10-K discusses labor as a critical cost driver, especially in a business that relies on service quality to command premium pricing. The company's disclosure of wage [inflation](/inflation/) in major markets, discussions of staffing challenges, and any changes to compensation or benefits reveal management's response to tight labor markets. In recent years, rising minimum wages and wage pressures have compressed casual dining [operating margins](/operating-margin/), and Cheesecake Factory's filings show how much the company has been able to pass through in pricing versus absorbing.
+Cheesecake Factory's 10-K discusses labor as a critical [cost driver](/cost-driver/), especially in a business that relies on service quality to command premium pricing. The company's disclosure of wage [inflation](/inflation/) in major markets, discussions of staffing challenges, and any changes to compensation or benefits reveal management's response to tight labor markets. In recent years, rising minimum wages and wage pressures have compressed casual dining [operating margins](/operating-margin/), and Cheesecake Factory's filings show how much the company has been able to pass through in pricing versus absorbing.
 
 The company's discussion of [labor productivity](/labor-productivity/) — revenue per labor hour or covers per server — offers insight into whether staffing is becoming more efficient or whether wage pressures are forcing inefficient staffing levels.
 
@@ -42,7 +42,7 @@ The company's discussion of [labor productivity](/labor-productivity/) — reven
 
 Cheesecake Factory's footprint is disclosed by state and sometimes by region in the 10-K. The company typically operates in high-traffic, high-rent locations (malls, lifestyle centers, urban streets), a strategy that commands traffic but also demands sales volume to cover occupancy costs. The 10-K's risk section addresses real-estate risks: if a key mall is dying or rents in a region spike, how vulnerable is the portfolio?
 
-The company's disclosure of lease terms, average rent per location, and any sale-leaseback transactions reveals the real estate strategy. A company converting owned locations to leased ones through sale-leasebacks is unlocking capital but also embedding future rent obligations that are less flexible than owning.
+The company's disclosure of lease terms, average rent per location, and any [sale-leaseback transactions](/sale-leaseback-transaction/) reveals the real estate strategy. A company converting owned locations to leased ones through sale-leasebacks is unlocking capital but also embedding future rent obligations that are less flexible than owning.
 
 ## Menu Pricing, Mix, and Customer Count
 

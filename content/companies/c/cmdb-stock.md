@@ -59,7 +59,7 @@ Costamare operates in a market dominated by larger, integrated shipping companie
 
 The shipping industry faces structural headwinds from environmental regulations—new International Maritime Organization rules limit sulfur content in fuel and will eventually require cleaner propulsion systems. For Costamare, compliance with these regulations will require fleet modernization or retrofitting, adding to costs. However, regulations also advantage well-capitalized operators over smaller players who may lack capital for compliance.
 
-Costamare's long-term survival depends on navigating multiple commodity shipping cycles, maintaining balance-sheet strength to accumulate and divest vessels opportunistically, and managing the operational and reputational risks of operating ships in global waters. For investors, the company represents a pure-play commodity shipping exposure, with returns driven primarily by global trade volume and asset cycles.
+Costamare's long-term survival depends on navigating multiple commodity shipping cycles, maintaining balance-sheet strength to accumulate and divest vessels opportunistically, and managing the operational and [reputational risks](/reputational-risk/) of operating ships in global waters. For investors, the company represents a pure-play commodity shipping exposure, with returns driven primarily by global trade volume and asset cycles.
 
 <div class="wiki-seealso">
 

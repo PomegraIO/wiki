@@ -33,7 +33,7 @@ Koss's portfolio is narrow compared to diversified consumer-electronics firms. A
 
 ## Technology Risk and Wireless Transition
 
-The audio industry continues migrating from wired to wireless, with ongoing shifts in wireless standards (Bluetooth versions), power management, and features. Koss must invest in these transitions to remain competitive, but each new standard or feature set requires engineering, tooling, and inventory investment. Timing mistakes are costly: obsolete inventory, incompatibility with new devices (phone format changes), or failure to adopt features consumers expect (active noise cancellation, transparency modes) can quickly erode relevance. Large competitors have multiple product lines and distribution channels to weather these transitions; Koss has fewer such buffers.
+The audio industry continues migrating from wired to wireless, with ongoing shifts in wireless standards (Bluetooth versions), power management, and features. Koss must invest in these transitions to remain competitive, but each new standard or feature set requires engineering, tooling, and [inventory investment](/inventory-investment/). Timing mistakes are costly: obsolete inventory, incompatibility with new devices (phone format changes), or failure to adopt features consumers expect (active noise cancellation, transparency modes) can quickly erode relevance. Large competitors have multiple product lines and distribution channels to weather these transitions; Koss has fewer such buffers.
 
 ## Intellectual Property and Patent Challenges
 

@@ -71,7 +71,7 @@ Operating leverage is significant. Quanta carries a fixed base of corporate over
 
 Quanta's largest competitors are MasTec, [Dycom Industries](/dy-stock/), and a handful of large general contractors that also do infrastructure work. The market is fragmented — no single contractor handles all types of infrastructure work across all geographies. Quanta's strength is the breadth and depth of its expertise across electrical transmission, distribution, renewable installation, and telecommunications, combined with scale that allows it to handle very large projects that smaller competitors cannot.
 
-The company faces several risks. Project execution risk is the most immediate. If a major project runs over budget or over schedule, profitability can suffer significantly. Quanta manages this through careful estimating, experienced project managers, and lessons learned from past projects, but execution risk is inherent to large-scale construction.
+The company faces several risks. Project [execution risk](/execution-risk/) is the most immediate. If a major project runs over budget or over schedule, profitability can suffer significantly. Quanta manages this through careful estimating, experienced project managers, and lessons learned from past projects, but execution risk is inherent to large-scale construction.
 
 Labor availability is a chronic concern. Quanta is always searching for skilled electricians, linemen, and equipment operators. Tight labor markets can force up wages and complicate project scheduling. The company addresses this through training programs, apprenticeships, and competitive compensation, but structural labor shortages in skilled trades could constrain growth.
 

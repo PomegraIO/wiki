@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Toast builds the operating system that independent restaurants and small-to-medium chains use to run their business — the software that sits behind the counter, rings up orders, manages inventory, tracks staff, and processes payments. It is a cloud-based point-of-sale platform, but that understates the scope. A restaurant that adopts Toast replaces not just the register but the diner management system, the kitchen display, the inventory tracking, staff scheduling, analytics, and the customer-loyalty engine all at once. The business is a classic B2B software story: a large, fragmented market of small merchants with operational chaos, expensive legacy systems, and a hunger for better tools.
+Toast builds the operating system that independent restaurants and small-to-medium chains use to run their business — the software that sits behind the counter, rings up orders, manages inventory, tracks staff, and processes payments. It is a cloud-based point-of-sale platform, but that understates the scope. A restaurant that adopts Toast replaces not just the register but the diner management system, the kitchen display, the inventory tracking, staff scheduling, analytics, and the customer-loyalty engine all at once. The business is a classic B2B software story: a large, [fragmented market](/fragmented-market/) of small merchants with operational chaos, expensive legacy systems, and a hunger for better tools.
 
 <aside class="wiki-infobox">
 <table>

@@ -4,7 +4,7 @@ description: "A small-cap investment firm engaged in real estate syndication and
 keywords: ["real estate financing", "private lending", "asset management", "small-cap stocks", "alternative finance"]
 ---
 
-*Mitesco operates in the niche corner of real estate finance where traditional banking fears to tread—the bridge loan and merchant cash advance markets. Often called **Mitesco, Inc. (MITI)**, the company occupies a structural position between desperate borrowers and yield-hungry investors, a tension that defines both its business model and its vulnerabilities.*
+*Mitesco operates in the niche corner of real estate finance where traditional banking fears to tread—the [bridge loan](/bridge-loan-real-estate/) and merchant cash advance markets. Often called **Mitesco, Inc. (MITI)**, the company occupies a structural position between desperate borrowers and yield-hungry investors, a tension that defines both its business model and its vulnerabilities.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MITI</td></tr>
@@ -31,7 +31,7 @@ The friction point is capital. Mitesco must continuously refinance or securitize
 
 ## Competitive Position: Fragmented, Local, and Flooded
 
-Mitesco competes in a highly fragmented market. Unlike the [stock-exchange](/stock-exchange/), where Mitesco shares trade on OTC systems, the hard-money market has no central [price discovery](/price-discovery/). Hundreds of regional lenders, private capital groups, fintech platforms, and specialist funds compete for the same borrowers, each with slightly different rate cards, speed profiles, and underwriting standards.
+Mitesco competes in a highly [fragmented market](/fragmented-market/). Unlike the [stock-exchange](/stock-exchange/), where Mitesco shares trade on OTC systems, the hard-money market has no central [price discovery](/price-discovery/). Hundreds of regional lenders, private capital groups, fintech platforms, and specialist funds compete for the same borrowers, each with slightly different rate cards, speed profiles, and underwriting standards.
 
 Large institutional alternatives (Ares, Blackstone's credit arm, Oaktree) have moved into this space at scale, bringing cheaper capital and diversified platforms. Banks occasionally test the waters with portfolios of hard money. Fintech lenders have digitized portions of the merchant cash advance market, lowering origination costs and enabling tighter spreads.
 
@@ -41,7 +41,7 @@ Mitesco's edge—if it has one—rests on nimbleness, local market knowledge, or
 
 Mitesco's balance sheet structure reveals its model's fragility. Small, undercapitalized lenders in this sector typically operate with high leverage—borrowing against their portfolios, selling [securitizations](/securitization/), or tapping credit lines. This magnifies returns in good times (a 2:1 or 3:1 leverage ratio doubles or triples equity returns if the portfolio performs) but can turn fatal in stress.
 
-When the credit cycle tightens, refinancing becomes expensive or impossible. A portfolio seasoning poorly (if defaults spike above model) triggers rapid deleveraging, often forced fire-sales of loans to other lenders at steep discounts. Mitesco's shareholders absorb the loss.
+When the [credit cycle](/credit-cycle/) tightens, refinancing becomes expensive or impossible. A portfolio seasoning poorly (if defaults spike above model) triggers rapid deleveraging, often forced fire-sales of loans to other lenders at steep discounts. Mitesco's shareholders absorb the loss.
 
 ## Regulatory Posture and Niche Durability
 

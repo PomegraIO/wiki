@@ -41,7 +41,7 @@ Carlyle Secured Lending's 10-K includes a detailed schedule of investments showi
 
 ## Credit and default management
 
-CGBD's losses come from borrower defaults and impairments. The 10-K discloses the number of loans on non-accrual (where interest is no longer being recognized as earned because repayment is uncertain), the percentage of portfolio in non-accrual, and any realized losses from defaults or forced sales. A rising non-accrual rate signals deteriorating credit conditions. The allowance for credit losses (a reserve account on the [balance-sheet](/balance-sheet/)) reflects management's estimate of future defaults. Changes in the allowance year-to-year and explanations in the MD&A help readers gauge whether management is tightening underwriting or loosening it in response to economic conditions.
+CGBD's losses come from borrower defaults and impairments. The 10-K discloses the number of loans on non-accrual (where interest is no longer being recognized as earned because repayment is uncertain), the percentage of portfolio in non-accrual, and any realized losses from defaults or forced sales. A rising non-accrual rate signals deteriorating credit conditions. The allowance for credit losses (a [reserve account](/reserve-account/) on the [balance-sheet](/balance-sheet/)) reflects management's estimate of future defaults. Changes in the allowance year-to-year and explanations in the MD&A help readers gauge whether management is tightening underwriting or loosening it in response to economic conditions.
 
 ## Interest-rate sensitivity and leverage
 

@@ -41,7 +41,7 @@ The fund targets a steady monthly distribution to shareholders, a cadence that a
 
 ## Risks inherent to the structure
 
-The gap between the fund's [net asset value](/net-asset-value/) and its share price is a source of unpredictable loss. An investor who buys EAD when it trades at a 10% discount, intending to hold for income, may see that discount widen to 15%, eroding capital even if the underlying portfolio performs as expected. The portfolio itself carries the usual fixed-income risks — [interest-rate risk](/interest-rate-risk/) (bonds decline when rates rise), [credit risk](/credit-risk/) (borrowers default), and spread risk ([high-yield bonds](/high-yield-bond/) widen when investors flee to safety). The use of leverage amplifies all of these.
+The gap between the fund's [net asset value](/net-asset-value/) and its share price is a source of unpredictable loss. An investor who buys EAD when it trades at a 10% discount, intending to hold for income, may see that discount widen to 15%, eroding capital even if the underlying portfolio performs as expected. The portfolio itself carries the usual fixed-income risks — [interest-rate risk](/interest-rate-risk/) (bonds decline when rates rise), [credit risk](/credit-risk/) (borrowers default), and [spread risk](/spread-risk/) ([high-yield bonds](/high-yield-bond/) widen when investors flee to safety). The use of leverage amplifies all of these.
 
 ## How to approach this investment
 

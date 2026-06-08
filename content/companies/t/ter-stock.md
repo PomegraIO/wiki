@@ -68,4 +68,4 @@ Quarterly earnings calls reveal management's tone about the cycle. Are major cus
 
 Externally, watch semiconductor industry capex trends. Industry reports from firms like Gartner and Semicon Analytics project fab spending for the year ahead. When the industry is forecasting down capex, expect Teradyne's bookings to decline in the quarters that follow.
 
-Finally, monitor progress on major new product lines. Teradyne regularly announces new systems for advanced nodes or specialised applications (high-power chips, advanced packaging, etc.). The success or failure of these launches in the market is a leading indicator of the company's competitive position over the next few years.
+Finally, monitor progress on major new product lines. Teradyne regularly announces new systems for advanced nodes or specialised applications (high-power chips, advanced packaging, etc.). The success or failure of these launches in the market is a [leading indicator](/leading-indicator/) of the company's competitive position over the next few years.

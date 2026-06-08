@@ -24,7 +24,7 @@ keywords:
 
 ## Acquisition Leverage and the Arbitrage Model
 
-Specialty finance and merchant banking firms like Marwynn Holdings operate on a straightforward capital arbitrage: borrow at a certain cost (say, 5% debt financing) and deploy capital into acquisitions or investments expected to generate returns above that cost (8%, 12%, or higher through operational improvement or multiple expansion). The spread between the [cost of debt](/cost-of-debt/) and the [return on invested capital](/return-on-invested-capital/) is the engine of value creation. This model works as long as (a) the market rewards the improvements made to acquired companies, (b) debt remains available at reasonable rates, and (c) asset valuations do not collapse. Any of these conditions breaking creates immediate pressure on the capital structure.
+Specialty finance and merchant banking firms like Marwynn Holdings operate on a straightforward capital arbitrage: borrow at a certain cost (say, 5% debt financing) and deploy capital into acquisitions or investments expected to generate returns above that cost (8%, 12%, or higher through operational improvement or [multiple expansion](/multiple-expansion/)). The spread between the [cost of debt](/cost-of-debt/) and the [return on invested capital](/return-on-invested-capital/) is the engine of value creation. This model works as long as (a) the market rewards the improvements made to acquired companies, (b) debt remains available at reasonable rates, and (c) asset valuations do not collapse. Any of these conditions breaking creates immediate pressure on the capital structure.
 
 ## Leverage Ratios and Debt Sustainability
 
@@ -48,7 +48,7 @@ Marwynn may periodically issue new shares to reduce leverage, fund acquisitions,
 
 ## Asset Impairments and Mark-to-Market Risk
 
-When acquired companies underperform or market valuations reset, Marwynn must write down the value of its [intangible assets](/intangible-assets/)—[goodwill](/goodwill/) and acquired intangibles like customer relationships, brand value, or technology. Large impairments reduce reported book value per share and can trigger covenant violations if the impairment is large enough to reduce EBITDA or equity below thresholds. A firm with a history of large impairments (visible in the 10-K notes) signals past errors in acquisition pricing or integration failure; these are warning signs for investors. Conversely, a firm whose acquisitions consistently perform enables the debt model to work repeatedly.
+When acquired companies underperform or market valuations reset, Marwynn must write down the value of its [intangible assets](/intangible-assets/)—[goodwill](/goodwill/) and acquired intangibles like customer relationships, brand value, or technology. Large impairments reduce reported [book value per share](/book-value-per-share/) and can trigger covenant violations if the impairment is large enough to reduce EBITDA or equity below thresholds. A firm with a history of large impairments (visible in the 10-K notes) signals past errors in acquisition pricing or integration failure; these are warning signs for investors. Conversely, a firm whose acquisitions consistently perform enables the debt model to work repeatedly.
 
 ## Exit Strategy and Capital Recovery
 
@@ -56,7 +56,7 @@ The specialty finance model depends on exits: selling acquired companies to stra
 
 ## Macro Sensitivity and Credit Cycles
 
-Specialty finance firms are sensitive to credit cycles: in expansions, valuations rise, debt becomes cheap, and acquisitions are profitable; in [recessions](/recession/) or credit crunches, valuations fall, debt becomes expensive or unavailable, and acquisitions become uneconomical. Marwynn's returns over time are therefore highly dependent on the macro environment and the credit cycle. A firm that did well in 2015–2020 (low rates, rising valuations, cheap debt) may face severe stress in 2022–2024 (higher rates, compressed valuations, tighter lending). Understanding the company through its capital structure requires thinking about where we are in the credit cycle and whether conditions are likely to favor or hinder the leverage model going forward.
+Specialty finance firms are sensitive to [credit cycles](/credit-cycle/): in expansions, valuations rise, debt becomes cheap, and acquisitions are profitable; in [recessions](/recession/) or credit crunches, valuations fall, debt becomes expensive or unavailable, and acquisitions become uneconomical. Marwynn's returns over time are therefore highly dependent on the macro environment and the credit cycle. A firm that did well in 2015–2020 (low rates, rising valuations, cheap debt) may face severe stress in 2022–2024 (higher rates, compressed valuations, tighter lending). Understanding the company through its capital structure requires thinking about where we are in the credit cycle and whether conditions are likely to favor or hinder the leverage model going forward.
 
 The company's [10-K](/10-k/) and quarterly earnings presentations detail the debt structure, portfolio composition, recent acquisitions and exits, and management's strategy for capital deployment and return.
 

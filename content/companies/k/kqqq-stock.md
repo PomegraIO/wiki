@@ -27,7 +27,7 @@ Consider a practical scenario: if the Nasdaq-100 falls 5% on day one and rises 5
 
 KQQQ is explicitly a tactical instrument, not a buy-and-hold position. It is meant for traders with a short-term directional view on technology stocks — those placing a bet on a rally over days or weeks, not months. Some options traders use leveraged funds to gain leveraged exposure cheaply when outright leverage is unavailable or expensive. Swing traders might hold KQQQ for a bounce in tech. A retail investor convinced of a near-term tech rally might use it to amplify a thesis with a defined risk horizon.
 
-KQQQ is entirely unsuitable for longer-term holders. The volatility decay compounds over months, turning a moderately bullish bet into a money-loser even if the underlying index rises. The fund's own prospectus warns investors that it is meant for intraday or short-term trading, not long-term buy-and-hold investing.
+KQQQ is entirely unsuitable for longer-term holders. The volatility decay compounds over months, turning a moderately bullish bet into a money-loser even if the underlying index rises. The fund's own prospectus warns investors that it is meant for intraday or short-term trading, not long-term [buy-and-hold investing](/buy-and-hold/).
 
 ## Costs and liquidity
 

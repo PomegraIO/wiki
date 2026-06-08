@@ -36,7 +36,7 @@ Gold Fields' largest mine by profit and production is Asanko, located in Ghana a
 
 ## What are the other major assets?
 
-Beyond Ghana, Gold Fields operates Agnew and St. Ives in Western Australia, both world-class operations with long reserve lives and lower political risk. The company also owns Salares Norte in Chile (under development) and has legacy operations in Peru. Australia and Chile offer predictable regulatory environments and lower geopolitical risk, but building new mines takes years and requires navigating environmental permits and indigenous stakeholder agreements. Delays are common. The spread of assets across countries is meant to hedge political risk, but it also creates operational complexity and capital demands that concentrate management bandwidth.
+Beyond Ghana, Gold Fields operates Agnew and St. Ives in Western Australia, both world-class operations with long reserve lives and lower [political risk](/political-risk/). The company also owns Salares Norte in Chile (under development) and has legacy operations in Peru. Australia and Chile offer predictable regulatory environments and lower geopolitical risk, but building new mines takes years and requires navigating environmental permits and indigenous stakeholder agreements. Delays are common. The spread of assets across countries is meant to hedge political risk, but it also creates operational complexity and capital demands that concentrate management bandwidth.
 
 ## What risks could break this business?
 
@@ -44,7 +44,7 @@ The most obvious is the gold price itself. A prolonged fall in the gold price be
 
 The second, more urgent risk is Ghana. Asanko is Gold Fields' crown asset. Anything that threatens mining permits, increases operating costs through taxation or security expenses, or destabilizes the operating environment would immediately impair earnings. The Ghanaian government has shown willingness to raise mining royalties unilaterally; violent unrest or military action would be far more destructive.
 
-Third is execution risk on capital projects. Salares Norte is a significant development project that carries cost overruns and delay risk common to all large mining construction. If the project falters or costs balloon, capital discipline and returns to shareholders suffer.
+Third is [execution risk](/execution-risk/) on capital projects. Salares Norte is a significant development project that carries cost overruns and delay risk common to all large mining construction. If the project falters or costs balloon, capital discipline and returns to shareholders suffer.
 
 Fourth is reserve replacement. Mining is a depletion business—the ore body runs out. Gold Fields must continually find and develop new ore bodies to maintain and grow production. If the company fails at exploration and geology, the portfolio ages, costs rise at remaining mines, and growth flattens.
 

@@ -51,7 +51,7 @@ The fund is traded on the [NASDAQ](/nasdaq/) as discrete ETF shares. [Intraday l
 
 The [expense ratio](/expense-ratio/) is around four basis points — lower than most actively managed bond funds and competitive with other TIPS index ETFs. There are no other internal costs; the fund does not impose purchase or redemption fees.
 
-The yield depends on the prevailing coupon rates on TIPS at any given time. In periods of low inflation expectations, TIPS yields a modest spread above inflation (the [real yield](/real-yield/)). In periods when inflation is feared or expected to be high, the real yield might be negative — investors willing to pay a premium for inflation protection. The fund's yield-to-maturity reflects the average across its holdings.
+The yield depends on the prevailing coupon rates on TIPS at any given time. In periods of low [inflation expectations](/inflation-expectations/), TIPS yields a modest spread above inflation (the [real yield](/real-yield/)). In periods when inflation is feared or expected to be high, the real yield might be negative — investors willing to pay a premium for inflation protection. The fund's yield-to-maturity reflects the average across its holdings.
 
 ## Risks
 

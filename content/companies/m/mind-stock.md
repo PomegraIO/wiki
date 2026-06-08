@@ -69,7 +69,7 @@ Larger competitors can accept lower margins on MIND's niche businesses as a way 
 
 Offshore wind, floating solar, and other renewable-energy installations require different subsea technologies than oil-and-gas production. MIND's ability to diversify into these new markets will determine its long-term viability. If it successfully develops or acquires capabilities in renewable-energy subsea systems, it can offset declining oil-and-gas demand.
 
-However, renewable-energy customers (power utilities, floating-offshore-farm operators) are often different from oil-and-gas operators and have different technical requirements and procurement processes. MIND cannot assume that its existing relationships, expertise, or products will transfer. Entering new markets requires capital, time, and execution risk.
+However, renewable-energy customers (power utilities, floating-offshore-farm operators) are often different from oil-and-gas operators and have different technical requirements and procurement processes. MIND cannot assume that its existing relationships, expertise, or products will transfer. Entering new markets requires capital, time, and [execution risk](/execution-risk/).
 
 The moat MIND has built in oil-and-gas subsea technology is becoming a liability if those markets are in structural decline. Technology moats in declining markets do not age well; they become specialized knowledge of shrinking industries.
 

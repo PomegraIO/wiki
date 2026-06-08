@@ -51,7 +51,7 @@ Larger competitors (Canadian majors like [Canadian Natural Resources](/cnq-stock
 
 ## Regulatory environment and emissions regulation
 
-Oil and gas regulation in Canada is a provincial and federal matter, with evolving emissions and climate policies. Alberta's carbon tax on emissions, federal methane regulations, and proposed output-based pricing all affect operating costs. The regulatory geography varies by province: Alberta and Saskatchewan have different regulatory regimes than British Columbia. Birchcliff's exposure to emissions pricing and regulatory compliance depends on where its assets are located.
+Oil and gas regulation in Canada is a provincial and federal matter, with evolving emissions and climate policies. Alberta's [carbon tax](/carbon-tax/) on emissions, federal methane regulations, and proposed output-based pricing all affect operating costs. The regulatory geography varies by province: Alberta and Saskatchewan have different regulatory regimes than British Columbia. Birchcliff's exposure to emissions pricing and regulatory compliance depends on where its assets are located.
 
 Federal and provincial climate targets (net-zero by 2050) create long-term uncertainty: if Canada restricts oil and gas production or phases out fossil fuels, producers' reserves become stranded (unable to be produced and sold). This regulatory geography risk affects the [enterprise value](/enterprise-value/) of all Canadian producers. Investors must assess whether Canadian oil and gas reserves can be produced in an economically viable way given climate policy trajectories.
 

@@ -16,7 +16,7 @@ handwritten: true
 
 **How does Chimera actually make money?**
 
-The company makes money from the net interest spread—the gap between the yield on its assets (mortgages and securities) and the cost of its liabilities ([bonds](/bond/), [repurchase agreements](/repurchase-agreement/), and other borrowing). If Chimera holds a mortgage yielding 5.5% and finances it at a 4.5% cost, the spread is 1.0 percentage point. That spread flows through as net interest income. On top of that, Chimera earns fees: servicing fees on mortgages it has packaged and sold, gains on [securitizations](/securitization/) where it originates mortgages and sells them bundled into securities, and occasionally gains from selling assets into a favorable market. Since 2025, the company has also earned origination fees and carried interest from HomeXpress, its newly acquired non-QM originator.
+The company makes money from the net interest spread—the gap between the yield on its assets (mortgages and securities) and the cost of its liabilities ([bonds](/bond/), [repurchase agreements](/repurchase-agreement/), and other borrowing). If Chimera holds a mortgage yielding 5.5% and finances it at a 4.5% cost, the spread is 1.0 percentage point. That spread flows through as net interest income. On top of that, Chimera earns fees: servicing fees on mortgages it has packaged and sold, gains on [securitizations](/securitization/) where it originates mortgages and sells them bundled into securities, and occasionally gains from selling assets into a favorable market. Since 2025, the company has also earned origination fees and [carried interest](/carried-interest-compensation/) from HomeXpress, its newly acquired non-QM originator.
 
 **What does the portfolio actually look like?**
 
@@ -40,7 +40,7 @@ The company was founded in 2007, at the peak of the housing bubble, and spent it
 
 **What should an investor watch?**
 
-Start with quarterly earnings: look at net interest income (the spread multiplied by the asset base), the size of credit losses, and the amount of net income available for distribution. Watch the portfolio composition—if the company is increasing its non-agency exposure, it is betting on credit; if it is shifting toward agencies, it is playing defense. Track the leverage ratio: if it is rising, the company is confident and reaching for higher returns; if it is falling, management is nervous. Monitor the 10-K filing (SEC CIK 0001409493) for detail on the mortgage pools the company holds and the interest-rate risk it is taking. And listen to the earnings calls: management commentary on the rate environment, prepayment speeds, and funding costs is often more informative than the numbers themselves.
+Start with quarterly earnings: look at net interest income (the spread multiplied by the asset base), the size of credit losses, and the amount of net income available for distribution. Watch the portfolio composition—if the company is increasing its non-agency exposure, it is betting on credit; if it is shifting toward agencies, it is playing defense. Track the leverage ratio: if it is rising, the company is confident and reaching for higher returns; if it is falling, management is nervous. Monitor the 10-K filing (SEC CIK 0001409493) for detail on the mortgage pools the company holds and the interest-rate risk it is taking. And listen to the earnings calls: management commentary on the rate environment, [prepayment speeds](/prepayment-speed/), and funding costs is often more informative than the numbers themselves.
 
 ---
 

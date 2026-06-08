@@ -24,7 +24,7 @@ This daily reset is elegant and reduces [counterparty risk](/counterparty-risk/)
 
 BOIL tracks the Bloomberg Natural Gas Subindex, a standardized futures-based measure of near-term natural-gas prices. The index is composed primarily of NYMEX natural-gas futures contracts. The fund holds a portfolio of these contracts and rolls older expirations into newer ones as they approach maturity, keeping the portfolio pointed toward the near-term price. This rolling process is mechanical and transparent, published in the fund's prospectus.
 
-The sponsor, ProShares, is a widely used provider of leveraged and [inverse ETFs](/inverse-etf/), backed by Rafferty Asset Management. The fund trades on the NYSE Arca exchange under ticker BOIL with moderate liquidity — spreads are typically a few cents, and daily volume is enough to enter or exit a position of reasonable size without moving the market significantly.
+The sponsor, ProShares, is a widely used provider of leveraged and [inverse ETFs](/inverse-etf/), backed by Rafferty Asset Management. The fund trades on the [NYSE Arca](/nyse-arca/) exchange under ticker BOIL with moderate liquidity — spreads are typically a few cents, and daily volume is enough to enter or exit a position of reasonable size without moving the market significantly.
 
 ## Who holds it and why
 

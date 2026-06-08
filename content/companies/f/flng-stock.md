@@ -4,7 +4,7 @@ description: "Shipping company specializing in floating liquefied natural gas st
 keywords: [shipping, LNG, tankers, maritime, energy transport, fleet owner, charter revenue]
 ---
 
-*Flex LNG Ltd. is a **FLNG** shipping company that owns and operates liquefied [natural gas](/natural-gas/) (LNG) carriers—vessels engineered to transport natural gas cooled to minus-161 degrees Celsius. The company derives revenue primarily by contracting these vessels to oil majors, gas producers, and LNG traders under both fixed-term charters and spot market deployments. Unlike a traditional tanker operator, FLNG specializes in a narrower, capital-intensive segment: it owns fewer but larger and newer vessels, targeting long-term contracts that lock in stable cash flows while maintaining upside exposure to volatile spot rates when vessels are undeployed.*
+*Flex LNG Ltd. is a **FLNG** shipping company that owns and operates liquefied [natural gas](/natural-gas/) (LNG) carriers—vessels engineered to transport natural gas cooled to minus-161 degrees Celsius. The company derives revenue primarily by contracting these vessels to oil majors, gas producers, and LNG traders under both fixed-term charters and spot market deployments. Unlike a traditional tanker operator, FLNG specializes in a narrower, capital-intensive segment: it owns fewer but larger and newer vessels, targeting long-term contracts that lock in stable cash flows while maintaining upside exposure to volatile [spot rates](/spot-rate/) when vessels are undeployed.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FLNG</td></tr>
@@ -49,7 +49,7 @@ Unlike an oil or gas producer, FLNG does not own reserves or transformation asse
 
 Operating an LNG carrier involves crew, insurance, maintenance, fuel (bunkers for propulsion), and port fees—together roughly $40,000–$60,000 per day depending on the vessel age and market conditions. For a vessel on a $140,000/day charter, gross margin (charter revenue minus operating costs) runs 55–70%, declining when spot rates fall. The company has limited ability to reduce operating costs without degrading service or deferring maintenance, so margin compression during rate slumps is steep. Conversely, when rates spike, operating cost becomes a smaller percentage of revenue, and EBITDA expands dramatically.
 
-Capital expenditure beyond the initial fleet is minimal; FLNG is not a heavy growth CapEx business. Most capital goes toward refinancing debt, acquiring second-hand vessels if opportunities arise, or returning cash to equity holders. This allows the company to distribute high free cash flow yields in strong rate environments, or reinvest minimally when markets are weak.
+Capital expenditure beyond the initial fleet is minimal; FLNG is not a heavy growth CapEx business. Most capital goes toward refinancing debt, acquiring second-hand vessels if opportunities arise, or returning cash to equity holders. This allows the company to distribute high free [cash flow yields](/cash-flow-yield/) in strong rate environments, or reinvest minimally when markets are weak.
 
 ---
 

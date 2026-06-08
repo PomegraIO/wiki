@@ -46,4 +46,4 @@ Prospective investors in Northfield Capital or similar OTC microcaps should star
 
 Check the company's balance sheet for net [tangible book value per share](/tangible-book-value-per-share/). If the book value is positive and known, the [liquidation](/liquidation/) value sets a rough floor (though often a soft floor, since distressed sales rarely fetch full value). Watch for related-party transactions or loans to insiders, which sometimes indicate that assets are being diverted rather than preserved. Finally, search for any news or press releases from the company itself to understand its current status and whether any transformation or merger is in progress.
 
-Given the illiquidity and information deficiency of OTC microcaps, position sizing is critical. Many investors treat such holdings as speculation rather than investment, accepting the risk that recovery of capital may be zero.
+Given the illiquidity and information deficiency of OTC microcaps, [position sizing](/position-sizing/) is critical. Many investors treat such holdings as speculation rather than investment, accepting the risk that recovery of capital may be zero.

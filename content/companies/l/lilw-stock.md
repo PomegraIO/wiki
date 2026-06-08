@@ -40,11 +40,11 @@ Little West's shareholder agreements (if any), management incentives, and invest
 
 ## Fees and Overhead
 
-Holding companies charge management fees (typically 1–2% of assets under management annually) and sometimes [performance fees](/performance-fee/) (e.g., 20% of gains above a hurdle rate). These fees drain returns unless the underlying portfolio appreciates faster than the fee burden. An investor holding Little West shares is effectively paying those fees, reducing net return. Over time, if fees exceed portfolio appreciation, the holding company destroys value relative to direct ownership of the underlying stocks.
+Holding companies charge management fees (typically 1–2% of assets under management annually) and sometimes [performance fees](/performance-fee/) (e.g., 20% of gains above a [hurdle rate](/hurdle-rate/)). These fees drain returns unless the underlying portfolio appreciates faster than the fee burden. An investor holding Little West shares is effectively paying those fees, reducing net return. Over time, if fees exceed portfolio appreciation, the holding company destroys value relative to direct ownership of the underlying stocks.
 
 ## Tax Efficiency and Legal Structure
 
-The Cayman Islands incorporation offers potential tax advantages for non-US investors (no withholding tax on [dividends](/dividend/), no [capital gains tax](/capital-gains-tax/) for the entity itself). For US taxpayers, the Cayman structure provides no benefit and may trigger additional reporting requirements (Foreign Account Tax Compliance Act, or FATCA). The choice of Cayman incorporation usually signals that the company's founders or initial investors are predominantly non-US domiciled.
+The Cayman Islands incorporation offers potential tax advantages for non-US investors (no [withholding tax](/withholding-tax/) on [dividends](/dividend/), no [capital gains tax](/capital-gains-tax/) for the entity itself). For US taxpayers, the Cayman structure provides no benefit and may trigger additional reporting requirements ([Foreign Account Tax Compliance Act](/foreign-account-tax-compliance-act/), or FATCA). The choice of Cayman incorporation usually signals that the company's founders or initial investors are predominantly non-US domiciled.
 
 ## Liquidity and Exit Options
 

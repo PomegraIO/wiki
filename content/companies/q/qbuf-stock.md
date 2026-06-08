@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Innovator Nasdaq-100 10 Buffer ETF Quarterly (QBUF) is one of a growing family of "defined outcome" ETFs that marry equity exposure to a hedging layer. The fund aims to track the Nasdaq-100 (the 100 largest non-financial stocks on the [Nasdaq](/nasdaq/)), but wraps that exposure with an options-based buffer that absorbs losses within a specified range each quarter. The "10" in its name refers to its buffer: in any given quarter, losses are capped at minus 10 per cent, and the hedge resets when the quarter ends.
+Innovator Nasdaq-100 10 [Buffer ETF](/buffer-etf/) Quarterly (QBUF) is one of a growing family of "defined outcome" ETFs that marry equity exposure to a hedging layer. The fund aims to track the Nasdaq-100 (the 100 largest non-financial stocks on the [Nasdaq](/nasdaq/)), but wraps that exposure with an options-based buffer that absorbs losses within a specified range each quarter. The "10" in its name refers to its buffer: in any given quarter, losses are capped at minus 10 per cent, and the hedge resets when the quarter ends.
 
 ## The quarterly buffer and how it works
 
@@ -26,7 +26,7 @@ The [expense ratio](/expense-ratio/) includes not only the fund's operational co
 
 ## Which investors find this approach valuable
 
-QBUF appeals to several investor archetypes. Investors in or nearing retirement who want equity exposure but cannot stomach a 30 per cent intra-quarter loss may find the 10 per cent buffer provides acceptable sleep-at-night protection. Investors building a bucket strategy — holding some assets in near-cash, some in balanced vehicles, and some in equity for growth — might use QBUF as the equity bucket because it dampens volatility without removing equity exposure entirely. Additionally, some investors use defined-outcome funds as a way to harvest options premium: by accepting capped upside, they are essentially selling [call spreads](/call-spread/) to the broader market, and in exchange they receive downside protection. This view treats the hedge as an income strategy rather than merely a safety mechanism.
+QBUF appeals to several investor archetypes. Investors in or nearing retirement who want equity exposure but cannot stomach a 30 per cent intra-quarter loss may find the 10 per cent buffer provides acceptable sleep-at-night protection. Investors building a [bucket strategy](/bucket-strategy/) — holding some assets in near-cash, some in balanced vehicles, and some in equity for growth — might use QBUF as the equity bucket because it dampens volatility without removing equity exposure entirely. Additionally, some investors use defined-outcome funds as a way to harvest options premium: by accepting capped upside, they are essentially selling [call spreads](/call-spread/) to the broader market, and in exchange they receive downside protection. This view treats the hedge as an income strategy rather than merely a safety mechanism.
 
 The tradeoff becomes less attractive in long, strong [bull markets](/bull-market/). An investor who bought QBUF in early 2019 and held it through the 2019–2021 equity surge will have captured far less of that upside than an investor in an unhedged Nasdaq-100 [index fund](/index-fund/). Over those three years, the difference in total return compounds meaningfully.
 
@@ -36,7 +36,7 @@ The quarterly structure introduces timing risk. If the market rallies sharply in
 
 ## Comparing QBUF to alternatives
 
-An investor considering QBUF might ask: why not simply own an unhedged Nasdaq-100 ETF and buy put options myself? The answer is convenience and cost. Buying and rolling puts quarterly requires expertise, attention, and brokerage commissions. QBUF handles all of this automatically. The fund's expense ratio reflects the cost of that automated hedging; whether the convenience is worth that cost depends on the investor's sophistication and time budget. Similarly, for investors who want quarterly resets specifically, QBUF offers that reset schedule; other buffer funds reset monthly or annually, which may not match an investor's preferred rebalancing frequency.
+An investor considering QBUF might ask: why not simply own an unhedged Nasdaq-100 ETF and buy put options myself? The answer is convenience and cost. Buying and rolling puts quarterly requires expertise, attention, and brokerage commissions. QBUF handles all of this automatically. The fund's expense ratio reflects the cost of that automated hedging; whether the convenience is worth that cost depends on the investor's sophistication and time budget. Similarly, for investors who want quarterly resets specifically, QBUF offers that reset schedule; other [buffer funds](/buffer-fund/) reset monthly or annually, which may not match an investor's preferred rebalancing frequency.
 
 ## How to research this fund
 

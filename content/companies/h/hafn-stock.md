@@ -41,11 +41,11 @@ The filing's [cash flow statement](/cash-flow-statement/) shows capital expendit
 
 ## Debt and Vessel Financing
 
-HAFNIA's balance sheet typically carries substantial debt secured by the fleet itself. Shipping loans are structured with covenants tied to vessel values and maintenance; if a vessel loses value or is damaged, lenders may demand additional security or accelerated repayment. The 10-K discloses outstanding debt, maturity profiles, [interest rates](/interest-rate/), and any covenant violations. In weak shipping markets, vessel values can collapse, triggering technical defaults. The company's [refinancing risk](/refinancing-risk/) — can it roll over maturing debt in market downturns — is a material concern disclosed in the 10-K.
+HAFNIA's balance sheet typically carries substantial debt secured by the fleet itself. Shipping loans are structured with covenants tied to vessel values and maintenance; if a vessel loses value or is damaged, lenders may demand additional security or accelerated repayment. The 10-K discloses outstanding [debt, maturity profiles](/debt-maturity-profile/), [interest rates](/interest-rate/), and any covenant violations. In weak shipping markets, vessel values can collapse, triggering technical defaults. The company's [refinancing risk](/refinancing-risk/) — can it roll over maturing debt in market downturns — is a material concern disclosed in the 10-K.
 
 ## Geographic Diversification and Trade Route Exposure
 
-HAFNIA's vessels operate on specific trade routes: transatlantic product movements, Asia-Pacific trading, Mediterranean routes, etc. The 10-K may disclose which routes and markets generate the most revenue. Some routes are more profitable than others; an unexpected shift in refinery locations or oil product demand patterns can render certain routes less valuable. A company concentrated on declining routes faces structural headwinds independent of overall market cycles.
+HAFNIA's vessels operate on specific trade routes: transatlantic product movements, Asia-Pacific trading, Mediterranean routes, etc. The 10-K may disclose which routes and markets generate the most revenue. Some routes are more profitable than others; an unexpected shift in refinery locations or oil product demand patterns can render certain routes less valuable. A company concentrated on declining routes faces structural headwinds independent of overall [market cycles](/market-cycle/).
 
 ## Cyclicality and Shipping Market Dynamics
 

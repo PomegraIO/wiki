@@ -61,7 +61,7 @@ Capital intensity is another consideration. Utilities require steady, large capi
 
 ## How to research OGE
 
-Start with the company's 10-K filing on the SEC website. The key sections are MD&A (management discussion and analysis), which outlines rate-case schedules and regulatory changes; the risk factors, which are boilerplate for utilities but include company-specific items; and the financial statements, particularly the [balance sheet](/balance-sheet/) (look for debt ratios and interest coverage). OGE's debt is investment-grade, typically rated A or Baa-range.
+Start with the company's 10-K filing on the SEC website. The key sections are MD&A ([management discussion and analysis](/management-discussion-and-analysis/)), which outlines rate-case schedules and regulatory changes; the risk factors, which are boilerplate for utilities but include company-specific items; and the financial statements, particularly the [balance sheet](/balance-sheet/) (look for debt ratios and interest coverage). OGE's debt is investment-grade, typically rated A or Baa-range.
 
 Watch the quarterly earnings calls. Management discusses rate-case outcomes, regulatory filings, and capital-spending plans. Pay attention to language around renewable energy mandates and coal-retirement timelines in the states where OGE operates. Regulatory filings in Oklahoma and Arkansas are public; track any commission orders that hint at stricter rate treatment.
 

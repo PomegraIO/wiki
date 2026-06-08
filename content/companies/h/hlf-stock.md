@@ -31,7 +31,7 @@ Herbalife operates in over 90 countries, with major concentrations in Latin Amer
 
 ## The Regulatory Tight Rope
 
-In 2016, the U.S. [Federal Trade Commission](/securities-and-exchange-commission/) reached a settlement with Herbalife requiring the company to reform its compensation structure and reduce the emphasis on recruitment over retail sales. The settlement imposed monitoring and compliance obligations but did not shut down the company's business model. Herbalife remains public and listed on the NYSE, and it continues to operate as the world's largest multilevel marketing (MLM) company by revenue, a distinction that carries both market opportunity and permanent reputational risk.
+In 2016, the U.S. [Federal Trade Commission](/securities-and-exchange-commission/) reached a settlement with Herbalife requiring the company to reform its compensation structure and reduce the emphasis on recruitment over retail sales. The settlement imposed monitoring and compliance obligations but did not shut down the company's business model. Herbalife remains public and listed on the NYSE, and it continues to operate as the world's largest multilevel marketing (MLM) company by revenue, a distinction that carries both market opportunity and permanent [reputational risk](/reputational-risk/).
 
 ## The Distributor Experience
 

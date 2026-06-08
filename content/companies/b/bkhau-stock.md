@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-*"In a SPAC IPO, the unit—one share plus a fractional warrant—is the actual security sold to the public. Separate trading of shares and warrants begins later, which is where the leverage and the leverage-related risks become visible."*
+*"In a [SPAC IPO](/spac-ipo/), the unit—one share plus a fractional warrant—is the actual security sold to the public. Separate trading of shares and warrants begins later, which is where the leverage and the leverage-related risks become visible."*
 
 ## The unit structure and how SPAC IPOs actually work
 

@@ -57,7 +57,7 @@ UFO trades with reasonable volume and narrow spreads, so buying and selling is s
 
 ## Long-term bet or short-term trade
 
-UFO is best suited to investors with a 5-to-10-year view on the space industry. Someone investing for retirement in five years probably should not hold it; the volatility and the execution risk are too high. Someone convinced that space is going to be huge and willing to hold through the bumps can use UFO as a simple, low-friction way to own a basket of space stocks without picking individual ones.
+UFO is best suited to investors with a 5-to-10-year view on the space industry. Someone investing for retirement in five years probably should not hold it; the volatility and the [execution risk](/execution-risk/) are too high. Someone convinced that space is going to be huge and willing to hold through the bumps can use UFO as a simple, low-friction way to own a basket of space stocks without picking individual ones.
 
 It is not a core holding like a broad stock [index fund](/index-fund/). It is a directional bet on a sector. That has risk and reward in equal measure.
 

@@ -39,7 +39,7 @@ Examine the company's regulatory filings, partnership agreements with hospitals,
 
 LataMed's concentration in Latin America is both its thesis and its vulnerability. Economic downturns, healthcare privatization, and shifts in national insurance policies affect adoption and pricing power. Brazil and Mexico account for a large share of regional healthcare spending, but both face periodic budget cuts and [currency volatility](/currency-volatility/). If a major partner system reduces IT spending or renegotiates contracts, revenue can shift rapidly.
 
-[Currency risk](/currency-risk/) is structural: LataMed likely earns revenue in Mexican pesos, Brazilian reals, and Colombian pesos, then reports in [U.S. dollars](/us-dollar/). Unfavorable FX movements compress reported [gross-profit-margin](/gross-profit-margin/) without any change in operational performance.
+[Currency risk](/currency-risk/) is structural: LataMed likely earns revenue in [Mexican pesos](/mexian-peso/), [Brazilian reals](/brazilian-real/), and Colombian pesos, then reports in [U.S. dollars](/us-dollar/). Unfavorable FX movements compress reported [gross-profit-margin](/gross-profit-margin/) without any change in operational performance.
 
 ## Capital Intensity and Path to Profitability
 

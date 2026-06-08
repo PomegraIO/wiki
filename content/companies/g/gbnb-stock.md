@@ -39,7 +39,7 @@ The Grayscale BNB ETF provides a regulated, tax-efficient way for U.S. investors
 
 The appeal of a regulated ETF is substantial. Investors gain exposure without managing private cryptocurrency wallets, remembering passphrases, or navigating decentralized exchanges and custody services. They can buy and sell shares of the ETF during stock-market hours just as they would traditional stocks, with tax reporting integrated into standard brokerage statements. For institutional investors—pension funds, trusts, endowments—that face fiduciary constraints around direct cryptocurrency holdings, an ETF provides a pathway to cryptocurrency exposure that sits within a regulated framework.
 
-Grayscale Investments, the provider, is an established digital-asset manager backed by substantial capital and regulatory oversight. The company previously obtained SEC approval for spot Bitcoin and Ethereum ETFs, which reduced regulatory and execution risk for subsequent cryptocurrency ETF launches. The BNB ETF filing, submitted in 2026, follows that proven pathway.
+Grayscale Investments, the provider, is an established digital-asset manager backed by substantial capital and regulatory oversight. The company previously obtained SEC approval for spot Bitcoin and Ethereum ETFs, which reduced regulatory and [execution risk](/execution-risk/) for subsequent [cryptocurrency ETF](/cryptocurrency-etf/) launches. The BNB ETF filing, submitted in 2026, follows that proven pathway.
 
 ## Competitive positioning in the crypto ETF landscape
 
@@ -49,7 +49,7 @@ Grayscale holds a first-mover advantage in many categories because it has the br
 
 ## The structure and custody arrangement
 
-The ETF itself is a pass-through structure. Shareholders own units of the fund, and the fund holds BNB tokens in custody. The custody arrangement is critical to the fund's function. Grayscale must maintain secure, audited custody of the BNB tokens—typically through a combination of institutional cryptocurrency [custodians](/custodian/), cold storage, and insurance. Any perceived weakness in custody security or loss of assets would trigger a sharp loss of investor confidence.
+The ETF itself is a pass-through structure. Shareholders own units of the fund, and the fund holds BNB tokens in custody. The custody arrangement is critical to the fund's function. Grayscale must maintain secure, audited custody of the BNB tokens—typically through a combination of institutional cryptocurrency [custodians](/custodian/), [cold storage](/cold-storage-crypto/), and insurance. Any perceived weakness in custody security or loss of assets would trigger a sharp loss of investor confidence.
 
 The fund is sized based on shareholder inflows. As investors buy shares, the ETF issues new units and purchases additional BNB tokens. As investors redeem shares, the fund sells BNB and returns proceeds. This in-kind creation and redemption mechanism is what ties the ETF's share price to the underlying BNB price, ensuring that the ETF does not trade at a significant premium or discount.
 

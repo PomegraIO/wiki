@@ -45,7 +45,7 @@ The company's [enterprise value](/enterprise-value/) — [market cap](/market-ca
 
 ## Navigating Caro's Annual Reports
 
-To understand Caro Holdings, start with the management discussion and analysis (MD&A) section of the 10-K, where management explains what happened during the year at each subsidiary and how the consolidated picture came together. Then read the segment reporting footnote to see the true profitability of each operating unit. The debt schedule and equity footnotes reveal the capital structure. Finally, the cash-flow statement shows whether the holding company generated cash to pay [dividends](/dividend/) or fund acquisitions, and which subsidiaries fed that cash. The consolidated net income figure at the bottom of the income statement is less important than understanding which parts of the company actually generated it.
+To understand Caro Holdings, start with the [management discussion and analysis](/management-discussion-and-analysis/) (MD&A) section of the 10-K, where management explains what happened during the year at each subsidiary and how the consolidated picture came together. Then read the segment reporting footnote to see the true profitability of each operating unit. The debt schedule and equity footnotes reveal the capital structure. Finally, the cash-flow statement shows whether the holding company generated cash to pay [dividends](/dividend/) or fund acquisitions, and which subsidiaries fed that cash. The consolidated net income figure at the bottom of the income statement is less important than understanding which parts of the company actually generated it.
 
 <div class="wiki-seealso">
 ### Closely related

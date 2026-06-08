@@ -66,7 +66,7 @@ RideNow faces several pressures. Economic sensitivity is acute: powersports purc
 
 Consolidation consolidates risk as well as scale. Integrating acquired dealerships requires management attention; cultural mismatches or operational failures can drag on combined results. A major acquisition could also add debt, increasing leverage.
 
-The company also faces regulatory and demographic risks. Vehicle emission standards and environmental regulations affect what manufacturers build and what consumers will buy. Generational shifts — if younger demographics move away from powersports — could reduce the underlying market.
+The company also faces regulatory and [demographic risks](/demographic-risk/). Vehicle emission standards and environmental regulations affect what manufacturers build and what consumers will buy. Generational shifts — if younger demographics move away from powersports — could reduce the underlying market.
 
 ## How to research RideNow
 

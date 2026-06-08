@@ -53,7 +53,7 @@ This cyclicality is a core risk. Royalty companies are often valued as a leverag
 
 ## Development-stage risks
 
-A portion of Vizsla's portfolio consists of royalties on projects not yet in production. The operators must successfully explore the deposit, prove it is economically mineable, secure financing and permits, and actually build and run the mine. Each step can fail. A deposit that looks promising in early drilling might not have enough ore to justify development. A permitting process might drag on or be denied. Capital markets might tighten, making it harder for the operator to fund the project. If the operator gives up or the project stalls indefinitely, Vizsla receives nothing from that royalty. The company thus carries exploration and development risk alongside commodity risk—the royalties on early-stage projects are a portfolio bet on which operators succeed.
+A portion of Vizsla's portfolio consists of royalties on projects not yet in production. The operators must successfully explore the deposit, prove it is economically mineable, secure financing and permits, and actually build and run the mine. Each step can fail. A deposit that looks promising in early drilling might not have enough ore to justify development. A permitting process might drag on or be denied. Capital markets might tighten, making it harder for the operator to fund the project. If the operator gives up or the project stalls indefinitely, Vizsla receives nothing from that royalty. The company thus carries exploration and development risk alongside [commodity risk](/commodity-risk/)—the royalties on early-stage projects are a portfolio bet on which operators succeed.
 
 ## Research and watchpoints
 

@@ -64,6 +64,6 @@ Finally, consolidation is a risk. Symbotic is large enough to be visible but sti
 
 ## How to research Symbotic
 
-Symbotic files quarterly reports and an annual Form 10-K (SEC CIK 0001837240) that disclose major customers, contract backlog, gross margins by project, and management's commentary on market conditions and execution risks. The backlog figure — the dollar value of signed contracts not yet completed — is a particularly useful indicator of demand and near-term revenue visibility.
+Symbotic files quarterly reports and an annual Form 10-K (SEC CIK 0001837240) that disclose major customers, contract backlog, gross margins by project, and management's commentary on market conditions and [execution risks](/execution-risk/). The backlog figure — the dollar value of signed contracts not yet completed — is a particularly useful indicator of demand and near-term revenue visibility.
 
 Investors should track whether Symbotic is winning marquee customers and expanding beyond its core retail base into general logistics and industrial applications, which would broaden the addressable market. Watch the gross-margin trend on new projects, as it indicates whether the company can sustain or improve profitability as it scales. And monitor the company's ability to hire and retain talent; in a market where skilled automation engineers are scarce, any loss of key people or a lagging wage-and-benefits strategy can hurt future project execution and competitiveness.

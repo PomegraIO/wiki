@@ -47,7 +47,7 @@ FEMB has moderate duration — it is not as sensitive to rate changes as a long-
 
 ## Currency risk and the double bet
 
-The local-currency feature introduces an additional layer of risk and potential return. If the Mexican peso appreciates against the dollar, a U.S. investor in FEMB will see gains on the currency side in addition to any interest earned on the bonds. If the peso depreciates, those currency losses will partially or fully offset interest gains.
+The local-currency feature introduces an additional layer of risk and potential return. If the [Mexican peso](/mexian-peso/) appreciates against the dollar, a U.S. investor in FEMB will see gains on the currency side in addition to any interest earned on the bonds. If the peso depreciates, those currency losses will partially or fully offset interest gains.
 
 This is where FEMB differs fundamentally from a dollar-denominated emerging-market bond fund. With FEMB, you are betting on both the bonds themselves and on the currencies of the countries that issue them. If emerging markets are booming and currencies are strengthening, that double bet amplifies gains. If an emerging market enters a crisis and its currency collapses, FEMB could lose significantly. The currency element is not incidental — it is a major driver of returns.
 

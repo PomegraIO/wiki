@@ -60,7 +60,7 @@ The key metrics are straightforward:
 - **All-in sustaining costs.** If AISC is rising and the ore grade is falling, Asanko is eating through reserves faster than expected.
 - **[Free cash flow](/free-cash-flow/) and what the company does with it.** Galiano has paid modest [dividends](/dividend/) and bought back shares in some periods, and left capital in the ground in others, depending on the gold price outlook and balance-sheet needs.
 - **Resource and reserve estimates.** Miners file detailed ore-body estimates with regulators; a shrinking reserve base relative to production is a yellow flag.
-- **Ghana operating environment.** Any material shift in taxes, permitting, or political risk affects the [intrinsic value](/intrinsic-value/) of the asset.
+- **Ghana operating environment.** Any material shift in taxes, permitting, or [political risk](/political-risk/) affects the [intrinsic value](/intrinsic-value/) of the asset.
 
 The stock's price will move on two drivers: gold price movements, and sentiment about Galiano's operational execution relative to peer miners. Investors in junior gold should understand that stock-price volatility is often extreme, unrelated to the underlying asset quality. Galiano's shares have swung 50%+ in months based on gold moves alone, entirely apart from company news.
 

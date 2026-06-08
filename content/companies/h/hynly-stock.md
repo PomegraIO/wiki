@@ -43,7 +43,7 @@ One attraction of utility stocks is the predictability of revenue. Because Hydro
 
 However, this stability faces new pressures. Demand growth is flattening in mature markets like Ontario. Customers are installing rooftop solar, which reduces their reliance on grid electricity. Electric vehicles are growing, which increases peak demand but may shift consumption patterns in ways that are hard to predict. Industrial customers that consume large amounts of electricity may relocate, stranding some of Hydro One's distribution capacity and requiring rate adjustments to recover the investment.
 
-The regulator's role in setting rates also creates political risk. If the economy is weak and incomes are stagnant, political pressure can mount for the regulator to deny or delay rate increases, even if they are justified by cost [inflation](/inflation/). Ontario politicians have occasionally intervened in rate decisions, freezing or limiting increases at times of public discontent.
+The regulator's role in setting rates also creates [political risk](/political-risk/). If the economy is weak and incomes are stagnant, political pressure can mount for the regulator to deny or delay rate increases, even if they are justified by cost [inflation](/inflation/). Ontario politicians have occasionally intervened in rate decisions, freezing or limiting increases at times of public discontent.
 
 ## Capital structure and dividend sustainability
 

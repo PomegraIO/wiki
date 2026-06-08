@@ -1,0 +1,27 @@
+---
+title: "Invesco Large Cap Value ETF (PWV)"
+description: "PWV tracks large-cap US companies trading at a discount to earnings and book value — a traditional value-investing lens applied passively across the 200 or so biggest value stocks."
+keywords:
+  - value investing
+  - large cap
+  - price-to-earnings
+  - passive index
+  - dividend stocks
+handwritten: true
+---
+
+Invesco's Large Cap Value ETF (PWV) is a index-tracking fund that plays a single, well-defined bet: that large-cap US companies characterized by low valuations—measured by price-to-earnings, price-to-book, and [dividend yield](/dividend-yield/)—will outperform growth stocks over time. The fund holds typically 200 to 300 of the largest American companies that meet value screening criteria. It does not attempt active stock picking; it simply replicates its target index, which is reconstituted periodically as companies fall into or out of the "value" category based on their metrics.
+
+The universe PWV draws from is the large-cap space—companies large enough to move markets and liquid enough to trade in size without moving prices sharply. Within that universe, the index methodology screens for three hallmarks of value: stocks trading at low multiples of earnings, low multiples of book value, and offering relatively high [dividend](/dividend/) yields. A company might be value-classified because all three apply, or because enough of them do relative to its peers. Banks, energy companies, utilities, and traditional manufacturers frequently appear in the holdings because their business models tend to be mature, capital-intensive, and cash-generative—characteristics that drive valuations lower than fast-growth software or biotech companies that might be unprofitable but commanding eye-watering [price-to-sales ratios](/price-to-sales-ratio/).
+
+Holdings rotate as the market reprices stocks. A company can fall into the value category if its share price drops while earnings stay stable, or if earnings disappoint and the market punishes it. Conversely, a value holding can graduate to growth if a business accelerates and the market rewards it. The index methodology keeps the basket weighted to the cheapest large-cap stocks at any given moment, so PWV is always anchored to wherever the bargains are, not to a fixed list of companies.
+
+The fund's [expense ratio](/expense-ratio/) is low—a fraction of a percent—because it is entirely passive. There are no portfolio managers making active choices, no trading costs beyond the routine rebalancing required to match index changes, no [performance fees](/performance-fee/) that would reward (or punish) decision-making. An investor pays for a computer to track the index and for minimal trading to keep the fund's holdings aligned. That low cost is particularly valuable in [value investing](/value-investing/), where decades of evidence suggest active value managers struggle to beat the index, and fees erode what edge remains.
+
+The key risk here is that value investing itself is not a guaranteed winner. Value stocks tend to underperform when the economy accelerates, when [real interest rates](/real-interest-rate/) fall sharply, or when investor appetite for "cheap" companies evaporates and the market reprices toward unprofitable growth businesses. The "value trap" is a real phenomenon: some stocks are cheap because they are structurally broken and will never recover. PWV will hold some portion of those companies until the index methodology reclassifies them, realizing losses in the process.
+
+Equally, the fund exhibits duration risk. When [interest rates](/interest-rate/) rise, highly profitable companies with strong cash flows and low debt often hold up well, but their valuations compress because investors can get better returns from [bonds](/bond/). If PWV's holdings are concentrated in interest-rate-sensitive sectors—utilities, REITs, traditional banks—a steep rate rise can hurt materially. The fund does not attempt to hedge this; it simply holds the value stocks that the index identifies.
+
+Historical performance shows that value as a category has had periods of sharp outperformance (often after long stretches of underperformance, when mean reversion finally arrives) and long droughts when it lags. The data suggests value investing has edges over very long periods, but those edges are neither consistent nor large. PWV is not a way to beat the market; it is a transparent, low-cost way to hold the large-cap value segment of the market and harvest whatever premium or discount that segment commands relative to growth.
+
+For readers, the most useful research touchpoint is the fund fact sheet, which lists the top holdings and shows what sectors dominate the portfolio at any given time. Industry concentration matters: in years when energy is cheap and heavily represented in the fund, energy-sector developments dominate PWV's performance. Watch the dividend yield across the holdings—it reveals whether the fund is holding genuinely income-heavy companies or has drifted into lower-yielding names. And compare PWV's returns to a simple large-cap index (like the S&P 500) over rolling 5- and 10-year windows to see whether the value screen is actually delivering the hoped-for outperformance or whether it is simply tracking a different set of large companies that are neither systematically cheaper nor more expensive than the broad market.

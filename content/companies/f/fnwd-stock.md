@@ -41,7 +41,7 @@ The bank is too small to be a takeover target for a large regional peer ([acquis
 
 ## Operating and Financial Efficiency
 
-Finward's competitive viability hinges on tight cost control and reasonable efficiency ratios. A bank that cannot keep its cost-to-income ratio below 60–65% will struggle to generate acceptable returns in a low-growth, low-rate market. Technology investment (core banking systems, mobile apps, fraud detection) is necessary but expensive, and a small bank must amortize that cost across a modest revenue base. Finward likely partners with third-party processors for some functions (card processing, liquidity management) to avoid building internal teams.
+Finward's competitive viability hinges on tight cost control and reasonable efficiency ratios. A bank that cannot keep its [cost-to-income ratio](/cost-income-ratio/) below 60–65% will struggle to generate acceptable returns in a low-growth, low-rate market. Technology investment (core banking systems, mobile apps, fraud detection) is necessary but expensive, and a small bank must amortize that cost across a modest revenue base. Finward likely partners with third-party processors for some functions (card processing, liquidity management) to avoid building internal teams.
 
 The bank's [dividend](/dividend/) and capital returns are constrained by the need to maintain adequate capital ratios and retain earnings for organic growth. A Finward shareholder should not expect the outsized yields of high-dividend small-cap banks; the bank is more likely returning capital conservatively and reinvesting to maintain competitive positioning.
 

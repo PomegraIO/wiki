@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **First Trust Multi Cap Value AlphaDEX Fund** (FAB) targets a gap that has long plagued value investors: how to buy cheap stocks without accidentally loading up on corporate corpses. It holds mid-cap and large-cap stocks that trade at low valuations, but filters them through an algorithmic system that looks for cheap stocks that still have some underlying strength — the combination supposed to avoid the worst value traps while capturing the value premium.*
+*The **First Trust Multi Cap Value AlphaDEX Fund** (FAB) targets a gap that has long plagued value investors: how to buy cheap stocks without accidentally loading up on corporate corpses. It holds mid-cap and large-cap stocks that trade at low valuations, but filters them through an algorithmic system that looks for cheap stocks that still have some underlying strength — the combination supposed to avoid the worst value traps while capturing the [value premium](/value-premium/).*
 
 <aside class="wiki-infobox">
 <table>
@@ -44,7 +44,7 @@ This hybrid approach is not magic. It is an attempt to thread a needle: be cheap
 
 FAB overweights sectors where value plays naturally cluster: financials, industrials, energy, consumer staples, healthcare. Technology and consumer discretionary, where growth-oriented companies dominate, show up less. This sector tilt is a direct consequence of the value strategy; it is not a separate choice but an emergent property of where the algorithm finds cheap stocks with potential.
 
-The competition is intense. Hundreds of funds pursue value. Some charge less than FAB; others use simpler screens. The question for FAB is whether AlphaDEX's refinement is worth its added cost. That is genuinely difficult to answer in advance, and the answer varies depending on market cycle and the specific period examined.
+The competition is intense. Hundreds of funds pursue value. Some charge less than FAB; others use simpler screens. The question for FAB is whether AlphaDEX's refinement is worth its added cost. That is genuinely difficult to answer in advance, and the answer varies depending on [market cycle](/market-cycle/) and the specific period examined.
 
 ## The factor-risk reality
 

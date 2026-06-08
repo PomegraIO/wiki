@@ -41,7 +41,7 @@ Fundamental research at Fidelity involves traditional analysis: reading financia
 
 Like all [actively managed funds](/actively-managed-fund/), BRIF carries an [expense ratio](/expense-ratio/) higher than a passive US equity index fund. That fee structure reflects the cost of the research team, portfolio management, and ongoing analysis. Whether that active management generates enough outperformance to justify the additional cost is a question every investor must answer for themselves.
 
-The fund's historical performance matters, but past performance does not guarantee future results — a truth that applies especially to active managers. What matters more for a prospective investor is understanding the team's investment philosophy, their track record over multiple market cycles, their ownership of the companies they select, and how the fund's turnover (how often holdings are bought and sold) shapes the tax efficiency of returns.
+The fund's historical performance matters, but past performance does not guarantee future results — a truth that applies especially to active managers. What matters more for a prospective investor is understanding the team's investment philosophy, their track record over multiple [market cycles](/market-cycle/), their ownership of the companies they select, and how the fund's turnover (how often holdings are bought and sold) shapes the tax efficiency of returns.
 
 ## Behavior across market cycles
 

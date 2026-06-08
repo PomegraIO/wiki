@@ -63,7 +63,7 @@ A key metric for investors is the orderbook-to-delivery ratio — the total valu
 
 ## What to watch
 
-Anyone researching Yangzijiang should monitor three things. First, the global shipping cycle — what are fixture rates (spot rates for individual voyages) and time-charter rates (long-term hire rates) doing? When rates are firming, orders will likely follow. Second, the orderbook level and the price at which new orders are being booked. Is the company winning orders at healthy margins, or is it competing on price just to stay busy? Third, the company's cost structure and throughput — can it build faster and cheaper than competitors, and is it investing in automation and efficiency to stay ahead?
+Anyone researching Yangzijiang should monitor three things. First, the global shipping cycle — what are fixture rates ([spot rates](/spot-rate/) for individual voyages) and time-charter rates (long-term hire rates) doing? When rates are firming, orders will likely follow. Second, the orderbook level and the price at which new orders are being booked. Is the company winning orders at healthy margins, or is it competing on price just to stay busy? Third, the company's cost structure and throughput — can it build faster and cheaper than competitors, and is it investing in automation and efficiency to stay ahead?
 
 The company's [annual report](/10-k/) and semi-annual results lay out the orderbook by ship type and the contract values. The SEC filing (CIK 0002053843) is the authoritative source for financial statements and management commentary on market conditions. Watch the gross margin trend and the company's capital expenditure on new berths and equipment.
 

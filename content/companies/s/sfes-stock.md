@@ -41,7 +41,7 @@ Safeguard depends upstream on identifying promising early-stage companies to buy
 
 **What are the risks specific to this model?**
 
-[Concentration risk](/concentration-risk/) is substantial. Unlike a diversified venture fund that owns small stakes in many companies, Safeguard owns meaningful stakes in a smaller number of companies. If one of those companies fails, it is a larger blow to Safeguard's portfolio value. Illiquidity is another: stakes in private companies are hard to sell if Safeguard needs cash. And execution risk cuts both ways — Safeguard's operating involvement can accelerate success or amplify failure, depending on the quality of decisions made.
+[Concentration risk](/concentration-risk/) is substantial. Unlike a diversified venture fund that owns small stakes in many companies, Safeguard owns meaningful stakes in a smaller number of companies. If one of those companies fails, it is a larger blow to Safeguard's portfolio value. Illiquidity is another: stakes in private companies are hard to sell if Safeguard needs cash. And [execution risk](/execution-risk/) cuts both ways — Safeguard's operating involvement can accelerate success or amplify failure, depending on the quality of decisions made.
 
 The companies themselves face the usual hazards of early-stage businesses: regulatory delays (especially common in healthcare), technical setbacks, market rejection, key personnel leaving, or competitive threats. Healthcare and life sciences in particular face long development timelines and binary outcomes — a drug candidate either gets approved or it does not, and approval can take a decade and cost billions.
 

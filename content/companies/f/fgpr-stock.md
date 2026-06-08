@@ -43,7 +43,7 @@ Ferrellgas competes partly on supply resilience: can it guarantee delivery to cu
 
 Propane customers—residential, agricultural, industrial, and commercial—exhibit some stickiness: switching suppliers is not frictionless, and reliability matters. However, the commodity nature of propane means that price is the primary competitive lever. Large commercial or industrial customers (food processors, grain driers, manufacturing facilities) may shop propane annually or negotiate long-term contracts with price-adjustment clauses. Small residential and agricultural customers may tolerate a premium for good service but ultimately cannot absorb indefinite price disadvantages.
 
-Ferrellgas competes by offering reliable supply, responsive service, and competitive pricing without erosion of customer loyalty to local rivals. In markets where a single local competitor dominates, Ferrellgas may be the primary alternative, preserving volume despite modest price disadvantages. In fragmented markets, price pressure is relentless.
+Ferrellgas competes by offering reliable supply, responsive service, and competitive pricing without erosion of customer loyalty to local rivals. In markets where a single local competitor dominates, Ferrellgas may be the primary alternative, preserving volume despite modest price disadvantages. In [fragmented markets](/fragmented-market/), price pressure is relentless.
 
 ## The Partnership Cost Structure
 

@@ -14,7 +14,7 @@ handwritten: true
 
 ## The Core Business
 
-Algonquin Power operates through distinct segments. Regulated utilities—electricity distribution, natural gas, and water systems—form the stable backbone, serving established customer bases under tariff frameworks set by regional regulatory commissions. These operations generate predictable monthly revenue tied to cost recovery and a regulated return on equity, supporting the [dividend](/dividend/). Renewable generation (wind and solar) runs on long-term power purchase agreements, providing another contracted revenue stream less tied to commodity swings. The portfolio spans utilities in New York, Pennsylvania, New Hampshire, Maine, and other Northeast jurisdictions, plus Canadian operations, creating geographic [diversification](/diversification/) across regulatory regimes.
+Algonquin Power operates through distinct segments. Regulated utilities—electricity distribution, natural gas, and water systems—form the stable backbone, serving established customer bases under tariff frameworks set by regional regulatory commissions. These operations generate predictable monthly revenue tied to cost recovery and a regulated return on equity, supporting the [dividend](/dividend/). Renewable generation (wind and solar) runs on long-term [power purchase agreements](/power-purchase-agreement/), providing another contracted revenue stream less tied to commodity swings. The portfolio spans utilities in New York, Pennsylvania, New Hampshire, Maine, and other Northeast jurisdictions, plus Canadian operations, creating geographic [diversification](/diversification/) across regulatory regimes.
 
 ## Revenue and Returns
 

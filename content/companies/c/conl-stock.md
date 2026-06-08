@@ -33,7 +33,7 @@ The underlying COIN index is not broadly diversified. Coinbase alone comprises a
 
 GraniteShares charges roughly 1.50–1.60% annually. This covers daily rebalancing operations, derivative financing, and fund administration. For a position held days or a few weeks, the annual rate translates to a modest drag. For a position held months, the compounded annual cost becomes material.
 
-The fund trades on NYSE Arca with reasonable liquidity, though [bid-ask spreads](/bid-ask-spread/) can widen during low-volume or stressful market periods. Entry and exit friction should be considered, especially for positions near the fund's open or close when volume is thin.
+The fund trades on [NYSE Arca](/nyse-arca/) with reasonable liquidity, though [bid-ask spreads](/bid-ask-spread/) can widen during low-volume or stressful market periods. Entry and exit friction should be considered, especially for positions near the fund's open or close when volume is thin.
 
 ## Counterparty and structural risk
 

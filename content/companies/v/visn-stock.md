@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Vistance Networks is a small publicly traded software company that sells unified communications and network management tools to small and medium-sized businesses. The company competes in a crowded space — VoIP, video conferencing, and cloud communications — where larger players like [Microsoft](/msft-stock/), Cisco, and Zoom dominate. Vistance's story is one of entry into a fragmented market, modest success, and the ongoing challenge of staying relevant in an industry where technology moves quickly and consolidation is relentless.
+Vistance Networks is a small publicly traded software company that sells unified communications and network management tools to small and medium-sized businesses. The company competes in a crowded space — VoIP, video conferencing, and cloud communications — where larger players like [Microsoft](/msft-stock/), Cisco, and Zoom dominate. Vistance's story is one of entry into a [fragmented market](/fragmented-market/), modest success, and the ongoing challenge of staying relevant in an industry where technology moves quickly and consolidation is relentless.
 
 <aside class="wiki-infobox">
 <table>

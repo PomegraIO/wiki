@@ -21,7 +21,7 @@ handwritten: true
 
 ## The mechanics
 
-Aptus April Deep Buffer ETF uses a specific strategy: each quarter it buys a basket of large-cap stocks and sells [call options](/call-option/) (capping upside gains) to fund the purchase of [put options](/put-option/) (protecting against downside losses). The result is a "buffer" — if the market declines up to 15% in that quarter, the fund's value is protected. If the market gains more than 15%, the fund's returns are capped at roughly 15%. Markets that fall between -15% and +15% produce returns in that range without the protection kicking in or the cap mattering.
+Aptus April Deep [Buffer ETF](/buffer-etf/) uses a specific strategy: each quarter it buys a basket of large-cap stocks and sells [call options](/call-option/) (capping upside gains) to fund the purchase of [put options](/put-option/) (protecting against downside losses). The result is a "buffer" — if the market declines up to 15% in that quarter, the fund's value is protected. If the market gains more than 15%, the fund's returns are capped at roughly 15%. Markets that fall between -15% and +15% produce returns in that range without the protection kicking in or the cap mattering.
 
 The strategy resets quarterly, meaning the options expire on the last trading day of April, June, September, and December. Each quarter brings a fresh set of options, a new collar structure, and the risk structure resets. In a quarter where stocks fall 8%, an investor captures that loss (the buffer does not protect since the loss is shallower than 15%). In a quarter where stocks rally 20%, the fund returns approximately 15% and the rest of the gain is forgone.
 
@@ -29,7 +29,7 @@ The strategy resets quarterly, meaning the options expire on the last trading da
 
 The fund targets investors who want the long-term wealth-building properties of owning stocks but find the emotional or risk-tolerance burden of equity volatility intolerable. By trading away half the upside (roughly), the fund provides the psychological and financial benefit of a defined loss boundary — you know your maximum quarterly loss is capped near 15%, though that protection costs you significant gains in strong quarters.
 
-This comes with real trade-offs. Over full market cycles, capping gains at 15% per quarter is a material drag. A market up 40% over a year might see the fund return roughly 20–25% depending on quarterly sequencing. Over a full decade, that gap compounds substantially. The strategy works best in sideways or moderately volatile markets; it underperforms dramatically in strong [bull markets](/bull-market/).
+This comes with real trade-offs. Over full [market cycles](/market-cycle/), capping gains at 15% per quarter is a material drag. A market up 40% over a year might see the fund return roughly 20–25% depending on quarterly sequencing. Over a full decade, that gap compounds substantially. The strategy works best in sideways or moderately volatile markets; it underperforms dramatically in strong [bull markets](/bull-market/).
 
 ## Costs, risks, and the fine print
 

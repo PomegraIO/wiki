@@ -40,7 +40,7 @@ Conversely, during periods of peso stability (or dollar scarcity), depositors ke
 
 ## Market Position Within a Consolidating Sector
 
-Macro Bank competes within Argentina's banking sector against larger state-owned banks, other private institutions, and increasingly, fintech and digital-only players that offer simpler interfaces and lower costs. Its comparative advantage, if any, is longevity and relationship capital with Argentina's business and elite customer base. But scale and government backing favor larger competitors.
+Macro Bank competes within Argentina's banking sector against larger state-owned banks, other private institutions, and increasingly, fintech and digital-only players that offer simpler interfaces and lower costs. Its [comparative advantage](/comparative-advantage/), if any, is longevity and relationship capital with Argentina's business and elite customer base. But scale and government backing favor larger competitors.
 
 The sector as a whole faces headwinds from dollarization (customers preferring to hold dollars outside the banking system), [capital flight](/capital-flight-sovereign/), and the structural difficulty of lending in an unstable macro environment. Macro Bank's survival depends on remaining small enough to avoid becoming a target of central-bank policy pressure, and profitable enough in nominal terms to rebuild real capital despite inflation. This is a unique and fraught position among global banks.
 

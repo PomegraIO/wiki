@@ -26,7 +26,7 @@ Until such an acquisition occurs and closes, DMAA exists as a shell holding inve
 
 **Understanding a SPAC investment**
 
-Blank-check investing is fundamentally different from buying a share of an operating company. There is no business to analyze, no track record of earnings or cash flow, and no incumbent management team with skin in the game beyond the sponsor team's carried interest. The analysis shifts to the sponsors' prior deals, their compensation terms, and any preliminary indications of what acquisition they might pursue.
+Blank-check investing is fundamentally different from buying a share of an operating company. There is no business to analyze, no track record of earnings or cash flow, and no incumbent management team with skin in the game beyond the sponsor team's [carried interest](/carried-interest-compensation/). The analysis shifts to the sponsors' prior deals, their compensation terms, and any preliminary indications of what acquisition they might pursue.
 
 For investors in DMAA specifically, the relevant questions are: Who are the sponsors and what is their track record in pharmaceutical deals? What is the capital available for acquisition and deployment? What timeline and criteria have been stated for identifying a target? And if a deal is announced, how do the terms of the merger, the sponsor dilution, and the economic structure compare to what competitors or alternative acquirers might have offered?
 

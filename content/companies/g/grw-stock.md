@@ -37,7 +37,7 @@ Concentration is moderate rather than highly diversified. The fund typically hol
 
 ## Costs and trading
 
-The fund's [expense ratio](/expense-ratio/) is quoted on the sponsor's website and prospectus; as an actively managed ETF, the fee is generally higher than that of a passive [index fund](/index-fund/) but broadly competitive within the actively managed fund landscape. GRW trades on the NYSE Arca exchange throughout the trading day, so investors can buy and sell shares at market prices that fluctuate minute-to-minute, rather than receiving a single end-of-day price as they would in a traditional [mutual fund](/mutual-fund/).
+The fund's [expense ratio](/expense-ratio/) is quoted on the sponsor's website and prospectus; as an actively managed ETF, the fee is generally higher than that of a passive [index fund](/index-fund/) but broadly competitive within the actively managed fund landscape. GRW trades on the [NYSE Arca](/nyse-arca/) exchange throughout the trading day, so investors can buy and sell shares at market prices that fluctuate minute-to-minute, rather than receiving a single end-of-day price as they would in a traditional [mutual fund](/mutual-fund/).
 
 The underlying liquidity depends on the market for each of the fund's holdings; because the fund concentrates on large-cap and mid-cap stocks that trade actively, the fund itself remains liquid for typical investor-sized purchases.
 

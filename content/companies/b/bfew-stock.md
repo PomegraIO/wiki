@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-BFEW is a niche product inside the buffer-ETF ecosystem. Where most buffer funds wrap themselves around the S&P 500 or another market-cap-weighted index, BFEW builds its collar around an equal-weight universe of large and mid-cap U.S. stocks. Equal weight means each holding gets the same dollar allocation regardless of size, so a 500-stock universe gives every stock a 0.2% starting weight. That structural choice makes the fund tilt toward smaller names within the "large cap" band and creates natural rebalancing pressure — winners shrink toward equal weight, losers grow, forcing the fund to buy weakness and trim strength.
+BFEW is a niche product inside the buffer-ETF ecosystem. Where most [buffer funds](/buffer-fund/) wrap themselves around the S&P 500 or another market-cap-weighted index, BFEW builds its collar around an equal-weight universe of large and mid-cap U.S. stocks. Equal weight means each holding gets the same dollar allocation regardless of size, so a 500-stock universe gives every stock a 0.2% starting weight. That structural choice makes the fund tilt toward smaller names within the "large cap" band and creates natural rebalancing pressure — winners shrink toward equal weight, losers grow, forcing the fund to buy weakness and trim strength.
 
 ## The equal-weight tilt
 

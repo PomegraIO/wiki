@@ -15,7 +15,7 @@ handwritten: true
 
 > "Yield without taking the full risk of a long-dated portfolio."
 
-That aspiration frames the fund's approach. By holding predominantly shorter-duration debt — bonds with years rather than decades until maturity — the portfolio minimises the risk that rising [interest rates](/interest-rate/) will markedly reduce the value of existing holdings. This low-duration positioning trades away some yield; SDSI compensates by adding equity exposure, preferred shares, and selective higher-yield debt to push the overall payout higher than a simple short-duration bond fund alone would generate.
+That aspiration frames the fund's approach. By holding predominantly shorter-duration debt — bonds with years rather than decades until maturity — the portfolio minimises the risk that rising [interest rates](/interest-rate/) will markedly reduce the value of existing holdings. This low-duration positioning trades away some yield; SDSI compensates by adding equity exposure, preferred shares, and selective higher-yield debt to push the overall payout higher than a simple [short-duration bond fund](/short-duration-bond-fund/) alone would generate.
 
 ## The income toolkit and positioning
 

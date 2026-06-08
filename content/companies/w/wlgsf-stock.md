@@ -32,7 +32,7 @@ The final core segment handles plumbing and drainage infrastructure—water supp
 
 WANG & LEE serves a diverse array of clients: small startups, multinational corporations, property developers, hospitals, schools, theme parks, government agencies, and private individuals. The government accounts for a meaningful portion of revenue—the Hong Kong SAR government is a direct client, and public works contracts in mainland China are large and recurring. This client [diversification](/diversification/) provides some economic insulation; when private commercial development slows, government and institutional projects may continue.
 
-The company's geographic presence spans Hong Kong and mainland China. Hong Kong remains mature and saturation; most growth opportunity lies in mainland Chinese cities, where rapid urbanization has driven continuous construction and renovation demand. However, mainland projects often involve higher execution risk (regulatory changes, local authority demands, supply chain disruptions) and competition from local contractors who may undercut on price.
+The company's geographic presence spans Hong Kong and mainland China. Hong Kong remains mature and saturation; most growth opportunity lies in mainland Chinese cities, where rapid urbanization has driven continuous construction and renovation demand. However, mainland projects often involve higher [execution risk](/execution-risk/) (regulatory changes, local authority demands, supply chain disruptions) and competition from local contractors who may undercut on price.
 
 ## Revenue model and profitability dynamics
 

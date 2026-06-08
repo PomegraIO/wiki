@@ -21,7 +21,7 @@ keywords: ["CMCL", "gold mining", "Zimbabwe", "commodities", "mining operations"
 
 ## Zimbabwe Operating Risk and Geopolitical Exposure
 
-The Blanket Mine operates in Zimbabwe, a country with a complex political and regulatory environment. Zimbabwe has a history of regulatory changes affecting mining, property rights, and foreign ownership. Additionally, the country has faced currency instability, inflation, and import/export constraints that can affect the cost of imported supplies and the ability to repatriate capital and dividends. Political risk—including potential shifts in mining taxation, operationalization of ownership policies, or deterioration of governance—can materially affect the mine's operating costs and capital availability. For a company concentrated in a single jurisdiction, these risks are non-diversifiable; Caledonia cannot spread risk across multiple countries.
+The Blanket Mine operates in Zimbabwe, a country with a complex political and regulatory environment. Zimbabwe has a history of regulatory changes affecting mining, property rights, and foreign ownership. Additionally, the country has faced currency instability, inflation, and import/export constraints that can affect the cost of imported supplies and the ability to repatriate capital and dividends. [Political risk](/political-risk/)—including potential shifts in mining taxation, operationalization of ownership policies, or deterioration of governance—can materially affect the mine's operating costs and capital availability. For a company concentrated in a single jurisdiction, these risks are non-diversifiable; Caledonia cannot [spread risk](/spread-risk/) across multiple countries.
 
 ## Finite Reserve Life and Depletion
 

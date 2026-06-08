@@ -49,7 +49,7 @@ As of early 2024, Petros had scheduled two meetings with the FDA to discuss the 
 
 By 2024, Petros had exited the vacuum erection device business that it once held alongside Stendra. The company assigned certain subsidiaries' assets for the benefit of creditors—a restructuring that narrowed the business to its core: pursuing the OTC switch for Stendra.
 
-This strategy carries execution risk. The FDA has never approved a PDE-5 inhibitor over the counter, and regulatory approval is not guaranteed. If the FDA declines to approve the switch or demands modifications that make the app or screening process unworkable, the company would face a very limited commercial path forward.
+This strategy carries [execution risk](/execution-risk/). The FDA has never approved a PDE-5 inhibitor over the counter, and regulatory approval is not guaranteed. If the FDA declines to approve the switch or demands modifications that make the app or screening process unworkable, the company would face a very limited commercial path forward.
 
 The company operates with limited cash and no near-term revenue outside of whatever lingering prescription Stendra sales remain. The entire business case depends on the OTC switch succeeding within a reasonable timeframe.
 

@@ -23,7 +23,7 @@ This position in the value chain is defined by two realities. First, Japan has n
 
 ## Refining as the Core Value-Addition
 
-Refining is Cosmo Energy's primary value-add: crude oil arrives at its refineries, undergoes a series of thermal and chemical processes, and emerges as a slate of products—gasoline for cars, diesel for trucks and industrial users, kerosene for heating and aviation, and residual fuel oil for power plants and maritime shipping. The margin between crude cost and refined-product revenue is the crack spread, and Cosmo Energy's profitability depends on whether it can run its refineries efficiently and whether refined-product demand justifies the cost of the crude feedstock.
+Refining is Cosmo Energy's primary value-add: crude oil arrives at its refineries, undergoes a series of thermal and chemical processes, and emerges as a slate of products—gasoline for cars, diesel for trucks and industrial users, kerosene for heating and aviation, and residual fuel oil for power plants and maritime shipping. The margin between crude cost and refined-product revenue is the [crack spread](/crack-spread/), and Cosmo Energy's profitability depends on whether it can run its refineries efficiently and whether refined-product demand justifies the cost of the crude feedstock.
 
 The company owns multiple refinery complexes in Japan, each with a specific product slate and capacity utilization. A more complex refinery (with advanced cracking units and specialty hydroprocessing) can extract more value from heavier crude but requires higher capital investment and operating costs. This engineering and capital intensity means refineries are long-lived, difficult-to-replace assets that shape Cosmo Energy's competitive position for decades.
 

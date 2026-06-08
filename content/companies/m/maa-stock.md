@@ -47,7 +47,7 @@ Because MAA is organized as a REIT, it is required by law to distribute at least
 
 The flip side is that MAA must fund growth and capital improvements primarily through debt and equity issuances, not accumulated [retained earnings](/retained-earnings/). The company borrows heavily, using mortgage debt secured by individual properties or unsecured [bonds](/bond/), and occasionally raises equity through public offerings or [preferred stock](/preferred-stock/). This makes MAA's [balance sheet](/balance-sheet/) and debt metrics a critical research point: if debt levels rise too sharply, interest expenses consume more cash flow, reducing the amount available for dividends or reinvestment.
 
-MAA's growth strategy historically centered on acquiring stabilized apartment properties in Sun Belt markets, often from sellers who were smaller or less efficient operators, then improving operations to boost cash flow. The company also develops new apartment communities from the ground up, though development carries execution risk (cost overruns, leasing delays, construction challenges) and ties up capital for years before the property generates stable returns. In the post-2008 era, MAA has been disciplined about development, preferring to allocate capital to [acquisitions](/acquisition/) where the risk is lower and the cash flow is immediate.
+MAA's growth strategy historically centered on acquiring stabilized apartment properties in Sun Belt markets, often from sellers who were smaller or less efficient operators, then improving operations to boost cash flow. The company also develops new apartment communities from the ground up, though development carries [execution risk](/execution-risk/) (cost overruns, leasing delays, construction challenges) and ties up capital for years before the property generates stable returns. In the post-2008 era, MAA has been disciplined about development, preferring to allocate capital to [acquisitions](/acquisition/) where the risk is lower and the cash flow is immediate.
 
 ## Competition and Industry Dynamics
 
@@ -91,11 +91,11 @@ Start with MAA's [10-K filing](/wiki/10-k/) with the SEC (CIK 912595). The filin
 
 Key metrics to follow:
 
-**Same-store NOI growth.** This measures the change in net operating income from properties MAA owned for at least two full years, excluding new acquisitions or dispositions. Positive same-store growth signals operational strength and rent pricing power; negative growth indicates market weakness or operational challenges.
+**[Same-store NOI growth](/same-store-noi-growth/).** This measures the change in net operating income from properties MAA owned for at least two full years, excluding new acquisitions or dispositions. Positive same-store growth signals operational strength and rent pricing power; negative growth indicates market weakness or operational challenges.
 
-**Occupancy and leasing spreads.** Occupancy above 95% is generally healthy; below 92% suggests weakness. The leasing spread—the percentage change in rent on new leases versus expiring leases—is a leading indicator. Positive spreads suggest the company is raising rents as tenants turn; negative spreads signal pressure.
+**Occupancy and leasing spreads.** Occupancy above 95% is generally healthy; below 92% suggests weakness. The leasing spread—the percentage change in rent on new leases versus expiring leases—is a [leading indicator](/leading-indicator/). Positive spreads suggest the company is raising rents as tenants turn; negative spreads signal pressure.
 
-**Funds from operations (FFO) and adjusted FFO.** Because [depreciation](/depreciation/) is deducted but not a cash expense, REITs report FFO (net income plus depreciation). Adjusted FFO further strips out one-time items. This metric is closely watched by REIT investors and is the basis for dividend sustainability.
+**[Funds from operations](/funds-from-operations/) (FFO) and adjusted FFO.** Because [depreciation](/depreciation/) is deducted but not a cash expense, REITs report FFO (net income plus depreciation). Adjusted FFO further strips out one-time items. This metric is closely watched by REIT investors and is the basis for dividend sustainability.
 
 **Debt metrics.** Debt-to-total capitalization, debt-to-EBITDA, and the ratio of debt to NOI all indicate leverage. Investors generally prefer to see these metrics stable or improving over time.
 

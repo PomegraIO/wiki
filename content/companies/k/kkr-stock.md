@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-KKR & Co. Inc. is one of the world's largest alternative-asset managers, operating across private equity, credit, infrastructure, real estate, and a substantial insurance underwriting business through its Global Atlantic subsidiary. The firm manages capital on behalf of institutional investors, sovereign wealth funds, and corporate clients, while also deploying its own capital as a co-investor in deals. With offices across major financial centers, KKR has become a fixture in large-scale buyouts, credit investments, and long-duration infrastructure projects.
+KKR & Co. Inc. is one of the world's largest alternative-asset managers, operating across private equity, credit, infrastructure, real estate, and a substantial insurance underwriting business through its Global Atlantic subsidiary. The firm manages capital on behalf of institutional investors, [sovereign wealth funds](/sovereign-wealth-fund/), and corporate clients, while also deploying its own capital as a co-investor in deals. With offices across major financial centers, KKR has become a fixture in large-scale buyouts, credit investments, and long-duration infrastructure projects.
 
 ## The business at a glance
 
-KKR operates along two principal income streams: [management fees](/management-fee/) derived from assets under management (AUM) across its investment platforms, and carried interest ([performance fees](/performance-fee/)) earned when investments are exited profitably. In addition, the Global Atlantic Group—a major insurance underwriter acquired and consolidated over time—generates insurance underwriting income and investment gains from its float. This combination creates a business with exposure to both market-driven capital appreciation and steady, recurring insurance premiums.
+KKR operates along two principal income streams: [management fees](/management-fee/) derived from assets under management (AUM) across its investment platforms, and [carried interest](/carried-interest-compensation/) ([performance fees](/performance-fee/)) earned when investments are exited profitably. In addition, the Global Atlantic Group—a major insurance underwriter acquired and consolidated over time—generates insurance underwriting income and investment gains from its float. This combination creates a business with exposure to both market-driven capital appreciation and steady, recurring insurance premiums.
 
 <aside class="wiki-infobox">
 <strong>Key Facts</strong>
@@ -60,7 +60,7 @@ At the same time, KKR faces structural headwinds. The private equity and credit 
 
 ## Investment approach and portfolio diversity
 
-Rather than a single playbook, KKR operates a portfolio of strategies tailored to different client risk appetites and time horizons. Classic leveraged buyouts still dominate by deal count but private equity capital has increasingly flowed into growth equity (minority stakes in rapidly scaling firms without a full buyout) and credit-focused strategies (where KKR acts as a lender rather than an owner). Infrastructure funds appeal to pension funds and sovereign wealth funds seeking stable, inflation-hedged returns over 20+ year horizons. The insurance business attracts capital that views insurance float as a permanent source of compounding returns—a philosophy influenced by [Berkshire Hathaway](/brk-b-stock/)'s Buffett-inspired approach.
+Rather than a single playbook, KKR operates a portfolio of strategies tailored to different client risk appetites and time horizons. Classic leveraged buyouts still dominate by deal count but private equity capital has increasingly flowed into growth equity (minority stakes in rapidly scaling firms without a full buyout) and credit-focused strategies (where KKR acts as a lender rather than an owner). [Infrastructure funds](/pe-infrastructure-fund/) appeal to pension funds and sovereign wealth funds seeking stable, inflation-hedged returns over 20+ year horizons. The insurance business attracts capital that views insurance float as a permanent source of compounding returns—a philosophy influenced by [Berkshire Hathaway](/brk-b-stock/)'s Buffett-inspired approach.
 
 This breadth creates both opportunity and complexity: investors must diligence numerous sub-strategies, each with distinct risk/return profiles and liquidity terms.
 

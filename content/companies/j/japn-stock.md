@@ -49,7 +49,7 @@ Concentration is a real constraint. Thirty to fifty holdings means individual po
 
 Active management risk is equally important. Unlike a passive tracker, JAPN's performance depends on its managers' judgment. If their criteria for identifying good owner-operators proves flawed, or if the characteristics they favor fall out of market favor for years at a time, the fund can underperform significantly.
 
-Japanese economic and political risks also apply. Geopolitical tension with China, shifts in [monetary policy](/monetary-policy/), or sustained domestic stagnation could pressure Japanese equities broadly, making individual stock quality less relevant. And [currency risk](/currency-risk/) is persistent: a sustained yen decline against the dollar will reduce returns to U.S. investors even if underlying stocks perform well in yen terms.
+Japanese economic and [political risks](/political-risk/) also apply. Geopolitical tension with China, shifts in [monetary policy](/monetary-policy/), or sustained domestic stagnation could pressure Japanese equities broadly, making individual stock quality less relevant. And [currency risk](/currency-risk/) is persistent: a sustained yen decline against the dollar will reduce returns to U.S. investors even if underlying stocks perform well in yen terms.
 
 ## Who benefits and how to research
 

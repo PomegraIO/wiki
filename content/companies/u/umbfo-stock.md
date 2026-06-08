@@ -39,7 +39,7 @@ Interest rate risk is pervasive. If rates fall sharply, UMB's deposit costs migh
 
 [Credit risk](/credit-risk/)—the possibility that borrowers cannot repay loans—is inherent to banking. Economic downturns trigger credit losses, which can overwhelm profitability quickly. UMB's commercial lending portfolio is diversified across industries and geographies, which provides some insulation, but severe regional or national recessions can produce losses at a scale that impairs capital. A truly severe downturn could force UMB to cut its [dividend](/dividend/) or raise expensive capital to maintain regulatory requirements.
 
-Operational and technology risk matters increasingly. Banking systems are complex, and cyberattacks targeting banks are growing more sophisticated. UMB must invest continuously in cybersecurity, data infrastructure, and regulatory compliance systems or risk losing customer confidence, suffering fines, or facing service disruptions. The competitive pressure from larger banks and fintech disruptors also creates pressure to invest in digital channels and mobile banking, which requires capital and technical talent.
+Operational and [technology risk](/technology-risk/) matters increasingly. Banking systems are complex, and cyberattacks targeting banks are growing more sophisticated. UMB must invest continuously in cybersecurity, data infrastructure, and regulatory compliance systems or risk losing customer confidence, suffering fines, or facing service disruptions. The competitive pressure from larger banks and fintech disruptors also creates pressure to invest in digital channels and mobile banking, which requires capital and technical talent.
 
 **How should an investor research UMB?**
 

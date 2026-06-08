@@ -42,9 +42,9 @@ Treasuries are typically straightforward—the fund holds bonds directly or hold
 
 Bitcoin and Treasuries often move in opposite directions. When equity markets panic and investors flee to safety, Bitcoin may sink alongside stocks, but Treasuries typically rally. This negative correlation provides genuine [diversification](/diversification/) benefit in normal market environments. A 60-Bitcoin-40-Treasury fund will swing less violently than owning Bitcoin alone.
 
-The real risk emerges during systemic crises. If a financial panic is severe enough—a banking failure, a currency crisis, or a severe [recession](/recession/)—both risk assets and Bitcoin may decline sharply while investors flee to the dollar itself rather than bonds. In that scenario, Treasuries might not rally enough to offset the Bitcoin losses, and the fund's diversification promise breaks. NGHT is designed for normal regimes and moderate shocks, not for extreme tail events where all risky assets corrode together.
+The real risk emerges during systemic crises. If a financial panic is severe enough—a banking failure, a [currency crisis](/currency-crisis/), or a severe [recession](/recession/)—both risk assets and Bitcoin may decline sharply while investors flee to the dollar itself rather than bonds. In that scenario, Treasuries might not rally enough to offset the Bitcoin losses, and the fund's diversification promise breaks. NGHT is designed for normal regimes and moderate shocks, not for extreme tail events where all risky assets corrode together.
 
-A second volatility risk is rebalancing slippage. If the fund's target is 50-50 and Bitcoin rallies sharply, the Bitcoin portion grows to 60 percent of the fund. The fund must then sell Bitcoin and buy Treasuries to restore balance. Selling a rising asset to buy a modest-yielding bond is a cost paid by the fund—not unusual, but real.
+A second [volatility risk](/volatility-risk/) is rebalancing slippage. If the fund's target is 50-50 and Bitcoin rallies sharply, the Bitcoin portion grows to 60 percent of the fund. The fund must then sell Bitcoin and buy Treasuries to restore balance. Selling a rising asset to buy a modest-yielding bond is a cost paid by the fund—not unusual, but real.
 
 ## Costs and trading access
 

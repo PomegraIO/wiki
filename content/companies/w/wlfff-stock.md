@@ -43,7 +43,7 @@ The company's ability to raise capital depends critically on both commodities se
 
 ## The regulatory and permitting landscape
 
-British Columbia is a relatively stable jurisdiction for mining, with an established permitting framework and, generally, lower regulatory risk than certain developing-world regions. However, Canadian permitting still requires rigorous environmental review, engagement with Indigenous peoples, and public consultation. These processes have become more stringent and lengthy over time, particularly in provinces where Indigenous rights are contested and where communities have raised concerns about environmental impacts on water, wildlife, and land use.
+British Columbia is a relatively stable jurisdiction for mining, with an established permitting framework and, generally, lower regulatory risk than certain developing-world regions. However, Canadian permitting still requires rigorous environmental [review, engagement](/review-engagement/) with Indigenous peoples, and public consultation. These processes have become more stringent and lengthy over time, particularly in provinces where Indigenous rights are contested and where communities have raised concerns about environmental impacts on water, wildlife, and land use.
 
 Wolfden's success in moving Woodjam from a project under exploration toward a permitted mine will depend on navigating this landscape effectively. A project can be geologically sound and economically marginal and still fail to win permits if the company cannot build social license or if regulators determine that the environmental costs exceed the economic benefits to the region.
 

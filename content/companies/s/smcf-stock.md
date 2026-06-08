@@ -39,7 +39,7 @@ Small-cap stocks are inherently more volatile than large-cap stocks. They have l
 
 SMCF is an actively managed ETF, not a passive index tracker. Themes' investment team screens the thousands of publicly traded US small-cap stocks, identifies those that meet the cash flow and capital allocation criteria, and constructs a portfolio. The screening process is systematic: it can be back-tested, monitored, and refined over time.
 
-The fund holds roughly 100 to 150 stocks, which provides [diversification](/diversification/) without becoming so broad that it just mirrors the small-cap market. Holdings are weighted based on various metrics — free cash flow yield, balance sheet strength, or buyback intensity — rather than simply by market cap.
+The fund holds roughly 100 to 150 stocks, which provides [diversification](/diversification/) without becoming so broad that it just mirrors the small-cap market. Holdings are weighted based on various metrics — free [cash flow yield](/cash-flow-yield/), balance sheet strength, or buyback intensity — rather than simply by market cap.
 
 Because SMCF is actively managed, it can rotate its holdings as circumstances change. If a company's cash generation falters, or if management stops returning cash to shareholders, the fund can replace it. This is different from a passive small-cap index, which would hold everything regardless.
 

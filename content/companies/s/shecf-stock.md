@@ -55,7 +55,7 @@ Geopolitical risk is relevant. Shin-Etsu has significant operations in Asia and 
 
 Shin-Etsu pays a modest dividend that has grown gradually over time. The [payout ratio](/payout-ratio/) is relatively low, reflecting the company's preference for reinvestment in the business over returning cash to shareholders. The company does not execute significant [share buybacks](/share-buyback/). This capital allocation is typical of Japanese manufacturers and of capital-intensive industries — the priority is investing in plants, equipment, and R&D to maintain competitive position.
 
-For shareholders, this means returns come primarily from earnings growth and multiple expansion rather than from capital returns. The dividend provides a modest yield, and over the long term the stock can provide capital appreciation if the company invests wisely and grows earnings.
+For shareholders, this means returns come primarily from earnings growth and [multiple expansion](/multiple-expansion/) rather than from capital returns. The dividend provides a modest yield, and over the long term the stock can provide capital appreciation if the company invests wisely and grows earnings.
 
 ## Researching Shin-Etsu as an investor
 

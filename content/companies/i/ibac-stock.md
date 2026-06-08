@@ -59,6 +59,6 @@ Even after the deal closes, SPAC [mergers](/merger/) have a mixed track record. 
 
 ## How to research IB Acquisition
 
-Start with the company's SEC filings (CIK 0001998781). The proxy statements filed with the SEC before shareholder votes contain detailed information about GNQ Insilico, including financial projections, management bios, and risk factors. The merger agreement itself is filed as an exhibit and lays out exactly what each party is getting.
+Start with the company's SEC filings (CIK 0001998781). The [proxy statements](/proxy-statement/) filed with the SEC before shareholder votes contain detailed information about GNQ Insilico, including financial projections, management bios, and risk factors. The merger agreement itself is filed as an exhibit and lays out exactly what each party is getting.
 
 Watch for any amendments to the agreement, any regulatory setbacks, or any commentary from management on the progress of closing. SPAC deals are binary — they close or they don't — so the risk is concentrated at the endpoint.

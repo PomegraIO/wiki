@@ -26,7 +26,7 @@ VEON's revenue comes from four main geographic clusters, each with distinct econ
 
 **Bangladesh and Pakistan** represent a more recent expansion into South Asia. These are very large markets by population but early-stage in mobile development and intensely competitive; VEON entered later than the dominant incumbents in these countries and operates at a disadvantage.
 
-**Africa** (Zambia, Democratic Republic of Congo) is the smallest segment and the most nascent. These are frontier markets in every sense — low incomes, weak infrastructure, difficult regulatory environments — but with large populations and very low smartphone penetration, making them potentially attractive long-term bets.
+**Africa** (Zambia, Democratic Republic of Congo) is the smallest segment and the most nascent. These are [frontier markets](/frontier-markets/) in every sense — low incomes, weak infrastructure, difficult regulatory environments — but with large populations and very low smartphone penetration, making them potentially attractive long-term bets.
 
 ## The revenue model and the margin challenge
 
@@ -50,7 +50,7 @@ The Ukraine exposure is acute: the company's fixed assets (towers, fiber, networ
 
 ## Reading the earnings and the 10-K
 
-VEON's SEC filings (CIK 0001468091) break revenue by segment and geography, and compare historical periods in both local currency and constant U.S. dollars (the latter removes currency effects). Watch the organic growth rates (growth in each country, holding currency constant) versus reported growth, which can mask or exaggerate performance if exchange rates move sharply. ARPU trends by country are the leading indicator: rising ARPU means customers are using more services or accepting higher prices; falling ARPU means pressure.
+VEON's SEC filings (CIK 0001468091) break revenue by segment and geography, and compare historical periods in both local currency and constant U.S. dollars (the latter removes currency effects). Watch the organic growth rates (growth in each country, holding currency constant) versus reported growth, which can mask or exaggerate performance if exchange rates move sharply. ARPU trends by country are the [leading indicator](/leading-indicator/): rising ARPU means customers are using more services or accepting higher prices; falling ARPU means pressure.
 
 The debt level and the currency denomination of that debt are critical. If VEON borrows in U.S. dollars but earns mostly in local currency, a devaluation increases the real cost of servicing debt. The capital-expenditure intensity (how much the company must spend annually to maintain and grow the network) determines the minimum cash generation needed to stay solvent and continue paying dividends.
 

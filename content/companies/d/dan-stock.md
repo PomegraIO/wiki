@@ -56,6 +56,6 @@ Dana trades on the [stock exchange](/wiki/stock-exchange/) under ticker DAN. Lon
 - Supplies drivetrains, axles, sealing systems, and thermal-management products globally
 - Primary customers are OEM vehicle manufacturers and aftermarket distributors
 - Major exposure to passenger-vehicle production cycles; commercial-vehicle business is more stable and higher-margin
-- EV drivetrain and thermal solutions are growth drivers; execution risk remains
+- EV drivetrain and thermal solutions are growth drivers; [execution risk](/execution-risk/) remains
 - Peer comparison: Eaton (larger, broader industrial), American Axle & Manufacturing (similar positioning)
 - SEC filing: [10-K](/wiki/10-k/) reports annually; monitor segment margins and OEM platform activity

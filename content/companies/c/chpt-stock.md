@@ -53,7 +53,7 @@ This transition requires building trust with large customers and proving that th
 
 ## Competition and Competitive Positioning
 
-ChargePoint faces competition from other charging networks (EVgo, Electrify America) and from proprietary chargers operated by automakers ([Tesla](/tsla-stock/)) and petroleum companies (Shell, [Chevron](/cvx-stock/)). The fragmented market means ChargePoint must maintain significant scale and brand loyalty to justify its network operating costs. The capital structure thus encodes a bet that ChargePoint's software, network breadth, and brand will win market share in a consolidating industry.
+ChargePoint faces competition from other charging networks (EVgo, Electrify America) and from proprietary chargers operated by automakers ([Tesla](/tsla-stock/)) and petroleum companies (Shell, [Chevron](/cvx-stock/)). The [fragmented market](/fragmented-market/) means ChargePoint must maintain significant scale and brand loyalty to justify its network operating costs. The capital structure thus encodes a bet that ChargePoint's software, network breadth, and brand will win market share in a consolidating industry.
 
 If the EV charging market consolidates and ChargePoint becomes a minor player, the capital invested in the network may never be recovered—a total-loss scenario for equity holders. Conversely, if ChargePoint captures a dominant position, the installed base of chargers becomes a durable competitive moat and a cash-generative asset.
 

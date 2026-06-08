@@ -37,7 +37,7 @@ INDO's revenue is in [U.S. dollars](/us-dollar/) (crude oil is priced globally i
 
 ## Conclusion
 
-INDO's viability as an investment depends critically on the continued willingness of the Indonesian government to honor PSA terms, maintain stable fiscal policy, allow export revenue repatriation, and refrain from seizing assets under new political pressure. These regulatory and political risks dwarf typical operational or commodity-price uncertainty and are difficult to hedge. A reader evaluating INDO should focus on contract terms, [expiration dates](/expiration-contracts/), Indonesian fiscal history, recent political statements around fossil fuels, and any history of PSA renegotiation or breach—not just reserve estimates.
+INDO's viability as an investment depends critically on the continued willingness of the Indonesian government to honor PSA terms, maintain stable fiscal policy, allow export revenue repatriation, and refrain from seizing assets under new political pressure. These regulatory and [political risks](/political-risk/) dwarf typical operational or commodity-price uncertainty and are difficult to hedge. A reader evaluating INDO should focus on contract terms, [expiration dates](/expiration-contracts/), Indonesian fiscal history, recent political statements around fossil fuels, and any history of PSA renegotiation or breach—not just reserve estimates.
 
 <div class="wiki-seealso">
 ### Closely related

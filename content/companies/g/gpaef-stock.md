@@ -49,9 +49,9 @@ The public listing gave the company access to capital for [acquisitions](/acquis
 
 Pacific's core revenue comes from leasing commercial space at San Diego International to retail tenants and collecting a percentage of gross sales (percentage-rent clauses) in addition to base rent. The economics are favorable when airport traffic is strong: more passengers mean higher tenant sales and higher percentage-rent revenue.
 
-The company also derives revenue from ground leases (renting land for parking, vehicle-rental facilities, or other airport services) and from managing or developing concession operations. Some revenue comes from its broader real-estate portfolio, which generates rent from commercial or residential tenancies, or sales proceeds from property dispositions.
+The company also derives revenue from [ground leases](/ground-lease/) (renting land for parking, vehicle-rental facilities, or other airport services) and from managing or developing concession operations. Some revenue comes from its broader real-estate portfolio, which generates rent from commercial or residential tenancies, or sales proceeds from property dispositions.
 
-The revenue mix is split between base rent (stable) and percentage rent and ancillary services (variable). In economic downturns, when air travel declines, tenant sales fall and percentage-rent revenue contracts. During the 2008 financial crisis and the 2020 pandemic, airport traffic collapsed and Pacific's revenue was pressured. During normal expansions, growing passenger volumes and consumer spending lift the company's receipts.
+The revenue mix is split between base rent (stable) and [percentage rent](/percentage-rent/) and ancillary services (variable). In economic downturns, when air travel declines, tenant sales fall and percentage-rent revenue contracts. During the 2008 financial crisis and the 2020 pandemic, airport traffic collapsed and Pacific's revenue was pressured. During normal expansions, growing passenger volumes and consumer spending lift the company's receipts.
 
 ## Concentration and dependency on airport economics
 
@@ -71,7 +71,7 @@ The company has historically paid modest [dividends](/dividend/) and reinvested 
 
 ## The evolution from concessions operator to diversified developer
 
-Pacific Airport Group's trajectory is one of a niche concessions operator gradually becoming a broader real-estate operator. The airport concessions business is attractive in good times—recurring rent, captive customer base, resilient demand—but it is also inherently limited in scale and exposed to traffic cycles. By diversifying into waterfront and broader commercial real-estate development, Pacific expanded its addressable market but also accepted greater execution risk and longer project lead times.
+Pacific Airport Group's trajectory is one of a niche concessions operator gradually becoming a broader real-estate operator. The airport concessions business is attractive in good times—recurring rent, captive customer base, resilient demand—but it is also inherently limited in scale and exposed to traffic cycles. By diversifying into waterfront and broader commercial real-estate development, Pacific expanded its addressable market but also accepted greater [execution risk](/execution-risk/) and longer project lead times.
 
 ## Investment and research considerations
 

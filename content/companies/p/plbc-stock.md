@@ -38,7 +38,7 @@ This regional concentration is a defining characteristic. Plumas Bancorp cannot 
 
 Like all banks, Plumas Bancorp's profitability is driven primarily by the net interest margin—the difference between the interest it earns on loans and the interest it pays on deposits. In a rising interest-rate environment, margins often expand because the bank can raise deposit costs slowly while repricing floating-rate loans upward quickly. In a falling rate environment or when rates plateau, margins compress.
 
-The bank also earns fee income from account maintenance, loan origination, and services, but this is secondary to lending margins. Efficiency—the ratio of operating costs to revenue—is another key metric. Community banks often have higher cost-to-income ratios than national giants because they lack scale, but they compete on service and relationship rather than price.
+The bank also earns fee income from account maintenance, loan origination, and services, but this is secondary to lending margins. Efficiency—the ratio of operating costs to revenue—is another key metric. Community banks often have higher [cost-to-income ratios](/cost-income-ratio/) than national giants because they lack scale, but they compete on service and relationship rather than price.
 
 ## Capital, regulation, and size
 

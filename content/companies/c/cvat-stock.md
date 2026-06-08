@@ -38,7 +38,7 @@ However, patent defensibility carries hidden capital costs. Enforcing patents th
 
 Cavitation likely operates on a model that combines engineering, custom manufacturing, and service revenues. Customers order cavitation-based equipment or treatment, the company designs and builds to specification, and revenue is realized upon delivery and acceptance. This is contract-based, project-oriented work—not recurring subscriptions or commodity manufacturing.
 
-Project revenue is lumpy: a large order boosts a quarter; its absence creates a miss. A small-cap industrial company is therefore exposed to project risk and customer [concentration risk](/concentration-risk/). If two or three customers account for a large portion of revenue, the loss of one is a crisis. If projects are large relative to overall revenue, a delayed or cancelled project can wipe out quarterly profits. Cavitation's [balance sheet](/balance-sheet/) likely reflects this lumpiness through variable inventory, contract assets, and accrued revenue.
+Project revenue is lumpy: a large order boosts a quarter; its absence creates a miss. A small-cap industrial company is therefore exposed to project risk and customer [concentration risk](/concentration-risk/). If two or three customers account for a large portion of revenue, the loss of one is a crisis. If projects are large relative to overall revenue, a delayed or cancelled project can wipe out quarterly profits. Cavitation's [balance sheet](/balance-sheet/) likely reflects this lumpiness through variable inventory, [contract assets](/contract-asset/), and accrued revenue.
 
 ## The Debt Dilemma
 

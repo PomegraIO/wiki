@@ -37,7 +37,7 @@ Holding companies trade at a discount. This is called the "[conglomerate discoun
 
 This discount creates an opportunity and a problem. The opportunity is that if Liberty's management can improve the underlying businesses and make them more profitable, the holding company structure can unlock value. The problem is that as a shareholder, your returns depend both on the underlying businesses doing well and on the holding company discount narrowing. If SiriusXM and Live Nation and F1 all do great but Liberty's stock price doesn't move much, you have not made money.
 
-Liberty has tried various things to address this. It has offered tracking stocks — special classes of stock that track the performance of a specific investment (e.g., a Formula One tracking stock that mimics F1's financial performance). It has also occasionally sold or spun off pieces to simplify the portfolio. But the basic issue remains: a holding company is a less transparent way to invest in media and entertainment than buying the underlying stocks directly.
+Liberty has tried various things to address this. It has offered [tracking stocks](/tracking-stock/) — special classes of stock that track the performance of a specific investment (e.g., a Formula One tracking stock that mimics F1's financial performance). It has also occasionally sold or spun off pieces to simplify the portfolio. But the basic issue remains: a holding company is a less transparent way to invest in media and entertainment than buying the underlying stocks directly.
 
 ## The cycles of entertainment and sports
 

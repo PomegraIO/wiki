@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**Apollo Global Management acquired Lehman Brothers' private equity business in 2008 and built it into one of the world's largest alternative asset managers, deploying capital across private equity, credit markets, [commercial real estate](/commercial-real-estate/), and infrastructure on behalf of pensions, insurers, and wealth managers.**
+**[Apollo Global Management](/apollo-global-management/) acquired Lehman Brothers' private equity business in 2008 and built it into one of the world's largest alternative asset managers, deploying capital across private equity, credit markets, [commercial real estate](/commercial-real-estate/), and infrastructure on behalf of pensions, insurers, and wealth managers.**
 
 The Origin Story
 
@@ -18,11 +18,11 @@ Apollo's founding firm—Apollo Management—started in 1990, but the entity too
 
 How the Money Flows
 
-Apollo operates on the classic alternative manager playbook: [management fees](/management-fee/) (a small percentage of assets under management, typically 1–2%) plus carried interest (usually 20% of profits when funds exit winners). The steadiness of management fee revenue, multiplied across a vast AUM base, provides a foundation. Carried interest is lumpy but high-margin—a single successful exit can swing annual earnings. The firm also co-invests alongside its funds, meaning Apollo's own capital is at risk and returns are tied to client outcomes. That alignment is intentional and attractive to institutional investors scrutinizing fee-only managers.
+Apollo operates on the classic alternative manager playbook: [management fees](/management-fee/) (a small percentage of assets under management, typically 1–2%) plus [carried interest](/carried-interest-compensation/) (usually 20% of profits when funds exit winners). The steadiness of management fee revenue, multiplied across a vast AUM base, provides a foundation. Carried interest is lumpy but high-margin—a single successful exit can swing annual earnings. The firm also co-invests alongside its funds, meaning Apollo's own capital is at risk and returns are tied to client outcomes. That alignment is intentional and attractive to institutional investors scrutinizing fee-only managers.
 
 Capital Sources and Deployment
 
-Apollo raises capital from pension funds (the single largest investor base), insurance companies, sovereign wealth funds, endowments, and high-net-worth individuals. Once capital is committed, the firm deploys it into [leveraged buyouts](/leveraged-buyout/) of mid-market and large corporations, loans to companies unable or unwilling to borrow from banks, equity and debt in commercial real estate, and long-term infrastructure concessions. The infrastructure business is particularly stable—roads, airports, and utilities generate predictable cash flows that match the long-term liability profiles of insurers and pensions. That cashflow-matching is why institutional capital gravitates to Apollo: the returns may be modest, but the certainty is high.
+Apollo raises capital from pension funds (the single largest investor base), insurance companies, [sovereign wealth funds](/sovereign-wealth-fund/), endowments, and high-net-worth individuals. Once capital is committed, the firm deploys it into [leveraged buyouts](/leveraged-buyout/) of mid-market and large corporations, loans to companies unable or unwilling to borrow from banks, equity and debt in commercial real estate, and long-term infrastructure concessions. The infrastructure business is particularly stable—roads, airports, and utilities generate predictable cash flows that match the long-term liability profiles of insurers and pensions. That cashflow-matching is why institutional capital gravitates to Apollo: the returns may be modest, but the certainty is high.
 
 Competitive Mosaic
 

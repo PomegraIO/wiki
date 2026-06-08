@@ -28,7 +28,7 @@ handwritten: true
 
 Cybersecurity as an investment theme emerged gradually over the past two decades. In the 1990s and early 2000s, IT security was a specialized domain—firewalls, antivirus software, consulting—confined to large enterprises and governments. But as the internet became critical infrastructure for every business, as data became a strategic asset, and as attacks became more sophisticated and costly, security spending expanded from a cost-containment function to a strategic priority. By the 2010s, companies large and small were treating cybersecurity as essential capex, and government regulators began mandating it.
 
-PSWD was created to capture the companies powering this shift: the software makers, hardware vendors, integrators, and consultants whose business is defending against or responding to digital attacks. The fund launched after the cybersecurity theme had already proven resilient through multiple market cycles, making it a retrospective bet on a megatrend rather than a speculative early entry.
+PSWD was created to capture the companies powering this shift: the software makers, hardware vendors, integrators, and consultants whose business is defending against or responding to digital attacks. The fund launched after the cybersecurity theme had already proven resilient through multiple [market cycles](/market-cycle/), making it a retrospective bet on a megatrend rather than a speculative early entry.
 
 ## What the fund holds
 

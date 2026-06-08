@@ -40,7 +40,7 @@ Rogers faces cyclical and structural challenges. Wireless price competition, esp
 
 Cable TV subscribers continue to decline as consumers cut the cord in favor of streaming. While broadband provides a partial offset, the overall telecom sector is mature, making growth reliant on price increases, market share gains from competitors, or value-added services. The debt load from the Shaw acquisition adds financial leverage and [refinancing risk](/refinancing-risk/) in a rising-rate environment.
 
-Customer acquisition costs remain high due to competitive churn and the need to invest in sales, marketing, and network quality. The company is vulnerable to economic slowdowns, which reduce consumer spending on premium wireless and TV services. Integration execution risk from Shaw remains material, though early results have been generally positive.
+Customer acquisition costs remain high due to competitive churn and the need to invest in sales, marketing, and network quality. The company is vulnerable to economic slowdowns, which reduce consumer spending on premium wireless and TV services. Integration [execution risk](/execution-risk/) from Shaw remains material, though early results have been generally positive.
 
 Media assets carry content and sports-franchise risks: broadcast rights agreements periodically reset at higher prices, and sports ratings fluctuate with team performance and fan engagement. Advertising-dependent revenue is cyclical and sensitive to macroeconomic conditions.
 

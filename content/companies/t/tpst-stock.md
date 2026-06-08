@@ -63,7 +63,7 @@ For now, Tempest's competitive position is determined by the quality of its scie
 
 ## Cash position and financial runway
 
-Tempest ended 2025 with approximately 7.7 million dollars in cash, down sharply from 30.3 million in 2024. The company raised roughly 8.5 million through registered direct offerings. This is a significant depletion rate, suggesting cash runway of perhaps a year or so without additional capital infusions. For a clinical-stage company, this is a near-term constraint. Tempest will need to raise more capital or achieve significant licensing or partnership deals to continue operations.
+Tempest ended 2025 with approximately 7.7 million dollars in cash, down sharply from 30.3 million in 2024. The company raised roughly 8.5 million through [registered direct offerings](/registered-direct-offering/). This is a significant depletion rate, suggesting cash runway of perhaps a year or so without additional capital infusions. For a clinical-stage company, this is a near-term constraint. Tempest will need to raise more capital or achieve significant licensing or partnership deals to continue operations.
 
 ## What investors watch
 

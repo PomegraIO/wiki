@@ -30,7 +30,7 @@ Operating mines also generate a stream of costs that do not directly produce ore
 
 ## Permitting, environmental liability, and regulatory risk
 
-Mining is heavily regulated. Before a mine can operate, the company must obtain permits from multiple government agencies, demonstrate environmental due diligence, and sometimes negotiate with local communities. The process can be slow and expensive. Environmental regulations have tightened over decades, and public opposition to new mines—particularly in developed countries—has grown.
+Mining is heavily regulated. Before a mine can operate, the company must obtain permits from multiple government agencies, demonstrate environmental [due diligence](/due-diligence/), and sometimes negotiate with local communities. The process can be slow and expensive. Environmental regulations have tightened over decades, and public opposition to new mines—particularly in developed countries—has grown.
 
 [Environmental liability](/environmental-liability/) is a permanent feature of mining. Acid mine drainage, tailings management, and land reclamation are all expensive and can extend long after a mine closes. A company's [balance sheet](/balance-sheet/) reflects estimated environmental remediation costs, but actual costs often exceed estimates. Regulatory changes can also unexpectedly increase liabilities: if a government tightens water quality standards or imposes stricter reclamation requirements, the company may face large additional costs.
 
@@ -60,4 +60,4 @@ Examine the cash cost per unit produced for operating mines and compare it to sp
 
 Review the environmental provisions and [contingent liabilities](/contingent-liabilities-government/) disclosed on the balance sheet. Any discussions of permit challenges, environmental litigation, or regulatory changes deserve attention, as these can materially impact capital costs or timeline.
 
-Finally, understand the company's financing structure and liquidity: mining companies that are well-capitalized or generating strong cash flow are more resilient to price downturns, while levered companies that depend on capital markets access are vulnerable to credit stress.
+Finally, understand the company's financing structure and [liquidity: mining](/liquidity-mining/) companies that are well-capitalized or generating strong cash flow are more resilient to price downturns, while levered companies that depend on capital markets access are vulnerable to credit stress.

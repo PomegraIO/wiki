@@ -28,7 +28,7 @@ TOP Financial Group Limited is an online brokerage firm based in Singapore. It l
 
 TOP Financial Group runs a simple business: it is a middleman between retail traders and the markets. When a customer wants to buy a stock listed in Hong Kong or trade a [futures contract](/futures-contract/), the customer logs into TOP's platform, places an order, and TOP executes it on the exchange or derivatives market. For this service, TOP charges a commission per trade and collects interest on money customers borrow to buy stocks on margin.
 
-The company's platform offers access to several asset classes. Stock trading is the foundation—customers can buy and sell Hong Kong-listed equities. Options are available for those wanting to hedge or speculate on price moves without owning the underlying stock. Futures trading—for indexes, currencies, commodities, and energy—is available to more active traders. The company also lets customers trade currencies directly and offers structured products, which are pre-packaged derivatives that bet on price movements or currency rates.
+The company's platform offers access to several asset classes. Stock trading is the foundation—customers can buy and sell Hong Kong-listed equities. Options are available for those wanting to hedge or speculate on price moves without owning the underlying stock. Futures trading—for indexes, currencies, commodities, and energy—is available to more active traders. The company also lets customers trade currencies directly and offers [structured products](/structured-product/), which are pre-packaged derivatives that bet on price movements or currency rates.
 
 Beyond pure trading, TOP provides some ancillary services. Customers can get margin loans to buy stocks with borrowed money. The company acts as an escrow agent for securities transactions. It offers over-the-counter derivatives—essentially bets on stocks or currencies that are not traded on public exchanges but arranged between the client and TOP itself. The company also provides consulting on trading strategy and various account management tools.
 
@@ -60,7 +60,7 @@ TOP is small relative to many regional competitors and does not have the economi
 
 ## The regulatory sandbox TOP operates in
 
-Online brokerages in Asia face substantial regulatory constraints. Hong Kong's Securities and Futures Commission oversees securities brokers and derivatives firms. Singapore's Monetary Authority regulates financial institutions. Each jurisdiction has rules on capital requirements, customer protection, handling of customer funds, and disclosures to customers about risk.
+Online brokerages in Asia face substantial regulatory constraints. Hong Kong's [Securities and Futures Commission](/securities-and-futures-commission-hk/) oversees securities brokers and derivatives firms. Singapore's Monetary Authority regulates financial institutions. Each jurisdiction has rules on capital requirements, customer protection, handling of customer funds, and disclosures to customers about risk.
 
 These regulations define what TOP can and cannot do. They set minimum capital standards, which means TOP must maintain enough cash and liquid assets to absorb losses and cover customer claims if something goes wrong. They mandate segregation of customer funds—TOP cannot use client money as its own cash. They require TOP to hedge its derivatives exposure so that a sudden market move does not wipe out the company's capital. They also limit what risks the company can take on and how much leverage customers can use.
 

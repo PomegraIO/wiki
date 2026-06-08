@@ -43,7 +43,7 @@ The distinction matters. Compass is structured as a [business development compan
 
 Private equity firms, by contrast, raise capital from investors into a fund, take a management fee, and deploy that capital into businesses with a specific hold period in mind—typically five to ten years—after which they aim to sell for a profit and return capital to investors. Compass, as a public company and permanent capital vehicle, has no predetermined exit date for its holdings. It can hold businesses indefinitely if they continue to generate attractive cash returns.
 
-This structural difference affects strategy. Compass is oriented toward [dividend yield](/dividend-yield/) and total return to shareholders rather than multiple expansion and eventual sale. The company does not take on expensive debt to amplify returns the way private equity typically does; it maintains a more conservative capital structure to ensure stability and preserve its ability to invest in new acquisitions without risking financial distress.
+This structural difference affects strategy. Compass is oriented toward [dividend yield](/dividend-yield/) and total return to shareholders rather than [multiple expansion](/multiple-expansion/) and eventual sale. The company does not take on expensive debt to amplify returns the way private equity typically does; it maintains a more conservative capital structure to ensure stability and preserve its ability to invest in new acquisitions without risking financial distress.
 
 ## Why acquire in fragmented sectors?
 
@@ -65,7 +65,7 @@ This structure creates a different shareholder base than a traditional growth co
 
 The clearest risk is operational. Compass relies on the management teams of its acquired subsidiaries to execute well. If a major holding company acquisition fails to generate expected cash, or if the entire portfolio faces a simultaneous downturn, distributions could be cut. Because the portfolio is often opaque to outsiders—many of the subsidiaries are not public and their financials are consolidated—investors must trust management's capital-allocation decisions.
 
-A second pressure is the cost of capital. Compass must compete for acquisition targets against larger strategic buyers and against other holding companies and private equity firms. If the [cost of debt](/cost-of-debt/) rises or equity multiples in the market compress, Compass may find itself unable to acquire new businesses at attractive returns, which would slow the company's ability to grow distributions.
+A second pressure is the cost of capital. Compass must compete for acquisition targets against larger strategic buyers and against other holding companies and private equity firms. If the [cost of debt](/cost-of-debt/) rises or [equity multiples](/equity-multiple-real-estate/) in the market compress, Compass may find itself unable to acquire new businesses at attractive returns, which would slow the company's ability to grow distributions.
 
 The structural challenge of a holding company is also real: at any given time, some of the portfolio will be underperforming, either because the underlying business is cyclical and is in a down phase, or because the company overpaid for the acquisition, or because conditions in the sector have deteriorated. Compass must manage the reality that owning many unrelated businesses means owning some that will disappoint.
 

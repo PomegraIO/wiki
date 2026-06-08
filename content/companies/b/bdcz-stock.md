@@ -67,7 +67,7 @@ In 2023, UBS acquired [Credit Suisse](/credit-suisse/) in an emergency rescue ar
 
 ## How to research UBS as an investment
 
-The starting point is the company's [annual report](/10-k/) and financial statements, available on its website and filed with the SEC (CIK 0001114446). The key metrics are assets under management, net interest margin, operating expenses, and the cost-to-income ratio. A falling cost-to-income ratio indicates improving efficiency; a rising one suggests the bank is spending more relative to the revenue it generates.
+The starting point is the company's [annual report](/10-k/) and financial statements, available on its website and filed with the SEC (CIK 0001114446). The key metrics are assets under management, net interest margin, operating expenses, and the [cost-to-income ratio](/cost-income-ratio/). A falling cost-to-income ratio indicates improving efficiency; a rising one suggests the bank is spending more relative to the revenue it generates.
 
 Watch the flows of assets — whether clients are adding money to UBS or removing it. Persistent outflows are a warning sign; consistent inflows suggest clients trust the bank. Review the composition of assets under management by geography and by type of service, to understand where the bank's strength lies.
 

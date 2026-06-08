@@ -40,7 +40,7 @@ Geography and policy matter enormously. HWAY's companies are shaped by US federa
 
 ## Costs, structure, and how to trade
 
-HWAY is a standard open-end ETF, meaning shares are created and redeemed by authorized market participants every trading day, keeping the [net asset value](/net-asset-value/) and the stock price tightly aligned. The fund is listed on NYSE Arca and trades during standard US market hours with typical spread — the difference between buy and sell prices — wide enough to require modest patience for large orders but narrow enough for retail traders to execute without significant slippage.
+HWAY is a standard open-end ETF, meaning shares are created and redeemed by authorized market participants every trading day, keeping the [net asset value](/net-asset-value/) and the stock price tightly aligned. The fund is listed on [NYSE Arca](/nyse-arca/) and trades during standard US market hours with typical spread — the difference between buy and sell prices — wide enough to require modest patience for large orders but narrow enough for retail traders to execute without significant slippage.
 
 The [expense ratio](/expense-ratio/) is modest and competitive, in the range of 0.50–0.70 percent annually — comparable to broad-market [index funds](/index-fund/) but higher than some legacy utilities ETFs, reflecting the research required to maintain a custom infrastructure index. [Dividends](/dividend/) arise from the underlying companies' distributions and are passed through to shareholders, usually quarterly.
 
@@ -48,7 +48,7 @@ The fund itself does not employ leverage, inverse mechanics, or derivatives stra
 
 ## Real risks and what to watch
 
-Infrastructure funds face several structural risks. The most obvious is policy risk: infrastructure spending hinges on government budgets, regulatory approval, and political will. A change in spending priorities or a political impasse can hollow out the outlook for the entire sector at once, affecting every holding simultaneously.
+[Infrastructure funds](/pe-infrastructure-fund/) face several structural risks. The most obvious is policy risk: infrastructure spending hinges on government budgets, regulatory approval, and political will. A change in spending priorities or a political impasse can hollow out the outlook for the entire sector at once, affecting every holding simultaneously.
 
 There is also sector [concentration risk](/concentration-risk/). Because the pool of genuinely infrastructure-focused US companies is finite, HWAY may overweight a few large utilities, engineering firms, or transportation businesses, creating specific company risk that [diversification](/diversification/) cannot fully erase. If a major holding stumbles, the fund's performance suffers more than a broader market index would.
 

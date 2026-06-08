@@ -57,7 +57,7 @@ Subscriptions are high-margin once the customer is onboarded. Professional servi
 
 ## What are the risks and pressures?
 
-The first is execution risk. Industrial IoT integration is complex and difficult to get right. A failed deployment or a solution that does not integrate cleanly with a customer's existing systems damages credibility and can prevent land-and-expand. Skkynet's reputation and product reliability are central to its value.
+The first is [execution risk](/execution-risk/). Industrial IoT integration is complex and difficult to get right. A failed deployment or a solution that does not integrate cleanly with a customer's existing systems damages credibility and can prevent land-and-expand. Skkynet's reputation and product reliability are central to its value.
 
 The second is competitive risk. Large technology companies are moving into industrial IoT, either through [acquisition](/acquisition/) or organic development. If [Microsoft](/msft-stock/), Amazon, or Google significantly improve their industrial monitoring capabilities and leverage their cloud franchise to sell them, they can outcompete a smaller specialist. Skkynet's resilience depends partly on whether it can move faster and serve customers better than much larger rivals.
 

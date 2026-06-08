@@ -51,9 +51,9 @@ Concentration in the Nasdaq 100 persists. The dividend tilt helps slightly, but 
 
 ## Evolution and current positioning
 
-Since its launch, QQQI has refined its approach based on market conditions and investor feedback. In periods of high volatility, option premiums swell, allowing the fund to pay higher distributions. In quiet markets, premiums shrink, and distributions may decline. The fund has demonstrated that this strategy can deliver income in multiple market environments, though the returns above the distributions remain capped.
+Since its launch, QQQI has refined its approach based on market conditions and investor feedback. In periods of high [volatility, option](/volatility-option/) premiums swell, allowing the fund to pay higher distributions. In quiet markets, premiums shrink, and distributions may decline. The fund has demonstrated that this strategy can deliver income in multiple market environments, though the returns above the distributions remain capped.
 
-QQQI represents a mature take on the covered-call strategy — not cutting-edge, but proven in practice over multiple market cycles. It appeals to investors who want Nasdaq 100 exposure but prioritize monthly income over total return, and who accept that capping upside is the price of that income.
+QQQI represents a mature take on the covered-call strategy — not cutting-edge, but proven in practice over multiple [market cycles](/market-cycle/). It appeals to investors who want Nasdaq 100 exposure but prioritize monthly income over total return, and who accept that capping upside is the price of that income.
 
 ## How to research QQQI
 

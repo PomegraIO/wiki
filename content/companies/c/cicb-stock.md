@@ -76,7 +76,7 @@ BDCs are required to distribute most of their taxable income to shareholders ann
 
 ## How BDCs Compare
 
-CION is one of dozens of publicly traded BDCs. Other large and well-known names include Ares Capital, Gladstone Capital, and Golub Capital. Some BDCs are specialized (focusing on energy, healthcare, or technology), while others are generalists. CION is a mid-sized generalist BDC. Comparison across BDCs reveals significant differences: [leverage ratios](/leverage-ratio-forex/), portfolio composition, management fees, and historical dividend sustainability. Some BDCs maintain stable dividends through market cycles; others cut dividends sharply in downturns. CION's relative dividend yield and distribution history are key metrics for evaluating it against peers.
+CION is one of dozens of publicly traded BDCs. Other large and well-known names include Ares Capital, Gladstone Capital, and Golub Capital. Some BDCs are specialized (focusing on energy, healthcare, or technology), while others are generalists. CION is a mid-sized generalist BDC. Comparison across BDCs reveals significant differences: [leverage ratios](/leverage-ratio-forex/), portfolio composition, management fees, and historical dividend sustainability. Some BDCs maintain stable dividends through [market cycles](/market-cycle/); others cut dividends sharply in downturns. CION's relative dividend yield and distribution history are key metrics for evaluating it against peers.
 
 ## Tracking the Business
 

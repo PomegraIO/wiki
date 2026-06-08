@@ -25,7 +25,7 @@ Size also means Digital Realty can offer connectivity. Large data centers sit at
 
 ## How Digital Realty makes money
 
-Revenue comes primarily from leasing space and power. Customers pay for rack space—physical room for their servers—and for the electrical power those servers consume. Power is the bigger cost driver. A typical server consumes as much electricity as a household. A data center with hundreds of thousands of servers consumes as much power as a small city. Customers pay not just for the megawatts they use but also for redundancy—backup power generators and batteries that keep systems running if the grid fails.
+Revenue comes primarily from leasing space and power. Customers pay for rack space—physical room for their servers—and for the electrical power those servers consume. Power is the bigger [cost driver](/cost-driver/). A typical server consumes as much electricity as a household. A data center with hundreds of thousands of servers consumes as much power as a small city. Customers pay not just for the megawatts they use but also for redundancy—backup power generators and batteries that keep systems running if the grid fails.
 
 A secondary but growing revenue stream is cross-connects. Customers often want to connect servers in one rack to equipment in another. Digital Realty sells that connectivity service—a direct fiber connection between two points in the same data center or between two cities. High-frequency traders pay premium rates for this because microseconds of latency matter.
 

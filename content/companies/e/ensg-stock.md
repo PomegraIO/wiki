@@ -55,7 +55,7 @@ Nursing homes are heavily regulated. The Centers for Medicare and Medicaid Servi
 
 Ensign, like all major operators, faces regulatory scrutiny. The company must maintain compliance with staffing ratios, infection control standards, and countless administrative requirements. Regulators sometimes levy fines or censure facilities for violations. Because Ensign operates dozens of facilities across multiple states, even a small percentage of its properties facing regulatory trouble can materially affect group-level margins if capital must be diverted to fix problems.
 
-The reputational risk is real as well. The nursing-home industry has come under criticism for cost-cutting at the expense of resident care. Ensign's margin-focused operating model is at odds with calls for higher staffing ratios and more personalized care. The company navigates this by trying to be better-than-average on quality metrics while still operating profitably, but the tension remains.
+The [reputational risk](/reputational-risk/) is real as well. The nursing-home industry has come under criticism for cost-cutting at the expense of resident care. Ensign's margin-focused operating model is at odds with calls for higher staffing ratios and more personalized care. The company navigates this by trying to be better-than-average on quality metrics while still operating profitably, but the tension remains.
 
 ## The Financial Reality
 

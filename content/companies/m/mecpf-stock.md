@@ -29,7 +29,7 @@ Over years of exploration, a company like Mustang Energy may issue new shares at
 
 ## Partnerships and Farm-In Deals
 
-To preserve capital and spread risk, Mustang Energy has likely pursued partnership or farm-in arrangements with larger energy companies. Under a typical farm-in deal, a larger partner agrees to fund a portion of Mustang's exploration costs in exchange for a stake in the asset or a carried interest in profits. From Mustang's perspective, this is a capital-efficient way to drill without issuing equity; from the partner's perspective, it is a way to gain exposure to exploration upside without building internal exploration teams.
+To preserve capital and [spread risk](/spread-risk/), Mustang Energy has likely pursued partnership or farm-in arrangements with larger energy companies. Under a typical farm-in deal, a larger partner agrees to fund a portion of Mustang's exploration costs in exchange for a stake in the asset or a [carried interest](/carried-interest-compensation/) in profits. From Mustang's perspective, this is a capital-efficient way to drill without issuing equity; from the partner's perspective, it is a way to gain exposure to exploration upside without building internal exploration teams.
 
 These partnerships are structured through contractual arrangements, not balance-sheet debt. They represent a form of financing that is invisible in traditional [leverage ratios](/leverage-ratio-forex/) but economically real: Mustang has transferred risk and capital obligation to a partner in exchange for giving up some future upside. The 10-K filing will detail these arrangements, but understanding them requires reading not just the [balance sheet](/balance-sheet/) but the notes on commitments and contingencies.
 

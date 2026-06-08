@@ -35,7 +35,7 @@ The capital raised was deposited into a trust account, held for the specific pur
 
 ## The merger with Old Glory Bank
 
-In January 2026, Digital Asset Acquisition Corp. announced a definitive merger agreement with Old Glory Bank. Under the agreement, Old Glory Bank shareholders would receive stock in the combined entity, with the deal implying an equity value of approximately $180 million for Old Glory (though exact details depend on cash conditions at closing). The merger represents the culmination of Digital Asset Acquisition's search for a suitable target in the cryptocurrency and digital assets space.
+In January 2026, Digital Asset Acquisition Corp. announced a [definitive merger agreement](/definitive-merger-agreement/) with Old Glory Bank. Under the agreement, Old Glory Bank shareholders would receive stock in the combined entity, with the deal implying an equity value of approximately $180 million for Old Glory (though exact details depend on cash conditions at closing). The merger represents the culmination of Digital Asset Acquisition's search for a suitable target in the cryptocurrency and digital assets space.
 
 Old Glory Bank is a national digital-first bank focused on serving cryptocurrency and blockchain businesses, as well as fintech companies more broadly — a customer base that has historically struggled to access banking services at scale. The merger unites Old Glory's operating business with Digital Asset's public listing and capital.
 

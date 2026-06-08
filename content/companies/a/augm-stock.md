@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-A **buffer ETF** is a fund that promises to cushion you against losses in exchange for capping how much you can gain. AUGM, the FT Vest U.S. Equity Max Buffer ETF for August, does this by holding the companies in the Russell 1000 Index — the largest thousand U.S. stocks — and then layering on options contracts that essentially say: "You won't lose more than 15% in a rough year, but you also won't gain more than 32%." Each August, the options reset, and those boundaries shift.
+A **[buffer ETF](/buffer-etf/)** is a fund that promises to cushion you against losses in exchange for capping how much you can gain. AUGM, the FT Vest U.S. Equity Max Buffer ETF for August, does this by holding the companies in the Russell 1000 Index — the largest thousand U.S. stocks — and then layering on options contracts that essentially say: "You won't lose more than 15% in a rough year, but you also won't gain more than 32%." Each August, the options reset, and those boundaries shift.
 
 The word "buffer" is the operative one. If the market falls 30%, you lose only 15%. If it rises 60%, you gain only 32%. That trade — you give up some of the upside, and in return you sleep better because the downside is capped — is the entire point. Most people who buy this fund are not betting the market will soar; they are trying to steady their nerves and simplify their lives.
 

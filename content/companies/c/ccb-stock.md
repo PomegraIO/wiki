@@ -4,7 +4,7 @@ description: "A regional bank holding company serving the Pacific Northwest, ori
 keywords: ["community bank", "regional banking", "commercial real estate", "branch network", "Pacific Northwest"]
 ---
 
-*Coastal Financial Corp (**CCB**) is a [publicly traded](/public-company/) bank holding company that operates retail and commercial banking franchises across Washington and Oregon, taking deposits from individual and small-business customers at physical branch locations and deploying capital into mortgages, construction loans, and working capital lines of credit to local businesses. The bank's franchise value depends entirely on geographic market share, deposit relationships, and the health of its loan portfolio — highly sensitive to Pacific Northwest real estate and small-business cycles.*
+*Coastal Financial Corp (**CCB**) is a [publicly traded](/public-company/) bank holding company that operates retail and commercial banking franchises across Washington and Oregon, taking deposits from individual and small-business customers at physical branch locations and deploying capital into mortgages, [construction loans](/construction-loan/), and working capital lines of credit to local businesses. The bank's franchise value depends entirely on geographic market share, deposit relationships, and the health of its loan portfolio — highly sensitive to Pacific Northwest real estate and small-business cycles.*
 
 <aside class="wiki-infobox">
 <table>

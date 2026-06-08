@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-MRA is a structured product wrapped in an ETF shell, designed to give retail investors [bitcoin](/bitcoin/) mining exposure without holding the volatility of mining stocks directly. Issued by GraniteShares, a firm founded in 2015 to bring structured notes to the exchange-traded format, MRA tracks the performance of Marathon Digital Holdings (MARA) through a conditional mechanism rather than direct ownership.
+MRA is a [structured product](/structured-product/) wrapped in an ETF shell, designed to give retail investors [bitcoin](/bitcoin/) mining exposure without holding the volatility of mining stocks directly. Issued by GraniteShares, a firm founded in 2015 to bring structured notes to the exchange-traded format, MRA tracks the performance of Marathon Digital Holdings (MARA) through a conditional mechanism rather than direct ownership.
 
 ## The path from GraniteShares' founding to this product
 
@@ -43,7 +43,7 @@ This is fundamentally a bet that Marathon's stock will trade sideways or decline
 
 MRA appeals to investors who want bitcoin mining exposure but view Marathon's stock as too volatile for direct ownership, or who believe mining will struggle and prefer the coupon income plus partial downside cushion to the upside option. It also appeals to traders looking for higher yield in a sideways market.
 
-It does not serve bullish believers in mining, who would sacrifice too much upside. It does not serve investors seeking true capital protection; the downside cushion is real but not absolute. And it does not serve those seeking transparency; a structured product's value depends on GraniteShares' mark-to-market of embedded derivatives, which may diverge from what an outside observer would calculate.
+It does not serve bullish believers in mining, who would sacrifice too much upside. It does not serve investors seeking true capital protection; the downside cushion is real but not absolute. And it does not serve those seeking transparency; a structured product's value depends on GraniteShares' mark-to-market of [embedded derivatives](/embedded-derivative/), which may diverge from what an outside observer would calculate.
 
 ## Evaluating MRA today
 

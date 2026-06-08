@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-PCM Fund, Inc. is a closed-end fixed income [mutual fund](/mutual-fund/) that invests primarily in commercial mortgage-backed securities and other credit instruments across the global fixed income markets. Since its formation in 1993, the fund has focused on generating high current income while seeking to preserve capital, operating as a publicly traded security itself rather than a traditional open-end mutual fund. It trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker PCM and serves as a vehicle for investors seeking regular income distributions and exposure to the mortgage-backed securities asset class.
+PCM Fund, Inc. is a closed-end fixed income [mutual fund](/mutual-fund/) that invests primarily in [commercial mortgage-backed securities](/commercial-mortgage-backed-securities/) and other credit instruments across the global fixed income markets. Since its formation in 1993, the fund has focused on generating high current income while seeking to preserve capital, operating as a publicly traded security itself rather than a traditional open-end mutual fund. It trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker PCM and serves as a vehicle for investors seeking regular income distributions and exposure to the mortgage-backed securities asset class.
 
 <aside class="wiki-infobox">
 <table>

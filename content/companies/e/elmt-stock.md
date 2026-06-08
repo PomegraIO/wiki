@@ -33,7 +33,7 @@ Elmet's vulnerability to customer concentration is therefore a competitive liabi
 
 ## Manufacturing Footprint and Labor Cost Dynamics
 
-The location of Elmet's manufacturing facilities determines its labor cost and logistical efficiency relative to competitors. If Elmet operates in high-wage U.S. regions (Midwest, Northeast), it faces cost pressure from competitors with facilities in lower-wage states or countries. Conversely, if Elmet operates overseas, it faces exchange-rate volatility, political risk, and supply-chain disruption. The tradeoff between labor cost and logistical proximity to customers is a core competitive tension.
+The location of Elmet's manufacturing facilities determines its labor cost and logistical efficiency relative to competitors. If Elmet operates in high-wage U.S. regions (Midwest, Northeast), it faces cost pressure from competitors with facilities in lower-wage states or countries. Conversely, if Elmet operates overseas, it faces exchange-rate volatility, [political risk](/political-risk/), and supply-chain disruption. The tradeoff between labor cost and logistical proximity to customers is a core competitive tension.
 
 Automation is a possible response: Elmet can invest in capital-intensive manufacturing that requires fewer workers, but this requires upfront capex and assumes stable demand to justify the investment. A larger competitor can amortize automation capex across more units; Elmet must hope its market share is stable enough to justify the investment. This is a classic scaling paradox: Elmet needs scale to justify capital-intensive manufacturing, but cannot achieve scale without capital investment.
 

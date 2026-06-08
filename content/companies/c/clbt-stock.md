@@ -29,7 +29,7 @@ The company operates a traditional SaaS model with recurring subscription fees, 
 
 ## Regulatory and Reputational Complexity
 
-Cellebrite's products exist at the intersection of law enforcement, privacy, and geopolitics. Transparency reports show the company's tools are used in democracies, but also in countries where human rights concerns loom. Public controversies—reports that the tools are used to suppress political opposition, or that governments misuse forensic access to surveil citizens—create reputational risk. Advocacy groups argue that broad forensic capability can enable authoritarian surveillance. Cellebrite must navigate these concerns while serving legitimate law enforcement demand.
+Cellebrite's products exist at the intersection of law enforcement, privacy, and geopolitics. Transparency reports show the company's tools are used in democracies, but also in countries where human rights concerns loom. Public controversies—reports that the tools are used to suppress political opposition, or that governments misuse forensic access to surveil citizens—create [reputational risk](/reputational-risk/). Advocacy groups argue that broad forensic capability can enable authoritarian surveillance. Cellebrite must navigate these concerns while serving legitimate law enforcement demand.
 
 Export controls also matter. The U.S. government and other nations classify forensic software as sensitive technology subject to export restrictions. Selling to certain countries may require licensing, and sales to embargoed nations are prohibited entirely. Cellebrite must maintain compliance infrastructure to ensure it does not inadvertently enable human rights abuses while operating in a sector where customers include geopolitically sensitive actors.
 

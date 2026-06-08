@@ -47,7 +47,7 @@ ConnectM trades on [over-the-counter markets](/over-the-counter-market/) rather 
 
 An analyst evaluating CNTM would examine the company's [10-k](/10-k/) filing to understand customer count, churn rate, average revenue per user, and [operating margins](/operating-margin/). Is the customer base growing or declining? Are new customers more or less valuable than the previous cohort? What proportion of revenue is concentrated in a few large customers (a red flag for instability)? How much does the company spend on marketing relative to revenue? Are operating margins positive or is the company still burning cash?
 
-ConnectM is a business software company in a fragmented market without obvious competitive moats. Its value depends on execution—retaining customers, expanding into new niches, and managing unit economics tightly. For small-business software companies, acquisition by a larger player is often the exit; ConnectM may be a takeout candidate if it can demonstrate consistent growth and high customer retention.
+ConnectM is a business software company in a [fragmented market](/fragmented-market/) without obvious competitive moats. Its value depends on execution—retaining customers, expanding into new niches, and managing unit economics tightly. For small-business software companies, acquisition by a larger player is often the exit; ConnectM may be a takeout candidate if it can demonstrate consistent growth and high customer retention.
 
 <div class="wiki-seealso">
 ### Closely related

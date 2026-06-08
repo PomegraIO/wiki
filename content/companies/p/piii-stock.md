@@ -48,7 +48,7 @@ In a fragmented, thousands-of-competitors market, P3 is small to mid-sized. It c
 
 The core risk is whether the market actually moves toward value-based care as quickly or thoroughly as P3's model assumes. Healthcare purchasing by insurers has shifted modestly toward value-based contracts in recent years, but the majority of primary care is still fee-for-service. If adoption stalls, P3 has less runway.
 
-Within value-based contracts, P3 faces execution risk: poor care quality, high patient churn, medical losses that eat into margins, and difficulty retaining physicians who dislike the operational changes P3 brings. Scaling is also expensive — each market entry requires local relationships, regulatory navigation, and building care teams and systems from scratch or through [acquisition](/acquisition/).
+Within value-based contracts, P3 faces [execution risk](/execution-risk/): poor care quality, high patient churn, medical losses that eat into margins, and difficulty retaining physicians who dislike the operational changes P3 brings. Scaling is also expensive — each market entry requires local relationships, regulatory navigation, and building care teams and systems from scratch or through [acquisition](/acquisition/).
 
 Medical-loss management is the perpetual pressure — the difference between what a capitated patient is supposed to cost and what that patient actually costs determines profitability. In early years, that difference is often negative as P3 invests in care redesign; long term, it must turn positive and widen.
 

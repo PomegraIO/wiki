@@ -44,7 +44,7 @@ For Prime Impact's sponsors, a SPAC merger with Cheche offered exposure to a hig
 
 ## The China risk
 
-Any SPAC or company with significant exposure to China carries regulatory and political risk. The U.S. government, particularly since 2020, has tightened scrutiny of Chinese companies listed on U.S. exchanges. Regulators have raised questions about auditing, governance, and [capital flows](/capital-flows/). In some cases, U.S. regulators have forced delistings or restricted trading in Chinese stocks. Cheche, as an operating company in China subject to Chinese regulations and capital controls, is exposed to those risks. Any significant change in U.S.-China relations or Chinese regulation of the tech sector could affect the combined company's ability to operate or raise capital.
+Any SPAC or company with significant exposure to China carries regulatory and [political risk](/political-risk/). The U.S. government, particularly since 2020, has tightened scrutiny of Chinese companies listed on U.S. exchanges. Regulators have raised questions about auditing, governance, and [capital flows](/capital-flows/). In some cases, U.S. regulators have forced delistings or restricted trading in Chinese stocks. Cheche, as an operating company in China subject to Chinese regulations and capital controls, is exposed to those risks. Any significant change in U.S.-China relations or Chinese regulation of the tech sector could affect the combined company's ability to operate or raise capital.
 
 Additionally, Chinese companies operating in sensitive sectors (which auto insurance arguably is not, but tech in China is heavily regulated) face the risk of sudden regulatory restrictions or forced restructurings. Those risks are real and material for any investor in a Chinese company, whether listed via SPAC or traditional IPO.
 
@@ -61,7 +61,7 @@ For Prime Impact specifically, the value of the deal depends on several things:
 
 ## Researching Prime Impact and Cheche
 
-The SEC filings (Prime Impact CIK 0001819175) contain the merger agreement, proxy statements, and financial information about Cheche. The company's Form 425 filings and 8-K filings lay out key deal milestones and announcements. Look for information on redemption rates, financing commitments, and any regulatory issues or deal delays.
+The SEC filings (Prime Impact CIK 0001819175) contain the merger agreement, [proxy statements](/proxy-statement/), and financial information about Cheche. The company's Form 425 filings and 8-K filings lay out key deal milestones and announcements. Look for information on redemption rates, financing commitments, and any regulatory issues or deal delays.
 
 For Cheche specifically, the proxy materials should include unaudited financial statements and management projections. Compare those projections to actual results after the merger closes (if it does). Monitor regulatory announcements from Chinese authorities that could affect auto insurance operations.
 

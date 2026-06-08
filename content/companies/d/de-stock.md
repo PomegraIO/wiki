@@ -36,7 +36,7 @@ The company is also exposed to interest rate risk in its captive finance busines
 
 **What to watch**
 
-In the [10-K](/wiki/10-k/), focus on segment profitability (gross margin by division), the order backlog and pipeline, and [delinquency](/delinquency/) rates in the finance portfolio. Watch commodity prices (corn, soybeans) as a leading indicator of farm income and willingness to invest in equipment. Deere's guidance on production and pricing power reveals how the company expects demand to evolve. Spare parts mix (as a percentage of total revenue) matters: higher parts sales signal sticky, repeat customers. In analyst calls, listen for color on dealer inventory levels and farmer cash flow sentiment.
+In the [10-K](/wiki/10-k/), focus on segment profitability (gross margin by division), the order backlog and pipeline, and [delinquency](/delinquency/) rates in the finance portfolio. Watch commodity prices (corn, soybeans) as a [leading indicator](/leading-indicator/) of farm income and willingness to invest in equipment. Deere's guidance on production and pricing power reveals how the company expects demand to evolve. Spare parts mix (as a percentage of total revenue) matters: higher parts sales signal sticky, repeat customers. In analyst calls, listen for color on dealer inventory levels and farmer cash flow sentiment.
 
 **Main products and brands**
 

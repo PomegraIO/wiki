@@ -56,7 +56,7 @@ Everest is typically valued on a ratio of price to estimated book value (P/BV), 
 
 - **Underwriting margins and combined ratio trends.** A combined ratio below 100 indicates underwriting profit; above 100 means underwriting loss. Everest's multi-year combined ratio, broken down by segment, shows whether the company is gaining or losing pricing power.
 - **Catastrophe reserve adequacy.** Each year, Everest estimates reserves for incurred but unreported (IBNR) claims. If these prove inadequate, the company must take charges. Tracking reserve releases (favorable adjustments) or deficiencies signals underwriting discipline.
-- **Book value and [return on equity](/return-on-equity/).** Reinsurers are capital businesses. The company's ability to grow book value per share and earn attractive ROE (above [cost of equity](/cost-of-equity/), typically 10% or higher) is the long-term value driver.
+- **Book value and [return on equity](/return-on-equity/).** Reinsurers are capital businesses. The company's ability to grow [book value per share](/book-value-per-share/) and earn attractive ROE (above [cost of equity](/cost-of-equity/), typically 10% or higher) is the long-term value driver.
 - **Peer benchmarking.** Compare Everest's underwriting profitability, leverage, and investment portfolio quality to competitors like Munich Re, Swiss Re, and Assurant.
 
 The [10-K](/wiki/10-k/) and quarterly earnings presentations disclose segment revenues, claims experience by line of business, and reserve reconciliation. Brokers' reports and rating agency analyses from Standard & Poor's, Moody's, and others provide independent perspective on reserve adequacy and competitive positioning.

@@ -78,4 +78,4 @@ Track the capital-intensive metrics carefully: how much does the company spend a
 
 Watch for commentary on customer concentration. If a few customers represent a large percentage of revenue, loss of any one contract is material. [Diversification](/diversification/) across insurance relationships, real estate customers, and industrial clients provides stability.
 
-Finally, pay attention to safety and compliance metrics. Workers' compensation claims, regulatory violations, and safety incidents are leading indicators of operational trouble and future cost pressures. A company with rising safety issues is likely to face margin pressure as it corrects the problems, and it may face customer defections if reputation is damaged.
+Finally, pay attention to safety and compliance metrics. Workers' compensation claims, regulatory violations, and safety incidents are [leading indicators](/leading-indicator/) of operational trouble and future cost pressures. A company with rising safety issues is likely to face margin pressure as it corrects the problems, and it may face customer defections if reputation is damaged.

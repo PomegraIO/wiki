@@ -49,7 +49,7 @@ Transcat also rents instruments to customers who need temporary access. This fil
 
 ## Competition and market position
 
-Transcat operates in a fragmented market with no single dominant competitor. The service side is dominated by small, local calibration shops and internal labs at very large manufacturers. The distribution side competes with national industrial distributors and direct channels from equipment makers. By combining both segments, Transcat can undercut specialists on overall customer cost and convenience — a customer can buy an instrument, rent another, and maintain both through one vendor.
+Transcat operates in a [fragmented market](/fragmented-market/) with no single dominant competitor. The service side is dominated by small, local calibration shops and internal labs at very large manufacturers. The distribution side competes with national industrial distributors and direct channels from equipment makers. By combining both segments, Transcat can undercut specialists on overall customer cost and convenience — a customer can buy an instrument, rent another, and maintain both through one vendor.
 
 The real competitive advantage is the integrated model itself. Once a customer is in the system buying instruments and using calibration services, switching to another vendor means breaking up a relationship and managing multiple vendors in parallel. Transcat's size and geographic reach also deter smaller competitors from investing heavily in regions where Transcat is strong, while the company is nimble enough that large distributors do not prioritize its niches.
 

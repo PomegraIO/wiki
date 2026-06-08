@@ -27,7 +27,7 @@ The time pressure is real. SPACs typically have two years to complete a merger o
 
 The sponsor of IRHO is the company's de facto board and decision-maker. The 10-K should identify the sponsor and its affiliates. What is their track record in M&A? Have they sponsored other successful SPACs, and did those combinations create shareholder value or destroy it? Alternatively, if IRHO's sponsor is a established private-equity firm, does the firm have relevant expertise in the industrial technology or infrastructure sectors that IRHO targets?
 
-Look for any conflicts of interest. If the sponsor controls multiple SPACs, they might be incentivized to do a deal—any deal—to earn the earnout, rather than waiting for the optimal target. The proxy statement (available before a merger vote) will detail the earnout structure: how much the sponsor stands to gain if the stock reaches certain prices post-merger. Misaligned incentives are a leading indicator of a poor acquisition outcome.
+Look for any conflicts of interest. If the sponsor controls multiple SPACs, they might be incentivized to do a deal—any deal—to earn the earnout, rather than waiting for the optimal target. The [proxy statement](/proxy-statement/) (available before a merger vote) will detail the earnout structure: how much the sponsor stands to gain if the stock reaches certain prices post-merger. Misaligned incentives are a [leading indicator](/leading-indicator/) of a poor acquisition outcome.
 
 ## Acquisition Criteria and the Search Process
 

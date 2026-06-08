@@ -40,7 +40,7 @@ Hoyne's lifecycle stage involves deciding whether to maintain branches and servi
 
 ## Loan Portfolio and Credit Cycles
 
-Hoyne's profitability is also exposed to credit cycles. In a community bank's loan portfolio, a small percentage of loans are typically in default or nonaccrual at any time. During [recessions](/recession/), this percentage rises sharply, consuming earnings and requiring provisions against future losses. Community banks with conservative lending standards and strong underwriting can minimize these losses; those that don't can see profitability wiped out for years.
+Hoyne's profitability is also exposed to [credit cycles](/credit-cycle/). In a community bank's loan portfolio, a small percentage of loans are typically in default or nonaccrual at any time. During [recessions](/recession/), this percentage rises sharply, consuming earnings and requiring provisions against future losses. Community banks with conservative lending standards and strong underwriting can minimize these losses; those that don't can see profitability wiped out for years.
 
 At Hoyne's lifecycle stage, the bank has weathered multiple rate cycles and at least one recession (the 2008–2009 financial crisis was a generation ago; more recent recessions have been mild). The bank's lending practices are likely conservative, but the law of large numbers suggests that some fraction of its loan portfolio will underperform. Managing this exposure over a cycle is essential to survival; a bank that lets loan standards slip during good times faces severe losses during downturns.
 

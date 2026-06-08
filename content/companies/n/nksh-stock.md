@@ -19,7 +19,7 @@ The banking business, stripped to essentials, is simple in concept and complex i
 
 National Bankshares' revenue foundation is customer deposits. Depositors — individuals with savings, small businesses with operating cash, municipalities with tax revenue — park money in checking, savings, and money-market accounts. The bank owes those customers the money on demand or after a notice period. In exchange, the bank pays interest (now meaningful after decades of zero-rate policy, but still modest relative to loan rates). The bank then uses deposits to fund lending.
 
-The stability and character of the deposit base matters enormously. A bank heavy in retail deposits from stable customers is less vulnerable to runs than one dependent on wholesale funding or brokered deposits from rate-sensitive traders. A bank with deep roots in its community and a reputation for sound lending and customer service tends to hold deposits even when rates elsewhere look more attractive. National Bankshares, as a regional player with long-standing relationships in its markets, presumably carries deposit customers less likely to flee at the first rate hike.
+The stability and character of the deposit base matters enormously. A bank heavy in retail deposits from stable customers is less vulnerable to runs than one dependent on wholesale funding or [brokered deposits](/brokered-deposit/) from rate-sensitive traders. A bank with deep roots in its community and a reputation for sound lending and customer service tends to hold deposits even when rates elsewhere look more attractive. National Bankshares, as a regional player with long-standing relationships in its markets, presumably carries deposit customers less likely to flee at the first rate hike.
 
 ## Lending and loan quality
 

@@ -19,7 +19,7 @@ handwritten: true
 
 Rigetti operates in the pre-revenue-at-scale phase typical of deep-tech hardware companies. The firm generates revenue through three channels, each modest but meaningful for a startup: cloud access (researchers pay per minute or per run to use Rigetti's quantum computers remotely), licensing of quantum software tools, and government contracts. The cloud revenue stream is the proof of concept — users can run real quantum algorithms without purchasing hardware. But cloud revenue alone cannot sustain a quantum hardware manufacturer. The leverage comes from government.
 
-The Chips and Science Act, passed in 2022, allocated substantial funding to boost American quantum computing capabilities. In May 2026, Rigetti signed a letter of intent with the U.S. Department of Commerce for up to $100 million in federal funding spread over three years to accelerate superconducting quantum computing research and development. This is not revenue; it is capital that covers R&D costs. But it allows the firm to invest in processor design without requiring private capital to foot the entire bill.
+The Chips and Science Act, passed in 2022, allocated substantial funding to boost American quantum computing capabilities. In May 2026, Rigetti signed a [letter of intent](/letter-of-intent-ma/) with the U.S. Department of Commerce for up to $100 million in federal funding spread over three years to accelerate superconducting quantum computing research and development. This is not revenue; it is capital that covers R&D costs. But it allows the firm to invest in processor design without requiring private capital to foot the entire bill.
 
 ## The technology: superconducting qubits as the chosen path
 

@@ -35,7 +35,7 @@ CLOs emerged as a structured-finance tool in the 1990s and became one of the lar
 
 The CLO market is vast and heterogeneous. Senior tranches are safer; equity tranches are riskier but paid first from any recoveries. A fund focused solely on AAA-rated CLO debt is buying the top-of-the-capital-stack securities, the ones that only lose money if widespread defaults occur throughout the underlying loan pool. That safety comes at a cost: AAA CLO securities pay less yield than lower-rated tranches. But for conservative investors who want credit exposure without taking on single-loan risk, the AAA tranche is the natural choice.
 
-ACLO's strategy is to build a diversified portfolio across dozens of AAA CLO securities from multiple originators and multiple vintage years. [Diversification](/diversification/) across many CLOs and across many underlying loans reduces [concentration risk](/concentration-risk/). A default in one corner of the loan market does not destroy the position; the portfolio absorbs it.
+ACLO's strategy is to build a diversified portfolio across dozens of AAA CLO securities from multiple originators and multiple [vintage years](/vintage-year/). [Diversification](/diversification/) across many CLOs and across many underlying loans reduces [concentration risk](/concentration-risk/). A default in one corner of the loan market does not destroy the position; the portfolio absorbs it.
 
 ## How does interest from loans become yield to shareholders?
 

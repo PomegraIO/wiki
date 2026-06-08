@@ -29,7 +29,7 @@ Dole operates across more than 100 countries but sources primarily from the Amer
 
 Climate risk is structural. Hurricanes in Central America, flooding in the Philippines, and drought in East Africa all threaten supply chains. Dole has invested in insurance, [diversification](/diversification/) across growing regions, and storage capacity to weather short-term disruptions, but severe regional disasters reset the math. A decade ago, tropical disease threatened banana crops across multiple regions simultaneously—a reminder that agriculture is not engineering. When a disease or pest establishes in a crop region, eradication is often impossible; the economic response is relocation or crop switching, both capital-intensive and slow.
 
-Political risk in source countries compounds climate risk. Dole's largest operations sit in Latin America, where labor relations, land ownership disputes, and trade policies fluctuate with governments. The company has faced recurring labor disputes and historical legacy liabilities tied to its operations decades ago. Understanding Dole's risk profile requires reading both its SEC filings and contemporaneous reporting on its largest operating regions.
+[Political risk](/political-risk/) in source countries compounds climate risk. Dole's largest operations sit in Latin America, where labor relations, land ownership disputes, and trade policies fluctuate with governments. The company has faced recurring labor disputes and historical legacy liabilities tied to its operations decades ago. Understanding Dole's risk profile requires reading both its SEC filings and contemporaneous reporting on its largest operating regions.
 
 ## Retail consolidation shapes pricing power
 

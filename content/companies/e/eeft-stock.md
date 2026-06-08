@@ -42,7 +42,7 @@ The company's recovery has been uneven. As travel returned, ATM transactions reb
 
 ## The research question
 
-To understand Euronet, monitor two signals. First, track remittance-corridor flows and travel indices in the company's key markets (Germany, the UK, Australia, Mexico). A sharp drop in either is a leading indicator of near-term revenue pressure. Second, follow the company's digital-revenue mix as a percentage of total revenue; a rising share indicates the company is insulating itself from cyclicality, while a flat or falling share suggests the business remains tethered to economic cycles and people flows.
+To understand Euronet, monitor two signals. First, track remittance-corridor flows and travel indices in the company's key markets (Germany, the UK, Australia, Mexico). A sharp drop in either is a [leading indicator](/leading-indicator/) of near-term revenue pressure. Second, follow the company's digital-revenue mix as a percentage of total revenue; a rising share indicates the company is insulating itself from cyclicality, while a flat or falling share suggests the business remains tethered to economic cycles and people flows.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -42,7 +42,7 @@ Drought is a recurring threat in the Great Plains: reduced rainfall cuts grazing
 
 ## Capital and Regulatory Constraints on Regional Banks
 
-Bank7, like BSRR and all regional banks, operates under Fed and OCC oversight with capital requirements that mandate minimum ratios of equity to risk-weighted assets. These ratios have risen since 2008, limiting regional banks' ability to grow rapidly or return capital to shareholders. After the 2023 banking sector stress, regulators have signaled tighter scrutiny of interest-rate risk and deposit stability, further constraining regional banks' operating flexibility.
+Bank7, like BSRR and all regional banks, operates under Fed and OCC oversight with capital requirements that mandate minimum ratios of equity to [risk-weighted assets](/risk-weighted-assets/). These ratios have risen since 2008, limiting regional banks' ability to grow rapidly or return capital to shareholders. After the 2023 banking sector stress, regulators have signaled tighter scrutiny of interest-rate risk and deposit stability, further constraining regional banks' operating flexibility.
 
 Bank7 must maintain sufficient capital to absorb losses, fund growth, and satisfy regulatory minimums. Growth is self-funding ([retained earnings](/retained-earnings/)), which means a low-growth, steady-dividend strategy is optimal. [Acquisitions](/acquisition/) require either excess capital or equity issuance (dilutive). Bank7's path to scale is thus limited: organic growth in its footprint, or acquisitions of similar-sized banks (which consolidate platforms and reduce cost, but do not accelerate growth).
 

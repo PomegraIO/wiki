@@ -45,7 +45,7 @@ The company's operations are not facility-heavy. No recording studios, no physic
 
 ## Operational Thresholds and Challenges
 
-Scaling from regional to national reach requires scaling support proportionally. If Kuke adds hundreds of schools in a fiscal year, account management overhead grows linearly. The company must hire and train local account managers, establish service-level expectations, and maintain relationship quality. This is where growth can become operationally expensive.
+Scaling from regional to national reach requires scaling support proportionally. If Kuke adds hundreds of schools in a [fiscal year](/fiscal-year-definition/), account management overhead grows linearly. The company must hire and train local account managers, establish service-level expectations, and maintain relationship quality. This is where growth can become operationally expensive.
 
 Technical scaling is also non-trivial. Concurrent user loads during peak study periods must not degrade performance. The company runs on cloud infrastructure (likely Alibaba Cloud given market position), but provisioning and cost management require continuous monitoring.
 

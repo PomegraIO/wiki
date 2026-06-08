@@ -31,7 +31,7 @@ This revenue stream is less vulnerable to long-term secular decline than adverti
 
 Gray Media owns stations in smaller and mid-sized markets (such as Tulsa, Oklahoma; San Antonio, Texas; and Des Moines, Iowa) that have lower advertising rates and fewer alternative media options than top-10 metros. In these markets, broadcast TV remains the dominant local news source and the primary place for major retailers and automotive dealers to buy advertising. The company's local presence and established relationships with community advertisers provide some defensibility—a car dealer in Tulsa still needs to reach the majority of its potential customers, and traditional broadcast TV is an effective channel.
 
-However, this market fragmentation also means that Gray Media is exposed to local and regional economic conditions. A [recession](/recession/) in a particular region reduces advertising spending by local businesses. Consolidation in retail (fewer independent shops and dealers) reduces the traditional demand for local TV advertising. Gray Media's earnings reflect these dynamics market-by-market, making the business difficult to forecast and manage.
+However, this [market fragmentation](/market-fragmentation/) also means that Gray Media is exposed to local and regional economic conditions. A [recession](/recession/) in a particular region reduces advertising spending by local businesses. Consolidation in retail (fewer independent shops and dealers) reduces the traditional demand for local TV advertising. Gray Media's earnings reflect these dynamics market-by-market, making the business difficult to forecast and manage.
 
 ## Debt Burden and Cash-Flow Challenges
 

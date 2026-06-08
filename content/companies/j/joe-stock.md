@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The St. Joe Company occupies an unusual corner of American real estate: a large private land company with deep roots in Northwest Florida, converting vast acreage into cash flows through residential developments, commercial properties, hospitality ventures, and long-term ground leases. Unlike typical real estate developers who buy, build, and sell, St. Joe holds a proprietary advantage—ownership of sprawling land in a region experiencing gradual population migration southward. The company's challenge has always been the pace of monetization: turning forest and pastureland into viable projects requires patience, capital, and local market conditions that don't always cooperate on demand.
+The St. Joe Company occupies an unusual corner of American real estate: a large private land company with deep roots in Northwest Florida, converting vast acreage into cash flows through residential developments, commercial properties, hospitality ventures, and long-term [ground leases](/ground-lease/). Unlike typical real estate developers who buy, build, and sell, St. Joe holds a proprietary advantage—ownership of sprawling land in a region experiencing gradual population migration southward. The company's challenge has always been the pace of monetization: turning forest and pastureland into viable projects requires patience, capital, and local market conditions that don't always cooperate on demand.
 
 <aside class="wiki-infobox">
 
@@ -46,7 +46,7 @@ The transformation accelerated after 2010, when the company rebranded to St. Joe
 
 St. Joe's moat is geographic: it owns a massive land bank in an underdeveloped but increasingly attractive region. Few competitors have equivalent landholdings in the Panhandle. However, the moat has limits. The company must convince urban and suburban dwellers to relocate to Northwest Florida, compete with other Florida retirement destinations (Tampa Bay, Southwest Coast), and navigate the cyclical housing market.
 
-Population migration to Florida remains favorable over the long term, but growth is not certain. Economic downturns can stall residential sales. Commercial and hospitality tenants may consolidate or fail. The company's returns depend on sustained demand for Florida living and its ability to phase development in line with market absorption rates—move too fast and inventory piles up; move too slow and opportunity passes.
+Population migration to Florida remains favorable over the long term, but growth is not certain. Economic downturns can stall residential sales. Commercial and hospitality tenants may consolidate or fail. The company's returns depend on sustained demand for Florida living and its ability to phase development in line with market [absorption rates](/absorption-rate-real-estate/)—move too fast and inventory piles up; move too slow and opportunity passes.
 
 Regulation poses another constraint. Environmental permitting for large-scale development in Florida is complex. The state's water and ecosystem sensitivities, hurricane risk, and rising sea levels create headwinds. St. Joe must secure permits for each phase and defend against environmental litigation, common in Florida development.
 

@@ -64,7 +64,7 @@ Broadband expansion is critical. Rural broadband has become a policy priority—
 
 ## How to research Shenandoah Telecommunications
 
-Begin with the annual 10-K (SEC CIK 0000354963), which breaks revenue by wireless, wireline broadband, wireline voice, and video. Watch the trend in customer counts for each segment, not just revenue: wireless customer churn, broadband additions, and video losses are the leading indicators of future profitability.
+Begin with the annual 10-K (SEC CIK 0000354963), which breaks revenue by wireless, wireline broadband, wireline voice, and video. Watch the trend in customer counts for each segment, not just revenue: wireless customer churn, broadband additions, and video losses are the [leading indicators](/leading-indicator/) of future profitability.
 
 Quarterly earnings calls provide color on wholesale rate changes, competitive pressure in key markets, and capital spending plans for broadband. Key metrics are ARPU (average revenue per user) by segment, churn rates, and the company's success attracting broadband customers in underserved areas. The [debt-to-EBITDA ratio](/debt-to-ebitda-ratio/) matters; if it is rising while growth slows, the company may face pressure to cut costs or seek strategic alternatives.
 

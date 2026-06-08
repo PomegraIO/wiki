@@ -50,7 +50,7 @@ The 10-K discloses portfolio composition by industry, stage (how mature the port
 
 ## The Timing Question: Debt vs. Equity Market Cycles
 
-Mount Logan's profitability shifts with credit cycles. In expansions, [default rates](/default-rate/) are low, interest income is steady, and equity valuations are generous—portfolio companies attract buyer interest at high multiples. The company distributes healthy dividends. In contractions, defaults spike, equity values tumble (many portfolio companies may be marked down), and refinancing becomes difficult. The company may need to cut its dividend or deploy capital into distressed positions at discounts.
+Mount Logan's profitability shifts with [credit cycles](/credit-cycle/). In expansions, [default rates](/default-rate/) are low, interest income is steady, and equity valuations are generous—portfolio companies attract buyer interest at high multiples. The company distributes healthy dividends. In contractions, defaults spike, equity values tumble (many portfolio companies may be marked down), and refinancing becomes difficult. The company may need to cut its dividend or deploy capital into distressed positions at discounts.
 
 Understanding whether Mount Logan's portfolio is entering a stress cycle or an expansion cycle is crucial to predicting forward returns. This requires reading recent deal activity, portfolio company financial performance, and industry trends affecting portfolio concentration areas.
 

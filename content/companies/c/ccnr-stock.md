@@ -46,7 +46,7 @@ The fund trades on an exchange and can be bought or sold any trading day at pric
 
 ## Risks and appropriate uses
 
-Natural resources investing is cyclical and volatile. CCNR investors assume commodity price risk: when raw materials are in oversupply or demand slackens, the fund underperforms. Regulatory risk matters too—new environmental rules, carbon taxes, or drilling restrictions can alter economics materially. Political risk from disruptions in key producing regions can cascade through commodity markets.
+Natural resources investing is cyclical and volatile. CCNR investors assume commodity price risk: when raw materials are in oversupply or demand slackens, the fund underperforms. Regulatory risk matters too—new environmental rules, carbon taxes, or drilling restrictions can alter economics materially. [Political risk](/political-risk/) from disruptions in key producing regions can cascade through commodity markets.
 
 CCNR suits investors who believe commodity prices will trend higher or stabilize, and who want diversified exposure to companies that profit from that trend. It also suits portfolio diversifiers, since commodity prices often move independently of stocks and [bonds](/bond/). It is poorly suited for conservative investors, those with low risk tolerance, or those who view fossil fuel and mining exposure as contrary to their values.
 

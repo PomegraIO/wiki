@@ -47,7 +47,7 @@ Harmony's earnings are hostage to gold and uranium prices. The company cannot do
 
 This makes Harmony a commodity play, not an operational business in the traditional sense. An investor in Harmony is betting on gold prices, not on Harmony's management making the business steadily more profitable through innovation or expansion.
 
-South Africa has been Harmony's anchor for decades, but the country has risks. Electricity is unreliable — South Africa's power grid has frequent rolling blackouts — which makes mining more difficult and expensive. Wages are rising as the country's economy changes. Labor relations in South African mines have historically been contentious. Political risk and [currency volatility](/currency-volatility/) (the [South African rand](/south-african-rand/) fluctuates) are other considerations.
+South Africa has been Harmony's anchor for decades, but the country has risks. Electricity is unreliable — South Africa's power grid has frequent rolling blackouts — which makes mining more difficult and expensive. Wages are rising as the country's economy changes. Labor relations in South African mines have historically been contentious. [Political risk](/political-risk/) and [currency volatility](/currency-volatility/) (the [South African rand](/south-african-rand/) fluctuates) are other considerations.
 
 ## Expanding geographically
 

@@ -26,7 +26,7 @@ Eminent's fortunes depend on two independent variables that the company itself d
 
 ## Path to Value Creation
 
-A successful outcome for Eminent's shareholders typically requires one of three scenarios. First, the company discovers a large, high-grade deposit that it then develops into production—a capital-intensive undertaking beyond most junior explorers' reach, requiring hundreds of millions or billions. Second, a major mining company acquires Eminent's claims and portfolio, paying shareholders a premium over the paper value of the equity. This is the more common exit. Third, the company partners or joint-ventures with a major operator, retaining a carried interest or royalty that provides future cash flows. In all cases, value realization depends on discovery success and favorable commodity markets.
+A successful outcome for Eminent's shareholders typically requires one of three scenarios. First, the company discovers a large, high-grade deposit that it then develops into production—a capital-intensive undertaking beyond most junior explorers' reach, requiring hundreds of millions or billions. Second, a major mining company acquires Eminent's claims and portfolio, paying shareholders a premium over the paper value of the equity. This is the more common exit. Third, the company partners or joint-ventures with a major operator, retaining a [carried interest](/carried-interest-compensation/) or royalty that provides future cash flows. In all cases, value realization depends on discovery success and favorable commodity markets.
 
 ## Regulatory and Environmental Framework
 

@@ -29,7 +29,7 @@ Singapore, where Great Eastern Holdings is headquartered, is a major financial h
 
 ## Capital and Solvency Requirements
 
-Insurance companies operate under capital requirements set by regulators. These rules mandate that an insurer maintain sufficient capital to absorb losses and cover obligations to policyholders. Great Eastern Holdings must meet solvency standards in each jurisdiction where it operates. The ratio of capital to liabilities (and to risk-weighted assets) determines how much growth the company can fund without raising additional equity—a key constraint on profitability and [return on equity](/return-on-equity/).
+Insurance companies operate under capital requirements set by regulators. These rules mandate that an insurer maintain sufficient capital to absorb losses and cover obligations to policyholders. Great Eastern Holdings must meet solvency standards in each jurisdiction where it operates. The ratio of capital to liabilities (and to [risk-weighted assets](/risk-weighted-assets/)) determines how much growth the company can fund without raising additional equity—a key constraint on profitability and [return on equity](/return-on-equity/).
 
 Insurance companies regularly raise capital through [share issuances](/common-stock/), [retained earnings](/retained-earnings/), or debt to maintain [solvency ratios](/solvency-ratio/) above regulatory minimums. During periods of growth or when losses are elevated, capital becomes a binding constraint. During periods of strong profitability and moderate growth, excess capital can be returned to shareholders via [dividends](/dividend/) or [share buybacks](/share-buyback/).
 

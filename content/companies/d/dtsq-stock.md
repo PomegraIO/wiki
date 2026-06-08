@@ -33,7 +33,7 @@ The appeal of SPACs to private companies is significant. Rather than spending a 
 
 DT Cloud Star is positioned toward acquiring a company in cloud infrastructure, digital transformation, or enterprise software — sectors that have attracted significant SPAC capital in recent years. The formation and capitalization of the company typically occur through an IPO in which public investors buy shares and warrants, betting on the sponsor team's track record and judgment. The deadline by which a SPAC must complete a [business combination](/business-combination-purchase/) or return capital to shareholders is usually two years from the IPO date, though many SPACs have sought extensions.
 
-The history of SPACs as a path to public ownership is fraught with both successes and failures. Early-stage biotech, electric vehicle companies, and fintech startups have used SPACs to go public and raise the capital needed to scale. Many such deals have delivered returns; many others have disappointed shareholders who found the merged company facing execution risk, competitive pressure, or market conditions that made the "pre-merger" valuation look optimistic in hindsight.
+The history of SPACs as a path to public ownership is fraught with both successes and failures. Early-stage biotech, electric vehicle companies, and fintech startups have used SPACs to go public and raise the capital needed to scale. Many such deals have delivered returns; many others have disappointed shareholders who found the merged company facing [execution risk](/execution-risk/), competitive pressure, or market conditions that made the "pre-merger" valuation look optimistic in hindsight.
 
 ## The risks and competition
 

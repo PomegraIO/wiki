@@ -4,7 +4,7 @@ description: "Clinical-stage cardiovascular biotech developing therapies for hea
 keywords: ["cardiovascular", "biotechnology", "heart disease", "drug development", "cardiac therapeutics", "Nasdaq", "biotech"]
 ---
 
-*[**Cardiol Therapeutics Inc.**](https://www.cardioltx.com/) (**CRDL**) is a clinical-stage biotech company concentrating on cardiovascular drug development and the treatment of heart disease and related pathologies. The firm occupies a segment where regulatory pathways are established—cardiovascular drug approvals follow well-trodden routes—yet competitive intensity is formidable, and the company's narrow resources relative to larger pharmaceutical incumbents create execution risk and dependency on favorable clinical outcomes.*
+*[**Cardiol Therapeutics Inc.**](https://www.cardioltx.com/) (**CRDL**) is a clinical-stage biotech company concentrating on cardiovascular drug development and the treatment of heart disease and related pathologies. The firm occupies a segment where regulatory pathways are established—cardiovascular drug approvals follow well-trodden routes—yet competitive intensity is formidable, and the company's narrow resources relative to larger pharmaceutical incumbents create [execution risk](/execution-risk/) and dependency on favorable clinical outcomes.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CRDL</td></tr>

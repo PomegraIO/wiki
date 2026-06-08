@@ -57,7 +57,7 @@ Manufacturing is also a risk. Gene-editing therapies require complex manufacturi
 
 ## Why This Matters
 
-CRISPR Therapeutics represents a frontier in medicine: the shift from treating symptoms to correcting genetic root causes. If successful, the company could validate gene editing as a durable therapeutic approach, opening entire new categories of treatable diseases. The potential is enormous. But the execution risk is also enormous. For investors, CRSP is a high-risk, high-reward bet on a transformative technology. For patients with sickle cell and thalassemia, CRISPR Therapeutics offers hope for treatments that were science fiction a decade ago.
+CRISPR Therapeutics represents a frontier in medicine: the shift from treating symptoms to correcting genetic root causes. If successful, the company could validate gene editing as a durable therapeutic approach, opening entire new categories of treatable diseases. The potential is enormous. But the [execution risk](/execution-risk/) is also enormous. For investors, CRSP is a high-risk, high-reward bet on a transformative technology. For patients with sickle cell and thalassemia, CRISPR Therapeutics offers hope for treatments that were science fiction a decade ago.
 
 <div class="wiki-seealso">
 ### Closely related

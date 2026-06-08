@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Nuveen AMT-Free Municipal [Value Fund](/value-fund/) (NUW) is a closed-end fund focused on [municipal bonds](/municipal-bond/) — debt issued by states, cities, and other local government entities. Like other municipal [bonds](/bond/), these securities typically pay interest that is exempt from federal income tax. The "AMT-free" designation means the fund is careful to avoid bonds that could trigger the alternative minimum tax for certain high-income investors. The fund's strategy is straightforward: buy a diversified portfolio of quality municipal bonds, hold them, and pass the tax-exempt interest to shareholders. The stock trades on NYSE, and distributions are paid monthly. For investors in high tax brackets seeking tax-advantaged income, this fund addresses a specific need.
+Nuveen AMT-Free Municipal [Value Fund](/value-fund/) (NUW) is a closed-end fund focused on [municipal bonds](/municipal-bond/) — debt issued by states, cities, and other local government entities. Like other municipal [bonds](/bond/), these securities typically pay interest that is exempt from federal income tax. The "AMT-free" designation means the fund is careful to avoid bonds that could trigger the [alternative minimum tax](/alternative-minimum-tax/) for certain high-income investors. The fund's strategy is straightforward: buy a diversified portfolio of quality municipal bonds, hold them, and pass the tax-exempt interest to shareholders. The stock trades on NYSE, and distributions are paid monthly. For investors in high tax brackets seeking tax-advantaged income, this fund addresses a specific need.
 
 <aside class="wiki-infobox">
 <table>

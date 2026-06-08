@@ -19,7 +19,7 @@ The challenge for Universal Token, like any blockchain token project, is not tec
 
 ## What the protocol claims to do
 
-Universal Token positions itself as a decentralized payment and smart-contract platform. In theory, holders of UTKN can send value to one another peer-to-peer without a bank or intermediary, pay for computing power on the network, and issue or execute financial contracts encoded as smart contracts. This is the standard pitch from dozens of blockchain projects: be to payments and finance what email was to mail, or what the internet was to locked corporate networks. Enable direct value transfer and contract execution without gatekeepers.
+Universal Token positions itself as a decentralized payment and smart-contract platform. In theory, holders of UTKN can send value to one another peer-to-peer without a bank or intermediary, pay for computing power on the network, and issue or execute financial contracts encoded as [smart contracts](/smart-contract/). This is the standard pitch from dozens of blockchain projects: be to payments and finance what email was to mail, or what the internet was to locked corporate networks. Enable direct value transfer and contract execution without gatekeepers.
 
 The protocol is secured by a network of validators (participants who run computers and validate transactions) rather than a [central bank](/central-bank/). Validators earn rewards in UTKN for securing the network — this is how new tokens enter circulation. Users pay transaction fees in UTKN, which validators collect. This structure is theoretically self-reinforcing: if the network is useful, demand for UTKN rises, its price appreciates, and validators find it worthwhile to invest in hardware and electricity to secure it.
 
@@ -53,7 +53,7 @@ For an investor, UTKN is a bet on the adoption of the Universal Token protocol r
 
 ## How to research Universal Token
 
-Research into UTKN should start with the white paper and documentation: what problem is it solving that Bitcoin or Ethereum do not? What is the token supply schedule, and how many tokens are held by the founding team or early investors? A high founder allocation and a vague or distant token unlock schedule are red flags — they signal that insiders have a large incentive to promote the project regardless of its viability.
+Research into UTKN should start with the white paper and documentation: what problem is it solving that Bitcoin or Ethereum do not? What is the token supply schedule, and how many tokens are held by the founding team or early investors? A high founder allocation and a vague or distant [token unlock schedule](/token-unlock-schedule/) are red flags — they signal that insiders have a large incentive to promote the project regardless of its viability.
 
 Watch the developer activity and community engagement on GitHub and forums. Is the protocol being actively developed? Are developers building applications on it? Check the main exchanges where UTKN trades, look at trading volume (is it thin or thick?), and note any exchange delistings or regulatory warnings.
 

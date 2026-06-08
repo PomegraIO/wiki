@@ -45,7 +45,7 @@ Additionally, Fastly's customers are sophisticated technology companies with int
 
 Fastly's infrastructure consists of a global network of data centers, each running specialized software and maintaining edge compute systems. Operating this infrastructure at scale requires significant capital investment (data center costs, network peering relationships, hardware), sophisticated network engineering (peering agreements with internet service providers, traffic management, DDoS mitigation), and continuous software development (maintaining the edge compute runtime, performance optimization, new features).
 
-Unlike a pure software company that scales with minimal marginal cost, Fastly must invest in infrastructure as it grows. This creates operating leverage (as the platform matures and shared infrastructure costs are amortized across more customers), but it also creates execution risk. Poor decisions in data center location, hardware choices, or network architecture can lead to capacity mismatches (overcapacity, stranded capital) or underperformance (latency issues, availability problems) that damage customer relationships.
+Unlike a pure software company that scales with minimal marginal cost, Fastly must invest in infrastructure as it grows. This creates operating leverage (as the platform matures and shared infrastructure costs are amortized across more customers), but it also creates [execution risk](/execution-risk/). Poor decisions in data center location, hardware choices, or network architecture can lead to capacity mismatches (overcapacity, stranded capital) or underperformance (latency issues, availability problems) that damage customer relationships.
 
 ## Regulatory and Compliance Considerations
 

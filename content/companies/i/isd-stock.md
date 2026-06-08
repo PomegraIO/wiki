@@ -37,7 +37,7 @@ The core risk is credit risk: if the companies issuing these bonds run into trou
 
 Interest-rate risk also matters. Although PGIM aims to keep duration short, if long-term [interest rates](/interest-rate/) rise sharply, the bonds in the portfolio lose value. Conversely, if rates fall, they appreciate — which is why high-yield funds often rally when equity markets crash and investors flee to any yield they can find.
 
-The fund itself does not default on its obligations to shareholders — the question is how much the portfolio of bonds is worth on any given day. For someone holding the fund long-term and reinvesting distributions, credit cycles matter far less than for someone trading the shares actively.
+The fund itself does not default on its obligations to shareholders — the question is how much the portfolio of bonds is worth on any given day. For someone holding the fund long-term and reinvesting distributions, [credit cycles](/credit-cycle/) matter far less than for someone trading the shares actively.
 
 ## The Prudential connection
 

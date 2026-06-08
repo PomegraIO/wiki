@@ -50,7 +50,7 @@ Public investors who buy units are betting that the sponsors will find a good bu
 
 Blank-check companies have become controversial. Critics argue that they allow sponsors to take companies public without the scrutiny of a traditional IPO, that some deals are structured to enrich sponsors at the expense of public shareholders, and that many SPAC combinations have underperformed compared to comparable IPO alternatives. Regulatory oversight has tightened: the SEC issued guidance on accounting and disclosure, and several blank-check companies have faced shareholder litigation or regulatory action.
 
-AmperCap Acquisition faces these structural headwinds. Any prospective investor would need to evaluate whether the team's investment experience, focus on middle-market companies, and regional strategy justify confidence that they will source and execute a deal that creates value. The blank-check vehicle itself imposes execution risk—if AmperCap does not find an attractive target within the time allowed, the capital is returned to investors and the company dissolves.
+AmperCap Acquisition faces these structural headwinds. Any prospective investor would need to evaluate whether the team's investment experience, focus on middle-market companies, and regional strategy justify confidence that they will source and execute a deal that creates value. The blank-check vehicle itself imposes [execution risk](/execution-risk/)—if AmperCap does not find an attractive target within the time allowed, the capital is returned to investors and the company dissolves.
 
 ## How AmperCap fits the broader market for acquisitions
 
@@ -62,7 +62,7 @@ This is a reasonable market positioning. Businesses in that size range often rem
 
 As a blank-check company that filed in 2025, AmperCap Acquisition remains in the process of completing its initial public offering and raising capital. Once the offering closes and shares begin trading, the sponsor team has a defined window (usually eighteen to twenty-four months from closing) to identify a target company, negotiate a deal, complete diligence, and obtain shareholder approval for the [merger](/merger/). If no deal is reached within that window, the capital is returned to investors.
 
-Publicly, the team would launch a process to source acquisition candidates, likely working with investment banks, business [brokers](/broker/), and their own networks. Due diligence would include financial analysis, operational assessment, and regulatory review. The sponsors would need to negotiate favorable terms—a purchase price that makes sense for growth and the team's return expectations, and management continuity and incentives that align with value creation.
+Publicly, the team would launch a process to source acquisition candidates, likely working with investment banks, business [brokers](/broker/), and their own networks. [Due diligence](/due-diligence/) would include financial analysis, operational assessment, and regulatory review. The sponsors would need to negotiate favorable terms—a purchase price that makes sense for growth and the team's return expectations, and management continuity and incentives that align with value creation.
 
 ## Key metrics and what to watch
 

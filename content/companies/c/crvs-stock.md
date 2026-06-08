@@ -22,7 +22,7 @@ The analyst should examine reported Phase 1 data metrics carefully: What percent
 
 The most critical line item in a pre-revenue biotech's 10-K is cash, cash equivalents, and stated cash runway. Corvus will disclose cash position at period-end and, often, provide management guidance on runway—i.e., how many quarters of operations the current cash can fund at historical burn rates. A company with 18–24 months of runway faces near-term [refinancing risk](/refinancing-risk/); one with 3+ years of runway may have time to reach a meaningful clinical milestone before requiring another equity raise.
 
-Burn rate (cash used in operations divided by the number of months in the period) reveals the company's efficiency. A clinical-stage biotech burning $2 million per month is far further along than one burning $5 million monthly, as the higher-burn company must achieve critical de-risking events faster to justify continued investor capital. The 10-K should also disclose any debt, convertible notes, or structured [equity financings](/equity-financing/) that might dilute shareholders or impose payment obligations.
+Burn rate (cash used in operations divided by the number of months in the period) reveals the company's efficiency. A clinical-stage biotech burning $2 million per month is far further along than one burning $5 million monthly, as the higher-burn company must achieve critical de-risking events faster to justify continued investor capital. The 10-K should also disclose any debt, [convertible notes](/convertible-notes/), or structured [equity financings](/equity-financing/) that might dilute shareholders or impose payment obligations.
 
 ## Intellectual Property and Freedom to Operate
 

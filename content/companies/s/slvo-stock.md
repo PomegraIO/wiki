@@ -41,7 +41,7 @@ The trade-off is symmetrical. If silver rises sharply, the calls might be exerci
 
 ## The ETN structure and maturity
 
-SLVO is an ETN due April 21, 2033 — meaning Xtreme Leverage has committed to redeem the notes on that date at a value equal to the index performance, less costs. Investors can also trade SLVO on NYSE Arca at any time during market hours. The market price may diverge from the underlying value depending on supply, demand, and market sentiment.
+SLVO is an ETN due April 21, 2033 — meaning Xtreme Leverage has committed to redeem the notes on that date at a value equal to the index performance, less costs. Investors can also trade SLVO on [NYSE Arca](/nyse-arca/) at any time during market hours. The market price may diverge from the underlying value depending on supply, demand, and market sentiment.
 
 The [maturity structure](/maturity-structure/) creates a known timeline. An investor buying SLVO today knows that the issuer has committed to settling by April 2033. This is both a feature and a risk: there is a clear exit date, but the investor depends on the issuer's solvency. In 2008, many investors who owned ETNs from Lehman Brothers lost significant value when the firm failed and the notes defaulted.
 
@@ -55,7 +55,7 @@ However, SLVO's income is not free. In a strongly rising silver market, an inves
 
 The fundamental risk in SLVO is the [credit risk](/credit-risk/) of Xtreme Leverage. If the issuer cannot meet its obligations in 2033, or if the investor wants to redeem before maturity and Xtreme Leverage cannot settle, investors could face losses. The Dodd-Frank reforms after 2008 increased regulatory scrutiny of ETNs, but the risk remains.
 
-An investor also faces silver price risk and call pricing risk. Silver call options are sensitive to expected volatility and the creditworthiness of counterparties. If the call market becomes illiquid or if silver volatility spikes, the hedging cost could rise, reducing returns.
+An investor also faces silver price risk and call pricing risk. Silver call options are sensitive to expected volatility and the creditworthiness of counterparties. If the [call market](/call-market/) becomes illiquid or if silver volatility spikes, the hedging cost could rise, reducing returns.
 
 ## How to research SLVO
 

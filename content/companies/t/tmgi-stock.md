@@ -40,7 +40,7 @@ The company acquired Apache Creek Golf Club as part of the GETGOLF transaction. 
 
 ### What is the GETGOLF platform and when does it launch?
 
-GETGOLF is a technology platform in development, set for global launch in Q3 2026. The company describes it as the next generation of its reservation and operations system, designed to scale the reservation model internationally and potentially add amenities management, member engagement, and data analytics. If the launch succeeds, it could become the operating backbone for a larger golf-holding business. If it stalls or fails, Transglobal reverts to a smaller, more modest stand-alone operator. The platform's success will hinge on execution risk and market adoption in new geographies.
+GETGOLF is a technology platform in development, set for global launch in Q3 2026. The company describes it as the next generation of its reservation and operations system, designed to scale the reservation model internationally and potentially add amenities management, member engagement, and data analytics. If the launch succeeds, it could become the operating backbone for a larger golf-holding business. If it stalls or fails, Transglobal reverts to a smaller, more modest stand-alone operator. The platform's success will hinge on [execution risk](/execution-risk/) and market adoption in new geographies.
 
 ### How does cyclicality affect the business?
 

@@ -63,7 +63,7 @@ Finally, Triple Flag has to invest capital to acquire new streaming contracts an
 
 For years Triple Flag grew by buying smaller streaming and royalty assets from junior miners and established peers. In recent years the company has diversified slightly, acquiring streaming rights to lithium mines (like Tres Quebradas) and other battery metals as electric-vehicle production accelerates. This move reflects a bet that battery metals will eventually command prices comparable to precious metals and that the streaming model works just as well for lithium as it does for gold.
 
-The company has also invested in developing mines that have not yet shipped metal. These longer-dated assets carry more execution risk but also offer the potential for higher returns if a new mine ramps up successfully.
+The company has also invested in developing mines that have not yet shipped metal. These longer-dated assets carry more [execution risk](/execution-risk/) but also offer the potential for higher returns if a new mine ramps up successfully.
 
 ## Understanding Triple Flag as an investment
 

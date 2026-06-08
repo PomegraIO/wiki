@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Perfect Medical Health Management Ltd. is a healthcare services company incorporated in the Cayman Islands that provides medical aesthetics, general health services, and reproductive medicine to patients across Asia-Pacific markets. The company operates a network of clinical facilities and franchised partners, offering treatments ranging from hair growth and pain management to infertility, egg freezing, obstetrics, and women's health screening. The American Depositary Shares (PMHMY) trade over-the-counter, with each ADR representing fifty shares of the underlying company.
+Perfect Medical Health Management Ltd. is a healthcare services company incorporated in the Cayman Islands that provides medical aesthetics, general health services, and reproductive medicine to patients across Asia-Pacific markets. The company operates a network of clinical facilities and franchised partners, offering treatments ranging from hair growth and pain management to infertility, egg freezing, obstetrics, and women's health screening. The American [Depositary Shares](/depositary-share/) (PMHMY) trade over-the-counter, with each ADR representing fifty shares of the underlying company.
 
 ## Origins and the medical aesthetics expansion
 
@@ -31,7 +31,7 @@ This [diversification](/diversification/) provides multiple advantages. Reproduc
 
 Perfect Medical operates primarily across Asia-Pacific, with a presence in markets including Singapore, Hong Kong, Mainland China, and others where the company has built brand recognition and clinical infrastructure. The company operates both directly-owned clinics and franchised locations, a model that balances quality control and consistency against rapid expansion and capital efficiency.
 
-The franchise approach has trade-offs. Franchisees provide capital for clinics and bear local operating risk, allowing the company to expand without matching capital expenditure. However, franchisees are semi-independent operators, and the company's ability to maintain consistent standards, protect its brand, and capture profits depends on contractual terms and ongoing oversight. In markets with varying regulatory environments and consumer protection standards, this decentralisation also creates exposure to reputational risk if a franchisee operates below acceptable standards or fails to properly advise patients.
+The franchise approach has trade-offs. Franchisees provide capital for clinics and bear local operating risk, allowing the company to expand without matching capital expenditure. However, franchisees are semi-independent operators, and the company's ability to maintain consistent standards, protect its brand, and capture profits depends on contractual terms and ongoing oversight. In markets with varying regulatory environments and consumer protection standards, this decentralisation also creates exposure to [reputational risk](/reputational-risk/) if a franchisee operates below acceptable standards or fails to properly advise patients.
 
 ## Services, pricing, and patient economics
 

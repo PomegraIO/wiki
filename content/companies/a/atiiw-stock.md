@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-[Archimedes Tech SPAC Partners II](/atii-stock/) Co., trading under the tickers ATIIW (warrant), ATII (common unit), and ATIIR (right), is a blank-check [acquisition](/acquisition/) company — a shell incorporated to hunt for and acquire an operating business. The ATIIW ticker represents a warrant: a derivative contract that gives its holder the right, but not the obligation, to purchase one share of the underlying SPAC's [common stock](/common-stock/) at a fixed [strike price](/strike-price/), typically set at $11.50, for a set period of years. Warrants exist at the intersection of opportunity and leverage: they cost far less than owning the shares outright, yet amplify both gains and losses on the underlying company's stock price.
+[Archimedes Tech SPAC Partners II](/atii-stock/) Co., trading under the tickers ATIIW (warrant), ATII (common unit), and ATIIR (right), is a blank-check [acquisition](/acquisition/) company — a shell incorporated to hunt for and acquire an operating business. The ATIIW ticker represents a warrant: a [derivative contract](/derivative-contract/) that gives its holder the right, but not the obligation, to purchase one share of the underlying SPAC's [common stock](/common-stock/) at a fixed [strike price](/strike-price/), typically set at $11.50, for a set period of years. Warrants exist at the intersection of opportunity and leverage: they cost far less than owning the shares outright, yet amplify both gains and losses on the underlying company's stock price.
 
 <aside class="wiki-infobox">
 <table>

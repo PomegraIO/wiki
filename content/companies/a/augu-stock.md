@@ -13,11 +13,11 @@ handwritten: true
 
 ## What makes AUGU different from other buffer funds?
 
-Most buffer ETFs trade upside for downside protection. You get a loss ceiling but also a gain ceiling. AUGU, the AllianzIM U.S. Equity Buffer15 Uncapped Aug ETF, keeps the loss ceiling (15% annual losses are capped) but removes the gain ceiling. You can make as much as the market delivers. This sounds like having it both ways, and in theory it is — but as with all financial tricks, there is a cost, and understanding that cost is essential.
+Most [buffer ETFs](/buffer-etf/) trade upside for downside protection. You get a loss ceiling but also a gain ceiling. AUGU, the AllianzIM U.S. Equity Buffer15 Uncapped Aug ETF, keeps the loss ceiling (15% annual losses are capped) but removes the gain ceiling. You can make as much as the market delivers. This sounds like having it both ways, and in theory it is — but as with all financial tricks, there is a cost, and understanding that cost is essential.
 
 ## How is uncapped upside possible?
 
-The options math works like this: a standard buffer fund buys puts (for downside insurance) and sells calls (to cap gains) to pay for the puts. AUGU instead sells puts to pay for the puts it is buying. This sounds circular, but it works because the puts it sells are out of the money — far below where the market currently sits. If the market never reaches that level, AUGU pockets the premium from selling those puts and uses it to pay for the puts that protect you.
+The options math works like this: a standard [buffer fund](/buffer-fund/) buys puts (for downside insurance) and sells calls (to cap gains) to pay for the puts. AUGU instead sells puts to pay for the puts it is buying. This sounds circular, but it works because the puts it sells are out of the money — far below where the market currently sits. If the market never reaches that level, AUGU pockets the premium from selling those puts and uses it to pay for the puts that protect you.
 
 The risk: if the market falls so sharply that it breaches the strike where AUGU sold puts, the fund absorbs losses beyond the 15% buffer. For example, if AUGU promises 15% protection but the market falls 40%, the extra 25% beyond the buffer falls on the put it sold, and the fund's losses are unprotected beyond a certain point. This is why the fund is called "uncapped" — it refers to gains, but the structure introduces a hidden loss risk in a severe crash.
 

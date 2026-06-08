@@ -18,7 +18,7 @@ keywords: ["SPAC", "blank-check-company", "special-purpose-acquisition-company",
 
 HCIC raised capital with an explicit contract to find and execute a merger within a finite window. If no merger closes, the trust account is distributed back to public shareholders (minus trust expenses), and the company is dissolved. This creates an existential pressure: the clock is always ticking, and the sponsor's business only succeeds if a deal closes before the deadline.
 
-This economic reality distorts decision-making. When a SPAC approaches its deadline with no signed letter of intent, sponsors become vulnerable to poor negotiating positions. Targets know the sponsor is desperate and can demand better terms. Conversely, the sponsor may lower valuation standards or accept riskier targets simply to close something before the deadline arrives. The economic incentive to complete *any* deal trumps the incentive to complete a *good* deal.
+This economic reality distorts decision-making. When a SPAC approaches its deadline with no signed [letter of intent](/letter-of-intent-ma/), sponsors become vulnerable to poor negotiating positions. Targets know the sponsor is desperate and can demand better terms. Conversely, the sponsor may lower valuation standards or accept riskier targets simply to close something before the deadline arrives. The economic incentive to complete *any* deal trumps the incentive to complete a *good* deal.
 
 For shareholders, this means that the closer a SPAC approaches its deadline without a deal, the greater the risk that any announcement will represent a weaker transaction than would have been negotiated earlier in the window.
 
@@ -48,7 +48,7 @@ Warrant dilution is immediate and visible. A post-merger company with a fully di
 
 ## Management Retention and Execution Risk
 
-A private company acquired by a SPAC must quickly integrate with a public company structure. The target's management team must navigate SEC compliance, investor relations, and public-market expectations. If the target's team is inexperienced in public-company operations or if key executives leave post-close (due to earnout cliffs, culture clash, or burnout), execution risk rises materially.
+A private company acquired by a SPAC must quickly integrate with a public company structure. The target's management team must navigate SEC compliance, investor relations, and public-market expectations. If the target's team is inexperienced in public-company operations or if key executives leave post-close (due to earnout cliffs, culture clash, or burnout), [execution risk](/execution-risk/) rises materially.
 
 The SPAC sponsor is not an operational partner with deep expertise in the target's industry; it is a capital provider and financial operator. Once the merger closes, the sponsor typically recedes into a board role while the target's management runs the business. If that management team is weak or demoralized, the company will underperform.
 
@@ -68,7 +68,7 @@ Hennessy Capital Advisors sponsors multiple SPACs and manages funds for investor
 
 ## Litigation and Regulatory Risk
 
-SPAC IPOs and mergers have faced increased SEC scrutiny and shareholder litigation in recent years. Sponsors must ensure projections are substantiated and disclosures are accurate, or face claims of misstatement. Even if ultimately meritless, litigation diverts management attention and can settle for material amounts. HCIC sponsors may face claims if the eventual merger generates disappointing results.
+[SPAC IPOs](/spac-ipo/) and mergers have faced increased SEC scrutiny and shareholder litigation in recent years. Sponsors must ensure projections are substantiated and disclosures are accurate, or face claims of misstatement. Even if ultimately meritless, litigation diverts management attention and can settle for material amounts. HCIC sponsors may face claims if the eventual merger generates disappointing results.
 
 ## Path Forward and Irreducible Uncertainty
 

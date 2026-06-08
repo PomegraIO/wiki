@@ -54,7 +54,7 @@ The most obvious risk is the upside cap. In a Tesla bull run, TSYY lags a simple
 
 A second risk is volatility collapse. Premiums evaporate when option markets realise fear has eased. A sharp drop in implied volatility means distributions fall sharply. The fund has no mechanism to hedge this; it is the inherent cost of selling options when their perceived worth shrinks.
 
-A third risk, less commonly discussed but real, is gap risk. If Tesla gaps sharply higher at the open (after earnings surprise, [acquisition](/acquisition/) news, or regulatory relief), the underlying call may become deeply in-the-money before the fund can react. The fund is forced to let shares be called away at the preset strike, crystallising a capped gain and potentially suffering opportunity loss if the gap persists.
+A third risk, less commonly discussed but real, is [gap risk](/gap-risk/). If Tesla gaps sharply higher at the open (after earnings surprise, [acquisition](/acquisition/) news, or regulatory relief), the underlying call may become deeply in-the-money before the fund can react. The fund is forced to let shares be called away at the preset strike, crystallising a capped gain and potentially suffering opportunity loss if the gap persists.
 
 ## The strike-setting rule and what makes TSYY different from direct call selling
 

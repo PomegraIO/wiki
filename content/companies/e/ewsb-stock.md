@@ -51,7 +51,7 @@ When EWSB took steps to go public (via a [stock offering](/initial-public-offeri
 
 ## Loan Portfolio Composition and Credit Risk
 
-EWSB's assets are primarily loans to borrowers—commercial loans to small businesses, mortgages to individuals, and perhaps other categories. The composition of this portfolio shapes the bank's profitability and risk. Commercial loans carry higher yields (lenders can charge more for higher risk) but higher loss rates if borrowers fail. Mortgages carry lower yields but lower loss rates. Construction loans are high-yield but risky; agricultural loans might be tied to commodity prices.
+EWSB's assets are primarily loans to borrowers—commercial loans to small businesses, mortgages to individuals, and perhaps other categories. The composition of this portfolio shapes the bank's profitability and risk. Commercial loans carry higher yields (lenders can charge more for higher risk) but higher loss rates if borrowers fail. Mortgages carry lower yields but lower loss rates. [Construction loans](/construction-loan/) are high-yield but risky; agricultural loans might be tied to commodity prices.
 
 From a capital structure perspective, riskier loan portfolios require higher capital ratios to absorb losses. If EWSB builds a portfolio of risky construction loans, regulators will demand higher capital. This reduces the bank's leverage and growth capacity. A safer portfolio of mortgages might allow the bank to operate with lower capital ratios and higher leverage.
 

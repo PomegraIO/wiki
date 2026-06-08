@@ -55,6 +55,6 @@ Investors tracking Verrica should monitor the quarterly revenue reports for YCAN
 
 The clinical pipeline is equally important. The Phase 3 data from the common warts trial and the Phase 3 initiation of VP-315 are key value drivers. Positive data in these programs could significantly expand the addressable market; negative or neutral data would force a reassessment of the pipeline strategy.
 
-The annual 10-K filing (SEC CIK 0001660334) provides a detailed view of the business, including revenue breakdown, the composition of deferred revenue from forward orders, and the expense structure. Investors should review the risk factors section carefully, as dermatology is a competitive field and regulatory hurdles can slow approval timelines.
+The annual 10-K filing (SEC CIK 0001660334) provides a detailed view of the business, including revenue breakdown, the composition of [deferred revenue](/deferred-revenue/) from forward orders, and the expense structure. Investors should review the risk factors section carefully, as dermatology is a competitive field and regulatory hurdles can slow approval timelines.
 
 The fundamental thesis turns on three elements: sustaining and growing YCANTH revenue in molluscum, successfully advancing the common warts indication, and maintaining capital efficiency so the company reaches clinical and commercial milestones without dilutive financing.

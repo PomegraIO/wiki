@@ -31,7 +31,7 @@ Beyond deposits and loans, Huntington runs a wealth-management arm that invests 
 
 ## The money flows in a simple loop
 
-On the funding side, Huntington takes deposits from customers—checking accounts, savings accounts, money-market accounts. The bank pays depositors a small amount of interest (historically very small; deposit rates have risen in recent years). On the lending side, the bank makes loans to people and businesses: mortgages for home purchases, auto loans, lines of credit for small businesses, construction loans for [commercial real estate](/commercial-real-estate/), and larger credit facilities for mid-size companies.
+On the funding side, Huntington takes deposits from customers—checking accounts, savings accounts, money-market accounts. The bank pays depositors a small amount of interest (historically very small; deposit rates have risen in recent years). On the lending side, the bank makes loans to people and businesses: mortgages for home purchases, auto loans, lines of credit for small businesses, [construction loans](/construction-loan/) for [commercial real estate](/commercial-real-estate/), and larger credit facilities for mid-size companies.
 
 The profit comes from the gap. If a bank collects deposits at an average rate of 0.5% and lends that money out at 5%, the difference (minus operating costs) is profit. That gap is the net interest margin. When [interest rates](/interest-rate/) are low and flat, the margin is thin. When the [central bank](/central-bank/) raises rates or when rates are high and volatile, there is more opportunity to widen the margin.
 

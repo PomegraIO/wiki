@@ -36,7 +36,7 @@ The leverage is daily: each day the ETN resets its position to maintain a 3x inv
 
 Bank of Montreal, one of North America's largest banks, issues and manages FLYD alongside its paired bull product, FLYU (the 3x long version). The bank uses the proceeds from selling these notes to construct hedges or derivative positions that replicate the daily performance target. Investors do not own any travel stocks directly; they own a contractual claim on Bank of Montreal, backed by the bank's general credit, to deliver that daily return pattern. If Bank of Montreal fails, FLYD becomes a unsecured claim on the bank's bankruptcy estate.
 
-The index itself is maintained by MerQube, a index provider, and rebalances quarterly. It excludes micro-cap stocks and focuses on liquid, large-cap travel operators, which keeps the underlying liquid and tradeable even in a market downturn.
+The index itself is maintained by MerQube, a [index provider](/index-provider/), and rebalances quarterly. It excludes micro-cap stocks and focuses on liquid, large-cap travel operators, which keeps the underlying liquid and tradeable even in a market downturn.
 
 ## Why this structure exists
 
@@ -54,6 +54,6 @@ The counterparty concentration is stark: if you own FLYD, you have a debt claim 
 
 ## What a prospective buyer should know
 
-FLYD is a trading vehicle, not an investment. It is stamped with expiration risk—ETNs can be called by the issuer if the notional value falls too far—and the daily reset mechanic makes it unsuitable for buy-and-hold strategies. Traders use it to express a short-term bearish view on travel without shorting individual stocks or managing options positions.
+FLYD is a trading vehicle, not an investment. It is stamped with expiration risk—ETNs can be called by the issuer if the [notional value](/notional-value/) falls too far—and the daily reset mechanic makes it unsuitable for buy-and-hold strategies. Traders use it to express a short-term bearish view on travel without shorting individual stocks or managing options positions.
 
 Anyone considering FLYD should understand that the underlying travel index includes global airline operators, major hotel chains, and cruise companies, all sensitive to fuel costs, labor pricing, and consumer discretion. A [recession](/recession/) typically strengthens the product; a consumer boom weakens it. But the daily reset means that even in a downtrend, sideways consolidation erodes returns. Check the product's prospectus for the exact list of constituents and the index methodology, and understand that the 3x leverage moves both ways—a sharp market rally in travel stocks will drive FLYD down faster than a simple -1x inverse would.

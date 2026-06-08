@@ -47,7 +47,7 @@ What happens after the merger is the true test: does the acquired company succee
 
 ## The merger process and due diligence
 
-Before the merger closes, the SPAC's team conducts due diligence on the target company — investigating its finances, operations, liabilities, and competitive position. The SPAC also files a proxy statement (a detailed disclosure) to shareholders describing the target company, the transaction terms, and historical and pro-forma financials. Shareholders use this disclosure to decide whether to approve the merger or redeem their shares. Regulators, particularly the SEC, have increased scrutiny of SPAC proxy statements to ensure the disclosures are complete and accurate.
+Before the merger closes, the SPAC's team conducts [due diligence](/due-diligence/) on the target company — investigating its finances, operations, liabilities, and competitive position. The SPAC also files a [proxy statement](/proxy-statement/) (a detailed disclosure) to shareholders describing the target company, the transaction terms, and historical and pro-forma financials. Shareholders use this disclosure to decide whether to approve the merger or redeem their shares. Regulators, particularly the SEC, have increased scrutiny of SPAC proxy statements to ensure the disclosures are complete and accurate.
 
 ## How to evaluate a SPAC
 

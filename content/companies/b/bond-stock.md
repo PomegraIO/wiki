@@ -32,7 +32,7 @@ The holdings are diverse enough that concentration is not a major risk: the fund
 
 PIMCO Bond charges an annual [expense ratio](/expense-ratio/) of roughly 0.55%, a middle ground between the 0.03-0.10% fees of passive index bond ETFs and the 0.70-1.00% fees of traditional actively managed bond [mutual funds](/mutual-fund/). The ETF wrapper itself is a cost advantage over a mutual fund structure: the fund trades at prices set by the market during the day and can be redeemed in kind with underlying securities, mechanics that allow PIMCO to manage the fund with minimal cash drag and capital-gains distributions. For taxable accounts, this efficiency matters; most of PIMCO Bond's appreciation can be tax-deferred until sale.
 
-The fund trades on NYSE Arca with modest to healthy liquidity; spreads are typically a few basis points, and the average daily volume supports positions of most individual and institutional size without slippage.
+The fund trades on [NYSE Arca](/nyse-arca/) with modest to healthy liquidity; spreads are typically a few basis points, and the average daily volume supports positions of most individual and institutional size without slippage.
 
 ## How active management adds value — and where it doesn't
 

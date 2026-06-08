@@ -41,7 +41,7 @@ What makes apartment ownership valuable is that it creates real estate assets th
 
 ## A REIT, not a regular company
 
-Equity Residential is structured as a REIT, a [real estate investment trust](/real-estate-investment-trust/). That is a special type of company designed by tax law to own and operate real estate. The deal with REITs is simple: if a company owns real estate and pays out most of its taxable income to shareholders as [dividends](/dividend/), then the company itself does not pay income tax. Only the shareholders do. This structure makes real estate ownership attractive to investors who want regular income without double taxation.
+Equity Residential is structured as a REIT, a [real estate investment trust](/real-estate-investment-trust/). That is a special type of company designed by tax law to own and operate real estate. The deal with REITs is simple: if a company owns real estate and pays out most of its taxable income to shareholders as [dividends](/dividend/), then the company itself does not pay income tax. Only the shareholders do. This structure makes real estate ownership attractive to investors who want regular income without [double taxation](/double-taxation/).
 
 Because Equity Residential is a REIT, its shareholders expect a strong dividend. That means the company does not reinvest all its cash into building an empire. Instead it sends a meaningful slice back to investors every quarter. That makes the stock appealing to people who want steady payouts, like retirees. It also means growth is slower than it might be if the company could keep and reinvest all profits. That is the tradeoff: REITs offer better immediate income at the cost of slower capital growth.
 

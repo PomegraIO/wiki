@@ -55,7 +55,7 @@ Hub is a relatively young public company. It went public through a [merger](/mer
 
 One stress is the long sales cycle inherent in security infrastructure software. You cannot upgrade your data protection architecture every quarter; security decisions are made carefully and last for years. This means Hub's revenue is lumpy — a big contract win can be followed by a long period of slower new business. The company also needs to invest heavily in research and development to stay ahead of emerging threats and to support the rapid evolution of hardware security features.
 
-Another challenge is execution risk. Confidential computing is a technically complex field, and implementation problems or security flaws in Hub's code could damage customer trust irreparably. The company has to maintain world-class engineering to survive in this space.
+Another challenge is [execution risk](/execution-risk/). Confidential computing is a technically complex field, and implementation problems or security flaws in Hub's code could damage customer trust irreparably. The company has to maintain world-class engineering to survive in this space.
 
 ## How to research Hub Cyber Security
 

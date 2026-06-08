@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Direxion Daily AMD Bear 1X ETF** (ticker AMDD) is an exchange-traded fund that moves in the opposite direction of [Advanced Micro Devices](/amd-stock/) stock on a day-to-day basis. For every 1% that AMD shares fall, AMDD typically gains 1%; when AMD rises, AMDD declines by approximately the same amount. It is a tool for traders and hedgers with short time horizons, not a vehicle for buy-and-hold investing.*
+*The **Direxion Daily AMD Bear 1X ETF** (ticker AMDD) is an exchange-traded fund that moves in the opposite direction of [Advanced Micro Devices](/amd-stock/) stock on a day-to-day basis. For every 1% that AMD shares fall, AMDD typically gains 1%; when AMD rises, AMDD declines by approximately the same amount. It is a tool for traders and hedgers with short time horizons, not a vehicle for [buy-and-hold investing](/buy-and-hold/).*
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ Retail investors sometimes buy inverse ETFs believing them to be straightforward
 
 ## Trading, liquidity, and costs
 
-AMDD trades on NYSE Arca, and its liquidity is typically modest compared to funds tracking broad indices or major sector ETFs. [Bid-ask spreads](/bid-ask-spread/) can be wider, making entry and exit more costly for smaller trades. The expense ratio of approximately 0.95% annually is relatively high, reflecting the cost of the swap and futures positions underlying the fund. For a trader holding the fund intraday or for a few days, these expenses may be negligible relative to the intended profit; for someone inadvertently holding it for weeks, they become material.
+AMDD trades on [NYSE Arca](/nyse-arca/), and its liquidity is typically modest compared to funds tracking broad indices or major sector ETFs. [Bid-ask spreads](/bid-ask-spread/) can be wider, making entry and exit more costly for smaller trades. The expense ratio of approximately 0.95% annually is relatively high, reflecting the cost of the swap and futures positions underlying the fund. For a trader holding the fund intraday or for a few days, these expenses may be negligible relative to the intended profit; for someone inadvertently holding it for weeks, they become material.
 
 The fund itself does not charge transaction costs for intraday trading; it trades like any listed security. But the underlying instruments — the swaps and futures that create the inverse exposure — carry embedded costs that are reflected in the fund's expense ratio.
 

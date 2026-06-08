@@ -33,7 +33,7 @@ Unlike equity funds, which hold shares directly, BCI does not hold physical comm
 
 ## The K-1 tax structure
 
-Many [commodity index funds](/commodity-index-fund/) have historically reported using K-1 forms (Schedule K-1 of Partnership Return of Income), which are complex tax documents that require recipients to report their share of partnership income, gains, losses, and credits across many line items. This imposes a significant administrative and tax-planning burden on individual investors and their accountants. The "K-1 Free" designation in BCI's name signals that it uses a different structure — typically a grantor trust — that reports instead on 1099 forms, simplifying tax filing for most individual investors. This structural choice has made the fund attractive to taxable investors who might otherwise face complications from K-1 reporting.
+Many [commodity index funds](/commodity-index-fund/) have historically reported using K-1 forms ([Schedule K-1](/schedule-k-1/) of Partnership Return of Income), which are complex tax documents that require recipients to report their share of partnership income, gains, losses, and credits across many line items. This imposes a significant administrative and tax-planning burden on individual investors and their accountants. The "K-1 Free" designation in BCI's name signals that it uses a different structure — typically a grantor trust — that reports instead on 1099 forms, simplifying tax filing for most individual investors. This structural choice has made the fund attractive to taxable investors who might otherwise face complications from K-1 reporting.
 
 ## Commodity exposure as an asset class
 

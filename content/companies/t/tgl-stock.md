@@ -56,6 +56,6 @@ Regulatory risk is also present. Payment processing is highly regulated everywhe
 
 ## How to research Treasure Global
 
-The company's 10-K filing (SEC CIK 0001905956) is the main document, and it breaks down revenue by geography and payment method. Pay attention to the mix between domestic and cross-border transactions, since those dynamics affect the company's positioning. Watch the trend in merchant counts and transaction volumes over time — these are leading indicators of revenue growth. Monitor also for any regulatory announcements or changes in the markets where the company operates most heavily, since small-cap companies in fintech are often more sensitive to regulatory shifts than large incumbents are.
+The company's 10-K filing (SEC CIK 0001905956) is the main document, and it breaks down revenue by geography and payment method. Pay attention to the mix between domestic and cross-border transactions, since those dynamics affect the company's positioning. Watch the trend in merchant counts and transaction volumes over time — these are [leading indicators](/leading-indicator/) of revenue growth. Monitor also for any regulatory announcements or changes in the markets where the company operates most heavily, since small-cap companies in fintech are often more sensitive to regulatory shifts than large incumbents are.
 
 The broader question for Treasure Global is whether it can sustain its growth as Southeast Asian e-commerce matures and as larger platforms compete more aggressively for the same merchants and customers.

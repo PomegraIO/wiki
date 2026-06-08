@@ -27,7 +27,7 @@ In the United States and Europe, comparable disruptors like Zillow and Rightmove
 
 ### Where does Ohmyhome make money?
 
-The company's revenue model has multiple legs. Transaction fees are the primary source: when a deal closes through the platform, Ohmyhome takes a percentage. Mortgage origination is a second stream—the company earns referral fees or origination spreads when it connects buyers with lenders. There are also ancillary services: title insurance, property appraisals, inspections, and furnishing or home-improvement services that buyers might use. These services have higher margins than the core transaction if Ohmyhome can own the relationship with the customer.
+The company's revenue model has multiple legs. Transaction fees are the primary source: when a deal closes through the platform, Ohmyhome takes a percentage. Mortgage origination is a second stream—the company earns referral fees or origination spreads when it connects buyers with lenders. There are also ancillary services: [title insurance](/title-insurance/), property appraisals, inspections, and furnishing or home-improvement services that buyers might use. These services have higher margins than the core transaction if Ohmyhome can own the relationship with the customer.
 
 The challenge is that real-estate transactions, unlike many consumer goods, are not high-frequency. A household might buy a home once a decade; a property might sell every five to ten years. This means Ohmyhome cannot build a habit or recurring revenue stream from any single user. Instead, it must expand the addressable market by growing the number of transactions happening on its platform, and capturing a larger slice of the value created in each transaction.
 

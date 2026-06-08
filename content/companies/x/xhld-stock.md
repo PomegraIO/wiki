@@ -30,7 +30,7 @@ TEN Holdings began as The Events Network, Inc. in 2011, a technology company aim
 
 ## Public markets and recent history
 
-In June 2024, the company rebranded to TEN Holdings, Inc. and went public through a SPAC [merger](/merger/), obtaining its NASDAQ listing. The shift to public markets brought new scrutiny and reporting requirements, along with the cost of operating as a SEC registrant. The company's first public filings revealed a business significantly smaller than many would have expected for a publicly traded firm: approximately three million dollars in annual revenue as of the 2024 fiscal year. The concentration of that revenue, with a single customer accounting for roughly two-thirds of total sales, highlighted the precarious nature of the business model. One client leaving or reducing orders would translate directly into a severe revenue drop.
+In June 2024, the company rebranded to TEN Holdings, Inc. and went public through a SPAC [merger](/merger/), obtaining its NASDAQ listing. The shift to public markets brought new scrutiny and reporting requirements, along with the cost of operating as a SEC registrant. The company's first public filings revealed a business significantly smaller than many would have expected for a publicly traded firm: approximately three million dollars in annual revenue as of the 2024 [fiscal year](/fiscal-year-definition/). The concentration of that revenue, with a single customer accounting for roughly two-thirds of total sales, highlighted the precarious nature of the business model. One client leaving or reducing orders would translate directly into a severe revenue drop.
 
 ## Business operations and client base
 

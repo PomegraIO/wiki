@@ -44,7 +44,7 @@ The company also operates more like a private-equity shop than a bank: it buys o
 
 ## How does Mount Logan make money when interest rates and credit spreads move?
 
-The company's economics are sensitive to credit conditions. When the economy is strong and investors are hungry for yield, spreads on private credit tighten (returns compress) but deal flow increases and [default rates](/default-rate/) are low. When the economy weakens, spreads widen (returns expand) but defaults rise and the value of the portfolio may suffer. Mount Logan's returns thus depend on where we are in the credit cycle and how well management times its exposure.
+The company's economics are sensitive to credit conditions. When the economy is strong and investors are hungry for yield, spreads on private credit tighten (returns compress) but deal flow increases and [default rates](/default-rate/) are low. When the economy weakens, spreads widen (returns expand) but defaults rise and the value of the portfolio may suffer. Mount Logan's returns thus depend on where we are in the [credit cycle](/credit-cycle/) and how well management times its exposure.
 
 Rising [interest rates](/interest-rate/) affect the company in several ways: they increase the cost of financing the company's own balance-sheet operations, they can compress the value of longer-duration loans already in the portfolio, but they also tend to widen [credit spreads](/credit-spread/), making new deals more attractive. The net effect depends on the specific composition of the portfolio and the maturity profile of the company's own funding sources.
 

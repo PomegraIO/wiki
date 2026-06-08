@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Old Republic International is a diversified insurance company that sells liability, workers' compensation, and commercial property coverage primarily to small and mid-sized businesses. It is neither the largest nor the most glamorous insurer in the United States, but it has survived and grown for more than a century by underwriting carefully, managing claims rigorously, and staying disciplined during the inevitable hard market cycles that sweep the insurance industry. That durability—profitable underwriting in an industry prone to boom-and-bust pricing—is the story of the business.
+Old Republic International is a diversified insurance company that sells liability, workers' compensation, and commercial property coverage primarily to small and mid-sized businesses. It is neither the largest nor the most glamorous insurer in the United States, but it has survived and grown for more than a century by underwriting carefully, managing claims rigorously, and staying disciplined during the inevitable hard [market cycles](/market-cycle/) that sweep the insurance industry. That durability—profitable underwriting in an industry prone to boom-and-bust pricing—is the story of the business.
 
 <aside class="wiki-infobox">
 <table>

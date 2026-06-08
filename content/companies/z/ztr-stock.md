@@ -45,7 +45,7 @@ The source of distributions matters to tax-conscious investors: ordinary income 
 
 ## Competition and active-management justification
 
-The closed-end balanced-fund category includes many competitors, from Nuveen and Eaton Vance to other Virtus offerings and funds from other large fund managers. ZTR's value proposition rests on Virtus's reputation for active management, the fund's specific track record of returns relative to comparable funds, and the distribution policy that appeals to income-oriented investors. Because these are [actively managed funds](/actively-managed-fund/), performance varies depending on the skill of the portfolio manager and the decisions made. Investors comparing ZTR to competitors or to a passive balanced [index fund](/index-fund/) should examine total returns (including distributions), volatility, and how well the fund has navigated different market cycles.
+The closed-end balanced-fund category includes many competitors, from Nuveen and Eaton Vance to other Virtus offerings and funds from other large fund managers. ZTR's value proposition rests on Virtus's reputation for active management, the fund's specific track record of returns relative to comparable funds, and the distribution policy that appeals to income-oriented investors. Because these are [actively managed funds](/actively-managed-fund/), performance varies depending on the skill of the portfolio manager and the decisions made. Investors comparing ZTR to competitors or to a passive balanced [index fund](/index-fund/) should examine total returns (including distributions), volatility, and how well the fund has navigated different [market cycles](/market-cycle/).
 
 ## Key metrics for evaluating ZTR
 

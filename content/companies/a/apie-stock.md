@@ -37,7 +37,7 @@ The fund's ability to justify that fee depends entirely on whether the active ma
 
 ## Risks and headwinds
 
-APIE carries the volatility of international equities, which can differ significantly from U.S. equity movements. Developed-market economies face different growth, [inflation](/inflation/), and interest-rate environments than the United States. Political risk — elections, policy shifts, geopolitical tensions — varies by country. Currency movements can amplify or dampen returns for U.S. investors. The active manager, despite skill, may underperform for years; that is the nature of active management.
+APIE carries the volatility of international equities, which can differ significantly from U.S. equity movements. Developed-market economies face different growth, [inflation](/inflation/), and interest-rate environments than the United States. [Political risk](/political-risk/) — elections, policy shifts, geopolitical tensions — varies by country. Currency movements can amplify or dampen returns for U.S. investors. The active manager, despite skill, may underperform for years; that is the nature of active management.
 
 Concentration is another consideration: if the active manager builds a large position in a specific country or a specific stock, the fund's returns become dependent on those bets. If the manager is wrong, losses can exceed what a pure index fund would have suffered.
 

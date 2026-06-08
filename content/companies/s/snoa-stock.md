@@ -43,7 +43,7 @@ The company has not aimed to be a blockbuster-drug maker. Instead, it focuses on
 
 ## Growth challenges and location dependence
 
-Sonoma's international expansion is hampered by the complexity of healthcare regulations across countries. A product approved for wound care in the United States may need separate clinical data or regulatory filings in Europe or Japan. Language, reimbursement, and local-preference differences also slow expansion. The company's reliance on manufacturing in Mexico introduces supply-chain exposure to tariffs, labor costs, and political risk — advantages that exist now may shrink if Mexican labor or logistics costs rise, or if U.S. tariff policy shifts.
+Sonoma's international expansion is hampered by the complexity of healthcare regulations across countries. A product approved for wound care in the United States may need separate clinical data or regulatory filings in Europe or Japan. Language, reimbursement, and local-preference differences also slow expansion. The company's reliance on manufacturing in Mexico introduces supply-chain exposure to tariffs, labor costs, and [political risk](/political-risk/) — advantages that exist now may shrink if Mexican labor or logistics costs rise, or if U.S. tariff policy shifts.
 
 Domestic growth in the U.S. wound-care market is modest — the market has mature competitors and limited underlying demand growth. Sonoma must expand into new therapeutic areas (which requires new clinical data) or into new geographies (which requires complex regulatory navigation and distributor relationships).
 

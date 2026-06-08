@@ -41,7 +41,7 @@ This recurring revenue stream reflects a common pattern in industrial equipment 
 
 ## Integration and Market Consolidation
 
-CECO operates in a fragmented market where regional players, specialty firms, and larger industrial conglomerates all compete. The company has pursued [acquisitions](/acquisition/) to broaden its technology portfolio and geographic footprint. When CECO acquires a smaller regional treatment-equipment maker, it typically retains the technology and customer base while consolidating operations, reducing overhead, and cross-selling its own products to the acquired firm's customers.
+CECO operates in a [fragmented market](/fragmented-market/) where regional players, specialty firms, and larger industrial conglomerates all compete. The company has pursued [acquisitions](/acquisition/) to broaden its technology portfolio and geographic footprint. When CECO acquires a smaller regional treatment-equipment maker, it typically retains the technology and customer base while consolidating operations, reducing overhead, and cross-selling its own products to the acquired firm's customers.
 
 This consolidation strategy reflects CECO's position in the value chain: it sits between standardized commodity suppliers and highly fragmented end customers, so there are economies in rolling up small, dispersed competitors into a larger platform. The company can then compete on scale, engineering breadth, and geographic reach in a way smaller players cannot.
 

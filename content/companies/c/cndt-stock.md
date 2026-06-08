@@ -48,7 +48,7 @@ These dynamics live in the management commentary and the operating expense break
 
 Conduent typically operates with moderate [free-cash-flow](/free-cash-flow/) generation. As you review:
 
-- **Operating cash flow vs. net income**: If earnings are rising but cash flow is flat or falling, something's off—maybe working capital tied up in customer receivables, or deferred revenue being earned more slowly than booked. The [cash flow statement](/cash-flow-statement/) (Form 10-K part II) will show this.
+- **Operating cash flow vs. net income**: If earnings are rising but cash flow is flat or falling, something's off—maybe working capital tied up in customer receivables, or [deferred revenue](/deferred-revenue/) being earned more slowly than booked. The [cash flow statement](/cash-flow-statement/) (Form 10-K part II) will show this.
 - **Debt structure**: BPO firms often carry meaningful debt to fund operations and fund customer wins. What's the [leverage ratio](/leverage-ratio-forex/)? Are debt covenants constraining growth investments?
 - **[Dividend](/dividend/) and buyback**: Is the company returning cash to shareholders, or reinvesting in technology and integration?
 

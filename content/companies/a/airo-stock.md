@@ -27,9 +27,9 @@ The training segment provides steady revenue through contracts with the U.S. mil
 
 ## Position in the Sector
 
-AIRO's portfolio resembles a scaled-down aerospace conglomerate: neither a pure training contractor nor a dedicated airframe maker, but a hybrid holding company betting that pilot development, avionics integration, and next-generation aircraft design can reinforce one another. The company competes in fragmented markets—military training contracts sit alongside specialized avionics suppliers and a crowded field of eVTOL startups. Its advantage lies in owning both the customer relationship (training) and hardware pathways (avionics, aircraft) that could feed one another as military aviation modernizes.
+AIRO's portfolio resembles a scaled-down aerospace conglomerate: neither a pure training contractor nor a dedicated airframe maker, but a hybrid holding company betting that pilot development, avionics integration, and next-generation aircraft design can reinforce one another. The company competes in [fragmented markets](/fragmented-market/)—military training contracts sit alongside specialized avionics suppliers and a crowded field of eVTOL startups. Its advantage lies in owning both the customer relationship (training) and hardware pathways (avionics, aircraft) that could feed one another as military aviation modernizes.
 
-The eVTOL segment remains speculative; development timelines and certification requirements create execution risk common across the sector. Training revenue offers visibility and cash generation. Avionics and drones occupy the middle ground—established markets with persistent demand, but facing large-scale competition from traditional defense primes.
+The eVTOL segment remains speculative; development timelines and certification requirements create [execution risk](/execution-risk/) common across the sector. Training revenue offers visibility and cash generation. Avionics and drones occupy the middle ground—established markets with persistent demand, but facing large-scale competition from traditional defense primes.
 
 ## Research Path
 

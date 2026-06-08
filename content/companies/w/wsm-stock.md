@@ -66,4 +66,4 @@ The annual 10-K filing (SEC CIK 0000719955) breaks revenue and profitability by 
 
 Key metrics: gross margin by brand (RH carries higher margins but is smaller), comparable-store sales growth, e-commerce sales as a percentage of total, and the balance-sheet health, particularly inventory levels relative to sales (high inventory can signal weakening demand or mispricing). The company's ability to manage inventory well directly affects profitability, because home furnishings cannot be returned to suppliers easily and clearance sales damage margins.
 
-Investors also watch credit-card data and housing-market indicators — new home sales, renovation spending, mortgage rates — as leading indicators of customer demand for home furnishings and décor.
+Investors also watch credit-card data and housing-market indicators — new home sales, renovation spending, mortgage rates — as [leading indicators](/leading-indicator/) of customer demand for home furnishings and décor.

@@ -35,7 +35,7 @@ Elite's balance sheet shows R&D expense on the [income statement](/income-statem
 
 ## Inventory and Manufacturing Assets
 
-Unlike a large pharmaceutical manufacturer that owns factories, Elite Pharmaceuticals likely contracts manufacturing to specialized drug producers (contract manufacturers or CMOs). The balance sheet carries inventory of finished products and raw materials, but limited property, plant, and equipment.
+Unlike a large pharmaceutical manufacturer that owns factories, Elite Pharmaceuticals likely contracts manufacturing to specialized drug producers (contract manufacturers or CMOs). The balance sheet carries inventory of finished products and raw materials, but limited [property, plant, and equipment](/property-plant-equipment/).
 
 Specialty pharmaceutical inventory can be problematic. If a product is discontinued or fails to sell as expected, inventory becomes obsolete. Elite must write down the value, reducing reported earnings and equity. For older or unpopular products, inventory may be stated at a markdown to [fair value](/fair-value/) or fully reserved.
 
@@ -75,7 +75,7 @@ The FDA can require label changes, additional clinical trials, or product withdr
 
 ## Shareholder Equity and Dilution
 
-Elite's equity section shows the number of shares outstanding and accumulated [retained earnings](/retained-earnings/) or accumulated deficit. A company with cumulative losses and a thin equity cushion is vulnerable. Any adverse news—a failed clinical trial, lost customer, competitive price pressure—can wipe out book value per share.
+Elite's equity section shows the number of shares outstanding and accumulated [retained earnings](/retained-earnings/) or accumulated deficit. A company with cumulative losses and a thin [equity cushion](/equity-cushion/) is vulnerable. Any adverse news—a failed clinical trial, lost customer, competitive price pressure—can wipe out [book value per share](/book-value-per-share/).
 
 [Share dilution](/share-dilution/) is also relevant. If Elite has issued many stock options to employees and investors, future option exercises will dilute existing shareholders. The 10-K discloses diluted share count and the effect of in-the-money options.
 

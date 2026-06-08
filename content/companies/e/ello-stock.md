@@ -57,7 +57,7 @@ Regulatory and policy changes are equally material. Israeli subsidy regimens, gr
 
 ## Risks and Competitive Position
 
-Ellomay faces competition from larger international utilities, specialized renewable-energy developers, and institutional investors (pension funds, infrastructure funds) seeking renewable assets. Larger competitors have lower capital costs and can invest at scale; specialized developers may have superior technical expertise or project-development networks. Ellomay's advantage is its operational footprint in Israel and its established relationships with local utilities and regulators.
+Ellomay faces competition from larger international utilities, specialized renewable-energy developers, and institutional investors (pension funds, [infrastructure funds](/pe-infrastructure-fund/)) seeking renewable assets. Larger competitors have lower capital costs and can invest at scale; specialized developers may have superior technical expertise or project-development networks. Ellomay's advantage is its operational footprint in Israel and its established relationships with local utilities and regulators.
 
 The company also carries [counterparty risk](/counterparty-risk/) on PPAs: if an offtaker becomes insolvent, Ellomay's revenue evaporates. And, like all renewable-energy operators, it faces technological obsolescence risk—if solar efficiency or cost curves shift faster than expected, existing projects may become uncompetitive.
 

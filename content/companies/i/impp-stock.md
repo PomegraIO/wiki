@@ -4,7 +4,7 @@ description: "Marshall Islands-flagged ship owner operating a modest tanker flee
 keywords: ["shipping", "tanker", "maritime", "Marshall Islands", "capital-intensive", "commodity"]
 ---
 
-*Imperial Petroleum Inc./Marshall Islands is a **IMPP**-listed maritime shipping company that owns and operates a fleet of oil tankers engaged in the carriage of [crude oil](/crude-oil/) and refined petroleum products across global routes. It competes not through scale or technological advantage but through the disciplined management of a modest asset base in one of the most cyclical industries—where profitability swings on global energy demand, spot rates, and the availability of profitable trade routes.*
+*Imperial Petroleum Inc./Marshall Islands is a **IMPP**-listed maritime shipping company that owns and operates a fleet of oil tankers engaged in the carriage of [crude oil](/crude-oil/) and refined petroleum products across global routes. It competes not through scale or technological advantage but through the disciplined management of a modest asset base in one of the most cyclical industries—where profitability swings on global energy demand, [spot rates](/spot-rate/), and the availability of profitable trade routes.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IMPP</td></tr>

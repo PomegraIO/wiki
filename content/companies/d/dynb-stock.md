@@ -23,7 +23,7 @@ handwritten: true
 | High-Yield Bonds | Opportunistic; added when yields compensate for economic stability |
 | Securitized assets | Liquidity buffer; varies by market conditions |
 
-DYNB typically holds 50–150 individual [bonds](/bond/) or bond positions, concentrated in investment-grade credit with a smaller allocation to high-yield for yield pickup. The portfolio shifts — sometimes subtly, sometimes more visibly — as Hartford's views on economic outlook, credit quality, and [interest rates](/interest-rate/) evolve.
+DYNB typically holds 50–150 individual [bonds](/bond/) or bond positions, concentrated in investment-grade credit with a smaller allocation to high-yield for [yield pickup](/yield-pickup/). The portfolio shifts — sometimes subtly, sometimes more visibly — as Hartford's views on economic outlook, credit quality, and [interest rates](/interest-rate/) evolve.
 
 ## Costs and structure
 

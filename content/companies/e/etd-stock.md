@@ -59,7 +59,7 @@ The 10-K will disclose allowances for credit losses and default rates on finance
 
 ## Cyclicality and Demand Sensitivity
 
-Home furnishings spending is highly cyclical, tied to housing starts, consumer confidence, disposable income, and [interest rates](/interest-rate/). During economic expansions, new homebuyers furnish homes and existing homeowners upgrade; demand and margins are robust. During recessions, spending collapses and prices fall as retailers clear inventory. Ethan Allen's earnings are sensitive to the economic cycle: high earnings during booms, significant losses during severe downturns.
+Home furnishings spending is highly cyclical, tied to [housing starts](/housing-starts/), consumer confidence, disposable income, and [interest rates](/interest-rate/). During economic expansions, new homebuyers furnish homes and existing homeowners upgrade; demand and margins are robust. During recessions, spending collapses and prices fall as retailers clear inventory. Ethan Allen's earnings are sensitive to the economic cycle: high earnings during booms, significant losses during severe downturns.
 
 Unlike companies in essential industries (utilities, pharmaceuticals), furniture retailers cannot smooth earnings across cycles. The company must either run excess capacity (to absorb downturns) or manage flexibility via outsourcing and franchising. ETD's historical [earnings-per-share](/earnings-per-share/) volatility is substantially higher than the market average, reflecting this cyclical exposure.
 

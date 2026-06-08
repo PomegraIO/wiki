@@ -34,7 +34,7 @@ The economic appeal to investors is leverage: a small percentage move in the und
 
 GDEV warrants trade on over-the-counter exchanges, meaning lower volume, wider [bid-ask spreads](/bid-ask-spread/), and less regulatory scrutiny than exchange-listed securities. OTC trading suits micro-cap and speculative vehicles because listing requirements for major exchanges ([NASDAQ](/nasdaq/), NYSE) demand a minimum [market capitalization](/market-capitalization/), shareholder base, and disclosure depth that many warrant vehicles cannot meet.
 
-The typical trading pattern for a micro-cap warrant like GDEVW is spiky and low-volume. Days may pass with no trades at all, followed by sudden bursts of activity driven by options activity, rumors, or retail-trader interest. This volatility and illiquidity mean that position sizing matters critically; an investor holding a meaningful percentage of total daily volume may struggle to exit at or near the marked price.
+The typical trading pattern for a micro-cap warrant like GDEVW is spiky and low-volume. Days may pass with no trades at all, followed by sudden bursts of activity driven by options activity, rumors, or retail-trader interest. This volatility and illiquidity mean that [position sizing](/position-sizing/) matters critically; an investor holding a meaningful percentage of total daily volume may struggle to exit at or near the marked price.
 
 ## The post-SPAC warrant ecosystem
 

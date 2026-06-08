@@ -30,7 +30,7 @@ What complicates this landscape is that member states retain authority to set st
 
 Heineken's profitability is molded by excise taxes on alcohol, which are set nationally. A liter of beer attracts excise in the Netherlands, Germany, France, the UK, and every other market where Heineken brews or distributes. These taxes are not uniform: some countries apply an ad valorem tax (percentage of price), while others use a unit tax (per liter or per ABV degree). The UK's alcohol duty escalates with alcohol content; Germany's is flat. Changes to excise regimes—which happen often in response to health or fiscal policy shifts—directly affect the company's cost structure and pricing flexibility.
 
-Corporate tax implications also fracture across borders. Heineken operates brewing and distribution entities in multiple countries, each filing tax returns under that nation's rules. Transfer pricing—the price at which Heineken's Dutch holding company "sells" the Heineken brand and concentrate to its subsidiaries abroad—is scrutinized by tax authorities globally. The OECD's Base Erosion and Profit Shifting (BEPS) initiative, now implemented across the EU as the Pillar Two global minimum tax (15%), caps how much Heineken can reduce its global tax burden by shifting profits to low-tax jurisdictions. This regulatory floor constrains the company's optimization strategies.
+Corporate tax implications also fracture across borders. Heineken operates brewing and distribution entities in multiple countries, each filing tax returns under that nation's rules. [Transfer pricing](/transfer-pricing/)—the price at which Heineken's Dutch holding company "sells" the Heineken brand and concentrate to its subsidiaries abroad—is scrutinized by tax authorities globally. The OECD's Base Erosion and Profit Shifting (BEPS) initiative, now implemented across the EU as the Pillar Two global minimum tax (15%), caps how much Heineken can reduce its global tax burden by shifting profits to low-tax jurisdictions. This regulatory floor constrains the company's optimization strategies.
 
 ## Marketing and Advertising Constraints
 
@@ -48,6 +48,6 @@ Labor law also fragments. The Netherlands has strong worker protections and unio
 
 The non-voting equity structure reflects a regulatory choice: Dutch law permits it, and it serves the family's interest in preserving control while accessing public capital. For a HKHHF holder, this means accepting that major strategic decisions rest with voting shareholders (the Heineken family). However, Dutch minority protections—including [appraisal rights](/appraisal-rights/) and board representation rules—provide some guardrails. An HKHHF holder who believes the company has acted wrongfully has recourse through Dutch civil courts.
 
-The structure is also tax-efficient: by holding the economic interest in a non-voting share at the holding-company level, Heineken can achieve intra-group cash pooling and repatriation with lower withholding tax than direct dividend channels might impose.
+The structure is also tax-efficient: by holding the economic interest in a non-voting share at the holding-company level, Heineken can achieve intra-group cash pooling and repatriation with lower [withholding tax](/withholding-tax/) than direct dividend channels might impose.
 
 5 written: hkhc-stock, hkhhf-stock, hkit-stock, hkpd-stock, hleo-stock

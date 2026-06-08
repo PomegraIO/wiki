@@ -29,6 +29,6 @@ Shareholders in FutureCrest are betting on two things simultaneously: that the s
 
 ## What to watch
 
-The key moments come when the company announces its target. A sharp investor will read the merger agreement for the sponsor's carried interest (their fee percentage if returns exceed a threshold), the size of the deal relative to the trust account, and any dilution coming from new shares issued in the merger. Many SPAC [mergers](/merger/) fail not because the target is bad, but because the terms handed investors a raw deal before the business even had a chance to perform.
+The key moments come when the company announces its target. A sharp investor will read the merger agreement for the sponsor's [carried interest](/carried-interest-compensation/) (their fee percentage if returns exceed a threshold), the size of the deal relative to the trust account, and any dilution coming from new shares issued in the merger. Many SPAC [mergers](/merger/) fail not because the target is bad, but because the terms handed investors a raw deal before the business even had a chance to perform.
 
 Until that announcement, FutureCrest is essentially a savings account with skin in the game: the sponsor's reputation is the only asset, and the clock is ticking.

@@ -33,7 +33,7 @@ That positioning is defensible but not durable. Any large distributor (electrica
 
 ## What drives the business
 
-Solar installation volume is the key driver of P2 Solar's sales. When installers are busy — when housing starts are strong, when federal incentives like the Investment Tax Credit are generous, when electricity prices rise — they buy more panels. When installers are idle or conservative, inventory languishes.
+Solar installation volume is the key driver of P2 Solar's sales. When installers are busy — when [housing starts](/housing-starts/) are strong, when federal incentives like the Investment Tax Credit are generous, when electricity prices rise — they buy more panels. When installers are idle or conservative, inventory languishes.
 
 Federal policy, particularly the Investment Tax Credit (ITC), has been critical. The ITC reduced the cost of solar installation for homeowners and drove waves of installation growth. Tariffs on imported solar equipment also matter; higher tariffs push customers toward American-made or Mexican-made panels, potentially favoring P2 Solar if it has North American sources. Wholesale electricity prices also factor in; when grid power is cheap, fewer homeowners want to install solar.
 

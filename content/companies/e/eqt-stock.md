@@ -57,7 +57,7 @@ This volatility affects not only earnings but also capital allocation. When pric
 
 ## The energy transition and long-term headwinds
 
-EQT operates in a sector facing secular headwinds. Natural gas is cleaner than coal but dirtier than renewables, and global energy policy increasingly favors decarbonization. In the United States, natural gas remains a critical fuel for electricity generation (especially as a bridge fuel between coal and renewables) and for industrial heat, but demand growth is muted. Power-sector demand for gas remains resilient because utilities need fast-ramping peaking capacity for intermittent renewables, but the long-term trajectory is toward lower fossil-fuel consumption.
+EQT operates in a sector facing secular headwinds. Natural gas is cleaner than coal but dirtier than renewables, and global energy policy increasingly favors decarbonization. In the [United States, natural gas](/ung-stock/) remains a critical fuel for electricity generation (especially as a bridge fuel between coal and renewables) and for industrial heat, but demand growth is muted. Power-sector demand for gas remains resilient because utilities need fast-ramping peaking capacity for intermittent renewables, but the long-term trajectory is toward lower fossil-fuel consumption.
 
 Internationally, LNG (liquefied natural gas) exports represent a large and growing end market for U.S. natural gas, which has supported prices and volumes, but geopolitical shifts and the continued build-out of renewable generation capacity globally introduce uncertainty.
 

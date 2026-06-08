@@ -23,7 +23,7 @@ Chile's banking system is concentrated among a small number of large institution
 
 ## How does it make money?
 
-Like most banks, Banco Santander Chile earns the bulk of its net interest income from the difference between what it pays depositors and what it charges borrowers. This spread is the classic banking moat: if a bank can offer competitive rates to savers while charging higher rates to borrowers, the gap is profit. Additional revenue comes from fees on accounts, credit cards, and wealth management; from net trading gains on foreign exchange and securities; and from insurance products sold alongside loans. Operating costs are substantial (branches, staff, technology) and scale matters — a larger bank spreads its fixed costs across a bigger revenue base and achieves a lower cost-to-income ratio.
+Like most banks, Banco Santander Chile earns the bulk of its net interest income from the difference between what it pays depositors and what it charges borrowers. This spread is the classic banking moat: if a bank can offer competitive rates to savers while charging higher rates to borrowers, the gap is profit. Additional revenue comes from fees on accounts, credit cards, and wealth management; from net trading gains on foreign exchange and securities; and from insurance products sold alongside loans. Operating costs are substantial (branches, staff, technology) and scale matters — a larger bank spreads its fixed costs across a bigger revenue base and achieves a lower [cost-to-income ratio](/cost-income-ratio/).
 
 ## What pressures does it face?
 

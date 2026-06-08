@@ -19,7 +19,7 @@ keywords: ["REIT", "cannabis real estate", "industrial properties", "lease incom
 
 IIPR's business model is straightforward: acquire industrial warehouses, greenhouse facilities, and ancillary properties suitable for cannabis cultivation, then lease them to licensed operators. The company has built a portfolio concentrated in states with established legal medical and recreational cannabis markets — California, Colorado, Massachusetts, Illinois, and others.
 
-The lease structure typically includes base rent plus percentage rents tied to the operator's sales, which theoretically aligns incentives. However, this also creates exposure: if a tenant's cultivation yields decline, or if competition intensifies and margins compress, the tenant may struggle to pay rent or may demand lease renegotiation.
+The lease structure typically includes base rent plus [percentage rents](/percentage-rent/) tied to the operator's sales, which theoretically aligns incentives. However, this also creates exposure: if a tenant's cultivation yields decline, or if competition intensifies and margins compress, the tenant may struggle to pay rent or may demand lease renegotiation.
 
 ## Tenant Concentration and Operator Viability
 

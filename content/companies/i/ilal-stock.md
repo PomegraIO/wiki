@@ -36,7 +36,7 @@ The ability to raise dilutive equity without collapsing the stock price became e
 
 ## Regulatory and Geographic Complexity
 
-Operating across Mexican states and regions meant navigating variation in ejido law (communal land tenure), state-level environmental rules, and municipal zoning. Unlike buying land in a consolidated U.S. market with standardized title insurance and predictable regulation, Mexican land acquisition required local expertise, legal review, and patience with bureaucratic timelines. Each region—from Baja California to the Yucatán—had its own property norms and opportunities.
+Operating across Mexican states and regions meant navigating variation in ejido law (communal land tenure), state-level environmental rules, and municipal zoning. Unlike buying land in a consolidated U.S. market with standardized [title insurance](/title-insurance/) and predictable regulation, Mexican land acquisition required local expertise, legal review, and patience with bureaucratic timelines. Each region—from Baja California to the Yucatán—had its own property norms and opportunities.
 
 This complexity was simultaneously a moat and a risk. Smaller competitors lacked the capital and institutional relationships to assemble land portfolios across regions. But it also meant that International Land Alliance's value depended heavily on management skill, local connections, and the ability to identify emerging markets before they moved. Any management misstep—overpaying for land, getting stuck with a property in a region that failed to develop, or losing regulatory approval for a major site—had outsized consequences.
 
@@ -48,7 +48,7 @@ Alternatively, the company could enter into management or profit-sharing agreeme
 
 ## Investment Thesis and Challenges
 
-Investors attracted to International Land Alliance typically held a conviction about Mexican real estate—that demographic growth, urbanization, and eventual institutional investment would appreciate the value of well-located land held at low cost. The company was a leveraged bet on that thesis. However, the model also exposed holders to [currency risk](/currency-risk/) (Mexican peso weakness), political risk, regulatory changes in ejido law or environmental policy, and the operational and management risks inherent in a small public firm managing large illiquid assets across borders.
+Investors attracted to International Land Alliance typically held a conviction about Mexican real estate—that demographic growth, urbanization, and eventual institutional investment would appreciate the value of well-located land held at low cost. The company was a leveraged bet on that thesis. However, the model also exposed holders to [currency risk](/currency-risk/) ([Mexican peso](/mexian-peso/) weakness), [political risk](/political-risk/), regulatory changes in ejido law or environmental policy, and the operational and management risks inherent in a small public firm managing large illiquid assets across borders.
 
 The origin of the company in cross-border land arbitrage remains its defining strategy. Success means finding, assembling, and exiting properties faster than the market prices them in—a venture that requires foresight, capital, local networks, and the ability to hold for extended periods without interim returns.
 

@@ -35,10 +35,10 @@ The flip side is even sharper: when rates fall, MFBI's loan book reprices much s
 
 ## Capital and Survival in Stress
 
-A community bank's capacity to absorb loan losses is limited by how much capital it holds relative to its risk-weighted assets. MFBI, like all banks, must maintain capital ratios above regulatory minimums. But capital is expensive to raise when a stock trades thinly and the bank cannot offer venture-scale returns. This traps MFBI in a perpetual trade-off: it can retain earnings to build capital, limiting [dividend](/dividend/) payouts; or it can pay [dividends](/dividend/) and grow capital more slowly.
+A community bank's capacity to absorb loan losses is limited by how much capital it holds relative to its [risk-weighted assets](/risk-weighted-assets/). MFBI, like all banks, must maintain capital ratios above regulatory minimums. But capital is expensive to raise when a stock trades thinly and the bank cannot offer venture-scale returns. This traps MFBI in a perpetual trade-off: it can retain earnings to build capital, limiting [dividend](/dividend/) payouts; or it can pay [dividends](/dividend/) and grow capital more slowly.
 
 In a severe downturn—farm prices in freefall, timber demand collapsing, unemployment in the parishes spiking—MFBI's loan losses can mount faster than it can provision. A bank that lends 70% of its book to agricultural and timber operators has no [diversification](/diversification/) cushion. Losses cascade through a single industry.
 
 ## What Sets MFBI Apart
 
-Against peers like Renasant Bank, First Bancorp (North Carolina), and other regional franchises, MFBI is smaller, far more concentrated, and more vulnerable to commodity shocks. What it does not do is play for national market share or chase yield in exotic securities. Its lending officers walk into coffee shops where their borrowers gather. That accountability—enforced by geography rather than policy—sometimes makes MFBI a safer counterparty than a bank with more assets but less skin in the game.
+Against peers like Renasant [Bank, First](/bfc-stock/) Bancorp (North Carolina), and other regional franchises, MFBI is smaller, far more concentrated, and more vulnerable to commodity shocks. What it does not do is play for national market share or chase yield in exotic securities. Its lending officers walk into coffee shops where their borrowers gather. That accountability—enforced by geography rather than policy—sometimes makes MFBI a safer counterparty than a bank with more assets but less skin in the game.

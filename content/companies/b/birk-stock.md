@@ -39,7 +39,7 @@ Online retail has disrupted distribution somewhat. Ten years ago, a customer who
 
 Consumer footwear is inherently cyclical. Fashion moves faster than orthopedic products, and if Birkenstock becomes perceived as dated or over-saturated (too visible, too mass-market), sales can cool sharply. The company has to balance growth through wider distribution with the need to remain exclusive and desirable.
 
-A second pressure is manufacturing cost. Labor-intensive artisanal production in Europe costs more than outsourcing to low-wage countries, and that cost differential compresses margins if the company needs to compete on price. Birkenstock's strategy is to accept lower unit volumes but defend premium pricing; if that breaks, the company would face pressure to relocate production and accept reputational risk.
+A second pressure is manufacturing cost. Labor-intensive artisanal production in Europe costs more than outsourcing to low-wage countries, and that cost differential compresses margins if the company needs to compete on price. Birkenstock's strategy is to accept lower unit volumes but defend premium pricing; if that breaks, the company would face pressure to relocate production and accept [reputational risk](/reputational-risk/).
 
 Supply chain shocks matter. Cork is a natural material (sourced from Portugal and Spain), and leather is farmed globally. Any disruption to these inputs affects production, and the sandals themselves have a long lead time from order to delivery.
 

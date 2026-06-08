@@ -49,7 +49,7 @@ Versus [LUDG](/ludg-stock/), a smaller, focused retailer, LUD is a manufacturing
 
 ## Research Path
 
-Readers of LUD should seek disaggregated financial data: segment revenue, [operating margins](/operating-margin/), and CapEx by division, if disclosed. Look for evidence of transfer pricing (intra-company sales) that might inflate affiliate volumes but obscure real market demand. Assess customer concentration within each division and competitive positioning relative to pure-play manufacturers in that line. Check whether LUD has a credible strategy to exit or consolidate underperforming divisions or whether the conglomerate structure is permanent.
+Readers of LUD should seek disaggregated financial data: segment revenue, [operating margins](/operating-margin/), and CapEx by division, if disclosed. Look for evidence of [transfer pricing](/transfer-pricing/) (intra-company sales) that might inflate affiliate volumes but obscure real market demand. Assess customer concentration within each division and competitive positioning relative to pure-play manufacturers in that line. Check whether LUD has a credible strategy to exit or consolidate underperforming divisions or whether the conglomerate structure is permanent.
 
 <div class="wiki-seealso">
 

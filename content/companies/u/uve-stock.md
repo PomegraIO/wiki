@@ -33,7 +33,7 @@ UVE sells homeowners' insurance — protection against loss or damage to the hou
 
 Florida is UVE's main market, representing roughly 75% to 80% of premiums written. Florida is attractive for insurance companies because the state has high property values (coastal real estate commands premium prices), large and growing population, and relative transparency in regulatory and underwriting practices compared to some other states. It is also risky because Florida faces exposure to hurricanes — major storms that can trigger tens of thousands of claims simultaneously, each for tens of thousands of dollars. The 2004 and 2005 hurricane seasons were catastrophic for Florida insurers, and the potential for similar large losses is always present.
 
-UVE also writes business in Arizona, Delaware, Georgia, Hawaii, Indiana, Missouri, New Jersey, New York, Ohio, Pennsylvania, and Virginia — a [diversification](/diversification/) move to spread risk. But Florida dominates the income and the risk.
+UVE also writes business in Arizona, Delaware, Georgia, Hawaii, Indiana, Missouri, New Jersey, New York, Ohio, Pennsylvania, and Virginia — a [diversification](/diversification/) move to [spread risk](/spread-risk/). But Florida dominates the income and the risk.
 
 ## How UVE makes money
 

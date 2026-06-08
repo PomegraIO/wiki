@@ -45,7 +45,7 @@ This means bond prices fall when [interest rates](/interest-rate/) rise and rise
 
 ## Inflation risk and yield
 
-Bonds pay a fixed amount. If [inflation](/inflation/) rises, that fixed amount buys less. A bond paying 3% per year is not very attractive if inflation is 5%. So bond holders worry about inflation. If inflation expectations rise, investors sell bonds, driving prices down and yields up. BCPL would lose value.
+Bonds pay a fixed amount. If [inflation](/inflation/) rises, that fixed amount buys less. A bond paying 3% per year is not very attractive if inflation is 5%. So bond holders worry about inflation. If [inflation expectations](/inflation-expectations/) rise, investors sell bonds, driving prices down and yields up. BCPL would lose value.
 
 The [current yield](/current-yield/) — the income the fund generates from interest and [coupon payments](/coupon-payment/) — depends on prevailing interest rates. When rates are high, new bonds offer high yields. When rates are low, new bonds offer low yields. This affects what income BCPL distributes to you each quarter.
 

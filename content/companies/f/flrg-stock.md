@@ -1,0 +1,29 @@
+---
+title: "Fidelity U.S. Multifactor ETF (FLRG)"
+description: "FLRG is Fidelity's multifactor ETF tracking large-cap U.S. stocks, using value, profitability, and growth screens to find reasonably priced, well-managed large companies."
+keywords:
+  - multifactor ETF
+  - large-cap equity
+  - Fidelity
+  - factor investing
+  - quality growth
+handwritten: true
+---
+
+Fidelity's U.S. Multifactor ETF (FLRG) takes a multifactor approach to large-cap American companies, the biggest and most established public firms. Where some multifactor strategies emphasize ancient factors like value or momentum, FLRG blends value with profitability and growth — aiming to own large companies that are both reasonably priced and genuinely compounding profits. This is Fidelity's interpretation of how [factor investing](/factor-investing/) should work in the mega-cap world, where sheer size and dominance sometimes matter more than statistical tilts.
+
+The fund constructs its index from the universe of large-cap U.S. stocks, which means it captures firms with [market capitalizations](/market-capitalization/) in the hundreds of billions down to the tens of billions. This is the terrain of household names: technology giants, major banks, health-care titans, industrial powers. An unweighted large-cap index would own all of them by market weight, which means a handful of mega-cap names would account for an enormous slice. FLRG applies screens to reshape that weighting.
+
+The core screening logic balances three ideas. Value is one dimension: FLRG favours stocks trading below historical averages relative to earnings and book value. Profitability is the second: the fund weights toward companies with high returns on equity and strong cash conversion. Growth is the third: FLRG tilts toward companies whose earnings and sales are expanding. These three factors can point in different directions — a cheap stock may be growing slowly, or a high-growth company may be expensive — so combining them forces a kind of moderation. FLRG is not a pure value play that owns the cheapest stocks regardless of whether they are improving; nor is it a growth-at-any-price fund. It seeks the overlap: companies that are profitable, growing, and not astronomically priced.
+
+The index reconstitutes and rebalances quarterly, meaning four times a year Fidelity recalculates which large-caps meet the criteria and resets the weights. This mechanical process keeps FLRG anchored to the factor rules rather than drifting with manager opinion or market fads. The rebalancing creates some turnover, but less than an [actively managed fund](/actively-managed-fund/) would generate and probably more than a static market-weight index requires.
+
+FLRG is a low-cost fund, typical of index-based investing. Because it is mechanically constructed and rebalanced by algorithms rather than by analysts and portfolio managers, the [expense ratio](/expense-ratio/) is a fraction of what you would pay for active management. Trading costs are also modest — the fund trades on a major exchange with ample liquidity, so [bid-ask spreads](/bid-ask-spread/) are tight.
+
+Large-cap investing is inherently less volatile than smaller-cap investing, so FLRG is a steadier ride than a small-cap or mid-cap fund would be. The companies it owns are market leaders with strong [balance sheets](/balance-sheet/), resilient cash flows, and global franchises. But steadiness does not mean safety from market declines. In a broad [stock market](/stock-market/) downturn, large-caps fall too. The multifactor tilt means FLRG will emphasize profitable, expanding companies over distressed ones, but that does not isolate the fund from [recessions](/recession/) or [bear markets](/bear-market/).
+
+The value component of FLRG's screening has important implications for performance. When the market favours "growth at any price" — as it did, dramatically, from 2015–2021 — a fund that also screens for reasonableness will lag. Growth stocks are often expensive on purpose, because investors believe they will compound so much faster that price does not matter today. Conversely, when growth is out of favour and cheap stocks suddenly look attractive again, FLRG's value tilt becomes an asset. Over long stretches — decades — research shows that combining value with profitability and growth delivers better risk-adjusted returns than being pure growth or pure value, but those stretches include years of underperformance.
+
+FLRG is suitable for long-term investors building a core U.S. equity position and for investors who believe that factor-based selection, even in large-cap stocks, can improve outcomes over pure market-weight indexing. It is not a substitute for a total-market [index fund](/index-fund/) — it is more selective — but it is broader than a value or [growth fund](/growth-fund/) alone. Use it as a core large-cap holding, or as a deliberate replacement for a standard large-cap ETF if you prefer the factor lens.
+
+To evaluate FLRG properly, start with Fidelity's published index methodology, which lays out exactly how the value, profitability, and growth screens work and in what proportion. Look at the fund's holdings and ask whether they resemble what you would expect: large companies with solid earnings, [dividends](/dividend/) or buybacks, and business momentum, not the flashiest growth names but not the cheapest laggards either. Compare FLRG's returns and factor tilts to a simple large-cap index and to other multifactor funds from other issuers. Watch how the fund's composition changes quarter to quarter — does it shift dramatically or stay stable? And track performance in different market environments. When growth is leading and FLRG lags, that is not a failure; it is the fund doing what it is supposed to do. The question is whether you can commit to holding it through those periods.

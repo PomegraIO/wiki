@@ -21,11 +21,11 @@ handwritten: true
   <div><strong>What it does</strong>: Full-service banking, asset management, advisory services</div>
 </aside>
 
-[Bank of America](/bank-of-america/) is one of the largest and most complex [financial institutions](/wiki/public-company/) in the world. It operates as a diversified banking and financial services company, anchored in traditional retail and wholesale banking while extending deep into investment management, capital markets, and trading across dozens of countries. For most investors, BAC represents exposure to U.S. credit cycles, interest rate policy, and the structural health of the American financial system itself.
+[Bank of America](/bank-of-america/) is one of the largest and most complex [financial institutions](/wiki/public-company/) in the world. It operates as a diversified banking and financial services company, anchored in traditional retail and wholesale banking while extending deep into investment management, capital markets, and trading across dozens of countries. For most investors, BAC represents exposure to U.S. [credit cycles](/credit-cycle/), interest rate policy, and the structural health of the American financial system itself.
 
 ## The Business Architecture
 
-BofA's core business splits into three main segments: Consumer Banking, Global Wealth & Investment Management, and Global Banking & Markets. Consumer Banking handles checking accounts, mortgages, credit cards, and small business lending to millions of American households. Global Wealth serves high-net-worth clients with discretionary assets, trust services, and estate planning. Global Banking & Markets is the investment bank side—advisory, underwriting, sales and trading of securities, derivatives, and structured products.
+BofA's core business splits into three main segments: Consumer Banking, Global Wealth & Investment Management, and Global Banking & Markets. Consumer Banking handles checking accounts, mortgages, credit cards, and small business lending to millions of American households. Global Wealth serves high-net-worth clients with discretionary assets, trust services, and estate planning. Global Banking & Markets is the investment bank side—advisory, underwriting, sales and trading of securities, derivatives, and [structured products](/structured-product/).
 
 The bank's revenue engine is multifaceted. Net interest income (the spread between what it earns on loans and pays on deposits) remains substantial but faces structural pressure from rate cycles and deposit competition. Non-interest revenue comes from trading, advisory fees, commissions on asset management, and loan fees. Asset management is a recurring, high-margin business that has grown in importance; the firm oversees trillions in client assets.
 
@@ -77,7 +77,7 @@ Start with BofA's annual [10-K](/wiki/10-k/) filed with the SEC. The business se
 
 Key metrics to track: net interest margin (NIM), cost of deposits, loan-to-deposit ratio, [tier 1 capital](/tier-1-capital/) ratio, [tangible book value per share](/tangible-book-value-per-share/), [return on equity](/return-on-equity/), and credit metrics such as the ratio of nonperforming loans to total loans. Compare these to peers (JPMorgan Chase, Wells Fargo, Citigroup) to spot relative strength or weakness.
 
-Watch Federal Reserve communications on rates and [quantitative tightening](/quantitative-tightening/); both are material to earnings. Large M&A or market volatility will shift trading and advisory revenue quarter to quarter, so seasonal patterns and market context matter. Insider filings and proxy statements reveal executive compensation philosophy and governance issues.
+Watch Federal Reserve communications on rates and [quantitative tightening](/quantitative-tightening/); both are material to earnings. Large M&A or market volatility will shift trading and advisory revenue quarter to quarter, so seasonal patterns and market context matter. Insider filings and [proxy statements](/proxy-statement/) reveal executive compensation philosophy and governance issues.
 
 The best reads are the [10-K](/wiki/10-k/) and the quarterly earnings call transcript, both freely available on the SEC website or the bank's investor relations portal.
 

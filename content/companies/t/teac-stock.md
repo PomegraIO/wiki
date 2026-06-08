@@ -33,7 +33,7 @@ Tidewise's $600,000 sponsor loan provided minimal cash for ongoing operations an
 
 Timeline matters intensely. Blank-check companies operate under a two-year clock in most cases. Tidewise's July 2027 deadline for the sponsor loan meant the company had approximately one year to identify a target, negotiate terms, and close a merger — or face return of capital and dissolution. In a hot market, sponsors can find and close a deal in 12 to 18 months. In a cold market, the clock runs out and the opportunity evaporates.
 
-The target company's characteristics are unknowable at the formation stage. Sponsors might target a fast-growing technology company, a stressed industrial business ripe for turnaround, a healthcare or biotech venture, or a niche financial services firm. The quality of that eventual target — its growth trajectory, market position, competitive dynamics, and management team — would determine whether Tidewise shareholders ended up with a wealth-creating business or a lemon. The sponsor's track record and stated investment thesis signal the likely direction, but execution risk is high.
+The target company's characteristics are unknowable at the formation stage. Sponsors might target a fast-growing technology company, a stressed industrial business ripe for turnaround, a healthcare or biotech venture, or a niche financial services firm. The quality of that eventual target — its growth trajectory, market position, competitive dynamics, and management team — would determine whether Tidewise shareholders ended up with a wealth-creating business or a lemon. The sponsor's track record and stated investment thesis signal the likely direction, but [execution risk](/execution-risk/) is high.
 
 ## Market timing and investor losses
 

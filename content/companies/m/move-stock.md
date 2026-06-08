@@ -47,7 +47,7 @@ A longer-term structural risk is that major real estate brokerages, platforms, a
 
 ## Valuation and Multiple Compression
 
-During strong housing markets, Corvex can command high valuation multiples because investors anticipate sustained growth and margin expansion. When housing deteriorates, multiples compress sharply because earnings decline and uncertainty about recovery emerges. This amplifies stock price volatility. A 40% decline in earnings combined with a 30–40% multiple compression can mean stock declines of 60–70%, even if the underlying business is not structurally broken. Conversely, recovery brings rapid multiple expansion and stock outperformance.
+During strong housing markets, Corvex can command high valuation multiples because investors anticipate sustained growth and margin expansion. When housing deteriorates, multiples compress sharply because earnings decline and uncertainty about recovery emerges. This amplifies stock price volatility. A 40% decline in earnings combined with a 30–40% [multiple compression](/multiple-compression/) can mean stock declines of 60–70%, even if the underlying business is not structurally broken. Conversely, recovery brings rapid [multiple expansion](/multiple-expansion/) and stock outperformance.
 
 For [stock](/stock/) investors, the key is assessing where in the housing cycle the market is positioned and whether Corvex has the financial wherewithal to survive a severe downturn without capital raises, debt refinancing at poor terms, or bankruptcy. Companies that loaded up on debt during boom years can face stress if downturns are prolonged.
 

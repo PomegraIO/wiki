@@ -27,7 +27,7 @@ This geographic market is large but mature and consolidated: established securit
 
 Iveda has also targeted state and municipal public-safety applications—police departments, sheriff's offices, emergency dispatch centers. These agencies operate under budget constraints, decentralized purchasing, and varying technical sophistication. A police department in a small US town may have aging CCTV systems with no central management; Iveda's platforms offer cloud-enabled monitoring and analytics that allow centralized oversight without major hardware replacement.
 
-However, the geographic distribution of US public-safety spending creates a fragmented market. Large metropolitan departments (NYPD, LAPD) have substantial budgets and established vendor relationships; smaller rural departments have minimal security-technology spending. Iveda must navigate this fragmentation, potentially requiring separate sales channels, product variants, and support models for different customer sizes and sophistication levels. This geographic diversity creates inefficiency compared to selling into a single large jurisdiction or a centralized procurement system.
+However, the geographic distribution of US public-safety spending creates a [fragmented market](/fragmented-market/). Large metropolitan departments (NYPD, LAPD) have substantial budgets and established vendor relationships; smaller rural departments have minimal security-technology spending. Iveda must navigate this fragmentation, potentially requiring separate sales channels, product variants, and support models for different customer sizes and sophistication levels. This geographic diversity creates inefficiency compared to selling into a single large jurisdiction or a centralized procurement system.
 
 ## Privacy Regulation and Surveillance Constraints
 
@@ -41,7 +41,7 @@ Public-safety customers in high-regulation jurisdictions are also slower to adop
 
 A secondary but material market for Iveda has been US Customs and Border Protection (CBP) and Immigration and Customs Enforcement (ICE)—federal agencies responsible for border security and interior enforcement. These agencies operate across all US borders (Mexico, Canada) and deploy surveillance and biometric-capture systems at ports of entry.
 
-This market segment is geographically concentrated and politically sensitive. Border regions have different demographic profiles, crossing volumes, and security priorities than interior geographies. CBP procurement is centralized federally but implementation is distributed across eight US Customs districts, each with different infrastructure and requirements. Iveda's ability to win and retain this segment depends on navigating federal contracting processes, maintaining compliance with government-security standards, and managing political risk as immigration-enforcement policies shift with administrations.
+This market segment is geographically concentrated and politically sensitive. Border regions have different demographic profiles, crossing volumes, and security priorities than interior geographies. CBP procurement is centralized federally but implementation is distributed across eight US Customs districts, each with different infrastructure and requirements. Iveda's ability to win and retain this segment depends on navigating federal contracting processes, maintaining compliance with government-security standards, and managing [political risk](/political-risk/) as immigration-enforcement policies shift with administrations.
 
 ## Commercial Security and Smart-Building Integration
 

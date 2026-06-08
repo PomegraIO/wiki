@@ -46,7 +46,7 @@ The company has historically responded by adjusting duration and leverage, but t
 
 Two Harbors' opportunity lies in finding mispricing in the mortgage-backed market, where it can identify securities trading cheap relative to their cash-flow risk. The company also manages prepayment risk — when mortgage rates fall, borrowers refinance, and the REIT's high-yielding security gets called away just when rates are lowest — by tilting toward securities less sensitive to refinancing.
 
-The REIT also attempts to manage duration by adjusting whether it holds shorter-duration securities (which are less sensitive to rate moves but yield less) or longer-duration ones (which offer higher yield but more interest-rate risk). The mathematics of this trade is never stable; it shifts with Fed policy, inflation expectations, and the shape of the yield curve.
+The REIT also attempts to manage duration by adjusting whether it holds shorter-duration securities (which are less sensitive to rate moves but yield less) or longer-duration ones (which offer higher yield but more interest-rate risk). The mathematics of this trade is never stable; it shifts with Fed policy, [inflation expectations](/inflation-expectations/), and the shape of the yield curve.
 
 ## How to evaluate Two Harbors as an investment
 

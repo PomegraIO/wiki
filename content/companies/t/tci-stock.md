@@ -44,13 +44,13 @@ No. It is a [real estate](/wiki/residential-reit/) operating company taxed as a 
 
 **Regulatory and operational integration.** Because TCI is operationally and financially interwoven with its parent, changes to the parent's [credit rating](/credit-rating/), debt structure, or strategic priorities can ripple into TCI's operations even without explicit board action. A parent-level crisis could constrain TCI's capital access or force reallocation of assets.
 
-**Real estate cycles.** Transcontinental's earnings depend on property occupancy, rent growth, and maintenance costs. In [recessions](/recession/), vacancy rises, rents stagnate or fall, and bad debts increase. The company has no immunity to real estate downturns; being publicly traded doesn't hedge that risk.
+**[Real estate cycles](/real-estate-cycle/).** Transcontinental's earnings depend on property occupancy, rent growth, and maintenance costs. In [recessions](/recession/), vacancy rises, rents stagnate or fall, and bad debts increase. The company has no immunity to real estate downturns; being publicly traded doesn't hedge that risk.
 
 ## Where would an investor look for actual performance?
 
 The [10-K](/wiki/10-k/) annual filing to the SEC discloses segments, occupancy rates, rent per unit, operating expenses, and debt load. That document is the starting point. Watch for trends: are rents growing, flat, or declining? Is occupancy steady or falling? Are new acquisitions accretive or dilutive? Does the controlling parent appear to be siphoning off cash or allowing reinvestment?
 
-Quarterly earnings reports (10-Qs) offer interim snapshots. Proxy statements disclose related-party transactions—any fees or services the parent charges to TCI, or property sales between them—which reveal how much of TCI's performance is subsidizing or supporting the parent's operations.
+Quarterly earnings reports (10-Qs) offer interim snapshots. [Proxy statements](/proxy-statement/) disclose related-party transactions—any fees or services the parent charges to TCI, or property sales between them—which reveal how much of TCI's performance is subsidizing or supporting the parent's operations.
 
 A careful reader will notice if TCI is being treated as a captive cash engine, slowly bleeding assets back to the parent, or as a genuine operating subsidiary allowed to compound capital. That distinction—control structure and intent—matters far more than any single quarter's earnings.
 

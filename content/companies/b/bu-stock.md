@@ -59,7 +59,7 @@ Beyond the quoted expense ratio, there are hidden costs embedded in a leveraged 
 
 Experienced traders—those with genuine expertise in [market timing](/market-timing/)—may use leveraged ETFs like BU for short-term tactical positions: a day trade, a multi-week swing trade, or a tactical overweight ahead of an anticipated catalyst. Holding such a fund for months or years is financial malpractice unless the investor fully understands volatility decay and has dynamically rebalanced the position.
 
-Retail investors with a long-term horizon should avoid leveraged ETFs entirely. They are not investments; they are trading instruments whose mechanics are antithetical to buy-and-hold investing. The daily reset and accompanying decay make them guaranteed wealth destroyers over extended periods in volatile markets, regardless of whether the underlying index appreciates.
+Retail investors with a long-term horizon should avoid leveraged ETFs entirely. They are not investments; they are trading instruments whose mechanics are antithetical to [buy-and-hold investing](/buy-and-hold/). The daily reset and accompanying decay make them guaranteed wealth destroyers over extended periods in volatile markets, regardless of whether the underlying index appreciates.
 
 ## How to research a leveraged ETF
 

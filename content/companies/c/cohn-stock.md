@@ -25,7 +25,7 @@ However, the Northeast also carries cost disadvantages compared to chemical manu
 
 ## Product Mix and Niche Defensibility
 
-Cohen & Co.'s portfolio likely spans adhesives (structural adhesives for assembly, pressure-sensitive adhesives for tape and labels), coatings (protective and decorative), and specialty polymers or functional compounds. These product categories are fragmented markets where no single supplier dominates; customers typically work with multiple suppliers to avoid single-source risk and to source different formulations for different applications.
+Cohen & Co.'s portfolio likely spans adhesives (structural adhesives for assembly, pressure-sensitive adhesives for tape and labels), coatings (protective and decorative), and specialty polymers or functional compounds. These product categories are [fragmented markets](/fragmented-market/) where no single supplier dominates; customers typically work with multiple suppliers to avoid single-source risk and to source different formulations for different applications.
 
 The defensibility of Cohen & Co.'s niche rests on technical expertise, regulatory compliance (particularly for adhesives and coatings, which face EPA and state-level VOC restrictions), and supply reliability. A large customer (automotive supplier, packaging converter) might rely on Cohen & Co. for a specific adhesive formulation used in assembly; switching to a competitor requires qualification testing, process validation, and inventory transitions—frictions that create stickiness. However, these frictions are temporary; once a new supplier qualifies, switching costs drop and the relationship becomes price-sensitive.
 
@@ -67,9 +67,9 @@ Feedstock suppliers are themselves globally distributed, and prices are set by g
 
 Cohen & Co. likely has some international sales, either through direct export or through partnerships with foreign distributors. International growth faces geographic barriers: tariffs, regulatory compliance costs (each country has different chemical regulations), distributor relationships that may be less intimate than domestic ones, and [currency risk](/currency-risk/).
 
-If Cohen & Co. expands internationally by investing in foreign manufacturing (a European plant serving the EU, for instance), it adds complexity and capital intensity. Foreign operations face political risk, [currency volatility](/currency-volatility/), and the need to manage supply chains across multiple countries. For a mid-market manufacturer, international expansion is a strategic bet, not a default move.
+If Cohen & Co. expands internationally by investing in foreign manufacturing (a European plant serving the EU, for instance), it adds complexity and capital intensity. Foreign operations face [political risk](/political-risk/), [currency volatility](/currency-volatility/), and the need to manage supply chains across multiple countries. For a mid-market manufacturer, international expansion is a strategic bet, not a default move.
 
-The alternative is to focus on the North American market, where Cohen & Co. has established supply chains and customer relationships. That focus concedes international growth optionality but reduces execution risk and capital demands.
+The alternative is to focus on the North American market, where Cohen & Co. has established supply chains and customer relationships. That focus concedes international growth optionality but reduces [execution risk](/execution-risk/) and capital demands.
 
 ## Competition, Margins, and Scale Economics
 

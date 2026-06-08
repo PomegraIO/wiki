@@ -4,7 +4,7 @@ description: "A specialty pharmaceutical company developing ophthalmology-focuse
 keywords: ["ophthalmology", "pharmaceutical", "clinical trials", "FDA", "CIK 1904286", "specialty pharma"]
 ---
 
-*To understand **MIRA PHARMACEUTICALS, INC. (MIRA)** (CIK 1904286), a reader must track not the company's current [earnings-per-share](/earnings-per-share/) (likely negative) but instead the regulatory milestones embedded in its SEC filings. MIRA operates in ophthalmology, a specialty therapeutic area with high unmet medical need and premium pricing potential. The company's 10-K, 10-Q, and proxy statements form a narrative arc: which programs are in clinical development, what is the FDA pathway, and when might the company reach revenue-generating approvals? These questions are answered through careful filing reading, not through quarterly revenue tables.*
+*To understand **MIRA PHARMACEUTICALS, INC. (MIRA)** (CIK 1904286), a reader must track not the company's current [earnings-per-share](/earnings-per-share/) (likely negative) but instead the regulatory milestones embedded in its SEC filings. MIRA operates in ophthalmology, a specialty therapeutic area with high unmet medical need and premium pricing potential. The company's 10-K, 10-Q, and [proxy statements](/proxy-statement/) form a narrative arc: which programs are in clinical development, what is the FDA pathway, and when might the company reach revenue-generating approvals? These questions are answered through careful filing reading, not through quarterly revenue tables.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MIRA</td></tr>

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Apollo is a machine for riding credit cycles. Three divisions — Credit, Real Estate, and Asset Solutions — each hunt in places where traditional finance fears to tread: distressed debt, private credit, mezzanine deals, real estate transactions when values are depressed. The firm has built a reputation for knowing how to extract value from complexity and illiquidity, and it charges fees for that skill — both an upfront [management fee](/management-fee/) on assets under management and carried interest on profits. Those dual fees create a business that loves booms (more assets, more fees, bigger profits) and suffers in busts (assets shrink, fees compress, carried interest evaporates). The firm's volatility is structurally high.
+Apollo is a machine for riding [credit cycles](/credit-cycle/). Three divisions — Credit, Real Estate, and Asset Solutions — each hunt in places where traditional finance fears to tread: distressed debt, private credit, mezzanine deals, real estate transactions when values are depressed. The firm has built a reputation for knowing how to extract value from complexity and illiquidity, and it charges fees for that skill — both an upfront [management fee](/management-fee/) on assets under management and [carried interest](/carried-interest-compensation/) on profits. Those dual fees create a business that loves booms (more assets, more fees, bigger profits) and suffers in busts (assets shrink, fees compress, carried interest evaporates). The firm's volatility is structurally high.
 
 <aside class="wiki-infobox">
 <table>
@@ -40,7 +40,7 @@ The other constraint is leverage. Apollo itself uses debt to finance its own ope
 
 ## What to track
 
-Read the quarterly earnings call for pacing on new fundraising and the status of capital calls on existing funds. If new fund closes are slowing or existing limited partners are pulling capital, the credit environment or Apollo's reputation is under stress. Watch for realized losses in exiting funds — those show whether the illiquidity premium thesis is working.
+Read the quarterly earnings call for pacing on new fundraising and the status of [capital calls](/capital-call/) on existing funds. If new fund closes are slowing or existing limited partners are pulling capital, the credit environment or Apollo's reputation is under stress. Watch for realized losses in exiting funds — those show whether the illiquidity premium thesis is working.
 
 Carry gains (the profits from successful exits) are lumpy but are the largest profit driver. High carry quarters are good; zero-carry quarters signal that few exits are happening, which means the firm is not converting wins into profits and limited partners are waiting.
 

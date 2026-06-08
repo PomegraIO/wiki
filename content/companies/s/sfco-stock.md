@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Southern Financial Corporation is the holding company for the Southern Bank, a regional financial institution that operates in the American South. The company offers personal and business banking products — checking and savings accounts, money market accounts, certificates of deposit, mortgages, business lending, and digital banking services. Southern Financial trades over the counter under the ticker SFCO.
+Southern Financial Corporation is the holding company for the Southern Bank, a regional financial institution that operates in the American South. The company offers personal and business banking products — checking and savings accounts, [money market accounts](/money-market-account/), certificates of deposit, mortgages, business lending, and digital banking services. Southern Financial trades over the counter under the ticker SFCO.
 
 ## The long history: from Sardis Bankshares to Southern
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The modern proliferation of buffer funds traces to the post-2008 era, when asset managers and financial engineers began asking a persistent investor question: can we reduce the emotional and financial toll of equity ownership without giving up the returns? One early answer, developed through the 2010s, was the buffer—a structure that seemed to promise downside protection at a known cost. The **PGIM S&P 500 Buffer 12 ETF - April** (ticker APRP) arrived into an increasingly crowded field of such products, but backed by one of the largest asset managers on Earth and focused on the broadest and most transparent equity index.
+The modern proliferation of [buffer funds](/buffer-fund/) traces to the post-2008 era, when asset managers and financial engineers began asking a persistent investor question: can we reduce the emotional and financial toll of equity ownership without giving up the returns? One early answer, developed through the 2010s, was the buffer—a structure that seemed to promise downside protection at a known cost. The **PGIM S&P 500 Buffer 12 ETF - April** (ticker APRP) arrived into an increasingly crowded field of such products, but backed by one of the largest asset managers on Earth and focused on the broadest and most transparent equity index.
 
 ## How PGIM built this fund
 
@@ -39,4 +39,4 @@ When APRP launched in the mid-2010s, it was part of a wave of retail-focused def
 
 Start with PGIM's prospectus and fact sheet, which lay out the current buffer percentage, the cap level, and the expense ratio. Then run a simple mental test: if the S&P 500 rises 20% next year and APRP rises 12% (capped), will you regret the lost 8%? If yes, this fund is not for you. Similarly, if a 12% drawdown is as much pain as you can tolerate, then knowing it is capped at 12% may genuinely add value to your sleep at night.
 
-Track the fund's reset dates and the barrier and cap levels year to year. Watch how the [option premiums](/option-premium/) the fund collects or pays change as volatility and [interest rates](/interest-rate/) move. Over multiple years, the cumulative performance of APRP versus the S&P 500 will tell you whether the structure is adding value in your experience or is simply an expensive way to own a capped index. None of this is investment advice, but understanding these mechanics before you buy is essential.
+Track the fund's reset dates and the barrier and cap levels year to year. Watch how the [option premiums](/option-premium/) the fund collects or pays change as volatility and [interest rates](/interest-rate/) move. Over multiple years, the cumulative performance of APRP versus the S&P 500 will tell you whether the structure is adding value in your experience or is simply an expensive way to own a [capped index](/capped-index/). None of this is investment advice, but understanding these mechanics before you buy is essential.

@@ -37,7 +37,7 @@ The lifecycle of a defense-focused REIT is intertwined with U.S. fiscal policy a
 
 ## Investor Profile and Legacy Position
 
-COPT at this lifecycle stage attracts income investors and portfolio staples traders rather than growth seekers. The stock is held by dividend-yield funds, long-term hold strategies, and institutions seeking predictable cash returns. The company's [forward guidance](/forward-guidance/) will be boring—occupancy ranges, same-store rent growth rates, FFO (funds from operations) per share targets. Exciting news is rare. A major lease renewal, a new tenant signing, or a like-kind property swap might move the stock a few percentage points, but the narrative arc is horizontal. The company is neither racing toward ubiquity nor facing existential challenge; it is simply executing against a mature, stable playbook.
+COPT at this lifecycle stage attracts income investors and portfolio staples traders rather than growth seekers. The stock is held by dividend-yield funds, long-term hold strategies, and institutions seeking predictable cash returns. The company's [forward guidance](/forward-guidance/) will be boring—occupancy ranges, same-store rent growth rates, FFO ([funds from operations](/funds-from-operations/)) per share targets. Exciting news is rare. A major lease renewal, a new tenant signing, or a like-kind [property swap](/property-swap/) might move the stock a few percentage points, but the narrative arc is horizontal. The company is neither racing toward ubiquity nor facing existential challenge; it is simply executing against a mature, stable playbook.
 
 <div class="wiki-seealso">
 ### Closely related

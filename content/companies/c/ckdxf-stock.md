@@ -49,7 +49,7 @@ For ophthalmic drugs, post-market surveillance is particularly scrutinized. An u
 
 ## The Intersection of Underfunded Biotech and Regulatory Compliance
 
-Opthea's listing on OTC markets suggests a company managing limited capital while pursuing expensive drug development. This creates regulatory stress: the company must maintain clinical trial infrastructure, pharmacovigilance, and manufacturing oversight on a tight budget. Shortcuts—inadequate adverse-event tracking, lapses in cGMP compliance, weak IND communications with the FDA—create legal risk. If the FDA concludes Opthea has misled it about trial safety data or manufacturing capability, the agency can place a clinical hold on trials, halting enrollment and delaying the product pipeline indefinitely.
+Opthea's listing on OTC markets suggests a company managing limited capital while pursuing expensive drug development. This creates regulatory stress: the company must maintain clinical trial infrastructure, pharmacovigilance, and manufacturing oversight on a tight budget. Shortcuts—inadequate adverse-event tracking, lapses in cGMP compliance, weak IND communications with the FDA—create [legal risk](/legal-risk/). If the FDA concludes Opthea has misled it about trial safety data or manufacturing capability, the agency can place a clinical hold on trials, halting enrollment and delaying the product pipeline indefinitely.
 
 The company's survival depends on reaching approval before capital runs out. This urgency cannot override regulatory compliance, but it creates pressure that smaller-cap biotech companies feel acutely.
 

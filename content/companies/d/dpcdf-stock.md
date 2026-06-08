@@ -41,7 +41,7 @@ Customer relationships in industrial distribution are typically not exclusive an
 
 ## Geographic and Product Mix
 
-DPC Dash's geographic footprint and product category mix determine its exposure to specific market cycles. A firm concentrated in construction materials experiences sharper demand swings during building cycles; one focused on maintenance and repair operations (MRO) supplies experiences more stable, secular demand but faces stiffer competition from large consolidators.
+DPC Dash's geographic footprint and product category mix determine its exposure to specific [market cycles](/market-cycle/). A firm concentrated in construction materials experiences sharper demand swings during building cycles; one focused on maintenance and repair operations (MRO) supplies experiences more stable, secular demand but faces stiffer competition from large consolidators.
 
 The company's ability to expand into adjacent geographies or product categories depends on its capital base and operational capabilities. A successful distributor in one region cannot simply replicate that model elsewhere; regional suppliers, customer relationships, and logistics networks must be rebuilt or acquired.
 

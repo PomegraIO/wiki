@@ -39,7 +39,7 @@ SOLV has moved aggressively into storage, both as standalone facilities and pair
 
 ## The customer and contract structure
 
-SOLV's projects serve three main customer categories. Utilities buy power from SOLV projects and storage systems to serve their load and meet renewable-energy mandates. Corporations, facing shareholder pressure and net-zero commitments, purchase power from dedicated solar projects (a practice called corporate power purchase agreements). Government entities procure power and storage services. In all three cases, the contract is long-term (typically 20-25 years for solar PPAs) and price-locked at signature. This is why the business model works: SOLV faces relatively stable input costs ([debt financing](/debt-financing/), operations), and the contract fixes revenues, creating predictable cash flow.
+SOLV's projects serve three main customer categories. Utilities buy power from SOLV projects and storage systems to serve their load and meet renewable-energy mandates. Corporations, facing shareholder pressure and net-zero commitments, purchase power from dedicated solar projects (a practice called corporate [power purchase agreements](/power-purchase-agreement/)). Government entities procure power and storage services. In all three cases, the contract is long-term (typically 20-25 years for solar PPAs) and price-locked at signature. This is why the business model works: SOLV faces relatively stable input costs ([debt financing](/debt-financing/), operations), and the contract fixes revenues, creating predictable cash flow.
 
 The downside is inflexibility. Once a contract is signed, SOLV cannot easily raise rates if [inflation](/inflation/) surges or costs spike. This locks the company into long-term margin compression if underlying costs move against it. Inflation in labor, equipment, and maintenance is a real risk in a business where price is locked and duration is decades.
 
@@ -47,7 +47,7 @@ The downside is inflexibility. Once a contract is signed, SOLV cannot easily rai
 
 SOLV finances projects through a mix of equity and project-level debt. Most projects are "non-recourse" financed, meaning lenders' claims are limited to the project's assets and cash flows, not the parent company. This is standard in infrastructure and lets SOLV deploy leverage without straining the corporate [balance sheet](/balance-sheet/). The returns are stable but modest — solar and storage projects typically yield single-digit percentage returns on capital, attractive for long-duration institutional investors but not for faster growth.
 
-The company also earns development fees and manages third-party capital: it develops projects on behalf of yield funds and insurance companies, taking [management fees](/management-fee/) and carried interest. This capital-light model helps offset the heavy capital requirements of building its own projects.
+The company also earns development fees and manages third-party capital: it develops projects on behalf of yield funds and insurance companies, taking [management fees](/management-fee/) and [carried interest](/carried-interest-compensation/). This capital-light model helps offset the heavy capital requirements of building its own projects.
 
 ## Regulatory and policy risk
 
@@ -61,7 +61,7 @@ As solar and storage scale, the grid-integration challenge has become acute. Hig
 
 ## How to research SOLV Energy
 
-The 10-K (SEC CIK 0002065636) breaks revenue by business segment and geography and discloses the major contracts. Look at: the pipeline of projects in development (a leading indicator of future revenue), the terms of major power-purchase agreements (contract duration, price escalation clauses), debt maturity and [refinancing risk](/refinancing-risk/), and management commentary on policy changes. Quarterly earnings calls highlight project milestones, customer wins, and any construction delays or cost overruns.
+The 10-K (SEC CIK 0002065636) breaks revenue by business segment and geography and discloses the major contracts. Look at: the pipeline of projects in development (a [leading indicator](/leading-indicator/) of future revenue), the terms of major power-purchase agreements (contract duration, price escalation clauses), debt maturity and [refinancing risk](/refinancing-risk/), and management commentary on policy changes. Quarterly earnings calls highlight project milestones, customer wins, and any construction delays or cost overruns.
 
 Key metrics: the contracted revenue backlog shows near-term visibility. Adjusted [EBITDA](/ebitda/) and cash flow focus on sustainable earnings. [Return on invested capital](/return-on-invested-capital/) measures whether the company is deploying capital efficiently. The [dividend yield](/dividend-yield/) reflects the infrastructure-investor positioning and the company's cash-return policy.
 

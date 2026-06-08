@@ -26,7 +26,7 @@ CTO's strategic positioning within the REIT universe centers on value creation�
 
 CTO owns a diversified but concentrated portfolio of retail, mixed-use, and occasionally office properties across the United States. The 10-K filing will detail the property mix: percentage of net lease (tenants pay their own property taxes, insurance, maintenance), full-service lease (CTO covers operating costs), or mixed arrangements. Geographic concentration—whether the portfolio is spread across markets or concentrated in a few states—shapes vulnerability to regional economic downturns.
 
-The value-creation thesis depends on selecting properties where tenant demand exceeds supply, where management can drive rental growth, or where the property can be repositioned for a higher-value tenant base (e.g., converting underperforming retail to mixed-use with office or residential). Reading the filings, assess whether CTO's acquisition strategy targets distressed properties (purchased at deep discounts but requiring capital and effort) or lightly distressed properties (modest vacancies or below-market rents, easier to turn). The degree of distress reflects both opportunity size and execution risk.
+The value-creation thesis depends on selecting properties where tenant demand exceeds supply, where management can drive rental growth, or where the property can be repositioned for a higher-value tenant base (e.g., converting underperforming retail to mixed-use with office or residential). Reading the filings, assess whether CTO's acquisition strategy targets distressed properties (purchased at deep discounts but requiring capital and effort) or lightly distressed properties (modest vacancies or below-market rents, easier to turn). The degree of distress reflects both opportunity size and [execution risk](/execution-risk/).
 
 ## The Capital Cycle and Leverage
 
@@ -53,7 +53,7 @@ The 10-K separates cash from operations, investing, and financing. For a REIT:
 - Cash from investing shows property acquisitions, dispositions, and capital improvements—the engine of value creation.
 - Cash from financing discloses debt issued or repaid and equity issuances or [share buybacks](/share-buyback/).
 
-Pay special attention to funds from operations (FFO), a REIT-specific metric that adjusts [net income](/income-statement/) to add back [depreciation](/depreciation/) (a non-cash charge that reduces GAAP earnings but doesn't reflect actual property economics). FFO per share, growth in FFO, and FFO [payout ratio](/payout-ratio/) (distributions divided by FFO) are standard REIT diagnostics.
+Pay special attention to [funds from operations](/funds-from-operations/) (FFO), a REIT-specific metric that adjusts [net income](/income-statement/) to add back [depreciation](/depreciation/) (a non-cash charge that reduces GAAP earnings but doesn't reflect actual property economics). FFO per share, growth in FFO, and FFO [payout ratio](/payout-ratio/) (distributions divided by FFO) are standard REIT diagnostics.
 
 ## Evaluating the Filings
 

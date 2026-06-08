@@ -35,7 +35,7 @@ The trade-off is simple: if the fund is out of stocks when stocks rally, it miss
 
 ADME uses rules, not hunches. The fund might monitor indicators like [implied volatility](/implied-volatility/), bond yields, earnings trends, or [market breadth](/market-breadth-advances-declines/) to gauge overall risk. When these indicators suggest the market is getting dangerous, the fund reduces its stock exposure — maybe dropping from 100% stocks to 60% stocks and 40% cash or short-duration bonds. When the indicators green-light, it climbs back to full equity exposure. This is a mechanical process; emotions do not drive the trades.
 
-The timing signals will never be perfect. Sometimes the fund will cut stock exposure right before a rally and leave money on the table in bonds. Other times it will stay too exposed and catch part of a drawdown before the signals trigger. What matters is whether, over a full market cycle, the strategy reduces losses by more than the upside it sacrifices.
+The timing signals will never be perfect. Sometimes the fund will cut stock exposure right before a rally and leave money on the table in bonds. Other times it will stay too exposed and catch part of a drawdown before the signals trigger. What matters is whether, over a full [market cycle](/market-cycle/), the strategy reduces losses by more than the upside it sacrifices.
 
 ## Real expectations
 

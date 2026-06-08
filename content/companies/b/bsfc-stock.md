@@ -41,11 +41,11 @@ For equity holders in a capital-intensive distributor like Blue Star, the capita
 
 ## Vendor Financing as Hidden Leverage
 
-A key but often overlooked part of Blue Star's capital structure is vendor financing. Many of the company's suppliers offer extended terms, in effect providing financing. These supplier payables are not "debt" in the traditional bank-loan sense, but they function similarly: they defer cash outflows. A firm that negotiates better terms—say, from net-30 to net-45—is, in effect, borrowing more from suppliers. Some suppliers may even offer dynamic discounts (e.g., 2 percent discount if paid in 10 days, full amount due in 45), creating an incentive for faster payment. Blue Star must balance the benefit of extended terms against the cost of losing discounts.
+A key but often overlooked part of Blue Star's capital structure is [vendor financing](/vendor-financing/). Many of the company's suppliers offer extended terms, in effect providing financing. These supplier payables are not "debt" in the traditional bank-loan sense, but they function similarly: they defer cash outflows. A firm that negotiates better terms—say, from net-30 to net-45—is, in effect, borrowing more from suppliers. Some suppliers may even offer dynamic discounts (e.g., 2 percent discount if paid in 10 days, full amount due in 45), creating an incentive for faster payment. Blue Star must balance the benefit of extended terms against the cost of losing discounts.
 
 ## Seasonal Financing and Credit Lines
 
-Blue Star draws heavily on credit lines during peak seasons. In October and November, as Thanksgiving and holiday orders flood in, the company stages inventory and draws down its revolving facility. December through February, as orders are fulfilled and inventory converts to cash, it repays. This seasonal rhythm means Blue Star's debt level swings significantly within a fiscal year, with peaks in early winter and troughs in spring. The facility size must be calibrated to the seasonal peak, forcing the company to maintain expensive credit capacity even in off-seasons.
+Blue Star draws heavily on credit lines during peak seasons. In October and November, as Thanksgiving and holiday orders flood in, the company stages inventory and draws down its revolving facility. December through February, as orders are fulfilled and inventory converts to cash, it repays. This seasonal rhythm means Blue Star's debt level swings significantly within a [fiscal year](/fiscal-year-definition/), with peaks in early winter and troughs in spring. The facility size must be calibrated to the seasonal peak, forcing the company to maintain expensive credit capacity even in off-seasons.
 
 ## Free Cash Flow and the Distribution Trap
 

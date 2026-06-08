@@ -4,7 +4,7 @@ description: "A major homebuilder operating cyclically across the U.S. residenti
 keywords: ["homebuilder", "residential construction", "real estate", "housing market", "cyclical", "construction"]
 ---
 
-*Beazer Homes USA Inc. (BZH) is a large residential homebuilder in the mature, cyclical phase of its lifecycle—an established competitor that has survived multiple real estate cycles and now operates as a consolidator in a fragmented market. Unlike growth-stage companies, Beazer's lifecycle is defined by capacity management, margin optimization, and survival across boom-and-bust residential cycles.*
+*Beazer Homes USA Inc. (BZH) is a large residential homebuilder in the mature, cyclical phase of its lifecycle—an established competitor that has survived multiple [real estate cycles](/real-estate-cycle/) and now operates as a consolidator in a [fragmented market](/fragmented-market/). Unlike growth-stage companies, Beazer's lifecycle is defined by capacity management, margin optimization, and survival across boom-and-bust residential cycles.*
 
 <aside class="wiki-infobox">
 <table>

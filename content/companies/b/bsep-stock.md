@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Innovator U.S. Equity Buffer ETF aims to give investors something that the raw [stock market](/stock-market/) will never offer on its own: downside protection paired with market upside, even if the upside comes with a cap. During its annual buffer window (September to September for the September version), the fund promises to absorb losses in the S&P 500 up to roughly 15% — so if stocks drop 20%, your loss in the fund is capped at around 5%. The tradeoff is that when stocks soar, your gains are also limited. If the S&P 500 rockets up 50%, the fund gets something closer to 15%.
+The Innovator U.S. Equity [Buffer ETF](/buffer-etf/) aims to give investors something that the raw [stock market](/stock-market/) will never offer on its own: downside protection paired with market upside, even if the upside comes with a cap. During its annual buffer window (September to September for the September version), the fund promises to absorb losses in the S&P 500 up to roughly 15% — so if stocks drop 20%, your loss in the fund is capped at around 5%. The tradeoff is that when stocks soar, your gains are also limited. If the S&P 500 rockets up 50%, the fund gets something closer to 15%.
 
 This is not magic. It is [structured finance](/structured-finance/), using options and derivatives to create a defined outcome. The fund sells [call options](/call-option/) (betting that stocks will not rise too much) and uses the premium it collects to buy [protective puts](/protective-put/) (betting that losses will not exceed the buffer). The math works out so that you sacrifice some upside to gain downside cushion — a straight exchange that you either like or you do not.
 

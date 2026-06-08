@@ -16,7 +16,7 @@ keywords: ["SPAC", "special-purpose acquisition company", "investment holding", 
 
 ## SPAC Economics and Sponsor Alignment
 
-A SPAC is formed by sponsor investors (the SPAC founders) who contribute capital sufficient to cover administrative expenses and hunt for an acquisition target. Public shareholders then invest additional capital in a blind pool. The sponsors receive [founder shares](/founder-shares/), typically worth 20% of the combined entity post-merger. This structure creates misalignment: sponsors profit if any deal closes, regardless of the target's quality, while public shareholders bear the execution risk.
+A SPAC is formed by sponsor investors (the SPAC founders) who contribute capital sufficient to cover administrative expenses and hunt for an acquisition target. Public shareholders then invest additional capital in a [blind pool](/blind-pool/). The sponsors receive [founder shares](/founder-shares/), typically worth 20% of the combined entity post-merger. This structure creates misalignment: sponsors profit if any deal closes, regardless of the target's quality, while public shareholders bear the [execution risk](/execution-risk/).
 
 SPAC activity surged in the late 2010s and early 2020s as sponsors and underwriters discovered a high-fee model and founders seeking faster exits than traditional IPOs. A SPAC can charge sponsors a management fee, earn transaction fees when sourcing targets, and profit directly from founder shares post-merger. The sponsor's incentive is to close any sufficiently large deal, not necessarily the best deal.
 

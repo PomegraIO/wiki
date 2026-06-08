@@ -34,7 +34,7 @@ For the private company owner, the SPAC route offers certainty of capital, a pre
 
 BurTech Acquisition Corp II is the second fund raised by the same management team, led by Chief Executive Officer Shahal M. Khan. This is the second time Khan and his team are seeking an acquisition target, which carries both credibility (they have done this before) and inherent risk (the earlier track record is limited). The team has identified three broad sectors of interest: retail, technology, and hospitality. These are substantial industries with many private companies of acquisition-ready size, so the team has considerable latitude in which business to pursue.
 
-The $80 million raised is a sizable war chest for an acquisition, but the actual purchase price of the target company may exceed that amount. In such cases, the SPAC sponsors typically raise additional [debt financing](/debt-financing/) or negotiate a deal structure that balances cash on hand with seller financing, equity rollovers, or other mechanisms.
+The $80 million raised is a sizable war chest for an acquisition, but the actual purchase price of the target company may exceed that amount. In such cases, the SPAC sponsors typically raise additional [debt financing](/debt-financing/) or negotiate a deal structure that balances cash on hand with [seller financing](/seller-financing/), [equity rollovers](/equity-rollover/), or other mechanisms.
 
 ## The investor's perspective
 
@@ -50,4 +50,4 @@ Warrants, which give holders the right to buy additional shares at $11.50, are a
 
 ## Path to a transaction
 
-BurTech II will now spend its time—typically eighteen to thirty-six months—searching for a private company in retail, technology, or hospitality that fits its criteria: the right size, the right growth profile, alignment with where those sectors are headed, and founders or management willing to sell. Once a target is identified and a letter of intent is signed, the SPAC enters a detailed due-diligence period, negotiates deal economics, and seeks shareholder approval. If all parties agree and voters approve, the merger closes and the new public company begins trading. Until that point, BurTech II remains an inert shell with a mandate and a budget.
+BurTech II will now spend its time—typically eighteen to thirty-six months—searching for a private company in retail, technology, or hospitality that fits its criteria: the right size, the right growth profile, alignment with where those sectors are headed, and founders or management willing to sell. Once a target is identified and a [letter of intent](/letter-of-intent-ma/) is signed, the SPAC enters a detailed due-diligence period, negotiates deal economics, and seeks shareholder approval. If all parties agree and voters approve, the merger closes and the new public company begins trading. Until that point, BurTech II remains an inert shell with a mandate and a budget.

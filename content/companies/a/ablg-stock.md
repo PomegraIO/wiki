@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Abacus FCF International Leaders ETF (ticker: ABLG) takes the [free cash flow](/free-cash-flow/) philosophy that defines Abacus's domestic lineup and extends it globally, screening for high-quality cash-generative companies traded in developed and emerging economies outside North America. Like its domestic counterpart, ABLG is actively managed, allowing the fund's investment team to select securities they believe combine strong free cash flow yields with durable competitive advantages and capable management.
+The Abacus FCF International Leaders ETF (ticker: ABLG) takes the [free cash flow](/free-cash-flow/) philosophy that defines Abacus's domestic lineup and extends it globally, screening for high-quality cash-generative companies traded in developed and emerging economies outside North America. Like its domestic counterpart, ABLG is actively managed, allowing the fund's investment team to select securities they believe combine strong free [cash flow yields](/cash-flow-yield/) with durable competitive advantages and capable management.
 
 ## Origins and Evolution
 

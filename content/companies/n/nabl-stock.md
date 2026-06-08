@@ -4,7 +4,7 @@ description: "A cloud-based IT management and security platform for managed serv
 keywords: ["managed IT services", "IT management", "cloud software", "NABL", "security"]
 ---
 
-*In the fragmented market for IT management software, the clear dividing line separates tools designed for large enterprises (which buy monolithic suites from IBM, [Microsoft](/msft-stock/), or Cisco) from those aimed at small and mid-market IT organizations. **N-able, Inc. (NABL)** competes in the latter space—it is a cloud-based software platform that enables managed service providers (MSPs) and in-house IT teams to manage, monitor, and secure client networks and endpoints from a centralized console. Where enterprise IT tools assume deep technical staff and complex governance, N-able targets the reality of small IT shops: a handful of technicians managing many distributed customers or locations.*
+*In the [fragmented market](/fragmented-market/) for IT management software, the clear dividing line separates tools designed for large enterprises (which buy monolithic suites from IBM, [Microsoft](/msft-stock/), or Cisco) from those aimed at small and mid-market IT organizations. **N-able, Inc. (NABL)** competes in the latter space—it is a cloud-based software platform that enables managed service providers (MSPs) and in-house IT teams to manage, monitor, and secure client networks and endpoints from a centralized console. Where enterprise IT tools assume deep technical staff and complex governance, N-able targets the reality of small IT shops: a handful of technicians managing many distributed customers or locations.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>NABL</td></tr>

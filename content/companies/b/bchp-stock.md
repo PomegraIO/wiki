@@ -16,7 +16,7 @@ Blue chips: companies well-established in their industries. Strong brands. Prove
 
 The manager is hunting for growth within a blue-chip frame — not IPO speculation or turnaround stories, but mature firms with proven earnings power that can still compound value over time. [Apple](/aapl-stock/) and [Microsoft](/msft-stock/) belong here; so do JPMorgan and [Berkshire Hathaway](/brk-b-stock/) when they fit the growth and earnings criteria.
 
-The concentrated portfolio — only twenty-two stocks — is the defining feature. Most large-cap funds hold several hundred positions to spread risk. BCHP does the opposite. It puts capital behind the manager's highest-conviction ideas. Concentration creates volatility: if two or three of those twenty-two stocks disappoint, the fund's returns swing sharply. But it also means the manager is genuinely making a choice. The portfolio is what the team thinks will win.
+The concentrated portfolio — only twenty-two stocks — is the defining feature. Most large-cap funds hold several hundred positions to [spread risk](/spread-risk/). BCHP does the opposite. It puts capital behind the manager's highest-conviction ideas. Concentration creates volatility: if two or three of those twenty-two stocks disappoint, the fund's returns swing sharply. But it also means the manager is genuinely making a choice. The portfolio is what the team thinks will win.
 
 Bill Nolin and Thomas Rozycki manage the fund. Both started in 2023, which means they joined when the fund launched. Average tenure is 2.72 years. Not much history yet, but they are the architects of the strategy going forward.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The GraniteShares 2x Long NOW Daily ETF (NOWL) is a leveraged exchange-traded fund that seeks to return twice the daily performance of the Nasdaq-100 index. Traded on NYSE Arca, it amplifies both gains and losses in one of the largest concentrations of technology and consumer discretionary stocks in the market.*
+*The GraniteShares 2x Long NOW Daily ETF (NOWL) is a leveraged exchange-traded fund that seeks to return twice the daily performance of the Nasdaq-100 index. Traded on [NYSE Arca](/nyse-arca/), it amplifies both gains and losses in one of the largest concentrations of technology and consumer discretionary stocks in the market.*
 
 ## Structure and daily reset mechanics
 
@@ -33,7 +33,7 @@ Because the Nasdaq-100 is cap-weighted, the largest companies by market value ha
 
 ## Costs, liquidity, and derivative risks
 
-GraniteShares funds the leverage through overnight borrowing and derivative contracts. The [expense ratio](/expense-ratio/) is disclosed, but the true cost of leverage — borrowing costs, [bid-ask spreads](/bid-ask-spread/), and the computational overhead of daily rebalancing — is partly hidden in tracking error. When short-term [interest rates](/interest-rate/) rise, the cost of maintaining leverage climbs; during periods of low rates, the drag is smaller.
+GraniteShares funds the leverage through overnight borrowing and [derivative contracts](/derivative-contract/). The [expense ratio](/expense-ratio/) is disclosed, but the true cost of leverage — borrowing costs, [bid-ask spreads](/bid-ask-spread/), and the computational overhead of daily rebalancing — is partly hidden in tracking error. When short-term [interest rates](/interest-rate/) rise, the cost of maintaining leverage climbs; during periods of low rates, the drag is smaller.
 
 The fund trades with reasonable liquidity during regular market hours, benefiting from the authorized-participant mechanism that arbitrages gaps between the fund's [net asset value](/net-asset-value/) and its market price. However, in extreme market dislocations, this liquidity can evaporate quickly. Additionally, the derivatives underlying the leverage carry [counterparty risk](/counterparty-risk/) — if the bank or clearing house facilitating the swaps or futures were to fail or face severe stress, the fund's ability to maintain its leverage ratio could be impaired.
 

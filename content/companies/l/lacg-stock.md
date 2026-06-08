@@ -39,7 +39,7 @@ The fund is entirely inappropriate for buy-and-hold investors. Decay compounds o
 
 ## Risks beyond volatility decay
 
-Holding a leveraged position in a single mining company concentrates numerous risks. LAC is exposed to lithium price volatility, regulatory and permitting delays, capital-project execution risk, and geopolitical factors (Argentina is a major lithium producer but has experienced political and economic instability). A negative announcement about the Maricunga project, a lithium price crash, or broader EV demand softness can all trigger large one-day moves in LAC that LACG amplifies.
+Holding a leveraged position in a single mining company concentrates numerous risks. LAC is exposed to lithium price volatility, regulatory and permitting delays, capital-project [execution risk](/execution-risk/), and geopolitical factors (Argentina is a major lithium producer but has experienced political and economic instability). A negative announcement about the Maricunga project, a lithium price crash, or broader EV demand softness can all trigger large one-day moves in LAC that LACG amplifies.
 
 Liquidity in LAC itself, while reasonable, is not infinite; large trades can move the price. For LACG holders, this means that entry and exit — especially in volatile markets — can come at less-favourable prices than the fund's [net asset value](/net-asset-value/) might suggest.
 

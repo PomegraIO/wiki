@@ -53,7 +53,7 @@ The fund trades on an exchange with good liquidity, meaning investors can buy an
 
 CDX appeals to income-seeking investors who can tolerate volatility and credit risk in exchange for higher yields than short-term [Treasury bonds](/treasury-bond/) or investment-grade corporate bonds offer. It is commonly held by retirees seeking income, conservative funds looking to enhance returns, and investors in taxable accounts who can manage the ordinary-income tax consequences.
 
-CDX is not appropriate for investors who cannot afford to lose principal if credit conditions deteriorate. In a recession or major market stress, high-yield bond funds can fall sharply. An investor buying CDX near the peak of a credit cycle may face steep losses before the cycle turns. The fund is best understood as a cyclical investment — appropriate when economic growth is steady and [credit spreads](/credit-spread/) are normal, less attractive when recession looms or credit conditions are already very loose.
+CDX is not appropriate for investors who cannot afford to lose principal if credit conditions deteriorate. In a recession or major market stress, [high-yield bond funds](/high-yield-bond-fund/) can fall sharply. An investor buying CDX near the peak of a [credit cycle](/credit-cycle/) may face steep losses before the cycle turns. The fund is best understood as a cyclical investment — appropriate when economic growth is steady and [credit spreads](/credit-spread/) are normal, less attractive when recession looms or credit conditions are already very loose.
 
 ## Research and monitoring
 

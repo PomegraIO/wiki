@@ -31,7 +31,7 @@ A closed-end fund is fundamentally different from a mutual fund or [index fund](
 
 A closed-end fund works differently. It raises capital once, at launch, by issuing a fixed number of shares. Those shares then trade on the stock exchange. If you want to own the fund, you buy shares from a previous owner, paying whatever price the market will bear. If you want to exit, you sell to a new buyer at the market price. The fund's management does not have to handle continuous inflows and outflows or maintain daily liquidity like a mutual fund.
 
-This structure has consequences. The market price of a closed-end fund share often diverges from the underlying NAV. If investors are optimistic about the fund, they bid up the share price above NAV—trading at a premium. If sentiment darkens, shares fall below NAV—trading at a discount. Open-ended funds never trade at a discount because redemptions happen at NAV; in a closed-end fund, discount or premium is a pure market-sentiment phenomenon.
+This structure has consequences. The market price of a closed-end fund share often diverges from the underlying NAV. If investors are optimistic about the fund, they bid up the share price above NAV—trading at a premium. If sentiment darkens, shares fall below NAV—trading at a discount. Open-ended funds never trade at a discount because redemptions happen at NAV; in a [closed-end fund, discount](/closed-end-fund-discount/) or premium is a pure market-sentiment phenomenon.
 
 ## What Calamos Global Total Return holds
 

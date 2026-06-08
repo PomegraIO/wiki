@@ -30,7 +30,7 @@ Bitcoin is the original and oldest cryptocurrency, launched in 2009 as a peer-to
 
 Ethereum is a blockchain designed to support programmable applications and contracts, not just payments. Launched in 2015, it powers most of what the cryptocurrency world calls decentralized finance, where lending, trading, and other financial instruments run on transparent code rather than through traditional intermediaries. The Ethereum token is the fuel required to execute transactions and contracts on the network.
 
-BNB began as the native token of Binance, the world's largest [cryptocurrency exchange](/cryptocurrency-exchange/) by trading volume. Over time, Binance expanded BNB into its own blockchain ecosystem—the BNB Chain—where BNB functions similarly to Ethereum's token, powering transactions and smart contracts. BNB is also used to discount trading fees on Binance's exchange, creating a functional reason for traders to hold it beyond speculation.
+BNB began as the native token of Binance, the world's largest [cryptocurrency exchange](/cryptocurrency-exchange/) by trading volume. Over time, Binance expanded BNB into its own blockchain ecosystem—the [BNB Chain](/bnb-chain/)—where BNB functions similarly to Ethereum's token, powering transactions and [smart contracts](/smart-contract/). BNB is also used to discount trading fees on Binance's exchange, creating a functional reason for traders to hold it beyond speculation.
 
 The fund rebalances periodically to maintain weights that reflect market capitalization, which means these proportions shift as the relative values of the three tokens change. Bitcoin and Ethereum typically dominate the fund's composition, given their larger market values, while BNB makes up a smaller but meaningful slice.
 

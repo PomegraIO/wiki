@@ -19,7 +19,7 @@ The company originates residential mortgages through its own production platform
 
 The mortgages originated are primarily [jumbo loans](/jumbo-loan/) (mortgages above the conforming limit set by [Fannie Mae](/fannie-mae/) and [Freddie Mac](/freddie-mac/)) and loans to borrowers with non-standard credit characteristics—higher [debt-to-income ratios](/debt-to-income-ratio/), lower credit scores, or less-conventional employment situations. These loans carry higher yields than conforming mortgages but also higher [credit risk](/credit-risk/). The origination team generates income upfront through fees and pricing adjustments, then the mortgages become part of the held portfolio where they generate ongoing interest income.
 
-Origination volumes fluctuate sharply with market conditions. When mortgage rates are attractive to borrowers and competition is light, origination volumes rise and TPG RE Finance Trust can price loans for strong margins. When rates are high or competition is fierce, volumes fall and margins compress. The company adjusts origination activity dynamically based on profitability, which means the origination segment expands and contracts with market cycles.
+Origination volumes fluctuate sharply with market conditions. When mortgage rates are attractive to borrowers and competition is light, origination volumes rise and TPG RE Finance Trust can price loans for strong margins. When rates are high or competition is fierce, volumes fall and margins compress. The company adjusts origination activity dynamically based on profitability, which means the origination segment expands and contracts with [market cycles](/market-cycle/).
 
 ## Mortgage-backed securities acquisition
 
@@ -33,7 +33,7 @@ Securities are marked to market on the [balance sheet](/balance-sheet/), which m
 
 Beyond securities, TPG RE Finance Trust also acquires whole loans—mortgages held in portfolio rather than securitized. Whole loans offer the company more control over servicing and loss mitigation and allow the company to customize its exposure. Acquiring seasoned loans—mortgages that have already been paying for one or more years—reduces origination risk and allows the company to cherry-pick mortgages with proven performance.
 
-Whole-loan acquisition is less scalable than securities acquisition and usually requires deeper due diligence and credit analysis. But it allows the company to build a portfolio tailored to its risk appetite and to take advantage of market dislocations where loans are available at attractive prices.
+Whole-loan acquisition is less scalable than securities acquisition and usually requires deeper [due diligence](/due-diligence/) and credit analysis. But it allows the company to build a portfolio tailored to its risk appetite and to take advantage of market dislocations where loans are available at attractive prices.
 
 ## Portfolio management and hedging
 

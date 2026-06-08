@@ -61,7 +61,7 @@ The completion of MEGA IDC is the biggest near-term growth driver. That facility
 
 ## Regulatory and geopolitical considerations
 
-Hong Kong operates under a two-system arrangement: it is part of China but retains its own financial, legal, and regulatory system. That arrangement creates both opportunity and uncertainty. Companies trust Hong Kong because its rule of law and financial stability are not in question. But any deterioration in Hong Kong's autonomy or international standing could hurt the business — companies might move servers away to avoid political risk.
+Hong Kong operates under a two-system arrangement: it is part of China but retains its own financial, legal, and regulatory system. That arrangement creates both opportunity and uncertainty. Companies trust Hong Kong because its rule of law and financial stability are not in question. But any deterioration in Hong Kong's autonomy or international standing could hurt the business — companies might move servers away to avoid [political risk](/political-risk/).
 
 Additionally, SUNEVISION's largest customers include Chinese state-owned telecommunications companies. Geopolitical tensions between the West and China could create risk. Western regulators could restrict data flowing through Hong Kong; Chinese regulators could demand control or influence over data held in Hong Kong. These risks are remote today but not zero. They are the kind of background risk that comes with owning a data center company in a geopolitically sensitive location.
 

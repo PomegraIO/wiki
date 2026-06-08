@@ -74,7 +74,7 @@ Leverage cuts both ways. When spreads are positive and rates are stable, leverag
 
 ## Regulation and the REIT structure
 
-Chimera is a REIT, which means it is taxed like a partnership — it does not pay corporate tax as long as it distributes at least 90% of income to shareholders. This structure is favorable for investors because they receive income and the company avoids double taxation. But it also means the company cannot retain capital easily and must constantly raise new money to grow.
+Chimera is a REIT, which means it is taxed like a partnership — it does not pay corporate tax as long as it distributes at least 90% of income to shareholders. This structure is favorable for investors because they receive income and the company avoids [double taxation](/double-taxation/). But it also means the company cannot retain capital easily and must constantly raise new money to grow.
 
 REITs are regulated by the SEC and must file detailed reports. Mortgage REITs are also implicitly regulated by the Fed's [monetary policy](/monetary-policy/): the level of interest rates and the Fed's stance determine the profitability of the business.
 
@@ -82,6 +82,6 @@ REITs are regulated by the SEC and must file detailed reports. Mortgage REITs ar
 
 To understand the company, read the quarterly and [annual reports](/10-k/) (SEC CIK 0001409493). They lay out the portfolio composition, the hedge ratios, the funding costs, and the net interest margin. The earnings calls are where management discusses what might happen next.
 
-Watch the net interest margin — that is the spread the company is earning. If it is widening, the business is healthy. If it is narrowing, trouble is coming. Watch the book value per share — that is total assets minus liabilities, divided by shares. Rising rates cause book value to fall because the value of mortgages declines. Falling rates cause it to rise.
+Watch the net interest margin — that is the spread the company is earning. If it is widening, the business is healthy. If it is narrowing, trouble is coming. Watch the [book value per share](/book-value-per-share/) — that is total assets minus liabilities, divided by shares. Rising rates cause book value to fall because the value of mortgages declines. Falling rates cause it to rise.
 
 Above all, remember that dividend is not guaranteed. It can be cut. The whole appeal of Chimera is the yield, but that yield is paid from a spread that can vanish if rates move the wrong way. Investors who need certainty should avoid mortgage REITs. Investors who can tolerate volatility and understand the rate risks can find Chimera attractive in low-rate environments.

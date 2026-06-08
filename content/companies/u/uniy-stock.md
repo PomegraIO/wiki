@@ -55,6 +55,6 @@ It is less suitable for investors who expect falling interest rates and soaring 
 
 Start by reading the fund's prospectus and fact sheet, which spell out the option-writing methodology, the proportion of the portfolio covered, and the current option moneyness (how far "out of the money" the calls are, which roughly indicates how much upside is being capped). Understand the fund's current duration and average credit quality.
 
-Compare UNIY's yield to that of a plain-vanilla intermediate bond fund with similar duration and credit mix. The difference approximates the value of the option overlay, though you must also account for UNIY's expense ratio and any operational costs of the option program. Watch the fund's performance during periods of falling interest rates (when bond prices rally) to see how much the capped upside matters.
+Compare UNIY's yield to that of a plain-vanilla intermediate bond fund with similar duration and [credit mix](/credit-mix/). The difference approximates the value of the option overlay, though you must also account for UNIY's expense ratio and any operational costs of the option program. Watch the fund's performance during periods of falling interest rates (when bond prices rally) to see how much the capped upside matters.
 
 Finally, ask yourself whether you expect bonds to appreciate significantly. If yes, a conventional bond fund is a better match. If you expect flat to rising rates and want to maximize current income, UNIY deserves a closer look.

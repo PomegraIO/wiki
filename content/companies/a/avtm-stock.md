@@ -55,7 +55,7 @@ Owning all of America's public companies means AVTM captures the full [dividend]
 
 AVTM appeals to long-term investors who want the simplicity of owning the entire U.S. equity market but believe value is underappreciated and deserve a tilt in their favour. It suits accounts without strong convictions about which companies or sectors will outperform, and it provides a disciplined [rebalancing discipline](/rebalancing-discipline/) that buys weakness and sells strength automatically.
 
-The primary risk is factor timing — if growth stocks keep outpacing value stocks, AVTM's value tilt will drag on returns. The fund's small-cap holdings also carry the natural volatility that comes with smaller companies. And because AVTM holds thousands of positions, its movements are largely synonymous with the overall U.S. [stock market](/stock-market/); it does not provide meaningful downside protection or independence from broader market swings.
+The primary risk is [factor timing](/factor-timing/) — if growth stocks keep outpacing value stocks, AVTM's value tilt will drag on returns. The fund's small-cap holdings also carry the natural volatility that comes with smaller companies. And because AVTM holds thousands of positions, its movements are largely synonymous with the overall U.S. [stock market](/stock-market/); it does not provide meaningful downside protection or independence from broader market swings.
 
 ## Researching the fund
 

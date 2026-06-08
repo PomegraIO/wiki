@@ -41,7 +41,7 @@ Conexeu's regulatory filings with the [Securities and Exchange Commission](/secu
 
 Because Conexeu has no marketed products, the path to profitability depends entirely on clinical success and regulatory approval. The company is not yet in the phase where it must optimize manufacturing costs or distribution efficiency. Instead, every decision orbits a single question: will any of these drug candidates work? Success means a [public company](/public-company/) with an approved therapy, a revenue-generating asset, and the ability to fund operations from product sales or other pipeline candidates. Failure means the cash runway eventually exhausts and the company cannot raise new capital, forcing a [merger](/merger/), sale of assets, or wind-down.
 
-Conexeu might also pursue strategic partnerships earlier than a fully developed product launch—for example, licensing a promising candidate to a larger pharma company in exchange for upfront payments, [milestone](/balance-sheet/) payments based on clinical progress, and royalties on eventual sales. These deals reduce the capital burden on Conexeu and shift execution risk to the partner, but they also cede control and future upside.
+Conexeu might also pursue strategic partnerships earlier than a fully developed product launch—for example, licensing a promising candidate to a larger pharma company in exchange for upfront payments, [milestone](/balance-sheet/) payments based on clinical progress, and royalties on eventual sales. These deals reduce the capital burden on Conexeu and shift [execution risk](/execution-risk/) to the partner, but they also cede control and future upside.
 
 ## Investor Risk and Volatility
 

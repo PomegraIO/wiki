@@ -45,7 +45,7 @@ Because ARKQ concentrates on a narrower theme than the broader ARKK, it carries 
 
 The fundamental risk is technological: the companies ARKQ backs are betting that autonomous systems will reach practical, cost-effective deployment at scale within the next decade. That bet might be wrong. Robots might remain too brittle, too expensive, or too specialized to replace significant human labour. Regulators might impose restrictions — labour protections, safety certifications, or prohibitions on autonomous systems in certain sectors — that slow adoption. And many of the companies ARKQ owns are small and unprofitable, betting everything on breakthroughs that may never materialise.
 
-There is also execution risk. A company with a promising autonomous-vehicle technology or a next-generation robot might fail to bring that technology to market at a competitive cost, or larger, better-capitalised competitors might leapfrog the innovation. Capital markets can shift quickly, cutting off funding from smaller firms and consolidating the industry around a few winners.
+There is also [execution risk](/execution-risk/). A company with a promising autonomous-vehicle technology or a next-generation robot might fail to bring that technology to market at a competitive cost, or larger, better-capitalised competitors might leapfrog the innovation. Capital markets can shift quickly, cutting off funding from smaller firms and consolidating the industry around a few winners.
 
 ## Who ARKQ is for
 

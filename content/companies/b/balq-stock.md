@@ -42,7 +42,7 @@ This asymmetry — accepting lower highs in exchange for higher lows and meaning
 
 ## Market cycles and the strategy's resilience
 
-BALQ emerged and gained popularity in a period of relatively muted volatility and range-bound returns. As the fund matured through different market cycles, its performance profile became clearer. In 2018 and 2020, when equity markets experienced sharp corrections, BALQ's dampened downside (thanks to call premiums) became visibly valuable. In the subsequent strong rally from 2020 through 2021, BALQ underperformed a plain Nasdaq-100 [index fund](/index-fund/) as option caps prevented full participation in the surge.
+BALQ emerged and gained popularity in a period of relatively muted volatility and range-bound returns. As the fund matured through different [market cycles](/market-cycle/), its performance profile became clearer. In 2018 and 2020, when equity markets experienced sharp corrections, BALQ's dampened downside (thanks to call premiums) became visibly valuable. In the subsequent strong rally from 2020 through 2021, BALQ underperformed a plain Nasdaq-100 [index fund](/index-fund/) as option caps prevented full participation in the surge.
 
 The challenge for covered-call funds is that they work best when volatility is elevated and option premiums are fat. In periods of very low volatility, premiums shrink, income declines, and the fund sacrifices upside with less compensation. The strategy also faces structural headwinds in a long bull market: the opportunity cost of capped gains compounds over years.
 

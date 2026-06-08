@@ -35,7 +35,7 @@ The fund benefits from high realised volatility and sideways price action, where
 
 SDTY's [expense ratio](/expense-ratio/) is typically in the 0.6–0.8% range, reflecting the active management and the cost of executing many daily option trades. This is higher than a simple S&P 500 ETF but justified by the income-generation activity.
 
-The fund faces several distinct risks. The primary one is opportunity cost — in a prolonged [bull market](/bull-market/), SDTY significantly underperforms the broad index because the sold calls limit upside capture. Gamma risk (the rate of change of the hedge ratio) is also present; in volatile intraday moves, the fund may miss capturing certain price movements because the options are being adjusted. If volatility spikes sharply, the daily premium collected may not be enough to offset equity losses. The fund is also exposed to geopolitical, earnings, and macro shocks that affect the S&P 500 itself.
+The fund faces several distinct risks. The primary one is opportunity cost — in a prolonged [bull market](/bull-market/), SDTY significantly underperforms the broad index because the sold calls limit upside capture. [Gamma risk](/gamma-risk/) (the rate of change of the hedge ratio) is also present; in volatile intraday moves, the fund may miss capturing certain price movements because the options are being adjusted. If volatility spikes sharply, the daily premium collected may not be enough to offset equity losses. The fund is also exposed to geopolitical, earnings, and macro shocks that affect the S&P 500 itself.
 
 ## Who this is for and how to research it
 

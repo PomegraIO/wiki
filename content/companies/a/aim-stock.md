@@ -21,7 +21,7 @@ As a [public company](/wiki/public-company/) trading on [NASDAQ](/nasdaq/), AIM 
 
 ## Where's the competitive advantage?
 
-AIM's platform technology focusing on amino acid metabolism and immunomodulation offers a specific scientific angle within the crowded immunotherapy space. The company differentiates through its long-established research foundation and proprietary approaches to viral and cancer targets. However, execution risk remains high—success requires demonstrating clinical efficacy superior to existing standards of care or addressing unmet needs in oncology and infectious disease.
+AIM's platform technology focusing on amino acid metabolism and immunomodulation offers a specific scientific angle within the crowded immunotherapy space. The company differentiates through its long-established research foundation and proprietary approaches to viral and cancer targets. However, [execution risk](/execution-risk/) remains high—success requires demonstrating clinical efficacy superior to existing standards of care or addressing unmet needs in oncology and infectious disease.
 
 ## What are the realistic pathways forward?
 

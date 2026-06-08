@@ -29,7 +29,7 @@ ClimateRock is a blank-check company. That means it is a shell corporation set u
 
 ClimateRock raised money from investors with the explicit promise that it would use that money to buy a real renewable energy business. The company and its advisors have significant experience in renewable energy investing and bring relationships with companies that own wind farms, solar installations, hydroelectric facilities, battery storage systems, or green hydrogen projects. The target is clear: acquire an established renewable energy asset or technology company in an OECD country—meaning a wealthy nation like the United States, Europe, Australia, or Japan—that has strong financial history and strong prospects for future profit.
 
-The company is betting that it can identify a target that has been successful and stable but wants to go public. Many renewable energy businesses are owned by infrastructure funds, industrial companies, or family offices that would benefit from selling to a public vehicle and letting their investors cash out. ClimateRock wants to be that buyer.
+The company is betting that it can identify a target that has been successful and stable but wants to go public. Many renewable energy businesses are owned by [infrastructure funds](/pe-infrastructure-fund/), industrial companies, or family offices that would benefit from selling to a public vehicle and letting their investors cash out. ClimateRock wants to be that buyer.
 
 ## How Blank-Check Companies Work
 
@@ -47,7 +47,7 @@ ClimateRock is betting that it can find such a target: an operating renewable en
 
 ## The Risk
 
-The risk is straightforward. If ClimateRock cannot find a suitable target, or if the target it identifies falls through due diligence, the investors' money comes back and the company dissolves. Shareholders in a blank-check company that fails to complete a deal will have endured years of waiting for nothing.
+The risk is straightforward. If ClimateRock cannot find a suitable target, or if the target it identifies falls through [due diligence](/due-diligence/), the investors' money comes back and the company dissolves. Shareholders in a blank-check company that fails to complete a deal will have endured years of waiting for nothing.
 
 There is also regulatory risk. Blank-check companies have drawn increased scrutiny from regulators concerned about conflicts of interest and disclosure standards. Rules governing how they operate have tightened in recent years, which could make it harder for ClimateRock to complete a deal or could impose additional costs on the target.
 
@@ -55,4 +55,4 @@ Finally, ClimateRock's success depends on finding a renewable energy business th
 
 ## How to Research ClimateRock
 
-Check the company's SEC filings under CIK 0001903392 for details on the target search, any merger announcements, and the track record and affiliations of the management team. Public announcements about any definitive merger agreement or signed letter of intent would signal that a deal is underway. Watch for news from renewable energy markets and infrastructure funds that might indicate whether suitable targets exist and at what valuation levels. If months pass with no announcement of a merger target, the risk rises that the blank-check company will time out without closing a deal.
+Check the company's SEC filings under CIK 0001903392 for details on the target search, any merger announcements, and the track record and affiliations of the management team. Public announcements about any [definitive merger agreement](/definitive-merger-agreement/) or signed [letter of intent](/letter-of-intent-ma/) would signal that a deal is underway. Watch for news from renewable energy markets and infrastructure funds that might indicate whether suitable targets exist and at what valuation levels. If months pass with no announcement of a merger target, the risk rises that the blank-check company will time out without closing a deal.

@@ -29,7 +29,7 @@ The company describes itself as sector-agnostic but looking for "essential" busi
 
 ## What is the timeline?
 
-The company has 24 months from the February 2026 closing to announce and close a merger, or shareholders get their money back from the trust account and the company is dissolved. The sponsor can ask shareholders to approve an extension of up to 12 additional months, creating a potential 36-month window. During this period, the company will search for targets, conduct due diligence, negotiate terms, and run the regulatory and shareholder approval process. That is a finite window, and both the sponsor and shareholders have an incentive to move deliberately but not too slowly.
+The company has 24 months from the February 2026 closing to announce and close a merger, or shareholders get their money back from the trust account and the company is dissolved. The sponsor can ask shareholders to approve an extension of up to 12 additional months, creating a potential 36-month window. During this period, the company will search for targets, conduct [due diligence](/due-diligence/), negotiate terms, and run the regulatory and shareholder approval process. That is a finite window, and both the sponsor and shareholders have an incentive to move deliberately but not too slowly.
 
 ## What happens after a merger is announced?
 

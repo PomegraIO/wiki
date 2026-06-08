@@ -23,7 +23,7 @@ The answer is [credit risk](/credit-risk/). A [Treasury bond](/treasury-bond/) i
 
 ## What are the operating mechanics and costs?
 
-The fund is actively managed, meaning American Century's team makes tactical decisions about which securitized credits to hold and when to rotate between mortgage securities, auto securitizations, and other asset types. The [expense ratio](/expense-ratio/) is 0.29 percent annually — modest for a specialty fixed-income strategy, though higher than a passive government bond index. The fund trades on the [NASDAQ](/nasdaq/) with decent daily liquidity for retail positions, though large block trades may encounter wider [bid-ask spreads](/bid-ask-spread/) depending on market conditions. The fund pays income distribution regularly as underlying loans are paid down and reinvested.
+The fund is actively managed, meaning American Century's team makes tactical decisions about which securitized credits to hold and when to rotate between mortgage securities, auto securitizations, and other asset types. The [expense ratio](/expense-ratio/) is 0.29 percent annually — modest for a specialty fixed-income strategy, though higher than a passive government bond index. The fund trades on the [NASDAQ](/nasdaq/) with decent daily liquidity for retail positions, though large [block trades](/block-trade/) may encounter wider [bid-ask spreads](/bid-ask-spread/) depending on market conditions. The fund pays income distribution regularly as underlying loans are paid down and reinvested.
 
 ## Where does this strategy break down?
 

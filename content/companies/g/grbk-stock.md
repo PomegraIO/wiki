@@ -55,7 +55,7 @@ Homebuilders require capital to buy land and finance construction before homes s
 
 If the housing market seizes and homes do not sell, the builder is stuck with debt and inventory. This dynamic—the leverage multiplier—is why homebuilders are among the first sectors to decline in economic downturns and the most volatile on the rebound.
 
-Understanding GRBK's [balance sheet](/balance-sheet/) and debt levels is crucial for investors. How much debt finances inventory? What is the debt maturity schedule? Are construction loans coming due? These metrics reveal fragility or strength.
+Understanding GRBK's [balance sheet](/balance-sheet/) and debt levels is crucial for investors. How much debt finances inventory? What is the debt maturity schedule? Are [construction loans](/construction-loan/) coming due? These metrics reveal fragility or strength.
 
 ## Competitive Position and Pricing Power
 

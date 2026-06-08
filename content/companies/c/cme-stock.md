@@ -79,7 +79,7 @@ Consolidation in the brokerage and dealer industry is also a risk. As the number
 
 Investors and analysts studying CME should begin with the annual 10-K filing (SEC CIK 0001156375), which provides detailed breakdowns of revenue by product category and geography, and discloses material risks. The quarterly earnings releases and calls are where management discusses trading volumes, [open interest](/open-interest/), and customer metrics.
 
-Key metrics include average daily volume (ADV), which measures the number of contracts traded per day in CME's markets. Growing ADV indicates that CME's markets are attracting more participants and that liquidity is deepening. Similarly, the notional value of open interest — the total value of contracts outstanding at any time — shows the size of positions that market participants are taking.
+Key metrics include average daily volume (ADV), which measures the number of contracts traded per day in CME's markets. Growing ADV indicates that CME's markets are attracting more participants and that liquidity is deepening. Similarly, the [notional value](/notional-value/) of open interest — the total value of contracts outstanding at any time — shows the size of positions that market participants are taking.
 
 Monitor the mixed revenue metric, which combines trading fees, clearing fees, and data revenue. The growth rate and composition of mixed revenue reveal which business segments are expanding and how vulnerable total revenue is to declines in trading volume.
 

@@ -27,7 +27,7 @@ But geographic concentration also means JBG SMITH cannot diversify risk. If the 
 
 The federal government—the State Department, Defense Department, General Services Administration, and dozens of other agencies—is the largest occupant of office space in Washington, D.C. The government is a large, stable, creditworthy tenant. It signs long leases, pays rent reliably, and grows (or at least does not easily shrink) its space needs over time.
 
-JBG SMITH has long-standing relationships with federal agencies and has built properties designed to meet their space standards. Lease a building to the General Services Administration and you get a 10-year lease with minimal vacancy risk. This is extremely valuable in a commercial real-estate market where office vacancy rates can swing wildly and tenant [credit risk](/credit-risk/) is always present.
+JBG SMITH has long-standing relationships with federal agencies and has built properties designed to meet their space standards. Lease a building to the General Services Administration and you get a 10-year lease with minimal vacancy risk. This is extremely valuable in a commercial real-estate market where office [vacancy rates](/vacancy-rate-property/) can swing wildly and tenant [credit risk](/credit-risk/) is always present.
 
 But the federal tenant advantage is shrinking. Post-pandemic, the federal government (like all large employers) is consolidating office space, right-sizing to accommodate hybrid and remote work, and slowing its real-estate footprint expansion. Agencies are also consolidating their presence into fewer, newer buildings designed for efficiency. This reduces demand for older office space—exactly the kind of space JBG SMITH owns in abundance.
 

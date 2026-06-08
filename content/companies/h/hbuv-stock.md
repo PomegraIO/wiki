@@ -36,7 +36,7 @@ The problem traces partly to target selection. Because the sponsor is racing aga
 
 SPAC mergers typically rely on aggressive pro-forma projections to justify valuations. The target company's management teams project rapid growth, margin expansion, or market capture that must be dramatic enough to make the post-merger entity look like a worthwhile hold for public shareholders who could have simply redeemed. These projections often fail to materialize, either because the assumptions were optimistic or because the targets lacked the operational discipline and capital access to execute at scale.
 
-Unlike traditional IPOs, where underwriters face reputational risk if projections are wildly missed, SPAC sponsors have less skin in the game after closing. Damages for misstatement are diluted across a broad base of plaintiffs, and litigation is expensive. This shifts the risk burden backward onto shareholders who trusted the sponsor's due diligence.
+Unlike traditional IPOs, where underwriters face [reputational risk](/reputational-risk/) if projections are wildly missed, SPAC sponsors have less skin in the game after closing. Damages for misstatement are diluted across a broad base of plaintiffs, and litigation is expensive. This shifts the risk burden backward onto shareholders who trusted the sponsor's [due diligence](/due-diligence/).
 
 ## Operator Readiness and Integration Risk
 

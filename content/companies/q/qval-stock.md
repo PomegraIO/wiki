@@ -34,7 +34,7 @@ QVAL is a traditional ETF, not a leveraged or inverse product, trading on the NA
 
 ## Risks and practical considerations
 
-The fund carries several risks. The first is that it is a concentrated bet on a single factor — value — at a point in time when growth has worked well for years in some markets. A portfolio full of cheap large-cap stocks may underperform for another decade if the market continues to reward scale and technological advantage over discount valuations. Factor timing is notoriously difficult; no investor can reliably predict when value will outperform.
+The fund carries several risks. The first is that it is a concentrated bet on a single factor — value — at a point in time when growth has worked well for years in some markets. A portfolio full of cheap large-cap stocks may underperform for another decade if the market continues to reward scale and technological advantage over discount valuations. [Factor timing](/factor-timing/) is notoriously difficult; no investor can reliably predict when value will outperform.
 
 A second risk is that the mechanical rules can lead to concentration in unpopular sectors. When value is out of favor, the cheapest stocks often come from energy, financials, or industrials — not technology or healthcare. Holding a high weight in a few out-of-favor sectors can feel uncomfortable even when the factor logic is sound.
 

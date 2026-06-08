@@ -33,7 +33,7 @@ HYLS managers make two categories of decisions. First, fundamental credit select
 
 ## Competition and the active-versus-passive tension
 
-HYLS competes against passive high-yield ETFs that offer simplicity and lower costs; other active high-yield funds from Vanguard, [BlackRock](/blk-stock/), and PIMCO making parallel claims; investment-grade alternatives offering lower yields but less risk; and individual bond investing for those with time and skill. The claimed edge is that First Trust can navigate credit cycles more deftly than passive investors or unstructured individual pickers.
+HYLS competes against passive high-yield ETFs that offer simplicity and lower costs; other active high-yield funds from Vanguard, [BlackRock](/blk-stock/), and PIMCO making parallel claims; investment-grade alternatives offering lower yields but less risk; and individual bond investing for those with time and skill. The claimed edge is that First Trust can navigate [credit cycles](/credit-cycle/) more deftly than passive investors or unstructured individual pickers.
 
 That claim is hard to prove. High-yield returns have been strong for extended periods, making passive strategies look excellent and making it difficult for active managers to justify higher fees. The fund must persistently outperform passive alternatives net of costs for the active mandate to be vindicated.
 

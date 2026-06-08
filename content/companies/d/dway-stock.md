@@ -69,6 +69,6 @@ Driveitaway's origin in closed, bulk-buyer auctions addressed a real market inef
 
 ### Wider context
 - [Fleet management](/stock/) — Customer base
-- [Automotive industry](/stock/) — Market cycle dependency
+- [Automotive industry](/stock/) — [Market cycle](/market-cycle/) dependency
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) — Regulatory disclosures
 </div>

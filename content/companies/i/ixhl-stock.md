@@ -35,7 +35,7 @@ Downstream customers are fewer and more heterogeneous: pharmaceutical distributo
 
 ## The Scale and Manufacturing Question
 
-A persistent tension in Incannex's value proposition is the gap between clinical-stage formulation and scale manufacturing. The company itself does not appear to operate production facilities at commercial scale; instead, the model assumes that successful clinical programs will license their formulations to established pharmaceutical manufacturers with existing supply chains, quality assurance, and distribution. This is structurally sound but creates execution risk: a partner must believe the formulation is both valuable and manufacturable at commercial margins before scaling becomes real.
+A persistent tension in Incannex's value proposition is the gap between clinical-stage formulation and scale manufacturing. The company itself does not appear to operate production facilities at commercial scale; instead, the model assumes that successful clinical programs will license their formulations to established pharmaceutical manufacturers with existing supply chains, quality assurance, and distribution. This is structurally sound but creates [execution risk](/execution-risk/): a partner must believe the formulation is both valuable and manufacturable at commercial margins before scaling becomes real.
 
 This also means Incannex's economics are licensing-revenue-dependent rather than manufacturing-margin-dependent. A single successful Phase 3 trial followed by regulatory approval could trigger upfront licensing fees and ongoing royalties, but the company's own cash flow remains intermittent until such milestones are reached.
 

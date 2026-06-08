@@ -16,7 +16,7 @@ The iShares PHLX SOX Semiconductor Sector [Index Fund](/index-fund/) (SOXX) is o
 
 SOXX holds shares of 30 companies engaged in the semiconductor business across the entire value chain. The top five holdings—[Nvidia](/nvda-stock/), [Advanced Micro Devices](/amd-stock/), [Broadcom](/avgo-stock/), Qualcomm, and [Marvell Technology](/mrvl-stock/)—represent the core semiconductor design space. The fund also includes [Intel](/intc-stock/), the integrated manufacturer that designs and fabricates its own chips. It holds [Micron Technology](/mu-stock/) and SK Hynix (for memory), and it includes equipment manufacturers like Applied Materials and [ASML](/asml-stock/), whose tools are essential for making chips. This breadth across design, manufacturing, and equipment makes SOXX a comprehensive semiconductor exposure.
 
-Nvidia has become the largest holding in recent years, reflecting the market's conviction that the company's AI accelerator chips will drive semiconductor demand for years to come. The top 10 holdings account for roughly 60% of the fund's assets, which reflects the market-capitalization weighting of the index.
+Nvidia has become the largest holding in recent years, reflecting the market's conviction that the company's AI accelerator chips will drive semiconductor demand for years to come. The top 10 holdings account for roughly 60% of the fund's assets, which reflects the [market-capitalization weighting](/market-cap-weighting/) of the index.
 
 ## Why buy SOXX instead of picking individual stocks?
 

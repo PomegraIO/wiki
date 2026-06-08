@@ -17,7 +17,7 @@ Velocity operates in a mature but evolving industry where speed, convenience, an
 
 ## The business at its core
 
-Velocity originates mortgages for primary residences, rate-and-term refinances, and cash-out refinances. Revenue flows from origination fees (loan-level revenue per completed loan), servicing rights retained or sold, and gains on secondary-market sales. The company does not warehouse loans at scale; it funds loans through investor commitments and then sells into the [secondary market](/secondary-market/)—the standard model for non-bank mortgage originators. This capital-light approach means Velocity's [balance sheet](/balance-sheet/) does not bloat with loan inventory, but it also means the company is highly dependent on capital-market access and investor appetite for mortgage-backed securities.
+Velocity originates mortgages for primary residences, rate-and-term refinances, and [cash-out refinances](/cash-out-refinance/). Revenue flows from origination fees (loan-level revenue per completed loan), servicing rights retained or sold, and gains on secondary-market sales. The company does not warehouse loans at scale; it funds loans through investor commitments and then sells into the [secondary market](/secondary-market/)—the standard model for non-bank mortgage originators. This capital-light approach means Velocity's [balance sheet](/balance-sheet/) does not bloat with loan inventory, but it also means the company is highly dependent on capital-market access and investor appetite for mortgage-backed securities.
 
 The company's origination model blends retail (direct-to-consumer, driven by digital marketing and partnerships with real-estate platforms) and wholesale (loans sourced through [brokers](/broker/) and correspondent lenders). The wholesale channel brings diversity in loan sourcing but introduces competition on pricing and margin compression if rates or volumes turn unfavorable. The retail channel builds brand and is stickier, but customer [acquisition](/acquisition/) is capital intensive.
 
@@ -57,9 +57,9 @@ The mortgage origination market in recent years has been crowded and price-compe
 
 ## How to follow it
 
-Start with the [10-K](/wiki/10-k/) and quarterly 10-Qs: look for origination volume trends, average loan size, cost per loan, gain-on-sale margins, and pipeline (loans in process at quarter-end—a leading indicator of next quarter's volume). Watch also for changes in the wholesale vs. retail mix and commentary on investor appetite for their loans.
+Start with the [10-K](/wiki/10-k/) and quarterly 10-Qs: look for origination volume trends, average loan size, cost per loan, gain-on-sale margins, and pipeline (loans in process at quarter-end—a [leading indicator](/leading-indicator/) of next quarter's volume). Watch also for changes in the wholesale vs. retail mix and commentary on investor appetite for their loans.
 
-Macro indicators matter enormously: the 30-year [fixed-rate mortgage](/fixed-rate-mortgage-personal/) (published weekly by [Freddie Mac](/freddie-mac/) or the MBA) is effectively leading indicator of next quarter's demand, and housing starts and existing home sales set the frame for purchase volumes.
+Macro indicators matter enormously: the 30-year [fixed-rate mortgage](/fixed-rate-mortgage-personal/) (published weekly by [Freddie Mac](/freddie-mac/) or the MBA) is effectively leading indicator of next quarter's demand, and [housing starts](/housing-starts/) and existing home sales set the frame for purchase volumes.
 
 Velocity's relative scale and market share in originations (reported in industry data from Mortgage Bankers Association, Ellie Mae) tell you whether the company is gaining or losing share amid consolidation.
 

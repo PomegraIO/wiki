@@ -41,7 +41,7 @@ Santander Bank Polska operates under Polish banking regulation (administered by 
 
 ## Research Path
 
-To understand Santander Bank Polska deeply, read its local annual reports filed with the Warsaw Stock Exchange, which contain detailed footnotes on the mortgage portfolio, credit exposure by sector, and deposit characteristics. The bank's [10-K](/10-k/) filings with the SEC (via its CIK number) provide the regulatory view; note, however, that US filings may summarize the subsidiary within Banco Santander's broader European results. Cross-reference the parent company's strategy documents and earnings calls to grasp capital allocation priorities that affect the subsidiary's investment capacity and dividend policy.
+To understand Santander Bank Polska deeply, read its local annual reports filed with the [Warsaw Stock Exchange](/warsaw-stock-exchange/), which contain detailed footnotes on the mortgage portfolio, credit exposure by sector, and deposit characteristics. The bank's [10-K](/10-k/) filings with the SEC (via its CIK number) provide the regulatory view; note, however, that US filings may summarize the subsidiary within Banco Santander's broader European results. Cross-reference the parent company's strategy documents and earnings calls to grasp capital allocation priorities that affect the subsidiary's investment capacity and dividend policy.
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>

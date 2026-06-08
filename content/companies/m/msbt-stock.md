@@ -12,7 +12,7 @@ handwritten: true
 
 ## What Is Morgan Stanley Bitcoin Trust?
 
-[Morgan Stanley](/morgan-stanley/) [Bitcoin](/bitcoin/) Trust (NYSE Arca: MSBT) is an exchange-traded product, or ETP, that holds bitcoin directly and is traded on a public exchange like any other stock. Launched on April 8, 2026, by Morgan Stanley Investment Management, MSBT represents one of the first major steps by a large, traditionally regulated asset manager into cryptocurrency investing.
+[Morgan Stanley](/morgan-stanley/) [Bitcoin](/bitcoin/) Trust ([NYSE Arca](/nyse-arca/): MSBT) is an exchange-traded product, or ETP, that holds bitcoin directly and is traded on a public exchange like any other stock. Launched on April 8, 2026, by Morgan Stanley Investment Management, MSBT represents one of the first major steps by a large, traditionally regulated asset manager into cryptocurrency investing.
 
 The trust holds bitcoin—the cryptocurrency itself—not shares in a bitcoin company or [futures contracts](/futures-contract/). This is called a "spot" bitcoin product. When you buy a share of MSBT, you own a proportional stake in the bitcoin held in the trust's vaults. When you sell, you receive the market price of that stake. The trust aims to track the price of bitcoin as closely as possible, net of fees and operating expenses.
 

@@ -43,7 +43,7 @@ The bank has also been active in [acquisitions](/acquisition/) of smaller commun
 
 Nicolet trades with other regional banks. Its closest peers by size and geography are other Wisconsin-based regional banks and mid-sized banks in neighboring states. All regional banks compete on relationship quality, loan underwriting discipline, deposit pricing, and fee products. Nicolet's [return on assets](/return-on-assets/) and [return on equity](/return-on-equity/) are benchmarked against peers; outperformance suggests discipline and better management, while underperformance can indicate operational problems or poor credit.
 
-Unlike megabanks, which have national reach and scale advantages, regional banks compete in a fragmented market. Consolidation has been steady; smaller regional banks are often acquired or merge to remain competitive. Nicolet's size puts it in a stable middle ground—large enough to be resilient, small enough to maintain relationship focus, but always facing pressure from competitors with more or fewer resources.
+Unlike megabanks, which have national reach and scale advantages, regional banks compete in a [fragmented market](/fragmented-market/). Consolidation has been steady; smaller regional banks are often acquired or merge to remain competitive. Nicolet's size puts it in a stable middle ground—large enough to be resilient, small enough to maintain relationship focus, but always facing pressure from competitors with more or fewer resources.
 
 ## How to research Nicolet as an investment
 

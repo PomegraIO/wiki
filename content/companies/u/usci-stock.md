@@ -27,7 +27,7 @@ United States [Commodity Index Funds](/commodity-index-fund/) Trust was created 
 
 ## The origin: commodity investing goes mainstream
 
-In the early 2000s, commodities were a backwater. Institutional investors owned them sparingly, mostly as a tail hedge or through managed futures programs. Retail investors had almost no easy access. The Bloomberg Commodity Index and the Dow Jones-UBS Commodity Index were created to address that gap, offering transparent, rules-based snapshots of commodity markets that could be tracked by funds.
+In the early 2000s, commodities were a backwater. Institutional investors owned them sparingly, mostly as a tail hedge or through [managed futures](/managed-futures/) programs. Retail investors had almost no easy access. The Bloomberg Commodity Index and the Dow Jones-UBS Commodity Index were created to address that gap, offering transparent, rules-based snapshots of commodity markets that could be tracked by funds.
 
 USCI launched in 2007, riding a wave of investor interest in commodities as an asset class. The timing was unfortunate — the fund opened just months before the 2008 financial crisis, when virtually every risk asset was liquidated, commodities included. Investors who bought at the peak found their holdings cut in half. But those who held or bought later benefited from the sharp rebound in 2009 through 2011, when fears of currency debasement and [inflation](/inflation/) spiked commodities higher.
 
@@ -71,4 +71,4 @@ Read Invesco's factsheets carefully, paying attention to the index's composition
 
 Understand the macroeconomic regime. When growth is strong and inflation is rising, commodities perform well and USCI will too. When growth is weak or [deflation](/deflation/) is a risk, commodities are a poor investment, and USCI will underperform. Know which scenario you are betting on before you buy.
 
-Finally, ask yourself whether you need commodity exposure at all. For most long-term investors, the answer is no — equities and bonds provide all the diversification needed, and direct commodity ownership, when it is necessary, is usually best accomplished through single-commodity ETFs or managed futures strategies that can adapt to changing market conditions.
+Finally, ask yourself whether you need commodity exposure at all. For most long-term investors, the answer is no — equities and [bonds](/bond/) provide all the diversification needed, and direct commodity ownership, when it is necessary, is usually best accomplished through single-commodity ETFs or managed futures strategies that can adapt to changing market conditions.

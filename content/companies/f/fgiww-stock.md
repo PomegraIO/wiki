@@ -23,13 +23,13 @@ Sales break down roughly as: wholesale and commercial distributors account for a
 
 ## Supply chain concentration and tariffs
 
-FGI's heavy reliance on Chinese sanitaryware creates exposure to tariffs, shipping disruptions, and currency moves that the company cannot control. The 2024 and 2025 fiscal years illustrated this risk. In 2024, the company grew revenue 15 percent year-over-year; in 2025, revenue fell slightly despite a larger installed distributor base, held back by tariff pressures, weak contractor demand, and extended lead times on inventory. Gross margin compressed as import costs rose and the company chose not to raise prices immediately.
+FGI's heavy reliance on Chinese sanitaryware creates exposure to tariffs, shipping disruptions, and currency moves that the company cannot control. The 2024 and 2025 [fiscal years](/fiscal-year-definition/) illustrated this risk. In 2024, the company grew revenue 15 percent year-over-year; in 2025, revenue fell slightly despite a larger installed distributor base, held back by tariff pressures, weak contractor demand, and extended lead times on inventory. Gross margin compressed as import costs rose and the company chose not to raise prices immediately.
 
 A second pressure is [diversification](/diversification/) within the supplier base. Most sanitaryware still flows from China; FGI has explored alternate sources in India and Southeast Asia but has not yet shifted significant volume. This concentration means tariff shocks hit hard and suddenly.
 
 ## Seasonality and the renovation cycle
 
-Bathroom and kitchen renovations are seasonal, with activity strongest in spring and early summer and slower in winter, though this varies by region and by whether work is driven by insurance claims (storm damage, flooding) or [discretionary spending](/discretionary-spending/). FGI's quarterly results show this pattern clearly. The company's near-term visibility depends on what contractors and retailers expect from the repair and remodel market over the coming six months—a leading indicator that can shift quickly.
+Bathroom and kitchen renovations are seasonal, with activity strongest in spring and early summer and slower in winter, though this varies by region and by whether work is driven by insurance claims (storm damage, flooding) or [discretionary spending](/discretionary-spending/). FGI's quarterly results show this pattern clearly. The company's near-term visibility depends on what contractors and retailers expect from the repair and remodel market over the coming six months—a [leading indicator](/leading-indicator/) that can shift quickly.
 
 ## How the market buys from FGI
 

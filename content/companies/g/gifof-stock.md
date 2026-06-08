@@ -48,7 +48,7 @@ Grifols has invested heavily in expanding plasma-collection capacity to reduce t
 
 Grifols grew partly through [acquisition](/acquisition/). The company absorbed competitor Biotest in 2018, a major purchase that added manufacturing capacity and product lines. It has also expanded through bolt-on acquisitions of smaller plasma processors and specialty pharma assets.
 
-The integration of Biotest created headwinds. The company took significant charges, faced integration costs, and dealt with underperforming assets within the Biotest acquisition. These costs weighed on profitability and contributed to shareholder disappointment—the stock fell sharply through 2022. The experience showed that scaling through acquisition carries execution risk; buying plasma-collection capacity or manufacturing capability is harder than it appears.
+The integration of Biotest created headwinds. The company took significant charges, faced integration costs, and dealt with underperforming assets within the Biotest acquisition. These costs weighed on profitability and contributed to shareholder disappointment—the stock fell sharply through 2022. The experience showed that scaling through acquisition carries [execution risk](/execution-risk/); buying plasma-collection capacity or manufacturing capability is harder than it appears.
 
 The company also faced regulatory and legal challenges in recent years, including investigations and settlements related to plasma-collection practices and pricing. These issues created uncertainty and dented sentiment.
 

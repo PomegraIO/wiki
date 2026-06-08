@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Sprott Physical Copper Trust is a closed-end investment fund managed by Sprott Inc., a Canadian commodity investment specialist, that holds physical copper metal in secure, audited storage. Rather than owning shares in a copper mining company or trading copper [futures contracts](/futures-contract/), unitholders own a direct interest in actual copper bullion stored in vaults. The trust trades on the NYSE Arca under the ticker SCOP and represents one of the first exchange-traded vehicles to provide broad investor access to physical copper as a standalone commodity position.
+The Sprott Physical Copper Trust is a closed-end investment fund managed by Sprott Inc., a Canadian commodity investment specialist, that holds physical copper metal in secure, audited storage. Rather than owning shares in a copper mining company or trading copper [futures contracts](/futures-contract/), unitholders own a direct interest in actual copper bullion stored in vaults. The trust trades on the [NYSE Arca](/nyse-arca/) under the ticker SCOP and represents one of the first exchange-traded vehicles to provide broad investor access to physical copper as a standalone commodity position.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,7 +38,7 @@ Copper had long been absent from Sprott's lineup, despite copper's significance 
 
 Copper is an industrial metal essential to electrical wiring, plumbing, electronics manufacturing, and renewable-energy equipment such as wind turbines and solar panels. Its price rises and falls with global economic growth and construction activity. During periods of economic expansion and industrial demand, copper prices typically increase; during [recessions](/recession/), they fall. This makes copper a cyclical asset that trades on industrial supply and demand.
 
-Investors hold copper for several reasons. Commodity traders and hedging funds use copper futures and spot positions as a liquid way to gain or reduce exposure to industrial commodity risk. Asset allocators include commodities in portfolios as a diversifier from stocks and [bonds](/bond/)—commodities often move in different directions than financial assets, reducing overall portfolio volatility. Inflation-conscious investors use physical commodities, including copper, as a perceived inflation hedge, on the theory that as the prices of goods and services rise, commodity prices (backed by real physical scarcity) rise alongside them.
+Investors hold copper for several reasons. Commodity traders and hedging funds use copper futures and spot positions as a liquid way to gain or reduce exposure to industrial [commodity risk](/commodity-risk/). Asset allocators include commodities in portfolios as a diversifier from stocks and [bonds](/bond/)—commodities often move in different directions than financial assets, reducing overall portfolio volatility. Inflation-conscious investors use physical commodities, including copper, as a perceived inflation hedge, on the theory that as the prices of goods and services rise, commodity prices (backed by real physical scarcity) rise alongside them.
 
 Historically, direct copper ownership was difficult for retail investors. Buying and storing physical copper ingots privately was impractical: the logistics of storage, insurance, assay, and eventual sale were expensive and cumbersome. Copper futures markets exist but are highly leveraged and require sophisticated knowledge of contract mechanics and roll-over procedures. Mining company stocks provide indirect copper exposure but add equity risk and operational complexity. The Sprott Physical Copper Trust addressed this by creating a simple, cost-efficient vehicle.
 
@@ -58,7 +58,7 @@ However, this is a low-moat market. Once the product proved successful and deman
 
 The economics of the business favor larger asset bases. Management fees on commodity trusts are thin—typically a fraction of a percent—because the trust has no active management. Larger funds spread fixed custody and storage costs across more units, reducing the per-unit expense. This creates a scale advantage, but scale is driven by investor inflows, not by proprietary technology or restricted supply.
 
-Copper itself has no moat. The metal is extracted from mines globally, traded on the London Metal Exchange in a highly efficient, competitive market, and has standardized specifications. Any copper trust will hold the same copper and track the same price. The only differentiation is in fees, storage location preferences, redemption mechanics, and brand reputation.
+Copper itself has no moat. The metal is extracted from mines globally, traded on the [London Metal Exchange](/london-metal-exchange/) in a highly efficient, competitive market, and has standardized specifications. Any copper trust will hold the same copper and track the same price. The only differentiation is in fees, storage location preferences, redemption mechanics, and brand reputation.
 
 ## Physical metal holdings and storage security
 
@@ -82,4 +82,4 @@ Key metrics to monitor include the trust's unit price and its relationship to th
 
 Copper prices themselves should be tracked through the London Metal Exchange, which publishes daily spot prices and futures curves. The trust's value moves in lockstep with copper prices (adjusted for fees), so understanding copper market dynamics is essential.
 
-Finally, consider the broader commodity investment context. Rising [interest rates](/interest-rate/), a strengthening dollar, and declining inflation expectations all typically suppress commodity prices. Conversely, geopolitical tensions, supply disruptions, and weakening currencies support commodity prices. The trust is a pure commodity play with no operating leverage or management value-add; its returns depend entirely on copper's price movement. As with any security, the shares trade at market-set prices, and nothing here is a recommendation to buy or sell.
+Finally, consider the broader commodity investment context. Rising [interest rates](/interest-rate/), a strengthening dollar, and declining [inflation expectations](/inflation-expectations/) all typically suppress commodity prices. Conversely, geopolitical tensions, supply disruptions, and weakening currencies support commodity prices. The trust is a pure commodity play with no operating leverage or management value-add; its returns depend entirely on copper's price movement. As with any security, the shares trade at market-set prices, and nothing here is a recommendation to buy or sell.

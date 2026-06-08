@@ -24,7 +24,7 @@ The specific regulatory vectors are multiple. Content approval processes can sta
 
 Investors in Baosheng are exposed to the Chinese yuan, a currency subject to government management and capital controls. Profits earned in China cannot freely be repatriated to the US; the company must navigate approval processes for [dividend](/dividend/) payments and [share buybacks](/share-buyback/). If the yuan depreciates sharply, the dollar value of Baosheng's net assets and earnings decline even if business fundamentals are unchanged. The 2015–2016 yuan devaluation and subsequent capital-control tightening demonstrated the severity of this risk—foreign shareholders in Chinese companies experienced both currency losses and dividend delays as authorities restricted capital outflows.
 
-Taxation is another layer: Baosheng faces the Chinese [corporate income tax](/corporate-income-tax/) on domestic profits, plus US federal income tax on global earnings (though foreign tax credits mitigate double taxation). The interaction of these regimes creates compliance complexity and can change unpredictably if either government alters its tax code or enforcement priorities.
+Taxation is another layer: Baosheng faces the Chinese [corporate income tax](/corporate-income-tax/) on domestic profits, plus US federal income tax on global earnings (though foreign tax credits mitigate [double taxation](/double-taxation/)). The interaction of these regimes creates compliance complexity and can change unpredictably if either government alters its tax code or enforcement priorities.
 
 ## Content Dependency and Concentration Risk
 

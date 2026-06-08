@@ -39,7 +39,7 @@ The prospectus and fact sheet disclose the fund's weighted-average maturity and 
 
 The appeal of FMHI for most investors is the tax-exempt status of its income distributions. Interest payments from the fund's municipal-bond holdings flow through to unitholders tax-free at the federal level. Many distributions are also free from state and local tax if the investor resides in the state that issued the bonds; this depends on the fund's specific geographic allocation. For investors in high federal tax brackets or high-tax states, the after-tax yield of FMHI can substantially exceed that of a comparably yielding taxable bond fund.
 
-That said, not all distributions are tax-exempt. If FMHI realizes capital gains (from selling bonds at a profit), those gains are taxable to shareholders. Additionally, any income derived from bonds issued for private purposes (bonds financing private, not public, facilities) may be subject to the alternative minimum tax — a significant consideration for high-net-worth individuals.
+That said, not all distributions are tax-exempt. If FMHI realizes capital gains (from selling bonds at a profit), those gains are taxable to shareholders. Additionally, any income derived from bonds issued for private purposes (bonds financing private, not public, facilities) may be subject to the [alternative minimum tax](/alternative-minimum-tax/) — a significant consideration for high-net-worth individuals.
 
 ## Liquidity and trading
 

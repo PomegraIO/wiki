@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-If you own shares through a mutual fund, an index fund, a pension plan, or an exchange-traded fund, there is a significant chance that BlackRock holds those shares on your behalf. The company manages assets at a scale that is almost difficult to comprehend—trillions of dollars—and does so for pension funds, university endowments, sovereign wealth funds, mutual-fund investors, and individual savers. BlackRock is rarely a household name outside of finance, but its influence over which companies receive capital and how that capital is deployed has made it one of the most powerful institutions in global finance.
+If you own shares through a mutual fund, an index fund, a pension plan, or an exchange-traded fund, there is a significant chance that BlackRock holds those shares on your behalf. The company manages assets at a scale that is almost difficult to comprehend—trillions of dollars—and does so for pension funds, university endowments, [sovereign wealth funds](/sovereign-wealth-fund/), mutual-fund investors, and individual savers. BlackRock is rarely a household name outside of finance, but its influence over which companies receive capital and how that capital is deployed has made it one of the most powerful institutions in global finance.
 
 <aside class="wiki-infobox">
 <table>
@@ -60,7 +60,7 @@ Scale also translates into competitive advantage in gathering new assets. When a
 
 A second advantage is the breadth of BlackRock's product lineup. An institutional investor managing a portfolio across stocks, bonds, alternatives, and emerging markets can often use BlackRock products for each piece, rather than piecing together offerings from multiple managers. That one-stop-shop convenience, combined with the company's investment-grade reputation, is hard to dislodge.
 
-The third advantage is Aladdin. By owning a portfolio-management platform that many of its customers use, BlackRock gains visibility into their holdings, their trades, and their strategies. It can offer them services—analytics, execution, risk management—that complement their use of Aladdin. And it can identify patterns and opportunities that might not be visible to individual users. This is a subtle but profound competitive advantage: the platform maker sees the entire board.
+The third advantage is Aladdin. By owning a portfolio-management platform that many of its customers use, BlackRock gains visibility into their holdings, their trades, and their strategies. It can offer them services—analytics, [execution, risk](/execution-risk/) management—that complement their use of Aladdin. And it can identify patterns and opportunities that might not be visible to individual users. This is a subtle but profound competitive advantage: the platform maker sees the entire board.
 
 ## The tensions and risks
 

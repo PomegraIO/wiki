@@ -43,7 +43,7 @@ Large institutional brokers (such as CBRE or JLL) operate at a different scale, 
 
 ## Industry Dynamics Shaping the Outlook
 
-The commercial real estate sector is experiencing structural headwinds. Office vacancy rates remain elevated in many metros. Multifamily development has overshot demand in some regions. Interest rate volatility has compressed buyer pools. At the same time, a wave of portfolio sales from large owners (pension funds, life insurers, 1031-exchange investors) continues to generate transaction opportunity.
+The commercial real estate sector is experiencing structural headwinds. Office [vacancy rates](/vacancy-rate-property/) remain elevated in many metros. Multifamily development has overshot demand in some regions. Interest rate volatility has compressed buyer pools. At the same time, a wave of portfolio sales from large owners (pension funds, life insurers, 1031-exchange investors) continues to generate transaction opportunity.
 
 MMI's advantage in this environment is its positioning to serve the non-institutional side of that turnover. Private investors, 1031 exchangers, and smaller operators will continue to buy and sell; they rely on brokers to find deals and navigate pricing. Larger institutions often use in-house teams or tier-one advisors. MMI sits in the fertile middle.
 

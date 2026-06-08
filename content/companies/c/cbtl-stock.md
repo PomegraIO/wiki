@@ -45,7 +45,7 @@ The primary risk is that no single outcome period is fully transparent in its ca
 
 The second risk is that the equal weighting, while removing timing burden, also removes the investor's ability to concentrate in an outcome period that seems attractive. If volatility is low and the April cap (CBTA) is unusually generous, an investor might want to buy CBTA over CBTJ; CBTL forces equal exposure across all four. That equal weighting is a feature (it removes decisions) and a limitation (it prevents tactical concentration).
 
-The third risk is that the embedded series are themselves structured products carrying options risk. If the options market becomes illiquid or reprices sharply due to market stress, the values of the embedded series can move unexpectedly. This is rare but not impossible, particularly in periods of extreme volatility or market dislocations.
+The third risk is that the embedded series are themselves [structured products](/structured-product/) carrying options risk. If the options market becomes illiquid or reprices sharply due to market stress, the values of the embedded series can move unexpectedly. This is rare but not impossible, particularly in periods of extreme volatility or market dislocations.
 
 ## Who Might Own CBTL and Why
 

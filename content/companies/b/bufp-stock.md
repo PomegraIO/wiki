@@ -13,7 +13,7 @@ handwritten: true
 
 > "A defensive structure built on America's largest companies, reset each month to keep pace with volatility."
 
-BUFP is PGIM Investments' answer to the question of how to own the S&P 500 while softening the blow of its worst years. Unlike many buffer funds that reset annually, BUFP rebalances its collar monthly, which is a meaningful operational difference with both advantages and costs.
+BUFP is PGIM Investments' answer to the question of how to own the S&P 500 while softening the blow of its worst years. Unlike many [buffer funds](/buffer-fund/) that reset annually, BUFP rebalances its collar monthly, which is a meaningful operational difference with both advantages and costs.
 
 The underlying portfolio is the S&P 500 itself — the 500 largest publicly traded U.S. companies, weighted by [market capitalization](/market-capitalization/). There is nothing exotic about the holding. What distinguishes BUFP is the monthly reset of the protective collar. On the first trading day of each month, the fund restructures its put and call positions based on the current market level and the prevailing volatility environment. The goal: limit losses to around 12 percent per year and cap gains at roughly 14 to 16 percent per year.
 

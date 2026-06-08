@@ -4,7 +4,7 @@ description: "An industrial distributor managing capital through inventory cycle
 keywords: ["distribution", "industrial", "inventory management", "capital efficiency", "acquisition strategy"]
 ---
 
-*[**DXP ENTERPRISES INC**](/stock/) (DXPE) is an industrial distributor purchasing products from manufacturers and reselling them to end customers—factories, maintenance operations, and engineering firms—operating with thin margins and high [inventory turnover](/inventory-turnover/). The company's financial architecture reflects the economics of distribution: rapid cash conversion, working-capital intensity, and reliance on vendor financing and operational efficiency.*
+*[**DXP ENTERPRISES INC**](/stock/) (DXPE) is an industrial distributor purchasing products from manufacturers and reselling them to end customers—factories, maintenance operations, and engineering firms—operating with thin margins and high [inventory turnover](/inventory-turnover/). The company's financial architecture reflects the economics of distribution: rapid cash conversion, working-capital intensity, and reliance on [vendor financing](/vendor-financing/) and operational efficiency.*
 
 ## The Distributor's Margin Paradox
 
@@ -30,7 +30,7 @@ DXPE likely carries debt—revolving lines of credit and term loans—to finance
 
 However, this leverage cuts both ways. In an economic downturn, when customers reduce purchasing and hold off orders, DXPE's inventory accumulates and cash conversion slows. The company is still obligated to service debt, even as cash inflow declines. A distributor in a cyclical industry faces refinancing or covenant risk during downturns, when [leverage ratios](/leverage-ratio-forex/) spike and interest coverage contracts.
 
-DXPE's debt maturity profile, disclosed in [10-K](/10-k/) filings, reveals [refinancing risk](/refinancing-risk/). A distributor with substantial debt maturing in a single year faces a refinancing event that could be costly if market conditions have deteriorated. A distributor with staggered maturities distributes refinancing risk and provides runway to improve operations before the next maturity arrives.
+DXPE's [debt maturity profile](/debt-maturity-profile/), disclosed in [10-K](/10-k/) filings, reveals [refinancing risk](/refinancing-risk/). A distributor with substantial debt maturing in a single year faces a refinancing event that could be costly if market conditions have deteriorated. A distributor with staggered maturities distributes refinancing risk and provides runway to improve operations before the next maturity arrives.
 
 ## Acquisition Strategy and Debt Integration
 

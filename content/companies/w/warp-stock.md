@@ -45,7 +45,7 @@ WARP is a standard, non-leveraged exchange-traded fund. It holds equities direct
 
 ## Costs and expense ratio
 
-VanEck charges an [expense ratio](/expense-ratio/) to cover the fund's operations and index licensing (if applicable). For a thematic or narrowly focused [equity ETF](/equity-etf/), the ratio is typically in the range of 0.65–0.90% annually. This is higher than a broad [index fund](/index-fund/) (which might charge 0.03% for the S&P 500) but competitive within the thematic-fund category. There are no sales loads or transaction fees; cost occurs purely through the annual expense [ratio, spread](/ratio-spread/) across all shareholders.
+VanEck charges an [expense ratio](/expense-ratio/) to cover the fund's operations and [index licensing](/index-licensing/) (if applicable). For a thematic or narrowly focused [equity ETF](/equity-etf/), the ratio is typically in the range of 0.65–0.90% annually. This is higher than a broad [index fund](/index-fund/) (which might charge 0.03% for the S&P 500) but competitive within the thematic-fund category. There are no sales loads or transaction fees; cost occurs purely through the annual expense [ratio, spread](/ratio-spread/) across all shareholders.
 
 ## Real risks specific to WARP
 
@@ -53,7 +53,7 @@ VanEck charges an [expense ratio](/expense-ratio/) to cover the fund's operation
 
 **Sector volatility.** Space stocks — especially pure-play satellite and launch-vehicle companies — are highly cyclical. They depend on government spending, venture capital, and the willingness of telecoms and data companies to invest in new satellite systems. Downturns in government budgets or private investment can cause sharp declines.
 
-**Technology and execution risk.** Space is genuinely difficult. Rockets explode, satellites fail in orbit, and new technologies often take longer and cost more than expected. Companies in WARP carry the risk of product failures, cost overruns, and the simple fact that space hardware is capital-intensive and unforgiving.
+**Technology and [execution risk](/execution-risk/).** Space is genuinely difficult. Rockets explode, satellites fail in orbit, and new technologies often take longer and cost more than expected. Companies in WARP carry the risk of product failures, cost overruns, and the simple fact that space hardware is capital-intensive and unforgiving.
 
 **Lack of profitability.** Many space-industry companies are still unprofitable or operate on thin margins. A fund holding multiple such companies faces the risk that they burn cash faster than they generate revenue or that market sentiment turns against unprofitable growth stories.
 

@@ -51,7 +51,7 @@ The fund is not a passive holder. Virtus's portfolio managers make security-sele
 
 ## How to research Virtus Convertible & Income Fund II
 
-Start with the fund's annual report and fact sheet on the Virtus website or the fund's prospectus (SEC CIK 0001227857). These documents detail the portfolio holdings, the leverage level, and the distribution policy. Look at the fund's annual returns and compare them to a simple convertible-bond index to see whether active management has added value.
+Start with the fund's [annual report](/10-k/) and fact sheet on the Virtus website or the fund's prospectus (SEC CIK 0001227857). These documents detail the portfolio holdings, the leverage level, and the distribution policy. Look at the fund's annual returns and compare them to a simple convertible-bond index to see whether active management has added value.
 
 Watch the fund's market price and net asset value. A persistent premium or discount is useful information — discounts suggest temporary weakness in demand for the fund, while premiums suggest demand is strong. A widening discount can signal deteriorating fund performance or rising fears about leverage.
 

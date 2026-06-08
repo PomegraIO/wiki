@@ -54,7 +54,7 @@ Because ACEI is an ETF, not a single security, it does not hold one autocallable
 
 The advantage of this approach is [diversification](/diversification/) across issue dates and coupon rates. If you invested in a single autocallable note, you would be locked into its terms for years; in ACEI, the portfolio constantly refreshes, allowing the fund to adapt to changing market conditions and offer current coupon rates.
 
-The trade-off is complexity and fund turnover. Investors must understand that ACEI is a portfolio of structured products, not a direct investment in an index or a company. Its [net asset value](/net-asset-value/) reflects the [fair value](/fair-value/) of those notes as calculated by pricing models, not a simple market quote.
+The trade-off is complexity and fund turnover. Investors must understand that ACEI is a portfolio of [structured products](/structured-product/), not a direct investment in an index or a company. Its [net asset value](/net-asset-value/) reflects the [fair value](/fair-value/) of those notes as calculated by pricing models, not a simple market quote.
 
 ## Costs and tax implications
 

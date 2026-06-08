@@ -23,7 +23,7 @@ The economic dynamic is straightforward: as clients move money into annuities an
 
 ## Competitive Positioning and Market Pressures
 
-The annuity distribution space is fragmented and intensely competitive. Firms like [LPL Financial](/lpla-stock/), Edward Jones, and Kestra operate similar models, and even wirehouses (FINRA-regulated broker-dealers owned by large banks) have annuity desks. What separates Jackson is a focused product suite and a distribution strategy that prizes depth over breadth—the company targets high-quality advisors and platforms rather than chasing every retail channel.
+The annuity distribution space is fragmented and intensely competitive. Firms like [LPL Financial](/lpla-stock/), [Edward Jones](/edward-jones/), and Kestra operate similar models, and even wirehouses (FINRA-regulated broker-dealers owned by large banks) have annuity desks. What separates Jackson is a focused product suite and a distribution strategy that prizes depth over breadth—the company targets high-quality advisors and platforms rather than chasing every retail channel.
 
 Variable annuities in particular face headwinds: regulatory scrutiny around suitability and disclosure, a shift in advisor sentiment toward lower-cost ETFs and fee-only advisory, and product complexity that puts off younger clients. Jackson has countered by building a cleaner, more transparent product lineup, emphasizing income solutions rather than growth vehicles, and investing in digital tools that make advising easier.
 
@@ -68,7 +68,7 @@ Key metrics for tracking Jackson's health:
 
 **Assets under advisement / under management.** Growth in AUA/AUM indicates client acquisition, retention, and deal flow. Flat or shrinking balances signal churn or a weakening distribution franchise.
 
-**Advisor and platform count.** The number of advisors and platforms using Jackson's distribution infrastructure is a leading indicator of future sales capacity.
+**Advisor and platform count.** The number of advisors and platforms using Jackson's distribution infrastructure is a [leading indicator](/leading-indicator/) of future sales capacity.
 
 **In-force book and retention rates.** How much of the business Jackson retains year-over-year. High retention = predictable, growing trailing commission revenue.
 

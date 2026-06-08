@@ -23,7 +23,7 @@ The fund is issued by BlackRock's iShares division and trades on [NASDAQ](/nasda
 
 **Liquidity](/fund-liquidity/) and trading.** PABD trades with decent volume on NASDAQ. You can buy or sell thousands of dollars without moving the market much. [Bid-ask spreads](/bid-ask-spread/) are tight—typically a few cents on a share—so you should not face significant slippage entering or exiting.
 
-**The style bias.** Because PABD tilts toward climate-aligned companies, its returns will diverge from a simple world-ex-USA index. When investors favor sustainably-minded businesses, PABD tends to outperform. When they care less about ESG, PABD may lag. This is not tracking error in the traditional sense; it is intentional style bias, and it is material. Over different market cycles, the performance spread can be several percentage points per year.
+**The style bias.** Because PABD tilts toward climate-aligned companies, its returns will diverge from a simple world-ex-USA index. When investors favor sustainably-minded businesses, PABD tends to outperform. When they care less about ESG, PABD may lag. This is not tracking error in the traditional sense; it is intentional style bias, and it is material. Over different [market cycles](/market-cycle/), the performance spread can be several percentage points per year.
 
 **Who it fits.** PABD makes sense for someone who wants broad international [diversification](/diversification/) but is uncomfortable owning companies flagged as poor environmental performers. It is transparent and straightforward enough for passive investors building a core holding. You can see exactly which stocks you own and understand why they were included or excluded.
 
@@ -31,4 +31,4 @@ The fund is not ideal for someone seeking maximum diversification; by filtering 
 
 **How to research it.** Start with iShares' factsheet, which lists top holdings, sector weights, and the current expense ratio. The underlying MSCI index methodology document explains exactly how the climate and ESG screens work. Because PABD is passive, most of your work is confirming whether you agree with the index rules and whether the fee is acceptable.
 
-Compare PABD to other international climate or ESG ETFs—offerings from Vanguard or competitors—to judge whether the iShares methodology fits your values. Remember that any ESG index reflects specific assumptions about which companies are "climate-ready." Reading the screening rules beats trusting the fund name alone.
+Compare PABD to other international climate or ESG ETFs—offerings from Vanguard or competitors—to judge whether the iShares methodology fits your values. Remember that any [ESG index](/esg-index/) reflects specific assumptions about which companies are "climate-ready." Reading the screening rules beats trusting the fund name alone.

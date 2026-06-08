@@ -50,7 +50,7 @@ CWT draws water from surface sources (rivers, reservoirs) and groundwater. The c
 
 During the severe California drought (2012–2016), CWT faced mandatory water-conservation requirements imposed by state regulators. The State Water Resources Control Board ordered local water agencies to achieve specific percentage reductions in water consumption. CWT had to impose restrictions on customers (limit outdoor watering, mandate shorter showers) and faced penalties if its customers failed to meet conservation targets. Mandatory conservation reduces CWT's revenue (fewer gallons sold) without proportionally reducing costs (the infrastructure must still be maintained).
 
-In some drought years, CWT has been unable to fully meet demand. The company may not have enough water to serve all customers at normal levels, forcing allocation or mandatory rationing. This creates regulatory and reputational risk: customers blame the utility, even though the shortage is often due to water-rights allocation policy set by the state, not by the utility's operations.
+In some drought years, CWT has been unable to fully meet demand. The company may not have enough water to serve all customers at normal levels, forcing allocation or mandatory rationing. This creates regulatory and [reputational risk](/reputational-risk/): customers blame the utility, even though the shortage is often due to water-rights allocation policy set by the state, not by the utility's operations.
 
 ## Capital Planning and Regulatory Approval
 

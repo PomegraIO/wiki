@@ -72,7 +72,7 @@ BioXytran's lifecycle trajectory—whether toward independence or toward acquisi
 
 ## The Founder Bet and the Investor's Role
 
-For investors in BioXytran, the bet is on the founders and the technology. At this stage, there is limited operating history, no proven market acceptance, and high execution risk. The company's value is speculative: a probability-weighted estimate of future commercialization success, not an earning stream or [dividend](/dividend/).
+For investors in BioXytran, the bet is on the founders and the technology. At this stage, there is limited operating history, no proven market acceptance, and high [execution risk](/execution-risk/). The company's value is speculative: a probability-weighted estimate of future commercialization success, not an earning stream or [dividend](/dividend/).
 
 This is why early-stage biotech trades at extreme valuations relative to any current or projected revenue. Investors are betting on the founders to navigate the valley of death, hit key milestones, and ultimately bring a therapy to market. The risk is commensurate: many early-stage biotech investments result in total loss.
 

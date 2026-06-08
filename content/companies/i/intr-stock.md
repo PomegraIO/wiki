@@ -48,7 +48,7 @@ The company's regulatory relationship with Brazil's central bank, financial regu
 
 Readers should review Inter & Co's [10-K](/10-k/) filings with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 1864163) to understand segment revenue (lending, payments, investment products), credit metrics (non-performing loans, loan-loss reserves), the cost of funds, and management's operating leverage thesis. The company's quarterly earnings calls and investor presentations typically discuss user growth, deposit growth, and monetization per user—metrics that signal whether the business model is scaling profitably.
 
-Fintech investors must monitor three things: user engagement and retention, credit quality and loss trends, and cost discipline. A company with accelerating user growth but deteriorating loan quality or rising cost-to-income ratios is moving in the wrong direction operationally, even if reported earnings are growing.
+Fintech investors must monitor three things: user engagement and retention, credit quality and loss trends, and cost discipline. A company with accelerating user growth but deteriorating loan quality or rising [cost-to-income ratios](/cost-income-ratio/) is moving in the wrong direction operationally, even if reported earnings are growing.
 
 <div class="wiki-seealso">
 

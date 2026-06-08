@@ -44,7 +44,7 @@ M&T faces competition from other banks, from credit unions, and increasingly fro
 
 ## Managing risk and complying with regulators
 
-Banking is heavily regulated. The [Federal Reserve](/federal-reserve/), the Federal Deposit Insurance Corporation, and state banking authorities all oversee what M&T does. Regulators require the bank to hold enough capital — shareholders' equity — so that if loans go bad and the bank takes losses, the bank can absorb them without failing. Regulators also require the bank to undergo stress tests, which model what would happen to the bank's capital if the economy fell into a severe recession, unemployment spiked, and borrowers defaulted in large numbers.
+Banking is heavily regulated. The [Federal Reserve](/federal-reserve/), the Federal Deposit Insurance Corporation, and state banking authorities all oversee what M&T does. Regulators require the bank to hold enough capital — [shareholders' equity](/shareholders-equity/) — so that if loans go bad and the bank takes losses, the bank can absorb them without failing. Regulators also require the bank to undergo stress tests, which model what would happen to the bank's capital if the economy fell into a severe recession, unemployment spiked, and borrowers defaulted in large numbers.
 
 These regulations are expensive and time-consuming, but they exist for a reason: to prevent another financial crisis like 2008, when banks failed and millions of people lost wealth. M&T has to maintain enough capital to satisfy regulators. This limits how much profit the bank can return to shareholders; some earnings have to stay in the bank as capital buffers.
 

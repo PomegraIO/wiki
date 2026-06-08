@@ -47,7 +47,7 @@ Capital raises at the point of clinical success (such as Phase 3 data readout) c
 
 ## Strategic Partnerships and Biotech Positioning
 
-Some research-stage biotechs form partnerships with larger pharmaceutical companies, which often involve upfront payments, milestone payments, and revenue sharing on eventual products. These partnerships appear as deferred revenue (a liability) on the balance sheet if cash is received upfront. A company with multiple partnership deals and meaningful deferred revenue is de-risking its development timeline and generating alternate sources of capital beyond equity raises.
+Some research-stage biotechs form partnerships with larger pharmaceutical companies, which often involve upfront payments, milestone payments, and revenue sharing on eventual products. These partnerships appear as [deferred revenue](/deferred-revenue/) (a liability) on the balance sheet if cash is received upfront. A company with multiple partnership deals and meaningful deferred revenue is de-risking its development timeline and generating alternate sources of capital beyond equity raises.
 
 Reading Goldenwell's balance sheet is reading a compressed summary of its ability to reach the next value inflection—the data point or regulatory decision that will transform it from a cash-burning research venture into something with measurable near-term revenue potential. The cash, the capitalized assets, the contingent liabilities, and the diluted share count together frame the question every biotech investor must answer: will this company's compounds reach patients before its capital reserves exhaust?
 

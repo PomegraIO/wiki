@@ -73,7 +73,7 @@ The company must decide whether to pursue organic scale (growing revenue to just
 
 ## Competitive Survival in Crowded Markets
 
-Maison Solutions' competitive position is defensible only within a specific niche or customer segment. In a broad competitive market against larger consultancies and offshore alternatives, the company faces margin compression and customer [acquisition](/acquisition/) challenges. Strategic clarity is essential: (1) define the niche (vertical, technology stack, customer size, or geography) where the company has unique advantage; (2) build deep expertise and relationships within that niche; and (3) resist temptation to broaden beyond the niche where comparative advantage erodes.
+Maison Solutions' competitive position is defensible only within a specific niche or customer segment. In a broad competitive market against larger consultancies and offshore alternatives, the company faces margin compression and customer [acquisition](/acquisition/) challenges. Strategic clarity is essential: (1) define the niche (vertical, technology stack, customer size, or geography) where the company has unique advantage; (2) build deep expertise and relationships within that niche; and (3) resist temptation to broaden beyond the niche where [comparative advantage](/comparative-advantage/) erodes.
 
 Companies that fail to specialize become undifferentiated middle-market consultancies, competing on price and scale against better-capitalized rivals and losing to offshore on absolute cost.
 

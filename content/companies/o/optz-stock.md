@@ -31,7 +31,7 @@ OPTZ requires stocks to pass all three screens simultaneously. This creates tens
 
 ## Sponsor, Structure, and Mechanics
 
-OPTZ is managed by an ETF sponsor and trades as a standard exchange-traded fund on a major US exchange. The fund holds no leverage, no inverse positions; it is a straightforward basket of large-cap stocks selected by systematic rules. Rebalancing occurs quarterly, when the sponsor recalculates which stocks qualify for all three factors. Published documentation specifies exactly how each factor is measured, so investors and analysts can replicate the logic and anticipate changes.
+OPTZ is managed by an [ETF sponsor](/etf-sponsor/) and trades as a standard exchange-traded fund on a major US exchange. The fund holds no leverage, no inverse positions; it is a straightforward basket of large-cap stocks selected by systematic rules. Rebalancing occurs quarterly, when the sponsor recalculates which stocks qualify for all three factors. Published documentation specifies exactly how each factor is measured, so investors and analysts can replicate the logic and anticipate changes.
 
 ## Costs and Competitive Position
 
@@ -47,4 +47,4 @@ The fund is also a US large-cap-only vehicle, carrying no international [diversi
 
 ## Monitoring and Research
 
-Review the prospectus and index methodology to understand precisely how each factor is measured and how the screening combines them. The fund's fact sheet shows current holdings segmented by their factor exposures and sector composition. Compare OPTZ's performance against the S&P 500 and the Russell 1000 over full market cycles—3, 5, and 10-year periods—to assess whether the factor tilt has actually added value. Watch for changes to the index rules or screening methodology, which would materially alter the fund's composition. Most importantly, monitor whether the stocks selected by the index actually maintain the quality, value, and momentum characteristics that made them eligible, or whether the rules have drifted toward capturing something else entirely.
+Review the prospectus and index methodology to understand precisely how each factor is measured and how the screening combines them. The fund's fact sheet shows current holdings segmented by their factor exposures and sector composition. Compare OPTZ's performance against the S&P 500 and the Russell 1000 over full [market cycles](/market-cycle/)—3, 5, and 10-year periods—to assess whether the factor tilt has actually added value. Watch for changes to the index rules or screening methodology, which would materially alter the fund's composition. Most importantly, monitor whether the stocks selected by the index actually maintain the quality, value, and momentum characteristics that made them eligible, or whether the rules have drifted toward capturing something else entirely.

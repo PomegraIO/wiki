@@ -56,7 +56,7 @@ Vehicle salvage is similarly cyclical but with a different driver. In years with
 
 Regulatory risk exists, particularly in salvage. Insurance salvage networks and vehicle titling are highly regulated. Changes to state insurance regulations, salvage title laws, or vehicle export restrictions could impact volumes. Data privacy regulations in Europe have required RB Global to adapt its data collection and sharing practices.
 
-Integration risk came with the 2021 IAA acquisition. Combining two large, independent companies always carries execution risk. Cultural integration, system consolidation, and retention of key talent in a deal of this scale required careful management. The company has navigated this reasonably well, but consolidation costs were substantial in the first few years.
+Integration risk came with the 2021 IAA acquisition. Combining two large, independent companies always carries [execution risk](/execution-risk/). Cultural integration, system consolidation, and retention of key talent in a deal of this scale required careful management. The company has navigated this reasonably well, but consolidation costs were substantial in the first few years.
 
 Finally, asset marketplaces face commoditization pressure. As more transactions move online and price transparency increases, margins on transactional services can compress. RB Global must continue to differentiate through data and services to maintain take-rates.
 

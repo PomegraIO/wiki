@@ -37,7 +37,7 @@ Cohen & Steers' revenue model is largely based on assets under management. Clien
 
 The firm cannot earn [performance fees](/performance-fee/) (a share of investment gains) without meeting strict regulatory conditions. Performance fees are permissible only if the client is an [accredited investor](/accredited-investor/) or qualified investor, and only if the adviser's total AUM is above a threshold ($1 billion for accredited-investor-only accounts). Performance fees create a stronger incentive to take risk and can encourage excessive trading or concentrated positions. The SEC permits them but with detailed oversight.
 
-Cohen & Steers also earns revenue from related services: consulting for institutional clients, managing separately managed accounts, and managing mutual funds and [ETF](/etf/) products. Each revenue stream brings regulatory requirements. Mutual funds managed by Cohen & Steers are regulated under the [Investment Company Act of 1940](/investment-company-act-of-1940/), which imposes restrictions on what the fund can hold, leverage limits, and detailed disclosure and voting rules.
+Cohen & Steers also earns revenue from related services: consulting for institutional clients, managing [separately managed accounts](/separately-managed-account/), and managing mutual funds and [ETF](/etf/) products. Each revenue stream brings regulatory requirements. Mutual funds managed by Cohen & Steers are regulated under the [Investment Company Act of 1940](/investment-company-act-of-1940/), which imposes restrictions on what the fund can hold, leverage limits, and detailed disclosure and voting rules.
 
 ## Mutual Fund and ETF Regulation
 
@@ -61,9 +61,9 @@ Most investment advisers use third-party custodians (banks, Fidelity, [Charles S
 
 ## Trading and Market Manipulation Rules
 
-Cohen & Steers' traders must comply with securities trading regulations. Short-selling, for instance, requires a locate and short-sale mark on each trade; Cohen & Steers cannot simply sell borrowed shares without proper procedure. Block trades and large orders must comply with [best-execution rules](/best-execution-rules/): the adviser must execute client trades at prices and execution quality that are reasonable and competitive, not at disadvantageous terms that benefit the firm.
+Cohen & Steers' traders must comply with securities trading regulations. Short-selling, for instance, requires a locate and short-sale mark on each trade; Cohen & Steers cannot simply sell borrowed shares without proper procedure. [Block trades](/block-trade/) and large orders must comply with [best-execution rules](/best-execution-rules/): the adviser must execute client trades at prices and execution quality that are reasonable and competitive, not at disadvantageous terms that benefit the firm.
 
-Insider trading rules constrain what Cohen & Steers can do with material nonpublic information obtained from client communications or industry contacts. If someone at Cohen & Steers learns that a REIT is about to miss earnings or that infrastructure assets are being sold, that person cannot trade on that information or tip off others. The firm must maintain information barriers ("Chinese walls") to prevent research teams and traders from sharing sensitive information.
+Insider trading rules constrain what Cohen & Steers can do with material nonpublic information obtained from client communications or industry contacts. If someone at Cohen & Steers learns that a REIT is about to miss earnings or that infrastructure assets are being sold, that person cannot trade on that information or tip off others. The firm must maintain information barriers ("[Chinese walls](/chinese-wall/)") to prevent research teams and traders from sharing sensitive information.
 
 ## Redemptions and Liquidity Constraints
 

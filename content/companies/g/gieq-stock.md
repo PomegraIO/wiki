@@ -47,7 +47,7 @@ The portfolio is not static. As new quarterly earnings arrive and market prices 
 
 ## What are the real risks?
 
-Quantitative models can break. If the patterns that drove past returns — say, that high free cash flow yield predicts future gains — stop working because markets have shifted or because other investors have embraced the same factors, the model loses its edge. A model optimized on historical data can also fall prey to overfitting, finding spurious patterns that do not persist.
+Quantitative models can break. If the patterns that drove past returns — say, that high free [cash flow yield](/cash-flow-yield/) predicts future gains — stop working because markets have shifted or because other investors have embraced the same factors, the model loses its edge. A model optimized on historical data can also fall prey to overfitting, finding spurious patterns that do not persist.
 
 [Currency risk](/currency-risk/) is another factor. GIEQ holds stocks priced in euros, yen, pounds, and other currencies. When the [US dollar](/us-dollar/) strengthens, that reduces the returns for US-based investors holding these positions. GIEQ does not hedge currency (a choice that Goldman Sachs has made to keep the fund's costs down), so currency exposure is fully passed through. In years when the dollar weakens, the fund benefits; in years when the dollar strengthens, it is a drag.
 

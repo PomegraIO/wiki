@@ -27,7 +27,7 @@ handwritten: true
 
 </aside>
 
-BEG is a leveraged exchange-traded fund that uses financial derivatives to double the daily movement of an underlying asset. When the underlying rises 1%, BEG targets a 2% gain; when the underlying falls 1%, BEG falls 2%. The word "long" means the fund profits on upward moves and loses on declines—the opposite of inverse leveraged funds. To achieve this amplified exposure, the fund holds derivative contracts (swaps, futures) that give it synthetic exposure to double the underlying position without using traditional borrowing.
+BEG is a leveraged exchange-traded fund that uses financial derivatives to double the daily movement of an underlying asset. When the underlying rises 1%, BEG targets a 2% gain; when the underlying falls 1%, BEG falls 2%. The word "long" means the fund profits on upward moves and loses on declines—the opposite of inverse leveraged funds. To achieve this amplified exposure, the fund holds [derivative contracts](/derivative-contract/) (swaps, futures) that give it synthetic exposure to double the underlying position without using traditional borrowing.
 
 The essential and often misunderstood mechanism is daily reset. Each trading day, at market close, the fund's derivatives positions are rebalanced to ensure the [leverage ratio](/leverage-ratio-forex/) snaps back to exactly 2x. This daily rebalancing creates a mathematical trap called volatility decay, one of the sharpest teeth in the leveraged-ETF world.
 

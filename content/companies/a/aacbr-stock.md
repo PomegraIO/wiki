@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AACBR is a **warrant** — a derivative financial instrument that gives its holder the right to purchase a share of [common stock](/common-stock/) at a fixed price. In this case, the warrant represents part of a capital-raising structure used by [Artius II Acquisition](/aacb-stock/) Inc., a special purpose [acquisition](/acquisition/) company, or SPAC. The ticket "AACBR" denotes the warrant portion of the unit offering; AACB denotes the shares themselves. Understanding AACBR requires understanding the SPAC machinery and how companies use warrants to finance acquisitions.
+AACBR is a **warrant** — a [derivative financial instrument](/derivative-financial-instrument-asset/) that gives its holder the right to purchase a share of [common stock](/common-stock/) at a fixed price. In this case, the warrant represents part of a capital-raising structure used by [Artius II Acquisition](/aacb-stock/) Inc., a special purpose [acquisition](/acquisition/) company, or SPAC. The ticket "AACBR" denotes the warrant portion of the unit offering; AACB denotes the shares themselves. Understanding AACBR requires understanding the SPAC machinery and how companies use warrants to finance acquisitions.
 
 ## What is a SPAC and why warrants matter
 

@@ -41,7 +41,7 @@ However, silver mining is fundamentally a commodity business. Competition for or
 
 Silver prices are volatile, driven by macroeconomic cycles, [central bank](/central-bank/) policy, currency movements, and shifts in industrial versus investment demand. A sustained decline in silver prices squeezes margins and can render some mines uneconomic to operate. Even if the company operates on the low end of the cost curve, a prolonged bear market in silver creates pressure.
 
-Mexican mining faces regulatory and political risk. Mining permits, environmental compliance, and labor relations are subject to the policies of the Mexican government and state authorities. Changes in mining taxes, environmental standards, or labor laws can materially increase costs or interrupt operations. Security in certain mining regions is also a consideration that can affect productivity.
+Mexican mining faces regulatory and [political risk](/political-risk/). Mining permits, environmental compliance, and labor relations are subject to the policies of the Mexican government and state authorities. Changes in mining taxes, environmental standards, or labor laws can materially increase costs or interrupt operations. Security in certain mining regions is also a consideration that can affect productivity.
 
 The company carries debt to fund operations and development. Mining is capital-intensive, and leverage amplifies both gains and losses as commodity prices cycle. Rising [interest rates](/interest-rate/) increase the cost of servicing debt and reduce financial flexibility.
 

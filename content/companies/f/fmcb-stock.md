@@ -22,7 +22,7 @@ Unlike a publicly traded manufacturer that raises capital in equity or bond mark
 
 ## Equity and Regulatory Capital
 
-FMCB maintains equity capital—common stock and accumulated [retained earnings](/retained-earnings/)—primarily to satisfy regulatory requirements and absorb unexpected loan losses. Federal banking regulators mandate minimum [capital ratios](/enterprise-value/) tied to the bank's risk profile. A community bank with a straightforward loan book faces less stringent capital demands than a large, complex institution with derivatives and trading portfolios, but even FMCB must hold equity equal to a percentage of its risk-weighted assets.
+FMCB maintains equity capital—common stock and accumulated [retained earnings](/retained-earnings/)—primarily to satisfy regulatory requirements and absorb unexpected loan losses. Federal banking regulators mandate minimum [capital ratios](/enterprise-value/) tied to the bank's risk profile. A community bank with a straightforward loan book faces less stringent capital demands than a large, complex institution with derivatives and trading portfolios, but even FMCB must hold equity equal to a percentage of its [risk-weighted assets](/risk-weighted-assets/).
 
 The equity base grows through retained earnings. Each quarter, if FMCB generates net income, it can either pay a portion to shareholders as a [dividend](/dividend/) or retain it to strengthen the balance sheet. FMCB typically retains the majority of earnings, building equity slowly over time. This approach is conservative—the bank sacrifices immediate shareholder payouts to accumulate capital buffers that protect both depositors and the institution itself.
 
@@ -36,7 +36,7 @@ FMCB grows deposits from its community by maintaining trust and competitive rate
 
 ## Leverage and Leverage Ratios
 
-Unlike a manufacturer, a bank's "leverage" is its assets-to-equity ratio. If FMCB has $1 billion in assets and $100 million in equity, it is leveraged 10 times—quite normal for a bank. But that ratio is not analogous to corporate debt leverage. The deposits are the other side of the assets: they are obligations owed to customers, not holders of [bonds](/bond/) or [preferred stock](/preferred-stock/). Depositors have implicit protection via federal insurance ([FDIC](/securities-and-exchange-commission/)) and explicit protection from the bank's equity cushion.
+Unlike a manufacturer, a bank's "leverage" is its assets-to-equity ratio. If FMCB has $1 billion in assets and $100 million in equity, it is leveraged 10 times—quite normal for a bank. But that ratio is not analogous to corporate debt leverage. The deposits are the other side of the assets: they are obligations owed to customers, not holders of [bonds](/bond/) or [preferred stock](/preferred-stock/). Depositors have implicit protection via federal insurance ([FDIC](/securities-and-exchange-commission/)) and explicit protection from the bank's [equity cushion](/equity-cushion/).
 
 FMCB's true capital strength lies in its loan-loss-reserve practices. The bank estimates the percentage of its loan portfolio that will eventually default and sets aside reserves to cover those losses. A conservative reserve—say, 1% of total loans—indicates confidence in credit quality but also shows prudent loss accounting. Regulators and analysts scrutinize loan-loss ratios to gauge a bank's exposure to [credit risk](/credit-risk/).
 

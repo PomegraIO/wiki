@@ -4,7 +4,7 @@ description: "Business development company providing debt and equity to middle-m
 keywords: [BDC, direct-lending, business-development-company, middle-market, private-credit]
 ---
 
-*[Nuveen Churchill Direct Lending Corp.](/ncdl-stock/) ([NCDL](/ncdl-stock/)) is a [business-development company](/special-purpose-acquisition-company/) (BDC) that originates and manages debt and equity investments in middle-market private companies. The firm is essentially a [closed-end fund](/closed-end-fund/) that borrows and invests, capturing the spread between borrowing costs and the yields earned on its loan portfolio. Its earnings are acutely sensitive to credit cycles, but the secular growth of private-credit markets has created a structurally expanding funding channel that insulates BDCs from the worst of historical credit busts.*
+*[Nuveen Churchill Direct Lending Corp.](/ncdl-stock/) ([NCDL](/ncdl-stock/)) is a [business-development company](/special-purpose-acquisition-company/) (BDC) that originates and manages debt and equity investments in middle-market private companies. The firm is essentially a [closed-end fund](/closed-end-fund/) that borrows and invests, capturing the spread between borrowing costs and the yields earned on its loan portfolio. Its earnings are acutely sensitive to [credit cycles](/credit-cycle/), but the secular growth of private-credit markets has created a structurally expanding funding channel that insulates BDCs from the worst of historical credit busts.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>NCDL</td></tr>

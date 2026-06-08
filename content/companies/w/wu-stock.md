@@ -49,7 +49,7 @@ The [balance sheet](/balance-sheet/) is straightforward: minimal capital intensi
 
 ## What to watch
 
-Remittance volumes and average transfer sizes are leading indicators. If overall remittance flow accelerates (driven by wage growth and migration patterns), Western Union benefits; if remittances decelerate or shift to alternative channels, the company faces structural headwinds. The company's 10-K breaks out volumes and pricing by corridor, providing detail on which regions are growing and which are stalling.
+Remittance volumes and average transfer sizes are [leading indicators](/leading-indicator/). If overall remittance flow accelerates (driven by wage growth and migration patterns), Western Union benefits; if remittances decelerate or shift to alternative channels, the company faces structural headwinds. The company's 10-K breaks out volumes and pricing by corridor, providing detail on which regions are growing and which are stalling.
 
 The margin picture matters. As competition and regulatory costs rise, the gap between fees charged and costs incurred shrinks. Western Union's ability to maintain pricing power in high-flow corridors while losing share in low-fee segments determines whether the business can grow earnings or merely shrinks in place.
 

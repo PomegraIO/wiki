@@ -29,7 +29,7 @@ BKDV tracks the Morningstar US Large-Cap Value Index, a rules-based index of lar
 
 ## Fund structure and costs
 
-As a passively managed ETF, BKDV holds a portfolio that mirrors the index it tracks, trading on the NYSE Arca exchange like a stock. The [expense ratio](/expense-ratio/) is very low, typical of passively managed BNY Mellon funds, and the fund is liquid with tight [bid-ask spreads](/bid-ask-spread/) during normal market hours. Investors can buy or sell shares throughout the trading day at prices determined by supply and demand, rather than purchasing at a single daily price like a [mutual fund](/mutual-fund/).
+As a passively managed ETF, BKDV holds a portfolio that mirrors the index it tracks, trading on the [NYSE Arca](/nyse-arca/) exchange like a stock. The [expense ratio](/expense-ratio/) is very low, typical of passively managed BNY Mellon funds, and the fund is liquid with tight [bid-ask spreads](/bid-ask-spread/) during normal market hours. Investors can buy or sell shares throughout the trading day at prices determined by supply and demand, rather than purchasing at a single daily price like a [mutual fund](/mutual-fund/).
 
 ## Dynamic weighting and the value tilt
 
@@ -45,4 +45,4 @@ Value-factor funds can underperform the broader market for extended periods. Gro
 
 ## How to research BKDV
 
-Start with BNY Mellon's fact sheet for the fund, which lists current holdings, sector breakdown, and the expense ratio. The Morningstar Index website documents how the underlying index selects and weights stocks. Check the fund's historical performance relative to the broader U.S. large-cap market and other value-focused funds to understand how much value premium it captures. The prospectus details any cash-flow policies and tax-efficiency mechanisms. Review the fund's [annual reports](/10-k/) to track any changes to weighting rules or index methodology.
+Start with BNY Mellon's fact sheet for the fund, which lists current holdings, sector breakdown, and the expense ratio. The Morningstar Index website documents how the underlying index selects and weights stocks. Check the fund's historical performance relative to the broader U.S. large-cap market and other value-focused funds to understand how much [value premium](/value-premium/) it captures. The prospectus details any cash-flow policies and tax-efficiency mechanisms. Review the fund's [annual reports](/10-k/) to track any changes to weighting rules or index methodology.

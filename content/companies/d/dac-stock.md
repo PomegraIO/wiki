@@ -35,7 +35,7 @@ First, a modern, efficient fleet. Fuel costs are a massive line item for shippin
 
 Second, customer relationships with the world's largest liner operators. Maersk, MSC, and Hapag-Lloyd control a huge share of global container traffic. These companies need predictable, reliable tonnage and value counterparties they can trust over decades. Danaos has built that track record, which means it gets first call on rate negotiations.
 
-Third, the financial fortress of contracted cash flows. By locking 100% of 2026 container fleet revenue and 87% of 2027 revenue in fixed contracts, Danaos insulates itself from spot rate shocks that would cripple competitors. This certainty lets the company invest in new build vessels with conviction, knowing it can service debt through thick and thin.
+Third, the financial fortress of contracted cash flows. By locking 100% of 2026 container fleet revenue and 87% of 2027 revenue in fixed contracts, Danaos insulates itself from [spot rate](/spot-rate/) shocks that would cripple competitors. This certainty lets the company invest in new build vessels with conviction, knowing it can service debt through thick and thin.
 
 ## Pressures and headwinds
 

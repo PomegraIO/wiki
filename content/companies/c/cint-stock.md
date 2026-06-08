@@ -53,7 +53,7 @@ Multinational clients using CI&T may also structure their relationships to minim
 
 CI&T's growth strategy historically combines organic hiring with strategic [acquisitions](/acquisition/) of smaller, specialized firms or regional competitors. Acquisitions can accelerate entry into new geographies (acquiring a Colombian consulting firm to anchor operations in Colombia) or add specialized capabilities (acquiring a firm with deep cloud or AI expertise). Like all IT services M&A, integration is critical and frequently poses challenges: retention of acquired staff, cultural alignment, and client continuity all drive success or failure.
 
-The company's acquisition history and integration track record are worth reviewing in earnings calls and investor presentations. Successfully integrated acquisitions compound growth; failed integrations destroy value and signal management execution risk.
+The company's acquisition history and integration track record are worth reviewing in earnings calls and investor presentations. Successfully integrated acquisitions compound growth; failed integrations destroy value and signal management [execution risk](/execution-risk/).
 
 ## Revenue Recognition and Customer Concentration
 

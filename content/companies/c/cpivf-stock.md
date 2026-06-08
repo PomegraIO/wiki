@@ -23,7 +23,7 @@ The competitive arena for hemp-derived wellness is brutally crowded. Incumbent w
 
 ## Regulatory Fragmentation as Moat and Burden
 
-The true competitive dynamic in cannabis is regulatory arbitrage and legal risk tolerance. States allow cultivation and retail under their own licenses; the federal government still classifies cannabis as Schedule I. Large publicly traded companies almost universally avoid direct cultivation or retail to sidestep federal enforcement risk. Smaller players like CPIVF, and the private operators that dominate the market, accept that risk in exchange for higher margins and the chance to own supply chains vertically.
+The true competitive dynamic in cannabis is regulatory arbitrage and [legal risk](/legal-risk/) tolerance. States allow cultivation and retail under their own licenses; the federal government still classifies cannabis as Schedule I. Large publicly traded companies almost universally avoid direct cultivation or retail to sidestep federal enforcement risk. Smaller players like CPIVF, and the private operators that dominate the market, accept that risk in exchange for higher margins and the chance to own supply chains vertically.
 
 But regulatory fragmentation cuts both ways. A shipment that is legal in one state can become a federal crime 50 miles away. Marketing claims approved in California might violate FDA rules or another state's regulations. Compliance costs scale non-linearly—the firm must navigate state-by-state licensing, testing, labeling, and inspection regimes. Larger players can absorb these costs through scale; CPIVF operates with tighter margins and more exposure to sudden rule changes.
 

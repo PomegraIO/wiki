@@ -43,7 +43,7 @@ This specialization creates a moat against larger competitors in specific niches
 
 ## Deposits, capital, and the regulatory framework
 
-Like all banks, BancFirst is heavily regulated by the [Federal Reserve](/federal-reserve/), the FDIC, and state regulators. The company must maintain minimum capital ratios, undergo regular stress tests, and follow rules about risk-weighted assets and liquidity. These regulations exist to ensure that banks don't take excessive risk and can survive a financial crisis without failing.
+Like all banks, BancFirst is heavily regulated by the [Federal Reserve](/federal-reserve/), the FDIC, and state regulators. The company must maintain minimum capital ratios, undergo regular stress tests, and follow rules about [risk-weighted assets](/risk-weighted-assets/) and liquidity. These regulations exist to ensure that banks don't take excessive risk and can survive a financial crisis without failing.
 
 Deposits are insured by the FDIC up to $250,000 per depositor, per bank, per account type, which makes retail deposits very sticky — customers are confident their money is safe. However, in recent years, higher interest rates and competition from money-market funds and [Treasury bills](/treasury-bill/) have made deposits more rate-sensitive. Customers and small businesses can shop for better rates elsewhere, forcing banks to offer higher deposit rates to retain and grow their deposit base. This erodes net interest margins and puts pressure on profitability.
 

@@ -36,7 +36,7 @@ Under normal market conditions, at least 80% of the fund's assets are invested i
 
 The income from FCT comes from two sources: the regular [coupon payments](/coupon-payment/) from the loans (paid to the fund and distributed to shareholders), and any gains from selling loans at a price higher than what was paid. The floating-rate structure means the fund's income will rise if interest rates rise — a helpful dynamic in many rising-rate environments, but a constraint if rates fall and floating coupons compress.
 
-The fund does not limit itself to first-lien senior loans; it can invest in second-lien debt, mezzanine financing, and other credit instruments if the managers believe those positions offer attractive risk-adjusted returns. This flexibility is a strategic choice: pure first-lien funds face competition from banks and direct lenders all chasing the same top-priority collateral, so allowing second-lien and hybrid positions lets the manager capture yield where there is less crowding.
+The fund does not limit itself to first-lien senior loans; it can invest in second-lien debt, [mezzanine financing](/mezzanine-financing/), and other credit instruments if the managers believe those positions offer attractive risk-adjusted returns. This flexibility is a strategic choice: pure first-lien funds face competition from banks and direct lenders all chasing the same top-priority collateral, so allowing second-lien and hybrid positions lets the manager capture yield where there is less crowding.
 
 ## Competition in the floating-rate fund landscape
 

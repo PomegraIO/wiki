@@ -13,7 +13,7 @@ handwritten: true
 
 ## What is ANV and how is it different from owning Nvidia stock?
 
-ANV is not a traditional ETF. It is a structured product — a complex derivatives strategy packaged as an exchange-traded fund — tied to [Nvidia](/nvda-stock/) (NVDA), the semiconductor and AI compute company. Rather than holding NVIDIA shares directly, GraniteShares constructs a portfolio of [bonds](/bond/) and options designed to deliver leveraged exposure to Nvidia with downside protection and an upside cap. If you own NVDA stock, you get the stock's full return, up or down. In ANV, you get amplified gains within bounds, but you lose the ability to participate beyond a certain rally level — in exchange, you have a safety net if the stock falls.
+ANV is not a traditional ETF. It is a [structured product](/structured-product/) — a complex derivatives strategy packaged as an exchange-traded fund — tied to [Nvidia](/nvda-stock/) (NVDA), the semiconductor and AI compute company. Rather than holding NVIDIA shares directly, GraniteShares constructs a portfolio of [bonds](/bond/) and options designed to deliver leveraged exposure to Nvidia with downside protection and an upside cap. If you own NVDA stock, you get the stock's full return, up or down. In ANV, you get amplified gains within bounds, but you lose the ability to participate beyond a certain rally level — in exchange, you have a safety net if the stock falls.
 
 ## How does the autocallable structure actually work?
 

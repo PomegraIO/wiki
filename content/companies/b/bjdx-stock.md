@@ -82,7 +82,7 @@ If adoption lags, reimbursement is delayed, or manufacturing issues emerge, the 
 
 ## The Investor Perspective at Commercialization
 
-For investors in Bluejay, this stage carries moderate risk compared to pure pre-clinical biotech, but significant execution risk remains. The company has de-risked the science (regulatory clearance is obtained), but the commercial risk is now paramount. Will customers adopt at scale? Will reimbursement materialize? Will manufacturing scale smoothly? These questions cannot be answered until they are lived through.
+For investors in Bluejay, this stage carries moderate risk compared to pure pre-clinical biotech, but significant [execution risk](/execution-risk/) remains. The company has de-risked the science (regulatory clearance is obtained), but the commercial risk is now paramount. Will customers adopt at scale? Will reimbursement materialize? Will manufacturing scale smoothly? These questions cannot be answered until they are lived through.
 
 Investors at this stage are betting on management execution and market acceptance. A company with strong commercial leadership, a differentiated device, and clear reimbursement pathways attracts capital at attractive valuations. A company with weak execution or unclear competitive advantage struggles to raise capital and may face dilutive financing.
 

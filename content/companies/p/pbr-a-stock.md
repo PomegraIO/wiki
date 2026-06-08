@@ -49,7 +49,7 @@ The company is also partially privatized and listed on public [stock exchanges](
 
 Like every oil company, Petrobras lives and dies by the global price of crude. When oil is expensive, the company is profitable and can invest in new fields. When oil is cheap, the company struggles, slows drilling, and may even run at a loss. This volatility makes it hard to predict earnings and cash flow.
 
-Petrobras also operates in Brazil, a country that has experienced political and economic instability. Currency swings affect its revenues when it sells in dollars but operates in reals. Infrastructure challenges in some regions can disrupt supply chains. And the company has been tied up in corruption scandals in the past, with executives implicated in bribery schemes. Those legal and reputational risks have cost it money and management attention.
+Petrobras also operates in Brazil, a country that has experienced political and economic instability. Currency swings affect its revenues when it sells in dollars but operates in reals. Infrastructure challenges in some regions can disrupt supply chains. And the company has been tied up in corruption scandals in the past, with executives implicated in bribery schemes. Those legal and [reputational risks](/reputational-risk/) have cost it money and management attention.
 
 ## What investors watch
 

@@ -45,7 +45,7 @@ CILFY is a premium-volume giant—one of the top three life insurers globally by
 
 ## Investment Thesis Anchors
 
-CILFY appeals to investors primarily as a way to own Chinese insurance franchise value and Chinese bond yields without country-specific political risk. Its Hong Kong and international listings provide that access. The bull case rests on China's rising middle class and underinsurance (life insurance penetration is far lower than in developed markets), which creates long-term premium growth. The bear case centers on regulatory pressure to compete on modern terms (which CILFY is slow to adopt), rising digital-distribution competition, and the structural drag of legacy branch economics.
+CILFY appeals to investors primarily as a way to own Chinese insurance franchise value and Chinese bond yields without country-specific [political risk](/political-risk/). Its Hong Kong and international listings provide that access. The bull case rests on China's rising middle class and underinsurance (life insurance penetration is far lower than in developed markets), which creates long-term premium growth. The bear case centers on regulatory pressure to compete on modern terms (which CILFY is slow to adopt), rising digital-distribution competition, and the structural drag of legacy branch economics.
 
 Investors researching CILFY will find its competitive story most clearly in its 10-K disclosures of written premiums by product line, geographic segment, and distribution channel. Comparing that mix to Ping An's and New China Insurance's reveals how much CILFY's position depends on government and group business rather than premium growth or innovation.
 

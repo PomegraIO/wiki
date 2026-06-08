@@ -34,7 +34,7 @@ The cannabis industry spans licensed growers, retailers, processors, and ancilla
 
 ## Valuation and Exit Pathways
 
-A pre-revenue or early-revenue pharmaceutical company is valued on pipeline and clinical proof-of-concept. ELUTIA's valuation reflects investor bets on (1) successful cannabis-derived drug development, (2) eventual federal legalization or rescheduling of cannabis (which would clarify the business environment), and (3) [acquisition](/acquisition/) by a larger pharma or cannabis player seeking cannabinoid portfolio. Exit pathways are narrow: IPO remains unlikely until the company has FDA approvals or clear paths to them; acquisition is the more probable exit. But acquirers are cautious—pharmaceutical firms worry about legal and reputational risk, and large cannabis retailers worry about pharmaceutical development timelines.
+A pre-revenue or early-revenue pharmaceutical company is valued on pipeline and clinical proof-of-concept. ELUTIA's valuation reflects investor bets on (1) successful cannabis-derived drug development, (2) eventual federal legalization or rescheduling of cannabis (which would clarify the business environment), and (3) [acquisition](/acquisition/) by a larger pharma or cannabis player seeking cannabinoid portfolio. Exit pathways are narrow: IPO remains unlikely until the company has FDA approvals or clear paths to them; acquisition is the more probable exit. But acquirers are cautious—pharmaceutical firms worry about legal and [reputational risk](/reputational-risk/), and large cannabis retailers worry about pharmaceutical development timelines.
 
 ## Research Pathways
 

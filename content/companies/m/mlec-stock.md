@@ -56,7 +56,7 @@ Moolec operates in a growing global interest in sustainable protein and climate-
 <div class="wiki-seealso">
 
 ### Closely related
-- [mlkn-stock](/mlkn-stock/) — another industrial/manufacturing firm subject to commodity inputs and market cycles
+- [mlkn-stock](/mlkn-stock/) — another industrial/manufacturing firm subject to commodity inputs and [market cycles](/market-cycle/)
 - [mlgo-stock](/mlgo-stock/) — technology-dependent company in a niche market
 
 ### Wider context

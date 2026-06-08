@@ -67,7 +67,7 @@ Default risk is negligible. The US government has never defaulted on its Treasur
 
 [Call risk](/call-risk/) does not exist for Treasuries — they cannot be called early. Once you own them, the government cannot refinance them away from you before maturity (though it can refund them, selling new ones to replace the old at the maturity date).
 
-Duration risk from reinvestment is subtle. As coupons are paid, you reinvest the cash in whatever the [current yield](/current-yield/) is at that moment. If rates fall, you reinvest at lower yields. If rates rise, you reinvest at higher yields. Over a full market cycle, this balances out, but in any given period it matters.
+Duration risk from reinvestment is subtle. As coupons are paid, you reinvest the cash in whatever the [current yield](/current-yield/) is at that moment. If rates fall, you reinvest at lower yields. If rates rise, you reinvest at higher yields. Over a full [market cycle](/market-cycle/), this balances out, but in any given period it matters.
 
 ## How to research it
 

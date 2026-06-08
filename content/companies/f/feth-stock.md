@@ -13,7 +13,7 @@ handwritten: true
 
 The Fidelity [Ethereum](/ethereum/) Fund (ticker FETH, SEC CIK 0002000046) is a spot Ethereum exchange-traded fund that trades on traditional [stock exchanges](/stock-exchange/) and offers investors exposure to Ethereum's price performance without the need to hold Ethereum directly or manage cryptographic keys. Launched in mid-2024, alongside a suite of other Fidelity crypto ETFs, the fund represents [Fidelity Investments](/fidelity-investments/)' entry into regulated, SEC-approved cryptocurrency products and reflects the same logic that drove BlackRock's [Bitcoin](/bitcoin/) ETF: institutional and retail investors increasingly want cryptocurrency exposure, but prefer a familiar, custody-protected, tax-efficient vehicle integrated into traditional brokerage accounts rather than managing private keys and wallets.
 
-Ethereum is the second-largest cryptocurrency by market value. Whereas Bitcoin is primarily a digital currency and store of value, Ethereum is a programmable blockchain platform — a foundation for decentralized applications, smart contracts, and other digital systems built atop its network. Fidelity's decision to launch an Ethereum ETF alongside its Bitcoin offering signals confidence that Ethereum has achieved sufficient regulatory clarity and institutional acceptance to merit the same fund structure reserved for established asset classes.
+Ethereum is the second-largest cryptocurrency by market value. Whereas Bitcoin is primarily a digital currency and store of value, Ethereum is a programmable blockchain platform — a foundation for decentralized applications, [smart contracts](/smart-contract/), and other digital systems built atop its network. Fidelity's decision to launch an Ethereum ETF alongside its Bitcoin offering signals confidence that Ethereum has achieved sufficient regulatory clarity and institutional acceptance to merit the same fund structure reserved for established asset classes.
 
 ## Market structure: spot versus derivatives
 
@@ -37,7 +37,7 @@ FETH's economics follow the same pattern as other ETFs. The fund charges an annu
 
 The fee rate matters for investors, because it is a direct drag on returns. If Ethereum appreciates 50 percent in a year and FETH charges 0.25 percent, an investor in FETH captures 49.75 percent of that appreciation. If another Ethereum fund charges 0.40 percent, the investor captures only 49.6 percent. Over decades, that difference compounds.
 
-Fidelity has competitive pressure to keep FETH's fee competitive with other spot Ethereum ETFs. BlackRock's iShares division has also launched an Ethereum ETF (ticker EETH); Fidelity's FETH must offer comparable or better pricing to attract assets. The industry-wide fee pressure in cryptocurrency ETFs is toward lower fees, similar to the pressure that drove Bitcoin ETF fees down to 0.20–0.25 percent.
+Fidelity has competitive pressure to keep FETH's fee competitive with other spot Ethereum ETFs. BlackRock's iShares division has also launched an Ethereum ETF (ticker EETH); Fidelity's FETH must offer comparable or better pricing to attract assets. The industry-wide fee pressure in [cryptocurrency ETFs](/cryptocurrency-etf/) is toward lower fees, similar to the pressure that drove Bitcoin ETF fees down to 0.20–0.25 percent.
 
 ## Ethereum's revenue and utility pressures
 

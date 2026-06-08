@@ -69,6 +69,6 @@ Examine gross margins by concept, if disclosed. Different dining concepts carry 
 
 Watch commentary on labor costs and labor availability. This is a major pressure point for the industry. Any company that manages labor more efficiently than competitors has a durable advantage.
 
-Track same-location customer traffic, if available. Strong companies keep customers coming back; weak ones see declining traffic. Monitor consumer confidence and employment data: these are leading indicators for discretionary spending on dining out. A company whose results move inversely to consumer confidence is taking more risk than one whose concepts are resilient to economic cycles.
+Track same-location customer traffic, if available. Strong companies keep customers coming back; weak ones see declining traffic. Monitor consumer confidence and employment data: these are [leading indicators](/leading-indicator/) for discretionary spending on dining out. A company whose results move inversely to consumer confidence is taking more risk than one whose concepts are resilient to economic cycles.
 
 Finally, assess management's discipline around expansion. The best restaurant operators grow carefully, prove each new concept before scaling it, and maintain quality across their portfolio rather than pursuing aggressive growth that deteriorates the business.

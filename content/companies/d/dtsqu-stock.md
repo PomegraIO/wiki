@@ -31,7 +31,7 @@ The key number for DTSQU shareholders is the redemption level. If too many inves
 
 SPACs typically have 24 months (some have been granted extensions to 36 months) to announce a target merger. DT Cloud Star has until July 2026 to announce a deal, and until some later date (usually 18–24 months after announcement) to close the combination. This creates time pressure — shareholders will not wait indefinitely — but also a defined window during which the sponsor must strike.
 
-During the search, the SPAC's board (composed partly of sponsors and partly of independent directors) nominates a CEO and team to evaluate targets, speak with potential sellers, and vet acquisition candidates. This is a quiet process; most SPAC boards handle deal discussions confidentially to avoid speculative leaks. Once a target is identified and a letter of intent is signed, the deal becomes public — a merger agreement and proxy statement are filed, disclosed, and put to a shareholder vote.
+During the search, the SPAC's board (composed partly of sponsors and partly of independent directors) nominates a CEO and team to evaluate targets, speak with potential sellers, and vet acquisition candidates. This is a quiet process; most SPAC boards handle deal discussions confidentially to avoid speculative leaks. Once a target is identified and a [letter of intent](/letter-of-intent-ma/) is signed, the deal becomes public — a merger agreement and [proxy statement](/proxy-statement/) are filed, disclosed, and put to a shareholder vote.
 
 ## Risks specific to pre-announcement SPACs
 

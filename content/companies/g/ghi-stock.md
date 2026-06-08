@@ -35,7 +35,7 @@ Greystone holds a geographically dispersed portfolio of multifamily properties, 
 
 ## Fee Income and Affiliate Relationships
 
-In addition to equity returns, Greystone likely earns [management fees](/management-fee/) from third-party sponsored funds or partnerships it manages, using its scale and credit expertise to supervise properties on behalf of other investors. These fees provide a revenue stream more stable than residual equity distributions and smooth earnings across market cycles. However, they may not be independently disclosed, requiring careful reading of the [10-K](/10-k/) to identify all sources of economic value.
+In addition to equity returns, Greystone likely earns [management fees](/management-fee/) from third-party sponsored funds or partnerships it manages, using its scale and credit expertise to supervise properties on behalf of other investors. These fees provide a revenue stream more stable than residual equity distributions and smooth earnings across [market cycles](/market-cycle/). However, they may not be independently disclosed, requiring careful reading of the [10-K](/10-k/) to identify all sources of economic value.
 
 ## Liquidity and Redemption
 

@@ -36,7 +36,7 @@ Gelteq's supply chain likely depends on sourcing raw materials or precursor chem
 
 ## Capital Intensity and Financing
 
-Technology and specialty-materials companies range from capital-light (pure software or services) to capital-intensive (advanced manufacturing facilities with proprietary equipment). Gelteq's [balance sheet](/balance-sheet/) reveals the extent of property, plant, and equipment and the depreciation burden. A capital-intensive business requires ongoing reinvestment to maintain competitiveness and must generate sufficient cash flow to support both growth capex and shareholder returns.
+Technology and specialty-materials companies range from capital-light (pure software or services) to capital-intensive (advanced manufacturing facilities with proprietary equipment). Gelteq's [balance sheet](/balance-sheet/) reveals the extent of [property, plant, and equipment](/property-plant-equipment/) and the depreciation burden. A capital-intensive business requires ongoing reinvestment to maintain competitiveness and must generate sufficient cash flow to support both growth capex and shareholder returns.
 
 The company likely finances its operations through a mix of operating cash flow, [debt](/corporate-bond/), and occasional equity [issuances](/initial-public-offering/). The ratio of debt to equity determines financial flexibility and the burden of interest expense. A company with modest debt can weather downturns or invest heavily in R&D; a leveraged company faces constraints.
 

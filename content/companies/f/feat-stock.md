@@ -33,7 +33,7 @@ YieldMax, a newer provider of specialised income-focused ETFs, licensed Dorsey W
 
 ## How the fund selects and holds its five stocks
 
-Unlike most ETFs, which hold dozens or hundreds of positions to spread risk, FEAT holds exactly five stocks. At regular intervals — typically quarterly — Dorsey Wright's process screens the universe of large-capitalization US-listed stocks against its proprietary criteria for dividend quality, financial strength, and technical characteristics. The five stocks that rank highest according to that methodology become the fund's holdings, weighted equally (20% each) at the time of rebalancing.
+Unlike most ETFs, which hold dozens or hundreds of positions to [spread risk](/spread-risk/), FEAT holds exactly five stocks. At regular intervals — typically quarterly — Dorsey Wright's process screens the universe of large-capitalization US-listed stocks against its proprietary criteria for dividend quality, financial strength, and technical characteristics. The five stocks that rank highest according to that methodology become the fund's holdings, weighted equally (20% each) at the time of rebalancing.
 
 This concentrated approach is the fund's defining characteristic. Holding only five stocks means each position has outsized influence on returns. If one holding has a bad quarter, it materially affects the fund's performance. Conversely, if the selection process correctly identifies five genuinely superior companies, the lack of diversification into weaker alternatives could be advantageous.
 

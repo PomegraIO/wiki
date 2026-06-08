@@ -23,7 +23,7 @@ Debt carries multi-tranche structures: term loans and revolving credit facilitie
 
 ## The Leverage Arc and Dividend Sustainability
 
-Energizer inherited elevated leverage from a 2014 leveraged recapitalization (then as Edgewell's battery division). That event loaded the company's balance sheet with debt that persisted through the 2015 [spin-off](/spin-off/) and beyond. Subsequent [acquisitions](/acquisition/) and refinancings kept leverage elevated, pressing management to rely on operational cash generation to de-lever incrementally.
+Energizer inherited elevated leverage from a 2014 [leveraged recapitalization](/leveraged-recapitalization/) (then as Edgewell's battery division). That event loaded the company's balance sheet with debt that persisted through the 2015 [spin-off](/spin-off/) and beyond. Subsequent [acquisitions](/acquisition/) and refinancings kept leverage elevated, pressing management to rely on operational cash generation to de-lever incrementally.
 
 The dividend is both anchor and constraint: it represents a ~3–4% yield and signals confidence in cash durability, yet it also competes with debt paydown for every dollar of free cash flow. When operating performance tightens — as during cost-pressure cycles in retail battery distribution — dividend coverage (operating cash flow ÷ dividend paid) compresses, forcing tactical choices: cut the dividend, reduce buybacks, or accept slower leverage reduction.
 
@@ -31,7 +31,7 @@ The dividend is both anchor and constraint: it represents a ~3–4% yield and si
 
 Energizer's board governs capital allocation across four levers: debt reduction, [dividends](/dividend/), share repurchases, and working-capital management. In periods of strong cash generation, the typical sequence prioritizes debt paydown first (covenant-driven), then maintains the dividend (return-of-capital signal), with remaining free cash directed to opportunistic buybacks.
 
-Repurchase patterns often accelerate when the share trades below estimated [intrinsic value](/intrinsic-value/), compressing the float. Yet buyback authorization is not discretionary — management must ensure that leverage ratios stay compliant and that covenant tests are cleared. This creates a lag between board approval and actual repurchase execution, making buyback guidance an imperfect predictor of actual capital return. Investors tracking capital return should monitor both the absolute dollar repurchase total and the moving average of shares outstanding, which reveals when repurchases are economically meaningful.
+Repurchase patterns often accelerate when the share trades below estimated [intrinsic value](/intrinsic-value/), compressing the float. Yet buyback authorization is not discretionary — management must ensure that leverage ratios stay compliant and that covenant tests are cleared. This creates a lag between board approval and actual repurchase execution, making buyback guidance an imperfect predictor of actual capital return. Investors tracking capital return should monitor both the absolute dollar repurchase total and the [moving average](/moving-average/) of shares outstanding, which reveals when repurchases are economically meaningful.
 
 ## Working Capital Dynamics and Cash Conversion
 
@@ -49,7 +49,7 @@ The company's balance sheet also holds intellectual property and brand intangibl
 
 Energizer's [cost of debt](/cost-of-debt/) is rates-sensitive. With leverage elevated relative to [EBITDA](/ebitda/), the company must refinance maturities in a way that does not breach interest-coverage covenants or push total interest expense (as a percentage of EBITDA) beyond board tolerance. When [interest rates](/interest-rate/) rise, refinancing becomes more expensive in two ways: higher coupon and higher origination fees. If operating profit stalls while rates climb, the company faces margin compression from finance costs, reducing cash available for dividends or debt reduction.
 
-Conversely, a falling-rate environment or business-improvement scenario creates refinancing opportunity: lower coupons on maturities, potential covenant relief through EBITDA growth, and expanded buyback authorization. Investors should track Energizer's debt-maturity schedule — when large chunks come due — and the [interest coverage ratio](/interest-coverage-ratio/) as a leading indicator of refinancing ease.
+Conversely, a falling-rate environment or business-improvement scenario creates refinancing opportunity: lower coupons on maturities, potential covenant relief through EBITDA growth, and expanded buyback authorization. Investors should track Energizer's debt-maturity schedule — when large chunks come due — and the [interest coverage ratio](/interest-coverage-ratio/) as a [leading indicator](/leading-indicator/) of refinancing ease.
 
 <div class="wiki-seealso">
 ### Closely related

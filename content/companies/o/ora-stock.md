@@ -15,7 +15,7 @@ handwritten: true
 
 Ormat Technologies develops and operates geothermal power plants around the world. Geothermal energy taps heat trapped deep beneath the Earth's surface and uses it to generate electricity and supply industrial heat. The company drills wells into geothermal reservoirs (concentrations of hot rock and steam), pipes that heat to the surface, and runs it through specially designed turbines that convert thermal energy into electrical power. The grid buys that electricity. Ormat operates dozens of these plants in places with high geothermal potential—Iceland, Turkey, Kenya, El Salvador, Indonesia, the Philippines, and the western United States—and is one of the world's largest geothermal power producers.
 
-The business model is part utility (owning and operating physical power plants) and part developer (financing, building, and bringing new plants online). The company earns revenue by selling electricity into wholesale power markets and under long-term contracts called power purchase agreements, where a utility or a large buyer commits to buy the plant's output at a fixed or predictable price.
+The business model is part utility (owning and operating physical power plants) and part developer (financing, building, and bringing new plants online). The company earns revenue by selling electricity into wholesale power markets and under long-term contracts called [power purchase agreements](/power-purchase-agreement/), where a utility or a large buyer commits to buy the plant's output at a fixed or predictable price.
 
 ### Why is geothermal valuable and how is it different from other renewables?
 

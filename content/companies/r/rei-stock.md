@@ -13,7 +13,7 @@ Ring Energy is an independent [oil and gas](/wiki/energy-complex-correlation/) e
 
 ## Business Operations
 
-Ring Energy's upstream business is built around extracting and producing [crude oil](/crude-oil/) and [natural gas](/natural-gas/) from mature and developing horizons within the Permian. The company's portfolio includes conventional vertical wells producing from shallower zones, as well as engagement with deeper, more complex geology. Most of Ring's revenue comes from crude oil sales, with natural gas and natural gas liquids providing supplemental cash flow. The company typically operates some of its own wells and acreage while participating in joint ventures on other properties, a common structure for independent producers.
+Ring Energy's upstream business is built around extracting and producing [crude oil](/crude-oil/) and [natural gas](/natural-gas/) from mature and developing horizons within the Permian. The company's portfolio includes conventional vertical wells producing from shallower zones, as well as engagement with deeper, more complex geology. Most of Ring's revenue comes from crude oil sales, with natural gas and [natural gas liquids](/natural-gas-liquids/) providing supplemental cash flow. The company typically operates some of its own wells and acreage while participating in joint ventures on other properties, a common structure for independent producers.
 
 The Permian Basin itself—spanning West Texas and southeastern New Mexico—has been the dominant source of U.S. oil growth since the [shale revolution](/shale-revolution/). Ring's position there places it in direct competition with major independents, large integrated companies, and smaller regional operators, all chasing the same geological targets. The basin's shallow depth, established infrastructure, and long production history mean that capital efficiency and operational know-how determine competitive advantage more than sheer acreage.
 
@@ -51,7 +51,7 @@ Operating risk is also material. Wells underperform, equipment fails, and market
 
 ## Capital Structure and Shareholder Model
 
-Ring funds operations and growth from [cash flow](/wiki/cash-conversion-cycle/), supplemented by borrowing when credit markets permit. The company maintains a [balance sheet](/balance-sheet/) discipline common to independents: a [debt-to-EBITDA](/wiki/debt-to-ebitda-ratio/) covenant with lenders, a revolving credit facility, and opportunistic access to [bond](/bond/) and [equity](/wiki/common-stock/) markets. Shareholder returns depend heavily on commodity price and capital allocation policy; Ring may prioritize debt reduction, organic spending, strategic acquisitions, or distributions depending on circumstances.
+Ring funds operations and growth from [cash flow](/wiki/cash-conversion-cycle/), supplemented by borrowing when credit markets permit. The company maintains a [balance sheet](/balance-sheet/) discipline common to independents: a [debt-to-EBITDA](/wiki/debt-to-ebitda-ratio/) covenant with lenders, a [revolving credit facility](/credit-facility-revolver/), and opportunistic access to [bond](/bond/) and [equity](/wiki/common-stock/) markets. Shareholder returns depend heavily on commodity price and capital allocation policy; Ring may prioritize debt reduction, organic spending, strategic acquisitions, or distributions depending on circumstances.
 
 ## Researching Ring Energy
 

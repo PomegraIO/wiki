@@ -47,7 +47,7 @@ In late 2024 and early 2025, Wah Fu announced a strategic pivot toward artificia
 
 This move reflects both market opportunity and competitive necessity. Chinese education technology has faced intense competition from companies like Alibaba and Tencent, which have the scale and capital to build sophisticated AI tutoring systems. For Wah Fu to remain competitive, it needed to offer AI-augmented learning without the capital intensity of training a proprietary model. DeepSeek is a pragmatic choice: it is Chinese-made (addressing regulatory preferences), free or low-cost to integrate, and capable enough for the educational use case.
 
-The risk is that integrating DeepSeek does not change the underlying problem Wah Fu faces: it is a regional player with limited consumer brand, dependent on institutional partners for distribution, operating in a fragmented market with limited network effects. Adding AI to the product helps, but whether it fundamentally changes the competitive position or growth trajectory remains to be seen.
+The risk is that integrating DeepSeek does not change the underlying problem Wah Fu faces: it is a regional player with limited consumer brand, dependent on institutional partners for distribution, operating in a [fragmented market](/fragmented-market/) with limited network effects. Adding AI to the product helps, but whether it fundamentally changes the competitive position or growth trajectory remains to be seen.
 
 ## The challenge of scale and competition
 

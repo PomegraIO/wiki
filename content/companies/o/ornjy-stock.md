@@ -12,7 +12,7 @@ handwritten: true
 
 ### What is OranjeBTC and where did the name come from?
 
-OranjeBTC S.A. – Educação e Investimento is a São Paulo-based company operating in financial education and cryptocurrency investment services. The name "Oranje" (orange in Dutch) reflects a deliberate historical reference: the Dutch were pioneers in establishing the first modern [stock exchanges](/stock-exchange/) and played a central role in the early history of organized financial markets. By invoking that legacy alongside [Bitcoin](/bitcoin/), the company signals an ambitious framing of its mission—to educate Brazilians about Bitcoin and digital assets the way the Dutch once educated the world about equities and tradable instruments. The company began trading on Brazil's B3 stock exchange under the symbol OBTC3 and later filed with the [Securities and Exchange Commission](/securities-and-exchange-commission/) for an American Depositary Share offering (ORNJY).
+OranjeBTC S.A. – Educação e Investimento is a São Paulo-based company operating in financial education and cryptocurrency investment services. The name "Oranje" (orange in Dutch) reflects a deliberate historical reference: the Dutch were pioneers in establishing the first modern [stock exchanges](/stock-exchange/) and played a central role in the early history of organized financial markets. By invoking that legacy alongside [Bitcoin](/bitcoin/), the company signals an ambitious framing of its mission—to educate Brazilians about Bitcoin and digital assets the way the Dutch once educated the world about equities and tradable instruments. The company began trading on Brazil's B3 stock exchange under the symbol OBTC3 and later filed with the [Securities and Exchange Commission](/securities-and-exchange-commission/) for an American [Depositary Share](/depositary-share/) offering (ORNJY).
 
 ### How does OranjeBTC make money?
 
@@ -68,10 +68,10 @@ Finally, watch for competitive moves—whether Coinbase, other large exchanges, 
 
 ### How to research OranjeBTC
 
-The company's SEC filing (CIK 0002093314) will contain the Form F-1 or F-6 registration statement, which includes financial statements, business description, risk factors, and management discussion and analysis. This is the authoritative source for understanding the company's financial position and strategy.
+The company's SEC filing (CIK 0002093314) will contain the Form F-1 or F-6 registration statement, which includes financial statements, business description, risk factors, and [management discussion and analysis](/management-discussion-and-analysis/). This is the authoritative source for understanding the company's financial position and strategy.
 
 Track the company's trading price and volume on B3 (if still listed) and the ADR markets to understand demand and liquidity. Monitor management commentary during earnings calls or investor presentations for updates on growth, regulatory developments, and strategy.
 
 Read independent analysis and reviews of OranjeBTC's education products and investment services to understand user satisfaction and competitive positioning. Follow Brazilian and U.S. regulatory news for any changes to cryptocurrency policy that could affect the company.
 
-Like any small-cap international company, OranjeBTC carries significant [currency risk](/currency-risk/) (Brazilian real fluctuations), market risk (Bitcoin volatility), and regulatory risk (policy shifts in Brazil or the U.S.). The company is a bet on the thesis that Bitcoin adoption and financial education in Brazil will grow—a reasonable thesis, but one with real downside if the regulatory or market environment turns unfavorable.
+Like any small-cap international company, OranjeBTC carries significant [currency risk](/currency-risk/) ([Brazilian real](/brazilian-real/) fluctuations), market risk (Bitcoin volatility), and regulatory risk (policy shifts in Brazil or the U.S.). The company is a bet on the thesis that Bitcoin adoption and financial education in Brazil will grow—a reasonable thesis, but one with real downside if the regulatory or market environment turns unfavorable.

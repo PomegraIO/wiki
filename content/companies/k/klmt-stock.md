@@ -1,0 +1,24 @@
+---
+title: "Invesco MSCI Global Climate 500 ETF (KLMT)"
+description: "An exchange-traded fund that tracks 500 of the world's largest companies selected for climate-related credentials, offering broad global exposure to businesses assessed as better-positioned for energy transition."
+keywords:
+  - climate investing
+  - ESG funds
+  - global equity
+  - energy transition
+  - sustainable investing
+  - index tracking
+handwritten: true
+---
+
+*The **Invesco MSCI Global Climate 500 ETF** — trading under the ticker KLMT on [NYSE Arca](/nyse-arca/) — follows the MSCI Global Select Climate 500 Index, a curated collection of large-cap companies worldwide whose operations and strategies align with climate-transition themes. It is a plain vanilla [index fund](/index-fund/) that trades like a stock, offers daily liquidity, and lets investors buy climate-aware exposure to firms across most sectors and geographies without picking stocks individually.*
+
+Climate-focused investing has moved from niche conviction play to a mainstream asset class over the past decade, and KLMT represents one of the straightforward-execution approaches: a diversified global basket selected on objective criteria around carbon intensity and energy transition alignment. The index underlying it contains roughly 500 companies, typically in the developed markets and larger emerging markets, weighted by their [market capitalization](/market-capitalization/). The fund itself is simple to own — it trades on an exchange like any stock, settles in cash like any ETF, and carries a low ongoing cost relative to actively managed alternatives.
+
+The MSCI climate methodology starts with a broad universe of large-cap equities and applies a series of screens. Companies are ranked on metrics such as exposure to fossil-fuel revenues, carbon emissions intensity, and climate risk vulnerability. The index then selects those firms that meet climate-transition criteria — essentially, businesses whose operational models or strategic positioning suggest they are less burdened by the energy transition or actively positioned to benefit from it. That is not a political judgment; it is a mechanical rule applied uniformly across the index. A renewable-energy company, a nuclear operator, an electric-vehicle manufacturer, and a building-materials firm specializing in efficient insulation could all sit in the index if they clear the quantitative hurdles.
+
+Ownership of KLMT gives a reader exposure to large-cap global equities — roughly 40 to 50 percent developed markets outside the United States, 40 to 45 percent U.S., and a small slice from emerging markets — across sectors including information technology, financials, industrials, consumer goods, and utilities. Because the fund tracks an index mechanically rather than employing a team of stock pickers, its returns will broadly match the index's return minus a small annual fee. The [expense ratio](/expense-ratio/) is moderate in the universe of climate-themed funds, typically in the neighborhood of 0.20 percent annually, which is low enough that transaction costs and the fund's fees are unlikely to be the primary driver of performance over a multi-year [holding period](/holding-period/).
+
+The real question for any climate-themed fund is whether the selection rule actually captures companies that outperform, stay flat, or underperform the broader market. History is short on this front — climate-focused passive funds have been available for only the past few years in any meaningful size — so the answer is unknowable in advance. What is true is that KLMT is not a concentrated bet on a single theme or technology; it is a diversified global index pruned on a specific criterion. A reader holding it is making a bet that companies with lower carbon intensity and better climate alignment will be better investments over the long run than a pure market-cap approach that includes all large-cap firms equally. That is a defensible thesis, but it is not guaranteed by the structure of the fund — the index methodology and the market's pricing of those firms will determine the actual outcome.
+
+KLMT is designed for investors who believe climate considerations matter to long-term returns and who want to own a diversified global equity basket rather than concentrated exposure to a particular green technology or sector. It is not a hedge against climate risk; it is a positively tilted portfolio toward companies whose business models or revenue streams seem less dependent on fossil fuels. For those researching it, the prospectus and fact sheet on the Invesco website spell out the exact composition, the index methodology, the historical returns, and the fee structure. Like any ETF, it trades during stock-market hours, and its price moves with the stocks it holds.

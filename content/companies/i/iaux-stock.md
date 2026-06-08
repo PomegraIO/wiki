@@ -59,7 +59,7 @@ A feasibility study must include an environmental assessment that demonstrates c
 
 U.S. mining projects require permits from multiple agencies: the U.S. Forest Service (if on federal land), the Bureau of Land Management, state mining regulators, and county authorities. Permitting can take 3–5 years and involves extensive environmental review, community hearings, and appeals.
 
-Community acceptance is critical. Mining generates employment but also environmental and traffic concerns. If local opposition is strong, permitting timelines lengthen, and political risk increases. Conversely, if a project is supported by the local community and county government, permitting moves more smoothly.
+Community acceptance is critical. Mining generates employment but also environmental and traffic concerns. If local opposition is strong, permitting timelines lengthen, and [political risk](/political-risk/) increases. Conversely, if a project is supported by the local community and county government, permitting moves more smoothly.
 
 I-80's ability to maintain positive relationships with local communities and regulators affects the value of its projects. A project with strong local support and government backing is worth more than an identical geological project facing local opposition.
 
@@ -75,7 +75,7 @@ I-80's shareholders benefit if the company discovers or develops a world-class d
 
 Once a project is acquired by a major mining operator, I-80's involvement typically ends. The operator funds final engineering, construction, and mine opening. I-80 shareholders may retain a small royalty (receiving a percentage of gold revenue for 20+ years), or they may exit entirely.
 
-The transition from exploration company to operating mine is a different business. An operator must manage mining logistics, commodity pricing risk (hedging), commodity price exposure, production rates, and costs. I-80's shareholders are no longer exposed to the operational and commodity risks of production; they have effectively sold the geological asset to a professional operator.
+The transition from exploration company to operating mine is a different business. An operator must manage mining logistics, commodity pricing risk (hedging), commodity price exposure, production rates, and costs. I-80's shareholders are no longer exposed to the operational and [commodity risks](/commodity-risk/) of production; they have effectively sold the geological asset to a professional operator.
 
 Some exploration companies transition to becoming producers themselves, retaining projects and building mining operations. This requires a shift from geological discipline to mining and finance discipline—a difficult transition. Most exploration-focused companies lack the operational expertise and capital access to become efficient miners; they remain developers and sellers.
 

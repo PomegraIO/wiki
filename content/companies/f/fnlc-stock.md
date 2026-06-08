@@ -45,7 +45,7 @@ First Bancorp manages [credit risk](/credit-risk/) through rigorous underwriting
 
 ## Capital ratios and regulatory pressure
 
-As a bank holding company, First Bancorp must maintain certain capital ratios to satisfy regulators (the Federal Reserve and FDIC). A minimum common-equity-tier-1 ratio might be 10 percent of risk-weighted assets. If the bank's capital falls below minimum, regulators can restrict growth, require capital raises, or in extreme cases, force the bank into receivership.
+As a bank holding company, First Bancorp must maintain certain capital ratios to satisfy regulators (the Federal Reserve and FDIC). A minimum common-equity-tier-1 ratio might be 10 percent of [risk-weighted assets](/risk-weighted-assets/). If the bank's capital falls below minimum, regulators can restrict growth, require capital raises, or in extreme cases, force the bank into receivership.
 
 This creates a constant tension: banks want to maximize leverage (deploy capital into earning assets) but must maintain buffers against losses. First Bancorp must balance shareholder pressure to maximize returns with regulatory demands to hold "excess" capital.
 

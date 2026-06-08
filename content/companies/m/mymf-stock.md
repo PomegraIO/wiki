@@ -28,7 +28,7 @@ Municipal bonds are debt securities issued by states, cities, and government ent
 
 ## The 2026 maturity window
 
-Unlike perpetual municipal bond fund, MYMF is designed to mature around 2026. Bonds selected to reach final maturity in roughly that timeframe. Defines concrete endpoint. Investor knows fund returns principal around 2026, at which point reinvestment decision arises.
+Unlike perpetual [municipal bond fund](/municipal-bond-fund/), MYMF is designed to mature around 2026. Bonds selected to reach final maturity in roughly that timeframe. Defines concrete endpoint. Investor knows fund returns principal around 2026, at which point reinvestment decision arises.
 
 Suits investors with known cash need in 2026—education expenses, home down payment, retirement date—and want tax-free income in interim. Maturity date removes [rollover risk](/rollover-risk/). Do not wake up in 2026 finding newly issued munis pay much less than today.
 

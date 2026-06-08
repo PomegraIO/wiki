@@ -66,7 +66,7 @@ A second risk is loss of key partnerships. If a major partner licensing a Silenc
 
 Financing risk is real for any cash-burning company. If equity markets turn against biotech or if Silence's valuation falls sharply, future capital raises will be more dilutive. If the company cannot raise capital, it runs out of cash and must shut down or sell for distressed terms.
 
-Finally, there is technology risk. RNA-interference is a powerful platform, but it is not universally applicable. If the scientific field moves toward other modalities (gene therapy, gene editing, small molecules) for certain diseases, Silence's programmes may become less relevant. The company's platform is also not unique; other RNAi companies (and large pharma companies with their own RNAi capabilities) compete for the same diseases and partnerships.
+Finally, there is [technology risk](/technology-risk/). RNA-interference is a powerful platform, but it is not universally applicable. If the scientific field moves toward other modalities (gene therapy, gene editing, small molecules) for certain diseases, Silence's programmes may become less relevant. The company's platform is also not unique; other RNAi companies (and large pharma companies with their own RNAi capabilities) compete for the same diseases and partnerships.
 
 ## How to research Silence Therapeutics
 

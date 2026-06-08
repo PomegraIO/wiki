@@ -41,7 +41,7 @@ The integrated platform means the firm can acquire a client through one segment 
 
 ## Capital constraints and competitive positioning
 
-Morgan Stanley is a bank holding company, regulated by the [Federal Reserve](/federal-reserve/). It must maintain minimum capital ratios relative to risk-weighted assets, which limits leverage and forces decisions about capital allocation. In stressed markets or during crises, regulators tighten requirements, forcing the firm to either raise expensive new equity or shrink its [balance sheet](/balance-sheet/).
+Morgan Stanley is a bank holding company, regulated by the [Federal Reserve](/federal-reserve/). It must maintain minimum capital ratios relative to [risk-weighted assets](/risk-weighted-assets/), which limits leverage and forces decisions about capital allocation. In stressed markets or during crises, regulators tighten requirements, forcing the firm to either raise expensive new equity or shrink its [balance sheet](/balance-sheet/).
 
 The firm competes against [Goldman Sachs](/goldman-sachs/) (more prestigious in advisory but smaller in wealth), JPMorgan (larger, with stronger commercial banking), and [Bank of America](/bank-of-america/) (much larger, more diversified). Its competitive advantage is that it has successfully built a platform that serves all three niches (institutional client advisory, wealth management, asset management) at scale, and the cross-selling between them creates switching costs. Its risk is that it is a jack-of-all-trades, master-of-none — investors might perceive it as inferior to Goldman in pure investment banking or inferior to Vanguard in asset management, and choose specialists instead.
 

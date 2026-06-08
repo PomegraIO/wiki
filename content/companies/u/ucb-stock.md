@@ -41,7 +41,7 @@ Each acquisition added new markets and customer bases. The integration challenge
 
 ## Competitive Position and Industry Context
 
-United Community Banks operates in a fragmented market where scale and efficiency increasingly matter. The company is smaller than major regional banks like [BB&T](/wiki/bbt-stock/) or larger banks, but larger than standalone community institutions. This middle position has advantages and risks. Local banking expertise and customer relationships can be sticky, but technology investment, regulatory compliance costs, and marketing expenses favor larger players.
+United Community Banks operates in a [fragmented market](/fragmented-market/) where scale and efficiency increasingly matter. The company is smaller than major regional banks like [BB&T](/wiki/bbt-stock/) or larger banks, but larger than standalone community institutions. This middle position has advantages and risks. Local banking expertise and customer relationships can be sticky, but technology investment, regulatory compliance costs, and marketing expenses favor larger players.
 
 The low interest rate environment of recent years pressured net interest margins—the core revenue driver for banks—while competitive deposit gathering became costly. Rising rates offer a reprieve, allowing banks to increase loan yields, but also shift the interest rate risk profile. UCB's [balance sheet](/balance-sheet/) and [capital adequacy](/wiki/capital-adequacy/) standards are subject to [10-K](/wiki/10-k/) disclosure and regulatory examination.
 

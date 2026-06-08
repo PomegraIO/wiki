@@ -35,7 +35,7 @@ When [interest rates](/interest-rate/) rise, the cost of borrowing increases, wh
 
 ## Competition and tenant power
 
-AGREE REALTY competes against other net-lease REITs (O Realty, Lexington Realty, Four Corners, and a handful of others) for acquisition opportunities and against private investors and institutional real estate buyers. The supply of good net-lease properties—especially grocery stores and pharmacies in solid markets—is finite, which means [cap rates](/cap-rate/) (the yield on the investment) have compressed considerably over the past decade. AGREE REALTY has been forced to accept lower returns to keep growing.
+AGREE REALTY competes against other [net-lease REITs](/net-lease-reit/) (O Realty, Lexington Realty, Four Corners, and a handful of others) for acquisition opportunities and against private investors and institutional real estate buyers. The supply of good net-lease properties—especially grocery stores and pharmacies in solid markets—is finite, which means [cap rates](/cap-rate/) (the yield on the investment) have compressed considerably over the past decade. AGREE REALTY has been forced to accept lower returns to keep growing.
 
 The real power dynamic, though, is between AGREE REALTY and its tenants. A large tenant like Walmart can demand better lease rates or walk away; a strong tenant with multiple locations can negotiate renewal terms far more effectively than a mom-and-pop operator with one store. When AGREE REALTY's portfolio is concentrated in a small number of large retailers, those tenants have leverage.
 

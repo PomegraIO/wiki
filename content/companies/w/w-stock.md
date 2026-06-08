@@ -35,7 +35,7 @@ The furniture e-commerce market is inherently capital-intensive and low-margin. 
 
 Competition intensified over time. Amazon entered the furniture market and now offers similar products. Wayfair also faces traditional retailers like Costco and home-focused chains that have strengthened their online presence. Price-sensitive customers can comparison-shop easily online, driving commoditization.
 
-Macro cycles hit home furnishings hard. When housing starts and consumer confidence decline, furniture sales slow sharply. Wayfair saw this directly during economic downturns, resulting in negative growth and pressure to cut costs. Customer [acquisition](/acquisition/) and retention also became more expensive as the market matured and competition for attention intensified.
+Macro cycles hit home furnishings hard. When [housing starts](/housing-starts/) and consumer confidence decline, furniture sales slow sharply. Wayfair saw this directly during economic downturns, resulting in negative growth and pressure to cut costs. Customer [acquisition](/acquisition/) and retention also became more expensive as the market matured and competition for attention intensified.
 
 Supply chain disruptions have proven costly—when shipping delays and vendor issues snarled fulfillment during the global disruptions of 2021–2023, Wayfair faced fulfillment problems and customer dissatisfaction. The company depends on third-party logistics partners and vendors and has limited direct control over their performance.
 

@@ -45,7 +45,7 @@ Mining operations are also exposed to electricity price volatility and availabil
 
 ## Regulatory and governance pressures
 
-Cryptocurrency mining faces increasing regulatory scrutiny in many developed markets due to energy consumption concerns and environmental impact. Some jurisdictions have proposed or enacted mining restrictions, and several countries have outright bans or have discussed them. CMB.TECH's exposure to regulatory risk depends on where its facilities are located; operations in regions with permissive regulation face lower legal risk but potentially higher electricity costs or political instability.
+Cryptocurrency mining faces increasing regulatory scrutiny in many developed markets due to energy consumption concerns and environmental impact. Some jurisdictions have proposed or enacted mining restrictions, and several countries have outright bans or have discussed them. CMB.TECH's exposure to regulatory risk depends on where its facilities are located; operations in regions with permissive regulation face lower [legal risk](/legal-risk/) but potentially higher electricity costs or political instability.
 
 The company's governance structure is a Netherlands NV, which may reflect tax or regulatory optimization, or may simply reflect founding in that jurisdiction. As with any company operating across multiple jurisdictions and engaged in cryptocurrency (a regulatory gray zone in many places), legal and compliance costs and risks are material.
 

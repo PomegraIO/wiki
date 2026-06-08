@@ -57,6 +57,6 @@ Start by looking at the fund's latest factsheet and [annual report](/10-k/), ava
 
 Look at the market price relative to net asset value. Is the fund trading at a discount or premium? A persistent discount might indicate that other investors are losing faith in the covered-call strategy or in the market outlook for dividend stocks. A premium suggests the opposite.
 
-Compare the fund's total return (price appreciation plus reinvested distributions) over the past three to five years against the return of a global dividend-focused index fund or the MSCI World index. Has the covered-call strategy added value, or has it just capped upside without providing benefit?
+Compare the fund's total return (price appreciation plus reinvested distributions) over the past three to five years against the return of a global dividend-focused index fund or the [MSCI World index](/msci-world-index/). Has the covered-call strategy added value, or has it just capped upside without providing benefit?
 
 Finally, think about your own market view and income needs. If you expect dividend stocks to deliver strong capital appreciation and you do not need the income, a covered-call fund is a poor choice. If you expect modest returns and you do need the income, it might be sensible. The fund's suitability depends on your situation and your expectations.

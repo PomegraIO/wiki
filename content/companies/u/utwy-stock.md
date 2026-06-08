@@ -41,4 +41,4 @@ UTWY is useful for long-term investors with liabilities or time horizons extendi
 
 Tax-wise, like all Treasury funds, it generates ordinary income distributions that are taxable in most accounts. For taxable investors, the fund is best held in a tax-advantaged account like an IRA, where the daily rebalancing and distributions do not create tax drag.
 
-Understanding the trade-off between the twenty-year yield and the volatility risk is essential. Reading the fund's fact sheet for its duration, its holdings, and its recent yield, combined with a view on the Fed and the economic outlook, is the starting point for deciding whether the long end of the curve is worth owning at a given moment.
+Understanding the trade-off between the twenty-year yield and the [volatility risk](/volatility-risk/) is essential. Reading the fund's fact sheet for its duration, its holdings, and its recent yield, combined with a view on the Fed and the economic outlook, is the starting point for deciding whether the long end of the curve is worth owning at a given moment.

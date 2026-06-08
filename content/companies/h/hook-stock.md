@@ -31,7 +31,7 @@ The platform's economic value depends entirely on whether it produces drug candi
 
 Because HOOKIPA cannot self-fund development to approval and commercialization, the standard business model includes partnering. A large pharma company ([Merck](/mrk-stock/), Gilead, Takeda) may license one of HOOKIPA's programs, paying cash today and taking on the cost and risk of later-phase trials and commercialization. The deal terms reflect the de-risking achieved to date. A Phase 1 program (early safety data only) might fetch $10–50 million upfront. A Phase 2 program showing early efficacy (higher confidence) might command $50–200 million upfront plus royalties on future sales.
 
-Royalties are a deferred revenue stream: if the licensed drug reaches the market and generates $1 billion in annual sales, HOOKIPA might receive 7–12% of that ($70–120 million annually). This aligns incentive: HOOKIPA and its partners succeed together. But royalties arrive years in the future, only if the program succeeds. Near-term survival depends on upfront and milestone payments.
+Royalties are a [deferred revenue](/deferred-revenue/) stream: if the licensed drug reaches the market and generates $1 billion in annual sales, HOOKIPA might receive 7–12% of that ($70–120 million annually). This aligns incentive: HOOKIPA and its partners succeed together. But royalties arrive years in the future, only if the program succeeds. Near-term survival depends on upfront and milestone payments.
 
 Partnerships also reduce HOOKIPA's burn rate. Once a program is out-licensed, the company stops funding that program's trials. The partner assumes that cost. HOOKIPA's cash runway extends, and the company can redeploy capital to other programs or reduce burn to conserve runway.
 

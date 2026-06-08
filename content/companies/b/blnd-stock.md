@@ -45,7 +45,7 @@ For Blend, maintaining momentum meant continuous expansion into adjacent lending
 
 Blend's relationship with each customer — a lender or servicer — was deep but not always cordial. Lenders wanted to minimize the fees they paid for platform usage while maximizing the features and integrations they received. Blend, meanwhile, wanted to increase per-customer revenue. Negotiations over contract terms, feature roadmap priority, and data ownership could be contentious. When Blend went public, some analysts noted that the company's largest customers represented a significant portion of revenue, raising [concentration risk](/concentration-risk/).
 
-The company's survival strategy included deepening customer relationships by making its platform indispensable to core operations, expanding to new lending products, and acquiring complementary technologies (such as document automation or title insurance platforms) to broaden its offering and reduce churn.
+The company's survival strategy included deepening customer relationships by making its platform indispensable to core operations, expanding to new lending products, and acquiring complementary technologies (such as document automation or [title insurance](/title-insurance/) platforms) to broaden its offering and reduce churn.
 
 <div class="wiki-seealso">
 

@@ -49,7 +49,7 @@ The company is also exposed to the capital availability for venue upgrades. Duri
 
 ## How to research Evolv as an investment
 
-Start with Evolv's annual 10-K filing (SEC CIK 0001805385), which discloses the size of the installed base, the gross margin on hardware and services, and detailed revenue breakdowns by customer type and geography. The quarterly earnings calls are where management discusses venue wins, pilot programs, and certification milestones — the leading indicators that adoption is accelerating or stalling.
+Start with Evolv's annual 10-K filing (SEC CIK 0001805385), which discloses the size of the installed base, the gross margin on hardware and services, and detailed revenue breakdowns by customer type and geography. The quarterly earnings calls are where management discusses venue wins, pilot programs, and certification milestones — the [leading indicators](/leading-indicator/) that adoption is accelerating or stalling.
 
 Key metrics to watch include the number of systems deployed (and the growth rate quarter-over-quarter), the mix of hardware revenue versus recurring services revenue, gross margin trends (which reveal whether the company is achieving the unit economics it claims), and the status of major certifications and government approvals. Evolv has pursued certifications from transportation security authorities in several countries; progress on those certifications is a signal that the technology is clearing institutional hurdles.
 

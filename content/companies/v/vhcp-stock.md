@@ -49,7 +49,7 @@ Assuming the deal closes, the SPAC merges with the target, the target's sharehol
 
 ## Why SPACs exist and the risks they carry
 
-The SPAC model addresses a real gap for mid-market businesses. A traditional IPO requires years of preparation, regulatory scrutiny, a roadshow, underwriter fees, and public-market readiness. Not every strong company is ready for that process, and not every founder wants to endure it. A SPAC merger offers a faster path to public capital and liquidity, albeit with less certainty about pricing and the reputational risk that the public sponsors are betting on the deal rather than vice versa.
+The SPAC model addresses a real gap for mid-market businesses. A traditional IPO requires years of preparation, regulatory scrutiny, a roadshow, underwriter fees, and public-market readiness. Not every strong company is ready for that process, and not every founder wants to endure it. A SPAC merger offers a faster path to public capital and liquidity, albeit with less certainty about pricing and the [reputational risk](/reputational-risk/) that the public sponsors are betting on the deal rather than vice versa.
 
 The risks are also real. SPAC shareholders are making a bet on the sponsors and their skill at deploying capital. If the deal they negotiate is overpriced, creates no synergies, or operates in a declining industry, the public shareholders bear most of the downside. A substantial portion of early SPAC [mergers](/merger/) have underperformed their IPO or SPAC-merger valuations, which has dampened enthusiasm for the structure overall and made target companies harder to find and negotiate with.
 

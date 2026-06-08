@@ -27,7 +27,7 @@ Call premiums swing wildly with market fear. In calm markets, calls are cheap to
 
 ## GraniteShares and the fund structure
 
-GraniteShares, a US investment advisor and ETF sponsor, manages BIOY to track a yield-enhanced version of the [Nasdaq](/nasdaq/) Biotechnology Index. The fund trades on the NASDAQ with moderate liquidity. The [expense ratio](/expense-ratio/) is around 0.60–0.75 percent annually, covering the cost of the options programme. Part of the high distribution yield is not true dividend income but a return of capital—the premium you sold today, not earnings the company generated.
+GraniteShares, a US investment advisor and [ETF sponsor](/etf-sponsor/), manages BIOY to track a yield-enhanced version of the [Nasdaq](/nasdaq/) Biotechnology Index. The fund trades on the NASDAQ with moderate liquidity. The [expense ratio](/expense-ratio/) is around 0.60–0.75 percent annually, covering the cost of the options programme. Part of the high distribution yield is not true dividend income but a return of capital—the premium you sold today, not earnings the company generated.
 
 ## The real costs of the strategy
 

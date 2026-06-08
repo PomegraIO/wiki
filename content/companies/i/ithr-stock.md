@@ -44,7 +44,7 @@ Millennials and Gen Z normalize digital-first health and carry lower stigma abou
 
 ## Regulatory Tailwinds and Risks
 
-Parity requirements (mental health insurance coverage on par with physical health), telehealth reimbursement expansion, and proposed mental-health-coverage mandates are all regulatory tailwinds. They expand addressable market and legitimize digital delivery. The risk is unfavorable regulation (stricter licensing, loss of telehealth reimbursement, or liability rules) that curtails the business model. For now, the vector is favorable, but regulatory winds shift faster than market cycles.
+Parity requirements (mental health insurance coverage on par with physical health), telehealth reimbursement expansion, and proposed mental-health-coverage mandates are all regulatory tailwinds. They expand addressable market and legitimize digital delivery. The risk is unfavorable regulation (stricter licensing, loss of telehealth reimbursement, or liability rules) that curtails the business model. For now, the vector is favorable, but regulatory winds shift faster than [market cycles](/market-cycle/).
 
 ## Revenue Visibility and Cash Conversion
 

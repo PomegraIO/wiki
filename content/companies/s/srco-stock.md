@@ -44,7 +44,7 @@ The company serves both large restaurant chains with many locations and independ
 
 ## The competitive and regulatory backdrop
 
-Sparta competes in a fragmented market. There is no national monopoly on commercial refrigeration service; instead, there are many regional players, some national chains with a service division, and some owner-operator technicians who work independently. Differentiation rests on reliability (showing up on time, fixing it right the first time), price (an 8% markup or a 20% one makes a difference), territory coverage (customers want one call for all their locations), and relationships (the general manager who knows and trusts you).
+Sparta competes in a [fragmented market](/fragmented-market/). There is no national monopoly on commercial refrigeration service; instead, there are many regional players, some national chains with a service division, and some owner-operator technicians who work independently. Differentiation rests on reliability (showing up on time, fixing it right the first time), price (an 8% markup or a 20% one makes a difference), territory coverage (customers want one call for all their locations), and relationships (the general manager who knows and trusts you).
 
 Regulatory barriers are meaningful but not prohibitive. EPA certification around refrigerant handling is standard in the industry; technicians must pass exams and maintain credentials. This keeps out purely amateur operators but does not create a moat that prevents competition.
 

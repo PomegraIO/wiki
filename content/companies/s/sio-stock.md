@@ -1,0 +1,28 @@
+---
+title: "Touchstone Strategic Income ETF (SIO)"
+description: "An actively managed ETF blending fixed-income securities and equities to generate high current income with diversified portfolio construction."
+keywords:
+  - strategic income
+  - fixed income
+  - active management
+  - yield-oriented
+  - bond ETF
+  - high conviction
+handwritten: true
+---
+
+The Touchstone Strategic [Income ETF](/income-etf/) (ticker SIO) is an actively managed exchange-traded fund launched in July 2022 that aims to deliver current income while seeking long-term capital appreciation. The fund is managed by Touchstone Advisors Inc. and co-managed by Fort Washington Investment Advisors, an investment shop known for high-conviction, yield-focused strategies. The fund represents a deliberate blend of [bond](/bond/) and equity exposure, rather than a pure fixed-income vehicle, giving it the flexibility to chase income from multiple sources across the capital structure.
+
+The core of the portfolio — at least 80% of assets under normal conditions — consists of income-producing fixed-income securities. This includes corporate debt securities across investment-grade and high-yield issuers; mortgage-related securities and asset-backed securities; U.S. government bonds; and foreign [sovereign debt](/sovereign-debt/). The portfolio also holds [preferred stocks](/preferred-stock/), a hybrid instrument that typically offers yields higher than common equity [dividends](/dividend/) but lower volatility than [corporate bonds](/corporate-bond/). All of these holdings share a common purpose: they produce regular cash flows that can be distributed to shareholders.
+
+The remaining allocation, up to 20% of assets, can be invested in public equities — primarily [common stocks](/common-stock/) of companies selected for [dividend yield](/dividend-yield/) or capital appreciation potential. This equity sleeve adds return potential during [bull markets](/bull-market/) while introducing some price volatility; it also diversifies the income sources away from pure interest-bearing instruments. The decision of how much equity exposure to carry at any given time is an active choice by the fund's management team, not dictated by an index or mechanical rule.
+
+Fort Washington's investment approach is described as high-conviction with a relatively focused number of holdings. The term "high conviction" means the managers are willing to place sizable positions in securities they believe offer attractive risk-adjusted returns, rather than spreading capital thinly across hundreds of holdings. "Focused" means the portfolio typically contains a smaller number of distinct issuers than a broad bond index would. This concentration can boost returns when credit selection is strong and hurt them when a core holding stumbles. The fund couples this focused approach with sector [diversification](/diversification/) and what management characterizes as diligent risk management — meaning the team monitors credit quality, duration risk, and other bond-portfolio metrics actively.
+
+The fund's annual [expense ratio](/expense-ratio/) is not explicitly stated in readily available summaries, but active management of a blend strategy typically commands fees in the range of 0.50% to 0.90% annually, depending on the complexity and the fund size. As of March 2026, the fund was trading near $26.09 per share and had realized modest positive returns year-to-date. The fund is not a high-volatility product — bond-heavy portfolios tend to move less sharply than equities — but it is not defensively priced either.
+
+A key risk in this fund is [credit risk](/credit-risk/). If the managers' conviction bets on particular corporate issuers or sovereign borrowers go wrong, the concentrated holdings can drag on performance more sharply than a widely diversified bond index would. Duration risk is also present: when [interest rates](/interest-rate/) rise, the value of existing bonds falls, and the magnitude of that fall depends on the average duration (interest-rate sensitivity) of the portfolio. The equity sleeve, though capped at 20%, introduces equity-market risk as well. In a severe [recession](/recession/) where both stocks and [credit spreads](/credit-spread/) deteriorate simultaneously, the fund could experience material losses.
+
+A second structural risk is yield sustainability. The fund is targeting income production, and the income it generates comes from the underlying securities' [coupon payments](/coupon-payment/), dividend payments, and principal changes if securities are sold at gains. In a low-rate environment, income yields can be compressed; in a high-default environment, expected income can evaporate if issuers default. The fund's success depends on the managers' ability to generate returns above the cost of the fees and above what a simple bond index would deliver.
+
+For a reader evaluating SIO, the starting point is the prospectus and fact sheet, which lay out the investment strategy, the manager's philosophy, and the current sector and credit-quality breakdown of holdings. The fund's quarterly holding reports show the actual portfolio composition and how the managers are moving between income sources. Tracking the fund's yield (the annual income it pays relative to its current price) versus broader bond-index yields provides a sense of whether the managers are delivering income advantages that justify their fees. Finally, understanding the health of the fund's largest holdings — by checking recent earnings reports or [credit ratings](/credit-rating/) — gives a reader insight into where the biggest risks lie.

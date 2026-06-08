@@ -49,7 +49,7 @@ Many Japanese regional banks have improved efficiency in recent years by closing
 
 ## Regulatory Capital and the Profitability Trap
 
-Banks are heavily regulated. Regulators (in HACHIJUNI BANK's case, the Financial Services Agency of Japan) require banks to maintain minimum levels of capital to absorb losses. Capital ratios are calculated as the bank's equity divided by its risk-weighted assets. If HACHIJUNI BANK's capital ratio falls below minimum thresholds, the bank faces restrictions on [dividends](/dividend/), [acquisitions](/acquisition/), or growth.
+Banks are heavily regulated. Regulators (in HACHIJUNI BANK's case, the Financial Services Agency of Japan) require banks to maintain minimum levels of capital to absorb losses. Capital ratios are calculated as the bank's equity divided by its [risk-weighted assets](/risk-weighted-assets/). If HACHIJUNI BANK's capital ratio falls below minimum thresholds, the bank faces restrictions on [dividends](/dividend/), [acquisitions](/acquisition/), or growth.
 
 For a bank already struggling with low margins, this creates a trap: if loan losses erode equity, the capital ratio falls, forcing the bank to either raise new equity (diluting existing shareholders) or shrink the balance sheet (reducing profitable loans). Neither option is attractive.
 

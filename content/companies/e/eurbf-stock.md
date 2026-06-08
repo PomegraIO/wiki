@@ -9,7 +9,7 @@ keywords:
   - ADR
 ---
 
-*Banking in peripheral Europe requires tolerance for political risk and chronic economic volatility. **Eurobank SA** (EURBF) is one of Greece's largest lenders, rooted in the country's financial system since the 1990s consolidation wave. As an [American depositary receipt](/adr/), it offers foreign investors exposure to Greek and Mediterranean credit cycles without holding Greek equity directly—a structure that emerged from Athens's ECB-mandated banking sector stabilization.*
+*Banking in peripheral Europe requires tolerance for [political risk](/political-risk/) and chronic economic volatility. **Eurobank SA** (EURBF) is one of Greece's largest lenders, rooted in the country's financial system since the 1990s consolidation wave. As an [American depositary receipt](/adr/), it offers foreign investors exposure to Greek and Mediterranean [credit cycles](/credit-cycle/) without holding Greek equity directly—a structure that emerged from Athens's ECB-mandated banking sector stabilization.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EURBF</td></tr>
@@ -29,7 +29,7 @@ Greece's loan market is severely concentrated, with Eurobank, National Bank of G
 
 ## Profitability Dynamics and Non-Performing Loan Legacy
 
-Greek banks have historically struggled with profitability because of their exposure to non-performing loans (NPLs)—debts where borrowers are in arrears or default. Eurobank's profitability is structurally constrained by the need to provision heavily against legacy credit losses. Unlike a US bank with low NPL ratios and therefore low provisions, Eurobank must set aside capital to cover potential future losses on loans that are already troubled. This reduces reported earnings and constrains return on equity. However, as the Greek economy stabilizes and NPL ratios decline (partly through loan sales, write-offs, and economic improvement), Eurobank's profitability floor could rise. The bank's operating efficiency and cost-to-income ratio remain mediocre by Northern European standards, partly because of legacy branch networks and Greek labor costs.
+Greek banks have historically struggled with profitability because of their exposure to non-performing loans (NPLs)—debts where borrowers are in arrears or default. Eurobank's profitability is structurally constrained by the need to provision heavily against legacy credit losses. Unlike a US bank with low NPL ratios and therefore low provisions, Eurobank must set aside capital to cover potential future losses on loans that are already troubled. This reduces reported earnings and constrains return on equity. However, as the Greek economy stabilizes and NPL ratios decline (partly through loan sales, write-offs, and economic improvement), Eurobank's profitability floor could rise. The bank's operating efficiency and [cost-to-income ratio](/cost-income-ratio/) remain mediocre by Northern European standards, partly because of legacy branch networks and Greek labor costs.
 
 ## Geographic Footprint and Regional Strategy
 
@@ -49,7 +49,7 @@ Eurobank's denominated loans, deposits, and capital are all in euros, so [curren
 
 ## Listing Vehicle and Investor Access
 
-The American depositary receipt structure allows foreign investors (US, Australian, etc.) to hold exposure to Eurobank without owning Greek shares directly. The ADR trades on the [OTC Pink](/otc-pink/) market, which has lower liquidity than mainstream exchanges; this creates wider [bid-ask spreads](/bid-ask-spread/) and reduces institutional index demand. The ADR also buffers some currency translation—a US investor in EURBF is hedged against euro weakness, whereas a holder of the underlying Greek share is not. This structural advantage can be valuable in volatile foreign exchange periods.
+The American [depositary receipt](/depositary-receipt/) structure allows foreign investors (US, Australian, etc.) to hold exposure to Eurobank without owning Greek shares directly. The ADR trades on the [OTC Pink](/otc-pink/) market, which has lower liquidity than mainstream exchanges; this creates wider [bid-ask spreads](/bid-ask-spread/) and reduces institutional index demand. The ADR also buffers some currency translation—a US investor in EURBF is hedged against euro weakness, whereas a holder of the underlying Greek share is not. This structural advantage can be valuable in volatile foreign exchange periods.
 
 <div class="wiki-seealso">
 ### Closely related

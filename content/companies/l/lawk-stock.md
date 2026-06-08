@@ -53,7 +53,7 @@ The real moat, if it exists at all, will come from scale and distribution. If La
 
 The smart eyewear category is populated by well-funded competitors. Apple, which sells Ray-Ban glasses at a $299+ price point and promotes them heavily through its retail stores, has both the capital and the distribution to squeeze smaller players. Meta's integration of smart glasses into its metaverse vision means it can subsidize hardware for strategic reasons. Even established eyewear makers like EssilorLuxottica could enter open-ear audio if they perceived a market opportunity.
 
-Lawaken also faces an execution risk inherent in hardware: manufacturing quality, supply chain reliability, and product reliability must be flawless at scale. A batch of defective units or negative user reviews about durability or comfort could damage a small brand far more than a large one because brand equity is thinner. Returns and warranty costs can be punishing in consumer electronics.
+Lawaken also faces an [execution risk](/execution-risk/) inherent in hardware: manufacturing quality, supply chain reliability, and product reliability must be flawless at scale. A batch of defective units or negative user reviews about durability or comfort could damage a small brand far more than a large one because brand equity is thinner. Returns and warranty costs can be punishing in consumer electronics.
 
 Additionally, the appeal of smart glasses for audio is bounded. Many consumers still prefer traditional earbuds, which offer better sound quality and lower price. And even Lawaken's affordable price point ($149–$179) is high enough that casual consumers may resist unless the product becomes a category essential, like a smartphone became.
 
@@ -61,7 +61,7 @@ Finally, regulatory risk around data privacy and surveillance is gathering. Smar
 
 ## How to research Lawaken as an investment
 
-Anyone interested in Lawaken should begin with the company's SEC filings under CIK 0002122791, particularly the 10-K [annual report](/10-k/) and quarterly 10-Q reports. These documents break down revenue by segment (direct-to-consumer versus retail), discuss the competitive landscape, and disclose risk factors. Watch the management discussion and analysis section for trends in unit sales, average selling price, gross margin, and customer [acquisition](/acquisition/) cost.
+Anyone interested in Lawaken should begin with the company's SEC filings under CIK 0002122791, particularly the 10-K [annual report](/10-k/) and quarterly 10-Q reports. These documents break down revenue by segment (direct-to-consumer versus retail), discuss the competitive landscape, and disclose risk factors. Watch the [management discussion and analysis](/management-discussion-and-analysis/) section for trends in unit sales, average selling price, gross margin, and customer [acquisition](/acquisition/) cost.
 
 Key metrics to follow include total units sold per quarter, average selling price per unit, the growth of the retail channel, and the velocity of LAWK View adoption among content creators. The company's ability to grow retail presence while holding or expanding margins is a critical test of the business model's sustainability. Also watch the cash burn rate and cash position, because hardware startups consume capital quickly and a shrinking cash runway forces difficult decisions.
 

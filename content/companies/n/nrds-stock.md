@@ -45,7 +45,7 @@ Additionally, financial institutions themselves have shifted toward direct-to-co
 
 Upstream, NerdWallet depends on the financial services ecosystem itself — the number of products available, the willingness of issuers to share accurate terms and participate in affiliate networks, and the affiliate commission rates those providers are willing to pay. When [interest rates](/interest-rate/) rise and credit card issuers face higher funding costs, they often reduce affiliate payouts. Downstream, NerdWallet serves consumers trying to make financial decisions and simultaneously serves financial institutions seeking customer acquisition.
 
-The supply-chain lens is complex here: NerdWallet sits in the middle of a two-sided market, dependent on both sides continuing to find the arrangement valuable. If affiliate commissions collapse because issuers cut rates, or if organic search traffic dries up because Google's algorithm changes, the business loses its footing quickly.
+The supply-chain lens is complex here: NerdWallet sits in the middle of a [two-sided market](/two-sided-market-finance/), dependent on both sides continuing to find the arrangement valuable. If affiliate commissions collapse because issuers cut rates, or if organic search traffic dries up because Google's algorithm changes, the business loses its footing quickly.
 
 ## Profitability and capital allocation
 

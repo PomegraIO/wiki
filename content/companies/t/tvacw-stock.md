@@ -36,7 +36,7 @@ Here is the key difference between owning TVACW versus owning TVA shares directl
 
 Texas Ventures Acquisition III split its IPO offering into three pieces because it makes the investment more flexible. An investor could buy just the units (and get exposure to both the shares and the warrants), or buy shares only (and skip the leverage), or buy warrants only (and get pure leverage). The underwriters and sponsors also retained [private placement](/private-placement/) warrants, which vest over time and incentivize them to find a good deal.
 
-Issuing warrants is cheaper than issuing all shares. Underwriting fees, due diligence, printing costs—they apply per share or per unit, not per component. By splitting the offering, the company lowered the friction for retail investors while keeping transaction costs reasonable.
+Issuing warrants is cheaper than issuing all shares. Underwriting fees, [due diligence](/due-diligence/), printing costs—they apply per share or per unit, not per component. By splitting the offering, the company lowered the friction for retail investors while keeping transaction costs reasonable.
 
 ## How TVACW Gets Its Price
 

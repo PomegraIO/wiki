@@ -59,4 +59,4 @@ Begin with Rentokil's annual 10-K (SEC CIK 0000930157), which discloses revenue 
 
 Quarterly reports will highlight customer wins and losses, though in a business this fragmented, the impact is rarely dramatic. Watch instead for any commentary on price escalation success, churn rates, or geographic shifts in profitability. Also monitor Rentokil's acquisition activity and integration commentary—a string of acquisitions pursued at rising prices might suggest desperation for growth, while selective acquisitions suggest discipline.
 
-Finally, track leading indicators of small-business health in key geographies: insolvency rates, restaurant openings and closures, and survey-based sentiment among small-business owners. These indicators precede changes in Rentokil's customer base and revenue trajectory.
+Finally, track [leading indicators](/leading-indicator/) of small-business health in key geographies: insolvency rates, restaurant openings and closures, and survey-based sentiment among small-business owners. These indicators precede changes in Rentokil's customer base and revenue trajectory.

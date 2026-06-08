@@ -1,0 +1,29 @@
+---
+title: "Bitwise GME Option Income Strategy ETF (IGME)"
+description: "IGME is an actively managed ETF that generates income by holding GameStop shares and selling covered call options against them, trading volatility for cash flow."
+keywords:
+  - option income strategy
+  - covered calls
+  - active management
+  - GameStop
+  - volatility monetization
+handwritten: true
+---
+
+*The **Bitwise GME Option Income Strategy ETF** (ticker IGME) is an [actively managed fund](/actively-managed-fund/) that generates investor income by holding GameStop stock and continuously selling [call options](/call-option/) against the position — a strategy that monetizes the stock's notable volatility in exchange for capping upside potential.*
+
+The fund operates on a simple mechanic: at its core sits a position in GameStop, the video-game retailer whose shares have been the subject of intense retail investor interest and price swings since 2021. Rather than simply holding the stock, the fund's managers use a covered-call strategy to generate monthly distributions. A [covered call](/covered-call/) is an options contract that obligates the fund to sell its shares if they rise above a predetermined price by expiration — the buyer of that call pays a premium upfront, and the fund pockets that premium as income. The higher the stock's volatility, the richer the premium available, so a volatile stock like GameStop is well-suited to this approach.
+
+This structure creates an explicit trade-off. The monthly income distributions appeal to investors seeking [current yield](/current-yield/), and they are genuinely funded by the options premiums the strategy captures. But the trade-off is kinetic: on months when GameStop rallies sharply, the call options are exercised and the fund's shares are called away, forcing a sale near the cap price even if the stock moves higher afterward. The fund is not designed to capture explosive upside. It is designed to harvest volatility regularly, converting a stock that swings 10% or 15% in a month into steady cash distributions.
+
+Bitwise is the fund sponsor — a firm known for the design and operation of thematic and alternative-beta ETFs. The fund carries an active-management structure, which distinguishes it from the vast majority of [equity ETFs](/equity-etf/), which are passively indexed. Active management means the fund's strategy is discretionary and hands-on; the manager can adjust [strike prices](/strike-price/) and [option expirations](/option-expiration/) based on market conditions. This approach has lower liquidity than a simple buy-and-hold [index fund](/index-fund/), but it offers the possibility of precision that a mechanical strategy cannot match.
+
+Costs are material. The [expense ratio](/expense-ratio/) reflects not only the fund's operating overhead but the friction of trading options contracts monthly, paying [option premiums](/option-premium/), and the general illiquidity of a small, single-stock strategy. The trading spreads on IGME itself are wide by modern standards — the bid-ask gap is large — which means an investor buying or selling the ETF itself faces significant friction on entry and exit. This is a fund suited to patient, long-term holders who plan to stay in the position for years; it is poorly suited to short-term traders or investors who need rapid liquidity.
+
+The fund's distributions come from tangible option premiums, not from recycled capital or borrowed returns. That is important for understanding the income profile. In months when GameStop is volatile — rising or falling sharply — premiums are fat and distributions can be substantial. In months when the stock drifts sideways, premiums dry up and distributions may be modest. Investors in IGME should expect volatility in the distribution amount itself, not just in the underlying stock price.
+
+The key risks are multiple. Assignment risk: if GameStop rallies, call options are exercised and the fund is forced to sell shares at the cap price, underperforming in [bull markets](/bull-market/). [Event risk](/event-risk/): GameStop is prone to unexpected announcements and wide overnight moves; if a major move happens between monthly option settlements, the collected premium may be inadequate compensation. [Concentration risk](/concentration-risk/) is absolute — this is a single-stock fund, entirely bound to GameStop's fate as a business. If the company faces existential pressure, no option strategy shields holders from fundamental damage. The fund's viability assumes GameStop remains solvent and reasonably liquid, even if volatile. In [bear markets](/bear-market/), the option premiums do help cushion losses, a genuine benefit.
+
+For investors researching IGME, start with the fund's prospectus and fact sheet, which detail the precise covered-call methodology and the expected distribution frequency. Check the fund's latest fact sheet for the current distribution yield (expressed as a percentage of the fund's [net asset value](/net-asset-value/)) and compare it to the option premiums implied by the current options market to understand whether conditions are rich or lean. Monitor GameStop's earnings releases and business updates, because the fund's strategy assumes the underlying stock remains tradeable and optionable — regulatory changes or a serious operational failure would undermine that assumption. Track the fund's actual distribution history against projections — sustained underperformance would signal that volatility has collapsed and the strategy has lost its income anchor.
+
+This fund is not appropriate for investors seeking capital appreciation or long-term growth. It is a yield-generating wrapper around a volatile single stock, suitable only for those with high risk tolerance, patience with income volatility, and a genuine belief in GameStop's durable existence.

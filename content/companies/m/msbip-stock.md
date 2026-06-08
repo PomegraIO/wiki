@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-[Midland States Bancorp](/msbi-stock/), Inc. operates as a financial holding company for Midland States Bank, a community bank with roots in the American Midwest dating to the 1880s. MSBIP denotes Depositary Shares representing interests in the company's 7.75% Fixed-Rate Reset Non-Cumulative [Perpetual Preferred Stock](/perpetual-preferred/), Series A. To understand MSBIP, one must understand the parent bank and how its loan portfolio translates into the ability to pay preferred [dividends](/dividend/).
+[Midland States Bancorp](/msbi-stock/), Inc. operates as a financial holding company for Midland States Bank, a community bank with roots in the American Midwest dating to the 1880s. MSBIP denotes [Depositary Shares](/depositary-share/) representing interests in the company's 7.75% Fixed-Rate Reset Non-Cumulative [Perpetual Preferred Stock](/perpetual-preferred/), Series A. To understand MSBIP, one must understand the parent bank and how its loan portfolio translates into the ability to pay preferred [dividends](/dividend/).
 
 <aside class="wiki-infobox">
 <table>

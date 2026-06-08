@@ -23,7 +23,7 @@ The underlying index is not static. Constituent companies are re-screened period
 
 ESG-driven investment rests on two premises. The first is that environmental and governance risks eventually become financial risks — a company with weak climate strategy or poor management oversight faces regulatory, reputational, or operational headwinds that will depress returns. The second is that conscious consumers and employees increasingly direct their wallets and careers toward ethical firms, creating a virtuous loop where good conduct drives performance.
 
-Neither premise is uniformly true. The academic literature is mixed: some studies show ESG portfolios deliver competitive or superior risk-adjusted returns; others show they lag. Much depends on time horizon, market cycle, and how ESG is measured. KRMA's design hedges these debates by offering plain exposure to companies that score well on published ESG criteria, letting investors form their own view on whether that screening adds value over time.
+Neither premise is uniformly true. The academic literature is mixed: some studies show ESG portfolios deliver competitive or superior risk-adjusted returns; others show they lag. Much depends on time horizon, [market cycle](/market-cycle/), and how ESG is measured. KRMA's design hedges these debates by offering plain exposure to companies that score well on published ESG criteria, letting investors form their own view on whether that screening adds value over time.
 
 ## Structure and scope
 

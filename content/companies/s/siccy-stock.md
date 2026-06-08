@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-SICC Co., Ltd. is a Chinese materials science company that manufactures silicon carbide substrates—the crystalline foundation upon which high-power, high-frequency semiconductors are built. Its products enable electric vehicles to convert power more efficiently, allow 5G base stations to operate at higher frequencies with less heat loss, and support renewable-energy systems such as solar inverters and wind-turbine controllers. The company trades in the United States through American Depositary Shares under the ticker SICCY.
+SICC Co., Ltd. is a Chinese materials science company that manufactures silicon carbide substrates—the crystalline foundation upon which high-power, high-frequency semiconductors are built. Its products enable electric vehicles to convert power more efficiently, allow 5G base stations to operate at higher frequencies with less heat loss, and support renewable-energy systems such as solar inverters and wind-turbine controllers. The company trades in the United States through American [Depositary Shares](/depositary-share/) under the ticker SICCY.
 
 <aside class="wiki-infobox">
 <table>

@@ -16,7 +16,7 @@ keywords: ["title insurance", "real estate closing", "underwriting", "premium re
 
 ## How Title Insurance Economics Work
 
-Title insurance operates on a transaction fee model. When a property changes hands, the buyer or lender pays a one-time premium—typically 0.5% to 1% of the purchase price, though exact rates vary by state and are often regulated. For a $300,000 home sale, a title policy might cost $1,500 to $3,000. Investors Title collects its share of that premium through direct issuance or through a network of agents and title companies that underwrite on its behalf.
+[Title insurance](/title-insurance/) operates on a transaction fee model. When a property changes hands, the buyer or lender pays a one-time premium—typically 0.5% to 1% of the purchase price, though exact rates vary by state and are often regulated. For a $300,000 home sale, a title policy might cost $1,500 to $3,000. Investors Title collects its share of that premium through direct issuance or through a network of agents and title companies that underwrite on its behalf.
 
 The unit economics are straightforward: premium less claims, loss adjustment expenses, and underwriting costs equals profit. Unlike life insurance or property casualty, which bet on future mortality or disaster, title insurance claims come from hidden defects already embedded in the chain of ownership. The risk profile is thus partly a function of the geographic and economic market the underwriter serves. A title company in a booming real estate market with clean deed records faces different loss ratios than one in a declining region with older, more complex ownership histories.
 

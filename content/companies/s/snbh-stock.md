@@ -13,7 +13,7 @@ handwritten: true
 
 > "A platform for building, financing, and scaling consumer and industrial product ventures with global impact."
 
-That is how Sentient Brands Holdings describes itself — a holding company acquiring established, cash-flow-positive CPG brands and integrating them into a larger platform for shared technology, distribution, and talent. The company owns and operates subsidiaries across food, beverages, personal care, and emergency preparedness. It is a roll-up play in a fragmented market where thousands of small brands lack access to capital, distribution scale, and operational sophistication.
+That is how Sentient Brands Holdings describes itself — a holding company acquiring established, cash-flow-positive CPG brands and integrating them into a larger platform for shared technology, distribution, and talent. The company owns and operates subsidiaries across food, beverages, personal care, and emergency preparedness. It is a roll-up play in a [fragmented market](/fragmented-market/) where thousands of small brands lack access to capital, distribution scale, and operational sophistication.
 
 <aside class="wiki-infobox">
 <table>

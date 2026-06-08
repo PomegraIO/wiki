@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Xinyuan Real Estate is a Chinese residential property developer whose business centers on acquiring land, developing residential projects, and selling completed units to buyers in China's second and third-tier cities — the mid-size urban centers between the megacities of Beijing, Shanghai, and Shenzhen and the vast rural hinterland. The company also operates a property management division that collects ongoing fees from residents for maintenance and amenities, and a real estate brokerage arm. Xinyuan's American depositary shares trade on [NASDAQ](/nasdaq/) under XINRY, though the company is a Cayman Islands holding company with its operational subsidiaries registered in China.
+Xinyuan Real Estate is a Chinese residential property developer whose business centers on acquiring land, developing residential projects, and selling completed units to buyers in China's second and third-tier cities — the mid-size urban centers between the megacities of Beijing, Shanghai, and Shenzhen and the vast rural hinterland. The company also operates a property management division that collects ongoing fees from residents for maintenance and amenities, and a real estate brokerage arm. Xinyuan's American [depositary shares](/depositary-share/) trade on [NASDAQ](/nasdaq/) under XINRY, though the company is a Cayman Islands holding company with its operational subsidiaries registered in China.
 
 <aside class="wiki-infobox">
 <table>

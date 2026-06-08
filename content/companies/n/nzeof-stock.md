@@ -56,7 +56,7 @@ The specific ownership structures and production-sharing agreements are disclose
 
 ## Accessing the ADR and research
 
-New Zealand Oil & Gas is traded in the United States via American Depositary Receipts, a mechanism that allows foreign companies to be held and traded by United States investors without requiring a local brokerage account. Each ADR represents five ordinary shares of the company. The ADRs are listed on the OTC Markets (pink sheets), which means liquidity is lower than on major exchanges like NYSE or [NASDAQ](/nasdaq/), and [price discovery](/price-discovery/) can be less efficient.
+New Zealand Oil & Gas is traded in the United States via American [Depositary Receipts](/depositary-receipt/), a mechanism that allows foreign companies to be held and traded by United States investors without requiring a local brokerage account. Each ADR represents five ordinary shares of the company. The ADRs are listed on the OTC Markets (pink sheets), which means liquidity is lower than on major exchanges like NYSE or [NASDAQ](/nasdaq/), and [price discovery](/price-discovery/) can be less efficient.
 
 The company files with the SEC under foreign private issuer rules. Key documents include the 20-F [annual report](/10-k/) (the foreign equivalent of a 10-K), which contains audited financial statements, management discussion of business operations, risk factors, and reserve estimates. 6-K filings report interim material events. These are available on the SEC's EDGAR database.
 

@@ -20,7 +20,7 @@ By the mid-2010s, IAMGOLD had stabilized into a multi-mine operator spanning Bur
 
 ## How the business works
 
-IAMGOLD's revenue comes from gold and silver sales—primarily gold, which dominates earnings. The company operates several producing mines, each with its own ore grades, operating costs, and mine-life profiles. Typical mines include open-pit and underground operations that extract ore, process it through various chemical and mechanical steps, and produce doré bars (semi-refined bullion). These are then sold into global markets at spot prices determined by supply, demand, and macroeconomic conditions.
+IAMGOLD's revenue comes from gold and silver sales—primarily gold, which dominates earnings. The company operates several producing mines, each with its own ore grades, operating costs, and mine-life profiles. Typical mines include open-pit and underground operations that extract ore, process it through various chemical and mechanical steps, and produce [doré bars](/dore-bar/) (semi-refined bullion). These are then sold into global markets at spot prices determined by supply, demand, and macroeconomic conditions.
 
 Operating costs include mining labor, equipment, explosives, fuel, and processing chemicals. Capital expenditure pays for development of new sections of a mine, exploration for new ore bodies, and equipment replacement. All of this is highly sensitive to where commodity prices settle; a $100-per-ounce move in gold can swing margins significantly across the portfolio. Currency exposure adds another layer: many mines sit in currencies weaker than the [Canadian dollar](/canadian-dollar/), which can help or hurt cash conversion depending on exchange rates.
 
@@ -30,7 +30,7 @@ The company also holds exploration properties—land packages with good geology 
 
 IAMGOLD's distinctive positioning rests on its West African footprint, particularly in Burkina Faso and Mali, where it operates some of the world's lower-cost gold mines by industry benchmarks. Low-cost production is a prized trait in commodities: when gold prices stay high, low-cost mines compound returns; when prices fall, they survive longer. The company has also emphasized selective mine life extensions and modest development capital—keeping production steady while avoiding the billion-dollar project risk that sometimes sinks mid-tier peers.
 
-The company's scale places it in a "Goldilocks zone" in many investors' eyes: large enough to afford exploration teams and diversified mines, small enough to trade with optionality and turnaround upside if management executes well or gold prices move higher. It is not a mega-cap with fortress [balance sheets](/balance-sheet/) or a junior with a single discovery play; it has middle-market volatility and middle-market execution risk.
+The company's scale places it in a "Goldilocks zone" in many investors' eyes: large enough to afford exploration teams and diversified mines, small enough to trade with optionality and turnaround upside if management executes well or gold prices move higher. It is not a mega-cap with fortress [balance sheets](/balance-sheet/) or a junior with a single discovery play; it has middle-market volatility and middle-market [execution risk](/execution-risk/).
 
 Geopolitical risk in West Africa is a constant factor. Mali, in particular, has faced military instability that can affect operations or permitting. This is a known issue in the investment thesis, and the market prices it in, but it remains a real wildcard not faced by peers operating in Canada or Australia.
 

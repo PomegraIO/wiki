@@ -28,7 +28,7 @@ Fujikura is a Japanese-domiciled company earning revenue in yen, dollars, euros,
 
 ## Telecom Cyclicality and 5G Rollout Dependency
 
-The optical-fiber business rides long waves of telecom infrastructure spending. The 5G buildout cycle (2020–2025 and beyond) drove substantial capex by carriers upgrading networks to support 5G radio access and backhaul. This created strong demand for optical fiber. However, as buildouts mature and stabilize, capex growth slows—a transition already visible in some markets. Fujikura's Form 20-F will show quarterly or annual revenue trends by segment and region, revealing whether telecom demand remains robust or is beginning to moderate. Investors should monitor telecom carrier capex guidance (from carriers' own earnings calls) as a leading indicator for Fujikura's order trends.
+The optical-fiber business rides long waves of telecom infrastructure spending. The 5G buildout cycle (2020–2025 and beyond) drove substantial capex by carriers upgrading networks to support 5G radio access and backhaul. This created strong demand for optical fiber. However, as buildouts mature and stabilize, capex growth slows—a transition already visible in some markets. Fujikura's Form 20-F will show quarterly or annual revenue trends by segment and region, revealing whether telecom demand remains robust or is beginning to moderate. Investors should monitor telecom carrier capex guidance (from carriers' own earnings calls) as a [leading indicator](/leading-indicator/) for Fujikura's order trends.
 
 ## Competitive and Margin Dynamics
 

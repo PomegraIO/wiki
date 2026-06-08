@@ -51,7 +51,7 @@ Security spending is often classified as capital expenditure with long decision 
 
 Large venues may also negotiate with multiple vendors simultaneously, pressing each to justify premium pricing. A stadium evaluating Liberty's system might also evaluate three competitors, playing vendors against each other to reduce price. This creates commoditization pressure, particularly for customers with price-sensitive security budgets or procurement policies requiring three competitive bids. Liberty's competitive defense is differentiation (provably superior detection) or relationship lock-in (partnership with security consultants or integrators who prefer Liberty systems).
 
-The competitive landscape in security screening is therefore shaped by fragmented markets, distributed technology choices, regulatory barriers, and integration stickiness. Liberty competes not for market leadership but for growing share in a specific segment, backed by technical credibility and customer satisfaction.
+The competitive landscape in security screening is therefore shaped by [fragmented markets](/fragmented-market/), distributed technology choices, regulatory barriers, and integration stickiness. Liberty competes not for market leadership but for growing share in a specific segment, backed by technical credibility and customer satisfaction.
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>

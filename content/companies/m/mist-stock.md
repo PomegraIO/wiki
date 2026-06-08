@@ -52,7 +52,7 @@ Filings also disclose any committed financing arrangements: venture capital fund
 
 ## Management Experience and Governance
 
-MIST's 10-K discloses executive bios, board composition, and incentive structures. A CEO with a track record of bringing drugs through FDA approval to commercial launch has credibility; one that is new to the space carries more execution risk. The company's board should include cardiologists, regulatory experts, or former pharma executives who can guide development strategy.
+MIST's 10-K discloses executive bios, board composition, and incentive structures. A CEO with a track record of bringing drugs through FDA approval to commercial launch has credibility; one that is new to the space carries more [execution risk](/execution-risk/). The company's board should include cardiologists, regulatory experts, or former pharma executives who can guide development strategy.
 
 Insider ownership (CEO and board shareholding) is also disclosed. High insider ownership signals skin-in-the-game and alignment with shareholders; low insider ownership may suggest founder/board skepticism about long-term value.
 

@@ -57,9 +57,9 @@ The window for QuantumScape to establish manufacturing scale and supply relation
 
 ## Pressures and Financial Reality
 
-The company has burned substantial capital. Its stock has been volatile, reflecting both hype cycles around battery breakthroughs and sell-offs when manufacturing milestones slip. Dilution from [secondary offerings](/secondary-offering/) has frustrated early investors. The technology risk remains real: "solid-state," while elegant in theory, requires breakthroughs in electrochemistry, manufacturing precision, and thermal modeling that many teams have underestimated.
+The company has burned substantial capital. Its stock has been volatile, reflecting both hype cycles around battery breakthroughs and sell-offs when manufacturing milestones slip. Dilution from [secondary offerings](/secondary-offering/) has frustrated early investors. The [technology risk](/technology-risk/) remains real: "solid-state," while elegant in theory, requires breakthroughs in electrochemistry, manufacturing precision, and thermal modeling that many teams have underestimated.
 
-Volkswagen's partnership reduces but does not eliminate execution risk. The German automaker is itself managing an EV transition, supply-chain constraints, and regulatory pressures. If Volkswagen's EV ambitions falter, so does QuantumScape's near-term revenue visibility. For equity investors, this is a bet on both the technology AND Volkswagen's strategic commitment.
+Volkswagen's partnership reduces but does not eliminate [execution risk](/execution-risk/). The German automaker is itself managing an EV transition, supply-chain constraints, and regulatory pressures. If Volkswagen's EV ambitions falter, so does QuantumScape's near-term revenue visibility. For equity investors, this is a bet on both the technology AND Volkswagen's strategic commitment.
 
 For researchers following battery technology, QuantumScape's [10-K](/wiki/10-k/) and quarterly filings lay out the specific metrics worth watching: separator manufacturing yield, cycle-life test results on production batches, any customer design-wins beyond Volkswagen, and cash runway. The company's technical papers, published alongside its patent applications, show genuine innovation but also acknowledge remaining challenges that remain years away from resolution.
 

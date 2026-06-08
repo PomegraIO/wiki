@@ -25,7 +25,7 @@ QDTY is an actively managed exchange-traded fund that owns the hundred largest n
 
 ## What the strategy is
 
-A covered call works this way: you own stock. An option buyer pays you cash to buy the right to purchase your stock at a fixed price (the strike) by a certain date. If the stock stays below the strike, the option expires worthless and you keep both the stock and the premium. If the stock surges above the strike, the option buyer exercises, and your stock is called away at that fixed price. You have capped your gain but received immediate cash. Repeat that trade thousands of times across many stocks and many expirations, and you have a steady income engine.
+A covered call works this way: you own stock. An [option buyer](/option-buyer/) pays you cash to buy the right to purchase your stock at a fixed price (the strike) by a certain date. If the stock stays below the strike, the option expires worthless and you keep both the stock and the premium. If the stock surges above the strike, the option buyer exercises, and your stock is called away at that fixed price. You have capped your gain but received immediate cash. Repeat that trade thousands of times across many stocks and many expirations, and you have a steady income engine.
 
 QDTY focuses on 0DTE — zero days to expiration — call options. These are options that expire at the close of trading the very same day they are sold. Because they expire so quickly, they carry very small premiums individually. But the fund rolls them constantly: selling new 0DTE calls every single market day. Over time, many small daily premiums add up to meaningful income on top of whatever the underlying Nasdaq 100 stocks gain (or lose).
 

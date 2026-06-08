@@ -12,7 +12,7 @@ handwritten: true
 
 ## The vision of urban air mobility
 
-Eve Air Mobility represents Embraer's bet on one of aerospace's most ambitious frontier markets: urban air transportation using electric vertical take-off and landing aircraft, known as eVTOLs. Instead of driving through congested traffic, the pitch goes, commuters in dense cities would eventually summon an air taxi—a small, electric aircraft that takes off vertically like a helicopter but flies forward like a plane—and traverse the city in minutes. Eve's role is to engineer and produce the actual aircraft, the hardware at the center of the ecosystem. The company also sells air traffic management software and operates a maintenance and support network. Eve is still in development; the aircraft have not entered commercial service, but the company is preparing for a future it believes is inevitable.
+Eve Air Mobility represents Embraer's bet on one of aerospace's most ambitious [frontier markets](/frontier-markets/): urban air transportation using electric vertical take-off and landing aircraft, known as eVTOLs. Instead of driving through congested traffic, the pitch goes, commuters in dense cities would eventually summon an air taxi—a small, electric aircraft that takes off vertically like a helicopter but flies forward like a plane—and traverse the city in minutes. Eve's role is to engineer and produce the actual aircraft, the hardware at the center of the ecosystem. The company also sells air traffic management software and operates a maintenance and support network. Eve is still in development; the aircraft have not entered commercial service, but the company is preparing for a future it believes is inevitable.
 
 ## The Embraer connection and the pivot
 

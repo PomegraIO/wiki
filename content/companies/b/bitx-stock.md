@@ -33,7 +33,7 @@ An illustrative case: suppose Bitcoin falls 5 percent, then rises 6 percent, end
 
 ## Structure and sponsor
 
-Kucoin, the sponsor, is a cryptocurrency exchange with a global trading base. Unlike traditional ETF sponsors like Vanguard or ProShares, Kucoin brings a crypto-native perspective to the product. The ETF structure provides regulatory clarity and liquidity that a direct crypto derivative would not, but the underlying mechanics are still driven by Bitcoin futures markets.
+Kucoin, the sponsor, is a cryptocurrency exchange with a global trading base. Unlike traditional [ETF sponsors](/etf-sponsor/) like Vanguard or ProShares, Kucoin brings a crypto-native perspective to the product. The ETF structure provides regulatory clarity and liquidity that a direct crypto derivative would not, but the underlying mechanics are still driven by Bitcoin futures markets.
 
 ## Who BITX serves
 

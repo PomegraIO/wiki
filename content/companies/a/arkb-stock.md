@@ -27,7 +27,7 @@ Ark 21Shares [Bitcoin](/bitcoin/) ETF is a passively managed, exchange-traded fu
 
 ## How the fund works and earns revenue
 
-The unit economics of a bitcoin ETF are straightforward. Investors buy shares through their [brokers](/broker/), money flows into the fund, and fund managers use that capital to buy and hold bitcoin in offline storage, known as cold storage, maintained by professional custodians. The only revenue the fund generates is the difference between the price of the bitcoin it holds and the fees it charges shareholders.
+The unit economics of a bitcoin ETF are straightforward. Investors buy shares through their [brokers](/broker/), money flows into the fund, and fund managers use that capital to buy and hold bitcoin in offline storage, known as [cold storage](/cold-storage-crypto/), maintained by professional custodians. The only revenue the fund generates is the difference between the price of the bitcoin it holds and the fees it charges shareholders.
 
 ARKB charges an annual [management fee](/management-fee/) expressed as a percentage of assets under management. This fee is deducted daily from the fund's [net asset value](/net-asset-value/) and distributed to the sponsor and operator. The fee is lower than the cost of actively managed cryptocurrency products, though higher than what passive stock [index funds](/index-fund/) charge. Because the fund holds physical bitcoin and must pay for custodial safeguarding, insurance, and operational overhead, those costs flow into the fee structure. The sponsor keeps a slice to cover their business expenses; the rest goes to the operator and service providers.
 

@@ -34,7 +34,7 @@ handwritten: true
 
 Brookfield Infrastructure exists because certain assets — a toll road, a power transmission line, a pipeline carrying gas across a continent — generate cash for decades once built and paid for. These assets are not exciting; they do not disrupt; they do not scale exponentially. But they are essential, they earn predictable revenues, and they attract a specific kind of capital: yield-hungry investors, pension funds, and endowments that want steady cash over growth and can accept single-digit real returns in exchange for certainty and inflation protection.
 
-In 2007, Brookfield spun off a partnership to own a collection of such assets, taking it public so that smaller investors could access what was previously the preserve of infrastructure funds and institutional buyers. The structure as a limited partnership (rather than a corporation) allowed the partnership to pass cash directly through to unitholders with minimal tax leakage, a material advantage for the investor base. BIP became a catch-all container for Brookfield's infrastructure play, and the parent company has continued to feed it [acquisitions](/acquisition/), making it one of the world's larger infrastructure platforms.
+In 2007, Brookfield spun off a partnership to own a collection of such assets, taking it public so that smaller investors could access what was previously the preserve of [infrastructure funds](/pe-infrastructure-fund/) and institutional buyers. The structure as a limited partnership (rather than a corporation) allowed the partnership to pass cash directly through to unitholders with minimal tax leakage, a material advantage for the investor base. BIP became a catch-all container for Brookfield's infrastructure play, and the parent company has continued to feed it [acquisitions](/acquisition/), making it one of the world's larger infrastructure platforms.
 
 ## The assets and how they earn
 
@@ -44,7 +44,7 @@ These are not glamorous businesses. A toll road does the same job year after yea
 
 ## The role of leverage and refinancing
 
-Brookfield Infrastructure, like many infrastructure funds, uses debt to enhance returns. An asset that generates a 5% cash yield can support debt at 3–4%, leaving equity with a higher yield after debt service. This leverage works well in a stable or falling interest-rate environment; it becomes painful if rates rise and refinancing costs spike. Infrastructure partnerships like BIP are sensitive to the interest-rate backdrop because they often carry significant debt loads and because their returns, if measured as a discount to future cash flows, compress when risk-free rates rise.
+Brookfield Infrastructure, like many infrastructure funds, uses debt to enhance returns. An asset that generates a 5% cash yield can support debt at 3–4%, leaving equity with a higher yield after debt service. This leverage works well in a stable or falling interest-rate environment; it becomes painful if rates rise and refinancing costs spike. Infrastructure partnerships like BIP are sensitive to the interest-rate backdrop because they often carry significant debt loads and because their returns, if measured as a discount to future cash flows, compress when [risk-free rates](/risk-free-rate/) rise.
 
 The partnership manages this through [diversification](/diversification/) across geographies and assets, mix of fixed-rate and floating-rate debt, and regular refinancing to extend maturity profiles. But the fundamental arithmetic remains: a rise in funding costs reduces the cash available to unitholders, while falling rates improve it. This makes BIP a creature of the broader capital markets, not purely an asset fundamentals story.
 
@@ -58,7 +58,7 @@ The downside of the partnership structure is that unitholders cannot reinvest di
 
 The clearest near-term risks are interest-rate sensitive. A sustained rise in [bond](/bond/) yields makes BIP's returns look less attractive relative to fixed-income alternatives, and also raises the cost of refinancing. Longer-term risks include regulatory changes to infrastructure pricing (especially tolls), disruption to the assets themselves (e.g., electrification of vehicles reducing toll-road usage), and the slow decay of certain assets as they age and require capital reinvestment. The company is also exposed to currency fluctuations given its global footprint, though many of its assets are priced in local currency and earn local inflation, providing some natural hedge.
 
-Political risk is real, especially in markets where infrastructure is subject to rate regulation or concession agreements. A government that rolls back toll rates or refuses to raise them with inflation erodes returns; a change in leadership or policy can threaten assumed price-escalation clauses.
+[Political risk](/political-risk/) is real, especially in markets where infrastructure is subject to rate regulation or concession agreements. A government that rolls back toll rates or refuses to raise them with inflation erodes returns; a change in leadership or policy can threaten assumed price-escalation clauses.
 
 ## Researching Brookfield Infrastructure
 

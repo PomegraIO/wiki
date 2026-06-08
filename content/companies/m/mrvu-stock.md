@@ -17,7 +17,7 @@ Direxion is one of the two dominant sponsors of single-stock leveraged ETFs, com
 
 ## The structure and mechanics
 
-MRVU holds Marvell Technology stock and synthetic positions in futures and derivatives designed to move the fund twice as fast as the underlying stock each day. At each market close, Direxion rebalances the fund's holdings to reset the [leverage ratio](/leverage-ratio-forex/) back to 2x, regardless of what the stock has done. This reset happens automatically and incurs transaction costs that Direxion absorbs (implicitly, in the [expense ratio](/expense-ratio/)).
+MRVU holds Marvell Technology stock and [synthetic positions](/synthetic-position/) in futures and derivatives designed to move the fund twice as fast as the underlying stock each day. At each market close, Direxion rebalances the fund's holdings to reset the [leverage ratio](/leverage-ratio-forex/) back to 2x, regardless of what the stock has done. This reset happens automatically and incurs transaction costs that Direxion absorbs (implicitly, in the [expense ratio](/expense-ratio/)).
 
 The fund's daily-reset design means it tracks the stock's single-day moves reliably, but those daily moves compound unpredictably over longer periods because of volatility drag. A stock that oscillates wildly but ends up flat will have a MRVU position that has lost value — a quirk of daily rebalancing that catches many buy-and-hold investors off guard.
 

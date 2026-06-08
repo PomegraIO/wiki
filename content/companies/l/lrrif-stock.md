@@ -30,7 +30,7 @@ In this model, Lion Rock's role is to take on early-stage exploration risk (geol
 
 ## Cash Burn and Exploration Spending
 
-Lion Rock sustains operations through [equity financing](/equity-financing/) (stock issuance) and, occasionally, debt or vendor financing. The company's cash outflows are primarily:
+Lion Rock sustains operations through [equity financing](/equity-financing/) (stock issuance) and, occasionally, debt or [vendor financing](/vendor-financing/). The company's cash outflows are primarily:
 
 1. **Exploration drilling and sampling**: A single exploration well can cost $100,000–$500,000 depending on depth, location, and target. A robust exploration program might involve 10–50 wells per season, requiring $1–$25 million annual spending. This cost is necessary to generate geological data that defines ore grade, thickness, and lateral extent.
 

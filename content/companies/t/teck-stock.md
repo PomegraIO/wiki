@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Teck Resources is one of the world's largest diversified mining companies, operating coal, copper, and zinc mines across North America and South America. The company generates revenue from the sale of raw commodities whose prices fluctuate with global economic activity, inventory cycles, and supply-and-demand imbalances that Teck itself cannot control — but its large scale and decades of operating expertise give it cost advantages that allow it to profit even when commodity prices are depressed.*
+*Teck Resources is one of the world's largest diversified mining companies, operating coal, copper, and zinc mines across North America and South America. The company generates revenue from the sale of raw commodities whose prices fluctuate with global economic activity, [inventory cycles](/inventory-cycle/), and supply-and-demand imbalances that Teck itself cannot control — but its large scale and decades of operating expertise give it cost advantages that allow it to profit even when commodity prices are depressed.*
 
 ### What does Teck mine, and where?
 

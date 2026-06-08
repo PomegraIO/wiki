@@ -37,7 +37,7 @@ This restructuring reflects a broader global trend: large diversified conglomera
 
 ## Order book and backlog visibility
 
-A key metric for defense contractors and maritime technology companies is the order backlog—the value of contracts awarded but not yet completed. Kongsberg's backlog has grown substantially as Western NATO customers increased defense spending in response to geopolitical tensions in Europe. A large backlog provides revenue visibility and confidence that growth will continue for years, but it also creates execution risk: the company must deliver on time and on budget or face cost overruns and margin pressure.
+A key metric for defense contractors and maritime technology companies is the order backlog—the value of contracts awarded but not yet completed. Kongsberg's backlog has grown substantially as Western NATO customers increased defense spending in response to geopolitical tensions in Europe. A large backlog provides revenue visibility and confidence that growth will continue for years, but it also creates [execution risk](/execution-risk/): the company must deliver on time and on budget or face cost overruns and margin pressure.
 
 ## Competition and technological differentiation
 

@@ -32,7 +32,7 @@ A closed-end fund is distinct from the more familiar open-ended mutual fund. Whi
 
 ## Structure and regulation
 
-The Mexico Equity & Income Fund is registered under the U.S. [Investment Company Act of 1940](/investment-company-act-of-1940/) as a non-diversified management investment company. "Non-diversified" means it does not have to spread its holdings evenly across different securities — it can concentrate its bets more heavily on individual stocks or issuers if it chooses. "Closed-end" means it does not continuously issue new shares or redeem existing ones. Investors who want to own it must buy shares on the NYSE from other investors at the market price, which can trade above or below the underlying value of the portfolio.
+The Mexico [Equity & Income Fund](/equity-income-fund/) is registered under the U.S. [Investment Company Act of 1940](/investment-company-act-of-1940/) as a non-diversified management investment company. "Non-diversified" means it does not have to spread its holdings evenly across different securities — it can concentrate its bets more heavily on individual stocks or issuers if it chooses. "Closed-end" means it does not continuously issue new shares or redeem existing ones. Investors who want to own it must buy shares on the NYSE from other investors at the market price, which can trade above or below the underlying value of the portfolio.
 
 That last point is important. If the fund's assets are worth $10 per share on any given day, but investor demand is strong and supply is thin, MXE might trade at $11 or $12. Conversely, if sentiment sours or investors fear Mexican political or [currency risk](/currency-risk/), the same fund might trade at $8 or $9 despite the underlying assets being worth $10. The fund itself does not adjust the price — the market does.
 
@@ -46,7 +46,7 @@ The portfolio is actively managed by Pichardo Asset Management, which means a te
 
 Mexico is the world's 15th-largest economy and a major manufacturing and export hub, especially for the United States. It is also home to large consumer markets, significant natural resources, and rapidly developing financial and technology sectors. For U.S. investors seeking exposure to emerging markets, Mexico is often more accessible than many alternatives because of the two countries' physical proximity, established trade relationships, and relative political stability.
 
-However, Mexican securities carry risks. The Mexican peso fluctuates against the [U.S. dollar](/us-dollar/), so fund investors face currency risk — a 10 percent decline in the peso against the dollar can meaningfully drag on returns. Mexico's government and economy are also sensitive to commodity prices, especially oil, which is both produced and consumed domestically. Political and regulatory uncertainty can affect particular sectors, such as energy or telecommunications. Investors in Mexican securities implicitly accept these macro-level risks.
+However, Mexican securities carry risks. The [Mexican peso](/mexian-peso/) fluctuates against the [U.S. dollar](/us-dollar/), so fund investors face currency risk — a 10 percent decline in the peso against the dollar can meaningfully drag on returns. Mexico's government and economy are also sensitive to commodity prices, especially oil, which is both produced and consumed domestically. Political and regulatory uncertainty can affect particular sectors, such as energy or telecommunications. Investors in Mexican securities implicitly accept these macro-level risks.
 
 ## Peer context and benchmarking
 

@@ -38,7 +38,7 @@ BioXcel's commercialization strategy involves establishing relationships with ps
 
 Most commercial biotech companies are not sustainable on a single approved drug: patent expiration (typically 20 years from filing, often 10–12 years of effective market exclusivity after approval) means the drug's revenue cliff is foreseeable. A company must develop a pipeline of follow-on drugs to replace expiring revenue. BioXcel's pipeline likely includes additional psychiatry candidates, pain therapies, or line extensions of approved drugs (e.g., a new formulation of an approved drug targeting a different patient population).
 
-Pipeline risk is binary: Phase II data is positive (de-risking the program), or it's negative (program is terminated or restructured). For a company reliant on pipeline success, negative trial data can be catastrophic — the company loses a material portion of its growth prospect and must cut costs or seek [acquisition](/acquisition/).
+[Pipeline risk](/pipeline-risk/) is binary: Phase II data is positive (de-risking the program), or it's negative (program is terminated or restructured). For a company reliant on pipeline success, negative trial data can be catastrophic — the company loses a material portion of its growth prospect and must cut costs or seek [acquisition](/acquisition/).
 
 ## Pricing Pressure and Payer Negotiation
 

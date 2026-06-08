@@ -33,7 +33,7 @@ Yet automotive is also where the growth is. In a mature smartphone market, proce
 
 STMicroelectronics' ownership of both design and manufacturing is sometimes an advantage and sometimes a burden, depending on market conditions. When silicon is scarce, as it was in 2021 and 2022, the company's own fabs ensure supply for its own products; it does not queue up behind other customers at a foundry. When silicon is abundant, the company must run its fabs at high utilization or face manufacturing cost [inflation](/inflation/)—idle capacity is expensive.
 
-The company operates fabs in multiple geographies: Italy (its ancestral home), France (the legacy of Thomson), Singapore (for high-volume production), Texas, and China (through partnerships). That geographic diversity provides some natural hedging against political risk and supply disruptions, but it also means managing multiple manufacturing operations with different cost structures and political environments.
+The company operates fabs in multiple geographies: Italy (its ancestral home), France (the legacy of Thomson), Singapore (for high-volume production), Texas, and China (through partnerships). That geographic diversity provides some [natural hedging](/natural-hedging/) against [political risk](/political-risk/) and supply disruptions, but it also means managing multiple manufacturing operations with different cost structures and political environments.
 
 Competing against pure-play designers like Qualcomm and against pure-play foundries like TSMC forces STMicroelectronics to justify its integrated model constantly. It must prove that owning both design and fab yields better products than outsourcing one half or the other. Sometimes it does; sometimes competitors' chosen approach is superior. The company must continuously invest in both capabilities to maintain that balance.
 
@@ -51,7 +51,7 @@ Conversely, that capital spending is a barrier to entry that protects STMicroele
 
 ## How to research STMicroelectronics
 
-Begin with the annual 10-K filing (SEC CIK 0000932787), which breaks revenue by product category and geographic region. Look at the percentage coming from automotive, from industrial, from mobile—that mix determines exposure to different market cycles. Watch the gross margin trends. Semiconductor margins compress when chips are abundant and improve when scarce; the company's ability to maintain margin despite competitive pressure is a sign of pricing power.
+Begin with the annual 10-K filing (SEC CIK 0000932787), which breaks revenue by product category and geographic region. Look at the percentage coming from automotive, from industrial, from mobile—that mix determines exposure to different [market cycles](/market-cycle/). Watch the gross margin trends. Semiconductor margins compress when chips are abundant and improve when scarce; the company's ability to maintain margin despite competitive pressure is a sign of pricing power.
 
 Examine the capital expenditure guidance. If the company is spending more as a percentage of revenue than it has historically, management may believe a new technology transition requires investment. Track the utilization rates of its fabs. High utilization is good; it means fixed costs are spread across more units. Low utilization is expensive and signals slack demand.
 

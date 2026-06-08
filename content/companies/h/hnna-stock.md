@@ -37,7 +37,7 @@ Hennessy's regulatory filings enumerate risks: market downturns that cause clien
 
 ## The research pathway: where to start
 
-Begin with Hennessy's most recent Form 10-K filing on the SEC's EDGAR database (searchable by [CIK 1145255](/10-k/)). The filing's Item 1 describes the business; Item 1A itemizes risk factors. Item 7, the consolidated financial statements, shows revenue, operating expenses, and net income. Item 8 presents the balance sheet and cash-flow statement. For fund-specific details, request prospectuses from the firm's website or the SEC's EDGAR system. Compare Hennessy's [expense ratios](/earnings-per-share/) and [returns](/dividend/) against competing funds in the same category—a comparison best done on fund platforms like Morningstar. This layered approach—SEC filings first, fund documents second, market data third—grounds an investor's due diligence in primary sources.
+Begin with Hennessy's most recent Form 10-K filing on the SEC's EDGAR database (searchable by [CIK 1145255](/10-k/)). The filing's Item 1 describes the business; Item 1A itemizes risk factors. Item 7, the consolidated financial statements, shows revenue, operating expenses, and net income. Item 8 presents the balance sheet and cash-flow statement. For fund-specific details, request prospectuses from the firm's website or the SEC's EDGAR system. Compare Hennessy's [expense ratios](/earnings-per-share/) and [returns](/dividend/) against competing funds in the same category—a comparison best done on fund platforms like Morningstar. This layered approach—SEC filings first, fund documents second, market data third—grounds an investor's [due diligence](/due-diligence/) in primary sources.
 
 <div class="wiki-seealso">
 ### Closely related

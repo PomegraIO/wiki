@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-BFJL is operationally identical to BFJA — a monthly-reset [Bitcoin](/bitcoin/) collar with a minus 15% floor and a monthly ceiling — except for one detail: the collar resets on the first trading day of July instead of January. For most investors, this distinction is invisible; the fund behaves the same way from month to month. For some specialized investors holding multiple FT Vest Bitcoin buffer ETFs, the different reset dates allow laddering — staggering the collar expiries so the risk of a sharp move coinciding with a reset is spread across multiple reset dates throughout the year.
+BFJL is operationally identical to BFJA — a monthly-reset [Bitcoin](/bitcoin/) collar with a minus 15% floor and a monthly ceiling — except for one detail: the collar resets on the first trading day of July instead of January. For most investors, this distinction is invisible; the fund behaves the same way from month to month. For some specialized investors holding multiple FT Vest Bitcoin [buffer ETFs](/buffer-etf/), the different reset dates allow laddering — staggering the collar expiries so the risk of a sharp move coinciding with a reset is spread across multiple reset dates throughout the year.
 
 ## The structure: collar around Bitcoin exposure
 
@@ -38,7 +38,7 @@ Bitcoin is also less liquid than equity markets outside of the spot trading venu
 
 ## A July reset means less seasonal adjustment
 
-Unlike January, which has year-end-related market volatility and January effects, July is a quieter month in financial markets. The July reset does not align with earnings season, major economic data releases, or typical rebalancing windows. This may mean the collar is struck under more "normal" market conditions than a January reset might be. In practice, this is probably immaterial; the cost to establish the collar is what the market will bear at that moment, and there is no evidence that resets on different dates produce meaningfully different results.
+Unlike January, which has year-end-related market volatility and [January effects](/january-effect/), July is a quieter month in financial markets. The July reset does not align with earnings season, major economic data releases, or typical rebalancing windows. This may mean the collar is struck under more "normal" market conditions than a January reset might be. In practice, this is probably immaterial; the cost to establish the collar is what the market will bear at that moment, and there is no evidence that resets on different dates produce meaningfully different results.
 
 ## How to use BFJL in a portfolio
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-J-Star Holding Co., Ltd. is a Japanese holding company whose subsidiaries operate across advertising, media production, entertainment, and talent management. The company trades in Japan under ticker YMAT and in the United States via American Depositary Shares. It represents the type of diversified media and entertainment holding company common in Japan—a portfolio of businesses united by a focus on creating, producing, and distributing content and entertainment experiences.
+J-Star Holding Co., Ltd. is a Japanese holding company whose subsidiaries operate across advertising, media production, entertainment, and talent management. The company trades in Japan under ticker YMAT and in the United States via American [Depositary Shares](/depositary-share/). It represents the type of diversified media and entertainment holding company common in Japan—a portfolio of businesses united by a focus on creating, producing, and distributing content and entertainment experiences.
 
 <aside class="wiki-infobox">
 <table>

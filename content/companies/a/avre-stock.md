@@ -45,6 +45,6 @@ The fund is not a vehicle for income maximization specifically — though REITs 
 
 Start with the fund's fact sheet and prospectus, available on the Avantis website, which specify the exact index methodology, holdings, and expense ratio. The fact sheet shows the fund's holdings, top positions, and performance relative to the underlying index — a snapshot of what you own and how closely the fund tracks its benchmark.
 
-For the real estate market context, watch how the broader sector behaves around interest-rate announcements and economic data. Articles on commercial real estate cycles and REIT valuations help calibrate whether the sector is favoured by the current environment. The fund's tracking error — the difference between what it returns and what the index returns — should be minimal; if it drifts, costs are the usual culprit.
+For the real estate market context, watch how the broader sector behaves around interest-rate announcements and economic data. Articles on commercial [real estate cycles](/real-estate-cycle/) and REIT valuations help calibrate whether the sector is favoured by the current environment. The fund's tracking error — the difference between what it returns and what the index returns — should be minimal; if it drifts, costs are the usual culprit.
 
 Like any single security, AVRE trades at prices set by the market. This entry is a description of what the fund does and what risks it carries, not an endorsement or a recommendation to buy or sell.

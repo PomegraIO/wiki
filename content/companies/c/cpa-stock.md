@@ -41,9 +41,9 @@ However, cargo demand can be cyclical and volatile, and Copa's exposure to this 
 
 ## The geopolitical and operational context
 
-Copa operates in a region with significant geopolitical complexity. Panama's role as a transit point for trade — both through its canal and through its airports — makes it strategically important but also exposes the business to political risk. Changes in government, fiscal crises, or social unrest in Panama or its neighbours can disrupt travel and trade. Violent crime and gang activity in parts of the region is a concern for business and leisure travel.
+Copa operates in a region with significant geopolitical complexity. Panama's role as a transit point for trade — both through its canal and through its airports — makes it strategically important but also exposes the business to [political risk](/political-risk/). Changes in government, fiscal crises, or social unrest in Panama or its neighbours can disrupt travel and trade. Violent crime and gang activity in parts of the region is a concern for business and leisure travel.
 
-Operationally, Copa has invested in its fleet and systems to modernize and improve efficiency. The airline has taken delivery of new aircraft and has enhanced its IT and revenue-management capabilities to price seats more effectively. These investments are necessary to compete and to maintain the moat, but they require capital investment and carry execution risk.
+Operationally, Copa has invested in its fleet and systems to modernize and improve efficiency. The airline has taken delivery of new aircraft and has enhanced its IT and revenue-management capabilities to price seats more effectively. These investments are necessary to compete and to maintain the moat, but they require capital investment and carry [execution risk](/execution-risk/).
 
 Debt is also a material consideration for Copa, as it is for all airlines. The industry is capital-intensive and has historically operated with significant leverage. COVID-19 forced airlines to borrow heavily to survive the passenger collapse, and Copa emerged with a larger debt load that it must service through operational cash flow. High debt reduces financial flexibility if the business encounters a prolonged downturn.
 

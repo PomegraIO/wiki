@@ -49,7 +49,7 @@ The SPAC phenomenon has produced winners and losers. Some of the most successful
 
 ## What to Look for in Chain Bridge I
 
-Before buying, research who the sponsors are. What are their previous investments or operating roles? How many SPACs have they run before? What happened to those deals — did they create value or destroy it? Read the prospectus carefully. It discloses the sponsors' fees, the timeline, and the redemption mechanics. If Chain Bridge I has already announced a merger target, read the proxy statement — it contains detailed information about the target company, financial projections, and the deal terms. Ask yourself: is this target company worth the price being paid? Do the projections look realistic? Are the sponsors likely to make money at my expense?
+Before buying, research who the sponsors are. What are their previous investments or operating roles? How many SPACs have they run before? What happened to those deals — did they create value or destroy it? Read the prospectus carefully. It discloses the sponsors' fees, the timeline, and the redemption mechanics. If Chain Bridge I has already announced a merger target, read the [proxy statement](/proxy-statement/) — it contains detailed information about the target company, financial projections, and the deal terms. Ask yourself: is this target company worth the price being paid? Do the projections look realistic? Are the sponsors likely to make money at my expense?
 
 ## The Liquidity Question
 

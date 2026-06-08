@@ -63,7 +63,7 @@ Promotions are endemic to retail in Thailand — heavy discounting and bundling 
 
 ## Dividend and Capital Return Profile
 
-As a mature, cash-generative retail operator, Central Retail has historically provided [dividends](/dividend/) to shareholders. The presence of an ADR (American Depositary Receipt) structure suggests efforts to court international investors, though trading volumes remain modest. The ADR represents a convenience for non-Thai investors to hold Thai retail exposure, but it is a secondary instrument relative to direct Thai stock-market trading.
+As a mature, cash-generative retail operator, Central Retail has historically provided [dividends](/dividend/) to shareholders. The presence of an ADR (American [Depositary Receipt](/depositary-receipt/)) structure suggests efforts to court international investors, though trading volumes remain modest. The ADR represents a convenience for non-Thai investors to hold Thai retail exposure, but it is a secondary instrument relative to direct Thai stock-market trading.
 
 The company's ability to return capital to shareholders depends on maintaining stable store cash flows and managing capital expenditure for new stores or renovations. Aggressive growth investments or a significant retail downturn would pressure dividends.
 
@@ -77,7 +77,7 @@ The company's ability to return capital to shareholders depends on maintaining s
 
 ### Wider context
 - Consumer [discretionary spending](/discretionary-spending/) and cyclicality
-- Emerging market currency and political risk
+- Emerging market currency and [political risk](/political-risk/)
 - [ADR](/adr/) and depositary receipt structures for international investors
 - [Public company](/public-company/) dividend and capital allocation policies
 </div>

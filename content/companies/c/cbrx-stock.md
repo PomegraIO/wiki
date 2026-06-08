@@ -12,7 +12,7 @@ handwritten: true
 
 > A leveraged bet on volatility premiums is a bet that calm markets will continue — and calm markets end.
 
-CBRX is Tradr's version of a 2x long leveraged daily-reset ETF tracking the Cboe [Bitcoin](/bitcoin/) Volatility Risk Premium Index (BRR). Like every leveraged daily-reset fund, it is a mechanical instrument built for traders who expect a directional move and need to be right fast, not a vehicle for building wealth over decades. The memorable line above captures the core truth: the fund prospers in those periods when [implied volatility](/implied-volatility/) (what options cost) far exceeds realized volatility (what actually happens), and the premium harvest is fat. The moment the market gets interesting — the moment investors start to care about [tail risk](/tail-risk/) — the entire thesis evaporates.
+CBRX is Tradr's version of a 2x long leveraged daily-reset ETF tracking the Cboe [Bitcoin](/bitcoin/) [Volatility Risk](/volatility-risk/) Premium Index (BRR). Like every leveraged daily-reset fund, it is a mechanical instrument built for traders who expect a directional move and need to be right fast, not a vehicle for building wealth over decades. The memorable line above captures the core truth: the fund prospers in those periods when [implied volatility](/implied-volatility/) (what options cost) far exceeds realized volatility (what actually happens), and the premium harvest is fat. The moment the market gets interesting — the moment investors start to care about [tail risk](/tail-risk/) — the entire thesis evaporates.
 
 ## The volatility risk premium and why it exists
 

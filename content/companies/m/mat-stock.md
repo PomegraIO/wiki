@@ -55,7 +55,7 @@ Analysts monitor Mattel's key metrics closely:
 
 - **Gross margin trends** — whether the company can maintain or expand gross margins amid cost inflation and a shifting revenue mix toward licensing.
 - **Sales at constant currency** — Mattel has significant exposure to international currency fluctuations and retail destocking cycles.
-- **Licensing revenue growth** — the company reports this separately, and it is a leading indicator of the entertainment-first strategy.
+- **Licensing revenue growth** — the company reports this separately, and it is a [leading indicator](/leading-indicator/) of the entertainment-first strategy.
 - **Cash generation and debt service** — Mattel carries significant debt and must generate free cash to fund both [dividends](/dividend/) and content investments.
 - **Retail inventory and sell-through** — large retailers report sell-through data, and elevated inventory signals demand weakness.
 

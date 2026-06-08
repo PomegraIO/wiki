@@ -50,7 +50,7 @@ In benign conditions, Magyar Bancorp can pay dividends funded by [retained earni
 ### Closely related
 - Commercial banks and community banking
 - Net interest margin
-- Loan-loss provisions and credit cycles
+- Loan-loss provisions and [credit cycles](/credit-cycle/)
 - [Federal Reserve and monetary policy](/federal-reserve/)
 
 ### Wider context

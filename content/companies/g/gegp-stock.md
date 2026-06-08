@@ -29,7 +29,7 @@ The unit economics of gold mining are straightforward: if the all-in cost per ou
 
 ## Geographic and Regulatory Context
 
-Major gold mining regions—Canada, Australia, Peru, Russia, West Africa—have distinct regulatory environments, labor costs, and mining traditions. Gold Enterprise Group's operational footprint shapes its cost base and its exposure to particular geopolitical risks. A company with mining concessions in unstable regions faces political risk; one with operations in high-tax jurisdictions faces lower net revenue per ounce. These geographic specifics, normally detailed in 10-K disclosures, determine the company's competitive positioning within the global mining industry.
+Major gold mining regions—Canada, Australia, Peru, Russia, West Africa—have distinct regulatory environments, labor costs, and mining traditions. Gold Enterprise Group's operational footprint shapes its cost base and its exposure to particular geopolitical risks. A company with mining concessions in unstable regions faces [political risk](/political-risk/); one with operations in high-tax jurisdictions faces lower net revenue per ounce. These geographic specifics, normally detailed in 10-K disclosures, determine the company's competitive positioning within the global mining industry.
 
 ## Trading Versus Mining
 

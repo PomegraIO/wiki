@@ -10,7 +10,7 @@ keywords: [poland, banking, adrs, eastern-europe, universal-bank, central-bankin
 
 Bank Pekao occupies a singular niche in the value chain of Central European finance. Poland itself sits at an economic inflection point—developed enough to attract Western capital and investment, yet with growing internal demand for credit, equity underwriting, and treasury services. Pekao, like other Polish universal banks, acts as a crucial intermediary, taking deposits from millions of Polish households and businesses and deploying that capital into mortgages, corporate loans, and securities investments. The company's deposit base forms one end of the chain; the other end connects to borrowers ranging from property developers to mid-market manufacturers to the Polish government itself.
 
-The value Pekao adds reflects this intermediation. It performs the due diligence, pricing, and monitoring that allow capital to move across the wide risk-return spectrum that characterizes an emerging financial system. Deposits from conservative household savers must be matched against loans to enterprises with uncertain cash flows. This matching—and the fee income, net interest margin, and credit losses that flow from it—defines the bank's economic model.
+The value Pekao adds reflects this intermediation. It performs the [due diligence](/due-diligence/), pricing, and monitoring that allow capital to move across the wide risk-return spectrum that characterizes an emerging financial system. Deposits from conservative household savers must be matched against loans to enterprises with uncertain cash flows. This matching—and the fee income, net interest margin, and credit losses that flow from it—defines the bank's economic model.
 
 ## The Deposit-Collection Engine
 
@@ -34,7 +34,7 @@ As a public company with an [American Depositary Receipt](/adr/) listing, Pekao 
 
 ## The Cyclical Exposure and Competitive Moat
 
-Pekao's fortunes are tied to Polish economic growth, credit cycles, and regulatory changes. A stronger Polish economy means more borrowing demand, higher property valuations (beneficial for mortgage collateral), and less credit stress. A weaker economy reverses those dynamics. The company is thus cyclical, though less so than a pure mortgage lender or a highly leveraged commercial real-estate focused bank.
+Pekao's fortunes are tied to Polish economic growth, [credit cycles](/credit-cycle/), and regulatory changes. A stronger Polish economy means more borrowing demand, higher property valuations (beneficial for mortgage collateral), and less credit stress. A weaker economy reverses those dynamics. The company is thus cyclical, though less so than a pure mortgage lender or a highly leveraged commercial real-estate focused bank.
 
 The competitive moat, such as it exists, rests on scale, brand, regulatory history, and relationships. Pekao's size relative to competitors gives it advantages in funding costs and the ability to underwrite larger deals. Its long history in Polish banking—spanning decades and multiple regulatory regimes—creates institutional knowledge and customer stickiness. Yet banking is not protected by durable IP or switching costs in the way that pharma or software can be. Margins compress when competition intensifies, and branch networks can become liabilities if customers migrate fully to digital channels without the overhead costs.
 

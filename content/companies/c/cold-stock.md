@@ -28,7 +28,7 @@ Americold Realty Trust owns and operates the largest network of temperature-cont
 
 ## Why frozen warehouses are essential infrastructure
 
-Cold storage is one of the least visible but most essential pieces of modern food and life-sciences supply chains. A chicken breast cannot sit in a truck at room temperature for weeks; neither can a batch of insulin or a shipment of mRNA vaccine. These products need to be held at precise temperatures — often minus 20 degrees Celsius or colder for frozen foods, or 2 to 8 degrees for many pharmaceuticals. And they need to be stored in industrial-scale facilities, not small corner freezers.
+[Cold storage](/cold-storage-crypto/) is one of the least visible but most essential pieces of modern food and life-sciences supply chains. A chicken breast cannot sit in a truck at room temperature for weeks; neither can a batch of insulin or a shipment of mRNA vaccine. These products need to be held at precise temperatures — often minus 20 degrees Celsius or colder for frozen foods, or 2 to 8 degrees for many pharmaceuticals. And they need to be stored in industrial-scale facilities, not small corner freezers.
 
 Americold's warehouses are scattered across the United States and in pockets of Europe, Asia, and Australia. A food company manufacturing frozen products ships them to an Americold facility near the major ports and distribution hubs where they sit, perfectly cold, awaiting shipment to grocery distribution centres. When a retailer orders inventory, Americold handles the pick-and-pack and loads it onto trucks. Americold also handles consolidation — assembling orders from multiple manufacturers into a single truckload to save shipping costs.
 
@@ -72,7 +72,7 @@ The pandemic and subsequent shifts in consumer behaviour (more frozen-food consu
 
 ## How to research Americold as an investment
 
-Start with the company's annual 10-K filing (SEC CIK 0001455863). It will detail the company's facility portfolio, occupancy rates, customer concentration, and long-term contracts. Track occupancy and utilization metrics — they are the best leading indicator of near-term revenue and profitability. If occupancy is declining, it signals that demand is weakening or that the company is losing customers.
+Start with the company's annual 10-K filing (SEC CIK 0001455863). It will detail the company's facility portfolio, occupancy rates, customer concentration, and long-term contracts. Track occupancy and utilization metrics — they are the best [leading indicator](/leading-indicator/) of near-term revenue and profitability. If occupancy is declining, it signals that demand is weakening or that the company is losing customers.
 
 On quarterly calls, listen for colour on contract renewals, customer wins and losses, and any changes to pricing or terms. Monitor the company's debt levels and [debt-to-EBITDA ratios](/debt-to-ebitda-ratio/); because the business is capital-intensive, leverage matters. And track energy prices; a sustained rise in electricity costs will depress margins unless the company can pass those costs to customers.
 

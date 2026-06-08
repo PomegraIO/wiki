@@ -18,7 +18,7 @@ handwritten: true
 
 Lifezone Metals is engaged in the exploration, development, and potential production of mineral deposits, with a focus on metals that support energy transition — nickel, copper, and related elements critical to battery technology and electrification. The company came public through a SPAC merger, which allowed it to raise capital and list on a public exchange without waiting for the traditional IPO process.
 
-That SPAC path is common for mining and exploration companies. Mining projects are capital-intensive, long-horizon investments that often require public-market funding to reach production. A private mining company merges with a SPAC, and upon close of the [business combination](/business-combination-purchase/), shareholders of both entities — the SPAC investors and the mining company's former owners — hold stakes in the combined public company. Warrants are issued as an equity kicker to SPAC IPO investors, sweetening their investment and acknowledging the risk of the blank-check structure.
+That SPAC path is common for mining and exploration companies. Mining projects are capital-intensive, long-horizon investments that often require public-market funding to reach production. A private mining company merges with a SPAC, and upon close of the [business combination](/business-combination-purchase/), shareholders of both entities — the SPAC investors and the mining company's former owners — hold stakes in the combined public company. Warrants are issued as an equity kicker to [SPAC IPO](/spac-ipo/) investors, sweetening their investment and acknowledging the risk of the blank-check structure.
 
 ## Mining and the warrant dynamic
 
@@ -38,6 +38,6 @@ When warrant holders exercise, new shares are created, diluting the ownership of
 
 ## How to research Lifezone Metals warrants
 
-Start with the merger proxy statement (DEFM14A) and the SEC filings under CIK 0001958217. These documents detail the warrant terms, the size of the warrant pool, and the merged company's business plan and resource base. For ongoing research, track Lifezone's quarterly earnings reports and press releases for exploration updates, resource estimates, and any commentary on major deposits or development timelines.
+Start with the merger [proxy statement](/proxy-statement/) (DEFM14A) and the SEC filings under CIK 0001958217. These documents detail the warrant terms, the size of the warrant pool, and the merged company's business plan and resource base. For ongoing research, track Lifezone's quarterly earnings reports and press releases for exploration updates, resource estimates, and any commentary on major deposits or development timelines.
 
 Monitor commodity prices (nickel, copper, cobalt) and their relationship to the company's feasibility studies — if the company has published what prices it needs for a project to be economic, watch whether actual prices diverge. Warrant holders should also pay attention to the stock price relative to the strike: if the stock is far above the strike with years of warrant life remaining, [early exercise](/early-exercise/) might be sensible; if approaching expiration and the stock is below the strike, the warrant is likely to expire worthless.

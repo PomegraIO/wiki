@@ -45,7 +45,7 @@ Individual transportation companies face their own pressures: labor disputes, sa
 
 Start with the fund's prospectus and fact sheet, available from First Trust's website or the fund's distributor. These documents explain the exact index methodology, list the top holdings, and break down sector and geographic weightings. The prospectus also details fees, legal structure, and risks in precise terms.
 
-The prospectus will also name the index provider (typically Nasdaq in this case) and explain the index methodology — the rules that determine which stocks belong in the index and how they are weighted.
+The prospectus will also name the [index provider](/index-provider/) (typically Nasdaq in this case) and explain the index methodology — the rules that determine which stocks belong in the index and how they are weighted.
 
 For insight into what is driving the fund's value day to day, follow transportation sector news and economic reports on freight volume, shipping costs, and airline capacity. Changes in fuel prices, [interest rates](/interest-rate/), and employment in goods-handling sectors all influence the stocks within the fund.
 

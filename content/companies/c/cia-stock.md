@@ -23,7 +23,7 @@ keywords:
 
 </aside>
 
-*Citizens, Inc. is a tiny life insurance company whose business is straightforward: it underwrites and sells life insurance policies to working-class and middle-income customers. The company operates primarily in what the industry calls "industrial life insurance"—small face-value policies, often with modest monthly premiums, sold to people seeking burial insurance or basic financial protection for their families. Citizens, Inc. has operated continuously since 1946, making it one of the older independent life insurers still trading publicly.*
+*Citizens, Inc. is a tiny life insurance company whose business is straightforward: it underwrites and sells life insurance policies to working-class and middle-income customers. The company operates primarily in what the industry calls "industrial life insurance"—small face-value policies, often with modest monthly premiums, sold to people seeking [burial insurance](/burial-insurance/) or basic financial protection for their families. Citizens, Inc. has operated continuously since 1946, making it one of the older independent life insurers still trading publicly.*
 
 ## A Brief History of Industrial Life Insurance
 
@@ -55,7 +55,7 @@ Citizens competes against a shrinking pool of peers. Large insurance conglomerat
 
 ## Financial Position
 
-As a small, independent insurance company, Citizens carries modest debt and simple capital structure. The [balance sheet](/balance-sheet/) reflects life insurance assets (invested premiums), reserves for future claims (liability), and a small equity cushion. The company is not a growth story; it is a stable, slowly declining or flat-growth business in a shrinking market segment. Profitability depends on mortality experience, premium adequacy, and investment returns. In the low-interest-rate years that followed 2008, returns on investments compressed, pressuring margins. Rising mortality from social factors (opioid epidemic, suicide rates) has created headwinds for many life insurers. Citizens' niche customer base may be particularly vulnerable to such trends.
+As a small, independent insurance company, Citizens carries modest debt and simple capital structure. The [balance sheet](/balance-sheet/) reflects life insurance assets (invested premiums), reserves for future claims (liability), and a small [equity cushion](/equity-cushion/). The company is not a growth story; it is a stable, slowly declining or flat-growth business in a shrinking market segment. Profitability depends on mortality experience, premium adequacy, and investment returns. In the low-interest-rate years that followed 2008, returns on investments compressed, pressuring margins. Rising mortality from social factors (opioid epidemic, suicide rates) has created headwinds for many life insurers. Citizens' niche customer base may be particularly vulnerable to such trends.
 
 ## Risks and Challenges
 

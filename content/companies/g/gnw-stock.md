@@ -33,11 +33,11 @@ Insurance companies face regulatory capital requirements from state insurance co
 
 ## Investment Portfolio and Yield Pressure
 
-Genworth's income statement includes investment income (interest and dividends on its asset portfolio) as a material source of earnings. The composition of the investment portfolio—[bonds](/bond/), equities, real estate—appears in the balance sheet and is detailed in footnotes. The portfolio's duration and yield relative to the company's liabilities is disclosed, revealing the extent of duration mismatch and [interest rate](/interest-rate/) risk. When yields decline, Genworth's reinvestment rates fall, pressuring overall returns. The company's disclosure of portfolio quality ([credit ratings](/credit-rating/), default experience) and [prepayment risk](/prepayment-risk/) (for mortgages held) reveals the embedded risks in its asset side.
+Genworth's income statement includes investment income (interest and dividends on its asset portfolio) as a material source of earnings. The composition of the investment portfolio—[bonds](/bond/), equities, real estate—appears in the balance sheet and is detailed in footnotes. The portfolio's duration and yield relative to the company's liabilities is disclosed, revealing the extent of duration mismatch and [interest rate](/interest-rate/) risk. When yields decline, Genworth's [reinvestment rates](/reinvestment-rate-dcf/) fall, pressuring overall returns. The company's disclosure of portfolio quality ([credit ratings](/credit-rating/), default experience) and [prepayment risk](/prepayment-risk/) (for mortgages held) reveals the embedded risks in its asset side.
 
 ## Premium Revenue Recognition and Underwriting Cycles
 
-Genworth recognizes premium revenue ratably over the policy period, not upon receipt. This creates a balance sheet asset called unearned premiums (or deferred revenue) representing the portion of premiums collected that will be earned over time. The insurance income statement separates earned premiums (revenue) from claims (expenses), with the spread—called the underwriting gain or loss—showing whether Genworth's underwriting is profitable before investment income. By reading the underwriting results, investors isolate the economics of Genworth's core business from the boost (or drag) of investment income. Cyclical underwriting softness appears here first, before overall profitability deteriorates.
+Genworth recognizes premium revenue ratably over the policy period, not upon receipt. This creates a balance sheet asset called unearned premiums (or [deferred revenue](/deferred-revenue/)) representing the portion of premiums collected that will be earned over time. The insurance income statement separates earned premiums (revenue) from claims (expenses), with the spread—called the underwriting gain or loss—showing whether Genworth's underwriting is profitable before investment income. By reading the underwriting results, investors isolate the economics of Genworth's core business from the boost (or drag) of investment income. Cyclical underwriting softness appears here first, before overall profitability deteriorates.
 
 ## Debt Structure and Interest Coverage
 
@@ -49,7 +49,7 @@ If Genworth has acquired other insurance companies or financial service business
 
 ## Dividend Policy and Shareholder Returns
 
-Genworth's cash return to shareholders takes the form of dividends and [share buybacks](/share-buyback/). The [board of directors](/board-of-directors/) sets dividend policy; Genworth discloses its [dividend per share](/dividend-per-share/) and [payout ratio](/payout-ratio/) in footnotes and MD&A. The company must also disclose any restrictions on dividend payments imposed by regulators or debt covenants. Share repurchase authorizations and execution are disclosed in proxy statements, revealing how the company prioritizes returning cash versus retaining capital for growth.
+Genworth's cash return to shareholders takes the form of dividends and [share buybacks](/share-buyback/). The [board of directors](/board-of-directors/) sets dividend policy; Genworth discloses its [dividend per share](/dividend-per-share/) and [payout ratio](/payout-ratio/) in footnotes and MD&A. The company must also disclose any restrictions on dividend payments imposed by regulators or debt covenants. Share repurchase authorizations and execution are disclosed in [proxy statements](/proxy-statement/), revealing how the company prioritizes returning cash versus retaining capital for growth.
 
 ## Consolidated Tax Position and Effective Rate
 

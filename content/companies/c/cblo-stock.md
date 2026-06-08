@@ -4,7 +4,7 @@ description: "A blockchain and cryptocurrency infrastructure company pursuing pr
 keywords: ["CBLO", "blockchain", "cryptocurrency", "distributed ledger", "Web3", "digital assets"]
 ---
 
-*C2 Blockchain (CBLO) inhabits the most difficult competitive space in fintech: the blockchain sector, where enthusiasm often exceeds utility and where differentiation is blurred by the fact that the underlying technology (permissionless ledgers, consensus mechanisms, smart contracts) is open-source and available to anyone. What separates C2 from thousands of other blockchain startups is less obvious, because blockchain-as-infrastructure does not naturally produce defensible competitive advantages the way owning a bank deposit base or a pharmaceutical patent does.*
+*C2 Blockchain (CBLO) inhabits the most difficult competitive space in fintech: the blockchain sector, where enthusiasm often exceeds utility and where differentiation is blurred by the fact that the underlying technology (permissionless ledgers, consensus mechanisms, [smart contracts](/smart-contract/)) is open-source and available to anyone. What separates C2 from thousands of other blockchain startups is less obvious, because blockchain-as-infrastructure does not naturally produce defensible competitive advantages the way owning a bank deposit base or a pharmaceutical patent does.*
 
 ## The Blockchain Crowding Problem
 

@@ -51,7 +51,7 @@ Jacobs' fortunes follow the capital spending cycles of its major customer segmen
 
 The firm's margins depend heavily on execution discipline. A badly managed large contract can erase years of profit from smaller projects. The COVID-19 pandemic disrupted global supply chains and project schedules, testing that discipline. Like many project-heavy firms, Jacobs has had to recalibrate its cost structure and risk management in response to [inflation](/inflation/), labor scarcity, and supply chain volatility.
 
-International exposure is both a strength and a complication. Jacobs operates in countries with differing regulatory frameworks, currency exposure, and political risk. Some markets are stable long-term platforms; others require careful navigation of contract law, payment risk, and geopolitical shifts.
+International exposure is both a strength and a complication. Jacobs operates in countries with differing regulatory frameworks, currency exposure, and [political risk](/political-risk/). Some markets are stable long-term platforms; others require careful navigation of contract law, payment risk, and geopolitical shifts.
 
 ## The Regulatory and Market Backdrop
 
@@ -63,7 +63,7 @@ Government budgets remain crucial. When public spending is constrained, transpor
 
 ## How to Track and Evaluate the Firm
 
-Start with the [10-K](/wiki/10-k/): look for the breakdown of revenue by segment and geography, trends in backlog and order intake (often a leading indicator), and the composition of gross margin by business line. Jacobs discloses these in some detail because they matter to project-based pricing.
+Start with the [10-K](/wiki/10-k/): look for the breakdown of revenue by segment and geography, trends in backlog and order intake (often a [leading indicator](/leading-indicator/)), and the composition of gross margin by business line. Jacobs discloses these in some detail because they matter to project-based pricing.
 
 Watch project wins and losses. The firm reports major contract awards quarterly. Exceptionally large wins in robust sectors (renewable energy, semiconductor manufacturing, water infrastructure) suggest momentum. Large losses or the loss of a major customer account is a red flag.
 

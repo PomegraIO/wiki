@@ -32,7 +32,7 @@ UMB has a loyal deposit base anchored in Kansas City and the surrounding region,
 
 ## Credit quality and the economic cycle
 
-Like all lenders, UMB is exposed to credit cycles. When the economy slows, borrowers default, loan losses rise, and profitability falls. Commercial loans made to middle-market businesses are often senior in the capital structure (borrowers go bust), but they are also illiquid and require active management. UMB's credit losses will vary with the health of its borrower base, which is weighted toward energy, real estate, and industrial sectors—all cyclical.
+Like all lenders, UMB is exposed to [credit cycles](/credit-cycle/). When the economy slows, borrowers default, loan losses rise, and profitability falls. Commercial loans made to middle-market businesses are often senior in the capital structure (borrowers go bust), but they are also illiquid and require active management. UMB's credit losses will vary with the health of its borrower base, which is weighted toward energy, real estate, and industrial sectors—all cyclical.
 
 The company carries a higher proportion of energy lending than many peers, a legacy of its Kansas City roots and upstream relationships. Energy sector lending can be profitable in good times and catastrophic in bad ones. The company has worked to diversify its portfolio over recent years, but [concentration risk](/concentration-risk/) in energy remains.
 

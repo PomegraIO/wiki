@@ -39,7 +39,7 @@ In the 10-K's business description and [segment reporting](/segment-reporting/),
 2. **Private enterprise clients**: Banks, insurance companies, and industrial firms buying software-as-a-service (SaaS) or custom development. This segment is more competitive and price-sensitive.
 3. **Licensing vs. services**: Is the firm selling perpetual or subscription licenses to software, or deriving most revenue from time-and-materials consulting and integration work? Software licensing typically has higher margins and greater recurring revenue; services are more labor-dependent.
 
-The [revenue recognition](/revenue-recognition/) note in the 10-K will clarify when revenue is realized (upfront for licensing, over time for services) and what performance obligations exist. For a software firm, this is critical to understanding [earnings quality](/earnings-quality/).
+The [revenue recognition](/revenue-recognition/) note in the 10-K will clarify when revenue is realized (upfront for licensing, over time for services) and what [performance obligations](/performance-obligation/) exist. For a software firm, this is critical to understanding [earnings quality](/earnings-quality/).
 
 ## Margin Compression and Labor Efficiency
 

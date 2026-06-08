@@ -29,8 +29,8 @@ NU index concentrates these dynamics. Large money-center and regional banks anch
 
 ## Costs and constraints
 
-Expense ratio is stated. [Bid-ask spread](/bid-ask-spread/) is not — it fluctuates with liquidity. Tight in normal conditions; wide in volatile periods and at open/close. That spread is paid directly by the buyer or seller. Financing costs vary daily based on overnight repo markets and derivative pricing.
+Expense ratio is stated. [Bid-ask spread](/bid-ask-spread/) is not — it fluctuates with liquidity. Tight in normal conditions; wide in volatile periods and at open/close. That spread is paid directly by the buyer or [seller. Financing](/seller-financing/) costs vary daily based on overnight repo markets and derivative pricing.
 
 Volatility decay is mathematical certainty. No exceptions. Any 2x daily reset fund will underperform 2x the index return over periods longer than one day, worse in choppy markets. This is not a flaw; it is the mechanics of daily rebalancing.
 
-NUG is a days-to-weeks tactical bet. Not a retirement account holding. Not a multi-month position. A prospectus from Leverage Shares details the leverage mechanism and financing. The index provider publishes holdings and rebalancing rules. Fed policy and yield-curve shape determine financial sector direction. Understand these before entering; exit when conviction fades or volatility spikes. Drawdowns come fast.
+NUG is a days-to-weeks tactical bet. Not a retirement account holding. Not a multi-month position. A prospectus from Leverage Shares details the leverage mechanism and financing. The [index provider](/index-provider/) publishes holdings and rebalancing rules. Fed policy and yield-curve shape determine financial sector direction. Understand these before entering; exit when conviction fades or volatility spikes. Drawdowns come fast.

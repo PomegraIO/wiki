@@ -53,7 +53,7 @@ Terreno is also exposed to the cost and availability of debt. Much of its growth
 
 ## What moves the stock
 
-Terreno's share price responds to several factors: the trajectory of funds from operations (a REIT-specific cash metric that shows how much cash the portfolio is generating after capital maintenance), the success of the acquisition pipeline (can management find more properties at attractive yields?), leasing trends (are properties easy to tenant, and can the company push rents higher?), and interest-rate levels (which affect both the cost of debt and the relative appeal of dividend-paying stocks).
+Terreno's share price responds to several factors: the trajectory of [funds from operations](/funds-from-operations/) (a REIT-specific cash metric that shows how much cash the portfolio is generating after capital maintenance), the success of the acquisition pipeline (can management find more properties at attractive yields?), leasing trends (are properties easy to tenant, and can the company push rents higher?), and interest-rate levels (which affect both the cost of debt and the relative appeal of dividend-paying stocks).
 
 A slowdown in acquisition activity signals that good deals have dried up, which often precedes slower growth. Deterioration in same-store leasing trends—falling occupancy, stalling rent growth—suggests the underlying markets are softening. And rising interest rates typically pressure REIT stocks because the cost of debt rises and the dividend yield becomes less competitive relative to [bonds](/bond/).
 

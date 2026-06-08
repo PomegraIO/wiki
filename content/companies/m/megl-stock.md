@@ -37,7 +37,7 @@ Gaming operators often use [corporate-bond](/corporate-bond/) issuance and bank 
 
 Gaming companies carry more cash and maintain higher liquidity reserves than most industrials because gaming cash flow is volatile. A [recession](/recession/), reduced tourism, or a new competing casino nearby can slash monthly gaming revenue suddenly. A manufacturing company might cut costs and lay off workers when demand falls; a gaming company cannot easily exit a market or shrink a facility. Instead, the company must weather the downturn using cash reserves.
 
-MEGL likely maintains months of operating expenses in cash (or undrawn credit lines) as a buffer. This liquidity is expensive—cash earns almost nothing—but it is necessary given the sector's volatility. The company's capital structure therefore includes a psychological component: enough dry powder to survive a 6- to 12-month downturn without new borrowing or asset sales.
+MEGL likely maintains months of operating expenses in cash (or undrawn credit lines) as a buffer. This liquidity is expensive—cash earns almost nothing—but it is necessary given the sector's volatility. The company's capital structure therefore includes a psychological component: enough [dry powder](/pe-dry-powder/) to survive a 6- to 12-month downturn without new borrowing or asset sales.
 
 ## Regulatory Licensing and Capital Constraints
 
@@ -49,7 +49,7 @@ This constraint means MEGL cannot distribute all [free cash flow](/free-cash-flo
 
 MEGL's exposure to Asian markets means [currency risk](/currency-risk/) is embedded in the capital structure. If the company operates a casino in Macau and borrows in [US dollars](/us-dollar/), a [depreciation](/depreciation/) of the Chinese yuan increases the real burden of repaying that dollar debt. The company might hedge currency exposure, but those hedges have costs and are imperfect.
 
-Geographic risk is also significant. A casino in a single jurisdiction is exposed to political risk, regulatory changes, and local economic conditions. MEGL's capital structure must be conservative enough to survive a shock in any single market—a licensing revocation, a regional recession, or a competitor opening next door. This pushes toward lower leverage and higher equity cushions than a geographically diversified manufacturing company might maintain.
+Geographic risk is also significant. A casino in a single jurisdiction is exposed to [political risk](/political-risk/), regulatory changes, and local economic conditions. MEGL's capital structure must be conservative enough to survive a shock in any single market—a licensing revocation, a regional recession, or a competitor opening next door. This pushes toward lower leverage and higher [equity cushions](/equity-cushion/) than a geographically diversified manufacturing company might maintain.
 
 ## Partnership and Joint-Venture Financing
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Founder-Led 2X Daily ETF** (ticker: FDRX, trading on NYSE Arca) amplifies founder-led company returns by approximately 2X on a daily reset basis — a tactical trading tool, not an investment vehicle. It targets a specific objective: deliver twice the daily return of the founder-led index. Over longer periods, volatility decay and daily rebalancing drain returns in ways that catch unprepared holders off guard.*
+*The **Founder-Led 2X Daily ETF** (ticker: FDRX, trading on [NYSE Arca](/nyse-arca/)) amplifies founder-led company returns by approximately 2X on a daily reset basis — a tactical trading tool, not an investment vehicle. It targets a specific objective: deliver twice the daily return of the founder-led index. Over longer periods, volatility decay and daily rebalancing drain returns in ways that catch unprepared holders off guard.*
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ Leverage also amplifies absolute losses. A 20% decline in founder-led stocks bec
 
 FDRX also concentrates the founder-led bet. It does not hold 500 stocks; it holds perhaps 40 to 80. That narrow concentration, magnified 2X, means a single founder-led company's earnings miss or a founder's forced departure creates disproportionate damage. Concentration × leverage = volatility, and FDRX has both.
 
-[Counterparty risk](/counterparty-risk/) is embedded in the structure. The leverage is achieved through derivative contracts held with financial institutions. If a major derivatives dealer fails or derivatives markets seize (as occurred in parts of 2008 and March 2020), the fund's ability to track, rebalance, and exit positions becomes compromised. During market stress, derivatives liquidity evaporates precisely when FDRX's counterparties need it most.
+[Counterparty risk](/counterparty-risk/) is embedded in the structure. The leverage is achieved through [derivative contracts](/derivative-contract/) held with financial institutions. If a major derivatives dealer fails or derivatives markets seize (as occurred in parts of 2008 and March 2020), the fund's ability to track, rebalance, and exit positions becomes compromised. During market stress, derivatives liquidity evaporates precisely when FDRX's counterparties need it most.
 
 The fund's [expense ratio](/expense-ratio/) is materially higher than an unleveraged founder-led fund because of daily rebalancing, derivatives management, and the [bid-ask spread](/bid-ask-spread/) costs of constantly re-hedging. Each day the fund trades futures or swaps to reset leverage, it incurs small transaction costs. Over months, those compound into meaningful drag.
 

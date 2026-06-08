@@ -59,7 +59,7 @@ Real estate can suffer in downturns. Office space and shopping centers rent for 
 
 Regulatory changes can harm utilities. If a regulator decides to lower the allowed return or restrict rate increases, utility profits get squeezed. Brookfield is exposed to these risks in multiple countries and has to navigate different regulatory environments.
 
-The company is global, which helps diversify risk but also means it faces political risk, exchange-rate movements, and the need to understand many different countries' rules and practices.
+The company is global, which helps diversify risk but also means it faces [political risk](/political-risk/), exchange-rate movements, and the need to understand many different countries' rules and practices.
 
 ## How to keep track of the company
 

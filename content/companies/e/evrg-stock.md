@@ -85,7 +85,7 @@ The company maintains investment-grade [credit ratings](/credit-rating/), which 
 
 **Commodity price risk.** Natural gas and coal prices are volatile and can affect Evergy's fuel costs. Hedging can reduce but not eliminate this exposure.
 
-**Energy transition risk.** The shift to renewables, battery storage, and distributed solar creates uncertainty about long-term demand patterns and the role of large centralized utilities. If energy becomes increasingly decentralized, utilities may earn lower returns on their traditional infrastructure.
+**[Energy transition risk](/energy-transition-risk/).** The shift to renewables, battery storage, and distributed solar creates uncertainty about long-term demand patterns and the role of large centralized utilities. If energy becomes increasingly decentralized, utilities may earn lower returns on their traditional infrastructure.
 
 **Customer growth risk.** Evergy's service territory in the Great Plains is relatively stable in population, so customer growth is modest. The company's earnings growth comes primarily from rate increases and capital investment, not from adding new customers.
 

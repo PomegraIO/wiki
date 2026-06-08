@@ -82,4 +82,4 @@ The [10-K](/wiki/10-k/) is the essential document. Look for: segment revenue tre
 
 Quarterly earnings calls highlight near-term demand signals from customer programs. Aerospace industry publications and Boeing/Airbus investor presentations provide context on aircraft production rates. SEC filings also surface customer contract disputes and supply chain disruptions early.
 
-Investors should track the overall commercial aircraft delivery cycle (a multi-year leading indicator of Ducommun's future demand) and monitor defense budget allocations. The company's ability to convert acquisition synergies into earnings accretion is a key execution metric.
+Investors should track the overall commercial aircraft delivery cycle (a multi-year [leading indicator](/leading-indicator/) of Ducommun's future demand) and monitor defense budget allocations. The company's ability to convert acquisition synergies into earnings accretion is a key execution metric.

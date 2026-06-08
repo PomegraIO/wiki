@@ -41,7 +41,7 @@ The 10-K's [income statement](/income-statement/) reveals the bank's earnings so
 
 ## Dividend and Shareholder Returns
 
-The filing's supplemental disclosures cover [dividends](/dividend/) paid to shareholders, buybacks, and other return-of-capital actions. HANMI's history of dividends (disclosed in the 10-K and supplemented by proxy statements) shows the confidence management has in stable, low-volatility earnings. Community banks often market themselves partly on yield to income-seeking shareholders; the filing documents what that dividend has been and notes whether it has been maintained or grown through recent years.
+The filing's supplemental disclosures cover [dividends](/dividend/) paid to shareholders, buybacks, and other return-of-capital actions. HANMI's history of dividends (disclosed in the 10-K and supplemented by [proxy statements](/proxy-statement/)) shows the confidence management has in stable, low-volatility earnings. Community banks often market themselves partly on yield to income-seeking shareholders; the filing documents what that dividend has been and notes whether it has been maintained or grown through recent years.
 
 ## Cross-Cycle Stability and Recession Risk
 

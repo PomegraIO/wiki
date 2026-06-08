@@ -37,7 +37,7 @@ Ramaco is intensely cyclical. During periods when global growth is strong, steel
 
 The company also carries financial leverage. Mining is capital-intensive: you need expensive equipment to run a mine. Ramaco has financed its operations with debt, and that debt becomes dangerous when commodity prices fall. If the company cannot cover its interest payments from cash flow, it may be forced to cut production, sell assets, or worse.
 
-Political risk is also real. The federal government regulates coal mining. Different administrations have taken different stances on coal regulations, environmental permitting, and even the future role of coal. A sudden tightening of environmental rules could make some of Ramaco's mines uneconomical to operate.
+[Political risk](/political-risk/) is also real. The federal government regulates coal mining. Different administrations have taken different stances on coal regulations, environmental permitting, and even the future role of coal. A sudden tightening of environmental rules could make some of Ramaco's mines uneconomical to operate.
 
 Litigation risk exists too. Coal mining generates environmental concerns, water-quality issues, and community opposition. Ramaco faces lawsuits and regulatory challenges from environmental groups and local communities.
 

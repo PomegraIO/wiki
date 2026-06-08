@@ -32,7 +32,7 @@ Duni is a Swedish company generating most revenue from European operations. Euro
 
 ## Currency Exchange Risk for US Investors
 
-An ADR structure means that US shareholders receive dividends and valuations in USD, but the underlying cash flows and earnings are generated in EUR and SEK. A strengthening euro or Swedish krona relative to the dollar is a benefit; a weakening is a drag. Large currency swings can obscure or amplify underlying business performance. Investors comparing Duni's valuation to US-based competitors must adjust for forex effects.
+An ADR structure means that US shareholders receive dividends and valuations in USD, but the underlying cash flows and earnings are generated in EUR and SEK. A strengthening euro or [Swedish krona](/swedish-krona/) relative to the dollar is a benefit; a weakening is a drag. Large currency swings can obscure or amplify underlying business performance. Investors comparing Duni's valuation to US-based competitors must adjust for forex effects.
 
 ## Sustainability and Regulatory Pressure
 

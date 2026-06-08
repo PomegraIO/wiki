@@ -28,7 +28,7 @@ Settlements and jury awards have occasionally brought large cash infusions. A se
 
 VirnetX faces inherent headwinds that define companies in its position. Patent portfolios have finite life—patents expire. The company must continually assert or refresh its IP estate, or watch revenues dry up as protections lapse. The U.S. Patent Office and courts have grown more critical of overly broad software patents, particularly those claiming fundamental techniques rather than concrete implementations. VirnetX's core patents, while often viewed as technically sophisticated, have faced validity challenges and narrowing interpretations in post-grant proceedings and litigation.
 
-The litigation strategy also carries reputational weight. Tech companies and investors view patent assertion entities skeptically, especially when the patents cover fundamental network or cryptographic concepts. Larger firms under suit from VirnetX often lobby against patent assertion entities legislatively and in regulatory forums, increasing political risk.
+The litigation strategy also carries reputational weight. Tech companies and investors view patent assertion entities skeptically, especially when the patents cover fundamental network or cryptographic concepts. Larger firms under suit from VirnetX often lobby against patent assertion entities legislatively and in regulatory forums, increasing [political risk](/political-risk/).
 
 ## Financial Dependency and Volatility
 
@@ -36,7 +36,7 @@ Because revenue derives almost entirely from major licensing or settlement event
 
 ## The Patent Quality and Enforceability Question
 
-A key risk is whether VirnetX's patents will be found valid and infringed by courts, or whether they will be invalidated or narrowed in inter partes reviews and post-grant patent office proceedings. Tech companies being sued have growing incentive and resources to challenge patent validity aggressively. Patent law has shifted in recent years toward greater scrutiny of software patents and toward raising the bar for what counts as a valid, enforceable claim. If VirnetX's core patents are invalidated or narrowed to near-uselessness, the business model collapses.
+A key risk is whether VirnetX's patents will be found valid and infringed by courts, or whether they will be invalidated or narrowed in [inter](/intr-stock/) partes reviews and post-grant patent office proceedings. Tech companies being sued have growing incentive and resources to challenge patent validity aggressively. Patent law has shifted in recent years toward greater scrutiny of software patents and toward raising the bar for what counts as a valid, enforceable claim. If VirnetX's core patents are invalidated or narrowed to near-uselessness, the business model collapses.
 
 ## Shareholder Considerations
 

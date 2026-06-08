@@ -40,7 +40,7 @@ All five of GO Residential's apartments are located in Manhattan, one of the mos
 
 Manhattan is a scarce market. Building new apartments there is expensive and faces zoning restrictions. This means that existing apartment buildings—especially luxury ones with desirable finishes and amenities—tend to hold their value. When rents rise in Manhattan, they often rise faster than [inflation](/inflation/).
 
-The trade-off is that GO Residential is completely exposed to Manhattan's fortunes. If unemployment spiked in Manhattan, if companies left the city, or if rent control laws changed radically, the value of every one of the trust's properties would suffer simultaneously. A diversified REIT might own apartments in ten different cities and could weather a downturn in any single one. GO Residential cannot.
+The trade-off is that GO Residential is completely exposed to Manhattan's fortunes. If unemployment spiked in Manhattan, if companies left the city, or if rent control laws changed radically, the value of every one of the trust's properties would suffer simultaneously. A [diversified REIT](/diversified-reit/) might own apartments in ten different cities and could weather a downturn in any single one. GO Residential cannot.
 
 ## The Build-Out Challenge
 

@@ -45,7 +45,7 @@ KonaTel's small scale is a permanent constraint. It cannot invest in advanced te
 
 ## Infrastructure Concentration Risk
 
-If KonaTel operates primarily from a limited number of network locations or owns critical infrastructure in a concentrated geography, business disruption from physical damage, natural disaster, or equipment failure could be severe. Larger carriers spread risk across redundant systems nationwide; KonaTel's smaller scale likely means less redundancy. This is a structural risk that cannot be fully hedged.
+If KonaTel operates primarily from a limited number of network locations or owns critical infrastructure in a concentrated geography, business disruption from physical damage, natural disaster, or equipment failure could be severe. Larger carriers [spread risk](/spread-risk/) across redundant systems nationwide; KonaTel's smaller scale likely means less redundancy. This is a structural risk that cannot be fully hedged.
 
 <div class="wiki-seealso">
 ### Closely related

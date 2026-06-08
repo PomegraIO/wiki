@@ -49,7 +49,7 @@ Managing this community relationship requires dedicated staff. BGIN often hires 
 
 Before deploying changes to a live blockchain, BGIN operates test networks—sometimes called testnets—where developers can experiment without risking real funds. Running a testnet is operationally similar to running the main network but with lower visibility and fewer resources. BGIN must maintain these test environments to give users and developers a place to try new features, test integrations, and verify behavior before rolling out to production.
 
-Testing is operationally extensive for blockchain. A smart contract, a financial application built on top of the protocol, must be tested thoroughly because bugs can result in permanent loss of funds. BGIN may provide testing frameworks, simulators, or analysis tools to help developers verify their code. This is a service that builds [goodwill](/goodwill/) and makes the protocol more attractive to developers.
+Testing is operationally extensive for blockchain. A [smart contract](/smart-contract/), a financial application built on top of the protocol, must be tested thoroughly because bugs can result in permanent loss of funds. BGIN may provide testing frameworks, simulators, or analysis tools to help developers verify their code. This is a service that builds [goodwill](/goodwill/) and makes the protocol more attractive to developers.
 
 ## Compliance and Regulatory Interface
 
@@ -65,7 +65,7 @@ If the token supply is too generous, [inflation](/inflation/) erodes its value a
 
 ## Monitoring, Alerting, and Incident Response
 
-BGIN operates a network operations center or equivalent—staff who monitor the health of nodes, networks, and software in real time. When an incident occurs, the team must respond quickly: identifying the root cause, coordinating fixes, communicating with affected users, and restoring service. A transaction-processing delay can cost users money, and BGIN bears reputational risk even if the outage was caused by a network effect beyond the company's control.
+BGIN operates a network operations center or equivalent—staff who monitor the health of nodes, networks, and software in real time. When an incident occurs, the team must respond quickly: identifying the root cause, coordinating fixes, communicating with affected users, and restoring service. A transaction-processing delay can cost users money, and BGIN bears [reputational risk](/reputational-risk/) even if the outage was caused by a network effect beyond the company's control.
 
 Incident response is operationally choreographed. The company maintains runbooks—documented procedures for common failures—and drills its team regularly to ensure people know their roles and can respond quickly. A well-run incident response process minimizes downtime and user impact. A poor one can turn a minor bug into a major outage.
 

@@ -44,10 +44,10 @@ Swisscom faces the structural headwinds that plague all mature telecom incumbent
 
 Regulatory constraints also bind. Swiss competition law and international agreements require Swisscom to offer Wholesale access at regulated rates, which caps the upside of infrastructure investments. Any major price increase faces political and media scrutiny in a country with a strong culture of consumer protection. Fiber deployment remains capital-intensive, though cheaper than building mobile networks from scratch.
 
-Technology risk is moderate. The shift from copper to fiber-optic and from 4G to 5G has been gradual, giving Swisscom time and resources to execute. The company has deployed 5G across populated areas, and fiber rollout, though slow by cost, is proceeding. No competitor has materially disrupted the core business with a new technology or business model.
+[Technology risk](/technology-risk/) is moderate. The shift from copper to fiber-optic and from 4G to 5G has been gradual, giving Swisscom time and resources to execute. The company has deployed 5G across populated areas, and fiber rollout, though slow by cost, is proceeding. No competitor has materially disrupted the core business with a new technology or business model.
 
 ## What to watch
 
 Swisscom publishes results as a public company on the [SIX Swiss Exchange](/six-swiss-exchange/) (and in over-the-counter form in the United States as SWZCF). The 10-K filing (SEC CIK 0001069336) lays out segment performance and capital allocation. Investors should monitor fixed-cost management — whether the company is holding costs flat as revenue slows — and the trajectory of Enterprise revenue, where the company can still grow by winning customers from smaller regional providers or by expanding service offerings to large firms.
 
-The dividend policy is a leading indicator of management's confidence. Any cut signals distress; any significant increase signals confidence in durable cash flow. The company's capital spending as a percentage of revenue reveals how much it is investing in fiber modernization, the one area where Swisscom can still differentiate against challengers.
+The dividend policy is a [leading indicator](/leading-indicator/) of management's confidence. Any cut signals distress; any significant increase signals confidence in durable cash flow. The company's capital spending as a percentage of revenue reveals how much it is investing in fiber modernization, the one area where Swisscom can still differentiate against challengers.

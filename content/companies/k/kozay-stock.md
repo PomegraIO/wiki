@@ -25,7 +25,7 @@ Turkey is a NATO member and important regional power, but its political environm
 
 ## Currency and Inflation Risk
 
-Turk Altin reports in Turkish lira; ADR holders are exposed to lira [depreciation](/depreciation/). Turkey has experienced significant [inflation](/inflation/) in recent years, putting pressure on the lira. While gold revenue is in USD (gold is priced globally in dollars), many operating costs (labor, local materials, energy) are in lira or lira-indexed. A weaker lira raises real operating costs for lira-denominated liabilities. Additionally, inflation in Turkey can pressure input costs faster than mining companies can adjust. The company also faces currency translation risk: as the lira weakens, the dollar value of Turkish-lira-denominated assets and earnings declines, penalizing ADR shareholders.
+Turk Altin reports in [Turkish lira](/turkish-lira/); ADR holders are exposed to lira [depreciation](/depreciation/). Turkey has experienced significant [inflation](/inflation/) in recent years, putting pressure on the lira. While gold revenue is in USD (gold is priced globally in dollars), many operating costs (labor, local materials, energy) are in lira or lira-indexed. A weaker lira raises real operating costs for lira-denominated liabilities. Additionally, inflation in Turkey can pressure input costs faster than mining companies can adjust. The company also faces currency translation risk: as the lira weakens, the dollar value of Turkish-lira-denominated assets and earnings declines, penalizing ADR shareholders.
 
 ## Capital Intensity and Stranded Assets
 

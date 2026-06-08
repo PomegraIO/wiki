@@ -40,7 +40,7 @@ Natuzzi's core offering is upholstered seating: sofas in various configurations,
 
 ## Geographic exposure and competition
 
-Natuzzi operates in mature and emerging furniture markets simultaneously. The United States is the company's largest market, where it competes against manufacturers such as La-Z-Boy and an array of smaller brands, as well as value retailers such as IKEA and online upholstery companies. The Italian and European markets remain important for brand prestige. Growth markets such as China and Brazil carry higher growth potential but greater execution risk. The company's "Made in Italy" positioning — emphasizing design heritage, craftsmanship, and quality materials — is its primary competitive moat. Customers willing to pay Natuzzi prices are not usually price-sensitive; they value design and durability, the reasons premium Italian goods command premiums globally.
+Natuzzi operates in mature and emerging furniture markets simultaneously. The United States is the company's largest market, where it competes against manufacturers such as La-Z-Boy and an array of smaller brands, as well as value retailers such as IKEA and online upholstery companies. The Italian and European markets remain important for brand prestige. Growth markets such as China and Brazil carry higher growth potential but greater [execution risk](/execution-risk/). The company's "Made in Italy" positioning — emphasizing design heritage, craftsmanship, and quality materials — is its primary competitive moat. Customers willing to pay Natuzzi prices are not usually price-sensitive; they value design and durability, the reasons premium Italian goods command premiums globally.
 
 ## The path ahead
 

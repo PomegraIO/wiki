@@ -43,7 +43,7 @@ Unlike a software company or a manufacturer, a reseller is not capital-intensive
 
 The biggest risk is that ePlus remains dependent on vendor relationships and pricing. If a vendor decides to shift to direct sales or to offer preferred terms to larger competitors, ePlus' ability to compete in that category can evaporate. The company has tried to mitigate this through portfolio breadth and solutions expertise, but the core business remains vendor-dependent.
 
-Technology market cycles also affect the reseller: when software is undergoing rapid transition (cloud adoption, artificial intelligence, new platforms), some resellers win and others lose, depending on whether they can build expertise in the new technologies. ePlus has had to evolve from a hardware-reseller business to one increasingly focused on cloud and software, a transition that is ongoing.
+Technology [market cycles](/market-cycle/) also affect the reseller: when software is undergoing rapid transition (cloud adoption, artificial intelligence, new platforms), some resellers win and others lose, depending on whether they can build expertise in the new technologies. ePlus has had to evolve from a hardware-reseller business to one increasingly focused on cloud and software, a transition that is ongoing.
 
 Government funding cycles matter too: contractions in government IT budgets or changes in procurement priorities can hit resellers that have specialized in that channel. ePlus has government revenue, but it is not so concentrated that a shutdown would be fatal.
 

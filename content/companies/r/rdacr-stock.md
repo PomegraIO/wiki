@@ -50,7 +50,7 @@ Smaller SPACs can be advantageous if they allow management to take companies pub
 
 ## Timeline and execution risks
 
-Rising Dragon, like all SPACs, operates under time pressure. The clock is ticking toward the merger deadline, beyond which shareholders can require the company to liquidate. During this period, Xing and the team must maintain shareholder confidence, negotiate final transaction terms, complete due diligence, and prepare for the public transition. Any delay or unexpected setback could spook shareholders and trigger redemptions.
+Rising Dragon, like all SPACs, operates under time pressure. The clock is ticking toward the merger deadline, beyond which shareholders can require the company to liquidate. During this period, Xing and the team must maintain shareholder confidence, negotiate final transaction terms, complete [due diligence](/due-diligence/), and prepare for the public transition. Any delay or unexpected setback could spook shareholders and trigger redemptions.
 
 The success of the merged company will depend on whether HZJL Cayman Limited's business model works at the scale implied by the merger, whether management can execute post-listing, and whether public market investors retain confidence once the honeymoon period ends. Being a SPAC founder is ultimately about executing one transaction and handing off the combined company to whatever investors show up at the start of trading. What happens next is largely out of the SPAC sponsor's hands.
 

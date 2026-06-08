@@ -55,7 +55,7 @@ One strategic thread through LLA's years has been its pivot toward broadband and
 
 LLA operates in markets where regulation is variable, [currency volatility](/currency-volatility/) affects reported results, and mobile operators (especially those with spectrum and 5G capability) are becoming formidable competitors for voice and data. Cord-cutting in video continues, and churn pressure in this segment is structural.
 
-Currency headwinds are material: the majority of LLA's revenues are in Mexican pesos and other Latin currencies that can depreciate against the [US dollar](/us-dollar/). A 10% peso devaluation directly compresses reported revenue and earnings when consolidated into dollars.
+Currency headwinds are material: the majority of LLA's revenues are in [Mexican pesos](/mexian-peso/) and other Latin currencies that can depreciate against the [US dollar](/us-dollar/). A 10% peso devaluation directly compresses reported revenue and earnings when consolidated into dollars.
 
 Leverage and debt service remain considerations. Building and maintaining cable plant in multiple countries is capital-intensive, and LLA carries substantial debt. The business generates solid [free cash flow](/free-cash-flow/), but not unlimited, and management must balance growth investment, debt reduction, and shareholder returns.
 

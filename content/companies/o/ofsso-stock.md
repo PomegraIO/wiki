@@ -47,7 +47,7 @@ The downside of the structure is that BDC shares do not automatically reflect th
 
 ## The risks and vulnerabilities
 
-**Credit cycle risk** is paramount. OFS Capital lends to smaller companies with less cushion than large corporations, and when the economy slows, defaults rise. A recession would likely cause the loan portfolio to deteriorate, charge-offs to spike, and shareholder distributions to be cut. BDC shares historically have been volatile around economic turning points because investors fear credit losses.
+**[Credit cycle](/credit-cycle/) risk** is paramount. OFS Capital lends to smaller companies with less cushion than large corporations, and when the economy slows, defaults rise. A recession would likely cause the loan portfolio to deteriorate, charge-offs to spike, and shareholder distributions to be cut. BDC shares historically have been volatile around economic turning points because investors fear credit losses.
 
 **Interest-rate sensitivity** works both ways. If interest rates fall, the company's cost of capital falls, but the rates it can charge borrowers also fall (because borrowers will shop for cheaper alternatives). If rates rise, OFS Capital's cost of capital rises, squeezing the spread unless the company can increase the rates it charges—which happens only if the company has pricing power or if the economic environment supports higher rates without increasing defaults.
 

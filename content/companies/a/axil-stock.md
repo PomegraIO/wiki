@@ -18,7 +18,7 @@ Axil manufactures earplugs, earmuffs, wireless ear buds, and outdoor speakers un
 
 ### Operations and Scale
 
-Incorporated in Delaware and headquartered in Alhambra, California, Axil maintains a lean operational footprint. The company's fiscal year runs June through May, and it trades on NYSE American under ticker AXIL with [SEC filings](/wiki/10-k/) available under CIK 1718500. Revenue derives from both core audio categories and personal care products, though the hearing and audio segment represents the primary revenue driver and strategic focus.
+Incorporated in Delaware and headquartered in Alhambra, California, Axil maintains a lean operational footprint. The company's [fiscal year](/fiscal-year-definition/) runs June through May, and it trades on NYSE American under ticker AXIL with [SEC filings](/wiki/10-k/) available under CIK 1718500. Revenue derives from both core audio categories and personal care products, though the hearing and audio segment represents the primary revenue driver and strategic focus.
 
 ### At a Glance
 

@@ -23,7 +23,7 @@ The bank operates several business lines. Its consumer segment handles mortgages
 
 Before deregulation and modern technology, every community needed its local bank because branch networks were how money moved. That changed. Technology eroded the branch advantage, and consolidation created national competitors that could offer lower rates and better rates simultaneously by spreading costs across millions of customers. Regional banks still exist because they maintain relationships, know their customers, and make faster decisions than a large national bank's loan committee. But that value proposition has been under steady pressure.
 
-SouthState's strategy has been growth through acquisition, piecing together banks of various sizes across its region to build scale. The 2021 merger with CenterState was the clearest example—combining two substantial regionals to create a top-100 bank by asset size. This consolidation approach reduces operating costs by eliminating overlapping branches and back-office functions, but it also requires careful integration and carries execution risk.
+SouthState's strategy has been growth through acquisition, piecing together banks of various sizes across its region to build scale. The 2021 merger with CenterState was the clearest example—combining two substantial regionals to create a top-100 bank by asset size. This consolidation approach reduces operating costs by eliminating overlapping branches and back-office functions, but it also requires careful integration and carries [execution risk](/execution-risk/).
 
 ## The persistent headwind: net interest margin compression
 

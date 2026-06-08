@@ -29,7 +29,7 @@ handwritten: true
 
 ## The S&P 500 addition effect
 
-When a company enters the S&P 500 index, the event triggers a wave of mechanical buying. All S&P 500 index funds and ETFs — which collectively hold trillions of dollars — must add the new constituent to their holdings. This sudden, forced demand often pushes the stock price higher on the day of addition or shortly after, a phenomenon known as the index inclusion effect. ADDS bets that newly added companies carry momentum and tend to outperform in the periods immediately after joining the index.
+When a company enters the S&P 500 index, the event triggers a wave of mechanical buying. All S&P 500 index funds and ETFs — which collectively hold trillions of dollars — must add the new constituent to their holdings. This sudden, forced demand often pushes the stock price higher on the day of addition or shortly after, a phenomenon known as the [index inclusion effect](/index-inclusion-effect/). ADDS bets that newly added companies carry momentum and tend to outperform in the periods immediately after joining the index.
 
 The rationale runs deeper than just the one-day pop. Companies that qualify for S&P 500 inclusion must meet strict criteria: they must be profitable, have sufficient liquidity, and demonstrate that they are genuinely large-cap operations, not one-time winners. A stock that moves from mid-cap to large-cap status is often a sign that a business has crossed a meaningful threshold of durability and scale. ADDS captures this cohort of newly promoted companies and holds them long enough to participate in any momentum that follows their elevation.
 

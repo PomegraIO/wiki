@@ -15,7 +15,7 @@ handwritten: true
 At a glance:
 - Generates power from wind, hydro, and other renewable sources
 - Operates across Canada and in international markets including the Caribbean and Europe
-- Revenue comes from fixed-price and inflation-indexed power purchase agreements (PPAs)
+- Revenue comes from fixed-price and inflation-indexed [power purchase agreements](/power-purchase-agreement/) (PPAs)
 - Owned by pension funds and infrastructure investors, now also traded as an ADR on [NASDAQ](/nasdaq/)
 - Business model is stable cash flow, not commodity trading or growth-at-all-costs
 
@@ -41,4 +41,4 @@ Northland distributes cash to shareholders from operations. Because the revenue 
 
 ## Researching Northland as an investment
 
-Read the annual 10-K and quarterly 10-Q filings (SEC CIK 0002072389). They detail the portfolio of plants, contract terms, pricing assumptions, and debt structure. Pay attention to the schedule of maturing contracts—which ones expire in the next five years?—and the assumptions around renewal or repowering. Earnings calls reveal management's view on new project pipelines and refinancing conditions. Key metrics: the distribution yield (is it sustainable?), the loan-to-value ratio (how much room for a downturn?), and the weighted-average contract tenor (how long is revenue locked in?). Watch for policy changes in key markets (Canada's renewable-energy targets, European grid policy, Caribbean energy prices). In a rising-rate environment, Northland is more expensive to refinance; in a [recession](/recession/), lower interest rates may help, but the [equity risk premium](/equity-risk-premium/) widens. The investment thesis lives or dies on the durability of long-term contracts and the company's ability to build or acquire new plants at returns that justify the cost of capital.
+Read the annual 10-K and quarterly 10-Q filings (SEC CIK 0002072389). They detail the portfolio of plants, contract terms, pricing assumptions, and debt structure. Pay attention to the schedule of maturing contracts—which ones expire in the next five years?—and the assumptions around renewal or repowering. Earnings calls reveal management's view on new project pipelines and refinancing conditions. Key metrics: the distribution yield (is it sustainable?), the [loan-to-value ratio](/loan-to-value-ratio/) (how much room for a downturn?), and the weighted-average contract tenor (how long is revenue locked in?). Watch for policy changes in key markets (Canada's renewable-energy targets, European grid policy, Caribbean energy prices). In a rising-rate environment, Northland is more expensive to refinance; in a [recession](/recession/), lower interest rates may help, but the [equity risk premium](/equity-risk-premium/) widens. The investment thesis lives or dies on the durability of long-term contracts and the company's ability to build or acquire new plants at returns that justify the cost of capital.

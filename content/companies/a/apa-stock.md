@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**APA Corporation is an independent oil and [natural gas](/natural-gas/) exploration and production company that finds, develops, and extracts [crude oil](/crude-oil/), natural gas, and natural gas liquids from reserves across four continents.**
+**APA Corporation is an independent oil and [natural gas](/natural-gas/) exploration and production company that finds, develops, and extracts [crude oil](/crude-oil/), natural gas, and [natural gas liquids](/natural-gas-liquids/) from reserves across four continents.**
 
 APA sits upstream in the energy value chain. Unlike downstream companies that refine or market fuel to consumers, APA's business is discovering reserves, bringing them into production, and selling the barrels to refineries, utilities, and trading firms. Founded in 1954 and headquartered in Houston, the company trades on [Nasdaq](/nasdaq/) under the symbol [APA](/wiki/apa-stock/) and is a [public company](/wiki/public-company/) subject to SEC disclosure rules, filing [10-K](/wiki/10-k/) reports annually and 10-Q reports quarterly.
 
@@ -21,7 +21,7 @@ Revenue derives from selling produced oil and gas at prevailing market prices. N
 
 APA distinguishes itself through disciplined reserve replacement. Most E&P companies prioritize immediate cash generation, sometimes at the expense of future resource replacement. APA instead emphasizes ensuring that annual reserves produced are offset by new discoveries or [acquisitions](/acquisition/), maintaining a decades-long reserve tail to justify continued investment. This philosophy acknowledges that oil and gas demand will persist for decades and that companies managing reserves thoughtfully create durable value.
 
-The company's portfolio reflects a strategic balance. U.S. and Egyptian operations provide stable, predictable cash flow from mature fields with known geology and established infrastructure. The North Sea adds optionality in a developed regulatory environment. Suriname—where multiple companies have made transformational discoveries since 2015—offers asymmetric upside. That same region also introduces execution risk; frontier discoveries must be developed, infrastructure built, and regulatory frameworks navigated. A multi-year delay in Suriname production or a policy shift in any region can reset financial expectations.
+The company's portfolio reflects a strategic balance. U.S. and Egyptian operations provide stable, predictable cash flow from mature fields with known geology and established infrastructure. The North Sea adds optionality in a developed regulatory environment. Suriname—where multiple companies have made transformational discoveries since 2015—offers asymmetric upside. That same region also introduces [execution risk](/execution-risk/); frontier discoveries must be developed, infrastructure built, and regulatory frameworks navigated. A multi-year delay in Suriname production or a policy shift in any region can reset financial expectations.
 
 International operations introduce geopolitical and regulatory complexity. Egypt faces periodic [currency volatility](/currency-volatility/) and political transitions. The UK has tightened oil and gas licensing policies. Suriname's government remains transitional and infrastructure remains early-stage. These dynamics mean APA is not purely a play on commodity prices but also on political stability, contract enforcement, and regulatory evolution in key regions.
 

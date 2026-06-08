@@ -33,7 +33,7 @@ Because the income is tax-free, municipal bonds typically offer lower yields tha
 
 ## Fund structure and holdings
 
-AVMU tracks the Avantis Core Municipal Bond Index, a broad, diversified index of investment-grade municipal bonds. Investment-grade means the bonds have a [credit rating](/credit-rating/) of BBB minus or higher (using the Standard & Poor's scale), indicating a low probability of default. The fund is not a [closed-end fund](/closed-end-fund/) with a fixed maturity date; it is an open-ended ETF that can grow and shrink with investor demand.
+AVMU tracks the Avantis Core Municipal Bond Index, a broad, diversified index of investment-grade municipal bonds. Investment-grade means the bonds have a [credit rating](/credit-rating/) of BBB minus or higher (using the Standard & Poor's scale), indicating a low [probability of default](/probability-of-default/). The fund is not a [closed-end fund](/closed-end-fund/) with a fixed maturity date; it is an open-ended ETF that can grow and shrink with investor demand.
 
 The holdings in a municipal-bond fund are hundreds of individual bonds, each issued by a different municipality or authority. The fund may hold bonds from school districts in California, utilities in Texas, transportation authorities in the Northeast, and so on. This [diversification](/diversification/) across regions and issuers is crucial: it protects the fund from the default of any single municipality. Even though municipal defaults are rare, they happen — Puerto Rico's debt crisis in the 2010s, pension crises in some cities — so geographic and sector diversification matter.
 

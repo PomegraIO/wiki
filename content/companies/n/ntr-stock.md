@@ -61,7 +61,7 @@ Costs are mines, plants, labour, shipping, and natural gas. Natural gas is the l
 
 Fertiliser is essential to feeding the world, but the business is cyclical and commodity-driven. Nutrien cannot control the price of potash or nitrogen; it can only control costs and production volumes. When a bad harvest drives up crop prices and farmers spend more on inputs, Nutrien does well. When crop prices crash and farmers cut back, so does Nutrien.
 
-The company also faces structural challenges. Nitrogen production is energy-intensive, so Nutrien is exposed to natural gas price spikes. Potash mining is straightforward but dependent on steady demand from agriculture; if crop demand shifts or farmers switch to alternatives, demand falls. There is also political risk: major potash supplies are in Canada and Russia, and geopolitical tensions can disrupt supply chains and margins.
+The company also faces structural challenges. Nitrogen production is energy-intensive, so Nutrien is exposed to natural gas price spikes. Potash mining is straightforward but dependent on steady demand from agriculture; if crop demand shifts or farmers switch to alternatives, demand falls. There is also [political risk](/political-risk/): major potash supplies are in Canada and Russia, and geopolitical tensions can disrupt supply chains and margins.
 
 Lastly, the industry faces environmental pressure. Fertiliser runoff pollutes waterways and contributes to dead zones in oceans and rivers. There is also pressure to reduce synthetic fertiliser use and shift toward more sustainable practises. A regulatory shift away from synthetic nutrients would be a long-term threat to Nutrien's business model, though such a shift would take decades and would be geographically uneven.
 

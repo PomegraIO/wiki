@@ -31,7 +31,7 @@ Geopolitical risk is real. Lithium is not mined everywhere — Argentina, Chile,
 
 ## Liquidity and structure
 
-LITP trades on the NYSE Arca with moderate to good daily volume, depending on market conditions and investor appetite for sector plays. The fund's [expense ratio](/expense-ratio/) reflects active management and the costs of maintaining a concentrated sector portfolio. Like any [equity ETF](/equity-etf/), LITP can be traded during market hours at prices set by supply and demand, though wide [bid-ask spreads](/bid-ask-spread/) can emerge during market stress or sector downturns.
+LITP trades on the [NYSE Arca](/nyse-arca/) with moderate to good daily volume, depending on market conditions and investor appetite for sector plays. The fund's [expense ratio](/expense-ratio/) reflects active management and the costs of maintaining a concentrated sector portfolio. Like any [equity ETF](/equity-etf/), LITP can be traded during market hours at prices set by supply and demand, though wide [bid-ask spreads](/bid-ask-spread/) can emerge during market stress or sector downturns.
 
 The fund is designed for investors who believe lithium supply will remain tight relative to demand, and who want pure-play sector exposure without having to pick individual mining stocks. It is not suitable for conservative portfolios; the volatility and cyclicality mean it belongs in a small slice of a diversified portfolio, if anywhere at all.
 

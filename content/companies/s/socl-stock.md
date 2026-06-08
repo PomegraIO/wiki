@@ -25,7 +25,7 @@ handwritten: true
 
 ## What SOCL captures
 
-SOCL holds a basket of companies operating in or enabling the social media and social-networking ecosystem. This includes platform operators (the companies whose apps billions of people use to share content), advertising providers (companies that monetize social platforms), video and content platforms, and infrastructure or software providers that support the creation and distribution of user-generated content. The fund typically holds between 20 and 40 stocks, rebalanced according to an index methodology overseen by the index provider.
+SOCL holds a basket of companies operating in or enabling the social media and social-networking ecosystem. This includes platform operators (the companies whose apps billions of people use to share content), advertising providers (companies that monetize social platforms), video and content platforms, and infrastructure or software providers that support the creation and distribution of user-generated content. The fund typically holds between 20 and 40 stocks, rebalanced according to an index methodology overseen by the [index provider](/index-provider/).
 
 The investment thesis underlying SOCL is straightforward: social media remains a secular growth driver in digital advertising, user engagement, and content monetization. As people spend more time on social platforms and as platforms diversify their revenue streams beyond advertising, companies in the ecosystem should benefit. This theme cuts across geographies and includes mature, publicly listed companies in North America, Europe, and Asia-Pacific.
 

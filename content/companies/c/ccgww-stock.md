@@ -20,7 +20,7 @@ Private Cheche operated with a focused mission and, typically, fewer regulatory 
 
 ## The SPAC merger and warrant issuance
 
-Upon or shortly before the merger's close, Cheche shareholders — and SPAC IPO investors who held units of the blank-check company — found themselves holding shares of a newly public entity. The SPAC investors received warrants as a sweetener for taking the risk of the blank-check structure. Those warrants (CCGWW) began trading on the public market, separate from the [common stock](/common-stock/).
+Upon or shortly before the merger's close, Cheche shareholders — and [SPAC IPO](/spac-ipo/) investors who held units of the blank-check company — found themselves holding shares of a newly public entity. The SPAC investors received warrants as a sweetener for taking the risk of the blank-check structure. Those warrants (CCGWW) began trading on the public market, separate from the [common stock](/common-stock/).
 
 At the moment of the merger, the warrant holders faced a choice: hold the warrant and hope for appreciation, sell it to someone else, or exercise it (if in-the-money) and take possession of shares. Most early warrant holders held, viewing the warrant as embedded leverage into the "story" of Cheche's transition to a mature, profitable public company.
 

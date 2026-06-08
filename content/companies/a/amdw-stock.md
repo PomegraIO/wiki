@@ -13,7 +13,7 @@ handwritten: true
 
 What is the Roundhill AMD WeeklyPay ETF?
 
-AMDW is an exchange-traded fund that holds shares of [Advanced Micro Devices](/amd-stock/) — the semiconductor company that designs and sells CPUs and GPUs — and systematically sells [call options](/call-option/) against those shares to generate income. Every week, the fund writes new calls, collecting the premium that option buyers pay for the right to purchase the AMD shares at a given price. That premium is distributed to shareholders, typically on a weekly basis, creating a very high yield for investors willing to accept the constraints that come with it.
+AMDW is an exchange-traded fund that holds shares of [Advanced Micro Devices](/amd-stock/) — the semiconductor company that designs and sells CPUs and GPUs — and systematically sells [call options](/call-option/) against those shares to generate income. Every week, the fund writes new calls, collecting the premium that [option buyers](/option-buyer/) pay for the right to purchase the AMD shares at a given price. That premium is distributed to shareholders, typically on a weekly basis, creating a very high yield for investors willing to accept the constraints that come with it.
 
 How does the options strategy actually work?
 

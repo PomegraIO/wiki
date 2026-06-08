@@ -37,7 +37,7 @@ The mechanical risk is not controversial or hidden — the prospectus explains i
 
 ## Custody and pricing
 
-Like other cryptocurrency ETFs, XRPI relies on digital asset custody providers to manage the underlying derivatives. The fund charges annual fees that cover operations, custody, and the cost of rolling over the derivative positions. It trades over-the-counter, so [bid-ask spreads](/bid-ask-spread/) will be wider than a large, liquid fund, and trading around major cryptocurrency news or market moves can be difficult.
+Like other [cryptocurrency ETFs](/cryptocurrency-etf/), XRPI relies on digital asset custody providers to manage the underlying derivatives. The fund charges annual fees that cover operations, custody, and the cost of rolling over the derivative positions. It trades over-the-counter, so [bid-ask spreads](/bid-ask-spread/) will be wider than a large, liquid fund, and trading around major cryptocurrency news or market moves can be difficult.
 
 Pricing is set by the market — buy and sell orders from traders determine the fund's trading price, which may drift away from the per-share value of the underlying derivative holdings, especially in thin trading. This mismatch between the fund's [net asset value](/net-asset-value/) and its trading price is called a premium or discount.
 

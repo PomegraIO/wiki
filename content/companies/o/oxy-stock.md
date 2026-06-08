@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Occidental Petroleum is one of the largest integrated oil and gas companies in the United States by production volume and reserves. It drills for and produces [crude oil](/crude-oil/) and [natural gas](/natural-gas/), operates pipelines and processing facilities, and increasingly invests in carbon capture and storage technology as a hedge against energy transition risk. The company is a descendant of the original Occidental Petroleum founded in 1920, which spent much of its history as a diversified chemical conglomerate before returning to its roots as a pure-play energy company in recent decades. Historically volatile, dependent on commodity prices, and at the centre of debates about fossil-fuel capital allocation in a climate-conscious world, Occidental embodies the strategic tensions facing legacy energy firms.
+Occidental Petroleum is one of the largest integrated oil and gas companies in the United States by production volume and reserves. It drills for and produces [crude oil](/crude-oil/) and [natural gas](/natural-gas/), operates pipelines and processing facilities, and increasingly invests in carbon capture and storage technology as a hedge against [energy transition risk](/energy-transition-risk/). The company is a descendant of the original Occidental Petroleum founded in 1920, which spent much of its history as a diversified chemical conglomerate before returning to its roots as a pure-play energy company in recent decades. Historically volatile, dependent on commodity prices, and at the centre of debates about fossil-fuel capital allocation in a climate-conscious world, Occidental embodies the strategic tensions facing legacy energy firms.
 
 <aside class="wiki-infobox">
 <table>

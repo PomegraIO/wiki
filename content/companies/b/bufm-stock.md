@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The AB Moderate Buffer ETF (BUFM) is a structured equity fund that pairs exposure to the Russell 1000 Index — the 1,000 largest publicly traded U.S. companies — with a defined outcome floor and ceiling that resets annually. Unlike a plain [index fund](/index-fund/), BUFM guarantees a loss threshold (typically around 15%) and caps upside at a predetermined level, trading [tail risk](/tail-risk/) for the comfort of knowing the worst outcome in any year.*
+*The AB Moderate [Buffer ETF](/buffer-etf/) (BUFM) is a structured equity fund that pairs exposure to the Russell 1000 Index — the 1,000 largest publicly traded U.S. companies — with a defined outcome floor and ceiling that resets annually. Unlike a plain [index fund](/index-fund/), BUFM guarantees a loss threshold (typically around 15%) and caps upside at a predetermined level, trading [tail risk](/tail-risk/) for the comfort of knowing the worst outcome in any year.*
 
 <aside class="wiki-infobox">
 <table>
@@ -44,4 +44,4 @@ BUFM's [expense ratio](/expense-ratio/) reflects both the Russell 1000 index exp
 
 ## Who this is for
 
-BUFM works as a tactical satellite holding or as a core equity sleeve for investors uncomfortable with a plain index fund's volatility. It is not suitable as a permanent buy-and-hold in a long time horizon portfolio where every 1% of lost upside compounds into retirement shortfall. But for someone taking a sabbatical and wanting to remain invested without anxiety, or for a portion of a portfolio that needs to stay calm during a specific market cycle, the moderate buffer and the annual reset offer real value. The fund requires reading the prospectus to understand each year's specific buffer and cap percentages before investing, and it benefits from a clear time horizon — you need to decide whether you can tolerate the capped upside over your [holding period](/holding-period/) and whether the buffer percentage is high enough to matter in the scenarios you worry about most.
+BUFM works as a tactical satellite holding or as a core equity sleeve for investors uncomfortable with a plain index fund's volatility. It is not suitable as a permanent buy-and-hold in a long time horizon portfolio where every 1% of lost upside compounds into retirement shortfall. But for someone taking a sabbatical and wanting to remain invested without anxiety, or for a portion of a portfolio that needs to stay calm during a specific [market cycle](/market-cycle/), the moderate buffer and the annual reset offer real value. The fund requires reading the prospectus to understand each year's specific buffer and cap percentages before investing, and it benefits from a clear time horizon — you need to decide whether you can tolerate the capped upside over your [holding period](/holding-period/) and whether the buffer percentage is high enough to matter in the scenarios you worry about most.

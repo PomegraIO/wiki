@@ -67,7 +67,7 @@ Zions grows revenue by growing loans and deposits, by increasing net interest ma
 
 Profitability is driven by how well the bank manages the net interest margin against a backdrop of changing interest rates, and by keeping credit losses low. When credit losses are modest and margins are wide (because rates are high), Zions can generate strong returns on equity. During periods of low rates or rising credit stress, those returns compress.
 
-The company has made progress in recent years on cost discipline, improving its cost-to-income ratio by consolidating duplicative back-office functions and closing redundant branches. This efficiency work offsets some of the revenue pressure from low interest rates.
+The company has made progress in recent years on cost discipline, improving its [cost-to-income ratio](/cost-income-ratio/) by consolidating duplicative back-office functions and closing redundant branches. This efficiency work offsets some of the revenue pressure from low interest rates.
 
 ## What to research
 

@@ -57,7 +57,7 @@ The company also benefits from customer relationships that span decades. A facto
 
 ## What is not priced into the share
 
-The most valuable part of the business for long-term holders is that it is not glamorous. There is no celebrity CEO. No splashy quarterly guidance. No stock-price momentum trading on exciting new products. The market tends to ignore good, stable, profitable industrial services companies in favor of technology and growth stories. This sometimes means Clean Harbors trades below what its cash flows justify, creating an opportunity for patient, value-minded investors.
+The most valuable part of the business for long-term holders is that it is not glamorous. There is no celebrity CEO. No splashy quarterly guidance. No stock-price [momentum trading](/momentum-trading/) on exciting new products. The market tends to ignore good, stable, profitable industrial services companies in favor of technology and growth stories. This sometimes means Clean Harbors trades below what its cash flows justify, creating an opportunity for patient, value-minded investors.
 
 The other thing often missed is the company's cash generation. Waste disposal is a cash business; customers pay before waste is picked up, so the company collects cash upfront and incurs costs over time. This favorable working-capital dynamic means Clean Harbors often converts earnings into [free cash flow](/free-cash-flow/) more efficiently than higher-profile companies.
 

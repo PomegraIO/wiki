@@ -25,7 +25,7 @@ Management's reputation and track record determine credibility with investors an
 
 ## Deal Sourcing and Acquisition Activity
 
-If Greenlite Ventures is actively pursuing acquisitions, the company sources deal flow through industry networks, investment banks, or direct outreach. The acquisition process involves identifying target companies, conducting due diligence (financial, legal, operational, market), negotiating terms, and structuring the transaction.
+If Greenlite Ventures is actively pursuing acquisitions, the company sources deal flow through industry networks, investment banks, or direct outreach. The acquisition process involves identifying target companies, conducting [due diligence](/due-diligence/) (financial, legal, operational, market), negotiating terms, and structuring the transaction.
 
 Due diligence is labor-intensive. The company must evaluate the target's financial statements, customer contracts, regulatory compliance, intellectual property, litigation risk, and management quality. Financial due diligence examines whether reported revenue and profitability are sustainable, whether working capital is healthy, and whether historical growth rates project forward realistically. Operational due diligence assesses whether management is competent and whether key customers are likely to stay post-acquisition. This work typically spans weeks to months and requires hiring specialists (accountants, lawyers, industry consultants).
 
@@ -103,7 +103,7 @@ Regulation of investment management varies. If Greenlite qualifies as an investm
 
 Greenlite Ventures' value to shareholders depends on executing deal sourcing, due diligence, post-acquisition improvement, and exit successfully. Each step is a choke point where capital can be destroyed. A company that sources deals poorly invests in bad businesses. A company that overpays for acquisitions destroys shareholder value immediately. A company that fails to improve portfolio companies achieves low multiples on exit. A company that times exits poorly captures less value.
 
-Development-stage venture companies thus have higher execution risk and lower cash-flow certainty than operating companies. They are appropriate for investors with higher risk tolerance and longer time horizons. Greenlite Ventures' competitive position depends on the strength of its team, its strategic focus, and its ability to compound capital through disciplined deal-making and value creation.
+Development-stage venture companies thus have higher [execution risk](/execution-risk/) and lower cash-flow certainty than operating companies. They are appropriate for investors with higher risk tolerance and longer time horizons. Greenlite Ventures' competitive position depends on the strength of its team, its strategic focus, and its ability to compound capital through disciplined deal-making and value creation.
 
 <div class="wiki-seealso">
 ### Closely related

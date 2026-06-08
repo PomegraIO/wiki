@@ -70,7 +70,7 @@ Second, the distribution of fuel is becoming more concentrated. [Walmart](/wmt-s
 
 In good cycles when margins are wide and traffic is strong, Sunoco generates substantial [free cash flow](/free-cash-flow/). The company has historically used this cash to invest in network upgrades, to pay [dividends](/dividend/), and to buy back shares. In weak cycles when margins compress and traffic falls, free cash flow can decline sharply, and Sunoco's ability to return capital to shareholders is correspondingly constrained.
 
-The stock's total return in any given year depends on a mix of free cash flow yield (dividends and buybacks) and re-rating (changes in the valuation multiple as investors' expectations for margins and growth change). In a strong fuel environment with stable crude prices and high driving demand, Sunoco trades at a higher multiple and generates good returns. In a weak environment, the multiple compresses and the stock often trades at a deep discount to its book value.
+The stock's total return in any given year depends on a mix of free [cash flow yield](/cash-flow-yield/) (dividends and buybacks) and re-rating (changes in the valuation multiple as investors' expectations for margins and growth change). In a strong fuel environment with stable crude prices and high driving demand, Sunoco trades at a higher multiple and generates good returns. In a weak environment, the multiple compresses and the stock often trades at a deep discount to its book value.
 
 ## How to research Sunoco
 

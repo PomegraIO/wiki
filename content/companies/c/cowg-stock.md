@@ -19,7 +19,7 @@ COWG's approach is systematic and transparent. The fund starts with the S&P 500 
 
 ## Who ends up in the portfolio
 
-COWG's holdings tend to skew toward large software and technology companies, healthcare giants, and mature consumer brands that are still growing faster than the average large-cap firm. Because free cash flow and growth momentum were rewarded heavily in recent market cycles, the fund has naturally accumulated a technology-heavy portfolio. But the screens are agnostic about sector. A large financial services firm with strong cash generation and positive earnings momentum could be in COWG. A utilities company ordinarily seen as "low growth" would be excluded because it lacks the growth signals, even if it generates abundant cash. The filters, not sector conventions, drive inclusion.
+COWG's holdings tend to skew toward large software and technology companies, healthcare giants, and mature consumer brands that are still growing faster than the average large-cap firm. Because free cash flow and growth momentum were rewarded heavily in recent [market cycles](/market-cycle/), the fund has naturally accumulated a technology-heavy portfolio. But the screens are agnostic about sector. A large financial services firm with strong cash generation and positive earnings momentum could be in COWG. A utilities company ordinarily seen as "low growth" would be excluded because it lacks the growth signals, even if it generates abundant cash. The filters, not sector conventions, drive inclusion.
 
 ## Risk and concentration
 

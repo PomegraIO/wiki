@@ -51,7 +51,7 @@ The company has also been disciplined about technology. Rather than building meg
 
 Despite the attractive market positioning, New Fortress carries material downsides that override enthusiasm among some equity investors.
 
-**Execution Risk and Capital Intensity.** Each project takes years to develop, navigate local permitting, establish customer relationships, and finance. Cost overruns are common in emerging-market infrastructure. If a 200 MW power plant is supposed to cost $300 million and ends up at $450 million, it immediately reduces returns on the investment capital. The company has had to raise dilutive equity capital to fund growth, and there is no guarantee that newly commissioned assets will perform as contracted or achieve the contracted pricing when customers or governments face political or fiscal pressure.
+**[Execution Risk](/execution-risk/) and Capital Intensity.** Each project takes years to develop, navigate local permitting, establish customer relationships, and finance. Cost overruns are common in emerging-market infrastructure. If a 200 MW power plant is supposed to cost $300 million and ends up at $450 million, it immediately reduces returns on the investment capital. The company has had to raise dilutive equity capital to fund growth, and there is no guarantee that newly commissioned assets will perform as contracted or achieve the contracted pricing when customers or governments face political or fiscal pressure.
 
 **Counterparty and [Sovereign Risk](/sovereign-risk/).** NFE's customers are government-owned utilities or government-backed off-takers. If a country faces a fiscal crisis, an election, or a change in energy policy, the customer may default, renegotiate terms downward, or simply fail to pay on time. This is not theory: in 2020, during the pandemic, several customers delayed payments or sought contract renegotiation. Sophisticated energy investors price this risk explicitly; emerging-market governments do renege.
 
@@ -63,13 +63,13 @@ Despite the attractive market positioning, New Fortress carries material downsid
 
 ## Investment and Research
 
-[10-K](/wiki/10-k/) filings reveal contract details, asset [depreciation](/depreciation/) schedules, and hedging posture. Pay close attention to the off-take contracts (what is the pricing formula? how long?), the debt maturity profile (when are refinancings due?), and utilization rates (are assets operating at nameplate capacity?). 
+[10-K](/wiki/10-k/) filings reveal contract details, asset [depreciation](/depreciation/) schedules, and hedging posture. Pay close attention to the off-take contracts (what is the pricing formula? how long?), the [debt maturity profile](/debt-maturity-profile/) (when are refinancings due?), and utilization rates (are assets operating at nameplate capacity?). 
 
 Quarterly earnings are volatile because they depend on energy prices, customer demand, and currency movements in emerging economies. A single bad quarter can trigger analyst downgrades if a major customer delays payment or a new asset starts poorly. Conversely, strong LNG prices and stable dispatch can generate outsized cash generation.
 
 The company does hedge commodity price exposure but does not eliminate it entirely. Investors should read the derivative notes and hedging disclosure carefully. NFE is fundamentally a leveraged bet on energy demand in emerging markets; it is not a defensive infrastructure play, despite its infrastructure label.
 
-The [stock](/wiki/stock/) price reflects both the operational performance of existing assets and market sentiment toward emerging-market risk and energy prices. Multiple compressions during energy busts and multiple expansions during energy booms make NFE a procyclical, volatile holding.
+The [stock](/wiki/stock/) price reflects both the operational performance of existing assets and market sentiment toward emerging-market risk and energy prices. [Multiple compressions](/multiple-compression/) during energy busts and [multiple expansions](/multiple-expansion/) during energy booms make NFE a procyclical, volatile holding.
 
 ---
 

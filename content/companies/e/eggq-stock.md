@@ -31,7 +31,7 @@ Turnover varies year to year based on the managers' reassessment of positions. A
 
 Being actively managed, EGGQ charges an active-management fee — higher than a passive index tracker but the price for professional security selection. The fund's prospectus details the exact [expense ratio](/expense-ratio/) and whether there are any [performance fees](/performance-fee/) or share classes.
 
-Beyond the stated fee, costs include the [bid-ask spread](/bid-ask-spread/) on entry and exit, and the tax impact of the fund's trading activity. High-turnover active funds can generate capital gains distributions that create tax drag for shareholders in taxable accounts. Low-turnover active funds might reduce that drag.
+Beyond the stated fee, costs include the [bid-ask spread](/bid-ask-spread/) on entry and exit, and the tax impact of the fund's trading activity. High-turnover active funds can generate [capital gains distributions](/capital-gains-distribution/) that create tax drag for shareholders in taxable accounts. Low-turnover active funds might reduce that drag.
 
 For taxable investors, comparing the after-tax return of an active fund to its passive peers is critical. A fund that generates strong pre-tax returns can underperform if turnover and gains distributions create significant tax bills.
 

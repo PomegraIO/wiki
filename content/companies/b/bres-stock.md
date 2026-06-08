@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Burney Capital Management, founded in 2011, came into being during a period of reckoning about how large investment firms manage money. The founders, veterans of traditional asset management, set out to build a firm that would apply rigorous fundamental analysis to public-stock selection without the bureaucratic weight of the megacap asset manager. In 2018, Burney launched its first ETF — the **Burney U.S. Equity Select ETF** (BRES) — as a vehicle for that stock-picking discipline in exchange-traded form. The fund offered retail investors access to the same stock selection process that Burney used for its separately managed accounts, but with the transparency, liquidity, and low minimums that an ETF structure provides.
+Burney Capital Management, founded in 2011, came into being during a period of reckoning about how large investment firms manage money. The founders, veterans of traditional asset management, set out to build a firm that would apply rigorous fundamental analysis to public-stock selection without the bureaucratic weight of the megacap asset manager. In 2018, Burney launched its first ETF — the **Burney U.S. Equity Select ETF** (BRES) — as a vehicle for that stock-picking discipline in exchange-traded form. The fund offered retail investors access to the same stock selection process that Burney used for its [separately managed accounts](/separately-managed-account/), but with the transparency, liquidity, and low minimums that an ETF structure provides.
 
 ## The strategy and selection process
 

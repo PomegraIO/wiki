@@ -36,7 +36,7 @@ The tension between direct sales (higher margin, community-facing) and wholesale
 
 The core challenge for a brand built around one founder's credibility and experimentation is replicating both quality consistency and credibility as the company scales beyond its origins. Laird Superfood addressed this through heavy investment in ingredient sourcing and quality control, positioning every product release as an extension of founder testing rather than pure market-driven development. Public filing obligations and quarterly reporting cycles introduced a layer of operational transparency that required the company to systematize what had been founder-directed innovation.
 
-Going public in 2021 marked a pivot point. Public capital enabled broader retail distribution and inventory investment, but also imposed quarterly performance expectations and institutional investor scrutiny uncommon in the early direct-to-consumer phase. This forced explicit attention to profitability, supply-chain resilience, and competing against larger, better-capitalized packaged-food rivals.
+Going public in 2021 marked a pivot point. Public capital enabled broader retail distribution and [inventory investment](/inventory-investment/), but also imposed quarterly performance expectations and institutional investor scrutiny uncommon in the early direct-to-consumer phase. This forced explicit attention to profitability, supply-chain resilience, and competing against larger, better-capitalized packaged-food rivals.
 
 ## Ingredient Economy and Sourcing Dependency
 

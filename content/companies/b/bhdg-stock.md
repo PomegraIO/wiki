@@ -34,7 +34,7 @@ The cost of maintaining puts is ongoing. [Implied volatility](/implied-volatilit
 
 ## What actual risks remain for an investor?
 
-The maximum loss is bounded by the put strike, but that bound moves as the fund rolls new hedges. A put strike set at 75 percent of Bitcoin's price provides genuine protection, but assumes the fund will reset that protection at each roll cycle. If Bitcoin gaps down sharply, the gap risk—space between spot price and nearest put strike—becomes the investor's actual loss.
+The maximum loss is bounded by the put strike, but that bound moves as the fund rolls new hedges. A put strike set at 75 percent of Bitcoin's price provides genuine protection, but assumes the fund will reset that protection at each roll cycle. If Bitcoin gaps down sharply, the [gap risk](/gap-risk/)—space between spot price and nearest put strike—becomes the investor's actual loss.
 
 Rolling risk matters: if implied volatility spikes or Bitcoin has moved sharply since the last roll, new puts may be far more expensive, meaning the next layer of protection is pricier. In extreme conditions, a window may exist where old puts have expired and new ones have not yet been purchased, leaving a brief gap.
 

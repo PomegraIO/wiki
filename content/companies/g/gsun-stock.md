@@ -29,7 +29,7 @@ This lifecycle phase often forces hard choices about focus. A young renewable en
 
 ## Capital Intensity and the Fundraising Cycle
 
-GSUN's business model—likely involving either hardware production or service deployment in renewable energy—carries significant capital requirements. Unlike pure software, hardware ventures in the energy sector must fund inventory, manufacturing tooling, supply-chain development, and field deployment. Service companies in the same space must fund customer acquisition in highly fragmented markets and support complex implementations.
+GSUN's business model—likely involving either hardware production or service deployment in renewable energy—carries significant capital requirements. Unlike pure software, hardware ventures in the energy sector must fund inventory, manufacturing tooling, supply-chain development, and field deployment. Service companies in the same space must fund customer acquisition in highly [fragmented markets](/fragmented-market/) and support complex implementations.
 
 For companies in GSUN's lifecycle phase, this capital intensity creates existential pressure around fundraising. The company is no longer attractive to pure R&D grants or angel investors—it is too operationally complex for those sources to believe in. But it is too immature, too unproven in scale, for institutional venture investors to invest at premium valuations. GSUN likely finds itself in Series A or early Series B fundraising, where investors are simultaneously believers in the technology and skeptics about execution. The terms of that capital will determine whether the company can afford to be patient as it builds market fit, or whether it must chase growth unsustainably to justify the next round.
 

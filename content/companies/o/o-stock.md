@@ -43,9 +43,9 @@ Realty Income's diversification reduces idiosyncratic sector risk but does not e
 
 ## How to Research It
 
-The [10-K](/wiki/10-k/) is the authoritative document on portfolio composition, tenant concentration, lease structures, and financial metrics. Pay attention to the rent roll—the expiration schedule of leases—to understand near-term renewal risks and the opportunity to reset rates. Occupancy rate and same-store rent growth are key metrics to track quarterly.
+The [10-K](/wiki/10-k/) is the authoritative document on portfolio composition, tenant concentration, lease structures, and financial metrics. Pay attention to the [rent roll](/rent-roll/)—the expiration schedule of leases—to understand near-term renewal risks and the opportunity to reset rates. Occupancy rate and same-store rent growth are key metrics to track quarterly.
 
-Watch rent collection rates and tenant credit profiles. During economic downturns, the quality of tenants and the terms of leases (whether they contain expense-stop clauses, percentage rents, or fixed escalators) become critical. Management commentary on tenant credit stress and lease modifications will signal trouble.
+Watch rent collection rates and tenant credit profiles. During economic downturns, the quality of tenants and the terms of leases (whether they contain expense-stop clauses, [percentage rents](/percentage-rent/), or fixed escalators) become critical. Management commentary on tenant credit stress and lease modifications will signal trouble.
 
 Cap rates (the [1031-like-kind exchange](/wiki/1031-like-kind-exchange/) market's benchmark for property value) matter for valuation. As rates move, the implied value of the portfolio changes; a higher cap-rate environment can pressure NAV and stock performance even if collections remain stable.
 

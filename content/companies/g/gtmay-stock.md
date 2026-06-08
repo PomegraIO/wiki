@@ -47,7 +47,7 @@ The company has the potential to generate substantial cash from operations when 
 
 ## Macroeconomic and Trade-Policy Sensitivities
 
-Grupo TMM's earnings are tightly coupled to the health of Mexico's manufacturing export sector and U.S. import demand. [Recessions](/recession/) in the U.S., Mexican peso weakness, or reductions in U.S. trade demand directly impact shipment volumes and pricing. Trade policy—tariffs, rules-of-origin enforcement, customs procedures—can shift the economics of cross-border logistics overnight. A sustained policy environment that reduces trade flows or adds regulatory friction to border crossings would materially harm the company's growth prospects.
+Grupo TMM's earnings are tightly coupled to the health of Mexico's manufacturing export sector and U.S. import demand. [Recessions](/recession/) in the U.S., [Mexican peso](/mexian-peso/) weakness, or reductions in U.S. trade demand directly impact shipment volumes and pricing. Trade policy—tariffs, rules-of-origin enforcement, customs procedures—can shift the economics of cross-border logistics overnight. A sustained policy environment that reduces trade flows or adds regulatory friction to border crossings would materially harm the company's growth prospects.
 
 Conversely, nearshoring trends—the relocation of manufacturing from Asia to Mexico and Central America to serve North American customers—can create secular tailwinds for Grupo TMM by increasing the volume of goods moved through the Mexico–U.S. corridor.
 

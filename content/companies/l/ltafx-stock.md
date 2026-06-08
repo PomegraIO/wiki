@@ -52,7 +52,7 @@ Alternative Strategies Income does not just buy individual stocks. The fund also
 
 **Event-driven investing** — capturing profits from corporate events like [mergers](/merger/), [spinoffs](/spinoff/), or bankruptcies where the outcome is partly predictable.
 
-**Managed futures or trend-following** — strategies that attempt to ride market trends up and down, independent of fundamental value.
+**[Managed futures](/managed-futures/) or trend-following** — strategies that attempt to ride market trends up and down, independent of fundamental value.
 
 Each of these approaches adds complexity and cost. Each also comes with specific risks. Option strategies can blow up in volatile markets. Event-driven investing can go wrong if the expected corporate transaction falls through. Managed futures can lose money for years in certain market regimes.
 
@@ -72,7 +72,7 @@ This is mathematically demanding. If the fund costs 1 percent per year in fees a
 
 Start by reading the fund's prospectus and fact sheet, which are available from the fund company and from SEC filings (SEC CIK 0001496254). The prospectus explains the investment strategy, the risks, the fees, and the historical performance.
 
-Key numbers to examine: the annual [expense ratio](/expense-ratio/) (the total cost as a percentage of assets), the [turnover ratio](/turnover-ratio/) (how often the fund buys and sells, which is a proxy for trading costs), and the performance history compared to a relevant benchmark. A long-short equity fund should be compared not against the S&P 500, but against indices of long-short strategies or a portfolio of 50 percent stocks and 50 percent bonds.
+Key numbers to examine: the annual [expense ratio](/expense-ratio/) (the total cost as a percentage of assets), the [turnover ratio](/turnover-ratio/) (how often the fund buys and sells, which is a proxy for trading costs), and the performance history compared to a relevant benchmark. A [long-short equity fund](/long-short-equity-fund/) should be compared not against the S&P 500, but against indices of long-short strategies or a portfolio of 50 percent stocks and 50 percent bonds.
 
 Also look at the fund's income distribution history. Is the fund consistently distributing more than its reported earnings, which would signal it is eating into capital? Or is the distribution sustainable from operating income? A fund that shrinks because redemptions exceed performance is a red flag.
 

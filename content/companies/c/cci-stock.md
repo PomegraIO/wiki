@@ -53,7 +53,7 @@ Crown Castle's exposure to wireless carriers creates [concentration risk](/conce
 
 Regulatory risk exists on several fronts. Zoning and local approval can slow or block new tower builds. Radiation and health concerns, though scientifically unfounded, occasionally drive local opposition to new deployments. Changes to how carriers are regulated could affect their network-investment incentives.
 
-The fiber buildout is capital-intensive and carries execution risk. Acquiring fiber companies requires integration and achieving promised synergies. The economics of broadband fiber-to-the-home are different from towers; if Crown Castle miscalculates demand or pays too much for acquired fiber assets, shareholder returns will suffer.
+The fiber buildout is capital-intensive and carries [execution risk](/execution-risk/). Acquiring fiber companies requires integration and achieving promised synergies. The economics of broadband fiber-to-the-home are different from towers; if Crown Castle miscalculates demand or pays too much for acquired fiber assets, shareholder returns will suffer.
 
 ## How to research Crown Castle
 

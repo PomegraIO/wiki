@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Power REIT is a publicly traded [real estate investment trust](/wiki/real-estate-investment-trust/) with a deliberately diversified portfolio spanning three distinct asset classes: rail corridor real estate, ground leases for solar and wind installations, and controlled-environment agriculture (CEA) facilities—mainly greenhouses. Founded in 2010 and headquartered in Maryland, it is a small-capitalization REIT that has positioned itself to capture niche revenue streams in three growth-oriented sectors, though that [diversification](/diversification/) has also exposed it to sector-specific headwinds and execution risk.
+Power REIT is a publicly traded [real estate investment trust](/wiki/real-estate-investment-trust/) with a deliberately diversified portfolio spanning three distinct asset classes: rail corridor real estate, [ground leases](/ground-lease/) for solar and wind installations, and controlled-environment agriculture (CEA) facilities—mainly greenhouses. Founded in 2010 and headquartered in Maryland, it is a small-capitalization REIT that has positioned itself to capture niche revenue streams in three growth-oriented sectors, though that [diversification](/diversification/) has also exposed it to sector-specific headwinds and [execution risk](/execution-risk/).
 
 ## The Core Thesis: Diversification Across Emerging Property Types
 
@@ -28,7 +28,7 @@ The strength of this segment is its stickiness; once a railroad is using a prope
 
 The renewable segment consists of ground leases to solar and wind operators. The company leases land or easements on which renewable generators install and operate installations. Revenue derives from lease payments tied to the power installation, sometimes with escalation clauses.
 
-This segment benefits from long-term power purchase agreements (PPAs) and stable utility demand, but faces headwinds from declining solar and wind equipment costs (which raise builder expectations for lower land costs) and regulatory uncertainty around renewable incentives. The segment is attractive in aggregate but exposes the REIT to commodity-like pressure on lease rates.
+This segment benefits from long-term [power purchase agreements](/power-purchase-agreement/) (PPAs) and stable utility demand, but faces headwinds from declining solar and wind equipment costs (which raise builder expectations for lower land costs) and regulatory uncertainty around renewable incentives. The segment is attractive in aggregate but exposes the REIT to commodity-like pressure on lease rates.
 
 ## Controlled-Environment Agriculture: The Volatile Segment
 
@@ -54,7 +54,7 @@ The portfolio generates [operating cash flows](/wiki/cash-flow-statement/) throu
 
 **CEA sector maturation and repricing.** Many CEA operators have exited or restructured. Lease rates have compressed as the sector has matured and reality has diverged from hype. Repositioning CEA assets—converting them to other uses or finding new tenants—can be costly and time-consuming.
 
-**Regulatory and commodity risk.** Renewable energy leases depend on policy support and electricity market prices. Rail operations depend on freight volumes and fuel-price dynamics. CEA operators depend on commodity produce prices and yield management. Power REIT is not insulated from these headwinds.
+**Regulatory and [commodity risk](/commodity-risk/).** Renewable energy leases depend on policy support and electricity market prices. Rail operations depend on freight volumes and fuel-price dynamics. CEA operators depend on commodity produce prices and yield management. Power REIT is not insulated from these headwinds.
 
 ## Investor Considerations
 

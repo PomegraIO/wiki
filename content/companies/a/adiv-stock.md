@@ -43,9 +43,9 @@ One practical constraint ADIV faces is the diversity of tax treatment for divide
 
 ## Risks and concentration
 
-Asia-Pacific investing carries geographic [concentration risk](/concentration-risk/). A region-wide downturn in economic growth, currency devaluation, or capital restrictions can affect many holdings at once. Additionally, not all Asia-Pacific dividend payers are equally stable. A utility in a developed market like Australia might pay dividends as reliably as a mature company in North America, but a dividend payer in a less-developed or more volatile region might cut its dividend if business deteriorates. ADIV aims to screen for quality, but the fund's returns depend partly on the stability of its chosen payers.
+Asia-Pacific investing carries geographic [concentration risk](/concentration-risk/). A region-wide downturn in economic growth, [currency devaluation](/currency-devaluation/), or capital restrictions can affect many holdings at once. Additionally, not all Asia-Pacific dividend payers are equally stable. A utility in a developed market like Australia might pay dividends as reliably as a mature company in North America, but a dividend payer in a less-developed or more volatile region might cut its dividend if business deteriorates. ADIV aims to screen for quality, but the fund's returns depend partly on the stability of its chosen payers.
 
-[Currency risk](/currency-risk/) is also present. If the fund holds companies that earn in local currencies ([Indian rupees](/indian-rupee/), Korean won, Malaysian ringgit), movements in those currencies against the dollar will affect a U.S. investor's returns. ADIV may or may not hedge this currency risk, depending on the fund's stated policy.
+[Currency risk](/currency-risk/) is also present. If the fund holds companies that earn in local currencies ([Indian rupees](/indian-rupee/), [Korean won](/korean-won/), Malaysian ringgit), movements in those currencies against the dollar will affect a U.S. investor's returns. ADIV may or may not hedge this currency risk, depending on the fund's stated policy.
 
 ## From then to now
 

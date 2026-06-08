@@ -29,11 +29,11 @@ BNY Mellon is one of the world's largest asset managers and [custodians](/custod
 
 Credit risk is the primary driver of returns and losses. When the economy slows or a sector faces disruption, high-yield bond prices tend to fall because investors demand higher yields to compensate for rising default risk. A single large default or a wave of defaults can drag the entire fund down, though diversification across many issuers and industries limits any single company's impact. High-yield bonds also carry [interest-rate risk](/interest-rate-risk/): when US Treasury yields rise, bond prices fall, and BKHY will mark down in tandem. Because high-yield bonds already trade with wide spreads, the combined effect of rising rates and widening [credit spreads](/credit-spread/) during a rate-hiking cycle can be painful.
 
-The fund also carries what is sometimes called "spread risk" — the risk that the gap between high-yield and Treasury yields widens without any change in the Treasury rate itself. This is a pure credit-cycle phenomenon and is endemic to [high-yield investing](/high-yield-investing/).
+The fund also carries what is sometimes called "[spread risk](/spread-risk/)" — the risk that the gap between high-yield and Treasury yields widens without any change in the Treasury rate itself. This is a pure credit-cycle phenomenon and is endemic to [high-yield investing](/high-yield-investing/).
 
 ## Who is BKHY for?
 
-BKHY suits investors with medium to long time horizons who want fixed-income exposure beyond [investment-grade bonds](/investment-grade-bond/) and who understand credit cycles. It is commonly used in balanced portfolios as a satellite holding — a smaller position that adds yield without dominating the risk profile of the entire portfolio. Active traders and those hedging portfolios sometimes sell BKHY or high-yield ETFs outright to reduce risk when credit conditions look fragile. Institutional investors also use BKHY as a core holding for dedicated high-yield sleeves.
+BKHY suits investors with medium to long time horizons who want fixed-income exposure beyond [investment-grade bonds](/investment-grade-bond/) and who understand [credit cycles](/credit-cycle/). It is commonly used in balanced portfolios as a satellite holding — a smaller position that adds yield without dominating the risk profile of the entire portfolio. Active traders and those hedging portfolios sometimes sell BKHY or high-yield ETFs outright to reduce risk when credit conditions look fragile. Institutional investors also use BKHY as a core holding for dedicated high-yield sleeves.
 
 ## How to research BKHY as an investor
 

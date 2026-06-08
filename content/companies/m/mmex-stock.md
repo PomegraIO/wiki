@@ -34,7 +34,7 @@ MMEX's cash burn is dominated by drilling and seismic costs, which are lumpy: an
 
 ## Intangible Asset Valuations and Impairment Risk
 
-MMEX capitalizes exploration costs as assets on the balance sheet, assuming they will generate future revenue. If a well is dry or a prospect is abandoned, the company impairs (writes down) the asset, reducing book value. A bad year of drilling (several dry holes, reduced prospects) can force massive impairments, collapsing shareholders' equity. The [balance-sheet](/balance-sheet/) is increasingly opaque as MMEX ages: the gap between booked exploration assets and realizable value grows. Rating agencies and auditors face pressure to force realistic impairments; MMEX management resists (admitting failure), leading to adversarial audit negotiations. Shareholders often discover real losses through impairment announcements rather than steady quarterly losses—a binary, surprise-driven repricing.
+MMEX capitalizes exploration costs as assets on the balance sheet, assuming they will generate future revenue. If a well is dry or a prospect is abandoned, the company impairs (writes down) the asset, reducing book value. A bad year of drilling (several dry holes, reduced prospects) can force massive impairments, collapsing [shareholders' equity](/shareholders-equity/). The [balance-sheet](/balance-sheet/) is increasingly opaque as MMEX ages: the gap between booked exploration assets and realizable value grows. Rating agencies and auditors face pressure to force realistic impairments; MMEX management resists (admitting failure), leading to adversarial audit negotiations. Shareholders often discover real losses through impairment announcements rather than steady quarterly losses—a binary, surprise-driven repricing.
 
 ## Debt Scarcity and Negative Working Capital
 
@@ -50,7 +50,7 @@ MMEX's reserves value is entirely dependent on oil and [natural gas](/natural-ga
 
 ## Ownership Concentration and Governance Risk
 
-Early-stage exploration companies often have concentrated ownership—founders and early venture investors may hold 40–60% of the company. If the founder/CEO also manages the company, conflicts arise around capital allocation, risk-taking, and buyout negotiations. A founders' desire to preserve control may override optimal capital structure decisions (e.g., refusing a partnership deal that dilutes them but saves capital). Minority shareholders are subordinated to founder interests. Governance risk is thus material and non-financial: MMEX equity can be worth less not because the geology is bad, but because the CEO made suboptimal decisions with minority-shareholder interests in mind.
+Early-stage exploration companies often have concentrated ownership—founders and early venture investors may hold 40–60% of the company. If the founder/CEO also manages the company, conflicts arise around capital allocation, risk-taking, and buyout negotiations. A founders' desire to preserve control may override [optimal capital structure](/optimal-capital-structure/) decisions (e.g., refusing a partnership deal that dilutes them but saves capital). Minority shareholders are subordinated to founder interests. Governance risk is thus material and non-financial: MMEX equity can be worth less not because the geology is bad, but because the CEO made suboptimal decisions with minority-shareholder interests in mind.
 
 <div class="wiki-seealso">
 ### Closely related

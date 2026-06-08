@@ -34,7 +34,7 @@ The appeal for the private company is obvious: instant access to capital without
 
 ## How the structure works
 
-The SPAC raises money at its IPO. Most of that capital goes into a trust account, set aside for the eventual merger. The company has 18 to 24 months to find and complete a deal. During that time the founders and sponsors search for a private company, negotiate, perform due diligence, and get shareholder approval for the merger.
+The SPAC raises money at its IPO. Most of that capital goes into a trust account, set aside for the eventual merger. The company has 18 to 24 months to find and complete a deal. During that time the founders and sponsors search for a private company, negotiate, perform [due diligence](/due-diligence/), and get shareholder approval for the merger.
 
 If the SPAC finds a suitable company, the merger closes. The private company's shareholders exchange their stock for shares of the now-public company, and the original SPAC is essentially swallowed by the operating business. If the SPAC cannot find a deal, or if shareholders vote down a proposed merger, the cash in the trust is returned to shareholders and the SPAC is liquidated.
 
@@ -54,6 +54,6 @@ The [Securities and Exchange Commission](/securities-and-exchange-commission/) h
 
 If you are considering investing in a SPAC, the first thing to know is that you are betting on the sponsors and on whatever deal they announce. Read their track record. Have they taken other companies public? Do they have operational experience in the sector they are targeting? Do they have a reputation for doing good deals?
 
-When a merger is announced, read the proxy statement carefully. It will show the target company's financial statements (or projections, if the company is pre-revenue), the price being paid, and the terms under which the deal closes. Compare the price to similar companies. Check whether the sponsors will own a large chunk of the new company after the merger — that aligns their interests with other shareholders. Watch for excessive sponsor fees or promoter stakes that give insiders too much upside relative to their risk.
+When a merger is announced, read the [proxy statement](/proxy-statement/) carefully. It will show the target company's financial statements (or projections, if the company is pre-revenue), the price being paid, and the terms under which the deal closes. Compare the price to similar companies. Check whether the sponsors will own a large chunk of the new company after the merger — that aligns their interests with other shareholders. Watch for excessive sponsor fees or promoter stakes that give insiders too much upside relative to their risk.
 
 And remember: a SPAC is not a company. It is a vehicle. Its entire value depends on the deal it makes and the business it acquires. Without that, it is just cash in a trust account.

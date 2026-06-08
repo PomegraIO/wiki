@@ -15,7 +15,7 @@ CEFD is an exchange-traded note issued by UBS that seeks to deliver 1.5 times th
 
 ## The origins of leveraged closed-end fund investing
 
-CEFD emerged in the middle 2000s when UBS and other structured product issuers began creating leveraged ETNs that tracked alternative indexes, particularly indexes of closed-end funds. The appeal was to investors who wanted exposure to the closed-end fund market — a segment of the investment world that focuses on high-yielding strategies, real assets, and alternatives — without picking individual funds. By layering 1.5x leverage on top of an index of closed-end funds, CEFD offered amplified access to a previously hard-to-reach market segment.
+CEFD emerged in the middle 2000s when UBS and other [structured product](/structured-product/) issuers began creating leveraged ETNs that tracked alternative indexes, particularly indexes of closed-end funds. The appeal was to investors who wanted exposure to the closed-end fund market — a segment of the investment world that focuses on high-yielding strategies, real assets, and alternatives — without picking individual funds. By layering 1.5x leverage on top of an index of closed-end funds, CEFD offered amplified access to a previously hard-to-reach market segment.
 
 The leveraged ETN structure was relatively new in the late 2000s. At the time, leverage and complexity in retail investment products were less heavily regulated, and products like CEFD found an audience among sophisticated individual investors and institutional allocators seeking yield and amplified returns. The monthly distribution appeals to retirees and income-focused investors who value predictable cash payments.
 

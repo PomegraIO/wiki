@@ -63,7 +63,7 @@ Interest rate risk is the most obvious. If interest rates rise, existing municip
 
 Credit risk is secondary but real. If a significant municipal issuer defaults or if economic recession impairs multiple issuers' ability to pay, losses will reduce the fund's assets available for distribution.
 
-[Reinvestment risk](/reinvestment-risk/) exists because the portfolio includes bonds that mature or are called before 2037. The portfolio managers must reinvest the proceeds into new bonds. If interest rates have fallen, the reinvestment rate will be lower than the coupon on the original bond, reducing the income stream.
+[Reinvestment risk](/reinvestment-risk/) exists because the portfolio includes bonds that mature or are called before 2037. The portfolio managers must reinvest the proceeds into new bonds. If interest rates have fallen, the [reinvestment rate](/reinvestment-rate-dcf/) will be lower than the coupon on the original bond, reducing the income stream.
 
 The broader question is whether municipal bonds will remain tax-advantaged into the indefinite future. Congress could reform the tax code and remove or limit the federal tax exemption on municipal bond interest. Such a change would dramatically reduce demand for municipal bonds and likely depress prices. While this risk is not immediate, it is a long-term structural concern for a municipal fund closing in 2037.
 
@@ -77,4 +77,4 @@ Historical performance and the historical path to the $25.00 target are importan
 
 Track also the composition of the portfolio — which states and cities are the largest holdings, how much is in higher-yielding lower-grade bonds versus safer AAA paper, and whether the manager has been making any significant tactical shifts. A sudden tilt toward lower-grade or higher-yielding bonds might signal the manager believes the current portfolio will not hit the target without taking more credit risk.
 
-The fund's performance should be compared against a municipal bond index or other municipal bond funds with similar objectives. BMN's outperformance or underperformance over several years reveals whether BlackRock's management has added value or lagged.
+The fund's performance should be compared against a municipal bond index or other [municipal bond funds](/municipal-bond-fund/) with similar objectives. BMN's outperformance or underperformance over several years reveals whether BlackRock's management has added value or lagged.

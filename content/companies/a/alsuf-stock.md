@@ -50,6 +50,6 @@ The key risks are clear: regulatory delay, failure of shareholders to vote in fa
 
 ## How to research Alpha Star and the merger
 
-The company's SEC filings (CIK 0001865111) are the source. The most relevant documents are the proxy statement (DEF 14A) for the merger vote, which describes XDATA's business, financials, and projections in detail; the quarterly 10-Q filings, which disclose the trust balance and going-concern status; and the 8-K event disclosures when major milestones occur (stockholder votes, amendments to agreements, regulatory approvals).
+The company's SEC filings (CIK 0001865111) are the source. The most relevant documents are the [proxy statement](/proxy-statement/) (DEF 14A) for the merger vote, which describes XDATA's business, financials, and projections in detail; the quarterly 10-Q filings, which disclose the trust balance and going-concern status; and the 8-K event disclosures when major milestones occur (stockholder votes, amendments to agreements, regulatory approvals).
 
 For an investor or analyst, the central question is whether the XDATA business justifies the investment at the proposed merger valuation, and whether the timeline allows the deal to close. If the deal completes, Alpha Star shareholders own XDATA. If it fails, they recover their pro-rata share of the trust, typically a small fraction of their original investment. Warrant holders recover nothing unless the merger succeeds and the stock appreciates significantly.

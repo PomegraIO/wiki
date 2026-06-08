@@ -31,7 +31,7 @@ IBATF holds or operates mining properties producing or exploring for critical me
 
 Mining lithium, cobalt, and nickel generates environmental and social challenges. Lithium extraction, primarily from salt flats in South America and hard-rock mines in Australia and Canada, requires large water volumes and generates significant brine or waste rock. These operations face scrutiny from environmental regulators and local communities concerned about water depletion and ecosystem damage.
 
-Cobalt mining is concentrated in the Democratic Republic of Congo (DRC), where labor practices, corruption, and conflict-risk concerns are perennial issues. Battery makers and EV manufacturers face reputational and legal risk if their supply chains are linked to problematic mining operations. IBATF's ability to source materials from regions and operations with credible environmental and labor practices becomes a competitive advantage and a form of supply chain insurance for customers.
+Cobalt mining is concentrated in the Democratic Republic of Congo (DRC), where labor practices, corruption, and conflict-risk concerns are perennial issues. Battery makers and EV manufacturers face reputational and [legal risk](/legal-risk/) if their supply chains are linked to problematic mining operations. IBATF's ability to source materials from regions and operations with credible environmental and labor practices becomes a competitive advantage and a form of supply chain insurance for customers.
 
 Nickel is mined in Indonesia, the Philippines, and Russia, as well as established operations in Australia and Canada. Nickel supply has historically been fragmented across commodity and specialty grades. Battery-grade nickel requires higher purity and more careful sourcing to avoid contamination.
 
@@ -63,7 +63,7 @@ The customer base is global but increasingly concentrated. CATL and BYD in China
 
 IBATF's business is exposed to battery material prices. When lithium prices rise, refined lithium carbonate prices rise, but the cost of ore concentrate also rises. The company's margin depends on the spread.
 
-If IBATF is a net buyer of mineral concentrates (purchasing ore and refining it), it is long commodity risk: if lithium prices fall, it incurs losses or is forced to operate at lower margins. If IBATF is a net producer (operating mines), it benefits from price increases.
+If IBATF is a net buyer of mineral concentrates (purchasing ore and refining it), it is long [commodity risk](/commodity-risk/): if lithium prices fall, it incurs losses or is forced to operate at lower margins. If IBATF is a net producer (operating mines), it benefits from price increases.
 
 The company can hedge commodity price risk by entering [futures contracts](/futures-contract/), locking in prices for future sales. However, hedging is imperfect and has costs, and many battery material companies choose not to hedge extensively, accepting price volatility.
 

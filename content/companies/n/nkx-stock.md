@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-A closed-end fund housing California [municipal bonds](/municipal-bond/), screened for credit quality and structured to avoid alternative minimum tax complications. Income-focused, primarily for the state's higher-income residents who benefit from the tax exemption.
+A closed-end fund housing California [municipal bonds](/municipal-bond/), screened for credit quality and structured to avoid [alternative minimum tax](/alternative-minimum-tax/) complications. Income-focused, primarily for the state's higher-income residents who benefit from the tax exemption.
 
 California munis are the second-largest state muni market after New York, and they carry a particular cachet for California residents and anyone liable to the state's income tax. A California resident in a high federal bracket who also pays California state income tax faces a combined marginal rate that makes tax-exempt municipal income unusually valuable. NKX captures that dynamic: the portfolio is intentionally built from California-only [bonds](/bond/), the securities meet credit-quality thresholds to reduce default risk, and the fund explicitly sidesteps bonds that trigger the alternative minimum tax — a complication that can strip tax benefits away from high-income taxpayers who hold AMT-triggered munis.
 

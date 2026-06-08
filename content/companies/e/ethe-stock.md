@@ -26,7 +26,7 @@ Grayscale [Ethereum](/ethereum/) Staking ETF holds Ethereum tokens and stakes th
 
 ## What staking is and why it matters
 
-Ethereum is a blockchain — a shared ledger where people and smart contracts send transactions and store data. To keep that ledger running and prevent fraud, the network needs validators: people or organizations that run computers to check transactions and add new blocks to the chain. To become a validator, you stake (lock up) 32 Ethereum tokens as a guarantee of good behavior. If you try to cheat the system, the network destroys some of your stake. If you play by the rules, you earn new tokens and transaction fees as a reward.
+Ethereum is a blockchain — a shared ledger where people and [smart contracts](/smart-contract/) send transactions and store data. To keep that ledger running and prevent fraud, the network needs validators: people or organizations that run computers to check transactions and add new blocks to the chain. To become a validator, you stake (lock up) 32 Ethereum tokens as a guarantee of good behavior. If you try to cheat the system, the network destroys some of your stake. If you play by the rules, you earn new tokens and transaction fees as a reward.
 
 For most people, staking 32 tokens is a lot of money, and running a validator involves technical knowledge and [operational risk](/operational-risk/). ETHE solves both problems by pooling money from many investors and managing the staking for them. You own Ethereum through the fund and earn staking rewards automatically.
 

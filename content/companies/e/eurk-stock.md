@@ -33,7 +33,7 @@ Like all SPACs, Eureka started life with no operations, no products, and no reve
 
 ## The Marine Thinking deal
 
-On November 3, 2025, Eureka announced a definitive merger agreement with Marine Thinking Inc., a Canadian company focused on autonomous ship technology and fleet management solutions. The transaction would merge Marine Thinking with a subsidiary of Eureka, resulting in a combined entity called Marine Thinking Holdings Inc., which would remain listed on [NASDAQ](/nasdaq/) under a new ticker symbol.
+On November 3, 2025, Eureka announced a [definitive merger agreement](/definitive-merger-agreement/) with Marine Thinking Inc., a Canadian company focused on autonomous ship technology and fleet management solutions. The transaction would merge Marine Thinking with a subsidiary of Eureka, resulting in a combined entity called Marine Thinking Holdings Inc., which would remain listed on [NASDAQ](/nasdaq/) under a new ticker symbol.
 
 The Marine Thinking deal represented Eureka's answer to the fundamental challenge facing all SPACs: finding a target whose business proposition justifies the capital raised and whose valuation creates enough upside potential that public shareholders who hold through the merger stand to gain rather than lose. Marine Thinking's autonomous shipping technology addresses a legitimate and growing industry need—labor costs in maritime shipping are rising, ports are congested, and the promise of autonomous or remotely operated vessels appeals to ship owners seeking to improve margins and address crew shortages.
 
@@ -53,7 +53,7 @@ The redempion so far signal moderate investor skepticism—roughly $29 million o
 
 ## What to monitor
 
-Investors evaluating Eureka should review the most recent proxy statement and merger agreement to understand the deal's terms: the equity structure of Marine Thinking Holdings post-merger, [earnout provisions](/earnout-provision/) (payments contingent on hitting milestones), sponsor dilution, and any transaction expenses that reduce the cash available to Marine Thinking's operations.
+Investors evaluating Eureka should review the most recent [proxy statement](/proxy-statement/) and merger agreement to understand the deal's terms: the equity structure of Marine Thinking Holdings post-merger, [earnout provisions](/earnout-provision/) (payments contingent on hitting milestones), sponsor dilution, and any transaction expenses that reduce the cash available to Marine Thinking's operations.
 
 Track Eureka's regulatory filings for any updates to the deal timeline or new conditions. The company's 10-K and quarterly 10-Q filings (SEC CIK 0002000410) will detail the trust account balance, any sponsor contributions, and the timeline to deal closure. If the deadline extension is invoked further, it signals continuing uncertainty.
 

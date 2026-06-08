@@ -33,7 +33,7 @@ The receivables are segmented by age and performance: current (performing) loans
 
 FiEE raises capital through multiple channels. Term debt ([bonds](/bond/), bank facilities) funds core receivables growth. Warehouse lines (short-term borrowing collateralized by recent loan originations) provide working capital. Securitizations bundle pools of receivables into securities sold to investors, removing those assets from the balance sheet and returning cash to redeploy. Equity capital is the cushion; it absorbs unexpected losses before debt is impaired.
 
-The ratio of total debt to equity (leverage) is a critical metric for FiEE. High leverage amplifies returns to equity when the business performs, but also amplifies losses if credit conditions deteriorate or funding dries up. Debt covenants (conditions imposed by lenders) may require FiEE to maintain minimum equity cushions or ratios of reserves to receivables. Breaching a covenant can trigger mandatory repayment or force asset sales. The balance sheet must be read with the debt documents in hand.
+The ratio of total debt to equity (leverage) is a critical metric for FiEE. High leverage amplifies returns to equity when the business performs, but also amplifies losses if credit conditions deteriorate or funding dries up. Debt covenants (conditions imposed by lenders) may require FiEE to maintain minimum [equity cushions](/equity-cushion/) or ratios of reserves to receivables. Breaching a covenant can trigger mandatory repayment or force asset sales. The balance sheet must be read with the debt documents in hand.
 
 ## Interest Rate and Funding Risk
 

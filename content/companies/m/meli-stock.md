@@ -62,7 +62,7 @@ The geographic [diversification](/diversification/) is another form of resilienc
 
 ## Challenges and risks
 
-Latin America is not a stable market. [Inflation](/inflation/), currency devaluation, political instability, and weak rule of law are recurrent challenges. Argentina, historically one of MercadoLibre's largest markets, has suffered severe economic crises and currency collapses. When the local currency crashes, it affects the value of transactions, merchants' ability to repay loans, and the company's ability to convert local-currency revenue to dollars.
+Latin America is not a stable market. [Inflation](/inflation/), [currency devaluation](/currency-devaluation/), political instability, and weak rule of law are recurrent challenges. Argentina, historically one of MercadoLibre's largest markets, has suffered severe economic crises and currency collapses. When the local currency crashes, it affects the value of transactions, merchants' ability to repay loans, and the company's ability to convert local-currency revenue to dollars.
 
 Regulatory risk is always present. Governments in the region have sometimes scrutinized payments platforms and fintech lenders, particularly around consumer protection and lending practices. Changes in regulation could make MercadoLibre's business less profitable or require significant operational adjustments.
 
@@ -70,13 +70,13 @@ The company faces competition, though not intense competition in most markets. A
 
 Tech disruption is a longer-term risk. E-commerce logistics and payments are areas where new technologies—autonomous delivery, new payment rails, blockchain-based systems—could emerge and disrupt the incumbent. MercadoLibre is aware of these risks and invests in technology, but the future is uncertain.
 
-Finally, execution risk is always present. The company must continue to invest in its technology platform, maintain good customer service, expand to new markets and use cases, and integrate [acquisitions](/acquisition/). Management has executed well historically, but past performance does not guarantee future success.
+Finally, [execution risk](/execution-risk/) is always present. The company must continue to invest in its technology platform, maintain good customer service, expand to new markets and use cases, and integrate [acquisitions](/acquisition/). Management has executed well historically, but past performance does not guarantee future success.
 
 ## How a serious investor would research this
 
 Start with the quarterly earnings reports and the annual 10-K filing. Look for trends in gross merchandise value—the total dollar value of goods transacted on the marketplace. Watch the payment volumes and the number of active users. Track the profitability and growth of Mercado Pago separately from the marketplace, as they have different economics and growth profiles.
 
-Listen closely to management commentary on Latin American macroeconomic conditions, particularly on currency headwinds and inflation. A currency crisis in a major market can be a serious headwind, and MercadoLibre is not immune.
+Listen closely to management commentary on Latin American macroeconomic conditions, particularly on currency headwinds and inflation. A [currency crisis](/currency-crisis/) in a major market can be a serious headwind, and MercadoLibre is not immune.
 
 Understand the competitive position in each of the company's major markets. MercadoLibre is not equally strong everywhere, and the company's growth and margin profile could shift if a major market becomes more competitive.
 

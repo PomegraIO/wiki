@@ -32,7 +32,7 @@ The bank spent the subsequent 15 years shedding bad assets, shrinking volatile t
 
 The business model is conventional: NatWest earns net interest margin (the difference between rates it pays depositors and rates it charges borrowers), collects fees on accounts and services, and earns trading gains. Deposits are the lifeblood—the bank pays interest to hold them and lends them out at higher rates. Managing deposit costs and growth is central to profitability.
 
-**Moats and competitive position.** UK retail banking is an oligopoly controlled by five large players: HSBC, Barclays, Lloyds, Standard Chartered (more international), and NatWest. Switching costs for current-account customers are moderate but nonzero—changing banks requires rerouting payroll, standing orders, and direct debits. The incumbent who holds a customer's current account has a pull to also hold savings and a mortgage, deepening stickiness.
+**Moats and competitive position.** UK retail banking is an oligopoly controlled by five large players: HSBC, Barclays, Lloyds, [Standard Chartered](/standard-chartered/) (more international), and NatWest. Switching costs for current-account customers are moderate but nonzero—changing banks requires rerouting payroll, standing orders, and direct debits. The incumbent who holds a customer's current account has a pull to also hold savings and a mortgage, deepening stickiness.
 
 NatWest's position is middle-ranking among the big five. It does not have HSBC's global footprint or Barclays's investment-banking strength. Lloyds owns a higher retail-deposit share in some regions. But NatWest is large enough to compete on customer service and rates, and its branch network and brand carry weight in Scotland and parts of England.
 
@@ -44,7 +44,7 @@ The path to returning profit to shareholders has been slow. Dividends were resto
 
 **Headwinds and risks.** A sharp economic downturn would test the bank's underwriting standards, especially in mortgages and commercial real estate. The UK housing market is sensitive to [interest rates](/interest-rate/); rising rates make mortgages expensive and can trigger losses on existing portfolios if collateral values fall. Commercial real estate is facing structural headwinds (office vacancy, retail decline), and the bank carries a meaningful book of CRE exposure.
 
-Regulatory pressure is ongoing. The UK [Financial Conduct Authority](/financial-conduct-authority/) and Prudential Regulation Authority impose frequent stress tests and capital requirements. Brexit has complicated some operations and raised costs.
+Regulatory pressure is ongoing. The UK [Financial Conduct Authority](/financial-conduct-authority/) and [Prudential Regulation Authority](/prudential-regulation-authority/) impose frequent stress tests and capital requirements. Brexit has complicated some operations and raised costs.
 
 Competition from digital banks and fintechs is steady, though most UK incumbents have invested heavily in digital platforms to keep pace.
 

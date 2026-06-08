@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-FBL tracks [Meta Platforms](/meta-stock/) ([NASDAQ](/nasdaq/): META) at twice its daily movement. When META rises 2 percent, FBL aims to rise 4 percent. When META falls 2 percent, FBL falls 4 percent. The fund launched in December 2022 under GraniteShares, an ETF sponsor based in New York known for a suite of single-stock leveraged instruments.
+FBL tracks [Meta Platforms](/meta-stock/) ([NASDAQ](/nasdaq/): META) at twice its daily movement. When META rises 2 percent, FBL aims to rise 4 percent. When META falls 2 percent, FBL falls 4 percent. The fund launched in December 2022 under GraniteShares, an [ETF sponsor](/etf-sponsor/) based in New York known for a suite of single-stock leveraged instruments.
 
 The portfolio holds no actual shares of Meta. Instead, GraniteShares constructs the 2x exposure through a mix of [equity swaps](/equity-swap/), total-return swaps, [futures contracts](/futures-contract/), options, and cash equivalents. Each day the fund rebalances these derivatives back to a target of 200 percent exposure — the daily reset that gives the vehicle its name and character.
 
@@ -25,6 +25,6 @@ Equally, leverage works both ways. A single down day moves the fund in proportio
 
 FBL is designed for tactical traders — positions held for hours or a few days, not weeks. The daily reset resets in FBL's favour only in a sustained directional move without significant pullbacks. Traders use it to amplify short-term bets, often pairing it with other instruments to hedge or manage risk. Retirement investors and buy-and-hold portfolios should not own it; the leverage and decay properties make it unsuitable for long-term wealth building.
 
-The fund trades on NASDAQ under FBL with reasonable daily liquidity typical of large ETFs. GraniteShares publishes a daily fact sheet and monthly holdings on its website. The prospectus and Statement of Additional Information contain the fund's counterparty details, the nature of its derivative contracts, and the fees charged. The [expense ratio](/expense-ratio/) runs in the range typical for leveraged vehicles — material, but secondary to the risks of leverage itself.
+The fund trades on NASDAQ under FBL with reasonable daily liquidity typical of large ETFs. GraniteShares publishes a daily fact sheet and monthly holdings on its website. The prospectus and Statement of Additional Information contain the fund's counterparty details, the nature of its [derivative contracts](/derivative-contract/), and the fees charged. The [expense ratio](/expense-ratio/) runs in the range typical for leveraged vehicles — material, but secondary to the risks of leverage itself.
 
 The core risk is not [credit risk](/credit-risk/) or liquidity — the fund is a liquid, transparent instrument backed by major swap counterparties — but the mathematical certainty of decay in sideways or volatile markets, and the exponential risk of leverage in a sharp decline. META itself carries concentrated risk (one underlying asset); FBL concentrates that risk further. Anyone holding FBL should understand that it is a lever, not an investment.

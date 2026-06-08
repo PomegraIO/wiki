@@ -41,7 +41,7 @@ Titan's sponsor — the team that structured the SPAC and raised the initial cap
 
 ## Due diligence and disclosure
 
-Before the merger closes, the SPAC conducts financial and operational due diligence on the target, similar to what would happen in any large acquisition. The SPAC also files a proxy statement with the SEC describing the target company, the transaction terms, historical financial statements, and forward-looking projections. Public shareholders vote to approve the merger, with a redemption right: if they believe the deal is bad or the sponsor overpaid, they can redeem their shares for cash from the trust account.
+Before the merger closes, the SPAC conducts financial and operational [due diligence](/due-diligence/) on the target, similar to what would happen in any large acquisition. The SPAC also files a [proxy statement](/proxy-statement/) with the SEC describing the target company, the transaction terms, historical financial statements, and forward-looking projections. Public shareholders vote to approve the merger, with a redemption right: if they believe the deal is bad or the sponsor overpaid, they can redeem their shares for cash from the trust account.
 
 The quality of that proxy disclosure, and the sponsor's track record on past deals, are the primary signals of whether a SPAC merger is worth participating in.
 

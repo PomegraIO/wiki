@@ -31,7 +31,7 @@ Holding companies often use leverage—debt at the corporate level—to fund acq
 
 ## Tax Efficiency and Structural Benefits
 
-Holding companies can offer tax advantages if structured carefully. If EMRH owns operating subsidiaries and receives [dividends](/dividend/) from them, it may be able to claim an inter-company dividend deduction, avoiding double taxation. If subsidiaries are structured as partnerships or S-corporations rather than C-corporations, income can pass through to the holding company with single-layer taxation. These tax efficiencies can increase after-tax returns to shareholders. However, tax laws change, and aggressive tax structures can attract regulatory scrutiny.
+Holding companies can offer tax advantages if structured carefully. If EMRH owns operating subsidiaries and receives [dividends](/dividend/) from them, it may be able to claim an inter-company dividend deduction, avoiding [double taxation](/double-taxation/). If subsidiaries are structured as partnerships or S-corporations rather than C-corporations, income can pass through to the holding company with single-layer taxation. These tax efficiencies can increase after-tax returns to shareholders. However, tax laws change, and aggressive tax structures can attract regulatory scrutiny.
 
 ## Transparency and Investor Perception
 

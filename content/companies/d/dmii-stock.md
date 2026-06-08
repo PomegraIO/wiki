@@ -28,7 +28,7 @@ keywords:
 
 A substantial portion of SPAC capital sits in a trust account, restricted and unavailable for operations until the business combination closes. This segregated structure protects public shareholders: if the SPAC fails to complete a transaction within its operational window, capital returns to investors. Insiders and sponsors maintain their [shares](/common-stock/), but lack access to the trust capital unless the combination succeeds, aligning incentives toward completion.
 
-The trust account size, less estimated transaction and expense costs, determines the cash DMII can contribute to the merger consideration for its target. If the trust contains 100 million dollars and 20 million is reserved for closing costs and regulatory approvals, approximately 80 million remains available to pay the target's equity holders or their shareholders.
+The trust account size, less estimated transaction and expense costs, determines the cash DMII can contribute to the merger consideration for its target. If the trust contains 100 million dollars and 20 million is reserved for [closing costs](/closing-costs-breakdown/) and regulatory approvals, approximately 80 million remains available to pay the target's equity holders or their shareholders.
 
 ## Merger Consideration and Capital Allocation
 
@@ -62,7 +62,7 @@ Earnout terms affect the merged entity's financial flexibility and capital alloc
 
 ## Sponsor and Management Incentives
 
-Sponsors and insiders in a SPAC retain [founder shares](/founder-shares/) that typically have extended vesting or special terms, creating asymmetric incentives compared to public shareholders. Sponsor economics—their carried interest in deal completion and post-merger performance—influence capital allocation decisions in ways that may not align with public shareholder interests.
+Sponsors and insiders in a SPAC retain [founder shares](/founder-shares/) that typically have extended vesting or special terms, creating asymmetric incentives compared to public shareholders. Sponsor economics—their [carried interest](/carried-interest-compensation/) in deal completion and post-merger performance—influence capital allocation decisions in ways that may not align with public shareholder interests.
 
 A sponsor willing to absorb redemptions or provide incremental capital to complete the transaction signals confidence in the target's value and the merged entity's prospects. Conversely, if sponsors avoid capital commitments beyond their initial equity, skeptics may question their true conviction in the combination's value creation.
 
@@ -77,7 +77,7 @@ Evaluating DMII and its target requires examining:
 - **Warrant and dilution schedule**: Total shares outstanding, fully diluted count, and warrant exercise assumptions
 - **Sponsor economics and incentives**: Founder shares, promote structure, and sponsor capital commitments post-merger
 
-The [10-K filing](/10-k/) and merger proxy statement filed with the [Securities and Exchange Commission](/securities-and-exchange-commission/) disclose complete transaction terms, pro-forma capitalization, and risk factors essential to understanding DMII's capital structure and post-merger prospects.
+The [10-K filing](/10-k/) and merger [proxy statement](/proxy-statement/) filed with the [Securities and Exchange Commission](/securities-and-exchange-commission/) disclose complete transaction terms, pro-forma capitalization, and risk factors essential to understanding DMII's capital structure and post-merger prospects.
 
 ## Capital Structure as a Deal Quality Signal
 

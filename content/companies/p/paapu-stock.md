@@ -27,7 +27,7 @@ Think of [Plains All American Pipeline](/paa-stock/) as a moving company for oil
 
 ## What the business actually is
 
-Plains All American operates roughly 35,000 miles of pipeline across North America. The pipes carry three main things: crude oil (from wells to refineries), refined products like gasoline and diesel (from refineries to distribution terminals and fuel depots), and natural gas liquids (byproducts of natural gas production). The company also owns terminals and storage tanks at key locations, which allows it to handle volume spikes and keep the flow steady.
+Plains All American operates roughly 35,000 miles of pipeline across North America. The pipes carry three main things: crude oil (from wells to refineries), refined products like gasoline and diesel (from refineries to distribution terminals and fuel depots), and [natural gas liquids](/natural-gas-liquids/) (byproducts of natural gas production). The company also owns terminals and storage tanks at key locations, which allows it to handle volume spikes and keep the flow steady.
 
 Here is the key thing: Plains does not own the oil. It does not decide where to drill or what to do with the final product. It just moves it, and gets paid a fee measured in cents per barrel. If crude oil costs $80 a barrel or $150 a barrel, Plains' revenue does not change. What matters is volume—how many barrels flow through its pipes per day.
 

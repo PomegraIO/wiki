@@ -45,7 +45,7 @@ Oyster's specific strategy and the backgrounds of its sponsors would shape the k
 
 Before any merger is announced, Oyster exists as a shell: public shareholders own shares that entitle them to vote on the merger and redeem at trust value. The stock may trade above or below the redemption value depending on sentiment about the sponsors and the market's appetite for their investment thesis.
 
-Once a merger is announced, Oyster discloses the target company's business, financials, and forward projections. A proxy statement is filed with the SEC detailing the deal terms, fees, and voting mechanics. Public shareholders then vote on whether to approve the merger; those who do not approve can redeem. If the merger closes, Oyster ceases to exist as a separate legal entity, and the target company becomes the public company, often retaining the name or adopting a new one.
+Once a merger is announced, Oyster discloses the target company's business, financials, and forward projections. A [proxy statement](/proxy-statement/) is filed with the SEC detailing the deal terms, fees, and voting mechanics. Public shareholders then vote on whether to approve the merger; those who do not approve can redeem. If the merger closes, Oyster ceases to exist as a separate legal entity, and the target company becomes the public company, often retaining the name or adopting a new one.
 
 Post-merger, the combined entity trades publicly, and the former target company's shareholders (who own OYSE shares following the merger) are now public shareholders like anyone else. The sponsors' founder shares convert into shares of the public company. The merged company must file 10-K and 10-Q reports, hold quarterly earnings calls, and operate under the scrutiny of public markets and the SEC, just like any other public company.
 
@@ -65,4 +65,4 @@ For someone considering buying Oyster shares before any merger announcement, the
 
 If Oyster announces a merger, investors should evaluate the target company as if it were a traditional IPO. What is the business? What is the addressable market? How fast is it growing, and at what profitability? How much capital does it need to execute its strategy, and where will that capital come from? Compare the valuation to peers and recent private transactions. Understand the post-merger capital structure and dilution. Ultimately, a SPAC is only as good as the business it merges with, and no SPAC structure can overcome a fundamentally weak target or poor execution by sponsors.
 
-For those who prefer more certainty and lower execution risk, a traditional public company or an established [mutual fund](/mutual-fund/) may be a more comfortable choice than a SPAC or SPAC-backed company.
+For those who prefer more certainty and lower [execution risk](/execution-risk/), a traditional public company or an established [mutual fund](/mutual-fund/) may be a more comfortable choice than a SPAC or SPAC-backed company.

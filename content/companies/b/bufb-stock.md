@@ -47,7 +47,7 @@ Monthly resets also mean the fund charges for this strategy every month — the 
 
 BUFB works for people who want to own stocks but sleep better at night knowing large crashes are cushioned. It suits someone nervous about a market downturn, or someone near retirement who cannot afford to lose too much in a bad year. It is less suited for long-term investors who believe stocks will rise over decades and can handle short-term dips — that person would be happier in a regular stock [index fund](/index-fund/) with no cap on gains.
 
-The catch is that buffer funds can look bad if the market enters a long bull run. Year after year of capped gains versus a regular stock fund will make BUFB lag. And if the market is simply flat or rising slowly, the cap does not matter much, so you are paying for protection you do not need.
+The catch is that [buffer funds](/buffer-fund/) can look bad if the market enters a long bull run. Year after year of capped gains versus a regular stock fund will make BUFB lag. And if the market is simply flat or rising slowly, the cap does not matter much, so you are paying for protection you do not need.
 
 Investors should review the current month's cap and buffer level in the fund's factsheet. These change based on [implied volatility](/implied-volatility/) and market conditions: in calm markets, caps might be tighter and buffers smaller; in volatile markets, caps might be wider.
 

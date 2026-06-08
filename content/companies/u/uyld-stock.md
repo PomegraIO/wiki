@@ -15,9 +15,9 @@ Angel Oak Capital, a boutique fixed-income manager, launched UYLD as a fund desi
 
 ## The ultrashort bond universe and Angel Oak's approach
 
-Ultrashort fixed income includes [bonds](/bond/) and other debt instruments maturing in one year or less. The category encompasses US [Treasury bills](/treasury-bill/), [floating-rate notes](/floating-rate-note/), investment-grade [corporate bonds](/corporate-bond/) near maturity, securitized credit (mortgage-backed securities, asset-backed securities), and, depending on the manager's mandate, higher-yielding credit instruments like [floating-rate bonds](/floating-rate-bond/) and certain structured products. Because the securities are short-dated, they are far less sensitive to interest-rate moves than longer bonds — a one percentage point rate change produces only a one percent price move.
+Ultrashort fixed income includes [bonds](/bond/) and other debt instruments maturing in one year or less. The category encompasses US [Treasury bills](/treasury-bill/), [floating-rate notes](/floating-rate-note/), investment-grade [corporate bonds](/corporate-bond/) near maturity, securitized credit (mortgage-backed securities, asset-backed securities), and, depending on the manager's mandate, higher-yielding credit instruments like [floating-rate bonds](/floating-rate-bond/) and certain [structured products](/structured-product/). Because the securities are short-dated, they are far less sensitive to interest-rate moves than longer bonds — a one percentage point rate change produces only a one percent price move.
 
-Angel Oak's approach has been to blend Treasury and floating-rate instruments with selective credit exposure. The "ultra" in ultrashort means the fund is tuned for maximum stability and monthly or more frequent distributions rather than total return, and the income focus means yields are central to the construction. By holding bonds near maturity and leveraging credit research, the fund aims to deliver yields substantially higher than those available in Treasury bills or money-market funds — historically in the mid-to-high single digits, depending on the credit cycle — while keeping duration risk minimal.
+Angel Oak's approach has been to blend Treasury and floating-rate instruments with selective credit exposure. The "ultra" in ultrashort means the fund is tuned for maximum stability and monthly or more frequent distributions rather than total return, and the income focus means yields are central to the construction. By holding bonds near maturity and leveraging credit research, the fund aims to deliver yields substantially higher than those available in Treasury bills or money-market funds — historically in the mid-to-high single digits, depending on the [credit cycle](/credit-cycle/) — while keeping duration risk minimal.
 
 ## The fund's composition and how it has evolved
 
@@ -37,7 +37,7 @@ The primary risk in UYLD is [credit risk](/credit-risk/) — the possibility tha
 
 Interest-rate risk is minimal because ultrashort instruments reprice frequently or have short maturities. A two percent rise in Treasury yields will depress the fund's price by roughly two percent — far less than would affect intermediate or long-term bond funds. This makes UYLD far more stable than traditional [bond ETFs](/bond-etf/), but it also means it offers lower potential return if rates fall and prices of longer bonds rise sharply.
 
-The fund's transparency and regulatory structure are also relevant: as a registered investment company, it must disclose its holdings, track its performance, and manage leverage if it uses any. Reading the fund's fact sheet and prospectus reveals the exact maturity distribution, credit quality breakdown, and leverage (if any) employed.
+The fund's transparency and regulatory structure are also relevant: as a [registered investment company](/registered-investment-company/), it must disclose its holdings, track its performance, and manage leverage if it uses any. Reading the fund's fact sheet and prospectus reveals the exact maturity distribution, credit quality breakdown, and leverage (if any) employed.
 
 ## How UYLD fits into a portfolio
 

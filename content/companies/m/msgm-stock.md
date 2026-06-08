@@ -51,7 +51,7 @@ The competitive landscape in racing games includes established franchises (such 
 
 ## Development Cycles and Release Timing
 
-Video game development operates on project cycles: a game enters development, is tested and refined, launches, and then either concludes support or enters a live-service phase with ongoing updates. These cycles do not align with calendar or fiscal years. A major title might launch in quarter two, generating significant revenue, while the following year the company waits for the next major title to launch. This creates uneven revenue and earnings patterns that can be volatile.
+Video game development operates on project cycles: a game enters development, is tested and refined, launches, and then either concludes support or enters a live-service phase with ongoing updates. These cycles do not align with calendar or [fiscal years](/fiscal-year-definition/). A major title might launch in quarter two, generating significant revenue, while the following year the company waits for the next major title to launch. This creates uneven revenue and earnings patterns that can be volatile.
 
 Revenue visibility is limited: the company may have several games in development but cannot guarantee when they will launch or how commercially successful they will be. This makes forecasting difficult and creates uncertainty in valuation. Investor expectations must account for the development cycle timing and outcome uncertainty.
 

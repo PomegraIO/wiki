@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Global X MSCI Argentina ETF (ARGT) tracks a single emerging market — Argentina — through the MSCI Argentina index, which holds the largest publicly listed Argentine companies by [market capitalization](/market-capitalization/). It is one of the narrower country-specific ETFs available to US investors, betting on Argentine equities rather than [bonds](/bond/) or commodities, and carries the outsized volatility and political risk that comes with such a concentrated geographic wager.
+The Global X MSCI Argentina ETF (ARGT) tracks a single emerging market — Argentina — through the MSCI Argentina index, which holds the largest publicly listed Argentine companies by [market capitalization](/market-capitalization/). It is one of the narrower country-specific ETFs available to US investors, betting on Argentine equities rather than [bonds](/bond/) or commodities, and carries the outsized volatility and [political risk](/political-risk/) that comes with such a concentrated geographic wager.
 
 ## What the fund holds
 

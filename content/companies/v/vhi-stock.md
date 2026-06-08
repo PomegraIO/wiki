@@ -64,6 +64,6 @@ Lastly, the holding-company structure itself introduces governance risk. Decisio
 
 ## How to Research Valhi
 
-Begin with the latest Form 10-K, filed annually with the SEC. It breaks down segment revenues, [operating margins](/operating-margin/), capital expenditures, and debt structure. The MD&A (management discussion and analysis) section explains business trends and management's outlook. Quarterly 10-Qs provide updates between annual filings.
+Begin with the latest Form 10-K, filed annually with the SEC. It breaks down segment revenues, [operating margins](/operating-margin/), capital expenditures, and debt structure. The MD&A ([management discussion and analysis](/management-discussion-and-analysis/)) section explains business trends and management's outlook. Quarterly 10-Qs provide updates between annual filings.
 
 Track Kronos Worldwide's earnings and guidance separately—since VHI owns most of Kronos, understanding the subsidiary is essential. Monitor commodity pricing for titanium-dioxide pigment and raw material costs. Compare Kronos' profitability to peers like Tronox to assess relative competitive health. Finally, watch macro indicators: industrial production, [construction spending](/construction-spending/), and automotive production all signal demand trends in the pigment and coatings space.

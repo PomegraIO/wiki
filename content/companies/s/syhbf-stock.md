@@ -27,7 +27,7 @@ SkyHarbour's assets are organised around individual exploration and development 
 - **Advanced exploration projects:** Properties with more drilling, better geological definition, and early resource estimates; investment focus increases.
 - **Development-stage properties:** Projects with defined mineral resources, engineering studies underway, and pathway to permitting and construction.
 
-The company's portfolio is diversified across multiple properties to spread geological and execution risk. However, capital allocation is competitive — the company invests more heavily in projects showing the highest potential returns or nearest to development. Over time, SkyHarbour may partner on certain properties, bring in joint-venture partners to fund a portion of exploration in exchange for equity, or sell assets if they underperform.
+The company's portfolio is diversified across multiple properties to spread geological and [execution risk](/execution-risk/). However, capital allocation is competitive — the company invests more heavily in projects showing the highest potential returns or nearest to development. Over time, SkyHarbour may partner on certain properties, bring in joint-venture partners to fund a portion of exploration in exchange for equity, or sell assets if they underperform.
 
 ## How uranium juniors fund exploration
 
@@ -59,7 +59,7 @@ This creates a structural vulnerability: the company must regularly access capit
 
 ## Risks and pressures on junior explorers
 
-Junior mining companies face exploration risk — the risk that drilling fails to find economic concentrations of ore. They face commodity price risk — uranium prices could collapse, erasing project economics. They face regulatory and political risk — a change in Indigenous relations, environmental rules, or government support for uranium could derail projects or increase costs. They face operational execution risk — key drilling campaigns or metallurgical work might disappoint. And they face financing risk — loss of access to capital markets could force the company to halt spending or merge with another entity on unfavorable terms.
+Junior mining companies face exploration risk — the risk that drilling fails to find economic concentrations of ore. They face commodity price risk — uranium prices could collapse, erasing project economics. They face regulatory and [political risk](/political-risk/) — a change in Indigenous relations, environmental rules, or government support for uranium could derail projects or increase costs. They face operational execution risk — key drilling campaigns or metallurgical work might disappoint. And they face financing risk — loss of access to capital markets could force the company to halt spending or merge with another entity on unfavorable terms.
 
 ## How to research junior uranium explorers
 

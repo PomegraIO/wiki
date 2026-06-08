@@ -13,7 +13,7 @@ handwritten: true
 
 > "Renewable energy is attractive precisely because once the dam is built, the sun still rises every day."
 
-Hatteras Financial Corp (formerly known as HA Sustainable Infrastructure Capital) is a yieldco — a corporate structure designed to own and operate cash-generative infrastructure assets with minimal growth. It trades on the [NASDAQ](/nasdaq/) (HASI) and holds a diversified portfolio of renewable energy and sustainable infrastructure assets, primarily solar and wind, across North America. The company's defining characteristic is not the assets themselves, but the contractual stability surrounding them: most of Hatteras's power is sold under long-term power purchase agreements (PPAs) with investment-grade utilities and large corporations, meaning the revenue is locked in and predictable for decades.
+Hatteras Financial Corp (formerly known as HA Sustainable Infrastructure Capital) is a yieldco — a corporate structure designed to own and operate cash-generative infrastructure assets with minimal growth. It trades on the [NASDAQ](/nasdaq/) (HASI) and holds a diversified portfolio of renewable energy and sustainable infrastructure assets, primarily solar and wind, across North America. The company's defining characteristic is not the assets themselves, but the contractual stability surrounding them: most of Hatteras's power is sold under long-term [power purchase agreements](/power-purchase-agreement/) (PPAs) with investment-grade utilities and large corporations, meaning the revenue is locked in and predictable for decades.
 
 ## What a yieldco is, and why it exists
 
@@ -41,7 +41,7 @@ The leverage is not hidden; yieldcos are transparent about it because creditors 
 
 ## Operator selection and asset quality
 
-Hatteras does not build the solar farms and wind turbines; it buys them from developers. The quality of the assets depends on the quality of the original developers, ongoing operations and maintenance, and the competence of the counterparties running the day-to-day production. This [operational risk](/operational-risk/) is typically managed by long-term service agreements with experienced operators (often the original developers or specialized firms), but Hatteras is exposed to execution risk if a service provider fails or an asset needs unexpected major repairs.
+Hatteras does not build the solar farms and wind turbines; it buys them from developers. The quality of the assets depends on the quality of the original developers, ongoing operations and maintenance, and the competence of the counterparties running the day-to-day production. This [operational risk](/operational-risk/) is typically managed by long-term service agreements with experienced operators (often the original developers or specialized firms), but Hatteras is exposed to [execution risk](/execution-risk/) if a service provider fails or an asset needs unexpected major repairs.
 
 ## Growth (or the lack thereof) and reinvestment
 

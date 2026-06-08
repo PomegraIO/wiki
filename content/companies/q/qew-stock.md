@@ -26,7 +26,7 @@ This rebalancing incurs two costs. The first is mechanical: trading expenses and
 
 The cap-weighted Nasdaq-100 (QQQ) is heavily dominated by the largest ten firms. These ten often represent 40 to 50 percent of the cap-weighted index. QEW, by contrast, holds these same ten at a combined ten percent of its portfolio. The capital freed up goes to the 90th through 100th constituents — smaller, less-liquid, less-followed companies that carry higher volatility and higher [idiosyncratic risk](/idiosyncratic-risk/).
 
-For investors who believe mega-cap technology stocks are richly priced and smaller Nasdaq constituents offer better value, QEW is a mechanical lever. For investors betting on large-cap tech dominance, QEW is a drag. Over any given period, QEW outperforms cap-weighted only when the smaller Nasdaq constituents outperform the giants, a condition that does not hold consistently across market cycles.
+For investors who believe mega-cap technology stocks are richly priced and smaller Nasdaq constituents offer better value, QEW is a mechanical lever. For investors betting on large-cap tech dominance, QEW is a drag. Over any given period, QEW outperforms cap-weighted only when the smaller Nasdaq constituents outperform the giants, a condition that does not hold consistently across [market cycles](/market-cycle/).
 
 ## Risks and the concentrated sector bet
 

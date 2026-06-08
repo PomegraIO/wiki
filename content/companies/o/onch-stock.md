@@ -41,4 +41,4 @@ handwritten: true
 
 **Macro and sentiment dependency.** Like any SPAC, 1RT is exposed to broad capital-market sentiment and to sector sentiment. Broad equity markets tank? SPAC stocks fall. Crypto enters extended [bear market](/bear-market/)? Redemptions spike. But if crypto enters sustained bull run and 1RT announces a compelling blockchain infrastructure play, shares could appreciate substantially. The outcome is highly dependent on both Tapiero's deal-making skill and on the cycle you're in when the merger closes.
 
-1RT is a concentrated bet on Tapiero's judgment and network, plus the blockchain market cycle. In a [bull market](/bull-market/) with a strong target, it could be a winner. In a downturn or with a mediocre target, it's a return-of-capital story at best.
+1RT is a concentrated bet on Tapiero's judgment and network, plus the blockchain [market cycle](/market-cycle/). In a [bull market](/bull-market/) with a strong target, it could be a winner. In a downturn or with a mediocre target, it's a return-of-capital story at best.

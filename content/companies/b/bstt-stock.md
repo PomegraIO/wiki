@@ -39,7 +39,7 @@ In early years after launch, a new REIT often retains more capital to fund [acqu
 
 Like all REITs, Blackstone Real Estate Income Trust is sensitive to interest rates. It borrows money to buy properties, intending to refinance when loans mature. If interest rates have risen materially by refinancing time, the cost of the new loan is higher, and the spread between rent collected and debt service shrinks. That directly reduces the cash available for distributions.
 
-The trust also marks its real estate holdings to market value in its financial statements. When [cap rates](/cap-rate/) rise (because [bond](/bond/) yields rise), real estate values fall. A trust holding a portfolio of properties that decline in value on paper does not immediately lose cash—but its equity value shrinks, and the financial metrics investors track (book value per share, price-to-book) deteriorate. That can lead to a lower stock price and, eventually, the need to raise capital at an unfavorable price if the trust wants to continue acquiring.
+The trust also marks its real estate holdings to market value in its financial statements. When [cap rates](/cap-rate/) rise (because [bond](/bond/) yields rise), real estate values fall. A trust holding a portfolio of properties that decline in value on paper does not immediately lose cash—but its equity value shrinks, and the financial metrics investors track ([book value per share](/book-value-per-share/), price-to-book) deteriorate. That can lead to a lower stock price and, eventually, the need to raise capital at an unfavorable price if the trust wants to continue acquiring.
 
 ## Tenant quality and leverage
 
@@ -51,7 +51,7 @@ The trust typically publishes metrics on lease expiration schedules—how much r
 
 Blackstone Real Estate Income Trust is a public company with public shareholders, so management is accountable through proxy votes and shareholder meetings. But Blackstone, the manager, also owns a stake in the trust itself—though not necessarily aligned exactly with public shareholders. If Blackstone's own capital is at risk alongside shareholders', alignment improves.
 
-Metrics to watch include funds from operations (FFO), a non-GAAP measure of cash available for distribution; [net asset value](/net-asset-value/) (NAV), the true economic value of the portfolio less debt; and same-store [net operating income](/net-operating-income/) (NOI growth among properties held for multiple years), which reveals whether rents and occupancy are improving on the existing base.
+Metrics to watch include [funds from operations](/funds-from-operations/) (FFO), a non-GAAP measure of cash available for distribution; [net asset value](/net-asset-value/) (NAV), the true economic value of the portfolio less debt; and same-store [net operating income](/net-operating-income/) (NOI growth among properties held for multiple years), which reveals whether rents and occupancy are improving on the existing base.
 
 ## How to research Blackstone Real Estate Income Trust
 

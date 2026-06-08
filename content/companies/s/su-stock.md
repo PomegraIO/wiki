@@ -33,7 +33,7 @@ Suncor is a scale player in a consolidated industry. Its competitive moat rests 
 
 **Commodity Exposure:** Oil prices dictate profitability; downturns in crude can swing Suncor from highly profitable to cash-flow-challenged quickly.
 
-**Energy Transition Risk:** Oil sands production, by volume and carbon intensity, faces regulatory pressure and investment scrutiny as governments and investors target decarbonization. Canada's carbon pricing regime and potential future tightening create operating cost pressures.
+**[Energy Transition Risk](/energy-transition-risk/):** Oil sands production, by volume and carbon intensity, faces regulatory pressure and investment scrutiny as governments and investors target decarbonization. Canada's carbon pricing regime and potential future tightening create operating cost pressures.
 
 **Capital Intensity:** Oil sands operations require massive upfront spending on mines, facilities, and upgrades; project timelines span years to decades. Once built, these assets become stranded if crude prices collapse or demand shifts.
 
@@ -45,13 +45,13 @@ Despite these headwinds, Suncor remains one of the lowest-cost oil sands produce
 
 Suncor's performance hinges on a handful of key drivers: average selling price of crude, oil sands production volume (measured in barrels per day), refining throughput and margins, and cash operating costs. The company reports oil sands production in barrels per day, which typically runs in the range of hundreds of thousands of barrels; total company output, including conventional oil and synthetic crude exports, pushes total supply further. Investors monitor quarterly production, realized price benchmarks, and capital spending guidance.
 
-The integrated structure means Suncor has natural hedging: when crude prices spike, refining margins often compress (because both input costs and output prices rise), and vice versa. During low-price periods, strong refining margins can partly offset lower crude revenues.
+The integrated structure means Suncor has [natural hedging](/natural-hedging/): when crude prices spike, refining margins often compress (because both input costs and output prices rise), and vice versa. During low-price periods, strong refining margins can partly offset lower crude revenues.
 
 ## How to Research It
 
 Start with Suncor's [10-K](/wiki/10-k/) annual report (filed on EDGAR under CIK 311337) and quarterly earnings releases, which detail production volumes, costs, capital plans, and regional operations. Key sections include Management's Discussion & Analysis (MD&A) for insight into price sensitivity and cost trends, and the Risk Factors section for exposure to energy transition risk.
 
-Watch industry publications and equity research for developments in crude prices, Canadian regulatory policy (carbon tax, emissions caps), and Suncor's capital allocation decisions. The company's [dividend](/dividend/) history reflects its positioning as a cash-generative but cyclical business; dividend sustainability often signals management confidence or stress.
+Watch industry publications and equity research for developments in crude prices, Canadian regulatory policy ([carbon tax](/carbon-tax/), emissions caps), and Suncor's capital allocation decisions. The company's [dividend](/dividend/) history reflects its positioning as a cash-generative but cyclical business; dividend sustainability often signals management confidence or stress.
 
 Key metrics to track: oil production (barrels per day, often in thousands), realized crude selling price, all-in cash cost per barrel (including extraction, transport, and capital charges), refining margins, and [free cash flow](/free-cash-flow/). Debt levels matter in low-price cycles; [leverage ratios](/leverage-ratio-forex/) highlight [refinancing risk](/refinancing-risk/) if crude stays depressed.
 

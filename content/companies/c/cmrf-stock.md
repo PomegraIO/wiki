@@ -33,13 +33,13 @@ The trust earns interest income (the rate it charges minus the cost of its own c
 
 The debt that funds the loan book comes from a mix of sources: bank credit facilities, securitized loan portfolios, and equity capital. CMRF publishes its weighted-average interest rate (the average rate across its loan portfolio) and its weighted-average debt cost (the rate it pays to fund loans). The spread between the two — after accounting for servicing, origination, and operating expenses — determines the net interest margin and is the engine of profitability.
 
-Key to the model is what happens when a loan sours. If a borrower defaults or the underlying property under-performs, CMRF must absorb the loss. The trust structures conservatively (low loan-to-value ratios, strong sponsor strength requirements, reserves for loss), but real estate is cyclical, and market downturns create defaults.
+Key to the model is what happens when a loan sours. If a borrower defaults or the underlying property under-performs, CMRF must absorb the loss. The trust structures conservatively (low [loan-to-value ratios](/loan-to-value-ratio/), strong sponsor strength requirements, reserves for loss), but real estate is cyclical, and market downturns create defaults.
 
 ## What risks define the business?
 
 **[Interest-rate risk](/interest-rate-risk/)** is substantial. If CMRF's own cost of capital rises faster than the rates on its loan portfolio (a problem for variable-rate assets and floating-rate debt), margins compress. The trust hedges this in part through floating-rate debt and interest-rate derivatives, but some mismatch is always present.
 
-**Real estate cycle risk** is existential. In an economic downturn, multifamily occupancy falls, office tenants default or demand rent concessions, retail suffers from e-commerce competition, and hospitality is vulnerable to travel changes. When the underlying assets underperform, borrowers cannot service debt, defaults rise, and CMRF must write down loan values or foreclose. The losses on a single large loan can wipe out years of income.
+**[Real estate cycle](/real-estate-cycle/) risk** is existential. In an economic downturn, multifamily occupancy falls, office tenants default or demand rent concessions, retail suffers from e-commerce competition, and hospitality is vulnerable to travel changes. When the underlying assets underperform, borrowers cannot service debt, defaults rise, and CMRF must write down loan values or foreclose. The losses on a single large loan can wipe out years of income.
 
 **Liquidity and leverage risk** matter because CMRF relies on access to credit markets to fund its business. In a credit crunch, borrowing costs rise sharply or capital dries up. The trust is also leveraged — it borrows significantly more than its equity base to fund larger loan portfolios — which amplifies both gains in good times and losses in bad times.
 

@@ -50,7 +50,7 @@ Capital allocation matters. The company has historically paid [dividends](/divid
 
 Start with the [10-K](/wiki/10-k/) filing with the SEC (available via the company's investor relations site or EDGAR), which details segment performance, mill-by-mill capacity and utilization, raw material sourcing, and hedging strategies. Key metrics to track: crude steel production (absolute capacity and utilization %), average selling prices by product (flat, long, tubes), raw material costs, and [free cash flow](/free-cash-flow/).
 
-Watch quarterly earnings calls for commentary on order trends, pricing momentum, capex plans, and management's view on end-market demand, especially automotive and construction. Track global auto production data and infrastructure spending announcements as leading indicators for ArcelorMittal's demand. Monitor iron ore and coking coal prices (Bloomberg, Reuters, or CRES data); these are among the biggest margin drivers.
+Watch quarterly earnings calls for commentary on order trends, pricing momentum, capex plans, and management's view on end-market demand, especially automotive and construction. Track global auto production data and infrastructure spending announcements as [leading indicators](/leading-indicator/) for ArcelorMittal's demand. Monitor iron ore and coking coal prices (Bloomberg, Reuters, or CRES data); these are among the biggest margin drivers.
 
 Also follow US and EU tariff policy, carbon pricing moves, and trade tensions, as these can shift competitive dynamics and pricing across regions. The company's hedging disclosures in the 10-K will show how much commodity price exposure is left unprotected.
 

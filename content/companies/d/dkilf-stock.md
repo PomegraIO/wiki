@@ -17,7 +17,7 @@ keywords: [DKILF, Japan, Daikin, manufacturing, HVAC, currency risk, conglomerat
 
 ## Currency as the Primary Risk
 
-Daikin's earnings are generated primarily in [Japanese yen](/japanese-yen/), Thai baht, and other foreign currencies, then consolidated into yen statements. [U.S. dollar](/us-dollar/) investors holding DKILF are implicitly exposed to yen weakness and strength. When the dollar strengthens against the yen—a common occurrence—the dollar value of Daikin's yen earnings falls. Over a multi-year period, this currency headwind can erase 20%, 30%, or more of nominal gains. Moreover, fluctuating exchange rates make year-over-year profit comparisons misleading; a strong operational year can look mediocre in dollar terms if currencies move against the investor. No operation in the company itself changes; only the currency overlay determines what a U.S.-based shareholder actually earns.
+Daikin's earnings are generated primarily in [Japanese yen](/japanese-yen/), Thai baht, and other foreign currencies, then consolidated into yen statements. [U.S. dollar](/us-dollar/) investors holding DKILF are implicitly exposed to yen weakness and strength. When the dollar strengthens against the yen—a common occurrence—the dollar value of Daikin's yen earnings falls. Over a multi-year period, this currency headwind can erase 20%, 30%, or more of nominal gains. Moreover, fluctuating exchange rates make year-over-year profit comparisons misleading; a strong operational year can look mediocre in dollar terms if currencies move against the investor. No operation in the company itself changes; only the [currency overlay](/currency-overlay/) determines what a U.S.-based shareholder actually earns.
 
 ## Conglomerate Opacity and Allocation Risk
 
@@ -29,7 +29,7 @@ Daikin has significant operations and supply chains rooted in Asia—Japan, Thai
 
 ## Foreign Regulatory and Tax Complexity
 
-Daikin operates under Japanese corporate law, tax law, and environmental regulations, each of which differs from U.S. norms. A new Japanese environmental regulation or tax code change could impose unexpected costs or compliance burdens. U.S. shareholders receive limited visibility into these regulatory shifts, partly because English-language disclosure lags Japanese filings. Additionally, Daikin's tax obligations span multiple jurisdictions; changes in OECD tax rules, transfer pricing audits, or disputes with revenue authorities in Japan or abroad can materially affect net income. The company must also navigate import-export regulations and restrictions on advanced manufacturing technology in certain jurisdictions.
+Daikin operates under Japanese corporate law, tax law, and environmental regulations, each of which differs from U.S. norms. A new Japanese environmental regulation or tax code change could impose unexpected costs or compliance burdens. U.S. shareholders receive limited visibility into these regulatory shifts, partly because English-language disclosure lags Japanese filings. Additionally, Daikin's tax obligations span multiple jurisdictions; changes in OECD tax rules, [transfer pricing](/transfer-pricing/) audits, or disputes with revenue authorities in Japan or abroad can materially affect net income. The company must also navigate import-export regulations and restrictions on advanced manufacturing technology in certain jurisdictions.
 
 ## Technology Disruption in Climate Control
 

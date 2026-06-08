@@ -16,7 +16,7 @@ For decades, China has been the factory of the world — the place where compani
 
 ## What does the fund actually invest in?
 
-BCHI is an actively managed emerging-market equity fund that invests in companies tied economically to markets that are not treated as developed markets in the MSCI World Index — so emerging markets broadly, but excluding China. The fund holds roughly 113 securities as of its most recent fiscal year. The top ten holdings made up about thirty-nine percent of assets, indicating that the portfolio is reasonably concentrated around the manager's highest-conviction picks.
+BCHI is an actively managed emerging-market equity fund that invests in companies tied economically to markets that are not treated as developed markets in the [MSCI World Index](/msci-world-index/) — so emerging markets broadly, but excluding China. The fund holds roughly 113 securities as of its most recent [fiscal year](/fiscal-year-definition/). The top ten holdings made up about thirty-nine percent of assets, indicating that the portfolio is reasonably concentrated around the manager's highest-conviction picks.
 
 As for geography, nearly ninety-nine percent of the portfolio is invested in foreign issues, spread across Asia, Latin America, and other emerging regions that stand to benefit from manufacturing relocation and supply chain [diversification](/diversification/). The manager seeks companies positioned to benefit both from growth within emerging markets themselves and from the specific trend of deglobalization and supply-chain reorientation.
 

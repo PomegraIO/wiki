@@ -39,7 +39,7 @@ NewHold's move toward a nuclear technology company suggests that the SPAC's capi
 
 The announcement of a merger triggers a shareholder vote in which NewHold public shareholders can approve or redeem their shares at [net asset value](/net-asset-value/). The PIPE investors represent significant capital committed to staying in the deal post-close, which signals confidence from institutional backers but also creates a dynamic in which traditional SPAC shareholders (who often view SPACs as short-term vehicles) face pressure to exit at NAV if they doubt the nuclear energy thesis.
 
-The transaction must clear customary [closing conditions](/closing-condition/) and obtain regulatory approvals before completing, a process typically taking several months. The final terms and timing will be disclosed in NewHold's merger proxy statement, filed with the [Securities and Exchange Commission](/securities-and-exchange-commission/), which contains newcleo's financial projections, the combined capital structure, and details of the PIPE financing.
+The transaction must clear customary [closing conditions](/closing-condition/) and obtain regulatory approvals before completing, a process typically taking several months. The final terms and timing will be disclosed in NewHold's merger [proxy statement](/proxy-statement/), filed with the [Securities and Exchange Commission](/securities-and-exchange-commission/), which contains newcleo's financial projections, the combined capital structure, and details of the PIPE financing.
 
 ## Research considerations
 

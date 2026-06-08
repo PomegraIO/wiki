@@ -27,9 +27,9 @@ Rockwool is a global manufacturer of stone-wool insulation and fire-protection p
 
 ## The depository structure and what it means
 
-RCWBY is a depositary receipt — an American security that represents ownership of shares in the underlying Danish company, Rockwool A/S. Depository receipts allow American investors to hold foreign stocks in dollar form, with the depositary (typically a large bank) holding the actual shares in custody abroad. The economic exposure is identical to owning Rockwool directly, but the convenience and tax treatment differ. Understanding RCWBY means understanding both the depository mechanics and the Danish industrial company underneath.
+RCWBY is a [depositary receipt](/depositary-receipt/) — an American security that represents ownership of shares in the underlying Danish company, Rockwool A/S. Depository receipts allow American investors to hold foreign stocks in dollar form, with the depositary (typically a large bank) holding the actual shares in custody abroad. The economic exposure is identical to owning Rockwool directly, but the convenience and tax treatment differ. Understanding RCWBY means understanding both the depository mechanics and the Danish industrial company underneath.
 
-Rockwool A/S trades on the [Nasdaq](/nasdaq/) Copenhagen exchange in Danish kroner. The depository receipt moves in lockstep with that security, though currency fluctuations between the Danish krone and the [US dollar](/us-dollar/) will shift the dollar-value of RCWBY independent of company performance. A weak dollar makes dollar-investors' returns on RCWBY better; a strong dollar works the other way.
+Rockwool A/S trades on the [Nasdaq](/nasdaq/) Copenhagen exchange in Danish kroner. The depository receipt moves in lockstep with that security, though currency fluctuations between the [Danish krone](/danish-krone/) and the [US dollar](/us-dollar/) will shift the dollar-value of RCWBY independent of company performance. A weak dollar makes dollar-investors' returns on RCWBY better; a strong dollar works the other way.
 
 ## A three-segment capital flow
 
@@ -47,9 +47,9 @@ Distributions to shareholders historically take the form of dividends and occasi
 
 ## Competitive moat and capital intensity
 
-Stone-wool insulation is not a proprietary product. Any competent manufacturer can produce it, and the recipe is well understood. Rockwool's competitive position rests on scale, geographic footprint, manufacturing efficiency, and brand trust with builders and contractors. A large player with efficient plants in key markets can price below smaller competitors and still earn acceptable returns. That scale advantage is a real, but fragile moat — it requires continuous capital investment to maintain low-cost production and defend market share.
+Stone-wool insulation is not a proprietary product. Any competent manufacturer can produce it, and the recipe is well understood. Rockwool's competitive position rests on scale, geographic footprint, manufacturing efficiency, and brand trust with builders and contractors. A large player with efficient plants in key markets can price below smaller competitors and still earn acceptable returns. That scale advantage is a real, but fragile moat — it requires continuous capital investment to maintain low-cost production and defend market [share.
 
-Capital intensity is both a moat and a burden. The upfront cost of building a modern stone-wool plant is substantial, which deters new entrants. But that same heavy capital base means existing players must generate returns sufficient to justify past investment and fund future maintenance. A cyclical downturn can leave Rockwool with underutilized capacity, which is expensive to carry until demand rebounds. Management's discipline in matching capacity expansion to long-term demand trends (not current-cycle euphoria) is therefore critical to capital efficiency.
+Capital](/share-capital/) intensity is both a moat and a burden. The upfront cost of building a modern stone-wool plant is substantial, which deters new entrants. But that same heavy capital base means existing players must generate returns sufficient to justify past investment and fund future maintenance. A cyclical downturn can leave Rockwool with underutilized capacity, which is expensive to carry until demand rebounds. Management's discipline in matching capacity expansion to long-term demand trends (not current-cycle euphoria) is therefore critical to capital efficiency.
 
 ## The building-code and regulatory backdrop
 

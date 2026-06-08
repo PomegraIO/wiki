@@ -37,7 +37,7 @@ In late 2025, NeoVolta announced a joint venture to build a new battery manufact
 
 The advantage of being large in battery manufacturing is obvious: scale drives cost per kilowatt-hour downward. Tesla's Gigafactory, by moving volume from thousands of units per year to hundreds of thousands, compressed costs and reshaped the market. A company the size of NeoVolta cannot match that — it must survive on higher margins and smaller volumes, or find a differentiated niche (customization, superior reliability, faster delivery) and own it.
 
-The disadvantage is the inverse: NeoVolta is capital-constrained. Any major push — new factory, new product line, major market entry — risks diluting shareholders or requiring high-cost debt. Larger competitors face the same pressures, but they have multiple product lines and geographies to spread risk. NeoVolta's bets are binary.
+The disadvantage is the inverse: NeoVolta is capital-constrained. Any major push — new factory, new product line, major market entry — risks diluting shareholders or requiring high-cost debt. Larger competitors face the same pressures, but they have multiple product lines and geographies to [spread risk](/spread-risk/). NeoVolta's bets are binary.
 
 ## The growth thesis
 

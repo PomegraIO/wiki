@@ -33,7 +33,7 @@ This [diversification](/diversification/) across sectors and security types mean
 
 ## How the fund is capitalized
 
-The fund raises capital through common shares and preferred shares. Common shareholders own the bulk of the residual risk and reward: they receive whatever income and capital appreciation remain after the preferred shareholders have been paid. Preferred shareholders receive a fixed dividend rate, known at issuance, and a senior claim in [liquidation](/liquidation/).
+The fund raises capital through common shares and preferred shares. Common shareholders own the bulk of the [residual risk](/residual-risk/) and reward: they receive whatever income and capital appreciation remain after the preferred shareholders have been paid. Preferred shareholders receive a fixed dividend rate, known at issuance, and a senior claim in [liquidation](/liquidation/).
 
 The split between common and preferred shares affects the fund's leverage and its risk-return profile. A fund with 70% of capital in common shares and 30% in preferred shares carries moderate leverage. The preferred dividend cost, paid from the fund's portfolio income, leaves a residual income that is divided among the common shares. If the portfolio yields 5%, the preferred shares cost 4%, and the 1% spread goes to amplify common-share returns.
 

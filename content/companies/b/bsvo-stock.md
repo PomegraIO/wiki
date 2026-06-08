@@ -39,7 +39,7 @@ Once the quantitative model ranks the universe, the fund selects roughly 80 to 1
 
 ## The volatility trade-off and cyclical behavior
 
-Small-cap value stocks are among the most cyclical instruments in the market. In booms, they outperform spectacularly: a recovering economy drives earnings growth, valuations expand, and the multiple compression that created the discount unwound. In [recessions](/recession/), they collapse first and fall furthest—the combination of smaller cash reserves, tighter credit conditions, and investors' flight to safety hits the small-cap value segment hardest.
+Small-cap value stocks are among the most cyclical instruments in the market. In booms, they outperform spectacularly: a recovering economy drives earnings growth, valuations expand, and the [multiple compression](/multiple-compression/) that created the discount unwound. In [recessions](/recession/), they collapse first and fall furthest—the combination of smaller cash reserves, tighter credit conditions, and investors' flight to safety hits the small-cap value segment hardest.
 
 Over a full economic cycle, this behavior has historically been rewarded: the cheapness of small-cap value at market bottoms has proven prescient, and patient investors who accumulated at trough valuations captured substantial upside. But the path is choppy. An investor holding BSVO through a market downturn will experience sharp losses and may see the fund's [net asset value](/net-asset-value/) fall significantly in a short time. Conversely, the recovery phase often favors precisely this style, as the market reprices cheap, quality-screened small companies.
 

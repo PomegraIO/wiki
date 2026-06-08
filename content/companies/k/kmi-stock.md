@@ -39,7 +39,7 @@ Kinder Morgan's portfolio breaks into three major segments. [Natural gas](/natur
 
 Products pipelines—a smaller but significant segment—carry refined gasoline, diesel, jet fuel, and other liquids. These systems feed the distribution networks that get fuel to gas stations and distributors. They tend to run parallel to natural-gas systems and share some operational advantages; the same company managing both can optimize logistics and reduce redundancy.
 
-The third pillar, CO₂ and other operations, includes both CO₂ pipeline networks (used in enhanced oil recovery and increasingly for carbon capture) and a sprawling terminal and export network. Kinder Morgan operates import facilities for [crude oil](/crude-oil/), LNG regasification terminals on the coasts, bulk-chemical terminals, rail logistics hubs, and warehousing. These terminals are critical junctures where energy moves from tanker to pipeline or vice versa, and fees accumulate on every unit processed.
+The third pillar, CO₂ and other operations, includes both CO₂ pipeline networks (used in enhanced oil recovery and increasingly for carbon capture) and a sprawling terminal and export network. Kinder Morgan operates import facilities for [crude oil](/crude-oil/), [LNG regasification terminals](/lng-regasification-terminal/) on the coasts, bulk-chemical terminals, rail logistics hubs, and warehousing. These terminals are critical junctures where energy moves from tanker to pipeline or vice versa, and fees accumulate on every unit processed.
 
 | Segment | Primary Function | Key Attributes |
 |---------|-----------------|-----------------|
@@ -54,7 +54,7 @@ What separates Kinder Morgan from the commodity roller coaster is structure. Mid
 
 Regulation adds another layer. In the U.S., the Federal Energy Regulatory Commission sets the allowed [return on equity](/return-on-equity/) for interstate natural-gas pipelines and approves tariffs. This means Kinder Morgan cannot freely raise prices, but it also means there's a known framework: if the company invests prudently and operates efficiently, regulators will permit reasonable cost recovery. This regulated utility-like character makes Kinder Morgan attractive to dividend-focused investors seeking stability over volatility.
 
-Canadian operations, particularly around the Trans Mountain pipeline expansion project, introduced geopolitical and political risk. That pipeline's journey from approval through construction to expansion—with involvement from provincial and federal governments, Indigenous consultation requirements, and public controversy—illustrated the vulnerability of even major midstream projects to policy and regulatory shifts.
+Canadian operations, particularly around the Trans Mountain pipeline expansion project, introduced geopolitical and [political risk](/political-risk/). That pipeline's journey from approval through construction to expansion—with involvement from provincial and federal governments, Indigenous consultation requirements, and public controversy—illustrated the vulnerability of even major midstream projects to policy and regulatory shifts.
 
 ## Capital Intensity and Growth Strategy
 

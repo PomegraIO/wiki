@@ -61,4 +61,4 @@ Watch gross margin trends. If margins are shrinking, it suggests either price co
 
 Monitor the pace of vendor [diversification](/diversification/). Does Richardson represent more manufacturers or fewer? Is it losing distribution agreements with key vendors? Those shifts signal whether the company is broadening its moat or seeing it eroded.
 
-Finally, track utilization and order patterns. In a tech-dependent sector, order momentum is a leading indicator of whether customers are investing in new capacity and systems or in maintenance mode. Peak selling typically precedes peak customer spending by several quarters.
+Finally, track utilization and order patterns. In a tech-dependent sector, order momentum is a [leading indicator](/leading-indicator/) of whether customers are investing in new capacity and systems or in maintenance mode. Peak selling typically precedes peak customer spending by several quarters.

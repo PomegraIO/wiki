@@ -56,7 +56,7 @@ SARK trades on the NYSE with reasonable liquidity, [bid-ask spreads](/bid-ask-sp
 
 ## Who this is for (and who it is not)
 
-SARK is appropriate for a trader placing a tactical short-term bet—expecting Ark Innovation to fall over the next few trading sessions and wanting to leverage that view. It is not appropriate for portfolio hedging, not appropriate for timing a market-wide downturn (ARKK can rally alongside a rising market), and absolutely not appropriate for long-term holders. Anyone buying SARK hoping to own it through a market cycle is nearly certain to lose money to volatility decay.
+SARK is appropriate for a trader placing a tactical short-term bet—expecting Ark Innovation to fall over the next few trading sessions and wanting to leverage that view. It is not appropriate for portfolio hedging, not appropriate for timing a market-wide downturn (ARKK can rally alongside a rising market), and absolutely not appropriate for long-term holders. Anyone buying SARK hoping to own it through a [market cycle](/market-cycle/) is nearly certain to lose money to volatility decay.
 
 ## How to research SARK
 

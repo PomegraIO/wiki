@@ -27,7 +27,7 @@ The Irrigated Agriculture segment sells mechanized center-pivot systems, drip ir
 
 In irrigation, Valmont is the world's largest manufacturer of center-pivot systems. The brand is synonymous with the technology, giving the company meaningful pricing power and customer loyalty. Switchin irrigation suppliers is not trivial—farmers must integrate new equipment into existing water and field management practices.
 
-In infrastructure, the company competes in fragmented markets where scale, engineering capability, and supply chain reliability matter. Utility companies and municipalities tend to work with established suppliers, and switching costs are real. The coatings business (primarily protective coatings for steel structures) operates in an even more commoditized segment but benefits from Valmont's breadth—it can offer full-solution packages (structure plus coatings).
+In infrastructure, the company competes in [fragmented markets](/fragmented-market/) where scale, engineering capability, and supply chain reliability matter. Utility companies and municipalities tend to work with established suppliers, and switching costs are real. The coatings business (primarily protective coatings for steel structures) operates in an even more commoditized segment but benefits from Valmont's breadth—it can offer full-solution packages (structure plus coatings).
 
 The company's challenge is not unique: it operates in capital-intensive, margin-conscious industries where customers want scale and consistency. Its advantages rest on engineering reputation, manufacturing scale, and relationships built over decades.
 
@@ -49,12 +49,12 @@ Internationally, Valmont has exposure to foreign markets and foreign currencies,
 
 ## How would someone actually research this company?
 
-Start with the [10-K](/wiki/10-k/) filing, where you will find detailed segment breakdowns, customer concentration, geographic exposure, and capital spending plans. The MD&A (management discussion and analysis) section typically explains margin trends and market dynamics in plain language.
+Start with the [10-K](/wiki/10-k/) filing, where you will find detailed segment breakdowns, customer concentration, geographic exposure, and capital spending plans. The MD&A ([management discussion and analysis](/management-discussion-and-analysis/)) section typically explains margin trends and market dynamics in plain language.
 
 Watch the irrigation segment closely—it is where earnings surprise most often happen. Commodity prices, farmer sentiment indices, and region-specific weather patterns are inputs that affect demand. Trade publications covering agriculture and farm equipment offer early signals.
 
 For infrastructure, pay attention to public infrastructure spending announcements and utility capex guidance. Annual earnings calls reveal management's view of the supply-demand balance and pricing environment in utility and telecom.
 
-Valmont's [stock](/wiki/stock/) is followed by industrial and agricultural equipment analysts. Their reports often provide context on market cycles and competitive positioning. Compare Valmont's margins and return on capital to competitors like [CNH Industrial](/cnh-stock/) (in farming equipment) and companies like AZZ, Koppers, or smaller infrastructure fabricators to understand relative competitive standing.
+Valmont's [stock](/wiki/stock/) is followed by industrial and agricultural equipment analysts. Their reports often provide context on [market cycles](/market-cycle/) and competitive positioning. Compare Valmont's margins and return on capital to competitors like [CNH Industrial](/cnh-stock/) (in farming equipment) and companies like AZZ, Koppers, or smaller infrastructure fabricators to understand relative competitive standing.
 
 The company trades on the [stock exchange](/wiki/stock-exchange/) with reasonable liquidity, and [balance sheet](/balance-sheet/) strength—debt levels, [cash flow conversion](/cash-flow-conversion/), capex intensity—should be part of any analysis. Valmont is not a high-growth story; it is a mature, dividend-paying industrial company competing in stable but cyclical end markets.

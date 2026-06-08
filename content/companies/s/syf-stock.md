@@ -35,7 +35,7 @@ The spread between interest earned on loans and the cost of funding determines t
 
 ## Credit quality and the economy
 
-Synchrony's returns are extremely sensitive to the consumer credit cycle. In a strong economy, when unemployment is low and household incomes are rising, people don't default; credit losses are minimal. In a [recession](/recession/), when unemployment rises and incomes fall, defaults spike. Someone who missed a payment on their store credit card during a job loss is a loss that Synchrony has to take.
+Synchrony's returns are extremely sensitive to the consumer [credit cycle](/credit-cycle/). In a strong economy, when unemployment is low and household incomes are rising, people don't default; credit losses are minimal. In a [recession](/recession/), when unemployment rises and incomes fall, defaults spike. Someone who missed a payment on their store credit card during a job loss is a loss that Synchrony has to take.
 
 Because much of Synchrony's business is consumer credit (not corporate or commercial), it has direct exposure to the health of the consumer economy. A recession that makes headlines will often hit Synchrony's numbers measurably within months. This makes Synchrony a cyclical stock—profits are strong in economic expansions, weak in downturns.
 
@@ -49,7 +49,7 @@ Synchrony is also concentrated among large retailers. Amazon, Home Depot, Lowe's
 
 Start with the quarterly earnings releases and the annual 10-K (SEC CIK 0001601712). Look at the loan portfolio composition: How much is auto, how much retail credit cards, how much personal loans? What is the average interest rate charged on each type? What is the funding mix—what percentage of loans is securitised versus held on [balance sheet](/balance-sheet/), what interest rate is Synchrony paying on its debt?
 
-Watch the [delinquency](/delinquency/) and charge-off rates—these are leading indicators of credit losses. If delinquencies are rising (customers missing payments), charge-offs will follow months later (loans written off as uncollectible). In a strong economy, delinquencies should be stable or declining; in a recession, they rise sharply.
+Watch the [delinquency](/delinquency/) and charge-off rates—these are [leading indicators](/leading-indicator/) of credit losses. If delinquencies are rising (customers missing payments), charge-offs will follow months later (loans written off as uncollectible). In a strong economy, delinquencies should be stable or declining; in a recession, they rise sharply.
 
 Monitor the loan origination volume and the average FICO scores of customers (Synchrony publishes this). Are volumes growing or shrinking? Are credit standards loosening (lower FICO scores approve, riskier customers) or tightening? Loosening standards can boost short-term profitability but invite losses later.
 

@@ -28,7 +28,7 @@ handwritten: true
 
 ## Origin and the rise of alternative-income strategies
 
-Global X emerged in the 2000s as a specialized ETF issuer, building products around themes and strategies rather than broad market indices. ALTY began as a natural extension of the income-investing category. After the 2008 financial crisis, [central banks](/central-bank/) kept [interest rates](/interest-rate/) near zero for years, pushing dividend-seeking investors into a hunt for yield. Dividend stocks became crowded and expensive. Meanwhile, more sophisticated income tools—covered calls, preferred stock, and structured products—offered ways to generate cash without bidding up the price of traditional dividend-growth stocks.
+Global X emerged in the 2000s as a specialized ETF issuer, building products around themes and strategies rather than broad market indices. ALTY began as a natural extension of the income-investing category. After the 2008 financial crisis, [central banks](/central-bank/) kept [interest rates](/interest-rate/) near zero for years, pushing dividend-seeking investors into a hunt for yield. Dividend stocks became crowded and expensive. Meanwhile, more sophisticated income tools—covered calls, preferred stock, and [structured products](/structured-product/)—offered ways to generate cash without bidding up the price of traditional dividend-growth stocks.
 
 ALTY launched to offer a portfolio combining these tools within a single, tax-efficient wrapper. The fund's underlying philosophy is pragmatic: income is income, regardless of its source. If covered calls, preferred stock, and direct equity dividends can all contribute cash to a monthly distribution, the combination creates more income than any single approach alone.
 
@@ -38,7 +38,7 @@ The fund's core approach is an actively managed stock portfolio paired with a co
 
 Preferred stock comprises another major income source. Preferred stock sits between common equity and [bonds](/bond/) in the capital structure. It carries a fixed payment (like a coupon) and senior claim on assets compared to [common stock](/common-stock/), but its principal value is not guaranteed like a bond's. Preferred stock typically trades in the 5–8% current-yield range, substantially higher than common [stock dividends](/stock-dividend/).
 
-The fund also holds structured notes—bonds with embedded derivatives that link their returns or payments to underlying assets, indices, or strategies. Some are issued by banks and offer elevated income in exchange for taking [credit risk](/credit-risk/) on the issuer.
+The fund also holds structured notes—bonds with [embedded derivatives](/embedded-derivative/) that link their returns or payments to underlying assets, indices, or strategies. Some are issued by banks and offer elevated income in exchange for taking [credit risk](/credit-risk/) on the issuer.
 
 ## Composition and risk
 

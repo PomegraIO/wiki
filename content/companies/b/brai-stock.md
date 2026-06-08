@@ -41,7 +41,7 @@ This commoditization is the defining feature of Braiin's lifecycle stage. The co
 
 Scaling a mining operation requires massive capital. Building a megawatt-scale facility, acquiring the hardware, and securing power contracts demands tens to hundreds of millions of dollars. Most mining companies in Braiin's position are either venture-backed, publicly traded (selling equity), or highly leveraged. Braiin, as a public company, has access to capital-markets funding, but that funding is available at whatever valuation and dilution the market deems appropriate—which in a cryptocurrency-sensitive market, can swing wildly.
 
-A mining company's [balance-sheet](/balance-sheet/) will show substantial fixed-asset in property, plant, and equipment (mining facilities and hardware). If the company has taken debt (secured against those assets), then a sharp drop in Bitcoin price (which collapses mining revenues) combined with falling equipment values (because used ASICs are worth almost nothing) can create a [liquidity crisis](/liquidity-crisis/). The company may be forced to sell equipment at distressed prices or restructure debt.
+A mining company's [balance-sheet](/balance-sheet/) will show substantial fixed-asset in [property, plant, and equipment](/property-plant-equipment/) (mining facilities and hardware). If the company has taken debt (secured against those assets), then a sharp drop in Bitcoin price (which collapses mining revenues) combined with falling equipment values (because used ASICs are worth almost nothing) can create a [liquidity crisis](/liquidity-crisis/). The company may be forced to sell equipment at distressed prices or restructure debt.
 
 ## The Transition to Maturity: Scale or Stagnation
 
@@ -51,7 +51,7 @@ The alternative—stagnation—is the slow decline path. A mining company that c
 
 ## The Regulatory and Reputational Gauntlet
 
-Bitcoin mining's energy consumption (roughly equivalent to the electricity use of a large nation) has drawn scrutiny from environmental regulators and policymakers. Some jurisdictions have implemented outright bans or are considering them. Simultaneously, Bitcoin's association with illicit finance, price manipulation, and speculative excess means that mining companies face reputational risk and potential regulatory action in countries where ESG concerns (environmental, social, governance) are politically salient.
+Bitcoin mining's energy consumption (roughly equivalent to the electricity use of a large nation) has drawn scrutiny from environmental regulators and policymakers. Some jurisdictions have implemented outright bans or are considering them. Simultaneously, Bitcoin's association with illicit finance, price manipulation, and speculative excess means that mining companies face [reputational risk](/reputational-risk/) and potential regulatory action in countries where ESG concerns (environmental, social, governance) are politically salient.
 
 Braiin must navigate this political and regulatory landscape by either advocating for mining-friendly policy, relocating to jurisdictions with permissive regulation, or achieving such technological efficiency and renewable-energy integration that it can operate profitably under tighter regulation. Each path carries risks: advocacy is reactive and slow, relocation consumes capital and introduces geopolitical risk, and efficiency improvements have limits.
 

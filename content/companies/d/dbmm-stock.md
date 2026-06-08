@@ -49,7 +49,7 @@ The company's competitive positioning depends partly on staying current with mar
 
 DBMM's work intersects multiple regulatory domains: advertising claims are overseen by the FTC; data privacy in service of customer targeting is regulated by state and federal law; email marketing falls under CAN-SPAM; and affiliate marketing is policed by various authorities. The company's filings acknowledge this compliance footprint and note that violations could result in fines, reputational damage, or client termination.
 
-The company's exposure to client conduct is also disclosed. If a client makes false advertising claims and DBMM helped execute the campaign, the firm faces reputational and potential legal risk. The filings address this through contractual indemnification clauses and client vetting, though full protection is impossible.
+The company's exposure to client conduct is also disclosed. If a client makes false advertising claims and DBMM helped execute the campaign, the firm faces reputational and potential [legal risk](/legal-risk/). The filings address this through contractual indemnification clauses and client vetting, though full protection is impossible.
 
 ## Geographic Footprint and Growth Constraints
 

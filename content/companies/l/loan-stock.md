@@ -25,7 +25,7 @@ This is the customer problem Manhattan Bridge solves. The borrower is not broke 
 
 A real-estate developer or property owner in New York discovers Manhattan Bridge through referrals from [brokers](/broker/), attorneys, and other lenders. The lender has built relationships in the New York commercial real-estate community over decades. When a borrower needs capital on a non-standard timeline—too fast for a bank, but too cheap to justify a second mortgage or a hard-money lender—Manhattan Bridge is a middle path.
 
-The customer evaluation is straightforward. A borrower (usually a real-estate company or developer with track record) proposes a deal: property location, purchase price, source of repayment (sale, refinance, operations), and timeline. Manhattan Bridge underwrites: location, comparable comps, borrower experience, equity cushion, and exit strategy. If the property is in an appreciating market (Manhattan, Brooklyn, Queens), if the borrower has done similar deals, and if equity is at least 20–30%, the loan is likely. If the property is in a declining area, the borrower is inexperienced, or equity is thin, the lender will decline or offer a smaller loan at higher rates.
+The customer evaluation is straightforward. A borrower (usually a real-estate company or developer with track record) proposes a deal: property location, purchase price, source of repayment (sale, refinance, operations), and timeline. Manhattan Bridge underwrites: location, comparable comps, borrower experience, [equity cushion](/equity-cushion/), and exit strategy. If the property is in an appreciating market (Manhattan, Brooklyn, Queens), if the borrower has done similar deals, and if equity is at least 20–30%, the loan is likely. If the property is in a declining area, the borrower is inexperienced, or equity is thin, the lender will decline or offer a smaller loan at higher rates.
 
 The entire process, from application to approval, is 7–10 days. The cost of this speed and flexibility is a 10–15% interest rate, potentially plus points (1–3% origination fee). Over 12 months, a $8 million loan at 12% + 2% origination is $1.08 million in interest and fees—a significant expense, but justified if the alternative is missing the deal or using expensive mezzanine debt.
 
@@ -39,7 +39,7 @@ Manhattan Bridge's customer base is narrowly concentrated: real-estate developer
 - Willing to pay 10–15% rates in exchange for certainty and speed
 - Expecting to exit the loan within 12–24 months via sale or refinance
 
-The borrower is NOT a speculative homeowner, a credit-impaired individual, or a first-time real-estate investor. Manhattan Bridge lends to businesses with assets, operating cash flow, and the sophistication to manage a bridge loan.
+The borrower is NOT a speculative homeowner, a credit-impaired individual, or a first-time real-estate investor. Manhattan Bridge lends to businesses with assets, operating cash flow, and the sophistication to manage a [bridge loan](/bridge-loan-real-estate/).
 
 ## The Business Model: Interest Income and Credit Risk
 
@@ -59,7 +59,7 @@ This geographic focus also limits scale. Manhattan Bridge can never be a large l
 
 Real-estate lending is cyclical. When property markets boom (rising rents, strong sales comps), borrowers exit loans as planned and losses are minimal. When property markets slide, borrowers extend hold periods, refinances fail, and defaults spike. Manhattan Bridge faces this cycle risk directly. A [recession](/recession/) or property-market crash in New York would compress the lender's margins (borrowers demand lower rates) and spike losses.
 
-Additionally, the lender faces competition from hard-money lenders (10–18% rates, 2–5 points), mezzanine funds, and increasingly, from banks offering faster underwriting and lower rates. If a borrower can get bank financing at 7% in 30 days instead of 12% in 10 days with Manhattan Bridge, some borrowers will wait for the bank. Manhattan Bridge's value proposition erodes as bank underwriting speeds up.
+Additionally, the lender faces competition from hard-money lenders (10–18% rates, 2–5 points), [mezzanine funds](/mezzanine-fund/), and increasingly, from banks offering faster underwriting and lower rates. If a borrower can get bank financing at 7% in 30 days instead of 12% in 10 days with Manhattan Bridge, some borrowers will wait for the bank. Manhattan Bridge's value proposition erodes as bank underwriting speeds up.
 
 ## Researching Manhattan Bridge Capital from a Borrower's Perspective
 

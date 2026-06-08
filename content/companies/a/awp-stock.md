@@ -22,7 +22,7 @@ Unlike an open-end fund where new investors can buy in and old investors can red
 
 ## What it owns
 
-The fund invests at least 80% of its managed assets in real estate equities and debt. That means it holds property stocks — REITs and real estate companies of all stripes — alongside mortgages and [bonds](/bond/) backed by property. The portfolio spans global markets: US office, retail, residential, and industrial property; European and Asia-Pacific real estate; and specialty plays like data centers and logistics hubs. A portfolio this diversified by property type and geography is designed to smooth volatility across the real estate cycle and provide broad real estate exposure without forcing the investor to pick individual properties or markets.
+The fund invests at least 80% of its managed assets in real estate equities and debt. That means it holds property stocks — REITs and real estate companies of all stripes — alongside mortgages and [bonds](/bond/) backed by property. The portfolio spans global markets: US office, retail, residential, and industrial property; European and Asia-Pacific real estate; and specialty plays like data centers and logistics hubs. A portfolio this diversified by property type and geography is designed to smooth volatility across the [real estate cycle](/real-estate-cycle/) and provide broad real estate exposure without forcing the investor to pick individual properties or markets.
 
 ## The monthly distribution story
 
@@ -40,7 +40,7 @@ The fund's narrow premium to net asset value (0.27% in April 2026) is relatively
 
 ## Costs and alpha
 
-Like all [actively managed funds](/actively-managed-fund/), AWP charges an [expense ratio](/expense-ratio/) for management and administration. Alpine is the named advisor, and that active management comes at a cost. The question for any shareholder is whether the active selection and geographic diversification Alpine provides justifies the fee — that is, whether the fund can beat a simple real estate [index fund](/index-fund/). Over a full market cycle, that is the true measure. In years when property stocks underperform, the fees are a drag; in years when Alpine's selections outperform, the fees are a bargain.
+Like all [actively managed funds](/actively-managed-fund/), AWP charges an [expense ratio](/expense-ratio/) for management and administration. Alpine is the named advisor, and that active management comes at a cost. The question for any shareholder is whether the active selection and geographic diversification Alpine provides justifies the fee — that is, whether the fund can beat a simple real estate [index fund](/index-fund/). Over a full [market cycle](/market-cycle/), that is the true measure. In years when property stocks underperform, the fees are a drag; in years when Alpine's selections outperform, the fees are a bargain.
 
 ## What to track
 

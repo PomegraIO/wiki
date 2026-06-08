@@ -53,11 +53,11 @@ Beyond timber, Weyerhaeuser has increasingly pivoted to monetizing its land port
 
 Weyerhaeuser's REIT status is central to its identity and appeal. REITs pay no [corporate income tax](/corporate-income-tax/) if they distribute at least 90% of taxable income to shareholders; in return, they cannot engage in many non-real-estate businesses and face passive-income restrictions. This structure has made Weyerhaeuser a dividend darling—it typically yields 3–5%, paying out consistently even through commodity downturns (because timberland appreciation and [depreciation](/depreciation/) accounting can create tax losses that reduce taxable income). Dividend investors prize this reliability.
 
-The tradeoff: Weyerhaeuser has less financial flexibility than a C corporation. It cannot accumulate large cash reserves for [acquisitions](/acquisition/), major capital expansion, or hedging downturns. Timber downturns can force dividend cuts if taxable income contracts sharply. During the 2008–2009 financial crisis, Weyerhaeuser slashed its dividend; shareholders learned that even "safe" timber REITs are not immune to severe cycles.
+The tradeoff: Weyerhaeuser has less financial flexibility than a C corporation. It cannot accumulate large cash reserves for [acquisitions](/acquisition/), major capital expansion, or hedging downturns. Timber downturns can force dividend cuts if taxable income contracts sharply. During the 2008–2009 financial crisis, Weyerhaeuser slashed its dividend; shareholders learned that even "safe" [timber REITs](/timber-reit/) are not immune to severe cycles.
 
 ## Key Risks and Competitive Pressures
 
-**Commodity price exposure.** Lumber prices swing with housing starts and economic sentiment. A sharp drop in residential construction—triggered by [recession](/recession/) or rising mortgage rates—can crimp log demand and earnings quickly. Global softwood supply from Canada, Russia, and Brazil creates price competition.
+**Commodity price exposure.** Lumber prices swing with [housing starts](/housing-starts/) and economic sentiment. A sharp drop in residential construction—triggered by [recession](/recession/) or rising mortgage rates—can crimp log demand and earnings quickly. Global softwood supply from Canada, Russia, and Brazil creates price competition.
 
 **Forest and climate risks.** Wildfires, disease, pest outbreaks (such as bark beetles), and changing precipitation patterns can damage timber stands, increase management costs, and disrupt harvests. Climate change is already accelerating fire seasons in the U.S. West. Timber REITs are vulnerable to environmental volatility in ways that industrial companies are not.
 

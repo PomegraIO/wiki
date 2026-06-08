@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-SUNation Energy Inc operates in the residential and commercial solar photovoltaic business, designing and installing solar panel systems that generate electricity from sunlight. The company is one of the larger regional solar installers in the United States, competing in a fragmented market where thousands of installers operate independently or as part of larger networks. SUNation's business model centers on selling complete solar systems to homeowners and businesses, financing those systems through various mechanisms, and then servicing the installations over their operational lifetime.
+SUNation Energy Inc operates in the residential and commercial solar photovoltaic business, designing and installing solar panel systems that generate electricity from sunlight. The company is one of the larger regional solar installers in the United States, competing in a [fragmented market](/fragmented-market/) where thousands of installers operate independently or as part of larger networks. SUNation's business model centers on selling complete solar systems to homeowners and businesses, financing those systems through various mechanisms, and then servicing the installations over their operational lifetime.
 
 <aside class="wiki-infobox">
 <table>

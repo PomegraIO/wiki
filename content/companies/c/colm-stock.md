@@ -19,7 +19,7 @@ keywords: ["apparel", "sportswear", "footwear", "retail", "consumer goods"]
 
 Columbia Sportswear traces its roots to the 1930s as a maker of women's apparel in the Pacific Northwest. The brand built itself on technical innovation—waterproof fabrics, insulated layers, purpose-built hiking and skiing gear—rather than fashion. By the 1980s and 1990s, it had transitioned from pure manufacturing to brand ownership and outsourced production, a model that allowed it to scale globally without massive capital investment.
 
-The company went [public](/initial-public-offering/) in 1998, using the capital and currency to acquire complementary brands: Sorel (heavy boots and snow gear), Mountain Hardwear (technical climbing and alpine wear), and Montrail (trail running), creating a portfolio spanning diverse outdoor and athletic niches. This portfolio approach was classic mid-tier apparel-company strategy: spread risk across multiple brand identities, price points, and customer segments, while leveraging a shared supply chain and infrastructure.
+The company went [public](/initial-public-offering/) in 1998, using the capital and currency to acquire complementary brands: Sorel (heavy boots and snow gear), Mountain Hardwear (technical climbing and alpine wear), and Montrail (trail running), creating a portfolio spanning diverse outdoor and athletic niches. This portfolio approach was classic mid-tier apparel-company strategy: [spread risk](/spread-risk/) across multiple brand identities, price points, and customer segments, while leveraging a shared supply chain and infrastructure.
 
 ## The Portfolio Trap
 

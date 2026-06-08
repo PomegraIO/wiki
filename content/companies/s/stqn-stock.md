@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Strategic [Acquisitions](/acquisition/) Inc. /NV/ is a holding company that has built a diversified portfolio of business units through acquisition over decades. Rather than organic growth from a single core business, the company's strategy has been to acquire operating businesses, manage them for cash flow, and deploy the cash generated into new acquisitions. This approach requires deep operational discipline and a clear capital allocation framework, since the company's value depends entirely on whether it can buy businesses at prices below their [intrinsic value](/intrinsic-value/) and improve them over time.
+Strategic [Acquisitions](/acquisition/) Inc. /NV/ is a holding company that has built a diversified portfolio of business units through acquisition over decades. Rather than organic growth from a single core business, the company's strategy has been to acquire operating businesses, manage them for cash flow, and deploy the cash generated into new acquisitions. This approach requires deep operational discipline and a clear [capital allocation framework](/capital-allocation-framework/), since the company's value depends entirely on whether it can buy businesses at prices below their [intrinsic value](/intrinsic-value/) and improve them over time.
 
 <aside class="wiki-infobox">
 <table>

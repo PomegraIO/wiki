@@ -38,7 +38,7 @@ Third, **direct venture and growth-equity financing** remains the dominant path 
 
 Critically, **even if ETSS successfully identifies and acquires a high-quality energy transition operator, the SPAC's competitive advantages disappear upon closing**. The acquired company becomes a public entity subject to the same capital markets scrutiny, competitive pressures, and industry dynamics as any other public company. The moat that ETSS might have enjoyed (sponsor relationships, capital availability, narrative positioning) is shed at the moment of acquisition.
 
-If ETSS's target is a renewable-energy operator, a battery-technology company, or a carbon-capture startup, that company's actual competitive position depends on its **technology, market share, capital efficiency, and regulatory tailwinds**—not on the fact that it was acquired by a SPAC rather than funded by private equity or venture capital. The transaction structure is economically neutral to the target's long-term defensibility.
+If ETSS's target is a renewable-energy operator, a battery-technology company, or a carbon-capture startup, that company's actual competitive position depends on its **technology, market [share, capital](/share-capital/) efficiency, and regulatory tailwinds**—not on the fact that it was acquired by a SPAC rather than funded by private equity or venture capital. The transaction structure is economically neutral to the target's long-term defensibility.
 
 ## Strategic Implication
 

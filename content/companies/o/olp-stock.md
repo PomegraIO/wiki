@@ -16,7 +16,7 @@ One Liberty Properties is a [real estate investment trust](/real-estate-investme
 
 ## Origin and long-tail strategy
 
-One Liberty was incorporated in the 1980s and has operated as a REIT since 1993, decades into the modern net-lease REIT era. The company has built its portfolio largely through small [acquisitions](/acquisition/) of individual properties and modest portfolios, avoiding the mega-deals that dominate headlines. This long, steady approach has created a diversified base of tenants across retail (drugstores, restaurants, automotive services), office, industrial, and entertainment uses. The strategy is deliberate: by avoiding concentration in any single tenant, industry, or property type, One Liberty aims to lower the impact of any one lessee's distress.
+One Liberty was incorporated in the 1980s and has operated as a REIT since 1993, decades into the modern [net-lease REIT](/net-lease-reit/) era. The company has built its portfolio largely through small [acquisitions](/acquisition/) of individual properties and modest portfolios, avoiding the mega-deals that dominate headlines. This long, steady approach has created a diversified base of tenants across retail (drugstores, restaurants, automotive services), office, industrial, and entertainment uses. The strategy is deliberate: by avoiding concentration in any single tenant, industry, or property type, One Liberty aims to lower the impact of any one lessee's distress.
 
 ## A portfolio anchored by small tenants
 
@@ -46,7 +46,7 @@ One Liberty is tiny by REIT standards. The largest REITs manage tens of billions
 
 Start with the company's quarterly and annual 10-K filings, available on the SEC's EDGAR system. These describe the portfolio in detail, tenant concentration, lease expirations, occupancy rates, and the company's balance sheet and debt profile. Key metrics:
 
-- **Funds from operations (FFO)**, a REIT-specific measure of cash generation, adjusted for non-cash charges. FFO divided by the share price is the effective [earnings yield](/earnings-yield/).
+- **[Funds from operations](/funds-from-operations/) (FFO)**, a REIT-specific measure of cash generation, adjusted for non-cash charges. FFO divided by the share price is the effective [earnings yield](/earnings-yield/).
 - **Debt-to-EBITDA**, which measures solvency and the room to weather a downturn without cutting the dividend.
 - **Occupancy rate**, the proportion of leased versus vacant property.
 - **Lease-expiration schedule**, which reveals when major rents renew and how exposed the company is to tenant loss.

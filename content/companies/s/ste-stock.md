@@ -66,6 +66,6 @@ The competitive field includes Getinge (a Swedish manufacturer), Tuttnauer (base
 
 The annual 10-K filing (SEC CIK 0001757898) breaks revenue and profitability clearly by segment (Products, Healthcare Services, Life Sciences), making it possible to see which businesses are growing and which are under pressure. The filing also discloses backlog for equipment sales and the contract value of service agreements.
 
-Key metrics: the ratio of services revenue to total (higher is more stable and recurring), gross margins by segment, backlog trends, and same-facility growth in the services business. Quarterly earnings calls often include commentary on hospital capital spending trends, infection-control spending, and pharmaceutical manufacturing growth — all leading indicators of future demand for STERIS's offerings.
+Key metrics: the ratio of services revenue to total (higher is more stable and recurring), gross margins by segment, backlog trends, and same-facility growth in the services business. Quarterly earnings calls often include commentary on hospital capital spending trends, infection-control spending, and pharmaceutical manufacturing growth — all [leading indicators](/leading-indicator/) of future demand for STERIS's offerings.
 
 Investors also watch the healthcare spending cycle — when hospital capital budgets are growing, equipment sales accelerate — and regulatory trends around contamination control and infection prevention, which create long-term tailwinds for the company's offerings.

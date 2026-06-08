@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AVXX is a leveraged exchange-traded fund issued by Defiance (a New York-based ETF sponsor) that seeks to deliver twice the daily return of [Teledyne Technologies](/tdy-stock/) ([NASDAQ](/nasdaq/): TDY), an aerospace and industrial-technology company. It uses daily reset mechanics — meaning it rebalances its holdings each morning to target exactly 2x leverage for that trading day — which makes it useful only for traders who hold for hours or a single day, never for buy-and-hold investors.
+AVXX is a leveraged exchange-traded fund issued by Defiance (a New York-based [ETF sponsor](/etf-sponsor/)) that seeks to deliver twice the daily return of [Teledyne Technologies](/tdy-stock/) ([NASDAQ](/nasdaq/): TDY), an aerospace and industrial-technology company. It uses daily reset mechanics — meaning it rebalances its holdings each morning to target exactly 2x leverage for that trading day — which makes it useful only for traders who hold for hours or a single day, never for buy-and-hold investors.
 
 ## What AVXX tracks and how it works
 
@@ -29,7 +29,7 @@ For multi-day or multi-week holding, this decay becomes severe. AVXX is not desi
 
 ## Costs and how it trades
 
-AVXX trades on the NYSE Arca exchange under the ticker AVXX. Its [expense ratio](/expense-ratio/) is relatively high for a standard ETF — typically in the range of 0.95% to 1.20% annually — reflecting the cost of maintaining daily derivatives positions and the fund's operational overhead. That annual cost, combined with volatility decay on longer horizons, makes it unsuitable for buy-and-hold investing.
+AVXX trades on the [NYSE Arca](/nyse-arca/) exchange under the ticker AVXX. Its [expense ratio](/expense-ratio/) is relatively high for a standard ETF — typically in the range of 0.95% to 1.20% annually — reflecting the cost of maintaining daily derivatives positions and the fund's operational overhead. That annual cost, combined with volatility decay on longer horizons, makes it unsuitable for [buy-and-hold investing](/buy-and-hold/).
 
 The fund's [intraday liquidity](/intraday-liquidity/) is generally adequate for small to medium trades, though it is not one of the most heavily traded leveraged ETFs. [Bid-ask spreads](/bid-ask-spread/) can vary; checking the current quote before trading is essential.
 

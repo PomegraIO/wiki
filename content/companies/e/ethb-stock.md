@@ -21,7 +21,7 @@ Ethereum, the second-largest blockchain by [market capitalization](/market-capit
 
 Staking Ethereum means locking up tokens in a validator — either running your own node (requiring technical expertise and continuous uptime) or delegating to a third-party validator (which pools your ether with others). The Ethereum network itself is neutral about where and how that stake runs, as long as the validator software follows protocol rules. For ETHB, BlackRock delegates ether to approved third-party validators — sometimes affiliates of its [custodian](/custodian/), sometimes external staking services — who receive the validator rewards and pass them to the ETF.
 
-The rewards come from two sources: newly issued ether that the network creates as an incentive for securing the blockchain, and a portion of transaction fees paid by users. Both components are variable — issued ether decreases over time by design, and transaction fees depend on network activity. Current annual yields from Ethereum staking range from 2 to 4 percent, depending on total staked ether and network activity, significantly higher than risk-free rates available in [bonds](/bond/).
+The rewards come from two sources: newly issued ether that the network creates as an incentive for securing the blockchain, and a portion of transaction fees paid by users. Both components are variable — issued ether decreases over time by design, and transaction fees depend on network activity. Current annual yields from Ethereum staking range from 2 to 4 percent, depending on total staked ether and network activity, significantly higher than [risk-free rates](/risk-free-rate/) available in [bonds](/bond/).
 
 ## ETHB's operating structure
 
@@ -31,7 +31,7 @@ The ETF maintains a "liquidity sleeve" — a portion of the ether held unstaked 
 
 ## Regulatory evolution and timing
 
-For years, the SEC declined to approve cryptocurrency ETFs with active operational components, even as spot Bitcoin ETFs gained approval in early 2024. Ethereum staking ETFs faced additional scrutiny because staking involves active participation in the network's consensus, creating questions about whether the ETF itself might be considered to be operating a business or a broker-dealer.
+For years, the SEC declined to approve [cryptocurrency ETFs](/cryptocurrency-etf/) with active operational components, even as spot Bitcoin ETFs gained approval in early 2024. Ethereum staking ETFs faced additional scrutiny because staking involves active participation in the network's consensus, creating questions about whether the ETF itself might be considered to be operating a business or a broker-dealer.
 
 In late 2025, under [SEC Chair](/sec-chair/) Paul Atkins, policy shifted. BlackRock filed its Form S-1 in December 2025, seeking approval for ETHB. The application represents a formal embrace by the SEC of the principle that a regulated investment company can hold cryptocurrency, delegate it to validators, and pass rewards through to shareholders without the fund itself being classified as a platform or money transmitter. Approval reflects confidence that third-party staking services can operate safely and that redemption mechanics can work smoothly even when underlying assets are locked in proof-of-stake.
 

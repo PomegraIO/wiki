@@ -39,7 +39,7 @@ Because the portfolio is actively managed, the precise composition changes as th
 
 ## Currency dynamics in an unhedged EM portfolio
 
-RFEM holds stocks in dozens of EM currencies — the Brazilian real, Mexican peso, [Indian rupee](/indian-rupee/), Thai baht, Philippine peso, and many others. The fund is unhedged, so an American investor's returns include both equity performance and currency movement. When EM currencies strengthen against the dollar (often during periods of strong commodity prices or when the Fed is hiking rates less aggressively), RFEM's returns are boosted. When EM currencies weaken, returns suffer. Over long periods, currency exposure tends to correlate with the economic cycle, so investors betting on EM growth often view [currency risk](/currency-risk/) as intrinsic to the opportunity.
+RFEM holds stocks in dozens of EM currencies — the [Brazilian real](/brazilian-real/), [Mexican peso](/mexian-peso/), [Indian rupee](/indian-rupee/), Thai baht, Philippine peso, and many others. The fund is unhedged, so an American investor's returns include both equity performance and currency movement. When EM currencies strengthen against the dollar (often during periods of strong commodity prices or when the Fed is hiking rates less aggressively), RFEM's returns are boosted. When EM currencies weaken, returns suffer. Over long periods, currency exposure tends to correlate with the economic cycle, so investors betting on EM growth often view [currency risk](/currency-risk/) as intrinsic to the opportunity.
 
 ## Expense ratio and active management value
 

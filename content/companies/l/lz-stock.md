@@ -66,7 +66,7 @@ Regulation remains a pressure. FTC scrutiny of subscription transparency and can
 
 The 2021 IPO provided capital but did not immediately unlock rapid growth. The stock has declined from its IPO valuation, reflecting market skepticism about growth rates, unit economics, and regulatory headwinds. The company has pivoted to emphasize subscription conversion, higher-value customer targeting (including trusts and business plans, not just basic LLCs), and integration with accounting and HR platforms. In late 2024 and 2025, subscription growth accelerated, suggesting the pivot is gaining traction.
 
-Management has shifted messaging away from "democratizing legal access" toward "premium legal solutions for small business." This positioning implies higher pricing, fewer but higher-value customers, and less reliance on advertising to drive transaction volume. The strategy is sensible given competitive and regulatory pressures, but execution risk is real. The company must convince existing customers to upgrade to subscriptions and premium services—a retention and expansion challenge that tests execution and product-market fit.
+Management has shifted messaging away from "democratizing legal access" toward "premium legal solutions for small business." This positioning implies higher pricing, fewer but higher-value customers, and less reliance on advertising to drive transaction volume. The strategy is sensible given competitive and regulatory pressures, but [execution risk](/execution-risk/) is real. The company must convince existing customers to upgrade to subscriptions and premium services—a retention and expansion challenge that tests execution and product-market fit.
 
 ## How to Research It
 

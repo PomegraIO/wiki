@@ -24,7 +24,7 @@ keywords:
 
 ## The Japanese Capital Model
 
-Japanese companies are historically conservative with equity issuance and cautious about leverage, reflecting post-bubble balance-sheet discipline and cultural preference for [retained earnings](/retained-earnings/) over external financing. Micware's capital structure likely reflects this pattern: substantial book value per share built from decades of retained earnings, moderate debt relative to equity, and cash reserves held to weather cyclical downturns without forced asset sales or emergency financing. This approach to capital is less aggressive than US peers but more stable and less vulnerable to market disruption.
+Japanese companies are historically conservative with equity issuance and cautious about leverage, reflecting post-bubble balance-sheet discipline and cultural preference for [retained earnings](/retained-earnings/) over external financing. Micware's capital structure likely reflects this pattern: substantial [book value per share](/book-value-per-share/) built from decades of retained earnings, moderate debt relative to equity, and cash reserves held to weather cyclical downturns without forced asset sales or emergency financing. This approach to capital is less aggressive than US peers but more stable and less vulnerable to market disruption.
 
 ## Asset-Heavy Business and Depreciation
 

@@ -37,7 +37,7 @@ A crucial ingredient in Louisiana-Pacific's operations is the raw material base.
 
 Louisiana-Pacific lives and dies with the U.S. housing and construction cycle. When homebuilding is brisk, demand for sheathing and framing components surges, allowing the company to operate at high capacity and capture strong margins. When construction slows — during [recessions](/recession/) or when mortgage rates spike or affordability collapses — demand evaporates. This is not a steady-state business: it is a cyclical industrial company that must manage boom and bust.
 
-The company's profitability depends on three variables working in its favour simultaneously: strong housing starts, adequate prices for its products (which depend on supply and demand balance across the industry), and reasonable input costs. If any one of these breaks, margins compress. When two break at once, the company moves toward breakeven or losses. Because OSB is a commodity product with multiple suppliers, Louisiana-Pacific cannot reliably hold price increases in the face of weak demand. It can reduce production and capital investment — which it does — but the cost base is large and fixed.
+The company's profitability depends on three variables working in its favour simultaneously: strong [housing starts](/housing-starts/), adequate prices for its products (which depend on supply and demand balance across the industry), and reasonable input costs. If any one of these breaks, margins compress. When two break at once, the company moves toward breakeven or losses. Because OSB is a commodity product with multiple suppliers, Louisiana-Pacific cannot reliably hold price increases in the face of weak demand. It can reduce production and capital investment — which it does — but the cost base is large and fixed.
 
 This cycle is most acute in North America, where the company's products are sold almost entirely. International expansion has been modest and fraught, limiting any ability to hedge regional weakness.
 
@@ -59,7 +59,7 @@ Research into Louisiana-Pacific as an equity investment centres on forward visib
 
 ## Competitive and structural pressures
 
-Louisiana-Pacific operates in a competitive industry with other large panel makers. Weyerhaeuser and other timber REITs also supply raw materials and compete in some product lines. The company competes on cost, availability, and product innovation, but price is usually the decisive factor in a commodity downturn.
+Louisiana-Pacific operates in a competitive industry with other large panel makers. Weyerhaeuser and other [timber REITs](/timber-reit/) also supply raw materials and compete in some product lines. The company competes on cost, availability, and product innovation, but price is usually the decisive factor in a commodity downturn.
 
 A longer-term structural risk is the supply of timberland and forestry assets. Consolidation of timber ownership, environmental regulation of harvesting, and shifts in land use all bear on input costs and supply. The company must also navigate energy costs for processing and transportation.
 

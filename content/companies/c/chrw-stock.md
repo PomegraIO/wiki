@@ -23,7 +23,7 @@ The company also diversified across transportation modes. It started with trucki
 
 ## What the financials reveal
 
-Revenue at Robinson comes from several places. Gross profit — the spread between what the company pays carriers and what it charges shippers — is the most important. That spread varies by mode, by geography, and by market conditions. When trucking capacity is tight and spot rates (the price for a single shipment on the open market) are high, carriers can demand more of Robinson's spread. When capacity is abundant and rates are weak, Robinson can negotiate tighter carriers into lower prices and keep the margin. Those swings are significant for profitability.
+Revenue at Robinson comes from several places. Gross profit — the spread between what the company pays carriers and what it charges shippers — is the most important. That spread varies by mode, by geography, and by market conditions. When trucking capacity is tight and [spot rates](/spot-rate/) (the price for a single shipment on the open market) are high, carriers can demand more of Robinson's spread. When capacity is abundant and rates are weak, Robinson can negotiate tighter carriers into lower prices and keep the margin. Those swings are significant for profitability.
 
 Network and other services revenue — software subscriptions, data services, analytics, and consulting — is a smaller but faster-growing piece. This revenue is higher-margin and more recurring than brokerage, which is why Robinson has been emphasizing it. The growth is real, though still dwarfed by brokerage.
 

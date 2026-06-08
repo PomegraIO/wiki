@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Calamos [Bitcoin](/bitcoin/) Structured Alt Protection ETF - October (CBOO) launched on October 7, 2025, and it is Calamos's second annual-reset bitcoin structured product, following the success of its January sibling (CBOJ). Where CBOJ protects investors against losses exceeding 10 percent, CBOO goes further: it delivers 100 percent downside protection, meaning zero loss if bitcoin falls any amount during the outcome period, paired with a capped upside gain if bitcoin rises. The product resets every October, creating a new one-year outcome period at whatever cap and protection levels prevail in the market at that moment.
+Calamos [Bitcoin](/bitcoin/) Structured Alt Protection ETF - October (CBOO) launched on October 7, 2025, and it is Calamos's second annual-reset bitcoin [structured product](/structured-product/), following the success of its January sibling (CBOJ). Where CBOJ protects investors against losses exceeding 10 percent, CBOO goes further: it delivers 100 percent downside protection, meaning zero loss if bitcoin falls any amount during the outcome period, paired with a capped upside gain if bitcoin rises. The product resets every October, creating a new one-year outcome period at whatever cap and protection levels prevail in the market at that moment.
 
 <aside class="wiki-infobox">
 <table>

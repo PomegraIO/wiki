@@ -4,7 +4,7 @@ description: "Micro-cap technology or equipment firm with limited trading volume
 keywords: ["micro-cap", "liquidity", "emerging company", "execution risk", "small-cap"]
 ---
 
-*ENDI Corp., a micro-capitalization public company, operates with limited analyst coverage and minimal free-float trading volume. The firm's disclosures via SEC filings are sparse and often technical; the business model, if it can be meaningfully assessed from available information, carries the concentrated execution risk of early-stage ventures combined with the reporting rigors and capital constraints of public ownership.*
+*ENDI Corp., a micro-capitalization public company, operates with limited analyst coverage and minimal free-float trading volume. The firm's disclosures via SEC filings are sparse and often technical; the business model, if it can be meaningfully assessed from available information, carries the concentrated [execution risk](/execution-risk/) of early-stage ventures combined with the reporting rigors and capital constraints of public ownership.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>ENDI</td></tr>

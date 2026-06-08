@@ -41,7 +41,7 @@ This separation is critical to Sunstone's business model. It means Sunstone capt
 
 Sunstone's management argues that the company can extract value by timing [acquisitions](/acquisition/) and sales, upgrading properties, improving operator performance, and repositioning assets. In practice, this means buying hotels at depressed valuations during downturns (when other owners are desperate to sell), reinvesting capital to refresh them, operating them through the recovery, and exiting at peak valuations. Hotel cycles are predictable enough that active managers with capital can theoretically do well: buy low, sell high, and use the operating income in between to pay distributions to shareholders and fund future acquisitions.
 
-The strategy requires both luck and skill: you must have capital and appetite to buy in crises, you must manage operators and capital deployment well, and you must not get trapped holding assets when the next cycle turns. Many REITs become passive collectors of income; Sunstone positions itself as an active trader in real estate cycles.
+The strategy requires both luck and skill: you must have capital and appetite to buy in crises, you must manage operators and capital deployment well, and you must not get trapped holding assets when the next cycle turns. Many REITs become passive collectors of income; Sunstone positions itself as an active trader in [real estate cycles](/real-estate-cycle/).
 
 ## Geographic and brand diversification
 
@@ -63,6 +63,6 @@ The COVID-19 pandemic hit the hospitality sector hard; Sunstone navigated it thr
 
 ## How to research Sunstone as an investment
 
-Begin with Sunstone's quarterly and annual SEC filings (CIK 0001295810) to track occupancy rates, average daily rates, revenue per available room (RevPAR), and funds from operations — the REIT metric that matters most. Compare those metrics year-over-year and cycle-to-cycle to understand whether Sunstone's portfolio is strengthening or weakening and how the company is managing the cycle.
+Begin with Sunstone's quarterly and annual SEC filings (CIK 0001295810) to track occupancy rates, average daily rates, revenue per available room (RevPAR), and [funds from operations](/funds-from-operations/) — the REIT metric that matters most. Compare those metrics year-over-year and cycle-to-cycle to understand whether Sunstone's portfolio is strengthening or weakening and how the company is managing the cycle.
 
 Watch for operator changes: if Sunstone is frequently terminating leases or renegotiating terms, it may indicate that operators are struggling. Also track leverage, debt maturities, and refinancing activity — a spike in debt maturity schedule or rising [interest rates](/interest-rate/) can squeeze a highly leveraged REIT. Finally, monitor hotel development and supply in Sunstone's key markets; new hotel openings in the same brand and market compete directly for guests and can depress operator economics. The distribution yield (annual [dividend](/dividend/) divided by share price) and the coverage ratio (can operations sustain it?) are also key — a high yield that is not backed by operating cash flow is a red flag.

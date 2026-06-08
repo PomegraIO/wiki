@@ -35,7 +35,7 @@ The margin compression is the core risk: as deposit costs rise, profitability fa
 
 ## Geographic Concentration and Economic Dependency
 
-CFFN's deposits and mortgages are concentrated in the Great Plains—Kansas, Oklahoma, Texas, and neighboring states. This region has diverse employment (agriculture, oil & gas, manufacturing, services) but is less economically dynamic than coasts. Home price appreciation in the Great Plains is slower than in coastal markets; this reduces the equity cushion for mortgagees and limits refinancing equity extraction (borrowers cannot pull cash out of home equity if prices are flat or falling).
+CFFN's deposits and mortgages are concentrated in the Great Plains—Kansas, Oklahoma, Texas, and neighboring states. This region has diverse employment (agriculture, oil & gas, manufacturing, services) but is less economically dynamic than coasts. Home price appreciation in the Great Plains is slower than in coastal markets; this reduces the [equity cushion](/equity-cushion/) for mortgagees and limits refinancing equity extraction (borrowers cannot pull cash out of home equity if prices are flat or falling).
 
 During commodity downturns (agricultural prices crash, oil prices collapse), Great Plains economies suffer disproportionately. Employment falls, home prices soften, and mortgage defaults spike. CFFN's portfolio is therefore more exposed to commodity cycles than a national lender. A severe agricultural downturn could trigger elevated delinquencies and losses across CFFN's portfolio simultaneously.
 

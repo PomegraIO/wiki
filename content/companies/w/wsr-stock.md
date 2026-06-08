@@ -24,7 +24,7 @@ The value of a shopping-center REIT rests on the quality and stability of its te
 
 Tenant quality matters enormously. If Whitestone's largest anchor tenant is a well-capitalized grocery chain with a long track record of profitability, rents are safer and the property more valuable. If a primary tenant is a weaker operator or a chain under competitive pressure, the property's cash flow becomes fragile. The lease terms also matter: a 10-year lease with fixed annual increases is more stable than a shorter lease where the tenant can walk away or force a negotiation. A high percentage of month-to-month tenants creates volatility.
 
-The mix of tenants shapes the center's resilience. Whitestone's emphasis on necessity-based retail—grocery stores, pharmacies, health services—proved particularly valuable during economic [recessions](/recession/) and the pandemic, when consumer demand for these categories held up while discretionary retail suffered. Conversely, a center heavy in clothing, furniture, or other discretionary categories would have experienced higher vacancy rates and greater pressure to cut rents during downturns.
+The mix of tenants shapes the center's resilience. Whitestone's emphasis on necessity-based retail—grocery stores, pharmacies, health services—proved particularly valuable during economic [recessions](/recession/) and the pandemic, when consumer demand for these categories held up while discretionary retail suffered. Conversely, a center heavy in clothing, furniture, or other discretionary categories would have experienced higher [vacancy rates](/vacancy-rate-property/) and greater pressure to cut rents during downturns.
 
 ## What drives economic returns and dividends?
 

@@ -49,7 +49,7 @@ The company cannot solve this problem because both sides of it are baked into th
 
 ## Leverage cuts both ways
 
-Annaly uses a lot of leverage — it might borrow $8 or $9 for every $1 of shareholders' equity it raises. That leverage multiplies the profits when things go well. But it also multiplies the losses when things go badly. If the bonds drop 2 percent in value, that 2 percent swing does not affect the $1 of equity — it devastates it.
+Annaly uses a lot of leverage — it might borrow $8 or $9 for every $1 of [shareholders' equity](/shareholders-equity/) it raises. That leverage multiplies the profits when things go well. But it also multiplies the losses when things go badly. If the bonds drop 2 percent in value, that 2 percent swing does not affect the $1 of equity — it devastates it.
 
 Leverage is necessary for the mortgage REIT model to work. Without it, the returns are too thin. But leverage also means that Annaly is one bad quarter of mark-to-market losses away from facing pressure to raise more equity (which dilutes existing shareholders) or cut the dividend (which angers them).
 
@@ -71,4 +71,4 @@ The dividend is also mandated by tax law. Annaly is a REIT, which means it has t
 
 Start with the 10-K (SEC CIK 0001043219). The company breaks down its portfolio — what bonds it owns, what maturity, what [coupon rate](/coupon-rate/), how much leverage it is carrying, and how it is hedging. The quarterly earnings report tells you the net interest margin — the spread Annaly is actually earning. That number tells the whole story. If it is stable and healthy, Annaly is fine. If it is narrowing, the company is getting squeezed.
 
-Watch also for the book value per share — that tells you the value of the portfolio as the company sees it. In quarters where rates spike, you may see big mark-to-market losses that send book value down, even if the underlying bonds are performing fine. Understand the difference between the quarterly loss and the long-term holding. That is the key to investing in Annaly without panic.
+Watch also for the [book value per share](/book-value-per-share/) — that tells you the value of the portfolio as the company sees it. In quarters where rates spike, you may see big mark-to-market losses that send book value down, even if the underlying bonds are performing fine. Understand the difference between the quarterly loss and the long-term holding. That is the key to investing in Annaly without panic.

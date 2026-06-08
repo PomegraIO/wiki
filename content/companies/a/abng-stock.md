@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*A **[leveraged ETF](/leveraged-etf/)** uses derivatives and borrowing to amplify the daily returns of an underlying security. ABNG (Leverage Shares 2x Long ABNB Daily ETF) is a fund that aims to deliver twice the daily return of [Airbnb](/abnb-stock/) Inc. (ABNB) by combining equity positions and [equity swaps](/equity-swap/). It is issued by Leverage Shares, a London-based provider of structured products, and is built explicitly for tactical traders making short-term directional bets, not for buy-and-hold investors.*
+*A **[leveraged ETF](/leveraged-etf/)** uses derivatives and borrowing to amplify the daily returns of an underlying security. ABNG (Leverage Shares 2x Long ABNB Daily ETF) is a fund that aims to deliver twice the daily return of [Airbnb](/abnb-stock/) Inc. (ABNB) by combining equity positions and [equity swaps](/equity-swap/). It is issued by Leverage Shares, a London-based provider of [structured products](/structured-product/), and is built explicitly for tactical traders making short-term directional bets, not for buy-and-hold investors.*
 
 ## Is this a 2x bet on Airbnb, or something else?
 

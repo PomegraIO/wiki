@@ -49,7 +49,7 @@ HAMA competes against incumbent software giants (Microsoft, Google, Amazon with 
 
 ## Training Data, Model Quality, and Bias Risk
 
-Modern AI companies depend on high-quality training data and robust algorithms to deliver accurate results. The 10-K may discuss data sourcing, model validation, and any model accuracy metrics. AI models can exhibit bias (poor performance for certain demographics or use cases), creating regulatory and reputational risk. The filing notes any prior incidents of model bias, regulatory findings, or customer complaints related to model performance. A company that has experienced model failures or been forced to rebuild models due to bias discovered in production faces both financial (customer refunds, lost contracts) and reputational costs.
+Modern AI companies depend on high-quality training data and robust algorithms to deliver accurate results. The 10-K may discuss data sourcing, model validation, and any model accuracy metrics. AI models can exhibit bias (poor performance for certain demographics or use cases), creating regulatory and [reputational risk](/reputational-risk/). The filing notes any prior incidents of model bias, regulatory findings, or customer complaints related to model performance. A company that has experienced model failures or been forced to rebuild models due to bias discovered in production faces both financial (customer refunds, lost contracts) and reputational costs.
 
 ## Regulatory and Compliance Risk
 

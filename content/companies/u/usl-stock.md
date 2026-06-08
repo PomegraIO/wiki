@@ -40,7 +40,7 @@ Returns on USL track the daily changes in the 12-month oil futures contract, les
 
 [Expense ratios](/expense-ratio/) are modest, typically in the low single digits percentage-wise, but the real cost comes from the roll. During the 2020 oil collapse, when contango was severe, USL experienced dramatic losses that reflected not just the fall in oil prices but the persistent cost of rolling forward. Conversely, in periods of tight supply and near-term scarcity, backwardation has been the fund's friend.
 
-The fund is also subject to all the risks of a leverage-free commodity play: if oil prices fall 20%, USL will fall roughly 20% (before roll effects). There is no equity cushion, no [diversification](/diversification/), no way to reduce losses if you are wrong about the direction of prices.
+The fund is also subject to all the risks of a leverage-free commodity play: if oil prices fall 20%, USL will fall roughly 20% (before roll effects). There is no [equity cushion](/equity-cushion/), no [diversification](/diversification/), no way to reduce losses if you are wrong about the direction of prices.
 
 ## Structural vulnerabilities
 

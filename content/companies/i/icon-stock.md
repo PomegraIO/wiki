@@ -16,7 +16,7 @@ keywords: ["oil and gas", "exploration", "production", "reserves", "debt covenan
 
 ## The Reserve Life and Depletion
 
-Icon's largest balance-sheet asset is property, plant, and equipment—wells, pipelines, production infrastructure, and leasehold interests in subsurface mineral rights. This is not a static asset. Every barrel of oil or unit of gas withdrawn from a proven reserve depletes the underlying resource. Accounting rules require Icon to calculate "proved reserves"—quantities of oil and gas that geological and engineering analysis supports will be extracted under current economic conditions. These reserves drive the [amortization](/amortization/) schedule for the physical assets.
+Icon's largest balance-sheet asset is [property, plant, and equipment](/property-plant-equipment/)—wells, pipelines, production infrastructure, and leasehold interests in subsurface mineral rights. This is not a static asset. Every barrel of oil or unit of gas withdrawn from a proven reserve depletes the underlying resource. Accounting rules require Icon to calculate "proved reserves"—quantities of oil and gas that geological and engineering analysis supports will be extracted under current economic conditions. These reserves drive the [amortization](/amortization/) schedule for the physical assets.
 
 The key balance-sheet mechanic is depletion accounting. As Icon extracts reserves, it expenses a portion of the original asset cost proportional to the fraction of total reserves removed. A large, high-volume producing field depletes faster than a marginal property. The depletion rate is re-estimated each year as reserves are updated for new drilling, commodity price movements, and production experience. A downward revision of proved reserves forces accelerated depletion and may trigger [asset impairments](/asset-impairment/)—write-downs that directly reduce reported equity and trigger [balance-sheet](/balance-sheet/) shrinkage.
 
@@ -48,7 +48,7 @@ Advance royalties and operating cost accruals appear in the payables section. Ic
 
 ## Environmental Liabilities and Future Abandonment
 
-The balance sheet includes accruals for estimated costs to plug wells, remediate production facilities, and restore leased land to pre-production conditions. These "asset retirement obligations" are typically thousands of dollars per well and millions of dollars in aggregate for a large operator. As wells age and approach economic end-of-life, the abandonment obligation accrual rises. This is a hidden liability that does not appear as a line-item debt but reduces reported equity and cash flow.
+The balance sheet includes accruals for estimated costs to plug wells, remediate production facilities, and restore leased land to pre-production conditions. These "[asset retirement obligations](/asset-retirement-obligation/)" are typically thousands of dollars per well and millions of dollars in aggregate for a large operator. As wells age and approach economic end-of-life, the abandonment obligation accrual rises. This is a hidden liability that does not appear as a line-item debt but reduces reported equity and cash flow.
 
 Icon must also carry provisions for environmental contingencies: spills, groundwater contamination, air emissions that may trigger regulatory penalties or remediation orders. These are estimated liabilities, often opaque in magnitude and timing. Large environmental incidents can erode equity suddenly.
 

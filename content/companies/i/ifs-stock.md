@@ -50,7 +50,7 @@ However, the Peruvian market is not growing at rates that would allow easy marke
 
 As a Peruvian-domiciled lender, Intercorp's earnings are tightly tied to Peru's economy and currency. Peru's sol (PEN) has depreciated against the [U.S. dollar](/us-dollar/) in cycles, creating earnings headwinds when investors measure performance in dollars and loan-loss provisions rise on hard-currency-denominated corporate borrowers. Inflation and [central bank](/central-bank/) tightening cycles affect deposit costs and lending volumes. Mining and agriculture represent a large share of Peru's export base and tax revenue; commodity price swings create credit-cycle effects (e.g., weaker mining activity reduces loan demand and increases defaults among commodity suppliers).
 
-Political risk is also present. Peru has experienced multiple government transitions, policy shifts, and social unrest, which can disrupt business, influence regulation, and affect macroeconomic conditions.
+[Political risk](/political-risk/) is also present. Peru has experienced multiple government transitions, policy shifts, and social unrest, which can disrupt business, influence regulation, and affect macroeconomic conditions.
 
 ## Capital Structure and Dividend Policy
 
@@ -58,7 +58,7 @@ Intercorp maintains a [/wiki/public-company/](https://wiki.example.com/wiki/publ
 
 ## The 10-K and Research
 
-Intercorp files [/wiki/10-k/](https://wiki.example.com/wiki/10-k/) reports with the SEC, providing audited financials, detailed segment breakdowns, and risk disclosures in English. Key metrics to watch include [return on assets](/return-on-assets/) (ROA) and [return on equity](/return-on-equity/) (ROE)—typically 1.5–2% and 15–20% respectively in stable years—loan-loss reserves as a percentage of non-performing loans, and the efficiency ratio (operating expenses divided by operating revenue). Non-performing loan (NPL) ratios and loan-loss provisions are sensitive to credit cycles. Deposit growth and the loan-to-deposit ratio reveal funding dynamics. Currency exposure and derivative positions help assess earnings sensitivity to sol [depreciation](/depreciation/).
+Intercorp files [/wiki/10-k/](https://wiki.example.com/wiki/10-k/) reports with the SEC, providing audited financials, detailed segment breakdowns, and risk disclosures in English. Key metrics to watch include [return on assets](/return-on-assets/) (ROA) and [return on equity](/return-on-equity/) (ROE)—typically 1.5–2% and 15–20% respectively in stable years—loan-loss reserves as a percentage of non-performing loans, and the efficiency ratio (operating expenses divided by operating revenue). Non-performing loan (NPL) ratios and loan-loss provisions are sensitive to [credit cycles](/credit-cycle/). Deposit growth and the loan-to-deposit ratio reveal funding dynamics. Currency exposure and derivative positions help assess earnings sensitivity to sol [depreciation](/depreciation/).
 
 Quarterly earnings releases and SEC filings provide near-real-time updates on loan portfolio composition, deposit mix, and capital ratios. Investors should compare Intercorp's metrics to peer banks and track Peru's central bank policy, inflation rates, and political developments. The company's website and investor relations section typically offer presentation slides and historical financial data in English.
 

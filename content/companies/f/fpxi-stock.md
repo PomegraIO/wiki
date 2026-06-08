@@ -56,7 +56,7 @@ The downside is that by screening for growth and quality, FPXI will own fewer of
 
 FPXI holds stocks denominated in dozens of currencies — euros, [Canadian dollars](/canadian-dollar/), [Australian dollars](/australian-dollar/), [Japanese yen](/japanese-yen/), [British pounds](/british-pound/), and others. Currency movements against the [US dollar](/us-dollar/) will meaningfully affect total returns. A strengthening dollar makes foreign holdings less valuable in dollar terms; a weakening dollar provides a tailwind.
 
-Developed markets like Europe, Canada, and Australia are relatively stable, but some emerging markets in FPXI's universe carry regulatory or political risks. Each country's tax treatment of [dividends](/dividend/) and capital gains also varies, affecting the net returns that reach US shareholders.
+Developed markets like Europe, Canada, and Australia are relatively stable, but some emerging markets in FPXI's universe carry regulatory or [political risks](/political-risk/). Each country's tax treatment of [dividends](/dividend/) and capital gains also varies, affecting the net returns that reach US shareholders.
 
 ## Costs and liquidity
 

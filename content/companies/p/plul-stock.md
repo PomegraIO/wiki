@@ -45,7 +45,7 @@ PLUL is not for savers, retirees, or anyone with a long-term time horizon. Finan
 
 ## The risks
 
-A 50% decline in Plug Power would not translate to a 100% loss in PLUL on a single day; regulatory limits and position sizing prevent that. But over multiple days of Plug Power weakness, losses could compound dramatically. A two-month period where Plug Power falls 30% could result in PLUL falling much more than 60%, especially if the decline is choppy.
+A 50% decline in Plug Power would not translate to a 100% loss in PLUL on a single day; regulatory limits and [position sizing](/position-sizing/) prevent that. But over multiple days of Plug Power weakness, losses could compound dramatically. A two-month period where Plug Power falls 30% could result in PLUL falling much more than 60%, especially if the decline is choppy.
 
 [Concentration risk](/concentration-risk/) is another concern. PLUL is a bet on a single company—Plug Power—not a diversified portfolio. If negative news about Plug Power's technology, competition, or cash burn emerges, the stock can gap down sharply, and PLUL would amplify that loss. Leverage amplifies both gains and losses with no mercy.
 

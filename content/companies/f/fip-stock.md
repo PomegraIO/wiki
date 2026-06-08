@@ -76,6 +76,6 @@ The [10-K](/wiki/10-k/) filing will detail segment revenue, operating expense, [
 
 ## A Stable Play, Not a Growth Story
 
-FIP suits investors seeking steady, recurring cash flow from real, hard-to-replace assets. It is not a high-growth story and does not merit a growth multiple. Valuation hinges on cash flow yield, debt levels, and the durability of the revenue base. In a rising-rate environment, cap-heavy infrastructure can underperform. In a low-rate, growth-starved market, it is a relative haven.
+FIP suits investors seeking steady, recurring cash flow from real, hard-to-replace assets. It is not a high-growth story and does not merit a growth multiple. Valuation hinges on [cash flow yield](/cash-flow-yield/), debt levels, and the durability of the revenue base. In a rising-rate environment, cap-heavy infrastructure can underperform. In a low-rate, growth-starved market, it is a relative haven.
 
 The business works if volumes hold, costs are managed, and regulation does not turn hostile. It fails if recession hits hard and multiple years of depressed cargo demand erode capital. For a disciplined investor, the key is to buy when the market overshoots the downside and hold through cycles—not to chase performance or hope for a surprise turnaround.

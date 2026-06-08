@@ -15,7 +15,7 @@ MFA Financial's Series C Cumulative [Redeemable Preferred Stock](/redeemable-pre
 
 > "A fixed-to-floating rate preferred shifts the interest-rate bet from investor to company after reset; pay attention to what comes next."
 
-This structural feature is the key distinction between Series C and the simpler, permanently fixed Series B Preferred. MFA chose this form to attract investors during a particular market window and to manage its own cost of capital as rate expectations shifted.
+This structural feature is the key distinction between Series C and the simpler, permanently fixed Series B Preferred. MFA chose this form to attract investors during a particular [market window](/market-window/) and to manage its own cost of capital as rate expectations shifted.
 
 ## How fixed-to-floating works in practice
 
@@ -41,4 +41,4 @@ MFA has issued multiple preferred series (Series A, B, C, etc.) with slightly di
 
 ## How to research MFA-PC
 
-Obtain the prospectus (a Form 424B5 filed with the SEC at CIK 0001055160) that details the exact dividend formula, reset mechanics, and call provisions. Watch MFA's quarterly earnings reports and slides for commentary on mortgage credit trends, funding cost, and [capital adequacy](/capital-adequacy/). Monitor short-term interest-rate expectations (SOFR forward curves, Fed policy guidance) because the post-reset coupon will be sensitive to near-term rates. Compare MFA-PC's current price relative to the $25 par to infer the market's yield-to-call and yield-to-worst assumptions. Track MFA's preferred dividend history; any skips or modifications signal emerging stress. Finally, benchmark MFA-PC's yield against other floating-rate preferreds and mortgage-REIT securities to assess relative value.
+Obtain the prospectus (a Form 424B5 filed with the SEC at CIK 0001055160) that details the exact dividend formula, reset mechanics, and call provisions. Watch MFA's quarterly earnings reports and slides for commentary on mortgage credit trends, funding cost, and [capital adequacy](/capital-adequacy/). Monitor short-term interest-rate expectations (SOFR [forward curves](/forward-curve/), Fed policy guidance) because the post-reset coupon will be sensitive to near-term rates. Compare MFA-PC's current price relative to the $25 par to infer the market's yield-to-call and yield-to-worst assumptions. Track MFA's preferred dividend history; any skips or modifications signal emerging stress. Finally, benchmark MFA-PC's yield against other floating-rate preferreds and mortgage-REIT securities to assess relative value.

@@ -29,7 +29,7 @@ Central Garden's competitive advantage rests largely on its position as a prefer
 
 ## Manufacturing and Sourcing Strategy
 
-The company combines some owned manufacturing (fertilizer blending plants, select specialty formulations) with significant private-label sourcing from third parties. This hybrid model spreads capital intensity — Central Garden avoids massive investment in facilities by outsourcing bulk production — but creates dependency on suppliers and limits control over some cost drivers. Fertilizer is particularly capital-intensive to manufacture, so the company may rely on partnerships for commodity nutrient production while maintaining in-house facilities for branded specialty mixes. Pet food, by contrast, is widely contract-manufactured, and Central Garden's value-add is formulation, branding, and retail management rather than production scale.
+The company combines some owned manufacturing (fertilizer blending plants, select specialty formulations) with significant private-label sourcing from third parties. This hybrid model spreads capital intensity — Central Garden avoids massive investment in facilities by outsourcing bulk production — but creates dependency on suppliers and limits control over some [cost drivers](/cost-driver/). Fertilizer is particularly capital-intensive to manufacture, so the company may rely on partnerships for commodity nutrient production while maintaining in-house facilities for branded specialty mixes. Pet food, by contrast, is widely contract-manufactured, and Central Garden's value-add is formulation, branding, and retail management rather than production scale.
 
 ## Economic Resilience and Risk
 

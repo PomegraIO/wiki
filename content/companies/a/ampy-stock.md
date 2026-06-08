@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Amplify Energy is an independent oil and [natural gas](/natural-gas/) producer that acquires, develops, and operates properties across the United States. The company generates revenue entirely from extracting and selling [crude oil](/crude-oil/), natural gas, and natural gas liquids (NGLs) from its portfolio of producing fields. After divesting non-core assets in 2025, Amplify concentrates its operations on two primary geographic regions: federal waters offshore Southern California and onshore properties in Wyoming's Rocky Mountains.
+Amplify Energy is an independent oil and [natural gas](/natural-gas/) producer that acquires, develops, and operates properties across the United States. The company generates revenue entirely from extracting and selling [crude oil](/crude-oil/), natural gas, and [natural gas liquids](/natural-gas-liquids/) (NGLs) from its portfolio of producing fields. After divesting non-core assets in 2025, Amplify concentrates its operations on two primary geographic regions: federal waters offshore Southern California and onshore properties in Wyoming's Rocky Mountains.
 
 The Beta field in federal waters approximately 23 miles offshore Southern California represents a major operational center. This facility operates two wellbore production platforms and a central processing platform connected by a 16-inch pipeline extending 17.5 miles onshore to the Port of Long Beach. The field accounted for roughly 64 percent of the company's proved reserves at the end of 2025 before recent [divestitures](/divestiture/). The Bairoil asset in Wyoming's Bighorn Basin provides complementary onshore production, offering geographic and operational [diversification](/diversification/).
 

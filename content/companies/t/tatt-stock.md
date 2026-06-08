@@ -47,7 +47,7 @@ TAT partially sidesteps this by focusing on high-margin, specialized products wh
 
 ## Geopolitical and military-spending volatility
 
-TAT's customer base is heavily military-focused, which means revenue is subject to defense budgets, geopolitical tensions, and the purchasing cycles of government. A reduction in defense spending or a shift in military procurement priorities away from the platforms TAT supplies can dry up revenue fast. Exposure to Israel and Israeli-Palestinian dynamics also carries political risk; some countries and investors view Israeli defense contractors with skepticism, and procurement decisions are sometimes influenced by political considerations rather than pure economics.
+TAT's customer base is heavily military-focused, which means revenue is subject to defense budgets, geopolitical tensions, and the purchasing cycles of government. A reduction in defense spending or a shift in military procurement priorities away from the platforms TAT supplies can dry up revenue fast. Exposure to Israel and Israeli-Palestinian dynamics also carries [political risk](/political-risk/); some countries and investors view Israeli defense contractors with skepticism, and procurement decisions are sometimes influenced by political considerations rather than pure economics.
 
 Commercial aviation represents a smaller but less volatile revenue stream. Yet commercial aviation is cyclical — orders and deliveries fluctuate with economic conditions and airline profitability. A downturn in commercial aviation, coupled with a dip in military spending, can create a trough where TAT faces pressure.
 

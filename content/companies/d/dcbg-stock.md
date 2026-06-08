@@ -31,17 +31,17 @@ The filings note Dime's reliance on building and maintaining a stable deposit ba
 
 ## Loan Portfolio Composition and Real Estate Exposure
 
-Dime's loan portfolio, detailed extensively in the filings, is heavily weighted toward real-estate-backed lending—[commercial real estate](/commercial-real-estate/) (office, retail, multifamily properties), residential mortgages, and construction loans. The filings note that real estate represents the majority of assets on the [balance sheet](/balance-sheet/) when loans are combined with the mortgage-servicing portfolio and real estate holdings.
+Dime's loan portfolio, detailed extensively in the filings, is heavily weighted toward real-estate-backed lending—[commercial real estate](/commercial-real-estate/) (office, retail, multifamily properties), residential mortgages, and [construction loans](/construction-loan/). The filings note that real estate represents the majority of assets on the [balance sheet](/balance-sheet/) when loans are combined with the mortgage-servicing portfolio and real estate holdings.
 
 This concentration creates a risk vector disclosed prominently in the 10-K: commercial real estate (particularly office space) faces headwinds from remote work adoption, meaning occupancy and rent collections are challenged in certain segments. Multifamily (apartment buildings) faces supply oversupply in some markets and affordability pressures on renters. The filings record the company's exposure to these segments and the company's efforts to manage concentration risk—diversifying by property type and geographic submarket.
 
-The regulatory documents also detail loan-to-value ratios (LTVs), which measure how much a bank has lent relative to the appraised value of the property securing the loan. Higher LTVs mean more exposure if property values decline. Dime's filings indicate management of LTVs to mitigate [loss severity](/loss-severity/) if a borrower defaults.
+The regulatory documents also detail [loan-to-value ratios](/loan-to-value-ratio/) (LTVs), which measure how much a bank has lent relative to the appraised value of the property securing the loan. Higher LTVs mean more exposure if property values decline. Dime's filings indicate management of LTVs to mitigate [loss severity](/loss-severity/) if a borrower defaults.
 
 ## Asset Quality and Loan Loss Provisions
 
 The filings emphasize asset quality—the degree to which loans remain performing and borrowers are meeting their obligations. The company discloses nonaccrual loans (loans on which the bank has stopped accruing interest because the borrower is delinquent), charge-offs (loans the bank has written off as uncollectible), and the allowance for loan losses (a reserve established to absorb expected future losses).
 
-The regulatory narrative acknowledges economic uncertainty and credit cycle dynamics. In expansion periods, credit quality tends to improve; in downturns, delinquencies and charge-offs rise. The filings note Dime's historical experience with credit loss rates and the company's forward-looking assumptions about losses. The adequacy of the allowance is scrutinized by regulators and investors; if the allowance proves insufficient, the company must increase it through earnings charges, pressuring profitability.
+The regulatory narrative acknowledges economic uncertainty and [credit cycle](/credit-cycle/) dynamics. In expansion periods, credit quality tends to improve; in downturns, delinquencies and charge-offs rise. The filings note Dime's historical experience with credit loss rates and the company's forward-looking assumptions about losses. The adequacy of the allowance is scrutinized by regulators and investors; if the allowance proves insufficient, the company must increase it through earnings charges, pressuring profitability.
 
 ## Capital Adequacy and Regulatory Requirements
 

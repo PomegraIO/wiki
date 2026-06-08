@@ -21,7 +21,7 @@ Government contracts are typically fixed-term, ranging from one to five years. W
 
 ## Government Budget Uncertainty and Appropriations Risk
 
-DLH's largest customer is ultimately the federal government, which operates on an annual appropriations process. If Congress delays appropriations, reduces agency budgets, or reprioitizes spending away from DLH's service areas, the company's pipeline of new contract opportunities shrinks. Additionally, [government shutdowns](/government-shutdown/) (though temporary) can disrupt contract performance, delay payments, and create operational uncertainty. A change in administration can lead to policy shifts that de-prioritize certain programs (cybersecurity, logistics, health services) that DLH supports. These political risks are largely beyond the company's control but directly affect revenue growth and profitability.
+DLH's largest customer is ultimately the federal government, which operates on an annual appropriations process. If Congress delays appropriations, reduces agency budgets, or reprioitizes spending away from DLH's service areas, the company's pipeline of new contract opportunities shrinks. Additionally, [government shutdowns](/government-shutdown/) (though temporary) can disrupt contract performance, delay payments, and create operational uncertainty. A change in administration can lead to policy shifts that de-prioritize certain programs (cybersecurity, logistics, health services) that DLH supports. These [political risks](/political-risk/) are largely beyond the company's control but directly affect revenue growth and profitability.
 
 ## Competitive Bidding and Margin Pressure
 

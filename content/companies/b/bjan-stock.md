@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Innovator U.S. Equity Buffer ETF - January (BJAN) is a structured fund designed to smooth the bumpy ride of stock-market investing. It holds U.S. stocks bundled with protective options that cap how much you can lose in a down year but also cap how much you can gain in an up year. The strategy resets every January, creating a one-year outcome window that repeats annually.
+The Innovator U.S. Equity [Buffer ETF](/buffer-etf/) - January (BJAN) is a structured fund designed to smooth the bumpy ride of stock-market investing. It holds U.S. stocks bundled with protective options that cap how much you can lose in a down year but also cap how much you can gain in an up year. The strategy resets every January, creating a one-year outcome window that repeats annually.
 
 ## The buffer concept
 

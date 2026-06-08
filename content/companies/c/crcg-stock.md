@@ -25,7 +25,7 @@ The rebalancing at the end of each day creates a mathematical trap. When a stock
 
 A simple example: if a stock falls 10% on day one and rises 11.11% on day two, it returns to its starting price over the two days. But a 2X leveraged fund falls 20% on day one (roughly $80 of a $100 position), then rises 22.22% on day two (roughly $98). The final value is $98, not $100 — a loss of 2% despite the underlying stock returning to par. The longer the [holding period](/holding-period/) and the higher the volatility, the larger this decay becomes.
 
-This is not a hidden fee; it is a mathematical property of daily rebalancing. CRCG is transparent about it in its prospectus, but many retail investors overlook it, especially those who buy and hold a leveraged ETF across multiple market cycles expecting the stated 2X multiple to hold over years.
+This is not a hidden fee; it is a mathematical property of daily rebalancing. CRCG is transparent about it in its prospectus, but many retail investors overlook it, especially those who buy and hold a leveraged ETF across multiple [market cycles](/market-cycle/) expecting the stated 2X multiple to hold over years.
 
 ## Who holds CRCG and why
 

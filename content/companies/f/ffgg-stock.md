@@ -19,7 +19,7 @@ keywords: ["FF Global Holdings", "FFGG", "financial services", "investment manag
 
 FF Global Holdings' SEC filings establish the company as a holding company with subsidiaries and operating entities in multiple jurisdictions. The company's organizational structure, as disclosed in filings, separates operating business units (trading desks, investment funds, client advisory services) from the parent holding company that consolidates results for reporting purposes. This structure is typical for international financial services firms and allows regional specialization while maintaining consolidated financial management.
 
-The company's filings detail the jurisdictions in which it operates and any regulatory licenses held in each. The company is subject to financial services regulation in whatever countries its subsidiaries operate, creating complexity around compliance, reporting, and capital requirements across multiple regulatory regimes. The filings acknowledge this regulatory multiplicity and the costs and execution risks it entails.
+The company's filings detail the jurisdictions in which it operates and any regulatory licenses held in each. The company is subject to financial services regulation in whatever countries its subsidiaries operate, creating complexity around compliance, reporting, and capital requirements across multiple regulatory regimes. The filings acknowledge this regulatory multiplicity and the costs and [execution risks](/execution-risk/) it entails.
 
 The company's filings describe the composition of its operations: which entities handle trading, which manage client assets, which serve as administrative centers, and which hold investments. The geographic distribution of employees, revenue generation, and profit centers is disclosed in order to assess where value is created and where regulatory or [operational risks](/operational-risk/) concentrate.
 
@@ -39,7 +39,7 @@ FF Global's SEC filings disclose revenue sources from investment management, inc
 
 The company's filings describe its client base by type (institutions, high-net-worth individuals, other financial services firms) and geographic origin. The filings indicate whether the company depends heavily on a few large clients or has a diversified client base. Concentration in a few clients creates revenue stability risk if those clients withdraw assets or reduce allocations.
 
-The company discloses the process for marketing its services and attracting new client relationships. The filings may mention any proprietary investment products (mutual funds, [hedge funds](/hedge-fund/), separately managed accounts) offered to clients and the marketing and distribution channels through which clients access those products.
+The company discloses the process for marketing its services and attracting new client relationships. The filings may mention any proprietary investment products (mutual funds, [hedge funds](/hedge-fund/), [separately managed accounts](/separately-managed-account/)) offered to clients and the marketing and distribution channels through which clients access those products.
 
 ## Trading Activities and Principal Risk
 

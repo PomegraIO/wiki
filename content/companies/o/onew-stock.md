@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-OneWater Marine Inc. owns and operates a network of marine retailers and boat dealerships across the United States, selling new and used boats from a wide range of manufacturers, alongside related services, parts, and accessories. Unlike a vertically integrated boatmaker, OneWater is a horizontal roll-up: it buys and operates independent and regional dealerships under a unified platform, betting that consolidation in a fragmented market creates operational leverage and financial synergies. The company's success depends on finding, acquiring, and integrating new dealerships profitably while managing the cyclical swings in consumer spending on big-ticket leisure goods.
+OneWater Marine Inc. owns and operates a network of marine retailers and boat dealerships across the United States, selling new and used boats from a wide range of manufacturers, alongside related services, parts, and accessories. Unlike a vertically integrated boatmaker, OneWater is a horizontal roll-up: it buys and operates independent and regional dealerships under a unified platform, betting that consolidation in a [fragmented market](/fragmented-market/) creates operational leverage and financial synergies. The company's success depends on finding, acquiring, and integrating new dealerships profitably while managing the cyclical swings in consumer spending on big-ticket leisure goods.
 
 <aside class="wiki-infobox">
 <table>

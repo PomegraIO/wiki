@@ -54,7 +54,7 @@ Ashford's portfolio performance is therefore cyclical. The company does better i
 
 A hotel is a fixed asset: you cannot easily shrink or sell it if business is weak. If Ashford's hotels face depressed RevPAR for months or years, the company still owes the mortgage, the staff still needs to be paid, the utilities still arrive. If cash flow declines below the debt-service requirements, the company faces pressure—it may need to refinance debt, seek capital, or restructure.
 
-During the pandemic, Ashford faced exactly this scenario. Hotels closed for weeks or months. Occupancy fell toward zero. The company had to preserve cash, negotiate with lenders, and wait for travel to return. REITs with strong [balance sheets](/balance-sheet/) weathered it better; REITs with thin equity cushions faced severe stress.
+During the pandemic, Ashford faced exactly this scenario. Hotels closed for weeks or months. Occupancy fell toward zero. The company had to preserve cash, negotiate with lenders, and wait for travel to return. REITs with strong [balance sheets](/balance-sheet/) weathered it better; REITs with thin [equity cushions](/equity-cushion/) faced severe stress.
 
 ## Capital intensity and the debt question
 

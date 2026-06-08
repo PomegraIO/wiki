@@ -26,7 +26,7 @@ OppFi Inc. ([NASDAQ](/nasdaq/): OPFI) is a financial services company that speci
 
 ## From storefront to platform
 
-The company's origins trace to 1999, when Community Financial Services began as a traditional payday and installment lender with a small physical footprint. For two decades it operated in the conventional non-prime space — small loans at higher [interest rates](/interest-rate/), serving workers who needed cash between paychecks or for unexpected costs. Like much of the non-prime lending industry, it faced intermittent regulatory scrutiny and market cycles that made lending economics volatile.
+The company's origins trace to 1999, when Community Financial Services began as a traditional payday and installment lender with a small physical footprint. For two decades it operated in the conventional non-prime space — small loans at higher [interest rates](/interest-rate/), serving workers who needed cash between paychecks or for unexpected costs. Like much of the non-prime lending industry, it faced intermittent regulatory scrutiny and [market cycles](/market-cycle/) that made lending economics volatile.
 
 In 2021, the company underwent a fundamental transformation through a [merger](/merger/) with CURO Group Holdings, a larger non-prime lender. The combined entity took the name OppFi and announced a strategic pivot: away from traditional storefronts and toward embedded lending — putting loan offers directly into the places where customers work or shop, at the point of sale. This shift represented both a business and a philosophical repositioning. Rather than continuing as a conventional payday lender, OppFi began positioning itself as a financial inclusion company, aiming to bring credit access to workers historically shut out by banks.
 
@@ -38,7 +38,7 @@ OppFi's core business is straightforward: short-term installment loans of modest
 
 The economics of embedded lending differ fundamentally from storefront lending. There is no retail footprint to maintain, no franchisees to manage, and no need for physical branches. Origination happens digitally and almost instantaneously. The trade-off is that distribution requires partnerships — with large employers, with retailers, with financial platforms — and OppFi must share revenue with those partners in exchange for access to their customers. But when partnerships work, the unit economics improve because customer [acquisition](/acquisition/) cost drops and brand trust transfers from the partner to OppFi.
 
-The loans themselves are structured as installment plans, which legally and practically differ from payday loans. A borrower repays over weeks or months in fixed increments rather than in a single lump-sum balloon payment, and the interest rates are typically lower than traditional payday lending because of the staggered repayment structure. This matters regulatorily and reputationally: installment lending sits in a less contentious corner of the non-prime space.
+The loans themselves are structured as installment plans, which legally and practically differ from [payday loans](/payday-loan/). A borrower repays over weeks or months in fixed increments rather than in a single lump-sum balloon payment, and the interest rates are typically lower than traditional payday lending because of the staggered repayment structure. This matters regulatorily and reputationally: installment lending sits in a less contentious corner of the non-prime space.
 
 ## What makes credit risky in this segment
 

@@ -24,7 +24,7 @@ Optioning is a common structure in junior mining: BlackRock might retain ownersh
 
 The company's focus on the western United States and Mexico positions it within known mining belts—the Basin and Range of Nevada and Arizona, the Rocky Mountain region, and the Sierra Madre of Mexico all host significant copper and silver mineralization. Operating in these regions means BlackRock benefits from existing permitting infrastructure, geological data from prior mining, and established supply chains for drilling and consulting services. It also means it faces substantial competition from other explorers seeking the same deposits, often with more capital.
 
-Jurisdictional risk matters enormously at the exploration stage. A deposit in a stable, mining-friendly jurisdiction like Arizona or Nevada faces fewer political risks than one in Mexico, where permitting, indigenous land claims, and environmental enforcement remain less predictable. BlackRock's geographic selection reflects this calculus: most exploration companies cluster in jurisdictions with track records of allowing mines to be permitted and built.
+Jurisdictional risk matters enormously at the exploration stage. A deposit in a stable, mining-friendly jurisdiction like Arizona or Nevada faces fewer [political risks](/political-risk/) than one in Mexico, where permitting, indigenous land claims, and environmental enforcement remain less predictable. BlackRock's geographic selection reflects this calculus: most exploration companies cluster in jurisdictions with track records of allowing mines to be permitted and built.
 
 ## The Commodity Price Dependency
 

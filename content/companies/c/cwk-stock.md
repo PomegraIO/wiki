@@ -58,7 +58,7 @@ Valuations are point-in-time; a property valued at $100 million in Q1 may be rev
 
 ## Market intelligence and data monetization
 
-Real estate firms accumulate vast datasets: transaction history, lease rates, occupancy, tenant turnover, [cap rates](/cap-rate/), absorption rates by submarket. Larger competitors (CBRE, JLL) have invested heavily in data platforms and analytics. Cushman & Wakefield monetizes data through subscription research products, market reports, and custom analysis. A client subscribing to quarterly market reports for five major metros might pay $50,000–$200,000 annually. Aggregated across hundreds of clients, this becomes material recurring revenue with high gross margins (data is expensive to create once, but cheap to replicate).
+Real estate firms accumulate vast datasets: transaction history, lease rates, occupancy, tenant turnover, [cap rates](/cap-rate/), [absorption rates](/absorption-rate-real-estate/) by submarket. Larger competitors (CBRE, JLL) have invested heavily in data platforms and analytics. Cushman & Wakefield monetizes data through subscription research products, market reports, and custom analysis. A client subscribing to quarterly market reports for five major metros might pay $50,000–$200,000 annually. Aggregated across hundreds of clients, this becomes material recurring revenue with high gross margins (data is expensive to create once, but cheap to replicate).
 
 ## The agent as the constraint
 
@@ -74,7 +74,7 @@ The company is asset-light; it owns or leases office space for its own operation
 
 ## Cyclicality and demand
 
-Real estate services are highly cyclical. The 2008–2009 financial crisis devastated brokerage and management demand as transactions froze and portfolios were liquidated at distressed pricing. It took five years for the market to normalize. [Recessions](/recession/), rising [interest rates](/interest-rate/) (which lower property valuations and reduce transaction velocity), and credit freezes all compress demand for Cushman & Wakefield's services.
+Real estate services are highly cyclical. The 2008–2009 financial crisis devastated brokerage and management demand as transactions froze and portfolios were liquidated at distressed pricing. It took five years for the market to normalize. [Recessions](/recession/), rising [interest rates](/interest-rate/) (which lower property valuations and reduce transaction velocity), and [credit freezes](/credit-freeze/) all compress demand for Cushman & Wakefield's services.
 
 Growth markets—expanding metros with strong job growth and in-migration—generate higher brokerage volume and higher property management demand. Stagnating markets (industrial Rust Belt, declining retail centers) see lower velocity.
 
@@ -86,7 +86,7 @@ The rise of direct-to-consumer and online real estate platforms (Zillow, CoStar 
 
 ## Advisory and consulting upside
 
-The firm has been expanding advisory and consulting services, moving beyond transaction-based revenue to higher-margin strategy work. A real estate advisory engagement for a 10,000-person corporation's footprint optimization—analyzing all 50 properties, recommending consolidation, relocation, or [divestiture](/divestiture/)—might be a $500,000–$2 million engagement. These fees are fixed or retainer-based rather than transaction-contingent, insulating them from market cycles. However, advisory work requires different skills (strategic thinking, data analysis, client management) than transactional brokerage, making internal scaling difficult.
+The firm has been expanding advisory and consulting services, moving beyond transaction-based revenue to higher-margin strategy work. A real estate advisory engagement for a 10,000-person corporation's footprint optimization—analyzing all 50 properties, recommending consolidation, relocation, or [divestiture](/divestiture/)—might be a $500,000–$2 million engagement. These fees are fixed or retainer-based rather than transaction-contingent, insulating them from [market cycles](/market-cycle/). However, advisory work requires different skills (strategic thinking, data analysis, client management) than transactional brokerage, making internal scaling difficult.
 
 ## The operational reality
 

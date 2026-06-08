@@ -45,7 +45,7 @@ Blockfusion's business model requires substantial capital to build pods, acquire
 
 ## Research Path
 
-Study Blockfusion's 10-K for detailed disclosure on pod deployment schedules, customer concentration, and capital expenditure plans. Track industry reports on GPU shortage, data-center deployment timelines, and competitive modular-data-center announcements. Monitor customer wins and deployment metrics (number of operational pods, utilization rates, revenue per pod) as leading indicators of execution.
+Study Blockfusion's 10-K for detailed disclosure on pod deployment schedules, customer concentration, and capital expenditure plans. Track industry reports on GPU shortage, data-center deployment timelines, and competitive modular-data-center announcements. Monitor customer wins and deployment metrics (number of operational pods, utilization rates, revenue per pod) as [leading indicators](/leading-indicator/) of execution.
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>

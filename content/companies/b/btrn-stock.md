@@ -27,7 +27,7 @@ The bet underlying [Bitcoin](/bitcoin/) Trend Strategy is simple: momentum matte
 
 ## The momentum premise
 
-Bitcoin is known for violent directional moves — periods of sustained rallies followed by equally brutal drawdowns. A trend-following program tries to be long bitcoin during uptrends and shift to cash (a near-zero-return but low-volatility alternative) when momentum falters. The algorithm that powers BTRN looks at bitcoin's price action — typically using moving averages, rate-of-change indicators, or similar technical signals — to toggle between full exposure and money-market instruments on a periodic basis, commonly monthly or quarterly.
+Bitcoin is known for violent directional moves — periods of sustained rallies followed by equally brutal drawdowns. A trend-following program tries to be long bitcoin during uptrends and shift to cash (a near-zero-return but low-volatility alternative) when momentum falters. The algorithm that powers BTRN looks at bitcoin's price action — typically using [moving averages](/moving-average/), rate-of-change indicators, or similar technical signals — to toggle between full exposure and money-market instruments on a periodic basis, commonly monthly or quarterly.
 
 The theory is elegant. Investors who buy and hold bitcoin endure every drawdown. An algorithm that exits before the worst of them and re-enters when recovery looks likely could reduce peak-to-trough losses while still capturing large portions of the upside. In practice, the experience depends entirely on whether the algorithm's signal calls match the actual turning points in bitcoin's price. If the algorithm sells bitcoin right before a massive rally, the fund suffers relative to a passive holder. If it stays in cash too long, it misses gains.
 

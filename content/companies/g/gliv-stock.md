@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Grayscale Livepeer Trust is a single-asset cryptocurrency trust that holds Livepeer tokens (LPT), allowing investors to gain exposure to the cryptocurrency through a registered investment company rather than directly purchasing the underlying tokens. The trust trades on [NASDAQ](/nasdaq/) under the ticker GLIV and represents a vehicle for accessing Livepeer — a blockchain-based video transcoding and streaming network — without managing cryptocurrency wallets or exchanges.
+Grayscale Livepeer Trust is a single-asset cryptocurrency trust that holds Livepeer tokens (LPT), allowing investors to gain exposure to the cryptocurrency through a [registered investment company](/registered-investment-company/) rather than directly purchasing the underlying tokens. The trust trades on [NASDAQ](/nasdaq/) under the ticker GLIV and represents a vehicle for accessing Livepeer — a blockchain-based video transcoding and streaming network — without managing cryptocurrency wallets or exchanges.
 
 <aside class="wiki-infobox">
 <table>

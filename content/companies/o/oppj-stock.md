@@ -18,7 +18,7 @@ handwritten: true
 
 OPPJ tracks an index of Japanese stocks outside the country's largest 100 or so companies. The fund screens for positive earnings growth and improving cash flows, excluding companies in financial distress or secular decline. This means the holdings skew toward smaller industrial manufacturers, regional banks, consumer discretionary businesses, and technology firms competing mainly in the Japanese market. The companies typically have [market capitalizations](/market-capitalization/) in the low-to-mid billions—large enough to have real earnings and analyst coverage, small enough to trade below the radar of most global investors.
 
-WisdomTree, an index specialist and ETF sponsor, publishes the underlying index quarterly and rebalances OPPJ's holdings accordingly. The fund is rule-based rather than discretionary, following a published methodology so investors can understand exactly why a company is held or removed.
+WisdomTree, an index specialist and [ETF sponsor](/etf-sponsor/), publishes the underlying index quarterly and rebalances OPPJ's holdings accordingly. The fund is rule-based rather than discretionary, following a published methodology so investors can understand exactly why a company is held or removed.
 
 ## Why focus on Japanese small-cap, and what makes the case?
 
@@ -28,7 +28,7 @@ The Japanese market as a whole is older and slower-growing than the US equity ma
 
 ## The currency factor and cost structure
 
-OPPJ is denominated in [US dollars](/us-dollar/) and trades on NYSE Arca, so investors buying it absorb currency exposure—the fund's returns depend not only on how Japanese stocks perform in yen but also on the yen-to-dollar exchange rate. A stronger yen boosts OPPJ's returns in dollar terms; a weaker yen drags on them. For a US investor wanting pure exposure to Japanese equity valuations and earnings, that currency component is a feature; for one trying to hedge [currency risk](/currency-risk/) separately, it complicates the picture.
+OPPJ is denominated in [US dollars](/us-dollar/) and trades on [NYSE Arca](/nyse-arca/), so investors buying it absorb currency exposure—the fund's returns depend not only on how Japanese stocks perform in yen but also on the yen-to-dollar exchange rate. A stronger yen boosts OPPJ's returns in dollar terms; a weaker yen drags on them. For a US investor wanting pure exposure to Japanese equity valuations and earnings, that currency component is a feature; for one trying to hedge [currency risk](/currency-risk/) separately, it complicates the picture.
 
 WisdomTree charges a modest [expense ratio](/expense-ratio/), typical for an index-tracking [equity ETF](/equity-etf/). The fund's liquidity is solid; OPPJ trades with reasonable spreads and steady volume, making entry and exit efficient for most investors.
 

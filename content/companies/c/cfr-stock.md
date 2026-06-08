@@ -55,7 +55,7 @@ Loan losses are inevitable. Some borrowers will lose their job, a business will 
 
 The bank's cost of funds is set by what it must pay depositors to keep their money with the bank. When the [Federal Reserve](/federal-reserve/) raises interest rates, savers expect to earn more at the bank. The bank must raise deposit rates or lose deposits to competitors. That directly hits margins. When rates are near zero, as they were in the 2020–2021 period, savers earn almost nothing, which means the bank can maintain a fat margin even if it lends at low rates.
 
-Deposit stability is crucial. If all the bank's deposits are in the form of time deposits (savings accounts with a fixed term), they are predictable — the bank knows when they will mature and can plan accordingly. If deposits are in checking accounts, they can flee quickly if a panic or a better offer elsewhere (like a high-yield savings account at a bigger competitor) arrives. In 2023, when regional banks suffered deposit runs, it was partly because depositors with large balances had become deposit-focused rather than relationship-focused — they moved money in pursuit of the highest rate, which hit banks like Cullen/Frost.
+Deposit stability is crucial. If all the bank's deposits are in the form of time deposits (savings accounts with a fixed term), they are predictable — the bank knows when they will mature and can plan accordingly. If deposits are in checking accounts, they can flee quickly if a panic or a better offer elsewhere (like a [high-yield savings account](/high-yield-savings-account/) at a bigger competitor) arrives. In 2023, when regional banks suffered deposit runs, it was partly because depositors with large balances had become deposit-focused rather than relationship-focused — they moved money in pursuit of the highest rate, which hit banks like Cullen/Frost.
 
 ## Wealth management and other services
 
@@ -63,7 +63,7 @@ Beyond lending and deposits, Cullen/Frost offers wealth management — helping r
 
 ## The regulatory environment
 
-Banks are among the most regulated businesses on Earth. They must maintain a minimum amount of capital relative to their risk-weighted assets (capital requirements). They must stress-test their portfolios against hypothetical bad scenarios. They must file detailed reports to the Federal Reserve, the OCC, and the FDIC. They face periodic audits and examinations. They must comply with anti-money-laundering rules, know-your-customer rules, and a range of other statutes designed to prevent fraud and financial crime.
+Banks are among the most regulated businesses on Earth. They must maintain a minimum amount of capital relative to their [risk-weighted assets](/risk-weighted-assets/) (capital requirements). They must stress-test their portfolios against hypothetical bad scenarios. They must file detailed reports to the Federal Reserve, the OCC, and the FDIC. They face periodic audits and examinations. They must comply with anti-money-laundering rules, know-your-customer rules, and a range of other statutes designed to prevent fraud and financial crime.
 
 This regulatory burden is expensive, but it also serves a protective function. Depositors at Cullen/Frost can be confident their money is there because the bank is required to maintain capital buffers and because deposits are insured (up to $250,000 per account) by the FDIC — a government backstop created after the Great Depression.
 
@@ -71,7 +71,7 @@ This regulatory burden is expensive, but it also serves a protective function. D
 
 Cullen/Frost's profitability swings with interest rates and the economy. When the Federal Reserve raises rates sharply (as it did in 2022–2023), margins are squeezed initially because deposit costs rise faster than loan yields adjust. But over time, higher rates can improve returns as new loans are booked at higher rates. When rates fall, margins expand initially, but falling rates usually come with economic weakness, which increases loan losses.
 
-The bank is also sensitive to the regional economy. Energy (oil and gas) is a significant part of the Texas economy, so oil price collapses hit Cullen/Frost. Real estate cycles matter a lot. A bust in housing or commercial real estate in the bank's markets increases defaults and loan losses.
+The bank is also sensitive to the regional economy. Energy (oil and gas) is a significant part of the Texas economy, so oil price collapses hit Cullen/Frost. [Real estate cycles](/real-estate-cycle/) matter a lot. A bust in housing or commercial real estate in the bank's markets increases defaults and loan losses.
 
 ## How to research Cullen/Frost
 

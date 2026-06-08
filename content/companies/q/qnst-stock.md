@@ -16,7 +16,7 @@ QuinStreet operates a portfolio of online marketplaces and lead-generation platf
 
 ## Where did QuinStreet come from?
 
-QuinStreet was founded in 1995 as a quoted search engine by senior executives including Frederic Jame and Richard Shaffer. The company established its core marketplace model in insurance quotes and financial comparison in the late 1990s and survived the dot-com crash by being immediately cash-generative—each advertiser bid it received translated to recurring revenue, not speculative venture cash. Over the following two decades, the company expanded from automobile and [homeowners insurance](/homeowners-insurance/) into health insurance, mortgage refinancing, credit cards, and related verticals through both organic development and targeted [acquisitions](/acquisition/). This slow, disciplined building-out of adjacent product lines is the core story of QNST: not a disruptive technology platform, but a reliable, profitable infrastructure play in a fragmented advertiser-led vertical.
+QuinStreet was founded in 1995 as a quoted search engine by senior executives including Frederic Jame and Richard Shaffer. The company established its core marketplace model in insurance quotes and financial comparison in the late 1990s and survived the dot-com crash by being immediately cash-generative—each advertiser bid it received translated to recurring revenue, not speculative venture cash. Over the following two decades, the company expanded from automobile and [homeowners insurance](/homeowners-insurance/) into health insurance, [mortgage refinancing](/mortgage-refinancing/), credit cards, and related verticals through both organic development and targeted [acquisitions](/acquisition/). This slow, disciplined building-out of adjacent product lines is the core story of QNST: not a disruptive technology platform, but a reliable, profitable infrastructure play in a fragmented advertiser-led vertical.
 
 ## How does QuinStreet make money?
 
@@ -62,4 +62,4 @@ The 10-K is worth reading for disclosure of customer concentration: if one custo
 
 ---
 
-QuinStreet is neither a high-growth technology story nor a value trap, but a steady-state business that converts consumer intent into advertiser revenue. Its future depends not on innovation but on maintaining operating efficiency, customer relationships, and the structural advantage of scale in a fragmented market.
+QuinStreet is neither a high-growth technology story nor a value trap, but a steady-state business that converts consumer intent into advertiser revenue. Its future depends not on innovation but on maintaining operating efficiency, customer relationships, and the structural advantage of scale in a [fragmented market](/fragmented-market/).

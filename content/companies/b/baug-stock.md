@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Innovator U.S. Equity Buffer ETF - August** (BAUG) is an exchange-traded fund that invests in broad U.S. large-cap stocks but wraps them in a protective strategy using options — specifically, a collar that caps losses during down years while capping gains during up years.*
+*The **Innovator U.S. Equity [Buffer ETF](/buffer-etf/) - August** (BAUG) is an exchange-traded fund that invests in broad U.S. large-cap stocks but wraps them in a protective strategy using options — specifically, a collar that caps losses during down years while capping gains during up years.*
 
 The Innovator Buffer series exists to solve a particular investor problem: most people can tolerate market gains but struggle psychologically with large losses. A standard diversified portfolio might fall 30% or 40% in a sharp [bear market](/bear-market/); many individuals panic-sell near the bottom, locking in losses. BAUG and its sister funds (Reset in different months) offer an alternative: a mechanical options strategy that locks in a maximum loss per calendar year, eliminating the temptation to panic.
 
@@ -51,7 +51,7 @@ BAUG trades with good liquidity on the NYSE, and the [bid-ask spread](/bid-ask-s
 
 ## Who buffer ETFs are for and how to think about them
 
-The Innovator buffer strategy works best for investors with a known weakness for panic-selling, those who have a low tolerance for volatility, or those who are near or in retirement and need to avoid large drawdowns at critical moments. If you can psychologically handle a 30% market decline and not sell, you are not the customer for BAUG. You would do better (over a full market cycle) with a plain diversified index fund that costs 0.05% annually and lets you capture all upside.
+The Innovator buffer strategy works best for investors with a known weakness for panic-selling, those who have a low tolerance for volatility, or those who are near or in retirement and need to avoid large drawdowns at critical moments. If you can psychologically handle a 30% market decline and not sell, you are not the customer for BAUG. You would do better (over a full [market cycle](/market-cycle/)) with a plain diversified index fund that costs 0.05% annually and lets you capture all upside.
 
 BAUG also only makes sense if you plan to hold for at least a full year, so that the options protection is active and meaningful. Day traders and market timers should not use buffer ETFs; the fees and the capped upside would erode returns.
 

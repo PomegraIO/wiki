@@ -41,7 +41,7 @@ TACOU is the warrant ticker. Upside: if You lands a genuine AI or biotech platfo
 
 ## What to watch
 
-- **Deal announcements.** When Berto names its target, the press release and SEC 8-K will disclose valuation, structure, and earnout terms. The proxy statement (to follow) will show the target's historical and projected financials. Those numbers tell you whether this is a real business or a narrative play.
+- **Deal announcements.** When Berto names its target, the press release and SEC 8-K will disclose valuation, structure, and earnout terms. The [proxy statement](/proxy-statement/) (to follow) will show the target's historical and projected financials. Those numbers tell you whether this is a real business or a narrative play.
 - **Customer concentration and unit economics.** Once the proxy is filed, check: Is the target dependent on 3–5 customers? Are margins expanding or compressing? Is the product differentiated or commodity? Are management's growth projections grounded in reasonable market sizing or hype?
 - **Sponsor financing.** If You has to secure significant committed financing (meaning sponsors or other backers are putting real money in to cover redemptions), that signals redemption risk. It does not kill the deal, but it is a yellow flag that public shareholders are skeptical.
 - **Redemption rate at close.** Once the deal is approved by shareholders, track how many redeem. High redemptions (>60 percent) mean You's sponsors owned the combined entity plus significant dilution from the financing; public shareholders who didn't redeem got diluted in the merger.

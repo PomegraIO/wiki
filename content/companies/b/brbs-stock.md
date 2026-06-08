@@ -41,7 +41,7 @@ BRBS's regulatory filings position the company as competing in a segment of mid-
 
 ## How to Study BRBS's Financial Disclosures
 
-An analyst preparing a research note on Blue Ridge should first map the loan portfolio by type and geography—most of the 10-K is devoted to this—to understand [concentration risk](/concentration-risk/) and earnings sensitivity to different economic scenarios. Second, examine net interest margin trends and manage for changes in deposit mix and funding costs. Third, assess asset quality by reviewing nonaccrual loans and loan-loss reserves; for regional banks, credit cycles matter more than scale. Fourth, trace acquisition activity and integration costs, as these often drive volatility in BRBS's reported results. Finally, compare BRBS's capital ratios and profitability to peer regional banks to gauge whether the company is generating competitive returns on equity.
+An analyst preparing a research note on Blue Ridge should first map the loan portfolio by type and geography—most of the 10-K is devoted to this—to understand [concentration risk](/concentration-risk/) and earnings sensitivity to different economic scenarios. Second, examine net interest margin trends and manage for changes in deposit mix and funding costs. Third, assess asset quality by reviewing nonaccrual loans and loan-loss reserves; for regional banks, [credit cycles](/credit-cycle/) matter more than scale. Fourth, trace acquisition activity and integration costs, as these often drive volatility in BRBS's reported results. Finally, compare BRBS's capital ratios and profitability to peer regional banks to gauge whether the company is generating competitive returns on equity.
 
 ---
 

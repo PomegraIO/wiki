@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-*TMED is the health-care sector in a basket. T. Rowe Price's managers select and weight 80 to 120 stocks across pharma, medical devices, diagnostics, managed care, health-care services. The tilt is toward mature, cash-generative names with stable earnings and [dividend](/dividend/) growth. Not a passive index track — active stock picking with a value-oriented bias.*
+*TMED is the health-care sector in a basket. [T. Rowe Price's](/t-rowe-price/) managers select and weight 80 to 120 stocks across pharma, medical devices, diagnostics, managed care, health-care services. The tilt is toward mature, cash-generative names with stable earnings and [dividend](/dividend/) growth. Not a passive index track — active stock picking with a value-oriented bias.*
 
 Health-care clusters into three distinct businesses. Pharma: drug launches and patent cliffs. A blockbuster drug can print billions in revenue for two decades; patent expiration wipes it out overnight. Stock moves on pipeline depth and probability of success. Medical devices and diagnostics: implants, surgical gear, imaging machines, lab platforms. Higher gross margins than pharma. Regulatory risk lower — device approvals less contested than drug approvals. But hospital and lab switching costs keep customers locked in. Health-care services and managed care: insurance and provider networks, dialysis centers, surgical facilities. Service economics, not product. Tied to reimbursement rates and cost control below the cap. Regulatory shifts in Medicare and Medicaid pricing hit margins immediately.
 
 ## The regulation problem
 
-Medicare, Medicaid, FDA. The sector lives inside government policy. Drug-pricing reforms trigger sharp stock moves. FDA approval of a competing therapy? Price action follows. Medicare rate cuts compress managed-care margins in real time. No other industrial sector sits this close to the political knife's edge. Cuts both ways: regulatory moats insulate American pharma and device makers from foreign disruption. Huge US market, patent protection, barriers to entry. But profits at constant risk from a surprise policy move — pricing legislation, patent challenge, reimbursement cut. Investors in TMED hold political risk as standing inventory.
+Medicare, Medicaid, FDA. The sector lives inside government policy. Drug-pricing reforms trigger sharp stock moves. FDA approval of a competing therapy? Price action follows. Medicare rate cuts compress managed-care margins in real time. No other industrial sector sits this close to the political knife's edge. Cuts both ways: regulatory moats insulate American pharma and device makers from foreign disruption. Huge US market, patent protection, barriers to entry. But profits at constant risk from a surprise policy move — pricing legislation, patent challenge, reimbursement cut. Investors in TMED hold [political risk](/political-risk/) as standing inventory.
 
 ## Active management versus passive tracking
 

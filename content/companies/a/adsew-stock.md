@@ -47,7 +47,7 @@ Ads-Tec's scale is smaller than its largest competitors. The company went public
 
 ### What are the main risks?
 
-The energy-storage and EV-charging industries face several structural risks. First, technology risk: battery costs are falling rapidly, and competing technologies or chemistries could render existing designs obsolete. A company that invested heavily in lithium-ion battery designs might find sodium-ion or solid-state batteries superior five years hence. Ads-Tec must innovate continuously to stay ahead.
+The energy-storage and EV-charging industries face several structural risks. First, [technology risk](/technology-risk/): battery costs are falling rapidly, and competing technologies or chemistries could render existing designs obsolete. A company that invested heavily in lithium-ion battery designs might find sodium-ion or solid-state batteries superior five years hence. Ads-Tec must innovate continuously to stay ahead.
 
 Second, capital intensity and execution: building manufacturing capacity for batteries and power systems requires significant investment and industrial discipline. Scaling production while maintaining margins is difficult. If Ads-Tec cannot manufacture efficiently or cannot find the capital to expand capacity as demand grows, it will lose market share to competitors.
 

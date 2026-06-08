@@ -29,7 +29,7 @@ A REIT investing in urban office buildings faces structural headwinds (hybrid wo
 
 ## Lease Structures and Cash-Flow Predictability
 
-A REIT's cash flow depends on lease structures. A long-term [triple-net lease](/triple-net-lease/) (where the tenant pays base rent plus property taxes, insurance, and maintenance) shifts costs and renewal risk to the tenant, providing the REIT with predictable cash. A gross lease (where the REIT covers operating costs) gives the REIT more revenue stability but introduces operating expense volatility. A month-to-month lease offers flexibility but exposes the REIT to turnover risk and potential vacancy.
+A REIT's cash flow depends on lease structures. A long-term [triple-net lease](/triple-net-lease/) (where the tenant pays base rent plus property taxes, insurance, and maintenance) shifts costs and renewal risk to the tenant, providing the REIT with predictable cash. A [gross lease](/gross-lease/) (where the REIT covers operating costs) gives the REIT more revenue stability but introduces operating expense volatility. A month-to-month lease offers flexibility but exposes the REIT to turnover risk and potential vacancy.
 
 The weighted average lease term (WALT), tenant creditworthiness, and lease renewal rate are critical metrics disclosed in REIT filings. A REIT with 10-year leases to investment-grade tenants and high renewal rates can project cash flows with confidence; one with leases expiring soon or to weak tenants faces cash-flow uncertainty. JOSS's lease profile determines both the dividend sustainability and the risk profile of the [stock](/stock/).
 
@@ -37,7 +37,7 @@ The weighted average lease term (WALT), tenant creditworthiness, and lease renew
 
 REITs are capital-intensive; a REIT cannot grow its portfolio without leverage. Debt is inevitable, and the REIT's [balance-sheet](/balance-sheet/) typically shows meaningful [corporate bonds](/corporate-bond/) and borrowings. The leverage introduces two risks: [refinancing risk](/refinancing-risk/) (if rates rise or the debt markets tighten, JOSS may struggle to refinance maturing obligations at affordable rates) and valuation risk (if [interest rates](/stock/) rise, the [present value](/stock/) of the REIT's cash flows falls, and the stock typically underperforms).
 
-A reader should examine JOSS's debt schedule: maturity profile, [interest rates](/interest-rate/), and covenant complexity. A REIT with debt concentrated in a few years faces refinancing risk; one with staggered maturities is more resilient. The ratio of debt-to-total [market-capitalization](/market-capitalization/) or [enterprise-value](/enterprise-value/) to [free cash flow](/free-cash-flow/) indicates leverage. Most REITs operate at 4–6x leverage; JOSS's specific leverage and debt maturity profile are disclosed in its filings.
+A reader should examine JOSS's debt schedule: maturity profile, [interest rates](/interest-rate/), and covenant complexity. A REIT with debt concentrated in a few years faces refinancing risk; one with staggered maturities is more resilient. The ratio of debt-to-total [market-capitalization](/market-capitalization/) or [enterprise-value](/enterprise-value/) to [free cash flow](/free-cash-flow/) indicates leverage. Most REITs operate at 4–6x leverage; JOSS's specific leverage and [debt maturity profile](/debt-maturity-profile/) are disclosed in its filings.
 
 ## [Return-on-Equity](/return-on-equity/) and Capital Allocation Discipline
 
@@ -47,7 +47,7 @@ This dynamic is central to REIT valuation. Investors trade REIT shares based on 
 
 ## Geographic and Sector Concentration Risks
 
-If JOSS has concentrated its portfolio in a single geography (e.g., Texas or Florida) or a single property type (e.g., suburban retail), it faces concentrated risk. Local economic downturns, shifts in consumer behavior, or regulatory changes in that region or sector could impair the entire portfolio. Conversely, a diversified REIT spreading holdings across geographies and property types has more stable but potentially lower-upside returns. JOSS's concentration metrics appear in its [10-K](/10-k/) under "[segment reporting](/segment-reporting/)" and "property detail."
+If JOSS has concentrated its portfolio in a single geography (e.g., Texas or Florida) or a single property type (e.g., suburban retail), it faces concentrated risk. Local economic downturns, shifts in consumer behavior, or regulatory changes in that region or sector could impair the entire portfolio. Conversely, a [diversified REIT](/diversified-reit/) spreading holdings across geographies and property types has more stable but potentially lower-upside returns. JOSS's concentration metrics appear in its [10-K](/10-k/) under "[segment reporting](/segment-reporting/)" and "property detail."
 
 ## Valuation and [Price-to-Book-Ratio](/price-to-book-ratio/) Mechanics
 

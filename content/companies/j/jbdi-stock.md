@@ -15,7 +15,7 @@ keywords: ["Hong Kong listing", "fintech", "Asia investment", "offshore holding 
 
 ## Foreign Listing and Information Asymmetry
 
-JBDI's Hong Kong listing means it operates outside the U.S. regulatory perimeter. While the company may have some [SEC](/securities-and-exchange-commission/) presence if it raises capital in U.S. markets or holds U.S. securities, its primary reporting obligation is to the Hong Kong Stock Exchange and the Securities and Futures Commission of Hong Kong. This creates significant information barriers for U.S.-based investors: Hong Kong disclosure standards differ from U.S. requirements, financial statements may be prepared under [International Financial Reporting Standards](/international-financial-reporting-standards/) (IFRS) rather than U.S. GAAP, and earnings announcements and regulatory filings are often in English-language translations of primarily Cantonese or Mandarin filings.
+JBDI's Hong Kong listing means it operates outside the U.S. regulatory perimeter. While the company may have some [SEC](/securities-and-exchange-commission/) presence if it raises capital in U.S. markets or holds U.S. securities, its primary reporting obligation is to the Hong Kong Stock Exchange and the [Securities and Futures Commission](/securities-and-futures-commission-hk/) of Hong Kong. This creates significant information barriers for U.S.-based investors: Hong Kong disclosure standards differ from U.S. requirements, financial statements may be prepared under [International Financial Reporting Standards](/international-financial-reporting-standards/) (IFRS) rather than U.S. GAAP, and earnings announcements and regulatory filings are often in English-language translations of primarily Cantonese or Mandarin filings.
 
 The asymmetry of information available to Hong Kong insiders versus U.S. retail shareholders is substantially higher than for U.S.-listed companies, where the [SEC](/securities-and-exchange-commission/) enforces standardized disclosure and prohibits insider trading with clarity and vigor. Non-U.S. corporate governance and insider trading enforcement is more variable, creating additional risk.
 
@@ -31,7 +31,7 @@ This opacity is not necessarily unusual for smaller Hong Kong-listed companies, 
 
 ## Capital Structure and Financing
 
-A Hong Kong-listed company's [balance sheet](/balance-sheet/) and [capital structure](/enterprise-value/) reflect the specific financial system and banking relationships available in Asia-Pacific. Bank financing, equity issuance, and cross-border capital flows follow different patterns than in the U.S. The company may have exposure to Hong Kong dollar or renminbi exchange rates, [interest rate](/interest-rate/) volatility, and credit cycles in regional banking—all of which introduce currency and interest rate risk for U.S. shareholders.
+A Hong Kong-listed company's [balance sheet](/balance-sheet/) and [capital structure](/enterprise-value/) reflect the specific financial system and banking relationships available in Asia-Pacific. Bank financing, equity issuance, and cross-border capital flows follow different patterns than in the U.S. The company may have exposure to Hong Kong dollar or renminbi exchange rates, [interest rate](/interest-rate/) volatility, and [credit cycles](/credit-cycle/) in regional banking—all of which introduce currency and interest rate risk for U.S. shareholders.
 
 [Dividend](/dividend/) policies for Hong Kong-listed companies often differ from U.S. norms; some pay distributions from current earnings, others hoard cash, and policies can shift as controlling shareholders redirect capital toward expansion, [acquisitions](/acquisition/), or other private interests. Minority shareholders have limited recourse.
 
@@ -49,7 +49,7 @@ A small Hong Kong-listed company like JBDI is unlikely to receive coverage from 
 
 ## Access to Information and Due Diligence
 
-A U.S. investor considering JBDI must commit to due diligence that may include: translating or obtaining English-language versions of Hong Kong Stock Exchange filings, researching the company through regional financial databases or news sources, understanding the regulatory environment in Hong Kong and any jurisdictions where JBDI operates, and assessing currency and geopolitical risks. The barrier to entry is substantially higher than for U.S.-listed companies, and information risk is correspondingly higher.
+A U.S. investor considering JBDI must commit to [due diligence](/due-diligence/) that may include: translating or obtaining English-language versions of Hong Kong Stock Exchange filings, researching the company through regional financial databases or news sources, understanding the regulatory environment in Hong Kong and any jurisdictions where JBDI operates, and assessing currency and geopolitical risks. The barrier to entry is substantially higher than for U.S.-listed companies, and information risk is correspondingly higher.
 
 ## Strategic Considerations
 

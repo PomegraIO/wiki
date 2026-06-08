@@ -14,7 +14,7 @@ handwritten: true
 
 ## The 2025 Merger
 
-Beacon's origin story is recent. On December 16, 2024, Berkshire Hills Bancorp and Brookline Bancorp agreed to combine in an all-stock merger of equals. Berkshire Hills shareholders received approximately 55% of the combined entity, while Brookline shareholders held about 45%. Regulatory approvals cleared by late August 2025, and the transaction closed on September 1, 2025. The surviving entity took the name Beacon Financial Corporation and changed the ticker from BHLB to BBT, signaling a fresh corporate identity for the joined organization.
+Beacon's origin story is recent. On December 16, 2024, Berkshire Hills Bancorp and Brookline Bancorp agreed to combine in an all-stock [merger of equals](/merger-of-equals/). Berkshire Hills shareholders received approximately 55% of the combined entity, while Brookline shareholders held about 45%. Regulatory approvals cleared by late August 2025, and the transaction closed on September 1, 2025. The surviving entity took the name Beacon Financial Corporation and changed the ticker from BHLB to BBT, signaling a fresh corporate identity for the joined organization.
 
 The motivation for the combination was familiar to regional banking: achieving scale to compete with larger nationals while improving efficiency and strengthening the [balance sheet](/balance-sheet/). Berkshire Hills had been executing its own optimization program—branch consolidations, loan portfolio adjustments, and cost reduction—before identifying Brookline as a merger partner. The two companies saw complementary footprints and customer bases in the same geographic region.
 
@@ -38,7 +38,7 @@ Beacon enters a period of operational integration. The company must merge two le
 
 ## Tracking the Business
 
-Readers interested in Beacon should monitor the company's quarterly [10-Q](/wiki/10-k/) filings and the full-year [10-K](/wiki/10-k/) for evidence of integration progress. Key metrics to watch include net interest margin (the spread between what the bank earns on loans and what it pays on deposits), loan loss provisions, deposit growth versus peers, and cost-to-income ratio. Press releases from management discussing branch consolidation, technology initiatives, and cost-save realization will signal momentum on integration. The company's ability to retain front-line talent and client relationships through the transition is not visible in SEC filings but drives long-term value.
+Readers interested in Beacon should monitor the company's quarterly [10-Q](/wiki/10-k/) filings and the full-year [10-K](/wiki/10-k/) for evidence of integration progress. Key metrics to watch include net interest margin (the spread between what the bank earns on loans and what it pays on deposits), loan loss provisions, deposit growth versus peers, and [cost-to-income ratio](/cost-income-ratio/). Press releases from management discussing branch consolidation, technology initiatives, and cost-save realization will signal momentum on integration. The company's ability to retain front-line talent and client relationships through the transition is not visible in SEC filings but drives long-term value.
 
 ## At a glance
 

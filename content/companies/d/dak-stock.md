@@ -27,13 +27,13 @@ The Dakota Active [Equity ETF](/equity-etf/) ([NASDAQ](/nasdaq/): DAK) is an exc
 
 ## Origins and the shift to active ETFs
 
-Dakota Investment Advisors began as a traditional mutual-fund manager serving institutional and retail clients through separately managed accounts and closed-end partnerships. For decades, the firm operated outside the ETF ecosystem, building a reputation for disciplined fundamental research and a stock-selection process rooted in rigorous analysis rather than factor tilts or momentum trading.
+Dakota Investment Advisors began as a traditional mutual-fund manager serving institutional and retail clients through [separately managed accounts](/separately-managed-account/) and closed-end partnerships. For decades, the firm operated outside the ETF ecosystem, building a reputation for disciplined fundamental research and a stock-selection process rooted in rigorous analysis rather than factor tilts or [momentum trading](/momentum-trading/).
 
 The decision to launch DAK reflected a broader industry trend: institutional investors and advisers increasingly preferred the transparency, tax efficiency, and [intraday liquidity](/intraday-liquidity/) of ETFs over traditional mutual-fund structures. By launching an [active ETF](/active-etf/) in its own name, Dakota could bring its existing investment philosophy to a new audience without cannibilizing its legacy mutual-fund business. The fund arrived during a period of rising competition from passive [index funds](/index-fund/) and factor-based ETFs, offering an alternative: professional stock-picking with the operational convenience of an ETF.
 
 ## How Dakota selects stocks
 
-The fund's core process begins with a universe of large-cap U.S. companies and systematically screens for characteristics the managers believe predict long-term returns. Candidates typically score well on metrics such as [return on equity](/return-on-equity/), [free cash flow](/free-cash-flow/) yield, and debt levels relative to earnings — the idea being that profitable, well-managed companies trading at reasonable prices tend to outperform over market cycles.
+The fund's core process begins with a universe of large-cap U.S. companies and systematically screens for characteristics the managers believe predict long-term returns. Candidates typically score well on metrics such as [return on equity](/return-on-equity/), [free cash flow](/free-cash-flow/) yield, and debt levels relative to earnings — the idea being that profitable, well-managed companies trading at reasonable prices tend to outperform over [market cycles](/market-cycle/).
 
 Once a candidate passes the initial screen, Dakota analysts conduct deep fundamental research. They read [annual reports](/10-k/) and earnings transcripts, speak with company management, and test their hypotheses against historical financial data. The goal is not to find hidden gems — most holdings are large, known companies — but to identify situations where the market's consensus price is overly pessimistic relative to the company's durable earning power.
 

@@ -37,7 +37,7 @@ Revenue comes through wholesale (orders placed by retailers), DTC sales (company
 
 Key metrics to monitor in [10-K](/wiki/10-k/) filings:
 
-- **Wholesale order book:** Reported quarterly; a leading indicator of upcoming revenue. Weakness here typically precedes revenue deceleration.
+- **Wholesale order book:** Reported quarterly; a [leading indicator](/leading-indicator/) of upcoming revenue. Weakness here typically precedes revenue deceleration.
 - **Comparable store sales (comp sales):** Year-over-year change in DTC revenue at constant locations. Persistent negative comps signal brand weakness or market saturation.
 - **Gross margin:** Sensitive to product mix (wholesale is typically lower margin than DTC), geographies, and cost inflation. Margin expansion signals pricing power or cost control.
 - **Inventory levels:** Excess inventory forces promotions, pressuring margin. Watch inventory turn and aging.

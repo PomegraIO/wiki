@@ -17,7 +17,7 @@ handwritten: true
 
 GTR implements a trademarked strategy called TOPS (Total Return Overlay Put Strategy) Global Equity Target Range, designed to mimic a cash-secured [call spread](/call-spread/): holding a long equity position while systematically selling [call options](/call-option/) against it. The fund designates roughly 80 to 85 percent of its assets to cash collateral that backs its option-writing obligations. That cash sits idle most of the time. The remainder is deployed across global equities.
 
-The methodology runs an annual reset, typically in January, when the fund rebalances and enters fresh call-option positions. Monthly rebalancing of the underlying equity portfolio keeps it aligned with its stated mandate. The effect is mechanical: collect premium from selling the calls, accept that captured gains above the [strike price](/strike-price/) belong to the option buyers, repeat monthly.
+The methodology runs an annual reset, typically in January, when the fund rebalances and enters fresh call-option positions. Monthly rebalancing of the underlying equity portfolio keeps it aligned with its stated mandate. The effect is mechanical: collect premium from selling the calls, accept that captured gains above the [strike price](/strike-price/) belong to the [option buyers](/option-buyer/), repeat monthly.
 
 On the surface this sounds disciplined — a fixed rule. In practice it forces a decision: when markets rise sharply, GTR holders watch the upside disappear into the call-option buyer's pocket. That trade-off is the entire premise, yet it stings in [bull markets](/bull-market/).
 

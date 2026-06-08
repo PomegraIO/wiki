@@ -35,7 +35,7 @@ The ammonia and nitrogen fertilizer business is capital-intensive and commodity-
 
 **Operating efficiency** translates to lower per-unit costs. The CVR plant is modern and well-maintained, and the firm tracks operational metrics closely to keep heat rates (energy per ton of ammonia) competitive.
 
-**Feedstock access** is the third pillar. Natural gas is the primary raw material and input cost driver. CVR Partners buys gas at market prices; it does not have long-term fixed contracts. When natural gas is cheap, margins are wide. When natural gas spikes (as in 2021–2022), margins compress sharply. The partnership has no hedging program at scale, so it absorbs commodity volatility directly.
+**Feedstock access** is the third pillar. Natural gas is the primary raw material and input [cost driver](/cost-driver/). CVR Partners buys gas at market prices; it does not have long-term fixed contracts. When natural gas is cheap, margins are wide. When natural gas spikes (as in 2021–2022), margins compress sharply. The partnership has no hedging program at scale, so it absorbs commodity volatility directly.
 
 Competitors include major producers like [CF Industries](/cf-stock/) and Dyno Nobel, regional players in Canada, and the ammonia capacity of CVR Energy's fertilizer operations (which CVR Partners does not own). Global overcapacity in ammonia is a chronic risk: if producers in the Middle East, Russia, or other regions can make ammonia cheaper (due to lower feedstock costs), imports can flood the North American market and depress prices for all domestic producers.
 

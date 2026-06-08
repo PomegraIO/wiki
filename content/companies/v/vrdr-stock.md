@@ -48,7 +48,7 @@ The competitive landscape is fragmented. Large construction-materials companies 
 
 ## Economics and the cash-burn question
 
-Verde is a capital-intensive business that requires upfront investment in facilities and working capital to manage feedstock and inventory. Many such companies operate at a loss or thin margins until they achieve scale or until regulatory or market conditions create demand sufficiently strong to absorb the capital costs. The company's ability to reach profitability or cash breakeven depends on three factors: feedstock cost (can it source waste material cheaply?), production efficiency (how much biochar can it squeeze from a ton of feedstock?), and product pricing (can it command prices that cover all costs plus a margin?). Each of these is competitive and subject to market cycles.
+Verde is a capital-intensive business that requires upfront investment in facilities and working capital to manage feedstock and inventory. Many such companies operate at a loss or thin margins until they achieve scale or until regulatory or market conditions create demand sufficiently strong to absorb the capital costs. The company's ability to reach profitability or cash breakeven depends on three factors: feedstock cost (can it source waste material cheaply?), production efficiency (how much biochar can it squeeze from a ton of feedstock?), and product pricing (can it command prices that cover all costs plus a margin?). Each of these is competitive and subject to [market cycles](/market-cycle/).
 
 ## Investor considerations
 

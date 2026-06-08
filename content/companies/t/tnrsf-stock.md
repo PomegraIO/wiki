@@ -52,7 +52,7 @@ The company has worked to improve cost position by securing long-term supply con
 
 Tenaris's entire revenue depends on capital spending by oil and gas operators. That spending is notoriously volatile and driven by management's views on long-term energy prices, which are themselves impossible to forecast with accuracy. A year of low oil prices triggers a capital-spending pullback, Wells get drilled more slowly, casing orders disappear, and Tenaris's revenue plummets within months.
 
-The relationship is so tight that Tenaris's quarter-to-quarter results are almost a leading indicator of global energy-industry capital spending. When Tenaris's order backlog is strong, it signals that operators are committing to major projects downstream. When it collapses, it means producers are hoarding cash and deferring wells.
+The relationship is so tight that Tenaris's quarter-to-quarter results are almost a [leading indicator](/leading-indicator/) of global energy-industry capital spending. When Tenaris's order backlog is strong, it signals that operators are committing to major projects downstream. When it collapses, it means producers are hoarding cash and deferring wells.
 
 Over long periods, the demand has been robust: global energy demand continues to grow, and much of the remaining economically recoverable oil and gas lies in hostile environments (deep water, Arctic, subsalt formations) that require expensive wells and high-specification equipment. Tenaris's tubes are indispensable to that supply. But nothing protects it from the interim downturns, which arrive regularly and can be severe.
 

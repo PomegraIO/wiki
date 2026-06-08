@@ -31,7 +31,7 @@ Ebang's manufacturing and customer base have been deeply embedded in China, a ge
 
 ## Debt Structure and Capital Allocation
 
-Unlike many hardware manufacturers, Ebang has carried meaningful debt, particularly in periods of heavy capital spending on inventory or design cycles. The [balance sheet](/balance-sheet/) reveals whether the company operates at [leverage ratios](/leverage-ratio-forex/) typical of stable hardware suppliers or whether it is relying on high working capital turnover to service debt. Examine [accounts receivable](/accounts-receivable/) aging; if customers (typically [mining pools](/mining-pool/) or operations) are extending payment terms, that signals margin compression or a shift in negotiating power. The 10-K will also indicate whether the company is investing cash flows back into R&D for next-generation chips or distributing capital to shareholders.
+Unlike many hardware manufacturers, Ebang has carried meaningful debt, particularly in periods of heavy capital spending on inventory or design cycles. The [balance sheet](/balance-sheet/) reveals whether the company operates at [leverage ratios](/leverage-ratio-forex/) typical of stable hardware suppliers or whether it is relying on high [working capital turnover](/working-capital-turnover/) to service debt. Examine [accounts receivable](/accounts-receivable/) aging; if customers (typically [mining pools](/mining-pool/) or operations) are extending payment terms, that signals margin compression or a shift in negotiating power. The 10-K will also indicate whether the company is investing cash flows back into R&D for next-generation chips or distributing capital to shareholders.
 
 ## Adjacent Revenue and Pivots
 

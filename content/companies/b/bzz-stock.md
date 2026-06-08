@@ -52,7 +52,7 @@ Thematic funds by design concentrate risk. If you are wrong about the theme—if
 
 Regulatory risk is outsized. If regulators in major markets decide urban air mobility is too dangerous or too disruptive to allow over populated areas, the whole thesis collapses. Alternatively, if only one government (say, China) pushes UAM adoption while the West drags its feet, the geographic concentration of opportunity shifts.
 
-Technology risk is also material. A competing technology—say, tunnel-based transportation or hyperloop adoption—might cannibalize the addressable market. Or the aircraft might prove to be far more difficult to make safe than engineers anticipate, delaying deployment.
+[Technology risk](/technology-risk/) is also material. A competing technology—say, tunnel-based transportation or hyperloop adoption—might cannibalize the addressable market. Or the aircraft might prove to be far more difficult to make safe than engineers anticipate, delaying deployment.
 
 Individual company risk is the third layer. Even within the theme, companies fail. A startup building autonomous flight software might burn through capital without reaching profitability. A legacy aerospace company might commit resources halfheartedly and never bring products to market. [Diversification](/diversification/) across the basket provides some buffer, but it does not eliminate company-specific failures.
 

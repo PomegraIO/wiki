@@ -81,7 +81,7 @@ The portfolio is also a product of acquisition. Wyndham built itself through [me
 
 Very. Hotel revenue is discretionary—people travel less when economies contract. Occupancy rates fall, and franchisees face margin pressure. Room rates may decline as competition intensifies for fewer guests. Franchise royalties track room revenue, so Wyndham's fee base shrinks directly. Management contracts that are profit-linked suffer even more.
 
-Corporate travel (a key driver) is vulnerable to economic cuts and shifting work norms (post-2020, remote work has reduced business travel). Leisure travel is less cyclical but still takes a hit in severe downturns.
+Corporate travel (a key driver) is vulnerable to economic cuts and shifting work norms (post-2020, remote work has reduced business [travel). Leisure](/tnl-stock/) travel is less cyclical but still takes a hit in severe downturns.
 
 [Real estate investment trusts](/real-estate-investment-trust/) and large chains that own multiple Wyndham properties may default on royalty payments or abandon underperforming locations. This creates [credit risk](/credit-risk/) and revenue volatility.
 
@@ -96,7 +96,7 @@ Wyndham's [10-K](/wiki/10-k/) typically highlights:
 - **RevPAR (revenue per available room) trends:** Wyndham tracks system-wide RevPAR—a proxy for pricing power and demand. Declining RevPAR is a warning sign.
 - **Adjusted [EBITDA](/ebitda/) and [free cash flow](/free-cash-flow/):** High-margin models should generate cash; Wyndham discloses adjusted metrics to normalize non-recurring items.
 - **Debt levels:** As of its independence in 2018, Wyndham carried debt from the spin and [acquisitions](/acquisition/). Debt covenants and [refinancing risk](/refinancing-risk/) appear in debt schedules.
-- **Loyalty program economics:** Points liabilities (deferred revenue from unredeemed points) and loyalty member growth are tracked.
+- **Loyalty program economics:** Points liabilities ([deferred revenue](/deferred-revenue/) from unredeemed points) and loyalty member growth are tracked.
 - **Technology investments:** Wyndham discloses capex for systems, mobile apps, and distribution platforms.
 
 Reading the risk factors reveals concerns about franchisee quality, regulatory changes in labor or environmental standards, and competitive threats from non-traditional lodging models.
@@ -105,7 +105,7 @@ Reading the risk factors reveals concerns about franchisee quality, regulatory c
 
 Start with the franchise pipeline and net unit growth. A rising net-unit count suggests franchisees believe in the brand and the system. Stagnation or closures point to weakness.
 
-Track system-wide RevPAR and occupancy. These are leading indicators of franchisee health and pricing power. Management guidance on revenue per available room is valuable.
+Track system-wide RevPAR and occupancy. These are [leading indicators](/leading-indicator/) of franchisee health and pricing power. Management guidance on revenue per available room is valuable.
 
 Examine the franchisee base: Who are the top operators? Are they well-capitalized and stable, or overleveraged? Large franchisee defaults can cascade.
 

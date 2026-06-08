@@ -59,7 +59,7 @@ Currency regulations, [anti-money laundering](/anti-money-laundering/) requireme
 
 ## Reputational and Regulatory Risk
 
-Finally, Burford faces ongoing reputational risk tied to the nature of litigation finance. Some public commentators view litigation finance as a form of speculation that increases frivolous litigation and drives up legal costs. Although litigation finance is legal in most jurisdictions where Burford operates, there is periodic pressure for regulatory restrictions. A significant shift in public opinion or legislative action could reduce Burford's addressable market or change the terms on which litigation finance is permitted.
+Finally, Burford faces ongoing [reputational risk](/reputational-risk/) tied to the nature of litigation finance. Some public commentators view litigation finance as a form of speculation that increases frivolous litigation and drives up legal costs. Although litigation finance is legal in most jurisdictions where Burford operates, there is periodic pressure for regulatory restrictions. A significant shift in public opinion or legislative action could reduce Burford's addressable market or change the terms on which litigation finance is permitted.
 
 Burford's strategy is therefore not only to operate efficiently within existing regulations but to engage in regulatory advocacy and public education to ensure that litigation finance remains legal and attractive in key jurisdictions. The company's ability to grow depends on navigating and, where possible, shaping the regulatory environment around third-party litigation funding.
 

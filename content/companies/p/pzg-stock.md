@@ -32,7 +32,7 @@ The company holds stakes in multiple projects across Nevada, each representing a
 
 The company operates in a high-risk, high-reward space. Exploration failure is the baseline risk: the company may drill where it expects mineralization and find nothing of value. Capital markets risk is acute, too; if investor appetite for junior mining cools, or if gold prices fall sharply, raising new capital becomes far harder and the valuation of the company's claims drops. Regulatory risk includes potential changes to mining laws or environmental rules in Nevada that could restrict where or how exploration can happen.
 
-There is also execution risk. Successful exploration requires geological insight, drilling precision, and a team capable of interpreting complex subsurface geology. A team that consistently finds mineralization in Nevada will attract capital and partners; a team that repeatedly misses will see confidence erode and capital dry up. Additionally, Paramount Gold Nevada faces commodity price risk — if gold prices collapse, even discoveries become less valuable because the economics of mining decline.
+There is also [execution risk](/execution-risk/). Successful exploration requires geological insight, drilling precision, and a team capable of interpreting complex subsurface geology. A team that consistently finds mineralization in Nevada will attract capital and partners; a team that repeatedly misses will see confidence erode and capital dry up. Additionally, Paramount Gold Nevada faces commodity price risk — if gold prices collapse, even discoveries become less valuable because the economics of mining decline.
 
 ## How would someone research Paramount Gold Nevada as a potential investor?
 

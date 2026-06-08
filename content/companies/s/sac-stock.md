@@ -23,7 +23,7 @@ The SPAC's incentive structure is built into its [share class](/share-class/). S
 
 Safeguard's job is to identify an acquisition target, negotiate a transaction, obtain shareholder approval, and close the merger. The target is typically a private company (or portfolio of assets) that the SPAC founders believe will benefit from public-market capital and scrutiny. The SPAC provides a faster, more certain path to going public than a traditional IPO, because the sponsor's reputation and the pre-committed trust capital reduce uncertainty.
 
-The SPAC finances the deal using the cash raised at IPO, plus additional money from investor commitments (called PIPE investments — private investment in public equity) that accompany the merger announcement. These pipes allow the combined company to have a larger equity base at closing than the original SPAC IPO alone could provide.
+The SPAC finances the deal using the cash raised at IPO, plus additional money from investor commitments (called PIPE investments — private investment in public equity) that accompany the merger announcement. These pipes allow the combined company to have a larger equity base at closing than the original [SPAC IPO](/spac-ipo/) alone could provide.
 
 ## Capital and risks
 
@@ -31,7 +31,7 @@ SAC's entire value proposition rests on execution: finding a good target, negoti
 
 The capital structure at merger typically dilutes the SPAC's public shareholders: the founder shares (issued cheaply) remain outstanding, founder warrants vest, and the PIPE investors get shares at negotiated prices. The resulting combined company's ownership reflects all these layers. Public shareholders thus face immediate dilution upon close, in exchange for gaining a liquid market for their shares and public disclosure of the operating business.
 
-The SPAC has become a contentious financing method. Critics point to potential conflicts of interest (sponsors profit from any deal, regardless of quality) and the speed of the process (less due diligence than a traditional IPO roadshow). Supporters note the certainty of capital and the ability of private companies to negotiate transparent terms. Regulatory scrutiny of SPACs has increased, imposing stricter disclosure rules and warrants registration requirements that increase costs.
+The SPAC has become a contentious financing method. Critics point to potential conflicts of interest (sponsors profit from any deal, regardless of quality) and the speed of the process (less [due diligence](/due-diligence/) than a traditional IPO roadshow). Supporters note the certainty of capital and the ability of private companies to negotiate transparent terms. Regulatory scrutiny of SPACs has increased, imposing stricter disclosure rules and warrants registration requirements that increase costs.
 
 ## Reading Safeguard Acquisition Corp.
 

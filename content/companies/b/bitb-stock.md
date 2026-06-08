@@ -12,7 +12,7 @@ handwritten: true
 
 > "For the first time, Bitcoin can be held and traded in a brokerage account as easily as a stock."
 
-Bitwise [Bitcoin](/bitcoin/) ETF (NYSE Arca: BITB) is the simplest possible product: a fund that buys Bitcoin, holds it in custody, and lets shares trade on a traditional [stock exchange](/stock-exchange/). An investor with a brokerage account can buy Bitcoin without ever learning how to use a crypto wallet, without downloading software, and without opening an account on a [cryptocurrency exchange](/cryptocurrency-exchange/). That simplicity is the entire point.
+Bitwise [Bitcoin](/bitcoin/) ETF ([NYSE Arca](/nyse-arca/): BITB) is the simplest possible product: a fund that buys Bitcoin, holds it in custody, and lets shares trade on a traditional [stock exchange](/stock-exchange/). An investor with a brokerage account can buy Bitcoin without ever learning how to use a crypto wallet, without downloading software, and without opening an account on a [cryptocurrency exchange](/cryptocurrency-exchange/). That simplicity is the entire point.
 
 ## The mechanism
 

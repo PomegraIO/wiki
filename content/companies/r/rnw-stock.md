@@ -33,7 +33,7 @@ In the development phase, ReNew identifies land suitable for wind or solar farms
 
 Once ReNew wins a contract, it enters the construction phase. This means ordering equipment (solar panels, wind turbines, transformers, inverters, transmission lines), hiring contractors, managing engineering, and building the plant. The company tries to reduce costs here through scale (buying panels in bulk, developing expertise, using the same contractors repeatedly) and through operational excellence (building efficiently, avoiding delays, managing risk).
 
-The operations phase is where the money appears on the [income statement](/income-statement/). Once built and connected to the grid, a solar or wind farm generates power 24/7 (or whenever wind/sun is available). ReNew sells this power under a power purchase agreement (PPA) — a long-term contract with a utility or corporate buyer that guarantees a set price for megawatt-hours delivered. The utility pays monthly; the farm's operating costs are minimal (mostly maintenance, insurance, and grid fees). That difference between the revenue (power sold at the PPA price) and the cost (operations) is the cash the company collects year after year.
+The operations phase is where the money appears on the [income statement](/income-statement/). Once built and connected to the grid, a solar or wind farm generates power 24/7 (or whenever wind/sun is available). ReNew sells this power under a [power purchase agreement](/power-purchase-agreement/) (PPA) — a long-term contract with a utility or corporate buyer that guarantees a set price for megawatt-hours delivered. The utility pays monthly; the farm's operating costs are minimal (mostly maintenance, insurance, and grid fees). That difference between the revenue (power sold at the PPA price) and the cost (operations) is the cash the company collects year after year.
 
 A solar farm's revenue is highly predictable once built. The sun rises and sets on a known schedule; the farm generates power in proportion to the sunlight and the farm's capacity. A 100-megawatt solar farm generating for 20 years produces tens of thousands of megawatt-hours and revenue predictable within a few percent, provided the equipment does not fail. This predictability is why investors find renewable energy attractive: the cash flows resemble a [bond](/bond/) coupon more than a volatile business.
 
@@ -65,9 +65,9 @@ Growth requires constant execution: win auctions, build on time and on budget, r
 
 ## What are the real risks?
 
-Policy risk in India is the largest single risk. The government could slow its renewable targets, reduce subsidies, or change the auction process. If India dramatically reduced renewable procurement, ReNew's pipeline of new projects would evaporate.
+Policy risk in India is the largest single risk. The government could slow its renewable targets, reduce subsidies, or change the [auction process](/auction-process-ma/). If India dramatically reduced renewable procurement, ReNew's pipeline of new projects would evaporate.
 
-Commodity and execution risk includes changes in equipment costs (panel and turbine prices), supply-chain disruptions, or execution delays. A major project cost overrun or failure would damage the company's reputation and investor confidence.
+Commodity and [execution risk](/execution-risk/) includes changes in equipment costs (panel and turbine prices), supply-chain disruptions, or execution delays. A major project cost overrun or failure would damage the company's reputation and investor confidence.
 
 Refinancing and financial risk arises because the company depends on accessing capital to grow and on favorable debt terms for its operating plants. A credit crunch, rising [interest rates](/interest-rate/) globally, or deterioration in India's credit markets could constrain the company's ability to expand or refinance maturing debt.
 

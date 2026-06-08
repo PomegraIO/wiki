@@ -56,6 +56,6 @@ Investors can buy or sell shares at any point during market hours, unlike mutual
 
 ## How to evaluate GUSE
 
-Study the fund's [annual reports](/10-k/) and holdings lists to understand the types of companies Goldman Sachs favors and the magnitude of the deviation from the S&P 500. Compare GUSE's rolling returns to a simple S&P 500 ETF (SPY, IVV, VOO) over multiple market cycles: one-year, three-year, five-year, and ten-year periods. In years when GUSE outperforms, note what was true about the stocks it held relative to the broader index. In years it underperformed, identify what went wrong — was it a sector bet that failed to play out, or poor stock selection within sectors?
+Study the fund's [annual reports](/10-k/) and holdings lists to understand the types of companies Goldman Sachs favors and the magnitude of the deviation from the S&P 500. Compare GUSE's rolling returns to a simple S&P 500 ETF (SPY, IVV, VOO) over multiple [market cycles](/market-cycle/): one-year, three-year, five-year, and ten-year periods. In years when GUSE outperforms, note what was true about the stocks it held relative to the broader index. In years it underperformed, identify what went wrong — was it a sector bet that failed to play out, or poor stock selection within sectors?
 
 The fund's consistency matters more than any single year. Persistent outperformance suggests the quantitative models are genuinely adding value; sporadic gains suggest the returns are mostly luck. Check the quarterly factsheets for tracking error and relative performance data.

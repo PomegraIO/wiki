@@ -4,7 +4,7 @@ description: "Canadian nickel-cobalt explorer pursuing high-grade deposits in th
 keywords: ["nickel", "cobalt", "mining", "battery metals", "Canadian Shield", "mineral exploration"]
 ---
 
-*The story of **Giga Metals Corp (GIGGF)** is inseparable from the global scramble for battery metals and the peculiar geology of northwestern Ontario. What began as a focused mineral-exploration venture has evolved into a company positioning itself at a critical intersection: the emerging demand for nickel and cobalt feedstock and the technical challenge of accessing high-grade deposits where political risk is minimal. The company was founded on the premise that world-class battery-metal ore bodies remain to be discovered in stable, developed jurisdictions — a conviction that shaped both where it looked and how it approached permitting and development.*
+*The story of **Giga Metals Corp (GIGGF)** is inseparable from the global scramble for battery metals and the peculiar geology of northwestern Ontario. What began as a focused mineral-exploration venture has evolved into a company positioning itself at a critical intersection: the emerging demand for nickel and cobalt feedstock and the technical challenge of accessing high-grade deposits where [political risk](/political-risk/) is minimal. The company was founded on the premise that world-class battery-metal ore bodies remain to be discovered in stable, developed jurisdictions — a conviction that shaped both where it looked and how it approached permitting and development.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GIGGF</td></tr>

@@ -31,9 +31,9 @@ The price at which Lithium Africa raises capital—the valuation—depends entir
 
 ## Jurisdictional and Political Risk as Capital Constraint
 
-Lithium Africa operates in Africa, where mineral rights are granted by national governments that may be unstable, corrupt, or subject to sudden policy reversals. A new administration may renegotiate mining contracts, increase royalties, or revoke permits entirely. This is not mere legal risk; it is fundamental to the firm's capital cost.
+Lithium Africa operates in Africa, where mineral rights are granted by national governments that may be unstable, corrupt, or subject to sudden policy reversals. A new administration may renegotiate mining contracts, increase royalties, or revoke permits entirely. This is not mere [legal risk](/legal-risk/); it is fundamental to the firm's capital cost.
 
-Investors demand higher [return-on-equity](/return-on-equity/) to compensate for political risk. A firm exploring in Canada or Australia can raise capital cheaply because property rights are stable. Lithium Africa must offer higher potential returns—larger upside—to attract capital. In practice, this means the company is valued lower and must accept higher [share-buyback](/share-buyback/) rates and larger ownership dilution per dollar raised than would a peer in a stable jurisdiction.
+Investors demand higher [return-on-equity](/return-on-equity/) to compensate for [political risk](/political-risk/). A firm exploring in Canada or Australia can raise capital cheaply because property rights are stable. Lithium Africa must offer higher potential returns—larger upside—to attract capital. In practice, this means the company is valued lower and must accept higher [share-buyback](/share-buyback/) rates and larger ownership dilution per dollar raised than would a peer in a stable jurisdiction.
 
 This jurisdictional discount shapes the entire capital structure: the company cannot raise debt (lenders demand collateral, which mineral claims are not and cannot be reliably foreclosed in unstable countries); it cannot easily attract institutional investors who face compliance and fiduciary constraints around emerging-market resource plays. Lithium Africa is largely a retail-funded and small-investor venture.
 
@@ -51,7 +51,7 @@ The company has no earnings to discount and no dividend to capitalize. The valua
 
 ## The Acquisition Endgame
 
-Lithium Africa's financial model assumes an exit event: [acquisition](/acquisition/) by a larger mining company, a take-private at a premium to market price, or a [merger](/merger/) with another exploration firm. Few exploration-stage companies grow into producing mining firms through organic development; the capital requirements are too high and the execution risk is immense. Instead, a successful junior explorer (one with a credible resource) is bought by a mid-tier or major mining company that already has operational expertise, debt capacity, and permitting relationships.
+Lithium Africa's financial model assumes an exit event: [acquisition](/acquisition/) by a larger mining company, a take-private at a premium to market price, or a [merger](/merger/) with another exploration firm. Few exploration-stage companies grow into producing mining firms through organic development; the capital requirements are too high and the [execution risk](/execution-risk/) is immense. Instead, a successful junior explorer (one with a credible resource) is bought by a mid-tier or major mining company that already has operational expertise, debt capacity, and permitting relationships.
 
 This shapes shareholder returns: they come not from dividends or gradual capital appreciation, but from a binary event—the acquisition bid—that either happens or doesn't. Until then, the stock is a [call option](/call-option/) on commodities and exploration success.
 

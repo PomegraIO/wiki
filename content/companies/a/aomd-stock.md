@@ -15,7 +15,7 @@ The company functions as a mortgage originator and balance-sheet lender rolled i
 
 ## The origination-to-securities machine
 
-Angel Oak's operating model sits at the intersection of mortgage lending and structured products. It originates non-QM loans—often to borrowers with stated income, recent [credit events](/credit-event-sovereign/), or non-traditional employment—and either keeps the loan on its books or packages it into a securitization for sale to investors. The securitization arm generates fees and accelerates capital turnover, while the portfolio of retained mortgages generates interest income and provides the equity cushion for securities issued against them.
+Angel Oak's operating model sits at the intersection of mortgage lending and [structured products](/structured-product/). It originates non-QM loans—often to borrowers with stated income, recent [credit events](/credit-event-sovereign/), or non-traditional employment—and either keeps the loan on its books or packages it into a securitization for sale to investors. The securitization arm generates fees and accelerates capital turnover, while the portfolio of retained mortgages generates interest income and provides the [equity cushion](/equity-cushion/) for securities issued against them.
 
 ## Exposure to residential real estate and credit cycles
 

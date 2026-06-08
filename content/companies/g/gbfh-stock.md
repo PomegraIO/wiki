@@ -31,11 +31,11 @@ Within this constraint, GBank emphasizes commercial and agricultural lending. Ag
 
 GBank Financial prices each loan to cover three costs: the cost of funds to lend that money, the estimated loss from default, and a portion of operating costs (salaries, compliance, technology). A commercial loan priced at 6.5 percent might break down as: 4.0 percent cost of funds, 1.2 percent expected loss reserve, and 1.3 percent to cover the loan officer's salary and overhead. The remaining spread is profit.
 
-Expected loss varies by loan type and borrower. A loan to an established agricultural producer with good collateral (land, equipment) might carry a 0.5 percent expected loss. A construction loan to a developer with marginal equity might carry 2 percent expected loss. GBank must price accurately: if it systematically underestimates losses, its spreads become inadequate and shareholder returns suffer.
+Expected loss varies by loan type and borrower. A loan to an established agricultural producer with good collateral (land, equipment) might carry a 0.5 percent expected loss. A [construction loan](/construction-loan/) to a developer with marginal equity might carry 2 percent expected loss. GBank must price accurately: if it systematically underestimates losses, its spreads become inadequate and shareholder returns suffer.
 
 ## Deposit Gathering and Cost of Funds
 
-GBank's cost of funds is determined by the rates it pays depositors. In normal times, a community bank pays near-zero rates on basic checking and offers competitive rates on savings and money market accounts to retain deposits. As rates rise, the bank must pay higher rates to prevent deposits from flowing to competitors or [Treasury bonds](/treasury-bond/). If GBank's cost of funds rises faster than its loan yields can rise, the spread narrows and profitability declines.
+GBank's cost of funds is determined by the rates it pays depositors. In normal times, a community bank pays near-zero rates on basic checking and offers competitive rates on savings and [money market accounts](/money-market-account/) to retain deposits. As rates rise, the bank must pay higher rates to prevent deposits from flowing to competitors or [Treasury bonds](/treasury-bond/). If GBank's cost of funds rises faster than its loan yields can rise, the spread narrows and profitability declines.
 
 Community banks also rely on non-deposit funding—borrowing from the Federal Home Loan Banks or other wholesale sources. These wholesale borrowings are typically more expensive than deposits but can be accessed quickly to fund asset growth. A bank that grows loans 20 percent in a year may fund that growth with a mix of new deposits and wholesale borrowing; if wholesale rates are high, the cost of funds rises and spreads narrow.
 
@@ -43,11 +43,11 @@ Community banks also rely on non-deposit funding—borrowing from the Federal Ho
 
 GBank Financial's spreads are theoretical until actual losses occur. In years when its borrowers are profitable, defaults are low, and the bank's actual profit margin exceeds the pricing assumption. In a [recession](/recession/), when local businesses fail or farmers face commodity price collapse, defaults rise and losses exceed the reserve. The bank must then write down the reserve, cutting that year's earnings sharply.
 
-Over a full credit cycle—expansion, peak, contraction, trough—a bank's realized margin equals the theoretical spread minus actual losses. A bank that prices loans assuming 1.0 percent loss but experiences 3 percent loss over the cycle has destroyed shareholder value. Conversely, a bank that prices for 1.5 percent loss but realizes 0.5 percent has exceeded return targets.
+Over a full [credit cycle](/credit-cycle/)—expansion, peak, contraction, trough—a bank's realized margin equals the theoretical spread minus actual losses. A bank that prices loans assuming 1.0 percent loss but experiences 3 percent loss over the cycle has destroyed shareholder value. Conversely, a bank that prices for 1.5 percent loss but realizes 0.5 percent has exceeded return targets.
 
 ## Regulatory Capital and Leverage
 
-GBank Financial is constrained by regulatory capital requirements: it must hold a minimum percentage of capital (Tier 1 and Tier 2) relative to its risk-weighted assets. These requirements limit how much the bank can leverage its equity base. A bank with $500 million in equity might hold $4 billion to $5 billion in assets and loans. The [leverage ratio](/leverage-ratio-forex/) (assets divided by equity) determines how much income the bank can generate per dollar of shareholder capital. Higher leverage means higher [return on equity](/return-on-equity/) (if the spread is positive) but also higher risk if spreads compress or losses spike.
+GBank Financial is constrained by regulatory capital requirements: it must hold a minimum percentage of capital (Tier 1 and Tier 2) relative to its [risk-weighted assets](/risk-weighted-assets/). These requirements limit how much the bank can leverage its equity base. A bank with $500 million in equity might hold $4 billion to $5 billion in assets and loans. The [leverage ratio](/leverage-ratio-forex/) (assets divided by equity) determines how much income the bank can generate per dollar of shareholder capital. Higher leverage means higher [return on equity](/return-on-equity/) (if the spread is positive) but also higher risk if spreads compress or losses spike.
 
 ## Scale and Operating Leverage
 

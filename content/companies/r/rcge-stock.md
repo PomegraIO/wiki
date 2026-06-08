@@ -64,13 +64,13 @@ Rebalancing also creates turnover and costs. The fund must trade to rebalance, i
 
 ## International equity exposure and currency considerations
 
-RCGE's returns are influenced by both stock selection (which companies perform) and currency movements. A US-based investor holding RCGE is exposed to movements in the euro, yen, pound, renminbi, [Indian rupee](/indian-rupee/), Brazilian real, and dozens of other currencies. If the dollar strengthens, foreign currencies weaken, and the dollar-value of the RCGE position declines, all else equal. Conversely, dollar weakness boosts the value of the fund.
+RCGE's returns are influenced by both stock selection (which companies perform) and currency movements. A US-based investor holding RCGE is exposed to movements in the euro, yen, pound, renminbi, [Indian rupee](/indian-rupee/), [Brazilian real](/brazilian-real/), and dozens of other currencies. If the dollar strengthens, foreign currencies weaken, and the dollar-value of the RCGE position declines, all else equal. Conversely, dollar weakness boosts the value of the fund.
 
 The fund does not hedge currency exposure (does not use [forward contracts](/forward-contract/) to lock in exchange rates), so shareholders bear full currency volatility. For investors who view global diversification as a means to reduce dependence on dollar-denominated assets, this currency exposure is a feature. For those uncomfortable with currency swings, it is a risk.
 
 ## Emerging-market concentration and political risk
 
-By tilting toward emerging markets via equal weighting, RCGE carries greater exposure to political and regulatory risk than a developed-market-biased international index would. Emerging markets are home to larger capital controls, currency devaluations, tax policy shifts, and geopolitical tensions that can affect stock returns sharply.
+By tilting toward emerging markets via equal weighting, RCGE carries greater exposure to political and regulatory risk than a developed-market-biased international index would. Emerging markets are home to larger capital controls, [currency devaluations](/currency-devaluation/), tax policy shifts, and geopolitical tensions that can affect stock returns sharply.
 
 China's regulatory crackdowns on technology companies (2020–2022), India's agricultural policies, and Brazil's inflationary cycles have all created periods of outperformance and underperformance for emerging-market indices. RCGE's equal-weight structure does not shield against these risks; if anything, it amplifies emerging-market volatility by raising the weight on volatile developing-economy stocks.
 

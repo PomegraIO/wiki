@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Marriott International is the world's largest hotel company by number of properties, a position it has held for decades. Unlike traditional hoteliers that own much of their portfolio, Marriott operates primarily on a franchise and management model—it owns few properties and instead collects royalties from franchisees and [management fees](/management-fee/) from owners. This asset-light structure, which the company pioneered and refined over generations, gives it a fundamentally different economics from many competitors: lower capital requirements, faster growth potential, and steadier cash flows less dependent on real estate cycles.
+Marriott International is the world's largest hotel company by number of properties, a position it has held for decades. Unlike traditional hoteliers that own much of their portfolio, Marriott operates primarily on a franchise and management model—it owns few properties and instead collects royalties from franchisees and [management fees](/management-fee/) from owners. This asset-light structure, which the company pioneered and refined over generations, gives it a fundamentally different economics from many competitors: lower capital requirements, faster growth potential, and steadier cash flows less dependent on [real estate cycles](/real-estate-cycle/).
 
 ## From Rootstock to a Sprawling Empire
 

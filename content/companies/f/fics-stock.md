@@ -47,7 +47,7 @@ The capital strength selection process can lead to concentration in certain indu
 
 [Sector rotation](/sector-rotation/) risk is real. In periods when growth stocks and high-leverage companies outperform, a fund focused on capital strength may lag. If [interest rates](/interest-rate/) fall sharply and investors favour debt-heavy companies, FICS's preference for low leverage becomes a headwind.
 
-The fund began operations in December 2020, making it relatively established but not yet through a complete market cycle.
+The fund began operations in December 2020, making it relatively established but not yet through a complete [market cycle](/market-cycle/).
 
 ## Researching FICS
 

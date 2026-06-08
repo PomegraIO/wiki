@@ -41,7 +41,7 @@ Pricing is largely dictated by customers. An automaker negotiates the price of a
 
 Offset by scale and technical moats. Because BorgWarner must invest in engineering, facilities, and supply-chain infrastructure to serve global automakers, scale matters. A small competitor cannot afford the R&D or the geographic footprint needed to win large contracts. The company's turbocharger technology, its transmission systems, and its accumulated expertise in integrating components create real (if not impenetrable) barriers to entry. A new competitor would need to build factories, certify its designs with major automakers — a process taking years — and prove reliability over millions of vehicles.
 
-The company's largest customers are typically each other's rivals in their own end markets — General Motors competes with Volkswagen, Ford competes with Toyota. This creates a peculiar negotiation dynamic where BorgWarner's largest customer in one fiscal year might become less important in the next, simply as automakers' own competitive fortunes shift.
+The company's largest customers are typically each other's rivals in their own end markets — General Motors competes with Volkswagen, Ford competes with Toyota. This creates a peculiar negotiation dynamic where BorgWarner's largest customer in one [fiscal year](/fiscal-year-definition/) might become less important in the next, simply as automakers' own competitive fortunes shift.
 
 ## Exposure to the powertrain transition
 
@@ -49,7 +49,7 @@ The automotive industry is in the midst of a historic shift from internal-combus
 
 The company recognized this threat and has invested heavily in electric-vehicle technologies. It has acquired or developed capabilities in electric motors, power electronics, and software. It supplies electric propulsion systems to several major automakers with electrified or electric vehicles in production.
 
-Yet the transition creates real execution risk. The company must simultaneously:
+Yet the transition creates real [execution risk](/execution-risk/). The company must simultaneously:
 
 - Defend and optimize its legacy turbocharger and transmission business as internal-combustion volumes decline slowly.
 - Build a new electric-powertrain business that may never be as profitable as the old one, because electric drivetrains have fewer components and less inherent complexity.

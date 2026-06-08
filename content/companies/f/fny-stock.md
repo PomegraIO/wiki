@@ -20,7 +20,7 @@ Mid-cap growth occupies an inflection point. Larger and more stable than small c
 
 Holdings at least 90 percent in index components. [Expense ratio](/expense-ratio/) 0.73 percent. Periodic rebalancing. Portfolio turns over more frequently than static holdings would — stocks move in and out of favor as rankings shift. Practical cost of maintaining a systematic, updated approach that captures changing leadership in the mid-cap growth universe.
 
-AlphaDEX weighting versus cap-weighted growth differences matter. A smaller company with explosive sales growth and momentum gets higher weight than a larger, slower competitor. Over full market cycles, this has historically captured faster-compounding businesses before they graduate to large-cap status, where they fade as they mature. Rising-rate environments test this thesis sharply. When growth stocks underperform, FNY underperforms broad benchmarks. Known risk. The bet works best when growth trades in favor relative to value.
+AlphaDEX weighting versus cap-weighted growth differences matter. A smaller company with explosive sales growth and momentum gets higher weight than a larger, slower competitor. Over full [market cycles](/market-cycle/), this has historically captured faster-compounding businesses before they graduate to large-cap status, where they fade as they mature. Rising-rate environments test this thesis sharply. When growth stocks underperform, FNY underperforms broad benchmarks. Known risk. The bet works best when growth trades in favor relative to value.
 
 Sector exposure tilts toward technology, healthcare, industrials — the sectors where growth and momentum naturally reside. Any growth-focused portfolio will carry this tilt. FNY does not hide it; the tilt is built into the methodology.
 

@@ -23,7 +23,7 @@ Like all regional banks, Fulton's profitability depends on keeping that spread w
 
 ## What shape is the loan book?
 
-Fulton's portfolio is anchored in real-estate lending — mortgages, commercial real-estate loans, construction loans — which is typical for a regional bank in the Mid-Atlantic where construction and homeownership are steady facts. The bank also carries a sizable portfolio of [commercial loans](/free-cash-flow/) to small and medium-sized businesses: plumbing contractors, dental practices, manufacturers, and service firms that need lines of credit or term loans to operate.
+Fulton's portfolio is anchored in real-estate lending — mortgages, commercial real-estate loans, [construction loans](/construction-loan/) — which is typical for a regional bank in the Mid-Atlantic where construction and homeownership are steady facts. The bank also carries a sizable portfolio of [commercial loans](/free-cash-flow/) to small and medium-sized businesses: plumbing contractors, dental practices, manufacturers, and service firms that need lines of credit or term loans to operate.
 
 Consumer lending is smaller but material. Auto loans and personal loans to households round out the book. This mix means Fulton's fortunes are tied directly to the economic health of its geographic footprint. If manufacturing declines in Lancaster or real-estate development stalls in the Philadelphia suburbs, Fulton feels it first and directly.
 

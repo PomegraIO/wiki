@@ -45,7 +45,7 @@ Yet those institutions can be extraordinarily profitable when well-run, because 
 
 TriLinc emphasizes that its mission is not purely financial. The fund tracks social metrics — how many borrowers did its investments serve, how many of those were women (who represent a large share of microfinance borrowers and entrepreneurs), what was the income growth among borrowers, did access to credit improve their ability to invest in education or health. Those outcomes are central to the fund's branding and the investor value proposition: individuals and institutions that buy TriLinc shares are seeking both financial return and positive social impact.
 
-That dual mandate creates tension, because the highest financial returns may not come from the borrowers most in need (the poorest), and the deepest social impact may come from smaller institutions with lower returns. TriLinc navigates that tradeoff through a "progressive" return target — aiming for a reasonable financial return (not the maximum possible) while ensuring a significant portion of capital reaches borrowers in substantial poverty.
+That [dual mandate](/dual-mandate-central-bank/) creates tension, because the highest financial returns may not come from the borrowers most in need (the poorest), and the deepest social impact may come from smaller institutions with lower returns. TriLinc navigates that tradeoff through a "progressive" return target — aiming for a reasonable financial return (not the maximum possible) while ensuring a significant portion of capital reaches borrowers in substantial poverty.
 
 ## The microfinance landscape and headwinds
 

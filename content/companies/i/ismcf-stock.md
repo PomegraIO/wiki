@@ -36,7 +36,7 @@ Over time, the S&P GSCI became the standard reference for gauging broad commodit
 
 ## From index to investable product
 
-For decades, S&P GSCI existed primarily as a benchmark — a number published daily, used for performance measurement and as a reference for structured products and [hedge funds](/hedge-fund/). Individual investors could not simply "buy the index" the way they could buy a stock [index fund](/index-fund/).
+For decades, S&P GSCI existed primarily as a benchmark — a number published daily, used for performance measurement and as a reference for [structured products](/structured-product/) and [hedge funds](/hedge-fund/). Individual investors could not simply "buy the index" the way they could buy a stock [index fund](/index-fund/).
 
 The iShares S&P GSCI Commodity-Indexed Trust was created to solve this problem: a publicly traded trust that holds a portfolio of S&P GSCI component futures, rebalances to maintain the index's allocations, and allows investors to buy and sell shares (the trust is listed on exchanges) as easily as they might buy a stock. [BlackRock](/blk-stock/), which owns iShares, launched or acquired the trust as part of its effort to build a comprehensive suite of passively managed, index-tracking ETFs spanning equities, [bonds](/bond/), commodities, and currencies.
 
@@ -70,4 +70,4 @@ Anyone researching the iShares S&P GSCI trust should start with its fact sheets 
 
 Key metrics include the trust's [expense ratio](/expense-ratio/) (the annual management fee), the tracking error (the divergence between the trust's returns and the index's returns), and the composition of the underlying index — how much exposure to energy versus metals versus agriculture, and how those weights shift with commodity prices.
 
-Commodity index trusts are best understood as macro vehicles for expressing views on inflation, economic cycles, and broad commodity-price trends rather than as long-term investment vehicles similar to equity index funds. The expected return is simply the expected commodity-price appreciation (or [depreciation](/depreciation/)) over the holding period, minus fees and rolling costs.
+Commodity index trusts are best understood as macro vehicles for expressing views on inflation, economic cycles, and broad commodity-price trends rather than as long-term investment vehicles similar to equity index funds. The expected return is simply the expected commodity-price appreciation (or [depreciation](/depreciation/)) over the [holding period](/holding-period/), minus fees and rolling costs.

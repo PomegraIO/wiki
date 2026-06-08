@@ -30,7 +30,7 @@ CSCS resets its leverage daily. That means every night, the fund rebalances its 
 
 Here is why: suppose Cisco rises 1 per cent on day one, then falls 1 per cent on day two. Cisco is back where it started — flat overall. CSCS should also be flat, right? Wrong. On day one, CSCS falls 1 per cent. Then on day two, it should gain 1 per cent. But a 1 per cent gain on a smaller base than where you started means you have lost a tiny bit overall. Repeat this over weeks of up-and-down price action and the losses add up. Investors call this volatility decay. It is invisible day-to-day but becomes real over time.
 
-The higher the volatility (the more Cisco jumps around), the worse the decay. During calm markets, the damage is smaller. Either way, inverse and leveraged single-stock ETFs are not made for buy-and-hold investing.
+The higher the volatility (the more Cisco jumps around), the worse the decay. During calm markets, the damage is smaller. Either way, inverse and leveraged single-stock ETFs are not made for [buy-and-hold investing](/buy-and-hold/).
 
 ## Costs
 

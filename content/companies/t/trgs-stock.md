@@ -36,7 +36,7 @@ From the investor's perspective, the appeal is straightforward. Public markets h
 
 The Rohatyn Group identifies its target universe as mid-market growth companies across Latin America with particular focus on Argentina. The company notes its interest in fintech, healthcare, and consumer sectors—three areas experiencing rapid change, showing strong secular growth, and facing customer demand that outpaces incumbent supply.
 
-Argentina in particular has experienced cycles of [inflation](/inflation/), currency devaluation, and economic instability, creating both challenges and opportunities. During downturns, well-capitalized operators can acquire solid businesses at distressed valuations. During growth periods, companies that have survived the downturns and have built resilient customer bases can expand rapidly. A fintech company serving Argentine consumers, for example, might benefit from a shift toward digital payments and financial inclusion that has not yet saturated the market.
+Argentina in particular has experienced cycles of [inflation](/inflation/), [currency devaluation](/currency-devaluation/), and economic instability, creating both challenges and opportunities. During downturns, well-capitalized operators can acquire solid businesses at distressed valuations. During growth periods, companies that have survived the downturns and have built resilient customer bases can expand rapidly. A fintech company serving Argentine consumers, for example, might benefit from a shift toward digital payments and financial inclusion that has not yet saturated the market.
 
 The sectors matter because they share a characteristic: they are not heavily dependent on physical infrastructure or commodities. Fintech depends on regulatory approval, technology, and customer acquisition. Healthcare depends on medical expertise, supply chains, and regulatory certification. Consumer companies depend on brand, distribution, and understanding local preferences. These are all areas where management skill, capital, and market knowledge can create durable advantages without requiring vast mineral extraction or energy infrastructure.
 
@@ -48,7 +48,7 @@ For context, $200 million is a meaningful but not enormous amount in global acqu
 
 ## The timeline and the bet
 
-TRG Latin America has until February 27, 2028, to complete a merger or else return capital to shareholders. That is roughly two years—enough time to identify a target, conduct due diligence, negotiate a deal, secure regulatory approvals, and close. It is aggressive but not impossible.
+TRG Latin America has until February 27, 2028, to complete a merger or else return capital to shareholders. That is roughly two years—enough time to identify a target, conduct [due diligence](/due-diligence/), negotiate a deal, secure regulatory approvals, and close. It is aggressive but not impossible.
 
 The real bet is on the sponsor: does the Rohatyn Group have the judgment, relationships, and execution capability to find and close a good deal in that window? And once closed, does the target company perform and grow? Many SPACs have raised capital and failed to close a merger by the deadline, returning money to shareholders and destroying the sponsor's reputation. Successful ones have created lasting public companies.
 

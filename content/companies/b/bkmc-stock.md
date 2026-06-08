@@ -47,7 +47,7 @@ BKMC trades on US exchanges with adequate liquidity, though the [bid-ask spreads
 
 ## Who holds BKMC
 
-BKMC is popular with institutional investors building globally diversified portfolios where mid-caps are a distinct asset-class tier. Financial advisors sometimes suggest a three-way split: large-cap (for stability), mid-cap (for balance), and small-cap (for growth); BKMC would be the middle component. Value-oriented investors are drawn to mid-caps because valuations are often more compelling than mega-caps, especially during growth-dominated market cycles. Long-term buy-and-hold investors also use BKMC as a core holding, accepting the higher volatility in exchange for diversification and the opportunity to capture the returns of a large swath of mid-cap america.
+BKMC is popular with institutional investors building globally diversified portfolios where mid-caps are a distinct asset-class tier. Financial advisors sometimes suggest a three-way split: large-cap (for stability), mid-cap (for balance), and small-cap (for growth); BKMC would be the middle component. Value-oriented investors are drawn to mid-caps because valuations are often more compelling than mega-caps, especially during growth-dominated [market cycles](/market-cycle/). Long-term buy-and-hold investors also use BKMC as a core holding, accepting the higher volatility in exchange for diversification and the opportunity to capture the returns of a large swath of mid-cap america.
 
 ## Research signposts
 

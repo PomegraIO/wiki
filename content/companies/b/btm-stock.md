@@ -32,7 +32,7 @@ Because the business model depends on volume, understanding repeat-transaction r
 
 ## Balance Sheet Dependencies
 
-Examine the cash collateral Bitcoin Depot maintains to settle customer redemptions. If a customer buys $10,000 worth of Bitcoin at a kiosk and keeps it there (rather than withdrawing), the company may be holding that crypto or hedging it, introducing [market risk](/market-risk/). How is crypto stored? Is it in [custodial accounts](/custodial-account/) (third-party risk)? On the company's own cold storage (security risk)? The 10-K should disclose cryptocurrency holdings, custodial arrangements, and any insurance. Also scrutinize merchant relationships: what percentage of revenue depends on any single retail partner? Gas station chains can terminate contracts quickly, leaving the company's kiosk footprint orphaned.
+Examine the cash collateral Bitcoin Depot maintains to settle customer redemptions. If a customer buys $10,000 worth of Bitcoin at a kiosk and keeps it there (rather than withdrawing), the company may be holding that crypto or hedging it, introducing [market risk](/market-risk/). How is crypto stored? Is it in [custodial accounts](/custodial-account/) (third-party risk)? On the company's own [cold storage](/cold-storage-crypto/) (security risk)? The 10-K should disclose cryptocurrency holdings, custodial arrangements, and any insurance. Also scrutinize merchant relationships: what percentage of revenue depends on any single retail partner? Gas station chains can terminate contracts quickly, leaving the company's kiosk footprint orphaned.
 
 ## Path to Profitability and Unit-Economics Trajectory
 
@@ -42,4 +42,4 @@ Bitcoin Depot will likely report quarterly losses while rapidly expanding the ki
 
 Bitcoin Depot's revenue is correlated with both crypto adoption rates and asset-price volatility. [Bull markets](/bull-market/) drive customer engagement; [bear markets](/bear-market/) create opportunity for off-ramping. But extreme downturns or crypto scandals (such as exchange collapses) can scare customers away from physical infrastructure too. Read the 10-K for explicit statements on how the company hedges or manages this sentiment dependency. Also note management's commentary on regulatory threats—if they cite a specific legislative risk, that is material.
 
-When approaching the full 10-K, treat it as a map of where the company's unit economics stand and where management believes the next cohort of kiosk growth will be profitable. The fundamentals of the business are straightforward; the execution risk and regulatory risk are everything.
+When approaching the full 10-K, treat it as a map of where the company's unit economics stand and where management believes the next cohort of kiosk growth will be profitable. The fundamentals of the business are straightforward; the [execution risk](/execution-risk/) and regulatory risk are everything.

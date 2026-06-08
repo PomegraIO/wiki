@@ -32,7 +32,7 @@ The geographic concentration adds risk. Operating in China carries regulatory, p
 
 The company reported revenue of approximately $16 million for the twelve months ended August 2025. For context, that is a small-to-mid-sized industrial distributor in the global market. The aim of going public is to raise capital to expand—to hire more engineers, to open additional service locations, to invest in software capabilities, and to pursue customers in new geographies. A public listing also provides currency for [acquisitions](/acquisition/): buying smaller competitors or complementary service providers, consolidating the fragmented Asia-Pacific machinery-integration market.
 
-The risk embedded in that growth plan is execution risk. Going public is expensive (fees, compliance, investor relations) and time-consuming for management. If the company stumbles on integrations, fails to win anchor customers post-IPO, or invests in wrong geographies, the capital raised becomes a liability rather than an asset. Many newly public companies in industrial distribution have discovered too late that public markets have little patience for slow organic growth and thin margins.
+The risk embedded in that growth plan is [execution risk](/execution-risk/). Going public is expensive (fees, compliance, investor relations) and time-consuming for management. If the company stumbles on integrations, fails to win anchor customers post-IPO, or invests in wrong geographies, the capital raised becomes a liability rather than an asset. Many newly public companies in industrial distribution have discovered too late that public markets have little patience for slow organic growth and thin margins.
 
 ## Services as the Margin Driver
 

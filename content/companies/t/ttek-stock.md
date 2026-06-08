@@ -49,7 +49,7 @@ Finally, corporate environmental, social, and governance (ESG) demands are drivi
 
 Tetra Tech is exposed to government spending cycles. A shift in political priorities or a [recession](/recession/) that constrains public budgets can reduce consulting spending even as the long-term trends remain favorable. The company is also dependent on winning competitive bids; a major loss in a large contract or a region where the firm has deep ties could pressure margins.
 
-Execution risk is real. Large, multi-year international projects can encounter delays, cost overruns, or complexity that compresses margins. The company manages this through experience and disciplined project controls, but projects are inherently uncertain.
+[Execution risk](/execution-risk/) is real. Large, multi-year international projects can encounter delays, cost overruns, or complexity that compresses margins. The company manages this through experience and disciplined project controls, but projects are inherently uncertain.
 
 ## Researching Tetra Tech as an investment
 

@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-The WisdomTree International Adaptive Moving Average Fund ([NASDAQ](/nasdaq/): WIMA) applies a momentum-based timing system to international developed-market equities. Rather than holding a static portfolio of foreign stocks, the fund uses moving-average calculations to decide when to be invested in developed markets outside the United States and when to reduce or avoid exposure—a tactical overlay aimed at limiting downside during market weakness while capturing gains during strength.
+The WisdomTree International [Adaptive Moving Average](/adaptive-moving-average/) Fund ([NASDAQ](/nasdaq/): WIMA) applies a momentum-based timing system to international developed-market equities. Rather than holding a static portfolio of foreign stocks, the fund uses moving-average calculations to decide when to be invested in developed markets outside the United States and when to reduce or avoid exposure—a tactical overlay aimed at limiting downside during market weakness while capturing gains during strength.
 
 ## What is a moving-average strategy?
 
-A moving average is a calculation of an asset's average price over a rolling window of time—commonly 50 days, 200 days, or other intervals. The idea behind a moving-average strategy is that if an asset's current price is above its long-term moving average, it is in an uptrend and worth holding; if price falls below the moving average, the trend has broken and it's time to reduce exposure or exit. WisdomTree's International Adaptive Moving Average Fund adapts this principle by monitoring international equity indices and adjusting the fund's allocation based on whether those indices are trading above or below key moving averages.
+A [moving average](/moving-average/) is a calculation of an asset's average price over a rolling window of time—commonly 50 days, 200 days, or other intervals. The idea behind a moving-average strategy is that if an asset's current price is above its long-term moving average, it is in an uptrend and worth holding; if price falls below the moving average, the trend has broken and it's time to reduce exposure or exit. WisdomTree's International Adaptive Moving Average Fund adapts this principle by monitoring international equity indices and adjusting the fund's allocation based on whether those indices are trading above or below key moving averages.
 
 This is a form of tactical timing—trying to move into equities when conditions look favourable and shift to cash or [bonds](/bond/) when the trend signals weakness. It is not [market timing](/market-timing/) in the sense of predicting prices at precise moments; instead, it is rule-based momentum following. The word "adaptive" suggests the fund may adjust the moving-average windows or decision rules based on changing market conditions, though the precise mechanism is detailed in the prospectus.
 
@@ -35,7 +35,7 @@ Turnover tends to be higher in momentum and timing strategies than in buy-and-ho
 
 ## Who is WIMA suitable for?
 
-The fund appeals to investors who believe that tactical timing adds value, who are comfortable with international equity exposure but wish to reduce drawdown risk through systematic rules, and who prefer an actively managed approach to passive international indexing. It is suitable for long-term accounts with a multi-year horizon, where the timing system can work through full market cycles. It is less suitable for investors seeking low-cost, tax-efficient, buy-and-hold international exposure or those sceptical of timing-based strategies.
+The fund appeals to investors who believe that tactical timing adds value, who are comfortable with international equity exposure but wish to reduce drawdown risk through systematic rules, and who prefer an actively managed approach to passive international indexing. It is suitable for long-term accounts with a multi-year horizon, where the timing system can work through full [market cycles](/market-cycle/). It is less suitable for investors seeking low-cost, tax-efficient, buy-and-hold international exposure or those sceptical of timing-based strategies.
 
 ## How to research WIMA
 

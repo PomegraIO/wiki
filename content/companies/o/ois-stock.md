@@ -53,7 +53,7 @@ Regulatory scrutiny is another shadow: changes to environmental standards for of
 
 ## How to research Oil States
 
-Start with the [10-K filing](/wiki/10-k/) (SEC CIK 1121484), which breaks out the company's revenue by segment and geography, details current order backlogs (a key leading indicator for subsea and completion companies), and spells out the [concentration risks](/concentration-risk/) among major oil company customers. The quarterly earnings calls reveal management's view of capital spending trends among E&P majors, the health of existing project backlogs, and progress in new-market initiatives.
+Start with the [10-K filing](/wiki/10-k/) (SEC CIK 1121484), which breaks out the company's revenue by segment and geography, details current order backlogs (a key [leading indicator](/leading-indicator/) for subsea and completion companies), and spells out the [concentration risks](/concentration-risk/) among major oil company customers. The quarterly earnings calls reveal management's view of capital spending trends among E&P majors, the health of existing project backlogs, and progress in new-market initiatives.
 
 A few metrics matter most: order backlog as a multiple of quarterly revenue (higher backlogs suggest visible revenue ahead), gross margins by segment (proprietary completion systems should command premium margins versus commodity-like pressure equipment), and the rate of cash burn or generation in low-crude environments. Given the cyclical nature, comparing OIS's [balance sheet](/balance-sheet/) strength and liquidity position to prior downturns gives a sense of how much stress it can absorb if crude falls sharply.
 

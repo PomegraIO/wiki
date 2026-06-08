@@ -16,7 +16,7 @@ The fund's methodology draws heavily on research and screening tools from Invest
 
 ## How the screening works
 
-BOUT begins by filtering for stocks with strong earnings growth, typically focusing on companies with recent quarters of accelerating profits and revenue. It then applies technical criteria: stocks must be trading above their 200-day moving average and above recent short-term resistance levels, signals meant to identify stocks that have started to move higher and are not yet overbought. The fund also screens for other characteristics that O'Neill and IBD have historically associated with big winners: strong relative strength (outperformance versus the broader market), reasonable valuation relative to growth, and [market capitalization](/market-capitalization/) between roughly 300 million and 3 billion dollars.
+BOUT begins by filtering for stocks with strong earnings growth, typically focusing on companies with recent quarters of accelerating profits and revenue. It then applies technical criteria: stocks must be trading above their 200-day [moving average](/moving-average/) and above recent short-term resistance levels, signals meant to identify stocks that have started to move higher and are not yet overbought. The fund also screens for other characteristics that O'Neill and IBD have historically associated with big winners: strong relative strength (outperformance versus the broader market), reasonable valuation relative to growth, and [market capitalization](/market-capitalization/) between roughly 300 million and 3 billion dollars.
 
 The result is a portfolio of 30 to 50 stocks, typically in the small-cap to mid-cap range, weighted roughly equally so that no single position dominates. The fund rebalances quarterly, which means it sells winners and buys new breakout candidates. That mechanical selling of strength is unusual — most [growth funds](/growth-fund/) hold winners — but it is consistent with the breakout methodology: capture the early leg of the move, then rotate into the next wave of breakouts.
 
@@ -24,7 +24,7 @@ The result is a portfolio of 30 to 50 stocks, typically in the small-cap to mid-
 
 CapForce is a lesser-known active manager. The fund has a gross [expense ratio](/expense-ratio/) of roughly 0.85%, a modest fee for an actively managed stock fund. Trading costs and the mechanical turnover from quarterly rebalancing add another 0.3-0.5% to the true cost per year. For comparison, a passive [small-cap ETF](/small-cap-etf/) might charge 0.05%, so an investor is paying for the belief that the screening adds value.
 
-The fund trades on NYSE Arca with thin liquidity; spreads can be 0.5-1% or wider, and daily volume is modest, which matters if you are moving a large position. Most usage is by retail accounts building small allocations rather than institutions putting a lot of capital in.
+The fund trades on [NYSE Arca](/nyse-arca/) with thin liquidity; spreads can be 0.5-1% or wider, and daily volume is modest, which matters if you are moving a large position. Most usage is by retail accounts building small allocations rather than institutions putting a lot of capital in.
 
 ## What the fund is really betting on
 

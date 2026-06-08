@@ -59,11 +59,11 @@ The business model also depends on TRTX's ability to keep originating loans. If 
 
 ## What Can Go Wrong
 
-Credit losses are the baseline risk. In a mild downturn, a few borrowers will miss payments or default. In a severe real estate cycle, losses accelerate. The loans are secured, so TRTX will eventually recover something (the foreclosed property has value), but recovery takes time and the losses eat into equity. A year of big losses can cut shareholder equity sharply, which in turn shrinks the capital base for new originations.
+Credit losses are the baseline risk. In a mild downturn, a few borrowers will miss payments or default. In a severe [real estate cycle](/real-estate-cycle/), losses accelerate. The loans are secured, so TRTX will eventually recover something (the foreclosed property has value), but recovery takes time and the losses eat into equity. A year of big losses can cut shareholder equity sharply, which in turn shrinks the capital base for new originations.
 
 Interest-rate risk is secondary but real. The portfolio earns a certain spread at current rate levels. If rates rise sharply, new loans originate at higher rates but existing loans lock in the old spread. If rates fall, new originations earn lower spreads. Either way, margins can compress.
 
-Funding risk is the third category. If TRTX's debt becomes expensive to roll or capital markets close, the company has fewer options to fund new loans or refinance maturing debt. In a stress scenario, a REIT with weak equity might be forced to cut distributions or curtail originations just when the business is most profitable (right before the credit cycle turns).
+Funding risk is the third category. If TRTX's debt becomes expensive to roll or capital markets close, the company has fewer options to fund new loans or refinance maturing debt. In a stress scenario, a REIT with weak equity might be forced to cut distributions or curtail originations just when the business is most profitable (right before the [credit cycle](/credit-cycle/) turns).
 
 Leverage amplifies both credit and [interest-rate risks](/interest-rate-risk/). TRTX uses debt to increase its lending volume and returns. When deals go well, leverage is wonderful. When credit losses mount, leverage can wipe out equity quickly.
 

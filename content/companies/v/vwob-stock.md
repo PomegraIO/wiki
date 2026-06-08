@@ -21,7 +21,7 @@ The appeal is straightforward. Emerging-market governments typically borrow at h
 
 ## Vanguard as issuer and operator
 
-Vanguard is one of the two largest ETF sponsors globally, and it issues VWOB as a standard exchange-traded fund. The fund is not a leveraged or inverse product — it simply holds the bonds in its index and passes through the income and price changes to shareholders. Vanguard manages the fund with typical low-cost discipline. The annual [expense ratio](/expense-ratio/) is less than 0.5 percent, making it one of the cheaper ways to access emerging-market sovereign debt.
+Vanguard is one of the two largest [ETF sponsors](/etf-sponsor/) globally, and it issues VWOB as a standard exchange-traded fund. The fund is not a leveraged or inverse product — it simply holds the bonds in its index and passes through the income and price changes to shareholders. Vanguard manages the fund with typical low-cost discipline. The annual [expense ratio](/expense-ratio/) is less than 0.5 percent, making it one of the cheaper ways to access emerging-market sovereign debt.
 
 The fund trades with reasonable liquidity during standard market hours, though not with the tightness of a US Treasury [ETF. Bid-ask spreads](/etf-bid-ask-spread/) are typically a few cents on a share trading in the 60–75 dollar range, which is acceptable for a global fixed-income product.
 

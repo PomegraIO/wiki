@@ -33,7 +33,7 @@ Direxion, with its established operational playbook for daily-reset leverage, re
 
 ## CONX's current structure and mechanism
 
-CONX holds Coinbase shares and derivative contracts (swaps, options, or both) that together deliver a 2x daily return target. On a trading day when Coinbase rises 1%, CONX targets 2%; when Coinbase falls 1.5%, CONX targets 3% down. Each trading day at close, Direxion mechanically rebalances the fund's positions to restore leverage to exactly 2x for the next session.
+CONX holds Coinbase shares and [derivative contracts](/derivative-contract/) (swaps, options, or both) that together deliver a 2x daily return target. On a trading day when Coinbase rises 1%, CONX targets 2%; when Coinbase falls 1.5%, CONX targets 3% down. Each trading day at close, Direxion mechanically rebalances the fund's positions to restore leverage to exactly 2x for the next session.
 
 This daily reset is both the fund's feature and its cost. In volatile markets, the reset compounds losses and gains independently, creating volatility decay. A Coinbase price that rises 2% and falls 2% ends down 0.04%; CONX ends down roughly 0.08%. The decay accelerates in choppy or sideways trading because crypto stocks swing sharply. A trader holding CONX for weeks through normal Coinbase volatility will almost certainly underperform a 1x Coinbase position, regardless of the overall direction.
 

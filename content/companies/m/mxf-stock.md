@@ -53,7 +53,7 @@ Mexican equities are not a liquid market by developed-market standards. The numb
 
 ## Currency exposure and hedging
 
-The Mexico Fund holds securities denominated in Mexican pesos. When the peso strengthens against the dollar, US investors benefit from currency gains in addition to stock gains; when the peso weakens, currency becomes a headwind. The fund does not systematically hedge this currency exposure, so investors are effectively long both Mexican stocks and the Mexican peso. For investors seeking pure equity exposure without [currency risk](/currency-risk/), this is a consideration.
+The Mexico Fund holds securities denominated in [Mexican pesos](/mexian-peso/). When the peso strengthens against the dollar, US investors benefit from currency gains in addition to stock gains; when the peso weakens, currency becomes a headwind. The fund does not systematically hedge this currency exposure, so investors are effectively long both Mexican stocks and the Mexican peso. For investors seeking pure equity exposure without [currency risk](/currency-risk/), this is a consideration.
 
 ## Fee structure and drag from management costs
 

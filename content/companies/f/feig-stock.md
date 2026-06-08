@@ -1,0 +1,40 @@
+---
+title: "FlexShares ESG & Climate Investment Grade Corporate Core Index Fund (FEIG)"
+description: "FEIG is a bond exchange-traded fund that tracks investment-grade corporate bonds issued by large and mid-sized companies, screened for environmental and climate risk, offering steady income with lower carbon exposure."
+keywords:
+  - corporate bonds
+  - bond index fund
+  - investment grade
+  - ESG screening
+  - income investing
+  - fixed income
+handwritten: true
+---
+
+For decades, [bond](/bond/) investors faced a quiet problem: if you wanted to own the bonds of high-quality companies — corporations with solid [credit ratings](/credit-rating/) that paid reliable interest — you had few options to screen for anything other than yield and credit quality. You owned what the index told you to own. The FlexShares ESG & Climate Investment Grade Corporate Core [Index Fund](/index-fund/), trading as FEIG, exists because that changed. It allows investors to own investment-grade [corporate bonds](/corporate-bond/), get the steady income that bonds provide, and tilt away from companies with the highest environmental and climate risk — all while paying a fraction of what traditional bond funds charge.
+
+A corporate bond is simply a loan to a company. When you own a bond, you are a creditor, not an owner. The company pays you interest (called the coupon) every six months, and on a maturity date — say, five years or ten years from now — it returns your principal. [Investment-grade bonds](/investment-grade-bond/) are those issued by companies strong enough that rating agencies deem the risk of default low. These are not startups or distressed firms; they are established companies like [Microsoft](/msft-stock/), [Johnson & Johnson](/jnj-stock/), or Google that can borrow at reasonable rates because they are very likely to repay.
+
+FEIG is an index fund, meaning it owns a representative slice of investment-grade corporate bonds rather than trying to outperform the market through active stock-picking. It tracks an index of roughly 1,500 to 2,000 bonds. That [diversification](/diversification/) across thousands of issuers and bonds means that if one company gets into trouble, the fund barely notices. But the twist — the climate and ESG screen — removes or underweights companies with the worst environmental practices, highest emissions, or greatest climate-policy risk.
+
+The logic is straightforward: bond investors care most about not losing their money. A company facing regulatory crackdowns, asset write-downs, or existential pressure from climate policy is more likely to have trouble paying its bonds. By filtering for climate risk, the fund aims to own a more stable, lower-default-risk portfolio than one that owned every investment-grade bond regardless of the issuer's environmental exposure. In practice, this means the fund owns fewer bonds from coal-heavy utilities, energy companies, and carbon-intensive manufacturers, and more from companies with lower emissions per dollar of sales.
+
+The fund rebalances regularly as the index updates, which means bonds that deteriorate in credit quality or companies that worsen on climate metrics gradually get sold, and cleaner or stronger-credit bonds take their place. This is passive indexing, not active stock-picking, so the [management fee](/management-fee/) is minimal — typically 0.15 to 0.20 percent annually, which is extremely cheap for a bond fund.
+
+The income from FEIG comes from the interest payments on all those bonds. A typical fund yield might be 4 to 5 percent annually, though that fluctuates with [interest rates](/interest-rate/) and credit conditions. That income is the primary return an investor gets from owning bonds. A bond fund's share price can also rise or fall if interest rates move, but income is more reliable. When you buy and hold FEIG, you are mostly banking on collecting that interest stream for years.
+
+The fund's risk profile is determined by the quality and duration of its bonds. Investment-grade by definition means default risk is low — these are companies unlikely to fail to pay. But credit quality sits on a spectrum. A bond from Microsoft is safer than one from a struggling regional utility, even if both are investment-grade. FEIG owns a mix across that spectrum. The average bond in the fund matures in the mid-term — typically three to seven years away — which is neither the short-duration bonds of the safest companies nor the long-duration bonds of higher-risk issuers. This middle ground is where most corporate bond investors live.
+
+One subtle risk is that bonds and stocks do not always move together. When the economy weakens, both bonds and stocks often decline, even though theoretically bonds should be safer. A company's stock can plummet if growth slows, but its bonds might only fall in price if the market worries about actual default. This [correlation risk](/correlation-risk/) — the chance that bonds and stocks decline together — is a real possibility in a severe [recession](/recession/). FEIG would not be immune.
+
+A second risk is that the climate screen, while sensible, is based on models and historical data. A company might score well on current emissions but be building a clean-energy transition that has not yet shown up in the data. Conversely, a company might look clean on paper but have hidden environmental liabilities. The screen is imperfect, though better than ignoring climate risk entirely.
+
+[Interest-rate risk](/interest-rate-risk/) is also real. Bond prices rise when interest rates fall, and fall when interest rates rise. If you own FEIG and rates rise significantly, the fund's share price will drop, even though the bonds will eventually mature at [par value](/par-value/). If you plan to hold until maturity, that does not matter much; if you need to sell before maturity, it does. FEIG is not immune to this risk, though its mid-duration positioning keeps it from being as sensitive as longer-duration bond funds.
+
+FEIG trades like an ETF, which means you can buy a single share on a [stock exchange](/stock-exchange/) at any time during market hours. The [bid-ask spread](/bid-ask-spread/) is usually tight, measured in pennies, so transaction costs are minimal. The fund reinvests its [dividend](/dividend/) income automatically unless you opt out. It is tax-efficient for holding in taxable accounts, since you control when to sell and realize gains. In tax-deferred accounts like IRAs, the tax efficiency matters less.
+
+An investor considering FEIG would be someone who wants bond exposure for stability and income, prefers not to own debt from companies with high climate risk, and values the low cost of index investing. Bond investors already care about [credit risk](/credit-risk/) and default probability; this fund simply adds a climate screen to that calculus. It is not a bet on renewable energy stocks or clean-tech outperformance; it is a cautious bond portfolio that filters for environmental risk at the source.
+
+To research the fund, start with the fact sheet, which lists the holdings by sector and company, the [current yield](/current-yield/), and the duration (a measure of interest-rate sensitivity). Check the historical performance against a broad investment-grade bond index to understand the impact of the climate screen — in years when energy and old-economy companies do well, FEIG might lag; in years when credit stress hits traditional heavy industry, it might outperform. Read the prospectus to understand the screening methodology and how the index decides which bonds to include. Look at the top holdings to get a sense of the companies issuing the bonds — you should recognize most of them as large, established firms.
+
+Bond investing is often overlooked by young investors focused on stocks, but for anyone over 50 or with a lower risk tolerance, bonds are often a larger part of a balanced portfolio than stocks. FEIG offers a way to own a diversified, screened, low-cost bond portfolio without hiring an active manager or picking bonds yourself.

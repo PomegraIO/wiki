@@ -67,7 +67,7 @@ The warrant component of the unit also matters. If the merged company underperfo
 
 ## Research and due diligence
 
-If considering SPAC unit investment, the place to start is the 10-K filing (Roman DBDR Acquisition Corp. II has SEC CIK 0002032528). Before a merger closes, read the merger proxy statement carefully, particularly the risk factors and the target company's financial projections. Sponsors' projections are almost always too optimistic — apply a realistic discount.
+If considering SPAC unit investment, the place to start is the 10-K filing (Roman DBDR Acquisition Corp. II has SEC CIK 0002032528). Before a merger closes, read the merger [proxy statement](/proxy-statement/) carefully, particularly the risk factors and the target company's financial projections. Sponsors' projections are almost always too optimistic — apply a realistic discount.
 
 After the merger closes, units trade as shares in the post-merger entity. Watch the quarterly and annual filings carefully to see whether the merged company is tracking toward its projected revenue and profitability. If projections are slipping, unit holders will face pressure on valuation as the market reprices downward.
 

@@ -31,7 +31,7 @@ Not for you: someone who wants to own Amazon and hold it for a year. That person
 
 ## The structure and fees
 
-Direxion Shares makes AMZU. The fund launched in 2019 and trades on the NYSE Arca exchange. It holds thousands of shares per day, so buying and selling during market hours is easy and prices stay tight. The [expense ratio](/expense-ratio/) is about 1.08% per year.
+Direxion Shares makes AMZU. The fund launched in 2019 and trades on the [NYSE Arca](/nyse-arca/) exchange. It holds thousands of shares per day, so buying and selling during market hours is easy and prices stay tight. The [expense ratio](/expense-ratio/) is about 1.08% per year.
 
 The leverage itself comes from swap contracts — financial derivatives that let the fund get 2X exposure without holding borrowed shares directly. Swaps are transparent, well-regulated, and Direxion is stable, so this is not a hidden risk. But it is a cost that shows up in the expense ratio.
 

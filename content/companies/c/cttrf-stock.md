@@ -42,7 +42,7 @@ The Mexican market remains underserved relative to population and wealth. A larg
 
 ## Where the risks live
 
-Mexican aviation is cyclical. Economic downturns cut leisure travel and cap growth. A [recession](/recession/) in the United States directly affects Mexican border traffic and overall consumer confidence in Mexico. Fuel price volatility hits all carriers, though Volaris' fuel efficiency on modern 737s and its hedging policies offer some cushion. Exchange-rate movements matter because much of Volaris' debt and some of its fuel are dollar-denominated while revenue comes in Mexican pesos.
+Mexican aviation is cyclical. Economic downturns cut leisure travel and cap growth. A [recession](/recession/) in the United States directly affects Mexican border traffic and overall consumer confidence in Mexico. Fuel price volatility hits all carriers, though Volaris' fuel efficiency on modern 737s and its hedging policies offer some cushion. Exchange-rate movements matter because much of Volaris' debt and some of its fuel are dollar-denominated while revenue comes in [Mexican pesos](/mexian-peso/).
 
 Capacity has also been a perennial question. Volaris has historically operated at high capacity utilization, which maximizes revenue per plane but leaves little room for demand shocks. A downturn or a natural disaster (hurricane, airport closure, pandemic disruption) compresses load factors quickly, and fixed costs do not move. Competitive intensity in the Mexican market remains real; larger carriers have the scale to match price if they choose, and the barrier to competition is lower than in some developed markets.
 

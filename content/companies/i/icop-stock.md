@@ -52,7 +52,7 @@ ICOP carries an [expense ratio](/expense-ratio/) in line with [sector ETFs](/sec
 
 ## Risks beyond commodity prices
 
-Mining is geopolitical. Major copper comes from Chile and Peru (stable democracies with strong rule of law), but also from Indonesia, the Democratic Republic of Congo, and Russia. Political risk, nationalisation, war, and sanctions can disrupt supply and margins without warning. Environmental pressure is growing: mining is water-intensive and energy-intensive, and climate policies are beginning to require cleaner extraction or penalise carbon-heavy operations.
+Mining is geopolitical. Major copper comes from Chile and Peru (stable democracies with strong rule of law), but also from Indonesia, the Democratic Republic of Congo, and Russia. [Political risk](/political-risk/), nationalisation, war, and sanctions can disrupt supply and margins without warning. Environmental pressure is growing: mining is water-intensive and energy-intensive, and climate policies are beginning to require cleaner extraction or penalise carbon-heavy operations.
 
 Currency exposure is real. Many mining firms earn revenue in dollars but have local-currency costs. A strong dollar amplifies profits for US-listed miners but erodes returns for Canadian, Australian, and Chilean producers when converted back to dollars. ICOP's international holdings carry this forex drag.
 
@@ -64,4 +64,4 @@ ICOP appeals to investors who believe base metal demand will outpace supply, or 
 
 ## Researching the holding
 
-Read the fund fact sheet for current holdings and sector weights. Look up the largest companies — BHP, Vale, Rio Tinto, Glencore — and read recent earnings calls to understand current cost structures, mine economics, and capital plans. Monitor copper prices and Chinese economic data as leading indicators of fund direction. Watch for major supply disruptions, environmental crackdowns, or trade policy shifts, as these drive individual holding performance. ICOP is best held by investors with a multi-year horizon and the conviction that a commodity or growth cycle is in early innings.
+Read the fund fact sheet for current holdings and sector weights. Look up the largest companies — BHP, Vale, Rio Tinto, Glencore — and read recent earnings calls to understand current cost structures, mine economics, and capital plans. Monitor copper prices and Chinese economic data as [leading indicators](/leading-indicator/) of fund direction. Watch for major supply disruptions, environmental crackdowns, or trade policy shifts, as these drive individual holding performance. ICOP is best held by investors with a multi-year horizon and the conviction that a commodity or growth cycle is in early innings.

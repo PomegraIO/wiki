@@ -29,7 +29,7 @@ Midland States likely competes by emphasizing local service and relationship: br
 
 ## Loan Portfolio and Risk Diversification
 
-Midland States deploys gathered deposits into loans across its service region. The portfolio includes mortgages, [commercial real estate](/commercial-real-estate/) (office, retail, industrial), construction loans, and business credit. The multi-state footprint reduces [concentration risk](/concentration-risk/): agricultural exposure is limited to Iowa and neighboring farm states; commercial real estate risk is spread across different property types and markets rather than concentrated in one.
+Midland States deploys gathered deposits into loans across its service region. The portfolio includes mortgages, [commercial real estate](/commercial-real-estate/) (office, retail, industrial), [construction loans](/construction-loan/), and business credit. The multi-state footprint reduces [concentration risk](/concentration-risk/): agricultural exposure is limited to Iowa and neighboring farm states; commercial real estate risk is spread across different property types and markets rather than concentrated in one.
 
 The bank's credit quality depends on borrower discipline and local economic health. [Recessions](/recession/), industry downturns, or property-market corrections in any served market will increase loan losses; the multi-state footprint provides some insulation but not protection. Midland States must manage credit discipline rigorously: loan officers must assess borrower capacity and collateral value fairly, and the bank must address problem loans quickly before small losses become large ones.
 
@@ -41,7 +41,7 @@ National banks and online lenders compete for Midland States' best customers (la
 
 ## Technology and Integration
 
-The company's success depends on integrating acquired banks efficiently and modernizing shared technology infrastructure. Legacy banks often have disparate core systems, data, and processes; consolidation requires choosing a unified platform and migrating customers onto it. This is operationally complex and carries execution risk: a failed migration can lose customers and generate losses.
+The company's success depends on integrating acquired banks efficiently and modernizing shared technology infrastructure. Legacy banks often have disparate core systems, data, and processes; consolidation requires choosing a unified platform and migrating customers onto it. This is operationally complex and carries [execution risk](/execution-risk/): a failed migration can lose customers and generate losses.
 
 Midland States likely invests in modern digital banking (online account opening, mobile banking, payment processing) to compete with digital-only banks on convenience while retaining the relationship advantage of local branches. This dual capability (branch + digital) can serve a wide customer base but requires ongoing technology investment.
 

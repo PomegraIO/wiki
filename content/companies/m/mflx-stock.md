@@ -41,7 +41,7 @@ Higher yield comes with higher duration risk. A bond that pays 5 percent instead
 
 The emphasis on higher-yielding municipals means exposure to lower-credit-quality issuers — cities, counties, and authorities with weaker revenues or aging infrastructure, offering higher yields precisely because they carry higher default risk. During economic downturns, when local government revenues falter, these bonds underperform. MFLX might hold debt from financially stressed municipalities that investors gradually reprice lower.
 
-The fund also faces "spread risk" — the risk that the yield premium demanded for lower-quality municipal debt will widen. If investor sentiment turns skeptical about municipal credit generally, non-AAA bond prices will fall across the market as buyers demand higher yields, including the lower-quality bonds MFLX holds.
+The fund also faces "[spread risk](/spread-risk/)" — the risk that the yield premium demanded for lower-quality municipal debt will widen. If investor sentiment turns skeptical about municipal credit generally, non-AAA bond prices will fall across the market as buyers demand higher yields, including the lower-quality bonds MFLX holds.
 
 ## Tax efficiency and the right investor
 

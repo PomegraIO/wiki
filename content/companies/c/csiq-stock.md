@@ -41,7 +41,7 @@ Utility-scale solar projects must interconnect with electrical grids, a process 
 
 ## Renewable Portfolio Standards and Corporate PPAs
 
-In the US, state-level Renewable Portfolio Standards (RPS) mandate that utilities source increasing percentages of power from renewables. These standards create demand for solar generation and are a primary driver of project development. Some states have increased RPS targets, accelerating demand; others have stalled policy progress. Corporate power purchase agreements (PPAs), in which large companies (tech, consumer goods) commit to buying renewable power, provide project offtake certainty but are increasingly subject to regulatory scrutiny around "additionality"—whether a PPA enables a new project or merely redirects power from a project that would have existed anyway. If regulatory bodies tighten additionality standards, the value of corporate PPAs may decline, reducing demand for Canadian Solar's projects.
+In the US, state-level Renewable Portfolio Standards (RPS) mandate that utilities source increasing percentages of power from renewables. These standards create demand for solar generation and are a primary driver of project development. Some states have increased RPS targets, accelerating demand; others have stalled policy progress. Corporate [power purchase agreements](/power-purchase-agreement/) (PPAs), in which large companies (tech, consumer goods) commit to buying renewable power, provide project offtake certainty but are increasingly subject to regulatory scrutiny around "additionality"—whether a PPA enables a new project or merely redirects power from a project that would have existed anyway. If regulatory bodies tighten additionality standards, the value of corporate PPAs may decline, reducing demand for Canadian Solar's projects.
 
 ## Climate and Carbon Accounting Regulations
 
@@ -49,7 +49,7 @@ Governments and regulators are increasingly mandating carbon accounting and scop
 
 ## Geopolitical and Sanctions Risk
 
-Canadian Solar operates and sources materials globally, exposing it to geopolitical shifts and sanctions regimes. If a major market becomes subject to trade sanctions, or if a sourcing jurisdiction is sanctioned, Canadian Solar must restructure operations. The company's exposure to Russia and China creates geopolitical dependencies; sanctions or escalation could disrupt supply chains or market access. Additionally, Canadian Solar's operations in developing markets expose it to political instability, currency devaluation, and expropriation risk—all regulatory hazards that affect returns on deployed capital.
+Canadian Solar operates and sources materials globally, exposing it to geopolitical shifts and sanctions regimes. If a major market becomes subject to trade sanctions, or if a sourcing jurisdiction is sanctioned, Canadian Solar must restructure operations. The company's exposure to Russia and China creates geopolitical dependencies; sanctions or escalation could disrupt supply chains or market access. Additionally, Canadian Solar's operations in developing markets expose it to political instability, [currency devaluation](/currency-devaluation/), and expropriation risk—all regulatory hazards that affect returns on deployed capital.
 
 ## Long-Term Policy Uncertainty and Transition Risk
 

@@ -21,7 +21,7 @@ A traditional TPA is a service company: it collects fees (typically per claim or
 
 CORVEL inverts this incentive structure. It operates small captive insurance subsidiaries that retain portions of workers' comp risk. When CORVEL administers a claim for a policy backed by its own insurance subsidiary, it bears a share of the cost directly. This makes CORVEL an insurer-service hybrid, similar to a health insurance company owning its own provider network, except in the workers' comp domain.
 
-The strategic advantage is efficiency incentives. CORVEL can justify aggressive claims management—early return-to-work programs, targeted medical utilization reviews, fraud investigation—because the company profits directly from lowered claim costs. A pure TPA would be sued by insurers for being too aggressive; CORVEL can absorb the reputational or legal risk because it is simultaneously an insurer making the same trade-offs.
+The strategic advantage is efficiency incentives. CORVEL can justify aggressive claims management—early return-to-work programs, targeted medical utilization reviews, fraud investigation—because the company profits directly from lowered claim costs. A pure TPA would be sued by insurers for being too aggressive; CORVEL can absorb the reputational or [legal risk](/legal-risk/) because it is simultaneously an insurer making the same trade-offs.
 
 ## Network Effects in Medical and Rehabilitation Services
 

@@ -49,7 +49,7 @@ WCBR is a standard, non-leveraged equity exchange-traded fund. It does not use l
 
 ## Costs and holding strategy
 
-The fund's annual [expense ratio](/expense-ratio/) covers management, index licensing, and operations. For a sector-specific thematic fund tracking a mature, well-defined category like cybersecurity, the expense ratio is typically in the range of 0.60–0.80% — higher than a broad index but in line with other sector or specialized-theme ETFs. The fund holds positions permanently unless companies merge, fail, or drop below the index eligibility threshold; it does not chase momentum or trade frequently.
+The fund's annual [expense ratio](/expense-ratio/) covers management, [index licensing](/index-licensing/), and operations. For a sector-specific thematic fund tracking a mature, well-defined category like cybersecurity, the expense ratio is typically in the range of 0.60–0.80% — higher than a broad index but in line with other sector or specialized-theme ETFs. The fund holds positions permanently unless companies merge, fail, or drop below the index eligibility threshold; it does not chase momentum or trade frequently.
 
 ## Risks in cybersecurity equity exposure
 

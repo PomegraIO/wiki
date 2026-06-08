@@ -27,7 +27,7 @@ In late 2024, the company renamed itself from Orion [Office REIT](/office-reit/)
 
 A REIT's resilience depends largely on its tenant quality and lease terms. Orion's moat (such as it exists) comes from its accumulated relationships with institutional-grade companies and its own balance sheet strength. When it wants to acquire a new property, it offers terms stable enough that quality tenants will sign multi-year leases. When a tenant's lease matures, Orion can refinance, raise the rent if the market allows, or replace the tenant if the opportunity improves.
 
-The structure is not differentiated — there are dozens of net-lease REITs — but it is durable. A tenant paying rent on a single property has fewer options for escape than a customer in a software contract. If a tenant defaults, Orion's recourse is the property itself: the company can evict, repossess the building, and lease it to someone else. This security does not eliminate risk, but it transforms it from contractual (will the customer stay?) into asset-based (is the property itself valuable?).
+The structure is not differentiated — there are dozens of [net-lease REITs](/net-lease-reit/) — but it is durable. A tenant paying rent on a single property has fewer options for escape than a customer in a software contract. If a tenant defaults, Orion's recourse is the property itself: the company can evict, repossess the building, and lease it to someone else. This security does not eliminate risk, but it transforms it from contractual (will the customer stay?) into asset-based (is the property itself valuable?).
 
 ## Tenants, not properties, drive the business
 

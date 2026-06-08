@@ -34,7 +34,7 @@ The distribution itself can be misleading. If the fund is paying out more in dis
 
 ## Credit cycles and the path of defaults
 
-HYI's fate is tied to the credit cycle. In the early stages of an expansion, [default rates](/default-rate/) are low, companies can roll over debt easily, and high-yield bonds do well. Mid-cycle, competition heats up, margins compress, and spreads widen slightly but defaults remain manageable. Late cycle, when growth slows and companies struggle to refinance maturing debt, defaults spike. The fund's performance swings accordingly. A shrewd manager might sell riskier bonds before defaults accelerate and rotate into safer credits or cash. But timing the credit cycle is notoriously difficult; many managers hold too long and suffer.
+HYI's fate is tied to the [credit cycle](/credit-cycle/). In the early stages of an expansion, [default rates](/default-rate/) are low, companies can roll over debt easily, and high-yield bonds do well. Mid-cycle, competition heats up, margins compress, and spreads widen slightly but defaults remain manageable. Late cycle, when growth slows and companies struggle to refinance maturing debt, defaults spike. The fund's performance swings accordingly. A shrewd manager might sell riskier bonds before defaults accelerate and rotate into safer credits or cash. But timing the credit cycle is notoriously difficult; many managers hold too long and suffer.
 
 ## Field notes on the fund
 

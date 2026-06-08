@@ -27,7 +27,7 @@ The brutal aspect of the rig business is utilization. If a rig is idle (not cont
 
 ## Capital Intensity and Debt Burden
 
-Offshore rigs are among the most capital-intensive industrial assets. A modern jackup rig costs $200–400 million to build. This means Borr's [balance-sheet](/balance-sheet/) is dominated by property, plant, and equipment financed by debt. The company's [enterprise-value](/enterprise-value/) is largely the value of its rig fleet; its earnings are determined by how many days per year those rigs are contracted and at what rates.
+Offshore rigs are among the most capital-intensive industrial assets. A modern jackup rig costs $200–400 million to build. This means Borr's [balance-sheet](/balance-sheet/) is dominated by [property, plant, and equipment](/property-plant-equipment/) financed by debt. The company's [enterprise-value](/enterprise-value/) is largely the value of its rig fleet; its earnings are determined by how many days per year those rigs are contracted and at what rates.
 
 High leverage magnifies both upside and downside. In a strong market (high oil prices, high drilling activity, few idle rigs), Borr's rigs command premium day rates and run at high utilization—producing strong earnings and cash flow to pay debt and shareholders. In a weak market (low oil prices, reduced drilling activity, rig glut), utilization collapses, rates fall, and the company burns cash to pay debt service and operating costs on idle rigs. A severe downturn can push Borr toward insolvency or restructuring.
 
@@ -53,7 +53,7 @@ In a supply-constrained market, operators bid competitively for rig availability
 
 For BORR, the critical metrics are: utilization (percentage of rig-days contracted in the period), average day rate (revenue divided by working days), per-day operating costs, and idle-rig carrying costs. A profitable Borr is one where utilization is high (80%+), day rates are strong (reflecting limited rig supply), and costs are controlled. An unprofitable Borr is one where utilization is weak, rates have fallen, and idle-rig costs are dragging on [free-cash-flow](/free-cash-flow/).
 
-The stock price reflects expectations for utilization and rates over the coming years. In a downturn, even a strong company can trade at distressed valuations because cash flow is expected to be negative. In an upturn, high utilization and rate strength can drive rapid multiple expansion and stock gains.
+The stock price reflects expectations for utilization and rates over the coming years. In a downturn, even a strong company can trade at distressed valuations because cash flow is expected to be negative. In an upturn, high utilization and rate strength can drive rapid [multiple expansion](/multiple-expansion/) and stock gains.
 
 <div class="wiki-seealso">
 ### Closely related

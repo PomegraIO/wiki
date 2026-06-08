@@ -34,7 +34,7 @@ Europe also trades at different valuations from the US. Sometimes European stock
 
 Owning European stocks comes with currency exposure. If you are a US investor buying a German company, your returns depend partly on whether the euro gets stronger or weaker relative to the [US dollar](/us-dollar/). If the euro strengthens, your returns look better in dollars. If it weakens, your returns look worse. Currency can be volatile and can swamp the stock performance in the short term. Over longer periods, currency movements have less impact on returns, and many investors accept this as the cost of global [diversification](/diversification/).
 
-Europe also faces its own economic and political risks. A major [recession](/recession/) in Europe would hurt all stocks in the fund. Political fragmentation or currency crises in certain countries could disrupt markets. Some European countries have aging populations and slower growth than the US, and that matters for long-term returns. These are not reasons to avoid Europe — they are reasons to own it as part of a global portfolio rather than as your entire stake in stocks.
+Europe also faces its own economic and [political risks](/political-risk/). A major [recession](/recession/) in Europe would hurt all stocks in the fund. Political fragmentation or currency crises in certain countries could disrupt markets. Some European countries have aging populations and slower growth than the US, and that matters for long-term returns. These are not reasons to avoid Europe — they are reasons to own it as part of a global portfolio rather than as your entire stake in stocks.
 
 ## Cost and simplicity
 

@@ -38,9 +38,9 @@ The actual structure was an upsized offering: JATT II sold 6 million ordinary sh
 
 ## Leadership and the bet
 
-Dr. Someit Sidhu serves as Chief Executive Officer and Chairman, leading the search process. Nicholas Fernandez is the Chief Financial Officer. Their job is to negotiate the terms of acquisition, conduct due diligence on targets, and present the combined company's story to shareholders for a vote. If shareholders reject the merger or simply lose patience, they can redeem their shares at the trust account value and leave, making the SPAC an exit vehicle that requires the management team to be persuasive about the target it selects.
+Dr. Someit Sidhu serves as Chief Executive Officer and Chairman, leading the search process. Nicholas Fernandez is the Chief Financial Officer. Their job is to negotiate the terms of acquisition, conduct [due diligence](/due-diligence/) on targets, and present the combined company's story to shareholders for a vote. If shareholders reject the merger or simply lose patience, they can redeem their shares at the trust account value and leave, making the SPAC an exit vehicle that requires the management team to be persuasive about the target it selects.
 
-The inherent conflict in a SPAC — its sponsors have already committed capital and bear reputational risk, while new shareholders can simply redeem — has made SPAC targets controversial. Venture-backed founders gain easy access to capital and public markets, while SPAC investors implicitly bet that the management team's judgment about biotech and life sciences is sound and that no better opportunity will emerge within the next year and a half.
+The inherent conflict in a SPAC — its sponsors have already committed capital and bear [reputational risk](/reputational-risk/), while new shareholders can simply redeem — has made SPAC targets controversial. Venture-backed founders gain easy access to capital and public markets, while SPAC investors implicitly bet that the management team's judgment about biotech and life sciences is sound and that no better opportunity will emerge within the next year and a half.
 
 ## The ticking clock
 

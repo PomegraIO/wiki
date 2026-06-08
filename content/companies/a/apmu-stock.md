@@ -35,7 +35,7 @@ How does the blended management approach work?
 
 ActivePassive Investments, the fund's sponsor, manages APMU using a hybrid approach that combines elements of active and passive investing. The fund likely maintains a core holding that closely mirrors a published municipal bond index, ensuring broad [diversification](/diversification/) and low costs. Overlaid on top of that passive core is a smaller active allocation where the fund's managers make discretionary decisions about which bonds to overweight or underweight based on their assessment of credit quality, relative value, and market conditions.
 
-This hybrid method aims to deliver most of the cost efficiency of a purely passive fund — which simply buys all bonds in an index and holds them — while preserving the ability to enhance returns slightly by identifying mispriced bonds or avoiding deteriorating credits. Whether the active overlay actually delivers value net of its fees is debatable; many investors might be just as well served by a purely passive municipal bond fund at a lower cost.
+This hybrid method aims to deliver most of the cost efficiency of a purely passive fund — which simply buys all bonds in an index and holds them — while preserving the ability to enhance returns slightly by identifying mispriced bonds or avoiding deteriorating credits. Whether the active overlay actually delivers value net of its fees is debatable; many investors might be just as well served by a purely passive [municipal bond fund](/municipal-bond-fund/) at a lower cost.
 
 What bonds does APMU hold?
 

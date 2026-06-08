@@ -47,7 +47,7 @@ The fund's maturity focus means it will gradually shift composition as bonds mat
 
 ## Costs and trading
 
-As a Vanguard product, VBCE carries a low [expense ratio](/expense-ratio/) typical of the firm's index-following funds. The fund is liquid and trades on NYSE Arca with normal [bid-ask spreads](/bid-ask-spread/), though trading volume is much lighter than in broad corporate bond indices. Investors planning to trade VBCE should expect less liquidity than they would in a more widely held fund like BND or LQD.
+As a Vanguard product, VBCE carries a low [expense ratio](/expense-ratio/) typical of the firm's index-following funds. The fund is liquid and trades on [NYSE Arca](/nyse-arca/) with normal [bid-ask spreads](/bid-ask-spread/), though trading volume is much lighter than in broad corporate bond indices. Investors planning to trade VBCE should expect less liquidity than they would in a more widely held fund like BND or LQD.
 
 The ETF structure means the fund settles in cash and can be bought or sold during market hours, unlike traditional [mutual funds](/mutual-fund/). No front-end or back-end loads apply.
 

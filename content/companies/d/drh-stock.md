@@ -35,7 +35,7 @@ Hotels deteriorate. Guest rooms, bathrooms, public areas, HVAC systems, roofs, a
 
 ## Operator Selection and Risk Concentration
 
-DRH typically leases properties to experienced hotel operating companies—large chains' subsidiary operations, major independent operators, or strategic partnerships. The operator's credit quality matters; a financially weak operator may skip maintenance, fail to modernize, or default on rent. DRH negotiates lease terms—duration (typical 20–30 years), base rent, percentage rent, capex obligations, renewal options—to ensure alignment. If an operator becomes insolvent or abandons a property, DRH must either re-let the property quickly to a new operator or operate the hotel directly (a costly and operationally intensive fallback). Concentration in a few large operators or a small number of properties creates vulnerability.
+DRH typically leases properties to experienced hotel operating companies—large chains' subsidiary operations, major independent operators, or strategic partnerships. The operator's credit quality matters; a financially weak operator may skip maintenance, fail to modernize, or default on rent. DRH negotiates lease terms—duration (typical 20–30 years), base rent, [percentage rent](/percentage-rent/), capex obligations, renewal options—to ensure alignment. If an operator becomes insolvent or abandons a property, DRH must either re-let the property quickly to a new operator or operate the hotel directly (a costly and operationally intensive fallback). Concentration in a few large operators or a small number of properties creates vulnerability.
 
 ## Travel Demand and Economic Cycles
 

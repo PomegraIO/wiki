@@ -24,7 +24,7 @@ When a SPAC like Inflection Point VI goes public, it raises capital from shareho
 
 **Why would a private company choose a SPAC over an IPO?**
 
-An IPO requires extensive due diligence, regulatory filing, and roadshow travel to build demand among institutional investors — a process that can take months and involves meaningful advisory and underwriting costs. A SPAC merger can be faster and involves a simpler negotiation between the SPAC sponsor and the target company's owners. SPACs also offer predictability: the SPAC sponsor has already raised capital at a known valuation, so the merger price can be set with fewer surprises. For companies in fast-moving industries or with unpredictable revenue, that certainty has appeal.
+An IPO requires extensive [due diligence](/due-diligence/), regulatory filing, and roadshow travel to build demand among institutional investors — a process that can take months and involves meaningful advisory and underwriting costs. A SPAC merger can be faster and involves a simpler negotiation between the SPAC sponsor and the target company's owners. SPACs also offer predictability: the SPAC sponsor has already raised capital at a known valuation, so the merger price can be set with fewer surprises. For companies in fast-moving industries or with unpredictable revenue, that certainty has appeal.
 
 **What are the risks?**
 

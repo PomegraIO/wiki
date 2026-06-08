@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Arrow Reserve Capital Management entered the ETF space with ARCM, a fund reflecting the firm's philosophy on managing capital through market cycles. The fund combines stocks and [bonds](/bond/) in a structure intended to protect investor capital during downturns while capturing upside during recoveries. Its origin lies in a traditional approach to portfolio management — the core principle that wealth preservation matters as much as wealth accumulation, and that losing money in a bad year sets back long-term compounding far more than missing a good year costs.
+Arrow Reserve Capital Management entered the ETF space with ARCM, a fund reflecting the firm's philosophy on managing capital through [market cycles](/market-cycle/). The fund combines stocks and [bonds](/bond/) in a structure intended to protect investor capital during downturns while capturing upside during recoveries. Its origin lies in a traditional approach to portfolio management — the core principle that wealth preservation matters as much as wealth accumulation, and that losing money in a bad year sets back long-term compounding far more than missing a good year costs.
 
 ## The roots of a reserve-focused approach
 

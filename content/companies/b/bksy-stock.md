@@ -42,7 +42,7 @@ These use cases are more fragmented than government contracts; they involve many
 
 ## Data Privacy and Ethical Considerations in Geospatial Intelligence
 
-The widespread availability of high-resolution satellite imagery raises ethical and privacy questions. Monitoring private property, identifying individuals' locations, and tracking movements without consent or legal authority create regulatory and reputational risks. BlackSky must navigate restrictions on the use of imagery, export-control regulations, and customer commitments to lawful and ethical use.
+The widespread availability of high-resolution satellite imagery raises ethical and privacy questions. Monitoring private property, identifying individuals' locations, and tracking movements without consent or legal authority create regulatory and [reputational risks](/reputational-risk/). BlackSky must navigate restrictions on the use of imagery, export-control regulations, and customer commitments to lawful and ethical use.
 
 These constraints affect market size. There are geospatial intelligence use cases that are technically feasible but legally or ethically prohibited. Regulators and the public may also begin restricting high-resolution imagery over certain sensitive facilities, reducing the value of some monitoring applications. BlackSky's long-term success depends on maintaining customer trust and regulatory approval.
 

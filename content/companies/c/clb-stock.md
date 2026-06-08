@@ -37,7 +37,7 @@ If CLB has a recordable incident—a worker hospitalization, a serious injury, o
 
 ## International Operations and Sanctions Compliance
 
-Core Laboratories operates globally, with facilities and personnel in multiple countries. This creates exposure to international trade controls and sanctions. The Office of Foreign Assets Control (OFAC) maintains sanctions programs targeting specific countries (Iran, North Korea, Syria, Russia as of recent sanctions regimes), entities, and individuals. If CLB has operations in or provides services to entities in sanctioned jurisdictions, the company violates OFAC rules and faces civil and criminal penalties.
+Core Laboratories operates globally, with facilities and personnel in multiple countries. This creates exposure to international trade controls and sanctions. The [Office of Foreign Assets Control](/office-of-foreign-assets-control/) (OFAC) maintains sanctions programs targeting specific countries (Iran, North Korea, Syria, Russia as of recent sanctions regimes), entities, and individuals. If CLB has operations in or provides services to entities in sanctioned jurisdictions, the company violates OFAC rules and faces civil and criminal penalties.
 
 The oil and gas industry is historically exposed to sanctions risk: major producers operate in geopolitically sensitive regions, and sanctions on countries often target energy sectors. If CLB has worked in or contracted with entities in sanctioned countries, the company must disclose OFAC compliance status in its 10-K and verify that no violation occurred. A sanctions violation—say, inadvertently providing testing services to a subsidiary of a sanctioned entity—creates material legal exposure and potential reputational damage.
 
@@ -57,7 +57,7 @@ Customer contracts in the oil and gas industry often include force-majeure claus
 
 ## Data Privacy and Information Security
 
-Core Laboratories handles proprietary geological and seismic data for oil and gas operators—valuable intellectual property. CLB must maintain information security to prevent data theft, espionage, or unauthorized disclosure. Cyber attacks on CLB could compromise customer data, breach confidentiality agreements, and trigger contractual penalties. The company must disclose material cyber risks in its 10-K.
+Core Laboratories handles proprietary geological and seismic data for oil and gas operators—valuable intellectual property. CLB must maintain information security to prevent data theft, espionage, or unauthorized disclosure. Cyber attacks on CLB could compromise customer data, breach confidentiality agreements, and trigger contractual penalties. The company must disclose material [cyber risks](/cyber-risk/) in its 10-K.
 
 Additionally, as CLB becomes a larger operator in the digital realm—collecting sensor data, managing cloud-based databases, deploying AI for reservoir analysis—the company may face data privacy regulations (GDPR if serving European customers, or other regional privacy laws). CLB must ensure that personal data of employees and customers is protected according to applicable privacy laws and that data-processing agreements are in place.
 

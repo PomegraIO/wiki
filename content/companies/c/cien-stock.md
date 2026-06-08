@@ -84,7 +84,7 @@ Ciena has historically invested significant cash back into the business through 
 
 ## How to research Ciena as an investment
 
-Start with the annual 10-K (SEC CIK 0000936395). Look at the breakdown of revenue by customer and geography. Check who the top customers are and what percentage of revenue they represent. Read the risk factors — there will be discussion of carrier spending cycles and technology risks.
+Start with the annual 10-K (SEC CIK 0000936395). Look at the breakdown of revenue by customer and geography. Check who the top customers are and what percentage of revenue they represent. Read the risk factors — there will be discussion of carrier spending cycles and [technology risks](/technology-risk/).
 
 The quarterly earnings call is important because Ciena management provides [forward guidance](/forward-guidance/) and commentary on the order pipeline. Pipeline visibility matters for this business — if management sounds confident about upcoming quarters, that is a positive signal. If the pipeline is weak, it is a warning.
 

@@ -43,7 +43,7 @@ Leverage is the accelerant. If WhiteHorse has $1 billion in equity and borrows $
 
 ## Market conditions and credit cycles
 
-BDCs are acutely sensitive to credit cycles. In an easy-credit environment, when investors are hungry for yield and companies are eager to borrow, loan demand is strong and pricing is competitive. But as interest rates rise or recession fears emerge, credit conditions tighten. Companies default more often, investors demand higher yields (which means lower prices for existing loans), and new borrowers become harder to find. WhiteHorse's earnings, [dividend](/dividend/), and book value can swing sharply across these cycles.
+BDCs are acutely sensitive to [credit cycles](/credit-cycle/). In an easy-credit environment, when investors are hungry for yield and companies are eager to borrow, loan demand is strong and pricing is competitive. But as interest rates rise or recession fears emerge, credit conditions tighten. Companies default more often, investors demand higher yields (which means lower prices for existing loans), and new borrowers become harder to find. WhiteHorse's earnings, [dividend](/dividend/), and book value can swing sharply across these cycles.
 
 The company's stock price reflects both the market's view of the underlying loans' quality and its own leverage. When the market is confident, BDC stocks can trade at premiums to book value. When fears rise, they trade at discounts. That discount widens if the market suspects hidden loan losses or rising defaults.
 

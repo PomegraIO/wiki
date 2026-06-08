@@ -70,7 +70,7 @@ There is also regulatory risk. Sugar taxes, tighter labeling rules, and restrict
 
 ## Emerging markets and the asymmetric growth opportunity
 
-Despite near-term margin pressures, Mondelez has long-term growth drivers in emerging and frontier markets. In China, India, and Southeast Asia, rising incomes mean more consumers with disposable spending power for treats. In parts of Africa and Latin America, urbanization and retail modernization are creating new pathways for packaged goods. A Mondelez factory that sells millions of dollars' worth of chocolate and biscuits today in Mexico or Turkey stands to increase volumes as income levels rise, even without any marketing genius.
+Despite near-term margin pressures, Mondelez has long-term growth drivers in emerging and [frontier markets](/frontier-markets/). In China, India, and Southeast Asia, rising incomes mean more consumers with disposable spending power for treats. In parts of Africa and Latin America, urbanization and retail modernization are creating new pathways for packaged goods. A Mondelez factory that sells millions of dollars' worth of chocolate and biscuits today in Mexico or Turkey stands to increase volumes as income levels rise, even without any marketing genius.
 
 That opportunity is real, but it is also slow and capital-intensive. Building distribution in a new market requires patience, local partners, and willingness to absorb years of losses. Currency swings in emerging markets also mean that dollar-based profits can evaporate even if unit volumes are growing. Mondelez has pursued this growth with discipline, but it is a long game, and results vary sharply by region.
 

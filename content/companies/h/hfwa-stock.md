@@ -31,9 +31,9 @@ The state has also been a beneficiary of national migration trends—people movi
 
 ## Commercial Lending and Relationship Banking
 
-Beyond mortgages, Heritage Financial lends to small and mid-market businesses. Equipment financing, working-capital loans, construction loans, and commercial real-estate loans are where a community bank can differentiate. A loan officer who understands the local economy and knows a business owner personally can make a credit decision faster and with less bureaucracy than a national bank.
+Beyond mortgages, Heritage Financial lends to small and mid-market businesses. Equipment financing, working-capital loans, [construction loans](/construction-loan/), and commercial real-estate loans are where a community bank can differentiate. A loan officer who understands the local economy and knows a business owner personally can make a credit decision faster and with less bureaucracy than a national bank.
 
-This is the "relationship advantage" of community banking. But it is also a risk concentrator. If Heritage Financial lends heavily to a particular industry (say, orchards and agricultural production in central Washington), and that industry faces a shock, the loan portfolio suffers. The bank must diversify across industries and geographies to spread risk, but it lacks the scale to do so as effectively as a national bank.
+This is the "relationship advantage" of community banking. But it is also a risk concentrator. If Heritage Financial lends heavily to a particular industry (say, orchards and agricultural production in central Washington), and that industry faces a shock, the loan portfolio suffers. The bank must diversify across industries and geographies to [spread risk](/spread-risk/), but it lacks the scale to do so as effectively as a national bank.
 
 ## Deposit Funding and Competition
 

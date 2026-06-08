@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Saba Capital Income & Opportunities](/brw-stock/) Fund II is a registered closed-end management investment company that pursues income and capital appreciation by investing in a diversified portfolio of other [closed-end funds](/closed-end-fund/) and private investment vehicles. Shares trade on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker SABA. The fund represents the work of Saba Capital Management, an investment firm founded in 2009 by Boaz Weinstein that specializes in finding value in dislocations across credit and equity markets.
+[Saba Capital Income & Opportunities](/brw-stock/) Fund II is a registered closed-end management investment company that pursues income and capital appreciation by investing in a diversified portfolio of other [closed-end funds](/closed-end-fund/) and private investment vehicles. Shares trade on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker SABA. The fund represents the work of Saba Capital Management, an investment firm founded in 2009 by [Boaz Weinstein](/boaz-weinstein/) that specializes in finding value in dislocations across credit and equity markets.
 
 <aside class="wiki-infobox">
 <table>
@@ -43,7 +43,7 @@ The stated mandate is high current income first, with capital appreciation as a 
 
 Saba Capital's founding insight, articulated by Weinstein, is that many securities — especially closed-end fund shares and credit instruments — trade at persistent deviations from their true economic value. These deviations arise from supply and demand shocks, investor sentiment shifts, redemption pressures, and the simple fact that many market participants do not price these assets as carefully as specialists would. A quantitative process that combines statistical models with fundamental analysis can identify when a closed-end fund is trading at a steep discount to its [net asset value](/net-asset-value/), or when a credit instrument is mispriced relative to its underlying risk.
 
-Once identified, these opportunities are holdings, not trades — the fund expects to hold until valuations normalise or until the underlying holdings generate cash. This is a patient capital strategy. It does not depend on short-term momentum or technicals; it depends on the market eventually recognizing and correcting the price gap.
+Once identified, these opportunities are holdings, not trades — the fund expects to hold until valuations normalise or until the underlying holdings generate cash. This is a patient capital strategy. It does not depend on short-term momentum or technicals; it depends on the market eventually recognizing and correcting the [price gap](/price-gap/).
 
 ## Supply chain of income and risk
 

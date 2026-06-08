@@ -43,7 +43,7 @@ The [expense ratio](/expense-ratio/) is quite low — typical for a government b
 
 XBIL serves a particular niche: investors and financial professionals who need a cash-equivalent position that sits in the securities market. These include money-market funds that reinvest excess reserves, portfolios waiting for a clear entry point into equities or longer bonds, risk-averse savers who find the yield appealing, and institutions managing short-term liabilities. The fund is liquid and tax-efficient compared to holding actual Treasury bills in a brokerage account, and it avoids the minimum purchase sizes and paperwork of direct Treasury ownership.
 
-For ordinary retail investors, XBIL is most useful as a "holding tank" — a place to keep dry powder without accepting the volatility of stocks or the [interest-rate risk](/interest-rate-risk/) of bonds, while earning whatever the market is paying on very short-term government debt. The stability of the underlying holdings means the share price is predictable; the risk is not the fund losing value, but the yield being low if the Federal Reserve has cut rates aggressively.
+For ordinary retail investors, XBIL is most useful as a "holding tank" — a place to keep [dry powder](/pe-dry-powder/) without accepting the volatility of stocks or the [interest-rate risk](/interest-rate-risk/) of bonds, while earning whatever the market is paying on very short-term government debt. The stability of the underlying holdings means the share price is predictable; the risk is not the fund losing value, but the yield being low if the Federal Reserve has cut rates aggressively.
 
 ## Duration, interest-rate risk, and the yield curve
 

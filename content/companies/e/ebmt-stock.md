@@ -47,7 +47,7 @@ Conversely, when interest rates rise, a community bank's deposit costs rise as w
 
 ## Scale Disadvantages and Efficiency
 
-A community bank's cost structure is inherently less efficient than a megabank's when measured on a per-account or per-dollar-of-assets basis. Eagle Bancorp must still maintain a full banking infrastructure — compliance, risk management, information technology, lending support — but operates at a fraction of the megabank's scale. This means higher cost-to-income ratios (the fraction of revenue consumed by operating costs).
+A community bank's cost structure is inherently less efficient than a megabank's when measured on a per-account or per-dollar-of-assets basis. Eagle Bancorp must still maintain a full banking infrastructure — compliance, risk management, information technology, lending support — but operates at a fraction of the megabank's scale. This means higher [cost-to-income ratios](/cost-income-ratio/) (the fraction of revenue consumed by operating costs).
 
 However, a community bank avoids certain cost structures that megabanks bear: massive corporate overhead, trading desks, investment-banking operations, wealth-management divisions, and global compliance infrastructure. These are fixed costs that do not scale as easily as retail banking operations do. In some dimensions, a community bank's cost structure is more efficient; in others, less so.
 

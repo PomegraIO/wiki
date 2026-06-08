@@ -51,4 +51,4 @@ The critical risk in any SPAC investment is overpayment. The sponsor and managem
 
 Investors considering CCII shares should carefully review the SPAC's SEC filings, particularly the prospectus filed at the time of the initial public offering. This document explains the investment criteria the sponsor intends to use when evaluating targets and reveals the experience and track record of the Cohen Circle sponsor team. The prospectus also details the redemption rights available to shareholders and the fee structure that compensates the sponsor and management team.
 
-Once a merger is announced, the company's proxy statement will provide detailed financial projections and operating information about the proposed target — material that requires careful scrutiny, as projections are often optimistic.
+Once a merger is announced, the company's [proxy statement](/proxy-statement/) will provide detailed financial projections and operating information about the proposed target — material that requires careful scrutiny, as projections are often optimistic.

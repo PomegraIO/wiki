@@ -28,7 +28,7 @@ Pantheon therefore depends on access to capital markets or project finance to fu
 
 Upstream in Pantheon's supply chain sits the capital market (which funds exploration and development) and the licensing and regulatory bodies (the State of Alaska, the federal Bureau of Land Management, and environmental agencies that permit drilling). Downstream sits the commodity market for crude oil, the transportation infrastructure (pipelines, tanker terminals, shipping) that moves oil from the wellhead to refineries, and the refining and distribution companies that process and sell petroleum products to end users.
 
-Pantheon's own position is entirely dependent on the upstream links holding firm. If capital markets freeze (as they did in 2008), exploration budgets evaporate. If regulators tighten permitting standards or extend timelines—a recurring pressure in Alaska—the cost and timeline for bringing acreage to production extend, raising the effective hurdle rate for what counts as economic. If the oil price falls sharply, discoveries that seemed viable under $80/barrel crude become uneconomic at $50, erasing the value Pantheon thought it had found.
+Pantheon's own position is entirely dependent on the upstream links holding firm. If capital markets freeze (as they did in 2008), exploration budgets evaporate. If regulators tighten permitting standards or extend timelines—a recurring pressure in Alaska—the cost and timeline for bringing acreage to production extend, raising the effective [hurdle rate](/hurdle-rate/) for what counts as economic. If the oil price falls sharply, discoveries that seemed viable under $80/barrel crude become uneconomic at $50, erasing the value Pantheon thought it had found.
 
 ## Risks and pressures
 

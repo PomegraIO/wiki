@@ -19,7 +19,7 @@ keywords: ["HTCR", "cardiac monitoring", "heartbeat detection", "medical technol
 
 The 10-K filing for HeartCore should open with a clear statement of what technology or service the firm offers—whether it is a hardware device (a wearable monitor, a diagnostic device, a hospital-based system), a software platform (a data analytics or alert system for cardiac data), a service (remote monitoring or data interpretation), or a combination. Without clarity on this, the rest of the filing is noise. Read the business-description section carefully; it should explain the customer (hospitals, individual consumers, cardiologists, home-care providers), the indication or use case (arrhythmia detection, real-time monitoring for high-risk patients, preventive screening), and the competitive positioning relative to established players like Medtronic, GE Healthcare, or Philips.
 
-If the company has received regulatory approvals (FDA clearance for a device, or healthcare-provider certifications for a service), the 10-K should state them explicitly. The absence of such approvals for a device-based business is a major red flag—it means the firm has not yet cleared regulatory hurdles and faces substantial execution risk.
+If the company has received regulatory approvals (FDA clearance for a device, or healthcare-provider certifications for a service), the 10-K should state them explicitly. The absence of such approvals for a device-based business is a major red flag—it means the firm has not yet cleared regulatory hurdles and faces substantial [execution risk](/execution-risk/).
 
 ## Revenue Model and Customer Acquisition
 

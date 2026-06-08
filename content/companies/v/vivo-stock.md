@@ -54,7 +54,7 @@ VivoPower's shift toward partnerships in charging infrastructure and the recurri
 
 The path to profitability in ruggedised EV conversion is slower than in mass-market vehicles, because volumes are lower and customisation adds cost. Fleet operators are historically conservative in capital equipment decisions; conversion projects take years to evaluate and authorise. Supply-chain disruptions in batteries and electronics carry outsized impact when production volumes are small. And competition from larger players who could pivot to ruggedised applications if the market proved large enough is a real threat.
 
-The company's reliance on partnerships for distribution and charging infrastructure also introduces execution risk: a key partner might underperform, or strategic conflicts might emerge between VivoPower and partners' other commitments.
+The company's reliance on partnerships for distribution and charging infrastructure also introduces [execution risk](/execution-risk/): a key partner might underperform, or strategic conflicts might emerge between VivoPower and partners' other commitments.
 
 ## How to research VivoPower
 

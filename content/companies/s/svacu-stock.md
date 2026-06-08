@@ -19,7 +19,7 @@ The SVACU ticker represents a unit security combining [common stock](/common-sto
 
 The SPAC framework did not arise by accident. It emerged from SEC regulations that, in the 1990s and early 2000s, were intended to provide an alternative pathway for capital formation. The regulator faced a practical problem: certain entrepreneurs and investment professionals with strong track records in acquisitions and operations wanted a way to raise capital from public markets and then deploy it toward acquisitions, but traditional IPO processes were cumbersome and required the company to already have an operating history. The SEC's solution was to permit the formation of companies with a single stated purpose — identify and acquire another company — and to surround that activity with specific regulatory constraints designed to protect public shareholders.
 
-The constraints are the sandbox's walls. They include mandatory timelines (typically two years from IPO to complete a [business combination](/business-combination-purchase/)), restrictions on capital use (most capital must remain in trust), disclosure requirements (detailed proxy statements before any merger vote), and shareholder protections including [redemption rights](/redemption-rights-equity/) (the ability to withdraw capital if a shareholder disapproves the proposed combination).
+The constraints are the sandbox's walls. They include mandatory timelines (typically two years from IPO to complete a [business combination](/business-combination-purchase/)), restrictions on capital use (most capital must remain in trust), disclosure requirements (detailed [proxy statements](/proxy-statement/) before any merger vote), and shareholder protections including [redemption rights](/redemption-rights-equity/) (the ability to withdraw capital if a shareholder disapproves the proposed combination).
 
 ## Spring Valley III's formation and capital structure
 
@@ -37,7 +37,7 @@ That timeline is not incidental; it is the core of the SEC's regulatory approach
 
 ## How the business combination proposal works
 
-Once Spring Valley's sponsors identify a target company for acquisition, the regulatory process mirrors a traditional merger. The SPAC and the target company negotiate definitive agreements, conduct reciprocal due diligence, and agree on valuation and deal terms. Spring Valley then files a detailed proxy statement with the SEC describing the target, its financials, the deal structure, and any conflicts of interest between sponsors and the target.
+Once Spring Valley's sponsors identify a target company for acquisition, the regulatory process mirrors a traditional merger. The SPAC and the target company negotiate definitive agreements, conduct reciprocal [due diligence](/due-diligence/), and agree on valuation and deal terms. Spring Valley then files a detailed proxy statement with the SEC describing the target, its financials, the deal structure, and any conflicts of interest between sponsors and the target.
 
 The proxy is the moment of transparency. Spring Valley shareholders receive full disclosure about the target company's business, its financial statements (often years of audited results), the compensation the sponsors will receive if the deal closes, any special dealing between sponsors and the target, and pro forma financial information showing what the combined company would look like. The shareholders then vote.
 

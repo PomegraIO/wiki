@@ -46,7 +46,7 @@ In parallel, FGL has signed strategic partnerships to develop data center solar 
 
 FGL faces real competitive headwinds. Global contractors and local competitors have entered Malaysia's solar EPC market, attracted by the same pipeline growth that drew FGL's attention. Larger, more established firms bring deeper [balance sheets](/balance-sheet/), international experience, and established supply chains—advantages that matter in executing multi-year, multi-megawatt projects.
 
-Execution risk is acute in any contractor business. Delays, cost overruns, equipment availability, and weather events can compress or even invert project margins. FGL's thin profitability to date suggests the company is still learning its cost structure and has not yet achieved scale or process efficiency.
+[Execution risk](/execution-risk/) is acute in any contractor business. Delays, cost overruns, equipment availability, and weather events can compress or even invert project margins. FGL's thin profitability to date suggests the company is still learning its cost structure and has not yet achieved scale or process efficiency.
 
 Regulatory risk also exists. Malaysia's renewable energy policy—tendering pace, grid interconnection rules, subsidy frameworks—can shift with political and economic conditions. A slowdown in tender releases or a change in program terms could disrupt the pipeline visibility that currently supports investor expectations.
 

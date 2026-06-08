@@ -37,7 +37,7 @@ The fund pools capital from many investors, which lets the portfolio manager neg
 
 Eaton Vance was founded in 1924 as a money manager focused on income-producing securities. Income investing — the strategy of buying bonds and dividend stocks to generate current cash rather than betting on price appreciation — has been central to the firm's identity throughout its history. ETG emerged from that decades-long expertise. The firm's experience managing fixed-income portfolios and equity income strategies informed the design of the fund as a vehicle that could serve clients wanting both stock and bond exposure in one place.
 
-The fund has lived through multiple interest-rate and market cycles. In periods of low rates and strong equity markets, the fund's dividend coverage and leverage become more profitable. In rising-rate or recessionary environments, the spread between the fund's yield and leverage cost narrows, sometimes dangerously. The portfolio manager's job is to navigate those cycles by adjusting the mix of stocks and bonds and, when necessary, moderating the distribution to preserve capital.
+The fund has lived through multiple interest-rate and [market cycles](/market-cycle/). In periods of low rates and strong equity markets, the fund's dividend coverage and leverage become more profitable. In rising-rate or recessionary environments, the spread between the fund's yield and leverage cost narrows, sometimes dangerously. The portfolio manager's job is to navigate those cycles by adjusting the mix of stocks and bonds and, when necessary, moderating the distribution to preserve capital.
 
 ## The closed-end fund premium and discount
 

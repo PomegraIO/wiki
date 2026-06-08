@@ -24,7 +24,7 @@ Furniture production depends on inputs: foam, hardwood frames, upholstery fabric
 
 ## Cyclical Demand and Housing Market Exposure
 
-Furniture spending is discretionary and correlates with housing starts, consumer confidence, and credit availability. When [interest rates](/interest-rate/) rise sharply or [recession](/recession/) fears mount, consumers defer furniture purchases or trade down to cheaper alternatives. FLEXSTEEL's revenue swings with residential demand cycles. In booms, the company runs near capacity; in slowdowns, fixed manufacturing costs spread across lower unit volumes, reducing returns. The company cannot easily adjust capacity downward—factories and equipment are not flexible—so profitability swings wider than sales swings.
+Furniture spending is discretionary and correlates with [housing starts](/housing-starts/), consumer confidence, and credit availability. When [interest rates](/interest-rate/) rise sharply or [recession](/recession/) fears mount, consumers defer furniture purchases or trade down to cheaper alternatives. FLEXSTEEL's revenue swings with residential demand cycles. In booms, the company runs near capacity; in slowdowns, fixed manufacturing costs spread across lower unit volumes, reducing returns. The company cannot easily adjust capacity downward—factories and equipment are not flexible—so profitability swings wider than sales swings.
 
 ## Retail Channel Concentration and Power Imbalance
 

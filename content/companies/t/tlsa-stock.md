@@ -51,7 +51,7 @@ The company may have also held acquired intellectual property or strategic asset
 
 ## Market dynamics and financing environment
 
-Tiziana's ability to raise capital has depended on the broader biotech investment environment. In years when investors are bullish on early-stage biotech and capital is cheap, biotechs can raise money at favorable valuations. In downturns — when venture capital dries up or public markets turn skeptical of unproven therapies — clinical-stage biotechs struggle. Tiziana has navigated multiple market cycles since its founding, and the company's share price and access to capital have reflected both the strength of its science and the mood of the investment world.
+Tiziana's ability to raise capital has depended on the broader biotech investment environment. In years when investors are bullish on early-stage biotech and capital is cheap, biotechs can raise money at favorable valuations. In downturns — when venture capital dries up or public markets turn skeptical of unproven therapies — clinical-stage biotechs struggle. Tiziana has navigated multiple [market cycles](/market-cycle/) since its founding, and the company's share price and access to capital have reflected both the strength of its science and the mood of the investment world.
 
 The company's trading volume and share price liquidity matter for funding flexibility. A company with low trading volume on [NASDAQ](/nasdaq/) may struggle to raise capital through equity issuances without significantly diluting existing shareholders, because there is no [deep market](/deep-market/) demand at current prices.
 

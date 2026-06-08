@@ -35,7 +35,7 @@ Competition comes from larger integrated carriers (like J.B. Hunt or YRC Worldwi
 
 ## Seasonal and Macro Sensitivity
 
-Intermodal volumes track manufacturing output and retail inventory cycles. When factories ramp production and retailers stock shelves before the holidays, Hub Group moves more freight. [Recessions](/recession/) flatten shipment counts quickly. The business is capital-intensive at the margins—managing equipment fleets and yard facilities requires investment—but variable for most customers, since Hub Group can scale up or down by adjusting subcontractor usage. Economic slowdowns tend to hurt pricing power, as shippers seek discounts and shift volume away from premium intermodal toward slower, cheaper modes.
+Intermodal volumes track manufacturing output and retail [inventory cycles](/inventory-cycle/). When factories ramp production and retailers stock shelves before the holidays, Hub Group moves more freight. [Recessions](/recession/) flatten shipment counts quickly. The business is capital-intensive at the margins—managing equipment fleets and yard facilities requires investment—but variable for most customers, since Hub Group can scale up or down by adjusting subcontractor usage. Economic slowdowns tend to hurt pricing power, as shippers seek discounts and shift volume away from premium intermodal toward slower, cheaper modes.
 
 ## Competitive Moats Are Real but Narrow
 

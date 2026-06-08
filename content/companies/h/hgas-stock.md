@@ -46,7 +46,7 @@ Within that micro-cap cohort, Global Gas's competitive position depends on opera
 
 ## Interpreting HGAS as a [Public Company](/public-company/)
 
-For readers researching Global Gas via its [10-k](/10-k/) filings (the annual report filed with the [securities-and-exchange-commission](/securities-and-exchange-commission/)), the key metrics are customer count (the leading indicator of volume), [free-cash-flow](/free-cash-flow/) (the actual cash generated after maintenance capital), and regulatory capital structure (how much is financed by debt vs. [common-stock](/common-stock/) to hit target return-on-equity).
+For readers researching Global Gas via its [10-k](/10-k/) filings (the annual report filed with the [securities-and-exchange-commission](/securities-and-exchange-commission/)), the key metrics are customer count (the [leading indicator](/leading-indicator/) of volume), [free-cash-flow](/free-cash-flow/) (the actual cash generated after maintenance capital), and regulatory capital structure (how much is financed by debt vs. [common-stock](/common-stock/) to hit target return-on-equity).
 
 The stock is a hold—not a growth story—for investors seeking stable, inflation-hedged cash returns in a concentrated geographic region where population and demand are largely inelastic.
 

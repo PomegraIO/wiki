@@ -58,7 +58,7 @@ Capital requirements are another pressure. Manufacturing, even when outsourced h
 
 Investors interested in understanding Phoenix Motor should begin with the company's SEC filings (CIK 0001879848), particularly the 10-K [annual report](/10-k/), which details the business segments, customer concentration (heavy reliance on a few large orders can create lumpy revenue), and capital structure. Because Phoenix is a subsidiary of EdisonFuture, consolidated financial data for the parent company may also be useful.
 
-Track the commercial vehicle market and electrification trends in North America. Major transit authorities' procurement decisions and government funding for bus replacement are leading indicators of demand. Industry publications covering commercial vehicle electrification and EV bus deployments provide insight into competitive positioning.
+Track the commercial vehicle market and electrification trends in North America. Major transit authorities' procurement decisions and government funding for bus replacement are [leading indicators](/leading-indicator/) of demand. Industry publications covering commercial vehicle electrification and EV bus deployments provide insight into competitive positioning.
 
 Monitor the integration progress from the Proterra acquisition. A successful integration could accelerate growth and validate the acquisition thesis; trouble in merging the two operations could drag on profitability and cash flow. Watch for news on new customer wins, especially larger contracts with municipalities or regional transit authorities, as these are the deals that can materially move the company's trajectory.
 

@@ -61,7 +61,7 @@ Regulatory risk is real. Penumbra's devices must meet FDA standards and, in othe
 
 Reimbursement risk exists. In the United States, Medicare and private insurers set reimbursement rates for stroke intervention procedures. If rates decline, hospital incentives to perform these procedures weaken, demand could slow, and Penumbra's customers would face margin pressure and potentially reduce their purchasing. The company has limited direct control over reimbursement.
 
-Technology risk cuts both ways. Penumbra must continually innovate — new devices, design improvements, expanded clinical applications — to maintain competitive position. Conversely, a competitor might develop a superior technology that displaces Penumbra's products in certain applications.
+[Technology risk](/technology-risk/) cuts both ways. Penumbra must continually innovate — new devices, design improvements, expanded clinical applications — to maintain competitive position. Conversely, a competitor might develop a superior technology that displaces Penumbra's products in certain applications.
 
 Geographic concentration is a structural consideration. The company generates a meaningful portion of revenue from North America and Western Europe, regions with developed healthcare systems and high willingness to pay for advanced interventional techniques. In developing markets, procedures are fewer and pricing lower, limiting expansion opportunity.
 

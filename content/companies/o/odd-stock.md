@@ -48,7 +48,7 @@ Oddity Tech benefits from the secular growth of online beauty shopping, the glob
 
 ## Risks and Points to Watch
 
-Execution risk is paramount. The company must prove that AI-driven personalization and operational efficiencies translate into sustainable unit economics across multiple brands—not just work for one flagship. Acquisition integration, particularly cultural fit and retention of creative talent, matters for brands that depend on authenticity and design.
+[Execution risk](/execution-risk/) is paramount. The company must prove that AI-driven personalization and operational efficiencies translate into sustainable unit economics across multiple brands—not just work for one flagship. Acquisition integration, particularly cultural fit and retention of creative talent, matters for brands that depend on authenticity and design.
 
 E-commerce beauty is also sensitive to shifts in consumer behavior. Changes in social media algorithms, influencer marketing dynamics, or beauty trends can dramatically affect brand desirability and customer acquisition costs. Supply chain disruptions, ingredient sourcing, and regulatory changes in cosmetics safety or claims substantiation add [operational risk](/operational-risk/).
 

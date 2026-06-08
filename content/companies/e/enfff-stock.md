@@ -43,7 +43,7 @@ This segment is the most stable and predictable part of the business. Revenue gr
 
 Enbridge has invested in renewable energy assets including wind farms, solar installations, and hydroelectric facilities. This segment is smaller than the other two but is growing strategically. As policy increasingly supports low-carbon energy and as some jurisdictions move away from fossil fuels, renewable energy becomes a hedge against the long-term decline of oil and gas demand.
 
-The economics of renewables differ from those of legacy infrastructure. A wind farm generates revenue through power purchase agreements with utilities or industrial customers, and margins are typically lower than tariffs on a major oil pipeline. However, renewables are increasingly competitive with fossil-fuel generation and do not face the same long-term demand headwinds. Enbridge views this segment as central to its future, though it remains modest relative to the core oil and gas assets.
+The economics of renewables differ from those of legacy infrastructure. A wind farm generates revenue through [power purchase agreements](/power-purchase-agreement/) with utilities or industrial customers, and margins are typically lower than tariffs on a major oil pipeline. However, renewables are increasingly competitive with fossil-fuel generation and do not face the same long-term demand headwinds. Enbridge views this segment as central to its future, though it remains modest relative to the core oil and gas assets.
 
 ## Capital allocation and growth
 

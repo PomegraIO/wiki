@@ -65,6 +65,6 @@ When the merger closes, the SPAC and the private company become one publicly tra
 
 If you are considering buying LPCV shares before a deal is announced, ask yourself: What is the track record of the sponsors? Have they successfully taken companies public before? Do those companies still exist and perform well, or have they failed? Can you find credible information about their investing philosophy and decision-making? If the sponsors are unknown or have a poor track record, the risk is very high.
 
-Once a deal is announced, read the proxy statement. It will lay out the private company's financials, the valuation being paid, the terms of the deal, and the projected financials going forward. Compare the valuation to similar public companies and to the acquirer's cost of capital. Assess whether the projected growth makes sense or is wildly optimistic.
+Once a deal is announced, read the [proxy statement](/proxy-statement/). It will lay out the private company's financials, the valuation being paid, the terms of the deal, and the projected financials going forward. Compare the valuation to similar public companies and to the acquirer's cost of capital. Assess whether the projected growth makes sense or is wildly optimistic.
 
 Finally, think carefully about whether you would own the combined company on its own merits, separate from the SPAC angle. If the answer is no, do not buy the shares just because you think the SPAC structure adds value. Usually it does not.

@@ -33,7 +33,7 @@ Hudson Technologies' balance sheet reflects a short-cycle services business. Ass
 
 ## Debt Service and Coverage
 
-Because Hudson generates steady cash flow, debt service is a low-risk item on the P&L. The company likely maintains a debt service coverage ratio ([EBITDA](/ebitda/) or operating cash flow divided by total debt service) well above 1.5x, meaning it generates 1.5 dollars of cash for every 1 dollar of debt service owed. This comfortable coverage is the reason lenders are willing to fund Hudson: the business is predictable enough to reliably service debt, and if business weakens, there is cushion before default risk emerges. This contrasts with cyclical or volatile businesses (semiconductors, energy) where coverage ratios can swing wildly. Hudson's visibility on cash generation allows sustainable debt levels and keeps the cost of capital low.
+Because Hudson generates steady cash flow, debt service is a low-risk item on the P&L. The company likely maintains a [debt service coverage ratio](/debt-service-coverage-ratio/) ([EBITDA](/ebitda/) or operating cash flow divided by total debt service) well above 1.5x, meaning it generates 1.5 dollars of cash for every 1 dollar of debt service owed. This comfortable coverage is the reason lenders are willing to fund Hudson: the business is predictable enough to reliably service debt, and if business weakens, there is cushion before default risk emerges. This contrasts with cyclical or volatile businesses (semiconductors, energy) where coverage ratios can swing wildly. Hudson's visibility on cash generation allows sustainable debt levels and keeps the cost of capital low.
 
 ## Environmental Regulation as a Moat
 

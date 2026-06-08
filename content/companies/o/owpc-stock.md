@@ -35,7 +35,7 @@ This model has advantages: it avoids the complexity of direct-to-consumer market
 
 One World Pharma operates in Colombia, where hemp cultivation for industrial and pharmaceutical use is legal and regulated. This is a key strategic choice. Colombia has suitable climate and agricultural expertise, lower labour costs than North America, and a clear regulatory framework that allows large-scale hemp farming. The company holds licenses to cultivate hemp in the Cauca and Andina regions of Colombia (around Bogota and its surroundings), and was granted approval as one of the few legal sellers of characterized hemp seeds in those regions.
 
-This geographic focus gives OWPC a potential cost advantage relative to North American producers, though it also creates supply-chain and political risk. Any disruption to Colombian operations — agricultural disease, political instability, or changes in Colombian hemp regulations — would immediately threaten the business.
+This geographic focus gives OWPC a potential cost advantage relative to North American producers, though it also creates supply-chain and [political risk](/political-risk/). Any disruption to Colombian operations — agricultural disease, political instability, or changes in Colombian hemp regulations — would immediately threaten the business.
 
 ## From concept to extraction facility
 

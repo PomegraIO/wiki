@@ -53,13 +53,13 @@ Additionally, the tax-exempt market can face demand shocks. If federal tax refor
 
 EVYM is appropriate for high-income investors who want tax-efficient income and who understand and accept revenue-bond credit risk. It requires being in a high enough tax bracket that the tax exemption provides a meaningful advantage. It is not appropriate for anyone holding it in a tax-deferred account, where the tax exemption provides no benefit and you would be better off in a higher-yielding taxable alternative.
 
-The fund also requires comfort with illiquid, complex credit analysis. Municipal bonds are less liquid than stocks or Treasuries. Many investors buy municipal bond funds to avoid this research, relying on the fund manager's expertise. EVYM's manager at Eaton Vance brings experience, but due diligence by the investor — understanding the fund's holdings and the credit profile of its issuers — is still advisable.
+The fund also requires comfort with illiquid, complex credit analysis. Municipal bonds are less liquid than stocks or Treasuries. Many investors buy [municipal bond funds](/municipal-bond-fund/) to avoid this research, relying on the fund manager's expertise. EVYM's manager at Eaton Vance brings experience, but [due diligence](/due-diligence/) by the investor — understanding the fund's holdings and the credit profile of its issuers — is still advisable.
 
 ## Researching EVYM
 
 Start with the fund's fact sheet and holdings list on Eaton Vance's website. Understand what portion of the fund is in hospital bonds, toll roads, utilities, housing authorities, and other categories, because different sectors have different risk profiles and economic sensitivities.
 
-Monitor the fund's distribution and yield relative to taxable bond alternatives. Calculate the tax-equivalent yield — the yield a taxable bond would need to offer you the same after-tax income — and compare it to what similar taxable funds are yielding. If the tax-equivalent yield is not compelling, the fund is not providing a meaningful advantage.
+Monitor the fund's distribution and yield relative to taxable bond alternatives. Calculate the [tax-equivalent yield](/tax-equivalent-yield/) — the yield a taxable bond would need to offer you the same after-tax income — and compare it to what similar taxable funds are yielding. If the tax-equivalent yield is not compelling, the fund is not providing a meaningful advantage.
 
 Track major municipal bond indices and news about large issuers, particularly in states and sectors well-represented in the fund. Watch for credit-rating downgrades or payment delays. Changes to federal tax policy are also important — any shift in the tax treatment of municipal bond interest would materially affect valuations and the fund's appeal.
 

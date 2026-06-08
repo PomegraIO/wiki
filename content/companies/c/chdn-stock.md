@@ -42,7 +42,7 @@ Churchill Downs operates in a heavily regulated industry where state-by-state ga
 
 The company is also geographically concentrated in the South and Ohio River region, which means it does not have the geographic [diversification](/diversification/) that larger gaming operators possess. A local [recession](/recession/), demographic shift, or competitive opening of a new casino in an adjacent state can hurt a particular property significantly because relocation or cannibalization of revenue is a real risk.
 
-The Kentucky Derby itself is a mixed blessing. It is the company's most valuable marketing asset and generates enormous revenue concentration in May, but it also creates operational challenges, requires heavy capital investment in infrastructure and security, and carries reputational risk if anything goes wrong at the event. The Derby is essentially unavoidable as part of owning Churchill Downs.
+The Kentucky Derby itself is a mixed blessing. It is the company's most valuable marketing asset and generates enormous revenue concentration in May, but it also creates operational challenges, requires heavy capital investment in infrastructure and security, and carries [reputational risk](/reputational-risk/) if anything goes wrong at the event. The Derby is essentially unavoidable as part of owning Churchill Downs.
 
 ## The shrinking racing audience and competitive pressures
 

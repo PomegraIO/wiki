@@ -53,7 +53,7 @@ The company went public through an IPO to access [capital markets](/stock/) for 
 
 InPost's operations are exposed to logistics labor markets, real estate costs, utility costs, and technology reliability. A high percentage of parcel lockers are installed in rented spaces (retail locations, transit hubs); rising rent or eviction risk can force relocation and disrupt the network. Utility costs (power for refrigeration, lighting, electronic access) are ongoing operational expenses.
 
-Technology risks are also material. The system depends on software to manage parcel assignments, access control, and integration with courier tracking systems. A significant system outage could disrupt operations and erode customer confidence. The company's SEC filings discuss these operational and technological dependencies.
+[Technology risks](/technology-risk/) are also material. The system depends on software to manage parcel assignments, access control, and integration with courier tracking systems. A significant system outage could disrupt operations and erode customer confidence. The company's SEC filings discuss these operational and technological dependencies.
 
 ## Understanding InPost Through Its Filings
 

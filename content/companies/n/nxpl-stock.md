@@ -56,6 +56,6 @@ NextPlat generated $54 million in revenue in 2025, down from $65.5 million the p
 
 The [balance sheet](/balance-sheet/) includes [intangible assets](/intangible-assets/) from [acquisitions](/acquisition/) ([goodwill](/goodwill/) and other intangibles) and debt from past acquisitions and operations. The company has undertaken reverse splits to manage share count, a common move for companies trading at depressed valuations.
 
-Risks include execution risk on the turnaround, the loss of key customers (especially in Progressive Care, which is concentrated), competition from larger, better-capitalized players in each segment, and the capital intensity of integrating acquisitions. The company is small enough that a single large customer loss or a failed acquisition integration could materially affect results.
+Risks include [execution risk](/execution-risk/) on the turnaround, the loss of key customers (especially in Progressive Care, which is concentrated), competition from larger, better-capitalized players in each segment, and the capital intensity of integrating acquisitions. The company is small enough that a single large customer loss or a failed acquisition integration could materially affect results.
 
 For readers evaluating NextPlat, the key metrics are revenue by segment, gross margins in each business, path to profitability, customer retention (especially in pharmacy), and acquisition pipeline. The 10-K filing will provide detailed segment breakdowns and allow investors to track whether the operational turnaround is working.

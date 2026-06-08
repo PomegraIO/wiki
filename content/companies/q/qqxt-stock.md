@@ -43,7 +43,7 @@ The trade-off is stark. Technology has been the NASDAQ-100's engine for decades.
 
 ## The real question
 
-You are choosing between two things: the upside you give up by excluding the market's biggest growth driver, versus the peace of mind from not having half your large-cap portfolio in one sector. Over many market cycles, technology wins. But in a technology downturn, QQXT wins. Neither outcome is certain; the choice is whether you can live with missing the gains if tech soars.
+You are choosing between two things: the upside you give up by excluding the market's biggest growth driver, versus the peace of mind from not having half your large-cap portfolio in one sector. Over many [market cycles](/market-cycle/), technology wins. But in a technology downturn, QQXT wins. Neither outcome is certain; the choice is whether you can live with missing the gains if tech soars.
 
 To decide whether QQXT fits your situation, check the fund's fact sheet to see the current sector breakdown and top holdings. Run the numbers: compare rolling three-year and five-year returns to a plain NASDAQ-100 ETF over the past decade. Look at what the fund held during the 2022 technology downturn versus recent years when tech surged. That history shows you the actual trade-off in real money terms. Then decide whether the concentration reduction is worth the likely underperformance.
 

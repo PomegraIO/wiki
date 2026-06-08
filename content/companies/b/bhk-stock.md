@@ -47,7 +47,7 @@ The investment-grade bond universe includes strong companies with solid credit m
 
 The corporate bond holdings are diversified by sector, limiting [concentration risk](/concentration-risk/). A severe downturn in one industry — say, retail — will hurt, but won't dominate the portfolio. The fund also typically overweights bonds from larger, more stable issuers relative to smaller, higher-yielding names, preserving an overall investment-grade quality even if one or two positions deteriorate.
 
-The mortgage-backed and asset-backed securities portions of the portfolio add complexity. These instruments are secured by pools of mortgages or loans, and their returns depend on prepayment speeds, [default rates](/default-rate/), and the underlying credit of the borrowers. In a stable housing market, they perform steadily. In a market disruption, especially if mortgage prepayments accelerate (which happens when rates fall), the duration assumptions can shift, affecting returns.
+The mortgage-backed and asset-backed securities portions of the portfolio add complexity. These instruments are secured by pools of mortgages or loans, and their returns depend on [prepayment speeds](/prepayment-speed/), [default rates](/default-rate/), and the underlying credit of the borrowers. In a stable housing market, they perform steadily. In a market disruption, especially if mortgage prepayments accelerate (which happens when rates fall), the duration assumptions can shift, affecting returns.
 
 ## Interest Rates and Duration Risk
 

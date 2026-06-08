@@ -13,7 +13,7 @@ handwritten: true
 
 Orchestra BioMed Holdings (OBIO) designs and develops medical device technologies aimed at treating two of the world's most common fatal diseases: hypertension and atherosclerotic vascular disease. Rather than building a traditional pharmaceutical or device company with its own sales force and manufacturing operations, Orchestra BioMed operates on a partnership model — it identifies unmet clinical needs, invents or refines solutions, and then licenses those technologies to large, established device makers who handle global commercialisation, regulatory approval, and distribution.
 
-This partnership-centric approach is unusual in the medical device world, where scale typically demands vertical integration and direct market access. But it offers Orchestra BioMed a way to operate lean, share development risk with well-capitalized partners, and move products toward patients faster than a bootstrapped startup could manage alone. The company was founded in 2017 and went public in 2023, and its most significant collaborations are with Medtronic and Terumo, two of the largest medical device companies on Earth.
+This partnership-centric approach is unusual in the medical device world, where scale typically demands vertical integration and [direct market access](/direct-market-access/). But it offers Orchestra BioMed a way to operate lean, share development risk with well-capitalized partners, and move products toward patients faster than a bootstrapped startup could manage alone. The company was founded in 2017 and went public in 2023, and its most significant collaborations are with Medtronic and Terumo, two of the largest medical device companies on Earth.
 
 ## The lead candidate: AVIM therapy for hypertension
 

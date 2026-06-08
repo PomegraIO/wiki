@@ -61,7 +61,7 @@ Additionally, the company must secure approval before releasing technical papers
 
 ## Sanctions and Embargoes
 
-The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) enforces sanctions and embargoes against specific countries (currently including Iran, North Korea, Syria, Cuba) and designated individuals and entities. Hub Cyber cannot knowingly conduct business with sanctioned parties. The company must screen customers against OFAC lists and maintain compliance. Given the global reach of cybersecurity services, Hub Cyber must be careful not to provide services to customers with sanctioned parent companies or subsidiaries. Violations result in criminal and civil penalties.
+The U.S. Treasury Department's [Office of Foreign Assets Control](/office-of-foreign-assets-control/) (OFAC) enforces sanctions and embargoes against specific countries (currently including Iran, North Korea, Syria, Cuba) and designated individuals and entities. Hub Cyber cannot knowingly conduct business with sanctioned parties. The company must screen customers against OFAC lists and maintain compliance. Given the global reach of cybersecurity services, Hub Cyber must be careful not to provide services to customers with sanctioned parent companies or subsidiaries. Violations result in criminal and civil penalties.
 
 ## Disclosure and Investor Transparency
 

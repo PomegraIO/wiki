@@ -45,7 +45,7 @@ Brownie is capital-intensive and inherently cyclical. In boom years, the company
 
 ## Reading the 10-K for Utilization and Rate Trends
 
-An analyst should focus on: utilization rates by vessel or asset type, average daily rates realized (revenue per billable day), operating costs per asset, contract backlog and duration, and customer concentration. A company disclosing declining utilization and falling realized rates is vulnerable; one showing stable-to-rising utilization and flat-to-rising rates (in a steady market) suggests competitive strength. Capex and depreciation trends show whether the fleet is aging or being renewed. For a unit-economics reader, per-asset profitability and contract duration statistics are more telling than revenue per employee, which can mask asset utilization challenges.
+An analyst should focus on: utilization rates by vessel or asset type, average daily rates realized (revenue per billable day), operating costs per asset, contract backlog and duration, and customer concentration. A company disclosing declining utilization and falling realized rates is vulnerable; one showing stable-to-rising utilization and flat-to-rising rates (in a steady market) suggests competitive strength. Capex and depreciation trends show whether the fleet is aging or being renewed. For a unit-economics reader, per-asset profitability and contract duration statistics are more telling than [revenue per employee](/revenue-per-employee/), which can mask asset utilization challenges.
 
 ---
 

@@ -52,7 +52,7 @@ First, regulation. The Philippine government regulates what prices PLDT can char
 
 Second, capital intensity. Keeping up with broadband demand means continuously upgrading networks, laying fiber, and maintaining cellular infrastructure. This consumes cash that would otherwise be returned to shareholders. In fast-growing markets, that can be an exciting story; in mature markets with modest growth, capital expenditure feels like a drag on shareholder returns.
 
-Third, technology risk. Mobile networks are shifting toward 5G, which requires new infrastructure and new spectrum licenses. PLDT will need to invest substantially to remain competitive as customers expect 5G speeds and reliability. Similarly, broadband competition is moving toward fiber, which is more expensive to deploy than older copper-based networks but necessary to offer truly high speeds.
+Third, [technology risk](/technology-risk/). Mobile networks are shifting toward 5G, which requires new infrastructure and new spectrum licenses. PLDT will need to invest substantially to remain competitive as customers expect 5G speeds and reliability. Similarly, broadband competition is moving toward fiber, which is more expensive to deploy than older copper-based networks but necessary to offer truly high speeds.
 
 Finally, there is the broader risk that internet companies or new technologies disrupt traditional telecom. Video calls over IP have already displaced long-distance telephone minutes. Cheaper over-the-top messaging, video, and voice services (WhatsApp, Viber, Skype) have eroded the value of traditional phone service. PLDT is not immune to these shifts, though its broadband business is more resilient because it is the underlying pipes through which these services flow.
 

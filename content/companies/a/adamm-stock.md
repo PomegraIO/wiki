@@ -38,7 +38,7 @@ The defining characteristic of venture and private-equity investing is illiquidi
 
 ## Pressures and considerations
 
-[Interest rates](/interest-rate/) and credit markets affect VC and private-equity returns, because the best exits often involve [debt financing](/debt-financing/) in acquired companies. In tight credit markets, buyout returns suffer. The venture sector is cyclical: technology booms drive high valuations, tech downturns force write-downs, creating lumpy and sometimes negative returns over multi-year periods. Adamas shareholders are betting that the fund managers it backs will deploy capital well and time exits profitably. Performance varies drastically based on the vintage years of invested funds and the quality of underlying management. A significant failure in a large fund holding could impair NAV sharply.
+[Interest rates](/interest-rate/) and credit markets affect VC and private-equity returns, because the best exits often involve [debt financing](/debt-financing/) in acquired companies. In tight credit markets, buyout returns suffer. The venture sector is cyclical: technology booms drive high valuations, tech downturns force write-downs, creating lumpy and sometimes negative returns over multi-year periods. Adamas shareholders are betting that the fund managers it backs will deploy capital well and time exits profitably. Performance varies drastically based on the [vintage years](/vintage-year/) of invested funds and the quality of underlying management. A significant failure in a large fund holding could impair NAV sharply.
 
 ## How to research Adamas
 

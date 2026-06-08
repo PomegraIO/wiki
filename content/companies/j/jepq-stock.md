@@ -19,7 +19,7 @@ JEPQ holds the same companies as the Nasdaq 100 index: the technology giants ([A
 
 ## How does JEPQ generate additional income?
 
-The fund employs a [covered call](/covered-call/) strategy, which works like this. JEPQ owns the Nasdaq 100 stocks. It then sells (writes) [call options](/call-option/) on those same stocks—an agreement that grants the option buyer the right to purchase those shares from the fund at a predetermined price on a set date in the future. In exchange for making this promise, JEPQ receives a cash premium immediately. That premium is income, which is distributed to shareholders. The fund repeats this strategy continuously, rolling new calls into place every few weeks as old ones expire.
+The fund employs a [covered call](/covered-call/) strategy, which works like this. JEPQ owns the Nasdaq 100 stocks. It then sells (writes) [call options](/call-option/) on those same stocks—an agreement that grants the [option buyer](/option-buyer/) the right to purchase those shares from the fund at a predetermined price on a set date in the future. In exchange for making this promise, JEPQ receives a cash premium immediately. That premium is income, which is distributed to shareholders. The fund repeats this strategy continuously, rolling new calls into place every few weeks as old ones expire.
 
 ## What is the tradeoff with this strategy?
 
@@ -37,13 +37,13 @@ JPMorgan also chooses how far out of the money to set the call strikes—meaning
 
 That depends entirely on your market outlook and income needs. If you expect Nasdaq stocks to deliver modest growth (5–8 percent annually) and you want higher current income, JEPQ's income strategy may be attractive—you sacrifice a portion of upside but get paid more today. If you expect strong gains (15–20 percent annually or more) from Nasdaq stocks, then capping upside is costly. You would be better off with a passive Nasdaq fund, where you capture all upside, even if you receive less current income.
 
-The strategy also works in specific market environments. In [bull markets](/bull-market/) with high upside moves, JEPQ lags. In sideways or mildly declining markets, JEPQ often outperforms because the call premiums provide a cushion. Over full market cycles (bull, sideways, bear) the relative performance of JEPQ versus a passive Nasdaq fund varies based on how the moves are distributed.
+The strategy also works in specific market environments. In [bull markets](/bull-market/) with high upside moves, JEPQ lags. In sideways or mildly declining markets, JEPQ often outperforms because the call premiums provide a cushion. Over full [market cycles](/market-cycle/) (bull, sideways, bear) the relative performance of JEPQ versus a passive Nasdaq fund varies based on how the moves are distributed.
 
 ## Who is JEPQ built for?
 
 The fund appeals to retirees or near-retirees who need income and want exposure to growth stocks without the need to chase maximum capital appreciation. It suits investors who believe Nasdaq stocks will grow, but at a moderate pace, and who prioritize cash returns over capital gains. It also appeals to those who expect a sideways or consolidating market and want to harvest [option premiums](/option-premium/) while waiting for the next leg up.
 
-JEPQ is less attractive for younger investors with long time horizons, where compounding every dollar of upside matters enormously. It is also suboptimal for aggressive growth investors convinced that technology stocks will deliver exceptional returns. And it may create tax complications for investors in high tax brackets, since the continuous rolling of calls generates short-term capital gains and losses rather than the long-term gains that result from buy-and-hold investing.
+JEPQ is less attractive for younger investors with long time horizons, where compounding every dollar of upside matters enormously. It is also suboptimal for aggressive growth investors convinced that technology stocks will deliver exceptional returns. And it may create tax complications for investors in high tax brackets, since the continuous rolling of calls generates short-term capital gains and losses rather than the long-term gains that result from [buy-and-hold investing](/buy-and-hold/).
 
 ## What about fees and costs?
 

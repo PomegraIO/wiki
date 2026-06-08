@@ -29,11 +29,11 @@ ESGE trades on a US [stock exchange](/stock-exchange/). You buy and sell it like
 
 Emerging markets are volatile. Currencies crash. Governments change rules overnight. A single company can fall 50 percent. ESGE has all these risks. The ESG screen does not protect you from them. It just means you are taking the risk with companies that pollute less and have better bosses.
 
-China and India make up more than half the fund. They matter most. If China cracks down on one industry—like it did with tech and education—the whole fund drops. If India's economy stumbles, you feel it hard. Brazil has political risk. Mexico has insecurity.
+China and India make up more than half the fund. They matter most. If China cracks down on one industry—like it did with tech and education—the whole fund drops. If India's economy stumbles, you feel it hard. Brazil has [political risk](/political-risk/). Mexico has insecurity.
 
 Historically, emerging markets have grown faster than developed markets, which is why they are a common portfolio component. However, faster growth also carries steeper downside: valuations can compress quickly, and currency moves add volatility.
 
-One more thing: currency moves separately from stocks. The Chinese yuan, [Indian rupee](/indian-rupee/), Brazilian real—they all swing against the dollar. This can help you or hurt you, depending on whether the dollar is strong or weak.
+One more thing: currency moves separately from stocks. The Chinese yuan, [Indian rupee](/indian-rupee/), [Brazilian real](/brazilian-real/)—they all swing against the dollar. This can help you or hurt you, depending on whether the dollar is strong or weak.
 
 ## Understanding ESGE and how to research it
 

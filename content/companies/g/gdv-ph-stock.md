@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Gabelli Dividend & Income](/gdv-stock/) Trust is a closed-end investment company — a real trust with a fixed number of shares trading on an exchange, not a [mutual fund](/mutual-fund/) that grows and shrinks with investor demand. It buys stocks, preferred shares, and [convertible bonds](/convertible-bond/) that pay cash distributions, and it aims to give shareholders a predictable income stream while also earning capital appreciation. The bet is simple: Mario Gabelli and his team know how to pick [dividend](/dividend/) payers and credit instruments better than the broader market can, and shareholders should pay them to do it.
+[Gabelli Dividend & Income](/gdv-stock/) Trust is a closed-end investment company — a real trust with a fixed number of shares trading on an exchange, not a [mutual fund](/mutual-fund/) that grows and shrinks with investor demand. It buys stocks, preferred shares, and [convertible bonds](/convertible-bond/) that pay cash distributions, and it aims to give shareholders a predictable income stream while also earning capital appreciation. The bet is simple: [Mario Gabelli](/mario-gabelli/) and his team know how to pick [dividend](/dividend/) payers and credit instruments better than the broader market can, and shareholders should pay them to do it.
 
 ## What it owns and how it differs from a mutual fund
 

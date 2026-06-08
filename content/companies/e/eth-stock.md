@@ -40,7 +40,7 @@ The word "Mini" in the name refers to a smaller fund structure designed for reta
 
 ## The appeal for investors
 
-This product targets investors who believe Ethereum will appreciate over time and who want to earn passive income while holding it. Instead of buying Ethereum on a crypto exchange and learning to stake it yourself (which requires technical knowledge and carries execution risk), you buy the ETF and let Grayscale handle it. You get the validator rewards without the hassle.
+This product targets investors who believe Ethereum will appreciate over time and who want to earn passive income while holding it. Instead of buying Ethereum on a crypto exchange and learning to stake it yourself (which requires technical knowledge and carries [execution risk](/execution-risk/)), you buy the ETF and let Grayscale handle it. You get the validator rewards without the hassle.
 
 The major drawback is the fee. A 1.5 percent annual fee means that if Ethereum staking yields 4 percent, you pocket about 2.5 percent after Grayscale's cut. Over time, that compounds: a $10,000 investment that yields 2.5 percent annually grows much slower than one that yields 4 percent. Over 10 years, the difference is meaningful. So this product makes most sense for investors who don't have the technical skill or the inclination to stake Ethereum directly, or who have smaller amounts that don't justify the setup cost of solo staking.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-My2031 holds [bonds](/bond/) maturing near 2031. The portfolio is global, geographically diverse by design. American technology firms sit alongside European manufacturers, Asian financials, Middle Eastern energy producers. A pharmaceutical company headquartered in Switzerland with operations worldwide. A telecommunications firm in Canada serving North America and beyond. The [diversification](/diversification/) works: no single region's economic downturn derails the entire fund. But it also means exposure to multiple regulatory environments, [currency risks](/currency-risk/), and regional credit cycles. Geography shapes risk here.
+My2031 holds [bonds](/bond/) maturing near 2031. The portfolio is global, geographically diverse by design. American technology firms sit alongside European manufacturers, Asian financials, Middle Eastern energy producers. A pharmaceutical company headquartered in Switzerland with operations worldwide. A telecommunications firm in Canada serving North America and beyond. The [diversification](/diversification/) works: no single region's economic downturn derails the entire fund. But it also means exposure to multiple regulatory environments, [currency risks](/currency-risk/), and regional [credit cycles](/credit-cycle/). Geography shapes risk here.
 
 Investment-grade only. BBB− minimum from the major rating agencies. That filters out the high-yield universe. Lower [default rates](/default-rate/) statistically, but no guarantee. In [recession](/recession/), even solid issuers face downgrade pressure. A company's operational crisis can hit fast, regardless of prior ratings.
 

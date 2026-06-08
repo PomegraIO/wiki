@@ -37,7 +37,7 @@ El Pollo Loco's expansion cadence is therefore critical to assess. A conservativ
 
 ## Franchisee Health and Network Quality
 
-The franchisee base is LOCO's distributed labor force and customer-facing brand. If franchisees are profitable, well-capitalized, and committed, they invest in stores, train employees, and drive traffic. If franchisees are marginal or undercapitalized, stores deteriorate, and the brand suffers. During recessions, undercapitalized franchisees default on rent or royalties, forcing corporate to take back stores or write off receivables. El Pollo Loco's franchisor-franchisee health is therefore a leading indicator of cyclical robustness.
+The franchisee base is LOCO's distributed labor force and customer-facing brand. If franchisees are profitable, well-capitalized, and committed, they invest in stores, train employees, and drive traffic. If franchisees are marginal or undercapitalized, stores deteriorate, and the brand suffers. During recessions, undercapitalized franchisees default on rent or royalties, forcing corporate to take back stores or write off receivables. El Pollo Loco's franchisor-franchisee health is therefore a [leading indicator](/leading-indicator/) of cyclical robustness.
 
 Franchisee economics depend on the royalty rate and rent paid to corporate. If LOCO extracts high royalties and inflated rents, it maximizes near-term revenue but weakens franchisee margins and morale, increasing failure risk during downturns. If royalties and rents are reasonable, franchisees retain enough profit to reinvest and weather temporary slowdowns. The company's track record on franchisee default and churn during past cycles reveals the true fairness of the franchisor-franchisee relationship.
 

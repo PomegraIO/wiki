@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Aptus Laddered Deep Buffer ETF** (ALDB) is a structured equity fund that uses a combination of options strategies to create a defined-outcome investing experience. It holds a core portfolio of equities (typically tracking the S&P 500 or a broad market index) and layers on protective and income-generating options positions designed to cushion investor losses during market downturns while capping upside gains.*
+*The **Aptus Laddered Deep [Buffer ETF](/buffer-etf/)** (ALDB) is a structured equity fund that uses a combination of options strategies to create a defined-outcome investing experience. It holds a core portfolio of equities (typically tracking the S&P 500 or a broad market index) and layers on protective and income-generating options positions designed to cushion investor losses during market downturns while capping upside gains.*
 
 <aside class="wiki-infobox">
 
@@ -37,7 +37,7 @@ The "laddered" element means the protection and cap structure may vary across di
 
 ## The trade-off: Protection versus upside
 
-The primary appeal is intuitive: investors get a meaningful cushion if the market falls hard, in exchange for a ceiling on their gains if the market rallies. During a year when the S&P 500 rises 20%, the buffer fund might participate up to, say, 65% of that gain. During a year when the index falls 15%, the buffer absorbs perhaps the first 15%, leaving the investor's portfolio roughly flat. The exact parameters depend on the annual reset of the options positions.
+The primary appeal is intuitive: investors get a meaningful cushion if the market falls hard, in exchange for a ceiling on their gains if the market rallies. During a year when the S&P 500 rises 20%, the [buffer fund](/buffer-fund/) might participate up to, say, 65% of that gain. During a year when the index falls 15%, the buffer absorbs perhaps the first 15%, leaving the investor's portfolio roughly flat. The exact parameters depend on the annual reset of the options positions.
 
 This structure appeals to investors uncomfortable with the full volatility of equity markets but reluctant to own [bonds](/bond/) or cash (which offer lower long-term returns). It is a middle ground: you own stocks and participate in [bull markets](/bull-market/), but within defined bounds.
 
@@ -57,7 +57,7 @@ There is also a structural cost: the fund must hold cash reserves to support opt
 
 These funds appeal to conservative equity investors, investors nearing or in retirement who need to sleep at night despite holding stocks, and tactical traders who want stock exposure in specific years but want it hedged. They are less suitable for long-term investors with decades-long horizons and high risk tolerance—the cap on upside can be a significant drag over long periods, and the capped portfolio's long-term returns may lag an unhedged equity portfolio by 1–2% per year, depending on market conditions.
 
-A key risk is gap risk: if the market suffers a sudden, massive crash that opens gaps in options markets, the [protective puts](/protective-put/) may not be exercisable at the stated barrier price, leaving investors exposed to unexpected loss. This is rare but possible in extreme scenarios. Another risk is that the annual resets mean the fund's protection is temporary—if you hold it for only part of a defined period, you miss the full year's protection and face [tail risk](/tail-risk/).
+A key risk is [gap risk](/gap-risk/): if the market suffers a sudden, massive crash that opens gaps in options markets, the [protective puts](/protective-put/) may not be exercisable at the stated barrier price, leaving investors exposed to unexpected loss. This is rare but possible in extreme scenarios. Another risk is that the annual resets mean the fund's protection is temporary—if you hold it for only part of a defined period, you miss the full year's protection and face [tail risk](/tail-risk/).
 
 Finally, defined-outcome investments are popular during low-return, high-volatility periods (when protection is valued) and less popular during sustained bull markets (when the caps feel costly). That popularity cycle can affect the fund's asset size and liquidity, and in extreme cases can pressure the fund's pricing relative to [net asset value](/net-asset-value/).
 

@@ -46,7 +46,7 @@ Another risk is the so-called sponsor incentive: to close a deal within the defi
 
 ## The regulatory and disclosure environment
 
-SPACs operate under similar SEC rules as traditional public companies, but the disclosure requirements for SPAC mergers differ from those for traditional acquisitions. A registration statement (S-4 form) must describe the target company and the merger terms, and shareholders vote on the deal. However, critics have noted that SPAC disclosures sometimes lack the rigor of traditional IPO prospectuses, and the compressed timeline often leaves investors with limited time to conduct due diligence.
+SPACs operate under similar SEC rules as traditional public companies, but the disclosure requirements for SPAC mergers differ from those for traditional acquisitions. A registration statement (S-4 form) must describe the target company and the merger terms, and shareholders vote on the deal. However, critics have noted that SPAC disclosures sometimes lack the rigor of traditional IPO prospectuses, and the compressed timeline often leaves investors with limited time to conduct [due diligence](/due-diligence/).
 
 In 2021-2022, regulators including the SEC began scrutinizing SPAC structures more closely, particularly around risk factor disclosures and forward-looking statements, which led some sponsors to strengthen disclosure practices.
 

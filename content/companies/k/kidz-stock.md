@@ -21,7 +21,7 @@ If Classover operates an educational platform or service used by schools or stud
 
 This status carries compliance obligations. Classover must ensure that its systems limit student data access to authorized personnel, implement adequate security measures, and honor parental rights to inspect and amend records. A breach of FERPA compliance — unauthorized access, inadequate encryption, data shared outside the school district without consent — can result in loss of school customers, legal liability, and reputational damage. The U.S. Department of Education's Family Policy Compliance Office investigates FERPA complaints; a finding against Classover could trigger enforcement action against school districts using its platform and potential federal funding consequences for those districts.
 
-For a growth-stage edtech company, FERPA compliance is not optional and not scalable through shortcuts. Every new school customer onboarding, every platform change, every security update must account for FERPA obligations. Schools conducting due diligence on Classover will scrutinize the company's FERPA compliance posture; any history of data incidents or complaints is value-destructive.
+For a growth-stage edtech company, FERPA compliance is not optional and not scalable through shortcuts. Every new school customer onboarding, every platform change, every security update must account for FERPA obligations. Schools conducting [due diligence](/due-diligence/) on Classover will scrutinize the company's FERPA compliance posture; any history of data incidents or complaints is value-destructive.
 
 ## COPPA and Children's Online Privacy
 

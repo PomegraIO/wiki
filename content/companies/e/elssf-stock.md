@@ -23,7 +23,7 @@ From a balance-sheet perspective, ELIS's assets are dominated by the textile inv
 
 ## Tangible Asset Base: Laundering Infrastructure
 
-Beyond the textile fleet, ELIS owns and operates laundry facilities—industrial washers, drying systems, pressing equipment, and chemical treatment systems. These are significant fixed assets. A large regional laundry facility might represent 10–30 million euro in capital investment. The balance sheet shows gross property, plant, and equipment; [accumulated depreciation](/accumulated-depreciation/) reveals whether facilities are aging and approaching replacement.
+Beyond the textile fleet, ELIS owns and operates laundry facilities—industrial washers, drying systems, pressing equipment, and chemical treatment systems. These are significant fixed assets. A large regional laundry facility might represent 10–30 million euro in capital investment. The balance sheet shows gross [property, plant, and equipment](/property-plant-equipment/); [accumulated depreciation](/accumulated-depreciation/) reveals whether facilities are aging and approaching replacement.
 
 Laundry facilities are somewhat specialized; they are optimized for high-volume, fast-turnaround processing of heavily soiled garments at scale. Resale value is limited. If ELIS must close a facility due to demand shifts or rationalization, the company faces asset write-downs. Conversely, a well-maintained, modern facility is an asset with durable competitive advantage—competitors cannot easily replicate the efficiency of a properly designed industrial laundry.
 
@@ -57,7 +57,7 @@ A balance-sheet reader checks whether ELIS carries significant goodwill and [int
 
 ## Environmental and Regulatory Liabilities
 
-Industrial laundries generate wastewater containing detergents, softeners, and cleaning chemicals. European environmental regulations require treatment of discharge. ELIS's balance sheet may carry accrued liabilities for environmental remediation or compliance costs. The 10-K disclosure will specify whether any sites are contaminated or subject to remediation orders.
+Industrial laundries generate wastewater containing detergents, softeners, and cleaning chemicals. European environmental regulations require treatment of discharge. ELIS's balance sheet may carry [accrued liabilities](/accrued-liabilities/) for environmental remediation or compliance costs. The 10-K disclosure will specify whether any sites are contaminated or subject to remediation orders.
 
 ## Dividend and Cash Return Policy
 

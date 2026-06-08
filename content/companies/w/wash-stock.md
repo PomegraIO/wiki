@@ -53,7 +53,7 @@ Washington Trust must maintain capital ratios sufficient to absorb unexpected lo
 
 Loan growth, however, is not purely a choice — it reflects demand in the bank's markets. If businesses in the Pacific Northwest are not borrowing, or if residential mortgage demand is weak, the bank cannot deploy capital even if it wanted to. That makes regional bank earnings cyclical, swinging with the region's economy, interest rates, and credit conditions more broadly.
 
-The credit cycle is the hidden risk in any bank balance sheet. Washington Trust originates mortgages, commercial loans, and consumer loans. Each carries default risk. When the Pacific Northwest economy softens or real estate prices fall, that risk moves from the background to the foreground. The bank holds reserves for expected losses, but a severe downturn can exhaust them.
+The [credit cycle](/credit-cycle/) is the hidden risk in any bank balance sheet. Washington Trust originates mortgages, commercial loans, and consumer loans. Each carries default risk. When the Pacific Northwest economy softens or real estate prices fall, that risk moves from the background to the foreground. The bank holds reserves for expected losses, but a severe downturn can exhaust them.
 
 ## How to research Washington Trust Bancorp
 

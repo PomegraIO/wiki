@@ -42,7 +42,7 @@ The company has responded by investing in cleaner fuels and lower-carbon chemica
 
 ## Operating in emerging markets and regulatory complexity
 
-Much of SASOL's operation is centered in South Africa and other emerging markets in Africa, which brings operational complexity. The company faces exposure to political risk, currency fluctuation, electricity cost volatility, and regulatory change. South African electricity supply has been challenged in recent years, with rolling blackouts and supply constraints affecting industrial production costs. Labor costs and labor relations in South Africa are significant cost drivers. These local factors can be volatile and difficult to predict.
+Much of SASOL's operation is centered in South Africa and other emerging markets in Africa, which brings operational complexity. The company faces exposure to [political risk](/political-risk/), currency fluctuation, electricity cost volatility, and regulatory change. South African electricity supply has been challenged in recent years, with rolling blackouts and supply constraints affecting industrial production costs. Labor costs and labor relations in South Africa are significant [cost drivers](/cost-driver/). These local factors can be volatile and difficult to predict.
 
 At the same time, SASOL has significant operations in developed markets — refineries and chemical plants in Europe and elsewhere — which insulate it partially from any single country's challenges but require managing a globally complex business.
 

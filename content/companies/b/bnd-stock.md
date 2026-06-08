@@ -26,7 +26,7 @@ The bond market itself was opaque compared to equities. Pricing information was 
 
 ## The comprehensive index approach
 
-Vanguard's innovation was to recognize that retail investors needed not expert navigation but full participation. The fund tracks the Bloomberg US Aggregate Bond Index, a benchmark representing the entire investable US bond market. This includes US Treasury bonds across all maturities, investment-grade corporate bonds from thousands of companies, mortgage-backed securities issued or guaranteed by [Fannie Mae](/fannie-mae/) and [Freddie Mac](/freddie-mac/), and bonds from federal agencies.
+Vanguard's innovation was to recognize that retail investors needed not expert navigation but full participation. The fund tracks the [Bloomberg US Aggregate Bond Index](/bloomberg-aggregate-bond-index/), a benchmark representing the entire investable US bond market. This includes US Treasury bonds across all maturities, investment-grade corporate bonds from thousands of companies, mortgage-backed securities issued or guaranteed by [Fannie Mae](/fannie-mae/) and [Freddie Mac](/freddie-mac/), and bonds from federal agencies.
 
 By holding thousands of individual bonds in the exact proportions they appear in the index, BND offers [diversification](/diversification/) no individual investor could construct. A share of BND is proportional exposure to US government debt, corporate credit quality, the housing market, and federal programs. The diversification is extreme: single-issuer risk is negligible, single-sector risk is absorbed by thousands of other holdings, and [concentration risk](/concentration-risk/) across any dimension is minimized.
 

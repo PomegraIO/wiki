@@ -37,7 +37,7 @@ As a publicly listed company, LCCC is subject to [securities-and-exchange-commis
 
 ## What Happens Next: The Merger Process
 
-Lakeshore's filed materials will eventually include definitive documentation of a proposed merger target (a proxy statement or S-4 filing, both of which contain extensive disclosures about the target company, its business, financial projections, and fairness opinions). At that stage, LCCC shareholders will vote on whether to approve the merger and can choose to redeem. Until that announcement, however, LCCC's filings contain no information about the intended target. This information asymmetry is structural to SPACs: the sponsors have identified or are negotiating with a target, but that target's identity and the terms of the transaction are not disclosed until the deal is substantially agreed upon.
+Lakeshore's filed materials will eventually include definitive documentation of a proposed merger target (a [proxy statement](/proxy-statement/) or S-4 filing, both of which contain extensive disclosures about the target company, its business, financial projections, and [fairness opinions](/fairness-opinion/)). At that stage, LCCC shareholders will vote on whether to approve the merger and can choose to redeem. Until that announcement, however, LCCC's filings contain no information about the intended target. This information asymmetry is structural to SPACs: the sponsors have identified or are negotiating with a target, but that target's identity and the terms of the transaction are not disclosed until the deal is substantially agreed upon.
 
 ## Investor Considerations Embedded in the Filings
 

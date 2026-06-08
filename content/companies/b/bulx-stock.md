@@ -45,7 +45,7 @@ This decay accelerates when commodities zigzag rather than trend decisively in o
 
 BULX carries an [expense ratio](/expense-ratio/) in the low single-digit range — meaningfully higher than a plain-vanilla [commodity ETF](/commodity-etf/), which reflects the daily hedging and rebalancing required to maintain the 2x leverage. The higher cost is the price of leverage; investors pay it willingly only if they expect to hold the position briefly and realise the benefit before decay erodes returns.
 
-The fund trades on NYSE Arca with moderate liquidity, so a typical investor can buy and sell in normal volumes without wide [bid-ask spreads](/bid-ask-spread/). Liquidity is sufficient for swing traders and tactical bets but less dense than a mega-cap [equity ETF](/equity-etf/).
+The fund trades on [NYSE Arca](/nyse-arca/) with moderate liquidity, so a typical investor can buy and sell in normal volumes without wide [bid-ask spreads](/bid-ask-spread/). Liquidity is sufficient for swing traders and tactical bets but less dense than a mega-cap [equity ETF](/equity-etf/).
 
 ## When BULX makes sense and when it does not
 
@@ -55,4 +55,4 @@ It is not designed as a core holding for a diversified portfolio. A retail inves
 
 ## Understanding the prospectus and factsheet
 
-Anyone considering BULX should read the fund's prospectus, available from GraniteShares, to understand the precise mechanics of daily rebalancing, the role of collateral and financing, and any [counterparty risks](/counterparty-risk/) in the futures markets. The factsheet shows the current expense ratio, the size of the fund, turnover, and the top holdings. A reader researching the Bloomberg Commodity Index can inspect its composition, weightings, and rebalancing schedule at the index provider's website. The Bloomberg terminal or financial websites show BULX's live price, compare it to the underlying index, and reveal cumulative performance over different time horizons — useful for spotting decay in action.
+Anyone considering BULX should read the fund's prospectus, available from GraniteShares, to understand the precise mechanics of daily rebalancing, the role of collateral and financing, and any [counterparty risks](/counterparty-risk/) in the futures markets. The factsheet shows the current expense ratio, the size of the fund, turnover, and the top holdings. A reader researching the Bloomberg Commodity Index can inspect its composition, weightings, and rebalancing schedule at the [index provider's](/index-provider/) website. The Bloomberg terminal or financial websites show BULX's live price, compare it to the underlying index, and reveal cumulative performance over different time horizons — useful for spotting decay in action.

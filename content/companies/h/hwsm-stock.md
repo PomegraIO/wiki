@@ -35,7 +35,7 @@ Hotchkis & Wiley has built its reputation on the belief that patience and rigoro
 
 HWSM is actively managed, which means its performance lives or dies on the managers' stock-picking accuracy, not on passively tracking an index. This structure creates both advantage and risk. The advantage is flexibility: if the managers believe a sector offers no value, they can avoid it entirely; if a holding deteriorates, they can exit without waiting for an automated rebalancing. The disadvantage is cost and accountability. Active management requires a team and infrastructure, reflected in higher [expense ratios](/expense-ratio/) than passive competitors. It also creates performance volatility tied directly to human judgment rather than index rules.
 
-The competitive field includes both passive SMID-cap index funds (cheaper, transparent, but mechanically weighted) and active value funds from other managers (competing on their own stock-picking track records). HWSM's differentiation rests on Hotchkis & Wiley's three-decade institutional history, a defined investment process honed over market cycles, and whatever outperformance the team can generate to justify the higher fees.
+The competitive field includes both passive SMID-cap index funds (cheaper, transparent, but mechanically weighted) and active value funds from other managers (competing on their own stock-picking track records). HWSM's differentiation rests on Hotchkis & Wiley's three-decade institutional history, a defined investment process honed over [market cycles](/market-cycle/), and whatever outperformance the team can generate to justify the higher fees.
 
 ## Portfolio composition and concentration
 

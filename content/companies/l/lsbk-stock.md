@@ -25,7 +25,7 @@ A [recession](/recession/) or industry downturn in Maryland—whether driven by 
 
 Community banks historically funded their loan books through core deposits—customer accounts, often sticky relationships. But retail and commercial depositors now have abundant alternatives. Large national banks offer convenience and perceived safety. Online banks and [money-market-funds](/money-market-fund/) offer higher yields on cash. The [Federal Reserve](/federal-reserve/)'s recent interest-rate environment has compressed yields on deposits even as competition for deposit market share has intensified.
 
-For Lake Shore Bancorp, this means the cost of deposits has risen. To compete, the bank must pay higher rates on savings accounts and money-market deposits. This squeezes the net-interest-margin—the spread between what the bank earns on loans and what it pays on deposits. A narrower margin reduces profitability. If the bank loses deposits, it must shrink its loan portfolio or fund growth through costlier wholesale funding (borrowings from the [federal funds market](/federal-funds-market/), brokered deposits), both of which erode margins further.
+For Lake Shore Bancorp, this means the cost of deposits has risen. To compete, the bank must pay higher rates on savings accounts and money-market deposits. This squeezes the net-interest-margin—the spread between what the bank earns on loans and what it pays on deposits. A narrower margin reduces profitability. If the bank loses deposits, it must shrink its loan portfolio or fund growth through costlier wholesale funding (borrowings from the [federal funds market](/federal-funds-market/), [brokered deposits](/brokered-deposit/)), both of which erode margins further.
 
 ## Interest Rate Risk and Margin Sensitivity
 

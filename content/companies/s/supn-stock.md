@@ -62,7 +62,7 @@ Supply chain concentration is another vulnerability. Supernus, like all small-to
 
 ## How a reader would research Supernus
 
-Anyone interested in understanding Supernus as an investment should begin with the annual 10-K filing (SEC CIK 0001356576), which details the company's product portfolio, the clinical efficacy and safety data underlying each drug, and the regulatory approval status of pipeline candidates. Pay close attention to the section on revenue by product; concentration in one drug creates execution risk.
+Anyone interested in understanding Supernus as an investment should begin with the annual 10-K filing (SEC CIK 0001356576), which details the company's product portfolio, the clinical efficacy and safety data underlying each drug, and the regulatory approval status of pipeline candidates. Pay close attention to the section on revenue by product; concentration in one drug creates [execution risk](/execution-risk/).
 
 The quarterly earnings calls reveal the company's thinking on competitive positioning and next-generation treatments in development. Watch for commentary on market share trends in ADHD, changes in the reimbursement environment, and the pace of patient growth on marketed drugs.
 

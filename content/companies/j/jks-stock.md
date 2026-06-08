@@ -33,7 +33,7 @@ The revenue engine depends almost entirely on shipment volume measured in gigawa
 
 Margins in the module manufacturing business are thin, typically in the single digits to low double digits on an operating basis, depending on commodity prices for silicon and polysilicon, freight costs, and the intensity of price competition in each region. The business is asset-intensive—the company must finance and operate large manufacturing plants (called fabs) with long lead times and high upfront capital requirements. Utilization rates matter enormously; a fab that runs at 80 percent capacity is far less profitable than one that runs at 95 percent. JinkoSolar's advantage lies partly in scale—larger fabs can be more efficient, and a diversified geographic footprint can smooth demand shocks across regions.
 
-The company also earns smaller amounts of revenue from engineering, procurement, and construction services (EPC) related to solar projects, and from the sale of solar solution packages bundled with financing or long-term power purchase agreements. These ancillary revenues are less material than module sales but provide higher margins and a degree of stickiness with customers.
+The company also earns smaller amounts of revenue from engineering, procurement, and construction services (EPC) related to solar projects, and from the sale of solar solution packages bundled with financing or long-term [power purchase agreements](/power-purchase-agreement/). These ancillary revenues are less material than module sales but provide higher margins and a degree of stickiness with customers.
 
 ## Where the Company Sits in Its Industry
 
@@ -55,7 +55,7 @@ JinkoSolar faces several material pressures that could constrain its profitabili
 
 **Currency exposure.** Although JinkoSolar reports earnings in Chinese yuan and prices its products globally in [U.S. dollars](/us-dollar/), its costs are primarily in yuan. If the Chinese currency weakens substantially against the dollar, revenue in dollar terms rises, but competition from lower-cost producers in other countries may intensify. Exchange rate movements are outside the company's control.
 
-**Execution risk in capacity expansion.** JinkoSolar has announced ambitious plans to expand manufacturing capacity—targeting 120 gigawatts of wafer, 95 gigawatts of cell, and 130 gigawatts of module production capacity by the end of 2025. Large capital projects, especially in multiple geographies, carry execution risk. Delays, cost overruns, or lower-than-expected utilization rates could reduce returns on capital.
+**[Execution risk](/execution-risk/) in capacity expansion.** JinkoSolar has announced ambitious plans to expand manufacturing capacity—targeting 120 gigawatts of wafer, 95 gigawatts of cell, and 130 gigawatts of module production capacity by the end of 2025. Large capital projects, especially in multiple geographies, carry execution risk. Delays, cost overruns, or lower-than-expected utilization rates could reduce returns on capital.
 
 ## How to Research the Company
 

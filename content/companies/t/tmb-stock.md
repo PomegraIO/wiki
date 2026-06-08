@@ -15,7 +15,7 @@ handwritten: true
 
 ## What bonds does TMB actually hold?
 
-TMB owns a balanced portfolio across the bond spectrum. You typically find 30% to 40% US Treasury securities of various maturities, 40% to 50% investment-grade corporate bonds from multiple industries, and 10% to 20% mortgage-backed or asset-backed securities. The fund maintains a duration of roughly 4 to 6 years, placing it squarely between short-duration bond funds and long-duration Treasury funds. That moderate duration means meaningful interest-rate sensitivity — a 1% rise in rates typically causes a 4% to 6% price decline — but far less volatility than a pure 20-year Treasury fund. The mix shifts over time as managers adjust sector weights and maturity allocations in response to market conditions.
+TMB owns a balanced portfolio across the bond spectrum. You typically find 30% to 40% US Treasury securities of various maturities, 40% to 50% investment-grade corporate bonds from multiple industries, and 10% to 20% mortgage-backed or asset-backed securities. The fund maintains a duration of roughly 4 to 6 years, placing it squarely between [short-duration bond funds](/short-duration-bond-fund/) and long-duration Treasury funds. That moderate duration means meaningful interest-rate sensitivity — a 1% rise in rates typically causes a 4% to 6% price decline — but far less volatility than a pure 20-year Treasury fund. The mix shifts over time as managers adjust sector weights and maturity allocations in response to market conditions.
 
 ## Why is TMB's yield higher than a simple Treasury fund?
 

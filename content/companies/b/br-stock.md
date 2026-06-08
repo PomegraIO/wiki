@@ -40,7 +40,7 @@ Broadridge's revenue model is anchored in recurring, inflation-linked, and volum
 The segment has high incremental margins once development and infrastructure costs are absorbed—a new customer or an increase in users on an existing platform often flows through at 60–70% incremental margin.
 
 **Investor Communication Services revenue** is driven by:
-- Mutual fund and ETF proxy statements and annual reports (per-document)
+- Mutual fund and ETF [proxy statements](/proxy-statement/) and annual reports (per-document)
 - Stockholder communication events (per-account, per-event)
 - Annual recurring services from [transfer agents](/transfer-agent/) and corporate issuers
 - Regulatory submission services

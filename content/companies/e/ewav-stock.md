@@ -59,6 +59,6 @@ Anyone considering an investment in East West Ave Acquisition should start with 
 
 Pay close attention to the use-of-proceeds section, which describes what portion of the IPO proceeds will be set aside for operations, what portion will be held in trust pending a deal, and what fees and expenses will be deducted before any remaining capital reaches shareholders if the SPAC is liquidated.
 
-Monitor SEC filings and press releases for any announcements of a target acquisition. If and when a deal is announced, read the proxy statement that will be sent to shareholders ahead of the merger vote—this is where the most detailed financial projections and due-diligence findings appear.
+Monitor SEC filings and press releases for any announcements of a target acquisition. If and when a deal is announced, read the [proxy statement](/proxy-statement/) that will be sent to shareholders ahead of the merger vote—this is where the most detailed financial projections and due-diligence findings appear.
 
 Keep in mind that SPAC investments are fundamentally different from investing in an operating company. You are making a bet on the sponsor's ability to source and negotiate a good deal, not on a proven business model or market position. As with any SPAC, there is the risk that a deal may never close, or that the eventual deal may disappoint relative to the promises made in the IPO materials.

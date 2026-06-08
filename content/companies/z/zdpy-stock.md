@@ -62,4 +62,4 @@ The company's 10-K filing (SEC CIK 0001279620) is the starting point. It should 
 
 Watch too for any capital deployment plans. Is the company actively acquiring new properties or harvesting its portfolio? Is it expanding into new markets or consolidating existing ones? These decisions reveal management's view of opportunity and risk.
 
-The broader real-estate and interest-rate environment also matters. Track whether the company is buying or selling, whether it is refinancing at higher or lower costs, and whether [cap rates](/cap-rate/) (the rental return as a percentage of property value) in the company's markets are expanding or contracting. These are leading indicators of future returns.
+The broader real-estate and interest-rate environment also matters. Track whether the company is buying or selling, whether it is refinancing at higher or lower costs, and whether [cap rates](/cap-rate/) (the rental return as a percentage of property value) in the company's markets are expanding or contracting. These are [leading indicators](/leading-indicator/) of future returns.

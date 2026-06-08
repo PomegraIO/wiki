@@ -47,7 +47,7 @@ Additionally, the competitive landscape has shifted. Other companies—including
 
 PolyPid's business exhibits a different kind of cyclicality than most companies described here: the cycle of clinical development and regulatory outcomes, coupled with the broader investor appetite for biotech equity. When clinical trial results are positive and regulatory momentum builds, the stock tends to rise. When trials disappoint or regulators request more data, the stock can fall sharply, sometimes regardless of the fundamental strength of the underlying science.
 
-Additionally, PolyPid is exposed to broader biotech market cycles. In periods of strong venture capital funding and bullish biotech equity sentiment, clinical-stage companies can raise capital at favorable valuations and attract talent. In downturns—when public biotech stocks decline and venture funding contracts—even promising companies struggle to raise capital, may be forced to license out technologies, or must extend timelines.
+Additionally, PolyPid is exposed to broader biotech [market cycles](/market-cycle/). In periods of strong venture capital funding and bullish biotech equity sentiment, clinical-stage companies can raise capital at favorable valuations and attract talent. In downturns—when public biotech stocks decline and venture funding contracts—even promising companies struggle to raise capital, may be forced to license out technologies, or must extend timelines.
 
 ## Current state and uncertainties
 
@@ -55,7 +55,7 @@ PolyPid remains pre-commercial, still burning cash to fund clinical trials and r
 
 Success depends on several factors outside the company's full control: the results of ongoing clinical trials must be strong enough to impress regulators; regulatory agencies must grant approval relatively smoothly; surgical teams must adopt the products in their practice; and hospital procurement must prioritize infection prevention with the modality PolyPid offers over competing approaches or incumbent practices.
 
-The polymer platform is genuine science, and the clinical need is real. But between a promising scientific idea and a successful commercial business lies a long valley of execution risk—development risk, regulatory risk, manufacturing risk, and market adoption risk.
+The polymer platform is genuine science, and the clinical need is real. But between a promising scientific idea and a successful commercial business lies a long valley of [execution risk](/execution-risk/)—development risk, regulatory risk, manufacturing risk, and market adoption risk.
 
 ## How to research PolyPid
 
@@ -65,4 +65,4 @@ Track announcements of clinical trial results, regulatory meetings, and partners
 
 Compare PolyPid's cash position and burn rate to the anticipated timelines for approval and commercialization. A company with three years of cash runway but facing five years of development uncertainty is in a precarious position. Also evaluate whether the company is considering partnerships—licensing its technology to larger medical device or pharmaceutical companies—which could accelerate time to market but dilute ownership and upside.
 
-Finally, understand the competitive landscape for surgical-site infection prevention and the clinical and economic advantages PolyPid claims relative to existing or emerging alternatives. PolyPid is betting on a specific technology and market window; if competitors deliver faster or stronger solutions, or if the market has less appetite for the modality than the company expects, the thesis breaks.
+Finally, understand the competitive landscape for surgical-site infection prevention and the clinical and economic advantages PolyPid claims relative to existing or emerging alternatives. PolyPid is betting on a specific technology and [market window](/market-window/); if competitors deliver faster or stronger solutions, or if the market has less appetite for the modality than the company expects, the thesis breaks.

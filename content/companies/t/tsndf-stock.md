@@ -61,7 +61,7 @@ TerrAscend faced several headwinds as the cannabis market matured. First, federa
 
 Second, oversupply emerged in mature markets. Canada legalized too much production capacity, and many U.S. states followed suit, creating commodity-like pricing pressures. TerrAscend had to constantly adjust its cost structure and portfolio strategy to stay profitable as prices compressed.
 
-Third, the regulatory environment remained unpredictable. A change in a state governor or an enforcement crackdown can disrupt a state market. Federal policy shifts could move cannabis further toward legalization or could reverse recent trend toward enforcement leniency, creating political risk.
+Third, the regulatory environment remained unpredictable. A change in a state governor or an enforcement crackdown can disrupt a state market. Federal policy shifts could move cannabis further toward legalization or could reverse recent trend toward enforcement leniency, creating [political risk](/political-risk/).
 
 Fourth, the competitive landscape included both specialized cannabis operators and large alcohol and tobacco companies positioned to move into cannabis if federal prohibition lifted. TerrAscend competed for market share against other cannabis operators and faced the looming threat of much larger corporations entering the space if regulations permitted.
 

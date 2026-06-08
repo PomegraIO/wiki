@@ -24,7 +24,7 @@ If Cheche operates in a heavily regulated sector—finance, pharmaceuticals, uti
 
 ## License Dependence and Renewal Cycles
 
-If Cheche's business requires any form of license or permit—environmental, occupational health and safety, professional, gaming, telecommunications, or other—those licenses are finite-term privileges that must be renewed or relinquished. The cost and likelihood of renewal are regulatory facts. A company heavily dependent on a single license faces acute regulatory risk if renewal is in doubt. If Cheche's 10-K notes that a major license will expire within the next three years and that renewal is uncertain or faces regulatory opposition, investors know that the company faces material execution risk. The regulatory renewal timeline is a fixed calendar constraint that no management team can accelerate or delay.
+If Cheche's business requires any form of license or permit—environmental, occupational health and safety, professional, gaming, telecommunications, or other—those licenses are finite-term privileges that must be renewed or relinquished. The cost and likelihood of renewal are regulatory facts. A company heavily dependent on a single license faces acute regulatory risk if renewal is in doubt. If Cheche's 10-K notes that a major license will expire within the next three years and that renewal is uncertain or faces regulatory opposition, investors know that the company faces material [execution risk](/execution-risk/). The regulatory renewal timeline is a fixed calendar constraint that no management team can accelerate or delay.
 
 ## Compliance Cost and Margin Pressure
 

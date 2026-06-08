@@ -43,11 +43,11 @@ For U.S. investors, the company presents the complexities typical of Chinese-lis
 
 The company has used its [balance sheet](/balance-sheet/) to fund operations and absorb credit losses. It raised capital through its IPO and [secondary offerings](/secondary-offering/). In recent years, as growth decelerated and regulatory constraints tightened, capital allocation has shifted toward preserving cash and maintaining loan loss reserves rather than aggressive expansion. The company has not paid significant [dividends](/dividend/) and has occasionally repurchased shares, though buyback activity has been modest.
 
-Debt is a modest part of the capital structure; the company funds primarily from equity and operational cash flows. The company's ability to raise debt is limited by the reputational risks inherent to the sector and the regulatory uncertainty around fintech lending in China.
+Debt is a modest part of the capital structure; the company funds primarily from equity and operational cash flows. The company's ability to raise debt is limited by the [reputational risks](/reputational-risk/) inherent to the sector and the regulatory uncertainty around fintech lending in China.
 
 ## Research and Due Diligence
 
-Investors considering Yiren Digital should dig into the company's quarterly and annual 10-K filings with close attention to loan origination volumes, charge-off rates, and the composition of the loan portfolio by vintage (age) and borrower characteristics. The management discussion and analysis section typically outlines regulatory changes and their impact on the business model. Payment schedules, average loan sizes, and [interest rates](/interest-rate/) charged are essential context for understanding revenue sustainability.
+Investors considering Yiren Digital should dig into the company's quarterly and annual 10-K filings with close attention to loan origination volumes, charge-off rates, and the composition of the loan portfolio by vintage (age) and borrower characteristics. The [management discussion and analysis](/management-discussion-and-analysis/) section typically outlines regulatory changes and their impact on the business model. Payment schedules, average loan sizes, and [interest rates](/interest-rate/) charged are essential context for understanding revenue sustainability.
 
 Published research on the Chinese fintech and peer-to-peer lending sector—from both academic studies and industry analysts—can provide valuable context on structural trends. The company's competitive positioning should also be assessed relative to other publicly listed Chinese fintech players and to broader Chinese financial institutions pivoting into consumer lending.
 

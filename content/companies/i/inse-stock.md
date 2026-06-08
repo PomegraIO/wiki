@@ -43,7 +43,7 @@ The online segment has grown as iGaming adoption has expanded globally. Online s
 
 Inspired's revenue streams are complex. Revenue-share arrangements with operators mean that Inspired's earnings depend on actual player gambling activity, not just the number of machines or systems deployed. This creates earnings volatility tied to operator performance and consumer discretionary spending.
 
-Understanding Inspired's [cash flow statement](/free-cash-flow/) is important. The company may have operating agreements where operator payments lag behind the gaming activity that generates revenue. This creates timing differences between [revenue recognition](/revenue-recognition/) and cash receipt. The [balance sheet](/balance-sheet/) should disclose [accounts receivable](/accounts-receivable/) from operators and any deferred revenue obligations.
+Understanding Inspired's [cash flow statement](/free-cash-flow/) is important. The company may have operating agreements where operator payments lag behind the gaming activity that generates revenue. This creates timing differences between [revenue recognition](/revenue-recognition/) and cash receipt. The [balance sheet](/balance-sheet/) should disclose [accounts receivable](/accounts-receivable/) from operators and any [deferred revenue](/deferred-revenue/) obligations.
 
 ## Capital Requirements and Intangible Assets
 

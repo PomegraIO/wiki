@@ -46,7 +46,7 @@ Conversely, in stable or improving regional economies, Elme's smaller portfolio 
 
 ## Regulatory Environment and Rent-Control Risk
 
-Manufactured housing faces periodic regulatory attention. Several states have implemented or proposed rent-increase caps, leading-edge legislation (Oregon, California) that constrain an operator's pricing power. Elme's competitive position is therefore shaped by which states and regions it operates in and how their regulation evolves. A large, diversified REIT can absorb stricter regulation in one state by deploying capital elsewhere; Elme has less flexibility and more exposure to regulatory change in its key markets.
+Manufactured housing faces periodic regulatory attention. Several states have implemented or proposed rent-increase caps, leading-edge legislation (Oregon, California) that constrain an operator's pricing power. Elme's competitive position is therefore shaped by which states and regions it operates in and how their regulation evolves. A large, [diversified REIT](/diversified-reit/) can absorb stricter regulation in one state by deploying capital elsewhere; Elme has less flexibility and more exposure to regulatory change in its key markets.
 
 This regulatory risk is not trivial. Strict rent-control legislation could materially compress Elme's yields and make the business less attractive to capital, directly affecting its competitive standing relative to investors' alternative uses of capital in REITs or debt securities.
 

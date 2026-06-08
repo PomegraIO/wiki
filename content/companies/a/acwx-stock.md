@@ -33,7 +33,7 @@ An investor might hold 60 percent in U.S. stocks and 40 percent in ACWX to get a
 
 ACWX is denominated in [U.S. dollars](/us-dollar/), so a U.S. investor's returns are heavily affected by currency moves. When the dollar strengthens, ACWX's returns are dampened because foreign earnings translate to fewer dollars. When the dollar weakens, ACWX can gain from favorable currency moves. This currency exposure is substantial; in some years it matters more than the underlying stock moves.
 
-The emerging-markets portion—roughly 25 to 35 percent of the fund—introduces additional volatility. Emerging-market currencies can swing sharply, capital controls can be imposed or lifted, political risk is higher, and accounting standards are less stringent than in developed markets. A sudden emerging-market crisis—a financial panic, a political upheaval, a [trade war](/trade-war/)—can ripple through ACWX faster than through a fund holding only developed-market stocks.
+The emerging-markets portion—roughly 25 to 35 percent of the fund—introduces additional volatility. Emerging-market currencies can swing sharply, capital controls can be imposed or lifted, [political risk](/political-risk/) is higher, and accounting standards are less stringent than in developed markets. A sudden emerging-market crisis—a financial panic, a political upheaval, a [trade war](/trade-war/)—can ripple through ACWX faster than through a fund holding only developed-market stocks.
 
 For a U.S. investor, ACWX is not a simple "global stock" holding; it is a bet on non-U.S. growth, non-dollar currencies, and emerging-market stability. Investors who are skeptical of emerging markets often use only the developed-ex-US portion (Europe, Japan, Australia) or tilt toward that. Investors who are bullish on emerging growth accept the volatility.
 
@@ -47,6 +47,6 @@ The low cost means ACWX is practical for building a two-fund global portfolio: s
 
 Start with the iShares fact sheet, which shows the current geographic and sectoral breakdown. Check the top 20 or 30 holdings to see which countries and companies dominate. Notice the Japan, Europe, and emerging-market allocations—they shift over time as [relative valuations](/relative-valuation/) change.
 
-Compare ACWX's performance to ACWI minus a U.S. total-market fund to verify that the ex-U.S. portion behaves as expected. Track your home country's currency (especially the dollar if you are a U.S. investor) and notice how dollar strength or weakness correlates with ACWX returns; that gives you a feel for the currency overlay.
+Compare ACWX's performance to ACWI minus a U.S. total-market fund to verify that the ex-U.S. portion behaves as expected. Track your home country's currency (especially the dollar if you are a U.S. investor) and notice how dollar strength or weakness correlates with ACWX returns; that gives you a feel for the [currency overlay](/currency-overlay/).
 
 Finally, ask yourself: how much international exposure do I want, and do I want to control it actively? If the answer is "some, but not the default global index weight," ACWX is the tool. If you want pure simplicity and do not care about regional tilt, a single global fund is easier.

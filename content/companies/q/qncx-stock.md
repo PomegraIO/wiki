@@ -48,7 +48,7 @@ For A-T, the medical need is so acute and patient numbers so small that regulato
 
 ## What Matters for Investors and Researchers
 
-For equity holders, the key indicators are clinical progress (trial enrollment, safety, any efficacy readout), [capital adequacy](/capital-adequacy/) (runway to next major milestone), and partnership announcements. A deal with a pharma company would signal external validation and likely reduce execution risk.
+For equity holders, the key indicators are clinical progress (trial enrollment, safety, any efficacy readout), [capital adequacy](/capital-adequacy/) (runway to next major milestone), and partnership announcements. A deal with a pharma company would signal external validation and likely reduce [execution risk](/execution-risk/).
 
 For researchers and patient advocates, Quince's publications, interactions with regulatory agencies, and trial design matter. The company's commitment to understanding disease biology and selecting patients most likely to benefit shapes the credibility of results. Gene therapy programs in particular must navigate immunogenicity and durability questions that early trials can only begin to address.
 

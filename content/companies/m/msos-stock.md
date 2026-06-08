@@ -1,0 +1,26 @@
+---
+title: "AdvisorShares Pure US Cannabis ETF (MSOS)"
+description: "A U.S.-focused cannabis ETF tracking publicly traded companies in cultivation, retail, and ancillary services across domestic markets — capturing the cannabis industry without international exposure."
+keywords:
+  - cannabis ETF
+  - US cannabis
+  - marijuana stocks
+  - cannabis industry
+  - cannabis index
+  - domestic cannabis
+handwritten: true
+---
+
+*The **MSOS ETF**, launched in 2018, is an exchange-traded fund that holds shares of publicly traded companies operating in the United States cannabis industry — growers, retailers, testing labs, equipment manufacturers, and related service providers — giving investors exposure to the legal cannabis market without the need to own individual stocks.*
+
+MSOS is one of the earliest and broadest cannabis-focused ETFs, and it operates in an unusual regulatory space. Federal prohibition of cannabis remains in place, yet dozens of states have legalized the plant for medical or recreational use, creating a patchwork legal landscape where U.S.-licensed cannabis companies generate real revenue, profit, and tax obligations — yet cannot access conventional banking, deduct normal business expenses from federal taxes, and carry the regulatory risk that federal enforcement could shift at any time. The fund navigates this by holding only U.S.-domiciled companies in domestic cannabis (no international holdings), which means its constituents are actual operating businesses selling to customers in legal markets, not speculative shell plays.
+
+The underlying index includes three broad segments of the cannabis ecosystem. Cultivation — the largest slice — covers companies that grow cannabis in-house, from large multi-state operators running dozens of facilities to more specialized growers focused on a single state. Retail comprises dispensaries and retail chains that sell directly to consumers, a competitive and fragmented segment with many small players and a few larger chains. The remainder is a mix of ancillary services: testing labs that certify product, equipment and seed suppliers, packaging and logistics, and even cannabis-focused financial services and consulting firms. That mix means MSOS is not purely a bet on price per gram of cannabis; it is a bet on the breadth of an emerging industry and the companies trying to build out its infrastructure and supply chain.
+
+The fund trades on the [NYSE Arca](/nyse-arca/) and, like all ETFs, can be bought and sold during regular market hours. It carries a modest [expense ratio](/expense-ratio/) that scales with the holdings' turnover. Because the cannabis industry is still developing and the constituent companies range from established multi-state operators down to smaller regional players, the holdings list changes over time as smaller firms are acquired or fail, and as new operators launch and meet the fund's listing criteria. The fund uses a transparent, rules-based index methodology, so investors can see exactly which companies qualify and at what weight.
+
+What makes MSOS distinct — and explains its appeal and limitation at once — is its strict domestic focus. The result is a portfolio of real businesses with real customers and real revenue problems: tax code challenges, banking restrictions, interstate commerce barriers, and the ever-present threat of federal intervention. These are not abstract risks; they ripple through earnings and share prices regularly. Companies in MSOS cannot deduct cost-of-goods-sold against federal income, a tax burden that international cannabis companies or pharmaceuticalised cannabis-derived products do not face. Many banks still refuse cannabis-industry customers, so cash management is difficult and expensive. The lack of a federal framework for interstate commerce means a grower licensed in Colorado cannot easily expand into California — each state has its own supply and licensing regime.
+
+Yet the domestic focus is also the advantage. MSOS holds companies that are extracting real profits from real customers in what is now a billion-dollar-a-year market across U.S. states. It avoids the volatility and regulatory uncertainty of Canadian and international cannabis plays, and it sidesteps the complexity of companies that operate in both legal U.S. markets and international jurisdictions simultaneously. The trade-off is clear: more stable cash flows and fewer black-swan risks, but also exposure to a market that is still shaped entirely by state-level politics and federal whim.
+
+For a reader considering MSOS, the key facts are straightforward. The fund owns a diversified portfolio of companies that service the domestic cannabis market — not the plant itself, but the ecosystem around it. The holdings are liquid and transparent. The risks are real and specific: federal policy risk, state-level tax and regulatory risk, and the cyclical dynamics of an industry still navigating profitability. A prospectus and the current holdings list will show exactly what the fund holds, and a regular look at the constituent companies' earnings calls reveals what is actually happening in the cannabis industry's margins and unit economics. MSOS is not a play on cannabis legalization worldwide; it is a play on building out the U.S. market that already exists.

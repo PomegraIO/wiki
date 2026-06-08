@@ -68,7 +68,7 @@ SmartRent has also expanded its energy management offerings, helping property ma
 
 ## Challenges and risks
 
-Execution risk is real. Many proptech companies have stumbled on deployment — complex integrations with legacy building systems, unreliable hardware, software bugs that frustrate residents and managers alike. SmartRent is still young and must prove that it can scale its platform to thousands of properties without degradation.
+[Execution risk](/execution-risk/) is real. Many proptech companies have stumbled on deployment — complex integrations with legacy building systems, unreliable hardware, software bugs that frustrate residents and managers alike. SmartRent is still young and must prove that it can scale its platform to thousands of properties without degradation.
 
 Competitive risk is also present. Larger vendors could integrate or acquire competing smart-home platforms; property-management software vendors could build their own smart-home layer; or Amazon and Google could commercialize their platforms for rental housing. SmartRent's advantage is current momentum and vertical focus, not unassailable technology moats.
 

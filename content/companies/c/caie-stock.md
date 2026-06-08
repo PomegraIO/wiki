@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-*The **Calamos Autocallable [Income ETF](/income-etf/) (CAIE)** is an actively managed [income fund](/income-fund/) launched in 2025 that generates monthly distributions by holding autocallable securities—structured products that pay regular coupons tied to [stock market](/stock-market/) performance rather than credit quality. Calamos is the first manager to wrap autocallables into a daily-liquid, transparent ETF, bringing what was once an institutional derivative strategy to everyday investors.*
+*The **Calamos Autocallable [Income ETF](/income-etf/) (CAIE)** is an actively managed [income fund](/income-fund/) launched in 2025 that generates monthly distributions by holding autocallable securities—[structured products](/structured-product/) that pay regular coupons tied to [stock market](/stock-market/) performance rather than credit quality. Calamos is the first manager to wrap autocallables into a daily-liquid, transparent ETF, bringing what was once an institutional derivative strategy to everyday investors.*
 
 ## Income from equity volatility, not bonds
 
 Here is the basic idea: autocallables pay you income every month because they profit from the difference between how much volatility the market experiences and how much volatility the autocallable was priced expecting. A fund using [bonds](/bond/) to generate income collects interest from a company or government borrower; a fund using autocallables collects income from selling equity volatility. If the stock market stays calm and within a range, the autocallables pay out. If volatility spikes or the market crashes through a barrier, the income slows or stops.
 
-CAIE holds a ladder of over 50 autocallables on the S&P 500, each with different trigger levels and maturity dates. The ladder structure smooths results across time; when one autocallable matures or is called away, a new one is added, so the income stream does not depend on any single instrument's path. The current monthly distribution yield runs around 14 percent annually on a nominal basis, meaning shareholders received roughly $0.32 per share per month as of mid-2026. That is far higher than Treasury yields or [investment-grade bond](/investment-grade-bond/) yields in the same interest-rate environment, and it is higher because the fund is taking equity risk and volatility risk.
+CAIE holds a ladder of over 50 autocallables on the S&P 500, each with different trigger levels and maturity dates. The ladder structure smooths results across time; when one autocallable matures or is called away, a new one is added, so the income stream does not depend on any single instrument's path. The current monthly distribution yield runs around 14 percent annually on a nominal basis, meaning shareholders received roughly $0.32 per share per month as of mid-2026. That is far higher than Treasury yields or [investment-grade bond](/investment-grade-bond/) yields in the same interest-rate environment, and it is higher because the fund is taking equity risk and [volatility risk](/volatility-risk/).
 
 ## How the autocallable coupon actually works
 

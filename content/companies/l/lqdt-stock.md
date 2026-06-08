@@ -39,7 +39,7 @@ What differentiates Liquidity is its focus on the B2B and government channels, i
 
 The company's growth prospects hinge on increasing seller participation and transaction frequency. Economic cycles matter: [recessions](/recession/) and inventory corrections drive larger liquidation volumes, but general economic contraction reduces buyer demand. Supply-chain complexity is a double-edged factor. When [enterprise-value](/enterprise-value/) supply chains are tight and inventory sparse, asset recovery becomes more valuable. When chains are bloated, more goods enter the liquidation stream, which could favor increased platform volume but may suppress per-transaction margins if price competition intensifies.
 
-Government spending, especially on surplus and strategic stockpile sales, is another variable. Policy shifts toward infrastructure spending or defense build-ups can increase volumes on the government-surplus leg of the business; budgetary constraints can reduce it. The company's ability to innovate in buyer experience, seller tools, and logistics efficiency will determine whether it captures wallet share from traditional liquidators or loses to new competitors.
+Government spending, especially on surplus and [strategic stockpile](/strategic-stockpile/) sales, is another variable. Policy shifts toward infrastructure spending or defense build-ups can increase volumes on the government-surplus leg of the business; budgetary constraints can reduce it. The company's ability to innovate in buyer experience, seller tools, and logistics efficiency will determine whether it captures wallet share from traditional liquidators or loses to new competitors.
 
 ## Capital and Strategic Considerations
 

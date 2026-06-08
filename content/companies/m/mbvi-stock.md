@@ -36,7 +36,7 @@ M3-Brigade, as a repeat sponsor with five prior SPACs, competes on demonstrated 
 
 - Identify attractive acquisition targets before competitors secure them.
 - Structure mergers that satisfy both public shareholders and target companies.
-- Execute due diligence and regulatory approvals on timeline.
+- Execute [due diligence](/due-diligence/) and regulatory approvals on timeline.
 - Manage the post-merger integration and public company transition.
 
 Each of these capabilities depends on relationships within the private-equity and operating-company communities. A sponsor with a strong track record and extensive deal-origination network can access higher-quality targets, negotiate better terms, and close faster. MBVI's competitive position is therefore derivative of M3-Brigade's reputation and Rolodex.

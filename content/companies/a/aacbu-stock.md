@@ -35,7 +35,7 @@ This machinery serves a particular role in capital markets: it lets founders and
 
 When a SPAC completes a merger, unit holders do not face a forced redemption or election. They are automatically converted into holders of the merged company's shares and warrants under the same terms. The common-share component (AACB) becomes a share of the post-merger company, usually renamed; the warrant (AACBR) continues to its [expiration date](/expiration-date/) unchanged. An AACBU holder has no choice in this — the unit splits automatically in the merged company's registrar.
 
-The financial engineering around the merger determines the capital structure of the post-merger entity: how much cash was in the trust, how much the sponsor contributed to prevent the deal from breaking, whether the SPAC incurred debt or issued additional shares, and how the founder's equity stake was diluted. These details are disclosed in the proxy statement filed months before the vote and are critical to evaluating whether the merger is a sound use of capital.
+The financial engineering around the merger determines the capital structure of the post-merger entity: how much cash was in the trust, how much the sponsor contributed to prevent the deal from breaking, whether the SPAC incurred debt or issued additional shares, and how the founder's equity stake was diluted. These details are disclosed in the [proxy statement](/proxy-statement/) filed months before the vote and are critical to evaluating whether the merger is a sound use of capital.
 
 ## Supply chain and strategic allocation
 

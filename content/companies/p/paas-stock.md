@@ -41,7 +41,7 @@ Mining companies are cyclical. When precious-metals prices are high, mining is e
 
 Pan American's financial results swing with silver and gold prices. A doubling of the silver price can transform the company from marginally profitable to highly cash-generative; a sharp drop can wipe out earnings. This cyclicality makes mining stocks volatile and tricky to value. A company that is booming in a [bull market](/bull-market/) for metals can face severe stress in a downturn.
 
-Capital planning for a miner is long-term. A major new mine might take five to seven years from discovery to first production and hundreds of millions of dollars in upfront investment. That investment must be justified by long-run assumptions about metal prices, ore grades, and operating costs — assumptions that are often wrong, particularly in emerging markets where geology can surprise and political risk can shift.
+Capital planning for a miner is long-term. A major new mine might take five to seven years from discovery to first production and hundreds of millions of dollars in upfront investment. That investment must be justified by long-run assumptions about metal prices, ore grades, and operating costs — assumptions that are often wrong, particularly in emerging markets where geology can surprise and [political risk](/political-risk/) can shift.
 
 ## Risks that matter
 

@@ -48,10 +48,10 @@ In the 2023–2026 period, the [federal funds rate](/federal-funds-rate/) rose f
 
 **Reading the business.** Quarterly reports reveal the portfolio composition, the [delinquency](/delinquency/) and nonaccrual rates, and the credit loss experience. Watch these metrics closely. Rising delinquencies are an early warning before defaults materialize. A growing nonaccrual portfolio signals stress building. Credit losses tell you how many loans have already gone bad.
 
-The loan origination volume is a leading indicator. In healthy markets, TPG RE Finance originates many loans. In stressed markets, origination slows because borrowers are constious and lenders are selective. A decline in originations hints that management expects the market to weaken.
+The loan origination volume is a [leading indicator](/leading-indicator/). In healthy markets, TPG RE Finance originates many loans. In stressed markets, origination slows because borrowers are constious and lenders are selective. A decline in originations hints that management expects the market to weaken.
 
 The dividend is the key metric for a preferred shareholder. If the dividend is covered by earnings with room to spare, the preferred is safe. If the dividend barely covers, or if management cuts it, the preferred stock will likely decline. Preferreds are primarily income instruments; loss of income means loss of capital value.
 
 **Tracking preferred-stock risk.** The preferred shares of TPG RE Finance trade based on the perceived credit quality and [current yield](/current-yield/). In a risk-off environment, when investors fear real estate stress, the preferred will likely sell off (lower price, higher yield). In risk-on environments, it will rally. The preferred is not a growth play; it is an income play, and the income depends on the stability of the underlying REIT's earnings and credit quality.
 
-TPG RE Finance is a specialist lender in a cyclical business. In boom times, it originates loans at tight spreads and takes on risk. In busts, it manages a distressed portfolio and cuts the dividend. Preferred holders should expect volatility and have conviction about the commercial real estate cycle when they buy.
+TPG RE Finance is a specialist lender in a cyclical business. In boom times, it originates loans at tight spreads and takes on risk. In busts, it manages a distressed portfolio and cuts the dividend. Preferred holders should expect volatility and have conviction about the commercial [real estate cycle](/real-estate-cycle/) when they buy.

@@ -1,0 +1,35 @@
+---
+title: "iShares MSCI South Korea ETF (EWY)"
+description: "An exchange-traded fund that holds South Korea's largest publicly traded companies via the MSCI South Korea Index, offering exposure to a technology-and-manufacturing-driven economy and one of Asia's most developed stock markets."
+keywords:
+  - South Korea equities
+  - MSCI index
+  - EWY ticker
+  - semiconductor exposure
+  - Asian emerging markets
+  - tech exposure
+  - developed Asia
+handwritten: true
+---
+
+*The **iShares MSCI South Korea ETF** — ticker EWY — is a fund that holds a cross-section of South Korea's largest publicly traded companies. South Korea is a developed economy and a manufacturing and technology powerhouse, so the fund provides exposure to one of Asia's most sophisticated [stock markets](/stock-market/) and some of the world's most important electronics, semiconductor, and automotive makers.*
+
+South Korea occupies an unusual position in global markets. It is not a developing nation in the traditional sense — its economy is mature, industrialised, and wealthy — yet it is usually classified as an emerging market by [index providers](/index-provider/), placing it in funds like EWY rather than developed-market portfolios. That classification persists partly for historical reasons (South Korea was developing when these index categories solidified) and partly because it still lacks some of the institutional depth and size of the largest Western markets. Whatever the label, the consequence is that EWY offers investors a way to own some of the world's most important technology and manufacturing companies at a lower valuation multiple than a pure developed-market fund might command.
+
+The fund tracks the MSCI South Korea Index, which holds roughly 100 to 150 of the largest South Korean firms. The portfolio is heavily concentrated in a handful of sectors. Samsung Electronics — the world's largest semiconductor memory maker and a leader in displays and consumer electronics — is the dominant holding, often accounting for 20 to 30 percent of the fund's value on its own. Hyundai Motor, LG Electronics, SK Hynix, Naver, and other large conglomerates and tech companies make up the rest. Banking, insurance, and utilities round out the mix, but the fund's identity is largely defined by its technology and manufacturing exposure.
+
+That concentration is both a strength and a risk. South Korea's economy genuinely does rest on those export-oriented giants. Samsung and Hyundai drive the country's competitive advantage globally. But it also means EWY is a concentrated bet: if Samsung stumbles, or if the semiconductor market weakens, the fund suffers disproportionately. Investors who buy EWY believing they are diversifying into South Korea should understand that they are really betting heavily on whether South Korea's largest exporters will thrive.
+
+The fund itself is structured straightforwardly. It holds the actual South Korean stocks, which are listed on the [Korea Exchange](/korea-exchange/) (formerly KOSPI), and its [expense ratio](/expense-ratio/) is modest at roughly 0.6 to 0.7 percent annually. That fee reflects both the efficiency of managing a developed market and the modest trading costs in South Korea, which has one of the world's most liquid [stock exchanges](/stock-exchange/). The fund pays [dividends](/dividend/) from the Korean companies it holds, which typically yield a modest amount. Trading volume in EWY on the U.S. exchange is strong enough that you can buy and sell without incurring a large [bid-ask spread](/bid-ask-spread/).
+
+The case for owning EWY rests on a few pillars. First, South Korea's companies are genuinely leaders in their industries — Samsung defines the global semiconductor market, and Hyundai is a major global automaker. Second, the [Korean won](/korean-won/) fluctuates against the dollar, so EWY offers currency exposure for those who want it. An investor bullish on the Korean economy and the won's trajectory will benefit from both stock appreciation and currency gains; a skeptic will face headwinds from both. Third, the fund offers exposure to a major developed Asian economy without owning Japanese or Chinese stocks, which provides [diversification](/diversification/) in an Asia-focused portfolio.
+
+The risks are real. South Korea is geographically and politically close to North Korea, a chronic source of tension. The outcome of any escalation in tensions would be catastrophic for the peninsula's economy and would hammer South Korean stocks. Beyond geopolitical risk, the Korean economy is heavily dependent on global trade and exports, so a global [recession](/recession/) or a slump in semiconductor demand would hit the country hard. Samsung, the fund's largest holding, is cyclical: its memory chip business booms and busts with the broader technology spending cycle, and periods of over-supply in semiconductors have historically led to steep drops in the company's stock price and earnings.
+
+Currency is another dimension: the won can be volatile relative to the dollar. A strong dollar weakens returns for U.S. investors holding EWY in dollar terms, even if South Korean stocks themselves are doing well. An investor concerned only with stock returns and indifferent to currency should be aware of this effect.
+
+Investors considering EWY typically fall into a few camps. Some are Asia-focused and want exposure to South Korea specifically — a country with a strong economy and a stock market large enough to accommodate meaningful positions. Others are building a global portfolio and see South Korea as a developed Asian economy worth including alongside Japan, China, or ASEAN. Still others are specifically bullish on semiconductors and view EWY as a way to own Samsung and other South Korean chip makers without picking individual stocks.
+
+To understand EWY, start with the [BlackRock](/blk-stock/) iShares fact sheet, which lists the holdings and sector composition. The MSCI South Korea Index methodology explains how stocks are selected. Watch Samsung's earnings and guidance closely, because its weight in the portfolio means its performance drives a large slice of EWY's returns. Monitor South Korea's economic data — growth, [inflation](/inflation/), [interest rates](/interest-rate/), the won's level — to gauge whether conditions are improving or deteriorating. Keep an eye on semiconductor industry trends and whether memory chip prices are rising or falling, because that cycle matters enormously to the fund. Finally, stay alert to geopolitical developments on the peninsula, which can move the market sharply on brief notice.
+
+For long-term investors, EWY can be a core position in a global portfolio if they believe in South Korea's economy and are comfortable holding a concentrated portfolio where a few mega-cap companies drive the returns. For shorter-term traders or risk-averse investors, the [concentration risk](/concentration-risk/) and cyclicality mean EWY should be a satellite position, not a foundation holding.

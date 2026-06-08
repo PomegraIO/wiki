@@ -31,7 +31,7 @@ Cash from DTC sales flows to the company quickly, reducing the need to finance w
 
 ## Minimal Debt and Capital Structure
 
-Unlike capital-intensive businesses (manufacturing, real estate), FIGS carries minimal debt. The company has no need to borrow—it generates cash from operations and self-funds growth through inventory investment and marketing spend. This debt-light structure reduces financial risk and gives FIGS optionality: it can invest in growth, return cash to shareholders, or acquire complementary brands without leverage constraints.
+Unlike capital-intensive businesses (manufacturing, real estate), FIGS carries minimal debt. The company has no need to borrow—it generates cash from operations and self-funds growth through [inventory investment](/inventory-investment/) and marketing spend. This debt-light structure reduces financial risk and gives FIGS optionality: it can invest in growth, return cash to shareholders, or acquire complementary brands without leverage constraints.
 
 Equity capital is the primary funding source. FIGS went public via [initial-public-offering](/initial-public-offering/) and raises capital through [common-stock](/common-stock/) offerings if needed, though this has been infrequent given operating cash flow.
 
@@ -55,7 +55,7 @@ The cash conversion cycle (days from paying suppliers to collecting from custome
 
 ## Competitive Positioning and Switching Costs
 
-FIGS faces competition from large activewear brands (Lululemon, [Nike](/nke-stock/), Athleta) and traditional medical-apparel suppliers (Dickies, Cherokee, Landau). But the company has built brand equity among healthcare workers through style, fit, mission alignment (healthcare workers value quality and durability), and community building. This brand loyalty creates mild switching costs—a nurse who finds her perfect scrubs fit and style with FIGS is reluctant to try another brand.
+FIGS faces competition from large activewear brands (Lululemon, [Nike](/nke-stock/), Athleta) and traditional medical-apparel suppliers (Dickies, Cherokee, Landau). But the company has built brand equity among healthcare workers through style, fit, mission [alignment (healthcare](/alhc-stock/) workers value quality and durability), and community building. This brand loyalty creates mild switching costs—a nurse who finds her perfect scrubs fit and style with FIGS is reluctant to try another brand.
 
 The balance sheet does not reflect brand value directly (though it appears on the [income statement](/income-statement/) as brand-related [intangible assets](/intangible-assets/) if FIGS acquired other companies). But the strength of FIGS' brand is evident in customer retention metrics and pricing power—the ability to command higher prices because customers perceive superior value.
 

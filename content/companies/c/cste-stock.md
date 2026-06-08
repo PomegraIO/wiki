@@ -41,7 +41,7 @@ Caesarstone's products are sold through kitchen and bath showrooms and through d
 
 ## Environmental Concerns and Silicosis Risk
 
-Engineered quartz production is energy-intensive, and the manufacturing process generates silica dust. Long-term occupational exposure to crystalline silica can cause silicosis, a serious lung disease. Caesarstone's factories and supply chain are vulnerable to regulatory scrutiny and lawsuits. Australia, Germany, and other countries have tightened workplace exposure standards or banned certain engineered quartz products. A customer aware of these health and environmental concerns might shift away from engineered quartz toward natural stone or alternative surfaces. This regulatory and reputational risk creates long-term uncertainty for Caesarstone's customers and investors.
+Engineered quartz production is energy-intensive, and the manufacturing process generates silica dust. Long-term occupational exposure to crystalline silica can cause silicosis, a serious lung disease. Caesarstone's factories and supply chain are vulnerable to regulatory scrutiny and lawsuits. Australia, Germany, and other countries have tightened workplace exposure standards or banned certain engineered quartz products. A customer aware of these health and environmental concerns might shift away from engineered quartz toward natural stone or alternative surfaces. This regulatory and [reputational risk](/reputational-risk/) creates long-term uncertainty for Caesarstone's customers and investors.
 
 ## Custom-Design and Color Trendsetting
 

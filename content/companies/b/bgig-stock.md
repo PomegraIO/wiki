@@ -37,7 +37,7 @@ The fund's methodology rebalances to maintain exposure to the highest-yielding d
 
 ## Income plus appreciation
 
-The dual objective — income now and growth later — means BGIG performs differently across market cycles. In periods when [bond](/bond/) yields are high or [recession](/recession/) fears spike, dividend-growth stocks often outperform because their yields become relatively attractive and their earnings stability provides reassurance. In [bull markets](/bull-market/) driven by high-growth technology and speculative sectors, BGIG may lag because dividend-growth stocks tend to be older, slower-growing businesses. Over full market cycles, the combination of compounding dividend growth and stock price appreciation can be meaningful, even if the fund underperforms explosive single-sector rallies.
+The dual objective — income now and growth later — means BGIG performs differently across [market cycles](/market-cycle/). In periods when [bond](/bond/) yields are high or [recession](/recession/) fears spike, dividend-growth stocks often outperform because their yields become relatively attractive and their earnings stability provides reassurance. In [bull markets](/bull-market/) driven by high-growth technology and speculative sectors, BGIG may lag because dividend-growth stocks tend to be older, slower-growing businesses. Over full market cycles, the combination of compounding dividend growth and stock price appreciation can be meaningful, even if the fund underperforms explosive single-sector rallies.
 
 ## Expense ratio and costs
 

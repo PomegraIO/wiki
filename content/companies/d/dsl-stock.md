@@ -45,7 +45,7 @@ A sustainable distribution is one that the fund can support indefinitely from po
 
 ## The manager's value proposition
 
-DoubleLine Capital's reputation rests on the skill of its manager, Jeffrey Gundlach, a widely known and respected bond-investor. The fund's marketing emphasizes his expertise and track record in selecting superior bonds and navigating credit cycles. This is the core value proposition: shareholders are paying a [management fee](/management-fee/) (typically 0.5–1% annually) to access Gundlach's judgment rather than buying a passive bond [index fund](/index-fund/) (which costs far less).
+DoubleLine Capital's reputation rests on the skill of its manager, Jeffrey Gundlach, a widely known and respected bond-investor. The fund's marketing emphasizes his expertise and track record in selecting superior bonds and navigating [credit cycles](/credit-cycle/). This is the core value proposition: shareholders are paying a [management fee](/management-fee/) (typically 0.5–1% annually) to access Gundlach's judgment rather than buying a passive bond [index fund](/index-fund/) (which costs far less).
 
 Whether active management in bonds actually adds value is a long-standing debate in investing. Some evidence suggests skilled bond managers can outperform passive indices, especially in less-liquid segments like [corporate bonds](/corporate-bond/) or [high-yield bonds](/high-yield-bond/). Other evidence suggests that fees and transaction costs erase most of the benefit. For DoubleLine specifically, the question is whether the fund's returns have justified its fees historically, and whether that will continue.
 

@@ -18,7 +18,7 @@ Small-cap [value investing](/value-investing/) is the opposite of small-cap grow
 
 ## The screen and what it selects
 
-ACSV applies a value filter to the small-cap universe. The exact criteria — low price-to-book, low price-to-earnings, high [dividend yield](/dividend-yield/), high free cash flow yield — are spelled out in the fund's index prospectus. The result is a portfolio of smaller firms that trade cheaply relative to their earnings power or assets. Many are in unglamorous sectors: industrials, financials, energy, materials, and traditional retail. Few are in high-flying technology or consumer discretionary.
+ACSV applies a value filter to the small-cap universe. The exact criteria — low price-to-book, low price-to-earnings, high [dividend yield](/dividend-yield/), high free [cash flow yield](/cash-flow-yield/) — are spelled out in the fund's index prospectus. The result is a portfolio of smaller firms that trade cheaply relative to their earnings power or assets. Many are in unglamorous sectors: industrials, financials, energy, materials, and traditional retail. Few are in high-flying technology or consumer discretionary.
 
 This weighting toward unfashionable sectors and overlooked stocks is the source of both the fund's appeal and its risk. In prolonged periods when growth stocks outperform value — when the market bids up expensive names and ignores cheap ones — ACSV will lag. But value investors believe those periods end, and when sentiment shifts, deep-value small caps often rebound sharply because they start from such depressed levels.
 
@@ -34,6 +34,6 @@ Beyond [style rotation](/style-rotation/), ACSV is exposed to all the risks of s
 
 ## Positioning within a portfolio
 
-ACSV works best as a satellite position within a diversified, long-term portfolio — not as a core holding or as a market-cap-weighted equity bucket. Value investors often hold ACSV alongside growth-oriented funds, accepting that some years will be flush and others dry. The bet is that over a full market cycle, the cheapness compensates for the volatility.
+ACSV works best as a satellite position within a diversified, long-term portfolio — not as a core holding or as a market-cap-weighted equity bucket. Value investors often hold ACSV alongside growth-oriented funds, accepting that some years will be flush and others dry. The bet is that over a full [market cycle](/market-cycle/), the cheapness compensates for the volatility.
 
 To research ACSV, start with the fund's prospectus and index document. Review the screening criteria and how strictly they are applied. Look at the sector breakdown — if it is heavily concentrated in one or two industries, understand why and whether you are comfortable with that concentration. Compare the fund's price-to-book and price-to-earnings multiples against the broad market and against large-cap [value funds](/value-fund/). Watch the trading costs and bid-ask spreads; if they are wide, plan to limit trading activity and use [limit orders](/limit-order/).

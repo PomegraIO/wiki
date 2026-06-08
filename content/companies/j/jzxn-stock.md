@@ -17,7 +17,7 @@ keywords: ["automotive parts", "fintech", "Chinese equity", "cross-border capita
 
 ## VIE Structure and Capital Risk
 
-**JZXN** is incorporated in the Cayman Islands but operates through a Variable Interest Entity (VIE) structure in China. Chinese foreign-ownership restrictions on manufacturing and financial services compel the company to use a VIE: a contract-based arrangement where the holding company controls a Chinese operating company without directly owning it. This structure allows Chinese entrepreneurs to raise capital via US listing while retaining Chinese regulatory compliance.
+**JZXN** is incorporated in the Cayman Islands but operates through a [Variable Interest Entity](/variable-interest-entity/) (VIE) structure in China. Chinese foreign-ownership restrictions on manufacturing and financial services compel the company to use a VIE: a contract-based arrangement where the holding company controls a Chinese operating company without directly owning it. This structure allows Chinese entrepreneurs to raise capital via US listing while retaining Chinese regulatory compliance.
 
 The VIE structure creates a hidden capital risk. Chinese regulators could change rules governing VIEs (they have before), potentially invalidating the legal links between the US holding company and Chinese operating assets. This regulatory uncertainty is reflected in **JZXN**'s valuation discount relative to transparent, direct-ownership companies. Investors in **JZXN** are implicitly betting that the VIE remains enforceable, a wager that has spooked many foreign investors in Chinese tech and industrial companies since 2020.
 
@@ -27,7 +27,7 @@ From a capital-raising perspective, the VIE structure limits **JZXN**'s options.
 
 **JZXN** generates revenue and incurs costs in Chinese yuan (RMB) through its automotive-parts operations. However, the company raises capital in [US dollars](/us-dollar/) (via [NASDAQ](/nasdaq/) listing) and [Hong Kong dollars](/hong-kong-dollar/) (via direct Chinese-bank relationships). This currency mismatch creates both opportunity and risk.
 
-A weaker RMB (Chinese yuan) improves **JZXN**'s dollar-basis returns from Chinese operations — the same RMB profit translates to more dollars when converted. Conversely, a stronger RMB reduces dollar returns. **JZXN** faces natural hedging by incurring costs in RMB, but to the extent it has USD-denominated debt or plans USD acquisitions, currency mismatch becomes a real liability.
+A weaker RMB (Chinese yuan) improves **JZXN**'s dollar-basis returns from Chinese operations — the same RMB profit translates to more dollars when converted. Conversely, a stronger RMB reduces dollar returns. **JZXN** faces [natural hedging](/natural-hedging/) by incurring costs in RMB, but to the extent it has USD-denominated debt or plans USD acquisitions, currency mismatch becomes a real liability.
 
 The company typically hedges portions of its currency exposure through [forward contracts](/forward-contract/) and [cross-currency swaps](/cross-currency-swap/), adding financial costs that reduce net margins. During periods of RMB weakness, hedging costs rise and profitability contracts further.
 

@@ -57,6 +57,6 @@ Throughout this period, Synchrony benefited from the rebound in consumer spendin
 
 ## From subsidiary to strategic player
 
-What has not changed since 2014 is the fundamental strength of the business model: scale in a fragmented market, entrenched retailer relationships, and the recurring nature of credit-card finance. What has changed is the company's ability to invest in its own future without the constraints of a conglomerate parent, and its need to compete in a rapidly evolving fintech and payments landscape.
+What has not changed since 2014 is the fundamental strength of the business model: scale in a [fragmented market](/fragmented-market/), entrenched retailer relationships, and the recurring nature of credit-card finance. What has changed is the company's ability to invest in its own future without the constraints of a conglomerate parent, and its need to compete in a rapidly evolving fintech and payments landscape.
 
 Today, Synchrony operates one of the largest portfolios of private-label credit cards in the country, serves 73 million active accounts, and has become a key infrastructure player in how American retailers offer and manage consumer credit. The company that started as a division of GE Capital has become a focused, specialized player in a market where focus and scale are precisely what matters most.

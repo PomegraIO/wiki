@@ -59,7 +59,7 @@ Viasat's satellites do not last forever. A geostationary satellite typically ope
 
 Satellite construction and launch are expensive, and the company's heavy capital requirements mean it typically carries meaningful debt. Every dollar spent on new satellites is a dollar not available for [dividend](/dividend/) or [share buyback](/share-buyback/), which can weigh on the stock during periods when investors are hungry for shareholder returns.
 
-The broader threat is technological: Starlink proved that launching hundreds of small satellites and building a global ground network could work at a scale Viasat has not yet attempted. That constellation design shifts the economics entirely, reducing per-unit cost and increasing throughput per satellite, even as it requires massive upfront capital. Viasat launched its own low-Earth-orbit satellite constellation program, but execution risk is real — the company has never before attempted a project of that scale and complexity.
+The broader threat is technological: Starlink proved that launching hundreds of small satellites and building a global ground network could work at a scale Viasat has not yet attempted. That constellation design shifts the economics entirely, reducing per-unit cost and increasing throughput per satellite, even as it requires massive upfront capital. Viasat launched its own low-Earth-orbit satellite constellation program, but [execution risk](/execution-risk/) is real — the company has never before attempted a project of that scale and complexity.
 
 ## How to research Viasat
 

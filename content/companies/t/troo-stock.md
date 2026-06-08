@@ -22,7 +22,7 @@ Troops, Inc. trades on the [NASDAQ](/nasdaq/) under the ticker TROO. It is incor
 </table>
 </aside>
 
-Cayman Islands incorporation is common for investment funds and [hedge funds](/hedge-fund/) operating in international markets, where the structure offers tax efficiency and regulatory flexibility. For an ordinary operating company, it is a red flag. A Cayman Islands shell can shield beneficial ownership, complicate due diligence, and suggest the company exists primarily as a financial vehicle rather than as a genuine commercial business with employees, operations, and tangible products.
+Cayman Islands incorporation is common for investment funds and [hedge funds](/hedge-fund/) operating in international markets, where the structure offers tax efficiency and regulatory flexibility. For an ordinary operating company, it is a red flag. A Cayman Islands shell can shield beneficial ownership, complicate [due diligence](/due-diligence/), and suggest the company exists primarily as a financial vehicle rather than as a genuine commercial business with employees, operations, and tangible products.
 
 The company's SEC filings are the only public window into Troops. They are infrequent, often late, and when they arrive, they contain little detail. Recent filings may be flagged by the SEC as delinquent or incomplete. The company's investor relations presence is nonexistent or minimal. There are no earnings calls, no quarterly guidance, no analyst coverage of note. The stock trades in low volumes, and the [bid-ask spread](/bid-ask-spread/) is often wide, meaning an investor attempting to exit a position might face substantial slippage.
 

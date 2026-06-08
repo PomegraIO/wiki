@@ -44,7 +44,7 @@ DYTA is a poor fit for buy-and-hold investors who believe in set-and-forget inde
 
 ## The real risks to know
 
-**Timing failure**: The central risk is that the system rebalances at the wrong moments. It may trim stocks before a rally, hold bonds through a spike in rates, or reduce commodities just before a supply shock. Over many cycles, a disciplined tactical system may capture small consistent gains from "rebalancing bonus" — selling what has gone up and buying what has gone down — but it is not a hedge against major market moves.
+**Timing failure**: The central risk is that the system rebalances at the wrong moments. It may trim stocks before a rally, hold bonds through a spike in rates, or reduce commodities just before a supply shock. Over many cycles, a disciplined tactical system may capture small consistent gains from "[rebalancing bonus](/rebalancing-bonus/)" — selling what has gone up and buying what has gone down — but it is not a hedge against major market moves.
 
 **Lag and slippage**: Markets move faster than signals update. By the time the system registers rising volatility, equities have already fallen. The fund's rebalancing happens quarterly or monthly; intra-month shock events often outrun it. The illiquidity of some holdings — particularly commodities and [high-yield bonds](/high-yield-bond/) in stress — can mean real execution costs when the fund needs to exit quickly.
 
@@ -54,7 +54,7 @@ DYTA is a poor fit for buy-and-hold investors who believe in set-and-forget inde
 
 ## How to research DYTA
 
-Read SGI's published methodology and fact sheets, which explain the signal-scoring system and historical allocation ranges. Then backtest: compare DYTA's returns to a static 60/40 portfolio and to other tactical-allocation funds over various market cycles — the 2008 financial crisis, the 2020 pandemic, the 2022 rate spike — and ask whether the tactical shifts cushioned losses meaningfully or merely reduced upside.
+Read SGI's published methodology and fact sheets, which explain the signal-scoring system and historical allocation ranges. Then backtest: compare DYTA's returns to a static 60/40 portfolio and to other tactical-allocation funds over various [market cycles](/market-cycle/) — the 2008 financial crisis, the 2020 pandemic, the 2022 rate spike — and ask whether the tactical shifts cushioned losses meaningfully or merely reduced upside.
 
 Monitor the current allocation weights in the fund's monthly or quarterly reports. A snapshot of 45% stocks, 30% bonds, 20% commodities, 5% cash tells you the system is cautious; a 65% stock, 30% bond, 5% cash posture tells you it is bullish. Over time, patterns emerge: Is the fund usually defensive, or usually aggressive? Does it time turns well?
 

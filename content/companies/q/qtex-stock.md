@@ -43,7 +43,7 @@ As a company in the development phase, Inspira faces the standard challenges of 
 
 Beyond regulatory hurdles, the company's ultimate success depends on whether the target market — respiratory patients and their healthcare providers — actually prefer Inspira's approach to oxygen delivery over the existing standard. Incumbents (liquid-oxygen providers, portable concentrator manufacturers) have established distribution networks and provider relationships, giving them a defensibility advantage. Inspira must overcome both inertia and prove superior clinical or economic value.
 
-Manufacturing and supply-chain risks are inherent as well. Moving from prototype to scaled production requires either building internal manufacturing or securing reliable contract manufacturers, both of which carry execution risk and capital demand. For a smaller, pre-commercial firm, any disruption in component sourcing or production can delay market entry significantly.
+Manufacturing and supply-chain risks are inherent as well. Moving from prototype to scaled production requires either building internal manufacturing or securing reliable contract manufacturers, both of which carry [execution risk](/execution-risk/) and capital demand. For a smaller, pre-commercial firm, any disruption in component sourcing or production can delay market entry significantly.
 
 ## Cyclicality and market dynamics
 

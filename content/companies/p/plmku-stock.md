@@ -44,7 +44,7 @@ The private company also gets immediate access to public-market capital, liquidi
 
 ### What risks should investors understand?
 
-SPAC shareholders face several risks. First, if no attractive target is found, capital is returned, but investors lose the opportunity cost and any trading gains they might have made. Second, the merger terms may be unattractive — a management team might negotiate a bad deal to close before the deadline. Third, once the merger closes, shareholders own a newly public company with no track record as a public firm, which carries execution risk and volatility.
+SPAC shareholders face several risks. First, if no attractive target is found, capital is returned, but investors lose the opportunity cost and any trading gains they might have made. Second, the merger terms may be unattractive — a management team might negotiate a bad deal to close before the deadline. Third, once the merger closes, shareholders own a newly public company with no track record as a public firm, which carries [execution risk](/execution-risk/) and volatility.
 
 Warrant holders face steeper risk: if the post-merger company stock never rises above the strike price, the warrant expires worthless. This happens in cases where the target company underperforms expectations, or where market sentiment shifts.
 
@@ -52,7 +52,7 @@ Warrant holders face steeper risk: if the post-merger company stock never rises 
 
 Before a merger is announced, the primary document is the initial prospectus, which describes the management team, the capital raised, and the target acquisition criteria. This reveals management's strategy and industry focus.
 
-Once a target is identified and a merger proposed, the proxy statement becomes essential. It lays out the target company's historical financials, the proposed merger terms, the post-merger ownership structure, and management's projections for the combined company. Comparing the target's valuation to its growth prospects and profitability is the core of the analysis.
+Once a target is identified and a merger proposed, the [proxy statement](/proxy-statement/) becomes essential. It lays out the target company's historical financials, the proposed merger terms, the post-merger ownership structure, and management's projections for the combined company. Comparing the target's valuation to its growth prospects and profitability is the core of the analysis.
 
 SEC filings for Plum Acquisition Corp, IV (CIK 0002030482) provide the trust account size, any redemptions or capital movements, and official announcements of proposed acquisitions. Watching for material events — an acquisition announcement, shareholder votes, or redemption activity — is how to stay informed as an investor or interested observer.
 

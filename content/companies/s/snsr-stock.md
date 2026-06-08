@@ -14,7 +14,7 @@ handwritten: true
 
 ## What SNSR holds and its investment thesis
 
-SNSR tracks companies involved in building, selling, or enabling the IoT infrastructure. The fund does not invest in any single company but rather in a diversified basket — typically 20 to 40 companies — selected by the index provider. Holdings span multiple layers: semiconductors and wireless chips, embedded software, edge-computing platforms, industrial sensors and controls, cellular providers expanding 5G and broadband connectivity, and hardware manufacturers embedding IoT capabilities into products.
+SNSR tracks companies involved in building, selling, or enabling the IoT infrastructure. The fund does not invest in any single company but rather in a diversified basket — typically 20 to 40 companies — selected by the [index provider](/index-provider/). Holdings span multiple layers: semiconductors and wireless chips, embedded software, edge-computing platforms, industrial sensors and controls, cellular providers expanding 5G and broadband connectivity, and hardware manufacturers embedding IoT capabilities into products.
 
 The underlying idea is that devices talking to each other and feeding data to networks represent a secular growth theme across manufacturing, utilities, transport, healthcare, and consumer goods. A factory installing wireless vibration sensors on machinery, a utility monitoring power-grid assets in real time, a shipping container reporting its location — all rely on technologies in the SNSR basket.
 

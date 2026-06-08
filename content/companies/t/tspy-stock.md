@@ -23,7 +23,7 @@ The growth tilt means TSPY will outperform in rallies driven by large-cap tech a
 
 ## The daily income mechanism
 
-TSPY aims to generate daily distributions by selling [call options](/call-option/) on its holdings. This is a covered-call strategy: the fund owns the stock and simultaneously sells investors the right to buy it at a fixed price in the future. That sale generates income upfront. If the stock stays below the [strike price](/strike-price/), the option expires worthless, the fund keeps the premium, and the stock is available for the next round of call sales. If the stock rallies above the strike, the fund's shares are called away and sold to the option buyer at the strike price.
+TSPY aims to generate daily distributions by selling [call options](/call-option/) on its holdings. This is a covered-call strategy: the fund owns the stock and simultaneously sells investors the right to buy it at a fixed price in the future. That sale generates income upfront. If the stock stays below the [strike price](/strike-price/), the option expires worthless, the fund keeps the premium, and the stock is available for the next round of call sales. If the stock rallies above the strike, the fund's shares are called away and sold to the [option buyer](/option-buyer/) at the strike price.
 
 This strategy creates a natural cap on upside. By selling calls, TSPY sacrifices some of the gain if the stock rallies sharply. In exchange, it captures income in quiet or down markets. The fund's daily distributions are funded partly by [dividends](/dividend/) from the underlying stocks and partly by [option premiums](/option-premium/) — the larger the premiums, the higher the distributions.
 

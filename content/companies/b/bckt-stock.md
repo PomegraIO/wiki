@@ -48,7 +48,7 @@ The specific [dividend yield](/dividend-yield/) and [current yield](/current-yie
 
 Income-focused strategies often weight toward certain sectors: financial services (for dividend income from bank stocks and preferred shares), utilities (for their regulated dividend payments), and consumer staples (for steady dividend growth). This sector concentration is a deliberate choice but creates exposure to sector-specific risks. A prolonged period of rising interest rates, for example, typically pressures utilities and consumer staples relative to technology or growth sectors. An economic downturn that threatens corporate profitability can pressure dividend-paying equities, particularly in cyclical sectors like financials.
 
-The fixed-income bucket's risk depends on its composition and duration. Higher-quality government bonds carry minimal default risk but may lose value if interest rates rise. High-yield corporate bonds offer higher income but carry material default risk and are sensitive to credit cycles. The fund's exact allocation between these asset types should be reviewed in its prospectus.
+The fixed-income bucket's risk depends on its composition and duration. Higher-quality government bonds carry minimal default risk but may lose value if interest rates rise. High-yield corporate bonds offer higher income but carry material default risk and are sensitive to [credit cycles](/credit-cycle/). The fund's exact allocation between these asset types should be reviewed in its prospectus.
 
 ## Costs and how the fund trades
 

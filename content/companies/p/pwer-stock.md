@@ -1,0 +1,25 @@
+---
+title: "Nomura Energy Transition ETF (PWER)"
+description: "PWER is an exchange-traded fund that tracks companies positioned to benefit from the shift toward renewable energy, electric vehicles, and decarbonization — a thematic play on the energy sector's structural evolution."
+keywords:
+  - energy transition
+  - renewable energy etf
+  - clean energy
+  - climate investing
+  - energy stocks
+handwritten: true
+---
+
+*The **Nomura Energy Transition ETF** (ticker PWER) is an exchange-traded fund that holds equity stakes in companies expected to benefit as the global energy system transitions from fossil fuels to renewable sources. It captures that structural shift through a curated basket of mid and large-cap firms — utilities building wind and solar farms, equipment makers supplying the hardware, automakers racing to electrify, and energy companies positioning themselves for a low-carbon world.*
+
+The fund sits at the intersection of investment demand for climate-themed exposure and the hard reality that energy transition is not a single company or product but an industrial movement spanning decades. Unlike narrowly focused green-energy funds that might hold only solar or only battery makers, PWER's approach is to follow the full arc of change — from grid operators and generation equipment all the way through to end-user adoption. This breadth is both a strength and a risk: it captures exposure to the many ways transition can unfold, but it also means the fund holds companies at vastly different stages of that transformation.
+
+The index that PWER tracks was designed by Nomura, the Japanese investment bank, and includes screening criteria that favour firms with meaningful business involvement in renewable power, energy efficiency, electric vehicles, grid modernization, and battery technology. The universe is typically several hundred companies, drawn from developed markets. Holdings change quarterly as the underlying index rebalances; the fund does not attempt to time the energy transition or pick winners, but rather to hold a representative sample of the companies making money from it today.
+
+Understanding PWER requires understanding that energy transition is not binary. It is not a moment when the world flips from coal and oil to wind and solar; it is a multi-decade reshaping of how electricity is generated and consumed, how transport works, and what energy infrastructure owners earn. Utilities, for example, face a paradox: they have spent a century building coal and gas plants, and they now have to become renewable-heavy businesses. The companies that succeed will be those that manage that transition well — not those that exit fossil fuels overnight (which would strand capital) but those that earn through both old and new assets while the economy shifts. PWER holds utilities because their scale and access to capital make them central to the transition, even though calling a mixed-portfolio utility a "clean energy" investment requires nuance.
+
+The fund's liquidity is typical of a mainstream ETF on a US exchange. Shares trade throughout the day, and because the fund is not so small as to be in daily distress nor so large as to be a passive index megafund, the [bid-ask spread](/bid-ask-spread/) is usually tight. [Expense ratio](/expense-ratio/) is modest — well under one percent annually — and there are no special fees or redemption costs. An investor can enter and exit without much friction, though the underlying holdings are equities that can be volatile, particularly in a downturn where energy stocks often fall hard.
+
+Real risks surround the transition itself. Energy transition is political as well as technological: policy support for renewables, carbon taxes, and EV adoption vary by country and shift with elections. A government that reverses green subsidies or raises barriers to electric vehicles can abruptly change the economics of the companies PWER holds. Regulatory risk runs both directions — too little climate policy slows adoption; too much could strand holdings that have not yet fully pivoted. [Technology risk](/technology-risk/) is also present: the fund might hold companies betting on hydrogen or carbon capture or next-generation batteries that never reach commercial scale, or that scale far slower than expected.
+
+For investors, PWER is a bet on the energy transition as an industrial process, not a moral or political statement. It is not a way to own only renewable power; many holdings still earn meaningful revenue from fossil fuels. It is a way to own companies across the energy value chain that are either building transition businesses or managing the decline of old ones while they do. A reader researching the fund should look at the latest fund fact sheet to see the top holdings and their exposure breakdowns, read the prospectus for the index methodology, and watch energy-sector developments — policy changes, technology breakthroughs, commodity prices — because all of those move PWER materially.

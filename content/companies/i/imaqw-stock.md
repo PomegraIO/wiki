@@ -34,7 +34,7 @@ Leverage. A warrant costs less than the underlying common share, yet moves with 
 
 ## The merger integration question.
 
-When IMAQ merges with Vietnam Biofuels Group, the warrant terms remain intact but the underlying security changes. Post-merger, warrants will be exercisable into common shares of the combined entity (VI Energy). The merger agreement, amendments, and proxy statements spell out warrant adjustment terms and [anti-dilution provisions](/anti-dilution-provisions/). Warrant holders should verify the exact terms — whether the strike price or share count is adjusted, how the merger affects time to expiration, and what happens in the event of a failed merger or alternative transaction.
+When IMAQ merges with Vietnam Biofuels Group, the warrant terms remain intact but the underlying security changes. Post-merger, warrants will be exercisable into common shares of the combined entity (VI Energy). The merger agreement, amendments, and [proxy statements](/proxy-statement/) spell out warrant adjustment terms and [anti-dilution provisions](/anti-dilution-provisions/). Warrant holders should verify the exact terms — whether the strike price or share count is adjusted, how the merger affects time to expiration, and what happens in the event of a failed merger or alternative transaction.
 
 ## Timing and expiration risk.
 

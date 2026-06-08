@@ -45,11 +45,11 @@ The debt is often split between construction financing (lenders finance the buil
 
 Interest expense is a massive line item on Gafisa's [income statement](/income-statement/). A company with $2 billion in debt at an average rate of 7% incurs $140 million in annual interest expense before taxes. This is profit that must first be earned before shareholders see any return. The company's [operating margins](/operating-margin/) (before interest) must exceed the [cost of debt](/cost-of-debt/), or leverage destroys shareholder value.
 
-Gafisa's debt service coverage ratio—operating cash flow divided by debt service obligations—is critical. If this ratio is less than 1.0, the company is burning cash to service debt and must either reduce debt, increase cash generation, or eventually default.
+Gafisa's [debt service coverage ratio](/debt-service-coverage-ratio/)—operating cash flow divided by debt service obligations—is critical. If this ratio is less than 1.0, the company is burning cash to service debt and must either reduce debt, increase cash generation, or eventually default.
 
 ## Shareholder Equity and Accumulated Losses
 
-Brazilian real estate developers, like those in cyclical markets worldwide, experience years of substantial profit followed by years of losses. Gafisa's accumulated losses (or accumulated profits) reflect these cycles. The balance sheet shows "shareholders' equity," the residual of assets minus liabilities. If leverage is high and cycle has turned negative, equity can shrink dramatically or become negative (liabilities exceed assets), in which case the company is technically insolvent on a balance-sheet basis.
+[Brazilian real](/brazilian-real/) estate developers, like those in cyclical markets worldwide, experience years of substantial profit followed by years of losses. Gafisa's accumulated losses (or accumulated profits) reflect these cycles. The balance sheet shows "[shareholders' equity](/shareholders-equity/)," the residual of assets minus liabilities. If leverage is high and cycle has turned negative, equity can shrink dramatically or become negative (liabilities exceed assets), in which case the company is technically insolvent on a balance-sheet basis.
 
 The company may have [preferred stock](/preferred-stock/) outstanding in addition to [common stock](/common-stock/), with different [liquidation](/liquidation/) rights and [dividend](/dividend/) preferences. The footnotes to the balance sheet detail the terms of any preferred shares and their impact on common shareholders' claims on earnings and liquidation proceeds.
 
@@ -57,7 +57,7 @@ The company may have [preferred stock](/preferred-stock/) outstanding in additio
 
 Gafisa's working capital cycle is the time from when it begins construction (capital deployment) to when apartments are sold and financing is complete (cash received). This cycle might stretch 18-36 months for a large project. During this entire period, the company is burning cash for construction wages, materials, and financing costs. The larger and longer the pipeline of projects under development, the greater the working capital needs.
 
-Pre-sales are critical: if Gafisa can sell units (and collect deposits) before construction is complete, it accelerates cash inflow and reduces financing needs. The balance sheet may show "customer advances" or "deferred revenue," representing deposits from buyers who have purchased units under construction. This is favorable working capital: cash received before the company incurs the full cost of construction.
+Pre-sales are critical: if Gafisa can sell units (and collect deposits) before construction is complete, it accelerates cash inflow and reduces financing needs. The balance sheet may show "customer advances" or "[deferred revenue](/deferred-revenue/)," representing deposits from buyers who have purchased units under construction. This is favorable working capital: cash received before the company incurs the full cost of construction.
 
 ## Currency and Geographic Risk
 

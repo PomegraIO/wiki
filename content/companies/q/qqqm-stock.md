@@ -54,7 +54,7 @@ Another risk is earnings dependence. The Nasdaq 100 is valued by the market larg
 
 [Interest rates](/interest-rate/) matter. When interest rates rise, growth stocks (which derive much of their value from cash flows years in the future) often underperform relative to value stocks or [bonds](/bond/). A sustained rate-hiking cycle can be a headwind for QQQM.
 
-Over short time windows — months or even a couple of years — QQQM can be volatile. Over decades, holding the index through multiple market cycles has historically been a way to capture US equity returns without trying to beat the market through active selection.
+Over short time windows — months or even a couple of years — QQQM can be volatile. Over decades, holding the index through multiple [market cycles](/market-cycle/) has historically been a way to capture US equity returns without trying to beat the market through active selection.
 
 ## The mechanism: index tracking and rebalancing
 

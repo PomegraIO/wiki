@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*AGRH is an exchange-traded [bond](/bond/) fund issued by iShares that holds most of the Bloomberg U.S. Aggregate Bond Index but uses interest-rate derivatives to blunt the fund's sensitivity to rising and falling rates — providing broad diversified bond exposure for investors who want income with reduced duration risk.*
+*AGRH is an exchange-traded [bond](/bond/) fund issued by iShares that holds most of the [Bloomberg U.S. Aggregate Bond Index](/bloomberg-aggregate-bond-index/) but uses interest-rate derivatives to blunt the fund's sensitivity to rising and falling rates — providing broad diversified bond exposure for investors who want income with reduced duration risk.*
 
 ## What does AGRH actually hold?
 
@@ -35,7 +35,7 @@ For investors who expect a sustained decline in interest rates, or who are comfo
 
 ## The cost and practical considerations
 
-AGRH's [expense ratio](/expense-ratio/) is materially higher than a passive, unhedged Aggregate ETF like AGG or BND, reflecting both the complexity of maintaining the hedge and the active management required. The spread between the fund's price and its underlying [net asset value](/net-asset-value/) is generally tight for a product with this complexity, and daily volume on the NYSE ARCA is adequate for most institutional traders.
+AGRH's [expense ratio](/expense-ratio/) is materially higher than a passive, unhedged Aggregate ETF like AGG or BND, reflecting both the complexity of maintaining the hedge and the active management required. The spread between the fund's price and its underlying [net asset value](/net-asset-value/) is generally tight for a product with this complexity, and daily volume on the [NYSE ARCA](/nyse-arca/) is adequate for most institutional traders.
 
 The fund distributes income from [coupon payments](/coupon-payment/) on the underlying bonds, making it income-producing. Its total return combines the income from the bond portfolio with the price appreciation or [depreciation](/depreciation/) of the fund's share price, which reflects both the underlying bonds and the effectiveness of the hedge.
 

@@ -49,13 +49,13 @@ GIVE's board and management will allocate capital based on opportunities. If the
 
 GIVE likely issued [employee stock options](/employee-stock-options/) or [restricted stock units](/restricted-stock-units/) (RSUs) as part of compensation, a common practice in technology firms. Options and RSUs create incentive alignment—employees benefit financially if the company's stock price rises—but also create a dilution overhang. The fully diluted share count (shares outstanding plus all in-the-money options and RSUs) exceeds the basic count, affecting [earnings per share](/earnings-per-share/) calculations and equity value. The [10-K](/10-k/) discloses all option and restricted-stock plans and the total shares reserved for issuance under them, providing a sense of dilution risk.
 
-Senior executives may also negotiate retention bonuses, equity grants, or change-of-control payments. These are disclosed in proxy statements and affect the true cost of management and the company's capital discipline.
+Senior executives may also negotiate retention bonuses, equity grants, or change-of-control payments. These are disclosed in [proxy statements](/proxy-statement/) and affect the true cost of management and the company's capital discipline.
 
 ## Acquisition Financing and Inorganic Growth
 
 If GIVE pursues acquisitions of other fintech firms or financial software providers, the company may issue equity or debt. An acquisition funded with stock dilutes existing shareholders but avoids financial leverage. An acquisition funded with debt increases [interest expense](/operating-margin/) but preserves equity. GIVE's integration success—whether it can rationalize duplicate functions, consolidate product roadmaps, and retain key customers—determines whether the acquisition creates shareholder value or destroys it.
 
-The [10-K](/10-k/) lists all significant acquisitions and material transactions, along with purchase-price allocations and any earnout or contingent payment obligations. These details illuminate management's M&A strategy and execution risk.
+The [10-K](/10-k/) lists all significant acquisitions and material transactions, along with purchase-price allocations and any earnout or contingent payment obligations. These details illuminate management's M&A strategy and [execution risk](/execution-risk/).
 
 ---
 

@@ -45,7 +45,7 @@ BDCs are also permitted to borrow money — they often operate with [leverage ra
 
 NewtekOne's scale is modest relative to mega-cap alternatives like Ares or Apollo, but that has an advantage: a smaller manager can move faster, take larger positions relative to total assets in individual deals, and avoid the portfolio-construction constraints that come from deploying hundreds of billions. The disadvantage is equally real: higher operating costs per dollar invested and less bargaining power with large borrowers. The company's origination capabilities depend heavily on its relationship network and investment team, which is harder to scale than a rules-based quantitative strategy.
 
-The company also operates a small insurance business and professional services operation (scheduling and billing software for health care and professional services) that generates recurring revenue and offsets some of the cyclicality of the lending business. These non-core operations have modest scale but provide a [diversification](/diversification/) benefit and cash generation independent of credit cycles.
+The company also operates a small insurance business and professional services operation (scheduling and billing software for health care and professional services) that generates recurring revenue and offsets some of the cyclicality of the lending business. These non-core operations have modest scale but provide a [diversification](/diversification/) benefit and cash generation independent of [credit cycles](/credit-cycle/).
 
 ## Evaluating NewtekOne as an investment
 

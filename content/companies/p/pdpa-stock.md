@@ -18,7 +18,7 @@ handwritten: true
 
 The mechanics are straightforward: Pearl Diver either originates credit directly to end borrowers or purchases portfolios of existing credit from other lenders. The company earns revenue from the spread between the cost of its funding and the [interest rate](/interest-rate/) it charges borrowers, plus any fees (origination fees, annual fees, late fees). The risk is that borrowers default, leaving Pearl Diver with an uncollectable loan and a loss. The profitability depends on how accurately the company predicts defaults and how well it prices its loans to cover losses plus operating costs plus a margin.
 
-The credit cycle is long and unforgiving. A loan issued today generates revenue over years, but default risk only becomes apparent over time. A credit company must hold capital reserves for expected losses, mark troubled loans, and disclose its loss rates and loan-loss reserves to investors and regulators. A sudden economic downturn can render Pearl Diver's credit models obsolete, spiking [default rates](/default-rate/) and forcing writedowns.
+The [credit cycle](/credit-cycle/) is long and unforgiving. A loan issued today generates revenue over years, but default risk only becomes apparent over time. A credit company must hold capital reserves for expected losses, mark troubled loans, and disclose its loss rates and loan-loss reserves to investors and regulators. A sudden economic downturn can render Pearl Diver's credit models obsolete, spiking [default rates](/default-rate/) and forcing writedowns.
 
 ## Funding and leverage
 

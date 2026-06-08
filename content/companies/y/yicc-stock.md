@@ -45,6 +45,6 @@ SPAC returns have been notoriously uneven. Early vintages (2015–2020) often ou
 
 ## Research and Due Diligence
 
-Investors interested in tracking Yorkville should monitor SEC filings for updates on the deal-hunting process. A current report (8-K) will announce any material agreement to acquire a target; a proxy statement (DEFM14A) will precede the shareholder vote on any proposed merger. These documents will contain detailed financial projections, risk disclosures, and valuation rationale—the essential roadmap for investors evaluating whether to redeem or hold through the combination.
+Investors interested in tracking Yorkville should monitor SEC filings for updates on the deal-hunting process. A current report (8-K) will announce any material agreement to acquire a target; a [proxy statement](/proxy-statement/) (DEFM14A) will precede the shareholder vote on any proposed merger. These documents will contain detailed financial projections, risk disclosures, and valuation rationale—the essential roadmap for investors evaluating whether to redeem or hold through the combination.
 
 The company's trust account balance and remaining time window are also worth tracking; a dwindling deadline or declining capital base can create pressure to close a deal, potentially weakening Yorkville's negotiating position. Understanding sponsor interests and past deal experience can offer insight into management quality and deal selection discipline.

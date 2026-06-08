@@ -4,7 +4,7 @@ description: "Chinese miner of molybdenum, tungsten, and copper with vertically 
 keywords: ["molybdenum", "tungsten", "mining", "China", "primary metals", "commodities"]
 ---
 
-*From a 1997 founding in Luoyang, central China, **China Molybdenum Co., Ltd.** (ticker **CMCLF**) grew into one of the world's largest primary molybdenum producers by pursuing rapid vertical integration—acquiring tungsten and copper assets across China and Southeast Asia, building refineries and smelters in parallel with its mines, and positioning itself not merely as a digger of ore but as a processor of finished concentrates. That integration strategy, paired with China's industrial demand and the company's hunger for international reserves, shaped what became a multi-billion-dollar materials supplier serving steelmakers and specialty manufacturers worldwide.*
+*From a 1997 founding in Luoyang, central China, **China Molybdenum Co., Ltd.** (ticker **CMCLF**) grew into one of the world's largest primary molybdenum producers by pursuing rapid vertical integration—acquiring tungsten and copper assets across China and Southeast Asia, building refineries and smelters in parallel with its mines, and positioning itself not merely as a digger of ore but as a processor of finished concentrates. That integration strategy, paired with China's industrial demand and the company's hunger for [international reserves](/international-reserves/), shaped what became a multi-billion-dollar materials supplier serving steelmakers and specialty manufacturers worldwide.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CMCLF</td></tr>

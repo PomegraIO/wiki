@@ -59,8 +59,8 @@ AGNC competes in a commodity market. Success depends on good execution, keeping 
 
 ## How do I research this company as an investment?
 
-Start with the 10-K filing (SEC CIK 0001423689) and read the sections on the portfolio composition, leverage, and interest rate sensitivity. The "Item 1A: Risk Factors" is especially important. Review the most recent quarterly earnings release to check the book value per share and any management commentary on spreads and prepayment.
+Start with the 10-K filing (SEC CIK 0001423689) and read the sections on the portfolio composition, leverage, and interest rate sensitivity. The "Item 1A: Risk Factors" is especially important. Review the most recent quarterly earnings release to check the [book value per share](/book-value-per-share/) and any management commentary on spreads and prepayment.
 
-Track two daily markers. The spread between 10-year mortgage rates and the [Federal Funds rate](/federal-funds-rate/) (a proxy for AGNC's net interest margin). The more this spread widens, the more AGNC earns; the more it narrows, the less profitable the company becomes. And the mortgage refinancing index—when it is elevated, prepayment risk rises and AGNC's reinvestment problem becomes acute.
+Track two daily markers. The spread between 10-year mortgage rates and the [Federal Funds rate](/federal-funds-rate/) (a proxy for AGNC's net interest margin). The more this spread widens, the more AGNC earns; the more it narrows, the less profitable the company becomes. And the [mortgage refinancing](/mortgage-refinancing/) index—when it is elevated, prepayment risk rises and AGNC's reinvestment problem becomes acute.
 
 Finally, listen to or read the quarterly earnings call. Management provides color on the mortgage market, the funding environment, and any changes in leverage or positioning. Remember that AGNC is a market play masquerading as a business. Understanding the interest rate environment and repo market is more important than understanding the company's management or operations.

@@ -35,7 +35,7 @@ The company operates as a conventional C-corporation and also holds interests in
 
 Northern Oil & Gas is one of the larger independent operators in the Bakken formation but smaller than the true majors like ExxonMobil or [Chevron](/cvx-stock/). The company holds acreage that allows it to drill and develop producing wells at a reasonable cost per barrel. The Bakken's geology and established infrastructure make it one of the most economic shale plays in North America — wells can be brought online faster and at lower cost than in some other unconventional basins.
 
-The company's strategy revolves around holding and developing its acreage position, managing the drill-and-complete cadence to match cash flow and commodity prices, and participating in asset swaps with neighbors to consolidate holdings and reduce operating costs. Like other Bakken producers, NOG faces the ever-present challenge of managing decline — wells decline in production over time, so the company must continue drilling to maintain or grow overall output.
+The company's strategy revolves around holding and developing its acreage position, managing the drill-and-complete cadence to match cash flow and commodity prices, and participating in [asset swaps](/asset-swap/) with neighbors to consolidate holdings and reduce operating costs. Like other Bakken producers, NOG faces the ever-present challenge of managing decline — wells decline in production over time, so the company must continue drilling to maintain or grow overall output.
 
 ## Capital allocation and cash return
 

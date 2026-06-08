@@ -28,7 +28,7 @@ The portfolio is diversified across industries and borrowers. Stellus tends to f
 
 ## Capital structure and leverage
 
-Like most BDCs, Stellus finances its investments through a mix of equity capital and [leveraged-buyout](/wiki/leveraged-buyout/) debt. The company raises capital via public equity offerings to its shareholders, then uses that equity cushion to issue [bonds](/bond/) or secure bank credit facilities. The [leverage ratio](/leverage-ratio-forex/) is capped by regulation at 1:1 (one dollar of debt per dollar of equity) in the strictest interpretation, though Stellus may employ [reverse repurchase agreements](/reverse-repo/) and other structures that allow it to approach or manage leverage conservatively.
+Like most BDCs, Stellus finances its investments through a mix of equity capital and [leveraged-buyout](/wiki/leveraged-buyout/) debt. The company raises capital via public equity offerings to its shareholders, then uses that [equity cushion](/equity-cushion/) to issue [bonds](/bond/) or secure bank credit facilities. The [leverage ratio](/leverage-ratio-forex/) is capped by regulation at 1:1 (one dollar of debt per dollar of equity) in the strictest interpretation, though Stellus may employ [reverse repurchase agreements](/reverse-repo/) and other structures that allow it to approach or manage leverage conservatively.
 
 Leverage amplifies both returns and risks. When a BDC borrows at, say, 5% to invest in loans yielding 8-10%, the spread flows to equity holders. But if loan defaults spike or interest rates rise faster than Stellus can reprice its portfolio, compressed spreads and rising financing costs erode shareholder returns. During periods of credit stress ([recession](/recession/), financial crisis), BDCs often face valuation pressure not just from loan losses but from the market repricing the risk of the leverage itself.
 
@@ -48,7 +48,7 @@ For tax purposes, distributions from a BDC are often classified as ordinary inco
 
 The primary risk is credit loss. When a portfolio company defaults or its value impairs, Stellus must mark it down, reducing net asset value and potentially forcing dividend cuts. Economic downturns, rapid interest-rate spikes, and sector-specific disruptions all threaten borrower cash flows. A recession typically sees loan [default rates](/default-rate/) rise to 5-10%, eroding BDC returns substantially.
 
-Leverage amplifies losses. In a stress scenario, borrowed funds still demand repayment even as portfolio assets decline, squeezing the equity base. Some BDCs have had to cut or suspend dividends and conduct dilutive equity raises during credit cycles.
+Leverage amplifies losses. In a stress scenario, borrowed funds still demand repayment even as portfolio assets decline, squeezing the equity base. Some BDCs have had to cut or suspend dividends and conduct dilutive equity raises during [credit cycles](/credit-cycle/).
 
 [Interest-rate risk](/interest-rate-risk/) cuts both ways. Rising rates hurt existing floating-rate loans if credit spreads widen (borrowers become less attractive); they also benefit future originations that can be made at higher spreads. The repricing timeline matters: if rates spike but Stellus' debt maturity extends out several years, the financing cost advantage persists.
 
@@ -66,5 +66,5 @@ Monitor credit metrics: the weighted average yield of the portfolio, default rat
 
 Watch the [fixed-income](/wiki/fixed-income-fund-strategy/) market. When yields on middle-market loans rise sharply, origination becomes more competitive and attractive; when they compress, deal quality often deteriorates as BDCs stretch to maintain yields. Similarly, movements in the cost of leverage (bank credit spreads, bond yields) directly affect Stellus' financing economics.
 
-Finally, review the annual proxy statement and annual report for qualitative commentary on market conditions, portfolio performance, and strategic direction. The management team's tone and disclosures often signal confidence or caution about the near-term outlook.
+Finally, review the annual [proxy statement](/proxy-statement/) and annual report for qualitative commentary on market conditions, portfolio performance, and strategic direction. The management team's tone and disclosures often signal confidence or caution about the near-term outlook.
 

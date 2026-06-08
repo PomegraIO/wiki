@@ -12,7 +12,7 @@ handwritten: true
 
 ## The instrument
 
-TSUI is an exchange-traded fund offered by 21Shares, a Swiss cryptocurrency asset manager and one of the earliest builders of crypto-focused ETFs. The fund uses derivatives — primarily [futures contracts](/futures-contract/) — to track the price of the Sui blockchain's native token, SUI, without holding it directly. Like most cryptocurrency ETFs, TSUI allows investment accounts that cannot hold coins outright (IRAs, traditional brokerage accounts regulated under standard securities rules) to gain price exposure to Sui. The fund trades on [NASDAQ](/nasdaq/) under the ticker TSUI.
+TSUI is an exchange-traded fund offered by 21Shares, a Swiss cryptocurrency asset manager and one of the earliest builders of crypto-focused ETFs. The fund uses derivatives — primarily [futures contracts](/futures-contract/) — to track the price of the Sui blockchain's native token, SUI, without holding it directly. Like most [cryptocurrency ETFs](/cryptocurrency-etf/), TSUI allows investment accounts that cannot hold coins outright (IRAs, traditional brokerage accounts regulated under standard securities rules) to gain price exposure to Sui. The fund trades on [NASDAQ](/nasdaq/) under the ticker TSUI.
 
 ## The blockchain itself
 

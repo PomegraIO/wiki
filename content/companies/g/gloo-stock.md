@@ -49,7 +49,7 @@ Expansion revenue—upsell and cross-sell to existing customers—offsets churn 
 
 Most SaaS companies burn cash in their early growth phase because spending on R&D and S&M exceeds revenue. The [balance-sheet](/balance-sheet/) will show accumulated deficit (cumulative losses since inception) and remaining cash. The [10-K](/10-k/) MD&A should articulate the company's path to profitability: whether it is already profitable, burning cash at a manageable rate with clear unit economics, or hemorrhaging cash without a clear path to breakeven.
 
-[Free-cash-flow](/free-cash-flow/) is often more meaningful than net income in SaaS because subscription revenue is recognized upfront but the related cash may arrive over a multi-year contract period (deferred revenue). Analysts should adjust net income for working capital changes and [depreciation](/depreciation/)/[amortization](/amortization/) to estimate true cash burn or generation.
+[Free-cash-flow](/free-cash-flow/) is often more meaningful than net income in SaaS because subscription revenue is recognized upfront but the related cash may arrive over a multi-year contract period ([deferred revenue](/deferred-revenue/)). Analysts should adjust net income for working capital changes and [depreciation](/depreciation/)/[amortization](/amortization/) to estimate true cash burn or generation.
 
 ## Customer Mix and Concentration Risk
 

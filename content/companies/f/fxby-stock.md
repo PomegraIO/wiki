@@ -50,7 +50,7 @@ The parent company monitors these metrics and pushes subsidiaries to optimize wo
 
 ## Capital Allocation and Acquisition Strategy
 
-Foxby's corporate strategy depends on identifying acquisition targets—smaller operating companies that can be bought at reasonable prices and integrated into the portfolio. This requires deal-making capability, due diligence, and post-acquisition management. Successful holding companies are acquisition-savvy; they identify assets trading below [intrinsic value](/intrinsic-value/), buy them, improve operations or trim costs, and realize upside.
+Foxby's corporate strategy depends on identifying acquisition targets—smaller operating companies that can be bought at reasonable prices and integrated into the portfolio. This requires deal-making capability, [due diligence](/due-diligence/), and post-acquisition management. Successful holding companies are acquisition-savvy; they identify assets trading below [intrinsic value](/intrinsic-value/), buy them, improve operations or trim costs, and realize upside.
 
 Foxby's scale limits the deals it can win. A megacap conglomerate can pursue billion-dollar [acquisitions](/acquisition/); Foxby competes in a lower tier where targets are regional manufacturers or distributors with $20–100 million in revenue. These companies often have growth constraints or family-business succession issues that motivate sellers. Foxby offers capital, professional management, and a path to scale through consolidation with peer subsidiaries.
 

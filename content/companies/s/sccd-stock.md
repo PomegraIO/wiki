@@ -28,7 +28,7 @@ Sachem Capital's common equity (traded as SCCD on OTC markets) represents owners
 
 ## The lending business model
 
-Sachem's core business is straightforward: lend to real-estate developers at high [interest rates](/interest-rate/), backed by the property itself. A typical loan runs one to three years. Interest rates range from 12 to 15 percent or higher, reflecting the elevated risk and the short duration. When the borrower sells the property or secures permanent financing (a traditional mortgage from a bank), the bridge loan gets paid off.
+Sachem's core business is straightforward: lend to real-estate developers at high [interest rates](/interest-rate/), backed by the property itself. A typical loan runs one to three years. Interest rates range from 12 to 15 percent or higher, reflecting the elevated risk and the short duration. When the borrower sells the property or secures permanent financing (a traditional mortgage from a bank), the [bridge loan](/bridge-loan-real-estate/) gets paid off.
 
 The economics sound attractive—double-digit yield on a real-asset-backed loan. But execution and the real-estate cycle matter enormously. Sachem must originate loans at rates that compensate for defaults and losses, fund those loans at a reasonable cost, and manage the portfolio as borrowers hit trouble or the market shifts.
 

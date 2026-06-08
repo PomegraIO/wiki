@@ -45,7 +45,7 @@ The third input examines financial quality. The algorithm assesses earnings cons
 
 Unlike a static index, HNDL rebalances each month. The methodology ranks all eligible holdings on a composite score reflecting yield, valuation, and quality. The portfolio is then divided into seven tiers, each tier receiving a predetermined weight target. Stocks climbing in the score move to higher-weighted tiers; those declining move to lower-weighted tiers. This monthly refresh prevents the portfolio from aging and adapts holdings to changing fundamentals without requiring ad hoc stock-picking decisions.
 
-The monthly cycle creates inherent turnover — positions are shifted each month as ranks change — but the systematic, rules-based approach limits idiosyncratic trading. An investor holding HNDL should expect modest but consistent rebalancing activity, which generates trading costs and potential short-term capital gains distributions.
+The monthly cycle creates inherent turnover — positions are shifted each month as ranks change — but the systematic, rules-based approach limits idiosyncratic trading. An investor holding HNDL should expect modest but consistent rebalancing activity, which generates trading costs and potential short-term [capital gains distributions](/capital-gains-distribution/).
 
 ## Holdings composition and sector concentration
 

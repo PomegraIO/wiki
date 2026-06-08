@@ -1,0 +1,25 @@
+---
+title: "Rayliant Wilshire NxtGen Emerging Markets Equity ETF (RWEM)"
+description: "An actively managed emerging-markets ETF that combines factor-based selection (quality, value, momentum) with non-factor screens to build a concentrated emerging-markets portfolio."
+keywords:
+  - emerging markets
+  - actively managed ETF
+  - factor-based investing
+  - quality value momentum
+  - Rayliant Global Advisors
+handwritten: true
+---
+
+*The **Rayliant Wilshire NxtGen Emerging Markets [Equity ETF](/equity-etf/)** ([NASDAQ](/nasdaq/): RWEM) is an [actively managed fund](/actively-managed-fund/) that holds emerging-market equities selected through a combination of quantitative factor screening and fundamental judgment, aiming to capture growth in emerging economies while mitigating the volatility and valuation risks that characterize frontier equity markets.*
+
+Emerging markets have long posed a dilemma for equity investors: the potential for growth far exceeds that of developed economies, where most capital is already allocated and most companies are mature. Yet emerging economies are also volatile, less liquid, and prone to currency shocks and political surprises that can devastate a portfolio overnight. Most investors in emerging markets use index ETFs that are cheap and transparent but entirely agnostic about which stocks they hold — they simply own the largest companies in the largest emerging economies regardless of valuation or quality.
+
+Rayliant Global Advisors, the fund's sponsor, was founded by a team that previously worked at Factor Research and other [quantitative investing](/quantitative-investing/) shops. Their philosophy is that emerging markets are particularly mispriced because they receive less analyst attention and less institutional ownership than developed markets, creating an opportunity for disciplined, factor-based stock selection to add value. The Rayliant Wilshire NxtGen Emerging Markets Equity ETF, which launched in 2020, is their bet that a combination of three quantitative factors — quality (companies with strong [balance sheets](/balance-sheet/) and high returns on capital), value (stocks trading at low prices relative to fundamentals), and momentum (stocks that have been rising recently) — can identify emerging-market companies more likely to outperform.
+
+The fund does not stop at factor scoring. Rayliant applies additional non-factor screens: liquidity requirements (the fund needs to be able to trade its positions without moving markets), geographic [diversification](/diversification/) (avoiding overconcentration in China), and sector balance. The result is a concentrated but not micro-cap portfolio of roughly 50–70 holdings across China, India, Brazil, South Korea, and other major emerging economies. The concentration is intentional — Rayliant believes that factors identify genuine mispricings, and those mispricings compound across a smaller number of carefully chosen stocks.
+
+The appeal of this approach is strongest in environments where emerging markets have sold off and valuations have become genuinely cheap relative to growth prospects. When value factors light up and emerging-market equities are out of favor with Western institutional investors, Rayliant's screens can find overlooked companies with strong fundamentals at attractive entry points. Momentum screens help the fund avoid catching the falling knife of a company in structural decline. The combination of factors is meant to work across different market regimes — when growth dominates, momentum should help; when value dominates, the value and quality screens should shine.
+
+The risk, however, is that factor-based strategies can underperform for years in markets that reward the opposite characteristics. If growth-at-any-price dominates and the market has decided that emerging-market cheap is cheap for a reason, Rayliant's value and quality screens become an anchor. Additionally, emerging markets are subject to currency shocks — a [Brazilian real](/brazilian-real/) or [Indian rupee](/indian-rupee/) collapse can decimate returns even if underlying stocks hold up. The fund also faces the persistent emerging-market risk that a single country's political upheaval or economic crisis can crater a meaningful slice of the portfolio.
+
+The deeper risk is the one that applies to all factor-based emerging-markets investing: the factors have been identified by looking at historical data, and there is no guarantee they will work in the future. The academic evidence that value and quality outperform is strongest for developed markets; emerging markets offer less historical data and more structural breaks. A reader should examine Rayliant's track record before RWEM's launch date — the fund's manager was running strategy at other firms, and that history is the only real test of whether the approach works. The prospectus will describe the factor definitions, the non-factor screens, and the annual return data net of fees. Comparing RWEM's returns and volatility to a simple emerging-markets index ETF over a full [market cycle](/market-cycle/) — bull, bear, and recovery — tells the true story.

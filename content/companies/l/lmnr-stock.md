@@ -21,7 +21,7 @@ To evaluate Limoneira as an investment research target, start with the basic uni
 
 Yield is a function of: acreage under cultivation, age and productivity of trees (younger trees produce less; old trees decline), weather (frost, drought, excessive rain), pest pressure (citrus greening disease, brown rot), and irrigation availability. Price is set by global citrus markets, where California lemons compete with imports from Argentina, South Africa, Spain, and Mexico.
 
-An analyst should examine Limoneira's [gross-profit-margin](/gross-profit-margin/) by crop year: what percentage of revenue survives after cogs (harvesting, packing, cold storage, transportation)? In commodity agriculture, margins compress to 15–30% in competitive years and expand during supply shortages. File the [10-k](/10-k/) and trace gross margin over a 5–10 year period: is it stable, trending down, or volatile? Stable high margins suggest pricing power or superior operational efficiency; volatile or declining margins suggest commodity-price exposure and limited differentiation.
+An analyst should examine Limoneira's [gross-profit-margin](/gross-profit-margin/) by crop year: what percentage of revenue survives after cogs (harvesting, packing, [cold storage](/cold-storage-crypto/), transportation)? In commodity agriculture, margins compress to 15–30% in competitive years and expand during supply shortages. File the [10-k](/10-k/) and trace gross margin over a 5–10 year period: is it stable, trending down, or volatile? Stable high margins suggest pricing power or superior operational efficiency; volatile or declining margins suggest commodity-price exposure and limited differentiation.
 
 ## Land Value and Balance Sheet Asset Base
 

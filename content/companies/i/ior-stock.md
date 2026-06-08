@@ -25,7 +25,7 @@ IOR's properties are leased on a "triple net" (NNN) basis: the tenant pays base 
 
 ## Leverage Strategy: Modest Debt for Yield Amplification
 
-IOR typically maintains loan-to-value ratios in the mid-50s range, meaning roughly 55% of portfolio value is financed with debt and 45% with equity. This moderate leverage amplifies yields: debt is cheaper than equity, so borrowing at 4–6% fixed and earning 6–8% on the portfolio increases the return to shareholders. However, leverage also introduces inflexibility. If a tenant defaults or a [recession](/recession/) pressures renewals, the company cannot unilaterally reduce debt service; fixed obligations must be met. IOR's dividend safety therefore rests on tenant credit quality and lease-term length.
+IOR typically maintains [loan-to-value ratios](/loan-to-value-ratio/) in the mid-50s range, meaning roughly 55% of portfolio value is financed with debt and 45% with equity. This moderate leverage amplifies yields: debt is cheaper than equity, so borrowing at 4–6% fixed and earning 6–8% on the portfolio increases the return to shareholders. However, leverage also introduces inflexibility. If a tenant defaults or a [recession](/recession/) pressures renewals, the company cannot unilaterally reduce debt service; fixed obligations must be met. IOR's dividend safety therefore rests on tenant credit quality and lease-term length.
 
 ## Capital-Raise Cycles and Portfolio Growth
 
@@ -33,11 +33,11 @@ Unlike an operating company that invests capex from cash flow, a REIT funds grow
 
 ## Debt Maturity Ladder and Refinancing Risk
 
-IOR's debt portfolio is laddered across multiple maturity dates, meaning [tranches](/tranche/) of loans come due for refinancing each year. When one matures, the company must refinance at the then-prevailing interest rate. This introduces [refinancing risk](/refinancing-risk/): if rates have spiked, the new coupon is higher, and dividend coverage deteriorates. Conversely, if rates have fallen, refinancing locks in lower costs and improves the spread. IOR publishes its debt schedule in filings (Form 10-K), allowing [securities](/common-stock/) analysts to model future refinancing impacts. The company may also opportunistically refinance early if rates are favorable, paying a prepayment penalty but locking in lower costs.
+IOR's debt portfolio is laddered across multiple maturity dates, meaning [tranches](/tranche/) of loans come due for refinancing each year. When one matures, the company must refinance at the then-prevailing interest rate. This introduces [refinancing risk](/refinancing-risk/): if rates have spiked, the new coupon is higher, and dividend coverage deteriorates. Conversely, if rates have fallen, refinancing locks in lower costs and improves the spread. IOR publishes its debt schedule in filings (Form 10-K), allowing [securities](/common-stock/) analysts to model future refinancing impacts. The company may also opportunistically refinance early if rates are favorable, paying a [prepayment penalty](/prepayment-penalty/) but locking in lower costs.
 
 ## Dividend Coverage and Adjusted EBITDA
 
-Rather than [earnings-per-share](/earnings-per-share/), analysts tracking REITs focus on Funds From Operations (FFO) and adjusted earnings before interest, taxes, [depreciation](/depreciation/), and [amortization](/amortization/) (adjusted [EBITDA](/ebitda/)). These metrics strip out non-cash items and offer a clearer picture of cash available for distribution. IOR's dividend is covered when FFO and adjusted EBITDA comfortably exceed distributions; if these metrics decline, the dividend is at risk. Quarterly earnings reports detail coverage ratios, alerting the market to dividend sustainability.
+Rather than [earnings-per-share](/earnings-per-share/), analysts tracking REITs focus on [Funds From Operations](/funds-from-operations/) (FFO) and adjusted earnings before interest, taxes, [depreciation](/depreciation/), and [amortization](/amortization/) (adjusted [EBITDA](/ebitda/)). These metrics strip out non-cash items and offer a clearer picture of cash available for distribution. IOR's dividend is covered when FFO and adjusted EBITDA comfortably exceed distributions; if these metrics decline, the dividend is at risk. Quarterly earnings reports detail coverage ratios, alerting the market to dividend sustainability.
 
 ## Tenant Diversification and Concentration Risk
 

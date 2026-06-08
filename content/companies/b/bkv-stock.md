@@ -36,7 +36,7 @@ Operating a producing field—maintaining wells, treating produced fluids, opera
 
 ## Regulation and Environmental Compliance
 
-Oil and gas operators must comply with federal and state environmental regulations covering air emissions, water discharge, waste disposal, and land restoration. The EPA and state environmental agencies impose requirements; violations can trigger fines and remediation costs. In the Appalachian Basin, Pennsylvania and Ohio have state regulatory regimes governing drilling; West Virginia has its own. Companies must also manage relationships with local communities, environmental groups, and landowners. The 10-K discloses material environmental liabilities, pending litigation, and any regulatory actions. A company facing significant environmental cleanup costs or operating restrictions faces financial and reputational risk.
+Oil and gas operators must comply with federal and state environmental regulations covering air emissions, water discharge, waste disposal, and land restoration. The EPA and state environmental agencies impose requirements; violations can trigger fines and remediation costs. In the Appalachian Basin, Pennsylvania and Ohio have state regulatory regimes governing drilling; West Virginia has its own. Companies must also manage relationships with local communities, environmental groups, and landowners. The 10-K discloses material environmental liabilities, pending litigation, and any regulatory actions. A company facing significant environmental cleanup costs or operating restrictions faces financial and [reputational risk](/reputational-risk/).
 
 ## Debt and Capital Structure
 

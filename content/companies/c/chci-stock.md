@@ -48,7 +48,7 @@ Builders often retain some obligation for community maintenance and homeowner wa
 
 ## Evaluating the Risk
 
-For any investor, Comstock requires a clear view of the housing cycle. If you believe mortgage rates will stay low and household formation will accelerate, the company becomes more attractive. If you are concerned about rate volatility or expect weakening demand, Comstock's small scale and regional concentration make it a riskier proposition than national peers. The [10-K](/10-k/) should clarify the company's current order backlog (a leading indicator of near-term revenue), land inventory, and [inventory turnover](/inventory-turnover/). Management commentary on pricing power and cost inflation are also worth reading skeptically—builders tend to be upbeat when conditions are reasonable and surprisingly quiet when headwinds are building.
+For any investor, Comstock requires a clear view of the housing cycle. If you believe mortgage rates will stay low and household formation will accelerate, the company becomes more attractive. If you are concerned about rate volatility or expect weakening demand, Comstock's small scale and regional concentration make it a riskier proposition than national peers. The [10-K](/10-k/) should clarify the company's current order backlog (a [leading indicator](/leading-indicator/) of near-term revenue), land inventory, and [inventory turnover](/inventory-turnover/). Management commentary on pricing power and cost inflation are also worth reading skeptically—builders tend to be upbeat when conditions are reasonable and surprisingly quiet when headwinds are building.
 
 <div class="wiki-seealso">
 ### Closely related

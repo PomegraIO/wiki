@@ -41,7 +41,7 @@ The company's only stated purpose before completing a business combination was t
 
 With an outside date of June 16, 2027 (two years from IPO), Blue Acquisition was required to either complete the Blockfusion transaction or wind down and return capital. The transaction required shareholder approval — public shareholders could vote to reject the deal and redeem their shares at [net asset value](/net-asset-value/), or approve it and remain invested in the merged company.
 
-Blockfusion's business model, management team, market opportunity, and financial projections were to be disclosed in Blue Acquisition's proxy statement (PREM14A or DEFM14A), filed with the [Securities and Exchange Commission](/securities-and-exchange-commission/) before the shareholder vote. That document contains the core information an investor would need to evaluate the deal — the strategic rationale, financial forecasts, pro forma capitalization, and risk factors.
+Blockfusion's business model, management team, market opportunity, and financial projections were to be disclosed in Blue Acquisition's [proxy statement](/proxy-statement/) (PREM14A or DEFM14A), filed with the [Securities and Exchange Commission](/securities-and-exchange-commission/) before the shareholder vote. That document contains the core information an investor would need to evaluate the deal — the strategic rationale, financial forecasts, pro forma capitalization, and risk factors.
 
 ## Research considerations
 

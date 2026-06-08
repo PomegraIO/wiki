@@ -57,7 +57,7 @@ This is the standard path for biotech companies at the development stage. They s
 
 Clinical trial failure is the most obvious risk. If THCVHS or other cannabinoid candidates fail to meet efficacy or safety endpoints in trials, the entire value proposition shifts. A failed Phase 2 trial can cost a biotech company dearly in [market capitalization](/market-capitalization/) and momentum.
 
-The regulatory risk is substantial but manageable. Cannabis-derived drugs remain a sensitive subject in some jurisdictions, but the FDA has shown willingness to approve cannabis-based medications where the science supports it. Skye's approach — engineering synthetic molecules rather than using the plant directly — reduces legal risk compared to companies trying to commercialize cannabis flower or extracts.
+The regulatory risk is substantial but manageable. Cannabis-derived drugs remain a sensitive subject in some jurisdictions, but the FDA has shown willingness to approve cannabis-based medications where the science supports it. Skye's approach — engineering synthetic molecules rather than using the plant directly — reduces [legal risk](/legal-risk/) compared to companies trying to commercialize cannabis flower or extracts.
 
 The capital risk is that the company will need to raise additional funding to advance its programs, and if the stock price falls, new raises become dilutive. Biotech companies in early stages often burn cash faster than expected if trials require larger patient populations or longer observation periods.
 

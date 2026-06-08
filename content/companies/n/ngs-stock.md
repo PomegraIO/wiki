@@ -42,7 +42,7 @@ Like many equipment-intensive service businesses, NGS carries leverage to financ
 
 ## Competitive Position
 
-NGS competes against other independent compression-services providers, integrated oilfield-services giants, and equipment manufacturers who offer rental programs directly. No single company dominates; it is a fragmented market. Competitive edges come from fleet size and condition, geographic presence, service quality, and customer relationships. NGS is large enough to serve major operators but not so large that it matches the breadth of a [Halliburton](/hal-stock/) or [Baker Hughes](/bkr-stock/); it is a midsize specialist.
+NGS competes against other independent compression-services providers, integrated oilfield-services giants, and equipment manufacturers who offer rental programs directly. No single company dominates; it is a [fragmented market](/fragmented-market/). Competitive edges come from fleet size and condition, geographic presence, service quality, and customer relationships. NGS is large enough to serve major operators but not so large that it matches the breadth of a [Halliburton](/hal-stock/) or [Baker Hughes](/bkr-stock/); it is a midsize specialist.
 
 ## Investment Thesis Points
 

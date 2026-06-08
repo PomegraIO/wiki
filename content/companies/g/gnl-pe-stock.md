@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Global Net Lease](/gnl-stock/) competes in the net-lease real estate sector, a corner of the property market where deals are structured with long contractual leases that shift most operating costs to tenants and generate predictable, long-dated cash flows for the owner. The company stakes its position against larger net-lease REITs by maintaining a geographic footprint that spans both North America and Europe, creating a diversified tenant base and reducing exposure to any single country's retail or property cycle.
+[Global Net Lease](/gnl-stock/) competes in the net-lease real estate sector, a corner of the property market where deals are structured with long contractual leases that shift most operating costs to tenants and generate predictable, long-dated cash flows for the owner. The company stakes its position against larger [net-lease REITs](/net-lease-reit/) by maintaining a geographic footprint that spans both North America and Europe, creating a diversified tenant base and reducing exposure to any single country's retail or property cycle.
 
 ## The net-lease playbook
 
@@ -29,13 +29,13 @@ This geographic reach, however, comes with complexity. The company must navigate
 
 Global Net Lease, like most net-lease owners, is exposed to tenant [concentration risk](/concentration-risk/). If a few large tenants represent a material slice of revenues, their downturns matter disproportionately. The portfolio has historically included retail tenants — pharmacies, discount stores, and service businesses — segments hit by the shift to e-commerce and the pandemic's acceleration of that shift. Survival in net-lease requires constant vigilance: as leases approach renewal, the landlord must ensure the tenant's business remains viable and creditworthy enough to justify renewal at market terms.
 
-The competitive pressure comes from two angles. First, other net-lease REITs compete for the same properties and tenants, driving [cap rates](/cap-rate/) down and forcing [acquisition](/acquisition/) discipline or growth starvation. Second, there is a structural headwind: as [interest rates](/interest-rate/) rise, the [discount rate](/discount-rate/) used to value long-dated lease cash flows rises, which compresses valuations. During periods of high rates, net-lease REITs trade at lower multiples of funds from operations, which makes raising capital harder and acquisitions more expensive.
+The competitive pressure comes from two angles. First, other net-lease REITs compete for the same properties and tenants, driving [cap rates](/cap-rate/) down and forcing [acquisition](/acquisition/) discipline or growth starvation. Second, there is a structural headwind: as [interest rates](/interest-rate/) rise, the [discount rate](/discount-rate/) used to value long-dated lease cash flows rises, which compresses valuations. During periods of high rates, net-lease REITs trade at lower multiples of [funds from operations](/funds-from-operations/), which makes raising capital harder and acquisitions more expensive.
 
 ## Portfolio construction and the dividend case
 
 Global Net Lease funds its [dividends](/dividend/) from the rents it collects. Because most of the cash flow is contractual and passes through to shareholders, the dividend is unusually predictable — but it is only sustainable if occupancy remains high and tenants remain solvent. The company has had to manage portfolio churn, divesting weaker properties and tenants while acquiring newer, better-positioned assets.
 
-The diversification across two continents was meant to insulate the dividend from any single market's downturn. But it also raises the bar for management: they must stay current with real estate cycles in multiple countries, spot tenant weakness early, and execute dispositions and acquisitions across borders with appropriate speed and pricing discipline.
+The diversification across two continents was meant to insulate the dividend from any single market's downturn. But it also raises the bar for management: they must stay current with [real estate cycles](/real-estate-cycle/) in multiple countries, spot tenant weakness early, and execute dispositions and acquisitions across borders with appropriate speed and pricing discipline.
 
 ## How to research Global Net Lease
 
@@ -43,4 +43,4 @@ The starting point is the company's annual 10-K filing, which details the proper
 
 Quarterly earnings calls often reveal management's thinking on acquisition pricing, dispositions in underperforming geographies, and whether the dividend remains sustainable. Analysts focus on funds from operations per share, which strips out non-cash charges and reveals the true cash generation capacity. Compare Global Net Lease's occupancy and tenant credit quality to peers like STORE Capital and Realty Income — if Global Net Lease is trading at a meaningful discount on those metrics, either the market is overly pessimistic or the company has real structural disadvantages worth understanding.
 
-The European exposure is a wildcard. In some market cycles it hedges U.S. weakness; in others it amplifies it. Monitor European interest rates and economic outlook, because they affect both the property values Global Net Lease has on the books and the valuations of its European tenants.
+The European exposure is a wildcard. In some [market cycles](/market-cycle/) it hedges U.S. weakness; in others it amplifies it. Monitor European interest rates and economic outlook, because they affect both the property values Global Net Lease has on the books and the valuations of its European tenants.

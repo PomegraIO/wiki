@@ -57,6 +57,6 @@ Some newer SPAC warrant agreements have included "make-whole" provisions that gi
 
 ## Researching GRAF-WT and SPAC warrant dynamics
 
-Prospective warrant investors should review Graf Global's SEC filings (the S-1 from the initial SPAC offering and any subsequent proxy statements announcing a merger target) to learn the warrant's [exercise price](/exercise-price/), expiration date, the number of warrants outstanding, and any make-whole provisions. They should also assess how much time remains before expiration and whether any public information exists about Graf Global's acquisition strategy or timeline.
+Prospective warrant investors should review Graf Global's SEC filings (the S-1 from the initial SPAC offering and any subsequent [proxy statements](/proxy-statement/) announcing a merger target) to learn the warrant's [exercise price](/exercise-price/), expiration date, the number of warrants outstanding, and any make-whole provisions. They should also assess how much time remains before expiration and whether any public information exists about Graf Global's acquisition strategy or timeline.
 
 The trading liquidity of GRAF-WT on the OTC Markets is another practical consideration: [bid-ask spreads](/bid-ask-spread/) may be wide, and selling a large position may not be feasible without significant price concession. Warrant investing requires active monitoring and a clear exit strategy, since time decay and deal uncertainty both work against the warrant holder.

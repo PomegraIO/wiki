@@ -25,7 +25,7 @@ The staffing component poses a structural dependency: the company must continuou
 
 The software side of the business typically carries 70–80% gross margins, while staffing operates at 20–35% due to wage costs and turnover. This mix creates a blended margin profile that is favorable compared to pure staffing agencies but less profitable than SaaS peers. The company's growth strategy has relied on acquiring smaller horizontal and vertical competitors to consolidate the fragmented $100B+ restaurant-tech and temporary-staffing markets.
 
-Acquisition integration is not trivial. Each deal brings legacy systems, different customer contracts, and sometimes redundant overhead. Execution risk is material: overpayment, failure to cross-sell modules to acquired customer bases, or loss of key personnel after close can destroy returns. i3 Verticals' [balance sheet](/balance-sheet/) reflects this — debt has grown with each acquisition wave, and the company must generate strong cash flow to service that leverage while funding organic R&D.
+Acquisition integration is not trivial. Each deal brings legacy systems, different customer contracts, and sometimes redundant overhead. [Execution risk](/execution-risk/) is material: overpayment, failure to cross-sell modules to acquired customer bases, or loss of key personnel after close can destroy returns. i3 Verticals' [balance sheet](/balance-sheet/) reflects this — debt has grown with each acquisition wave, and the company must generate strong cash flow to service that leverage while funding organic R&D.
 
 ## Customer Concentration and Economic Cyclicality
 

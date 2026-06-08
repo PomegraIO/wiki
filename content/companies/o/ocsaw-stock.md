@@ -23,7 +23,7 @@ An eye-care device succeeds or fails based on whether it actually works. A devic
 
 Once approved and on the market, clinical outcomes matter to adoption. Practitioners will not use a device if it does not deliver results; patients will not pay for a treatment if it does not help. Oculis's reputation depends on its track record of clinical success across its portfolio of products. A single major product failure—a device that proved less effective than marketed, or that caused unexpected adverse events—can damage trust and slow adoption of other products.
 
-This dependence on clinical efficacy creates an inherent tension. The company must invest heavily in research and development to validate products, but that investment is sunk cost until a product is approved and generating revenue. A company in this position must balance ambition (developing innovative new treatments) with execution risk (ensuring that the innovations actually work and can be manufactured reliably).
+This dependence on clinical efficacy creates an inherent tension. The company must invest heavily in research and development to validate products, but that investment is sunk cost until a product is approved and generating revenue. A company in this position must balance ambition (developing innovative new treatments) with [execution risk](/execution-risk/) (ensuring that the innovations actually work and can be manufactured reliably).
 
 ## Regulatory and market-access risks
 

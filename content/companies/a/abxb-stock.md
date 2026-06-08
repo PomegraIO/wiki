@@ -33,7 +33,7 @@ This liquidity arbitrage is valuable for retail investors who want exposure to c
 
 ## How the portfolio shifts as credit cycles change
 
-The composition of ABXB will drift over market cycles, and that drift tells a story about Abacus's credit views. In periods of low stress and narrow [credit spreads](/credit-spread/) (when bonds are expensive), the fund might reduce exposure and hold cash. When spreads widen and bonds become cheaper (typically during economic uncertainty), the fund may deploy more capital. Cyclical sectors like auto and chemicals may be overweighted when the firm is constructive and underweighted during downturns.
+The composition of ABXB will drift over [market cycles](/market-cycle/), and that drift tells a story about Abacus's credit views. In periods of low stress and narrow [credit spreads](/credit-spread/) (when bonds are expensive), the fund might reduce exposure and hold cash. When spreads widen and bonds become cheaper (typically during economic uncertainty), the fund may deploy more capital. Cyclical sectors like auto and chemicals may be overweighted when the firm is constructive and underweighted during downturns.
 
 The fund's fact sheet and holdings list — both usually updated on the sponsor's website — show the current composition. Reviewing these documents at intervals reveals the fund manager's changing views on credit risk and sector outlook.
 
@@ -43,7 +43,7 @@ The most immediate risk is **credit concentration**: because the fund holds fewe
 
 **[Interest-rate risk](/interest-rate-risk/)** is structural. All bond funds suffer when [interest rates](/interest-rate/) rise, because bond prices fall as yields increase. ABXB, holding investment-grade corporates of varying maturities, is exposed to this cycle like any fixed-income fund.
 
-**Spread risk** occurs when the extra yield required by the market for taking on corporate credit (versus Treasuries) widens sharply. This typically happens during [recessions](/recession/) or financial stress, precisely when investors are most afraid. A fund holding corporates will mark down in value if spreads suddenly blow out, even if the issuers themselves remain sound.
+**[Spread risk](/spread-risk/)** occurs when the extra yield required by the market for taking on corporate credit (versus Treasuries) widens sharply. This typically happens during [recessions](/recession/) or financial stress, precisely when investors are most afraid. A fund holding corporates will mark down in value if spreads suddenly blow out, even if the issuers themselves remain sound.
 
 **[Liquidity risk](/liquidity-risk/)**, though mitigated by the ETF wrapper, is still relevant. During the most extreme market stress, the corporate-bond market can become thin, [bid-ask spreads](/bid-ask-spread/) widen, and the fund's [net asset value](/net-asset-value/) may diverge from its trading price for brief periods.
 

@@ -53,7 +53,7 @@ Beginning in 2022, the [Federal Reserve](/federal-reserve/) embarked on a histor
 
 ## The company today
 
-Oxford Square in its current form is a mature [closed-end fund](/closed-end-fund/) with a diversified portfolio of secured middle-market loans and select debt and equity investments. The company has adapted its origination criteria and risk management to reflect the current interest-rate environment and credit cycle. Management has developed institutional knowledge across multiple credit cycles, and the fund has built a reputation among borrowers and deal-source professionals.
+Oxford Square in its current form is a mature [closed-end fund](/closed-end-fund/) with a diversified portfolio of secured middle-market loans and select debt and equity investments. The company has adapted its origination criteria and risk management to reflect the current interest-rate environment and [credit cycle](/credit-cycle/). Management has developed institutional knowledge across multiple credit cycles, and the fund has built a reputation among borrowers and deal-source professionals.
 
 The company continues to face the fundamental challenge confronting all credit strategies: managing the tension between generating competitive returns and protecting against credit deterioration in whatever economic environment emerges next. The value of the fund depends both on how well the underlying portfolio performs and on whether the strategic positioning remains attractive relative to competitor funds competing for the same borrower pool.
 

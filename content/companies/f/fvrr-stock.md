@@ -33,7 +33,7 @@ Separate Fiverr's cost of revenue (payment processing, hosting, fraud prevention
 
 ## Regulatory and Classification Risk
 
-Fiverr's sellers are classified as independent contractors, not employees. The 10-K should disclose jurisdictional risks—particularly in the EU, UK, and some U.S. states—where labor regulators are pushing to reclassify gig workers. If Fiverr were forced to treat sellers as employees (or to contribute to social benefits), the take rate would evaporate and the model would break. Look at what Fiverr discloses about lobbying or regulatory engagement; companies that are transparent about legal risk are usually more likely to navigate it. Also scan for mentions of payment compliance (KYC, AML): as a cross-border payment facilitator, Fiverr faces sanctions and anti-money-laundering scrutiny, particularly for sellers in sanctioned jurisdictions or buyers in high-risk categories.
+Fiverr's sellers are classified as independent contractors, not employees. The 10-K should disclose jurisdictional risks—particularly in the EU, UK, and some U.S. states—where labor regulators are pushing to reclassify gig workers. If Fiverr were forced to treat sellers as employees (or to contribute to social benefits), the take rate would evaporate and the model would break. Look at what Fiverr discloses about lobbying or regulatory engagement; companies that are transparent about [legal risk](/legal-risk/) are usually more likely to navigate it. Also scan for mentions of payment compliance (KYC, AML): as a cross-border payment facilitator, Fiverr faces sanctions and anti-money-laundering scrutiny, particularly for sellers in sanctioned jurisdictions or buyers in high-risk categories.
 
 ## Margins Under Pressure
 

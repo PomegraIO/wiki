@@ -32,7 +32,7 @@ The alternative, an open-ended mutual fund, works like most funds people encount
 
 ## What EDD holds and why it matters
 
-EDD holds bonds issued by emerging-market sovereigns and corporations in their local currencies — Mexican pesos, Brazilian reals, Thai baht, Indonesian rupiah, and dozens of others. This is the opposite of a dollar-denominated emerging-market bond fund, which buys bonds issued in [US dollars](/us-dollar/) by emerging economies. When you own EDD, you are making two simultaneous bets: one on the creditworthiness of the borrower (the government or company), and one on the value of their currency against the dollar.
+EDD holds bonds issued by emerging-market sovereigns and corporations in their local currencies — [Mexican pesos](/mexian-peso/), [Brazilian reals](/brazilian-real/), Thai baht, Indonesian rupiah, and dozens of others. This is the opposite of a dollar-denominated emerging-market bond fund, which buys bonds issued in [US dollars](/us-dollar/) by emerging economies. When you own EDD, you are making two simultaneous bets: one on the creditworthiness of the borrower (the government or company), and one on the value of their currency against the dollar.
 
 If the Mexican government issues a peso bond yielding 8 percent, and the peso strengthens against the dollar, a US investor in EDD gains on both the interest and the currency move. If the peso weakens, the currency loss offsets the interest earned. This unhedged currency exposure is both the appeal and the risk of the fund. It gives investors direct access to the yields that emerging-market borrowers offer in their home currencies — often higher than what they can borrow in dollars — but it also introduces volatility that a currency hedge would smooth out.
 

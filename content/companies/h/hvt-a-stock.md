@@ -55,4 +55,4 @@ An investor should start by reading Haverty's annual 10-K (SEC CIK 0000216085) t
 
 The quarterly earnings reports reveal traffic trends (the number of customers visiting showrooms), conversion rates (what percentage of visitors buy), and management's confidence in near-term demand. Watch commentary on inventory levels and turnover — high inventory relative to sales can signal weakness in consumer demand or poor merchandise selection. Also track the company's use of financing and working capital: if Haverty is drawing heavily on credit lines or delaying payables, it may be under cash pressure.
 
-Finally, monitor broader housing and consumer-spending data. Housing starts, existing-home sales, mortgage rates, and consumer confidence indices all feed into Haverty's business. A company can be well-run and still face headwinds if the housing market is weakening.
+Finally, monitor broader housing and consumer-spending data. [Housing starts](/housing-starts/), existing-home sales, mortgage rates, and consumer confidence indices all feed into Haverty's business. A company can be well-run and still face headwinds if the housing market is weakening.

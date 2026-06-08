@@ -35,7 +35,7 @@ Second, China's regulatory environment is unpredictable. Beijing can crack down 
 
 ## What the fund holds
 
-XCNY holds stocks from the S&P Emerging Markets ex-China Index, which is just what it sounds like: all the major publicly traded companies from fast-growing countries except China. The list includes India (the most populous country on Earth and a major software and outsourcing hub), Brazil (Latin America's largest economy), Mexico (the manufacturing heartland of North America), South Korea (electronics and semiconductors), Taiwan (essential chips and electronics), and dozens of smaller countries. The fund owns hundreds of stocks to spread risk.
+XCNY holds stocks from the S&P Emerging Markets ex-China Index, which is just what it sounds like: all the major publicly traded companies from fast-growing countries except China. The list includes India (the most populous country on Earth and a major software and outsourcing hub), Brazil (Latin America's largest economy), Mexico (the manufacturing heartland of North America), South Korea (electronics and semiconductors), Taiwan (essential chips and electronics), and dozens of smaller countries. The fund owns hundreds of stocks to [spread risk](/spread-risk/).
 
 The companies range from big banks and oil companies to telecom firms, retailers, and manufacturers. They are the household names of their own countries — companies that matter locally but that many Western investors have never heard of. XCNY essentially lets a U.S. investor own a piece of economic growth outside the developed world without needing to study individual foreign companies.
 
@@ -43,7 +43,7 @@ The companies range from big banks and oil companies to telecom firms, retailers
 
 Emerging-market economies grow faster than mature ones on average. That faster growth can translate into faster corporate earnings growth and higher stock returns over time. But it comes with trade-offs. These economies are more affected by swings in commodity prices, changes in global trade, and shifts in foreign investment. When fear rises, money flees emerging markets and rushes into safe assets like U.S. [Treasury bonds](/treasury-bond/). So XCNY's price tends to be volatile, especially in downturns.
 
-[Currency risk](/currency-risk/) matters too. XCNY holds stocks denominated in many currencies — [Indian rupees](/indian-rupee/), Brazilian reals, Mexican pesos, and so on. When those currencies weaken against the dollar, XCNY's value (measured in dollars) falls even if the underlying stocks hold their ground. That adds a layer of volatility on top of the stock risk.
+[Currency risk](/currency-risk/) matters too. XCNY holds stocks denominated in many currencies — [Indian rupees](/indian-rupee/), [Brazilian reals](/brazilian-real/), [Mexican pesos](/mexian-peso/), and so on. When those currencies weaken against the dollar, XCNY's value (measured in dollars) falls even if the underlying stocks hold their ground. That adds a layer of volatility on top of the stock risk.
 
 Geopolitical risk is another factor. Many emerging-market countries have less stable governments or legal systems than the United States. Politics, wars, or policy shifts can hit [stock markets](/stock-market/) hard. The exclusion of China removes one major source of that risk, but others remain — political changes in India, economic turmoil in Brazil, or supply-chain disruptions that affect Mexico's manufacturing base.
 

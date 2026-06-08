@@ -56,7 +56,7 @@ SQQQ trades on the NASDAQ during regular hours with tight [bid-ask spreads](/bid
 
 The real risks are threefold. First, volatility decay will erode value over time even in a falling market if you hold more than a few days. Second, if the NASDAQ-100 rallies sharply, losses compound rapidly (in the -30 percent day in the example above, that direction reverses and SQQQ holders lose). Third, there is [counterparty risk](/counterparty-risk/): SQQQ relies on derivatives counterparties and the overnight lending market to function, and in extreme market stress or [credit events](/credit-event-sovereign/), those markets can seize.
 
-A fourth risk, less obvious but critical, is gap risk: if the NASDAQ-100 gaps sharply at market open (say, overnight news causes a huge gap down), SQQQ's daily reset means it will have been recalibrated at yesterday's close prices, and the gap can create losses or gains that do not reflect the fund's intended 3× inverse relationship.
+A fourth risk, less obvious but critical, is [gap risk](/gap-risk/): if the NASDAQ-100 gaps sharply at market open (say, overnight news causes a huge gap down), SQQQ's daily reset means it will have been recalibrated at yesterday's close prices, and the gap can create losses or gains that do not reflect the fund's intended 3× inverse relationship.
 
 ## Who uses SQQQ and how
 

@@ -64,6 +64,6 @@ The bank's durability depends on keeping customers sticky — depositors who fee
 
 ## How to research Southern Missouri Bancorp
 
-Any bank's health is best assessed through its most recent quarterly 10-Q or annual 10-K filing (SEC CIK 0000916907). The key figures to watch are net interest margin (the spread between what it earns on loans and pays for deposits), the ratio of nonperforming loans to total loans (an indicator of credit stress), the loan-loss provision (how much the bank is setting aside for defaults), and capital ratios (how much equity cushion the bank holds).
+Any bank's health is best assessed through its most recent quarterly 10-Q or annual 10-K filing (SEC CIK 0000916907). The key figures to watch are net interest margin (the spread between what it earns on loans and pays for deposits), the ratio of nonperforming loans to total loans (an indicator of credit stress), the loan-loss provision (how much the bank is setting aside for defaults), and capital ratios (how much [equity cushion](/equity-cushion/) the bank holds).
 
 Earnings calls offer management color on deposit trends, loan origination, competitive pressures, and near-term outlook. For context, compare SMBC's metrics to other community banks of similar size. The broader economic trend in southwestern Missouri — employment, housing, manufacturing — is also relevant, because the bank's credit quality and growth prospects are ultimately derivatives of regional economic health.

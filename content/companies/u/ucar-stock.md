@@ -43,7 +43,7 @@ The underlying economics are under constant stress. Electricity prices fluctuate
 
 ## Why this company is under pressure
 
-Four things are making this harder than it might sound. First, capital costs. Building a competitive national network requires thousands of stations at tens of thousands of dollars each. U Power has had to raise significant equity and debt, and the cost of that capital is a real drag on returns. Some chargers break down or underperform, which means capital was sunk without recoup.
+Four things are making this harder than it might sound. [First, capital](/fcap-stock/) costs. Building a competitive national network requires thousands of stations at tens of thousands of dollars each. U Power has had to raise significant equity and debt, and the cost of that capital is a real drag on returns. Some chargers break down or underperform, which means capital was sunk without recoup.
 
 Second, competition. Other companies—including car manufacturers like [Tesla](/tsla-stock/) and Ford, traditional oil companies expanding into energy infrastructure, and other venture-backed EV-charging startups—are also building networks. This spreads available drivers and utilization across more stations, which pressures pricing and returns. The strongest position would be exclusive access to key locations, but landlords shopping for the best rates complicate that.
 

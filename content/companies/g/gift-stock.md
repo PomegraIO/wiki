@@ -36,7 +36,7 @@ The risk is that [acquisition](/acquisition/) costs exceed the lifetime value of
 
 If GIFTIFY operates as a marketplace or platform (connecting gift-givers with vendors, or facilitating gift recommendations), the company's value depends on network effects: the more vendors participate, the more selection attracts customers, and more customers attract more vendors. This is a virtuous cycle if it works, but it also creates platform risk: if vendors find alternative channels (direct to consumer, other marketplaces, retail stores), the platform hollows out. Similarly, if customers find better or cheaper alternatives, the platform loses value rapidly.
 
-GIFTIFY has no ownership of the gift products themselves (likely); it is a middleman taking a commission or margin on transactions. If the company cannot convince both sides of the market (gift-givers and gift-vendors) that using the platform is superior to direct purchase, the business collapses. This is a higher-order execution risk that extends beyond typical consumer-business challenges.
+GIFTIFY has no ownership of the gift products themselves (likely); it is a middleman taking a commission or margin on transactions. If the company cannot convince both sides of the market (gift-givers and gift-vendors) that using the platform is superior to direct purchase, the business collapses. This is a higher-order [execution risk](/execution-risk/) that extends beyond typical consumer-business challenges.
 
 ## Regulatory and Payment Risk
 
@@ -60,7 +60,7 @@ If GIFTIFY has not carved a defensible niche, the company is in a commodities ra
 
 For a consumer-digital company that is not yet profitable, the critical metric is cash runway: how many months can the company operate on its current cash balance if it stops all revenue today? The 10-K will disclose cash position and quarterly burn rate. If GIFTIFY has less than 24 months of runway and is not showing a clear path to profitability, the company faces a forced capital raise (at a dilutive valuation), a sale to a strategic buyer, or shutdown.
 
-A capital raise during a recession or a market downturn could wipe out existing shareholders' equity. GIFTIFY's incentive to raise capital before circumstances force it is strong, but any capital raise on OTC exchanges is difficult and dilutive.
+A capital raise during a recession or a market downturn could wipe out existing [shareholders' equity](/shareholders-equity/). GIFTIFY's incentive to raise capital before circumstances force it is strong, but any capital raise on OTC exchanges is difficult and dilutive.
 
 ## What to Monitor
 

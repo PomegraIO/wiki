@@ -29,7 +29,7 @@ AVMC (Avantis U.S. Mid Cap [Equity ETF](/equity-etf/)) tracks a diversified bask
 
 The fund tracks the Avantis U.S. Mid Cap Equity Index, a rules-based methodology developed by American Century. Rather than including every mid-cap stock equally or by market weight, the index starts with a broad population of mid-cap companies and applies quantitative screens to favor firms with higher profitability metrics, lower valuations, and lower financial leverage. The index is reconstituted and rebalanced systematically, so holdings change on a schedule that investors can predict. This transparency and mechanical approach reduce the fund's operational costs and make the portfolio behavior relatively stable.
 
-The mid-cap universe — typically companies with a [market capitalization](/market-capitalization/) between roughly $2 billion and $10 billion, though this range varies by index provider — sits between the large-cap companies that dominate stock indices and the small-cap realm where individual stock volatility is much higher. Mid-caps often represent businesses in an interesting phase: large enough to have proven their model, but small enough that there is room for significant growth or improvement.
+The mid-cap universe — typically companies with a [market capitalization](/market-capitalization/) between roughly $2 billion and $10 billion, though this range varies by [index provider](/index-provider/) — sits between the large-cap companies that dominate stock indices and the small-cap realm where individual stock volatility is much higher. Mid-caps often represent businesses in an interesting phase: large enough to have proven their model, but small enough that there is room for significant growth or improvement.
 
 ## Factor tilts: value and quality
 

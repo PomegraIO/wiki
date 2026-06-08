@@ -29,7 +29,7 @@ The economic viability of GYRE's portfolio ultimately rests on the FDA approval 
 
 For GYRE, each program in its pipeline represents a bet on this approval lottery, weighted by the commercial potential of the market it addresses. Ophthalmology is a relatively attractive therapeutic area: patients with vision-threatening diseases (age-related macular degeneration, diabetic retinopathy, certain forms of blindness) represent significant unmet need, and approved therapies can command premium pricing because vision preservation is highly valued. If GYRE has a program targeting a large market with limited competition, the economic upside of approval could be substantial — peak annual sales of $500 million or more are possible.
 
-However, that same program faces execution risk. Clinical trials can fail. Safety signals can emerge during development. Competitors may approve a superior therapy first, narrowing the market for GYRE's candidate. The regulatory approval might be granted with restrictive label restrictions that limit which patients can receive the drug, reducing the addressable market.
+However, that same program faces [execution risk](/execution-risk/). Clinical trials can fail. Safety signals can emerge during development. Competitors may approve a superior therapy first, narrowing the market for GYRE's candidate. The regulatory approval might be granted with restrictive label restrictions that limit which patients can receive the drug, reducing the addressable market.
 
 ## Capital Raising as Ongoing Necessity
 

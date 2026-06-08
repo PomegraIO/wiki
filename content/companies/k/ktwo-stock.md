@@ -38,9 +38,9 @@ Here is how the basic structure unfolds:
 
 **Formation and public offering**: K2's sponsors create the corporation, line up a certain amount of capital from anchor investors or underwriters, and then offer shares to the public. The shareholders' money goes into a trust account, to be released only when the merger closes or the SPAC is liquidated.
 
-**The hunt**: The sponsor team spends the next two or three years identifying potential targets. They conduct due diligence on the private company's financials, market opportunity, management team, and legal standing.
+**The hunt**: The sponsor team spends the next two or three years identifying potential targets. They conduct [due diligence](/due-diligence/) on the private company's financials, market opportunity, management team, and legal standing.
 
-**The merger agreement**: Once a target is selected, K2 negotiates and signs a definitive merger agreement. The terms specify the valuation, the post-merger ownership structure, and what happens to the sponsors' shares and warrants.
+**The merger agreement**: Once a target is selected, K2 negotiates and signs a [definitive merger agreement](/definitive-merger-agreement/). The terms specify the valuation, the post-merger ownership structure, and what happens to the sponsors' shares and warrants.
 
 **Shareholder vote**: K2's public shareholders get to vote on the merger. If they don't like the deal, they can redeem their shares, withdrawing their capital from the trust (subject to certain conditions). Only those who vote yes and don't redeem are left as shareholders in the merged company.
 
@@ -62,7 +62,7 @@ That asymmetry is baked into the SPAC model and drives much of the skepticism. P
 
 ## Where K2 sits geographically and what that may mean
 
-The physical location of K2 Capital's sponsors and where the eventual target operates matters for regulatory oversight and execution risk. A SPAC with sponsors in New York or California with deep relationships in venture capital or private equity may have a better shot at sourcing quality targets than one with a weaker network. The post-merger company's operations — whether in the United States, serving global markets, or geographically concentrated — will shape its business and risk profile.
+The physical location of K2 Capital's sponsors and where the eventual target operates matters for regulatory oversight and [execution risk](/execution-risk/). A SPAC with sponsors in New York or California with deep relationships in venture capital or private equity may have a better shot at sourcing quality targets than one with a weaker network. The post-merger company's operations — whether in the United States, serving global markets, or geographically concentrated — will shape its business and risk profile.
 
 ## The current environment and K2's prospects
 
@@ -70,7 +70,7 @@ The SPAC market has contracted significantly since its peak. Many SPACs that fai
 
 ## How to research K2 Capital
 
-The S-1 registration statement (or S-4 if a merger is being proposed) filed with the SEC reveals the sponsors' backgrounds, the terms of the SPAC structure, and the compensation the sponsors will receive. If K2 has already identified a target, the merger proxy statement will disclose the private company's financials, projections, and valuation. Read both carefully and with skepticism — SPAC presentations are not objective.
+The S-1 registration statement (or S-4 if a merger is being proposed) filed with the SEC reveals the sponsors' backgrounds, the terms of the SPAC structure, and the compensation the sponsors will receive. If K2 has already identified a target, the merger [proxy statement](/proxy-statement/) will disclose the private company's financials, projections, and valuation. Read both carefully and with skepticism — SPAC presentations are not objective.
 
 If K2 is still searching, track the timeline. SPACs typically have two to three years to complete a deal. As the deadline approaches, the sponsor becomes more motivated to close a deal, even a mediocre one, rather than return capital and admit failure. That pressure can lead to bad deals.
 

@@ -26,7 +26,7 @@ After these exclusions, the fund applies a financial quality screen to the remai
 
 Because BIBL excludes entire sectors — tobacco, beverages, gaming — the fund's composition necessarily deviates from a standard large-cap index. Technology, healthcare, consumer staples, and industrials typically represent meaningful portions of the portfolio. The fund's exclusions mean it underweights or eliminates some legacy components of the large-cap universe, which can create tracking differences against the broad market in periods when those excluded sectors outperform or underperform.
 
-The fund's financial-quality screen introduces a bias toward profitable, well-run companies with lower debt and stronger [return on equity](/return-on-equity/). This can tilt the portfolio toward quality-factor characteristics, which may outperform or lag depending on the market cycle.
+The fund's financial-quality screen introduces a bias toward profitable, well-run companies with lower debt and stronger [return on equity](/return-on-equity/). This can tilt the portfolio toward quality-factor characteristics, which may outperform or lag depending on the [market cycle](/market-cycle/).
 
 ## Performance in a diversified portfolio
 

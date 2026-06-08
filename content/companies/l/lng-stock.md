@@ -55,7 +55,7 @@ The global LNG market is expected to grow as countries seek to decarbonize elect
 
 ## How to Research Cheniere Energy
 
-Begin with the company's annual 10-K filing (SEC CIK 0000003570), which details the company's existing LNG terminals, operational performance, customer contracts, and capital projects under development. Read carefully the section on risk factors, as commodity price risk, contract risk, and project execution risk are material to the business.
+Begin with the company's annual 10-K filing (SEC CIK 0000003570), which details the company's existing LNG terminals, operational performance, customer contracts, and capital projects under development. Read carefully the section on risk factors, as commodity price risk, contract risk, and project [execution risk](/execution-risk/) are material to the business.
 
 Monitor quarterly earnings reports for updates on LNG export volumes, utilization rates of the liquefaction trains, and commentary on customer demand and pricing. Watch capital expenditure guidance and any updates on expansion projects; large capital commitments signal management's confidence in long-term demand.
 

@@ -19,7 +19,7 @@ AJAN holds a diversified portfolio of large-cap U.S. equities. Rather than buyin
 
 Picture it concretely. If the fund holds stocks with an aggregate value of 100, it might buy puts struck at 90 (protecting against more than a 10% fall) and sell calls at 110 (capping gains at 10%). That put is expensive; the short call premium helps pay for it. The result is a range: if stocks fall to 80, the puts protect the portfolio down to 90, absorbing the loss. If stocks rally to 120, the calls are exercised and the portfolio stops participating above 110. The investor gets defined protection and defined cap, with the costs largely offsetting.
 
-The date matters. This is not an evergreen fund. AJAN is explicitly time-limited: it will terminate and distribute proceeds (or convert to something else) in January 2028. That sunset feature is deliberate — it lets Innovator reset the collar, rebalance, and offer a new vintage with updated [strike prices](/strike-price/) reflecting current market levels. You do not own this fund as a permanent holding; you own it for a defined period with known endpoints.
+The date matters. This is not an [evergreen fund](/evergreen-fund/). AJAN is explicitly time-limited: it will terminate and distribute proceeds (or convert to something else) in January 2028. That sunset feature is deliberate — it lets Innovator reset the collar, rebalance, and offer a new vintage with updated [strike prices](/strike-price/) reflecting current market levels. You do not own this fund as a permanent holding; you own it for a defined period with known endpoints.
 
 ## The insurance metaphor and what it costs
 

@@ -71,6 +71,6 @@ Start with the 10-K (SEC CIK 0001573516), which breaks revenue and profit betwee
 
 The earnings calls reveal fuel price trends and management commentary on same-store sales (growth in sales at existing locations is crucial; new-store openings are rare). Listen for updates on the app user base and engagement metrics — growth in active users and purchase frequency signal strengthening loyalty and pricing power.
 
-Track crude-oil prices and gasoline futures, which are leading indicators of Murphy USA's margins. The company often discloses the company's average fuel margin in cents per gallon, which allows direct assessment of current profitability from fuel.
+Track crude-oil prices and gasoline futures, which are [leading indicators](/leading-indicator/) of Murphy USA's margins. The company often discloses the company's average fuel margin in cents per gallon, which allows direct assessment of current profitability from fuel.
 
 Longer-term, monitor electric-vehicle adoption rates and fuel-consumption trends. A meaningful shift toward EVs would be a structural headwind that requires the company to accelerate its pivot to higher in-store profitability.

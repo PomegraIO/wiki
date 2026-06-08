@@ -36,7 +36,7 @@ DTE's economic model is mechanical. Investors analyze the rate base (total capit
 
 ## Transition Risk and the Long-Term Reshaping
 
-DTE, like all thermal utilities, faces a horizon on which coal becomes uneconomic or forbidden. The company has announced coal retirements and invested in renewables, but the pace of that transition, the cost of those replacements, and the regulatory approval for cost recovery on new assets shape returns over years and decades. Michigan's renewable energy goals, federal incentives (like the [Inflation](/inflation/) Reduction Act), and shifts in wholesale power prices all influence DTE's trajectory. A company that manages the transition steadily and retains regulatory trust can emerge whole; one that resists or falters on execution risk shareholder value and stranded assets.
+DTE, like all thermal utilities, faces a horizon on which coal becomes uneconomic or forbidden. The company has announced coal retirements and invested in renewables, but the pace of that transition, the cost of those replacements, and the regulatory approval for cost recovery on new assets shape returns over years and decades. Michigan's renewable energy goals, federal incentives (like the [Inflation](/inflation/) Reduction Act), and shifts in wholesale power prices all influence DTE's trajectory. A company that manages the transition steadily and retains regulatory trust can emerge whole; one that resists or falters on [execution risk](/execution-risk/) shareholder value and stranded assets.
 
 ## Why DTE Matters to Its Region
 

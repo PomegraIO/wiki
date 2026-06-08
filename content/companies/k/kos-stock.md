@@ -51,7 +51,7 @@ Oil in West Africa belongs to the host government; companies like Kosmos operate
 
 Host governments have incentive to renegotiate these terms upward, especially when commodity prices are high. Senegal, Côte d'Ivoire, and Ghana have all adjusted tax regimes or royalties over time. Kosmos must navigate these political and fiscal risks: the risk that a government changes terms mid-project, reducing the project's return on capital; the risk that a change in government introduces permitting delays or operational restrictions; the risk that a government seizes assets or nationalizes a field outright.
 
-West African political risk is meaningful but manageable for a company with Kosmos' experience. Established producers in Ghana and Côte d'Ivoire have generally honored concession agreements and provided stable operating environments. Newer frontiers (Senegal) introduce more uncertainty. Kosmos' portfolio approach—multiple countries, multiple fields at different stages—is a [diversification](/diversification/) strategy against country-level political shock.
+West African [political risk](/political-risk/) is meaningful but manageable for a company with Kosmos' experience. Established producers in Ghana and Côte d'Ivoire have generally honored concession agreements and provided stable operating environments. Newer frontiers (Senegal) introduce more uncertainty. Kosmos' portfolio approach—multiple countries, multiple fields at different stages—is a [diversification](/diversification/) strategy against country-level political shock.
 
 ## The Cycle of Exploration, Appraisal, Development
 
@@ -59,7 +59,7 @@ A typical Kosmos project begins with exploration: seismic surveys and wildcat we
 
 Only after this development phase (which can take 3 to 5 years) does the company begin producing revenue. This long lead time between initial exploration (which costs millions) and first revenue (which comes years later) requires Kosmos to maintain a portfolio of projects at different stages. Early-stage exploration (high risk, low cost), appraisal (moderate risk and cost), and development (high cost, lower risk) are ongoing simultaneously, so the company has a steady stream of milestone decisions and a mix of risk and return.
 
-A discovery that takes 10 years to bring into production and then produces for 15 years must overcome a hurdle rate (cost of capital) to justify the investment. Kosmos' strategic task is therefore to kill uneconomic projects early (before sunk costs escalate) and to accelerate economic ones. Poor capital discipline—bringing marginal projects online or hanging on to failing prospects—destroys shareholder value.
+A discovery that takes 10 years to bring into production and then produces for 15 years must overcome a [hurdle rate](/hurdle-rate/) (cost of capital) to justify the investment. Kosmos' strategic task is therefore to kill uneconomic projects early (before sunk costs escalate) and to accelerate economic ones. Poor capital discipline—bringing marginal projects online or hanging on to failing prospects—destroys shareholder value.
 
 ## Scale and Market Position
 

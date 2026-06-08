@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*A **[leveraged ETF](/leveraged-etf/)** is a fund that aims to deliver a multiple of the daily return on an underlying index or asset — in this case, [Bitcoin](/bitcoin/). BTCL targets 2x exposure to Bitcoin's daily moves, meaning it is engineered to gain roughly 2% for every 1% Bitcoin rises on any given trading day. The cost of that amplified return is complexity, volatility decay, and a structure that makes it unsuitable for buy-and-hold investing.*
+*A **[leveraged ETF](/leveraged-etf/)** is a fund that aims to deliver a multiple of the daily return on an underlying index or asset — in this case, [Bitcoin](/bitcoin/). BTCL targets 2x exposure to Bitcoin's daily moves, meaning it is engineered to gain roughly 2% for every 1% Bitcoin rises on any given trading day. The cost of that amplified return is complexity, volatility decay, and a structure that makes it unsuitable for [buy-and-hold investing](/buy-and-hold/).*
 
 BTCL is issued by T-Rex Financial, a smaller specialized provider of daily-reset leveraged products. The fund holds Bitcoin directly (through [futures contracts](/futures-contract/) and cash-equivalent positions) and rebalances at the end of each trading session to maintain its 2x exposure target. This daily rebalancing is fundamental to how leveraged ETFs work and why they behave so differently from simply holding Bitcoin with a loan.
 
@@ -31,7 +31,7 @@ BTCL is not a substitute for owning Bitcoin directly or for holding a single-lev
 
 ## Structure and costs
 
-BTCL trades on NYSE Arca and has typical daily trading volumes that vary with market interest in Bitcoin. The fund charges an [expense ratio](/expense-ratio/) in the range of 50–70 basis points annually (0.5–0.7%), which is high compared to spot Bitcoin ETFs (which cost 20–25 basis points) but necessary to cover the ongoing cost of leverage, rebalancing, and fund administration. Because BTCL uses futures contracts to track Bitcoin rather than holding physical Bitcoin, there is also [basis risk](/basis-risk/) — the possibility that the futures price diverges from the spot price — though this is usually small.
+BTCL trades on [NYSE Arca](/nyse-arca/) and has typical daily trading volumes that vary with market interest in Bitcoin. The fund charges an [expense ratio](/expense-ratio/) in the range of 50–70 basis points annually (0.5–0.7%), which is high compared to spot Bitcoin ETFs (which cost 20–25 basis points) but necessary to cover the ongoing cost of leverage, rebalancing, and fund administration. Because BTCL uses futures contracts to track Bitcoin rather than holding physical Bitcoin, there is also [basis risk](/basis-risk/) — the possibility that the futures price diverges from the spot price — though this is usually small.
 
 The fund is open to U.S. retail and institutional investors and has no custodial or tax-advantaged wrapper beyond ordinary taxable-account treatment. Distributions, if any, are taxed as ordinary income, and the high turnover from daily rebalancing can trigger short-term capital gains that are disadvantageous from a tax perspective over long holding periods.
 

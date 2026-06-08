@@ -4,7 +4,7 @@ description: "Italian in vitro diagnostics manufacturer whose ADR trades on US e
 keywords: ["diagnostics", "reagents", "clinical-testing", "italy", "adr"]
 ---
 
-*DiaSorin SpA is an Italian diagnostics manufacturer that serves clinical laboratories worldwide through its immunoassay and chemistry platforms. The company operates as a **[public](/public-company/)** [stock](/stock/) via American Depositary Receipt, trading under the ticker **DSRNY**, and files with the [SEC](/securities-and-exchange-commission/) under CIK 1544088.*
+*DiaSorin SpA is an Italian diagnostics manufacturer that serves clinical laboratories worldwide through its immunoassay and chemistry platforms. The company operates as a **[public](/public-company/)** [stock](/stock/) via American [Depositary Receipt](/depositary-receipt/), trading under the ticker **DSRNY**, and files with the [SEC](/securities-and-exchange-commission/) under CIK 1544088.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker (ADR)</td><td>DSRNY</td></tr>

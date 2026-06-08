@@ -28,7 +28,7 @@ The pre-combination agreement contemplates that the merged entity will own the S
 
 As of mid-2026, Crown PropTech remains a shell company with minimal cash, a trust account in the low millions, and no revenue. The business combination is not yet complete, though it is expected to close within the extended deadline window. The company is sustained entirely by the sponsor's willingness to continue funding operating expenses and legal costs. If the sponsor were to withdraw support or the shareholder vote on the merger were to fail, the company would likely be forced into [liquidation](/liquidation/).
 
-Assuming the combination completes, investors would own shares of a mining development company at a very early stage—Songwe Hill had not yet been placed into production as of 2026. Mining development projects carry substantial technical, permitting, environmental, and financial risks. A rare earths separation plant is a large, capital-intensive industrial facility requiring specialized expertise and facing regulatory scrutiny in its host country. Execution risk is high.
+Assuming the combination completes, investors would own shares of a mining development company at a very early stage—Songwe Hill had not yet been placed into production as of 2026. Mining development projects carry substantial technical, permitting, environmental, and financial risks. A rare earths separation plant is a large, capital-intensive industrial facility requiring specialized expertise and facing regulatory scrutiny in its host country. [Execution risk](/execution-risk/) is high.
 
 ## Warrants and investment structure
 

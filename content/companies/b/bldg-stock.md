@@ -19,7 +19,7 @@ BLDG holds shares in companies that own or manage real property and collect rent
 
 **Why buy global real estate instead of US real estate?**
 
-A US-only [real estate fund](/real-estate-fund/) would miss the opportunity to own London office towers, Tokyo apartment buildings, or Australian industrial warehouses. International real estate markets have different cycles — they boom and bust on their own timelines, sometimes out of sync with the US. Holding both adds [diversification](/diversification/). Property economics also vary by country: some markets have strong rent growth, others favor capital appreciation, and tax treatments differ wildly. Global exposure lets an investor spread risk across these different regimes.
+A US-only [real estate fund](/real-estate-fund/) would miss the opportunity to own London office towers, Tokyo apartment buildings, or Australian industrial warehouses. International real estate markets have different cycles — they boom and bust on their own timelines, sometimes out of sync with the US. Holding both adds [diversification](/diversification/). Property economics also vary by country: some markets have strong rent growth, others favor capital appreciation, and tax treatments differ wildly. Global exposure lets an investor [spread risk](/spread-risk/) across these different regimes.
 
 **How does a real estate fund generate returns?**
 
@@ -27,7 +27,7 @@ REITs are required by law to pay out most of their taxable income as dividends, 
 
 **What are the downsides?**
 
-Real estate is illiquid. A building takes months to sell; a portfolio of properties takes longer. If a crisis hits and many investors want to exit simultaneously, they cannot all get out at fair prices. BLDG, as an ETF, trades instantly, but that speed masks the illiquidity of the underlying properties. During a crash, the fund's price might gap down sharply as demand for real estate exposure evaporates. Additionally, real estate is sensitive to [interest rates](/interest-rate/). When rates are low, real estate is more attractive ([cap rates](/cap-rate/) are higher), and valuations expand. When rates rise, real estate becomes less attractive, and valuations compress. A rising-rate environment can drag on BLDG's performance. Sector concentration is also a risk: if the portfolio drifts toward one type of property (office, retail) or one geography, and that sector crashes, losses are outsized. A severe [recession](/recession/) can devastate property values and rents. A pandemic that empties offices or closes retail stores can crater a REIT's income.
+Real estate is illiquid. A building takes months to sell; a portfolio of properties takes longer. If a crisis hits and many investors want to exit simultaneously, they cannot all get out at fair prices. BLDG, as an ETF, trades instantly, but that speed masks the illiquidity of the underlying properties. During a crash, the fund's price might gap down sharply as demand for real estate exposure evaporates. Additionally, real estate is sensitive to [interest rates](/interest-rate/). When rates are low, real estate is more attractive ([cap rates](/cap-rate/) are higher), and valuations expand. When rates rise, real estate becomes less attractive, and valuations compress. A rising-rate environment can drag on BLDG's performance. Sector concentration is also a risk: if the [portfolio drifts](/portfolio-drift/) toward one type of property (office, retail) or one geography, and that sector crashes, losses are outsized. A severe [recession](/recession/) can devastate property values and rents. A pandemic that empties offices or closes retail stores can crater a REIT's income.
 
 **What about [currency risk](/currency-risk/)?**
 
@@ -35,7 +35,7 @@ Because BLDG holds properties in many countries, it has currency exposure. If yo
 
 **Who should hold this fund?**
 
-BLDG suits investors who want real estate exposure beyond the US market and can tolerate the volatility and dividend fluctuations that come with property investing in multiple countries. A retiree or income-focused investor might hold it for the dividend stream, reinvesting or spending the payouts. A younger, diversified investor might hold it as one sleeve of a global portfolio, rounding out stock and [bond](/bond/) holdings with property. Someone concerned that US real estate valuations are stretched might prefer the diversification of global property. Conversely, an investor nervous about offshore assets, currency risk, or real estate cycles should size the position accordingly or avoid it.
+BLDG suits investors who want real estate exposure beyond the US market and can tolerate the volatility and dividend fluctuations that come with property investing in multiple countries. A retiree or income-focused investor might hold it for the dividend stream, reinvesting or spending the payouts. A younger, diversified investor might hold it as one sleeve of a global portfolio, rounding out stock and [bond](/bond/) holdings with property. Someone concerned that US real estate valuations are stretched might prefer the diversification of global property. Conversely, an investor nervous about offshore assets, currency risk, or [real estate cycles](/real-estate-cycle/) should size the position accordingly or avoid it.
 
 **How to research BLDG?**
 

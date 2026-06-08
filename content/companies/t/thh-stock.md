@@ -41,7 +41,7 @@ Downstream: the customers are individuals going out to socialise, eat, and be en
 
 ## Performance and the operating environment
 
-In the fiscal year ending June 30, 2025, TryHard reported revenue of about $24.4 million, up roughly 11 percent from the year before. Net income was only about $100,000—a margin of less than half a percent on revenue. This is thin. The company is essentially breaking even despite strong revenue growth, which suggests that operating costs are eating up most gains. This pattern is typical of hospitality and entertainment: you need to fill your venues, but the incremental profit from an extra customer (after paying the staff who serve them) is small.
+In the [fiscal year](/fiscal-year-definition/) ending June 30, 2025, TryHard reported revenue of about $24.4 million, up roughly 11 percent from the year before. Net income was only about $100,000—a margin of less than half a percent on revenue. This is thin. The company is essentially breaking even despite strong revenue growth, which suggests that operating costs are eating up most gains. This pattern is typical of hospitality and entertainment: you need to fill your venues, but the incremental profit from an extra customer (after paying the staff who serve them) is small.
 
 ## What makes this business hard
 

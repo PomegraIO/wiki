@@ -43,7 +43,7 @@ This optionality — to hold mortgages or sell them — is central to Waterstone
 
 Waterstone's branches are concentrated in Wisconsin and surrounding Midwest markets — a footprint of perhaps 50 locations serving a defined region rather than hundreds of branches spanning the country. This is typical of regional banks, and it is both a strength and a limitation.
 
-The strength is intimacy. A community banker knows local real-estate markets, local business dynamics, and local customers by name. Mortgage underwriting improves when the lender understands neighborhood trends and can verify character and stability through personal relationships. Waterstone can compete on service — faster decisions, flexibility in underwriting, a human relationship — in a way national mega-banks cannot easily replicate at the local level.
+The strength is intimacy. A community banker knows local real-estate markets, local business dynamics, and local customers by name. [Mortgage underwriting](/mortgage-underwriting/) improves when the lender understands neighborhood trends and can verify character and stability through personal relationships. Waterstone can compete on service — faster decisions, flexibility in underwriting, a human relationship — in a way national mega-banks cannot easily replicate at the local level.
 
 The limitation is scale. National players like [JPMorgan Chase](/jpmorgan-chase/) and [Bank of America](/bank-of-america/) have far larger deposit bases, can fund mortgages more cheaply, and can undercut Waterstone on rate. Waterstone cannot match their balance-sheet size or capital efficiency. It must find customers who value relationship banking and are willing to pay for it through slightly higher rates or willingness to accept its terms.
 

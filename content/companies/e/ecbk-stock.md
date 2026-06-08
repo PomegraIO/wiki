@@ -41,7 +41,7 @@ A community bank's primary profitability measure is [return on assets](/return-o
 
 ## Capital Adequacy and Dividend Sustainability
 
-Banks operate under regulatory capital requirements (tier-1 common equity, tier-1 capital, total risk-weighted assets). The 10-K discloses ECB's capital ratios; compare them to regulatory minimums and to peer community banks. Banks with excess capital may return it to shareholders via [dividends](/dividend/) or buybacks; banks with capital close to minimums cannot. If ECB is paying a dividend, examine the [payout ratio](/payout-ratio/) (dividend as a percentage of earnings) and the company's history of maintaining or growing the dividend through cycles. A rising dividend amid stable earnings suggests the bank is confident in its earnings sustainability.
+Banks operate under regulatory capital requirements (tier-1 common equity, tier-1 capital, total [risk-weighted assets](/risk-weighted-assets/)). The 10-K discloses ECB's capital ratios; compare them to regulatory minimums and to peer community banks. Banks with excess capital may return it to shareholders via [dividends](/dividend/) or buybacks; banks with capital close to minimums cannot. If ECB is paying a dividend, examine the [payout ratio](/payout-ratio/) (dividend as a percentage of earnings) and the company's history of maintaining or growing the dividend through cycles. A rising dividend amid stable earnings suggests the bank is confident in its earnings sustainability.
 
 ## Regulatory and Interest-Rate Environment
 

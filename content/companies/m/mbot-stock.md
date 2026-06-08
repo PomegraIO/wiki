@@ -65,7 +65,7 @@ The upside scenario is that one or more programs achieve FDA clearance and insur
 
 Start with Microbot's SEC filings (CIK 883975) for pipeline details, clinical trial enrollment, regulatory status, and cash balance. The company's investor relations materials often highlight recent milestones and partnerships. ClinicalTrials.gov provides enrollment and results data for any active trials. FDA databases (notably, the FDA's MAUDE database for medical device adverse events) may eventually contain post-market safety data if products are approved and commercialized.
 
-Key questions for due diligence: Which programs are closest to regulatory submission? What are the clinical endpoints in ongoing trials, and are they realistic? Has the company announced any partnerships with larger device companies, which could validate technology and provide commercialization pathways? What is the current cash balance and monthly burn rate, and how many quarters of runway remain?
+Key questions for [due diligence](/due-diligence/): Which programs are closest to regulatory submission? What are the clinical endpoints in ongoing trials, and are they realistic? Has the company announced any partnerships with larger device companies, which could validate technology and provide commercialization pathways? What is the current cash balance and monthly burn rate, and how many quarters of runway remain?
 
 <div class="wiki-seealso">
 ### Closely related

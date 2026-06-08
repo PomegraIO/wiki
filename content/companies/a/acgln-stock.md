@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Arch Capital](/acgl-stock/) Group is a specialty insurance and reinsurance company founded in the immediate aftermath of September 11, 2001, when a sudden crisis in insurance markets created an opening for a new competitor with capital and discipline. ACGLN is a depositary share representing Series G [Preferred Stock](/preferred-stock/) issued by Arch Capital, part of the company's capital structure. To understand ACGLN is to understand Arch Capital's larger story: how a startup built in chaos has become one of the world's premier underwriters of difficult, high-premium risks that other insurers avoid.
+[Arch Capital](/acgl-stock/) Group is a specialty insurance and reinsurance company founded in the immediate aftermath of September 11, 2001, when a sudden crisis in insurance markets created an opening for a new competitor with capital and discipline. ACGLN is a [depositary share](/depositary-share/) representing Series G [Preferred Stock](/preferred-stock/) issued by Arch Capital, part of the company's capital structure. To understand ACGLN is to understand Arch Capital's larger story: how a startup built in chaos has become one of the world's premier underwriters of difficult, high-premium risks that other insurers avoid.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,7 +39,7 @@ Dinos Iordanou became president and CEO in 2003 and led Arch Capital through the
 
 That discipline paid off. Through the 2000s and into the 2010s, Arch Capital grew into one of the world's largest specialty insurers and reinsurers. It opened offices globally — in North America, Europe, Asia, Australia — building a network of underwriters on the ground in major markets. The company wrote risks that other insurers avoided: unusual property exposures, complex casualty, marine and aviation, financial and professional liability, admitted excess and surplus casualty.
 
-The business model is elegant. Arch Capital takes in premiums from its policyholders and treaty partners, invests the "float" (the pool of unspent premiums sitting in the [balance sheet](/balance-sheet/) until claims are paid) in [bonds](/bond/) and other securities, and profits from both the underwriting spread (premiums minus claims and expenses) and the investment returns on the float. So long as underwriting discipline holds and investment performance is reasonable, the business compounds.
+The business model is elegant. Arch Capital takes in premiums from its policyholders and treaty partners, invests the "float" (the pool of unspent premiums sitting in the [balance sheet](/balance-sheet/) until claims are paid) in [bonds](/bond/) and other securities, and profits from both the [underwriting spread](/underwriting-spread/) (premiums minus claims and expenses) and the investment returns on the float. So long as underwriting discipline holds and investment performance is reasonable, the business compounds.
 
 ## Expanding into mortgage insurance: the 2015–2016 pivot
 
@@ -53,7 +53,7 @@ Dinos Iordanou stepped back from the CEO role in 2018, succeeded by Marc Grandis
 
 ## The business today: three engines, one balance sheet
 
-Arch Capital now operates three principal segments. The Insurance segment writes commercial casualty, commercial multiperil, financial and professional lines, property insurance, short-tail specialty, and workers compensation. The Reinsurance segment provides treaty reinsurance primarily for casualty, marine and aviation, and property catastrophe. The Mortgage Insurance segment insures mortgages and guarantees the mortgages of borrowers with less conventional credit profiles or smaller down payments. These three lines interact with each other and with the broader market cycles — sometimes all thriving together, sometimes one segment offsetting weakness in another.
+Arch Capital now operates three principal segments. The Insurance segment writes commercial casualty, commercial multiperil, financial and professional lines, property insurance, short-tail specialty, and workers compensation. The Reinsurance segment provides treaty reinsurance primarily for casualty, marine and aviation, and property catastrophe. The Mortgage Insurance segment insures mortgages and guarantees the mortgages of borrowers with less conventional credit profiles or smaller down payments. These three lines interact with each other and with the broader [market cycles](/market-cycle/) — sometimes all thriving together, sometimes one segment offsetting weakness in another.
 
 The company generates tens of billions in annual premium revenue, a global footprint across nearly sixty offices, and a strong balance sheet buttressed by disciplined capital management. Arch Capital has consistently returned capital to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/), a practice possible because the specialty insurance business, when run well, generates substantial [free cash flow](/free-cash-flow/).
 

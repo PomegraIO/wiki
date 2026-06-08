@@ -17,7 +17,7 @@ The GraniteShares Autocallable MSTR ETF (MSR) wraps MicroStrategy stock inside a
 
 ## What autocallable means
 
-An autocallable structure is a financial contract with maturity and conditional payoff rules embedded into it, much like a [bond](/bond/) with embedded options. In MSR's case, the fund holds MicroStrategy shares and pairs them with derivative contracts, usually structured by an investment bank, that create the buffer and income features.
+An autocallable structure is a financial contract with maturity and conditional payoff rules embedded into it, much like a [bond](/bond/) with embedded options. In MSR's case, the fund holds MicroStrategy shares and pairs them with [derivative contracts](/derivative-contract/), usually structured by an investment bank, that create the buffer and income features.
 
 If MicroStrategy stays above a specified trigger level — perhaps a certain percentage above the fund's entry price — the contract accrues income (paid as distributions to shareholders) and continues unchanged. If MicroStrategy falls significantly below that level, downside protection activates, capping losses at a predetermined amount rather than allowing the full stock decline to pass through. The tradeoff is that upside participation is capped or reduced, and the structure may have a maturity date at which the contract unwinds and resets.
 
@@ -31,7 +31,7 @@ The income component works because the buffer and cap are valuable to a financia
 
 Autocallable structures introduce costs that are not always visible on a simple [expense ratio](/expense-ratio/) line. The financial engineering required to create the buffer and income is expensive, and those costs are baked into the contract's terms — embedded in how much upside you sacrifice or how the income payments are calculated. An investor holding MSR might earn 3 percent annualized in distributions while MicroStrategy stock itself rises 20 percent; that 17 percent gap is not pure profit — it is the cost of the protection.
 
-More critically, autocallable structures depend entirely on the creditworthiness of the institution writing them. If the bank that structured the protection faces financial stress or fails, the buffer and income promises are only as reliable as that institution's ability to pay. During the 2008 financial crisis, holders of structured products tied to failed firms learned this lesson harshly. MSR's prospectus names the counterparty and discloses their [credit rating](/credit-rating/), but that [credit risk](/credit-risk/) is real and irreducible.
+More critically, autocallable structures depend entirely on the creditworthiness of the institution writing them. If the bank that structured the protection faces financial stress or fails, the buffer and income promises are only as reliable as that institution's ability to pay. During the 2008 financial crisis, holders of [structured products](/structured-product/) tied to failed firms learned this lesson harshly. MSR's prospectus names the counterparty and discloses their [credit rating](/credit-rating/), but that [credit risk](/credit-risk/) is real and irreducible.
 
 Additionally, the exact mechanics of the buffer — how far below the entry price the stock must fall to trigger protection, how much of that loss is actually covered, what happens at maturity — are described in a prospectus far more complex than a typical ETF. Investors may not fully grasp the protection until they need it, or until market stress changes the institution's willingness or ability to honor the contract.
 

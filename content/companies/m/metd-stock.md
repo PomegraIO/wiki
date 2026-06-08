@@ -43,7 +43,7 @@ METD is liquid enough to trade during market hours, though the [bid-ask spread](
 
 ## Real risks and pitfalls
 
-The biggest mistake is holding an inverse ETF for too long. Because of volatility decay and daily reset effects, inverse ETFs are designed for short-term trading, not buy-and-hold investing. An investor who buys METD and holds it for a year or more, expecting it to profit if Meta declines over that period, is fighting both volatility decay and expense-ratio drag. A single-month hold might work; a two-year hold is almost guaranteed to lose money even if Meta stock falls, because the drag is that significant.
+The biggest mistake is holding an inverse ETF for too long. Because of volatility decay and daily reset effects, inverse ETFs are designed for short-term trading, not [buy-and-hold investing](/buy-and-hold/). An investor who buys METD and holds it for a year or more, expecting it to profit if Meta declines over that period, is fighting both volatility decay and expense-ratio drag. A single-month hold might work; a two-year hold is almost guaranteed to lose money even if Meta stock falls, because the drag is that significant.
 
 Another risk is using an inverse ETF as a long-term hedge. If you own Meta stock for years and use METD to hedge it, you are paying annual fees to METD while also losing money to volatility decay. Over time, the hedging cost is likely to exceed the hedging benefit.
 

@@ -58,7 +58,7 @@ The other long-term question is structural: what happens if credit markets seize
 
 ## How to research Credit Acceptance
 
-Start with the 10-K (SEC CIK 0000885550), which discloses the size of the loan portfolio, the average loan balance, the interest rates charged, and the loss provisions. The company publishes loan-performance data showing what percentage of loans are delinquent (30 days late, 60 days late, 90+ days late), which is the leading indicator of defaults to come. Watch this metric obsessively — [delinquency](/delinquency/) rising early signals that earnings will fall in coming quarters.
+Start with the 10-K (SEC CIK 0000885550), which discloses the size of the loan portfolio, the average loan balance, the interest rates charged, and the loss provisions. The company publishes loan-performance data showing what percentage of loans are delinquent (30 days late, 60 days late, 90+ days late), which is the [leading indicator](/leading-indicator/) of defaults to come. Watch this metric obsessively — [delinquency](/delinquency/) rising early signals that earnings will fall in coming quarters.
 
 Key metrics: loan originations per quarter, average loan balance, charge-off rate (percentage of loans that become uncollectible), the ratio of capital to loans outstanding, and the interest rate charged. The earnings call will detail any changes in underwriting standards, the health of the dealer network, and management's outlook for economic conditions and credit quality.
 

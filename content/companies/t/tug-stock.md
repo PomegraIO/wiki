@@ -56,6 +56,6 @@ Some tactical funds operate within fixed bands — for example, TUG might never 
 
 ## Measuring success
 
-To evaluate whether TUG's tactical approach is working, a reader should compare its returns to a simple 60/40 or 70/30 stock-bond index fund over several market cycles. A successful tactical fund beats that benchmark by enough to overcome its higher costs. Over shorter periods, TUG might lag during powerful [bull markets](/bull-market/) (because it reduces exposure early) and lead during bear markets (because it shifts defensive). The real test is long-term risk-adjusted returns — whether the fund delivered better results relative to the volatility it experienced.
+To evaluate whether TUG's tactical approach is working, a reader should compare its returns to a simple 60/40 or 70/30 stock-bond index fund over several [market cycles](/market-cycle/). A successful tactical fund beats that benchmark by enough to overcome its higher costs. Over shorter periods, TUG might lag during powerful [bull markets](/bull-market/) (because it reduces exposure early) and lead during bear markets (because it shifts defensive). The real test is long-term risk-adjusted returns — whether the fund delivered better results relative to the volatility it experienced.
 
 The prospectus and fact sheet explain the tactical rules and the signals the fund uses. Examining the actual allocation shifts over time — how often does it move, and by how much — reveals whether the fund is truly tactical or merely marketing itself that way.

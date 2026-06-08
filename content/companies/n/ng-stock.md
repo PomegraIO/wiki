@@ -34,13 +34,13 @@ The company competes for capital and partnerships in a cyclical industry. Gold m
 
 ## Key Risks
 
-**Permitting and political risk** remain significant. Donlin and other Alaska projects operate in a jurisdiction sensitive to environmental and subsistence-use concerns. Permit grants, renewals, and operational approvals depend on regulatory [goodwill](/goodwill/) and political consensus that can shift. Tribal relations and public sentiment toward mining also carry weight.
+**Permitting and [political risk](/political-risk/)** remain significant. Donlin and other Alaska projects operate in a jurisdiction sensitive to environmental and subsistence-use concerns. Permit grants, renewals, and operational approvals depend on regulatory [goodwill](/goodwill/) and political consensus that can shift. Tribal relations and public sentiment toward mining also carry weight.
 
 **Commodity price sensitivity.** NOVAGOLD's project economics hinge on gold prices. A sustained decline in the gold price can render a marginal deposit uneconomic and stall development.
 
 **Partnership and capital risk.** The company's progress relies on securing partnerships, strategic investment, or major financiers. Without a committed partner or massive capital raise, development timelines extend indefinitely. Equity dilution has been material over the company's long history as it has raised capital to fund exploration and permitting work.
 
-**Execution risk.** Moving from development to production is operationally and organizationally demanding. The company must hire, build supply chains, manage environmental compliance, and ramp production—all while managing cost [inflation](/inflation/) and unforeseen challenges.
+**[Execution risk](/execution-risk/).** Moving from development to production is operationally and organizationally demanding. The company must hire, build supply chains, manage environmental compliance, and ramp production—all while managing cost [inflation](/inflation/) and unforeseen challenges.
 
 **Exploration risk on newer or smaller assets.** While Donlin's resource is well-defined, exploration properties and smaller deposits carry standard discovery and [extension risk](/extension-risk/).
 

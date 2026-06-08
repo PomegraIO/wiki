@@ -13,7 +13,7 @@ handwritten: true
 
 ## What exactly is Block?
 
-Block is a fintech company that has built a sprawling ecosystem of payment and financial services, most visibly through two consumer-facing platforms — Square and Cash App — alongside Buy Now, Pay Later (BNPL) assets like Afterpay, and cryptocurrency/blockchain infrastructure play through TBD. The company doesn't have a single business; it's more accurate to think of it as a platform incubator, a place where Jack Dorsey (co-founder and former CEO) pursued intersecting bets on financial inclusion, merchant empowerment, and the decentralization of money itself.
+Block is a fintech company that has built a sprawling ecosystem of payment and financial services, most visibly through two consumer-facing platforms — Square and Cash App — alongside [Buy Now, Pay Later](/buy-now-pay-later/) (BNPL) assets like Afterpay, and cryptocurrency/blockchain infrastructure play through TBD. The company doesn't have a single business; it's more accurate to think of it as a platform incubator, a place where Jack Dorsey (co-founder and former CEO) pursued intersecting bets on financial inclusion, merchant empowerment, and the decentralization of money itself.
 
 ## How did Block come to exist?
 

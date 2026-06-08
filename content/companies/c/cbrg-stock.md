@@ -24,7 +24,7 @@ handwritten: true
 
 </aside>
 
-CBRG is a leveraged bet on the Cboe [Bitcoin](/bitcoin/) Volatility Risk Premium Index — a measure of the excess return investors earn (or lose) by selling options on Bitcoin and harvesting the premium. This is not a Bitcoin price fund. It is a volatility-harvesting vehicle with 2x daily reset leverage, meaning the fund attempts to deliver twice the daily return of the underlying index. That structure creates a powerful tool for tactical traders and an efficiency-killer for buy-and-hold investors.
+CBRG is a leveraged bet on the Cboe [Bitcoin](/bitcoin/) [Volatility Risk](/volatility-risk/) Premium Index — a measure of the excess return investors earn (or lose) by selling options on Bitcoin and harvesting the premium. This is not a Bitcoin price fund. It is a volatility-harvesting vehicle with 2x daily reset leverage, meaning the fund attempts to deliver twice the daily return of the underlying index. That structure creates a powerful tool for tactical traders and an efficiency-killer for buy-and-hold investors.
 
 ## What the Cboe Bitcoin Volatility Risk Premium Index measures
 

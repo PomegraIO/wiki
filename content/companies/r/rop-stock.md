@@ -52,7 +52,7 @@ The disciplined approach shows in the numbers: Roper has historically achieved r
 
 ## Risks and pressures
 
-**Integration risk**: Any large acquisition carries execution risk. Integrating a company while preserving the culture and people that made it successful is harder than it looks.
+**Integration risk**: Any large acquisition carries [execution risk](/execution-risk/). Integrating a company while preserving the culture and people that made it successful is harder than it looks.
 
 **Economic sensitivity**: Although niche-y, some portfolio businesses are not immune to economic slowdowns. Healthcare product demand is sticky, but capital spending can slow if industrial companies or utilities face budget pressure.
 

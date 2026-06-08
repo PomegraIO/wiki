@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Innovator U.S. Equity Buffer ETF – March exists to reduce the sting of stock-market declines without completely sitting out rallies. It is part of a family of so-called buffer ETFs, each of which wraps the S&P 500 in an options-based [collar strategy](/collar-strategy/) designed to limit losses to a certain percentage (the "buffer") while capping gains.
+The Innovator U.S. Equity [Buffer ETF](/buffer-etf/) – March exists to reduce the sting of stock-market declines without completely sitting out rallies. It is part of a family of so-called buffer ETFs, each of which wraps the S&P 500 in an options-based [collar strategy](/collar-strategy/) designed to limit losses to a certain percentage (the "buffer") while capping gains.
 
 > "A buffer absorbs the first hit; you feel nothing until the cushion is exhausted."
 

@@ -13,7 +13,7 @@ handwritten: true
 
 > The economics of a CLO are backwards from what most bond investors expect: the riskier it gets, the more diversification it gains.
 
-A [collateralized loan obligation](/collateralized-loan-obligation/) is a securitized bundle of hundreds of business loans sliced into [tranches](/tranche/). BCLO, BlackRock's actively managed ETF, buys the middle tranches—those rated between BBB and B—where yields run well above investment-grade [corporate bonds](/corporate-bond/) and where a skilled manager can add value by picking the strongest pools and timing entry around credit cycles.
+A [collateralized loan obligation](/collateralized-loan-obligation/) is a securitized bundle of hundreds of business loans sliced into [tranches](/tranche/). BCLO, BlackRock's actively managed ETF, buys the middle tranches—those rated between BBB and B—where yields run well above investment-grade [corporate bonds](/corporate-bond/) and where a skilled manager can add value by picking the strongest pools and timing entry around [credit cycles](/credit-cycle/).
 
 ## The structure beneath the fund
 

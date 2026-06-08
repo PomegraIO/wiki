@@ -35,7 +35,7 @@ Blockchain consulting faced explosive growth as enterprises explored the technol
 
 ## Regulatory and Technology Exposure
 
-The blockchain industry faces regulatory uncertainty globally. Changing rules around cryptocurrency custody, smart-contract liability, or blockchain's use in financial services can eliminate customer use cases or require costly compliance overhauls. Additionally, blockchain technology itself is rapidly evolving; a company optimized around [Ethereum](/ethereum/) smart contracts may find its expertise less valuable as competing blockchains gain adoption or as the technology diverges. The 10-K will discuss exposure to regulatory risk and technology transitions; read the risk factors carefully for discussion of customer reliance on specific blockchains, jurisdictional compliance costs, and the company's ability to pivot its expertise.
+The blockchain industry faces regulatory uncertainty globally. Changing rules around cryptocurrency custody, smart-contract liability, or blockchain's use in financial services can eliminate customer use cases or require costly compliance overhauls. Additionally, blockchain technology itself is rapidly evolving; a company optimized around [Ethereum](/ethereum/) [smart contracts](/smart-contract/) may find its expertise less valuable as competing blockchains gain adoption or as the technology diverges. The 10-K will discuss exposure to regulatory risk and technology transitions; read the risk factors carefully for discussion of customer reliance on specific blockchains, jurisdictional compliance costs, and the company's ability to pivot its expertise.
 
 ## Cash Generation and Reinvestment
 

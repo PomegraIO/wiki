@@ -46,7 +46,7 @@ Finally, there is [call risk](/call-risk/). Municipal bonds are often callable, 
 
 Taxable municipal bonds were once a specialized corner of fixed income, of interest mainly to institutional investors and tax-exempt entities. Over the past 15 years, the category has grown substantially as local governments sought funding outside the tax-exempt cap, and as investors sought non-Treasury credit exposure. BAB, launched into that growing market, has become a standard vehicle for both retail and institutional access.
 
-The fund represents a maturing of the taxable municipal market itself. Where it once required an institutional client and a dedicated municipal bond manager, investors can now hold a diversified taxable municipal exposure through a single traded share. That accessibility is real, but it does not eliminate the underlying credit and interest-rate risks. Understanding what you own—local government debt, with the associated credit cycle and rate sensitivity—is as important with BAB as with any other fixed-income fund.
+The fund represents a maturing of the taxable municipal market itself. Where it once required an institutional client and a dedicated municipal bond manager, investors can now hold a diversified taxable municipal exposure through a single traded share. That accessibility is real, but it does not eliminate the underlying credit and interest-rate risks. Understanding what you own—local government debt, with the associated [credit cycle](/credit-cycle/) and rate sensitivity—is as important with BAB as with any other fixed-income fund.
 
 ## How to research BAB
 

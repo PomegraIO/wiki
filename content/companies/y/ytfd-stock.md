@@ -21,7 +21,7 @@ The business broker model relies on a simple economic relationship: a business o
 
 ## Expansion into transaction advisory
 
-Over time, as the middle-market M&A ecosystem became more sophisticated, Yale Transaction Finders evolved beyond simple business brokerage into broader transaction advisory. The expanded service model includes not just introducing buyers and sellers but also structuring deals, conducting due diligence, preparing valuation analyses, navigating financing, and advising on tax and legal implications.
+Over time, as the middle-market M&A ecosystem became more sophisticated, Yale Transaction Finders evolved beyond simple business brokerage into broader transaction advisory. The expanded service model includes not just introducing buyers and sellers but also structuring deals, conducting [due diligence](/due-diligence/), preparing valuation analyses, navigating financing, and advising on tax and legal implications.
 
 This shift toward full-service transaction advisory increases the value the company can capture per transaction. A complex sale involving earnouts, earn-in provisions, or post-closing adjustments generates higher advisory fees than a straightforward cash sale. The expanded service also builds switching costs for clients: an owner who has worked with a firm on valuation, financing sourcing, and deal structuring is more likely to return for follow-on transactions or to recommend the firm to other owners.
 
@@ -31,7 +31,7 @@ Yale's focus on the middle market reflects a market gap that persists despite th
 
 In between, there is a vast universe of mid-sized businesses where an owner wants to exit, a buyer wants to acquire, or investors want to finance growth or transitions. These deals are too large for traditional local brokers to handle but too small to interest [Goldman Sachs](/goldman-sachs/). Middle-market transaction advisory firms like Yale fill this gap, providing professional deal-making expertise without the overhead of a megabank.
 
-The customers for these services are business owners (who want a professional sale process), buyer companies (seeking acquisitions to expand), private equity firms (looking for add-on acquisitions to existing portfolio companies), and sometimes strategic investors seeking to enter or expand in a market. Each has different motivations and constraints, and Yale's value is in understanding each perspective and structuring deals that work for all parties.
+The customers for these services are business owners (who want a professional sale process), buyer companies (seeking acquisitions to expand), private equity firms (looking for [add-on acquisitions](/portco-add-on-acquisition/) to existing portfolio companies), and sometimes strategic investors seeking to enter or expand in a market. Each has different motivations and constraints, and Yale's value is in understanding each perspective and structuring deals that work for all parties.
 
 ## The recurring-fee opportunity
 

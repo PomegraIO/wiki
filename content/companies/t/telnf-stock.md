@@ -43,7 +43,7 @@ The [operating margin](/operating-margin/) — profit divided by revenue — has
 
 Southeast Asian regulators are different — less protective of consumers, sometimes more arbitrary — but they also face different pressures. Governments in Thailand, Bangladesh, and Myanmar are less concerned with consumer welfare and more concerned with revenue extraction and control. This creates both opportunity (less price regulation) and risk (spectrum costs can spike, licenses can be revoked, and political changes can disrupt operations).
 
-**Investment thesis and risks.** Telenor appeals to investors seeking stable cash flow and dividends rather than growth. The Nordic operations are mature, predictable, and unlikely to shrink or boom. The Southeast Asia operations offer higher growth but come with currency, political, and execution risk. If any major market — Norway, Thailand — faces a shock, the company's results are volatile.
+**Investment thesis and risks.** Telenor appeals to investors seeking stable cash flow and dividends rather than growth. The Nordic operations are mature, predictable, and unlikely to shrink or boom. The Southeast Asia operations offer higher growth but come with currency, political, and [execution risk](/execution-risk/). If any major market — Norway, Thailand — faces a shock, the company's results are volatile.
 
 The secular risk is technology disruption. Fiber and 5G require heavy capital, and the company must keep investing to stay competitive. If technological change accelerates beyond the pace of revenue growth, margins will compress further.
 

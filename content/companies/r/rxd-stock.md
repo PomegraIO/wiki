@@ -1,0 +1,26 @@
+---
+title: "ProShares UltraShort Health Care (RXD)"
+description: "RXD is a 3x inverse exchange-traded fund that aims to triple the daily decline of the NASDAQ Health Care Index, designed for traders betting on sharp sector downturns or hedging long healthcare exposure."
+keywords:
+  - inverse ETF
+  - healthcare sector
+  - short selling
+  - leveraged trading
+  - volatility decay
+  - NASDAQ Health Care
+handwritten: true
+---
+
+ProShares UltraShort Health Care tracks the opposite of the healthcare sector, amplified. Every time the [NASDAQ](/nasdaq/) Health Care Index falls by one percent, RXD aims to rise by three percent — a three-to-one inverse relationship that turns bearish conviction into daily upside. The fund is not a hold-forever instrument; it resets daily, and it deteriorates over longer periods as it clips itself against the math of compounding volatility. It serves a narrow but real purpose: a trader convinced that healthcare stocks are about to crater, or a portfolio manager wanting to hedge a heavy long position in pharma and medical-device names without selling the positions themselves.
+
+The healthcare sector inside the NASDAQ — dominated by companies like Novo Nordisk, [Broadcom](/avgo-stock/) (which owns networking infrastructure in medical settings), Regeneron, [Amgen](/amgn-stock/), and dozens of smaller biotech names — has been a volatile, contested sector across the past two decades. Patent cliffs, regulatory risk, drug-approval uncertainty, and periodic political pressure on drug pricing create the kind of sharp directional moves that make a short bet plausible. RXD exists because sometimes that conviction is strong enough to warrant a dedicated instrument, and because the cost of borrowing shares to short them directly can be steep.
+
+The fund's structure is mechanical but crucial to understand. It holds a basket of healthcare stocks and derivatives (primarily index futures and swap contracts) that move three times as much as the sector index but in the opposite direction. ProShares rebalances the fund every single day at market close, trimming or adding positions so that tomorrow's move will again be minus-three times the sector's move. This daily reset is the core feature and the core curse. Over a single bad day for healthcare — a regulatory shock, a earnings miss across the cohort — RXD can shoot up dramatically. But if the sector falls slowly, or if it falls, bounces, and drifts sideways, the fund bleeds away. Volatility decay eats the leverage; a sector that drifts down three percent over a month while taking a bumpy path — up, down, sideways — will have cost RXD far more than three percent of its value.
+
+This is not a failure of the fund; it is a mathematical inevitability of daily-reset leverage and inverse exposure combined. The fund's prospectus is honest about it, and anyone buying RXD is betting on a sharp, quick directional move, not a sustained conviction. A trader might hold it for hours or days while they wait for sector data or a [Federal Reserve](/federal-reserve/) decision that typically moves healthcare pricing. A portfolio manager might own it while rotating out of a healthcare position to avoid market disruption. But buying RXD as a multi-month bet on sector weakness is almost certainly a losing trade, surrendered to decay rather than a change in the sector's direction.
+
+The fund's size and trading activity are modest relative to its larger cousins — the flagship ProShares short and ultrashort products like the much-heavier original QQQ short inverse (PSQ) — but it trades with tight spreads and sufficient daily volume that intraday entry and exit are usually painless. [Expense ratios](/expense-ratio/) on inverse [leveraged ETFs](/leveraged-etf/) are not trivial; ProShares typically charges in the range of one percent or slightly higher per year, which is a significant drag if the bet extends beyond a week or two. Combined with the daily rebalancing cost and the drag of holding swap contracts, the fund's fees are steep relative to what a buy-and-hold investor might pay for a plain index exposure.
+
+The real risk, beyond decay and fees, is the investor's own miscalibration of sector direction. Healthcare is a large, complex sector that includes everything from $500 billion mega-cap pharmaceutical empires to single-protein biotech startups. A broad index decline can mask wild variance underneath — one part crashing while another rallies. A trader convinced the sector is falling can find that the fund was correctly tracking a three-to-one inverse move, but the portfolio was tilted toward the few names that held up. That is a research and selection risk, not a fund-structure risk, but it is a real source of losses for anyone using RXD without thinking carefully about which healthcare subsectors are actually vulnerable.
+
+For traders and hedgers willing to respect these limits, RXD offers clarity and liquidity. The NASDAQ Healthcare Index is well-defined and widely followed, the fund's tracking of that index is precise over daily resets, and the three-to-one inverse is unambiguous. Anyone considering it should read ProShares' documentation on how daily rebalancing works, stress-test the decay math with realistic sector moves, and treat it as a tactical instrument, not a position to hold through economic cycles.

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-UC Asset LP is a master limited partnership that invests in real estate specifically designed and equipped for medical cannabis cultivation. Based in Atlanta, Georgia, the firm operates as a specialized property investor in a fragmented market where cultivation operators need reliable facilities but lack the capital or inclination to own real estate outright. The business follows a model similar to traditional real estate investment structures, positioning itself as a landlord to licensed medical cannabis operators across multiple states.
+UC Asset LP is a master limited partnership that invests in real estate specifically designed and equipped for medical cannabis cultivation. Based in Atlanta, Georgia, the firm operates as a specialized property investor in a [fragmented market](/fragmented-market/) where cultivation operators need reliable facilities but lack the capital or inclination to own real estate outright. The business follows a model similar to traditional real estate investment structures, positioning itself as a landlord to licensed medical cannabis operators across multiple states.
 
 ## From real estate to cannabis infrastructure
 

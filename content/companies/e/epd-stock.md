@@ -23,7 +23,7 @@ This recurrence of cash flow is why midstream companies like Enterprise trade as
 
 ## Revenue by business segment
 
-Enterprise organizes around four main segments. Onshore Gathering and Processing handles the collection of natural gas and liquids at the wellhead and processing them. NGL (Natural Gas Liquids) Transport and Storage moves and stores propane, ethane, butane, and similar products. Crude Oil Transport runs the pipelines that move crude from producers to refineries. And Petrochemical and Refined Products Transport handles the products that come out of refineries and chemical plants.
+Enterprise organizes around four main segments. Onshore Gathering and Processing handles the collection of natural gas and liquids at the wellhead and processing them. NGL ([Natural Gas Liquids](/natural-gas-liquids/)) Transport and Storage moves and stores propane, ethane, butane, and similar products. Crude Oil Transport runs the pipelines that move crude from producers to refineries. And Petrochemical and Refined Products Transport handles the products that come out of refineries and chemical plants.
 
 Each segment is essentially a toll system. A producer pays Enterprise to move crude; a refiner pays to receive it and to move refined products downstream. Natural gas producers pay for gathering and processing. Petrochemical customers pay for transport and storage. These revenues are mostly contracted for periods of years, reducing the exposure to short-term price or volume swings.
 
@@ -45,7 +45,7 @@ Enterprise and its peers have begun preparing for this scenario by diversifying 
 
 ## The master limited partnership structure
 
-Enterprise's legal structure as a master limited partnership is central to its investment case. An MLP is taxed as a pass-through entity — it pays no corporate tax on its income; instead, unitholders pay tax on their share of the distributions they receive. This allows Enterprise to distribute nearly all of its cash flow to unitholders, unlike a regular corporation which would have to pay [corporate income tax](/corporate-income-tax/) before distributing dividends. The downside is that unitholders must declare their share of the partnership's income on their tax returns, even if they did not receive that cash as a distribution. Enterprise issues a Schedule K-1 to each unitholder each year, making tax filing more complex.
+Enterprise's legal structure as a master limited partnership is central to its investment case. An MLP is taxed as a pass-through entity — it pays no corporate tax on its income; instead, unitholders pay tax on their share of the distributions they receive. This allows Enterprise to distribute nearly all of its cash flow to unitholders, unlike a regular corporation which would have to pay [corporate income tax](/corporate-income-tax/) before distributing dividends. The downside is that unitholders must declare their share of the partnership's income on their tax returns, even if they did not receive that cash as a distribution. Enterprise issues a [Schedule K-1](/schedule-k-1/) to each unitholder each year, making tax filing more complex.
 
 For tax-advantaged investors (pension funds, university endowments), MLPs are particularly attractive because the tax pass-through is immaterial. For individuals holding in taxable accounts, the K-1 tax drag is a real consideration.
 

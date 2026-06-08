@@ -43,13 +43,13 @@ What Venture Global lacks is the integrated upstream asset base (oil and gas res
 
 **Commodity Price Volatility:** Venture Global's profitability swings with natural gas and LNG market prices. While long-term contracts anchor revenue, margin compression during periods of low LNG prices can stress returns, and conversely, high prices boost profitability but may spur demand destruction or substitute fuels.
 
-**Execution Risk:** The company has pushed to build and finance large export capacity. Capital cost inflation, supply chain disruptions, and labor constraints have affected LNG developers industry-wide. Any significant project delays or overruns reduce expected cash generation and can stress debt covenants or equity capital calls.
+**[Execution Risk](/execution-risk/):** The company has pushed to build and finance large export capacity. Capital cost inflation, supply chain disruptions, and labor constraints have affected LNG developers industry-wide. Any significant project delays or overruns reduce expected cash generation and can stress debt covenants or equity [capital calls](/capital-call/).
 
 **Regulatory and Geopolitical Headwinds:** U.S. LNG export policy has been politically contested. Permitting timelines, potential restrictions on new terminal exports, or shifts in administration priorities can affect project approval and operations. Internationally, geopolitical tensions (particularly between the U.S. and China, or Europe and Russia) create demand and pricing uncertainty.
 
 **Energy Transition:** The long-term structural question for any fossil fuel exporter is the path to a lower-carbon world. Natural gas is often framed as a transition fuel—cleaner than coal for power generation—but elevated climate ambitions and renewable energy growth create uncertainty around decade-long LNG demand. Venture Global's long-term value depends partly on whether LNG remains a stable part of global energy supply or faces accelerating displacement.
 
-**Debt and Financing:** Large LNG projects are typically financed with substantial debt secured against long-term contracts. Rising [interest rates](/interest-rate/) and tighter credit conditions have increased borrowing costs. Venture Global's [balance sheet](/balance-sheet/) and ability to service debt through market cycles will be critical to financial stability.
+**Debt and Financing:** Large LNG projects are typically financed with substantial debt secured against long-term contracts. Rising [interest rates](/interest-rate/) and tighter credit conditions have increased borrowing costs. Venture Global's [balance sheet](/balance-sheet/) and ability to service debt through [market cycles](/market-cycle/) will be critical to financial stability.
 
 ## How to Research It
 

@@ -9,7 +9,7 @@ keywords:
   - nutritional products
 ---
 
-*The economics of **Lifevantage (LFVN)** are built on a structure that most investors and regulators scrutinize carefully: direct-to-consumer sales through distributor networks and affiliate-marketing channels. The company manufactures or sources supplements and skin-care products and generates revenue by selling to independent distributors and online retail partners, who then resell to end consumers. Profitability depends on the health of the distributor network, the stickiness of repeat purchases, and the company's ability to avoid the legal and reputational risks associated with network-marketing structures.*
+*The economics of **Lifevantage (LFVN)** are built on a structure that most investors and regulators scrutinize carefully: direct-to-consumer sales through distributor networks and affiliate-marketing channels. The company manufactures or sources supplements and skin-care products and generates revenue by selling to independent distributors and online retail partners, who then resell to end consumers. Profitability depends on the health of the distributor network, the stickiness of repeat purchases, and the company's ability to avoid the legal and [reputational risks](/reputational-risk/) associated with network-marketing structures.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>LFVN</td></tr>

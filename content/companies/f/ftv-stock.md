@@ -46,7 +46,7 @@ This shift is economically important because recurring revenue is worth more to 
 
 ## The acquisition playbook and integrations
 
-Fortive inherited from Danaher a disciplined acquisition strategy: identify fragmented markets with specialized products, consolidate them, drive operational improvements, and extract margins. The company has deployed this playbook in condition monitoring, software-enabled diagnostics, and environmental equipment. Each acquisition is integrated into one of the four segments; best practices and operational templates flow from corporate down to the businesses; and the company looks for cost savings and revenue synergies between newly acquired businesses and existing franchises.
+Fortive inherited from Danaher a disciplined acquisition strategy: identify [fragmented markets](/fragmented-market/) with specialized products, consolidate them, drive operational improvements, and extract margins. The company has deployed this playbook in condition monitoring, software-enabled diagnostics, and environmental equipment. Each acquisition is integrated into one of the four segments; best practices and operational templates flow from corporate down to the businesses; and the company looks for cost savings and revenue synergies between newly acquired businesses and existing franchises.
 
 The risk of this model is that acquisitions can fail to deliver expected cost savings or integration can damage customer relationships if mishandled. Fortive has been more deliberate than some peers in managing integration speed and has generally succeeded, but the strategy's success depends entirely on disciplined capital allocation and strong operational execution.
 

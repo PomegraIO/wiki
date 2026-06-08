@@ -42,7 +42,7 @@ The geographic focus — North America, including Canada and Mexico — reflects
 
 ## The SPAC structure and timeline
 
-Globa Terra raised $175 million in its July 2025 IPO, with [founder shares](/founder-shares/) issued to the sponsors. The company has until July 2027 to identify a target, negotiate a definitive merger agreement, and close the transaction. If no deal closes by that deadline, the company liquidates and returns capital to shareholders.
+Globa Terra raised $175 million in its July 2025 IPO, with [founder shares](/founder-shares/) issued to the sponsors. The company has until July 2027 to identify a target, negotiate a [definitive merger agreement](/definitive-merger-agreement/), and close the transaction. If no deal closes by that deadline, the company liquidates and returns capital to shareholders.
 
 The founder shares create the key incentive: the sponsors' equity stake vests only if a deal closes and the public shareholders vote to approve it. If the deadline passes without a deal, the founder shares expire worthless, the sponsors recoup only the capital they contributed and a modest [management fee](/management-fee/), and the public investors get their money back. This structure is meant to discourage the sponsors from chasing deals at any price and to align their interests with the long-term value of the combined company.
 

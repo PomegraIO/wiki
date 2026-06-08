@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TTEQ is a basket of technology stocks. You get roughly 60 to 80 different companies covering software, semiconductors, internet, and hardware. The key difference from a plain [index fund](/index-fund/) is who picks the stocks: T. Rowe Price analysts decide what to own, not an algorithm that weights by [market cap](/market-capitalization/). The bet is simple — humans who study tech all day can choose better companies than a passive rule.
+TTEQ is a basket of technology stocks. You get roughly 60 to 80 different companies covering software, semiconductors, internet, and hardware. The key difference from a plain [index fund](/index-fund/) is who picks the stocks: [T. Rowe Price](/t-rowe-price/) analysts decide what to own, not an algorithm that weights by [market cap](/market-capitalization/). The bet is simple — humans who study tech all day can choose better companies than a passive rule.
 
 <aside class="wiki-infobox">
 <table>

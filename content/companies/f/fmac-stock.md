@@ -42,7 +42,7 @@ The upside of this breadth is flexibility. The downside is vagueness. An "AI com
 
 Future Money is rooted in FutureMoney Group, an established Asia-based investment firm. This gives the SPAC a potential edge in deal sourcing: relationships with Asian entrepreneurs, access to technology companies that may not be on the radar of U.S. investors, and the ability to bridge capital between Asia and U.S. public markets. The arbitrage here is real — a Chinese AI startup or a Vietnamese manufacturing innovator that cannot easily raise capital domestically might be attractive to a SPAC willing to combine and provide U.S. market liquidity.
 
-However, this also introduces regulatory and [operational risk](/operational-risk/). Cross-border deals carry complexity around foreign investment, intellectual property, supply chains, and geopolitics (particularly between the U.S. and China). If Future Money acquires an Asia-based AI or manufacturing company, U.S. investors will need to understand not just the business but the regulatory landscape and political risk inherent in international operations.
+However, this also introduces regulatory and [operational risk](/operational-risk/). Cross-border deals carry complexity around foreign investment, intellectual property, supply chains, and geopolitics (particularly between the U.S. and China). If Future Money acquires an Asia-based AI or manufacturing company, U.S. investors will need to understand not just the business but the regulatory landscape and [political risk](/political-risk/) inherent in international operations.
 
 ## The current environment and deal likelihood
 

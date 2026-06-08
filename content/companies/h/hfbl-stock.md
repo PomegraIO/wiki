@@ -47,7 +47,7 @@ A sustained period of very low rates pressures profitability. A sudden rate spik
 
 ## Regulatory Burden and Capital Requirements
 
-As a bank, HFBL is regulated by the [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation/) (FDIC), the [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) (OCC), and the Federal Reserve, depending on its charter. It must maintain minimum capital ratios (typically 10% or higher of risk-weighted assets) and undergo regular stress tests and examinations. Regulatory compliance is costly—legal, audit, and risk management—and is often harder to scale than lending itself.
+As a bank, HFBL is regulated by the [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation/) (FDIC), the [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) (OCC), and the Federal Reserve, depending on its charter. It must maintain minimum capital ratios (typically 10% or higher of [risk-weighted assets](/risk-weighted-assets/)) and undergo regular stress tests and examinations. Regulatory compliance is costly—legal, audit, and risk management—and is often harder to scale than lending itself.
 
 This regulatory moat protects Home Federal Bancorp from non-bank competitors, but it also raises the cost of operations and constrains how aggressively the bank can price lending or growth.
 

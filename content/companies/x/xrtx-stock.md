@@ -43,7 +43,7 @@ XORTX's location in Calgary positions it as one of Canada's rare pure-play bioph
 
 ## Risks and competitive pressures
 
-Gout is a crowded target class with established therapies (allopurinol, febuxostat) and is often treated as a chronic condition requiring patient compliance and long-term uric acid management. XRx-026 must demonstrate superiority or meaningful convenience advantage over generic incumbents to justify adoption. ADPKD is less crowded but has seen entry from larger firms; several novel therapies have reached the market in recent years. The company's small size, narrow pipeline, and dependence on clinical trial success in an unpredictable regulatory environment carry execution risk. Recruitment and retention of scientific talent, particularly in a smaller city, remain ongoing challenges.
+Gout is a crowded target class with established therapies (allopurinol, febuxostat) and is often treated as a chronic condition requiring patient compliance and long-term uric acid management. XRx-026 must demonstrate superiority or meaningful convenience advantage over generic incumbents to justify adoption. ADPKD is less crowded but has seen entry from larger firms; several novel therapies have reached the market in recent years. The company's small size, narrow pipeline, and dependence on clinical trial success in an unpredictable regulatory environment carry [execution risk](/execution-risk/). Recruitment and retention of scientific talent, particularly in a smaller city, remain ongoing challenges.
 
 ## How to research XORTX as an investment
 

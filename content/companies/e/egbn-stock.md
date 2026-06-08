@@ -17,7 +17,7 @@ keywords: ["bank", "community-bank", "lending", "regional", "commercial"]
 
 ## Geographic anchoring as the primary moat
 
-EGBN operates in Maryland and Virginia, regions with dense small-business populations, established commercial real-estate markets, and moderate commercial lending competition. A borrower seeking a $1 million construction loan or a working-capital line does not shop purely on rate—they need a lender who understands the local construction market, knows the permitting timelines, has relationships with the city planning office, and can move quickly because due diligence happens on a handshake. National banks and online lenders have difficulty replicating that embedded local presence. A borrower in Baltimore has a choice between EGBN's loan officer (who may know the borrower's spouse, may sit on the same chamber board, may have financed the borrower's previous venture) and an underwriter in Charlotte or Phoenix processing loan requests via video call and template checklists. Geography, in this case, is defensible.
+EGBN operates in Maryland and Virginia, regions with dense small-business populations, established commercial real-estate markets, and moderate commercial lending competition. A borrower seeking a $1 million [construction loan](/construction-loan/) or a working-capital line does not shop purely on rate—they need a lender who understands the local construction market, knows the permitting timelines, has relationships with the city planning office, and can move quickly because [due diligence](/due-diligence/) happens on a handshake. National banks and online lenders have difficulty replicating that embedded local presence. A borrower in Baltimore has a choice between EGBN's loan officer (who may know the borrower's spouse, may sit on the same chamber board, may have financed the borrower's previous venture) and an underwriter in Charlotte or Phoenix processing loan requests via video call and template checklists. Geography, in this case, is defensible.
 
 ## Relationship stickiness and switching friction
 
@@ -27,7 +27,7 @@ Deposits, too, are sticky. Businesses that bank with EGBN for lending often cons
 
 ## Knowledge advantages in underwriting
 
-EGBN's loan officers and credit analysts accumulate historical knowledge of local market cycles, property values, and business failure modes that no external algorithm captures efficiently. An EGBN underwriter, having seen three commercial-real-estate downturns in the Maryland market, knows which developer survives a downtown shopping-center [recession](/recession/) and which one does not. That pattern recognition is a real advantage in loan pricing and loss avoidance. It is also difficult for larger banks to compete on, because larger banks operate with centralized, standardized underwriting that does not weigh local context as heavily.
+EGBN's loan officers and credit analysts accumulate historical knowledge of local [market cycles](/market-cycle/), property values, and business failure modes that no external algorithm captures efficiently. An EGBN underwriter, having seen three commercial-real-estate downturns in the Maryland market, knows which developer survives a downtown shopping-center [recession](/recession/) and which one does not. That pattern recognition is a real advantage in loan pricing and loss avoidance. It is also difficult for larger banks to compete on, because larger banks operate with centralized, standardized underwriting that does not weigh local context as heavily.
 
 ## Constraint: size and capital limitations
 

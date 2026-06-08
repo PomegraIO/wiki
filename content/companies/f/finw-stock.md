@@ -24,7 +24,7 @@ keywords:
 
 ## The Deposit Foundation
 
-A bank is fundamentally a two-sided market: it buys deposits from one side (customers willing to hold cash at the bank in exchange for interest and safety) and sells credit to the other (borrowers willing to pay interest for access to capital). The [spread](/operating-margin/) between the deposit rate paid and the loan rate received is the bank's gross margin. For FinWise, that spread is the entire profit equation.
+A bank is fundamentally a [two-sided market](/two-sided-market-finance/): it buys deposits from one side (customers willing to hold cash at the bank in exchange for interest and safety) and sells credit to the other (borrowers willing to pay interest for access to capital). The [spread](/operating-margin/) between the deposit rate paid and the loan rate received is the bank's gross margin. For FinWise, that spread is the entire profit equation.
 
 FinWise gathers deposits from small-business owners and individuals across Utah and Wyoming. These depositors may lack sophisticated investment options, or they value the safety and convenience of a local bank relationship. A small-business owner keeps her working capital at FinWise not because the deposit rate is attractive—it is often negligible—but because the bank relationship matters. She may borrow from FinWise, reconcile payroll through FinWise, and trust that a local loan officer understands her business. That loyalty is FinWise's deposit franchise: it can pay minimal rates (currently near zero for checking, a fraction of a percent for savings) while maintaining a stable, low-cost funding base.
 

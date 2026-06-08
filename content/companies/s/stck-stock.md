@@ -26,9 +26,9 @@ Grayscale Stacks Trust (ticker: STCK on [NASDAQ](/nasdaq/), managed by the Grays
 
 ## What Stacks is and why it matters
 
-Stacks is a blockchain protocol that layers on top of Bitcoin. Because Bitcoin was designed primarily for payments and transactions — not for running software programs — it lacks native support for smart contracts or decentralized applications. Stacks solves that constraint by creating a separate blockchain that ties itself to Bitcoin's security. A Stacks transaction is eventually settled by anchoring data to the Bitcoin blockchain, meaning Stacks inherits Bitcoin's immutability and security while adding programmability.
+Stacks is a blockchain protocol that layers on top of Bitcoin. Because Bitcoin was designed primarily for payments and transactions — not for running software programs — it lacks native support for [smart contracts](/smart-contract/) or decentralized applications. Stacks solves that constraint by creating a separate blockchain that ties itself to Bitcoin's security. A Stacks transaction is eventually settled by anchoring data to the Bitcoin blockchain, meaning Stacks inherits Bitcoin's immutability and security while adding programmability.
 
-This architecture makes Stacks potentially valuable to anyone who wants Bitcoin's credibility but needs to build applications — decentralized finance platforms, non-fungible tokens, data storage systems, and other software that requires Bitcoin-backed settlement. The Stacks team positions the network as a bridge between Bitcoin's maturity and simplicity, and the richer functionality of smart-contract chains like [Ethereum](/ethereum/).
+This architecture makes Stacks potentially valuable to anyone who wants Bitcoin's credibility but needs to build applications — decentralized finance platforms, [non-fungible tokens](/non-fungible-token/), data storage systems, and other software that requires Bitcoin-backed settlement. The Stacks team positions the network as a bridge between Bitcoin's maturity and simplicity, and the richer functionality of smart-contract chains like [Ethereum](/ethereum/).
 
 ## The trust structure and its costs
 

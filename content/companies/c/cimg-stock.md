@@ -23,9 +23,9 @@ This niche is attractive because middle-market demand is growing and diverse, bu
 
 ## Revenue Model and Project Economics
 
-CIMG generates revenue primarily through two channels: time-and-materials consulting (hourly or daily rates for professional staff) and fixed-price projects (where CIMG bids a total fee for defined deliverables). Time-and-materials is high-margin if utilization is high but risky if staff sits idle between projects. Fixed-price is lower-margin because CIMG absorbs scope creep and execution risk, but it provides predictable revenue and allows for larger engagements.
+CIMG generates revenue primarily through two channels: time-and-materials consulting (hourly or daily rates for professional staff) and fixed-price projects (where CIMG bids a total fee for defined deliverables). Time-and-materials is high-margin if utilization is high but risky if staff sits idle between projects. Fixed-price is lower-margin because CIMG absorbs scope creep and [execution risk](/execution-risk/), but it provides predictable revenue and allows for larger engagements.
 
-A typical CIMG engagement might involve assessing a client's legacy IT infrastructure, designing a cloud migration or modernization plan, and executing the implementation over 6–18 months with a dedicated team. Revenue per employee (utilization multiplied by billing rate) is the primary driver of profitability. If CIMG can bill 70–80% of its engineers' time at rates of $150–$250 per hour (depending on seniority and specialization), profits follow. If utilization drops to 50% or below, or if project bids are too aggressive, margins evaporate.
+A typical CIMG engagement might involve assessing a client's legacy IT infrastructure, designing a cloud migration or modernization plan, and executing the implementation over 6–18 months with a dedicated team. [Revenue per employee](/revenue-per-employee/) (utilization multiplied by billing rate) is the primary driver of profitability. If CIMG can bill 70–80% of its engineers' time at rates of $150–$250 per hour (depending on seniority and specialization), profits follow. If utilization drops to 50% or below, or if project bids are too aggressive, margins evaporate.
 
 Unlike software companies that scale revenue by distributing copies of code, CIMG scales by hiring and training more skilled people, a labor-intensive path that limits margin expansion and makes profitability dependent on operational discipline.
 
@@ -39,7 +39,7 @@ CIMG's size—small-cap with likely 500–3,000 employees, depending on current 
 
 CIMG's revenue mix typically breaks into several buckets: legacy system modernization (moving old applications to cloud or replacing them), cloud infrastructure and migration (AWS, Azure, Google Cloud deployments), custom software development (building bespoke applications for client needs), and managed services (ongoing support and optimization of deployed systems).
 
-The relative importance of each varies by market cycle and client demand. In growth phases, custom development and cloud migration command premium rates. In slowdowns, clients shift to cost management and CIMG's managed-services revenue (lower-margin but stable) becomes more important. CIMG's competitive advantage or disadvantage in any of these buckets depends on its technical leadership, bench depth, and client relationships.
+The relative importance of each varies by [market cycle](/market-cycle/) and client demand. In growth phases, custom development and cloud migration command premium rates. In slowdowns, clients shift to cost management and CIMG's managed-services revenue (lower-margin but stable) becomes more important. CIMG's competitive advantage or disadvantage in any of these buckets depends on its technical leadership, bench depth, and client relationships.
 
 Unlike pure software vendors ([Salesforce](/crm-stock/), [ServiceNow](/now-stock/)) that license the same product to many clients, or large integrators that can field armies of interchangeable staff, CIMG must maintain sufficient technical depth in its chosen specializations while keeping overhead low enough to bid competitively.
 

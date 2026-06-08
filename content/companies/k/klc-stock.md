@@ -70,7 +70,7 @@ Supply-side pressure from wages and labor availability is persistent. The sector
 
 Consolidation risk is real. As larger operators struggle with margin compression, they may divest underperforming assets, sell off entire brands, or face [acquisition](/acquisition/) pressure. Smaller, niche competitors (nonprofit networks, religious organizations, employer-operated centers) maintain local footholds and price competitively, limiting KinderCare's ability to raise prices uniformly.
 
-Reputational risk is elevated in an industry where quality and safety are paramount. Any significant incident or quality-related litigation could damage enrollment and public perception quickly.
+[Reputational risk](/reputational-risk/) is elevated in an industry where quality and safety are paramount. Any significant incident or quality-related litigation could damage enrollment and public perception quickly.
 
 ## How to research KinderCare
 

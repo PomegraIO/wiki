@@ -29,7 +29,7 @@ Evvolutions LeadTech's path to public markets required raising growth capital to
 
 The question of how much ownership founders and early investors retain versus public shareholders depends on the funding history. Did Evvolutions raise from venture capital in private rounds before going public, or was it built more organically? Venture-backed companies typically see severe dilution: founders might retain 10–20% after multiple rounds; founders of bootstrapped or slow-growth companies may own 40% or more when they go public. The ownership structure influences whether management and the board prioritize growth and reinvestment (common when founders have large equity stakes) or profitability and shareholder returns (more likely with dispersed public ownership and activist investors).
 
-Looking at EVVO's [10-K](/10-k/) filings and proxy statements reveals insider ownership percentages and gives texture to these dynamics.
+Looking at EVVO's [10-K](/10-k/) filings and [proxy statements](/proxy-statement/) reveals insider ownership percentages and gives texture to these dynamics.
 
 ## Debt and Financial Leverage
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Newbridge [Acquisition](/acquisition/) Ltd is a blank-check company, also called a SPAC ([special-purpose acquisition company](/special-purpose-acquisition-company/)). This means it is a shell: there is no actual operating business yet. The company was created to raise cash from investors and then use that cash to buy another company (or merge with one), which would then become the public company. Newbridge, based in Hong Kong, completed its [initial public offering](/initial-public-offering/) in 2023 at $10 per unit. The NBRGR ticker represents the "rights" — fractional shares that investors receive as part of their unit, giving them the chance to buy more shares if and when a [merger](/merger/) happens.
+Newbridge [Acquisition](/acquisition/) Ltd is a blank-check company, also called a SPAC ([special-purpose acquisition company](/special-purpose-acquisition-company/)). This means it is a shell: there is no actual operating business yet. The company was created to raise cash from investors and then use that cash to buy another company (or merge with one), which would then become the public company. Newbridge, based in Hong Kong, completed its [initial public offering](/initial-public-offering/) in 2023 at $10 per unit. The NBRGR ticker represents the "rights" — [fractional shares](/fractional-shares/) that investors receive as part of their unit, giving them the chance to buy more shares if and when a [merger](/merger/) happens.
 
 <aside class="wiki-infobox">
 <table>
@@ -50,7 +50,7 @@ SPAC sponsors are required to disclose conflicts of interest, but the fundamenta
 
 ## The search criteria and the bet on size
 
-Newbridge's stated target was small-cap businesses across North America, Europe, or the Asia-Pacific region. The company specifically mentioned interest in green energy, new-energy technology, AI, software, and healthcare. These were broad categories — the company was not hunting for anything specific, just signaling: "We will buy something in the technology or healthcare space, probably smaller than a unicorn but substantial enough to justify the SPAC IPO."
+Newbridge's stated target was small-cap businesses across North America, Europe, or the Asia-Pacific region. The company specifically mentioned interest in green energy, new-energy technology, AI, software, and healthcare. These were broad categories — the company was not hunting for anything specific, just signaling: "We will buy something in the technology or healthcare space, probably smaller than a unicorn but substantial enough to justify the [SPAC IPO](/spac-ipo/)."
 
 The $57.5 million raised is a modest amount for a SPAC. Larger SPACs raised $300 million or more, buying bigger targets. Newbridge's size suggests it was hunting for a target in the $150–400 million valuation range, where the SPAC would provide a meaningful portion of the acquisition currency but not be too large a contributor.
 
@@ -74,7 +74,7 @@ This is a known problem in the SPAC world. Studies have shown that SPACs that cl
 
 ## How to research a SPAC like Newbridge
 
-If Newbridge announces a merger target, read the proxy statement carefully. It will disclose the target's financials, growth rates, customer concentration, and management team. Compare the valuation (what Newbridge is paying) to the target's growth rate, profitability, and peers. If the sponsor is taking unusual fees, or if there are a lot of shares reserved for the sponsor or new management, that is a red flag.
+If Newbridge announces a merger target, read the [proxy statement](/proxy-statement/) carefully. It will disclose the target's financials, growth rates, customer concentration, and management team. Compare the valuation (what Newbridge is paying) to the target's growth rate, profitability, and peers. If the sponsor is taking unusual fees, or if there are a lot of shares reserved for the sponsor or new management, that is a red flag.
 
 Watch the redemption rate when shareholders vote. If a huge percentage of public shareholders vote to redeem their shares (take their $10 back), that signals that even public SPAC investors think the deal is bad.
 

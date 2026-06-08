@@ -23,7 +23,7 @@ For Lion One, cash burn is the primary constraint. Exploration requires sustaine
 
 ## Geographic risk and jurisdiction leverage
 
-Lion One operates in Fiji, an emerging jurisdiction with lower costs but higher sovereign and regulatory risks than North American mining locations. Exploration costs in Fiji are lower than in Canada or Australia—labor is cheaper, permits can move faster—but the risk of regulatory reversal or political instability creates a [discount rate](/discount-rate/) that investors apply. The unit economics of exploration thus include a hidden cost: the political risk premium. An ounce of gold discovered in Fiji is worth less to a market participant than the same ounce in Canada because the path to production faces more governance obstacles. Lion One's task is to discover enough ore at low enough cost that even after applying this risk discount, the project economics make sense.
+Lion One operates in Fiji, an emerging jurisdiction with lower costs but higher sovereign and regulatory risks than North American mining locations. Exploration costs in Fiji are lower than in Canada or Australia—labor is cheaper, permits can move faster—but the risk of regulatory reversal or political instability creates a [discount rate](/discount-rate/) that investors apply. The unit economics of exploration thus include a hidden cost: the [political risk](/political-risk/) premium. An ounce of gold discovered in Fiji is worth less to a market participant than the same ounce in Canada because the path to production faces more governance obstacles. Lion One's task is to discover enough ore at low enough cost that even after applying this risk discount, the project economics make sense.
 
 ## The transition threshold
 

@@ -26,7 +26,7 @@ The Ambler project is Trilogy's flagship asset: a large, well-defined copper-gol
 
 The challenge is Alaska's remote location, harsh climate, permitting complexity, and environmental sensitivities. Building a mine in the Arctic requires infrastructure — roads, ports, power — that does not exist. Permitting involves indigenous communities, state and federal regulators, and environmental agencies. The time to build a mine in Alaska is measured in decades and the capital required is in the tens of billions. These factors explain why Ambler has never been developed despite its geological promise: the hurdle is not geological uncertainty but rather the business, regulatory, and environmental challenges of Arctic mining.
 
-Trilogy has spent years on engineering and environmental work, producing feasibility studies and conducting the technical and social due diligence needed to move toward development. That work signals to potential partners that the company has done enough homework that a major could reasonably consider taking on the project. Without it, a major would face too much technical and regulatory risk to commit capital.
+Trilogy has spent years on engineering and environmental work, producing feasibility studies and conducting the technical and social [due diligence](/due-diligence/) needed to move toward development. That work signals to potential partners that the company has done enough homework that a major could reasonably consider taking on the project. Without it, a major would face too much technical and regulatory risk to commit capital.
 
 ## Who funds Trilogy and how does it raise capital?
 
@@ -46,7 +46,7 @@ Development-stage mining companies face multiple categories of risk. Geological 
 
 Capital risk is also material. If the company cannot raise capital to advance its properties, it must slow or halt work. [Market risk](/market-risk/) is pervasive: if commodity prices fall sharply or if investor sentiment toward mining deteriorates, the company's stock price may fall and capital becomes expensive or unavailable.
 
-Finally, there is execution risk. Trilogy's management team must make sound technical and strategic choices about which properties to advance, when to partner, and how to manage capital. A poor strategic decision or missed opportunity can destroy shareholder value.
+Finally, there is [execution risk](/execution-risk/). Trilogy's management team must make sound technical and strategic choices about which properties to advance, when to partner, and how to manage capital. A poor strategic decision or missed opportunity can destroy shareholder value.
 
 ## How should an investor or analyst research Trilogy Metals?
 

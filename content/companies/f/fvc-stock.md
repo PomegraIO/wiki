@@ -43,6 +43,6 @@ The fund's frequent rebalancing makes it less tax-efficient in taxable accounts 
 
 ## Evaluating the approach
 
-Assess FVC by comparing its returns to a broad large-cap index (such as the [S&P 500 index](/sp-500-index/)) over multiple market cycles — ideally 5, 10, and 15 years where available. Has the dynamic selection process delivered returns that justify its higher expense ratio and [concentration risk](/concentration-risk/)? Watch the fund's turnover rate and the overlap between its current holdings and those of a few months prior; understand how frequently the strategy rotates.
+Assess FVC by comparing its returns to a broad large-cap index (such as the [S&P 500 index](/sp-500-index/)) over multiple [market cycles](/market-cycle/) — ideally 5, 10, and 15 years where available. Has the dynamic selection process delivered returns that justify its higher expense ratio and [concentration risk](/concentration-risk/)? Watch the fund's turnover rate and the overlap between its current holdings and those of a few months prior; understand how frequently the strategy rotates.
 
 Research the five current holdings directly to assess whether they genuinely have the relative-strength and fundamental characteristics the methodology claims to identify. The strength of an active strategy ultimately depends on whether the manager's edge is real and durable.

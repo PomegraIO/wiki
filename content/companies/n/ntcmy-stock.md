@@ -43,7 +43,7 @@ The challenge is translating brand values into pricing power and growth. Natura 
 
 ## Geography, currency, and the Brazil exposure
 
-A substantial portion of Natura's business is concentrated in Brazil and other Latin American markets where the company has distribution strength. This geographic concentration creates both opportunity and risk. Brazil is a large market for beauty products, but it has experienced macroeconomic volatility that affects consumer [discretionary spending](/discretionary-spending/). Currency fluctuations between the Brazilian real and the [US dollar](/us-dollar/), in which many of Natura's debts are denominated, create financial risk when the real weakens.
+A substantial portion of Natura's business is concentrated in Brazil and other Latin American markets where the company has distribution strength. This geographic concentration creates both opportunity and risk. Brazil is a large market for beauty products, but it has experienced macroeconomic volatility that affects consumer [discretionary spending](/discretionary-spending/). Currency fluctuations between the [Brazilian real](/brazilian-real/) and the [US dollar](/us-dollar/), in which many of Natura's debts are denominated, create financial risk when the real weakens.
 
 The company's global reach through The Body Shop and Aesop is meant to diversify this exposure, but those operations remain secondary to the core Brazil business. Expanding Natura brand presence in larger developed markets — North America, Western Europe, East Asia — is strategically important but operationally difficult against entrenched competitors and would require sustained investment.
 

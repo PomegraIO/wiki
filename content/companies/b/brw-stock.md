@@ -38,7 +38,7 @@ A fund like Saba Capital Income & Opportunities lives and dies on its manager's 
 
 In practice, this moat is narrow and temporary. Credit markets are competitive and information-rich. If a [bond](/bond/) is obviously cheap, any competent analyst can spot it. The real edge lies in specialisation — a manager's deep knowledge of a particular segment (say, asset-backed securities or distressed loans) or a particular geography, letting them price risk more accurately than the average player and act decisively when others hesitate. It also lies in relationships: a manager known for fair dealing and deep pockets becomes a partner to banks and sponsors, gaining allocation to good deals before they reach the open market.
 
-Saba Capital's public positioning has typically centred on credit expertise and a flexible mandate — the freedom to move fluidly between corporate bonds, loans, structured products, and equity where the risk-reward aligns. That flexibility is an advantage only if the managers exercising it have real skill in spotting opportunities across those diverse areas, and only if they move faster than performance-chasing [capital flows](/capital-flows/) can flatten the opportunity set.
+Saba Capital's public positioning has typically centred on credit expertise and a flexible mandate — the freedom to move fluidly between corporate bonds, loans, [structured products](/structured-product/), and equity where the risk-reward aligns. That flexibility is an advantage only if the managers exercising it have real skill in spotting opportunities across those diverse areas, and only if they move faster than performance-chasing [capital flows](/capital-flows/) can flatten the opportunity set.
 
 ## How the fund makes money and what holds it back
 

@@ -33,7 +33,7 @@ Agricultural harvest and packing are labor-intensive and seasonal. Fresh Factory
 
 ## Working Capital and Inventory Dynamics
 
-Unlike a manufacturer with steady-state production, an agricultural producer has lumpy inventory: either there is a harvest and it must be stored, processed, and shipped quickly, or there is nothing. This creates volatile working-capital needs. During harvest season, Fresh Factory must finance purchase of containers, packing materials, cold storage, and transportation. If the harvest is abundant and prices are weak, the company may be forced to carry inventory or discount heavily. If the harvest fails, capital is wasted on unused infrastructure. Managing this working-capital volatility requires either substantial cash reserves or reliable access to credit lines—both of which are constrained for a small OTC-traded company.
+Unlike a manufacturer with steady-state production, an agricultural producer has lumpy inventory: either there is a harvest and it must be stored, processed, and shipped quickly, or there is nothing. This creates volatile working-capital needs. During harvest season, Fresh Factory must finance purchase of containers, packing materials, [cold storage](/cold-storage-crypto/), and transportation. If the harvest is abundant and prices are weak, the company may be forced to carry inventory or discount heavily. If the harvest fails, capital is wasted on unused infrastructure. Managing this working-capital volatility requires either substantial cash reserves or reliable access to credit lines—both of which are constrained for a small OTC-traded company.
 
 ## Contract vs. Spot Market Exposure
 

@@ -33,7 +33,7 @@ This creates two consequences. First, a bond investor in BSCU experiences less p
 
 ## Costs and trading logistics
 
-BSCU's [expense ratio](/expense-ratio/) is approximately 0.40 percent annually, a competitive rate for an actively managed bond fund. The fund trades on the NYSE Arca exchange with solid liquidity — daily volume and tight spreads make it easy for retail investors to buy and sell shares without paying wide bid-ask premiums.
+BSCU's [expense ratio](/expense-ratio/) is approximately 0.40 percent annually, a competitive rate for an actively managed bond fund. The fund trades on the [NYSE Arca](/nyse-arca/) exchange with solid liquidity — daily volume and tight spreads make it easy for retail investors to buy and sell shares without paying wide bid-ask premiums.
 
 The fund's net asset value per share reflects the market value of its underlying bonds. As those bonds approach maturity, their price stability increases, and so does BSCU's. By late 2029, the fund will have very low volatility and should trade near par (the face value of the bonds).
 

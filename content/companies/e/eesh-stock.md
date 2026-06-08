@@ -23,7 +23,7 @@ For a component supplier like EESTech, the cyclicality is amplified through the 
 
 ## The customer base as a cyclical indicator
 
-EESTech's customer base is likely concentrated among industrial manufacturers, utilities, and OEMs in developed countries (particularly the United States and Europe, where the company probably operates). These customers are highly sensitive to the credit cycle, the Fed's interest-rate policy, and expectations of near-term demand. In the years following a rate hike, when cost of capital rises and growth expectations decline, capex cycles flatten sharply. In periods of easy credit and growth optimism, capex accelerates. EESTech's orders and backlog are leading indicators of this cycle, often turning ahead of broader economic slowdowns.
+EESTech's customer base is likely concentrated among industrial manufacturers, utilities, and OEMs in developed countries (particularly the United States and Europe, where the company probably operates). These customers are highly sensitive to the [credit cycle](/credit-cycle/), the Fed's interest-rate policy, and expectations of near-term demand. In the years following a rate hike, when cost of capital rises and growth expectations decline, capex cycles flatten sharply. In periods of easy credit and growth optimism, capex accelerates. EESTech's orders and backlog are [leading indicators](/leading-indicator/) of this cycle, often turning ahead of broader economic slowdowns.
 
 ## Secular headwinds: the shift to lower-energy and distributed systems
 

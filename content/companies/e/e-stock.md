@@ -56,7 +56,7 @@ Return on capital has been mediocre for years, particularly when measured over c
 
 ## Risks and Structural Challenges
 
-Beyond commodity price volatility, ENI faces several specific headwinds. Geological risk is real: exploration drilling often fails to find economically viable reserves, and major projects can underperform reserves estimates. Regulatory and political risk in operating countries is material; host governments can change terms, impose windfall taxes, or restrict operations. The energy transition creates earnings uncertainty: even if the company successfully shifts its portfolio, the transition away from fossil fuels will compress profitability in the medium term.
+Beyond commodity price volatility, ENI faces several specific headwinds. Geological risk is real: exploration drilling often fails to find economically viable reserves, and major projects can underperform reserves estimates. Regulatory and [political risk](/political-risk/) in operating countries is material; host governments can change terms, impose windfall taxes, or restrict operations. The energy transition creates earnings uncertainty: even if the company successfully shifts its portfolio, the transition away from fossil fuels will compress profitability in the medium term.
 
 Competitive pressure from larger integrated majors and from specialized renewable and gas utilities is increasing. ENI is large but not as large as [Exxon Mobil](/xom-stock/) or Saudi Aramco, and it must compete for capital, [acquisitions](/acquisition/), and partnerships against stronger and wealthier competitors. Currency exposure is another factor: ENI reports in euros but earns significant revenue in dollars; a weak dollar reduces reported earnings and cash generation.
 

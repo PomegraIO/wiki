@@ -44,7 +44,7 @@ Diversification across brands and product categories reduces dependence on any s
 
 ## What are the structural risks and pressures facing Ralph Lauren?
 
-The company faces several meaningful headwinds. First, wholesale relationships are structurally declining as department stores (a core historical channel) lose market share and negotiating power. While Ralph Lauren has adapted, the transition to direct-to-consumer requires sustained capital investment and carries execution risk.
+The company faces several meaningful headwinds. First, wholesale relationships are structurally declining as department stores (a core historical channel) lose market share and negotiating power. While Ralph Lauren has adapted, the transition to direct-to-consumer requires sustained capital investment and carries [execution risk](/execution-risk/).
 
 Second, the luxury goods market is exposed to consumer discretionary weakness during [recessions](/recession/) and to shifts in wealth distribution. While Ralph Lauren spans multiple price points, premium apparel is cyclical. Economic slowdowns in key markets (the United States, Western Europe, China) directly hit demand.
 

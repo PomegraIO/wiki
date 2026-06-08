@@ -47,7 +47,7 @@ Zinc and copper are used globally in construction, automotive, electronics, and 
 
 The challenge for Nexa and the industry is that high metal prices also incentivize new mine development by competitors, which eventually increases global supply and pushes prices down. Zinc has a history of supply-demand volatility and price swings that can be severe. Copper is more stable and more tightly integrated into the global economy, but both are vulnerable to demand shocks from economic slowdowns or sector-specific disruptions.
 
-Environmental and social pressures are rising across mining globally. Latin American mining operations face increasing scrutiny around water use, tailings management, impacts on indigenous communities, and permitting and political risk. Nexa's operations in Peru, a country with a long history of mining and also significant social conflict around mining, are subject to these pressures. Environmental compliance costs are high and growing.
+Environmental and social pressures are rising across mining globally. Latin American mining operations face increasing scrutiny around water use, tailings management, impacts on indigenous communities, and permitting and [political risk](/political-risk/). Nexa's operations in Peru, a country with a long history of mining and also significant social conflict around mining, are subject to these pressures. Environmental compliance costs are high and growing.
 
 ## How to research Nexa as an investment
 

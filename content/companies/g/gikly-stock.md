@@ -59,7 +59,7 @@ The plasma-derived sector faces several headwinds. First, pricing pressure from 
 
 There is also regulatory risk around plasma collection itself — countries periodically tighten rules on donor compensation or impose import restrictions, and the COVID-19 pandemic illustrated how donation centers can be disrupted by lockdowns and public-health restrictions.
 
-Finally, like any blood-product company, Grifols carries reputational and legal risk. Historically, contaminated blood products have caused disease outbreaks, and lawsuits have followed. Modern screening and safety systems have greatly reduced that risk, but it remains a potential tail event.
+Finally, like any blood-product company, Grifols carries reputational and [legal risk](/legal-risk/). Historically, contaminated blood products have caused disease outbreaks, and lawsuits have followed. Modern screening and safety systems have greatly reduced that risk, but it remains a potential tail event.
 
 ## How a reader would research Grifols
 

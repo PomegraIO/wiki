@@ -51,7 +51,7 @@ The Ukraine conflict's impact on European defense spending (NATO expansion, incr
 
 A secular trend favoring DroneShield emerges from integration of counter-UAS into broader military and critical-infrastructure architecture. Standalone counter-UAS systems are valuable but inefficient; integrated airspace-management systems that combine drone detection, threat classification, and response coordination (human operators, directed energy, kinetic intercept) are more cost-effective and operationally superior. This integration trend is structural and will persist for decades.
 
-DroneShield's success depends on positioning counter-UAS capabilities as components within larger security-architecture integrations. This requires partnerships with systems integrators, adoption of open standards, and software platforms that enable third-party integration. Such positioning provides recurring software revenue and higher switching costs for customers, both dampening cyclical exposure. But achieving integration leadership in a fragmented market takes time and sustained investment, both of which remain subject to funding cycles.
+DroneShield's success depends on positioning counter-UAS capabilities as components within larger security-architecture integrations. This requires partnerships with systems integrators, adoption of open standards, and software platforms that enable third-party integration. Such positioning provides recurring software revenue and higher switching costs for customers, both dampening cyclical exposure. But achieving integration leadership in a [fragmented market](/fragmented-market/) takes time and sustained investment, both of which remain subject to funding cycles.
 
 ## Capital Intensity and Scale Economics
 

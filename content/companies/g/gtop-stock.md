@@ -35,7 +35,7 @@ The selection process emphasises understanding each company's competitive positi
 
 ## Trading characteristics and investor access
 
-GTOP trades on NYSE Arca throughout the trading day, allowing investors to transact at intraday prices. The fund's [expense ratio](/expense-ratio/), disclosed in its prospectus, reflects the cost of active management; as with Goldman Sachs' other actively managed equity funds, it is higher than that of a passive technology index fund but competitive within the universe of actively managed technology products. Liquidity is typically good, particularly for institutional and large retail orders, given the fund's size and the prominence of Goldman Sachs as an asset manager.
+GTOP trades on [NYSE Arca](/nyse-arca/) throughout the trading day, allowing investors to transact at intraday prices. The fund's [expense ratio](/expense-ratio/), disclosed in its prospectus, reflects the cost of active management; as with Goldman Sachs' other actively managed equity funds, it is higher than that of a passive technology index fund but competitive within the universe of actively managed technology products. Liquidity is typically good, particularly for institutional and large retail orders, given the fund's size and the prominence of Goldman Sachs as an asset manager.
 
 ## Risks in technology investing
 

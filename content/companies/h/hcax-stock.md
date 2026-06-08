@@ -36,7 +36,7 @@ The appeal of the SPAC structure lies in its compressed timeline and reduced fri
 
 For investors, the pitch is simpler: rather than betting on the IPO valuation of an unknown private company, SPAC investors entrust a known sponsor with capital and a mandate to find a good deal. The sponsor has skin in the game; [founder shares](/founder-shares/) are typically held at a discount or with restrictions, so the sponsor loses money if the SPAC liquidates without a successful merger.
 
-Yet the structure contains built-in tensions. The sponsor benefits from completing a merger almost regardless of quality — it is how sponsors realize a profit on their founder shares and earn future fund-management fees. Ordinary shareholders, by contrast, can redeem. This misalignment of incentives, combined with retail investor enthusiasm for SPAC IPOs in the 2020–2021 period, led to a wave of acquisitions on marginal economic terms and subsequent underperformance once those deals went public. Regulatory scrutiny tightened considerably afterward, and the SPAC boom cooled.
+Yet the structure contains built-in tensions. The sponsor benefits from completing a merger almost regardless of quality — it is how sponsors realize a profit on their founder shares and earn future fund-management fees. Ordinary shareholders, by contrast, can redeem. This misalignment of incentives, combined with retail investor enthusiasm for [SPAC IPOs](/spac-ipo/) in the 2020–2021 period, led to a wave of acquisitions on marginal economic terms and subsequent underperformance once those deals went public. Regulatory scrutiny tightened considerably afterward, and the SPAC boom cooled.
 
 ## Evaluating a blank-check vehicle
 
@@ -54,6 +54,6 @@ For shareholders in an existing SPAC, the key risk is opportunity cost — capit
 
 ## How to track a SPAC merger
 
-The most useful public documents are the SPAC's quarterly SEC filings (10-Q) and the merger proxy statement (formally a Schedule 14A or DEFM14A), which includes the sponsor's compensation, the target's financials (if available), and the merger timeline. The warrant agreement, also filed publicly, describes the warrant terms and when they can be exercised. For Shell status and any announced deal, check the company's investor relations website and the SEC's EDGAR filing system.
+The most useful public documents are the SPAC's quarterly SEC filings (10-Q) and the merger [proxy statement](/proxy-statement/) (formally a Schedule 14A or DEFM14A), which includes the sponsor's compensation, the target's financials (if available), and the merger timeline. The warrant agreement, also filed publicly, describes the warrant terms and when they can be exercised. For Shell status and any announced deal, check the company's investor relations website and the SEC's EDGAR filing system.
 
 The decision to invest in a SPAC is ultimately a bet on the sponsor team and their stated criteria. No operating results exist to evaluate, no competitive moat is yet visible, and the deal itself is not yet announced. This is why SPAC shares are more akin to venture capital — high-risk bets on management judgment — than to traditional public-company equity.

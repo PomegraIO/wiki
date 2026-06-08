@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-[Enterprise Products Partners](/epd-stock/) is one of the largest midstream energy companies in North America, operating an integrated network of pipelines, processing facilities, and storage terminals that move and process oil, [natural gas](/natural-gas/), and natural gas liquids. The company operates as a master limited partnership (MLP), structured to provide regular cash distributions to investors. Its infrastructure assets stretch across the United States and connect production regions to refineries, chemical plants, and export terminals.
+[Enterprise Products Partners](/epd-stock/) is one of the largest midstream energy companies in North America, operating an integrated network of pipelines, processing facilities, and storage terminals that move and process oil, [natural gas](/natural-gas/), and [natural gas liquids](/natural-gas-liquids/). The company operates as a master limited partnership (MLP), structured to provide regular cash distributions to investors. Its infrastructure assets stretch across the United States and connect production regions to refineries, chemical plants, and export terminals.
 
 <aside class="wiki-infobox">
 <table>
@@ -55,7 +55,7 @@ That said, Enterprise faces competition from other midstream operators, alternat
 
 Enterprise's cash flows depend on volumes moving through its systems. In downturns or during sustained commodity weakness, drilling budgets fall and production declines, which can reduce volumes on gathering pipelines. Offshore operations are exposed to hurricane risk and geopolitical tension in the Gulf of Mexico. The company also carries debt to fund its capital expenditure program and is sensitive to [interest rate](/interest-rate/) changes.
 
-The deepest structural risk is energy transition: if North American oil and gas production declines faster than expected, or if natural gas demand erodes due to renewable electricity and electrified heating, Enterprise's long-term cash flows could face secular pressure. Regulatory scrutiny of fossil fuel infrastructure—such as pipeline permitting delays—adds execution risk to growth plans.
+The deepest structural risk is energy transition: if North American oil and gas production declines faster than expected, or if natural gas demand erodes due to renewable electricity and electrified heating, Enterprise's long-term cash flows could face secular pressure. Regulatory scrutiny of fossil fuel infrastructure—such as pipeline permitting delays—adds [execution risk](/execution-risk/) to growth plans.
 
 ## How to research Enterprise
 

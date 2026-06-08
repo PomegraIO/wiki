@@ -21,7 +21,7 @@ The revenue model is almost entirely recurring and long-term. Customers sign mul
 
 ### How does Lumen make money, and where does the debt come from?
 
-Lumen's earnings come directly from selling capacity on its networks. Larger, stickier customers (global enterprises, cloud platforms, major carriers) contract for dedicated fiber, wavelengths, or virtual circuits at negotiated rates. Smaller customers or spot purchasers pay higher prices for smaller quantities. The company operates data centers that augment the fiber business — hosting customer equipment, colocation services, and security services that cluster around the core connectivity offerings.
+Lumen's earnings come directly from selling capacity on its networks. Larger, stickier customers (global enterprises, cloud platforms, major carriers) contract for dedicated fiber, wavelengths, or virtual circuits at negotiated rates. Smaller customers or spot purchasers pay higher prices for smaller quantities. The company operates data centers that augment the fiber business — hosting customer equipment, [colocation services](/colocation-services/), and security services that cluster around the core connectivity offerings.
 
 The profit story is straightforward in concept but complex in practice. The company spends substantial capital to maintain, upgrade, and extend its networks, yet its revenue is increasingly threatened by cheaper alternatives, most notably terrestrial fiber built by newer carriers and the shift of major cloud companies toward building or owning their own long-haul capacity. Margins on legacy voice and lower-tier enterprise services are being compressed. The company therefore faces a classic "manage decline while investing in growth" dynamic.
 

@@ -36,7 +36,7 @@ The company competes implicitly with larger consulting firms on cost and regiona
 
 **[Market timing](/market-timing/) and external conditions.** Cross-border deal flow and investment sentiment are cyclical and sensitive to geopolitical and macroeconomic headwinds. Rising tensions between China and Southeast Asian nations, labor disputes, political instability, or a broad economic downturn would reduce demand for advisory services.
 
-**Regulatory and legal risk.** Advisory services, especially those touching on government relations or foreign investment, can face regulatory scrutiny in multiple jurisdictions. Changes to foreign investment rules in Vietnam or restrictions on Chinese [capital flows](/capital-flows/) could constrain client activity.
+**Regulatory and [legal risk](/legal-risk/).** Advisory services, especially those touching on government relations or foreign investment, can face regulatory scrutiny in multiple jurisdictions. Changes to foreign investment rules in Vietnam or restrictions on Chinese [capital flows](/capital-flows/) could constrain client activity.
 
 **Talent retention.** The firm's value resides largely in its people and their expertise. High staff turnover or departure of key advisors could seriously impair service quality and client relationships.
 

@@ -26,7 +26,7 @@ Marketwise's earnings come from three mechanical sources, each filling a differe
 
 The company's profitability depends on a virtuous loop: free content attracts large audiences, which justifies higher advertising rates and makes subscription pitches credible. Subscribers generate enough perceived value that they stay and refer friends. Advertising revenue stays high-margin because the cost of distributing a second ad is near-zero. Referral fees come as a bonus from users already engaged. The business does not require new product development to grow revenue at a given user base; it mainly requires keeping users active and deepening monetization on existing relationships.
 
-Content production—research, market commentary, video production—is the primary cost, but Marketwise scales this across all three revenue streams simultaneously. A single piece of proprietary analysis reaches free users (advertising value), premium subscribers (subscription stickiness), and referred advisors (referral conversion). This multiplicity of use is essential to the unit economics.
+Content production—research, market commentary, video production—is the primary cost, but Marketwise scales this across all three revenue streams simultaneously. A single piece of proprietary analysis reaches free users (advertising [value), premium](/value-premium/) subscribers (subscription stickiness), and referred advisors (referral conversion). This multiplicity of use is essential to the unit economics.
 
 ## Scale and Competitive Positioning
 

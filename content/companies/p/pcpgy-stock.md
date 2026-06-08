@@ -37,7 +37,7 @@ Geographic concentration is also a risk. A majority of PC Partner's revenue come
 
 ## How does PC Partner's balance sheet look?
 
-As a mature manufacturing company with consistent revenues, PC Partner maintains a basic [balance sheet](/balance-sheet/). The company carries inventory (chips, components, finished goods in various stages of completion) as its largest current asset. During market booms, inventory builds quickly as the company ramps production. During busts, inventory becomes a drag as the company must mark down old stock or obsolete components. This inventory cycle is a major source of cash-flow volatility. The company also carries some debt, typical for manufacturers, and generates positive operating cash flow in normal years. But the cyclicality of the business means cash flow can deteriorate rapidly if demand drops and the company is stuck with expensive inventory.
+As a mature manufacturing company with consistent revenues, PC Partner maintains a basic [balance sheet](/balance-sheet/). The company carries inventory (chips, components, finished goods in various stages of completion) as its largest current asset. During market booms, inventory builds quickly as the company ramps production. During busts, inventory becomes a drag as the company must mark down old stock or obsolete components. This [inventory cycle](/inventory-cycle/) is a major source of cash-flow volatility. The company also carries some debt, typical for manufacturers, and generates positive operating cash flow in normal years. But the cyclicality of the business means cash flow can deteriorate rapidly if demand drops and the company is stuck with expensive inventory.
 
 ## How should an investor research PC Partner?
 

@@ -63,6 +63,6 @@ Renewal rates and net revenue retention (growth from existing customers) are cri
 - [/10-k/](/10-k/) — Annual filings where Everforth discloses its revenue model in detail
 
 ### Wider context
-- [/balance-sheet/](/balance-sheet/) — Where Everforth's deferred revenue (customer prepayments) appears
+- [/balance-sheet/](/balance-sheet/) — Where Everforth's [deferred revenue](/deferred-revenue/) (customer prepayments) appears
 - [/stock-exchange/](/stock-exchange/) — Marketplace where EFOR trades
 </div>

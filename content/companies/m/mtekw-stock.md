@@ -57,7 +57,7 @@ Redemption can be advantageous if the underlying shares have soared far above st
 
 Before the merger closes, MTEKW is a pure bet on Maris Tech's deal execution and the eventual target's appeal to the market. The risk-reward is asymmetric: warrant holders can gain multiples of capital if the target is strong and the market embraces it, but can lose everything if the deal falls through or is deeply unpopular.
 
-Experienced warrant traders watch for signs of management activity (announcements, shareholder voting, due diligence leaks), redemption notices, and the SPAC's timeline. As the deadline approaches without a target, warrant holders face [time decay](/time-decay-theta/) and [liquidation](/liquidation/) risk — if the SPAC fails to merge, shareholders can redeem their capital, and warrant holders receive nothing.
+Experienced warrant traders watch for signs of management activity (announcements, shareholder voting, [due diligence](/due-diligence/) leaks), redemption notices, and the SPAC's timeline. As the deadline approaches without a target, warrant holders face [time decay](/time-decay-theta/) and [liquidation](/liquidation/) risk — if the SPAC fails to merge, shareholders can redeem their capital, and warrant holders receive nothing.
 
 ## Post-merger oversight and research
 

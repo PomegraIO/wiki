@@ -31,7 +31,7 @@ The real estate division operates commercial property across multiple asset clas
 
 The real estate business is capital-intensive: [acquisition](/acquisition/) costs are high, properties require ongoing capital investment and maintenance, and rental revenues depend on tenant strength and local market conditions. Brookfield's scale advantage is significant: the company can assemble large portfolios, benchmark and share operational best practices across regions, refinance and redevelop with patient capital, and move quickly when opportunities arise. Real estate is also leverage-friendly—cash flows are stable enough to service debt—and the company uses debt to amplify returns.
 
-Revenue from real estate is primarily recurring rental income, making this a stable, predictable segment. Vacancy rates, lease renewals, and the ability to raise rents over time are the main drivers of performance.
+Revenue from real estate is primarily recurring rental income, making this a stable, predictable segment. [Vacancy rates](/vacancy-rate-property/), lease renewals, and the ability to raise rents over time are the main drivers of performance.
 
 ## Infrastructure and Utilities
 
@@ -60,7 +60,7 @@ Revenue is recurring and contracted or regulated in most cases.
 
 ## Asset Management
 
-Brookfield's asset-management arm raises capital from institutional investors—pension funds, insurers, sovereign wealth funds, endowments—and deploys that capital into real estate, infrastructure, and renewable energy assets. The company commits some of its own capital alongside third-party capital, earning [management fees](/management-fee/) on the pool and carried interest if returns exceed benchmarks.
+Brookfield's asset-management arm raises capital from institutional investors—pension funds, insurers, [sovereign wealth funds](/sovereign-wealth-fund/), endowments—and deploys that capital into real estate, infrastructure, and renewable energy assets. The company commits some of its own capital alongside third-party capital, earning [management fees](/management-fee/) on the pool and [carried interest](/carried-interest-compensation/) if returns exceed benchmarks.
 
 This business is strategically important for two reasons. First, it allows the company to multiply its reach: capital under management can exceed the company's own [balance sheet](/balance-sheet/). Second, it aligns interests: when third-party capital is deployed into assets the company also owns or operates, the company's success depends on the same outcomes as its investors.
 
@@ -83,4 +83,4 @@ The company's leverage means it is exposed to interest-rate movements and capita
 
 Start with the annual 10-K filing (SEC CIK 0001001085) to understand the composition of revenue and earnings across the segments, the leverage position, and the capital structure. Review the quarterly earnings reports for trends in each business—are rents stable, are utilities earning at their allowed return, is the renewable pipeline growing. Watch the [dividend](/dividend/) and [payout ratio](/payout-ratio/) to assess cash generation and capital allocation. Track assets under management in the asset-management business as a growth indicator. Monitor [leverage ratios](/leverage-ratio-forex/) and debt maturity to understand [refinancing risk](/refinancing-risk/) and financial flexibility.
 
-Brookfield's diverse portfolio means the company is not sensitive to any single sector or region, which suits investors seeking stability. But it also means execution risk spans multiple domains, and the company must maintain expertise and capital discipline across all of them simultaneously. The shares trade on multiple exchanges at market-set prices, and nothing here is a recommendation to buy or sell—only a map of how the business works and where its scale, capabilities, and risks lie.
+Brookfield's diverse portfolio means the company is not sensitive to any single sector or region, which suits investors seeking stability. But it also means [execution risk](/execution-risk/) spans multiple domains, and the company must maintain expertise and capital discipline across all of them simultaneously. The shares trade on multiple exchanges at market-set prices, and nothing here is a recommendation to buy or sell—only a map of how the business works and where its scale, capabilities, and risks lie.

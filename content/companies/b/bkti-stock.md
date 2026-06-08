@@ -16,7 +16,7 @@ keywords: ["radio communications", "public safety", "communications equipment", 
 
 ## How to Read BKTI's Disclosures
 
-BK Technologies files a [10-K](/10-k/) each fiscal year detailing its product mix, customer concentration, and regulatory environment. Readers should focus first on the revenue breakdown by product line—whether income comes from hardware sales, software licenses, maintenance contracts, or some combination—because the company's stability depends on recurring revenue streams. Check the "Risk Factors" section for supply chain dependencies and customer concentration: who are the largest buyers, and how much revenue derives from any single customer or geographic region? This company's filings also disclose certification and compliance status with the Federal Communications Commission, a material gate on what products the firm is permitted to manufacture and sell.
+BK Technologies files a [10-K](/10-k/) each [fiscal year](/fiscal-year-definition/) detailing its product mix, customer concentration, and regulatory environment. Readers should focus first on the revenue breakdown by product line—whether income comes from hardware sales, software licenses, maintenance contracts, or some combination—because the company's stability depends on recurring revenue streams. Check the "Risk Factors" section for supply chain dependencies and customer concentration: who are the largest buyers, and how much revenue derives from any single customer or geographic region? This company's filings also disclose certification and compliance status with the Federal Communications Commission, a material gate on what products the firm is permitted to manufacture and sell.
 
 ## Products and Market Position
 
@@ -40,7 +40,7 @@ BK Technologies' [gross profit](/gross-profit-margin/) reflects the gap between 
 
 ## Path to Understanding BK Technologies
 
-Start with the most recent 10-K, focusing on the Management Discussion and Analysis (MD&A) section, where leadership explains revenue drivers, customer win/loss, and forward-looking challenges. Note the largest customers by name; if a customer accounts for 10%+ of revenue, that customer is a material risk if the relationship ends. Review the balance sheet to understand working capital: how much inventory does the company carry, and has it grown or shrunk relative to revenue? High inventory growth with flat revenue suggests demand weakness or obsolescence risk. Finally, scan the risk factors for any mentions of new regulatory requirements, pending litigation, or technology shifts that might disrupt the market.
+Start with the most recent 10-K, focusing on the [Management Discussion and Analysis](/management-discussion-and-analysis/) (MD&A) section, where leadership explains revenue drivers, customer win/loss, and forward-looking challenges. Note the largest customers by name; if a customer accounts for 10%+ of revenue, that customer is a material risk if the relationship ends. Review the balance sheet to understand working capital: how much inventory does the company carry, and has it grown or shrunk relative to revenue? High inventory growth with flat revenue suggests demand weakness or obsolescence risk. Finally, scan the risk factors for any mentions of new regulatory requirements, pending litigation, or technology shifts that might disrupt the market.
 
 <div class="wiki-seealso">
 ### Closely related

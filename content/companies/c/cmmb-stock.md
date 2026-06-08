@@ -34,7 +34,7 @@ Grants are typically 50–80% of eligible project costs; companies must co-fund 
 
 ## Balance Sheet Composition and Lack of Revenue
 
-Chemomab's balance sheet reflects a pre-revenue biotech: assets are primarily cash, short-term investments, and [intangible assets](/intangible-assets/) (in-process R&D, patents). Liabilities are minimal (some [accounts payable](/accounts-payable/) and deferred revenue from collaborators or milestone payments). The company carries no debt—leverage would be irrational for a cash-burning biotech with no revenue collateral.
+Chemomab's balance sheet reflects a pre-revenue biotech: assets are primarily cash, short-term investments, and [intangible assets](/intangible-assets/) (in-process R&D, patents). Liabilities are minimal (some [accounts payable](/accounts-payable/) and [deferred revenue](/deferred-revenue/) from collaborators or milestone payments). The company carries no debt—leverage would be irrational for a cash-burning biotech with no revenue collateral.
 
 Equity is the sole funding source. Shareholders, through series ventures and the IPO, have provided all capital; all risk (no revenue, high R&D spend, regulatory uncertainty) rests on equity. The company's [balance-sheet](/balance-sheet/) is therefore straightforward: a shrinking cash balance funded by accumulated shareholder equity, with net loss reported each quarter.
 
@@ -48,7 +48,7 @@ Chemomab's income statement includes such partnership revenue, offset against op
 
 Chemomab will require additional capital before (and likely after) regulatory approval. Each capital raise—whether through equity, convertible debt, or warrant issuance—dilutes existing shareholder ownership. For early investors and founders, this dilution is expected and modeled into returns. For public equity investors, understanding the dilution path is essential for modeling fully-diluted ownership and returns.
 
-The company discloses authorized shares and outstanding share count in its proxy and 10-K. Investors calculate the dilution impact of potential future rounds by comparing authorized shares to outstanding and inferring the size of the next raise needed to fund operations through clinical milestones.
+The company discloses [authorized shares](/authorized-shares/) and outstanding share count in its proxy and 10-K. Investors calculate the dilution impact of potential future rounds by comparing authorized shares to outstanding and inferring the size of the next raise needed to fund operations through clinical milestones.
 
 ## Path to Profitability and Value Inflection
 

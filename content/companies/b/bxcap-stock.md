@@ -53,7 +53,7 @@ BOX's largest competitor is the integration of content management into the major
 
 A secondary competitive pressure is from specialized platforms that do one thing very well—document lifecycle management, contract analysis, e-signature—often at lower cost. BOX needs to stay broad and integrated enough to be the platform of record, not just one tool in a stack.
 
-The regulatory and AI risks are significant. BOX's customers are using it to manage sensitive data—health records, financial documents, proprietary designs—so any data breach is costly and reputation-damaging. The AI features, while powerful, carry legal risk: if BOX extracts contract terms or summarizes medical records incorrectly, the customer bears the business risk but BOX might face regulatory scrutiny. Privacy regulations like GDPR also limit how BOX can process or host data, which constrains its market expansion.
+The regulatory and AI risks are significant. BOX's customers are using it to manage sensitive data—health records, financial documents, proprietary designs—so any data breach is costly and reputation-damaging. The AI features, while powerful, carry [legal risk](/legal-risk/): if BOX extracts contract terms or summarizes medical records incorrectly, the customer bears the business risk but BOX might face regulatory scrutiny. Privacy regulations like GDPR also limit how BOX can process or host data, which constrains its market expansion.
 
 ## How to research BOX
 

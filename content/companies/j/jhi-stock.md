@@ -33,7 +33,7 @@ The fund holds stocks across multiple sectors — technology, finance, healthcar
 
 [Diversification](/diversification/) matters because it spreads risk. If one company cuts its dividend or faces legal trouble, the impact on a fund holding fifty or a hundred stocks is modest. A concentrated bet on a single stock or sector would amplify both upside and downside. John Hancock Investors Trust typically holds a broad mix that moves less violently than the market as a whole, trading stability for lower expected returns.
 
-The fund also holds some cash and short-term securities, which serve as a buffer and as dry powder for buying when opportunities appear. During market downturns, when stock prices fall but [fund valuations](/fund-valuation/) become attractive, cash on hand allows the fund to buy without being forced to sell existing holdings.
+The fund also holds some cash and short-term securities, which serve as a buffer and as [dry powder](/pe-dry-powder/) for buying when opportunities appear. During market downturns, when stock prices fall but [fund valuations](/fund-valuation/) become attractive, cash on hand allows the fund to buy without being forced to sell existing holdings.
 
 ## The leverage mechanism and distribution strategy
 

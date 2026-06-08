@@ -19,7 +19,7 @@ The Empire State Building itself is famous but not the profit engine one might a
 
 Beyond the Empire State Building, the trust owns and operates roughly ten million square feet of commercial property spread across Manhattan and four other major New York markets. This includes office buildings, retail properties, and some mixed-use developments. In the geography of American real-estate investment trusts, this is hyper-concentrated exposure. Other REITs spread portfolio risk across multiple cities, asset types, and regions. Empire State Realty has put nearly all its chips on the bet that New York City remains a world financial center, continues to attract major corporations, and people will keep paying substantial money for quality space in the city.
 
-This concentration is a defining feature of the business model. It means the company can be an expert in the New York market, understand local tenant demand deeply, maintain relationships with major employers, and move quickly on [acquisitions](/acquisition/) or leasing opportunities. But it also means the trust is vulnerable to a prolonged Manhattan downturn far more than a nationally diversified REIT would be.
+This concentration is a defining feature of the business model. It means the company can be an expert in the New York market, understand local tenant demand deeply, maintain relationships with major employers, and move quickly on [acquisitions](/acquisition/) or leasing opportunities. But it also means the trust is vulnerable to a prolonged Manhattan downturn far more than a nationally [diversified REIT](/diversified-reit/) would be.
 
 ## The New York City real-estate test
 

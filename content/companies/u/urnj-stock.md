@@ -29,9 +29,9 @@ The sector is also shaped by capital availability. Exploration and early-stage m
 
 Junior miners are volatile. URNJ can swing 20–30% in either direction in a matter of weeks on shifts in sentiment about nuclear power or uranium supply. Illiquidity compounds the risk — many of the fund's holdings have thin trading volumes, so the fund itself may face wide spreads when trading in size. The fund is also highly concentrated in a single commodity sector; if uranium demand disappints, there is no [diversification](/diversification/) to soften the blow.
 
-Mining operations themselves carry execution risk. A company might discover promising ore only to face cost overruns, permitting delays, or technical problems getting it out of the ground. The best junior miners fail. The fund's managers try to screen for viable operations, but bad bets are inevitable.
+Mining operations themselves carry [execution risk](/execution-risk/). A company might discover promising ore only to face cost overruns, permitting delays, or technical problems getting it out of the ground. The best junior miners fail. The fund's managers try to screen for viable operations, but bad bets are inevitable.
 
-Geographic and political risk is significant. Many junior uranium miners operate in politically unstable regions or rely on small teams and aging infrastructure. A political upheaval, a permitting denial, or a management failure can wipe out a holding.
+Geographic and [political risk](/political-risk/) is significant. Many junior uranium miners operate in politically unstable regions or rely on small teams and aging infrastructure. A political upheaval, a permitting denial, or a management failure can wipe out a holding.
 
 ## Who is URNJ for?
 

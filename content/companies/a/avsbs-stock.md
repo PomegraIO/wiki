@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Arrived Homes is a Seattle-based real-estate technology company that democratises ownership of [single-family rental](/single-family-rental/) properties by allowing retail investors to buy fractional shares in physical rental homes. Instead of requiring substantial capital and time commitment to buy and manage a property outright, Arrived lets customers purchase shares starting at $100 and receive proportional rental income without landlord responsibilities. The company holds the underlying properties, manages tenants and maintenance, and distributes cash flows to shareholders — a model that brings stock-market accessibility to an asset class traditionally reserved for individuals with six-figure downpayments and tolerance for direct property management.
+Arrived Homes is a Seattle-based real-estate technology company that democratises ownership of [single-family rental](/single-family-rental/) properties by allowing retail investors to buy [fractional shares](/fractional-shares/) in physical rental homes. Instead of requiring substantial capital and time commitment to buy and manage a property outright, Arrived lets customers purchase shares starting at $100 and receive proportional rental income without landlord responsibilities. The company holds the underlying properties, manages tenants and maintenance, and distributes cash flows to shareholders — a model that brings stock-market accessibility to an asset class traditionally reserved for individuals with six-figure downpayments and tolerance for direct property management.
 
 <aside class="wiki-infobox">
 <table>

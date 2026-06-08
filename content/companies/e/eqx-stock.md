@@ -29,7 +29,7 @@ Equinox's production volumes and cost structure across its asset base determine 
 
 Gold mining persists as a business because gold itself persists as an asset. [Central banks](/central-bank/) hold gold as reserves; investors buy it as a hedge against currency debasement or geopolitical stress; industrial users consume it in electronics, dentistry, and jewelry. When those demand streams are stable, miners produce at steady cost and capture the margin. When demand or prices rise, mining becomes dramatically more profitable, attracting capital and expansion.
 
-From an investment perspective, gold stocks are often held as a hedge or diversifier alongside equities and [bonds](/bond/). Gold prices can rise during periods of stock-market stress, [inflation](/inflation/), or currency devaluation, so some investors hold gold mining stocks as a way to gain leveraged exposure to that hedge. If gold is trending higher, a mine that costs $900 per ounce to produce and is selling gold at $1,800 is generating enormous cash flow and profit per ounce; if gold drops to $1,200, that same mine is barely break-even or facing production cuts.
+From an investment perspective, gold stocks are often held as a hedge or diversifier alongside equities and [bonds](/bond/). Gold prices can rise during periods of stock-market stress, [inflation](/inflation/), or [currency devaluation](/currency-devaluation/), so some investors hold gold mining stocks as a way to gain leveraged exposure to that hedge. If gold is trending higher, a mine that costs $900 per ounce to produce and is selling gold at $1,800 is generating enormous cash flow and profit per ounce; if gold drops to $1,200, that same mine is barely break-even or facing production cuts.
 
 ## The challenges of mining as a business
 
@@ -49,4 +49,4 @@ The investor should also understand the company's [balance sheet](/balance-sheet
 
 Compare Equinox's all-in costs per ounce against peers — Newmont, Barrick Gold, Agnico Eagle — to understand whether Equinox's cost structure is competitive or whether it is running higher-cost mines that are more exposed to price downturns.
 
-Finally, monitor gold-price trends and sentiment. The gold price itself is driven by global macroeconomics, inflation expectations, and geopolitical events; it is not predictable, but understanding what the market is pricing in (via futures, options, and analyst commentary) is useful context for understanding how much margin of safety a mining stock has if the price environment deteriorates.
+Finally, monitor gold-price trends and sentiment. The gold price itself is driven by global macroeconomics, [inflation expectations](/inflation-expectations/), and geopolitical events; it is not predictable, but understanding what the market is pricing in (via futures, options, and analyst commentary) is useful context for understanding how much margin of safety a mining stock has if the price environment deteriorates.

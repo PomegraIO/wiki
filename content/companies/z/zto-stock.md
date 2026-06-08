@@ -23,7 +23,7 @@ handwritten: true
 
 ## The Network Model
 
-Unlike integrated carriers (think FedEx or UPS), ZTO does not own trucks, warehouses, or extensive real estate. Instead, it franchises the delivery business to regional and local partners who compete on price and service quality. ZTO sets standards, collects volume, and consolidates logistics data through a digital backbone. The freight moves through ZTO's own sorting hubs—high-volume facilities where parcels are consolidated by region—then handed off to franchisees for last-mile delivery. This model economizes fixed costs while distributing execution risk across thousands of independent operators. The friction point is clear: partners are only profitable at scale and low unit costs, so ZTO must maintain ferocious parcel volume to keep the network viable.
+Unlike integrated carriers (think FedEx or UPS), ZTO does not own trucks, warehouses, or extensive real estate. Instead, it franchises the delivery business to regional and local partners who compete on price and service quality. ZTO sets standards, collects volume, and consolidates logistics data through a digital backbone. The freight moves through ZTO's own sorting hubs—high-volume facilities where parcels are consolidated by region—then handed off to franchisees for last-mile delivery. This model economizes fixed costs while distributing [execution risk](/execution-risk/) across thousands of independent operators. The friction point is clear: partners are only profitable at scale and low unit costs, so ZTO must maintain ferocious parcel volume to keep the network viable.
 
 ## Scale and Throughput
 

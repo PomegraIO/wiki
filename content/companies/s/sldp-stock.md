@@ -49,7 +49,7 @@ The advantage Solid Power holds is partnership with established automakers who n
 
 The most important thing to understand about Solid Power is that this is a capital-intensive, long-horizon bet. Developing a battery chemistry to commercial scale requires years and hundreds of millions of dollars in equipment and staffing. The company has raised money through venture funding and a SPAC [merger](/merger/) to reach the point where it has pilot manufacturing. Getting from pilot production to commercial volumes — even a fraction of a single automaker's needs — requires multiples of that investment. It is the kind of business where the company must either keep raising capital as it progresses through milestones, or it must monetize its partnership agreements sooner than planned.
 
-That makes Solid Power exposed to several risks at once: technology risk (the cells may not meet durability or cost targets), capital risk (funding may become scarce), and competition risk (rivals may arrive first or with better solutions). Balancing those risks is the core investment question.
+That makes Solid Power exposed to several risks at once: [technology risk](/technology-risk/) (the cells may not meet durability or cost targets), capital risk (funding may become scarce), and competition risk (rivals may arrive first or with better solutions). Balancing those risks is the core investment question.
 
 ## What to watch
 

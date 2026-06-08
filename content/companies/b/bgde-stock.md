@@ -33,7 +33,7 @@ Look for these specific items:
 
 ## Capital structure and dilution risk
 
-A researcher studying BGDE must understand the fully-diluted share count and capitalization. The 10-K discloses outstanding shares, but options ([vesting schedules](/vesting-schedule/)), warrants (potential conversion obligations), and convertible debt can dramatically increase the share count. An OTC company that has issued many warrants or convertible notes is essentially pre-diluted; when (or if) those instruments convert, existing shareholders are diluted.
+A researcher studying BGDE must understand the fully-diluted share count and capitalization. The 10-K discloses outstanding shares, but options ([vesting schedules](/vesting-schedule/)), warrants (potential conversion obligations), and convertible debt can dramatically increase the share count. An OTC company that has issued many warrants or [convertible notes](/convertible-notes/) is essentially pre-diluted; when (or if) those instruments convert, existing shareholders are diluted.
 
 Look for:
 
@@ -61,7 +61,7 @@ OTC stocks are less liquid, less regulated, and more prone to manipulation than 
 
 1. **Item 1 (Business)**: Does the description match known products or services? Can you find press releases or a website confirming the business?
 2. **Item 7 (MD&A)**: Is there honest discussion of losses and burn rate? Does management address the path to profitability?
-3. **Item 1A (Risk Factors)**: Are regulatory and technology risks disclosed candidly, or minimized?
+3. **Item 1A (Risk Factors)**: Are regulatory and [technology risks](/technology-risk/) disclosed candidly, or minimized?
 4. **Auditor opinion**: Is the audit unqualified (clean), or are there "[going concern](/going-concern/)" warnings (suggesting the company may not survive)?
 
 A "going concern" warning in the [audit opinion](/audit-opinion/) is a critical red flag—it signals that the auditors doubt the company's ability to continue operations.
@@ -77,7 +77,7 @@ BGDE and similar OTC cryptocurrency or blockchain companies are speculative. Man
 
 ### Wider context
 - [public-company](/public-company/) (OTC listing & regulations)
-- [10-k](/10-k/) (critical for OTC due diligence)
+- [10-k](/10-k/) (critical for OTC [due diligence](/due-diligence/))
 - [special-purpose-acquisition-company](/special-purpose-acquisition-company/) (SPAC route to public for crypto/blockchain startups)
 - [balance-sheet](/balance-sheet/) (to assess cash runway)
 </div>

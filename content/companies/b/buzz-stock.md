@@ -37,7 +37,7 @@ Concentration is another risk. The quarterly rebalance produces a set of holding
 
 ## Who it is for
 
-BUZZ is primarily useful for investors with a specific hypothesis: that retail communities identify profitable themes earlier than traditional markets, or that social enthusiasm can serve as a leading indicator of stock price. It appeals to traders and active investors who want to track what the retail crowd is talking about without manually monitoring forums themselves. It is substantially less appropriate as a core holding for a long-term portfolio seeking broad [diversification](/diversification/); the concentration, turnover, and reliance on ephemeral sentiment make it more of a thematic or tactical bet than a strategic pillar.
+BUZZ is primarily useful for investors with a specific hypothesis: that retail communities identify profitable themes earlier than traditional markets, or that social enthusiasm can serve as a [leading indicator](/leading-indicator/) of stock price. It appeals to traders and active investors who want to track what the retail crowd is talking about without manually monitoring forums themselves. It is substantially less appropriate as a core holding for a long-term portfolio seeking broad [diversification](/diversification/); the concentration, turnover, and reliance on ephemeral sentiment make it more of a thematic or tactical bet than a strategic pillar.
 
 ## How to research it
 

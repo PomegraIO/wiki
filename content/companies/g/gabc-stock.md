@@ -23,7 +23,7 @@ Each regulator has distinct authority. The OCC approves the bank's charter, gran
 
 ## Capital Requirements and Regulatory Ratios
 
-The foundation of banking regulation is the [Basel III](/basel-iii/) capital framework, which the Federal Reserve has adopted and enforced. GABC must maintain specified ratios of regulatory capital to risk-weighted assets. The largest banks face the strictest requirements; GABC, as a smaller regional bank, faces less stringent standards but must still comply.
+The foundation of banking regulation is the [Basel III](/basel-iii/) capital framework, which the Federal Reserve has adopted and enforced. GABC must maintain specified ratios of regulatory capital to [risk-weighted assets](/risk-weighted-assets/). The largest banks face the strictest requirements; GABC, as a smaller regional bank, faces less stringent standards but must still comply.
 
 Capital requirements are not merely accounting metrics; they determine how much lending GABC can do with a given amount of shareholder equity. If GABC has $100 million of common equity, Basel III requirements might limit the bank to $1.2–1.5 billion of risk-weighted assets, depending on the exact capital ratios required. If GABC wants to grow lending, it must either raise new equity capital or reduce risk-weighted assets by selling loans or tightening lending standards. This constraint fundamentally shapes the bank's growth trajectory and [return on equity](/return-on-equity/).
 
@@ -45,7 +45,7 @@ CRA compliance is not costless. GABC must identify underserved communities, deve
 
 ## Anti-Money Laundering and Sanctions Compliance
 
-U.S. banks are the first line of defense against financial crime. GABC is obligated under the Bank Secrecy Act (BSA) and the USA PATRIOT Act to detect, prevent, and report money laundering and terrorist financing. The bank must implement [Know Your Customer](/know-your-customer/) (KYC) programs, screen customers against sanctions lists (OFAC—the Office of Foreign Assets Control), file Suspicious Activity Reports (SARs) for potentially illicit transactions, and maintain records for five years.
+U.S. banks are the first line of defense against financial crime. GABC is obligated under the Bank Secrecy Act (BSA) and the USA PATRIOT Act to detect, prevent, and report money laundering and terrorist financing. The bank must implement [Know Your Customer](/know-your-customer/) (KYC) programs, screen customers against sanctions lists (OFAC—the [Office of Foreign Assets Control](/office-of-foreign-assets-control/)), file [Suspicious Activity Reports](/suspicious-activity-report/) (SARs) for potentially illicit transactions, and maintain records for five years.
 
 Compliance requires significant infrastructure: customer-screening systems, transaction-monitoring systems, trained compliance staff, and regular audits. If GABC's programs are deemed inadequate, regulators can impose consent orders, fines, and restrictions on the bank's operations. Egregious violations can result in criminal prosecution of bank officers. The compliance burden is continuous and cannot be delegated to a third party entirely; GABC bears ultimate responsibility.
 
@@ -57,7 +57,7 @@ Additionally, as rates fluctuate, the market value of GABC's securities portfoli
 
 ## Merger and Acquisition Constraints
 
-If GABC wants to acquire another bank, it must obtain approval from the Federal Reserve (for the holding company) and the OCC (for the operating bank), and typically from state regulators. Regulators review whether the acquisition would increase concentration in local markets, whether GABC has the capital and management capability to absorb the target, and whether the target's CRA record is acceptable. The process can take six months to a year and requires enormous due diligence and regulatory engagement. GABC cannot simply buy competitors at will; regulatory approval is uncertain and sometimes denied.
+If GABC wants to acquire another bank, it must obtain approval from the Federal Reserve (for the holding company) and the OCC (for the operating bank), and typically from state regulators. Regulators review whether the acquisition would increase concentration in local markets, whether GABC has the capital and management capability to absorb the target, and whether the target's CRA record is acceptable. The process can take six months to a year and requires enormous [due diligence](/due-diligence/) and regulatory engagement. GABC cannot simply buy competitors at will; regulatory approval is uncertain and sometimes denied.
 
 ## Dividend and Capital-Return Restrictions
 

@@ -57,7 +57,7 @@ This scale moat is real but contested in modern manufacturing. Competitors can i
 
 If Kumyang manufactures commodity products—basic chemicals, metals, textiles, generic components—the company faces intense price competition and minimal product differentiation. Customers will buy from the lowest-cost supplier unless there is a compelling reason to pay a premium. This commoditization is particularly harsh for Kumyang if it competes against larger, more automated rivals or against makers in countries with even lower costs.
 
-In commodity markets, Kumyang's moat is narrow: cost leadership and reliability. The company has little differentiation through brand, design, or innovation. This means Kumyang's competitive position is vulnerable to shifts in global cost structures, exchange rates (a stronger Korean won raises export prices), and technological disruption. A competitor investing in breakthrough automation could leapfrog Kumyang's cost advantage. A shift in customer purchasing toward sustainability or ethical sourcing could penalize Kumyang if the company's practices don't align.
+In commodity markets, Kumyang's moat is narrow: cost leadership and reliability. The company has little differentiation through brand, design, or innovation. This means Kumyang's competitive position is vulnerable to shifts in global cost structures, exchange rates (a stronger [Korean won](/korean-won/) raises export prices), and technological disruption. A competitor investing in breakthrough automation could leapfrog Kumyang's cost advantage. A shift in customer purchasing toward sustainability or ethical sourcing could penalize Kumyang if the company's practices don't align.
 
 ## Supply Contracts and Long-Term Customer Relationships
 

@@ -62,6 +62,6 @@ In recent years, Finning has invested in digital fleet management software, tele
 
 ## How to research Finning as an investment
 
-Start with the company's [annual report](/10-k/) and 20-F filing (SEC CIK 0002073638). Monitor new equipment sales volume, rental utilization rates, and parts revenue trends. Watch for changes in Caterpillar's pricing or allocation policies, and track mining and construction activity in Canada, South America, and the UK — these are the leading indicators of Finning's demand.
+Start with the company's [annual report](/10-k/) and 20-F filing (SEC CIK 0002073638). Monitor new equipment sales volume, rental utilization rates, and parts revenue trends. Watch for changes in Caterpillar's pricing or allocation policies, and track mining and construction activity in Canada, South America, and the UK — these are the [leading indicators](/leading-indicator/) of Finning's demand.
 
 Key metrics include gross margin on equipment sales (which varies with product mix and competition), parts and service margins (which are stickier and higher-margin), [inventory turnover](/inventory-turnover/) (a sign of operational efficiency), and the aging of the equipment fleet in Finning's territories (older equipment needs more service and parts). A fundamental weakness in mining or construction activity will show up quickly in Finning's order books. Pay attention to management commentary on regional demand, customer sentiment, and any major changes to the Caterpillar relationship.

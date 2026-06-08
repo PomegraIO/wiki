@@ -21,7 +21,7 @@ The core economics of ion-channel research demand continuous capital infusion be
 
 ## The Balance-Sheet Burden of Early-Stage Science
 
-Mineralys operates with limited assets beyond its intellectual property and clinical programs. Cash reserves are typically the lifeblood—measured in months, not years—and accrued liabilities from research agreements and contracted studies accumulate faster than new partnerships can offset them. The company carries minimal debt in the traditional sense (secured borrowing or convertible notes are rare in early-stage biotech unless a platform reaches Phase 2 endpoints), but its implicit liability is staggering: the sunk cost of failed candidates and the opportunity cost of capital committed to programs that may never yield approvable drugs. Shareholders implicitly bear this risk; creditors do not.
+Mineralys operates with limited assets beyond its intellectual property and clinical programs. Cash reserves are typically the lifeblood—measured in months, not years—and [accrued liabilities](/accrued-liabilities/) from research agreements and contracted studies accumulate faster than new partnerships can offset them. The company carries minimal debt in the traditional sense (secured borrowing or [convertible notes](/convertible-notes/) are rare in early-stage biotech unless a platform reaches Phase 2 endpoints), but its implicit liability is staggering: the sunk cost of failed candidates and the opportunity cost of capital committed to programs that may never yield approvable drugs. Shareholders implicitly bear this risk; creditors do not.
 
 ## Equity as the Primary Lever
 

@@ -46,9 +46,9 @@ The downside is that dividend-paying stocks often grow more slowly than the over
 
 ## Cost and expense structure
 
-FGSI charges an [expense ratio](/expense-ratio/) that reflects its actively managed nature. This is typically higher than a passive index ETF but lower than what you would pay for a separately managed account or a [mutual fund](/mutual-fund/) with similar strategy. The exact fee depends on the current assets under management in the fund. As with any ETF, you also pay the [bid-ask spread](/bid-ask-spread/) when buying or selling shares, though FGSI's broad investor base means this spread is usually tight.
+FGSI charges an [expense ratio](/expense-ratio/) that reflects its actively managed nature. This is typically higher than a passive index ETF but lower than what you would pay for a [separately managed account](/separately-managed-account/) or a [mutual fund](/mutual-fund/) with similar strategy. The exact fee depends on the current assets under management in the fund. As with any ETF, you also pay the [bid-ask spread](/bid-ask-spread/) when buying or selling shares, though FGSI's broad investor base means this spread is usually tight.
 
-The fund may also produce capital gains distributions if the manager sells holdings at a profit, which creates tax consequences for investors in taxable accounts. In a tax-advantaged retirement account, this is less relevant.
+The fund may also produce [capital gains distributions](/capital-gains-distribution/) if the manager sells holdings at a profit, which creates tax consequences for investors in taxable accounts. In a tax-advantaged retirement account, this is less relevant.
 
 ## Who benefits and what to watch
 

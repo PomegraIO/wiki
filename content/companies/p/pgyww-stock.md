@@ -47,7 +47,7 @@ Pagaya's competitive position rests on the quality and accuracy of its proprieta
 
 The company has assessed loan applications with a cumulative volume of approximately $2.6 trillion, and has brokered cumulative loan volume of roughly $28 billion as of recent periods, indicating substantial scale in decision-making and capital deployment. This track record builds credibility with institutional investors who fund the loans Pagaya approves. Institutional capital—including [hedge funds](/hedge-fund/), insurance companies, and other alternative investors—provides much of the funding for the loans Pagaya underwrites, and Pagaya's performance in managing that capital affects its access and pricing.
 
-Competitors in AI-powered credit scoring and decisioning include larger fintechs and traditional credit bureaus that have invested in machine learning capabilities. However, Pagaya's direct placement of capital alongside its partners creates a different business model than pure scoring or data-analytics plays. The company bears risk directly, which aligns incentives with investors but also exposes it to credit cycles.
+Competitors in AI-powered credit scoring and decisioning include larger fintechs and traditional credit bureaus that have invested in machine learning capabilities. However, Pagaya's direct placement of capital alongside its partners creates a different business model than pure scoring or data-analytics plays. The company bears risk directly, which aligns incentives with investors but also exposes it to [credit cycles](/credit-cycle/).
 
 ## Geographic and Market Considerations
 

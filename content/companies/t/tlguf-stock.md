@@ -33,7 +33,7 @@ The more original shareholders redeem, the larger the sponsor's ownership stake 
 
 ## Post-merger uncertainty
 
-Once a merger closes, the SPAC structure dissolves and the combined company becomes a conventional public company. But SPAC-sponsored mergers often carry execution risk. The acquired business must perform as represented in the merger prospectus. If the business is early-stage or unproven, actual results may fall short of projections. Many SPAC-acquired companies have faced pressure and declining stock prices in their first months and years as public companies, signaling to investors that the merger economics were unfavorable or the business fundamentals were weaker than promised.
+Once a merger closes, the SPAC structure dissolves and the combined company becomes a conventional public company. But SPAC-sponsored mergers often carry [execution risk](/execution-risk/). The acquired business must perform as represented in the merger prospectus. If the business is early-stage or unproven, actual results may fall short of projections. Many SPAC-acquired companies have faced pressure and declining stock prices in their first months and years as public companies, signaling to investors that the merger economics were unfavorable or the business fundamentals were weaker than promised.
 
 ## Unit economics of the SPAC fee structure
 

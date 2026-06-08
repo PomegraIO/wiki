@@ -68,7 +68,7 @@ But this approach requires investors to estimate the value of each subsidiary. F
 
 ## Historical Context and Ownership
 
-EACO's long history (it is a legacy public company with SEC filings dating back decades) suggests the holding company has survived multiple market cycles, changes in leadership, and strategic shifts. Understanding that history—what major acquisitions were made, what major assets were sold, what the original business was—provides context for evaluating the current portfolio and management's strategy.
+EACO's long history (it is a legacy public company with SEC filings dating back decades) suggests the holding company has survived multiple [market cycles](/market-cycle/), changes in leadership, and strategic shifts. Understanding that history—what major acquisitions were made, what major assets were sold, what the original business was—provides context for evaluating the current portfolio and management's strategy.
 
 A holding company with a clear acquisition strategy and demonstrated execution track record commands higher valuations. One that seems to stumble from crisis to crisis trades at a discount.
 
@@ -83,7 +83,7 @@ When analyzing EACO, examine:
 - **Debt and capital structure.** What debt obligations exist? Is the company adequately capitalized or overleveraged relative to subsidiary earnings?
 - **Management track record.** Has the current leadership team created value through smart capital allocation, or has the company been coasting?
 
-The [10-K](/10-k/) and quarterly statements will detail segment performance and any major acquisitions or [divestitures](/divestiture/). Quarterly earnings calls often discuss management's view of each segment and strategic priorities. Comparing EACO's stock price to estimated subsidiary values reveals whether the market is pricing in execution risk or discount.
+The [10-K](/10-k/) and quarterly statements will detail segment performance and any major acquisitions or [divestitures](/divestiture/). Quarterly earnings calls often discuss management's view of each segment and strategic priorities. Comparing EACO's stock price to estimated subsidiary values reveals whether the market is pricing in [execution risk](/execution-risk/) or discount.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -38,7 +38,7 @@ Holdings skew toward companies in developed timber-producing countries: Canada a
 
 Timber as a commodity has different dynamics from most equities. Tree growth is biological—it takes years for a tree to become harvestable—so supply cannot be quickly expanded if demand surges. That structural scarcity can support prices. Timber demand is tied to construction activity and paper consumption, making the sector cyclical: booming housing markets drive demand for lumber, while [recessions](/recession/) and declining office-paper use compress it.
 
-Forest ownership itself carries REIT-like characteristics. Timber REITs often own vast tracts of land and lease harvesting rights to operators, earning steady rental income from forestry operations much as an [office REIT](/office-reit/) collects rent. These structures offer distribution yields that appeal to income-focused investors. The underlying forest land has real value as both a productive asset (growing trees) and a real estate asset (potential alternative uses), providing some downside protection during commodity downturns.
+Forest ownership itself carries REIT-like characteristics. [Timber REITs](/timber-reit/) often own vast tracts of land and lease harvesting rights to operators, earning steady rental income from forestry operations much as an [office REIT](/office-reit/) collects rent. These structures offer distribution yields that appeal to income-focused investors. The underlying forest land has real value as both a productive asset (growing trees) and a real estate asset (potential alternative uses), providing some downside protection during commodity downturns.
 
 ## Inflation and stability appeal
 
@@ -46,7 +46,7 @@ Timber and forest products are often touted as [inflation](/inflation/) hedges. 
 
 ## Risks and limitations
 
-WOOD carries commodity risk: timber and pulp prices fluctuate with global supply and demand, currency movements, and macroeconomic conditions. A construction slowdown or shift away from paper (toward digital alternatives) can compress valuations quickly. The fund is also exposed to forestry-specific risks: wildfires, pest outbreaks, disease, and climate shifts can damage timber stands. Regulatory changes around environmental conservation, logging permits, and carbon accounting can shift profitability.
+WOOD carries [commodity risk](/commodity-risk/): timber and pulp prices fluctuate with global supply and demand, currency movements, and macroeconomic conditions. A construction slowdown or shift away from paper (toward digital alternatives) can compress valuations quickly. The fund is also exposed to forestry-specific risks: wildfires, pest outbreaks, disease, and climate shifts can damage timber stands. Regulatory changes around environmental conservation, logging permits, and carbon accounting can shift profitability.
 
 Many timber companies carry debt to finance land purchases and operations, meaning leverage can amplify both upside and downside. [Currency risk](/currency-risk/) is material for US investors: companies in Canada, Scandinavia, and elsewhere earn revenues in foreign currencies, and exchange-rate swings affect reported returns.
 

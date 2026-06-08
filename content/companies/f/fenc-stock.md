@@ -61,7 +61,7 @@ The lifecycle reader sees FENNEC as a company at a fork in the road. The next 12
 
 ## The Lifecycle Reality: High Stakes, Binary Outcomes
 
-FENNEC exemplifies the biotech lifecycle at its most precarious: a company entirely dependent on a small number of programs, with high capital requirements, significant execution risk, and a binary outcome distribution (either a major success or a significant disappointment). The stock reflects this: it is suitable only for investors with high risk tolerance and a time horizon matching the expected approval and commercialization timeline. The company's lifecycle will be determined not by age or size but by whether it successfully transitions from preclinical and clinical development to a revenue-generating, cash-positive business. Until that transition is clear, FENNEC remains a high-risk, high-reward holding in the biotech venture capital ecosystem.
+FENNEC exemplifies the biotech lifecycle at its most precarious: a company entirely dependent on a small number of programs, with high capital requirements, significant [execution risk](/execution-risk/), and a binary outcome distribution (either a major success or a significant disappointment). The stock reflects this: it is suitable only for investors with high risk tolerance and a time horizon matching the expected approval and commercialization timeline. The company's lifecycle will be determined not by age or size but by whether it successfully transitions from preclinical and clinical development to a revenue-generating, cash-positive business. Until that transition is clear, FENNEC remains a high-risk, high-reward holding in the biotech venture capital ecosystem.
 
 <div class="wiki-seealso">
 ### Closely related

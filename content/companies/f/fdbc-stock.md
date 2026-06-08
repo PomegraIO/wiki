@@ -27,7 +27,7 @@ The magnitude of this margin is sensitive to the interest rate environment. In a
 
 Lending is inherently risky: some borrowers default on their loans. Community banks typically provision for expected losses through allowances for credit losses (ACL), recorded as an expense on the income statement and a contra-asset on the balance sheet. A bank with a $500 million loan portfolio and a historical loss rate of 0.50% (a moderate assumption for a diversified portfolio) might provision $2.5 million annually for credit losses. This is a real economic loss that reduces net income.
 
-The provision rate varies with the bank's composition of loans. A bank heavily concentrated in real estate lending (a traditional focus for community banks) faces different risk than one with a diversified portfolio. Construction loans, for example, have higher loss rates than seasoned residential mortgages. FDBC's provisioning and credit quality determine how much of its net interest income reaches the bottom line as net profit.
+The provision rate varies with the bank's composition of loans. A bank heavily concentrated in real estate lending (a traditional focus for community banks) faces different risk than one with a diversified portfolio. [Construction loans](/construction-loan/), for example, have higher loss rates than seasoned residential mortgages. FDBC's provisioning and credit quality determine how much of its net interest income reaches the bottom line as net profit.
 
 ## Funding Mix and Deposit Beta
 
@@ -55,7 +55,7 @@ However, community banks have a niche advantage in relationship banking: local d
 
 ## Capital Requirements and Return on Equity
 
-Banks are required by regulators to maintain capital ratios (capital as a percentage of risk-weighted assets). This regulatory capital cannot be deployed as loans and does not earn the bank's average [return on assets](/return-on-assets/); it serves as a loss buffer. A bank that is required to hold 10% capital on $500 million in assets must hold $50 million in non-deployed capital, which affects return on equity. FDBC's ability to generate returns on equity depends on how efficiently it deploys its available capital given these regulatory constraints.
+Banks are required by regulators to maintain capital ratios (capital as a percentage of [risk-weighted assets](/risk-weighted-assets/)). This regulatory capital cannot be deployed as loans and does not earn the bank's average [return on assets](/return-on-assets/); it serves as a loss buffer. A bank that is required to hold 10% capital on $500 million in assets must hold $50 million in non-deployed capital, which affects return on equity. FDBC's ability to generate returns on equity depends on how efficiently it deploys its available capital given these regulatory constraints.
 
 <div class="wiki-seealso">
 

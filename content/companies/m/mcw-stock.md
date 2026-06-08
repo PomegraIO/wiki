@@ -31,7 +31,7 @@ Mister Car Wash operates a mixed model: some locations are company-owned and ope
 
 ## Real Estate Model: Lease vs. Own
 
-Car wash facilities are real-estate-intensive. Mister Car Wash's filings will disclose whether locations are leased or owned. Lease obligations appear on the [balance sheet](/balance-sheet/) as right-of-use assets and lease liabilities under current accounting standards. Long-term lease commitments reduce financial flexibility—if a location becomes unprofitable, the company remains liable for years of rent. Owned real estate provides more flexibility but ties up capital that could fund growth. The lease schedule in the 10-K notes will show remaining lease duration and annual rent obligations, revealing the company's real-estate cost structure.
+Car wash facilities are real-estate-intensive. Mister Car Wash's filings will disclose whether locations are leased or owned. Lease obligations appear on the [balance sheet](/balance-sheet/) as [right-of-use assets](/finance-lease-right-of-use-asset/) and lease liabilities under current accounting standards. Long-term lease commitments reduce financial flexibility—if a location becomes unprofitable, the company remains liable for years of rent. Owned real estate provides more flexibility but ties up capital that could fund growth. The lease schedule in the 10-K notes will show remaining lease duration and annual rent obligations, revealing the company's real-estate cost structure.
 
 ## Cyclicality and Consumer Discretionary Exposure
 

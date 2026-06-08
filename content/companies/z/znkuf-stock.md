@@ -24,7 +24,7 @@ Zenkoku Hosho's revenue comes primarily from guarantee fees charged to borrowers
 
 The company's profitability hinges on three interdependent factors. First, underwriting accuracy: if the company guarantees loans that default at high rates, losses overwhelm fee income and erode equity. Second, scale and diversification: the company must hold a large enough portfolio of thousands of small loans across geographies and sectors so that idiosyncratic failures do not create [concentration risk](/concentration-risk/). Third, reserve management: Zenkoku Hosho must provision against expected losses conservatively enough to weather downturns yet not so conservatively that it starves the business of capital to grow or return to shareholders.
 
-The company's largest exposures are typically in retail trade, wholesale, and small manufacturing — the backbone of regional economies. During normal times, default rates on guaranteed loans run low enough that fee income exceeds claims. During recessions, defaults spike, payouts surge, and profitability swings sharply. This is the defining risk of the business: it is countercyclical to the broader economy but procyclical within the credit cycle.
+The company's largest exposures are typically in retail trade, wholesale, and small manufacturing — the backbone of regional economies. During normal times, default rates on guaranteed loans run low enough that fee income exceeds claims. During recessions, defaults spike, payouts surge, and profitability swings sharply. This is the defining risk of the business: it is countercyclical to the broader economy but procyclical within the [credit cycle](/credit-cycle/).
 
 ## A creature of Japanese financial policy
 

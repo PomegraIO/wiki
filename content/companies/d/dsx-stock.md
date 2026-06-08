@@ -41,7 +41,7 @@ Shipping companies often return large [dividends](/dividend/) to shareholders du
 
 ## Reading the earnings and forward guidance
 
-Diana Shipping's quarterly earnings announcement (8-K filing) will report net income for the period and often includes commentary on spot rates realized, utilization, and vessel-level margins. These metrics let you calculate cash generation per deadweight ton and compare it to the company's cost structure. [Forward guidance](/forward-guidance/), if provided, usually comes with caveats about rate and commodity volatility; take it with skepticism, as rates can change dramatically quarter-to-quarter. The best investors in shipping avoid trying to predict rates and instead buy Diana when the stock is depressed (reflecting low rates and despair) and rates have structural support from fleet scarcity or strong commodity demand.
+Diana Shipping's quarterly earnings announcement (8-K filing) will report net income for the period and often includes commentary on [spot rates](/spot-rate/) realized, utilization, and vessel-level margins. These metrics let you calculate cash generation per deadweight ton and compare it to the company's cost structure. [Forward guidance](/forward-guidance/), if provided, usually comes with caveats about rate and commodity volatility; take it with skepticism, as rates can change dramatically quarter-to-quarter. The best investors in shipping avoid trying to predict rates and instead buy Diana when the stock is depressed (reflecting low rates and despair) and rates have structural support from fleet scarcity or strong commodity demand.
 
 ## Why Diana Shipping is inherently speculative
 

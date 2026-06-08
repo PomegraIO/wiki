@@ -51,7 +51,7 @@ Biglari typically discloses significant stakes in a handful of public companies 
 
 ## The Valuation Puzzle
 
-Biglari Holdings trades on an intricate valuation. The 10-K presents consolidated [balance sheet](/balance-sheet/) data that includes the insurance float, the restaurant properties, and the securities portfolio. Book value per share is calculated and disclosed. In theory, the stock should trade close to book value if the market believes the company simply holds these assets without adding or destroying value. In practice, the stock often trades at a discount to book, reflecting doubts about Biglari's ability to generate returns in excess of the cost of capital, or skepticism about his stock-picking edge.
+Biglari Holdings trades on an intricate valuation. The 10-K presents consolidated [balance sheet](/balance-sheet/) data that includes the insurance float, the restaurant properties, and the securities portfolio. [Book value per share](/book-value-per-share/) is calculated and disclosed. In theory, the stock should trade close to book value if the market believes the company simply holds these assets without adding or destroying value. In practice, the stock often trades at a discount to book, reflecting doubts about Biglari's ability to generate returns in excess of the cost of capital, or skepticism about his stock-picking edge.
 
 The discount can widen significantly during periods of equity market weakness or if the insurance operation experiences large underwriting losses. The premium can appear if a major equity bet pays off or if the market re-rates insurance stocks as a group. This volatility makes Biglari a trade rather than a stable dividend-paying holding for many investors.
 

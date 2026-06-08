@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Microsoft began as a software house—DOS, then Windows—and evolved into something far larger: the plumbing of corporate IT. Today it sits in an unusual position for a company of its scale. On the consumer side, Windows machines remain ubiquitous in offices and homes, though mobile and subscription models matter more than they once did. On the enterprise side, the company has become inseparable from how modern organizations store data, run applications, and handle communications. A Microsoft fiscal year reveals a company that makes steady money on large, slow-moving installed bases while simultaneously placing massive bets on AI and cloud growth. The architecture is unglamorous but formidable.
+Microsoft began as a software house—DOS, then Windows—and evolved into something far larger: the plumbing of corporate IT. Today it sits in an unusual position for a company of its scale. On the consumer side, Windows machines remain ubiquitous in offices and homes, though mobile and subscription models matter more than they once did. On the enterprise side, the company has become inseparable from how modern organizations store data, run applications, and handle communications. A Microsoft [fiscal year](/fiscal-year-definition/) reveals a company that makes steady money on large, slow-moving installed bases while simultaneously placing massive bets on AI and cloud growth. The architecture is unglamorous but formidable.
 
 <aside class="wiki-infobox">
 <table>

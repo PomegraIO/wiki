@@ -4,7 +4,7 @@ description: "BGSF is a staffing and recruiting firm operating in a regulated la
 keywords: ["BGSF", "staffing", "recruitment", "employment law", "contractor", "labor compliance"]
 ---
 
-*BGSF, Inc. (BGSF) operates as a staffing and recruitment firm that connects temporary and permanent workers with client employers, navigating a complex web of federal and state labor laws, payroll tax obligations, classification rules, and liability regimes that define not only what the company can do but also its exposure to enforcement and litigation.*
+*BGSF, Inc. (BGSF) operates as a staffing and recruitment firm that connects temporary and permanent workers with client employers, navigating a complex web of federal and state labor laws, [payroll tax](/payroll-tax/) obligations, classification rules, and liability regimes that define not only what the company can do but also its exposure to enforcement and litigation.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BGSF</td></tr>
@@ -22,7 +22,7 @@ The IRS and state labor departments use "ABC" tests or "right of control" analys
 
 ## Payroll Tax and Wage-and-Hour Obligations
 
-For every worker BGSF classifies as an employee, the firm is liable for federal income tax withholding, [Social Security](/social-security-personal/) and Medicare taxes (payroll taxes), state income tax withholding, and possibly state unemployment insurance contributions. A staffing company operates with thin margins and high volume turnover; the payroll and compliance burden is substantial. BGSF must track hours worked, compute overtime (which federal law mandates at time-and-a-half for hours over 40 per week), deduct taxes, file quarterly payroll returns, and maintain records that survive Department of Labor or IRS inspection.
+For every worker BGSF classifies as an employee, the firm is liable for federal income tax withholding, [Social Security](/social-security-personal/) and Medicare taxes (payroll taxes), state income tax withholding, and possibly state [unemployment insurance](/unemployment-insurance/) contributions. A staffing company operates with thin margins and high volume turnover; the payroll and compliance burden is substantial. BGSF must track hours worked, compute overtime (which federal law mandates at time-and-a-half for hours over 40 per week), deduct taxes, file quarterly payroll returns, and maintain records that survive Department of Labor or IRS inspection.
 
 Wage-and-hour violations in staffing firms often center on failure to pay overtime, improper deductions, or misclassification of workers as exempt from overtime protection. A single multi-plaintiff class action claiming unpaid overtime or wrongful misclassification can expose BGSF to millions in liability and legal costs. The company must therefore invest in payroll systems, audit procedures, and legal reviews to minimize exposure.
 

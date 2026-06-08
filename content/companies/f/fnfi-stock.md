@@ -17,7 +17,7 @@ keywords: [bank, Ohio, community-bank, retail-deposits, mortgages, savings-bank,
 
 ## The deposit-and-lend machine
 
-A bank's fundamental job is simple: borrow cheaply (from depositors), lend dear (to borrowers), and pocket the difference. First Niles executes this model in a specific geographic and customer niche. It attracts deposits from local households and small businesses by offering competitive rates on savings accounts and money-market products, plus the benefit of a physical presence (branches where a customer can walk in and speak to a banker). It deploys those deposits into mortgages, home equity lines of credit, commercial loans to local manufacturers and service businesses, and construction loans.
+A bank's fundamental job is simple: borrow cheaply (from depositors), lend dear (to borrowers), and pocket the difference. First Niles executes this model in a specific geographic and customer niche. It attracts deposits from local households and small businesses by offering competitive rates on savings accounts and money-market products, plus the benefit of a physical presence (branches where a customer can walk in and speak to a banker). It deploys those deposits into mortgages, home equity lines of credit, commercial loans to local manufacturers and service businesses, and [construction loans](/construction-loan/).
 
 The bank's profitability hinges on the [spread](/spread/) — the gap between what it pays depositors and what it charges borrowers. In a healthy economy with stable interest-rates, this spread is predictable. When [interest rates](/interest-rate/) are high (reflecting [inflation](/inflation/) or [Federal Reserve](/federal-reserve/) tightening), the bank pays more to hold deposits but can charge more on loans. When rates are low, the bank earns a thinner spread. Managing this balance without taking excessive [credit risk](/credit-risk/) is the core management challenge.
 
@@ -35,7 +35,7 @@ The bank's credit quality in any year depends on its local economy. A good year 
 
 ## Regulation and capital requirements
 
-First Niles, as a bank holding company, is regulated by the Federal Reserve and the FDIC. It must maintain a minimum capital ratio (typically 10 percent of risk-weighted assets) to absorb losses. It files periodic reports with the [securities-and-exchange-commission](/securities-and-exchange-commission/), including Call Reports (detailed quarterly financial statements) available to the public.
+First Niles, as a bank holding company, is regulated by the Federal Reserve and the FDIC. It must maintain a minimum capital ratio (typically 10 percent of [risk-weighted assets](/risk-weighted-assets/)) to absorb losses. It files periodic reports with the [securities-and-exchange-commission](/securities-and-exchange-commission/), including Call Reports (detailed quarterly financial statements) available to the public.
 
 This regulatory framework is expensive. Compliance staff, audit costs, technology infrastructure, and anti-money-laundering programs consume significant resources. For a small bank, these fixed costs are a burden; the bank cannot leverage them across thousands of branches like a national bank can. This is one reason community banks have been consolidating: fixed compliance costs push smaller institutions to scale up or exit.
 

@@ -35,7 +35,7 @@ The concentration of receivables among a handful of large builders also creates 
 
 ## Debt and Leverage in Cyclical Business
 
-JELD-WEN carries debt to finance fixed assets and working capital. The company's leverage ratio and debt maturity profile are critical metrics in a cyclical industry where demand can contract sharply. In strong housing markets, high leverage is manageable because utilization is high and margins expand; in downturns, fixed debt payments become onerous as utilization falls and pricing power evaporates.
+JELD-WEN carries debt to finance fixed assets and working capital. The company's leverage ratio and [debt maturity profile](/debt-maturity-profile/) are critical metrics in a cyclical industry where demand can contract sharply. In strong housing markets, high leverage is manageable because utilization is high and margins expand; in downturns, fixed debt payments become onerous as utilization falls and pricing power evaporates.
 
 The company's debt covenants—minimum interest coverage, maximum [leverage ratios](/leverage-ratio-forex/), or working-capital requirements—may be breached if business deteriorates, forcing restructuring or asset sales. Examining the debt terms, maturity schedule, and covenant details in the financing sections of the 10-K reveals financial flexibility.
 
@@ -59,7 +59,7 @@ Changes in product mix toward higher-margin, differentiated products (e.g., spec
 
 ## Cyclicality and Balance-Sheet Stress Points
 
-The fundamental tension for JELD-WEN is that its balance-sheet asset base is sized for peak demand, but demand is cyclical. In downturns, this excess capacity creates losses and can force impairments or restructuring. The company's ability to absorb cycle troughs without covenant breach, covenant waiver, or distressed asset sales depends on the equity cushion and liquidity reserves built during upturns.
+The fundamental tension for JELD-WEN is that its balance-sheet asset base is sized for peak demand, but demand is cyclical. In downturns, this excess capacity creates losses and can force impairments or restructuring. The company's ability to absorb cycle troughs without covenant breach, covenant waiver, or distressed asset sales depends on the [equity cushion](/equity-cushion/) and liquidity reserves built during upturns.
 
 History of building-products manufacturers shows that cycles are severe and frequent: housing demand depends on mortgage rates, employment, and consumer confidence, all of which shift quickly. JELD-WEN's balance sheet must be read with the assumption that a significant demand downturn will occur, and the question is whether the company can weather it.
 

@@ -39,7 +39,7 @@ Pacific Sports Exchange attempts to mitigate this by diversifying across leagues
 
 The company's focus on the Pacific region and international markets suggests a thesis that emerging or underutilised markets — parts of Asia, Oceania, or growing cities in the United States — represent undervalued sports franchises with upside if managed correctly. International sports (soccer in particular) generates enormous revenue globally, and many franchises in developing markets or second-tier cities operate below their potential if capital and operational expertise are applied.
 
-However, international sports franchises also introduce [currency risk](/currency-risk/) (revenues and costs in different currencies), geopolitical risk (political instability, regulatory changes), and execution risk (operating a team in a foreign market with different fan culture and sponsorship landscapes is harder than it appears).
+However, international sports franchises also introduce [currency risk](/currency-risk/) (revenues and costs in different currencies), geopolitical risk (political instability, regulatory changes), and [execution risk](/execution-risk/) (operating a team in a foreign market with different fan culture and sponsorship landscapes is harder than it appears).
 
 ## Capital structure and leverage
 
@@ -61,4 +61,4 @@ Start with the company's 10-K filing (SEC CIK 0001765651), which should detail e
 
 Watch for changes in franchise values. Sports franchise valuations are partly speculative and partly based on revenue and comparables. If the company's franchises are losing value (implied by declining revenue or cash flow, or by adverse market conditions), equity holders absorb the loss.
 
-Also monitor fan engagement metrics for the teams — attendance, merchandise sales, social-media following — as leading indicators of ticket and sponsorship revenue. A team with declining attendance and weak fan engagement is signalling trouble ahead. Finally, track any league regulatory changes, new stadium deals, or broadcast-rights negotiations, as these can dramatically affect franchise economics.
+Also monitor fan engagement metrics for the teams — attendance, merchandise sales, social-media following — as [leading indicators](/leading-indicator/) of ticket and sponsorship revenue. A team with declining attendance and weak fan engagement is signalling trouble ahead. Finally, track any league regulatory changes, new stadium deals, or broadcast-rights negotiations, as these can dramatically affect franchise economics.

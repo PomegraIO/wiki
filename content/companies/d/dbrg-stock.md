@@ -47,7 +47,7 @@ The filings are explicit about the trade-off: high capex in growth years depress
 
 ## Competitive Position in Digital Infrastructure
 
-DBRG's disclosed competitive context includes other data center operators, infrastructure funds, and REITs focused on communications towers and fiber. The company's filings position DBRG's differentiation around its scale (number of assets), geographic footprint, and depth of in-house operational expertise. The company claims cost advantages in power procurement, cooling efficiency, and vendor relationships derived from scale.
+DBRG's disclosed competitive context includes other data center operators, [infrastructure funds](/pe-infrastructure-fund/), and REITs focused on communications towers and fiber. The company's filings position DBRG's differentiation around its scale (number of assets), geographic footprint, and depth of in-house operational expertise. The company claims cost advantages in power procurement, cooling efficiency, and vendor relationships derived from scale.
 
 However, the filings acknowledge the competitive intensity: pricing power in data center leasing is constrained by alternatives, and the company must offer competitive returns to retain tenants. The company's strategy, as disclosed, centers on being a preferred operator for major tenants (offering expansibility, geographic diversity, uptime guarantees) rather than competing purely on price.
 

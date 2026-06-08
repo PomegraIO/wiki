@@ -25,7 +25,7 @@ Truth Social's positioning as a "free speech" platform appeals to a distinct use
 
 TMTG generates revenue from two sources: (1) advertising on the Truth Social platform, sold to companies willing to reach the user base; (2) Truth+ subscriptions, a tier that removes ads or adds features. Subscription revenue is recurring and predictable but depends on converting free users to paid, which is notoriously difficult. A 5% conversion rate would be considered strong for a social platform. If Truth Social has 5 million users and achieves 5% paid penetration at $10/month, annual subscription revenue would be ~$30 million.
 
-Advertising revenue is less stable and highly vulnerable to the whims of brands nervous about platform association. Even if Truth Social had 10 million users, advertisers must judge whether reaching that audience is worth the reputational risk and whether the audience has purchasing power. Early-stage social media platforms often face advertiser reluctance, forcing them to accept lower CPM (cost per thousand impressions) rates than incumbents.
+Advertising revenue is less stable and highly vulnerable to the whims of brands nervous about platform association. Even if Truth Social had 10 million users, advertisers must judge whether reaching that audience is worth the [reputational risk](/reputational-risk/) and whether the audience has purchasing power. Early-stage social media platforms often face advertiser reluctance, forcing them to accept lower CPM (cost per thousand impressions) rates than incumbents.
 
 ## Unit Economics and Path to Profitability
 

@@ -23,7 +23,7 @@ The business model centers on volume: Hemnet sells premium listings and advertis
 
 ## Market Saturation and Growth Trajectories
 
-Sweden's real estate market, where Hemnet commands highest penetration, is mature and relatively stable. New construction adds modest supply; demographic and household formation rates are moderate. Transaction volumes in Sweden fluctuate with [interest rates](/interest-rate/) and consumer confidence but do not exhibit structural growth. Hemnet's Swedish revenue thus follows the underlying housing market cycle rather than expanding through market-share gains or category expansion.
+Sweden's real estate market, where Hemnet commands highest penetration, is mature and relatively stable. New construction adds modest supply; demographic and household formation rates are moderate. Transaction volumes in Sweden fluctuate with [interest rates](/interest-rate/) and consumer confidence but do not exhibit structural growth. Hemnet's Swedish revenue thus follows the underlying housing [market cycle](/market-cycle/) rather than expanding through market-share gains or category expansion.
 
 International expansion—Norway, Denmark, and limited presence in other Nordic markets—offers some avenue for growth, but these markets are smaller than Sweden and exhibit different regulatory and competitive structures. Norwegian brokers, for instance, maintain stronger alternative distribution channels than their Swedish peers, giving Hemnet less concentrated power. Expansion into southern Europe or other regions would require building market share in fragmented, competitive landscapes where Hemnet's Swedish brand carries limited weight.
 

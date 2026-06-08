@@ -40,7 +40,7 @@ Food processing automation continues to expand as labor costs rise and consumers
 
 ## A Note on Research
 
-To evaluate Middleby Food Processing thoroughly, examine its 10-K filing (accessible via the SEC's EDGAR database using CIK 2088281) for revenue breakdown by customer and geography, [accounts receivable](/accounts-receivable/) aging, inventory obsolescence reserves, and discussion of competitive pressures. Compare Middleby's gross and operating margins to those of larger equipment peers and assess whether the company is gaining or losing market traction. Look for mentions of major customers, contract wins or losses, and capital expenditure plans—these are the leading indicators of health in a capital-equipment business.
+To evaluate Middleby Food Processing thoroughly, examine its 10-K filing (accessible via the SEC's EDGAR database using CIK 2088281) for revenue breakdown by customer and geography, [accounts receivable](/accounts-receivable/) aging, inventory obsolescence reserves, and discussion of competitive pressures. Compare Middleby's gross and operating margins to those of larger equipment peers and assess whether the company is gaining or losing market traction. Look for mentions of major customers, contract wins or losses, and capital expenditure plans—these are the [leading indicators](/leading-indicator/) of health in a capital-equipment business.
 
 <div class="wiki-seealso">
 ### Closely related

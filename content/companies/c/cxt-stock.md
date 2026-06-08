@@ -57,7 +57,7 @@ The company must balance the decline of cash in developed markets with the oppor
 
 ## Profitability and the Road Ahead
 
-Crane NXT's profitability depends on maintaining high gross margins on hardware sales (supported by IP, manufacturing efficiency, and customer lock-in) while growing the recurring revenue base (parts, software, services). As the core cash-handling market matures and declines in developed geographies, the company must successfully transition to adjacent markets: payment infrastructure, fintech partnerships, digital wallet integration. This transition requires investing in new products and building relationships with different customer types, both of which carry execution risk.
+Crane NXT's profitability depends on maintaining high gross margins on hardware sales (supported by IP, manufacturing efficiency, and customer lock-in) while growing the recurring revenue base (parts, software, services). As the core cash-handling market matures and declines in developed geographies, the company must successfully transition to adjacent markets: payment infrastructure, fintech partnerships, digital wallet integration. This transition requires investing in new products and building relationships with different customer types, both of which carry [execution risk](/execution-risk/).
 
 <div class="wiki-seealso">
 

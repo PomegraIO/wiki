@@ -40,7 +40,7 @@ BERKSHIRE's [balance sheet](/balance-sheet/) includes both short-term and long-t
 
 ## Cash and Cash Equivalents as a Strategic Asset
 
-BERKSHIRE has famously maintained very large cash balances, sometimes exceeding $100 billion. The [10-K](/10-k/) lists cash and short-term investments alongside operating assets. BERKSHIRE's management has explained that this cash reserves provide both a safety margin and dry powder for opportunistic acquisitions or investments when market dislocations create attractive opportunities. The [10-K](/10-k/) will show whether cash balances are increasing (indicating the company is generating more cash than it is deploying) or decreasing (indicating active deployment or adverse operating results). Cash trends provide insight into management's confidence in near-term deployment opportunities and the company's financial positioning.
+BERKSHIRE has famously maintained very large cash balances, sometimes exceeding $100 billion. The [10-K](/10-k/) lists cash and short-term investments alongside operating assets. BERKSHIRE's management has explained that this cash reserves provide both a safety margin and [dry powder](/pe-dry-powder/) for opportunistic acquisitions or investments when market dislocations create attractive opportunities. The [10-K](/10-k/) will show whether cash balances are increasing (indicating the company is generating more cash than it is deploying) or decreasing (indicating active deployment or adverse operating results). Cash trends provide insight into management's confidence in near-term deployment opportunities and the company's financial positioning.
 
 ## Reinsurance and Catastrophe Risk
 

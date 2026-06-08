@@ -49,7 +49,7 @@ The company also benefits from downstream integration. By selling directly to ba
 
 ## Cost pressures and competition
 
-The cost of extracting lithium varies sharply by deposit. Albemarle's Chilean operations in the Atacama are among the lowest-cost globally, but extracting lithium from salt brines is water-intensive in an already arid region, raising environmental and political risks. The Australian operations (mining hard-rock spodumene) are higher-cost but have secured long-term agreements with battery makers. As supply has ramped up across the industry, prices have fallen, squeezing margins and forcing producers to cut capital spending.
+The cost of extracting lithium varies sharply by deposit. Albemarle's Chilean operations in the Atacama are among the lowest-cost globally, but extracting lithium from salt brines is water-intensive in an already arid region, raising environmental and [political risks](/political-risk/). The Australian operations (mining hard-rock spodumene) are higher-cost but have secured long-term agreements with battery makers. As supply has ramped up across the industry, prices have fallen, squeezing margins and forcing producers to cut capital spending.
 
 New entrants are emerging from China and India, some backed by state capital and willing to accept lower returns on equity, which threatens Albemarle's pricing power. The company has responded by expanding capacity selectively, focusing on high-purity compounds that command premiums, and locking in long-term contracts at fixed or formula-based prices.
 

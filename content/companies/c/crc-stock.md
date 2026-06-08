@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-California Resources Corporation is an independent oil and [natural gas](/natural-gas/) exploration and production company headquartered in Santa Barbara, California. The company's operations are concentrated entirely within California's onshore oil fields, primarily in the San Joaquin Valley and the Santa Barbara Channel region. Traded on the [New York Stock Exchange](/new-york-stock-exchange/) as CRC, the company extracts [crude oil](/crude-oil/), natural gas, and natural gas liquids from reservoirs it either owns or operates. As an independent producer — a company that finds, develops, and produces oil and gas rather than refining or retailing it — CRC captures the upstream commodity margin between the cost of extraction and the market prices of its products.
+California Resources Corporation is an independent oil and [natural gas](/natural-gas/) exploration and production company headquartered in Santa Barbara, California. The company's operations are concentrated entirely within California's onshore oil fields, primarily in the San Joaquin Valley and the Santa Barbara Channel region. Traded on the [New York Stock Exchange](/new-york-stock-exchange/) as CRC, the company extracts [crude oil](/crude-oil/), natural gas, and [natural gas liquids](/natural-gas-liquids/) from reservoirs it either owns or operates. As an independent producer — a company that finds, develops, and produces oil and gas rather than refining or retailing it — CRC captures the upstream commodity margin between the cost of extraction and the market prices of its products.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,7 +30,7 @@ California sits atop one of the world's largest onshore oil reserves. The San Jo
 
 CRC's operations focus on conventional crude oil production from these mature fields. The company extracts light crude and medium crude oil, depending on the specific reservoir, selling its output to California's refineries or into regional markets. The San Joaquin Valley crude commands a slight discount to global pricing because of transportation costs and because much of it is heavier and more sulfurous than premium crudes, but the regional market is stable and customers are captive — California's refinery capacity is fixed, and most crude consumed in the state comes from either in-state production or delivery by pipeline and tanker.
 
-Natural gas production is a secondary but meaningful business for CRC. California has natural gas demand from power generation, industrial users, and consumers, and the company operates producing fields that yield associated gas. Compared to natural gas producers in the Gulf of Mexico or Appalachia, CRC's gas is sold at a regional discount, but the volume still contributes materially to profitability when prices are robust.
+Natural gas production is a secondary but meaningful business for CRC. California has natural gas demand from power generation, industrial users, and consumers, and the company operates producing fields that yield [associated gas](/associated-gas/). Compared to natural gas producers in the Gulf of Mexico or Appalachia, CRC's gas is sold at a regional discount, but the volume still contributes materially to profitability when prices are robust.
 
 ## Business segments and revenue mix
 

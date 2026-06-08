@@ -13,7 +13,7 @@ handwritten: true
 
 Silverco Mining Ltd. operates silver and base-metal mines in Mexico, one of the world's largest silver-producing countries. The company holds a 100 percent interest in the Cusi Mine Complex, located in Chihuahua State in northern Mexico, and the La Negra silver project in Querétaro State. Unlike a large integrated mining company, Silverco is a mid-cap mineral producer focused on a specific geographic region and a specific set of commodities: the company mines silver as its flagship metal, alongside copper, lead, and zinc. Its goal is to operate these assets profitably while funding exploration and development of additional deposits that might generate future ore reserves.
 
-The company's capital structure has evolved considerably in recent years. Silverco trades on the Toronto Venture Exchange under the ticker SICO and trades on the U.S. [over-the-counter market](/over-the-counter-market/) under SICOF. After a significant capital raise in 2026 (a $62.5 million bought deal), the company acquired Nuevo Silver, a transaction that added the La Negra development project and expanded Silverco's resource footprint in a tier-one mining jurisdiction.
+The company's capital structure has evolved considerably in recent years. Silverco trades on the Toronto Venture Exchange under the ticker SICO and trades on the U.S. [over-the-counter market](/over-the-counter-market/) under SICOF. After a significant capital raise in 2026 (a $62.5 million [bought deal](/bought-deal/)), the company acquired Nuevo Silver, a transaction that added the La Negra development project and expanded Silverco's resource footprint in a tier-one mining jurisdiction.
 
 ## The core mines: Cusi and La Negra
 
@@ -47,7 +47,7 @@ The company's [free cash flow](/free-cash-flow/) (if any) can be used to fund de
 
 ## How to research Silverco
 
-Start with the company's annual and interim financial statements and management discussion-and-analysis documents filed with Canadian securities regulators. These filings explain the current mine economics, recent exploration results, and capital-allocation plans. Check the technical reports and mine-feasibility studies — these show third-party assessments of ore grades, estimated mining costs, and projected metal production.
+Start with the company's annual and [interim financial statements](/interim-financial-statements/) and management discussion-and-analysis documents filed with Canadian securities regulators. These filings explain the current mine economics, recent exploration results, and capital-allocation plans. Check the technical reports and mine-feasibility studies — these show third-party assessments of ore grades, estimated mining costs, and projected metal production.
 
 Track silver and copper prices alongside Silverco's share price over time — you will notice correlation, especially during broader market shifts. Read the company's press releases on drill results and mining milestones; these provide a window into whether ore grades and mine life are holding up or disappointing relative to previous expectations.
 

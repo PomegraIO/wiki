@@ -20,7 +20,7 @@ Holding the Nasdaq-100 alone would yield [dividend](/dividend/) income at the ra
 
 ## The covered-call overlay
 
-XQQI's portfolio manager sells covered [call options](/call-option/) against the Nasdaq-100 holdings. Specifically, for every 100 shares of each stock, the fund sells one call option that gives an option buyer the right to purchase those shares at a set price — typically slightly above the stock's current price — on or before a set date.
+XQQI's portfolio manager sells covered [call options](/call-option/) against the Nasdaq-100 holdings. Specifically, for every 100 shares of each stock, the fund sells one call option that gives an [option buyer](/option-buyer/) the right to purchase those shares at a set price — typically slightly above the stock's current price — on or before a set date.
 
 When an investor buys a call option, they pay a premium to the seller. XQQI pockets that premium. If the stock price stays below the [strike price](/strike-price/) (the agreed-upon purchase price), the option expires worthless, the fund keeps the premium as income, and the cycle repeats with a new call sale. If the stock price rises above the strike and stays there, the option holder exercises it, and the fund's shares are called away at the strike price. The fund receives the income from the premium plus the sale proceeds, but misses out on any gains above the strike.
 

@@ -37,7 +37,7 @@ Canadian cannabis producers hold provincial licenses and federal licenses from H
 
 ## Channel Conflict and Vertical Integration
 
-Many cannabis producers own retail chains or have exclusive wholesale agreements that lock in margin. EPWK's strategy here shapes risk. If the company grows cannabis but has minimal retail footprint, it is a wholesale commodity producer competing on price and volume. If it owns or controls significant retail, it has pricing power but faces retail execution risk (store staffing, foot traffic, customer experience). The 40-F will disclose retail revenue separately and any owned-store count. This is a strategic choice with major implications for volatility and defensibility.
+Many cannabis producers own retail chains or have exclusive wholesale agreements that lock in margin. EPWK's strategy here shapes risk. If the company grows cannabis but has minimal retail footprint, it is a wholesale commodity producer competing on price and volume. If it owns or controls significant retail, it has pricing power but faces retail [execution risk](/execution-risk/) (store staffing, foot traffic, customer experience). The 40-F will disclose retail revenue separately and any owned-store count. This is a strategic choice with major implications for volatility and defensibility.
 
 ## Foreign Issuer Governance and Currency
 

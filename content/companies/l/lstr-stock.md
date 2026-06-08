@@ -54,7 +54,7 @@ Landstar competes on service quality and network reliability rather than pure pr
 
 ## Operating metrics that matter
 
-Tracking Landstar requires attention to several specific metrics. Contractor count — the number of owner-operators and agencies in the network — indicates the capacity Landstar can call upon. If contractors are leaving the network or hard to recruit, that suggests they are struggling to make money or prefer other carriers, a leading indicator of trouble. Average load revenue and cost per load show whether Landstar is pricing appropriately and whether contractors are productive. Utilization of contractor capacity — what percentage of available power units are actually moving freight — reflects shipper demand and Landstar's ability to keep contractors working. Margin on revenue, especially commission margin, shows whether the brokerage business is healthy.
+Tracking Landstar requires attention to several specific metrics. Contractor count — the number of owner-operators and agencies in the network — indicates the capacity Landstar can call upon. If contractors are leaving the network or hard to recruit, that suggests they are struggling to make money or prefer other carriers, a [leading indicator](/leading-indicator/) of trouble. Average load revenue and cost per load show whether Landstar is pricing appropriately and whether contractors are productive. Utilization of contractor capacity — what percentage of available power units are actually moving freight — reflects shipper demand and Landstar's ability to keep contractors working. Margin on revenue, especially commission margin, shows whether the brokerage business is healthy.
 
 ## Research orientation
 

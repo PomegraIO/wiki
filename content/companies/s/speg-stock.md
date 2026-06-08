@@ -46,6 +46,6 @@ The dilution from sponsor shares and warrants — which often carry favorable te
 
 ## What to watch
 
-For anyone researching Silver Pegasus as a public security, the key question is whether a merger target has been identified, and if so, what the terms are. The company files regular SEC reports describing its status and any proposed transactions. If a deal is announced, the definitive merger proxy statement provides the most detailed information: financial projections, the capital structure of the combined company, the sponsor founder shares, the warrant terms, and the redemption threshold.
+For anyone researching Silver Pegasus as a public security, the key question is whether a merger target has been identified, and if so, what the terms are. The company files regular SEC reports describing its status and any proposed transactions. If a deal is announced, the definitive merger [proxy statement](/proxy-statement/) provides the most detailed information: financial projections, the capital structure of the combined company, the sponsor founder shares, the warrant terms, and the redemption threshold.
 
 As with any acquisition or merger, the combined company's success depends not on the SPAC structure itself but on whether the underlying operating business can execute on its promises. The SPAC is merely a vehicle — a way to move a private business into public markets. The quality of the business inside determines whether the investment succeeds.

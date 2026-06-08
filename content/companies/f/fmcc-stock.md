@@ -18,7 +18,7 @@ keywords: ["FMCC", "Freddie Mac", "mortgage", "GSE", "capital structure", "debt"
 
 FMCC is a [government-sponsored enterprise](/securities-and-exchange-commission/) (GSE)—a legal hybrid between private company and federal agency. Created by Congress to stabilize the residential mortgage market, it purchases mortgages from lenders, packages them into [mortgage-backed securities](/bond/), and guarantees repayment to investors. That guarantee—the heart of its capital model—implicitly rests on federal backing. If Freddie Mac cannot pay, Congress and the Treasury are expected to step in rather than allow the secondary mortgage market to collapse.
 
-This federal relationship shapes everything. FMCC can borrow at rates only marginally above Treasury rates, a privilege no truly private company enjoys, because lenders know that federal support is behind the obligations. It pays into a Guarantee Fee (G-fee) to the Treasury as compensation for that implicit government backing. It is also subject to stringent regulatory oversight by the Federal Housing Finance Agency (FHFA), which dictates its capital levels, dividend policy, and risk exposure in ways that no private mortgage company faces.
+This federal relationship shapes everything. FMCC can borrow at rates only marginally above Treasury rates, a privilege no truly private company enjoys, because lenders know that federal support is behind the obligations. It pays into a Guarantee Fee (G-fee) to the Treasury as compensation for that implicit government backing. It is also subject to stringent regulatory oversight by the [Federal Housing Finance Agency](/federal-housing-finance-agency/) (FHFA), which dictates its capital levels, dividend policy, and risk exposure in ways that no private mortgage company faces.
 
 ## Debt Issuance and Market Access
 
@@ -46,7 +46,7 @@ The enterprise maintains a sophisticated hedging program that offsets much of it
 
 ## Capital Ratios and Regulatory Constraints
 
-The FHFA mandates capital ratios for FMCC tied to the risk in its portfolio. After the crisis, the minimum capital ratio was raised substantially, from roughly 2% of risk-weighted assets to well over 3%. These regulatory ratios exist to ensure that the enterprise can withstand significant losses without immediate government support. However, because the government is the de facto backstop, these ratios are more aspirational than binding—if losses exceed capital, the Treasury pays, not external creditors.
+The FHFA mandates capital ratios for FMCC tied to the risk in its portfolio. After the crisis, the minimum capital ratio was raised substantially, from roughly 2% of [risk-weighted assets](/risk-weighted-assets/) to well over 3%. These regulatory ratios exist to ensure that the enterprise can withstand significant losses without immediate government support. However, because the government is the de facto backstop, these ratios are more aspirational than binding—if losses exceed capital, the Treasury pays, not external creditors.
 
 This removes a traditional market discipline: because creditors know they will be protected, they do not price risk into FMCC debt. The enterprise can carry risks that a fully private mortgage company could not support, because the government is the ultimate loss-absorber. That subsidy—cheap funding thanks to implicit federal backing—is the entire point of the GSE model. But it also obscures the true capital costs of the mortgage market, transferring risk to taxpayers.
 

@@ -52,7 +52,7 @@ The company finances property [acquisitions](/acquisition/) primarily through de
 
 ## Growth and capital deployment
 
-EastGroup pursues growth in two ways: acquiring existing industrial properties from other owners (sale-leaseback transactions, where the company buys a building and leases it back to the seller) and building new properties on land the company owns or acquires. New construction is capital-intensive and slower, but it allows EastGroup to acquire newly built properties at prices closer to replacement cost and to maintain ownership of valuable land as a long-term asset.
+EastGroup pursues growth in two ways: acquiring existing industrial properties from other owners ([sale-leaseback transactions](/sale-leaseback-transaction/), where the company buys a building and leases it back to the seller) and building new properties on land the company owns or acquires. New construction is capital-intensive and slower, but it allows EastGroup to acquire newly built properties at prices closer to replacement cost and to maintain ownership of valuable land as a long-term asset.
 
 The capital-deployment decision is fundamental: does EastGroup use excess cash flow to acquire more properties (which grows the portfolio but keeps dividends flat) or to pay higher dividends (which returns cash to shareholders but slows growth)? Different REIT management teams answer this differently, and it shapes the investment profile. EastGroup has historically been biased toward growth, using cash to acquire new properties and paying a dividend that grows steadily but is lower than some pure-income-focused REITs.
 

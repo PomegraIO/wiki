@@ -61,7 +61,7 @@ Given Yuchai's cyclical nature, its earnings and [free cash flow](/free-cash-flo
 2. **Capacity utilization**: What percentage of manufacturing capacity is Yuchai running? Low utilization forecasts margin compression.
 3. **Inventory levels**: Rising inventory relative to sales suggests demand is softening and the company is building stock ahead of expected weakness—a precursor to potential write-downs.
 4. **Customer concentration**: How much revenue comes from Sinotruk or other single OEMs? High concentration amplifies vulnerability to individual customer downturns.
-5. **Commodity input-cost trends**: Watch global prices for [iron ore](/iron-ore/), aluminum, and steel; these are leading indicators of Yuchai's input-cost pressure.
+5. **Commodity input-cost trends**: Watch global prices for [iron ore](/iron-ore/), aluminum, and steel; these are [leading indicators](/leading-indicator/) of Yuchai's input-cost pressure.
 6. **Chinese infrastructure spending announcements**: Government stimulus cycles often precede heavy-truck demand changes.
 
 The [10-K](/10-k/) provides segment revenue, geographic breakdown, customer concentration, and management's commentary on market conditions. Quarterly earnings calls offer real-time insight into near-term demand and management's expectations for the coming quarters.

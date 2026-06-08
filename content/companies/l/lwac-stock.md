@@ -16,7 +16,7 @@ LightWave Acquisition Corp. was organized as a Delaware corporation and launched
 
 ## The SPAC mechanics and risks
 
-A SPAC's structure involves several moving parts. The sponsors who formed LWAC hold [founder shares](/founder-shares/) at a nominal cost; these shares typically vest only if and when a deal closes. Public investors who buy into the SPAC IPO own a proportionate stake but also have [redemption rights](/redemption-rights-equity/)—they can cash out their holdings at a price close to the initial offer if they vote against a proposed merger, effectively betting that a better opportunity will come along or preserving capital if the sponsor and deal appear weak.
+A SPAC's structure involves several moving parts. The sponsors who formed LWAC hold [founder shares](/founder-shares/) at a nominal cost; these shares typically vest only if and when a deal closes. Public investors who buy into the [SPAC IPO](/spac-ipo/) own a proportionate stake but also have [redemption rights](/redemption-rights-equity/)—they can cash out their holdings at a price close to the initial offer if they vote against a proposed merger, effectively betting that a better opportunity will come along or preserving capital if the sponsor and deal appear weak.
 
 The trust account holds the IPO proceeds and any additional capital raised through concurrent private investments in public equity (PIPE). Once a merger is announced, LWAC shareholders vote on the proposal. Those who redeem simply receive their cash and exit. Those who stay become shareholders of the combined operating entity that emerges from the merger.
 

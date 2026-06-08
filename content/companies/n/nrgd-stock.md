@@ -59,7 +59,7 @@ This was also the era when Canadian banks became international competitors. Bank
 
 As the 2000s unfolded, banking became increasingly complex. Financial engineering created new products — mortgage-backed securities, derivatives, complex structures. Banks grew larger and more interconnected. Bank of Montreal participated in these developments like other large North American banks, building substantial capital markets and investment banking operations.
 
-The global financial crisis of 2007-2008 exposed fragilities in this system. Banks worldwide, including major Canadian banks, were exposed to mortgage-backed securities and derivatives that proved far riskier than expected. However, Bank of Montreal and the Canadian banking system survived the crisis better than American or European banks, partly because Canadian mortgage underwriting was more conservative and partly because the bank had maintained strong capital reserves.
+The global financial crisis of 2007-2008 exposed fragilities in this system. Banks worldwide, including major Canadian banks, were exposed to mortgage-backed securities and derivatives that proved far riskier than expected. However, Bank of Montreal and the Canadian banking system survived the crisis better than American or European banks, partly because Canadian [mortgage underwriting](/mortgage-underwriting/) was more conservative and partly because the bank had maintained strong capital reserves.
 
 ## The post-crisis era: regulatory tightening
 

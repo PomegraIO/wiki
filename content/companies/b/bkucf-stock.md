@@ -20,7 +20,7 @@ Blue Sky Uranium exemplifies the junior mining company model: it holds mineral r
 
 ## Exploration Projects and Asset Location
 
-Blue Sky Uranium's primary assets are its exploration claims and licenses in Argentina. The company's 10-K or comparable disclosure documents describe the size of each claim block (in acres or square kilometers), the geological indicators that suggested uranium presence, and the stage of exploration (early prospect, drilling-stage, pre-feasibility, etc.). Argentina offers advantages: known uranium geology in certain regions, a relatively stable legal framework for mining, and lower labor costs than developed countries. Argentina also imposes risks: regulatory and political risk, infrastructure gaps, and [currency volatility](/currency-volatility/) that affect cost of operations in local currency.
+Blue Sky Uranium's primary assets are its exploration claims and licenses in Argentina. The company's 10-K or comparable disclosure documents describe the size of each claim block (in acres or square kilometers), the geological indicators that suggested uranium presence, and the stage of exploration (early prospect, drilling-stage, pre-feasibility, etc.). Argentina offers advantages: known uranium geology in certain regions, a relatively stable legal framework for mining, and lower labor costs than developed countries. Argentina also imposes risks: regulatory and [political risk](/political-risk/), infrastructure gaps, and [currency volatility](/currency-volatility/) that affect cost of operations in local currency.
 
 ## Drilling, Geochemistry, and Valuation Framework
 
@@ -36,7 +36,7 @@ If Blue Sky makes a significant uranium discovery, the trajectory is: resource d
 
 ## Cash Burn and Capital Requirements
 
-An exploration company's financial statements show assets (cash, exploration equipment, and the value of exploration claims) and liabilities (usually minimal for a junior explorer without debt). The [income statement](/income-statement/) is typically a line of losses: the company spends on exploration, salaries, and overhead with no revenue to offset. Each fiscal year, the company consumes some of its cash. The 10-K discloses the burn rate—how quickly cash is being spent. A company with $5 million in cash and a burn rate of $2 million per year has about 2.5 years of runway before it must raise more capital. Long-dated exploration projects may run out of money before a major discovery is made, forcing the company to issue dilutive equity (new shares) or abandon claims.
+An exploration company's financial statements show assets (cash, exploration equipment, and the value of exploration claims) and liabilities (usually minimal for a junior explorer without debt). The [income statement](/income-statement/) is typically a line of losses: the company spends on exploration, salaries, and overhead with no revenue to offset. Each [fiscal year](/fiscal-year-definition/), the company consumes some of its cash. The 10-K discloses the burn rate—how quickly cash is being spent. A company with $5 million in cash and a burn rate of $2 million per year has about 2.5 years of runway before it must raise more capital. Long-dated exploration projects may run out of money before a major discovery is made, forcing the company to issue dilutive equity (new shares) or abandon claims.
 
 ## Uranium Market and Commodity Price Exposure
 

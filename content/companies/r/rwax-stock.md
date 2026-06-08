@@ -30,7 +30,7 @@ A residential real-estate deal involves more parties and more moving pieces than
 
 Most of this coordination happens through email, phone calls, spreadsheets, and paper documents scanned and re-scanned. It is inefficient, error-prone, and slow. A transaction that could close in days often takes weeks because documents are in transit, signatures are missing, or someone did not receive the latest version.
 
-Multiply that complexity across millions of transactions a year in the United States alone, and across the players — brokers, lenders, title companies, attorneys, inspectors, insurance agents — and you have a massive fragmented market where software and workflow automation can save time and money.
+Multiply that complexity across millions of transactions a year in the United States alone, and across the players — brokers, lenders, title companies, attorneys, inspectors, insurance agents — and you have a massive [fragmented market](/fragmented-market/) where software and workflow automation can save time and money.
 
 ## What TAP does
 
@@ -62,7 +62,7 @@ A second risk is execution. TAP's products have to work reliably and intuitively
 
 A third is competition and consolidation. Larger technology companies could decide to build their own real-estate transaction software. A competitor with better funding or stronger distribution could gain share. Or real-estate platforms like Zillow or Redfin could develop their own closing software and undercut TAP's market position.
 
-Finally, regulatory change in real estate — rules about escrow, title insurance, closing disclosures, or lender obligations — can require costly software updates. If regulations become more complex or fragmented by state, that could increase TAP's development burden.
+Finally, regulatory change in real estate — rules about escrow, [title insurance](/title-insurance/), closing disclosures, or lender obligations — can require costly software updates. If regulations become more complex or fragmented by state, that could increase TAP's development burden.
 
 ## Monitoring the business
 

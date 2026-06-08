@@ -49,7 +49,7 @@ Uranium demand is primarily from nuclear power plants. Since the 1990s, nuclear 
 
 A successful outcome for Stallion would follow one of two paths. The first is internal development: the company proves up a mineable deposit, secures financing and permitting, and builds a mine. This is capital-intensive and operationally complex. Most junior companies lack the capital and the expertise to go this route alone, which is why the second path is more common: find a good deposit, prove its economic viability, then sell the property or the entire company to a larger mining company that has the capital and operational expertise to develop it into a mine.
 
-This model works if Stallion can find mineral deposits valuable enough to attract a buyer at an acceptable price. The acquirer takes on the execution risk and capital intensity; Stallion's shareholders capture the upside from the discovery. Successful junior explorers have created enormous wealth for early shareholders by finding world-class deposits and selling them to majors.
+This model works if Stallion can find mineral deposits valuable enough to attract a buyer at an acceptable price. The acquirer takes on the [execution risk](/execution-risk/) and capital intensity; Stallion's shareholders capture the upside from the discovery. Successful junior explorers have created enormous wealth for early shareholders by finding world-class deposits and selling them to majors.
 
 ## Risks and the speculative nature
 

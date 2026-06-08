@@ -37,7 +37,7 @@ Capital access is critical. As the company conducts exploration and burns throug
 
 ## Scale and Junior Mining Economics
 
-One Bullion's small size shapes every aspect of its existence. The company cannot afford to conduct the kind of massive exploration programs that major mining companies undertake. It cannot maintain offices and operations teams across multiple jurisdictions. It must partner with contractors and consultants to do much of the actual field work. It cannot afford to wait out a bad market cycle — a larger mining company with a profitable operating mine can sustain an exploration division through years of poor market conditions; a junior cannot.
+One Bullion's small size shapes every aspect of its existence. The company cannot afford to conduct the kind of massive exploration programs that major mining companies undertake. It cannot maintain offices and operations teams across multiple jurisdictions. It must partner with contractors and consultants to do much of the actual field work. It cannot afford to wait out a bad [market cycle](/market-cycle/) — a larger mining company with a profitable operating mine can sustain an exploration division through years of poor market conditions; a junior cannot.
 
 Being small means the company's shares are highly speculative. The stock price can move violently based on a single drill result, a financing announcement, or broader sentiment toward junior mining. There is no liquidity in the way that liquid-market stocks provide. A shareholder who wants to exit a position may have difficulty finding a buyer, or may have to accept a steep discount to move shares.
 

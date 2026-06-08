@@ -51,6 +51,6 @@ A third risk is dilution and structure. Between the sponsors' promotion shares, 
 
 ## The current state of the SPAC market
 
-SPACs were a dominant force in raising capital from 2020 to 2021. Since then, regulatory scrutiny has increased, SPAC IPOs have slowed dramatically, and the track record of SPAC mergers has cooled investor enthusiasm. Newer SPACs like SPACSphere, formed after this downturn, face a more sceptical market and lower valuations than earlier cohorts.
+SPACs were a dominant force in raising capital from 2020 to 2021. Since then, regulatory scrutiny has increased, [SPAC IPOs](/spac-ipo/) have slowed dramatically, and the track record of SPAC mergers has cooled investor enthusiasm. Newer SPACs like SPACSphere, formed after this downturn, face a more sceptical market and lower valuations than earlier cohorts.
 
 SPACSphere remains in the search phase as of this writing, with no announced target and no merger scheduled. Investors are essentially placing a bet on the sponsors' ability to identify a worthwhile digital asset, technology, or healthcare company and negotiate a deal that survives shareholder scrutiny.

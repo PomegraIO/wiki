@@ -17,7 +17,7 @@ Tian Ruixiang's growth from 2010 through the late 2010s appears to have been gra
 
 ## The VIE structure: scale without direct ownership
 
-Tian Ruixiang's corporate organization reflects a regulatory constraint that shaped an entire generation of Chinese companies seeking US listing. China's government restricts foreign ownership of many domestic industries, including financial services, insurance broking, and telecommunications. For a Chinese operating company to raise capital from foreign investors while remaining compliant with capital controls, founders adopted a workaround called the Variable Interest Entity (VIE) structure.
+Tian Ruixiang's corporate organization reflects a regulatory constraint that shaped an entire generation of Chinese companies seeking US listing. China's government restricts foreign ownership of many domestic industries, including financial services, insurance broking, and telecommunications. For a Chinese operating company to raise capital from foreign investors while remaining compliant with capital controls, founders adopted a workaround called the [Variable Interest Entity](/variable-interest-entity/) (VIE) structure.
 
 In a VIE, a foreign-registered holding company (Tian Ruixiang Holdings Ltd, incorporated in the Cayman Islands) owns no shares of the Chinese operating company (Zhejiang Tianruixiang Insurance Broker Co. LTD) but instead maintains control through a series of contractual agreements—service agreements, management agreements, and irrevocable powers of attorney—that give the holding company the right to direct operations, receive profits, and appoint officers. It is control without formal ownership.
 

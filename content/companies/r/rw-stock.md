@@ -1,0 +1,25 @@
+---
+title: "Rainwater Equity ETF (RW)"
+description: "An actively managed equity ETF that holds a concentrated portfolio of US dividend-paying stocks, betting that quality and income stability can outpace market-cap-weighted alternatives."
+keywords:
+  - actively managed ETF
+  - dividend-paying stocks
+  - quality equity
+  - US equities
+  - Rainwater Investment Management
+handwritten: true
+---
+
+*The **Rainwater [Equity ETF](/equity-etf/)** ([NASDAQ](/nasdaq/): RW) is an actively managed exchange-traded fund that holds a portfolio of U.S. companies selected for [dividend](/dividend/) strength and financial quality, competing against market-cap-weighted [index funds](/index-fund/) by making discretionary bets that stability and income generation outweigh pure growth or size.*
+
+The fund arrived in 2021 as the first public vehicle from Rainwater Investment Management, a subsidiary of Rainwater Group. It entered a crowded landscape — thousands of index-tracking equity ETFs already dominated the market, and the cost structure of indexing (annual [expense ratios](/expense-ratio/) often below 0.1%) had pushed down fees across the entire asset management industry. Rainwater's pitch was that an actively managed approach, built on quality screening and dividend focus, could justify its higher cost by delivering better risk-adjusted returns. The bet is that not all stocks are created equal, and a manager who selects carefully among dividend payers can avoid the worst outcomes while capturing the upside of equity markets.
+
+The fund's core strategy centers on holdings that Rainwater views as **quality businesses with durable income streams**. In practice, that means a portfolio of large and large-mid-cap companies that have demonstrated the ability to pay and grow dividends, typically companies in defensive sectors such as utilities, consumer staples, [real estate investment trusts](/real-estate-investment-trust/) (REITs), and healthcare. The portfolio is concentrated — far fewer holdings than a broad index fund — which means conviction in individual stock picks matters more. Each position size is meaningful, amplifying both the benefit of picking winners and the cost of picking losers.
+
+This approach differs meaningfully from a dividend-oriented index ETF. An index simply assigns weights based on [market capitalization](/market-capitalization/) or a mechanical [dividend yield](/dividend-yield/) screen, rebalancing mechanically. Rainwater's active approach allows a portfolio manager to make qualitative judgments: which dividend payers are at risk of cutting their payouts, which are raising them sustainably, which are trading at attractive valuations relative to the income they generate. That discretion is what justifies the higher annual fee.
+
+The trade-off, of course, is the fundamental question that haunts active management: Can the manager outperform enough to overcome the cost of active management? Over the medium term, most actively managed equity funds underperform their index benchmarks, dragged down by the higher fee and by the difficulty of beating a broad, diverse index consistently. Rainwater's focus on dividend stability can mitigate that challenge in some environments — when the market rewards stability and punishes volatility, a quality dividend portfolio tends to outperform. But in periods when growth stocks dominate or when dividend yields collapse, the fund's concentration and defensive bias become a headwind rather than a tailwind.
+
+The real risk to Rainwater is **tracking error in a downturn**. During a market crash, dividend-focused, concentrated portfolios often fall further than the broad market, because the pain is magnified by smaller position counts and by defensive sectors' lag. If the fund's picks prove wrong at a critical moment — if a major holding cuts its dividend unexpectedly — the concentrated structure turns an individual company's mistake into a portfolio-wide wound. Additionally, the fund's dividend focus means it is inherently biased toward mature, slower-growing companies, which can mean missing entire swaths of the economy where real wealth creation happens. A manager picking individual stocks also runs the risk of a bad call on valuation or [sector rotation](/sector-rotation/) that an index investor simply does not face.
+
+For readers considering Rainwater, the right questions are these: What is the manager's track record before the fund was launched, and did it survive a full [market cycle](/market-cycle/)? How has the fund performed relative to a comparable dividend-focused index like the S&P High Dividend Aristocrats? What is the expense ratio, and has the fund's outperformance, if any, covered it? The fund's prospectus and fact sheet will lay out the current holdings and their weights, the volatility profile, and the annual returns net of fees. A reader should compare these figures side-by-side with a low-cost dividend ETF from Vanguard or iShares to decide whether the active approach is worth the premium.

@@ -17,7 +17,7 @@ handwritten: true
 
 APRJ owns a portfolio of large US stocks and immediately sells [call options](/call-option/) against them. Those calls are struck 5 to 10 percentage points above the starting level, and the premium collected flows to the fund as income distributed quarterly to shareholders. This is the fund's headline feature—the reason an income-focused investor buys it. In a stable market, the steady call sales create a cash yield higher than the stocks themselves would pay as [dividends](/dividend/).
 
-The cost is the upside cap: gains above the call strike accrue to the option writer, not to the fund holder. If the market rises sharply, APRJ lags a plain [index fund](/index-fund/) proportionally. The fund has surrendered most of its upside in exchange for farming income from the risk premium of short calls.
+The cost is the upside cap: gains above the call strike accrue to the [option writer](/option-writer/), not to the fund holder. If the market rises sharply, APRJ lags a plain [index fund](/index-fund/) proportionally. The fund has surrendered most of its upside in exchange for farming income from the risk premium of short calls.
 
 ## The protected zone: where most returns happen
 

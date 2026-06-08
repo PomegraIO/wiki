@@ -51,4 +51,4 @@ Additionally, in a prolonged low-volatility environment, the fund may stay in st
 
 ## How to research QQWZ
 
-Investors should examine the fund's prospectus to understand the exact volatility rule and the rebalancing frequency. Fact sheets published regularly by Pacer Financial outline the current allocation split between cash and equities. Comparing rolling-period returns to a plain NASDAQ-100 ETF will reveal whether the rotation logic has added or subtracted value over different market cycles. The fund's trading volume and bid-ask spread should be checked; lower volume can widen trading costs.
+Investors should examine the fund's prospectus to understand the exact volatility rule and the rebalancing frequency. Fact sheets published regularly by Pacer Financial outline the current allocation split between cash and equities. Comparing rolling-period returns to a plain NASDAQ-100 ETF will reveal whether the rotation logic has added or subtracted value over different [market cycles](/market-cycle/). The fund's trading volume and bid-ask spread should be checked; lower volume can widen trading costs.

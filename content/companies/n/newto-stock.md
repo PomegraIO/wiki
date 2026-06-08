@@ -46,7 +46,7 @@ The Alternative Lending segment previously used securitisation as its primary fu
 
 ## What NewtekOne does with its cash
 
-NewtekOne operates in a historically volatile lending market where capital availability and loan demand swing sharply with credit cycles. The company's capital return policy reflects that volatility: the company pays a [dividend](/dividend/) from earnings but retains earnings to build capital buffers that allow it to continue lending during downturns.
+NewtekOne operates in a historically volatile lending market where capital availability and loan demand swing sharply with [credit cycles](/credit-cycle/). The company's capital return policy reflects that volatility: the company pays a [dividend](/dividend/) from earnings but retains earnings to build capital buffers that allow it to continue lending during downturns.
 
 In periods of strong loan demand and favourable funding conditions, the company has raised capital from equity investors through equity offerings and secondary shares, deploying that capital into loan originations. When equity raises occur, they are timed to take advantage of periods when the stock is trading at a premium to book value, allowing existing shareholders to sell into strength and new investors to buy at fair prices.
 

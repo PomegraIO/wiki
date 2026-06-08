@@ -54,11 +54,11 @@ Revenue is primarily interest income from loans, with smaller contributions from
 
 ## What are the key competitive and economic pressures?
 
-Starwood competes with other [mortgage REITs](/mortgage-reit/) (such as New York Mortgage Trust and ARMADA Hoffler Properties), traditional banks' commercial real estate divisions, insurance companies and pension funds seeking real estate investments, and private credit funds that invest in real estate debt. The competitive dynamics depend heavily on the credit cycle and interest-rate environment.
+Starwood competes with other [mortgage REITs](/mortgage-reit/) (such as New York Mortgage Trust and ARMADA Hoffler Properties), traditional banks' commercial real estate divisions, insurance companies and pension funds seeking real estate investments, and private credit funds that invest in real estate debt. The competitive dynamics depend heavily on the [credit cycle](/credit-cycle/) and interest-rate environment.
 
 When rates are rising and credit conditions tightening, property developers and owners become desperate for capital, and lenders can command premium interest rates and stricter terms. Starwood thrives in that environment. Conversely, when rates fall and traditional banks are eager to lend, competition for loans intensifies, spreads compress, and alternative lenders like Starwood see their returns decline.
 
-The underlying risk is asset quality. If the commercial real estate market weakens — if property values fall, rental income declines, or occupancy rates drop — borrowers face difficulty servicing debt and may default. Starwood's loan portfolio would deteriorate, credit losses would mount, and the dividend would come under pressure. The company is therefore exposed to macroeconomic cycles, real estate market cycles, and sector-specific risks (e.g., weakness in office properties or retail real estate).
+The underlying risk is asset quality. If the commercial real estate market weakens — if property values fall, rental income declines, or occupancy rates drop — borrowers face difficulty servicing debt and may default. Starwood's loan portfolio would deteriorate, credit losses would mount, and the dividend would come under pressure. The company is therefore exposed to macroeconomic cycles, real estate [market cycles](/market-cycle/), and sector-specific risks (e.g., weakness in office properties or retail real estate).
 
 ## How does the REIT structure work and why does it matter?
 

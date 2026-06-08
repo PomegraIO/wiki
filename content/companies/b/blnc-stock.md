@@ -4,7 +4,7 @@ description: "A fintech company focused on personal financial wellness software 
 keywords: ["fintech", "personal finance", "wealth management", "investment tools", "BLNC", "Balance Labs"]
 ---
 
-*[Balance Labs, Inc.](/blnc-stock/) (BLNC) emerged from the post-2008 financial crisis climate when retail investors were hungry for tools to manage their own money without relying entirely on traditional advisors. The company's founding vision centered on democratizing financial insights — turning opaque portfolio data and fragmented account information into a cohesive, actionable dashboard for ordinary people. What began as a simple aggregation layer evolved into a platform for understanding net worth, tracking spending, and modeling financial scenarios.*
+*[Balance Labs, Inc.](/blnc-stock/) (BLNC) emerged from the post-2008 financial crisis climate when retail investors were hungry for tools to manage their own money without relying entirely on traditional advisors. The company's founding vision centered on democratizing financial insights — turning opaque portfolio data and fragmented account information into a cohesive, actionable dashboard for ordinary people. What began as a simple aggregation layer evolved into a platform for understanding [net worth, tracking](/net-worth-tracking/) spending, and modeling financial scenarios.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BLNC</td></tr>

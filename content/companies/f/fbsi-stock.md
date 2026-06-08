@@ -49,7 +49,7 @@ FBSI's competitive advantage is not price but relationship and responsiveness. T
 
 ## Regulatory Capital and Stress Tests
 
-As a bank holding company, FBSI must maintain minimum capital ratios set by regulators. Capital is the bank's equity—the cushion that absorbs losses. Regulators want banks to hold enough capital to survive downturns. FBSI's capital ratio, measured as equity divided by risk-weighted assets, must exceed regulatory minimums. If a bank falls below minimums, it faces sanctions and restrictions.
+As a bank holding company, FBSI must maintain minimum capital ratios set by regulators. Capital is the bank's equity—the cushion that absorbs losses. Regulators want banks to hold enough capital to survive downturns. FBSI's capital ratio, measured as equity divided by [risk-weighted assets](/risk-weighted-assets/), must exceed regulatory minimums. If a bank falls below minimums, it faces sanctions and restrictions.
 
 Regulators also conduct stress tests: hypothetical scenarios where the economy worsens, unemployment rises, and credit losses spike. Banks must model how their capital would hold up. These tests influence how much capital the bank must hold and what distributions to shareholders (dividends and buybacks) are permitted. For FBSI, capital management is a balancing act: hold enough to satisfy regulators and absorb losses, but not so much that shareholder returns are artificially suppressed.
 

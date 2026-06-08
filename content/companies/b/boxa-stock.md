@@ -32,13 +32,13 @@ For bonds, that philosophy translates into avoiding the perils of active credit-
 
 The 0.30% expense ratio is competitive for an actively managed bond fund but is still notably higher than passive alternatives. An investor choosing BOXA over Vanguard's Aggregate Bond ETF (which charges 0.04%) is paying 0.26% per year for the quality tilt, a cost that must be earned back through either better returns or lower drawdowns during credit stress.
 
-The fund trades on NYSE Arca with reasonable liquidity for a bond ETF; spreads are typically a few basis points, and daily volume is sufficient for most retail and institutional orders without moving the market.
+The fund trades on [NYSE Arca](/nyse-arca/) with reasonable liquidity for a bond ETF; spreads are typically a few basis points, and daily volume is sufficient for most retail and institutional orders without moving the market.
 
 ## How it behaves in different environments
 
 In a stable, low-volatility credit environment — when loan performance is strong and corporate leverage is manageable — the quality tilt may not add much value. The excluded or underweighted bonds may perform in line with the broader index, making the higher expense ratio a drag. That is a risk with any quality strategy: you pay for selectivity that only pays off during stress.
 
-In a credit stress environment — a [recession](/recession/), a rate shock, or a widespread deterioration in corporate profitability — the quality screen should help: the bonds BOXA avoids or cuts will fall the most in price, while the higher-quality credits it favors will hold up better. Over a full market cycle, BOXA may deliver similar long-term returns to a passive aggregate bond ETF, but with less volatile drawdowns and fewer credit surprises. For conservative investors, that trade — lower downside volatility in exchange for paying slightly higher fees — may be worth it.
+In a credit stress environment — a [recession](/recession/), a rate shock, or a widespread deterioration in corporate profitability — the quality screen should help: the bonds BOXA avoids or cuts will fall the most in price, while the higher-quality credits it favors will hold up better. Over a full [market cycle](/market-cycle/), BOXA may deliver similar long-term returns to a passive aggregate bond ETF, but with less volatile drawdowns and fewer credit surprises. For conservative investors, that trade — lower downside volatility in exchange for paying slightly higher fees — may be worth it.
 
 ## Risks and considerations
 

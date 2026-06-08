@@ -26,7 +26,7 @@ handwritten: true
 
 ### What is a net lease and why does Generation Income own them?
 
-A net lease is a rental arrangement where the tenant pays base rent plus property expenses — taxes, insurance, maintenance, utilities. Unlike a gross lease (common in apartment buildings), the landlord does not cover these costs. For a small REIT, net lease properties are attractive because the landlord's job is simpler: collect the rent check, let the tenant handle the operations. The cash flow is therefore more predictable, and the landlord's margin is higher. Generation Income focuses exclusively on single-tenant net lease properties, betting that a stable, creditworthy tenant paying fixed rent is better than the volatility of a multi-tenant property or a [triple-net lease](/triple-net-lease/) where the landlord is responsible for major capital repairs.
+A net lease is a rental arrangement where the tenant pays base rent plus property expenses — taxes, insurance, maintenance, utilities. Unlike a [gross lease](/gross-lease/) (common in apartment buildings), the landlord does not cover these costs. For a small REIT, net lease properties are attractive because the landlord's job is simpler: collect the rent check, let the tenant handle the operations. The cash flow is therefore more predictable, and the landlord's margin is higher. Generation Income focuses exclusively on single-tenant net lease properties, betting that a stable, creditworthy tenant paying fixed rent is better than the volatility of a multi-tenant property or a [triple-net lease](/triple-net-lease/) where the landlord is responsible for major capital repairs.
 
 ### What tenants does the portfolio carry?
 
@@ -44,7 +44,7 @@ Management acknowledged in 2025 updates that the environment from 2023 onward ha
 
 ### Are there boom-and-bust cycles in commercial real estate income?
 
-Yes. Commercial property values and rental rates move with the broader economy and with credit cycles. In booms, businesses are growing, tenants demand more space, and property landlords can raise rents and command higher property prices. REIT valuations expand, equity capital is available, and debt is cheap. New acquisitions are attractive.
+Yes. Commercial property values and rental rates move with the broader economy and with [credit cycles](/credit-cycle/). In booms, businesses are growing, tenants demand more space, and property landlords can raise rents and command higher property prices. REIT valuations expand, equity capital is available, and debt is cheap. New acquisitions are attractive.
 
 In busts, tenants downsize or fail to renew leases, landlords struggle to raise rents, and property values fall. REIT valuations compress, equity capital disappears, and debt becomes expensive. REIT dividends come under pressure, and many opt to preserve cash rather than acquire.
 

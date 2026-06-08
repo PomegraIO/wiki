@@ -49,7 +49,7 @@ White River's size and structure mean it is exposed to these regional and sector
 
 ## Capital, reserves, and the regulatory environment
 
-Banks are heavily regulated. White River must maintain minimum levels of capital (measured as a ratio of risk-weighted assets), reserve funds for potential loan losses, and liquidity buffers. Regulators examine the loan portfolio regularly, assign a CAMELS rating, and restrict dividends or growth if capital is inadequate. This regulatory weight is a permanent feature of banking: you cannot ignore it, and it raises the cost of operation compared to an unregulated business.
+Banks are heavily regulated. White River must maintain minimum levels of capital (measured as a ratio of [risk-weighted assets](/risk-weighted-assets/)), reserve funds for potential loan losses, and liquidity buffers. Regulators examine the loan portfolio regularly, assign a CAMELS rating, and restrict dividends or growth if capital is inadequate. This regulatory weight is a permanent feature of banking: you cannot ignore it, and it raises the cost of operation compared to an unregulated business.
 
 Community banks in the United States also face consolidation pressure. Regulatory compliance is expensive; technology investment is capital-intensive; and scale matters for efficiency. Smaller independent banks have been disappearing for decades. A bank holding company structure like White River's allows mid-sized institutions to survive and compete by pooling resources while remaining locally rooted.
 

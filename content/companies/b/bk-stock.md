@@ -35,7 +35,7 @@ The asset servicing business includes securities lending, cash management, forei
 
 ## Asset Management and Alternative Investments
 
-Alongside custodial work, BK operates a substantial asset management division. The company manages money for institutional clients through various strategies, including equity, fixed income, alternatives (private equity, [hedge funds](/hedge-fund/)), and multi-asset solutions. Much of this business is institutional-focused rather than retail, which means the client base tends to be large endowments, pensions, and other sophisticated investors. Asset management generates both investment [management fees](/management-fee/) and, for BK's internal funds and partnerships, carried interest on successful investments. This business is more competitive and margin-sensitive than custody, but it provides scale, cross-selling opportunities with custodial clients, and [diversification](/diversification/) away from pure transaction fees.
+Alongside custodial work, BK operates a substantial asset management division. The company manages money for institutional clients through various strategies, including equity, fixed income, alternatives (private equity, [hedge funds](/hedge-fund/)), and multi-asset solutions. Much of this business is institutional-focused rather than retail, which means the client base tends to be large endowments, pensions, and other sophisticated investors. Asset management generates both investment [management fees](/management-fee/) and, for BK's internal funds and partnerships, [carried interest](/carried-interest-compensation/) on successful investments. This business is more competitive and margin-sensitive than custody, but it provides scale, cross-selling opportunities with custodial clients, and [diversification](/diversification/) away from pure transaction fees.
 
 ## Treasury Services and Payments
 
@@ -61,4 +61,4 @@ The company's quarterly earnings reports and investor day presentations provide 
 
 ---
 
-**Related:** [JPMorgan Chase (JPM)](/wiki/jpm-stock/) | State Street Corporation | [10-K filing](/wiki/10-k/) | Systemically Important Financial Institution | Asset Under Administration | [Basel III](/wiki/basel-iii/)
+**Related:** [JPMorgan Chase (JPM)](/wiki/jpm-stock/) | [State Street Corporation](/state-street-corporation/) | [10-K filing](/wiki/10-k/) | Systemically Important Financial Institution | Asset Under Administration | [Basel III](/wiki/basel-iii/)

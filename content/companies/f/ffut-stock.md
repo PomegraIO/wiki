@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Fidelity Managed Futures ETF (FFUT) is an actively managed exchange-traded fund that pursues a systematic trend-following strategy across global futures markets. Unlike traditional stock and [bond](/bond/) funds, managed futures invest in commodity, currency, and financial [futures contracts](/futures-contract/). The strategy aims to profit from directional price trends in these markets, providing returns that tend to move independently of stocks and bonds. For investors building diversified portfolios, managed futures offer the appeal of a return stream that behaves differently from conventional equities, with potential to hold value or rise during stock-market downturns.
+The Fidelity [Managed Futures](/managed-futures/) ETF (FFUT) is an actively managed exchange-traded fund that pursues a systematic [trend-following strategy](/trend-following-strategy/) across global futures markets. Unlike traditional stock and [bond](/bond/) funds, managed futures invest in commodity, currency, and financial [futures contracts](/futures-contract/). The strategy aims to profit from directional price trends in these markets, providing returns that tend to move independently of stocks and bonds. For investors building diversified portfolios, managed futures offer the appeal of a return stream that behaves differently from conventional equities, with potential to hold value or rise during stock-market downturns.
 
 <aside class="wiki-infobox">
 <table>

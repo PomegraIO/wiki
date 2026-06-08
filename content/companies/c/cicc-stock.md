@@ -49,7 +49,7 @@ The regulatory requirement to distribute 90 percent of taxable income also creat
 
 ## Competition and differentiation
 
-The BDC universe is competitive. Larger firms like Ares and Gladstone have stronger brand recognition, deeper networks, and lower funding costs. CION competes by building specialized expertise in particular industries or borrower types, or by offering flexible terms that appeal to borrowers locked out of traditional bank lending. The crowding of the space also means loan-to-value ratios (how much a BDC will lend against an asset) have generally risen, and covenant protections (the contractual safeguards lenders impose) have loosened, increasing portfolio risk across the industry.
+The BDC universe is competitive. Larger firms like Ares and Gladstone have stronger brand recognition, deeper networks, and lower funding costs. CION competes by building specialized expertise in particular industries or borrower types, or by offering flexible terms that appeal to borrowers locked out of traditional bank lending. The crowding of the space also means [loan-to-value ratios](/loan-to-value-ratio/) (how much a BDC will lend against an asset) have generally risen, and covenant protections (the contractual safeguards lenders impose) have loosened, increasing portfolio risk across the industry.
 
 ## Research and evaluation
 

@@ -46,7 +46,7 @@ Vale mines and refines copper, primarily from its Canadian operations and its su
 
 Cobalt is another battery-adjacent metal that Vale produces, again driven by demand growth in battery cathodes. Cobalt is expensive and concentrated in supply (much of the world's cobalt comes from the Democratic Republic of Congo), so Vale's cobalt volumes matter to global battery makers. The company also mines and sells manganese, used in steel production and batteries.
 
-The diversity of Vale's product portfolio is both a strength and a challenge. It spreads revenue across multiple commodities and therefore across multiple market cycles, but it also requires the company to manage vastly different mining operations, customer relationships, and supply chains. Some commodities are mature (iron ore, manganese) with stable, large markets; others are emerging (cobalt, nickel) with volatile demand and prices.
+The diversity of Vale's product portfolio is both a strength and a challenge. It spreads revenue across multiple commodities and therefore across multiple [market cycles](/market-cycle/), but it also requires the company to manage vastly different mining operations, customer relationships, and supply chains. Some commodities are mature (iron ore, manganese) with stable, large markets; others are emerging (cobalt, nickel) with volatile demand and prices.
 
 ## The tailings dam crisis and environmental legacy
 
@@ -56,7 +56,7 @@ The environmental and social dimensions of mining are increasingly material to V
 
 ## Brazil exposure and foreign-exchange volatility
 
-Vale is a Brazilian company generating the bulk of its revenue from commodity sales in [US dollars](/us-dollar/) while operating primarily in Brazil, where costs are denominated in Brazilian reals. When the real weakens against the dollar, Vale's costs fall in dollar terms, boosting profitability. When the real strengthens, costs rise, squeezing margins. This foreign-exchange exposure is a fact of life for Brazilian exporters, but it adds volatility to Vale's financial results that is disconnected from the company's operational performance.
+Vale is a Brazilian company generating the bulk of its revenue from commodity sales in [US dollars](/us-dollar/) while operating primarily in Brazil, where costs are denominated in [Brazilian reals](/brazilian-real/). When the real weakens against the dollar, Vale's costs fall in dollar terms, boosting profitability. When the real strengthens, costs rise, squeezing margins. This foreign-exchange exposure is a fact of life for Brazilian exporters, but it adds volatility to Vale's financial results that is disconnected from the company's operational performance.
 
 Political and macroeconomic conditions in Brazil also affect the company. Brazil is a major government stakeholder, retains regulatory authority over mining permits and export rules, and has occasionally been an unpredictable actor. During periods of political turmoil or macroeconomic crisis in Brazil, investors worry about whether Vale's assets will be stable or face sudden government intervention.
 

@@ -26,7 +26,7 @@ Without disclosed business operations, the company generates little to no operat
 
 ## Ownership and Management
 
-Information about Swarmer's ownership, board composition, and management is available through SEC filings, including proxy statements and forms 10-K or 10-Q. However, like many micro-cap shells, the company often operates with minimal management infrastructure—perhaps a small board and one or two officers managing the company on a part-time or as-needed basis. Investor communications are typically infrequent, and the company may have limited ability or motivation to pursue investor relations activities.
+Information about Swarmer's ownership, board composition, and management is available through SEC filings, including [proxy statements](/proxy-statement/) and forms 10-K or 10-Q. However, like many micro-cap shells, the company often operates with minimal management infrastructure—perhaps a small board and one or two officers managing the company on a part-time or as-needed basis. Investor communications are typically infrequent, and the company may have limited ability or motivation to pursue investor relations activities.
 
 The ownership structure of the company reflects its history as a shell: it may have been initially capitalized by founders or early investors, and subsequent ownership has likely been dispersed across shareholders who have acquired stock through open-market purchases or offerings.
 
@@ -38,7 +38,7 @@ Swarmer's ability to raise capital is constrained by its status as a micro-cap, 
 
 Investors in micro-cap shells face extreme risks. The most obvious is the risk of permanent loss of capital—if the company never identifies a viable business or acquisition and capital is exhausted, the shares could become worthless. Micro-cap and penny-stock trading is often thinly liquid, meaning shareholders may face difficulty selling shares at any price. The absence of an active business means there is no earnings stream to support a valuation; investors are essentially buying a claim on the company's remaining cash, which may be minimal.
 
-The structure also opens the company to manipulation and fraud. Promoters sometimes use shell companies as vehicles for schemes—acquiring [penny stocks](/penny-stocks-investor/), touting them aggressively, and selling shares at inflated prices. Legitimate shells exist, but the lack of transparency and business substance makes due diligence difficult and risk extremely high.
+The structure also opens the company to manipulation and fraud. Promoters sometimes use shell companies as vehicles for schemes—acquiring [penny stocks](/penny-stocks-investor/), touting them aggressively, and selling shares at inflated prices. Legitimate shells exist, but the lack of transparency and business substance makes [due diligence](/due-diligence/) difficult and risk extremely high.
 
 ## How to Research Swarmer
 

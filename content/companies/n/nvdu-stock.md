@@ -14,7 +14,7 @@ handwritten: true
 
 ## What does NVDU actually hold?
 
-NVDU does not hold NVIDIA shares directly. Instead it holds a portfolio of derivative instruments — primarily [futures contracts](/futures-contract/), swaps, and other contracts that replicate 2X the daily move of NVIDIA stock. Each trading day, the fund rebalances these positions so that tomorrow's performance will aim for exactly twice the daily percentage change of NVIDIA, regardless of where the stock closed today. The fund itself is a traditional ETF structure, trading on the NYSE Arca under ticker NVDU with moderate liquidity relative to single-stock products.
+NVDU does not hold NVIDIA shares directly. Instead it holds a portfolio of derivative instruments — primarily [futures contracts](/futures-contract/), swaps, and other contracts that replicate 2X the daily move of NVIDIA stock. Each trading day, the fund rebalances these positions so that tomorrow's performance will aim for exactly twice the daily percentage change of NVIDIA, regardless of where the stock closed today. The fund itself is a traditional ETF structure, trading on the [NYSE Arca](/nyse-arca/) under ticker NVDU with moderate liquidity relative to single-stock products.
 
 ## How does the 2X leverage actually work?
 
@@ -22,7 +22,7 @@ NVDU uses daily reset mechanics. When NVIDIA rises 1 percent in a single day, th
 
 ## Who is Direxion, and what are the costs?
 
-Direxion Shares, part of the Rafferty Asset Management family, is the largest issuer of leveraged and [inverse ETFs](/inverse-etf/) in the United States. NVDU carries an [expense ratio](/expense-ratio/) typical for single-stock leveraged products — roughly 0.75% to 0.95% annually — which covers the cost of managing the derivative positions, rebalancing, and exchange listing. The real cost, though, is the daily reset decay, which compounds especially harshly in high-volatility environments. A fund holding 2X leverage amplifies both gains and losses, and over periods where the stock is choppy, that amplification eats into the notional value faster than simple math would predict.
+Direxion Shares, part of the Rafferty Asset Management family, is the largest issuer of leveraged and [inverse ETFs](/inverse-etf/) in the United States. NVDU carries an [expense ratio](/expense-ratio/) typical for single-stock leveraged products — roughly 0.75% to 0.95% annually — which covers the cost of managing the derivative positions, rebalancing, and exchange listing. The real cost, though, is the daily reset decay, which compounds especially harshly in high-volatility environments. A fund holding 2X leverage amplifies both gains and losses, and over periods where the stock is choppy, that amplification eats into the [notional value](/notional-value/) faster than simple math would predict.
 
 ## Is NVDU designed for long-term holding?
 

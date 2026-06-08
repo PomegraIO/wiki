@@ -44,7 +44,7 @@ A biodiesel company without a diversified customer base (beyond mandated blendin
 
 CN Energy likely owns or operates one or more biodiesel production facilities. In the 10-K:
 
-- **Property, plant, and equipment (PP&E)**: What is the company's productive capacity? How much capital is tied up in facilities? Biodiesel plants require significant upfront investment.
+- **[Property, plant, and equipment](/property-plant-equipment/) (PP&E)**: What is the company's productive capacity? How much capital is tied up in facilities? Biodiesel plants require significant upfront investment.
 - **[Depreciation](/depreciation/) and [amortization](/amortization/)**: Is this a large line item on the P&L? Over what useful lives are assets being depreciated? This hints at the capital intensity and expected asset life.
 - **Operating expense breakdown**: Facility labor, utilities, maintenance. These are largely fixed—if production drops 10%, operating expense might drop only 2–3%, crushing margins. Compare operating expense to revenue trend.
 
@@ -66,7 +66,7 @@ Unlike some energy businesses with long-term supply contracts, biodiesel is ofte
 
 - **Offtake contracts**: Does CN Energy have contracts guaranteeing minimum purchases, or is it spot-market sales? Contracts reduce revenue volatility.
 - **Customer concentration**: If a large blender or distributor represents more than 20% of revenue, the relationship is a leverage point.
-- **Pricing mechanisms**: Are prices fixed at contract inception, or are they tied to commodity indices ([WTI crude](/wti-crude/), biodiesel futures)? Indexed pricing passes volatility to the customer; fixed pricing locks in margin but creates execution risk if feedstock prices spike.
+- **Pricing mechanisms**: Are prices fixed at contract inception, or are they tied to commodity indices ([WTI crude](/wti-crude/), biodiesel futures)? Indexed pricing passes volatility to the customer; fixed pricing locks in margin but creates [execution risk](/execution-risk/) if feedstock prices spike.
 
 The notes to revenue in the 10-K will disclose contract terms and any major customer relationships.
 

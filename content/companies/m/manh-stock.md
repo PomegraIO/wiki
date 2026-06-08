@@ -51,7 +51,7 @@ Competition from both large enterprise-software vendors ([Oracle](/orcl-stock/),
 
 ## How to research Manhattan Associates
 
-Start with the annual 10-K filing (SEC CIK 0001056696), which details customer concentration, customer retention rates, and the composition of revenue by contract type. Quarterly results reveal the trajectory of new customer acquisition, the expansion rate within existing accounts, and gross-margin trends. Management guidance on remaining performance obligations (RPO)—the backlog of future subscription revenue from existing contracts—provides visibility into forward revenue visibility.
+Start with the annual 10-K filing (SEC CIK 0001056696), which details customer concentration, customer retention rates, and the composition of revenue by contract type. Quarterly results reveal the trajectory of new customer acquisition, the expansion rate within existing accounts, and gross-margin trends. Management guidance on remaining [performance obligations](/performance-obligation/) (RPO)—the backlog of future subscription revenue from existing contracts—provides visibility into forward revenue visibility.
 
 Key metrics include cloud revenue as a percentage of the total (higher is healthier and indicates a shift away from legacy, less stable licensing models), gross margin on subscriptions (which indicates pricing power), and customer retention rates. Watch the commentary on competitive wins and losses, and any discussion of customer consolidation or churn. Track announcements of new product releases and capabilities, which indicate whether the company is expanding its addressable market or deepening existing customer value.
 

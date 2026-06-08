@@ -53,6 +53,6 @@ Interest rate risk is a material concern for life insurers. The company's liabil
 
 ## How to Research Great-West Lifeco
 
-An investor studying Great-West should begin with the company's [annual report](/10-k/) and proxy statement, filed with Canadian regulators and available through SEDAR. The company's SEC filings (it is not a U.S. reporting company but does have a level of cross-listing eligibility) and disclosure to rating agencies provide additional detail on capital ratios and business segment performance.
+An investor studying Great-West should begin with the company's [annual report](/10-k/) and [proxy statement](/proxy-statement/), filed with Canadian regulators and available through SEDAR. The company's SEC filings (it is not a U.S. reporting company but does have a level of cross-listing eligibility) and disclosure to rating agencies provide additional detail on capital ratios and business segment performance.
 
 Key metrics to track include life insurance in-force (total face amount of policies that will eventually pay claims), persistency rates (the percentage of customers who renew policies each year, a sign of satisfaction and retention), and [return on equity](/return-on-equity/) net of capital requirements. Watch movement in the company's regulatory capital ratios and any commentary on acquisitions or [divestitures](/divestiture/), which signal management's confidence in growth opportunities and capital allocation discipline.

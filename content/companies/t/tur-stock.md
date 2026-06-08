@@ -38,15 +38,15 @@ Single-country ETFs exist for two main reasons: some investors want concentrated
 
 ## What are the big risks of owning Turkey?
 
-A single-country fund is a concentrated bet, and Turkey carries specific risks that a global or developed-market fund would not. Economic policy risk is real — [inflation](/inflation/) has been volatile in Turkey, and currency [depreciation](/depreciation/) relative to the [US dollar](/us-dollar/) has been a significant headwind for Turkish investors in recent periods. The Turkish lira fluctuates substantially, and if it falls against the dollar, a US-based investor holding Turkish stocks in US dollars experiences a double hit: the stock decline in lira terms plus the currency loss when converting back.
+A single-country fund is a concentrated bet, and Turkey carries specific risks that a global or developed-market fund would not. Economic policy risk is real — [inflation](/inflation/) has been volatile in Turkey, and currency [depreciation](/depreciation/) relative to the [US dollar](/us-dollar/) has been a significant headwind for Turkish investors in recent periods. The [Turkish lira](/turkish-lira/) fluctuates substantially, and if it falls against the dollar, a US-based investor holding Turkish stocks in US dollars experiences a double hit: the stock decline in lira terms plus the currency loss when converting back.
 
-Political risk also matters. Turkey's government structure and policy direction can shift, and these shifts can affect business conditions, regulation, and the safety of investments. Any unexpected political change can trigger currency weakness or [capital flight](/capital-flight-sovereign/).
+[Political risk](/political-risk/) also matters. Turkey's government structure and policy direction can shift, and these shifts can affect business conditions, regulation, and the safety of investments. Any unexpected political change can trigger currency weakness or [capital flight](/capital-flight-sovereign/).
 
 The Turkish [stock market](/stock-market/) is also less liquid and less deeply analyzed than major developed markets. Fewer analysts cover Turkish companies, information disclosure can be less transparent than in the United States or Europe, and trading volumes are lower. This means that buying or selling a large position in TUR can move prices more easily than trading a fund of US stocks would.
 
 ## What does the fund cost to own?
 
-Like all iShares ETFs, TUR charges an [expense ratio](/expense-ratio/) that covers BlackRock's costs of running the fund — [management fees](/management-fee/), trading, index licensing, and administrative overhead. The expense ratio is typically moderate for a single-country ETF but higher than that of a broad US stock fund, reflecting the specialized and less-liquid nature of the portfolio.
+Like all iShares ETFs, TUR charges an [expense ratio](/expense-ratio/) that covers BlackRock's costs of running the fund — [management fees](/management-fee/), trading, [index licensing](/index-licensing/), and administrative overhead. The expense ratio is typically moderate for a single-country ETF but higher than that of a broad US stock fund, reflecting the specialized and less-liquid nature of the portfolio.
 
 TUR trades on the exchange during market hours, and its [bid-ask spread](/bid-ask-spread/) — the difference between what buyers will pay and sellers will ask — varies depending on trading volume. More active trading days see tighter spreads; quieter days can see wider spreads, which costs a buyer or seller a bit more per share.
 
@@ -54,7 +54,7 @@ TUR trades on the exchange during market hours, and its [bid-ask spread](/bid-as
 
 TUR is a Turkish stock fund, but it is traded in US dollars on a US exchange and designed for US investors. The stocks inside are priced in Turkish lira. When the Turkish lira weakens against the dollar, the US investor experiences a currency loss on top of any loss the stocks themselves might suffer. When the lira strengthens, currency gains add to equity returns.
 
-A US investor thinking about TUR must think about both the Turkish stock market and the Turkish currency. It is possible for TUR to lose money even if the underlying Turkish stocks gain in lira terms, because a currency depreciation can outweigh the stock gains. Conversely, a period of lira strength can boost US-dollar returns even if Turkish stocks are flat.
+A US investor thinking about TUR must think about both the Turkish stock market and the Turkish currency. It is possible for TUR to lose money even if the underlying Turkish stocks gain in lira terms, because a [currency depreciation](/currency-depreciation/) can outweigh the stock gains. Conversely, a period of lira strength can boost US-dollar returns even if Turkish stocks are flat.
 
 This currency exposure is one reason some investors use Turkey-denominated funds or currency-hedged versions if available, though TUR itself is not hedged — the fund simply owns Turkish stocks in lira terms and lets the currency move freely.
 

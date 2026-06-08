@@ -54,9 +54,9 @@ The most important risk is that the buffer does not protect against a rolling de
 
 A second risk is cap risk: in years when small-cap stocks have a strong rally, BSTP caps how much you can gain. Miss a 25 percent year because your fund is capped at 16 percent, and you sacrifice real wealth. Over long bull cycles, that cost compounds.
 
-There is also [basis risk](/basis-risk/). The protection is only as good as the structured note counterparty. If a major bank or financial institution fails — a rare but not impossible event — the protective structure could be impaired. Though most structured notes have some form of credit enhancement, the risk is non-zero.
+There is also [basis risk](/basis-risk/). The protection is only as good as the structured note counterparty. If a major bank or financial institution fails — a rare but not impossible event — the protective structure could be impaired. Though most structured notes have some form of [credit enhancement](/credit-enhancement/), the risk is non-zero.
 
-Finally, liquidity can evaporate. Most buffer funds are relatively new and have a modest asset base compared to vanilla index ETFs. In a severe market stress, the bid-ask spread could widen and the fund might trade at a meaningful premium or discount to its [net asset value](/net-asset-value/), making exit difficult.
+Finally, liquidity can evaporate. Most [buffer funds](/buffer-fund/) are relatively new and have a modest asset base compared to vanilla index ETFs. In a severe market stress, the bid-ask spread could widen and the fund might trade at a meaningful premium or discount to its [net asset value](/net-asset-value/), making exit difficult.
 
 ## How to research BSTP
 

@@ -37,7 +37,7 @@ The bank's [10-K filing](/10-k/) with the [Securities and Exchange Commission](/
 
 IBCP's loan losses depend on the quality of underwriting and the economic health of borrowers. Commercial loans to small businesses carry higher risk than mortgages backed by real estate. Agricultural loans are seasonal and depend on commodity prices, weather, and input costs. The bank discloses nonaccruing loans (those on which borrowers have stopped paying interest) and charge-offs (loans deemed uncollectible) in its filings; these metrics signal whether credit performance is stable or weakening.
 
-During economic downturns, unemployment rises, business revenues fall, and loan defaults accelerate. Community banks with concentrated customer bases can face rapid deterioration in credit quality. IBCP's loan loss reserves—an accounting estimate of future losses—are one measure of management's confidence in the portfolio.
+During economic downturns, unemployment rises, business revenues fall, and loan defaults accelerate. Community banks with concentrated customer bases can face rapid deterioration in credit quality. IBCP's loan loss reserves—an [accounting estimate](/accounting-estimate/) of future losses—are one measure of management's confidence in the portfolio.
 
 ## Earnings and profitability
 

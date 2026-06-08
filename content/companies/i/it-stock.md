@@ -61,11 +61,11 @@ Yet subscription saturation and competition mean growth depends on expanding int
 
 ## Risks and What Could Shift the Outlook
 
-Gartner's authority rests on the trust that its research is independent. Any perception that the company biases assessments toward its consulting clients, or that vendors gaming the Magic Quadrant system undermines its validity, would erode pricing power and renewal rates. The company manages this carefully with ethics policies, but reputational risk remains.
+Gartner's authority rests on the trust that its research is independent. Any perception that the company biases assessments toward its consulting clients, or that vendors gaming the Magic Quadrant system undermines its validity, would erode pricing power and renewal rates. The company manages this carefully with ethics policies, but [reputational risk](/reputational-risk/) remains.
 
 Market saturation is another constraint. The largest, most sophisticated IT organizations—the most valuable customers—have matured in their ability to conduct in-house research and may not renew at previous price points. Conversely, smaller organizations and emerging markets represent growth but are less willing to pay premium rates.
 
-Finally, the shift in how technology gets built and deployed—toward open source, toward cloud-native development, toward in-house AI capabilities—may alter what buyers want from research. If IT leaders increasingly trust open communities and vendor blogs over paid analysts, Gartner's model faces structural challenge. The company has moved to address this through digital tooling and community features, but execution risk is real.
+Finally, the shift in how technology gets built and deployed—toward open source, toward cloud-native development, toward in-house AI capabilities—may alter what buyers want from research. If IT leaders increasingly trust open communities and vendor blogs over paid analysts, Gartner's model faces structural challenge. The company has moved to address this through digital tooling and community features, but [execution risk](/execution-risk/) is real.
 
 ## Reading the Story
 

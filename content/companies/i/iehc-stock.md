@@ -16,7 +16,7 @@ keywords: ["holding company", "small-cap equity", "sec-filing", "public company"
 
 ## CIK-Based Research as the Foundation
 
-IEH Corp's primary identifier in the public record is its CIK (Central Index Key) assigned by the SEC. The CIK — a numeric identifier — is the key to accessing all official filings: Forms 10-K (annual reports), 10-Q (quarterly reports), 8-K (current reports of material events), and proxy statements. Unlike larger companies with mainstream news coverage and analyst reports, small-cap and microcap enterprises like IEHC are rarely discussed in the financial press; the [10-K filing](/10-k/) is the authoritative document for understanding the business. Readers researching IEHC should navigate to the SEC's EDGAR database (https://www.sec.gov/edgar), search for CIK 50292, and review the most recent annual and quarterly filings.
+IEH Corp's primary identifier in the public record is its CIK (Central Index Key) assigned by the SEC. The CIK — a numeric identifier — is the key to accessing all official filings: Forms 10-K (annual reports), 10-Q (quarterly reports), 8-K (current reports of material events), and [proxy statements](/proxy-statement/). Unlike larger companies with mainstream news coverage and analyst reports, small-cap and microcap enterprises like IEHC are rarely discussed in the financial press; the [10-K filing](/10-k/) is the authoritative document for understanding the business. Readers researching IEHC should navigate to the SEC's EDGAR database (https://www.sec.gov/edgar), search for CIK 50292, and review the most recent annual and quarterly filings.
 
 ## The Filing History and Disclosure Regularity
 
@@ -44,7 +44,7 @@ The company's [balance sheet](/balance-sheet/) and the notes to the financial st
 
 ## Liquidity and Going-Concern Risk
 
-For a small-cap or shell-stage company, the [balance sheet](/balance-sheet/) cash position and the [free cash flow](/free-cash-flow/) trajectory are survival metrics. A company with low cash, negative cash flow, and no clear path to profitability or capital raise faces material going-concern risk — the auditor may note this in the audit report. A 10-K that includes an explicit going-concern note is a red flag for investors; the company may not survive the next fiscal year without a capital injection or operational turnaround.
+For a small-cap or shell-stage company, the [balance sheet](/balance-sheet/) cash position and the [free cash flow](/free-cash-flow/) trajectory are survival metrics. A company with low cash, negative cash flow, and no clear path to profitability or capital raise faces material going-concern risk — the auditor may note this in the audit report. A 10-K that includes an explicit going-concern note is a red flag for investors; the company may not survive the next [fiscal year](/fiscal-year-definition/) without a capital injection or operational turnaround.
 
 ## The Analyst's Approach to IEH Corp
 

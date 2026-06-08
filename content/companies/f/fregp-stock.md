@@ -46,7 +46,7 @@ The company also operates under a statutory [dividend](/dividend/) cap on common
 
 Freddie Mac has historically held a roughly 50–50 market share with Fannie Mae across the secondary mortgage market. The combined portfolio of both enterprises typically encompasses between 40 and 50 percent of the mortgages in America, making them systemic to the housing system. The remainder is held by banks, sold into private-label mortgage-backed securities pools, or kept by community lenders.
 
-This concentrated position in a critical market means Freddie Mac and its counterpart are carefully regulated and politically sensitive. Their financial health is monitored continuously by the Federal Housing Finance Agency. Changes to their business model, their capital requirements, or the mortgages they are permitted to purchase ripple through the entire housing market.
+This concentrated position in a critical market means Freddie Mac and its counterpart are carefully regulated and politically sensitive. Their financial health is monitored continuously by the [Federal Housing Finance Agency](/federal-housing-finance-agency/). Changes to their business model, their capital requirements, or the mortgages they are permitted to purchase ripple through the entire housing market.
 
 ## Key considerations for investors and researchers
 

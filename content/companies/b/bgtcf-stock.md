@@ -4,7 +4,7 @@ description: "Beijing Geekplus Technology is a Chinese robotics and automation f
 keywords: ["BGTCF", "robotics", "automation", "China", "ADR", "technology", "trade"]
 ---
 
-*Beijing Geekplus Technology Co., Ltd. (BGTCF), trading in the United States via American Depositary Receipt, is a Chinese robotics and warehouse automation firm navigating the intersection of Chinese corporate governance and technology regulation, U.S. securities law and trading restrictions, and an increasingly restrictive geopolitical environment affecting technology transfer, supply chains, and market access.*
+*Beijing Geekplus Technology Co., Ltd. (BGTCF), trading in the United States via American [Depositary Receipt](/depositary-receipt/), is a Chinese robotics and warehouse automation firm navigating the intersection of Chinese corporate governance and technology regulation, U.S. securities law and trading restrictions, and an increasingly restrictive geopolitical environment affecting technology transfer, supply chains, and market access.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BGTCF</td></tr>
@@ -38,7 +38,7 @@ The Committee on Foreign Investment in the United States (CFIUS), housed in the 
 
 ## Sanction and Trade Restrictions
 
-Geekplus and its customers face ongoing risk that the U.S. government will expand sanctions or trade restrictions on China and Chinese technology firms. The Office of Foreign Assets Control (OFAC) maintains sanctions programs targeting specific Chinese entities, sectors (semiconductors, artificial intelligence), or broad categories of goods. If Geekplus is added to a sanctions or restricted-entity list, or if its customers are restricted, the company's U.S. market access can evaporate overnight.
+Geekplus and its customers face ongoing risk that the U.S. government will expand sanctions or trade restrictions on China and Chinese technology firms. The [Office of Foreign Assets Control](/office-of-foreign-assets-control/) (OFAC) maintains sanctions programs targeting specific Chinese entities, sectors (semiconductors, artificial intelligence), or broad categories of goods. If Geekplus is added to a sanctions or restricted-entity list, or if its customers are restricted, the company's U.S. market access can evaporate overnight.
 
 Further, the recent U.S.-China trade tensions have included tariffs on Chinese-origin goods and ongoing threats of broader restrictions. If Geekplus manufactures products in China and sells them into the United States, tariffs directly affect its cost structure and pricing competitiveness. Tariff policy changes can rapidly alter profitability.
 

@@ -31,7 +31,7 @@ The company has reported profitability in some recent periods, posting a net inc
 
 ## The risk structure of a technology portfolio
 
-A technology holding company pursuing multiple emerging sectors faces several distinctive risks. The first is execution risk: does management have the expertise and operational capability to succeed in electric vehicles, artificial intelligence, and robotics simultaneously? These are distinct industries with different supply chains, customer bases, and competitive landscapes. A manager excellent at hardware design might struggle with software or battery chemistry.
+A technology holding company pursuing multiple emerging sectors faces several distinctive risks. The first is [execution risk](/execution-risk/): does management have the expertise and operational capability to succeed in electric vehicles, artificial intelligence, and robotics simultaneously? These are distinct industries with different supply chains, customer bases, and competitive landscapes. A manager excellent at hardware design might struggle with software or battery chemistry.
 
 The second is capital allocation. Multiple early-stage technology ventures require funding, and capital is finite. If management directs resources poorly — investing heavily in a failing initiative while starving a promising one — the company destroys shareholder value. This requires discipline and ruthlessness in shutting down initiatives that aren't working, which many management teams lack.
 

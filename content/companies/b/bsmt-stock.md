@@ -21,7 +21,7 @@ The breadth of BSMT's holdings spans dozens of states, hundreds of individual is
 
 ## The Bullet Structure: Maturity as a Feature
 
-BSMT follows the bullet-fund model: it concentrates its holdings in bonds maturing around 2029 and deliberately shrinks toward closure as that date approaches. This is fundamentally different from a conventional municipal bond fund, which holds bonds across many maturity dates and operates indefinitely.
+BSMT follows the bullet-fund model: it concentrates its holdings in bonds maturing around 2029 and deliberately shrinks toward closure as that date approaches. This is fundamentally different from a conventional [municipal bond fund](/municipal-bond-fund/), which holds bonds across many maturity dates and operates indefinitely.
 
 For BSMT investors, the bullet structure offers clarity. You know when the fund will mature and return your principal. You know that the fund manager will not be rolling into 2030 bonds or beyond. As the portfolio ages, duration risk naturally declines because the bonds get closer to their payoff dates and closer to [par value](/par-value/). For someone with a goal that aligns to 2029 — a major expense, a retirement year, a planned portfolio shift — BSMT provides a way to set aside funds and lock in a maturity date.
 

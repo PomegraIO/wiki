@@ -19,7 +19,7 @@ Unlike an open-ended mutual fund, GCV has a fixed number of shares outstanding. 
 
 The fund's core investment thesis centres on [convertible bonds](/convertible-bond/) and similar hybrid securities that blend characteristics of both debt and equity. A convertible [bond](/bond/) is a [corporate bond](/corporate-bond/) that its holder can exchange for a fixed number of shares of the issuing company's [common stock](/common-stock/) at a predetermined price. These instruments appeal to investors who want bond-like stability and income while retaining the upside potential of owning equity. The fund complements this core holding with straight debt securities issued by corporations and other entities, as well as preferred shares and other income-producing equity instruments.
 
-The fund aims to hold securities across a range of creditworthiness and maturity dates, which helps cushion against the risk that any single sector or borrower falls into difficulty. Its benchmark universe includes the Standard & Poor's 500 Index for equity exposure, the Barclays Government/Credit Bond Index for fixed income, and the Lipper Convertible Securities Fund Average as a peer comparison.
+The fund aims to hold securities across a range of creditworthiness and maturity dates, which helps cushion against the risk that any single sector or borrower falls into difficulty. Its benchmark universe includes the Standard & Poor's 500 Index for equity exposure, the Barclays Government/Credit Bond Index for fixed income, and the Lipper [Convertible Securities Fund](/convertible-securities-fund/) Average as a peer comparison.
 
 ## Distribution policy and shareholder returns
 
@@ -29,7 +29,7 @@ Shareholders receive this income in the form of monthly, quarterly, or annual di
 
 ## The competitive landscape and the manager
 
-Convertible securities represent a niche within both bond and equity markets. Other funds and institutional investors compete for exposure to the same securities, and fund performance depends partly on market conditions for convertibles and partly on the skill of the portfolio manager in selecting individual securities and managing overall portfolio risk. Mario Gabelli and his team oversee this allocation, leveraging their long operational history in the convertible space.
+Convertible securities represent a niche within both bond and equity markets. Other funds and institutional investors compete for exposure to the same securities, and fund performance depends partly on market conditions for convertibles and partly on the skill of the portfolio manager in selecting individual securities and managing overall portfolio risk. [Mario Gabelli](/mario-gabelli/) and his team oversee this allocation, leveraging their long operational history in the convertible space.
 
 Because [closed-end funds](/closed-end-fund/) trade on an exchange rather than issuing or redeeming shares based on net asset value, their prices can diverge materially from their underlying holdings. Investors buying GCV at a discount to net asset value capture additional value if the discount narrows; conversely, buying at a premium exposes the shareholder to the risk that the premium erodes. This dynamic introduces both opportunity and risk that does not exist in open-ended [mutual funds](/mutual-fund/).
 

@@ -38,6 +38,6 @@ The SPAC structure has also attracted scrutiny. Many SPAC [mergers](/merger/) ha
 
 ## How to Research Armada
 
-The company's SEC filings, particularly the 10-K and 8-K (current event) filings, will disclose whether and with whom Armada has signed a merger agreement. The merger agreement itself, filed as an exhibit to the 8-K, contains details about the target company, the deal structure, and the terms. A proxy statement filed before any shareholder vote on the merger also contains detailed information about the target company's business, management, and financials.
+The company's SEC filings, particularly the 10-K and 8-K (current event) filings, will disclose whether and with whom Armada has signed a merger agreement. The merger agreement itself, filed as an exhibit to the 8-K, contains details about the target company, the deal structure, and the terms. A [proxy statement](/proxy-statement/) filed before any shareholder vote on the merger also contains detailed information about the target company's business, management, and financials.
 
 If no deal has been announced, Armada's filings will show how much cash remains in the trust account and what the deadline is for completing an acquisition. For shareholders, the key questions are straightforward: Do you trust the sponsors to find a good deal? What sector are they targeting? How much time remains? If you do not like the deal they find, will you redeem or stay? As with any investment, these are personal decisions with real risks involved.

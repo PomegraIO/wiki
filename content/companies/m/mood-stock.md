@@ -26,7 +26,7 @@ handwritten: true
 
 ## The sentiment thesis
 
-MOOD begins with a straightforward premise: investor psychology drives market cycles, and those cycles are measurable. Rather than commit to a static [asset allocation](/asset-allocation/), the fund monitors multiple sentiment indicators and adjusts its positioning monthly between U.S. equities and [bonds](/bond/). When its signal reads greed, the fund tilts more aggressive; when it reads fear, it shifts toward safety. The mechanics are transparent and rule-based, avoiding the human errors that plague manual rebalancing—the reluctance to sell winners, the panic at bottoms—yet still carrying the risk that mechanical signals lag reality or send false alarms.
+MOOD begins with a straightforward premise: investor psychology drives [market cycles](/market-cycle/), and those cycles are measurable. Rather than commit to a static [asset allocation](/asset-allocation/), the fund monitors multiple sentiment indicators and adjusts its positioning monthly between U.S. equities and [bonds](/bond/). When its signal reads greed, the fund tilts more aggressive; when it reads fear, it shifts toward safety. The mechanics are transparent and rule-based, avoiding the human errors that plague manual rebalancing—the reluctance to sell winners, the panic at bottoms—yet still carrying the risk that mechanical signals lag reality or send false alarms.
 
 ## How the signal is built
 
@@ -38,7 +38,7 @@ This mechanical approach has two faces. It supplies discipline—the fund cannot
 
 The fund holds two basic buckets: a broad U.S. equity component (drawn from large-cap indices or sector indices depending on market conditions) and a U.S. bond component (typically a mix of government, investment-grade corporate, and sometimes higher-yielding securities). The baseline sits around a 60/40 mix, so most months the fund is neither extremely aggressive nor extremely defensive. Actual weightings can drift across a meaningful range in response to sentiment swings.
 
-MOOD trades on a major U.S. exchange as a standard [ETF: intraday pricing](/etf-intraday-pricing/), low minimums, fractional shares, and adequate liquidity for retail and small institutional traders. The [expense ratio](/expense-ratio/) is moderate for a fund with monthly rebalancing and active decision-making embedded in the methodology.
+MOOD trades on a major U.S. exchange as a standard [ETF: intraday pricing](/etf-intraday-pricing/), low minimums, [fractional shares](/fractional-shares/), and adequate liquidity for retail and small institutional traders. The [expense ratio](/expense-ratio/) is moderate for a fund with monthly rebalancing and active decision-making embedded in the methodology.
 
 ## The real risks
 

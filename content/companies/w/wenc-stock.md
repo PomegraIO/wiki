@@ -43,7 +43,7 @@ The private placement of $4.25 million in units alongside the IPO is another sig
 
 ## Risks and challenges
 
-Latin American investments carry political risk, [currency risk](/currency-risk/), and execution risk. Even a well-run company in Mexico or another Latin American country faces regulatory changes, [inflation](/inflation/), peso weakness, and potential political instability that could impair returns. The further removed from major urban centers a business operates, the greater these risks typically are.
+Latin American investments carry [political risk](/political-risk/), [currency risk](/currency-risk/), and [execution risk](/execution-risk/). Even a well-run company in Mexico or another Latin American country faces regulatory changes, [inflation](/inflation/), peso weakness, and potential political instability that could impair returns. The further removed from major urban centers a business operates, the greater these risks typically are.
 
 SPAC [mergers](/merger/) as a category have underperformed the broader market since 2020. While West Enclave's regional focus and sponsor expertise are differentiators, the SPAC structure itself remains structurally risky for public shareholders. Redemptions can reduce the cash available to the combined company, forcing dilutive equity raises or impairing the [balance sheet](/balance-sheet/).
 
@@ -51,7 +51,7 @@ There is also execution risk. Identifying and diligencing a quality acquisition 
 
 ## What to watch in West Enclave's merger announcement
 
-When West Enclave announces a target (if and when it does), the key documents to review are the proxy statement and the financial projections filed with the SEC. These will reveal the target company's revenue, growth rate, profitability, and capital structure. Compare the [enterprise value](/enterprise-value/) West Enclave assigns to the target against comparable companies in similar sectors — if the valuation is a significant discount to peers, that may indicate a good opportunity; if it is a premium, be cautious.
+When West Enclave announces a target (if and when it does), the key documents to review are the [proxy statement](/proxy-statement/) and the financial projections filed with the SEC. These will reveal the target company's revenue, growth rate, profitability, and capital structure. Compare the [enterprise value](/enterprise-value/) West Enclave assigns to the target against comparable companies in similar sectors — if the valuation is a significant discount to peers, that may indicate a good opportunity; if it is a premium, be cautious.
 
 Watch the redemption rate after the deal is announced. If a large percentage of public shareholders choose to redeem and take their money back from the trust account, it signals skepticism about the target. This reduces the cash available to the combined company and may force additional fundraising at unfavorable terms.
 

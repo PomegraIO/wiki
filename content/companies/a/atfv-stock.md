@@ -42,9 +42,9 @@ The concentration also means the fund's performance hinges on whether Alger's st
 
 ## Cost and comparison
 
-The fund carries an [expense ratio](/expense-ratio/) above that of broad market index ETFs like VOO or VTI, reflecting the fact that the portfolio is actively managed, however transparently. The expense ratio is much lower, however, than a traditional mutual fund focused on growth equities or a separately managed account with a stockbroker.
+The fund carries an [expense ratio](/expense-ratio/) above that of broad market index ETFs like VOO or VTI, reflecting the fact that the portfolio is actively managed, however transparently. The expense ratio is much lower, however, than a traditional mutual fund focused on growth equities or a [separately managed account](/separately-managed-account/) with a stockbroker.
 
-An investor choosing ATFV is implicitly making a bet that Alger's research process is worth the added cost compared to a passive S&P 500 or Russell 1000 [index fund](/index-fund/). That bet should be tested by comparing the fund's returns (after fees) to relevant benchmarks over a full market cycle, not just strong years.
+An investor choosing ATFV is implicitly making a bet that Alger's research process is worth the added cost compared to a passive S&P 500 or Russell 1000 [index fund](/index-fund/). That bet should be tested by comparing the fund's returns (after fees) to relevant benchmarks over a full [market cycle](/market-cycle/), not just strong years.
 
 ## The investor base
 

@@ -33,7 +33,7 @@ Production and distribution businesses are capital-intensive. A studio finances 
 
 ## International Expansion and Localization
 
-Lionsgate operates in a globalized content market where adaptation for local audiences drives incremental revenue. The studio produces and distributes content through international offices and partners in the UK, continental Europe, India, and Asia-Pacific. Local partnerships reduce foreign currency and execution risk but dilute margins; a 50/50 co-production deal splits licensing revenue. The strategic leverage lies in *Twilight* and *Saw* recognition in overseas markets, where streaming platforms actively license proven English-language properties. However, the studio's cost structure means it cannot compete on scale with regional streamers building local slates—it must pick winners and allocate production capital selectively.
+Lionsgate operates in a globalized content market where adaptation for local audiences drives incremental revenue. The studio produces and distributes content through international offices and partners in the UK, continental Europe, India, and Asia-Pacific. Local partnerships reduce foreign currency and [execution risk](/execution-risk/) but dilute margins; a 50/50 co-production deal splits licensing revenue. The strategic leverage lies in *Twilight* and *Saw* recognition in overseas markets, where streaming platforms actively license proven English-language properties. However, the studio's cost structure means it cannot compete on scale with regional streamers building local slates—it must pick winners and allocate production capital selectively.
 
 ## Risks and Secular Headwinds
 

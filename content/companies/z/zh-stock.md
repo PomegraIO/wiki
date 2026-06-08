@@ -48,7 +48,7 @@ The company's [10-K](/wiki/10-k/) filings reveal a business still in investment 
 
 ## What should an investor watch?
 
-The key metrics to follow are user engagement (daily and monthly active users), the ratio of ad revenue to subscription and creator revenue (tracking whether the business is diversifying), and churn in both users and paying members. Content growth—measured by answer volume, article publishing, and community formation—is a leading indicator of future engagement and monetization capacity.
+The key metrics to follow are user engagement (daily and monthly active users), the ratio of ad revenue to subscription and creator revenue (tracking whether the business is diversifying), and churn in both users and paying members. Content growth—measured by answer volume, article publishing, and community formation—is a [leading indicator](/leading-indicator/) of future engagement and monetization capacity.
 
 Regulatory developments in China merit close attention; any significant content restrictions or platform regulations could reshape the business model overnight. Changes to how the company incentivizes creators will also matter, since content quality depends on rewarding contributors adequately.
 

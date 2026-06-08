@@ -41,7 +41,7 @@ Like all restaurant-focused businesses, Chefs' Warehouse experienced disruption 
 
 The [10-K](/10-k/) filing shows Chefs' Warehouse organized around geography (distribution centers in named regions) and product categories (imported items, prepared foods, specialty proteins). Readers researching the company should note the customer [concentration risk](/concentration-risk/) — the top customers, typically large restaurant groups or institutional buyers, represent a significant percentage of [revenue](/). Margin depends partly on product mix: some items are ordered frequently and hold steady margins, while others are seasonal or opportunistic and carry higher margin but less predictable volume.
 
-The company's debt and [capital structure](/enterprise-value/) reflect both the infrastructure needed (warehouses, trucks, cold storage) and the cash cycle of food distribution. Payment terms with suppliers are often longer than collections from restaurants, creating working capital pressure. This is why the company's ability to manage cash flow and maintain supplier relationships is almost as important as sales growth.
+The company's debt and [capital structure](/enterprise-value/) reflect both the infrastructure needed (warehouses, trucks, [cold storage](/cold-storage-crypto/)) and the cash cycle of food distribution. Payment terms with suppliers are often longer than collections from restaurants, creating working capital pressure. This is why the company's ability to manage cash flow and maintain supplier relationships is almost as important as sales growth.
 
 ## The Ongoing Test
 

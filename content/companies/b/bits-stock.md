@@ -40,7 +40,7 @@ This active management comes at a cost. The [expense ratio](/expense-ratio/) is 
 
 ## The ecosystem moat and structural risks
 
-Bitcoin's moat — its difficult-to-replicate network effects, the first-mover advantage in digital settlement, and the entrenched base of miners and users — creates a structural advantage for the ecosystem as a whole. Displacing Bitcoin as the leading digital asset would require not just a technical innovation but a wholesale migration of liquidity, mining power, and merchant adoption. That stickiness protects both the Bitcoin holdings and the equity components.
+Bitcoin's moat — its difficult-to-replicate network effects, the first-mover advantage in digital settlement, and the entrenched base of miners and users — creates a structural advantage for the ecosystem as a whole. Displacing Bitcoin as the leading digital asset would require not just a technical innovation but a wholesale migration of [liquidity, mining](/liquidity-mining/) power, and merchant adoption. That stickiness protects both the Bitcoin holdings and the equity components.
 
 However, the fund faces genuine structural risks. Regulatory pressure on Bitcoin mining or trading could render the entire thesis obsolete, especially if miners are forced offline or exchanges are shuttered. Changes in Bitcoin's technological path — proposals to replace proof-of-work with more energy-efficient alternatives — would threaten the mining businesses the fund holds. If alternative blockchains capture Bitcoin's market share, both the Bitcoin price and the profitability of the company equities would fall together. All parts of the ecosystem rise and fall as one.
 

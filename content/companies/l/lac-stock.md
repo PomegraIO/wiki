@@ -30,7 +30,7 @@ What distinguishes Thacker Pass is its scale and domestic location. As global ba
 
 A turning point came with a strategic investment from [General Motors](/gm-stock/). In 2020, GM committed to funding a portion of Thacker Pass development in exchange for supply rights and equity upside. The partnership underscored demand from a major automaker facing its own EV transition targets. GM's involvement provided both capital and commercial anchoring for the project, though LAC remains responsible for construction, permitting, and operational ramp-up.
 
-The GM relationship is not a guarantee of purchase—it reflects confidence in the project's viability and access to offtake, but execution risk remains with LAC. The company must still deliver on permitting, environmental approvals, and construction timelines.
+The GM relationship is not a guarantee of purchase—it reflects confidence in the project's viability and access to offtake, but [execution risk](/execution-risk/) remains with LAC. The company must still deliver on permitting, environmental approvals, and construction timelines.
 
 ## Permitting and Regulatory Landscape
 

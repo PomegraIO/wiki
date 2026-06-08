@@ -28,7 +28,7 @@ Healthcare software companies typically face a long road from product-market fit
 
 ## Balance Sheet as a Window into Growth Strategy
 
-Reading MedWellAI through its [balance sheet](/balance-sheet/) reveals the company's actual strategic choices: How much cash does it hold? That figure signals confidence in near-term profitability or, conversely, the need to raise more. Are there significant liabilities tied to customer contracts, integration work, or earnouts from [acquisitions](/acquisition/)? Those obligations lock capital into past commitments and shape cash available for new investment. The relationship between assets (capitalized software development, capitalized sales costs, customer relationship intangibles) and liabilities (debt, deferred revenue, earnout payables) shows whether the company funds growth through organic cash generation or external financing, and at what cost.
+Reading MedWellAI through its [balance sheet](/balance-sheet/) reveals the company's actual strategic choices: How much cash does it hold? That figure signals confidence in near-term profitability or, conversely, the need to raise more. Are there significant liabilities tied to customer contracts, integration work, or earnouts from [acquisitions](/acquisition/)? Those obligations lock capital into past commitments and shape cash available for new investment. The relationship between assets (capitalized software development, capitalized sales costs, customer relationship intangibles) and liabilities (debt, [deferred revenue](/deferred-revenue/), earnout payables) shows whether the company funds growth through organic cash generation or external financing, and at what cost.
 
 ## Equity Dilution and Growth Financing
 

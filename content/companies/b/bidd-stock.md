@@ -43,7 +43,7 @@ The main risks here are concentration, currency, and managerial idiosyncrasy. Co
 
 [Currency risk](/currency-risk/) is inherent to any international fund. If you live in the United States and buy BIDD, you are implicitly betting that the euro, pound sterling, yen, and other foreign currencies will not weaken against the dollar. A strong dollar can erase gains in underlying stock prices from a US investor's perspective. Some international funds hedge this currency exposure (eliminating it) and some do not; check the prospectus to understand BIDD's approach.
 
-Managerial risk means that poor stock-picking decisions can undermine returns. If the portfolio manager misjudges which dividend stocks are sustainable and overloads on companies that cut their payouts within a year or two, the fund will lag a passive peer. Over a market cycle, some managers beat their benchmarks; others trail. Past performance is not indicative of future results, a phrase that is cliché but factually true.
+Managerial risk means that poor stock-picking decisions can undermine returns. If the portfolio manager misjudges which dividend stocks are sustainable and overloads on companies that cut their payouts within a year or two, the fund will lag a passive peer. Over a [market cycle](/market-cycle/), some managers beat their benchmarks; others trail. Past performance is not indicative of future results, a phrase that is cliché but factually true.
 
 ## Who BIDD is for
 

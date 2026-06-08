@@ -63,7 +63,7 @@ A major constraint is competitive pricing. Fuel retailers who process fleet-card
 
 WEX operates in heavily regulated domains. Workplace Solutions is governed by IRS rules around flexible spending accounts; those rules can change, reducing the attractiveness of the product to employers. Fleet Solutions operates in consumer finance (fuel cards are a form of payment instrument) and faces anti-money-laundering and know-your-customer rules. The company must stay compliant across multiple jurisdictions and adapt when regulations shift.
 
-Technology and data risk are less visible but material. A major outage or data breach would damage WEX's reputation and customer relationships. As the company holds increasingly sensitive customer and employee data, cybersecurity failures carry both operational and legal risk.
+Technology and data risk are less visible but material. A major outage or data breach would damage WEX's reputation and customer relationships. As the company holds increasingly sensitive customer and employee data, cybersecurity failures carry both operational and [legal risk](/legal-risk/).
 
 Finally, macroeconomic downturn can pressure the business. In a [recession](/recession/), trucking demand falls and less fuel is purchased; benefits-program enrollment may contract if employers cut benefits to preserve cash; and corporate travel and entertainment spending typically decline sharply. WEX is not recession-proof, though its diversification across three segments provides some insulation.
 

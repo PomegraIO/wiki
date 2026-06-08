@@ -4,7 +4,7 @@ description: "Canadian natural graphite producer and mining company. Operations 
 keywords: ["graphite mining", "critical minerals", "commodities", "capital expenditure", "mining operations"]
 ---
 
-*[Graphex Group Ltd](/grfxf-stock/) (GRFXF) is a natural graphite mining and processing company with operations and assets primarily in North America. The [public company](/public-company/) model exposes investors to commodity-price volatility and the execution risk inherent in mining development. Filing documents (CIK 1816723) reveal the company's reserve base, capital requirements, and the margin structure that connects ore grades and processing costs to profitability.*
+*[Graphex Group Ltd](/grfxf-stock/) (GRFXF) is a natural graphite mining and processing company with operations and assets primarily in North America. The [public company](/public-company/) model exposes investors to commodity-price volatility and the [execution risk](/execution-risk/) inherent in mining development. Filing documents (CIK 1816723) reveal the company's reserve base, capital requirements, and the margin structure that connects ore grades and processing costs to profitability.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GRFXF</td></tr>

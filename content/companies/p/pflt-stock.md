@@ -53,7 +53,7 @@ This is why rate expectations matter for PFLT holders. The stock trades at a dis
 
 ## Managing credit risk in a loan portfolio
 
-Lending to private, below-investment-grade companies carries [credit risk](/credit-risk/): borrowers default, business conditions change, and planned exits fail to materialize. PennantPark manages this risk through [diversification](/diversification/)—holding many loans rather than betting on a handful—and through careful underwriting before committing capital. The external manager, [PennantPark Investment](/pnnt-stock/) Advisors, oversees due diligence, portfolio monitoring, and exit planning for each loan.
+Lending to private, below-investment-grade companies carries [credit risk](/credit-risk/): borrowers default, business conditions change, and planned exits fail to materialize. PennantPark manages this risk through [diversification](/diversification/)—holding many loans rather than betting on a handful—and through careful underwriting before committing capital. The external manager, [PennantPark Investment](/pnnt-stock/) Advisors, oversees [due diligence](/due-diligence/), portfolio monitoring, and exit planning for each loan.
 
 The company's non-diversified status, noted in its filings, means it can hold larger positions in individual loans than a diversified fund would, potentially concentrating risk. This is a choice made to gain deeper influence over borrower decisions and potentially better returns, but it is a real source of volatility in a downturn. If one large borrower encounters trouble, it impacts the portfolio's value more acutely than it would in a highly diversified fund.
 
@@ -75,7 +75,7 @@ The company's quarterly earnings releases and 10-Q filings (SEC CIK 0001504619) 
 
 The floating-rate structure is an advantage when rates are high, but it is a source of downside when rates fall or when the Fed cuts aggressively. If the U.S. enters a [recession](/recession/) and the Fed slashes rates to near zero, PennantPark's income could fall sharply, and many borrowers might default, forcing the portfolio to realize losses.
 
-A second risk is borrower concentration. Whilst the BDC is technically non-diversified, it still seeks to spread risk. But there are always large positions in the portfolio, and idiosyncratic [credit events](/credit-event-sovereign/)—a large borrower struggles—ripple through results.
+A second risk is borrower concentration. Whilst the BDC is technically non-diversified, it still seeks to [spread risk](/spread-risk/). But there are always large positions in the portfolio, and idiosyncratic [credit events](/credit-event-sovereign/)—a large borrower struggles—ripple through results.
 
 Finally, the leverage that amplifies returns also amplifies losses. If the underlying portfolio declines in value by 10 percent and PennantPark has borrowed heavily to own that portfolio, the equity value falls by far more than 10 percent. Leverage is a double-edged tool.
 
@@ -85,4 +85,4 @@ Begin with the [annual report](/10-k/) and quarterly 10-Q filings. Study the por
 
 Track the stock's trading price relative to its net asset value (NAV). If PFLT trades below NAV, it may be undervalued or may reflect investor concerns about credit risk ahead. If it trades above NAV, the market has high confidence in the manager and the loan book.
 
-Keep an eye on the broader macroeconomic environment. Middle-market loan defaults rise during recessions and late-cycle stress, so leading indicators—GDP growth, unemployment trends, credit spreads on [high-yield bonds](/high-yield-bond/)—help forecast whether credit conditions are likely to improve or deteriorate. PennantPark's income and returns will follow those trends.
+Keep an eye on the broader macroeconomic environment. Middle-market loan defaults rise during recessions and late-cycle stress, so [leading indicators](/leading-indicator/)—GDP growth, unemployment trends, credit spreads on [high-yield bonds](/high-yield-bond/)—help forecast whether credit conditions are likely to improve or deteriorate. PennantPark's income and returns will follow those trends.

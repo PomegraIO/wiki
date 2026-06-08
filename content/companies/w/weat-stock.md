@@ -10,7 +10,7 @@ keywords:
   - global agriculture
 ---
 
-WEAT is a fund structured to track the price of wheat traded on the Kansas City Board of Trade (KCBOT), one of the primary exchanges for hard red winter wheat in North America. Like Teucrium's other commodity funds, WEAT is built as a pass-through: it collects investor money, holds wheat [futures contracts](/futures-contract/), and passes through the profits or losses directly to shareholders. The revenue to Teucrium comes entirely from [management fees](/management-fee/) charged as a percentage of assets under management, usually between 0.5% and 1.5% annually depending on the fund's size and market conditions.
+WEAT is a fund structured to track the price of wheat traded on the Kansas City Board of Trade (KCBOT), one of the primary exchanges for [hard red winter wheat](/hard-red-winter-wheat/) in North America. Like Teucrium's other commodity funds, WEAT is built as a pass-through: it collects investor money, holds wheat [futures contracts](/futures-contract/), and passes through the profits or losses directly to shareholders. The revenue to Teucrium comes entirely from [management fees](/management-fee/) charged as a percentage of assets under management, usually between 0.5% and 1.5% annually depending on the fund's size and market conditions.
 
 <aside class="wiki-infobox">
 <table>

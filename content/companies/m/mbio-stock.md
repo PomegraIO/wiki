@@ -29,7 +29,7 @@ MUSTANG's technology centers on cell engineering: inserting genes that encode ca
 
 This outsourced manufacturing model reduces capital requirements compared to building a full GMP cell-manufacturing facility. However, it creates dependence on partners and limits control over manufacturing costs and timelines. Competitors like Juno (backed by Celgene/[Bristol Myers Squibb](/bmy-stock/)) operate large in-house facilities, giving them economies of scale and faster production. MUSTANG's smaller scale and reliance on partners may limit its ability to compete on manufacturing cost once multiple therapies are commercialized.
 
-MUSTANG also licenses technology from academic institutions and other biotech companies, adding to its portfolio without bearing full development costs. This approach diversifies pipeline risk: if one program fails, others remain. However, MUSTANG has to pay royalties on downstream sales, reducing margins compared to fully proprietary discoveries.
+MUSTANG also licenses technology from academic institutions and other biotech companies, adding to its portfolio without bearing full development costs. This approach diversifies [pipeline risk](/pipeline-risk/): if one program fails, others remain. However, MUSTANG has to pay royalties on downstream sales, reducing margins compared to fully proprietary discoveries.
 
 ## Clinical Development Stage and Regulatory Path
 

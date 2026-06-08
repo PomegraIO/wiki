@@ -30,7 +30,7 @@ Before a merger is announced or completed, Keel's 10-K is largely a shell: minim
 
 **Acquisition criteria**: The SPAC's prospectus and periodic filings must state what kinds of businesses Keel intends to acquire: size, geography, sector, business model. Has management stuck to stated criteria or drifted? A sponsor that broadens criteria repeatedly is signaling difficulty in finding a suitable deal within original parameters.
 
-**Announce-and-hold period**: Once Keel announces a target, a significant period elapses between announcement and shareholder vote (typically 2–3 months). During this window, the 10-K or proxy statement will detail the target's financials, risks, and deal structure. This is when detailed fundamental analysis becomes relevant.
+**Announce-and-hold period**: Once Keel announces a target, a significant period elapses between announcement and shareholder vote (typically 2–3 months). During this window, the 10-K or [proxy statement](/proxy-statement/) will detail the target's financials, risks, and deal structure. This is when detailed fundamental analysis becomes relevant.
 
 ## The redemption dynamic and sponsor confidence
 
@@ -54,7 +54,7 @@ An analyst should be prepared to transition from evaluating the SPAC sponsor's t
 
 Why would an investor buy KEEL stock before a deal is announced? The thesis is typically: (a) confidence in sponsor expertise and deal-sourcing capability; (b) belief that the sponsor will negotiate favorable deal terms relative to what a rival bidder would accept; or (c) optionality—if a deal is attractive, share in the upside; if not, redeem and recover capital. This is not a bet on Keel as a business (because there is no Keel business yet), but a bet on the sponsor as a capital allocator.
 
-This is a different investment proposition from analyzing a mature, operating company. SPAC risk is sponsor execution risk and deal-structure risk, not business-model risk.
+This is a different investment proposition from analyzing a mature, operating company. SPAC risk is sponsor [execution risk](/execution-risk/) and deal-structure risk, not business-model risk.
 
 <div class="wiki-seealso">
 ### Closely related

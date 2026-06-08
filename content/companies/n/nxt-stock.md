@@ -51,7 +51,7 @@ Finally, Nextpower operates in a capital-intensive ecosystem. Solar farms, batte
 
 **How to research the company**
 
-The 10-K (SEC CIK 0001852131) is the foundation. It discloses revenue by customer and geography, cost structure, the company's major suppliers and customers, and management's assessment of competition and risks. The quarterly reports show trends in revenue, gross margin, and bookings (orders received but not yet delivered, a leading indicator of future revenue).
+The 10-K (SEC CIK 0001852131) is the foundation. It discloses revenue by customer and geography, cost structure, the company's major suppliers and customers, and management's assessment of competition and risks. The quarterly reports show trends in revenue, gross margin, and bookings (orders received but not yet delivered, a [leading indicator](/leading-indicator/) of future revenue).
 
 Key metrics to watch are gross margin (indicating pricing power and cost efficiency), revenue growth rate by segment (showing whether the company is gaining or losing in different markets), and customer concentration (revealing dependency on any single large customer). The company's research and development spending as a percentage of revenue indicates how much it is investing in next-generation products. For a technology company in a fast-moving market, that ratio signals confidence in long-term competitiveness. Finally, order backlog — the value of contracts signed but not yet completed — shows the visibility the company has into future revenue and the strength of customer demand.
 

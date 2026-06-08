@@ -4,7 +4,7 @@ description: "Liberty Latin America operates telecommunications and media busine
 keywords: ["telecommunications", "Latin America", "currency risk", "regulatory risk", "media"]
 ---
 
-*Liberty Latin America Ltd. (LILA) operates telecommunications, media, and internet businesses across multiple Latin American countries—an exposure that introduces foreign-exchange volatility, political risk, and regulatory fragmentation that a US-domiciled company cannot fully control or hedge.*
+*Liberty Latin America Ltd. (LILA) operates telecommunications, media, and internet businesses across multiple Latin American countries—an exposure that introduces foreign-exchange volatility, [political risk](/political-risk/), and regulatory fragmentation that a US-domiciled company cannot fully control or hedge.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>LILA</td></tr>
@@ -17,7 +17,7 @@ keywords: ["telecommunications", "Latin America", "currency risk", "regulatory r
 
 ## Currency Devaluation and Hedging Exposure
 
-LILA earns revenue in Latin American currencies (Brazilian real, Colombian peso, Venezuelan bolívar, etc.) but reports earnings in [US dollars](/us-dollar/). If those currencies depreciate against the dollar—a common occurrence during economic stress—LILA's reported revenue and earnings fall, even if unit volume and local profitability remain unchanged. For a leveraged company, currency [depreciation](/depreciation/) directly increases the real burden of US-dollar-denominated debt, as more local currency must be converted to service dollar obligations. LILA can hedge some currency exposure through derivatives, but hedging is expensive and incomplete; over long periods, sustained devaluation erodes real returns to dollar-based shareholders.
+LILA earns revenue in Latin American currencies ([Brazilian real](/brazilian-real/), Colombian peso, Venezuelan bolívar, etc.) but reports earnings in [US dollars](/us-dollar/). If those currencies depreciate against the dollar—a common occurrence during economic stress—LILA's reported revenue and earnings fall, even if unit volume and local profitability remain unchanged. For a leveraged company, currency [depreciation](/depreciation/) directly increases the real burden of US-dollar-denominated debt, as more local currency must be converted to service dollar obligations. LILA can hedge some currency exposure through derivatives, but hedging is expensive and incomplete; over long periods, sustained devaluation erodes real returns to dollar-based shareholders.
 
 ## Sovereign Debt and Economic Instability
 

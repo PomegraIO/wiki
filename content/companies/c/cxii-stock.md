@@ -24,7 +24,7 @@ The SPAC investor is, in effect, paying for optionality. If the sponsors execute
 
 Churchill Capital's sponsors — institutional investors or entrepreneurs with transaction experience — stand to earn a "promote," a percentage of the merged entity they own without contributing capital at the IPO stage. This aligns their interest with finding a good deal, but it also creates a temptation to complete any deal rather than wait for an excellent one. A successful SPAC thus depends on the sponsor's actual reputation for discipline and judgment.
 
-The sponsors also control the merger negotiation and carry out due diligence on the private company they wish to acquire. They assess its financials, management, competitive position, and growth prospects with an intensity that a private buyer might lack but with the urgency to deploy the capital within a specified deadline (typically two or three years from the IPO). This time pressure is the SPAC's essential tension: it pushes sponsors to decide faster than a traditional acquisition process, which can reveal hidden value but also encourage hasty deals.
+The sponsors also control the merger negotiation and carry out [due diligence](/due-diligence/) on the private company they wish to acquire. They assess its financials, management, competitive position, and growth prospects with an intensity that a private buyer might lack but with the urgency to deploy the capital within a specified deadline (typically two or three years from the IPO). This time pressure is the SPAC's essential tension: it pushes sponsors to decide faster than a traditional acquisition process, which can reveal hidden value but also encourage hasty deals.
 
 ## The Private Company's Perspective
 

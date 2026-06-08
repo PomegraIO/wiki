@@ -52,6 +52,6 @@ The 10-K often frames the company's market opportunity in the context of broader
 
 ## Key Sections to Review
 
-For researching Digi Power X, start with the "Business Overview" section of the 10-K to understand what the company actually does. Move to "Risk Factors" to understand the company's own view of obstacles. Then examine "Management Discussion and Analysis" (MD&A) to see revenue, costs, and operational performance. Finally, review the balance sheet and cash-flow statement to assess [capital adequacy](/capital-adequacy/) and burn rate.
+For researching Digi Power X, start with the "Business Overview" section of the 10-K to understand what the company actually does. Move to "Risk Factors" to understand the company's own view of obstacles. Then examine "[Management Discussion and Analysis](/management-discussion-and-analysis/)" (MD&A) to see revenue, costs, and operational performance. Finally, review the balance sheet and cash-flow statement to assess [capital adequacy](/capital-adequacy/) and burn rate.
 
 The company is attempting to position itself at the intersection of renewable energy and digital infrastructure—a structurally important market. Whether Digi Power X will capture meaningful share or whether larger incumbents will dominate is a question the 10-K can help frame but not definitively answer.

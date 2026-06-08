@@ -4,7 +4,7 @@ description: "A junior gold exploration and development company, exposed to comm
 keywords: ["gold mining", "mineral exploration", "commodity", "mining permitting", "development stage"]
 ---
 
-*Fortitude Gold Corp, trading as **FTCO** and registered with the SEC under CIK 1828377, is a junior gold miner or exploration-stage company focused on acquiring, exploring, and developing gold properties. The business model is speculative: the company's value depends almost entirely on the discovery of economically viable ore deposits and the successful construction and operation of mines. Fortitude operates in an industry shaped by gold prices (a commodity beyond its control), political risk in the jurisdictions where it explores, regulatory and permitting obstacles, and the high capital cost of bringing a prospect into production.*
+*Fortitude Gold Corp, trading as **FTCO** and registered with the SEC under CIK 1828377, is a junior gold miner or exploration-stage company focused on acquiring, exploring, and developing gold properties. The business model is speculative: the company's value depends almost entirely on the discovery of economically viable ore deposits and the successful construction and operation of mines. Fortitude operates in an industry shaped by gold prices (a commodity beyond its control), [political risk](/political-risk/) in the jurisdictions where it explores, regulatory and permitting obstacles, and the high capital cost of bringing a prospect into production.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FTCO</td></tr>
@@ -37,7 +37,7 @@ Moving from an exploration resource (ore in the ground) to a producing mine requ
 
 ## Financing Requirements and Shareholder Dilution
 
-Junior miners are chronic capital raisers. Fortitude will likely need to issue equity multiple times to fund exploration and development, diluting existing shareholders. Each financing may occur at lower share prices than previous rounds (if the company has disappointing results), compounding the dilution. The [share price](/stock/) and market-cap valuation of a junior miner reflect investor expectations about future success; if those expectations worsen, the share price falls and subsequent financings are more dilutive. Alternatively, Fortitude might attempt to raise debt, but lenders are reluctant to finance exploration companies with no production [cash flow](/free-cash-flow/), so debt terms are expensive and restrictive.
+Junior miners are chronic capital raisers. Fortitude will likely need to issue [equity multiple](/equity-multiple-real-estate/) times to fund exploration and development, diluting existing shareholders. Each financing may occur at lower share prices than previous rounds (if the company has disappointing results), compounding the dilution. The [share price](/stock/) and market-cap valuation of a junior miner reflect investor expectations about future success; if those expectations worsen, the share price falls and subsequent financings are more dilutive. Alternatively, Fortitude might attempt to raise debt, but lenders are reluctant to finance exploration companies with no production [cash flow](/free-cash-flow/), so debt terms are expensive and restrictive.
 
 ## Reserves Estimation and Mark-to-Market Risk
 

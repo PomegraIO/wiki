@@ -69,7 +69,7 @@ The largest risk to Liberty Broadband is also its largest asset: the Charter pos
 
 The second risk is the capital intensity of broadband deployment. Fiber and fixed wireless both require ongoing investment to stay competitive. If the broadband business does not generate enough cash to sustain its growth rate, the company will need to tap the balance sheet or the Charter stake to keep building. That is manageable but not costless.
 
-Third, there is execution risk. Building a nationwide broadband network is hard. It requires recruiting talent, managing regulatory relationships, and staying ahead of fast-moving technology. A small company can be nimble, but it can also be knocked off course by a bad [acquisition](/acquisition/) or a strategic misstep.
+Third, there is [execution risk](/execution-risk/). Building a nationwide broadband network is hard. It requires recruiting talent, managing regulatory relationships, and staying ahead of fast-moving technology. A small company can be nimble, but it can also be knocked off course by a bad [acquisition](/acquisition/) or a strategic misstep.
 
 ## How to research Liberty Broadband
 

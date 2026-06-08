@@ -39,7 +39,7 @@ Unlike a pure-play [bitcoin](/bitcoin/) mining company such as [Hut 8](/hut-stoc
 
 **Asset Management.** Galaxy Digital Advisors runs cryptocurrency funds and trusts, including a bitcoin trust accessible through traditional [brokers](/broker/), [Ethereum](/ethereum/) funds, and diversified crypto portfolios. This segment generates fee revenue from managing client assets and provides distribution channels to retail and institutional investors seeking crypto exposure.
 
-**Trading and Principal Investing.** The company engages in cryptocurrency trading, arbitrage, and principal investing—buying and holding cryptocurrencies and crypto-related securities in expectation of price appreciation. This segment is sensitive to crypto-asset volatility and pricing, creating sensitivity to market cycles.
+**Trading and Principal Investing.** The company engages in cryptocurrency trading, arbitrage, and principal investing—buying and holding cryptocurrencies and crypto-related securities in expectation of price appreciation. This segment is sensitive to crypto-asset volatility and pricing, creating sensitivity to [market cycles](/market-cycle/).
 
 **Venture Capital.** Galaxy Digital Ventures invests in early-stage blockchain and cryptocurrency companies, taking equity stakes in startups believed to be building important infrastructure or applications. This segment provides upside exposure to innovation in the broader crypto ecosystem but is also high-risk and long-term.
 

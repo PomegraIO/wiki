@@ -52,7 +52,7 @@ The rebranding also repositioned the company away from being a industrial-chemic
 
 Electronics demand is strong and secular—the proliferation of devices, the digitalization of infrastructure, and the growth of artificial intelligence all drive demand for circuit boards and semiconductors, which in turn drive demand for the specialty chemicals that enable their manufacture. PCB and semiconductor manufacturing is not shifting to cheaper countries; it is global and driven by proximity to customers and technological capability, not labor cost. This means Element Solutions' sales are not threatened by offshoring in the way commodity chemical producers are.
 
-At the same time, electronics manufacturing is cyclical—demand weakens during economic downturns—and subject to inventory cycles. A slowdown in smartphone sales, server production, or consumer electronics can ripple back to PCB and chemical suppliers within weeks. Element Solutions is therefore exposed to the same demand shocks as its customers, though the high switching costs provide some stability.
+At the same time, electronics manufacturing is cyclical—demand weakens during economic downturns—and subject to [inventory cycles](/inventory-cycle/). A slowdown in smartphone sales, server production, or consumer electronics can ripple back to PCB and chemical suppliers within weeks. Element Solutions is therefore exposed to the same demand shocks as its customers, though the high switching costs provide some stability.
 
 ## What to watch
 

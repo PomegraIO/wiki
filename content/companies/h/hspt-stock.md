@@ -44,7 +44,7 @@ This creates divergent shareholder bases: HSPOF might attract the sponsor's most
 
 ## Sponsor Economics and Alignment
 
-The sponsor earns [founder shares](/founder-shares/) and a promote on both HSPOF and HSPT. This creates powerful incentive to complete both deals, because each successful merger generates a carried interest payout. However, it can also misalign sponsor and public shareholder interests: a mediocre deal that closes generates sponsor returns while diluting public shareholders who have endured years of waiting.
+The sponsor earns [founder shares](/founder-shares/) and a promote on both HSPOF and HSPT. This creates powerful incentive to complete both deals, because each successful merger generates a [carried interest](/carried-interest-compensation/) payout. However, it can also misalign sponsor and public shareholder interests: a mediocre deal that closes generates sponsor returns while diluting public shareholders who have endured years of waiting.
 
 The difference between a single SPAC and sister vehicles is meaningful here. A sponsor running one SPAC can afford to be selective; a sponsor managing two is incentivized to move capital and collect fees. HSPT shareholders implicitly bet that the sponsor's judgment improves when managing multiple vehicles, or at minimum stays consistent. In practice, sponsors tend to be cautious across vehicles (protecting reputation) or aggressive across vehicles (deploying capital quickly). HSPT's valuation relative to HSPOF often reflects investor sentiment about the sponsor team's reputation and likelihood of disciplined target selection.
 

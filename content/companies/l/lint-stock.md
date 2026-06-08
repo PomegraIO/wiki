@@ -23,7 +23,7 @@ As a stylised example: if Intel rises 10% over five days in a straight line, LIN
 
 ## Liquidity, costs, and who actually trades it
 
-LINT trades on the NYSE Arca under the ticker LINT with reasonably tight intraday spreads, reflecting moderate daily volume. Like most [leveraged ETFs](/leveraged-etf/), it charges an [expense ratio](/expense-ratio/) that covers the fund's hedging costs and Direxion's [management fee](/management-fee/). The ratio is a small percentage, but it accrues daily, compounding the friction.
+LINT trades on the [NYSE Arca](/nyse-arca/) under the ticker LINT with reasonably tight intraday spreads, reflecting moderate daily volume. Like most [leveraged ETFs](/leveraged-etf/), it charges an [expense ratio](/expense-ratio/) that covers the fund's hedging costs and Direxion's [management fee](/management-fee/). The ratio is a small percentage, but it accrues daily, compounding the friction.
 
 The fund is built for day traders and short-term tactical players — people who believe Intel will have a sharp run-up over the next few days or a couple of weeks, and who want to amplify their exposure without using margin directly through a brokerage account. For anyone holding beyond a few weeks, especially through market swings, the decay eats into returns meaningfully. For anyone holding through a decline, leverage amplifies losses in both direction and magnitude. Retail investors sometimes buy leveraged ETFs passively and hold for months or years, unaware of the decay mechanics; this almost always results in losses larger than the underlying decline would have warranted.
 

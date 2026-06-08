@@ -33,7 +33,7 @@ The CPP segment pulls together a hodgepodge of consumer and professional brands 
 
 ## Home and Building Products: Clopay and Beyond
 
-The HBP division is anchored by **Clopay**, one of North America's largest suppliers of residential garage doors, openers, and components. Clopay sits at the intersection of new construction (when homes are built) and the replacement cycle (when existing doors wear out or are upgraded). The segment also includes roof coatings (acrylic and elastomeric coatings for commercial and residential flat-roof maintenance) and building hardware products. Clopay's competitive position is supported by a distribution network that spans both new-build channels and the repair-and-replace aftermarket. Margins in HBP are higher than in CPP, but the segment is more cyclically sensitive, responding sharply to housing starts and remodeling activity.
+The HBP division is anchored by **Clopay**, one of North America's largest suppliers of residential garage doors, openers, and components. Clopay sits at the intersection of new construction (when homes are built) and the replacement cycle (when existing doors wear out or are upgraded). The segment also includes roof coatings (acrylic and elastomeric coatings for commercial and residential flat-roof maintenance) and building hardware products. Clopay's competitive position is supported by a distribution network that spans both new-build channels and the repair-and-replace aftermarket. Margins in HBP are higher than in CPP, but the segment is more cyclically sensitive, responding sharply to [housing starts](/housing-starts/) and remodeling activity.
 
 ## The Business Model: Two Wheels, One Machine
 
@@ -51,7 +51,7 @@ In consumer tools and storage, Griffon competes against specialized players like
 
 ## What Could Go Wrong
 
-Griffon's earnings are sensitive to housing starts and residential renovation spending. A prolonged housing downturn or [recession](/recession/) would pressure both segments, particularly HBP. Steel and resin prices can swing sharply, pinching margins if the company cannot pass costs to customers quickly. Retail consolidation and the shift toward e-commerce require continuous adaptation of sales and marketing strategy. Supply-chain disruptions, labor [inflation](/inflation/), and logistical complexity in serving both consumer and professional channels add execution risk. The company's diversified structure provides some defensive value but does not eliminate economic sensitivity.
+Griffon's earnings are sensitive to housing starts and residential renovation spending. A prolonged housing downturn or [recession](/recession/) would pressure both segments, particularly HBP. Steel and resin prices can swing sharply, pinching margins if the company cannot pass costs to customers quickly. Retail consolidation and the shift toward e-commerce require continuous adaptation of sales and marketing strategy. Supply-chain disruptions, labor [inflation](/inflation/), and logistical complexity in serving both consumer and professional channels add [execution risk](/execution-risk/). The company's diversified structure provides some defensive value but does not eliminate economic sensitivity.
 
 ## Researching Griffon
 

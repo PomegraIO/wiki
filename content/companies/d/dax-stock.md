@@ -47,7 +47,7 @@ For a U.S. investor seeking European equity exposure, DAX offers concentration i
 
 The limitation is exactly that concentration: the fund rises and falls with German stocks and the German economy. Exposure to Germany is not the same as exposure to Europe as a whole. If German companies underperform their European peers, or if the German economy stumbles while others prosper, the fund suffers accordingly. The automotive industry's weight in the DAX also means that sector-specific pressures — such as the shift to electric vehicles or chip shortages — can disproportionately affect the fund.
 
-Regulatory and political risk in Germany is low by global standards, but eurozone membership and European Union membership create constraints and dependencies that do not affect purely U.S.-focused funds. Changes to EU labour law, environmental regulations, or energy policy can ripple through German corporate earnings.
+Regulatory and [political risk](/political-risk/) in Germany is low by global standards, but eurozone membership and European Union membership create constraints and dependencies that do not affect purely U.S.-focused funds. Changes to EU labour law, environmental regulations, or energy policy can ripple through German corporate earnings.
 
 ## Currency risk and hedging
 

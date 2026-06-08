@@ -19,7 +19,7 @@ Headquartered in London, Versigent operates across the UK and parts of Europe. T
 
 Professional services firms are labor arbitrage plays. The margin comes from the difference between what you pay an employee (salary, benefits, overhead) and what you bill a client (daily or hourly rate). A consultant costing the firm $60,000 per year can be billed at $200 per day to a client, generating revenue of perhaps $50,000 per year on a standard utilization rate. The spread is the margin. That margin must cover overhead, unallocated time between projects, sales costs, and operating profit.
 
-For Versigent, like all consulting shops, utilization is everything. High utilization—the percentage of billable hours divided by total available hours—means more revenue per employee and higher margins. Downturns kill utilization. Clients defer projects, consolidate vendors, and demand discounts. When utilization falls from 80 percent to 60 percent, the impact on profit is sharp because overhead remains fixed.
+For Versigent, like all consulting shops, utilization is everything. High utilization—the percentage of billable hours divided by total available hours—means more [revenue per employee](/revenue-per-employee/) and higher margins. Downturns kill utilization. Clients defer projects, consolidate vendors, and demand discounts. When utilization falls from 80 percent to 60 percent, the impact on profit is sharp because overhead remains fixed.
 
 Staff costs are the other swing factor. Hiring the right talent, retaining key consultants, and managing compensation in a tight labor market all affect margins. A consultant who leaves takes relationships and expertise with them. Retention matters profoundly in professional services because the consultant is the product.
 

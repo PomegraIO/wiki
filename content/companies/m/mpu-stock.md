@@ -18,7 +18,7 @@ keywords: ["holding company", "equity portfolio", "technology exposure", "divers
 
 Holding companies operate in a landscape where passive index funds and exchange-traded funds continuously erode the case for active selection and management. The moat protecting MPU lies not in any proprietary operational advantage—it has none—but in the specificity and lock-in of its current portfolio configuration. Once shareholders accept the company's particular mix of stakes, the cost of replicating that exact combination externally, plus tax consequences and transaction frictions, creates modest defensive value. This is a thin moat: it persists only as long as the portfolio outperforms obvious alternatives and management makes demonstrably sound allocation decisions. Any sustained underperformance erodes it quickly.
 
-The company's structure itself—as a registered investment company filing with the SEC—ensures transparency and regulatory clarity. Unlike opaque offshore vehicles or black-box [hedge funds](/hedge-fund/), the public holding company format imposes disclosure obligations that, paradoxically, become a form of protection: potential acquirers or competitors understand exactly what they are acquiring, reducing information asymmetry risk for long-term holders. This transparency, however, is not proprietary; any competitor could replicate it.
+The company's structure itself—as a [registered investment company](/registered-investment-company/) filing with the SEC—ensures transparency and regulatory clarity. Unlike opaque offshore vehicles or black-box [hedge funds](/hedge-fund/), the public holding company format imposes disclosure obligations that, paradoxically, become a form of protection: potential acquirers or competitors understand exactly what they are acquiring, reducing information asymmetry risk for long-term holders. This transparency, however, is not proprietary; any competitor could replicate it.
 
 ## Portfolio Concentration and Sector Focus
 
@@ -42,7 +42,7 @@ A secondary risk is talent and stability. If MPU's investment team turns over si
 
 Begin with MPU's [10-K](/10-k/) annual filing (available through the SEC's Edgar system using CIK 1953021). The filing's Item 7 and Item 8 sections detail the portfolio composition and historical performance. Review three to five years of filings in sequence to assess whether allocation patterns remain consistent or shift in response to market conditions—consistency suggests a clear thesis, while volatility suggests tactical reactivity.
 
-Cross-check any claimed outperformance against simple [index-fund](/index-fund/) returns for the same period. Finally, examine management discussion and analysis (MD&A) for candid discussion of risks and past misjudgments; transparency about failures is often the best signal of governance quality.
+Cross-check any claimed outperformance against simple [index-fund](/index-fund/) returns for the same period. Finally, examine [management discussion and analysis](/management-discussion-and-analysis/) (MD&A) for candid discussion of risks and past misjudgments; transparency about failures is often the best signal of governance quality.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -14,7 +14,7 @@ handwritten: true
 
 The Core Alternative ETF (CCOR) pools money into a diversified basket of alternative investment strategies—not stocks or [bonds](/bond/) in the traditional sense, but [managed futures, hedge fund](/hedge-fund-managed-futures/) replicators, volatility strategies, and other unconventional approaches designed to perform differently from the stock and bond markets. The fund aims to be a liquid, low-cost way for individual investors to access strategies that were once available only to large institutions and [accredited investors](/accredited-investor/).
 
-Alternative strategies are built on the idea that you can make money in ways that do not require buying stocks you think will go up or bonds you think will perform well. A managed futures strategy, for example, buys commodities, bonds, and other assets that are trending upward and sells those trending downward, ignoring whether they are intrinsically cheap or expensive. A [hedge fund](/hedge-fund/) replication strategy uses algorithms to mimic the patterns of hedge funds without actually hiring a hedge fund manager. A volatility strategy profits if market turbulence spikes or subsides.
+Alternative strategies are built on the idea that you can make money in ways that do not require buying stocks you think will go up or bonds you think will perform well. A [managed futures](/managed-futures/) strategy, for example, buys commodities, bonds, and other assets that are trending upward and sells those trending downward, ignoring whether they are intrinsically cheap or expensive. A [hedge fund](/hedge-fund/) replication strategy uses algorithms to mimic the patterns of hedge funds without actually hiring a hedge fund manager. A volatility strategy profits if market turbulence spikes or subsides.
 
 ## How does CCOR put these together?
 
@@ -42,7 +42,7 @@ There is also the risk of chasing past performance. Many alternative strategy pr
 
 Start with the prospectus and the holdings list. Understand what fraction of the fund is in managed futures versus volatility versus other strategies. Look at the actual ETFs and mutual funds CCOR owns and review their individual strategies and track records.
 
-Compare CCOR's return and volatility to a simple 60-40 stock-bond portfolio over different market environments: a bull market, a crash, a recovery, and a period of stagnation. The real test is whether the smoother returns and lower maximum drawdowns of CCOR justify the higher fees relative to a simple index portfolio that you can rebalance yourself.
+Compare CCOR's return and volatility to a simple 60-40 stock-bond portfolio over different market environments: a bull market, a crash, a recovery, and a period of stagnation. The real test is whether the smoother returns and lower [maximum drawdowns](/maximum-drawdown/) of CCOR justify the higher fees relative to a simple index portfolio that you can rebalance yourself.
 
 Watch the correlation of CCOR returns to the [stock market](/stock-market/) and bond market. If it has high correlation to stocks, the "diversifier" claim is weakened. If it has genuinely low correlation, it is doing the job, but make sure the lower volatility is not simply a reflection of lower returns—you cannot judge a strategy solely on smoothness; you have to look at return per unit of risk.
 

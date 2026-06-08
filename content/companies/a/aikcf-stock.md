@@ -25,7 +25,7 @@ End customers include construction contractors, furniture manufacturers, interio
 
 ## How does the company fit in the industry?
 
-Aica Kogyo operates in the mature global adhesives and decorative laminates sector, competing alongside larger multinational chemical conglomerates. It holds a regional stronghold in Japan for high-pressure laminates and interior finishing materials, but competes on established product lines rather than innovation. The adhesives business is commodity-like, with limited differentiation. Building material demand tracks renovation cycles and construction activity, making the company sensitive to economic downturns and real estate cycles.
+Aica Kogyo operates in the mature global adhesives and decorative laminates sector, competing alongside larger multinational chemical conglomerates. It holds a regional stronghold in Japan for high-pressure laminates and interior finishing materials, but competes on established product lines rather than innovation. The adhesives business is commodity-like, with limited differentiation. Building material demand tracks renovation cycles and construction activity, making the company sensitive to economic downturns and [real estate cycles](/real-estate-cycle/).
 
 ## What should investors track?
 

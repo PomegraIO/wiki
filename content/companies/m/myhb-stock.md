@@ -47,7 +47,7 @@ From 2008 to 2009, high-yield bonds fell 50 percent or more. From 2020 onward, a
 
 ## Expense ratio and liquidity
 
-As a bond fund with active maturity management, MYHB's costs are higher than a passive, broad-market bond [index fund](/index-fund/), but State Street's institutional scale typically keeps them reasonable. The fund trades on the NYSE Arca, and its liquidity depends on market conditions; in normal times, the [bid-ask spread](/bid-ask-spread/) is tight, but in credit crises, even [bond ETFs](/bond-etf/) can see spreads widen as dealers pull back.
+As a bond fund with active maturity management, MYHB's costs are higher than a passive, broad-market bond [index fund](/index-fund/), but State Street's institutional scale typically keeps them reasonable. The fund trades on the [NYSE Arca](/nyse-arca/), and its liquidity depends on market conditions; in normal times, the [bid-ask spread](/bid-ask-spread/) is tight, but in credit crises, even [bond ETFs](/bond-etf/) can see spreads widen as dealers pull back.
 
 ## Who buys MYHB and why
 

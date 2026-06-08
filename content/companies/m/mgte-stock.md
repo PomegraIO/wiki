@@ -40,7 +40,7 @@ Investors in Marblegate—the public shareholders who buy into the SPAC at the I
 
 ## Regulatory and Listing Framework
 
-From a functional perspective, Marblegate operates within SEC rules for SPACs and [stock exchange](/stock-exchange/) listing standards. The company must file quarterly reports, disclose the SPAC's cash position and timeline for a merger, and eventually file a proxy statement for a shareholder vote on any proposed merger target. The SEC has intensified oversight of SPAC disclosures in recent years, particularly around sponsor compensation and conflicts of interest.
+From a functional perspective, Marblegate operates within SEC rules for SPACs and [stock exchange](/stock-exchange/) listing standards. The company must file quarterly reports, disclose the SPAC's cash position and timeline for a merger, and eventually file a [proxy statement](/proxy-statement/) for a shareholder vote on any proposed merger target. The SEC has intensified oversight of SPAC disclosures in recent years, particularly around sponsor compensation and conflicts of interest.
 
 Founders of private companies evaluating a SPAC merger are paying careful attention to these rules, because the regulatory framework shapes the timeline and transparency of the transaction. A transparent SPAC with aligned sponsor incentives is more attractive than one with hidden fees or aggressive sponsor compensation.
 

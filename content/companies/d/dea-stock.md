@@ -37,7 +37,7 @@ Debt is raised in the public [bond](/bond/) and loan markets; rates matter signi
 
 Easterly's growth depends on its ability to source and acquire properties that meet government needs and that it can finance and lease on terms that generate acceptable risk-adjusted returns. This requires both property expertise (understanding real-estate markets and development) and government-contractor expertise (understanding how agencies procure and occupy space).
 
-Acquisitions can be organic (Easterly identifies an underoccupied private property and approaches the government agency to relocate there) or a response to agency demand (a government entity broadcasts space needs, and Easterly bids to provide or acquire suitable property). The company has also pursued sale-leaseback transactions: acquiring government-occupied buildings from private owners and continuing the lease relationship.
+Acquisitions can be organic (Easterly identifies an underoccupied private property and approaches the government agency to relocate there) or a response to agency demand (a government entity broadcasts space needs, and Easterly bids to provide or acquire suitable property). The company has also pursued [sale-leaseback transactions](/sale-leaseback-transaction/): acquiring government-occupied buildings from private owners and continuing the lease relationship.
 
 Competition comes from other government-focused REITs and from large private real-estate operators. Easterly's edge is its focus and network; its weakness is its size and capital availability relative to larger REITs and institutional investors.
 

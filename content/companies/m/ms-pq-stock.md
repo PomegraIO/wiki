@@ -43,7 +43,7 @@ Investment Management pools capital from institutional and high-net-worth invest
 
 **[Mutual Funds](/mutual-fund/) and ETFs** pool capital into diversified portfolios and charge management fees (typically 0.05% to 0.75% annually depending on the strategy). This business has experienced secular headwinds because passive, index-tracking funds charge far lower fees (0.03% to 0.10% annually) and have captured a large share of industry assets over the past decade.
 
-**Separately Managed Accounts** cater to wealthy individuals and institutions that want customized portfolios. The firm manages these accounts directly and charges fees on assets under management, typically 0.50% to 1% annually.
+**[Separately Managed Accounts](/separately-managed-account/)** cater to wealthy individuals and institutions that want customized portfolios. The firm manages these accounts directly and charges fees on assets under management, typically 0.50% to 1% annually.
 
 **Private Markets** vehicles (private equity, private credit, real assets) have grown more significant in recent years as institutional investors seek [diversification](/diversification/) away from public stocks and bonds. These vehicles typically charge higher fees (1% to 2% management fee plus 20% performance fee) because the assets are less liquid and require active management.
 
@@ -55,7 +55,7 @@ The three segments reinforce each other in several ways. A corporation that hire
 
 Institutional Securities generates the highest gross margins because trading is capital-intensive but highly leveraged — one trader can execute trillions of dollars of transactions in a year. However, the business requires holding inventory (unsold securities) that could lose value, which creates principal risk. The segment is also the most cyclical; profit can swing from billions of dollars in a boom year to losses in a crisis.
 
-Wealth Management generates lower gross margins (around 40-50%) but the revenue is stickier — clients rarely move all their assets to competitors, so the revenue persists through market cycles. The business scales better with technology because advisory can be partially automated and accounts can be served with less direct human involvement.
+Wealth Management generates lower gross margins (around 40-50%) but the revenue is stickier — clients rarely move all their assets to competitors, so the revenue persists through [market cycles](/market-cycle/). The business scales better with technology because advisory can be partially automated and accounts can be served with less direct human involvement.
 
 Investment Management generates fees that depend entirely on assets under management and the fee rate. The business has experienced structural decline because investors have shifted toward passive products with lower fees. However, the highest-margin investment management is private markets, where fees are higher and the firm can charge performance fees as well.
 

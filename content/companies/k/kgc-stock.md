@@ -64,6 +64,6 @@ For equity investors, Kinross offers exposure to gold prices—a hedge during [i
 
 Key risks include commodity price collapse, regulatory action in any key jurisdiction, mine safety incidents, operational underperformance, or major capital overruns on development projects. [Currency risk](/currency-risk/) also applies: operations in multiple countries mean USD, CAD, and local currency exposures that affect reported revenues and profits.
 
-For debt holders, Kinross is a credit—mining companies are generally higher-risk issuers than utilities or banks, reflecting the cyclicality and execution risk of the business. [Bond covenants](/bond-covenants/) typically allow broad operational flexibility but include controls on leverage and capital expenditure.
+For debt holders, Kinross is a credit—mining companies are generally higher-risk issuers than utilities or banks, reflecting the cyclicality and [execution risk](/execution-risk/) of the business. [Bond covenants](/bond-covenants/) typically allow broad operational flexibility but include controls on leverage and capital expenditure.
 
 Those researching Kinross would review the [10-K](/wiki/10-k/) filing and quarterly earnings reports for current reserve estimates, production guidance, cost trends, and capital plans. Analyst reports provide peer comparisons and valuation frameworks. Reserve replacement—whether the company is finding enough new ore to sustain production—is a critical long-term metric.

@@ -48,7 +48,7 @@ The company's business is structured around customer categories and service offe
 
 **Marketing Solutions and Logistics** — Quad provides integrated marketing services including creative design, digital strategy, customer data analytics, and supply-chain logistics. It manages print inventory, handles binding and fulfillment, and arranges last-mile delivery. These services add margin and lock in customer relationships because they increase switching costs.
 
-The economics are those of a mature manufacturing business: revenue per employee is substantial because the company operates large, capital-intensive plants with significant automation; gross margins are in the 25–35 percent range depending on the segment, which is respectable for printing but not spectacular. Operating leverage comes from capacity utilization — keeping the plants running at high volume reduces per-unit costs, so swings in customer demand directly impact profitability.
+The economics are those of a mature manufacturing business: [revenue per employee](/revenue-per-employee/) is substantial because the company operates large, capital-intensive plants with significant automation; gross margins are in the 25–35 percent range depending on the segment, which is respectable for printing but not spectacular. Operating leverage comes from capacity utilization — keeping the plants running at high volume reduces per-unit costs, so swings in customer demand directly impact profitability.
 
 ## The competitive landscape and Quad's position
 

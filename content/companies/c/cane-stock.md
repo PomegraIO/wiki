@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Teucrium Sugar Fund** (ticker CANE) is an exchange-traded note (ETN) that tracks the movement of sugar futures prices, specifically crude and refined sugar contracts traded on the [Intercontinental Exchange](/ice-stock/). Unlike a traditional ETF that holds a diversified basket of securities, an ETN is a debt instrument—a structured product issued by a bank that tracks a benchmark, in this case sugar futures. CANE appeals to investors seeking direct exposure to sugar-price movements without holding physical sugar or [futures contracts](/futures-contract/) directly.*
+*The **Teucrium Sugar Fund** (ticker CANE) is an exchange-traded note (ETN) that tracks the movement of sugar futures prices, specifically crude and refined sugar contracts traded on the [Intercontinental Exchange](/ice-stock/). Unlike a traditional ETF that holds a diversified basket of securities, an ETN is a debt instrument—a [structured product](/structured-product/) issued by a bank that tracks a benchmark, in this case sugar futures. CANE appeals to investors seeking direct exposure to sugar-price movements without holding physical sugar or [futures contracts](/futures-contract/) directly.*
 
 <aside class="wiki-infobox">
 <table>

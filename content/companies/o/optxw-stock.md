@@ -60,7 +60,7 @@ Start with understanding the customer concentration. If one or two OEMs account 
 
 Track the company's gross and [operating margins](/operating-margin/). In contract manufacturing, margins reflect the productivity of the operation and the company's pricing power. Declining margins can signal that customers are pushing prices down faster than the company is improving efficiency. Improving margins suggest operational leverage or higher-margin product mix.
 
-Watch metrics like on-time delivery rate and defect rate if the company discloses them. These are leading indicators of customer satisfaction. A rising defect rate or delivery-delay rate signals quality or operational issues that could lead to lost business.
+Watch metrics like on-time delivery rate and defect rate if the company discloses them. These are [leading indicators](/leading-indicator/) of customer satisfaction. A rising defect rate or delivery-delay rate signals quality or operational issues that could lead to lost business.
 
 Understand the company's growth strategy. Is it focused on winning new customers, expanding into new end markets, or improving profitability in existing relationships? Is the company building new facilities or investing in automation? These strategic choices reveal whether management is focused on volume, margins, or both.
 

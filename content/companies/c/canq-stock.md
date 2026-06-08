@@ -20,7 +20,7 @@ The Nasdaq-100 itself is weighted by [market capitalization](/market-capitalizat
 
 ## How the fund sponsor executes the strategy
 
-Calamos Investments, based in Naperville, Illinois, is an investment manager specializing in structured products and options-based strategies. The firm actively selects the bond holdings in CANQ's portfolio, adjusts the allocation between fixed income and options as market conditions and valuations shift, and manages the ongoing mechanics of rolling call options to maintain continuous exposure to the Nasdaq-100. This is not a passive, rules-based fund but an actively managed one, with the team making judgments about whether bonds or equity exposure offer better value at any moment.
+Calamos Investments, based in Naperville, Illinois, is an investment manager specializing in [structured products](/structured-product/) and options-based strategies. The firm actively selects the bond holdings in CANQ's portfolio, adjusts the allocation between fixed income and options as market conditions and valuations shift, and manages the ongoing mechanics of rolling call options to maintain continuous exposure to the Nasdaq-100. This is not a passive, rules-based fund but an actively managed one, with the team making judgments about whether bonds or equity exposure offer better value at any moment.
 
 CANQ is a standard exchange-traded fund — it holds actual positions (bonds and options) and trades on the NASDAQ exchange throughout the day. It is not leveraged across its entire portfolio, does not use inverse mechanics, and does not employ daily rebalancing. The [expense ratio](/expense-ratio/) reflects the active management and derivative trading required to maintain the strategy.
 

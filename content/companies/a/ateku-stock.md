@@ -43,6 +43,6 @@ Athena specifically is not yet a completed merger. It remains a dormant shell, w
 
 Athena's SEC filings under CIK 0001882198 are the official record. Review the prospectus and any merger-related 8-K filings to understand the stated acquisition criteria and any announced targets. The company's investor relations page will carry announcements of merger agreements when and if they occur.
 
-Before the merger closes, the investment is purely a judgment about Freidheim's ability to identify and acquire a quality technology company at a fair price. After the merger closes, standard due diligence on the target company becomes essential: its market, competitive position, unit economics, management quality, and path to profitability.
+Before the merger closes, the investment is purely a judgment about Freidheim's ability to identify and acquire a quality technology company at a fair price. After the merger closes, standard [due diligence](/due-diligence/) on the target company becomes essential: its market, competitive position, unit economics, management quality, and path to profitability.
 
 One important check: review whether Athena's shares and warrants are redeemable before the merger closes. Some shareholders may choose to redeem and preserve capital rather than take the post-merger risk. This redemption rate signals confidence—or skepticism—in the deal.

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-BRC Group Holdings, Inc. trades on the [Nasdaq](/nasdaq/) under several ticker symbols representing different security classes. RILYL denotes Depositary Shares representing fractional interests in the company's 7.375% Series B Cumulative [Perpetual Preferred Stock](/perpetual-preferred/). Understanding RILYL requires understanding the parent company: a holding company with an unusual organizational model in which each dollar of revenue must justify itself against the company's other competing uses of capital.
+BRC Group Holdings, Inc. trades on the [Nasdaq](/nasdaq/) under several ticker symbols representing different security classes. RILYL denotes [Depositary Shares](/depositary-share/) representing fractional interests in the company's 7.375% Series B Cumulative [Perpetual Preferred Stock](/perpetual-preferred/). Understanding RILYL requires understanding the parent company: a holding company with an unusual organizational model in which each dollar of revenue must justify itself against the company's other competing uses of capital.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ This portfolio approach shapes how the holding company thinks about each revenue
 
 ## Segments as independent units
 
-The financial services segments handle brokerage, investment banking, direct lending to middle-market companies, and wealth management services including asset management and tax preparation. These operations generate fees and commissions, with revenue typically tied to client assets, transaction volume, or the strength of capital markets activity. A strong market cycle lifts these revenues; a downturn and reduced trading can contract them sharply.
+The financial services segments handle brokerage, investment banking, direct lending to middle-market companies, and wealth management services including asset management and tax preparation. These operations generate fees and commissions, with revenue typically tied to client assets, transaction volume, or the strength of capital markets activity. A strong [market cycle](/market-cycle/) lifts these revenues; a downturn and reduced trading can contract them sharply.
 
 The communications group spans multiple distinct businesses that share only the fact that they connect customers. Lingo resells plain old telephone services, broadband, and managed security services along with cloud voice and business collaboration offerings. MagicJack provides cloud-based voice-over-IP services and devices to consumers and small businesses seeking alternatives to traditional telephony. Marconi Wireless runs Credo Mobile, a mobile phone service using existing networks. The UOL segment maintains legacy dial-up and DSL offerings under the NetZero and Juno brands, plus email services. These are mature, low-growth revenue streams in an environment where consumer telephony has shifted decisively to cellular and broadband to fiber.
 

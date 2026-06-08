@@ -37,7 +37,7 @@ Each new state also brought local regulatory variation. Real-estate law, disclos
 
 When Fathom became [public](/public-company/) in 2021 via [initial public offering](/initial-public-offering/), it had a multi-state brokerage network, thousands of agents, and a proprietary software platform. The [IPO](/initial-public-offering/) provided capital to accelerate expansion and validated the business model to markets: a publicly-traded real-estate technology firm was now possible, differentiated from discount brokerages by its technology focus rather than its commission compression alone.
 
-The company's [earnings](/earnings-per-share/) narrative centered on two metrics: agent count (a leading indicator of transaction volume) and agent productivity (transactions per agent per year). A growing agent base meant growing transaction volume and commission [revenue](/public-company/); higher productivity meant each agent was more valuable and less likely to leave for a competitor. Fathom invested heavily in both [acquisition](/acquisition/) and tooling to drive productivity.
+The company's [earnings](/earnings-per-share/) narrative centered on two metrics: agent count (a [leading indicator](/leading-indicator/) of transaction volume) and agent productivity (transactions per agent per year). A growing agent base meant growing transaction volume and commission [revenue](/public-company/); higher productivity meant each agent was more valuable and less likely to leave for a competitor. Fathom invested heavily in both [acquisition](/acquisition/) and tooling to drive productivity.
 
 ## The Margin Challenge
 

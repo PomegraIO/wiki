@@ -47,7 +47,7 @@ Guerrilla RF's exposure to commercial wireless also includes base-station compon
 
 ## Scale and Capital Intensity Trade-offs
 
-As a smaller RF company, Guerrilla RF faces a classic scale dilemma. To grow beyond its current market niches, the company would need to invest significantly in R&D, market development, and manufacturing partnerships. These investments require capital and carry execution risk. Yet without investment, the company risks being crowded out by larger competitors in growing segments like commercial satellite and 5G infrastructure.
+As a smaller RF company, Guerrilla RF faces a classic scale dilemma. To grow beyond its current market niches, the company would need to invest significantly in R&D, market development, and manufacturing partnerships. These investments require capital and carry [execution risk](/execution-risk/). Yet without investment, the company risks being crowded out by larger competitors in growing segments like commercial satellite and 5G infrastructure.
 
 The company's capital structure and cash-generation ability constrain its ability to self-fund growth. If growth requires external capital, Guerrilla RF may need to raise equity (diluting existing shareholders) or debt (increasing financial risk). The path to sustained, profitable scale is therefore uncertain and contingent on successfully executing in niche markets where its RF expertise translates to competitive advantage.
 

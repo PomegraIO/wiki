@@ -78,7 +78,7 @@ Value underperformance can persist for extended periods, and IVSX will lag broad
 
 Currency movements can overwhelm stock-selection decisions. A strengthening dollar can drag IVSX's returns down significantly, even if the underlying stocks perform well. Geopolitical shifts, trade tensions, or [monetary policy](/monetary-policy/) changes can alter currency valuations quickly and unpredictably.
 
-The illiquidity of individual SMID holdings also means that redemptions or fund distress (rare, but possible) can trigger forced selling into a thin market, pushing prices down faster than would happen in larger-cap space.
+The illiquidity of individual SMID holdings also means that redemptions or fund distress (rare, but possible) can trigger forced selling into a [thin market](/thin-market/), pushing prices down faster than would happen in larger-cap space.
 
 ## Evaluating and researching IVSX
 

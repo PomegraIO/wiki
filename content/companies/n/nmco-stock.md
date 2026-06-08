@@ -43,7 +43,7 @@ Over the subsequent decade, the fund's management gradually shifted positioning.
 
 Municipal bonds issued by different entities carry different risks and rewards. General-obligation bonds, backed by the full taxing power of a state or city, are typically considered very safe — defaults are rare, and when they occur, they are often resolved through negotiation rather than litigation. [Revenue bonds](/revenue-bond/), backed by the cash flow from a specific project (like toll roads or water systems), carry more [credit risk](/credit-risk/) because they depend on project performance. Bonds from wealthy states like Massachusetts or New York typically trade at lower yields than those from less wealthy states, reflecting differences in credit quality.
 
-NMCO's portfolio is diversified across these categories. The manager makes a judgment call about how much credit risk to take — whether to tilt toward the safest general-obligation bonds or to venture into riskier revenue bonds where yields are higher. This allocation choice is central to the fund's return profile and drives whether it is more conservative or aggressive in any given market cycle.
+NMCO's portfolio is diversified across these categories. The manager makes a judgment call about how much credit risk to take — whether to tilt toward the safest general-obligation bonds or to venture into riskier revenue bonds where yields are higher. This allocation choice is central to the fund's return profile and drives whether it is more conservative or aggressive in any given [market cycle](/market-cycle/).
 
 ## The tax-exemption angle and who benefits
 

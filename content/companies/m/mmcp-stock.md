@@ -41,7 +41,7 @@ BDC regulations require an asset coverage ratio of at least 150% of borrowings (
 
 ## Distribution Sustainability and Total Return
 
-MMCP's [dividend-yield](/dividend-yield/) (often 8–12% depending on market cycle) is the main draw for equity holders. However, this yield often exceeds NII, meaning the company is returning capital (rather than pure earnings) to shareholders. This "return of capital" component reduces the tax cost to income-focused shareholders but also erodes equity per share over time. A long-term shareholder in MMCP with reinvested distributions may find that total return (including capital appreciation) lags the headline [dividend-yield](/dividend-yield/) because of this net capital depletion. The sustainability question for MMCP equity is always: can the portfolio compound at sufficient pace to maintain both leverage and distributions, or will capital erosion eventually force a cut?
+MMCP's [dividend-yield](/dividend-yield/) (often 8–12% depending on [market cycle](/market-cycle/)) is the main draw for equity holders. However, this yield often exceeds NII, meaning the company is returning capital (rather than pure earnings) to shareholders. This "return of capital" component reduces the tax cost to income-focused shareholders but also erodes equity per share over time. A long-term shareholder in MMCP with reinvested distributions may find that total return (including capital appreciation) lags the headline [dividend-yield](/dividend-yield/) because of this net capital depletion. The sustainability question for MMCP equity is always: can the portfolio compound at sufficient pace to maintain both leverage and distributions, or will capital erosion eventually force a cut?
 
 ## Market Sentiment and Spread-Based Repricing
 

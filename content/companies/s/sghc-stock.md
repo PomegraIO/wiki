@@ -57,7 +57,7 @@ Customer acquisition cost is significant, especially in growing markets where Su
 
 Super Group competes against global gambling operators (Bet365, DraftKings, FanDuel, Betfred), smaller regional players, and informal or unlicensed betting operations that are still prevalent in many African markets. Global operators have larger resources and brands, but they may not be optimized for emerging-market mobile users and payment methods. Regional competitors may have deeper local knowledge or regulatory relationships.
 
-The business also carries reputational risk. Online gambling is legal in many places but controversial in others. Problem gambling, underage participation, and aggressive marketing are sensitive topics that regulators, governments, and civil society scrutinize heavily. Super Group must maintain responsible-gambling measures, prevent underage play, and market ethically to avoid regulatory backlash or reputational damage that could hurt the brand or restrict its operating license.
+The business also carries [reputational risk](/reputational-risk/). Online gambling is legal in many places but controversial in others. Problem gambling, underage participation, and aggressive marketing are sensitive topics that regulators, governments, and civil society scrutinize heavily. Super Group must maintain responsible-gambling measures, prevent underage play, and market ethically to avoid regulatory backlash or reputational damage that could hurt the brand or restrict its operating license.
 
 Revenue quality is also a consideration. Gambling revenue is customer-voluntary spending, not a good or service customers must buy. Economic downturns, shifts in consumer confidence, and changing entertainment preferences can all reduce wagering volume.
 

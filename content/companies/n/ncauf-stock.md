@@ -56,7 +56,7 @@ The company's [market capitalization](/market-capitalization/) is often a small 
 
 Newcore's SEC filings (CIK 1627868) detail its exploration programs, property ownership, capital structure, and cash burn rate. The [10-K annual report](/10-k/) discloses how much cash the company has, how much it is spending per year, and how long current capital lasts. Investors evaluating Newcore should focus on: (1) the size and grade of mineral resources identified to date; (2) the company's access to development capital; (3) the regulatory environment in jurisdictions where it operates; (4) management's track record in exploration and development; (5) the long-term gold-price assumptions underpinning development plans.
 
-The business is not cyclical in the sense that Newcore's operations respond to GDP or [recessions](/recession/) (it has no operations to respond). Rather, Newcore's valuation is highly cyclical because investor appetite for mining stocks, availability of development capital, and commodity prices all oscillate with broader market cycles—driving share prices up and down independent of the company's exploration progress.
+The business is not cyclical in the sense that Newcore's operations respond to GDP or [recessions](/recession/) (it has no operations to respond). Rather, Newcore's valuation is highly cyclical because investor appetite for mining stocks, availability of development capital, and commodity prices all oscillate with broader [market cycles](/market-cycle/)—driving share prices up and down independent of the company's exploration progress.
 
 ### Closely related
 [Commodity prices and mining](/stock/)

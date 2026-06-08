@@ -43,7 +43,7 @@ The company depends on the miners it backs to execute well. If a miner goes bank
 
 ## How to think about Gold Royalty as an investment
 
-Gold Royalty is essentially a way to invest in the precious metals sector without owning the mines. Investors who want exposure to gold and silver can own the actual metals, buy a gold mining company's stock, or own a royalty on mines operated by others. The royalty sits in the middle—less execution risk than owning a mining company, different tax treatment than owning gold bars, and recurring cash flow instead of price appreciation.
+Gold Royalty is essentially a way to invest in the precious metals sector without owning the mines. Investors who want exposure to gold and silver can own the actual metals, buy a gold mining company's stock, or own a royalty on mines operated by others. The royalty sits in the middle—less [execution risk](/execution-risk/) than owning a mining company, different tax treatment than owning gold bars, and recurring cash flow instead of price appreciation.
 
 The key metrics to watch are simple. How much cash flow is the company collecting from its royalties each quarter? Is that growing or shrinking? What is the composition of the portfolio—how much is from active mines paying today versus early-stage properties not yet producing? When major mines in the portfolio are expected to ramp up production or start new projects, that's when the next burst of cash flow could arrive.
 

@@ -32,7 +32,7 @@ The risk is real. A CLO's performance depends entirely on the health of the unde
 
 Most CLOs have a stated maturity (often 7 to 12 years) and a ramp-up period during which the manager purchases loans. Once the ramp-up closes, the pool is static. Loan prepayments and defaults flow through the structure; the most senior securities are paid first, then sequentially more junior ones. Interest and principal from the loans flow to the securities in strict waterfall order.
 
-An important feature: CLOs are typically leveraged. The manager might buy a portfolio worth 100 dollars but issue 80 dollars in securities and keep 20 dollars in equity. That equity cushion is what protects the senior securities from losses. But it also means CLO originators are highly incentivized to keep fees and manage the structure well — their equity is at the back of the queue.
+An important feature: CLOs are typically leveraged. The manager might buy a portfolio worth 100 dollars but issue 80 dollars in securities and keep 20 dollars in equity. That [equity cushion](/equity-cushion/) is what protects the senior securities from losses. But it also means CLO originators are highly incentivized to keep fees and manage the structure well — their equity is at the back of the queue.
 
 ## Costs and liquidity
 
@@ -42,7 +42,7 @@ FCLO itself is a liquid ETF — you can buy and sell shares like any other fund.
 
 ## Cyclicality and recession risk
 
-CLO performance is tightly correlated with credit cycles. In expansions when corporate debt is manageable and defaults are rare, CLOs perform well. Loan prepayments actually accelerate (companies refinance as they become more creditworthy), and the securities receive principal back faster than expected, often at par or better. That is the happy scenario.
+CLO performance is tightly correlated with [credit cycles](/credit-cycle/). In expansions when corporate debt is manageable and defaults are rare, CLOs perform well. Loan prepayments actually accelerate (companies refinance as they become more creditworthy), and the securities receive principal back faster than expected, often at par or better. That is the happy scenario.
 
 In recessions or periods of financial stress, the scenario inverts. Defaults rise, loan performance deteriorates, and prepayments slow. Senior tranches may still perform, but junior ones face mounting losses. The riskiest thing about owning a junior CLO tranche is that you collect higher yield precisely when the risk of loss is growing — a bad asymmetry. FCLO's composition will determine how much junior exposure you hold and therefore how vulnerable you are to a credit downturn.
 
@@ -50,4 +50,4 @@ In recessions or periods of financial stress, the scenario inverts. Defaults ris
 
 FCLO is for investors comfortable with credit risk who are seeking yield above investment-grade [bonds](/bond/). You need a long time horizon and the ability to live with significant mark-to-market losses if a recession arrives. This is not core-portfolio money; it is tactical or opportunistic allocation.
 
-Research FCLO by reading Fidelity's [fund prospectus](/fund-prospectus/) and fact sheet. Look closely at the composition: what percentage is senior versus subordinated CLOs? What is the vintage distribution of the underlying CLO pools? Older CLOs are further into their lives and more exposed to default risk; newer ones are ramping up and less proven. Study the originator list — who packaged these loans? Some CLO managers have better track records than others. Watch Fidelity's turnover and whether they are trading in and out frequently; high turnover in CLOs can mean facing wide bid-ask spreads. Finally, monitor CLO [default rates](/default-rate/) and prepayment speeds in the broader market; those metrics tell you whether the underlying credit cycle is favorable or deteriorating.
+Research FCLO by reading Fidelity's [fund prospectus](/fund-prospectus/) and fact sheet. Look closely at the composition: what percentage is senior versus subordinated CLOs? What is the vintage distribution of the underlying CLO pools? Older CLOs are further into their lives and more exposed to default risk; newer ones are ramping up and less proven. Study the originator list — who packaged these loans? Some CLO managers have better track records than others. Watch Fidelity's turnover and whether they are trading in and out frequently; high turnover in CLOs can mean facing wide bid-ask spreads. Finally, monitor CLO [default rates](/default-rate/) and [prepayment speeds](/prepayment-speed/) in the broader market; those metrics tell you whether the underlying credit cycle is favorable or deteriorating.

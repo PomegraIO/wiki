@@ -66,13 +66,13 @@ TransDigm's portfolio breaks roughly into three revenue streams:
 
 ## What to Watch
 
-Investors tracking TransDigm typically monitor: commercial aircraft production rates (a leading indicator for OE revenue), fleet utilization and travel demand (a driver of aftermarket parts and service), military procurement budgets and platform lifecycles, debt levels and refinancing activity, and acquisition announcements and integration success. Quarterly earnings calls often focus on organic growth, acquisition contribution, and free cash flow generation.
+Investors tracking TransDigm typically monitor: commercial aircraft production rates (a [leading indicator](/leading-indicator/) for OE revenue), fleet utilization and travel demand (a driver of aftermarket parts and service), military procurement budgets and platform lifecycles, debt levels and refinancing activity, and acquisition announcements and integration success. Quarterly earnings calls often focus on organic growth, acquisition contribution, and free cash flow generation.
 
 The company's [10-K](/wiki/10-k/) disclosures detail segment performance, customer concentration (Boeing and Airbus are large but not dominant), competitive dynamics, and leverage metrics. Most investors model the business on a cash flow basis, focusing on EBITDA multiples and [debt-to-EBITDA ratios](/debt-to-ebitda-ratio/) rather than [earnings per share](/earnings-per-share/), which are compressed by [amortization](/amortization/) of intangibles and interest expense.
 
 ## Key Risks
 
-Beyond the cyclicality of commercial aviation, TransDigm faces regulatory and reputational risk (particularly around pricing on military or safety-critical parts), integration execution risk on acquisitions, refinancing risk if debt markets tighten, and the possibility that OEMs or military buyers will themselves backward-integrate or sponsor alternative suppliers to reduce dependency. Technological disruption—such as the shift to electric or hydrogen propulsion in commercial aircraft—could eventually render some product lines obsolete, though that transition is likely decades away.
+Beyond the cyclicality of commercial aviation, TransDigm faces regulatory and [reputational risk](/reputational-risk/) (particularly around pricing on military or safety-critical parts), integration [execution risk](/execution-risk/) on acquisitions, refinancing risk if debt markets tighten, and the possibility that OEMs or military buyers will themselves backward-integrate or sponsor alternative suppliers to reduce dependency. Technological disruption—such as the shift to electric or hydrogen propulsion in commercial aircraft—could eventually render some product lines obsolete, though that transition is likely decades away.
 
 The company's leverage and reliance on debt markets also mean that a credit crisis or sustained rise in [interest rates](/interest-rate/) would pressure the capital structure and free cash flow available for dividends. The strength of the underlying business model has proved resilient through major cycles, but the financial engineering layered atop that business introduces fragility during stress.
 

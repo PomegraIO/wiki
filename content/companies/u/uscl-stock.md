@@ -34,7 +34,7 @@ The result is a portfolio that looks like the broader U.S. [stock market](/stock
 
 ## Why MSCI's climate index, and what makes it tick
 
-USCL tracks the MSCI USA Climate Conscious & Transition Index, a rules-based screening that MSCI maintains and rebalances quarterly. MSCI is an index specialist; it sells versions of this screen to many ETF sponsors and [mutual funds](/mutual-fund/). The screening is transparent and rules-driven rather than subjective — weights shift based on measurable carbon metrics, not a committee's judgment. That consistency is useful for a long-term holder.
+USCL tracks the MSCI USA Climate Conscious & Transition Index, a rules-based screening that MSCI maintains and rebalances quarterly. MSCI is an index specialist; it sells versions of this screen to many [ETF sponsors](/etf-sponsor/) and [mutual funds](/mutual-fund/). The screening is transparent and rules-driven rather than subjective — weights shift based on measurable carbon metrics, not a committee's judgment. That consistency is useful for a long-term holder.
 
 The "transition" emphasis is subtle but important. The index does not demand that a company be perfectly clean today; it rewards demonstrated commitment to reducing emissions. A utility investing heavily in renewables and retiring coal plants gets better treatment than one standing pat. An auto maker with aggressive electrification targets ranks higher than one ignoring the shift. This incentivizes corporate action rather than punishing incumbent industries outright.
 

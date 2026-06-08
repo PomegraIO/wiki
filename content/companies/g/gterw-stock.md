@@ -33,7 +33,7 @@ This focus reflects a belief among Globa Terra's sponsors and founders that thes
 
 ## The search process
 
-Between the IPO in July 2025 and the present, Globa Terra is in what the SPAC industry calls "the hunt": identifying candidate companies, conducting due diligence, negotiating terms, and building conviction that a specific target is the right match for the capital raised. This process typically takes several months to well over a year. During this period, the capital raised in the IPO sits in a trust account, generating minimal interest, while the sponsors search.
+Between the IPO in July 2025 and the present, Globa Terra is in what the SPAC industry calls "the hunt": identifying candidate companies, conducting [due diligence](/due-diligence/), negotiating terms, and building conviction that a specific target is the right match for the capital raised. This process typically takes several months to well over a year. During this period, the capital raised in the IPO sits in a trust account, generating minimal interest, while the sponsors search.
 
 The company faces typical SPAC timeline pressures. Most SPACs have a contractual obligation to complete a business combination within a specified period—often 24 months from the IPO—or liquidate and return capital to shareholders. This creates urgency and shapes negotiating incentives on both sides: Globa Terra must find a suitable target before the deadline; private companies considering the deal know there is a time window that will close.
 

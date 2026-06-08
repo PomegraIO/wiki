@@ -36,7 +36,7 @@ The advertising industry faces endemic fraud. Fake traffic (bots generating arti
 
 Direct Digital is subject to informal industry standards (ad-fraud detection, brand-safety screening, viewability measurement) set by organizations like the Internet Advertising Bureau (IAB) and Media Rating Council (MRC). These are not hard law, but they are de facto requirements for respectability. A platform that fails to detect obvious fraud faces advertiser defection and reputational damage.
 
-The regulatory angle emerges when ad fraud affects consumer harm or becomes entangled with enforcement action. FTC and state attorney general offices have brought cases against ad-tech companies for failing to prevent predatory advertising (payday loans, debt-relief scams, cryptocurrency fraud) or for allowing fraudulent advertiser behavior. Direct Digital's compliance obligation includes not just preventing fraud by its own platform, but monitoring advertiser conduct for deception or harm.
+The regulatory angle emerges when ad fraud affects consumer harm or becomes entangled with enforcement action. FTC and state attorney general offices have brought cases against ad-tech companies for failing to prevent predatory advertising ([payday loans](/payday-loan/), debt-relief scams, cryptocurrency fraud) or for allowing fraudulent advertiser behavior. Direct Digital's compliance obligation includes not just preventing fraud by its own platform, but monitoring advertiser conduct for deception or harm.
 
 ## COPPA and Child-Directed Advertising
 

@@ -39,7 +39,7 @@ Profitability depends on manufacturing efficiency, mix toward higher-margin aero
 
 **Defense sensitivity.** While defense is often described as stable, it is not immune to policy change. Military platforms take years to develop and procure; discontinuation or delay of a major program can cascade quickly through the supply chain.
 
-**Cyclical industrial.** The non-aerospace segments are cyclical. Expansion in manufacturing and construction drives demand; [recessions](/recession/) hit hard. Dodge integration is still young, and execution risk exists around cost synergies and cross-segment growth.
+**Cyclical industrial.** The non-aerospace segments are cyclical. Expansion in manufacturing and construction drives demand; [recessions](/recession/) hit hard. Dodge integration is still young, and [execution risk](/execution-risk/) exists around cost synergies and cross-segment growth.
 
 **Integration execution.** The Dodge acquisition is material. Failure to capture synergies, culture clashes, or unexpected integration costs can erode returns. Investors should track post-close milestones closely.
 

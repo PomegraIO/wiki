@@ -42,13 +42,13 @@ CCUP tracks only Crescent Electric Supply Company, not a broad index. This conce
 
 Direxion's [expense ratios](/expense-ratio/) for leveraged funds are typically in the 0.95% range, which is steep relative to broad market ETFs but reasonable given the complexity of maintaining daily leverage. The cost reflects the daily rebalancing, the derivatives infrastructure, and the issuer's operational overhead. Traders should verify the current expense ratio and trading volume before entering a position — illiquid leveraged ETFs can have wide [bid-ask spreads](/bid-ask-spread/) that further erode returns.
 
-CCUP trades on NYSE Arca with typical ETF mechanics: shares can be bought and sold throughout the day at market prices, and the fund can be purchased in brokerage accounts like any equity. The fund's value is calculated during market hours and also after-hours.
+CCUP trades on [NYSE Arca](/nyse-arca/) with typical ETF mechanics: shares can be bought and sold throughout the day at market prices, and the fund can be purchased in brokerage accounts like any equity. The fund's value is calculated during market hours and also after-hours.
 
 ## Who this fund is for — and who it is not for
 
 CCUP is designed for traders making a bullish bet over a short timeframe — days to weeks, not months or years. It appeals to sophisticated investors who understand leverage, volatility decay, and the risks of concentration in a single stock. Some traders use leveraged funds as tactical hedges within larger portfolios, holding them for a specific trade idea.
 
-CCUP is not appropriate for passive, long-term investors or retirement accounts. The combination of leverage, daily rebalancing, and single-stock concentration makes it a tactical tool that requires active management. Held over months or years through various market cycles, the mathematics of volatility decay almost guarantee underperformance relative to a simple buy-and-hold of the underlying stock, even if the stock itself performs well.
+CCUP is not appropriate for passive, long-term investors or retirement accounts. The combination of leverage, daily rebalancing, and single-stock concentration makes it a tactical tool that requires active management. Held over months or years through various [market cycles](/market-cycle/), the mathematics of volatility decay almost guarantee underperformance relative to a simple buy-and-hold of the underlying stock, even if the stock itself performs well.
 
 ## Research and disclosure
 

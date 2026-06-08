@@ -17,7 +17,7 @@ The core business model is straightforward. The bank gathers deposits from local
 
 ## The loan portfolio and agricultural focus
 
-Real estate lending dominates the bank's [balance sheet](/balance-sheet/). Roughly 88% of all loans outstanding are in real estate categories: residential mortgages, [commercial real estate](/commercial-real-estate/), agricultural land loans, construction loans, and multifamily properties. This concentration reflects the geography of central Illinois, an agricultural region where land and farm operations are the primary assets people borrow against. A farmer needs to finance equipment or land, a contractor needs financing for new residential subdivisions or commercial buildings, a family needs a mortgage on a house.
+Real estate lending dominates the bank's [balance sheet](/balance-sheet/). Roughly 88% of all loans outstanding are in real estate categories: residential mortgages, [commercial real estate](/commercial-real-estate/), agricultural land loans, [construction loans](/construction-loan/), and multifamily properties. This concentration reflects the geography of central Illinois, an agricultural region where land and farm operations are the primary assets people borrow against. A farmer needs to finance equipment or land, a contractor needs financing for new residential subdivisions or commercial buildings, a family needs a mortgage on a house.
 
 Within the real estate portfolio, the split between residential and commercial has shifted. Residential mortgages, once the mainstay of community banks, have become a commodity product—a bank competes on rate alone, and customers shop aggressively. Commercial real estate and construction lending, by contrast, are relationship businesses where the bank's local presence, its knowledge of local borrowers and their property, and its willingness to hold loans long-term create competitive advantage. Tri-County has tilted the portfolio toward commercial real estate and construction to compete where rates are higher and relationships matter more than price.
 
@@ -25,7 +25,7 @@ The remaining 12% of the loan portfolio is in commercial and industrial loans to
 
 ## Deposits as the funding base
 
-On the deposit side, the bank offers products to both retail customers and small businesses. Checking accounts—both noninterest and interest-bearing—form the core of the business. The bank also takes savings deposits, money market accounts, and certificates of deposit. A small business can open a business checking account and use the bank for merchant services and payroll processing.
+On the deposit side, the bank offers products to both retail customers and small businesses. Checking accounts—both noninterest and interest-bearing—form the core of the business. The bank also takes savings deposits, [money market accounts](/money-market-account/), and certificates of deposit. A small business can open a business checking account and use the bank for merchant services and payroll processing.
 
 The deposit base is what gives the bank its stability. Deposits are liabilities on the bank's balance sheet, but they are the liabilities a bank wants, because they are cheap to fund. A depositor leaves money in the bank because they value safety, convenience, and a familiar relationship with the teller or the local branch manager. They are not shopping across the entire country for an extra basis point of interest. That local stickiness means the bank can gather deposits at relatively low cost and redeploy them as loans at higher rates. The spread is the profit.
 

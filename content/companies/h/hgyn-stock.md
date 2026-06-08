@@ -16,7 +16,7 @@ keywords: ["China", "ADR", "holding company", "international listing", "micro-ca
 
 ## The Sino-Foreign Holding Company Structure
 
-Hong Yuan Holding Group is not a domestically listed US corporation but an American Depositary Receipt—a financial instrument representing shares of a Hong Kong or China-based company held in custody by a US bank. For US investors, this means buying HGYN stock is functionally equivalent to owning Hong Yuan shares, but the legal relationship is indirect: the ADR issuer (typically a major [custodian](/custodian/) like Citibank or JPMorgan) holds the actual Hong Kong shares and issues US-dollar-denominated receipts representing a claim on them.
+Hong Yuan Holding Group is not a domestically listed US corporation but an American [Depositary Receipt](/depositary-receipt/)—a financial instrument representing shares of a Hong Kong or China-based company held in custody by a US bank. For US investors, this means buying HGYN stock is functionally equivalent to owning Hong Yuan shares, but the legal relationship is indirect: the ADR issuer (typically a major [custodian](/custodian/) like Citibank or JPMorgan) holds the actual Hong Kong shares and issues US-dollar-denominated receipts representing a claim on them.
 
 This structure solves a practical problem: Hong Kong and mainland Chinese securities laws restrict foreign ownership of certain shares or companies, and currency controls complicate dividend repatriation. An ADR allows a US investor to trade a US-listed security without navigating Chinese regulatory approval or currency limits. But this convenience comes with costs: currency risk (earnings are generated in Chinese yuan or [Hong Kong dollars](/hong-kong-dollar/) but [dividends](/dividend/) must be converted to dollars), information risk (financial disclosures follow Hong Kong or PRC accounting rules, which may differ from US GAAP), and political/regulatory risk (Chinese government policy can affect dividend repatriation, listing status, or asset freezes).
 
@@ -52,7 +52,7 @@ An investor in Hong Yuan must trust that:
 3. Dividend repatriation faces no regulatory obstacles (an assumption that can change with political winds).
 4. Corporate governance aligns management incentives with shareholder value (a risk in structures where founders or controlling shareholders have supermajority control or misaligned incentives).
 
-These assumptions are lower-friction for domestic US stocks, where SEC oversight, Dodd-Frank requirements, and litigation risk all enforce alignment. For a Chinese holding company, each assumption requires more due diligence.
+These assumptions are lower-friction for domestic US stocks, where SEC oversight, Dodd-Frank requirements, and litigation risk all enforce alignment. For a Chinese holding company, each assumption requires more [due diligence](/due-diligence/).
 
 ## The Micro-Cap Liquidity Challenge
 
@@ -60,7 +60,7 @@ HGYN's micro-cap status compounds information and [liquidity risk](/liquidity-ri
 
 ## Information Asymmetries Specific to HGYN
 
-Research into Hong Yuan requires access to Hong Kong or Chinese-language disclosures, knowledge of local regulatory changes, and judgment about political risk. A US investor relying solely on English-language SEC filings and quarterly earnings calls is working with incomplete information. This is true to some degree for all foreign stocks, but the information gap is steeper for small, diversified holdings with limited English-language disclosure.
+Research into Hong Yuan requires access to Hong Kong or Chinese-language disclosures, knowledge of local regulatory changes, and judgment about [political risk](/political-risk/). A US investor relying solely on English-language SEC filings and quarterly earnings calls is working with incomplete information. This is true to some degree for all foreign stocks, but the information gap is steeper for small, diversified holdings with limited English-language disclosure.
 
 For equity holders, HGYN is a bet not just on Hong Yuan's business fundamentals but on your ability to monitor political, regulatory, and [currency risks](/currency-risk/) in a market with structural opacity. The [stock](/stock/) is suitable only for investors with either deep China expertise or comfort with information risk.
 

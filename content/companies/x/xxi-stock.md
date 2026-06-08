@@ -20,7 +20,7 @@ The company emerged from and remains connected to the Tether and Bitfinex ecosys
 
 Twenty One Capital was created to serve a specific thesis: that bitcoin should be held and accumulated by a corporate entity as a direct hedge against currency debasement and [inflation](/inflation/), following the playbook of similar crypto-native treasury companies. The structure allows individuals and institutional investors to gain bitcoin exposure through equity ownership rather than custody themselves.
 
-The company's formation coincided with growing corporate interest in bitcoin holdings—a trend accelerated in the 2021-2023 [bull market](/bull-market/)—and a particular school of thought that sees bitcoin not as a speculative asset but as a reserve currency alternative for [balance sheet](/balance-sheet/) treasuries. Twenty One Capital's tight connection to the Bitfinex and Strike networks gave it early credibility and operational infrastructure within the crypto ecosystem.
+The company's formation coincided with growing corporate interest in bitcoin holdings—a trend accelerated in the 2021-2023 [bull market](/bull-market/)—and a particular school of thought that sees bitcoin not as a speculative asset but as a [reserve currency](/reserve-currency/) alternative for [balance sheet](/balance-sheet/) treasuries. Twenty One Capital's tight connection to the Bitfinex and Strike networks gave it early credibility and operational infrastructure within the crypto ecosystem.
 
 ## How does it make money?
 

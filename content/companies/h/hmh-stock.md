@@ -71,7 +71,7 @@ The company's [/free-cash-flow/](/free-cash-flow/) generation depends on how muc
 
 Investors have historically valued education companies on a multiple of recurring revenue, given the predictability of the license model. A 3–5x [revenue multiple](/revenue-multiple/) is not uncommon for stable education publishers. HMH's valuation depends on whether the market perceives it as a mature cash-generation machine or as a growth opportunity.
 
-Growth avenues are limited by market size, but HMH can grow by expanding internationally (it has operations outside the US), by acquiring competitors or adjacent businesses, or by moving into adjacent verticals (higher education, corporate training, professional development). Each of these requires capital and execution risk.
+Growth avenues are limited by market size, but HMH can grow by expanding internationally (it has operations outside the US), by acquiring competitors or adjacent businesses, or by moving into adjacent verticals (higher education, corporate training, professional development). Each of these requires capital and [execution risk](/execution-risk/).
 
 The company's path to sustained profitability and shareholder value depends on maintaining market share in K-12 curriculum and assessments, managing the digital transition to maintain margins, and avoiding major regulatory disruptions to the state assessment business. It is a mature, defensible, but slow-growth business with strong cash generation and a customer base that is structurally dependent on its products—the hallmark of a utility-like education provider.
 

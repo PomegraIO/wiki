@@ -37,7 +37,7 @@ As of December 2025, Shattuck held approximately 78.1 million dollars in cash an
 
 What are the main risks facing Shattuck?
 
-Clinical biotech investments carry execution risk: molecules that look promising in laboratory and early animal studies often fail in human trials due to efficacy shortfalls, unexpected toxicities, or manufacturing challenges. Shattuck's programs are early enough that failure is a material possibility. Additionally, the company faces capital risk — if clinical trials disappoint or burn through cash faster than expected, Shattuck will need to raise more equity at potentially dilutive terms, or curtail programs.
+Clinical biotech investments carry [execution risk](/execution-risk/): molecules that look promising in laboratory and early animal studies often fail in human trials due to efficacy shortfalls, unexpected toxicities, or manufacturing challenges. Shattuck's programs are early enough that failure is a material possibility. Additionally, the company faces capital risk — if clinical trials disappoint or burn through cash faster than expected, Shattuck will need to raise more equity at potentially dilutive terms, or curtail programs.
 
 Competitive and regulatory risks are also material. The immunotherapy space is crowded, with large pharmaceutical companies and well-funded startups pursuing similar targets. If competitors reach the market first, or if regulators scrutinize the safety of dual-action fusion proteins, Shattuck's pathway to approval becomes narrower. Partnership risk is a fourth dimension: Shattuck is small and will likely need to partner with larger firms to fund late-stage trials and commercialize any approved drug, which will reduce the economics the company retains.
 

@@ -39,7 +39,7 @@ That said, infrastructure is not immune to cycles. A severe recession or credit 
 
 ## Active management in a utilities space
 
-The decision to use active management rather than simply tracking an index reflects a belief that skilled managers can identify the strongest infrastructure franchises before the market prices them correctly. The manager's edge might lie in spotting companies with improving fundamentals, recognizing when valuations have become unreasonably cheap relative to cash flows, or avoiding businesses facing regulatory headwinds. For infrastructure specifically, the manager must also assess the durability of long-term contracts, the credit quality of customers, and political risk where applicable.
+The decision to use active management rather than simply tracking an index reflects a belief that skilled managers can identify the strongest infrastructure franchises before the market prices them correctly. The manager's edge might lie in spotting companies with improving fundamentals, recognizing when valuations have become unreasonably cheap relative to cash flows, or avoiding businesses facing regulatory headwinds. For infrastructure specifically, the manager must also assess the durability of long-term contracts, the credit quality of customers, and [political risk](/political-risk/) where applicable.
 
 ## Costs and trading
 

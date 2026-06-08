@@ -34,7 +34,7 @@ Nobility is a smaller, lower-margin player in a consolidating industry. The comp
 
 The core risk to Nobility is cyclical: a sharp rise in interest rates or credit tightening that dries up buyer financing. Because manufactured homes are debt-financed and the buyers are price-sensitive, demand is exquisitely responsive to financing cost. A spike from 6 per cent to 9 per cent effective rates can wipe out an entire quarter's shipments. A second risk is competition from site-built affordable housing if regulators finally allow zoning reform and supply increases. If abundant, cheap townhomes or small-lot single-family homes become legal in more places, the manufactured-home market could shrink structurally. Third is operational: the company must manage supply-chain costs and manufacturing efficiency in an inflationary environment where input prices are beyond its control.
 
-Finally, there is the regulatory and reputational risk. Manufactured-home parks have a long history of predatory lot-rent increases and evictions, and manufactured housing carries a stigma — it is sometimes perceived as trailer parks rather than affordable housing communities. Nobles is insulated from park operations, but the industry's reputation can still depress demand and invite regulation.
+Finally, there is the regulatory and [reputational risk](/reputational-risk/). Manufactured-home parks have a long history of predatory lot-rent increases and evictions, and manufactured housing carries a stigma — it is sometimes perceived as trailer parks rather than affordable housing communities. Nobles is insulated from park operations, but the industry's reputation can still depress demand and invite regulation.
 
 ## How to research Nobility
 

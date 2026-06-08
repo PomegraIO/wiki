@@ -50,7 +50,7 @@ However, inflationary periods stress this model. When inflation rises faster tha
 
 The company is highly capital intensive. Annual capex runs in the low single-digit billions of pounds/dollars, directed toward replacing aging infrastructure, expanding network capacity, and integrating renewable energy sources (solar, offshore wind) that require new grid connections. Regulators increasingly expect utilities to fund climate-related capex (like undergrounding cables, grid modernization, EV charging), and they negotiate whether this investment is "financed" through rate increases or absorbed into the rate base.
 
-NGG's ability to invest capital efficiently and secure regulatory approval for that investment to earn the allowed return is critical to its earnings growth. A failure to deploy capital effectively—or regulatory pressure to undertake capital that earns below the hurdle rate—can slow dividend growth and hurt shareholder returns.
+NGG's ability to invest capital efficiently and secure regulatory approval for that investment to earn the allowed return is critical to its earnings growth. A failure to deploy capital effectively—or regulatory pressure to undertake capital that earns below the [hurdle rate](/hurdle-rate/)—can slow dividend growth and hurt shareholder returns.
 
 ## Risks and Pressures
 

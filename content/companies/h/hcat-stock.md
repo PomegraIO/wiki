@@ -4,7 +4,7 @@ description: "A healthcare data and analytics software company providing decisio
 keywords: ["healthcare-IT", "data-analytics", "hospital-software", "healthcare-reform", "customer-concentration"]
 ---
 
-***Health Catalyst, Inc.** (HCAT) sells software and data-analytics services to hospitals and health systems, helping them optimize operations, reduce costs, and improve patient outcomes. The company operates in healthcare information technology, a sector defined by regulatory complexity, slow buying cycles, and intense price pressure. While healthcare IT has structural tailwinds, Catalyst's specific business model carries meaningful concentration and execution risks.*
+***Health Catalyst, Inc.** (HCAT) sells software and data-analytics services to hospitals and health systems, helping them optimize operations, reduce costs, and improve patient outcomes. The company operates in healthcare information technology, a sector defined by regulatory complexity, slow buying cycles, and intense price pressure. While healthcare IT has structural tailwinds, Catalyst's specific business model carries meaningful concentration and [execution risks](/execution-risk/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HCAT</td></tr>

@@ -35,7 +35,7 @@ Because humanoid robotics is still in early commercial deployment, the fund's ho
 
 ## Investment thesis and mechanics
 
-BOTT assumes that humanoid robots will become a significant capital-expenditure category for factories, warehouses, hospitals, and service businesses within the next 5–10 years, and that companies in the supply chain will capture value as adoption accelerates. The ETF structure allows investors to gain that exposure without picking individual robotics stocks — a [diversification](/diversification/) benefit for a sector where technology risk and execution risk are both high.
+BOTT assumes that humanoid robots will become a significant capital-expenditure category for factories, warehouses, hospitals, and service businesses within the next 5–10 years, and that companies in the supply chain will capture value as adoption accelerates. The ETF structure allows investors to gain that exposure without picking individual robotics stocks — a [diversification](/diversification/) benefit for a sector where [technology risk](/technology-risk/) and [execution risk](/execution-risk/) are both high.
 
 As a passive ETF, BOTT simply holds the index's constituents in proportion to their weighting, rebalancing periodically as the index methodology dictates. This means the fund has no active management, no stock selection, and holdings that are transparent and replicable — investors can see the full portfolio and know exactly what they own.
 
@@ -51,7 +51,7 @@ A humanoid robotics fund is a concentrated bet on two interconnected unknowns: w
 
 Additionally, the sector is genuinely speculative — humanoid robots are still not yet widely deployed at scale in most industries, so the fund is partly a bet on future adoption rather than a current cash-generating business. A slowdown in capital spending, disappointing real-world performance, or a shift to alternative automation approaches could depress the entire category.
 
-The fund is also small and recent enough that its tracking error and cost structure could change materially if it grows, shrinks, or faces index reconstitution events.
+The fund is also small and recent enough that its tracking error and cost structure could change materially if it grows, shrinks, or faces [index reconstitution](/index-reconstitution/) events.
 
 ## How to research this fund
 

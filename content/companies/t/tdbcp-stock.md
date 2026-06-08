@@ -55,7 +55,7 @@ Start with the annual 10-K filing (SEC CIK 0000947263) and pay attention to the 
 
 Study the [balance sheet](/balance-sheet/). What is the capital ratio (Tier 1, Common Equity Tier 1)? How close is it to regulatory minimums? Is it rising or falling? A rising capital ratio suggests the bank is retaining earnings and buffering against downturns; a falling ratio suggests the bank is stressed.
 
-Watch deposit costs. What is the average rate paid on deposits, and is it rising or falling? If deposit rates are rising but loan rates are not keeping pace, margins are compressing. This is the leading indicator of pressure on earnings.
+Watch deposit costs. What is the average rate paid on deposits, and is it rising or falling? If deposit rates are rising but loan rates are not keeping pace, margins are compressing. This is the [leading indicator](/leading-indicator/) of pressure on earnings.
 
 Track the [dividend payout ratio](/dividend-payout-ratio/): what percentage of earnings does the bank return to shareholders? If the [payout ratio](/payout-ratio/) is 40 percent, the bank has room to maintain dividends even if earnings fall modestly. If the payout ratio is 60 or 70 percent, any earnings decline will require a dividend cut.
 

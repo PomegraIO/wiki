@@ -39,7 +39,7 @@ The company operates along two parallel lines. The core uranium business involve
 
 Vanadium, the second leg of the business, comes largely from the same ore deposits and the same milling processes. Vanadium is used in high-strength steel (structural beams, offshore pipelines, power transmission towers) and in vanadium redox flow batteries, which store electrical energy at grid scale — a complementary technology to lithium-ion batteries. As the energy transition pushes toward larger and longer-duration storage, vanadium demand has begun to accelerate alongside uranium.
 
-Revenue split between the two materials varies with commodity prices. When uranium prices are high, the company prioritizes uranium milling; when vanadium prices rise, the calculus shifts. This optionality is part of Energy Fuels' structural advantage: it is not a pure uranium play vulnerable to a single commodity downturn, but neither is it diversified away from commodity risk.
+Revenue split between the two materials varies with commodity prices. When uranium prices are high, the company prioritizes uranium milling; when vanadium prices rise, the calculus shifts. This optionality is part of Energy Fuels' structural advantage: it is not a pure uranium play vulnerable to a single commodity downturn, but neither is it diversified away from [commodity risk](/commodity-risk/).
 
 ## The business model and the commodity trap
 

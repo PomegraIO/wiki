@@ -77,7 +77,7 @@ Efficiency gains can come from many sources: new equipment, better procedures, w
 
 ## Factory Coordination and Transfer Pricing
 
-If BGM operates multiple facilities, the company must coordinate between them. A product might be manufactured at one facility, assembled at another, and distributed from a third. Transfer pricing—the price at which one facility "sells" intermediate products to another—affects how profits are allocated and what decisions look rational to each facility manager. Set transfer prices wrong, and facility managers might make decisions that hurt the company overall.
+If BGM operates multiple facilities, the company must coordinate between them. A product might be manufactured at one facility, assembled at another, and distributed from a third. [Transfer pricing](/transfer-pricing/)—the price at which one facility "sells" intermediate products to another—affects how profits are allocated and what decisions look rational to each facility manager. Set transfer prices wrong, and facility managers might make decisions that hurt the company overall.
 
 BGM must also manage capacity across facilities. If one facility is at full utilization and another has spare capacity, shifting production to the spare-capacity facility makes sense economically. But this requires flexibility in product routing and operational willingness to change schedules. Facilities with outdated equipment might not be able to efficiently produce all products, limiting flexibility.
 

@@ -58,7 +58,7 @@ Integration risk is also material. Merging Quidel's entrepreneurial, fast-moving
 
 ## Research and Insights
 
-A [10-K](/wiki/10-k/) filing will detail revenue breakdown by segment, margins by product line, and installed base metrics—the count of analyzers in operation, a leading indicator of recurring reagent revenue. Watch for segment profitability; point-of-care and molecular often carry higher margins than mature chemistry platforms.
+A [10-K](/wiki/10-k/) filing will detail revenue breakdown by segment, margins by product line, and installed base metrics—the count of analyzers in operation, a [leading indicator](/leading-indicator/) of recurring reagent revenue. Watch for segment profitability; point-of-care and molecular often carry higher margins than mature chemistry platforms.
 
 Key performance metrics to track: reagent volume per installed analyzer (tests per instrument per day), gross margin by segment, and free [cash flow conversion](/cash-flow-conversion/). Diagnostics companies often trade on cash generation and [dividend](/dividend/) capacity. QuidelOrtho also matters to investors interested in consolidation in healthcare services—whether it remains independent, partners, or becomes an acquisition target.
 

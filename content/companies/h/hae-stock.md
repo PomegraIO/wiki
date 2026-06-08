@@ -56,7 +56,7 @@ This growth, however, has faces constraints. Donor availability is limited in ma
 
 ## Financial and Operational Challenges
 
-Haemonetics has faced operational headwinds in recent years. Supply chain disruptions from the pandemic hurt manufacturing and cost [inflation](/inflation/) pressured margins. The company has worked to optimize its cost structure and streamline its manufacturing footprint, but execution risk remains.
+Haemonetics has faced operational headwinds in recent years. Supply chain disruptions from the pandemic hurt manufacturing and cost [inflation](/inflation/) pressured margins. The company has worked to optimize its cost structure and streamline its manufacturing footprint, but [execution risk](/execution-risk/) remains.
 
 Debt levels and capital allocation have been areas of investor scrutiny. The company has used debt and [equity financing](/equity-financing/) to fund [acquisitions](/acquisition/) and operational needs. Generating strong [free cash flow](/free-cash-flow/) and maintaining disciplined capital allocation will be critical to sustaining shareholder returns.
 

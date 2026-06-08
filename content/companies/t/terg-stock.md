@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TERG is a leveraged bet on the Turkish Lira getting stronger against the [U.S. Dollar](/us-dollar/). If the lira rises by 1 percent on a given day, TERG aims to rise by 2 percent. If the lira falls by 1 percent, TERG falls by roughly 2 percent. This is accomplished through the use of financial derivatives — primarily currency forwards and swaps — that amplify the underlying movement.
+TERG is a leveraged bet on the [Turkish Lira](/turkish-lira/) getting stronger against the [U.S. Dollar](/us-dollar/). If the lira rises by 1 percent on a given day, TERG aims to rise by 2 percent. If the lira falls by 1 percent, TERG falls by roughly 2 percent. This is accomplished through the use of financial derivatives — primarily currency forwards and swaps — that amplify the underlying movement.
 
 ## How leverage works — and why it matters
 

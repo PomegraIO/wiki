@@ -51,7 +51,7 @@ Late-stage maturity for an industrial company presents three broad paths. The fi
 
 The second path is shrink-to-profitability: divest lower-margin or lower-growth business units, focus capital on the highest-return segments, and accept that the company will be smaller but more profitable. This strategy is often initiated when investor pressure mounts or when a activist shareholder emerges.
 
-The third path is transform: invest heavily in new technologies, markets, or business models—a bet that the company can rejuvenate growth. This path carries execution risk; it requires capital that could otherwise be returned to shareholders, and it frequently fails.
+The third path is transform: invest heavily in new technologies, markets, or business models—a bet that the company can rejuvenate growth. This path carries [execution risk](/execution-risk/); it requires capital that could otherwise be returned to shareholders, and it frequently fails.
 
 Which path Mativ pursues is a question for the next chapter of its lifecycle. The [stock](/stock/) price and [price-to-earnings ratio](/price-to-earnings-ratio/) reflect the market's current assessment of where the company is headed.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-World Scan Project, Inc. is a Tokyo-based development-stage company pursuing multiple technology projects in the aircraft, sensor, and computing domains. It trades over the counter under the ticker WDSP and carries substantial execution risk and financial uncertainty typical of early-stage ventures with no current revenue.
+World Scan Project, Inc. is a Tokyo-based development-stage company pursuing multiple technology projects in the aircraft, sensor, and computing domains. It trades over the counter under the ticker WDSP and carries substantial [execution risk](/execution-risk/) and financial uncertainty typical of early-stage ventures with no current revenue.
 
 <aside class="wiki-infobox">
 <table>

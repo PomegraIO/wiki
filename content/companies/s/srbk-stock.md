@@ -15,7 +15,7 @@ SR Bancorp stands as the holding company for Somerset Regal Bank, a community ba
 
 ## Deposit gathering and retail banking
 
-The foundation of SR Bancorp's business is deposit taking. The bank offers a range of deposit products to retail customers and small businesses: noninterest-bearing checking accounts, interest-bearing demand accounts, savings accounts, money market accounts, and certificates of deposit. The business checking segment caters to small business owners who need basic payment services. Online banking and bill payment functionality rounds out the retail offering.
+The foundation of SR Bancorp's business is deposit taking. The bank offers a range of deposit products to retail customers and small businesses: noninterest-bearing checking accounts, interest-bearing demand accounts, savings accounts, [money market accounts](/money-market-account/), and certificates of deposit. The business checking segment caters to small business owners who need basic payment services. Online banking and bill payment functionality rounds out the retail offering.
 
 Deposits are the fuel for everything the bank does. They arrive at low cost because they are gathered from local customers—people who live and work in the bank's market, who value face-to-face banking relationships, and who are not shopping aggressively across the market for basis points on their checking balance. The stickiness of local deposits allows the bank to fund its lending at a stable, predictable cost and to maintain adequate spread between what it pays depositors and what it earns on loans.
 

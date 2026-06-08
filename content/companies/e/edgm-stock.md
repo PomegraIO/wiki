@@ -25,7 +25,7 @@ When Edgemode leases power or dark fiber from incumbent carriers or utilities, o
 
 ## Power Supply Agreements and Energy Regulation
 
-Data centers are electricity-intensive. Edgemode must negotiate long-term power supply agreements with local utilities. These contracts often fall under state utility commission jurisdiction. The company may need to file interconnection applications, demonstrating that its power draw will not destabilize the grid. Peak demand charges and time-of-use rates are regulated; the company cannot freely shift its power consumption to avoid charges. In some states, buying renewable power through power purchase agreements (PPAs) requires regulatory approval or notarization of the contract. Conversely, utilities in competitive markets may require Edgemode to procure from deregulated energy markets, exposing the company to price volatility and supplier insolvency risk.
+Data centers are electricity-intensive. Edgemode must negotiate long-term power supply agreements with local utilities. These contracts often fall under state utility commission jurisdiction. The company may need to file interconnection applications, demonstrating that its power draw will not destabilize the grid. Peak demand charges and time-of-use rates are regulated; the company cannot freely shift its power consumption to avoid charges. In some states, buying renewable power through [power purchase agreements](/power-purchase-agreement/) (PPAs) requires regulatory approval or notarization of the contract. Conversely, utilities in competitive markets may require Edgemode to procure from deregulated energy markets, exposing the company to price volatility and supplier insolvency risk.
 
 ## Environmental Permits for Emissions and Water
 

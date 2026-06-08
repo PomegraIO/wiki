@@ -52,7 +52,7 @@ Stablecoins depend crucially on maintaining confidence in the peg. If users lose
 
 Regulatory risk is significant. Governments and financial regulators worldwide are developing rules for stablecoins and crypto assets. Some jurisdictions may impose capital requirements on stablecoin issuers, restrict who can hold or trade stablecoins, or require stablecoin creators to obtain banking licenses or meet banking capital standards. Changes in regulation could materially affect StableCoinX's operations or the demand for USDE.
 
-Smart-contract risk is another consideration. The protocol runs on blockchain code (smart contracts) that automate the creation, staking, and collateral-management functions. Bugs or exploits in that code could allow users to drain collateral, manipulate the protocol, or break the peg. While most major protocols undergo security audits, vulnerabilities can persist and be discovered after launch.
+Smart-contract risk is another consideration. The protocol runs on blockchain code ([smart contracts](/smart-contract/)) that automate the creation, staking, and collateral-management functions. Bugs or exploits in that code could allow users to drain collateral, manipulate the protocol, or break the peg. While most major protocols undergo security audits, vulnerabilities can persist and be discovered after launch.
 
 The staking-reward model creates its own risk: if the protocol's revenue declines, staking rewards fall, making USDE less attractive, reducing demand, and potentially destabilizing the peg. The protocol must balance distributing attractive staking rewards with maintaining conservative financial management and adequate reserves.
 

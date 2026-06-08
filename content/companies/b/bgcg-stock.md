@@ -45,6 +45,6 @@ The fund's [expense ratio](/expense-ratio/) is published transparently and cover
 
 ## Evaluating the fund
 
-Investors should review the fund's prospectus and fact sheet for the current holdings and fee structure, then examine quarterly reports where managers explain their investment theses for each position. Because the fund is actively managed, the relevant question is whether the team has demonstrated skill at picking international growth stocks over full market cycles and whether that approach is built into a durable process rather than dependent on a single manager.
+Investors should review the fund's prospectus and fact sheet for the current holdings and fee structure, then examine quarterly reports where managers explain their investment theses for each position. Because the fund is actively managed, the relevant question is whether the team has demonstrated skill at picking international growth stocks over full [market cycles](/market-cycle/) and whether that approach is built into a durable process rather than dependent on a single manager.
 
 Comparing the fund's long-term returns to the MSCI ACWI ex USA index (the traditional benchmark for international ex-US investing) and to peer active managers provides context. Given the fund's long-dated philosophy and concentration, it suits investors comfortable trusting a specific team's judgment and planning to hold for years rather than trading around short-term volatility.

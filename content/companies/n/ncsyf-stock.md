@@ -32,7 +32,7 @@ Management discloses the revenue concentration, but the issue is not going away.
 
 ## Integration and indigestion
 
-NICE grows partly through organic subscription expansion and partly through acquisition. The company has bought several complementary vendors over the past decade, each integration adding new product lines and customer bases but also introducing engineering complexity and the perpetual risk of cultural or technical misalignment. Integration done carelessly bleeds revenue—customers bought for a feature that never quite works, or that gets buried under the weight of a larger product. Done well, acquisitions become the foundation of the next leg of growth. The execution risk is real.
+NICE grows partly through organic subscription expansion and partly through acquisition. The company has bought several complementary vendors over the past decade, each integration adding new product lines and customer bases but also introducing engineering complexity and the perpetual risk of cultural or technical misalignment. Integration done carelessly bleeds revenue—customers bought for a feature that never quite works, or that gets buried under the weight of a larger product. Done well, acquisitions become the foundation of the next leg of growth. The [execution risk](/execution-risk/) is real.
 
 ## The landscape and the moat
 

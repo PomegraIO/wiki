@@ -39,7 +39,7 @@ Motorcar Parts is dependent on suppliers for finished parts or components that i
 
 ## The Used-Vehicle Market Signal
 
-Used vehicle prices and availability provide forward signals for repair demand. When used vehicle prices are high and inventory is tight, consumers hold existing vehicles longer because replacement cost is prohibitive. This boosts repair spending and benefits Motorcar Parts. When used vehicle prices collapse and inventory normalizes, consumers shift back to replacement, reducing repair demand. The company's management must monitor used vehicle market trends as a leading indicator of demand.
+Used vehicle prices and availability provide forward signals for repair demand. When used vehicle prices are high and inventory is tight, consumers hold existing vehicles longer because replacement cost is prohibitive. This boosts repair spending and benefits Motorcar Parts. When used vehicle prices collapse and inventory normalizes, consumers shift back to replacement, reducing repair demand. The company's management must monitor used vehicle market trends as a [leading indicator](/leading-indicator/) of demand.
 
 ## Distribution Channel and Retail Dynamics
 

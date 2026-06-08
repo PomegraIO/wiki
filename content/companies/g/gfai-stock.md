@@ -21,7 +21,7 @@ Guardforce's balance sheet is atypical for an AI company because it carries the 
 
 Associated with hardware manufacturing are [accounts payable](/accounts-payable/) to suppliers of components: camera manufacturers, battery suppliers, electronic control boards, chassis vendors. These payables represent leverage—the company takes delivery of components before paying for them—but the terms are limited by the company's size and bargaining power relative to global component suppliers.
 
-Property, plant, and equipment includes assembly facilities or warehouse space where robots are tested, packed, and stored. These fixed assets are depreciated, creating a non-cash drag on reported earnings even if the company is reducing its manufacturing footprint or consolidating facilities. The balance sheet does not easily reveal the true operational efficiency of these assets; that requires analysis of revenue per square foot of manufacturing space or cost-per-unit-produced, both of which must be gleaned from the 10-K narrative or disclosures.
+[Property, plant, and equipment](/property-plant-equipment/) includes assembly facilities or warehouse space where robots are tested, packed, and stored. These fixed assets are depreciated, creating a non-cash drag on reported earnings even if the company is reducing its manufacturing footprint or consolidating facilities. The balance sheet does not easily reveal the true operational efficiency of these assets; that requires analysis of revenue per square foot of manufacturing space or cost-per-unit-produced, both of which must be gleaned from the 10-K narrative or disclosures.
 
 ## Accounts Receivable and Payment Terms
 
@@ -33,7 +33,7 @@ The aging of receivables (disclosed in the 10-K) reveals customer payment discip
 
 Guardforce likely carries both short-term debt (credit lines or revolving facilities to fund inventory and operations) and longer-term debt from private investors, venture funds, or other structured financings. Chinese technology companies that access U.S. capital markets face scrutiny around debt structure and the true location of assets and liabilities; the balance sheet may obscure related-party lending, contingent obligations, or regulatory restrictions on capital movement.
 
-Convertible debt—borrowed funds that the creditor can convert into [common stock](/common-stock/) under certain conditions—is common for pre-profitable tech companies. The balance sheet shows this as "convertible notes payable," a hybrid liability that could become equity if conversion occurs. This structure is favorable to the company (lower [interest rates](/interest-rate/) than straight debt) but dilutive to existing shareholders if the conversion happens.
+Convertible debt—borrowed funds that the creditor can convert into [common stock](/common-stock/) under certain conditions—is common for pre-profitable tech companies. The balance sheet shows this as "[convertible notes](/convertible-notes/) payable," a hybrid liability that could become equity if conversion occurs. This structure is favorable to the company (lower [interest rates](/interest-rate/) than straight debt) but dilutive to existing shareholders if the conversion happens.
 
 The company's credit profile is weak given the lack of operating cash flow, so any [external debt](/external-debt/) carries high interest rates and likely includes financial covenants (minimum cash balances, maximum debt-to-revenue ratios, etc.). Covenant violations can trigger accelerated repayment or default, creating existential risk.
 
@@ -51,7 +51,7 @@ Patents or proprietary algorithms are defensive but may be less durable in robot
 
 ## Revenue Recognition and Contract Assets
 
-If Guardforce has signed multi-year service contracts or installed systems with deferred revenue tied to maintenance and monitoring, the balance sheet will show "deferred revenue" as a liability—cash collected upfront but not yet earned. This is a favorable working capital position (cash before [revenue recognition](/revenue-recognition/)) and provides visibility into future cash. The size and growth of deferred revenue is a key indicator of contract wins and customer commitment.
+If Guardforce has signed multi-year service contracts or installed systems with [deferred revenue](/deferred-revenue/) tied to maintenance and monitoring, the balance sheet will show "deferred revenue" as a liability—cash collected upfront but not yet earned. This is a favorable working capital position (cash before [revenue recognition](/revenue-recognition/)) and provides visibility into future cash. The size and growth of deferred revenue is a key indicator of contract wins and customer commitment.
 
 Conversely, if customers are financing purchases through leases or rent-to-own arrangements, Guardforce may have "[operating lease](/operating-lease/) assets" and corresponding lease liabilities, the accounting treatment of long-term rental contracts. A customer's inability or unwillingness to pay lease installments directly impacts cash flow.
 

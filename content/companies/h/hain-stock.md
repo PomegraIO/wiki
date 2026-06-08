@@ -49,7 +49,7 @@ HAIN's recent history includes divesting underperforming brands and rationalizin
 
 ## Debt and Private Label Risk
 
-HAIN carries debt on its balance sheet, often incurred during acquisitions. The 10-K discloses outstanding debt, maturity profile, and covenants. High leverage constrains financial flexibility and raises [refinancing risk](/refinancing-risk/) in weak markets. Retail private-label competition is an ever-present threat: major retailers develop own-brand equivalents to premium brands like HAIN's and shelf space away from premium brands to cheaper private label. The 10-K notes the retailer mix and price positioning relative to private label, a key factor in sustainable profitability.
+HAIN carries debt on its balance sheet, often incurred during acquisitions. The 10-K discloses outstanding [debt, maturity profile](/debt-maturity-profile/), and covenants. High leverage constrains financial flexibility and raises [refinancing risk](/refinancing-risk/) in weak markets. Retail private-label competition is an ever-present threat: major retailers develop own-brand equivalents to premium brands like HAIN's and shelf space away from premium brands to cheaper private label. The 10-K notes the retailer mix and price positioning relative to private label, a key factor in sustainable profitability.
 
 ## Segment Breakdown and Geographic Exposure
 

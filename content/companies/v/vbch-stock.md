@@ -16,7 +16,7 @@ The Vanguard Target Maturity 2034 [Corporate Bond](/corporate-bond/) ETF (VBCH) 
 
 ## The evolution of bond-fund thinking
 
-For decades, the bond-fund industry operated on a simple model: create a fund that tracks a broad, rolling [bond](/bond/) index and hold it indefinitely. The flagship indices — Bloomberg US Aggregate Bond Index, Bloomberg US Corporate Bond Index — constantly rotate their holdings, shedding maturing bonds and buying new ones to maintain a consistent risk profile. Funds following these indices offer continuous income and [diversification](/diversification/) across the bond market, and they work well for investors with indefinite time horizons.
+For decades, the bond-fund industry operated on a simple model: create a fund that tracks a broad, rolling [bond](/bond/) index and hold it indefinitely. The flagship indices — [Bloomberg US Aggregate Bond Index](/bloomberg-aggregate-bond-index/), Bloomberg US Corporate Bond Index — constantly rotate their holdings, shedding maturing bonds and buying new ones to maintain a consistent risk profile. Funds following these indices offer continuous income and [diversification](/diversification/) across the bond market, and they work well for investors with indefinite time horizons.
 
 But many investors do not have indefinite time horizons. A retiree knows she will need to spend money in 2034. A college parent knows tuition is due in 2034. A business knows a major capital expenditure is planned for 2034. For these investors, a rolling bond fund is awkward. They can buy it, but its maturity profile will drift constantly — bonds they bought for 2034 delivery will age past that date, requiring them to rotate into shorter-duration holdings to stay on track.
 
@@ -44,7 +44,7 @@ This shrinkage has costs and consequences. The fund becomes less liquid as its a
 
 In VBCH's early years, interest-rate risk was the dominant force. A one percent increase in yields could knock five percent off the fund's value. Credit risk existed but felt abstract; the bonds seemed far from maturity.
 
-Today, with 2034 a few years away, the math has flipped. Interest-rate sensitivity is minimal. The fund's price barely moves if yields shift, because the cash flows are imminent. Credit risk, by contrast, has become more pressing. Companies have fewer years to stumble. A [recession](/recession/) in 2033 or early 2034 could force some issuers into distress just as they need to repay. However, the concentrated maturity window also means that the fund escapes broader market cycles; it is isolated to the risks specific to the 2034 timeframe.
+Today, with 2034 a few years away, the math has flipped. Interest-rate sensitivity is minimal. The fund's price barely moves if yields shift, because the cash flows are imminent. Credit risk, by contrast, has become more pressing. Companies have fewer years to stumble. A [recession](/recession/) in 2033 or early 2034 could force some issuers into distress just as they need to repay. However, the concentrated maturity window also means that the fund escapes broader [market cycles](/market-cycle/); it is isolated to the risks specific to the 2034 timeframe.
 
 ## How an investor would use VBCH today
 

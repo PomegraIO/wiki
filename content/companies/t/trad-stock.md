@@ -35,7 +35,7 @@ The quality of the board and the track record of the sponsor team matters enormo
 
 ## How a business combination works
 
-When APEX identifies a target and negotiates terms, the company files a proxy statement with the SEC. That document includes detailed financial projections for the target, a valuation analysis, and terms of the merger agreement. Public shareholders vote on whether to approve the combination. Many SPAC deals have failed at the shareholder vote because public shareholders voted to redeem their shares, objecting to the purchase price or the quality of the target.
+When APEX identifies a target and negotiates terms, the company files a [proxy statement](/proxy-statement/) with the SEC. That document includes detailed financial projections for the target, a valuation analysis, and terms of the merger agreement. Public shareholders vote on whether to approve the combination. Many SPAC deals have failed at the shareholder vote because public shareholders voted to redeem their shares, objecting to the purchase price or the quality of the target.
 
 If the merger is approved, APEX's ordinary shares and the target's shares are combined into a new company under a unified equity structure. The combined entity inherits APEX's NYSE listing and begins trading under a new ticker (or the target's existing ticker if the target was already public).
 
@@ -59,4 +59,4 @@ SPAC investments are high risk and high reward. A successful acquisition of a st
 
 But SPAC investment is also where overpayment happens routinely. Targets are often valued at venture-capital prices — high multiples based on aggressive growth assumptions — even though they are entering a lower-liquidity, higher-scrutiny public market. When actual results lag the projections baked into the purchase price, public shareholders suffer.
 
-The key to SPAC investing is doing thorough due diligence on the target, understanding the valuation, and being willing to vote "no" if the deal does not make sense. Redemption is a feature, not a bug — it is the public shareholder's protection against a bad acquisition.
+The key to SPAC investing is doing thorough [due diligence](/due-diligence/) on the target, understanding the valuation, and being willing to vote "no" if the deal does not make sense. Redemption is a feature, not a bug — it is the public shareholder's protection against a bad acquisition.

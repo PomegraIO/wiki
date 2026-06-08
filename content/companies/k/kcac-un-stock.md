@@ -33,7 +33,7 @@ The value Kensington brings beyond capital is access to public markets and the e
 
 ## The execution risk and the timeline
 
-The stated 24-month timeline creates pressure — Kensington has less than two years to identify a target, negotiate terms, secure shareholder votes, and clear regulatory approvals. The founders have credibility and industry connections that should yield viable opportunities, but execution risk is real. Many SPACs struggle to find attractive targets at reasonable valuations, leading to either abandoned searches or mergers completed at unfavourable terms just to meet the deadline.
+The stated 24-month timeline creates pressure — Kensington has less than two years to identify a target, negotiate terms, secure shareholder votes, and clear regulatory approvals. The founders have credibility and industry connections that should yield viable opportunities, but [execution risk](/execution-risk/) is real. Many SPACs struggle to find attractive targets at reasonable valuations, leading to either abandoned searches or mergers completed at unfavourable terms just to meet the deadline.
 
 The automotive and mobility sector offers a large pool of potential targets — electric-vehicle startups, battery-tech companies, autonomous-driving software firms, charging infrastructure operators — but finding the right fit at the right valuation requires disciplined capital allocation and accurate assessment of market potential and management quality.
 

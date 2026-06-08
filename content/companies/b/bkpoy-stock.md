@@ -60,7 +60,7 @@ Polish economic growth has been relatively strong compared to Western Europe, dr
 
 ## Capital adequacy and regulatory constraints
 
-Like all major banks, Pekao is subject to minimum capital requirements. The bank must maintain a certain percentage of its assets as capital (shareholders' equity) to absorb losses. This constraint limits how much profit the bank can return to shareholders — regulators prefer that banks retain earnings and build capital buffers rather than pay out all earnings as [dividends](/dividend/). Pekao's dividend policy is shaped by these regulatory constraints.
+Like all major banks, Pekao is subject to minimum capital requirements. The bank must maintain a certain percentage of its assets as capital ([shareholders' equity](/shareholders-equity/)) to absorb losses. This constraint limits how much profit the bank can return to shareholders — regulators prefer that banks retain earnings and build capital buffers rather than pay out all earnings as [dividends](/dividend/). Pekao's dividend policy is shaped by these regulatory constraints.
 
 ## Risks and pressures
 
@@ -76,4 +76,4 @@ Regulatory changes (including potential rules around digital assets or open bank
 
 Start with the company's [annual report](/10-k/) and 20-F filing (SEC CIK 0002075877). Monitor net interest margin trends, loan-loss provisions, and credit quality metrics (non-performing loan ratios, coverage ratios). Watch the trajectory of mortgage originations and corporate loan volumes — these drive future interest income.
 
-Key metrics include [return on equity](/return-on-equity/) (how much profit the bank generates per dollar of shareholder equity), the loan-to-deposit ratio (whether the bank is growing lending faster than deposits), and the capital ratio (how much cushion the bank has above regulatory minimums). Monitor Polish economic data (GDP growth, unemployment, [inflation](/inflation/)) as a leading indicator of credit quality and lending demand. Track changes in ECB monetary policy and Polish government policies, as both affect the bank's profitability and competitive position.
+Key metrics include [return on equity](/return-on-equity/) (how much profit the bank generates per dollar of shareholder equity), the loan-to-deposit ratio (whether the bank is growing lending faster than deposits), and the capital ratio (how much cushion the bank has above regulatory minimums). Monitor Polish economic data (GDP growth, unemployment, [inflation](/inflation/)) as a [leading indicator](/leading-indicator/) of credit quality and lending demand. Track changes in ECB monetary policy and Polish government policies, as both affect the bank's profitability and competitive position.

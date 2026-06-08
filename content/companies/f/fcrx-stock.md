@@ -26,7 +26,7 @@ The BDC market is crowded. Ares, Blackstone, Apollo, Carlyle, and other mega-cap
 
 Crescent's stated competitive edge is origination and relationship depth — its credit team sources deals from small private-equity firms, family offices, and company founders who need capital to finance [acquisitions](/acquisition/), [management buyouts](/management-buyout/), or working-capital needs. The firm competes by moving faster than larger peers who have more committee layers, and by deploying local market knowledge (Crescent was founded in Los Angeles and has deep California roots) to understand borrowers' actual business health rather than relying solely on financial models.
 
-This works until it doesn't. When the credit cycle turns, a BDC's loan portfolio deteriorates, losses mount, and the dividend suffers. Crescent faces the same cycle risk as every other BDC — its competitive advantages in origination and underwriting are no defense against a [recession](/recession/) where the small and private companies it lends to struggle to service debt.
+This works until it doesn't. When the [credit cycle](/credit-cycle/) turns, a BDC's loan portfolio deteriorates, losses mount, and the dividend suffers. Crescent faces the same cycle risk as every other BDC — its competitive advantages in origination and underwriting are no defense against a [recession](/recession/) where the small and private companies it lends to struggle to service debt.
 
 ## The return equation and hidden leverage risk
 

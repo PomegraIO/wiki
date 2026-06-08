@@ -35,7 +35,7 @@ USAC has produced antimony products since 1969, operating in a low-margin, commo
 
 In December 2024, China announced restrictions on the export of critical minerals, including antimony, to the United States and allied countries. The stated rationale was national security; the effect was immediate. U.S. manufacturers dependent on antimony imports faced the prospect of supply disruption. The U.S. Department of Defence, which relies on antimony for ammunition and ordnance, faced the same problem. Suddenly, USAC's existence became strategically important.
 
-Within weeks, the Defence Logistics Agency (DLA), the Pentagon's supply agency, awarded USAC an Indefinite Delivery / Indefinite Quantity (IDIQ) contract worth up to $245 million to produce antimony metal ingots for the U.S. strategic stockpile. This was a sole-source contract, meaning no competitive bidding—USAC was the only domestic source capable of meeting the specification. The contract transformed USAC from a low-margin commodity player into a government contractor with a long-term, high-value revenue stream.
+Within weeks, the Defence Logistics Agency (DLA), the Pentagon's supply agency, awarded USAC an Indefinite Delivery / Indefinite Quantity (IDIQ) contract worth up to $245 million to produce antimony metal ingots for the U.S. [strategic stockpile](/strategic-stockpile/). This was a sole-source contract, meaning no competitive bidding—USAC was the only domestic source capable of meeting the specification. The contract transformed USAC from a low-margin commodity player into a government contractor with a long-term, high-value revenue stream.
 
 ## Mining restart and capacity expansion
 

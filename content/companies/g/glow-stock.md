@@ -48,6 +48,6 @@ GLOW suits long-term investors seeking global diversification without needing to
 
 To research the fund, start with the prospectus and fact sheet, which detail the selection methodology and current holdings. Look at the top 10 positions to get a sense of the types of companies the fund favors — multinational technology firms, industrial leaders, consumer brands, and financial services typically predominate in quality strategies.
 
-Compare GLOW's expense ratio against other global [equity ETFs](/equity-etf/) to ensure the cost is reasonable for the strategy. Examine the fund's trailing performance relative to a global equity benchmark like the MSCI World Index; remember that quality tilts produce periods of outperformance and underperformance, so a single year's returns tell less than a five- or ten-year comparison.
+Compare GLOW's expense ratio against other global [equity ETFs](/equity-etf/) to ensure the cost is reasonable for the strategy. Examine the fund's trailing performance relative to a global equity benchmark like the [MSCI World Index](/msci-world-index/); remember that quality tilts produce periods of outperformance and underperformance, so a single year's returns tell less than a five- or ten-year comparison.
 
 Monitor the fund's geographic allocation and sector weights; if those drift too far from your own views of market opportunity, or if a major economy (such as China) represents too large a share for your comfort, that would warrant consideration of alternative funds with different strategic tilts.

@@ -24,7 +24,7 @@ handwritten: true
 
 ---
 
-Leverage Shares, a UK provider of leveraged and [inverse ETFs](/inverse-etf/), built HUTG to deliver twice the daily percentage change of [Hut 8](/hut-stock/) Mining, a Canadian publicly traded [Bitcoin](/bitcoin/) miner. Like all leveraged daily-reset products, HUTG is engineered for short-term tactical trades — a trader betting HUT will rise 3% to 5% over the next two days might buy HUTG to target a 6% to 10% move. It is explicitly not designed for buy-and-hold investing.
+Leverage Shares, a UK provider of leveraged and [inverse ETFs](/inverse-etf/), built HUTG to deliver twice the daily percentage change of [Hut 8](/hut-stock/) Mining, a Canadian publicly traded [Bitcoin](/bitcoin/) miner. Like all leveraged daily-reset products, HUTG is engineered for short-term tactical trades — a trader betting HUT will rise 3% to 5% over the next two days might buy HUTG to target a 6% to 10% move. It is explicitly not designed for [buy-and-hold investing](/buy-and-hold/).
 
 ## The underlying: Hut 8 Mining
 

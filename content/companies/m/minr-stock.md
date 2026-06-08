@@ -16,7 +16,7 @@ keywords: ["gold developer", "mineral property", "project development", "CIK 185
 
 ## The Transition from Exploration to Development
 
-Minerva's narrative in its [10-k](/10-k/) differs materially from pure explorers. The company has moved past resource definition into feasibility and permitting—the phase where geological certainty is higher but regulatory risk, capital need, and management execution risk become paramount. Each project that Minerva advances toward production must clear multiple gates: environmental review (including water and tailings impact), community engagement, government permitting, and project financing.
+Minerva's narrative in its [10-k](/10-k/) differs materially from pure explorers. The company has moved past resource definition into feasibility and permitting—the phase where geological certainty is higher but regulatory risk, capital need, and management [execution risk](/execution-risk/) become paramount. Each project that Minerva advances toward production must clear multiple gates: environmental review (including water and tailings impact), community engagement, government permitting, and project financing.
 
 The company's 10-K and 10-Q filings disclose the status of each property against these gates. A reader searching Minerva's [securities-and-exchange-commission](/securities-and-exchange-commission/) submissions (CIK 1854816) will find:
 - Updated resource and reserve estimates (shifting from "inferred" toward "indicated" or "measured" as drilling intensifies)

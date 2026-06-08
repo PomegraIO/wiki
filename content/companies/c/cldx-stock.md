@@ -31,7 +31,7 @@ The secular trajectory of oncology spending is upward. Aging populations increas
 
 Celldex's value hinges on pipeline architecture: the company must identify promising targets, conduct rigorous clinical trials, and win regulatory approval. Each of these stages is secular—not a function of [business cycles](/business-cycle/) but of scientific progress and regulatory judgment. A Phase 2 trial's data readout does not accelerate because the Fed raises rates. An FDA approval decision does not depend on CPI readings.
 
-The company faces a secular risk: that its immunotherapy approaches, while scientifically reasonable, prove ineffective or unsafe in humans, or that the manufacturing or formulation proves intractable at commercial scale. These are technology risks and execution risks, not economic risks. A company that stumbles on a scalable, efficacious approach has structural upside; one that does not has downside, independent of whether the broader economy is contracting or expanding.
+The company faces a secular risk: that its immunotherapy approaches, while scientifically reasonable, prove ineffective or unsafe in humans, or that the manufacturing or formulation proves intractable at commercial scale. These are [technology risks](/technology-risk/) and [execution risks](/execution-risk/), not economic risks. A company that stumbles on a scalable, efficacious approach has structural upside; one that does not has downside, independent of whether the broader economy is contracting or expanding.
 
 ## Earnings Volatility from R&D Pace
 

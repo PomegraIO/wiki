@@ -24,7 +24,7 @@ handwritten: true
 </table>
 </aside>
 
-Grayscale XRP Trust ETF is a Delaware statutory trust formed to hold XRP, the digital asset associated with the Ripple blockchain, and to allow investors to gain cryptocurrency exposure through their conventional brokerage accounts. The fund is entirely passive, holding XRP directly rather than through derivatives or leveraged positions. Upon its uplisting to NYSE Arca on 24 November 2025, it became one of the newest entrants in a wave of cryptocurrency spot trusts seeking to democratise access to digital assets without requiring users to operate digital wallets or use [cryptocurrency exchanges](/cryptocurrency-exchange/).
+Grayscale XRP Trust ETF is a Delaware statutory trust formed to hold XRP, the digital asset associated with the Ripple blockchain, and to allow investors to gain cryptocurrency exposure through their conventional brokerage accounts. The fund is entirely passive, holding XRP directly rather than through derivatives or leveraged positions. Upon its uplisting to [NYSE Arca](/nyse-arca/) on 24 November 2025, it became one of the newest entrants in a wave of cryptocurrency spot trusts seeking to democratise access to digital assets without requiring users to operate digital wallets or use [cryptocurrency exchanges](/cryptocurrency-exchange/).
 
 ## The cryptocurrency trust model
 
@@ -42,7 +42,7 @@ The underlying asset's value depends on whether participants in the Ripple ecosy
 
 Grayscale charges a [management fee](/management-fee/) to cover the trust's operations and the sponsor's services. As with all investments in tradeable funds, the investor also bears the [bid-ask spread](/bid-ask-spread/) when buying or selling shares on the exchange. For investors seeking cryptocurrency exposure without direct custody, the annual fee plus trading costs are trade-offs against the convenience of buying and selling within a regular brokerage account.
 
-Other cryptocurrency spot trusts and ETFs have emerged in the same window, including 21Shares' XRP ETF and competitors for Bitcoin and Ethereum. The competition drives fee pressure — newer entrants often price aggressively to attract assets and establish a foothold. The long-term viability of any single trust depends on whether it can build an asset base sufficient to cover fixed costs and whether the underlying cryptocurrency retains investor interest and utility over time.
+Other cryptocurrency spot trusts and ETFs have emerged in the same window, including [21Shares' XRP ETF](/toxr-stock/) and competitors for Bitcoin and Ethereum. The competition drives fee pressure — newer entrants often price aggressively to attract assets and establish a foothold. The long-term viability of any single trust depends on whether it can build an asset base sufficient to cover fixed costs and whether the underlying cryptocurrency retains investor interest and utility over time.
 
 ## Research and risk considerations
 

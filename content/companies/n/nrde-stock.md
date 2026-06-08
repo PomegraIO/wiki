@@ -12,7 +12,7 @@ handwritten: true
 
 Nu Ride Inc. (OTCMKTS: NRDE) is a publicly reporting shell company with no revenue-generating operations, trading on the OTC markets. The company emerged from bankruptcy in March 2024 and exists primarily to identify, evaluate, and pursue acquisition opportunities or [business combinations](/business-combination-purchase/) that would bring operating assets and revenue back into the corporate vehicle.
 
-The path to Nu Ride's current status reflects the volatility of the electric vehicle sector during an unfavourable market cycle. The company's predecessor entity was engaged in the manufacture and sale of the Endurance, an electric full-size pickup truck aimed at the commercial market. That EV manufacturing operation encountered capital constraints and operational challenges that led to bankruptcy proceedings. Rather than liquidate entirely, the company restructured as a publicly reporting shell, preserving the regulatory infrastructure and public listing that could facilitate future [acquisitions](/acquisition/).
+The path to Nu Ride's current status reflects the volatility of the electric vehicle sector during an unfavourable [market cycle](/market-cycle/). The company's predecessor entity was engaged in the manufacture and sale of the Endurance, an electric full-size pickup truck aimed at the commercial market. That EV manufacturing operation encountered capital constraints and operational challenges that led to bankruptcy proceedings. Rather than liquidate entirely, the company restructured as a publicly reporting shell, preserving the regulatory infrastructure and public listing that could facilitate future [acquisitions](/acquisition/).
 
 ## The shell and the opportunity
 

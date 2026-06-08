@@ -54,7 +54,7 @@ SPAC units typically include a warrant—the right to buy additional shares at a
 
 ## Reading the SEC Filings
 
-For a pre-merger SPAC like BCAR (if it has not yet closed an acquisition), start with the prospectus filed with the SEC, which outlines the SPAC's criteria and sponsor team. As soon as a merger announcement is made, read the proxy statement (filed on Schedule 424B5 or similar) disclosing the target and merger terms. If a de-SPAC has already closed, treat BCAR as a normal operating company and analyze its [10-K](/10-k/) and [earnings](/earnings-per-share/) reports.
+For a pre-merger SPAC like BCAR (if it has not yet closed an acquisition), start with the prospectus filed with the SEC, which outlines the SPAC's criteria and sponsor team. As soon as a merger announcement is made, read the [proxy statement](/proxy-statement/) (filed on Schedule 424B5 or similar) disclosing the target and merger terms. If a de-SPAC has already closed, treat BCAR as a normal operating company and analyze its [10-K](/10-k/) and [earnings](/earnings-per-share/) reports.
 
 ## SPAC Performance and Market Sentiment
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-QTEXW represents warrants—that is, options to purchase shares of [Inspira Technologies OXY B.H.N](/qtex-stock/). Ltd at a predetermined price over a defined period. They are not shares. They are derivative contracts that amplify exposure to the underlying stock and carry higher risk.
+QTEXW represents warrants—that is, options to purchase shares of [Inspira Technologies OXY B.H.N](/qtex-stock/). Ltd at a predetermined price over a defined period. They are not shares. They are [derivative contracts](/derivative-contract/) that amplify exposure to the underlying stock and carry higher risk.
 
 ## The warrant structure and mechanics
 
@@ -59,6 +59,6 @@ Warrants have [expiration dates](/expiration-contracts/). As expiration approach
 
 ## How to research Inspira warrants
 
-Start with Inspira's SEC filings (CIK 0001837493) to understand burn rate, cash on hand, and cash runway. Read the prospectus or proxy statement that describes the warrant terms (strike price, [expiration date](/expiration-date/), how many shares one warrant can be exchanged for). Monitor press releases and news for clinical trial progress, regulatory feedback, or capital-raise announcements. Watch the underlying stock price relative to the warrant strike price to understand how far in or out of the money the warrants are.
+Start with Inspira's SEC filings (CIK 0001837493) to understand burn rate, cash on hand, and cash runway. Read the prospectus or [proxy statement](/proxy-statement/) that describes the warrant terms (strike price, [expiration date](/expiration-date/), how many shares one warrant can be exchanged for). Monitor press releases and news for clinical trial progress, regulatory feedback, or capital-raise announcements. Watch the underlying stock price relative to the warrant strike price to understand how far in or out of the money the warrants are.
 
 Understand that warrant holders are not investors in a business—they are options traders betting on price movement. The fundamentals that matter for Inspira shares (product viability, regulatory progress, market adoption) matter for warrants too, but with additional leverage and [time decay](/time-decay-theta/). An investor in QTEXW should treat it as a speculative, short-dated bet on a medical-device company that has not yet proven commercial viability.

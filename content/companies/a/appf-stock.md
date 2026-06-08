@@ -33,7 +33,7 @@ Beyond the base software, AppFolio generates ancillary revenue from value-added 
 
 ## Scale and Switching Costs
 
-AppFolio operates in a fragmented market where many property managers still rely on spreadsheets or aging on-premise systems. The company has built substantial switching costs: once a property management operation standardizes on AppFolio's workflows, migrating to a competitor requires staff retraining, data migration, and operational disruption. As of early 2026, the platform manages over 9 million units—rent-paying properties and tenant relationships under its system—with growth continuing. This large and growing installed base creates predictable revenue expansion and pricing power.
+AppFolio operates in a [fragmented market](/fragmented-market/) where many property managers still rely on spreadsheets or aging on-premise systems. The company has built substantial switching costs: once a property management operation standardizes on AppFolio's workflows, migrating to a competitor requires staff retraining, data migration, and operational disruption. As of early 2026, the platform manages over 9 million units—rent-paying properties and tenant relationships under its system—with growth continuing. This large and growing installed base creates predictable revenue expansion and pricing power.
 
 The company positions itself as an industry standard, bundling formerly separate functions into one integrated platform. Professional property managers, mid-market operators, and some institutional landlords all use the software, though the most reliable customer base is professional management firms bound by operational consistency and regulatory compliance.
 

@@ -28,7 +28,7 @@ The fund makes additional money on trades. If a bond in the portfolio rises in p
 
 ## Risks and the closed-end structure
 
-The largest risk is the same one all bond funds face: if interest rates rise, the market value of existing bonds falls. An investor holding until maturity still gets their principal back, but a fund that needs to meet redemptions or that marks securities to market value on monthly statements faces real losses. When rates have risen sharply (as they have in recent years), many municipal bond funds trade at steep discounts to their net asset value — meaning a shareholder can buy the fund at a discount to the bonds it owns, which is mathematically attractive but only if the fund itself survives and bonds eventually repay.
+The largest risk is the same one all bond funds face: if interest rates rise, the market value of existing bonds falls. An investor holding until maturity still gets their principal back, but a fund that needs to meet redemptions or that marks securities to market value on monthly statements faces real losses. When rates have risen sharply (as they have in recent years), many [municipal bond funds](/municipal-bond-fund/) trade at steep discounts to their net asset value — meaning a shareholder can buy the fund at a discount to the bonds it owns, which is mathematically attractive but only if the fund itself survives and bonds eventually repay.
 
 Another risk is credit — what if a New York municipality or hospital faces a genuine fiscal crisis and cannot repay? Historically this has been rare in New York, but it is not impossible. The fund tries to limit this by holding investment-grade bonds and by diversifying across many issuers.
 

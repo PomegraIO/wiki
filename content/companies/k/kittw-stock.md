@@ -37,7 +37,7 @@ Subsea robotics is capital-intensive. Building an Aquanaut robot costs millions 
 
 The customer base is concentrated. Nauticus's addressable market is the set of companies operating subsea infrastructure. The largest customers are multinational oil and gas companies and renewable energy developers with offshore wind farms. This concentration means that economic downturns in those industries—or a single major customer cutting spending—directly impact Nauticus's revenue. The company is also exposed to long sales cycles; selling a multi-million-dollar deep-water inspection contract takes months of negotiation and proposal work.
 
-Competitors include larger offshore services firms with established robotics divisions and specialized deepwater operators with decades of experience. Nauticus's advantage is newer technology and deployment models, but execution risk and unproven reliability at scale can matter more than technical sophistication to a customer betting millions on mission-critical subsea work.
+Competitors include larger offshore services firms with established robotics divisions and specialized deepwater operators with decades of experience. Nauticus's advantage is newer technology and deployment models, but [execution risk](/execution-risk/) and unproven reliability at scale can matter more than technical sophistication to a customer betting millions on mission-critical subsea work.
 
 ### Where does Nauticus operate geographically?
 
@@ -57,7 +57,7 @@ The U.S. military and intelligence community interest in autonomous underwater s
 
 The primary risk is that Nauticus's technology and operational model may not scale economically. The company must add more robots and more teams to grow revenue, which increases fixed costs. If margins on subsea contracts remain thin or if customers increasingly prefer to own and operate their own robots rather than hire Nauticus, the growth strategy falters. The company is also betting on the durability of demand for deepwater subsea services at a time when the industry is in flux, with oil declining and renewables still in their infancy.
 
-Technology risk is real as well. Subsea robotics is evolving, and competitors or new entrants might develop robots that are cheaper, more reliable, or capable of more complex tasks. Nauticus's Aquanaut is impressive, but deepwater robotics is not a winner-take-all market; multiple providers can coexist if they serve different niches.
+[Technology risk](/technology-risk/) is real as well. Subsea robotics is evolving, and competitors or new entrants might develop robots that are cheaper, more reliable, or capable of more complex tasks. Nauticus's Aquanaut is impressive, but deepwater robotics is not a winner-take-all market; multiple providers can coexist if they serve different niches.
 
 ### How to research Nauticus
 

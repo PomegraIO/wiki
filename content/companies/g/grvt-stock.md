@@ -21,7 +21,7 @@ A holding company is a legal wrapper and financial abstraction: it owns stock or
 
 GreenVector's value proposition rests on this premise: that it holds a portfolio of assets that generate resilient, diversified returns. If executed well, the company's earnings are less cyclical than those of a pure-play industrial operator. Downturns in one sector are offset by stability or upside in another. Over cycles, the holding structure captures value that specialty operators forfeit.
 
-This is a structural, secular argument: holding companies work better than pure plays over full market cycles. Yet the execution—which assets are held, how they move in tandem—is acutely cyclical and dependent on management decisions.
+This is a structural, secular argument: holding companies work better than pure plays over full [market cycles](/market-cycle/). Yet the execution—which assets are held, how they move in tandem—is acutely cyclical and dependent on management decisions.
 
 ## When Diversification Fails: Correlation in Downturns
 
@@ -33,7 +33,7 @@ This is a cyclical exposure that cannot be engineered away: it is inherent to ca
 
 ## The Tax and Fee Drag: Structural Weakness
 
-Holding companies also impose structural costs. Dividends received by the parent from subsidiaries are taxed at the corporate level, then taxed again when distributed to shareholders (double taxation, mitigated but not eliminated by holding-company tax optimization). Management fees and overhead at the parent level reduce net returns to shareholders. An investor can often achieve the same diversification by directly owning a [mutual fund](/mutual-fund/) or exchange-traded fund with lower fees and no structural tax drag.
+Holding companies also impose structural costs. Dividends received by the parent from subsidiaries are taxed at the corporate level, then taxed again when distributed to shareholders ([double taxation](/double-taxation/), mitigated but not eliminated by holding-company tax optimization). Management fees and overhead at the parent level reduce net returns to shareholders. An investor can often achieve the same diversification by directly owning a [mutual fund](/mutual-fund/) or exchange-traded fund with lower fees and no structural tax drag.
 
 This is why holding-company valuations typically trade at a discount to the sum of their parts: investors rationally price in the overhead and tax inefficiency. GreenVector's shares are presumably valued at a discount to the [intrinsic value](/intrinsic-value/) of its portfolio, implicitly reflecting this structural cost.
 

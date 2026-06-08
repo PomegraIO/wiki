@@ -25,7 +25,7 @@ Deposit stability is also a function of relationship strength. In a community ba
 
 ## Leverage and Regulatory Capital Requirements
 
-Banks operate under strict regulatory capital requirements set by federal and state regulators. These requirements mandate that banks hold capital (equity) equal to minimum percentages of their risk-weighted assets. A bank cannot be "over-leveraged" in the way a real estate developer can; regulators impose hard floors on capital-to-assets ratios to protect depositors and systemic stability.
+Banks operate under strict regulatory capital requirements set by federal and state regulators. These requirements mandate that banks hold capital (equity) equal to minimum percentages of their [risk-weighted assets](/risk-weighted-assets/). A bank cannot be "over-leveraged" in the way a real estate developer can; regulators impose hard floors on capital-to-assets ratios to protect depositors and systemic stability.
 
 BEOB must maintain sufficient [equity](/common-stock/) capital to satisfy these regulatory minimums plus maintain a prudent cushion above the minimum (called "capital above requirements"). If the bank's earnings weaken and equity capital falls, regulatory pressure to raise capital—through [retained earnings](/retained-earnings/), new equity issuance, or asset reductions—can force management actions that constrain business strategy. A well-capitalized bank has optionality to grow, acquire competitors, or weather credit losses; an under-capitalized bank is constrained and may face regulatory restrictions on [dividends](/dividend/) or business expansion.
 
@@ -35,9 +35,9 @@ The bank's capital ratios are closely monitored by investors, regulators, and ra
 
 BEOB's assets are predominantly loans to businesses, consumers, and governments. Loans generate interest income, the primary source of revenue. The loan portfolio's credit quality determines how much of that interest income is realized after accounting for loan losses and loan-loss reserves.
 
-A bank's capital also serves as a buffer against loan losses. If BEOB issues loans that later default, the bank absorbs losses through its equity cushion before depositors are affected. Regulators require banks to maintain loan-loss reserves (estimates of expected losses) and capital buffers large enough to cover unexpected losses during severe [recessions](/recession/). A bank with high non-performing loans (loans in default or near-default) may face regulatory pressure to increase reserves, reducing reported earnings and signaling credit stress to depositors.
+A bank's capital also serves as a buffer against loan losses. If BEOB issues loans that later default, the bank absorbs losses through its [equity cushion](/equity-cushion/) before depositors are affected. Regulators require banks to maintain loan-loss reserves (estimates of expected losses) and capital buffers large enough to cover unexpected losses during severe [recessions](/recession/). A bank with high non-performing loans (loans in default or near-default) may face regulatory pressure to increase reserves, reducing reported earnings and signaling credit stress to depositors.
 
-Credit cycles are inherent to banking. In strong economic periods, loan demand is robust, interest rates are high relative to deposits costs, and credit losses are minimal. Earnings are strong, capital accumulates, and banks can pay healthy dividends. In weak periods, loan demand falls, customers prepay to reduce debt, deposit competition intensifies, and loan losses spike. Banks that grew aggressively in good times without maintaining capital discipline become vulnerable in downturns.
+[Credit cycles](/credit-cycle/) are inherent to banking. In strong economic periods, loan demand is robust, interest rates are high relative to deposits costs, and credit losses are minimal. Earnings are strong, capital accumulates, and banks can pay healthy dividends. In weak periods, loan demand falls, customers prepay to reduce debt, deposit competition intensifies, and loan losses spike. Banks that grew aggressively in good times without maintaining capital discipline become vulnerable in downturns.
 
 ## Net Interest Margin and Spread Management
 
@@ -59,7 +59,7 @@ A healthy community bank like BEOB typically maintains modest [dividend yields](
 
 ## Profitability and Cost Management
 
-Community banks are less profitable than mega-cap national banks due to scale disadvantages and higher cost-to-income ratios. BEOB cannot spread technology and compliance costs across trillions in assets the way JPMorgan or [Bank of America](/bank-of-america/) can. This means BEOB must compete on relationship strength, local market knowledge, and cost discipline rather than scale.
+Community banks are less profitable than mega-cap national banks due to scale disadvantages and higher [cost-to-income ratios](/cost-income-ratio/). BEOB cannot spread technology and compliance costs across trillions in assets the way JPMorgan or [Bank of America](/bank-of-america/) can. This means BEOB must compete on relationship strength, local market knowledge, and cost discipline rather than scale.
 
 The company's efficiency ratio—total operating costs as a percentage of operating income—is critical. A ratio below 60% indicates strong cost management; above 65% signals either competitive pressure or operational inefficiency. BEOB must continuously improve technology, automate routine processes, and manage overhead to maintain profitability in an era of rising regulatory costs and digital competition from fintech.
 

@@ -45,7 +45,7 @@ Many upstream companies have pivoted toward returning cash to shareholders throu
 
 Oil and gas producers face mounting regulatory pressure around methane emissions, water disposal, and carbon intensity. Compliance costs are rising, and some jurisdictions have proposed or enacted restrictions on new drilling leases or requirements for faster well abandonment. The energy transition—toward renewables, electrification, and decarbonization—creates long-term structural headwinds.
 
-For a company like DEC, these headwinds manifest as stranded assets (properties that become uneconomic earlier than expected due to emissions caps or carbon pricing) and restricted access to capital. Some institutional investors have exited energy holdings entirely, narrowing the pool of potential acquirers for mature oil and gas properties. A carbon tax or equivalent would compress margins further.
+For a company like DEC, these headwinds manifest as stranded assets (properties that become uneconomic earlier than expected due to emissions caps or carbon pricing) and restricted access to capital. Some institutional investors have exited energy holdings entirely, narrowing the pool of potential acquirers for mature oil and gas properties. A [carbon tax](/carbon-tax/) or equivalent would compress margins further.
 
 ## Reserve Life and Replacement
 

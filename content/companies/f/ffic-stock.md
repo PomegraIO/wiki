@@ -4,7 +4,7 @@ description: "A thrift bank anchored in Queens serving Vietnamese and Korean imm
 keywords: [thrift, community bank, New York, immigrant lending, mortgage origination, SEC CIK 923139]
 ---
 
-*Flushing Financial operates as a savings bank serving the Queens and northern Brooklyn markets, with particular strength among Vietnamese and Korean immigrant households. **FFIC** (SEC CIK 923139) traces its deposit base and loan portfolio to neighborhoods where many customers lack traditional banking relationships, making retail deposits and mortgage underwriting its core economic levers.*
+*Flushing Financial operates as a savings bank serving the Queens and northern Brooklyn markets, with particular strength among Vietnamese and Korean immigrant households. **FFIC** (SEC CIK 923139) traces its deposit base and loan portfolio to neighborhoods where many customers lack traditional banking relationships, making retail deposits and [mortgage underwriting](/mortgage-underwriting/) its core economic levers.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FFIC</td></tr>

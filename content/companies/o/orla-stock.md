@@ -57,7 +57,7 @@ South Railroad remains in development. For it to move to production, the company
 
 Mining is inherently risky. The ore body in the ground cannot be perfectly known until it is extracted. A mine may prove to contain less gold than expected, or the gold may be harder to extract than exploration suggested. Environmental or permitting challenges can delay or prevent mine development. Commodity price movements create uncertainty: low gold prices can make a mine uneconomic even if geology is favorable. Political and regulatory changes in the countries where Orla operates — Mexico, Canada, and the United States — can affect permits, labor costs, or operational flexibility.
 
-Execution risk is also real. Building or expanding a mine on time and within budget is not guaranteed. Operational performance — keeping the mine running at intended production rates — depends on equipment reliability, workforce performance, and management attention.
+[Execution risk](/execution-risk/) is also real. Building or expanding a mine on time and within budget is not guaranteed. Operational performance — keeping the mine running at intended production rates — depends on equipment reliability, workforce performance, and management attention.
 
 ## How to research Orla Mining
 

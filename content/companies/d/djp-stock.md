@@ -17,7 +17,7 @@ keywords: ["banking", "investment banking", "UK", "consumer credit", "trading"]
 
 ## The Core Lending Margin
 
-Barclays' traditional banking engine works through the deposit-and-lend cycle. The bank accepts deposits from retail customers and institutions at [interest rates](/interest-rate/) that are low or zero (money market accounts, checking), then lends that money to mortgagees, auto buyers, and credit card holders at higher rates. The spread between the deposit cost and the lending rate—adjusted for credit losses—is the net interest margin (NIM). If the bank borrows deposits at an average cost of 1% and lends at 4%, the NIM is roughly 3%, which Barclays applies to its total loan book.
+Barclays' traditional banking engine works through the deposit-and-lend cycle. The bank accepts deposits from retail customers and institutions at [interest rates](/interest-rate/) that are low or zero ([money market accounts](/money-market-account/), checking), then lends that money to mortgagees, auto buyers, and credit card holders at higher rates. The spread between the deposit cost and the lending rate—adjusted for credit losses—is the net interest margin (NIM). If the bank borrows deposits at an average cost of 1% and lends at 4%, the NIM is roughly 3%, which Barclays applies to its total loan book.
 
 This margin is sensitive to two macroeconomic forces: (1) the [price-to-book-ratio](/price-to-book-ratio/) of interest rates—when [central banks](/central-bank/) raise rates, banks can fund deposits more cheaply while lending rates rise, widening margins; when rates fall, the opposite occurs; (2) credit losses—when the economy weakens, more borrowers default, forcing the bank to write down loan value and reduce margins. Barclays' profitability is directly tied to the interest rate environment and economic cycle.
 
@@ -49,7 +49,7 @@ Barclays operates across multiple geographies (UK, U.S., Europe, Asia) and busin
 
 ## Cyclicality and Economic Sensitivity
 
-Barclays' earnings are highly sensitive to credit cycles (loan losses spike in downturns), interest rates (lower rates compress NIM), and equity market activity (affecting investment banking and trading revenue). The business is much stronger in expansions and much weaker in [recessions](/recession/). Forecasting full-year earnings requires assumptions about economic growth, central bank policy, and credit losses.
+Barclays' earnings are highly sensitive to [credit cycles](/credit-cycle/) (loan losses spike in downturns), interest rates (lower rates compress NIM), and equity market activity (affecting investment banking and trading revenue). The business is much stronger in expansions and much weaker in [recessions](/recession/). Forecasting full-year earnings requires assumptions about economic growth, central bank policy, and credit losses.
 
 ## Research Pathway
 

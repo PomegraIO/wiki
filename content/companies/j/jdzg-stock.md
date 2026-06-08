@@ -17,7 +17,7 @@ keywords: [China, automotive, industrial, manufacturing, capital intensity, asse
 
 ## Asset Composition and China-Based Operations
 
-JIADE's balance sheet reflects a manufacturing footprint anchored in China, with assets concentrated in factories, equipment, tooling, and inventory. The company's property, plant, and equipment—often the largest line item—represents factories, production lines, and specialized tooling necessary to serve customers in automotive or industrial segments. These assets are denominated in Chinese renminbi and subject to currency fluctuations, regulatory restrictions on asset transfer, and evolving tax treatment.
+JIADE's balance sheet reflects a manufacturing footprint anchored in China, with assets concentrated in factories, equipment, tooling, and inventory. The company's [property, plant, and equipment](/property-plant-equipment/)—often the largest line item—represents factories, production lines, and specialized tooling necessary to serve customers in automotive or industrial segments. These assets are denominated in Chinese renminbi and subject to currency fluctuations, regulatory restrictions on asset transfer, and evolving tax treatment.
 
 The mix of assets reflects JIADE's position in its value chain. A company that owns and operates manufacturing facilities directly carries more balance-sheet assets than one that outsources production; ownership provides control and supply security but requires capital investment and operational expertise.
 

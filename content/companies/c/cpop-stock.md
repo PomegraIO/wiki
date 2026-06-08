@@ -31,7 +31,7 @@ If the firm has a string of content failures, the balance sheet can suddenly det
 
 ## Deferred Revenue and License Agreements
 
-Entertainment companies often license content to broadcasters, streaming platforms, or distributors. A ten-year license deal generates cash upfront but also creates a [deferred revenue liability](/deferred-revenue-liability/) (the amount owed to the licensor over time as the content is consumed). Pop Culture Group's balance sheet should show these long-term licensing liabilities. If the firm has $50 million in deferred revenue, it has taken cash from a distributor but must deliver content; if it fails to deliver, that cash becomes a liability to repay.
+Entertainment companies often license content to broadcasters, streaming platforms, or distributors. A ten-year license deal generates cash upfront but also creates a [deferred revenue liability](/deferred-revenue-liability/) (the amount owed to the licensor over time as the content is consumed). Pop Culture Group's balance sheet should show these long-term licensing liabilities. If the firm has $50 million in [deferred revenue](/deferred-revenue/), it has taken cash from a distributor but must deliver content; if it fails to deliver, that cash becomes a liability to repay.
 
 These agreements also determine the life of the content asset. If Pop Culture Group licenses a show exclusively for five years, the content asset is depleted over five years; after that, the company cannot earn further revenue from that content (or must find new licensees). The balance sheet does not fully capture this time-limit risk.
 

@@ -31,7 +31,7 @@ These costs are not trivial. IPO underwriting fees, legal fees, and other expens
 
 ## American Drive's sector focus and strategic thesis
 
-American Drive Acquisition was formed with a focus on companies in the automotive and mobility sectors. The thesis underlying such a SPAC is typically that the automotive industry is undergoing transformation — electrification, autonomous driving, changes in ownership models — and that well-capitalized acquirers can seize opportunities to consolidate fragmented markets or accelerate the commercialization of new technologies.
+American Drive Acquisition was formed with a focus on companies in the automotive and mobility sectors. The thesis underlying such a SPAC is typically that the automotive industry is undergoing transformation — electrification, autonomous driving, changes in ownership models — and that well-capitalized acquirers can seize opportunities to consolidate [fragmented markets](/fragmented-market/) or accelerate the commercialization of new technologies.
 
 Whether American Drive successfully executed on this thesis depends on which private company it identified as its target and the subsequent performance of the merged entity. The automotive sector is capital-intensive, with long development cycles and substantial competition from established manufacturers and well-funded startups. A SPAC merger gives a private automotive or mobility company access to public-market capital and the currency of a public stock for [acquisitions](/acquisition/), but it does not insulate the business from the harsh competitive realities of its sector.
 

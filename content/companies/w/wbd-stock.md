@@ -45,11 +45,11 @@ The logic is that the two businesses operate under fundamentally different dynam
 
 By separating, management argues, each entity can pursue a capital structure and strategic direction tailored to its economics. The streaming-focused company could accept higher leverage relative to near-term cash flow but grow unencumbered by mature cable assets. The networks company could focus on cash generation, pay down debt, and distribute capital to shareholders as its subscriber base and advertising declines.
 
-However, the separation itself carries execution risk and potential costs. Separating back-office functions, renegotiating commercial arrangements, and managing two independent [balance sheets](/balance-sheet/) carry real expense. The networks company inherits the challenge of managing a declining industry segment without the growth story or strategic narrative of streaming; its ability to sustain shareholder value will depend on how gracefully it manages the decline and whether it can harvest cash faster than assets erode.
+However, the separation itself carries [execution risk](/execution-risk/) and potential costs. Separating back-office functions, renegotiating commercial arrangements, and managing two independent [balance sheets](/balance-sheet/) carry real expense. The networks company inherits the challenge of managing a declining industry segment without the growth story or strategic narrative of streaming; its ability to sustain shareholder value will depend on how gracefully it manages the decline and whether it can harvest cash faster than assets erode.
 
 ## How does the company make money today?
 
-Revenue (in recent fiscal years running in the range of $50+ billion) breaks down roughly as follows:
+Revenue (in recent [fiscal years](/fiscal-year-definition/) running in the range of $50+ billion) breaks down roughly as follows:
 
 Streaming (Max and international direct-to-consumer services) generates subscriber fees, though profitability remains contested. The company took years to turn Max cash-flow positive and has since focused on subscriber quality (price increases, ad-supported tiers) over pure growth. Advertising on streaming has been an area of expansion, though it competes with the scale of platforms like [YouTube](/wiki/public-company/) and others.
 

@@ -37,7 +37,7 @@ Rackspace's business today falls into several categories. **Managed cloud servic
 
 **Applications and cloud transformation** services are advisory and project-based: Rackspace consultants work with enterprises to assess legacy applications, decide which should be migrated to the cloud and which should stay on-premises, plan the migration, execute it, and train staff. This work is expertise-heavy and often high-revenue per project, though it is more lumpy in timing than recurring subscriptions.
 
-**Rackspace's own managed hosting** for customers who still need on-premises infrastructure or are not ready to move to public cloud remains a smaller but stable revenue segment, with data centers and colocation services supporting traditional enterprise IT.
+**Rackspace's own managed hosting** for customers who still need on-premises infrastructure or are not ready to move to public cloud remains a smaller but stable revenue segment, with data centers and [colocation services](/colocation-services/) supporting traditional enterprise IT.
 
 The company also holds partnerships with major cloud vendors — AWS, Microsoft, and Google all certify Rackspace as an advanced partner, which means Rackspace's consulting and implementation work earns commissions and referral fees when customers buy cloud services through the partnership.
 

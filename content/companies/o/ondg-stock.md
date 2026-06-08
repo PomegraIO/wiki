@@ -23,7 +23,7 @@ Each night at market close, ONDG recalibrates its derivatives to match exactly 2
 
 ## Who sponsors ONDG and how is it structured?
 
-Leverage Shares, a London-based firm specializing in leveraged and [inverse ETFs](/inverse-etf/), issues and manages ONDG. The fund trades on exchange as a standard ETF (on NYSE Arca or similar venues depending on geography), giving it transparent pricing and exchange-like liquidity. Structurally, it is an exchange-traded note backed by derivatives rather than a traditional ETF holding a basket of stocks. This means investors face sponsor [credit risk](/credit-risk/): if Leverage Shares or the fund's counterparties fail, the ETN could lose value. This structural nuance is important for understanding the full risk profile.
+Leverage Shares, a London-based firm specializing in leveraged and [inverse ETFs](/inverse-etf/), issues and manages ONDG. The fund trades on exchange as a standard ETF (on [NYSE Arca](/nyse-arca/) or similar venues depending on geography), giving it transparent pricing and exchange-like liquidity. Structurally, it is an exchange-traded note backed by derivatives rather than a traditional ETF holding a basket of stocks. This means investors face sponsor [credit risk](/credit-risk/): if Leverage Shares or the fund's counterparties fail, the ETN could lose value. This structural nuance is important for understanding the full risk profile.
 
 ## What are ONDG's costs, and how liquid is it?
 

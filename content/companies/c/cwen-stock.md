@@ -29,7 +29,7 @@ Clearway owns operating wind projects and develops new ones. Like solar, wind re
 
 ## The contract structure and revenue predictability
 
-The lifeblood of Clearway's business is the power purchase agreement, or PPA. A utility or large corporate buyer signs a contract to buy a certain volume of power from a Clearway facility for 15, 20, or 25 years at a fixed or indexed price. The long-term nature of these contracts means Clearway knows, with reasonable confidence, what cash it will earn each year. This is why institutional investors — pension funds, insurance companies, infrastructure funds — like owning renewable power projects: they generate reliable, inflation-protected cash flow for decades.
+The lifeblood of Clearway's business is the [power purchase agreement](/power-purchase-agreement/), or PPA. A utility or large corporate buyer signs a contract to buy a certain volume of power from a Clearway facility for 15, 20, or 25 years at a fixed or indexed price. The long-term nature of these contracts means Clearway knows, with reasonable confidence, what cash it will earn each year. This is why institutional investors — pension funds, insurance companies, [infrastructure funds](/pe-infrastructure-fund/) — like owning renewable power projects: they generate reliable, inflation-protected cash flow for decades.
 
 Not all of Clearway's generation is under contract. Some facilities sell power into the merchant market, where prices fluctuate hourly based on supply and demand. Merchant market sales are riskier but also offer upside if power prices spike. Clearway manages this risk by blending contracted and merchant revenue across its portfolio and sometimes hedging price exposure.
 

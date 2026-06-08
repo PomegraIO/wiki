@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-9F Inc. is a Beijing-based financial technology company that operates a digital platform offering technology services, wealth management, and e-commerce. The company trades on [Nasdaq](/nasdaq/) under the ticker JFU as an American Depositary Share (ADS). It was founded in 2006 and represents a notable case study in how a fintech business must adapt when its primary regulatory environment shifts dramatically.
+9F Inc. is a Beijing-based financial technology company that operates a digital platform offering technology services, wealth management, and e-commerce. The company trades on [Nasdaq](/nasdaq/) under the ticker JFU as an American [Depositary Share](/depositary-share/) (ADS). It was founded in 2006 and represents a notable case study in how a fintech business must adapt when its primary regulatory environment shifts dramatically.
 
 The company emerged during China's early enthusiasm for peer-to-peer lending. Over time, particularly as Chinese regulators imposed strict caps on consumer lending, P2P [interest rates](/interest-rate/), and loan facilitation activities, 9F evolved its business model to reduce direct exposure to those restrictions. That transformation, while necessary for survival, has left the company smaller and facing headwinds in all three of its current operating segments.
 

@@ -4,7 +4,7 @@ description: "Oncology-focused biotech company; revenue model contingent on clin
 keywords: ["oncology", "biotechnology", "cancer therapeutics", "drug development", "clinical trials"]
 ---
 
-*Therapeutic developers in oncology face a different economic proposition than generic biotech startups because oncology represents an enormous market—tens of billions annually in global pharmaceutical revenue—and cancer patients, physicians, and healthcare systems will pay substantially for treatments that extend life or improve quality of life. **INTENSITY THERAPEUTICS, INC. (INTS)** positions itself as an oncology specialist, which shapes both its opportunity and its execution risk.*
+*Therapeutic developers in oncology face a different economic proposition than generic biotech startups because oncology represents an enormous market—tens of billions annually in global pharmaceutical revenue—and cancer patients, physicians, and healthcare systems will pay substantially for treatments that extend life or improve quality of life. **INTENSITY THERAPEUTICS, INC. (INTS)** positions itself as an oncology specialist, which shapes both its opportunity and its [execution risk](/execution-risk/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>INTS</td></tr>

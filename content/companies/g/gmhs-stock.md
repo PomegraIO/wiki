@@ -49,7 +49,7 @@ Additionally, other arcade and casual gaming operators exist in every major mark
 
 Casual gaming venues experience pronounced seasonality. Summer, winter holidays, and school-break periods drive higher traffic from families and teenagers. The back-to-school season sees elevated corporate group bookings. A venue's quarterly revenue can vary by 20–30 percent depending on the season, requiring careful cash management and labor scheduling.
 
-Additionally, venues are vulnerable to unexpected shocks. A competitor opening a new location in the same market can draw traffic away. A major tourist attraction or competing entertainment venue opening nearby can shift consumer behavior. A local economic downturn (factory closure, major employer layoff) reduces [discretionary spending](/discretionary-spending/) in the region. The company must manage these volatility risks through [diversification](/diversification/) of venue locations and strong operational execution.
+Additionally, venues are vulnerable to unexpected shocks. A competitor opening a new location in the same market can draw traffic away. A major tourist attraction or competing entertainment venue opening nearby can shift consumer behavior. A local economic downturn (factory closure, major employer layoff) reduces [discretionary spending](/discretionary-spending/) in the region. The company must manage these [volatility risks](/volatility-risk/) through [diversification](/diversification/) of venue locations and strong operational execution.
 
 ## Party and Event Revenue: Sticky but Volatile
 
@@ -59,7 +59,7 @@ A venue that successfully builds a strong party-booking business can stabilize r
 
 ## Labor and Operations as a Constraint
 
-Running a casual gaming venue requires trained staff to manage machines, serve food, process transactions, and provide customer service. Labor costs are the largest operational expense after rent and machine [depreciation](/depreciation/). A shortage of labor or rising wages reduces venue profitability. The company must maintain reasonable [labor productivity](/labor-productivity/) (revenue per employee) while delivering service quality that keeps customers satisfied.
+Running a casual gaming venue requires trained staff to manage machines, serve food, process transactions, and provide customer service. Labor costs are the largest operational expense after rent and machine [depreciation](/depreciation/). A shortage of labor or rising wages reduces venue profitability. The company must maintain reasonable [labor productivity](/labor-productivity/) ([revenue per employee](/revenue-per-employee/)) while delivering service quality that keeps customers satisfied.
 
 This is particularly challenging in geographies with tight labor markets or high wage growth. A GAMEHAUS venue in a strong labor market may struggle to hire and retain staff at wage rates that maintain profitability, while a competitor in a lower-wage region can operate at superior margins.
 

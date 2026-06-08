@@ -25,7 +25,7 @@ The company operates across three main segments: Soft Wheat, Durum Wheat, and Co
 
 ## What investment considerations matter most?
 
-Forafric is exposed to commodity grain price cycles, currency fluctuations across multiple African jurisdictions, and supply chain complexity in a region with real logistical and political risks. The company's value rests on processing efficiency, brand equity in its key markets, and the ability to convert low-margin commodity inputs into differentiated products. Investor focus typically centers on whether the company can maintain margins amid grain price volatility, how well its brands are embedded in key geographies, and its operational resilience in regions where infrastructure and governance vary. The stock reflects both the agricultural commodity cycle and the company's regional competitive position.
+Forafric is exposed to commodity grain price cycles, currency fluctuations across multiple African jurisdictions, and supply chain complexity in a region with real logistical and [political risks](/political-risk/). The company's value rests on processing efficiency, brand equity in its key markets, and the ability to convert low-margin commodity inputs into differentiated products. Investor focus typically centers on whether the company can maintain margins amid grain price volatility, how well its brands are embedded in key geographies, and its operational resilience in regions where infrastructure and governance vary. The stock reflects both the agricultural commodity cycle and the company's regional competitive position.
 
 ## Why is the company public?
 

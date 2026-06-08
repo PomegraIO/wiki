@@ -62,7 +62,7 @@ This dividend is not a discretionary choice by management but is essentially bui
 
 A regulated utility's risks are primarily regulatory. If a commission decides to lower the allowed return, or if it denies rate increases that Entergy is seeking, earnings fall. If a state moves aggressively toward renewable energy or away from nuclear power, it affects Entergy's generation mix and capital plans. Changes in environmental regulation — such as requirements to retire coal plants or add renewable generation — can force large capital expenditures.
 
-Political risk is also present. Regulators are appointed or elected, and political pressure around energy policy, power-plant safety, or rate increases can shift over time. If a state decides to deregulate its electricity market and allow competition, it could undermine Entergy's regulated-monopoly position.
+[Political risk](/political-risk/) is also present. Regulators are appointed or elected, and political pressure around energy policy, power-plant safety, or rate increases can shift over time. If a state decides to deregulate its electricity market and allow competition, it could undermine Entergy's regulated-monopoly position.
 
 Climate change also creates both risks and opportunities. Extreme weather, flooding, and temperature extremes all stress the grid and require infrastructure investment. But transition to renewable energy and electrification of vehicles represent both an obligation (regulatory pressure to decarbonize) and an opportunity (investment in new infrastructure and assets that grow the rate base).
 

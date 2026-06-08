@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **GraniteShares Autocallable PLTR ETF** — ticker PLA — wraps a complex structured product into a fund shell. It is not a simple buy-and-hold [index fund](/index-fund/). Instead, PLA holds autocallable notes linked to [Palantir Technologies](/pltr-stock/) (PLTR), a structure that amplifies upside within a bounded range but comes with embedded leverage, caps on maximum returns, and early-redemption mechanics that reset the terms periodically.*
+*The **GraniteShares Autocallable PLTR ETF** — ticker PLA — wraps a complex [structured product](/structured-product/) into a fund shell. It is not a simple buy-and-hold [index fund](/index-fund/). Instead, PLA holds autocallable notes linked to [Palantir Technologies](/pltr-stock/) (PLTR), a structure that amplifies upside within a bounded range but comes with embedded leverage, caps on maximum returns, and early-redemption mechanics that reset the terms periodically.*
 
 ## What an autocallable note does—mechanics are critical here.
 
@@ -19,7 +19,7 @@ The autocallable sits between a leveraged long position and a cap-and-collar opt
 
 ## Early calls mean rolling turnover.
 
-Each time a note is called away at the cap, GraniteShares issues a new [tranche](/tranche/) with reset levels. This rolling structure creates ongoing turnover within the fund. Investors do not own a static position; they own a series of short-duration, bounded bets. A PLTR rally that breaches the cap early locks in the coupon return, then forces reinvestment at a potentially higher starting price—missing upside beyond the cap. A late redemption near the quarter-end can compress timing significantly. Over a full market cycle, these call events and resets can reduce returns relative to simply owning PLTR stock.
+Each time a note is called away at the cap, GraniteShares issues a new [tranche](/tranche/) with reset levels. This rolling structure creates ongoing turnover within the fund. Investors do not own a static position; they own a series of short-duration, bounded bets. A PLTR rally that breaches the cap early locks in the coupon return, then forces reinvestment at a potentially higher starting price—missing upside beyond the cap. A late redemption near the quarter-end can compress timing significantly. Over a full [market cycle](/market-cycle/), these call events and resets can reduce returns relative to simply owning PLTR stock.
 
 ## Costs are higher than a simple equity fund.
 

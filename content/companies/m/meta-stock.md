@@ -29,7 +29,7 @@ The company was renamed [Alphabet](/googl-stock/) in 2021 (confusingly, Alphabet
 
 Facebook, Instagram, and WhatsApp are "free" services to users but paid by advertisers. A small business can buy ads on Facebook or Instagram targeted to women aged 25-40 interested in fitness who live in a specific geographic area. The precision of that targeting—built on data about what users have clicked, searched, liked, and browsed—is why advertisers pay. Meta's core business is capturing that data and selling access to it.
 
-Instagram has become Meta's most valuable asset in many metrics. It reaches younger users who are abandoning Facebook for other platforms, and its visual format (photos, Reels short videos) engages users differently than Facebook's text and feed-based interface. Instagram generates slightly lower revenue per user than Facebook but is growing faster and poses less reputational risk around misinformation or mental health concerns.
+Instagram has become Meta's most valuable asset in many metrics. It reaches younger users who are abandoning Facebook for other platforms, and its visual format (photos, Reels short videos) engages users differently than Facebook's text and feed-based interface. Instagram generates slightly lower revenue per user than Facebook but is growing faster and poses less [reputational risk](/reputational-risk/) around misinformation or mental health concerns.
 
 WhatsApp remains largely unmonetized; Meta has not yet built significant advertising into the platform despite acquiring it in 2014 for $19 billion. Threads, launched in 2023 as a Twitter alternative, is early stage.
 

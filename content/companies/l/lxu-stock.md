@@ -66,7 +66,7 @@ The firm's SEC filings (CIK 60714) disclose material regulatory risks, including
 
 LSB's supply chain includes manufacturers of refrigerants, coatings, and components that must themselves comply with environmental and safety standards. If a critical supplier's facility is shut down by EPA or state enforcement, LSB faces supply disruption. Conversely, LSB's large customers (building owners, facilities managers, industrial operators) often have their own environmental and safety compliance obligations; they specify LSB equipment partly because it meets their regulatory requirements. A change in customer regulations can shift equipment specifications and create market opportunities or disruptions for LSB.
 
-For instance, if a jurisdiction adopts a carbon tax or emissions standard, industrial customers may invest in more efficient cooling systems to reduce energy costs and carbon footprint. This can benefit LSB if the company's products are positioned to meet new efficiency tiers. Conversely, if regulations relax or if alternative technologies (such as free-air cooling or liquid cooling) gain regulatory approval, LSB may face disruption to legacy product lines.
+For instance, if a jurisdiction adopts a [carbon tax](/carbon-tax/) or emissions standard, industrial customers may invest in more efficient cooling systems to reduce energy costs and carbon footprint. This can benefit LSB if the company's products are positioned to meet new efficiency tiers. Conversely, if regulations relax or if alternative technologies (such as free-air cooling or liquid cooling) gain regulatory approval, LSB may face disruption to legacy product lines.
 
 ## Long-Term Regulatory Trends and Strategic Alignment
 

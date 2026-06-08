@@ -28,7 +28,7 @@ This combination is neither accidental nor static. TransAlta is not simply passi
 
 ## Revenue and Cash Flow
 
-TransAlta's revenue comes from two primary channels: energy market sales and long-term power purchase agreements (PPAs). In the Alberta deregulated market, the company sells power at spot prices or through bilateral contracts, which creates both opportunity and risk. A high-price period can boost earnings materially; a low-price environment squeezes returns. To manage this volatility, TransAlta pursues long-term PPAs—essentially locking in sales for years ahead—particularly for wind and gas assets. These contracts provide cash flow visibility and lower execution risk.
+TransAlta's revenue comes from two primary channels: energy market sales and long-term [power purchase agreements](/power-purchase-agreement/) (PPAs). In the Alberta deregulated market, the company sells power at spot prices or through bilateral contracts, which creates both opportunity and risk. A high-price period can boost earnings materially; a low-price environment squeezes returns. To manage this volatility, TransAlta pursues long-term PPAs—essentially locking in sales for years ahead—particularly for wind and gas assets. These contracts provide cash flow visibility and lower [execution risk](/execution-risk/).
 
 The company also has exposure to congestion revenue in transmission, ancillary services, and grid [management fees](/management-fee/), though these are typically smaller components. [Depreciation](/depreciation/) is a material non-cash charge due to the asset-heavy nature of power generation; understanding a utility's [free cash flow](/free-cash-flow/) requires careful attention to capital expenditure requirements and how aggressively it invests in growth versus replacement.
 
@@ -62,7 +62,7 @@ Finally, there is [refinancing risk](/refinancing-risk/) if debt markets tighten
 
 Start with the annual [10-K](/wiki/10-k/) (filed in Canada as an annual report). Look for segments—how much revenue came from Alberta market sales versus contracted PPAs, and how much from wind, hydro, gas, and coal. Track the depreciation rate and capital expenditure against depreciation to see if the company is investing more than assets are declining (typical for a growth phase) or less (indicating slowing growth).
 
-Watch capacity retirements and additions. TransAlta usually publishes [forward guidance](/forward-guidance/) on megawatts added and retired; these are leading indicators of future cash flows. Examine the PPA portfolio—what contracts are expiring, at what rates are new ones being signed, and what is the average contract life. Short-duration contracts create earnings volatility.
+Watch capacity retirements and additions. TransAlta usually publishes [forward guidance](/forward-guidance/) on megawatts added and retired; these are [leading indicators](/leading-indicator/) of future cash flows. Examine the PPA portfolio—what contracts are expiring, at what rates are new ones being signed, and what is the average contract life. Short-duration contracts create earnings volatility.
 
 Monitor fuel costs and wholesale power prices in Alberta and neighboring markets. If natural gas spikes or coal prices rise, near-term earnings could improve; if power prices crash, contracted and uncontracted segments will both feel it. Conference call guidance on near-term price views and capital spending plans is essential.
 

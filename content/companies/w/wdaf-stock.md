@@ -61,7 +61,7 @@ WDAF is a standard, non-leveraged [equity ETF](/equity-etf/) trading on [NASDAQ]
 
 **Regional concentration.** Unlike a global defense fund, WDAF is concentrated in one region. If Asia-Pacific defense budgets decline, or if the political winds shift toward disarmament or reduced military spending, the entire fund is exposed.
 
-**Technology and execution risk.** Defense contractors in the region, especially those building advanced systems, face the same technology and execution risks as defense companies elsewhere — programs can slip, cost overruns occur, and prototypes sometimes fail. Smaller regional vendors may have less experience managing large government contracts than established U.S. or European primes.
+**Technology and [execution risk](/execution-risk/).** Defense contractors in the region, especially those building advanced systems, face the same technology and execution risks as defense companies elsewhere — programs can slip, cost overruns occur, and prototypes sometimes fail. Smaller regional vendors may have less experience managing large government contracts than established U.S. or European primes.
 
 **Government customer concentration.** These companies' revenue often depends on a handful of government customers. A shift in government priorities, budget cuts, or a change in procurement strategy can materially affect revenues for years.
 

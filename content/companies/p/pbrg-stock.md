@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Leverage Shares 2X Long PBR Daily ETF (PBRG)** is a leveraged exchange-traded fund that seeks to deliver twice the daily percentage change of Petrobras (a Brazilian oil and gas company that trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker PBR). It is issued by Leverage Shares, a London-based ETF sponsor, and trades on the American [Stock Exchange](/stock-exchange/).*
+*The **Leverage Shares 2X Long PBR Daily ETF (PBRG)** is a leveraged exchange-traded fund that seeks to deliver twice the daily percentage change of Petrobras (a Brazilian oil and gas company that trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker PBR). It is issued by Leverage Shares, a London-based [ETF sponsor](/etf-sponsor/), and trades on the American [Stock Exchange](/stock-exchange/).*
 
 ## What the fund tracks and how it works
 

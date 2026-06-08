@@ -46,7 +46,7 @@ The warrant structure is meant to incentivize the sponsor and insiders to make t
 
 ## What the SPAC market taught investors
 
-The SPAC boom of 2020-2021, and the subsequent pullback, revealed important lessons. Many sponsors were inexperienced at running public companies or at negotiating with private founders. Many announced targets had unrealistic financial projections that fell apart post-merger. And the SPAC's speed advantage over an IPO came at the cost of less rigorous due diligence and public scrutiny.
+The SPAC boom of 2020-2021, and the subsequent pullback, revealed important lessons. Many sponsors were inexperienced at running public companies or at negotiating with private founders. Many announced targets had unrealistic financial projections that fell apart post-merger. And the SPAC's speed advantage over an IPO came at the cost of less rigorous [due diligence](/due-diligence/) and public scrutiny.
 
 Regulators responded by tightening disclosure rules, increasing sponsor liability, and issuing guidance that made SPAC filings more expensive and more complex to prepare. The result is that fewer SPACs are being formed, and the ones that do form often target lower-profile acquisitions.
 

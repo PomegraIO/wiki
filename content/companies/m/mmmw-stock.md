@@ -25,7 +25,7 @@ MMMW operates in that environment. Its projects are built with the expectation t
 
 ## How a Wind Farm Generates Revenue
 
-A utility-scale wind farm might have 20–100 turbines, each 2–4 megawatts. The farm is connected to the electric grid at a specific location. Revenue comes from two sources: power purchase agreements (PPAs) with utilities or large corporate buyers, and wholesale electricity markets.
+A utility-scale wind farm might have 20–100 turbines, each 2–4 megawatts. The farm is connected to the electric grid at a specific location. Revenue comes from two sources: [power purchase agreements](/power-purchase-agreement/) (PPAs) with utilities or large corporate buyers, and wholesale electricity markets.
 
 Under a PPA, a utility agrees to purchase a certain amount of electricity at a fixed or formula price for 15–25 years. PPAs are the dominant revenue structure for wind farms; they provide certainty and bankability. A utility signs a PPA because it needs to meet a renewable mandate or wants to lock in a long-term power price below expected fossil fuel costs.
 

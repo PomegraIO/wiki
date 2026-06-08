@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Sun Life Financial](/slf-stock/) is a Canadian diversified financial institution that has spent the past two decades transforming itself from a primarily insurance company into a broader wealth and asset manager, with major operations in North America, Europe, and Asia. The company manages not only its own insurance float but also money for institutional clients—endowments, pension funds, sovereign wealth funds—through a network of acquired investment managers that have grown to manage hundreds of billions in assets. The ticker SLFQF represents the U.S. dollar-denominated form of shares trading on the [Toronto Exchange](/toronto-exchange/); the same company also has Canadian-dollar shares and other listings.
+[Sun Life Financial](/slf-stock/) is a Canadian diversified financial institution that has spent the past two decades transforming itself from a primarily insurance company into a broader wealth and asset manager, with major operations in North America, Europe, and Asia. The company manages not only its own insurance float but also money for institutional clients—endowments, pension funds, [sovereign wealth funds](/sovereign-wealth-fund/)—through a network of acquired investment managers that have grown to manage hundreds of billions in assets. The ticker SLFQF represents the U.S. dollar-denominated form of shares trading on the [Toronto Exchange](/toronto-exchange/); the same company also has Canadian-dollar shares and other listings.
 
 <aside class="wiki-infobox">
 <table>
@@ -63,6 +63,6 @@ The integration creates potential synergies but also risks. Poor investment perf
 
 ## Reading Sun Life as an investment
 
-Review the annual Form 10-K filing with the SEC (CIK 0001097362), which discloses segment results, investment portfolio details, reserve adequacy, and regulatory capital positions. Pay close attention to asset flows into and out of MFS and the other asset management platforms—net inflows are a leading indicator of future fee income. In insurance segments, watch for changes in group benefit renewal rates, individual life insurance lapses, and claims experience in health insurance.
+Review the annual Form 10-K filing with the SEC (CIK 0001097362), which discloses segment results, investment portfolio details, reserve adequacy, and regulatory capital positions. Pay close attention to asset flows into and out of MFS and the other asset management platforms—net inflows are a [leading indicator](/leading-indicator/) of future fee income. In insurance segments, watch for changes in group benefit renewal rates, individual life insurance lapses, and claims experience in health insurance.
 
 The earnings presentation should break out insurance underwriting profit separately from investment income so you can see how much of earnings is recurring (from spreads and underwriting discipline) versus how much swings with market conditions. Interest-rate sensitivity disclosure explains how many basis points of rate change would affect earnings or book value. The company trades on multiple exchanges; SLFQF is the U.S.-dollar quoted form. Nothing here is investment advice; market pricing reflects risk and opportunity as seen by traders worldwide.

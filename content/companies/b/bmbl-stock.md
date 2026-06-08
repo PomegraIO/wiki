@@ -54,7 +54,7 @@ The dating-app sector's maturity and the durability of network effects suggest t
 - blze-stock
 
 ### Wider context
-- two-sided markets
+- [two-sided markets](/two-sided-market-finance/)
 - network effects
 - subscription business models
 

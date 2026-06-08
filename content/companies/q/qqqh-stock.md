@@ -63,6 +63,6 @@ Liquidity of the call options themselves can become thin in extreme market stres
 
 Start with the fund's prospectus on the NEOS website, which explains the call-selling strategy, the typical strike selection, and the fee structure. The fund's fact sheet will show the current distribution yield and frequency, allowing you to estimate the recurring income.
 
-Compare QQQH's returns over full market cycles against QQQ or QQQM to see how the tradeoff between upside capping and downside cushion plays out in practice. In years of strong gains, QQQH will lag. In years of declines or high volatility, it should outperform. The goal is to assess whether the pattern matches your own return expectations and risk tolerance.
+Compare QQQH's returns over full [market cycles](/market-cycle/) against QQQ or QQQM to see how the tradeoff between upside capping and downside cushion plays out in practice. In years of strong gains, QQQH will lag. In years of declines or high volatility, it should outperform. The goal is to assess whether the pattern matches your own return expectations and risk tolerance.
 
 Track the fund's monthly or quarterly distributions to understand the actual income generated and whether it is stable or swinging with market volatility. The SEC filings and fund website are the authoritative sources for the current holdings, the option strike prices in use, and the expense ratio.

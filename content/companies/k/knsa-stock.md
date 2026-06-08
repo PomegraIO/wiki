@@ -23,7 +23,7 @@ This market positioning reflects a deliberate thesis: orphan and specialized aut
 
 ## Competitive Positioning Within the Autoimmune Ecosystem
 
-Kinikska enters a fragmented market where hundreds of biopharmaceutical firms pursue various corners of autoimmune disease. Large pharmaceutical conglomerates—[Abbvie](/abbv-stock/), [Eli Lilly](/lly-stock/), Roche, [Johnson & Johnson](/jnj-stock/)—dominate first-line therapies for prevalent indications, generating billions annually from classes of drugs already proven and reimbursed by health systems worldwide. These giants benefit from massive sales forces, deep relationships with prescribers, and the gravity of established market positions.
+Kinikska enters a [fragmented market](/fragmented-market/) where hundreds of biopharmaceutical firms pursue various corners of autoimmune disease. Large pharmaceutical conglomerates—[Abbvie](/abbv-stock/), [Eli Lilly](/lly-stock/), Roche, [Johnson & Johnson](/jnj-stock/)—dominate first-line therapies for prevalent indications, generating billions annually from classes of drugs already proven and reimbursed by health systems worldwide. These giants benefit from massive sales forces, deep relationships with prescribers, and the gravity of established market positions.
 
 Kinikska's alternative strategy emphasizes rapid development timelines, regulatory focus, and the ability to serve patient populations for whom standard approaches have proven insufficient or intolerable. This positioning resembles that of specialized immunology firms like Acceleron Pharma before its [acquisition](/acquisition/), or present-day focused competitors like Principia Biopharma or Array BioPharma—companies that have successfully carved sustainable niches by combining unmet clinical need with expedited regulatory pathways like orphan disease designation and priority review. The risk, naturally, is that clinical trials fail or market adoption lags; the advantage is that success in a niche market often attracts acquisition by larger portfolio-builders seeking to fill gaps in their own pipelines.
 
@@ -47,7 +47,7 @@ This reimbursement advantage is double-edged. Premium pricing creates economic i
 
 ## Sector Tailwinds and Structural Growth
 
-The autoimmune and inflammatory disease market grows at mid-single-digit percentage rates annually, driven by aging populations, increased diagnosis, and the emergence of new therapeutic mechanisms. Kinikska sits within this expanding ecosystem but competes in the far tail—smaller populations, more-specialized indication, less-profitable-per-unit but less-competitive landscape. This is a high-risk, high-reward position: success means creating valuable assets that command acquisition premiums; failure means capital depletion with limited revenue offset.
+The autoimmune and inflammatory disease market grows at mid-single-digit percentage rates annually, driven by aging populations, increased diagnosis, and the emergence of new therapeutic mechanisms. Kinikska sits within this expanding ecosystem but competes in the far tail—smaller populations, more-specialized indication, less-profitable-per-unit but less-competitive landscape. This is a high-risk, high-reward position: success means creating valuable assets that command [acquisition premiums](/acquisition-premium/); failure means capital depletion with limited revenue offset.
 
 <div class="wiki-seealso">
 ### Closely related

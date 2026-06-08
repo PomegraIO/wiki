@@ -47,7 +47,7 @@ The regulatory framework changed significantly in the 2010s following the 2008 f
 
 ## Key financial metrics and investor considerations
 
-Investors in regional banks monitor a handful of core metrics: net interest margin, credit quality (nonperforming loans and charge-offs), capital ratios, and [return on equity](/return-on-equity/). Eastern Bankshares' historical conservatism means its metrics tend to reflect stability rather than dramatic growth. The institution has weathered multiple credit cycles since its founding, and this durability reflects both prudent management and the underlying stability of New England regional economics.
+Investors in regional banks monitor a handful of core metrics: net interest margin, credit quality (nonperforming loans and charge-offs), capital ratios, and [return on equity](/return-on-equity/). Eastern Bankshares' historical conservatism means its metrics tend to reflect stability rather than dramatic growth. The institution has weathered multiple [credit cycles](/credit-cycle/) since its founding, and this durability reflects both prudent management and the underlying stability of New England regional economics.
 
 Like all regional banks, profitability is sensitive to [interest rate](/interest-rate/) levels and the [yield curve](/wiki/bond-yield-curve-risk/). Rising rates can improve net interest margins in the near term, but they also depress loan demand and increase [refinancing risk](/refinancing-risk/) on the existing portfolio. Inverted [yield curves](/yield-curve/) pressurize margins directly and signal recessionary risk, which weakens credit quality.
 

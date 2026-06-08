@@ -54,7 +54,7 @@ Some mining companies hedge commodity prices—locking in future prices through 
 
 Mining is subject to stringent environmental, safety, and permitting regulations. A mine must obtain permits from state and federal agencies, comply with water and air quality standards, and manage tailings (waste rock and processing slurry) responsibly. Environmental remediation costs can be substantial and sometimes extend into the future, long after the mine closes.
 
-Mako's liabilities include both current operating costs and future environmental remediation obligations. The 10-K discloses asset retirement obligations and [contingent liabilities](/contingent-liabilities-government/) related to environmental cleanup. A large, costly remediation project can erode profitability; conversely, a company in a jurisdiction with strict enforcement faces higher regulatory costs but also clarity on compliance expectations.
+Mako's liabilities include both current operating costs and future environmental remediation obligations. The 10-K discloses [asset retirement obligations](/asset-retirement-obligation/) and [contingent liabilities](/contingent-liabilities-government/) related to environmental cleanup. A large, costly remediation project can erode profitability; conversely, a company in a jurisdiction with strict enforcement faces higher regulatory costs but also clarity on compliance expectations.
 
 ## Sovereign Risk and Geopolitical Dependency
 

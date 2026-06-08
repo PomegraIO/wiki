@@ -33,7 +33,7 @@ Inflation-linked bonds exist because inflation is a real financial risk. Savers 
 
 The mechanics are straightforward. A TIPS bond carries a fixed [real yield](/real-yield/)—say, one percent. The coupon payment is calculated as: (one percent real yield) × (the principal adjusted for inflation). Every six months, the US Bureau of Labor Statistics publishes the inflation rate, and the principal of the bond is adjusted upward. That adjusted principal then determines the next interest payment. If inflation is zero, the coupon stays flat. If inflation is five percent, the principal adjusts up, and the coupon rises. The investor's real income—income after accounting for inflation—stays stable.
 
-The trade-off is that inflation-linked bonds typically carry lower nominal yields than traditional bonds. A regular [Treasury bond](/treasury-bond/) might pay three percent; a TIPS bond might pay one percent. But that one-percent TIPS yield is a real return, guaranteed after inflation. The choice between them depends on inflation expectations: if you expect high inflation, TIPS are attractive; if you expect low inflation, traditional bonds offer higher nominal returns.
+The trade-off is that inflation-linked bonds typically carry lower nominal yields than traditional bonds. A regular [Treasury bond](/treasury-bond/) might pay three percent; a TIPS bond might pay one percent. But that one-percent TIPS yield is a real return, guaranteed after inflation. The choice between them depends on [inflation expectations](/inflation-expectations/): if you expect high inflation, TIPS are attractive; if you expect low inflation, traditional bonds offer higher nominal returns.
 
 ## Global inflation-linked opportunities
 

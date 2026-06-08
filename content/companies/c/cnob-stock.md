@@ -33,7 +33,7 @@ The Federal Reserve, as bank holding company supervisor, imposes capital require
 
 Beyond static capital ratios, the Federal Reserve requires [stress testing](/stress-testing/). ConnectOne must model how its [balance-sheet](/balance-sheet/) would perform under adverse economic scenarios ([recession](/recession/), falling house prices, rising unemployment) and ensure that it would maintain adequate capital even under stress. This forward-looking requirement constrains the bank's risk appetite: it cannot deploy capital into high-growth but high-volatility strategies without demonstrating that they would survive a severe downturn.
 
-Liquidity regulation is equally important. Banks must maintain adequate liquid assets (cash, government securities, highly liquid marketable securities) to meet deposit outflows under normal and stressed conditions. The Net Stable Funding Ratio (NSFR) and Liquidity Coverage Ratio (LCR) are regulatory mandates that force ConnectOne to hold less capital in illiquid assets (like loans with long maturities) and more in liquid buffers. This reduces yields but protects against funding runs.
+Liquidity regulation is equally important. Banks must maintain adequate liquid assets (cash, government securities, highly liquid marketable securities) to meet deposit outflows under normal and stressed conditions. The [Net Stable Funding Ratio](/net-stable-funding-ratio/) (NSFR) and [Liquidity Coverage Ratio](/liquidity-coverage-ratio/) (LCR) are regulatory mandates that force ConnectOne to hold less capital in illiquid assets (like loans with long maturities) and more in liquid buffers. This reduces yields but protects against funding runs.
 
 ## Lending and Credit Risk Oversight
 

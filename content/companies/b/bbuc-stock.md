@@ -45,7 +45,7 @@ The third risk is the inherent risk of holding companies: tax drag from holding-
 
 Brookfield Business distributes cash to shareholders through a dividend that has grown steadily over years, though not as predictably as a utility or consumer-staples company. The core dividend is supplemented episodically by special distributions when a subsidiary is sold at a gain or when the parent's capital needs shift. The company also retains capital for [acquisitions](/acquisition/) and reinvestment.
 
-Growth comes from acquiring new businesses (organic growth within subsidiaries is steady but modest), so the company's trajectory depends partly on whether Brookfield's capital-raising activities provide dry powder for purchases. During periods when Brookfield's funds are raising capital successfully, growth accelerates; during fundraising droughts, growth slows. This is a structural feature of the business, not a flaw, but it means Brookfield Business is implicitly a bet on Brookfield's success in raising capital from institutional investors.
+Growth comes from acquiring new businesses (organic growth within subsidiaries is steady but modest), so the company's trajectory depends partly on whether Brookfield's capital-raising activities provide [dry powder](/pe-dry-powder/) for purchases. During periods when Brookfield's funds are raising capital successfully, growth accelerates; during fundraising droughts, growth slows. This is a structural feature of the business, not a flaw, but it means Brookfield Business is implicitly a bet on Brookfield's success in raising capital from institutional investors.
 
 ## How to research Brookfield Business
 

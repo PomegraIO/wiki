@@ -65,4 +65,4 @@ Read the fund's prospectus carefully to understand the exact put strategy: which
 
 Calculate the drag: sum the annualized returns of ATTR over a period when no tail event occurred (say, 2017–2019 or 2021–2023) and compare to [Treasury bills](/treasury-bill/) or a money-market fund. That difference is roughly what you are paying for the hedge.
 
-Finally, run a simple portfolio simulation: imagine your portfolio is 90% stocks and 10% ATTR. Over the past 20 years, what would that blended portfolio's performance have been? Would the reduction in your maximum drawdown have justified the drag? That exercise clarifies whether the hedge aligns with your actual risk tolerance and time horizon.
+Finally, run a simple portfolio simulation: imagine your portfolio is 90% stocks and 10% ATTR. Over the past 20 years, what would that blended portfolio's performance have been? Would the reduction in your [maximum drawdown](/maximum-drawdown/) have justified the drag? That exercise clarifies whether the hedge aligns with your actual risk tolerance and time horizon.

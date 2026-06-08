@@ -56,6 +56,6 @@ Finally, like all concentrated stock portfolios, BAMA will have wider swings tha
 
 Start with Brookstone's prospectus and annual fact sheet, which list the portfolio managers, the investment objective, and the fund's expense ratio. Look at the current holdings (updated regularly on the fund website) — are they large-cap stocks you recognize? Is there a coherent theme, or does it feel random? Coherent conviction is a good sign; scatter is a yellow flag.
 
-Compare BAMA's track record to a large-cap benchmark — the S&P 500 or Russell 1000 — over a full market cycle (ideally multiple cycles). Has it beaten the index after fees over the trailing 3, 5, and 10 years? One year of outperformance is noise; a decade is evidence of something. If it lags, ask whether there is a reason specific to the current environment that might reverse — or accept that you are paying for a manager who has not delivered.
+Compare BAMA's track record to a large-cap benchmark — the S&P 500 or Russell 1000 — over a full [market cycle](/market-cycle/) (ideally multiple cycles). Has it beaten the index after fees over the trailing 3, 5, and 10 years? One year of outperformance is noise; a decade is evidence of something. If it lags, ask whether there is a reason specific to the current environment that might reverse — or accept that you are paying for a manager who has not delivered.
 
 Also check the fund's trading volume and bid-ask spread. A fund with tight spreads and deep volume is easier to get into and out of; a thinly traded fund can cost you real money on entry and exit.

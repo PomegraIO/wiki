@@ -42,7 +42,7 @@ Small and mid-cap companies are also more likely than their mega-cap peers to be
 
 The major constraint on IVSS is that individual SMID stocks trade less frequently than mega-cap names. If an investor needs to sell a large block of shares, moving the price is a real risk. For the fund itself, maintaining liquidity in holdings requires discipline — the fund cannot own stocks so small that trading becomes impossible. The Applied Finance approach keeps holdings within a range where liquidity, though tighter than a mega-cap index, is still workable for most transaction sizes.
 
-[Bid-ask spreads](/bid-ask-spread/) on individual SMID stocks are also wider than on blue chips, which raises the cost of trading. Over time, these friction costs matter. However, the value premium and growth potential available in this space can more than offset that drag if the selection is sound.
+[Bid-ask spreads](/bid-ask-spread/) on individual SMID stocks are also wider than on blue chips, which raises the cost of trading. Over time, these friction costs matter. However, the [value premium](/value-premium/) and growth potential available in this space can more than offset that drag if the selection is sound.
 
 ## Concentration and volatility
 

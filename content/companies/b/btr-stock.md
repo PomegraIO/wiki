@@ -24,7 +24,7 @@ handwritten: true
 
 BTR embodies a specific belief about [diversification](/diversification/): that a fixed mix of stocks and [bonds](/bond/) — say, 60/40 — is suboptimal because it does not adapt to changing market conditions. When volatility spikes and risk aversion rises, a 60/40 portfolio can suffer steep losses because equities fall sharply while bonds offer little offset. When volatility collapses and markets rally, a 60/40 portfolio lags because it is constrained to only 60% equities.
 
-BTR attempts to solve this by dynamically adjusting equity and bond weightings based on quantitative signals. The fund might increase its equity exposure when volatility is low and expected returns are attractive, and it might reduce equity exposure or add defensive positions when volatility rises or [credit spreads](/credit-spread/) widen. The management team uses systematic models (not discretionary judgment) to make these adjustments, applying the same rules consistently across market cycles.
+BTR attempts to solve this by dynamically adjusting equity and bond weightings based on quantitative signals. The fund might increase its equity exposure when volatility is low and expected returns are attractive, and it might reduce equity exposure or add defensive positions when volatility rises or [credit spreads](/credit-spread/) widen. The management team uses systematic models (not discretionary judgment) to make these adjustments, applying the same rules consistently across [market cycles](/market-cycle/).
 
 ## How the tactical signals work
 

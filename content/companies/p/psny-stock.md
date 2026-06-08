@@ -60,7 +60,7 @@ Polestar has historically grown through acquisition, buying independent repair o
 
 ## Building a differentiated brand
 
-In a fragmented market, brand and customer experience are vectors for competitive advantage. Polestar attempts to differentiate through consistent quality, transparent pricing, and trust. Some repair shops are notorious for overselling services or recommending unnecessary repairs; building a reputation for honest diagnostics and fair pricing is valuable. In-store experience matters too — a clean waiting area, friendly staff, and transparent communication about repair status and costs influence where a customer brings their car.
+In a [fragmented market](/fragmented-market/), brand and customer experience are vectors for competitive advantage. Polestar attempts to differentiate through consistent quality, transparent pricing, and trust. Some repair shops are notorious for overselling services or recommending unnecessary repairs; building a reputation for honest diagnostics and fair pricing is valuable. In-store experience matters too — a clean waiting area, friendly staff, and transparent communication about repair status and costs influence where a customer brings their car.
 
 Digital tools and e-commerce also shape competition. Online booking, status updates, and the ability to purchase parts or service plans through an app or website improve convenience. A repair network that invests in these capabilities ahead of competitors can capture customers who value the improved experience, though the advantage tends to be temporary once competitors catch up.
 

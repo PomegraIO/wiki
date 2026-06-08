@@ -16,7 +16,7 @@ keywords: [ADR, American-depositary-receipt, mineral-exploration, Australian-com
 
 ## ADR mechanics and the custody arrangement
 
-An ADR like GGPSF is a tradable receipt issued by a U.S. depositary bank that holds actual shares of the foreign company (Greatland Limited) in custody. The 10-K filed with the [SEC](/securities-and-exchange-commission/) does not disclose the financial results of Greatland Limited directly; instead, it references the underlying company and notes the number of Greatland shares per ADR. Investors in GGPSF must consult the parent company's public filings under Australian law and the ASX ([Australian Securities Exchange](/australian-securities-exchange/)) to understand Greatland's full financial position, board composition, and capital structure. The GGPSF 10-K provides a translation layer: it notes the [dividend](/dividend/) policy and any material announcements by the parent, but for detailed analysis, a reader should cross-reference Greatland Limited's ASX-filed documents (annual reports, half-year results, and ASX announcements). This dual-filing obligation creates a gap that the 10-K flags but does not fill; diligent investors conduct parallel research in both jurisdictions.
+An ADR like GGPSF is a tradable receipt issued by a U.S. [depositary bank](/depositary-bank/) that holds actual shares of the foreign company (Greatland Limited) in custody. The 10-K filed with the [SEC](/securities-and-exchange-commission/) does not disclose the financial results of Greatland Limited directly; instead, it references the underlying company and notes the number of Greatland shares per ADR. Investors in GGPSF must consult the parent company's public filings under Australian law and the ASX ([Australian Securities Exchange](/australian-securities-exchange/)) to understand Greatland's full financial position, board composition, and capital structure. The GGPSF 10-K provides a translation layer: it notes the [dividend](/dividend/) policy and any material announcements by the parent, but for detailed analysis, a reader should cross-reference Greatland Limited's ASX-filed documents (annual reports, half-year results, and ASX announcements). This dual-filing obligation creates a gap that the 10-K flags but does not fill; diligent investors conduct parallel research in both jurisdictions.
 
 ## Multi-jurisdictional exploration footprint and jurisdiction risk
 
@@ -24,7 +24,7 @@ Greatland Resources' exploration portfolio spans multiple countries, typically A
 
 ## Currency exposure and foreign-exchange effects on reporting
 
-Because Greatland Limited reports in [Australian dollars](/australian-dollar/) and GGPSF investors are priced in [U.S. dollars](/us-dollar/), currency fluctuations affect the value of the ADR independent of the underlying company's operational performance. The 10-K's MD&A will note foreign-exchange exposure and the impact of AUD/USD movements on reported results. If the Australian dollar weakens relative to the U.S. dollar, the same asset base in AUD terms becomes smaller when translated to USD for the 10-K. Additionally, if Greatland has cash holdings in AUD but spends it on international exploration (e.g., in West Africa in USD or local currency), the company is exposed to spot rates and conversion costs. GGPSF investors should track the AUD/USD exchange rate as a separate variable affecting the ADR's price, independent of Greatland's actual exploration progress.
+Because Greatland Limited reports in [Australian dollars](/australian-dollar/) and GGPSF investors are priced in [U.S. dollars](/us-dollar/), currency fluctuations affect the value of the ADR independent of the underlying company's operational performance. The 10-K's MD&A will note foreign-exchange exposure and the impact of AUD/USD movements on reported results. If the Australian dollar weakens relative to the U.S. dollar, the same asset base in AUD terms becomes smaller when translated to USD for the 10-K. Additionally, if Greatland has cash holdings in AUD but spends it on international exploration (e.g., in West Africa in USD or local currency), the company is exposed to [spot rates](/spot-rate/) and conversion costs. GGPSF investors should track the AUD/USD exchange rate as a separate variable affecting the ADR's price, independent of Greatland's actual exploration progress.
 
 ## Parent company strategy and capital raises
 
@@ -49,7 +49,7 @@ Greatland Limited's obligations under Australian Corporations Law and ASX Listin
 - [Securities and Exchange Commission](/securities-and-exchange-commission/)
 
 ### Wider context
-- American Depositary Receipt (if in allowlist)
+- American [Depositary Receipt](/depositary-receipt/) (if in allowlist)
 - [Common Stock](/common-stock/)
 - International markets and custody (if in allowlist)
 </div>

@@ -1,0 +1,30 @@
+---
+title: "Relative Strength Managed Volatility Strategy ETF (RSMV)"
+description: "An ETF that applies momentum screening and volatility targeting to a diversified portfolio across global equities and futures, aiming to reduce drawdowns while maintaining growth."
+keywords:
+  - momentum strategy
+  - volatility targeting
+  - multi-asset
+  - managed volatility
+  - relative strength
+  - risk parity
+handwritten: true
+---
+
+The Relative Strength Managed Volatility Strategy ETF (ticker RSMV) pursues an idea that has gained traction among sophisticated investors over the past two decades: rather than simply owning a fixed mix of stocks and [bonds](/bond/), dynamically adjust the portfolio's riskiness based on how wild markets are acting right now. The fund does this by screening for stocks and other assets that are rallying (using a principle called relative strength), then adjusting the size of those positions to keep overall volatility within a target range. The result is a fund that aims to deliver reasonable returns with less severe drawdowns than a traditional 60-40 stock-bond portfolio would experience.
+
+RSMV is managed by Invesco and trades on [NASDAQ](/nasdaq/). The fund is not a simple single-asset ETF; it operates more like a managed account that trades across multiple dimensions — selecting which assets to own based on their relative strength versus peers, then adjusting position sizes based on volatility estimates. This makes it more complex than a buy-and-hold [index fund](/index-fund/), and the fees reflect that complexity.
+
+The core insight behind the fund is that investors often get in trouble by holding fixed allocations through volatile periods. A standard 60-40 portfolio — 60% stocks, 40% bonds — can lose 20% or more in a [bear market](/bear-market/). Many investors panic and sell after losses have already accumulated, locking in losses. A volatility-managed fund tries to reduce those swings by holding less when markets are volatile (thus avoiding the worst of the crash) and holding more when markets are calm. In theory, this lets investors stay fully invested without the emotional toll and poor decisions that come with watching their portfolio halve.
+
+The relative strength component means the fund does not treat all stocks equally. Instead, it asks: which stocks, sectors, and asset classes are rising relative to their peers right now? The fund tilts toward those. For example, if technology stocks are rallying while healthcare stocks are falling, the fund will overweight technology. If commodities are rising while stocks are falling, the fund will rotate capital toward commodities. This is not a market-timing tool in the crude sense — the fund is not trying to predict crashes. Instead, it is saying: follow the money. Own what is working, avoid what is breaking, and adjust how much you own based on current volatility levels.
+
+The fund's multi-asset scope is important. Unlike a pure stock ETF, RSMV can own not just US and international stocks, but also commodity futures, bond futures, and currency positions. This breadth means the fund can find opportunities in many places, and is less dependent on stocks rising for profitability. A severe stock crash can be offset by gains in bonds or commodities if the fund's rules direct it to those positions. Historically, assets that fell hardest in past crashes (stocks) often rebounded fastest afterward, so a fund that was forced out of stocks before the crash and held bonds or cash would miss some of the rebound. RSMV tries to balance this by using relative strength — if stocks start rising after a crash, the relative strength score will shift back in their favor and the fund will re-enter.
+
+The practical result is a return pattern that looks different from traditional stocks or bonds. In calm, rising markets, RSMV might lag a simple stock-heavy portfolio because it is holding some defensive or alternative positions. In volatile, falling markets, RSMV typically falls less because the [volatility targeting](/volatility-targeting/) forced it to reduce position sizes before or as losses accelerated. This is the classic trade-off: smaller wins in good times, smaller losses in bad times.
+
+The fund charges an annual [expense ratio](/expense-ratio/) that reflects the active management, relative strength calculations, and trading involved. Investors should expect to pay something in the range of 0.60% to 0.80% per year — higher than a passive index fund but not unusual for a managed-volatility strategy.
+
+One important caveat is that relative strength screening, like all past-performance based signals, can fail in market reversals. If a stock or sector has been rising for months and is therefore included in the fund, it can suddenly reverse and fall sharply. The fund might then sell it, locking in losses just as it hits bottom. This is not a unique risk to RSMV — it affects all momentum strategies. But it is worth understanding: no rule or signal catches every turning point perfectly. The fund aims to reduce volatility and drawdowns on average, not to eliminate them entirely or to time every shift perfectly.
+
+Evaluating RSMV requires understanding that it is a tool for a specific investor profile. It suits someone who wants equity-like returns but cannot tolerate a 30% or 40% drawdown psychologically or financially — perhaps a near-retiree, or someone who needs capital stability alongside growth. It is less suitable for a young investor who can afford to hold through crashes, since the multi-asset [diversification](/diversification/) and defensive positioning will likely produce lower long-term returns than a simple global stock portfolio. Reading the fund's fact sheet and prospectus to understand its current allocation, volatility target, and the relative strength rules it uses is essential before investing. Monitoring the fund's returns in both bull and bear markets reveals whether the volatility-management approach is actually working or just dragging down returns without delivering the promised protection.

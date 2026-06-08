@@ -54,7 +54,7 @@ If MBGL has achieved strong unit economics in even one market, the template for 
 
 Start with the company's SEC filings via its CIK (2090312), where quarterly and [annual reports](/10-k/) detail revenue, operating costs, and market-by-market performance if disclosed. Earnings calls, if held, will address profitability timeline and capital needs. Check the company's investor relations site for annual reports and guidance on market expansion plans.
 
-The real due diligence is qualitative: Are customers in MBGL's markets sticky and repeat users? Are drivers satisfied and retained, or is there constant churn? How does MBGL's service compare to national platforms in those markets, and does it command a premium or discount? These answers come from speaking to actual users and drivers, not from financials alone.
+The real [due diligence](/due-diligence/) is qualitative: Are customers in MBGL's markets sticky and repeat users? Are drivers satisfied and retained, or is there constant churn? How does MBGL's service compare to national platforms in those markets, and does it command a premium or discount? These answers come from speaking to actual users and drivers, not from financials alone.
 
 <div class="wiki-seealso">
 ### Closely related

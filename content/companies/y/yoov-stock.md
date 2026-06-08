@@ -34,7 +34,7 @@ More recently, property development in Asia has faced headwinds including tighte
 
 ## Hospitality: recurring income with execution risk
 
-The hospitality segment, encompassing hotels and serviced apartments, provides recurring revenue but carries execution risk. Hospitality is a capital-intensive, operationally complex business where brand value, location quality, and management skill determine returns. Concorde's assets span several property types and geographies, which diversifies risk but also creates management complexity.
+The hospitality segment, encompassing hotels and serviced apartments, provides recurring revenue but carries [execution risk](/execution-risk/). Hospitality is a capital-intensive, operationally complex business where brand value, location quality, and management skill determine returns. Concorde's assets span several property types and geographies, which diversifies risk but also creates management complexity.
 
 Hospitality is also cyclical and sensitive to macroeconomic conditions, travel demand, and increasingly, online distribution and pricing pressure from platforms like [Airbnb](/abnb-stock/) and Booking. A hotel or serviced-apartment portfolio that delivered steady returns in the 2000s and 2010s may face margin compression now due to structural shifts in travel and lodging markets. Concorde's hospitality business has not been a significant profit driver in recent years, suggesting either mature assets with modest returns or the need for capital investment to remain competitive.
 

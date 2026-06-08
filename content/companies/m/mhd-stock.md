@@ -29,7 +29,7 @@ The fund's portfolio is diversified across many states and municipal issuers, re
 
 ### How does the fund compete in a crowded market?
 
-The municipal bond fund market is substantial and competitive. Investors can buy municipal bond [mutual funds](/mutual-fund/) that track an index or are actively managed, own individual municipal bonds directly, or invest in closed-end municipal bond funds. BlackRock MuniHoldings Fund competes primarily on the strength of the BlackRock brand, the fund's long operating history and track record, and the attractiveness of its share price and discount or premium to [net asset value](/net-asset-value/).
+The [municipal bond fund](/municipal-bond-fund/) market is substantial and competitive. Investors can buy municipal bond [mutual funds](/mutual-fund/) that track an index or are actively managed, own individual municipal bonds directly, or invest in closed-end municipal bond funds. BlackRock MuniHoldings Fund competes primarily on the strength of the BlackRock brand, the fund's long operating history and track record, and the attractiveness of its share price and discount or premium to [net asset value](/net-asset-value/).
 
 Because MHD is a [closed-end fund](/closed-end-fund/), it trades like a stock and can trade at either a discount or a premium to the net asset value of its underlying holdings. A steep discount can be attractive to new investors buying shares cheaply, but it reflects market skepticism about the fund's strategy or the broader appeal of municipal bonds. A premium suggests strong investor demand and confidence. The fund's competitive position is shaped by these valuation dynamics alongside the actual performance of its bond portfolio.
 

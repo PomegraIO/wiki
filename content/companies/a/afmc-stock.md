@@ -29,11 +29,11 @@ This approach has a particular advantage in mid-caps: it filters for companies t
 
 ## Risks in factor investing
 
-[Factor investing](/factor-investing/) works best in large, liquid markets. In mid-caps, two risks emerge. First, factor crowding: if many funds exploit the same factor, prices can spike until the advantage disappears. Second, liquidity: mid-cap stocks have wider [bid-ask spreads](/bid-ask-spread/) than large-caps, meaning rebalancing costs more.
+[Factor investing](/factor-investing/) works best in large, liquid markets. In mid-caps, two risks emerge. First, [factor crowding](/factor-crowding/): if many funds exploit the same factor, prices can spike until the advantage disappears. Second, liquidity: mid-cap stocks have wider [bid-ask spreads](/bid-ask-spread/) than large-caps, meaning rebalancing costs more.
 
 ## Trading mechanics and the tax question
 
-AFMC trades on the NYSE Arca exchange like a regular stock. Shares can be bought and sold throughout the trading day. Creations and redemptions work behind the scenes to keep the share price in line with the underlying holdings' value.
+AFMC trades on the [NYSE Arca](/nyse-arca/) exchange like a regular stock. Shares can be bought and sold throughout the trading day. Creations and redemptions work behind the scenes to keep the share price in line with the underlying holdings' value.
 
 Because AFMC is an [actively managed fund](/actively-managed-fund/), turnover inside the fund is typically higher than a passive mid-cap index fund. When First Trust decides to rotate into different mid-caps, or when it rebalances as scores change, the fund sells some holdings and buys others. Each trade triggers potential capital gains. For taxable investors, those gains are taxable, which is a cost that index funds largely avoid. For accounts held in retirement plans (which are tax-deferred), this matters less.
 
@@ -45,7 +45,7 @@ The fund also appeals to investors skeptical of passive indexing who want a rule
 
 ## Research and performance tracking
 
-Start with the fund's prospectus and fact sheet on First Trust's website. Both detail the factor system, the current holdings, and the [expense ratio](/expense-ratio/). Compare AFMC's performance against the Russell Midcap Index and other mid-cap funds — both active and passive. Look at years where AFMC beat its benchmark and years where it lagged, and try to understand why. Was it factor timing? Was the opposite factor (growth outperforming value) the driver? Was it simply stock-picking luck?
+Start with the fund's prospectus and fact sheet on First Trust's website. Both detail the factor system, the current holdings, and the [expense ratio](/expense-ratio/). Compare AFMC's performance against the Russell Midcap Index and other mid-cap funds — both active and passive. Look at years where AFMC beat its benchmark and years where it lagged, and try to understand why. Was it [factor timing](/factor-timing/)? Was the opposite factor (growth outperforming value) the driver? Was it simply stock-picking luck?
 
 Check the fund's current holdings: which mid-caps does First Trust own right now? Do the companies look like the kind AFMC claims to target? The portfolio turnover rate — how often the fund trades — should be disclosed in the fact sheet. Higher turnover means more trading costs and more tax events.
 

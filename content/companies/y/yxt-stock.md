@@ -31,7 +31,7 @@ The competitive advantage relies partly on deep knowledge of Chinese corporate t
 
 In recent years, YXT has signaled a shift toward AI-augmented learning and productivity capabilities. The company has positioned new product lines and partnerships around AI-enabled features—from intelligent course recommendation engines to AI-assisted content generation—aiming to reduce the manual effort in designing and maintaining training programs. This pivot reflects both the industry tailwind around generative AI and YXT's recognition that automation and personalization have become table-stakes in enterprise software.
 
-The introduction of the "Radnova" brand for international expansion indicates an appetite to diversify beyond the China-focused business, though execution risk remains material. International expansion into the Americas, Europe, or Southeast Asia would require adaptation of content, compliance with differing data governance regimes, and competition against entrenched vendors in developed markets.
+The introduction of the "Radnova" brand for international expansion indicates an appetite to diversify beyond the China-focused business, though [execution risk](/execution-risk/) remains material. International expansion into the Americas, Europe, or Southeast Asia would require adaptation of content, compliance with differing data governance regimes, and competition against entrenched vendors in developed markets.
 
 ## Risks and Challenges
 

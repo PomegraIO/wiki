@@ -67,7 +67,7 @@ The company must also manage [counterparty risk](/counterparty-risk/). If a majo
 
 Imperial's SEC filings under CIK 0001876581 are the primary source (the company files as a foreign private issuer on Form 6-K). Review the vessel list and capacity by type. Watch for announcements of vessel purchases, sales, or scraps—these signal management's capital allocation philosophy.
 
-Focus on charter rates for tankers and drybulk carriers as reported in industry sources. The Baltic Exchange publishes spot rates for major routes; these are publicly available and provide a market context for Imperial's results. If Imperial's revenue per ton-mile is falling while market rates are stable, the company may be deploying capacity poorly or accepting disadvantageous long-term contracts.
+Focus on charter rates for tankers and drybulk carriers as reported in industry sources. The Baltic Exchange publishes [spot rates](/spot-rate/) for major routes; these are publicly available and provide a market context for Imperial's results. If Imperial's revenue per ton-mile is falling while market rates are stable, the company may be deploying capacity poorly or accepting disadvantageous long-term contracts.
 
 Track the company's [balance sheet](/balance-sheet/) and debt level. Shipping is cyclical, and companies with excessive leverage can be forced into asset sales or restructuring when the cycle turns. Strong liquidity—cash on hand—is a buffer against downturns.
 

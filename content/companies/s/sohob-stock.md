@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Sotherly Hotels](/sohoo-stock/) operates a portfolio of upscale and midscale hotels across the United States. The company owns or leases properties, manages their operations, and generates revenue from room rental, food and beverage, and ancillary services. Unlike large branded hotel chains that primarily manage properties owned by others, Sotherly owns or leases much of what it operates, making it directly exposed to both the operating performance of the hotels and the real estate cycles that drive property values.
+[Sotherly Hotels](/sohoo-stock/) operates a portfolio of upscale and midscale hotels across the United States. The company owns or leases properties, manages their operations, and generates revenue from room rental, food and beverage, and ancillary services. Unlike large branded hotel chains that primarily manage properties owned by others, Sotherly owns or leases much of what it operates, making it directly exposed to both the operating performance of the hotels and the [real estate cycles](/real-estate-cycle/) that drive property values.
 
 ## The hotel business and Sotherly's positioning
 
@@ -39,7 +39,7 @@ The second source is financial leverage: Sotherly funds its property [acquisitio
 
 Hotel operations are capital-intensive. Properties require periodic refurbishment — updating bathrooms, refreshing furnishings, upgrading technology. A hotel typically needs a major renovation every 10 to 15 years, and smaller refresh cycles every few years. These capital expenditures must be made to stay competitive, but they reduce available cash.
 
-Moreover, Sotherly's profitability depends on the value of the underlying real estate. If Sotherly owns a property and occupancy falls, the property's market value may fall along with the cash flow it generates. A property that cost 10 million and was profitable enough to justify that price, but is now less profitable, may be worth only 7 or 8 million. If Sotherly has borrowed against that property, the loan-to-value ratio climbs, and refinancing becomes more expensive or difficult. In a downturn, property values can fall faster than occupancy, forcing distressed sales.
+Moreover, Sotherly's profitability depends on the value of the underlying real estate. If Sotherly owns a property and occupancy falls, the property's market value may fall along with the cash flow it generates. A property that cost 10 million and was profitable enough to justify that price, but is now less profitable, may be worth only 7 or 8 million. If Sotherly has borrowed against that property, the [loan-to-value ratio](/loan-to-value-ratio/) climbs, and refinancing becomes more expensive or difficult. In a downturn, property values can fall faster than occupancy, forcing distressed sales.
 
 ## The boom-bust dynamic
 

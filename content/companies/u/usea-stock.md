@@ -43,8 +43,8 @@ The upside in shipping cycles is that rates are cyclical upward too. When freigh
 
 Start with the SEC filing (CIK 0001912847) and look for detailed information on each of the six vessels: the ship type, age, delivery date, and contracted charter rates (if any are in place). Ships vary enormously in efficiency, and older ships cost more to operate. An aging fleet means higher operating costs; newer ships built to modern fuel-efficiency standards cost less to deploy.
 
-Watch the quarterly reports for contracted forward revenue. If the company has locked in charter rates for most of the fleet for the next six months, that provides visibility. If most of the fleet is operating on spot rates (day-by-day), the business is more volatile.
+Watch the quarterly reports for contracted forward revenue. If the company has locked in charter rates for most of the fleet for the next six months, that provides visibility. If most of the fleet is operating on [spot rates](/spot-rate/) (day-by-day), the business is more volatile.
 
 Also monitor the dry bulk freight indices — the Baltic Dry Index is the most widely followed benchmark for the cost of shipping coal, grain, and [iron ore](/iron-ore/). A sustained decline in the BDI signals that freight rates are falling and that United Maritime's profitability is likely under pressure. Conversely, a rise in dry bulk rates is a tailwind for the stock, provided the company has available capacity (ships not under long-term contract) to capture higher rates.
 
-Finally, track any vessel [acquisitions](/acquisition/), sales, or newbuilds. If United Maritime is expanding, it signals management confidence in forward rates. If the company is selling ships, it may signal distress or a pessimistic outlook.
+Finally, track any vessel [acquisitions](/acquisition/), sales, or newbuilds. If United Maritime is expanding, it signals management confidence in [forward rates](/forward-rate/). If the company is selling ships, it may signal distress or a pessimistic outlook.

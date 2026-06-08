@@ -44,7 +44,7 @@ The company also faces competition from smaller, indie studios; from free-to-pla
 
 ## Pressures and Risks
 
-Live-service games carry execution risk: a bad launch, poor post-launch support, or a shift in player taste can crater revenue. Anthem, a multiplayer action game EA published in 2019, was a critical and commercial failure; it generated far less revenue than expected and required costly updates to recover player confidence. Conversely, Apex Legends has been a sustained hit, demonstrating that EA can build new franchises if execution is sound.
+Live-service games carry [execution risk](/execution-risk/): a bad launch, poor post-launch support, or a shift in player taste can crater revenue. Anthem, a multiplayer action game EA published in 2019, was a critical and commercial failure; it generated far less revenue than expected and required costly updates to recover player confidence. Conversely, Apex Legends has been a sustained hit, demonstrating that EA can build new franchises if execution is sound.
 
 Regulatory risk is growing. Countries including Belgium and the Netherlands have scrutinized loot boxes as a form of gambling; some have restricted or banned them outright. The [U.S. Federal Trade Commission (FTC)](/wiki/public-company/) and lawmakers in several states have opened investigations into video-game monetization. Changes in regulation could force EA to alter its business model or pricing in major markets.
 

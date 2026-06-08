@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The Leverage Shares 2X Long AVGO Daily ETF is an exchange-traded fund that seeks to deliver twice the daily return of [Broadcom](/avgo-stock/) shares. Rather than buying Broadcom stock on margin, it achieves leverage through a derivative contract with a bank counterparty — a structure designed for traders making short-term bets, not long-term investors.*
+*The Leverage Shares 2X Long AVGO Daily ETF is an exchange-traded fund that seeks to deliver twice the daily return of [Broadcom](/avgo-stock/) shares. Rather than buying Broadcom stock on margin, it achieves leverage through a [derivative contract](/derivative-contract/) with a bank counterparty — a structure designed for traders making short-term bets, not long-term investors.*
 
 <aside class="wiki-infobox">
 <table>

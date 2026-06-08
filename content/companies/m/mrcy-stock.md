@@ -40,7 +40,7 @@ Mercury's customer concentration is high: the vast majority of revenue comes fro
 
 Mercury Systems' revenue model combines new platform awards (competitive bids for new contracts) and sustainment revenue (upgrades and production on existing programs). Much of the volume is "known"—once a particular radar system is fielded and the company has won the contract for a particular subsystem, there is typically a predictable stream of production orders as the military buys more platforms or upgrades existing ones. However, each large contract must be competed for or re-competed at contract expiration, so the recurring nature is not as predictable as a software subscription, and the company's growth depends on both the installed base and its ability to win new awards.
 
-Defense contracts are typically either fixed-price (the contractor absorbs cost overruns) or cost-plus (the customer reimburses actual costs plus an agreed margin). Cost-plus arrangements offer more protection and steadier margins, while fixed-price contracts carry execution risk but can be more profitable if managed well. Mercury works with both types.
+Defense contracts are typically either fixed-price (the contractor absorbs cost overruns) or cost-plus (the customer reimburses actual costs plus an agreed margin). Cost-plus arrangements offer more protection and steadier margins, while fixed-price contracts carry [execution risk](/execution-risk/) but can be more profitable if managed well. Mercury works with both types.
 
 ## What are the real competitive pressures?
 

@@ -35,7 +35,7 @@ A typical Comtech revenue stream takes the form of a multiyear production contra
 
 ## R&D and Technological Positioning
 
-Comtech invests aggressively in RF simulation, antenna design, and signal-processing software—disciplines that remain difficult to offshore or commoditize. The company's competitive position rests on engineering talent and relationships with defense program offices rather than on proprietary manufacturing or logistics networks. This makes the company more resilient to cheap offshore competition but more vulnerable to staff retention and skilled-labor market cycles.
+Comtech invests aggressively in RF simulation, antenna design, and signal-processing software—disciplines that remain difficult to offshore or commoditize. The company's competitive position rests on engineering talent and relationships with defense program offices rather than on proprietary manufacturing or logistics networks. This makes the company more resilient to cheap offshore competition but more vulnerable to staff retention and skilled-labor [market cycles](/market-cycle/).
 
 ## Peer Differentiation
 

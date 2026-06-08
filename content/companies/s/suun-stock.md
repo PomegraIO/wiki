@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-POWERBANK operates in the portable power and battery space, manufacturing and distributing devices that store electrical energy for mobile phones, laptops, industrial tools, and other equipment. The company depends upstream on electronics component manufacturers, battery cell suppliers, and logistics networks, and serves downstream a vast and fragmented market of consumers and enterprises that require portable power.
+POWERBANK operates in the portable power and battery space, manufacturing and distributing devices that store electrical energy for mobile phones, laptops, industrial tools, and other equipment. The company depends upstream on electronics component manufacturers, battery cell suppliers, and logistics networks, and serves downstream a vast and [fragmented market](/fragmented-market/) of consumers and enterprises that require portable power.
 
 The company's essential business is simple: acquire battery cells and electronic components, assemble them into products that hold and deliver electrical charge, and sell those products to resellers and end users. But simplicity masks profound competitive pressures. POWERBANK competes in one of the most commodified markets in consumer electronics, where price and convenience dominate purchasing decisions, and where dozens of manufacturers with varying quality standards flood distribution channels.
 

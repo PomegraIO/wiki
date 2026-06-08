@@ -51,7 +51,7 @@ Downside risks for NAT:
 
 ## How Investors Research It
 
-The 10-K is essential: fleet age, debt maturity profile, daily operating costs, and average rates earned. NAT files with the SEC (CIK 1000177) and is transparent about vessel utilization and cost structure.
+The 10-K is essential: fleet age, [debt maturity profile](/debt-maturity-profile/), daily operating costs, and average rates earned. NAT files with the SEC (CIK 1000177) and is transparent about vessel utilization and cost structure.
 
 Key metrics to follow:
 - **Average daily time charter equivalent (TCE).** This is the implied day rate after deducting voyage costs; it reflects market reality.

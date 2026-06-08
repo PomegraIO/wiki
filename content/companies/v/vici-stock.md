@@ -37,7 +37,7 @@ A REIT is a creature of tax code. In exchange for distributing at least 90 perce
 
 VICI's cash comes from lease payments. When Caesars or MGM Resorts generates earnings from their casino operations, a portion flows out as rent to VICI under the terms of each [triple-net lease](/triple-net-lease/). Those lease rents are contractual obligations, typically adjusted for [inflation](/inflation/) or fixed terms measured in decades. A casino operator cannot simply relocate to escape a lease; the property is immobile and specialised. That asset-specificity gives VICI unusual leverage: the operators need the buildings far more than VICI needs to operate casinos, and the lease terms reflect that imbalance in VICI's favour.
 
-The company also generates returns from new [acquisitions](/acquisition/) and upgrades. In 2021, VICI acquired additional properties including The Venetian in Las Vegas and Venetian Macao, dramatically expanding its footprint in one of the world's largest gaming centres. These deals were financed partly with debt and partly with equity issuance, and they substantially increased the rent roll.
+The company also generates returns from new [acquisitions](/acquisition/) and upgrades. In 2021, VICI acquired additional properties including The Venetian in Las Vegas and Venetian Macao, dramatically expanding its footprint in one of the world's largest gaming centres. These deals were financed partly with debt and partly with equity issuance, and they substantially increased the [rent roll](/rent-roll/).
 
 ## The moat is the real estate, not the operator
 

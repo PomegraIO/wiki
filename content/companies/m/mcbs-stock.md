@@ -29,7 +29,7 @@ The quality of this loan book determines [credit risk](/credit-risk/). Unlike na
 
 ## Capital Ratios and Regulatory Constraint
 
-Community banks operate under mandated capital ratios, set by the [Federal Reserve](/federal-reserve/) and OCC ([Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/)). MetroCity must hold minimum percentages of capital—common equity tier 1, tier 1, and total capital—relative to its risk-weighted assets. A bank that has accumulated losses, paid excessive [dividends](/dividend/), or grown too fast without raising capital can fall below these minimums and trigger regulatory action.
+Community banks operate under mandated capital ratios, set by the [Federal Reserve](/federal-reserve/) and OCC ([Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/)). MetroCity must hold minimum percentages of capital—common equity tier 1, tier 1, and total capital—relative to its [risk-weighted assets](/risk-weighted-assets/). A bank that has accumulated losses, paid excessive [dividends](/dividend/), or grown too fast without raising capital can fall below these minimums and trigger regulatory action.
 
 For MetroCity, maintaining adequate capital ratio while growing deposits and loans requires disciplined [dividend](/dividend/) payout (not returning all earnings to shareholders) and, periodically, raising new equity. A series of bad loans or a real estate downturn can erode capital quickly and force the bank to curtail growth, raise capital at potentially unfavorable prices, or in extreme cases, merge with a stronger peer.
 
@@ -47,7 +47,7 @@ MetroCity operates in a market where it competes with larger regional banks (e.g
 
 ## Accessing Financial Statements
 
-MetroCity's [10-K](/10-k/) and quarterly 10-Q filings contain detailed schedules of its loan composition, deposit mix by type and rate sensitivity, interest income and expense, loan loss reserves, and capital ratios. The MD&A (management discussion and analysis) section discusses local market conditions, rate environment, and management's outlook. These disclosures are the primary source for understanding MetroCity's specific asset quality, funding stability, and earnings trajectory.
+MetroCity's [10-K](/10-k/) and quarterly 10-Q filings contain detailed schedules of its loan composition, deposit mix by type and rate sensitivity, interest income and expense, loan loss reserves, and capital ratios. The MD&A ([management discussion and analysis](/management-discussion-and-analysis/)) section discusses local market conditions, rate environment, and management's outlook. These disclosures are the primary source for understanding MetroCity's specific asset quality, funding stability, and earnings trajectory.
 
 <div class="wiki-seealso">
 ### Closely related

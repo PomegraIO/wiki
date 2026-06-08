@@ -33,7 +33,7 @@ The sourcing relationship shapes costs and consistency. A company reliant on sea
 
 ## Warehouse, Cold Chain, and Distribution
 
-Once produced, juice must reach consumers quickly. Unlike shelf-stable foods, most juice requires refrigeration (especially unpasteurized or fresh-pressed varieties) or specific temperature and light conditions during distribution. Buda must operate or contract warehouse space with appropriate cold storage, manage inventory rotation (first-in-first-out to minimize spoilage), and coordinate distribution to retailers before products near expiration.
+Once produced, juice must reach consumers quickly. Unlike shelf-stable foods, most juice requires refrigeration (especially unpasteurized or fresh-pressed varieties) or specific temperature and light conditions during distribution. Buda must operate or contract warehouse space with appropriate [cold storage](/cold-storage-crypto/), manage inventory rotation (first-in-first-out to minimize spoilage), and coordinate distribution to retailers before products near expiration.
 
 Distribution networks vary by scale. Large companies with national distribution use dedicated logistics operations or regional distribution centers; smaller companies may use third-party distributors or wholesalers who take ownership of product and distribute to retailers in their territories. Buda's distribution model directly affects its reach and margin. Direct distribution to major retailers ([Walmart](/wmt-stock/), [Target](/tgt-stock/), Whole Foods) requires relationships and infrastructure; working through regional or national distributors is easier to manage but sacrifices margin.
 

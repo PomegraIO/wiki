@@ -53,4 +53,4 @@ A SPAC with a defense-sector focus carries sector-specific risks atop the usual 
 
 ## How to research Kochav
 
-Investors should review Kochav's prospectus and the detailed biographies of the sponsor team to assess their relevant experience and track record. When and if a merger is announced, the proxy statement will provide detailed operating and financial information about the proposed target. That is when the real due diligence begins — the prospectus is only the promise.
+Investors should review Kochav's prospectus and the detailed biographies of the sponsor team to assess their relevant experience and track record. When and if a merger is announced, the [proxy statement](/proxy-statement/) will provide detailed operating and financial information about the proposed target. That is when the real [due diligence](/due-diligence/) begins — the prospectus is only the promise.

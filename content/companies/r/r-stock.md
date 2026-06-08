@@ -86,7 +86,7 @@ Finally, there is capital intensity. Ryder must continuously invest in new truck
 
 The [10-K](/wiki/10-k/) is the essential document. Read the segment breakdowns carefully—pay special attention to the percentage of revenue from each business line and trends in lease rates and utilization. Ryder discloses used vehicle inventory and sales data, which seasoned investors track obsessively because residual value trends lead earnings moves by one to two quarters.
 
-Quarterly earnings calls are essential listening. Management's commentary on lease rate trends, utilization rates, and disposal timing of used vehicles are leading indicators of near-term health. If the CFO emphasizes residual value strength, that's bullish. If management guides conservatively on disposal volumes, that often precedes weaker earnings.
+Quarterly earnings calls are essential listening. Management's commentary on lease rate trends, utilization rates, and disposal timing of used vehicles are [leading indicators](/leading-indicator/) of near-term health. If the CFO emphasizes residual value strength, that's bullish. If management guides conservatively on disposal volumes, that often precedes weaker earnings.
 
 Watching physical truck volumes matters. Fleet size, vehicles on lease versus rental, and the age mix of the fleet hint at utilization and future maintenance costs. Industry-wide data on used truck pricing, new truck orders, and trucking utilization rates (available from industry databases) provide context for Ryder's performance.
 

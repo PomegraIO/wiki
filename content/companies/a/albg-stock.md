@@ -47,7 +47,7 @@ Leverage Shares Limited, the sponsor, is a specialist provider of leveraged and 
 
 ## Risks beyond decay
 
-Volatility decay is the signature long-term risk, but not the only one. ALBG concentrates entirely on a single underlying asset, ALB, rather than diversifying across a sector or asset class. Company-specific shocks to Albemarle—supply disruptions, regulatory changes, or competitive pressures in lithium or bromine markets—are magnified in the fund. The leverage also creates sharp daily swings large enough to trigger [margin calls](/margin-call-forex/) or forced [liquidations](/liquidation/) in leveraged accounts, and the fund can gap down on an adverse opening, creating execution risk for sellers.
+Volatility decay is the signature long-term risk, but not the only one. ALBG concentrates entirely on a single underlying asset, ALB, rather than diversifying across a sector or asset class. Company-specific shocks to Albemarle—supply disruptions, regulatory changes, or competitive pressures in lithium or bromine markets—are magnified in the fund. The leverage also creates sharp daily swings large enough to trigger [margin calls](/margin-call-forex/) or forced [liquidations](/liquidation/) in leveraged accounts, and the fund can gap down on an adverse opening, creating [execution risk](/execution-risk/) for sellers.
 
 [Liquidity risk](/liquidity-risk/) is material. If trading volume evaporates during a volatile move, exiting at a fair price may be impossible. The fund's credit exposure depends on whether Leverage Shares can meet daily obligations; any disruption to the sponsor's operations would directly affect the fund.
 

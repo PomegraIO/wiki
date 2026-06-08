@@ -40,7 +40,7 @@ Riot's profitability is leveraged to Bitcoin's price. If Bitcoin doubles, Riot's
 
 The monthly distributions that RTYY pays come from the option premiums collected by the fund. These distributions are taxed as ordinary income in taxable accounts, not as capital gains or [dividends](/dividend/), which can be a significant disadvantage for investors in high tax brackets. This is important to understand: the steady monthly cash flow is attractive, but it comes with a tax bill that can be substantial. Investors in RTYY should carefully review the tax treatment and ensure they understand the tax cost of the income strategy.
 
-The distributions also vary significantly depending on Bitcoin price volatility and the strikes at which the fund sells calls. In a period of low volatility, option premiums fall and distributions may decline sharply or even briefly. In a period of high volatility, premiums increase and distributions rise. This unpredictability can surprise income-seeking investors who expect a steady monthly payout.
+The distributions also vary significantly depending on Bitcoin price volatility and the strikes at which the fund sells calls. In a period of low [volatility, option](/volatility-option/) premiums fall and distributions may decline sharply or even briefly. In a period of high volatility, premiums increase and distributions rise. This unpredictability can surprise income-seeking investors who expect a steady monthly payout.
 
 ## Risks specific to Bitcoin mining and single-stock leverage
 

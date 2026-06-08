@@ -34,7 +34,7 @@ The company's evolution reflects the geography of commodity extraction: where or
 
 BHP's role in global supply chains is foundational and largely invisible to the consumer. Iron ore from its Australian mines is shipped to steelmakers in China, Japan, and elsewhere. That steel becomes the girders of skyscrapers, the hulls of ships, the reinforcement in concrete, the framework of wind turbines and transmission towers. Copper, mined in Chile and processed in multiple locations, flows to electrical manufacturers, power grid operators, and renewable-energy projects. Metallurgical coal is sold to steel mills that cannot switch easily to other fuel sources. Liquefied natural gas, produced in Australia and sold on long-term contracts, powers electricity generation and heats homes across Asia and Europe.
 
-Most of BHP's revenue comes from these long-established, capital-intensive commodities. Spot prices fluctuate, but the structure is straightforward: extract ore, process it, ship it, and receive payment from industrial customers bound by long-term contracts or spot-market buyers. That simplicity masks the enormous complexity of running a mining operation: navigating local regulations, managing environmental remediation, securing mining rights, and operating in jurisdictions where political risk is material.
+Most of BHP's revenue comes from these long-established, capital-intensive commodities. Spot prices fluctuate, but the structure is straightforward: extract ore, process it, ship it, and receive payment from industrial customers bound by long-term contracts or spot-market buyers. That simplicity masks the enormous complexity of running a mining operation: navigating local regulations, managing environmental remediation, securing mining rights, and operating in jurisdictions where [political risk](/political-risk/) is material.
 
 ## What makes BHP different from smaller miners
 
@@ -54,7 +54,7 @@ BHP returns capital to shareholders through [dividends](/dividend/) and [share b
 
 ## Environmental and social pressures
 
-Mining is inherently extractive, and BHP operates in an era of rising environmental and social accountability. The company maintains operations in regions with weak governance or indigenous land claims, which creates regulatory and reputational risk. Large mining projects now routinely face years of environmental review and community consultation before approval. Remediation and site rehabilitation are extremely expensive, and the company carries liabilities for mines that have closed decades ago.
+Mining is inherently extractive, and BHP operates in an era of rising environmental and social accountability. The company maintains operations in regions with weak governance or indigenous land claims, which creates regulatory and [reputational risk](/reputational-risk/). Large mining projects now routinely face years of environmental review and community consultation before approval. Remediation and site rehabilitation are extremely expensive, and the company carries liabilities for mines that have closed decades ago.
 
 Climate policy presents another layer of risk. Coal, which still represents a meaningful share of BHP's earnings, faces secular decline as governments phase it out. While the company has exited thermal coal in Australia and is shrinking its coal footprint, it remains a material revenue source and a lightning rod for activist investors. Conversely, BHP's copper and minerals that support renewable energy and electrification stand to benefit from the energy transition.
 

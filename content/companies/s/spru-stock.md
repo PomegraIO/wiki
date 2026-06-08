@@ -59,7 +59,7 @@ The capital intensity of the business is embedded in asset acquisition. Spruce m
 
 Spruce's business rests on regulatory assumptions. Federal and state tax credits, SREC markets, and net-metering rules (which determine how much credit homeowners receive for excess solar generation fed back to the grid) form the foundation of solar economics. Changes to any of these could affect the profitability of Spruce's asset portfolio. For example, if states phase out SREC requirements or if federal tax credits decline faster than expected, the wholesale value of Spruce's systems falls, compressing margins.
 
-Technology risk is another vector. Battery storage technology is improving and becoming cheaper. As homeowners add storage to their solar systems, the electricity profile changes — stored energy is used differently than real-time generation, affecting SREC eligibility and grid-support value. Spruce must evolve its business model to account for these technology shifts.
+[Technology risk](/technology-risk/) is another vector. Battery storage technology is improving and becoming cheaper. As homeowners add storage to their solar systems, the electricity profile changes — stored energy is used differently than real-time generation, affecting SREC eligibility and grid-support value. Spruce must evolve its business model to account for these technology shifts.
 
 Subscription churn is a third risk. Homeowners might default on subscription payments, sell their homes, or experience financial stress that affects their ability to pay. Spruce's business model depends on low churn and strong collections. Economic downturns typically hurt subscription businesses first.
 

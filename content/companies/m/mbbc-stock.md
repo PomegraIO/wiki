@@ -57,7 +57,7 @@ On the lending side, Marathon competes against national banks (which have lower 
 
 ## Regulatory Burden and Capital Adequacy
 
-As a publicly traded bank, Marathon is subject to extensive regulatory oversight: Fed stress tests, liquidity coverage ratios, [leverage ratios](/leverage-ratio-forex/), and [concentration limits](/concentration-limits/). These requirements shape the bank's capital planning and constrain its ability to return capital to shareholders (through [dividends](/dividend/) or buybacks) if capital ratios are below regulatory targets.
+As a publicly traded bank, Marathon is subject to extensive regulatory oversight: Fed stress tests, [liquidity coverage ratios](/liquidity-coverage-ratio/), [leverage ratios](/leverage-ratio-forex/), and [concentration limits](/concentration-limits/). These requirements shape the bank's capital planning and constrain its ability to return capital to shareholders (through [dividends](/dividend/) or buybacks) if capital ratios are below regulatory targets.
 
 The bank must also maintain compliance with anti-money-laundering, know-your-customer, and fair-lending rules. Non-compliance can result in significant fines and reputational damage. This regulatory burden is a cost of being public and operating a national [stock](/stock/) exchange-listed bank; smaller, non-public banks face less scrutiny.
 

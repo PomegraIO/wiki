@@ -41,7 +41,7 @@ Kimbell is structured as a master limited partnership (MLP), a legal entity that
 
 MLPs are required to distribute at least 90% of their taxable income annually, making them high-distribution-yield vehicles. Kimbell's distribution yield—the annual distribution per unit divided by the unit price—is typically 5–10%, much higher than [dividend yields](/dividend-yield/) on [common stock](/common-stock/). This high yield attracts income-focused investors, including retirees and long-term holders seeking steady cash returns.
 
-However, MLP distributions are not the same as [dividends](/dividend/): they are ordinary income and often include return-of-capital components, making the tax situation complex. Unitholders receive a Schedule K-1 (partnership tax form) each year showing their share of partnership income, deductions, and credits, often with complexities related to [depreciation](/depreciation/) and depletion allowances.
+However, MLP distributions are not the same as [dividends](/dividend/): they are ordinary income and often include return-of-capital components, making the tax situation complex. Unitholders receive a [Schedule K-1](/schedule-k-1/) (partnership tax form) each year showing their share of partnership income, deductions, and credits, often with complexities related to [depreciation](/depreciation/) and depletion allowances.
 
 ## Production Declines and Reserve Replacement
 

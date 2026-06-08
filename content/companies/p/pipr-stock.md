@@ -81,7 +81,7 @@ Finally, talent concentration is a real risk. Investment banking is a people bus
 
 ## How to research Piper Sandler as an investment
 
-Start with the quarterly earnings report and the annual 10-K (SEC CIK 0001230245). These show what revenue came from advisory, what came from principal investing, what came from trading, and what came from asset management. Pay attention to deal flow — a rising number of completed or announced deals is a leading indicator of future revenue. Watch the "backlog" if the company discloses it, which shows deals in process that will generate revenue soon.
+Start with the quarterly earnings report and the annual 10-K (SEC CIK 0001230245). These show what revenue came from advisory, what came from principal investing, what came from trading, and what came from asset management. Pay attention to deal flow — a rising number of completed or announced deals is a [leading indicator](/leading-indicator/) of future revenue. Watch the "backlog" if the company discloses it, which shows deals in process that will generate revenue soon.
 
 The 10-K also details the firm's principal investments and shows what the firm has at risk in private deals and funds. That can be useful to understand; if a big deal goes bad, Piper Sandler could lose significant capital.
 

@@ -58,7 +58,7 @@ In stable economic periods, well-located hotels in high-demand markets (major bu
 
 HGIT operates globally rather than concentrating in a single market or region. This geographic spread means the REIT is not entirely dependent on any one country's or region's economic performance. A slowdown in Europe may be offset by strength in Asia; weakness in the United States may be balanced by solid performance in emerging markets. The downside is operational complexity — managing properties, understanding local lease law, dealing with foreign exchange exposure, and navigating different tax regimes across many countries.
 
-Currency exposure is a real issue for a globally diversified REIT. Properties and rents are denominated in foreign currencies, which fluctuate against the dollar. A strengthening dollar makes foreign currency earnings worth less when repatriated; a weakening dollar amplifies foreign earnings. HGIT has to manage this [currency risk](/currency-risk/), either through hedging (which costs money) or by accepting the volatility.
+Currency exposure is a real issue for a globally [diversified REIT](/diversified-reit/). Properties and rents are denominated in foreign currencies, which fluctuate against the dollar. A strengthening dollar makes foreign currency earnings worth less when repatriated; a weakening dollar amplifies foreign earnings. HGIT has to manage this [currency risk](/currency-risk/), either through hedging (which costs money) or by accepting the volatility.
 
 ## Leverage and the debt environment
 

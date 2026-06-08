@@ -44,7 +44,7 @@ The fund is relatively liquid, meaning shares trade frequently enough that you c
 
 The primary risk is interest-rate movement. If yields on short-term government debt in developed countries climb sharply, the bonds in the fund—which pay fixed rates locked in the past—become less attractive, and their prices fall. Conversely, falling rates lift bond prices. This is less extreme than for long-term bonds, but it is real.
 
-A secondary risk is [currency volatility](/currency-volatility/). If you are a US investor and the dollar strengthens across the board, the foreign-currency value of your holdings takes a hit when converted back into dollars. For some investors, that is a reason to pair BWZ with a currency-hedged fund. For others—particularly those who want dollar-diversification exposure—the unhedged design is the whole point.
+A secondary risk is [currency volatility](/currency-volatility/). If you are a US investor and the dollar strengthens across the board, the foreign-currency value of your holdings takes a hit when converted back into dollars. For some investors, that is a reason to pair BWZ with a [currency-hedged fund](/currency-hedged-fund/). For others—particularly those who want dollar-diversification exposure—the unhedged design is the whole point.
 
 [Inflation](/inflation/) is another perpetual bond-holder concern. When prices in the real economy accelerate, central banks tighten policy, rates rise, and bond prices fall. Short-term bonds suffer less than long-term ones, but they are not immune.
 

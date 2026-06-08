@@ -39,7 +39,7 @@ TE's revenue depends on **how many vehicles, phones, routers, and other end prod
 
 The business also depends on **technology transitions**. When an industry shifts to a new architecture or standard, demand for the old component type disappears and demand for the new type appears. TE has to anticipate these shifts, invest in R&D early, and be positioned to supply volume when the new standard takes off. Missing a major transition (or being too late) can be costly; winning early (and scaling production) is highly profitable.
 
-Examples: the shift from 4G to 5G networks increased demand for high-speed interconnect; the transition to electric vehicles is driving demand for new types of power connectors and battery management sensors. TE has positioned itself to benefit from both trends, but execution risk is real. If the company invests in capacity for a technology transition that doesn't happen as fast as expected, it is left with expensive factories running below capacity.
+Examples: the shift from 4G to 5G networks increased demand for high-speed interconnect; the transition to electric vehicles is driving demand for new types of power connectors and battery management sensors. TE has positioned itself to benefit from both trends, but [execution risk](/execution-risk/) is real. If the company invests in capacity for a technology transition that doesn't happen as fast as expected, it is left with expensive factories running below capacity.
 
 ## Exposure to manufacturing and supply
 
@@ -53,7 +53,7 @@ TE's business is straightforward to understand but details-heavy to analyze. Sta
 
 Key questions to ask:
 
-- **Order trends and backlog** — are large customers placing big orders or cancelling commitments? The size of unfilled orders is a leading indicator of near-term revenue.
+- **Order trends and backlog** — are large customers placing big orders or cancelling commitments? The size of unfilled orders is a [leading indicator](/leading-indicator/) of near-term revenue.
 - **Gross margins by segment** — which end markets are most profitable? Is the company gaining or losing pricing power in each segment?
 - **Capital expenditures and capacity utilization** — is TE building factories in anticipation of demand, or running existing capacity to the limit? The answer reveals whether management expects growth or expects demand to slow.
 - **Technology content per end product** — are the connectors and sensors TE supplies becoming more or less valuable as a percentage of the total product cost? If less valuable, TE's pricing power erodes.

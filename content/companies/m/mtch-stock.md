@@ -41,7 +41,7 @@ The clearest threat is user fatigue and market saturation, particularly in North
 
 Regulatory risk is also material. Regulators and advocacy groups have scrutinised Match Group over child safety, fraud, and the manipulation of algorithms to extend user session time. In some jurisdictions, Match has faced mandates to allow interoperability between dating apps — if regulators force users to match across different platforms, the moat of owning the largest portfolio weakens considerably.
 
-Technology risk is subtler but real. The core product is still human curation and algorithmic ranking — at its heart, a dating app is a search engine with messaging. If a new platform or use case (real-world speed dating, AI matchmaking, or something not yet invented) displaced Tinder's role as the default, Match Group's portfolio would be vulnerable to the same disruption simultaneously.
+[Technology risk](/technology-risk/) is subtler but real. The core product is still human curation and algorithmic ranking — at its heart, a dating app is a search engine with messaging. If a new platform or use case (real-world speed dating, AI matchmaking, or something not yet invented) displaced Tinder's role as the default, Match Group's portfolio would be vulnerable to the same disruption simultaneously.
 
 Finally, there is the financial reality that dating is a business most of its users want to eventually leave. A Tinder user who successfully pairs off deletes the app. The business model depends on churn — on a steady supply of single people to monetise — and on those who remain single but keep paying. That is a uncomfortable foundation for long-term growth.
 

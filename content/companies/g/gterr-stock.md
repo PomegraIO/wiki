@@ -41,7 +41,7 @@ Warrant holders and right holders are not automatically converted to shares unle
 
 Globa Terra went public in July 2025, meaning the clock is ticking toward a 24-month deadline in mid-2027 for completing a business combination. Every quarter without news of a target reduces the likelihood that a deal will close, increasing redemption risk. If too many shareholders redeem, the deal may no longer be large enough relative to the remaining capital, making it uneconomic.
 
-When Globa Terra announces a target, shareholders will receive a proxy statement containing the target's audited financial statements, the valuation methodology, terms of the merger, and pro-forma financial projections for the combined company. Shareholders will have time to review and then vote. This is the critical moment: the vote often determines the deal's success or failure, and it gives every shareholder a chance to evaluate the terms before committing capital to the combined company.
+When Globa Terra announces a target, shareholders will receive a [proxy statement](/proxy-statement/) containing the target's audited financial statements, the valuation methodology, terms of the merger, and pro-forma financial projections for the combined company. Shareholders will have time to review and then vote. This is the critical moment: the vote often determines the deal's success or failure, and it gives every shareholder a chance to evaluate the terms before committing capital to the combined company.
 
 ## The risk of waiting
 

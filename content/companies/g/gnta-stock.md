@@ -36,7 +36,7 @@ Filings reference partnerships, licensing agreements, and research collaboration
 
 ## Financial Reporting Framework and Key Line Items
 
-Under IFRS, Genenta reports research and development expenses, general and administrative overhead, and operating losses (since it has no revenue). The [income statement](/income-statement/) shows the company's cash burn pattern; the [cash flow statement](/cash-flow-statement/) demonstrates how burning cash relates to working capital needs, capital expenditures, and financing activities. The company's audit firm and auditor's opinion on internal controls (or lack thereof) are disclosed in the financial statement sections—material for assessing governance and financial reporting reliability. For a clinical-stage company, reading the auditor's letter carefully often reveals constraints on historical financial data or assertions.
+Under IFRS, Genenta reports [research and development expenses](/research-development-expense/), general and administrative overhead, and operating losses (since it has no revenue). The [income statement](/income-statement/) shows the company's cash burn pattern; the [cash flow statement](/cash-flow-statement/) demonstrates how burning cash relates to working capital needs, capital expenditures, and financing activities. The company's audit firm and auditor's opinion on internal controls (or lack thereof) are disclosed in the financial statement sections—material for assessing governance and financial reporting reliability. For a clinical-stage company, reading the auditor's letter carefully often reveals constraints on historical financial data or assertions.
 
 ## Geographic and Clinical Trial Footprint
 

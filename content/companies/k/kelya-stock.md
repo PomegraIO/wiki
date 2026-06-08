@@ -26,7 +26,7 @@ At ground level, Kelly's operations are built on two-sided relationships. On the
 
 The company also provides contingent workforce management services, where it acts as a third-party employer for dedicated teams placed at single clients. This arrangement deepens the relationship and creates stickier revenue; the client doesn't have to manage payroll or compliance for those workers—Kelly does. These dedicated teams often reside semi-permanently at the client's facility, blurring the line between temporary and quasi-permanent staff.
 
-The physical footprint includes branch offices (staffed by local recruiters and account managers), call centers for intake and placement, and back-office operations for payroll, tax withholding, and benefits administration. None of these assets are high-value; the moat is volume, reputation, and the speed of the matching machinery.
+The physical footprint includes branch offices (staffed by local recruiters and account managers), call centers for intake and placement, and back-office operations for [payroll, tax](/payroll-tax/) withholding, and benefits administration. None of these assets are high-value; the moat is volume, reputation, and the speed of the matching machinery.
 
 ## Sectors and Scale
 
@@ -57,6 +57,6 @@ The operational lever is therefore utilization: the percentage of time workers a
 - [KFRC](/kfrc-stock/)
 
 ### Wider context
-- Labor Market Cycles
+- Labor [Market Cycles](/market-cycle/)
 - Corporate Outsourcing Trends
 </div>

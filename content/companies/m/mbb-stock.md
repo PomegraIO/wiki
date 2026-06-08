@@ -13,7 +13,7 @@ handwritten: true
 
 *The iShares MBS ETF — ticker MBB — is one of the oldest and largest ETFs tracking mortgage-backed securities. A [mortgage-backed security](/mortgage-backed-security/) is a [bond](/bond/) backed by home loans; when homeowners pay their mortgages, that cash flows through to MBB shareholders as principal and interest. The fund holds only agency-backed mortgages — those guaranteed by [Fannie Mae](/fannie-mae/), [Freddie Mac](/freddie-mac/), or Ginnie Mae — which means the [credit risk](/credit-risk/) of homeowner default is borne by the US government, not by MBB investors.*
 
-MBB launched in the early 2000s and has grown into a core holding for institutional investors, pension funds, and individual savers seeking yield and stability. It is the standard way most investors gain exposure to the mortgage market without buying individual loans or complex mortgage instruments. The fund has survived multiple housing and credit cycles, including the 2008 financial crisis where mortgage assets became toxic; MBB's agency-only focus protected it from the catastrophic losses that swallowed subprime mortgage bonds.
+MBB launched in the early 2000s and has grown into a core holding for institutional investors, pension funds, and individual savers seeking yield and stability. It is the standard way most investors gain exposure to the mortgage market without buying individual loans or complex mortgage instruments. The fund has survived multiple housing and [credit cycles](/credit-cycle/), including the 2008 financial crisis where mortgage assets became toxic; MBB's agency-only focus protected it from the catastrophic losses that swallowed subprime mortgage bonds.
 
 ## How mortgages become securities and flow to you
 
@@ -55,4 +55,4 @@ MBB is best viewed as a bond-portfolio core holding, not as a hedge. It behaves 
 
 Compare MBB's duration and yield to other [bond ETFs](/bond-etf/) — aggregate bond funds like BND, intermediate corporates like LQD, or Treasury-focused funds like IEF. The fund's prospectus and fact sheet show exact duration and average coupon. In a rising-rate environment, shorter-duration bonds protect better. In a falling-rate environment, longer-duration bonds appreciate more.
 
-The mortgage index is transparent and rules-based, so investors are not relying on active manager skill — the fund simply holds the mortgages in the index, rebalancing mechanically. This passivity is a strength for cost-conscious investors and a constraint for those seeking active positioning during regime shifts.
+The mortgage index is transparent and rules-based, so investors are not relying on active manager skill — the fund simply holds the mortgages in the [index, rebalancing](/index-rebalancing/) mechanically. This passivity is a strength for cost-conscious investors and a constraint for those seeking active positioning during regime shifts.

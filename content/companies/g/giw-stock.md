@@ -31,7 +31,7 @@ The promote creates an incentive structure. If the SPAC does not find a deal bef
 
 When GigCapital8 identifies a target company and negotiates merger terms, shareholders face a crucial decision: accept the deal or redeem their shares. Redeeming means the shareholder receives a pro-rata portion of the trust account (less fees), and exits GigCapital8 with no stake in the combined company. If redemptions are heavy, the trust account shrinks, leaving less capital for the merged entity to operate. The combined company must then decide whether to proceed with the merger at reduced scale, raise new capital, or walk away.
 
-The [10-K](/10-k/) and merger proxy statement (a document prepared for shareholder voting) disclose the terms: purchase price for the target, cash retained in the merged company, and the cap on sponsor promote. These documents are essential reading for SPAC investors, who must decide whether the target is attractive at the agreed price and what redemption risk looks like.
+The [10-K](/10-k/) and merger [proxy statement](/proxy-statement/) (a document prepared for shareholder voting) disclose the terms: purchase price for the target, cash retained in the merged company, and the cap on sponsor promote. These documents are essential reading for SPAC investors, who must decide whether the target is attractive at the agreed price and what redemption risk looks like.
 
 ## Debt in SPACs and Deal Financing
 
@@ -55,7 +55,7 @@ Many SPAC [mergers](/merger/) include provisions where the target's former owner
 
 GigCapital8's structure is governed by SEC rules and stock-exchange listing standards. SPACs face heightened scrutiny—the SEC has brought enforcement actions against SPACs for misleading forward-looking statements, for example. Reputable sponsors maintain standards; less scrupulous ones may oversell the target's prospects or hide material risks in the merger proxy. Shareholders of GigCapital8 should read the merger proxy and 10-K with skepticism, cross-checking key claims against the target's historical financial performance and competitive position.
 
-Market sentiment toward SPACs waxes and wanes. In [bull markets](/bull-market/) with low [interest rates](/interest-rate/), SPAC IPOs proliferate and merger announcements often drive stock appreciation. In [bear markets](/bear-market/) or periods of rising rates, SPAC shares trade at discounts to trust value (indicating low confidence that a good merger will close), and redemption rates spike. GigCapital8's ultimate success depends on finding a viable merger target and convincing SPAC shareholders and the market that the combination creates value.
+Market sentiment toward SPACs waxes and wanes. In [bull markets](/bull-market/) with low [interest rates](/interest-rate/), [SPAC IPOs](/spac-ipo/) proliferate and merger announcements often drive stock appreciation. In [bear markets](/bear-market/) or periods of rising rates, SPAC shares trade at discounts to trust value (indicating low confidence that a good merger will close), and redemption rates spike. GigCapital8's ultimate success depends on finding a viable merger target and convincing SPAC shareholders and the market that the combination creates value.
 
 ---
 

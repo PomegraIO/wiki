@@ -23,7 +23,7 @@ The unit economics of a single loan-deposit relationship are straightforward: a 
 
 ## Deposit Mix and Cost of Funds
 
-The actual cost of deposits varies by type. A checking account is low-cost (0.5%) and stable because customers use checking accounts to pay bills and manage cash flow—they do not shop for yields. A money market account or CD is higher-cost because customers explicitly shop for yield and will move funds to competitors offering better rates. A 1-year CD paying 2.0% is more expensive than a 5-year CD paying 2.5% if rates are rising and the bank fears customers will redeem CDs early.
+The actual cost of deposits varies by type. A checking account is low-cost (0.5%) and stable because customers use checking accounts to pay bills and manage cash flow—they do not shop for yields. A [money market account](/money-market-account/) or CD is higher-cost because customers explicitly shop for yield and will move funds to competitors offering better rates. A 1-year CD paying 2.0% is more expensive than a 5-year CD paying 2.5% if rates are rising and the bank fears customers will redeem CDs early.
 
 Great Southern's deposit-mix strategy therefore shapes its unit economics. A bank that emphasizes relationship-based checking accounts and savings products has lower cost of funds but sacrifices growth in deposit volume compared to a bank willing to pay 3-4% on CDs to pull in deposits from rate-shopping customers. The margin difference compounds: a bank with 2% cost of funds lending at 6% earns 4% NIM; a bank with 3% cost of funds on the same loans earns only 3% NIM—a 25% reduction in spread.
 
@@ -61,7 +61,7 @@ Regulators impose minimum capital ratios, and well-managed banks maintain capita
 
 ## Competitive Positioning in a Fragmented Market
 
-Great Southern operates in a fragmented market: it competes against other community banks, branches of large national banks, and online banks. Large national banks can fund themselves at lower cost (they are deemed safer by the market) and amortize fixed costs (marketing, compliance, technology) across millions of customers. Online banks have minimal overhead (no branches) and can offer high deposit rates.
+Great Southern operates in a [fragmented market](/fragmented-market/): it competes against other community banks, branches of large national banks, and online banks. Large national banks can fund themselves at lower cost (they are deemed safer by the market) and amortize fixed costs (marketing, compliance, technology) across millions of customers. Online banks have minimal overhead (no branches) and can offer high deposit rates.
 
 For Great Southern to compete, it must differentiate on service, relationships, or specialized lending niches where it has expertise. A bank that knows the local agricultural market and can service farm loans faster and at better pricing than a national bank can earn higher margins on agricultural loans. But that focus also creates [concentration risk](/concentration-risk/): if the agricultural economy deteriorates, credit losses spike.
 

@@ -32,7 +32,7 @@ LPSN's 10-K over the past few years should document the company's shift toward A
 
 ## Pricing Power and Gross Margins
 
-SaaS gross margins typically range from 60–85%, depending on infrastructure costs and product maturity. LPSN's 10-K discloses [gross profit](/gross-profit-margin/) and gross margin percentage trends. Rising gross margins signal pricing power or improving unit economics. Declining margins suggest pricing pressure, rising infrastructure costs (e.g., cloud compute), or a shift toward lower-margin products. The 10-K should itemize cost of revenue by product or service category if possible; for a platform like LPSN, major cost drivers are cloud infrastructure (AWS, Google Cloud), personnel (engineers maintaining the platform), and third-party integrations. Readers should ask: is LPSN becoming more efficient per customer conversation, or is cost [inflation](/inflation/) outpacing price increases?
+SaaS gross margins typically range from 60–85%, depending on infrastructure costs and product maturity. LPSN's 10-K discloses [gross profit](/gross-profit-margin/) and gross margin percentage trends. Rising gross margins signal pricing power or improving unit economics. Declining margins suggest pricing pressure, rising infrastructure costs (e.g., cloud compute), or a shift toward lower-margin products. The 10-K should itemize cost of revenue by product or service category if possible; for a platform like LPSN, major [cost drivers](/cost-driver/) are cloud infrastructure (AWS, Google Cloud), personnel (engineers maintaining the platform), and third-party integrations. Readers should ask: is LPSN becoming more efficient per customer conversation, or is cost [inflation](/inflation/) outpacing price increases?
 
 ## Debt, Cash, and Burn Rate
 

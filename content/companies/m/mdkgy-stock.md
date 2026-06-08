@@ -17,7 +17,7 @@ keywords: ["gold mining", "copper mining", "Indonesia", "extractive industry", "
 
 ## Revenue as Commodity Sales at Market Price
 
-Merdeka generates revenue by selling gold and copper to refiners and industrial buyers. The selling price is not set by Merdeka; it is the global spot price for each metal on any given day. Gold trades on global exchanges (London Bullion Market, CME); copper trades on the London Metal Exchange. When Merdeka produces an ounce of gold, it receives approximately the London spot price (less a small refining and selling fee).
+Merdeka generates revenue by selling gold and copper to refiners and industrial buyers. The selling price is not set by Merdeka; it is the global spot price for each metal on any given day. Gold trades on global exchanges (London Bullion Market, CME); copper trades on the [London Metal Exchange](/london-metal-exchange/). When Merdeka produces an ounce of gold, it receives approximately the London spot price (less a small refining and selling fee).
 
 This means Merdeka has zero pricing power. If gold prices fall from $2,000 per ounce to $1,500, Merdeka's revenue per ounce falls by 25%, regardless of its operational excellence. Conversely, if prices spike, margins improve instantly. Revenue volatility is thus a feature of mining, not a sign of operational mismanagement.
 
@@ -38,7 +38,7 @@ A gold mine with all-in costs of $800 per ounce is profitable at $1,500 spot pri
 
 ## Geography and Cost Competitiveness
 
-Merdeka operates in Indonesia, where labor costs, energy costs, and regulatory and compliance overhead differ from gold mining jurisdictions like Australia, Canada, or the United States. Indonesia can offer lower labor and energy costs, improving all-in costs, but it also presents [currency risk](/currency-risk/) (Indonesian Rupiah against USD), political risk, and the potential for regulatory changes (permitting, export restrictions, taxation).
+Merdeka operates in Indonesia, where labor costs, energy costs, and regulatory and compliance overhead differ from gold mining jurisdictions like Australia, Canada, or the United States. Indonesia can offer lower labor and energy costs, improving all-in costs, but it also presents [currency risk](/currency-risk/) (Indonesian Rupiah against USD), [political risk](/political-risk/), and the potential for regulatory changes (permitting, export restrictions, taxation).
 
 A mine's long-term competitiveness depends on its position on the global cost curve. Mines with all-in costs below $900 per ounce are resilient; they produce through price downturns. Mines with all-in costs above $1,200 are vulnerable and often idle when prices fall below that level. Merdeka's value to shareholders hinges on whether its operations rank among the lower-cost producers and can thus maintain production through cycles.
 

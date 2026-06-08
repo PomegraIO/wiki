@@ -71,6 +71,6 @@ It is less suitable for aggressive growth investors, those with short time horiz
 
 ## How to research BILD
 
-Read the fund's prospectus and fact sheet for the holdings, sector breakdown, and geographic allocation. Check whether the international exposure aligns with your appetite for currency risk. Compare BILD's yield and performance over full market cycles against a utilities ETF and against a global dividend-stock ETF to understand where it sits in the spectrum of income strategies.
+Read the fund's prospectus and fact sheet for the holdings, sector breakdown, and geographic allocation. Check whether the international exposure aligns with your appetite for currency risk. Compare BILD's yield and performance over full [market cycles](/market-cycle/) against a utilities ETF and against a global dividend-stock ETF to understand where it sits in the spectrum of income strategies.
 
 Finally, consider your broader portfolio. If you already own a significant allocation to utilities, adding BILD may mean over-concentration in regulated, slow-growing assets — a choice to make deliberately, not accidentally.

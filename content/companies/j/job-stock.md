@@ -51,7 +51,7 @@ Both divisions rely on holding working capital—paying workers before client in
 
 GEE Group typically reports [operating margins](/operating-margin/) in the single digits (often 2–6%), reflecting the low-margin nature of staffing. Asset turnover is high (receivables and payables move quickly), making cash management critical. The company relies on revolving credit lines to fund working capital gaps during growth phases or when client payment cycles extend.
 
-For investors evaluating the company, the [10-K](/wiki/10-k/) filing reveals the critical metrics: gross margin trend, revenue per employee (a proxy for recruiting productivity and pricing power), [days sales outstanding](/days-sales-outstanding/) (how quickly clients pay), client concentration, and geographic revenue mix. Seasonal patterns—stronger in manufacturing seasons, weaker in summer and winter holidays—create lumpy quarterly results.
+For investors evaluating the company, the [10-K](/wiki/10-k/) filing reveals the critical metrics: gross margin trend, [revenue per employee](/revenue-per-employee/) (a proxy for recruiting productivity and pricing power), [days sales outstanding](/days-sales-outstanding/) (how quickly clients pay), client concentration, and geographic revenue mix. Seasonal patterns—stronger in manufacturing seasons, weaker in summer and winter holidays—create lumpy quarterly results.
 
 ## At a glance
 

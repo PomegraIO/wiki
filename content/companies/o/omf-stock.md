@@ -23,13 +23,13 @@ Gross margin on subprime loans is typically higher than on prime loans, both bec
 
 ## Credit cycles and profitability
 
-OneMain's fortunes rise and fall with the credit cycle. In good economic times, borrowers have stable employment, income rises, and [default rates](/default-rate/) fall. The company can expand its loan book, take less credit risk per loan, and enjoy stronger profitability. In [recessions](/recession/), unemployment spikes, defaults accelerate, and provisions for loan losses surge. The company typically tightens underwriting (approves fewer loans) and shrinks its book until the cycle turns.
+OneMain's fortunes rise and fall with the [credit cycle](/credit-cycle/). In good economic times, borrowers have stable employment, income rises, and [default rates](/default-rate/) fall. The company can expand its loan book, take less credit risk per loan, and enjoy stronger profitability. In [recessions](/recession/), unemployment spikes, defaults accelerate, and provisions for loan losses surge. The company typically tightens underwriting (approves fewer loans) and shrinks its book until the cycle turns.
 
 The 2008 financial crisis was severe for subprime lenders, though OneMain's parent company at the time, GMAC, weathered it partly through government support. The COVID-19 downturn of 2020 was initially expected to be severe for subprime borrowers, but government stimulus support (unemployment benefits, tax refunds) protected many customers, and OneMain's loan performance held up better than historical precedent suggested.
 
 ## Funding and leverage
 
-Unlike a retail bank that raises deposits from customers, OneMain funds its loans by issuing debt in the capital markets. It might issue two-year senior unsecured notes at 4%, three-year secured notes backed by the loan portfolio at 3%, or term loans from private lenders at a floating rate. The company then uses the proceeds to fund new loans to borrowers. This funding model creates a structural dependency on capital market access. In a credit freeze — like the 2008 crisis — it becomes difficult or impossible for a subprime lender to refinance maturing debt, forcing asset sales and loan-origination cutbacks. OneMain carries leverage (debt to equity ratio) that is typical for the industry but means the company is sensitive to credit market disruptions.
+Unlike a retail bank that raises deposits from customers, OneMain funds its loans by issuing debt in the capital markets. It might issue two-year senior unsecured notes at 4%, three-year secured notes backed by the loan portfolio at 3%, or term loans from private lenders at a floating rate. The company then uses the proceeds to fund new loans to borrowers. This funding model creates a structural dependency on capital market access. In a [credit freeze](/credit-freeze/) — like the 2008 crisis — it becomes difficult or impossible for a subprime lender to refinance maturing debt, forcing asset sales and loan-origination cutbacks. OneMain carries leverage (debt to equity ratio) that is typical for the industry but means the company is sensitive to credit market disruptions.
 
 ## Competition and customer acquisition
 

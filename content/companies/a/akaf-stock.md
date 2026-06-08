@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Geography and GDP cutoffs matter more than investors realize. The MSCI Frontier Markets Index — the mandate behind AKAF — carves out a tier of countries that are developed by measure of institutional depth and rule of law but too small or illiquid to fit into mainstream international funds. These are not the Brazils and Indias of "emerging markets." Think: Iceland, Cyprus, Malta, Greece, New Zealand, and a handful of eastern European nations with stable governments and [real GDP](/real-gdp/) but populations under 10 million.
+Geography and GDP cutoffs matter more than investors realize. The MSCI [Frontier Markets](/frontier-markets/) Index — the mandate behind AKAF — carves out a tier of countries that are developed by measure of institutional depth and rule of law but too small or illiquid to fit into mainstream international funds. These are not the Brazils and Indias of "emerging markets." Think: Iceland, Cyprus, Malta, Greece, New Zealand, and a handful of eastern European nations with stable governments and [real GDP](/real-gdp/) but populations under 10 million.
 
 AKAF holds equity baskets in these frontier economies. The index weights countries by [market capitalization](/market-capitalization/), so New Zealand, Greece, and Iceland show up alongside Bahrain and other smaller developed states. The result is a portfolio of companies operating in places that rarely get a mention in the global-allocation conversation. A company listed in Reykjavik trades on the same index weight as a Johannesburg-listed firm would trade in a frontier index that includes Africa; geography and economic scale, not sector or company size, dictate positioning.
 

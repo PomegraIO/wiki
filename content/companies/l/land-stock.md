@@ -39,7 +39,7 @@ As a publicly traded REIT, Gladstone has privileged access to capital markets. I
 
 ## Vulnerability and Limits
 
-Gladstone's moat, while real, is constrained by the immobile nature of land itself. The company cannot easily scale into new regions or diversify beyond agriculture without substantially reinventing itself. If agricultural economics deteriorate—through sustained commodity price declines, water scarcity, or regulatory change—the company's competitive advantages offer limited protection. Tenants facing margin pressure may delay lease renewals or default. Additionally, the company competes directly with other large agricultural landowners, institutional investors, and sovereign wealth funds seeking farmland exposure. Its moat is defensibility of existing properties, not superiority in growth or profitability versus larger agricultural real-estate portfolios.
+Gladstone's moat, while real, is constrained by the immobile nature of land itself. The company cannot easily scale into new regions or diversify beyond agriculture without substantially reinventing itself. If agricultural economics deteriorate—through sustained commodity price declines, water scarcity, or regulatory change—the company's competitive advantages offer limited protection. Tenants facing margin pressure may delay lease renewals or default. Additionally, the company competes directly with other large agricultural landowners, institutional investors, and [sovereign wealth funds](/sovereign-wealth-fund/) seeking farmland exposure. Its moat is defensibility of existing properties, not superiority in growth or profitability versus larger agricultural real-estate portfolios.
 
 ## Research and Disclosure
 

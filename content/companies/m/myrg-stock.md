@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-MYR Group Inc. is an electrical construction contractor serving utilities, renewable-energy developers, industrial manufacturers, and infrastructure clients across North America. The company designs, builds, and maintains electrical systems—from transmission lines and substation work to solar and wind installations, industrial plant electrification, and grid-modernisation projects. It operates as a publicly traded firm ([NASDAQ](/nasdaq/): MYRG), competing in a fragmented market where reputation, safety record, skilled labour capacity, and project management are the primary forms of competitive advantage.
+MYR Group Inc. is an electrical construction contractor serving utilities, renewable-energy developers, industrial manufacturers, and infrastructure clients across North America. The company designs, builds, and maintains electrical systems—from transmission lines and substation work to solar and wind installations, industrial plant electrification, and grid-modernisation projects. It operates as a publicly traded firm ([NASDAQ](/nasdaq/): MYRG), competing in a [fragmented market](/fragmented-market/) where reputation, safety record, skilled labour capacity, and project management are the primary forms of competitive advantage.
 
 The company's growth has tracked the long-term electrification of the US economy: renewable-energy buildout, aging grid modernisation, industrial facility upgrades, and the emerging adoption of electric vehicles. Electricity infrastructure spending has been rising for years, and recent federal support through the [Inflation](/inflation/) Reduction Act and Infrastructure Investment and [Jobs Act](/jobs-act/) has accelerated client confidence and project pipelines. For MYR Group, this translates into strong visibility on revenue, though cost pressures and labour scarcity remain persistent headwinds.
 
@@ -25,7 +25,7 @@ The company employs unionised electricians in most regions, particularly on larg
 
 ## Project risk and margin volatility
 
-Electrical construction is labour-intensive and project-based. Each large contract introduces execution risk: if a project runs over schedule, labour costs exceed budget, or material prices spike mid-project, margins evaporate. MYR Group mitigates this through cost controls, experienced project management, and supplier relationships, but risk never disappears. In the financial statements, look for project-level profitability disclosure and any warranty obligations or claims arising from completed work.
+Electrical construction is labour-intensive and project-based. Each large contract introduces [execution risk](/execution-risk/): if a project runs over schedule, labour costs exceed budget, or material prices spike mid-project, margins evaporate. MYR Group mitigates this through cost controls, experienced project management, and supplier relationships, but risk never disappears. In the financial statements, look for project-level profitability disclosure and any warranty obligations or claims arising from completed work.
 
 The ratio of fixed-price to time-and-materials work affects margin stability. High fixed-price revenue means better visibility but greater execution risk. Time-and-materials shifts risk to the client and is more profitable when labour scarcity is acute, but these contracts are less abundant during soft demand periods.
 
@@ -49,7 +49,7 @@ Risks include a slowdown in capital spending if a [recession](/recession/) reduc
 
 ## How to evaluate MYR Group as an equity
 
-Begin with the latest 10-K (CIK 0000700923) for segment revenue, gross and [operating margin](/operating-margin/) trends, backlog (in dollars, not just mentions), and management commentary on labour cost inflation and project execution. The quarterly earnings releases highlight backlog growth, which is a leading indicator of future revenue.
+Begin with the latest 10-K (CIK 0000700923) for segment revenue, gross and [operating margin](/operating-margin/) trends, backlog (in dollars, not just mentions), and management commentary on labour cost inflation and project execution. The quarterly earnings releases highlight backlog growth, which is a [leading indicator](/leading-indicator/) of future revenue.
 
 Key metrics: gross-margin percentage and trend (revealing pricing power and cost absorption); backlog-to-quarterly-revenue ratio (showing forward visibility—typically 3–5 quarters for large contractors); return on contract cost and project-level profitability disclosure; [days sales outstanding](/days-sales-outstanding/) and working-capital intensity (construction companies often finance customer delays); and debt levels relative to cash generation (capital-intensive businesses can overextend).
 

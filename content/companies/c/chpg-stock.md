@@ -49,7 +49,7 @@ The quality of the target matters enormously. A blank-check company that acquire
 
 ## What to watch
 
-If you own shares, monitor the company for announcements of a target. When one is proposed, read the proxy statement carefully. It will show you the terms of the deal, the financial projections for the target, and the risks management sees. Understand what business you are actually buying and whether the price makes sense.
+If you own shares, monitor the company for announcements of a target. When one is proposed, read the [proxy statement](/proxy-statement/) carefully. It will show you the terms of the deal, the financial projections for the target, and the risks management sees. Understand what business you are actually buying and whether the price makes sense.
 
 Watch the redemption vote. If many shareholders vote to get their money back, that is a signal that the deal is not attractive. If the sponsor itself has to fund the shortfall, or if the company cannot complete the transaction because too many shareholders have redeemed, the deal fails.
 

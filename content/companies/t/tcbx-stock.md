@@ -41,7 +41,7 @@ The timing of the merger relative to the IPO was strategic. Third Coast listed o
 
 Third Coast Bank operates a traditional community and commercial banking model: accepting customer deposits and making loans to small and medium-sized businesses, professionals, and on commercial and [residential real estate](/residential-real-estate/). The bank's loan portfolio includes construction and development loans, commercial and industrial loans, commercial real estate loans, residential real estate loans, and smaller consumer loans.
 
-Deposit products include checking and savings accounts, money market accounts, certificates of deposit, and individual retirement accounts. These products compete primarily on convenience (branch locations in Texas markets), relationship quality (how responsive and attentive the bank is to customer needs), and on non-price factors like service and technology.
+Deposit products include checking and savings accounts, [money market accounts](/money-market-account/), certificates of deposit, and individual retirement accounts. These products compete primarily on convenience (branch locations in Texas markets), relationship quality (how responsive and attentive the bank is to customer needs), and on non-price factors like service and technology.
 
 Competition is intense and multifaceted. Third Coast competes against the largest banks in the nation (JPMorgan, Bank of America, Wells Fargo) which have scale and brand recognition, against other regional banks (Frost Bank, Cullen/Frost, Compass Bancshares) which have deeper history in Texas, and against community banks that may have even stronger local ties and relationships. It also competes increasingly against non-bank lenders (online lenders, private credit companies) that have grown to serve small businesses.
 
@@ -61,7 +61,7 @@ Third Coast's competitive advantage in this respect is local knowledge and relat
 
 Third Coast earns revenue from net interest income (the spread between what it pays depositors and what it earns on loans) and from non-interest income (fees, service charges). Net interest income is sensitive to [interest rates](/interest-rate/) — when rates are low, the spread between deposit rates and loan rates narrows, reducing profitability. When rates are high, margins are wider and profitability stronger.
 
-The bank holds capital to absorb potential loan losses and to meet regulatory requirements. As a bank holding company, Third Coast is regulated by the [Federal Reserve](/federal-reserve/) and faces regular [capital adequacy](/capital-adequacy/) examinations. The bank must maintain minimum ratios of capital to risk-weighted assets, which constrains how much it can lend and divide earnings.
+The bank holds capital to absorb potential loan losses and to meet regulatory requirements. As a bank holding company, Third Coast is regulated by the [Federal Reserve](/federal-reserve/) and faces regular [capital adequacy](/capital-adequacy/) examinations. The bank must maintain minimum ratios of capital to [risk-weighted assets](/risk-weighted-assets/), which constrains how much it can lend and divide earnings.
 
 ## Researching Third Coast Bancshares
 

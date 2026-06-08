@@ -59,7 +59,7 @@ Exercise is mechanical. A warrant holder submits the warrant and the strike pric
 
 ## How should an investor track AEAEW?
 
-Monitor SEC filings (CIK 0001852016) for updates on the merger timeline and any announced targets. Once a merger is proposed, read the proxy statement carefully to understand the valuation, the merged company's growth prospects, and whether the strike price seems attractive relative to the target's expected post-merger trading range.
+Monitor SEC filings (CIK 0001852016) for updates on the merger timeline and any announced targets. Once a merger is proposed, read the [proxy statement](/proxy-statement/) carefully to understand the valuation, the merged company's growth prospects, and whether the strike price seems attractive relative to the target's expected post-merger trading range.
 
 Track the common stock price relative to the strike once the merger closes. Calculate whether the warrant is likely to finish in the money at some point during the exercise window. Consider the opportunity cost: if you could instead buy the common stock directly, does the leverage profile of the warrant justify holding it instead?
 

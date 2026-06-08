@@ -87,4 +87,4 @@ The pipeline is disclosed in the company's quarterly earnings calls and in prese
 
 Key metrics include the ratio of revenue from recently approved drugs (the last 3-5 years) to revenue from older drugs — a company with many recently launched drugs is in a better position than one relying on aging blockbusters. Also track gross margins on drugs as they age — newer drugs command higher prices, so margin profile indicates pricing power.
 
-Finally, read what the company says about patent [expiration dates](/expiration-contracts/). Know which major drugs are losing exclusivity in the next five to ten years, and whether the company has credible replacements. If the company has a large patent cliff with no promising pipeline, risk is elevated.
+Finally, read what the company says about patent [expiration dates](/expiration-contracts/). Know which major drugs are losing exclusivity in the next five to ten years, and whether the company has credible replacements. If the company has a large patent cliff with no promising [pipeline, risk](/pipeline-risk/) is elevated.

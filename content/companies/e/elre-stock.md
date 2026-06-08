@@ -41,9 +41,9 @@ Small-cap gold producers often carry senior debt tied to equipment purchases or 
 
 ## Equity Base and Shareholder Resilience
 
-Equity on a gold miner's balance sheet represents the residual claim after all liabilities. For OTC-quoted companies like Yinfu, a thin equity cushion—even if accounting shows a positive book value—can signal vulnerability. Shareholder equity also reflects whether the company has been a net generator or destroyer of value over time. Cumulative losses, even if small each year, erode the equity base and leave less room for future downturns.
+Equity on a gold miner's balance sheet represents the residual claim after all liabilities. For OTC-quoted companies like Yinfu, a thin [equity cushion](/equity-cushion/)—even if accounting shows a positive book value—can signal vulnerability. Shareholder equity also reflects whether the company has been a net generator or destroyer of value over time. Cumulative losses, even if small each year, erode the equity base and leave less room for future downturns.
 
-The share structure itself—authorized shares, outstanding shares, and any preferential equity—is part of the capital structure. Yinfu's balance sheet must disclose shares outstanding, and any reading of the company requires comparing that figure to [market capitalization](/market-capitalization/) and book value per share.
+The share structure itself—[authorized shares](/authorized-shares/), outstanding shares, and any preferential equity—is part of the capital structure. Yinfu's balance sheet must disclose shares outstanding, and any reading of the company requires comparing that figure to [market capitalization](/market-capitalization/) and [book value per share](/book-value-per-share/).
 
 ## The Hong Kong Listing and Reporting Risk
 

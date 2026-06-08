@@ -28,7 +28,7 @@ Yet the path from theoretical elegance to profitable operation is narrower than 
 
 Customer acquisition is the second chasm. GenFlat must convince ordinary investors to treat real estate fractional stakes as a normal asset class. That requires trust in the platform itself, confidence that fractional ownership will be legally honored, and belief that the stakes can be liquidated if needed. Early fractional-ownership ventures (including some venture-backed startups) struggled precisely here: cohorts of early adopters came, but sustained mainstream adoption remained elusive. Marketing and compliance costs burned cash faster than platform revenue grew.
 
-The third friction is what older fractional-ownership platforms learned painfully: real estate is fundamentally illiquid. Even if GenFlat sells fractional stakes easily, getting an investor *out* of that stake — finding a buyer, settling title, managing the property until exit — remains slow and expensive. A promise of liquidity rings hollow if the internal market for fractional stakes dries up or if the underlying property cannot be sold quickly.
+The third friction is what older fractional-ownership platforms learned painfully: real estate is fundamentally illiquid. Even if GenFlat sells fractional stakes easily, getting an investor *out* of that stake — finding a buyer, settling title, managing the property until exit — remains slow and expensive. A promise of liquidity rings hollow if the [internal market](/internal-market/) for fractional stakes dries up or if the underlying property cannot be sold quickly.
 
 ## Path to Unit Economics
 

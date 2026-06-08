@@ -36,7 +36,7 @@ Although Evotec serves many pharmaceutical customers, revenue is concentrated in
 
 Evotec must maintain expensive laboratory facilities, highly trained scientists, and proprietary IT systems to support its clients. These are largely fixed costs. When utilization is high and contracts are plentiful, the company can expand gross margins and leverage those costs across more revenue. Conversely, when utilization drops (due to client budget cuts or between contract wins), the fixed-cost base does not shrink quickly, causing margins to compress sharply.
 
-Capacity building requires significant capital. To serve new clients or expand geographically, Evotec must invest in additional laboratory space, equipment, and hiring. Those investments must be made before revenue is secured, creating execution risk. If contract wins are slower than expected or clients reduce scope, Evotec ends up with underutilized capacity and disappointing returns on capital.
+Capacity building requires significant capital. To serve new clients or expand geographically, Evotec must invest in additional laboratory space, equipment, and hiring. Those investments must be made before revenue is secured, creating [execution risk](/execution-risk/). If contract wins are slower than expected or clients reduce scope, Evotec ends up with underutilized capacity and disappointing returns on capital.
 
 ## Spin-Out Dependencies and Equity-Stake Risk
 

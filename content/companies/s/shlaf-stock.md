@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Schindler Holding is a Swiss-headquartered company that designs, manufactures, installs, and maintains elevators, escalators, and moving walkways for buildings around the world. It is present in over 100 countries, employs tens of thousands of people, and generates revenue from three distinct but interconnected sources: the sale and installation of new equipment, the modernization of existing systems, and the recurring service of equipment in the field. The business is fundamentally tied to real estate cycles — when building booms, Schindler installs; when buildings age, Schindler upgrades; when buildings operate, Schindler maintains.
+Schindler Holding is a Swiss-headquartered company that designs, manufactures, installs, and maintains elevators, escalators, and moving walkways for buildings around the world. It is present in over 100 countries, employs tens of thousands of people, and generates revenue from three distinct but interconnected sources: the sale and installation of new equipment, the modernization of existing systems, and the recurring service of equipment in the field. The business is fundamentally tied to [real estate cycles](/real-estate-cycle/) — when building booms, Schindler installs; when buildings age, Schindler upgrades; when buildings operate, Schindler maintains.
 
 <aside class="wiki-infobox">
 <table>
@@ -66,7 +66,7 @@ Modernization and service are also competitive but more defensible: once a custo
 
 **Margin pressure.** In competitive markets, especially for new installation, Schindler sometimes accepts lower margins to win volume. If that volume disappoints or if competition intensifies, profitability can surprise to the downside.
 
-**Execution and integration.** Large manufacturing companies are complex, and execution risks (supply-chain disruptions, production delays, quality issues) can surprise. Any major [acquisition](/acquisition/) would add integration complexity.
+**Execution and integration.** Large manufacturing companies are complex, and [execution risks](/execution-risk/) (supply-chain disruptions, production delays, quality issues) can surprise. Any major [acquisition](/acquisition/) would add integration complexity.
 
 **Regulation.** Building codes and elevator safety standards vary by region and can shift, requiring design or manufacturing changes. This is manageable but ongoing.
 
@@ -74,7 +74,7 @@ Modernization and service are also competitive but more defensible: once a custo
 
 Start with the 10-K filing (SEC CIK 0001655190), which breaks revenue down by geography and by the three segments (new installation, modernization, maintenance). The health of the business shows in three places: the order backlog (how many installations are already sold and awaiting execution), the margin trend across each segment (widening margins signal pricing power or operational efficiency; narrowing margins signal competition or cost pressure), and the cash-generation ability (maintenance revenue yields cash quickly; installation takes months from order to payment).
 
-Watch new construction indices and real estate confidence surveys in major regions, especially Europe, North America, and China. These are leading indicators for Schindler's new-installation volume.
+Watch new construction indices and real estate confidence surveys in major regions, especially Europe, North America, and China. These are [leading indicators](/leading-indicator/) for Schindler's new-installation volume.
 
 Quarterly earnings calls reveal management's view of regional demand, competitive intensity, and pricing trends. Listen for commentary on order-book health and the pipeline of modernization projects, which are the earliest visible sign of an upturn.
 

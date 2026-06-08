@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Bank of America](/bank-of-america/) operates through three primary business segments, each with its own economics, competitive dynamics, and regulatory constraints. These segments do not operate independently—they share capital, deposit funding, compliance infrastructure, and technology platforms. But understanding them separately reveals how the bank makes money and where the profit pressures are emerging.
+[Bank of America](/bank-of-america/) operates through three primary business segments, each with its own economics, competitive dynamics, and regulatory constraints. These segments do not operate independently—they [share capital](/share-capital/), deposit funding, compliance infrastructure, and technology platforms. But understanding them separately reveals how the bank makes money and where the profit pressures are emerging.
 
 ## Consumer Banking: The deposit and lending franchise
 
@@ -19,7 +19,7 @@ Consumer Banking is Bank of America's largest segment by deposit volume. The div
 
 The business model is straightforward but constrained. Consumers and small businesses deposit money into checking and savings accounts, typically at low or zero [interest rates](/interest-rate/). The bank lends that money out as mortgages, auto loans, and personal loans at higher rates, pocketing the spread. Credit cards generate returns via interchange—a small percentage of the transaction taken from merchants when a Bank of America cardholder swipes. This model is durable and generates steady cash flow, but it is also competitive: there is little product differentiation between banks on basic checking and savings, so consumer banking commoditizes around convenience (branch locations, app quality) and brand.
 
-The regulatory environment shapes this segment directly. Banks must hold capital against loan losses. When the Fed raises rates, deposit costs rise (competitors offer higher rates to attract deposits). When loan losses surge during [recessions](/recession/), banks must reserve for losses, which depresses earnings. Bank of America's consumer loan portfolio includes mortgages (large but low-loss rate), auto loans (steady losses), credit cards (volatile losses, especially during downturns), and personal loans (smaller portfolio, higher loss rates). The consumer banking segment's profitability is therefore heavily exposed to the credit cycle and interest rate levels.
+The regulatory environment shapes this segment directly. Banks must hold capital against loan losses. When the Fed raises rates, deposit costs rise (competitors offer higher rates to attract deposits). When loan losses surge during [recessions](/recession/), banks must reserve for losses, which depresses earnings. Bank of America's consumer loan portfolio includes mortgages (large but low-loss rate), auto loans (steady losses), credit cards (volatile losses, especially during downturns), and personal loans (smaller portfolio, higher loss rates). The consumer banking segment's profitability is therefore heavily exposed to the [credit cycle](/credit-cycle/) and interest rate levels.
 
 The scale advantage matters here. Bank of America's branch network of roughly 4,300 locations is one of the largest in the US. That footprint is both asset and liability: it generates customer deposits but is expensive to maintain. Smaller digital-only banks can undercut on rates because they have no branch costs, but they lack the deposit gathering power of a branch network. Bank of America's branches are economically viable because the bank is large enough to spread the fixed cost across billions in deposits.
 
@@ -35,7 +35,7 @@ The competitive threat in wealth management is formidable. Large independent adv
 
 ## Investment Banking and Capital Markets: Trading, advisory, and underwriting
 
-The Investment Banking and Capital Markets segment handles corporate advisory ([mergers](/merger/) and [acquisitions](/acquisition/) advice), debt and equity underwriting (helping companies issue stocks and bonds), derivatives trading, prime brokerage (serving [hedge funds](/hedge-fund/) and institutional investors), and sales and trading across equities, fixed income, and currencies.
+The Investment Banking and Capital Markets segment handles corporate advisory ([mergers](/merger/) and [acquisitions](/acquisition/) advice), debt and equity underwriting (helping companies issue stocks and bonds), derivatives trading, [prime brokerage](/prime-brokerage-venue/) (serving [hedge funds](/hedge-fund/) and institutional investors), and sales and trading across equities, fixed income, and currencies.
 
 This segment is highly cyclical and capital-intensive. Revenue depends on deal flow (corporate mergersand acquisitions), capital market activity (companies raising debt or equity), and volatility (which creates trading opportunities). When capital markets are robust and corporations are active, advisory and underwriting fees are substantial. When markets are closed, deal activity collapses, and underwriting revenue evaporates.
 

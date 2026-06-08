@@ -43,7 +43,7 @@ This venture-like structure means that KO Gold's "margins" are negative—the co
 
 ## Capital Structure and Shareholder Dilution
 
-KO Gold funds itself through equity raises: [private placements](/private-placement/) at a discount to market price, and [secondary offerings](/secondary-offering/) once the company achieves public status. Each round dilutes existing shareholders, unless the company's share price appreciates faster than the dilution rate. Warrants (options issued to investors with long exercise windows) are common sweeteners that let the company raise capital at lower dilution to the current share price while keeping investors' upside alive.
+KO [Gold funds](/gold-fund/) itself through equity raises: [private placements](/private-placement/) at a discount to market price, and [secondary offerings](/secondary-offering/) once the company achieves public status. Each round dilutes existing shareholders, unless the company's share price appreciates faster than the dilution rate. Warrants (options issued to investors with long exercise windows) are common sweeteners that let the company raise capital at lower dilution to the current share price while keeping investors' upside alive.
 
 The company may also use debt, though lending to pre-revenue explorers is rare and expensive. Most junior explorer debt is convertible, meaning the lender has a path to equity if the company struggles. This structure reflects the reality that junior explorers have no cash flow to service debt and few tangible assets to pledge.
 

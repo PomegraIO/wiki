@@ -46,7 +46,7 @@ Investors should track Einride's quarterly cash balance and burn rate trend: Is 
 
 ## Strategic Partnerships and Customer Concentration
 
-Einride's capital story also depends on customer [acquisition](/acquisition/): landing major logistics operators (DHL, Amazon, traditional freight carriers) who commit to large truck orders or long-term leases. A single large customer representing 20–30% of expected revenue creates both capital and execution risk — if that customer delays orders or renegotiates pricing, Einride must adjust capex and headcount accordingly, leading to cash-flow misses. Conversely, strategic partners who provide equity stakes, off-take agreements, or guaranteed purchases de-risk the capital burn and can accelerate runway.
+Einride's capital story also depends on customer [acquisition](/acquisition/): landing major logistics operators (DHL, Amazon, traditional freight carriers) who commit to large truck orders or long-term leases. A single large customer representing 20–30% of expected revenue creates both capital and [execution risk](/execution-risk/) — if that customer delays orders or renegotiates pricing, Einride must adjust capex and headcount accordingly, leading to cash-flow misses. Conversely, strategic partners who provide equity stakes, off-take agreements, or guaranteed purchases de-risk the capital burn and can accelerate runway.
 
 These partnerships are often the unannounced arbiters of Einride's capital sustainability: a major OEM (original equipment manufacturer) stake or logistics giant's fleet commitment is worth tens of millions of implied capital relief, because it validates demand and reduces customer-acquisition costs.
 

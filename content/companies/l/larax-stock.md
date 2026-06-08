@@ -26,7 +26,7 @@ Lord Abbett Credit Opportunities Fund (LARAX) is an open-end [mutual fund](/mutu
 
 ## How the fund fits the credit supply chain
 
-Lord Abbett Credit Opportunities operates as an intermediary in the credit markets. Upstream, it sources capital from retail and institutional investors purchasing shares. Downstream, it deploys that capital into a portfolio of debt instruments: corporate [bonds](/bond/), convertible securities, bank loans, and distressed credits. The fund's role is to negotiate and manage [credit risk](/credit-risk/) on behalf of its shareholders, conducting due diligence and selection across an opportunity set that individual investors would find difficult to access directly.
+Lord Abbett Credit Opportunities operates as an intermediary in the credit markets. Upstream, it sources capital from retail and institutional investors purchasing shares. Downstream, it deploys that capital into a portfolio of debt instruments: corporate [bonds](/bond/), convertible securities, bank loans, and distressed credits. The fund's role is to negotiate and manage [credit risk](/credit-risk/) on behalf of its shareholders, conducting [due diligence](/due-diligence/) and selection across an opportunity set that individual investors would find difficult to access directly.
 
 The fund targets opportunities where the manager believes risk is mispriced — situations where the yield offered on a bond exceeds the likely economic cost of default, or where credit deterioration has created temporary dislocations that offer attractive entry points. This approach requires continuous monitoring of both market pricing and the underlying credit quality of portfolio holdings.
 

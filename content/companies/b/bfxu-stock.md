@@ -46,4 +46,4 @@ Watch the fund's liquidity and [bid-ask spread](/bid-ask-spread/), particularly 
 
 **The realistic outcome expectation**
 
-In [bull markets](/bull-market/), BFXU can deliver outsized gains. In [bear markets](/bear-market/), it often underperforms a simple equity index due to option costs. For the fund to justify its complexity and expense, it must be held through a full market cycle or timed to periods of expected equity gains. It is a specialized tactical tool, not a core holding for the vast majority of portfolios.
+In [bull markets](/bull-market/), BFXU can deliver outsized gains. In [bear markets](/bear-market/), it often underperforms a simple equity index due to option costs. For the fund to justify its complexity and expense, it must be held through a full [market cycle](/market-cycle/) or timed to periods of expected equity gains. It is a specialized tactical tool, not a core holding for the vast majority of portfolios.

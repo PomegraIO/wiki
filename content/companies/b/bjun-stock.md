@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Innovator U.S. Equity Buffer ETF - June** provides U.S. [stock market](/stock-market/) exposure wrapped in a structured collar that protects against losses within a defined band and caps gains — a mechanism that resets quarterly each June, making it an exchange-traded outcome-defined product rather than a conventional [index fund](/index-fund/).*
+*The **Innovator U.S. Equity [Buffer ETF](/buffer-etf/) - June** provides U.S. [stock market](/stock-market/) exposure wrapped in a structured collar that protects against losses within a defined band and caps gains — a mechanism that resets quarterly each June, making it an exchange-traded outcome-defined product rather than a conventional [index fund](/index-fund/).*
 
 ## What does it actually hold?
 
@@ -27,7 +27,7 @@ The outcome period concludes and the result is locked in. An investor who bought
 
 ## Who should own this, and who should not?
 
-This fund is built for investors in or near retirement who have a genuine fear of sharp drawdowns and prioritize sleeping soundly over maximizing total returns. It is particularly useful in taxable accounts for someone who believes the market is richly valued and wants equity exposure but on terms that define the worst-case loss. It is less suitable for younger investors who can absorb volatility, because the capped upside is a real drag over long periods. Over a full market cycle — bull and bear combined — the fund typically underperforms a plain U.S. equity index because the option decay compounds and the upside cap is hit repeatedly. It is also poorly suited for an outcome period shorter than the full year (typically June through June); exiting early means forfeiting the buffer and receiving the fund's current [net asset value](/net-asset-value/), which may be well below the protected floor. This is a common source of disappointed holders who buy late in an outcome period and expect the buffer to apply.
+This fund is built for investors in or near retirement who have a genuine fear of sharp drawdowns and prioritize sleeping soundly over maximizing total returns. It is particularly useful in taxable accounts for someone who believes the market is richly valued and wants equity exposure but on terms that define the worst-case loss. It is less suitable for younger investors who can absorb volatility, because the capped upside is a real drag over long periods. Over a full [market cycle](/market-cycle/) — bull and bear combined — the fund typically underperforms a plain U.S. equity index because the option decay compounds and the upside cap is hit repeatedly. It is also poorly suited for an outcome period shorter than the full year (typically June through June); exiting early means forfeiting the buffer and receiving the fund's current [net asset value](/net-asset-value/), which may be well below the protected floor. This is a common source of disappointed holders who buy late in an outcome period and expect the buffer to apply.
 
 ## How expensive is this protection?
 

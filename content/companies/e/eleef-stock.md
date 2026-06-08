@@ -31,7 +31,7 @@ The sector is increasingly concentrated, with larger players acquiring regional 
 
 A fleet-leasing company's earnings are sensitive to the residual value of vehicles at end of lease. If Element optimistically prices leases assuming high residual values and used-vehicle markets subsequently soften, the company realizes losses on remarketing. Conversely, if residual values rise, remarketing gains accrete to Element's bottom line beyond what the lease term generated. This creates an embedded bet on used-vehicle market trends, macroeconomic conditions affecting commercial vehicle demand, and fuel-price regimes that influence which vehicle types hold value best.
 
-Economic downturns, rapidly changing fuel prices, or technological disruption (such as accelerated EV adoption) can swing residual values sharply. Element must continuously revalue its fleet, update lease pricing, and manage the transition of aging vehicles to [secondary markets](/secondary-market/). This is not a passive business; successful fleet managers actively manage residual risk through careful vehicle-selection, customer-mix optimization, and timely disposal strategies.
+Economic downturns, rapidly changing fuel prices, or technological disruption (such as accelerated EV adoption) can swing residual values sharply. Element must continuously revalue its fleet, update lease pricing, and manage the transition of aging vehicles to [secondary markets](/secondary-market/). This is not a passive business; successful fleet managers actively manage [residual risk](/residual-risk/) through careful vehicle-selection, customer-mix optimization, and timely disposal strategies.
 
 ## Capital Structure and Funding Models
 

@@ -4,7 +4,7 @@ description: "Bankwell Financial Group is a Connecticut-based community bank; it
 keywords: ["community bank", "Connecticut", "residential real estate", "small business lending", "interest-rate sensitivity", "regional bank"]
 ---
 
-*Bankwell Financial Group, Inc. (**BWFG**) is a community bank headquartered in Connecticut with a footprint rooted in southern New England. Like other community banks, Bankwell is a deeply cyclical enterprise—its profitability depends on the health of its regional economy, credit quality of its borrower base, and the level of [interest rates](/interest-rate/). Unlike larger banks that can spread risk across geographies and business lines, Bankwell is concentrated in a single region and a traditional deposit-lending model, making it a pure-play bet on Connecticut and Southern New England economic performance.*
+*Bankwell Financial Group, Inc. (**BWFG**) is a community bank headquartered in Connecticut with a footprint rooted in southern New England. Like other community banks, Bankwell is a deeply cyclical enterprise—its profitability depends on the health of its regional economy, credit quality of its borrower base, and the level of [interest rates](/interest-rate/). Unlike larger banks that can [spread risk](/spread-risk/) across geographies and business lines, Bankwell is concentrated in a single region and a traditional deposit-lending model, making it a pure-play bet on Connecticut and Southern New England economic performance.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BWFG</td></tr>
@@ -22,7 +22,7 @@ When the Connecticut economy is growing, unemployment is low, and housing prices
 
 ## The Residential Real-Estate Concentration
 
-Bankwell's historical focus on residential mortgages ties it to Connecticut housing-market cycles. Connecticut's residential real-estate market has underperformed the national average in recent years—population growth has been slow, demand for New England housing has been weaker than for Sun Belt real estate, and migration patterns have favored other states. This secular headwind means that even in national expansions, Connecticut housing prices may be flat or declining. If Bankwell's loan portfolio is concentrated in residential mortgages—a common model for New England community banks—its loan-loss risk in a downturn is elevated because there is less equity cushion when home prices fall.
+Bankwell's historical focus on residential mortgages ties it to Connecticut housing-market cycles. Connecticut's residential real-estate market has underperformed the national average in recent years—population growth has been slow, demand for New England housing has been weaker than for Sun Belt real estate, and migration patterns have favored other states. This secular headwind means that even in national expansions, Connecticut housing prices may be flat or declining. If Bankwell's loan portfolio is concentrated in residential mortgages—a common model for New England community banks—its loan-loss risk in a downturn is elevated because there is less [equity cushion](/equity-cushion/) when home prices fall.
 
 The 2008-2009 financial crisis was particularly painful for Connecticut banks because Connecticut real-estate prices fell sharply and unemployment spiked due to the loss of financial-services jobs in the state. A reader should examine Bankwell's loan-loss experience during 2008-2009 to understand how residential concentration performs in a severe downturn. If the bank's loan-loss provisions and charge-offs spiked dramatically, that is a sign of fragility when the next recession hits.
 
@@ -36,7 +36,7 @@ Bankwell's margin is also sensitive to competition for deposits. In a low-rate e
 
 Bankwell's asset quality (the health of its loan portfolio) is closely tied to Connecticut employment and real-estate prices. In strong labor markets, joblessness is low, and homeowners' ability to pay mortgages is high. Default rates are low, and the bank may even release loan-loss reserves, boosting earnings. In weak labor markets—particularly if a major employer in Connecticut shuts down or contracts—unemployment spikes, and loan defaults rise. The bank must increase loan-loss provisions, suppressing earnings. The asymmetry is important: good times are good, but bad times can be very bad because residential concentrations offer limited loss mitigation.
 
-The company's nonperforming loan ratio (the fraction of loans 90+ days past due) is a leading indicator of loan-loss problems. A rising ratio signals future charge-offs. A reader should track this metric over time and compare it to peer banks and historical levels.
+The company's nonperforming loan ratio (the fraction of loans 90+ days past due) is a [leading indicator](/leading-indicator/) of loan-loss problems. A rising ratio signals future charge-offs. A reader should track this metric over time and compare it to peer banks and historical levels.
 
 ## Capital Constraints and Dividend Risk
 
@@ -68,7 +68,7 @@ Start with the 10-K to understand the composition of Bankwell's loan portfolio�
 ### Wider context
 - Net interest margin — profitability driver
 - Residential mortgages — loan category
-- Credit cycle — earnings driver
+- [Credit cycle](/credit-cycle/) — earnings driver
 - Deposit competition — operational challenge
 - Banking regulation — compliance environment
 - [Federal Reserve](/federal-reserve/) — rate authority

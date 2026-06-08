@@ -46,7 +46,7 @@ The aviation and energy segments carry [idiosyncratic risks](/idiosyncratic-risk
 
 Insurance is a capital-intensive business in accounting terms, though not in cash terms. Regulators require insurers to hold capital—a buffer against unexpected losses—expressed as a ratio of capital to risk. SiriusPoint holds capital both in Bermuda (regulated by the Bermuda Monetary Authority) and in its other domiciles, where it operates through subsidiaries. The adequacy of this capital for its risk profile is a constant focus; too much capital and shareholders earn low returns; too little and the company risks insolvency.
 
-SiriusPoint leverages its capital by borrowing and by issuing insurance-linked securities ([bonds](/bond/) whose coupons or principal can be reduced if claims exceed thresholds). This allows it to write more premium than pure shareholders' equity would normally support, boosting [return on equity](/return-on-equity/) if underwriting is profitable.
+SiriusPoint leverages its capital by borrowing and by issuing insurance-linked securities ([bonds](/bond/) whose coupons or principal can be reduced if claims exceed thresholds). This allows it to write more premium than pure [shareholders' equity](/shareholders-equity/) would normally support, boosting [return on equity](/return-on-equity/) if underwriting is profitable.
 
 ## Market position and competitive context
 

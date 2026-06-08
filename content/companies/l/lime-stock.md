@@ -49,7 +49,7 @@ Unlike pure software businesses, Lime cannot achieve cash flow positive without 
 
 ## Competitive Dynamics and Winner-Take-Most Risk
 
-Micro-mobility features a small number of global competitors (Lime, Bird, Neuron, and others), but Lime maintains brand prominence and global reach. The industry exhibits some winner-take-most dynamics: in each city, one or two operators often achieve critical mass while others exit. Lime's size (global presence, brand recognition) is an advantage, but execution risk remains high—a single city's regulatory change or a misstep in fleet management can puncture margins.
+Micro-mobility features a small number of global competitors (Lime, Bird, Neuron, and others), but Lime maintains brand prominence and global reach. The industry exhibits some winner-take-most dynamics: in each city, one or two operators often achieve critical mass while others exit. Lime's size (global presence, brand recognition) is an advantage, but [execution risk](/execution-risk/) remains high—a single city's regulatory change or a misstep in fleet management can puncture margins.
 
 ## Research and Valuation Lens
 

@@ -33,7 +33,7 @@ As 2029 approaches, duration shrinks further. Bonds due in one year have almost 
 
 Invesco, a global asset manager, is the fund's sponsor and the provider of the underlying index. Invesco holds approximately 400 billion dollars in assets under management, making it a large, established [custodian](/custodian/) of retail and institutional portfolios.
 
-BSCT's [expense ratio](/expense-ratio/) is approximately 0.40 percent annually. That cost covers fund management, custody, legal, and administrative overhead. For an actively managed bond fund, this is a competitive rate. The fund trades on the NYSE Arca exchange with significant daily volume and tight [bid-ask spreads](/bid-ask-spread/), making it easy for investors to buy and sell shares without meaningful slippage.
+BSCT's [expense ratio](/expense-ratio/) is approximately 0.40 percent annually. That cost covers fund management, custody, legal, and administrative overhead. For an actively managed bond fund, this is a competitive rate. The fund trades on the [NYSE Arca](/nyse-arca/) exchange with significant daily volume and tight [bid-ask spreads](/bid-ask-spread/), making it easy for investors to buy and sell shares without meaningful slippage.
 
 ## Who BSCT is designed for
 
@@ -45,7 +45,7 @@ The fund does not suit investors seeking to grow capital. Bond prices do not app
 
 The primary risk is credit: if an issuer in the fund's portfolio defaults, the bondholder loses the principal. Invesco mitigates this by requiring investment-grade ratings, but investment-grade does not mean default-proof. A [recession](/recession/) could trigger downgrades and defaults among lower-rated issuers in the BBB range.
 
-A secondary risk is interest-rate reinvestment. When the fund receives [coupon payments](/coupon-payment/) or maturities in 2028 and 2029, it must reinvest those proceeds. If rates have fallen, reinvestment occurs at lower yields, reducing total return. That is the trade-off of a [bond ladder](/bond-ladder/): certainty about maturity, uncertainty about reinvestment rates.
+A secondary risk is interest-rate reinvestment. When the fund receives [coupon payments](/coupon-payment/) or maturities in 2028 and 2029, it must reinvest those proceeds. If rates have fallen, reinvestment occurs at lower yields, reducing total return. That is the trade-off of a [bond ladder](/bond-ladder/): certainty about maturity, uncertainty about [reinvestment rates](/reinvestment-rate-dcf/).
 
 ## Researching BSCT
 

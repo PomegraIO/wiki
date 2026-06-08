@@ -51,7 +51,7 @@ The downside is capital intensity. Modern meat processing requires continuous in
 
 ## Commodity exposure and margin squeeze
 
-Tyson's earnings are fundamentally exposed to commodity prices on both sides of the equation. Feed costs—primarily corn and soybeans—are the largest variable cost. Meat prices, especially live animal prices, drive revenue. When feed costs rise faster than meat prices fall, margins compress. The company manages this partly through [forward contracts](/forward-contract/) and hedging, and partly through customer contracts that pass through some commodity risk, but perfect hedging is impossible in a multi-month operation.
+Tyson's earnings are fundamentally exposed to commodity prices on both sides of the equation. Feed costs—primarily corn and soybeans—are the largest variable cost. Meat prices, especially live animal prices, drive revenue. When feed costs rise faster than meat prices fall, margins compress. The company manages this partly through [forward contracts](/forward-contract/) and hedging, and partly through customer contracts that pass through some [commodity risk](/commodity-risk/), but perfect hedging is impossible in a multi-month operation.
 
 The regulatory environment is another pressure. Animal welfare, environmental regulations on water and waste, antibiotic use, and food safety standards all add cost and complexity. Labour costs in meat processing are substantial and have risen as the pool of low-wage workers tightens. These costs are difficult to pass entirely to customers, especially when selling commodity proteins to price-sensitive retailers.
 

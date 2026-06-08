@@ -57,13 +57,13 @@ The pipeline is the heart of the investment thesis. A strong pipeline suggests t
 
 Mid-stage trials—Phase 2, where efficacy is first tested in larger patient groups—are a milestone. If a drug succeeds in Phase 2 in a meaningful way, it advances to Phase 3, which is larger, longer, and more expensive. Phase 3 success typically leads to an FDA submission and, eventually, approval. So progression from Phase 2 to Phase 3 is a bullish signal for investors; a Phase 2 failure is a bearish one.
 
-Look also at partnerships. If a large pharmaceutical company partners with Tarsus on one of its drugs, that validation can matter. Large pharma companies conduct extensive due diligence before committing capital to a drug. A partnership with a major player signals confidence in the drug candidate.
+Look also at partnerships. If a large pharmaceutical company partners with Tarsus on one of its drugs, that validation can matter. Large pharma companies conduct extensive [due diligence](/due-diligence/) before committing capital to a drug. A partnership with a major player signals confidence in the drug candidate.
 
 ### What happens if a drug gets approved?
 
 Regulatory approval is not the end of the journey; it is a beginning. Once approved, Tarsus would need to commercialize the drug—building a sales force, marketing to ophthalmologists, navigating reimbursement and insurance. A company like Tarsus, with limited commercial infrastructure, has several options. It can build its own sales force (expensive and risky). It can partner with a larger pharmaceutical company that handles commercialization in exchange for a share of profits. Or it can license the drug to another company, generating royalties but surrendering direct control and upside.
 
-For a rare eye disease with a small patient population, partnership or licensing is common. An established pharmaceutical company with a large sales force and relationships with eye specialists can reach patients more efficiently than Tarsus could alone. Tarsus would trade some of the upside for reduced execution risk and faster revenue.
+For a rare eye disease with a small patient population, partnership or licensing is common. An established pharmaceutical company with a large sales force and relationships with eye specialists can reach patients more efficiently than Tarsus could alone. Tarsus would trade some of the upside for reduced [execution risk](/execution-risk/) and faster revenue.
 
 ### What would change the investment thesis?
 

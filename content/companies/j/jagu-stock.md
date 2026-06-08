@@ -39,19 +39,19 @@ Junior explorers are perpetually capital-constrained. Jaguar must raise money co
 
 Each financing mechanism embeds a different value transfer. Equity raises dilute Jaguar's shareholders but preserve operational control. Joint ventures or partnerships often involve the junior company earning down its ownership stake by funding exploration work (profitable if successful, dilutive if unsuccessful). Streaming deals provide upfront cash but sacrifice margin on future production.
 
-Stakeholder dependence is structural: Jaguar depends on continued capital availability. Metals prices matter—if uranium prices fall, investor appetite for exploration companies shrinks, making capital more expensive or unavailable. Geopolitical risks (sanctions, permitting delays) also affect capital costs. A company cannot advance projects without external capital, making it vulnerable to market cycles and investor sentiment.
+Stakeholder dependence is structural: Jaguar depends on continued capital availability. Metals prices matter—if uranium prices fall, investor appetite for exploration companies shrinks, making capital more expensive or unavailable. Geopolitical risks (sanctions, permitting delays) also affect capital costs. A company cannot advance projects without external capital, making it vulnerable to [market cycles](/market-cycle/) and investor sentiment.
 
 ## The Ore Grade and Jurisdictional Arbitrage
 
 Uranium deposits vary widely in grade (concentration of uranium per ton of rock), depth, and hosting geology. High-grade, shallow, structurally simple deposits are more economical to produce than low-grade, deep, or complex ones. Jaguar's value per share depends partly on the grades and tonnages it discovers but also on the jurisdiction in which deposits sit.
 
-Jurisdictions with clear mining regulations, reasonable tax rates, stable permitting, and available infrastructure command premium valuations relative to jurisdictions with political risk, unclear rules, or minimal mining infrastructure. An exceptional deposit in a politically unstable region may be worth less than a moderate deposit in a stable, well-regulated jurisdiction. Jaguar's geographic selection reflects this trade-off between geological prospectivity and jurisdictional risk.
+Jurisdictions with clear mining regulations, reasonable tax rates, stable permitting, and available infrastructure command premium valuations relative to jurisdictions with [political risk](/political-risk/), unclear rules, or minimal mining infrastructure. An exceptional deposit in a politically unstable region may be worth less than a moderate deposit in a stable, well-regulated jurisdiction. Jaguar's geographic selection reflects this trade-off between geological prospectivity and jurisdictional risk.
 
 ## The Downstream Customer Relationship
 
 Jaguar itself does not sell uranium fuel. Instead, if projects advance successfully, the company or its acquirer becomes a producer. Downstream customers are uranium converters, enrichers, and utilities—larger firms with processing or consumption capacity. These buyers negotiate long-term contracts or source from spot markets.
 
-For an exploration company, the forward curve of uranium prices and long-term demand from utilities shapes the economic threshold for ore discovery. If uranium prices are depressed or nuclear power demand is uncertain, exploration projects' net present value falls, and less-prospective deposits become subeconomic. Conversely, if uranium prices spike or utilities commit to nuclear expansion, marginal deposits become economically viable.
+For an exploration company, the [forward curve](/forward-curve/) of uranium prices and long-term demand from utilities shapes the economic threshold for ore discovery. If uranium prices are depressed or nuclear power demand is uncertain, exploration projects' net present value falls, and less-prospective deposits become subeconomic. Conversely, if uranium prices spike or utilities commit to nuclear expansion, marginal deposits become economically viable.
 
 Jaguar's value is tethered to forward beliefs about uranium supply-demand: if the market expects uranium scarcity and rising prices (due to nuclear energy expansion, for example), explorers gain valuation multiples. If the market fears oversupply or demand contraction, valuations compress.
 
@@ -71,4 +71,4 @@ Conversely, nuclear phase-outs in some jurisdictions, renewable energy growth, a
 
 Readers studying Jaguar Uranium should examine its [10-K](/10-k/) filings (CIK in this entry) for details on project locations, geological characteristics, mineral resource estimates (if any), capital burn rate, and financing runway. Changes in uranium spot prices and forward curve expectations should be cross-referenced with company strategy disclosures. Partnerships, joint ventures, or major funding announcements signal confidence in project advancement and de-risk capital constraints.
 
-The company's governance and management track record in prior exploration ventures (not just the current Jaguar entity) reveal execution risk. Exploration companies led by teams with successful discovery histories tend to outperform those without such track records.
+The company's governance and management track record in prior exploration ventures (not just the current Jaguar entity) reveal [execution risk](/execution-risk/). Exploration companies led by teams with successful discovery histories tend to outperform those without such track records.

@@ -47,7 +47,7 @@ Cannabis companies cannot access normal banking. Most banks refuse to account fo
 
 Some credit unions and state-chartered banks have begun serving cannabis businesses, but at high cost. A cannabis company might pay 8 to 10 percent [interest rates](/interest-rate/) on loans, versus 3 to 5 percent for a conventional business. This expensive capital makes expansion difficult.
 
-Cann American, as a public company, can theoretically raise equity capital, but investors face federal legal risk. If the federal government decides to prosecute cannabis operations, shareholders could lose their entire investment. This risk is reflected in the company's stock price.
+Cann American, as a public company, can theoretically raise equity capital, but investors face federal [legal risk](/legal-risk/). If the federal government decides to prosecute cannabis operations, shareholders could lose their entire investment. This risk is reflected in the company's stock price.
 
 ## Price competition and market saturation
 

@@ -31,7 +31,7 @@ Sachem lends money for real-estate projects that need short-term capital — thi
 
 The loans come with a senior lien (first claim) on the property, so Sachem has collateral. The typical loan lasts one to three years, and the [interest rate](/interest-rate/) is much higher than a traditional mortgage — often 12 percent or more, sometimes reaching 15 percent or higher. That high rate is the company's way of being paid for the risk. These loans can go bad if a project runs out of money or if the real-estate market turns and the property drops in value.
 
-Sachem also invests in real-estate investment trust (REIT) preferred shares and other real-estate debt securities, which gives the company a second income stream but also adds complexity to the portfolio.
+Sachem also invests in real-estate investment trust ([REIT) preferred shares](/reit-preferred-shares/) and other real-estate debt securities, which gives the company a second income stream but also adds complexity to the portfolio.
 
 ## How it makes money — and why margins are tight
 

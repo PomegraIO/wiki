@@ -27,7 +27,7 @@ handwritten: true
 
 ## The basin of deposits
 
-Webster's core asset is a stable, sticky deposit base. Retail customers put money in savings accounts, money market accounts, and checking accounts. That money sits at the bank. The bank pays them, say, 4% annually on their savings account. Meanwhile, it lends that same money to a homebuyer at 6.5% on a mortgage or to a commercial borrower at 7.5% on a business loan. The 2–3.5 percentage-point gap is the net interest margin — the spread that pays for Webster's operations and generates its profit.
+Webster's core asset is a stable, sticky deposit base. Retail customers put money in savings accounts, [money market accounts](/money-market-account/), and checking accounts. That money sits at the bank. The bank pays them, say, 4% annually on their savings account. Meanwhile, it lends that same money to a homebuyer at 6.5% on a mortgage or to a commercial borrower at 7.5% on a business loan. The 2–3.5 percentage-point gap is the net interest margin — the spread that pays for Webster's operations and generates its profit.
 
 This model sounds simple because it is. It works until it doesn't. The profitability of a regional bank like Webster depends entirely on that spread. When the [Federal Reserve](/federal-reserve/) sets interest rates high, banks can pay little on deposits while charging borrowers a lot, and the margin widens. When the Fed cuts rates to near zero, the margin compresses, and banks find themselves paying depositors almost nothing while the prime lending rate falls too. Mortgage rates rise and fall with the broader economy; as they climb, fewer people can afford to borrow, and loan growth slows. These are not things Webster controls.
 
@@ -45,7 +45,7 @@ The Federal Reserve's action on rates influences this dynamic constantly. Higher
 
 ## Competitive position and scale
 
-Webster is small compared to national giants like JPMorgan or [Bank of America](/bank-of-america/). It is large enough to have modern technology, risk management, and regulatory oversight. It is small enough that it can make credit decisions on a relationship basis rather than pure algorithm — a loan officer at Webster can visit a local business, understand the owner and the market, and approve a loan. But this also means Webster has less pricing power than bigger banks and must accept slightly lower returns on assets to compete.
+Webster is small compared to national giants like JPMorgan or [Bank of America](/bank-of-america/). It is large enough to have modern [technology, risk](/technology-risk/) management, and regulatory oversight. It is small enough that it can make credit decisions on a relationship basis rather than pure algorithm — a loan officer at Webster can visit a local business, understand the owner and the market, and approve a loan. But this also means Webster has less pricing power than bigger banks and must accept slightly lower returns on assets to compete.
 
 The regional bank sector is intensely competitive. Webster competes with national banks, other regional banks, credit unions, and increasingly with non-bank lenders. Margins are thin. The path to profitability is volume, credit quality, and cost control. Webster must lend at scale, keep loan losses low, and operate efficiently.
 

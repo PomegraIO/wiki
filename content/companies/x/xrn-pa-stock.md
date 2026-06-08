@@ -58,7 +58,7 @@ For preferred holders, the key risk is whether the rental income (minus debt ser
 
 ## Reading Chiron's position
 
-Examine the SEC filings (CIK 0001533615) for a property-by-property breakdown or at least a summary by geography and type. Look at the loan-to-value ratio on the mortgages and the maturity schedule — properties with mortgages coming due soon in a higher-rate environment face refinancing pain. Track the vacancy rate and average rent per property; steady or rising rents are a positive signal, falling rents a warning.
+Examine the SEC filings (CIK 0001533615) for a property-by-property breakdown or at least a summary by geography and type. Look at the [loan-to-value ratio](/loan-to-value-ratio/) on the mortgages and the maturity schedule — properties with mortgages coming due soon in a higher-rate environment face refinancing pain. Track the [vacancy rate](/vacancy-rate-property/) and average rent per property; steady or rising rents are a positive signal, falling rents a warning.
 
 Also watch for property sales or [acquisitions](/acquisition/). Sales signal either management thinks prices are high and wants to lock in gains, or the company needs cash. Acquisitions signal confidence, but also risk if the price paid is too aggressive or the market has peaked.
 

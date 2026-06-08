@@ -30,7 +30,7 @@ The employment background screening market is fragmented but increasingly concen
 
 Competition remains, notably from smaller regional operators and from diversified HR technology companies that offer screening as one module in a broader suite. But the consolidation reflects a broader industry trend: employers increasingly want a single platform for all workforce screening and compliance needs rather than juggling multiple vendors. First Advantage's technology ecosystem—combining proprietary AI-powered matching engines, machine learning for risk assessment, primary source data (records courts and government agencies provide directly), and third-party data—creates advantages in speed, accuracy, and cost that smaller competitors struggle to match.
 
-The company also benefits from regulatory tailwinds. Employment screening and compliance are not optional in many industries: healthcare, financial services, transportation, and manufacturing all have legal or contractual requirements. Social media screening and sanctions checks, once optional, have become table-stakes for large employers managing geopolitical and reputational risk.
+The company also benefits from regulatory tailwinds. Employment screening and compliance are not optional in many industries: healthcare, financial services, transportation, and manufacturing all have legal or contractual requirements. Social media screening and sanctions checks, once optional, have become table-stakes for large employers managing geopolitical and [reputational risk](/reputational-risk/).
 
 ## How it makes money and what drives growth
 

@@ -20,7 +20,7 @@ The company does not design aircraft. It makes the pieces that go into them. Tha
 
 ## How Melrose makes money
 
-Revenue is straightforward: customers (Boeing, Airbus, military platforms) order components, and Melrose delivers them on contract. Margins vary by segment. Established, high-volume components have lower margins but steady demand. Newer or more specialised products command higher margins but carry execution risk. The business is not capital-light — manufacturing plants, tooling, and supply-chain infrastructure require investment. But once a product is in production and the plant is optimised, the cash generation can be strong.
+Revenue is straightforward: customers (Boeing, Airbus, military platforms) order components, and Melrose delivers them on contract. Margins vary by segment. Established, high-volume components have lower margins but steady demand. Newer or more specialised products command higher margins but carry [execution risk](/execution-risk/). The business is not capital-light — manufacturing plants, tooling, and supply-chain infrastructure require investment. But once a product is in production and the plant is optimised, the cash generation can be strong.
 
 The second stream is the financial engineering that defines Melrose's playbook: acquire underperforming businesses at a discount, restructure them, cut costs (often sharply), improve working capital, and either hold them for cash generation or sell them at a higher multiple. This is turnaround investing at the corporate level. It works when the acquired company's problems are operational rather than structural. It fails when the market has genuinely contracted or when the business model is broken.
 

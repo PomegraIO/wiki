@@ -33,7 +33,7 @@ Scale also lets CBRE standardise operations. A local real estate shop might have
 
 ## Geography and exposure
 
-CBRE operates in every major market: North America (the largest market, where most activity is US office, industrial, and retail), Europe (where strong operations exist in the UK, France, Germany, Spain, and major cities), Asia-Pacific (growing presence in Singapore, Japan, Australia, China), and emerging markets. The company earns roughly 50 percent of revenue in the United States, with the rest spread internationally. This geographic diversity insulates CBRE from any single country's real estate cycle.
+CBRE operates in every major market: North America (the largest market, where most activity is US office, industrial, and retail), Europe (where strong operations exist in the UK, France, Germany, Spain, and major cities), Asia-Pacific (growing presence in Singapore, Japan, Australia, China), and emerging markets. The company earns roughly 50 percent of revenue in the United States, with the rest spread internationally. This geographic diversity insulates CBRE from any single country's [real estate cycle](/real-estate-cycle/).
 
 That said, CBRE is exposed to the real estate market's rhythm. In a cycle where corporate occupiers are expanding (hiring, adding offices), CBRE's leasing commissions boom. In a cycle where companies are contracting or consolidating, leasing volumes dry up. The company's property management business is steadier but still reflects underlying occupancy rates. A major [recession](/recession/) that sends corporate occupancy into free fall will hit CBRE's top line hard, though the impact is lagged: long-term management contracts keep cash flowing even as leasing volume plummets.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Starry Sea [Acquisition](/acquisition/) Corp is a Cayman Islands blank check company incorporated in 2024 with the sole purpose of identifying a private business and merging it into a public shell. In September 2025, it announced a binding letter of intent to acquire Forever Young International Limited, a Chinese firm that manages and provides services to medical institutions.
+Starry Sea [Acquisition](/acquisition/) Corp is a Cayman Islands blank check company incorporated in 2024 with the sole purpose of identifying a private business and merging it into a public shell. In September 2025, it announced a binding [letter of intent](/letter-of-intent-ma/) to acquire Forever Young International Limited, a Chinese firm that manages and provides services to medical institutions.
 
 <aside class="wiki-infobox">
 <table>
@@ -47,9 +47,9 @@ That said, any SPAC merger involving a Chinese company carries regulatory and ge
 
 ## The letter of intent is not a done deal
 
-A binding letter of intent signals that two companies have committed to try to complete a merger; it is not a completed transaction. Both parties agreed to a 60-day period of mutual exclusivity—neither could shop the deal to other bidders. But exclusivity periods can be extended, due diligence can reveal problems, and either party can walk away if conditions aren't met.
+A binding letter of intent signals that two companies have committed to try to complete a merger; it is not a completed transaction. Both parties agreed to a 60-day period of mutual exclusivity—neither could shop the deal to other bidders. But exclusivity periods can be extended, [due diligence](/due-diligence/) can reveal problems, and either party can walk away if conditions aren't met.
 
-This is where the distinction between a LOI and a definitive agreement matters. By May 2026, Starry Sea had not yet announced a definitive merger agreement. The LOI was binding in certain respects—exclusivity, confidentiality—but the merger itself required further work and regulatory approval, especially given the China component.
+This is where the distinction between a LOI and a definitive agreement matters. By May 2026, Starry Sea had not yet announced a [definitive merger agreement](/definitive-merger-agreement/). The LOI was binding in certain respects—exclusivity, confidentiality—but the merger itself required further work and regulatory approval, especially given the China component.
 
 ## The real risks
 

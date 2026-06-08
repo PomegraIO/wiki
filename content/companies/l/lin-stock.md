@@ -53,7 +53,7 @@ Linde's geographic footprint is genuinely global. The company operates across No
 
 This [diversification](/diversification/) is a source of both stability and complexity. A downturn in European refining may be offset by growth in Asian semiconductor fab construction. However, each geographic market requires different regulatory compliance, different customer relationships, and sometimes different technologies. Operating across multiple regions with multiple regulators (European competition authorities, Chinese industrial policy, American antitrust enforcement) adds layers of complexity that smaller competitors lack but that Linde's scale allows it to manage effectively.
 
-The company also benefits from being a diversified industrial supplier. While a pure-play refining company or auto supplier would suffer in a broad industrial downturn, Linde's spread across steel, chemicals, semiconductors, hospitals, and food processing provides some natural hedging. When one customer segment weakens, others may remain strong.
+The company also benefits from being a diversified industrial supplier. While a pure-play refining company or auto supplier would suffer in a broad industrial downturn, Linde's spread across steel, chemicals, semiconductors, hospitals, and food processing provides some [natural hedging](/natural-hedging/). When one customer segment weakens, others may remain strong.
 
 ## The risks and the pressures
 

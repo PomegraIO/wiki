@@ -49,7 +49,7 @@ Many materials manufacturers transition from equity funding to debt financing on
 
 Even as BLTH scales into profitability, working capital management remains critical. A materials manufacturer with long lead times for raw materials and extended payment terms from customers can require substantial working capital. If BLTH must pay for raw materials 30 days before converting them into finished goods, then wait 45 days for customer payment, the company needs cash to finance that 75-day gap multiplied by the daily burn rate of its manufacturing operation.
 
-As scale increases, this working-capital requirement grows in absolute dollars, even if improvements in efficiency reduce it as a percentage of revenue. BLTH will likely maintain a revolving credit facility to finance working-capital fluctuations, complementing the term debt used for capex.
+As scale increases, this working-capital requirement grows in absolute dollars, even if improvements in efficiency reduce it as a percentage of revenue. BLTH will likely maintain a [revolving credit facility](/credit-facility-revolver/) to finance working-capital fluctuations, complementing the term debt used for capex.
 
 ## Valuation and the Long-Term Capital Story
 

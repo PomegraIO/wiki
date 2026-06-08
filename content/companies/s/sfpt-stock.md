@@ -37,7 +37,7 @@ By the early 2020s, Safepoint operated three distinct business segments, though 
 
 **Reciprocal Exchange Operations.** Safepoint manages two policyholder-owned reciprocal exchanges as attorney-in-fact. These exchanges write policies and collect premiums, and Safepoint earns management fees from the premiums managed. The policyholders collectively own the capital and bear the underwriting risk; Safepoint carries no balance-sheet risk but earns predictable fee income.
 
-The combination is powerful. The exchange model generates fee revenue that is not exposed to underwriting loss, while the subsidiary and MGA businesses provide underwriting income and client [diversification](/diversification/). Total gross written premium reached $927.2 million in fiscal 2025, up 44.3 percent from $642.6 million in 2024 — a steep trajectory driven partly by management's operational scale and partly by the favorable market cycle for coastal insurance following major hurricane seasons that reset industry rates.
+The combination is powerful. The exchange model generates fee revenue that is not exposed to underwriting loss, while the subsidiary and MGA businesses provide underwriting income and client [diversification](/diversification/). Total gross written premium reached $927.2 million in fiscal 2025, up 44.3 percent from $642.6 million in 2024 — a steep trajectory driven partly by management's operational scale and partly by the favorable [market cycle](/market-cycle/) for coastal insurance following major hurricane seasons that reset industry rates.
 
 ## Financial Performance and Scaling
 

@@ -32,7 +32,7 @@ The business model is project-based, tied to vehicle platforms. When an OEM laun
 
 Visteon competes with a small field of similarly specialized suppliers: Harman (now Samsung), Continental, Denso, and a handful of emerging software-first competitors. Its advantage rests on long relationships with major OEMs, deep cockpit integration expertise, and proprietary software and algorithms embedded in its platforms. Its vulnerability mirrors the auto industry's uncertainty: traditional OEMs face margin pressure from EVs, legacy platforms earn lower returns, and the emergence of [Tesla](/tsla-stock/) and Chinese EV makers (many with vertically integrated software) threatens the traditional supplier pecking order.
 
-The company has also invested in software depth to compete in autonomous driving architectures and vehicle connectivity layers—spaces where pure hardware supplier margins tend to compress as software dominates. Visteon has positioned itself as a "software-enabled" cockpit provider rather than a hardware manufacturer, but execution risk remains.
+The company has also invested in software depth to compete in autonomous driving architectures and vehicle connectivity layers—spaces where pure hardware supplier margins tend to compress as software dominates. Visteon has positioned itself as a "software-enabled" cockpit provider rather than a hardware manufacturer, but [execution risk](/execution-risk/) remains.
 
 ## Financial Model and Cash Reality
 

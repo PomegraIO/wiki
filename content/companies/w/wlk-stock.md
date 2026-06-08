@@ -37,7 +37,7 @@ Vertical integration became Westlake's strategy. Rather than buying PVC from a s
 
 The company operates three main segments, though the lines blur since many of Westlake's plants feed into one another:
 
-**Housing and Infrastructure** brings in revenue from PVC pipes, vinyl siding, roofing materials, and other building products sold to distributors and installers. This segment is tightly tied to construction cycles — when housing starts and renovations are strong, demand rises and margins widen. During downturns, it contracts sharply.
+**Housing and Infrastructure** brings in revenue from PVC pipes, vinyl siding, roofing materials, and other building products sold to distributors and installers. This segment is tightly tied to construction cycles — when [housing starts](/housing-starts/) and renovations are strong, demand rises and margins widen. During downturns, it contracts sharply.
 
 **Performance Plastics** includes engineering thermoplastics, polyolefins, and specialty materials used in automotive, consumer goods, and industrial applications. These products command higher margins than commodity plastics because they are engineered to specific customer needs and not easily commoditized. Customers pay more for performance and reliability.
 

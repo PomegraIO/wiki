@@ -54,7 +54,7 @@ Satellos' competitive survival depends on:
 
 ## The Precision Edge in Niche Indication Development
 
-Satellos' choice to narrow focus rather than broaden it is strategically intelligent but carries execution risk. By targeting inherited metabolic disorders, the company competes in a space where competitors are fewer but where the total addressable market is smaller and regulatory paths are less well-trodden than in oncology. Rapid clinical readouts and proof-of-concept become even more critical; a failed trial in a rare-disease space is harder to recover from because patient populations are small and reputation effects loom large.
+Satellos' choice to narrow focus rather than broaden it is strategically intelligent but carries [execution risk](/execution-risk/). By targeting inherited metabolic disorders, the company competes in a space where competitors are fewer but where the total addressable market is smaller and regulatory paths are less well-trodden than in oncology. Rapid clinical readouts and proof-of-concept become even more critical; a failed trial in a rare-disease space is harder to recover from because patient populations are small and reputation effects loom large.
 
 Competitive success in this position means being the first to demonstrate durable efficacy in the target indication and building relationships with patient advocacy groups, HTA bodies, and key opinion leaders in metabolic disease before rivals consolidate that terrain.
 

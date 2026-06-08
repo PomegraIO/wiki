@@ -34,7 +34,7 @@ Oaktree's involvement is significant. The firm has invested in life sciences and
 
 ## Timing and the path to combination
 
-OACC, like any SPAC, was subject to the clock. Once it completed its public offering and listed, the founders had limited time to announce a merger candidate and negotiate acceptable terms. Announcing the merger initiates a process: regulatory review, due diligence by the SPAC's shareholders, a shareholder vote on the merger agreement, and finally closing. If OACC failed to identify a suitable target or negotiate successfully within its window, it would be required to liquidate, return capital to shareholders, and dissolve — a failure to deploy the capital for its intended purpose.
+OACC, like any SPAC, was subject to the clock. Once it completed its public offering and listed, the founders had limited time to announce a merger candidate and negotiate acceptable terms. Announcing the merger initiates a process: regulatory review, [due diligence](/due-diligence/) by the SPAC's shareholders, a shareholder vote on the merger agreement, and finally closing. If OACC failed to identify a suitable target or negotiate successfully within its window, it would be required to liquidate, return capital to shareholders, and dissolve — a failure to deploy the capital for its intended purpose.
 
 ## The blank-check reality
 

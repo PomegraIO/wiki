@@ -93,7 +93,7 @@ The combination of high fixed costs (mine camp, concentration mill, shipping inf
 
 Greenland has the right to deny new mining licenses or revoke existing ones. Denmark maintains strategic oversight of Greenland and can intervene on environmental or political grounds. If a new government takes power in Greenland with an anti-mining stance, licenses could be challenged. Conversely, Greenland has economic incentives to permit mining, as it generates government revenue and employment.
 
-Climate change and ice melt are increasing geopolitical attention on Greenland's resources and strategic position. Regulatory and political risk is material, though not easily quantified.
+Climate change and ice melt are increasing geopolitical attention on Greenland's resources and strategic position. Regulatory and [political risk](/political-risk/) is material, though not easily quantified.
 
 Greenland Mines' competitiveness rests on managing Arctic logistics efficiently, maintaining environmental compliance despite harsh conditions, and retaining specialized labor. These are difficult but not impossible tasks, and companies have successfully operated mines in Greenland and other Arctic regions. However, the extreme geography means that every operational inefficiency is amplified and every cost overrun is expensive.
 

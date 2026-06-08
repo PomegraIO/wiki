@@ -31,7 +31,7 @@ The transformation reflects a broader industrial pattern: older technology compa
 
 ## Scaling into AI-enabled communications
 
-Since the pivot, Nixxy has grown with remarkable speed. The company began 2025 with approximately $1.4 million in monthly revenue run-rate and accelerated throughout the year, reaching a monthly revenue run-rate exceeding $15 million by late November 2025—a thousandfold increase in less than twelve months. The company reported approximately $98 million in total revenue for fiscal year 2025, positioning itself among the fastest-growing telecommunications infrastructure providers in North America.
+Since the pivot, Nixxy has grown with remarkable speed. The company began 2025 with approximately $1.4 million in monthly revenue run-rate and accelerated throughout the year, reaching a monthly revenue run-rate exceeding $15 million by late November 2025—a thousandfold increase in less than twelve months. The company reported approximately $98 million in total revenue for [fiscal year](/fiscal-year-definition/) 2025, positioning itself among the fastest-growing telecommunications infrastructure providers in North America.
 
 This explosive growth reflects both favorable market conditions and the company's own execution. The platform operates as a set of global telecommunications networks handling voice calls, SMS messaging, and emerging financial transaction workflows. The company has developed partnerships with telecom operators globally, creating layer-by-layer redundancy and reach. These relationships proved valuable during periods of high demand for communications capacity, as clients redirected traffic through Nixxy's infrastructure when other carriers reached saturation.
 

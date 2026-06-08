@@ -67,7 +67,7 @@ Sui competes with a vast ecosystem of other blockchains: Ethereum (the dominant 
 
 Start with the fund's prospectus and fact sheets, available from Canary Capital Partners and likely through your brokerage. These lay out the fund's structure, fee schedule, and staking mechanism clearly. Understand what custody solution Canary uses for the underlying Sui tokens — this is critical for assessing security and [operational risk](/operational-risk/).
 
-Monitor Sui network activity: the number of active validators, the amount of Sui staked, transaction volume, and developer activity. These are leading indicators of whether the network is gaining traction. Check Mysten Labs' announcements and ecosystem developments to see if major applications or institutions are adopting Sui.
+Monitor Sui network activity: the number of active validators, the amount of Sui staked, transaction volume, and developer activity. These are [leading indicators](/leading-indicator/) of whether the network is gaining traction. Check Mysten Labs' announcements and ecosystem developments to see if major applications or institutions are adopting Sui.
 
 Track the staking yield available on Sui; as the network evolves, the reward rate may change. Compare SUIS's fees and net yield to other Sui staking products and to returns from alternative assets you are considering.
 

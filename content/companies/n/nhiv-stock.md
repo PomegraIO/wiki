@@ -49,7 +49,7 @@ Alternatively, a sponsor may find a target quickly and announce a merger, trigge
 
 ## Evaluating NewHold and any SPAC
 
-The due diligence checklist is short because so little exists to analyze. First, examine the sponsor's prior track record: have they successfully completed SPAC mergers before? Did those merged companies perform well or poorly? Second, clarify the stated acquisition criteria: What sector, geography, or company size does the sponsor target? Is this a plausible market for a worthwhile acquisition? Third, understand the capitalization: How much capital was raised? How much will be used for the merger, and how much for transaction fees and sponsor compensation?
+The [due diligence](/due-diligence/) checklist is short because so little exists to analyze. First, examine the sponsor's prior track record: have they successfully completed SPAC mergers before? Did those merged companies perform well or poorly? Second, clarify the stated acquisition criteria: What sector, geography, or company size does the sponsor target? Is this a plausible market for a worthwhile acquisition? Third, understand the capitalization: How much capital was raised? How much will be used for the merger, and how much for transaction fees and sponsor compensation?
 
 Once a deal is announced, the entire evaluation shifts. You are no longer betting on a sponsor's judgment; you are evaluating a real business — the target company's financials, competitive position, growth trajectory, and management team. This is when standard company analysis applies: margins, competitive moats, market size, and risks.
 

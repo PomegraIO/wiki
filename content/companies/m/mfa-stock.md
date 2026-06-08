@@ -33,7 +33,7 @@ This is why mREIT valuations are acutely sensitive to interest-rate expectations
 
 mREITs amplify returns through leverage. If MFA invests $1 billion of shareholder equity and borrows $3 billion, it controls $4 billion of assets on a $1 billion equity base (4x leverage). If that portfolio gains 2%, the $4 billion becomes $4.08 billion, a $80 million gain. Divided by the $1 billion equity, that is an 8% [return on equity](/return-on-equity/). Without leverage, the same 2% portfolio gain would be just 2% on equity. Leverage is the amplifier: it can make modest spread income into high returns on equity (the earnings that become dividends), or it can turn small losses into large impairments of equity.
 
-Lenders impose leverage limits (often 6x to 10x for mREITs depending on asset quality) and mark loans to market. If asset values fall 10%, the loan-to-value ratio rises, and lenders may demand more equity or force asset sales. A sudden liquidity squeeze—where lenders refuse to roll over short-term borrowing or demand higher rates—can force fire-sale [liquidations](/liquidation/), destroying shareholder value.
+Lenders impose leverage limits (often 6x to 10x for mREITs depending on asset quality) and mark loans to market. If asset values fall 10%, the [loan-to-value ratio](/loan-to-value-ratio/) rises, and lenders may demand more equity or force asset sales. A sudden liquidity squeeze—where lenders refuse to roll over short-term borrowing or demand higher rates—can force fire-sale [liquidations](/liquidation/), destroying shareholder value.
 
 ## Asset Quality and Basis Risk
 

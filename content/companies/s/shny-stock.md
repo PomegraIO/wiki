@@ -51,7 +51,7 @@ Canada's economy, being export-dependent and resource-rich, is sensitive to glob
 
 ## Capital, regulation, and shareholder returns
 
-Like all banks, BMO operates under strict regulatory capital requirements. The bank must hold a minimum level of capital relative to its risk-weighted assets to protect depositors and the financial system in case of stress. These capital rules limit how much the bank can lend or how much profit it can return to shareholders relative to its equity base.
+Like all banks, BMO operates under strict regulatory capital requirements. The bank must hold a minimum level of capital relative to its [risk-weighted assets](/risk-weighted-assets/) to protect depositors and the financial system in case of stress. These capital rules limit how much the bank can lend or how much profit it can return to shareholders relative to its equity base.
 
 The capital constraint also shapes strategy. BMO cannot simply reinvest all its profits into growth; instead, it must return excess capital through [dividends](/dividend/) or [share buybacks](/share-buyback/). For decades, BMO has paid a dividend, making it attractive to income-focused investors. The sustainability of that dividend depends on the bank's ability to generate consistent earnings.
 

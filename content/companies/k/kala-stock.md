@@ -39,7 +39,7 @@ However, grants are slow, uncertain, and often restrictive (they fund specific r
 
 ## Debt Instruments and Convertible Notes
 
-As a clinical-stage company, **KALA** occasionally issues convertible notes or other hybrid debt-equity instruments rather than straight equity. A convertible note is debt that the investor expects to convert to equity when a future financing round occurs (at a discount to the new round's price) or to be repaid with interest if conversion never occurs.
+As a clinical-stage company, **KALA** occasionally issues [convertible notes](/convertible-notes/) or other hybrid debt-equity instruments rather than straight equity. A convertible note is debt that the investor expects to convert to equity when a future financing round occurs (at a discount to the new round's price) or to be repaid with interest if conversion never occurs.
 
 From **KALA**'s perspective, convertible notes are cheaper than straight equity because investors accept lower [interest rates](/interest-rate/) in exchange for upside if the conversion occurs (they get shares at a discount). This delays dilution — instead of issuing shares now, the company issues debt that becomes shares later. However, if conversion never occurs (because the company fails or stops developing the drug), **KALA** must repay the debt, creating an obligation the company likely cannot meet.
 

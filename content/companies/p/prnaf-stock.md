@@ -51,7 +51,7 @@ For a neurological disorder like Parkinson's, trial design is complicated. Endpo
 
 ## Partnerships and licensing
 
-Smaller biotech companies often out-license their programs to larger pharmaceutical firms that have the capital and commercial infrastructure to develop and market drugs. If Alterity's research attracts interest from a major pharma partner, a licensing deal could provide capital, reduce execution risk, and give the company a validation vote. Conversely, lack of partnership interest might indicate that the scientific community or major pharma have lower confidence in the approach than Alterity's management does.
+Smaller biotech companies often out-license their programs to larger pharmaceutical firms that have the capital and commercial infrastructure to develop and market drugs. If Alterity's research attracts interest from a major pharma partner, a licensing deal could provide capital, reduce [execution risk](/execution-risk/), and give the company a validation vote. Conversely, lack of partnership interest might indicate that the scientific community or major pharma have lower confidence in the approach than Alterity's management does.
 
 Alterity has pursued partnerships in the past as a means of funding development and expanding the company's reach. The strength and terms of any partnership — how much upfront capital, how much Alterity retains in royalties, how much decision-making control the company keeps — all affect the investment case.
 

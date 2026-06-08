@@ -47,7 +47,7 @@ Regulatory and permitting risk is substantial in Canada. Mining requires environ
 
 Capital risk: if Scottie cannot raise additional funds and gold prices remain depressed, the company might run out of cash and stop drilling or dilute existing shareholders severely to stay afloat.
 
-Commodity risk: even if Scottie finds gold, the value of that discovery depends on the price of gold when the mine would eventually operate — a 10-year-out forecast that is anyone's guess.
+[Commodity risk](/commodity-risk/): even if Scottie finds gold, the value of that discovery depends on the price of gold when the mine would eventually operate — a 10-year-out forecast that is anyone's guess.
 
 [Liquidity risk](/liquidity-risk/): OTC-traded junior explorers often have thin trading volumes, meaning large shareholders can be trapped or forced to exit at large discounts.
 

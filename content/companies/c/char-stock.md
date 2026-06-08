@@ -45,7 +45,7 @@ A SPAC has a limited time to complete a merger, typically 18 to 24 months from t
 
 ## Cycles in SPAC activity
 
-SPAC formations are profoundly cyclical. In booming capital markets, when money is abundant and investors are willing to take risk, SPAC IPOs flood the market. Sponsors believe they can find good deals, and investors willingly put money into blank-check companies. In tighter markets, when investors are cautious, SPAC IPOs dry up. The boom years (like 2020 to early 2021) saw hundreds of SPACs form. The subsequent years saw many struggle to find good deals, negotiate poor [mergers](/merger/), or redeem huge amounts of capital, damaging returns for shareholders.
+SPAC formations are profoundly cyclical. In booming capital markets, when money is abundant and investors are willing to take risk, [SPAC IPOs](/spac-ipo/) flood the market. Sponsors believe they can find good deals, and investors willingly put money into blank-check companies. In tighter markets, when investors are cautious, SPAC IPOs dry up. The boom years (like 2020 to early 2021) saw hundreds of SPACs form. The subsequent years saw many struggle to find good deals, negotiate poor [mergers](/merger/), or redeem huge amounts of capital, damaging returns for shareholders.
 
 Charlton Aria likely raised capital during a period when SPACs were in favor. Whether the team finds a good target and executes well depends on market conditions at the time of the merger announcement and how disciplined the sponsors are in valuation negotiations.
 

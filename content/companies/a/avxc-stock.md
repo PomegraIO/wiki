@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The rise of systematic, factor-tilted approaches to emerging-market investing traces back to the early 2000s, when quantitative researchers began demonstrating that simple screens for profitability, financial strength, and valuation could outperform traditional market-capitalization weighting. By the mid-2010s, American Century Investments launched Avantis, a subsidiary focused entirely on building factor-tilted ETFs across major asset classes. As Avantis grew its suite of emerging-market products, a particular constraint became increasingly prominent among investors: the dominance of China in any broad emerging-markets index. AVXC emerged as the firm's answer to that concern.
+The rise of systematic, factor-tilted approaches to emerging-market investing traces back to the early 2000s, when quantitative researchers began demonstrating that simple screens for profitability, financial strength, and valuation could outperform traditional [market-capitalization weighting](/market-cap-weighting/). By the mid-2010s, American Century Investments launched Avantis, a subsidiary focused entirely on building factor-tilted ETFs across major asset classes. As Avantis grew its suite of emerging-market products, a particular constraint became increasingly prominent among investors: the dominance of China in any broad emerging-markets index. AVXC emerged as the firm's answer to that concern.
 
 ## The China problem in traditional emerging-markets indices
 

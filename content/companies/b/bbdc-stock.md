@@ -37,7 +37,7 @@ BBDC must monitor and disclose its credit quality. Key metrics include: (1) the 
 
 ## Distributions vs. Returns of Capital
 
-A critical distinction in BDC investing is the difference between distributions funded by net investment income (which are sustainable if credit performance holds) and distributions funded by returns of capital (which come from the asset base itself, reducing [net asset value](/net-asset-value/) per share). During strong credit cycles, BDCs can sustain high distributions from income alone. During weaker cycles, BDCs may distribute some return of capital to hold the announced distribution stable—a practice that shrinks each shareholder's ownership stake.
+A critical distinction in BDC investing is the difference between distributions funded by net investment income (which are sustainable if credit performance holds) and distributions funded by returns of capital (which come from the asset base itself, reducing [net asset value](/net-asset-value/) per share). During strong [credit cycles](/credit-cycle/), BDCs can sustain high distributions from income alone. During weaker cycles, BDCs may distribute some return of capital to hold the announced distribution stable—a practice that shrinks each shareholder's ownership stake.
 
 BBDC's distribution policy communicates its stance: does it commit to a fixed absolute distribution, or does it maintain a distribution rate that fluctuates with portfolio performance? Fixed distributions are popular with income investors but create pressure to sustain them even amid declining earnings. Floating distributions are economically honest but create investor volatility. BBDC's choice here shapes its appeal to the investor base and its financial flexibility.
 

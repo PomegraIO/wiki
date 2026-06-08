@@ -42,9 +42,9 @@ Pricing power comes from brand strength, not from the bottler. The Coca-Cola nam
 
 ## Regional exposure and currency risk.
 
-FEMSA's largest market is Mexico, which provides the bulk of profits and the anchor for the business. Guatemala and Brazil are smaller and earlier in their growth trajectory. The company is therefore heavily exposed to Mexican economic cycles, Mexican regulatory environments, and the Mexican peso's value. When the peso weakens against the dollar, FEMSA's dollar-denominated debt becomes more expensive to service, and revenues reported in dollars appear compressed (though the peso-denominated revenues at home do not change). Conversely, a strong peso benefits the company's reported earnings and makes debt service easier.
+FEMSA's largest market is Mexico, which provides the bulk of profits and the anchor for the business. Guatemala and Brazil are smaller and earlier in their growth trajectory. The company is therefore heavily exposed to Mexican economic cycles, Mexican regulatory environments, and the [Mexican peso's](/mexian-peso/) value. When the peso weakens against the dollar, FEMSA's dollar-denominated debt becomes more expensive to service, and revenues reported in dollars appear compressed (though the peso-denominated revenues at home do not change). Conversely, a strong peso benefits the company's reported earnings and makes debt service easier.
 
-Political risk and regulatory changes in Mexico have affected FEMSA in the past. Sugar taxes, restrictions on advertising unhealthy beverages, and labor regulations all influence the profitability of the business. The company has also faced security challenges in some regions, as organized crime and corruption can disrupt logistics and expose employees to risk.
+[Political risk](/political-risk/) and regulatory changes in Mexico have affected FEMSA in the past. Sugar taxes, restrictions on advertising unhealthy beverages, and labor regulations all influence the profitability of the business. The company has also faced security challenges in some regions, as organized crime and corruption can disrupt logistics and expose employees to risk.
 
 ## Pressures on the business model.
 

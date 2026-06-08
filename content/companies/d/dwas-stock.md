@@ -42,7 +42,7 @@ Small-cap stocks are concentrated in a few industries: software, healthcare, fin
 
 DWAS trades on the [NASDAQ](/nasdaq/) exchange, usually with modest volume and reasonable spreads, so it is accessible to most investors but lacks the liquidity of mega-cap ETFs. The fund's [expense ratio](/expense-ratio/) of 0.60 percent per year is moderate. However, momentum strategies often require frequent rebalancing — adding new positions, selling old ones — which can generate trading costs and tax consequences that aren't fully captured in the headline expense ratio.
 
-For individual investors, the main cost is behavioral risk. Momentum funds work best when investors buy them when they are doing well (momentum is rising) and stick with them through the inevitable periods when momentum fades and the fund underperforms. In practice, many investors buy near the peak of momentum and sell near the trough, compounding their losses with poor timing. If you buy DWAS, the expectation should be that it will swing wildly — both up and down — and that patience and staying power matter more than picking the perfect entry point.
+For individual investors, the main cost is [behavioral risk](/behavioral-risk/). Momentum funds work best when investors buy them when they are doing well (momentum is rising) and stick with them through the inevitable periods when momentum fades and the fund underperforms. In practice, many investors buy near the peak of momentum and sell near the trough, compounding their losses with poor timing. If you buy DWAS, the expectation should be that it will swing wildly — both up and down — and that patience and staying power matter more than picking the perfect entry point.
 
 ## Who it is for
 

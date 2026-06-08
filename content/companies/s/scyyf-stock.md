@@ -48,12 +48,12 @@ The core risk is that Scandium International's properties do not contain mineabl
 
 A second risk is commodity price. Even if Scandium International makes a great discovery, the value of the deposit depends on what scandium sells for. Mining companies make money only if the metal price is high enough to profitably extract and process the ore. A fall in scandium prices could make deposits uneconomical to develop, even if they are geologically large.
 
-Permitting and political risk also matter. Mining in Australia and Canada requires environmental approvals, water rights, and local community buy-in. Governments can change environmental standards, or local opposition can delay or block a project.
+Permitting and [political risk](/political-risk/) also matter. Mining in Australia and Canada requires environmental approvals, water rights, and local community buy-in. Governments can change environmental standards, or local opposition can delay or block a project.
 
 A final consideration is capital. Junior explorers do not generate cash from operations. They survive by raising capital from investors. If Scandium International cannot raise money to fund its exploration program, it runs out of cash and cannot execute its strategy. Access to capital depends on investor sentiment and on the company's perceived prospects.
 
 ## How to research Scandium International
 
-Start with the company's filings with the SEC (CIK 0001408146) and the Canadian securities regulators. These lay out the company's properties, the exploration work completed to date, and the company's plans. Read the management discussion and analysis to understand what management believes are the company's best assets and what results they expect from upcoming drilling.
+Start with the company's filings with the SEC (CIK 0001408146) and the Canadian securities regulators. These lay out the company's properties, the exploration work completed to date, and the company's plans. Read the [management discussion and analysis](/management-discussion-and-analysis/) to understand what management believes are the company's best assets and what results they expect from upcoming drilling.
 
 Follow mining news and scandium commodity prices to track industry sentiment. Quarterly earnings calls and updates on exploration progress are where most of the interesting information surfaces — news of a positive drilling result can move the stock sharply. And remember that mining exploration is a long-cycle, capital-intensive, speculative business where discoveries are rare and outcomes are highly uncertain.

@@ -25,7 +25,7 @@ The fund does not own oil wells or gas fields or refineries. It owns futures con
 
 DBE raises capital by issuing shares, and that capital flows into futures contracts and cash reserves. Unlike a company that invests in property or equipment, DBE holds no tangible assets and generates no cash flow from operations. It is a pass-through for commodity prices. Investors contribute dollars, the fund's team converts those dollars into futures positions, and shareholders' returns depend entirely on whether energy prices go up or down. The fund charges an annual [expense ratio](/expense-ratio/) to cover management, [custodian](/custodian/) costs, and administrative expenses.
 
-The fund's assets also expand and contract with inflows and outflows, but the critical factor for performance is the underlying energy prices and the forward curve. When oil prices rally, DBE's holdings gain. When they fall, shareholders lose. The funds also experiences [contango](/contango/) effects — the same force that affects broader commodity funds like GSG — though the impact varies depending on the energy market's specific curve at any given time.
+The fund's assets also expand and contract with inflows and outflows, but the critical factor for performance is the underlying energy prices and the [forward curve](/forward-curve/). When oil prices rally, DBE's holdings gain. When they fall, shareholders lose. The funds also experiences [contango](/contango/) effects — the same force that affects broader commodity funds like GSG — though the impact varies depending on the energy market's specific curve at any given time.
 
 ## From launch through the energy transition
 

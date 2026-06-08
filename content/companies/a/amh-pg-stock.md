@@ -42,7 +42,7 @@ The critical lever is acquisition and renovation cost. If AMH can buy a distress
 
 ## Scale and the moat
 
-The advantage of being large in this business is acute. AMH's 60,000-home portfolio gives it negotiating power with contractors, the ability to hire specialized staff, and the operational discipline to manage disparate properties across multiple time zones. A typical small landlord spends nights handling emergency calls; AMH has regional management teams and customer service lines. That operational maturity translates to lower vacancy rates, faster lease turnovers, and better maintenance cost control.
+The advantage of being large in this business is acute. AMH's 60,000-home portfolio gives it negotiating power with contractors, the ability to hire specialized staff, and the operational discipline to manage disparate properties across multiple time zones. A typical small landlord spends nights handling emergency calls; AMH has regional management teams and customer service lines. That operational maturity translates to lower [vacancy rates](/vacancy-rate-property/), faster lease turnovers, and better maintenance cost control.
 
 The company has also invested in proprietary technology to improve execution. An internal property management platform connects tenants, contractors, and managers, reducing friction and response times. Over the past decade, AMH developed an internal development program and accumulated a pipeline of land and lots, positioning it to not just acquire homes but build new-construction, single-family rentals from the ground up—a far more profitable play than buying distressed properties.
 

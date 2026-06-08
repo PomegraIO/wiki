@@ -29,7 +29,7 @@ The second stream is software licensing. Real estate brokerages and software ven
 
 ## The challenge
 
-Real Messenger is competing in a market where switching costs are real but not absolute. Agents might be willing to adopt the platform if it saves time or reduces legal risk. But they have to learn something new, they have to convince the other parties in their transactions to use it too, and many real estate professionals are accustomed to simpler, free tools. The platform has to be not just better but obviously better in a way that justifies friction and cost.
+Real Messenger is competing in a market where switching costs are real but not absolute. Agents might be willing to adopt the platform if it saves time or reduces [legal risk](/legal-risk/). But they have to learn something new, they have to convince the other parties in their transactions to use it too, and many real estate professionals are accustomed to simpler, free tools. The platform has to be not just better but obviously better in a way that justifies friction and cost.
 
 Additionally, the company faces the structural challenge of being newer, much smaller, and operating in an industry that evolves slowly. Larger software platforms with real estate modules are moving into messaging themselves. Incumbents in the transaction-management space could decide to improve their own chat tools and cross-sell them to their installed base.
 

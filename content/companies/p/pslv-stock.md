@@ -41,11 +41,11 @@ How does PSLV differ from other silver exposure?
 
 There are other ways to own silver. You can buy physical bars or coins directly. You can own mining stocks, which offer leveraged exposure to silver prices but add company-specific risk. You can trade silver futures for extreme leverage. You can own a diversified precious-metals ETF that holds gold, silver, and other metals. You can own shares in Sprott Inc., the parent company, which owns Sprott Physical Silver Trust but also manages other trusts and funds.
 
-PSLV is the simplest pure play—just silver, no leverage, no mining company execution risk, no [diversification](/diversification/) with other metals. For investors who want to bet on silver alone, it offers direct exposure with the convenience of electronic trading.
+PSLV is the simplest pure play—just silver, no leverage, no mining company [execution risk](/execution-risk/), no [diversification](/diversification/) with other metals. For investors who want to bet on silver alone, it offers direct exposure with the convenience of electronic trading.
 
 What is the investor base?
 
-Retail investors make up some of the holder base, but so do institutions—[hedge funds](/hedge-fund/), pension funds, and asset allocators using it as a tactical position in silver. Some investors use it as a hedge against inflation or currency devaluation. Others view silver as an industrial metal undervalued relative to gold. The investor base fluctuates with sentiment toward precious metals broadly.
+Retail investors make up some of the holder base, but so do institutions—[hedge funds](/hedge-fund/), pension funds, and asset allocators using it as a tactical position in silver. Some investors use it as a hedge against inflation or [currency devaluation](/currency-devaluation/). Others view silver as an industrial metal undervalued relative to gold. The investor base fluctuates with sentiment toward precious metals broadly.
 
 When does silver demand pick up?
 
@@ -61,7 +61,7 @@ Liquidity is generally good on major exchanges, but it varies with market condit
 
 How to research Sprott Physical Silver Trust
 
-Monitor the silver price itself. Historical data on silver prices is freely available. Understand what drives silver demand and pricing—industrial trends, inflation expectations, dollar strength. The trust holds no other assets, so researching PSLV is primarily about understanding the silver market.
+Monitor the silver price itself. Historical data on silver prices is freely available. Understand what drives silver demand and pricing—industrial trends, [inflation expectations](/inflation-expectations/), dollar strength. The trust holds no other assets, so researching PSLV is primarily about understanding the silver market.
 
 Check Sprott's website for the trust's holdings and the audit reports. These are public. Verify that the amount of silver claimed is actually there and that recent audits are clean.
 

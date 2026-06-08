@@ -43,7 +43,7 @@ The fund carries significant [concentration risk](/concentration-risk/). The blo
 
 Regulatory risk is material and ongoing. Governments worldwide are developing frameworks for cryptocurrency and blockchain — frameworks that could encourage or constrain the sector. Changes in regulation, taxation, or enforcement directly affect the businesses in the fund.
 
-Technology risk is equally real. Blockchain is a developing technology with competing systems, competing consensus mechanisms, and competing visions for what distributed-ledger systems should do. The companies in the fund are betting on particular technical approaches and chains winning adoption; if the market converges on different technologies or approaches, some holdings may become economically obsolete.
+[Technology risk](/technology-risk/) is equally real. Blockchain is a developing technology with competing systems, competing consensus mechanisms, and competing visions for what distributed-ledger systems should do. The companies in the fund are betting on particular technical approaches and chains winning adoption; if the market converges on different technologies or approaches, some holdings may become economically obsolete.
 
 The sector is also inherently cyclical. Cryptocurrency price movements, market enthusiasm for blockchain, and the availability of capital for blockchain startups and infrastructure projects all fluctuate substantially. The fund amplifies these cycles because its holdings depend on sustained interest and investment in blockchain development.
 

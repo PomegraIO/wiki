@@ -17,7 +17,7 @@ keywords: ["community bank", "regional banking", "South Carolina", "Virginia", "
 
 ## The Regional Lending Cycle
 
-Community banks like Coastal Carolina generate revenue primarily from net interest margin—the spread between rates paid on deposits and rates charged on loans. In Coastal's markets (South Carolina and Virginia), the bulk of that lending is mortgages, home equity lines of credit, and [commercial real estate](/commercial-real-estate/) and construction loans. These portfolios are highly sensitive to regional economic conditions. When the Carolinas and Virginia experience real estate booms—new residential construction, commercial development, retail expansion—borrowing demand rises, and quality borrowers abound. The bank can grow its [balance sheet](/balance-sheet/) at healthy margins. During downturns, the opposite occurs: new loan demand weakens, delinquencies rise, and net interest margins compress as the bank competes harder for deposits and faces loan losses.
+Community banks like Coastal Carolina generate revenue primarily from net interest margin—the spread between rates paid on deposits and rates charged on loans. In Coastal's markets (South Carolina and Virginia), the bulk of that lending is mortgages, home equity lines of credit, and [commercial real estate](/commercial-real-estate/) and [construction loans](/construction-loan/). These portfolios are highly sensitive to regional economic conditions. When the Carolinas and Virginia experience real estate booms—new residential construction, commercial development, retail expansion—borrowing demand rises, and quality borrowers abound. The bank can grow its [balance sheet](/balance-sheet/) at healthy margins. During downturns, the opposite occurs: new loan demand weakens, delinquencies rise, and net interest margins compress as the bank competes harder for deposits and faces loan losses.
 
 The 2008–2009 financial crisis hit regional banks especially hard because their lending was concentrated in real estate, and the Carolinas were not immune to the housing collapse. Community banks that had grown aggressively into subprime mortgages or speculative construction lending faced catastrophic losses. Coastal's experience during that period—the severity of its loan losses and the duration of its recovery—directly reflects the depth of the regional cycle in which it was embedded.
 
@@ -55,7 +55,7 @@ The cyclical element—the prosperity of the Carolinas, the pace of new construc
 ### Wider context
 - Banking Consolidation
 - [Interest Rates](/interest-rate/)
-- Real Estate Cycles
+- [Real Estate Cycles](/real-estate-cycle/)
 - [Securities and Exchange Commission](/securities-and-exchange-commission/)
 - [10-K](/10-k/)
 </div>

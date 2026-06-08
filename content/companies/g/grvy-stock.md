@@ -41,7 +41,7 @@ Similarly, Southeast Asian regulators have explored gambling-style game mechanic
 
 ## Currency Cycles and Earnings Volatility
 
-Gravity reports in [US dollars](/us-dollar/) (as a [NASDAQ](/nasdaq/) company) but earns revenue in Korean won, Chinese yuan, Philippine pesos, Thai baht, and other Asian currencies. When the US dollar strengthens (as it did in 2022–2023), Gravity's foreign earnings translate into fewer dollars, compressing reported revenue and earnings. When the dollar weakens, translation gains flow to the bottom line.
+Gravity reports in [US dollars](/us-dollar/) (as a [NASDAQ](/nasdaq/) company) but earns revenue in [Korean won](/korean-won/), Chinese yuan, Philippine pesos, Thai baht, and other Asian currencies. When the US dollar strengthens (as it did in 2022–2023), Gravity's foreign earnings translate into fewer dollars, compressing reported revenue and earnings. When the dollar weakens, translation gains flow to the bottom line.
 
 A 15–20% move in USD/KRW can swing Gravity's annual earnings by a similar magnitude, independent of actual business performance. This is a pure currency cycle, not a business cycle. For an investor analyzing Gravity's long-term trajectory, currency fluctuations are noise; for a trader looking at quarterly earnings, they are material. A quarter of strong local-currency business can report as weak US-dollar earnings if the currency moved.
 

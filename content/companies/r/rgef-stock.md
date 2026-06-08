@@ -1,0 +1,26 @@
+---
+title: "Rockefeller Global Equity ETF (RGEF)"
+description: "An actively managed ETF that invests in global equities with a focus on quality companies and long-term capital appreciation, offering professional stock selection in exchange-traded form."
+keywords:
+  - global equities
+  - active management
+  - quality investing
+  - capital appreciation
+  - multinational stocks
+  - ETF
+handwritten: true
+---
+
+*The **Rockefeller Global [Equity ETF](/equity-etf/)** (RGEF) is an exchange-traded fund that invests in a globally diversified portfolio of equity securities, with managers who actively select stocks they believe offer durable competitive advantages and the capacity to compound value over long periods.*
+
+The fund represents a bet on the power of professional stock selection applied globally. Rather than tracking an index, RGEF's managers construct a purposeful portfolio of companies across the developed and developed-developing world that they believe possess genuine moats, rational management, and the ability to grow earnings without requiring excessive leverage or reinvestment. The portfolio is typically global in scope — holding positions across North America, Europe, and the developed Asia-Pacific region — with a bias toward larger, established businesses that have already proven their durability.
+
+What distinguishes an actively managed global equity ETF like RGEF is not the asset class—global stocks are widely available through passive [index funds](/index-fund/)—but the selection logic. Rather than owning every stock in a market-cap-weighted index, the fund's managers eliminate companies they view as structurally challenged, overvalued, or lacking sustainable competitive advantage. The portfolio is usually mid-sized: concentrated enough that each position reflects a genuine conviction, yet diversified enough to avoid being held hostage to any single holding. Turnover is typically moderate; the managers are not day traders, and the portfolio evolves as their views of the global landscape shift.
+
+The [expense ratio](/expense-ratio/) is meaningful—higher than a passive global index fund—and that is the fund's central trade-off. An investor buying RGEF is paying for the managers' skill and their framework for identifying exceptional global businesses. If the managers outperform their benchmark by an amount exceeding the fee, the fund justifies its cost. If they underperform, the investor has paid for underperformance, a loss that compounds over time. This asymmetry is the entire reason to hire an active manager: the bet is that they can find opportunities the market has mispriced, particularly during periods when crowd behaviour or macro consensus has pushed valuations to extremes.
+
+The fund's portfolio typically emphasizes businesses with sustainable competitive advantages, strong [balance sheets](/balance-sheet/), and management teams with aligned incentives. Rockefeller managers study capital allocation discipline: does the company return excess cash to shareholders, or does it squander it on [acquisitions](/acquisition/) at inflated prices? They assess [dividend](/dividend/) policies and buyback histories as signals of whether leadership respects shareholder interests. They also examine the quality of earnings, asking whether reported profits are real cash profits or accounting constructs. Over time, this disciplined approach to quality selection is meant to produce both lower volatility during downturns and sustained capital appreciation during [bull markets](/bull-market/).
+
+The risk cuts both ways. In markets where sentiment favours low-quality, high-growth, or deeply cyclical companies—think the speculative equity rallies of 2000 or 2021—a quality-focused global fund will lag, often by wide margins, because it refuses to own the stocks that are attracting the most enthusiasm. Investors buying at those moments can become frustrated, withdraw capital, and switch to a cheaper index fund just as quality begins its inevitable rebound. This risk is not a flaw in the fund but a feature of its strategy: quality investing requires patience and the willingness to underperform in certain regimes.
+
+Research into a fund like RGEF begins with understanding its track record against comparable benchmarks—typically a broad global equity index such as the MSCI World. Over multi-year periods, does the fund's return exceed the benchmark by more than its fee? In what market environments does it excel (usually downturns or periods when quality outperforms), and when does it lag (typically when speculative or cyclical sectors lead)? The portfolio holdings, sector weightings, and management commentary in [annual reports](/10-k/) reveal the managers' actual investment framework: are they truly selecting on quality metrics, or are they making complex bets on macroeconomic themes that a retail investor cannot easily validate? The turnover rate indicates how often the managers churn the portfolio; Rockefeller is not typically a high-turnover operation, which keeps costs and tax drag manageable. Finally, understand that active management introduces key-person risk: the fund's philosophy and track record are tied to specific individuals, and departures or changes in the management team can materially shift the fund's character and performance.

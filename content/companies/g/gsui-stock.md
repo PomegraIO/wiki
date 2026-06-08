@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Grayscale Sui Staking ETF launched in February 2026 under the ticker GSUI and represents a significant step in making cryptocurrency staking—a form of income generation in blockchain networks—accessible to traditional investors without requiring them to manage cryptocurrencies directly. Grayscale, one of the world's largest cryptocurrency asset managers, created GSUI to give shareholders exposure to the Sui network's native token while automating the staking process and routing staking rewards directly into the fund's [net asset value](/net-asset-value/). It is structured as a Delaware statutory trust and trades on NYSE Arca, allowing investors to hold it in conventional brokerage accounts.
+The Grayscale Sui Staking ETF launched in February 2026 under the ticker GSUI and represents a significant step in making cryptocurrency staking—a form of income generation in blockchain networks—accessible to traditional investors without requiring them to manage cryptocurrencies directly. Grayscale, one of the world's largest cryptocurrency asset managers, created GSUI to give shareholders exposure to the Sui network's native token while automating the staking process and routing staking rewards directly into the fund's [net asset value](/net-asset-value/). It is structured as a Delaware statutory trust and trades on [NYSE Arca](/nyse-arca/), allowing investors to hold it in conventional brokerage accounts.
 
 <aside class="wiki-infobox">
 <table>

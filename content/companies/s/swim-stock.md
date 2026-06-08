@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Latham Group manufactures swimming pools and related products for residential and commercial customers worldwide. The company's core business centres on above-ground pools, the most affordable entry point into home swimming and the fastest-growing segment of the global pool market. Alongside that core, Latham operates manufacturing and distribution networks for pool accessories, chemicals, and complementary recreational products. It serves a fragmented market through direct relationships with retailers, building materials distributors, and regional pool specialists across North America, Europe, and elsewhere.
+Latham Group manufactures swimming pools and related products for residential and commercial customers worldwide. The company's core business centres on above-ground pools, the most affordable entry point into home swimming and the fastest-growing segment of the global pool market. Alongside that core, Latham operates manufacturing and distribution networks for pool accessories, chemicals, and complementary recreational products. It serves a [fragmented market](/fragmented-market/) through direct relationships with retailers, building materials distributors, and regional pool specialists across North America, Europe, and elsewhere.
 
 <aside class="wiki-infobox">
 <table>

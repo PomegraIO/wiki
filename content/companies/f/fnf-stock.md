@@ -27,7 +27,7 @@ Fidelity National Financial is one of the largest title-insurance and settlement
 
 ## The transaction-driven core
 
-FNF's core business is title insurance: a policy that protects a lender and homeowner if someone later claims a prior legal claim on the property. When you buy a house, the title company searches public records, issues the policy, and collects a flat fee (typically $500 to $2,000 per transaction). When you refinance, FNF does it again. The volume is enormous—tens of millions of transactions per year across the United States—and the hit rate (actual claims) is low, which means the underwriting margin is strong.
+FNF's core business is [title insurance](/title-insurance/): a policy that protects a lender and homeowner if someone later claims a prior legal claim on the property. When you buy a house, the title company searches public records, issues the policy, and collects a flat fee (typically $500 to $2,000 per transaction). When you refinance, FNF does it again. The volume is enormous—tens of millions of transactions per year across the United States—and the hit rate (actual claims) is low, which means the underwriting margin is strong.
 
 Beyond pure title insurance, FNF operates Settlement Services, which handles the closing itself. This means managing the escrow accounts that hold the buyer's down payment, coordinating with the lender's attorney, collecting and distributing funds, recording the deed, and ensuring the buyer gets keys and the seller gets a check. This is orchestration work, not capital-intensive, and it sticks to the customer because switching to a competitor mid-transaction is not practical.
 

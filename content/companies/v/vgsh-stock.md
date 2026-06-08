@@ -16,7 +16,7 @@ handwritten: true
 
 Vanguard Short-Term Treasury ETF (VGSH) is a basket of U.S. [Treasury bonds](/treasury-bond/) with maturities between 1 and 3 years. These are debt securities issued by the federal government to borrow money, redeemable by the holder at a specified date in the relatively near future. The fund holds dozens of individual [Treasury notes](/treasury-note/) spread across that maturity range, preventing [concentration risk](/concentration-risk/) and maintaining a consistent short-duration profile as holdings age and mature.
 
-The fund is sponsored and managed by the Vanguard Group and tracks a public index of eligible short-term Treasuries. It trades on the [NASDAQ](/nasdaq/) exchange and can be bought and sold throughout the trading day like a stock, though it is ultimately a fund that owns [bonds](/bond/), not equity securities.
+The fund is sponsored and managed by the [Vanguard Group](/vanguard-group/) and tracks a public index of eligible short-term Treasuries. It trades on the [NASDAQ](/nasdaq/) exchange and can be bought and sold throughout the trading day like a stock, though it is ultimately a fund that owns [bonds](/bond/), not equity securities.
 
 ## Why would an investor own this instead of individual Treasuries?
 

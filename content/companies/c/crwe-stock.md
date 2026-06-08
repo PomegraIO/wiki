@@ -22,7 +22,7 @@ An analyst examining a SPAC before a merger is closed faces a binary outcome: ei
 
 ## The Due Diligence Burden
 
-Unlike a conventional IPO, where underwriters and SEC staff scrutinize a company's financials and disclosures, a SPAC merger involves private-company due diligence compressed into weeks or months. The 10-K for Crown Equity before a merger closes will contain no target company information; the analyst must wait for the S-4 proxy statement (the definitive merger document) to evaluate the target. The S-4 is typically lengthy and includes target financials, risk factors, and pro forma combined company projections—it is the true analytical document.
+Unlike a conventional IPO, where underwriters and SEC staff scrutinize a company's financials and disclosures, a SPAC merger involves private-company [due diligence](/due-diligence/) compressed into weeks or months. The 10-K for Crown Equity before a merger closes will contain no target company information; the analyst must wait for the S-4 [proxy statement](/proxy-statement/) (the definitive merger document) to evaluate the target. The S-4 is typically lengthy and includes target financials, risk factors, and pro forma combined company projections—it is the true analytical document.
 
 For shareholders of the SPAC pre-merger, the key questions are: Who are the sponsors? What is their track record in [acquisitions](/acquisition/) and corporate governance? How much time remains to complete a deal? What is the redemption rate trending? These factors, not the shell's [balance sheet](/balance-sheet/), drive the investment case.
 
@@ -30,7 +30,7 @@ For shareholders of the SPAC pre-merger, the key questions are: Who are the spon
 
 Once Crown Equity completes a merger with an operating company (let's call it TargetCorp), Crown Equity ceases to be a shell and becomes the [public-company](/public-company/) wrapper for TargetCorp's ongoing business. The analyst's task shifts to evaluating TargetCorp's fundamentals: revenue, profitability, competitive position, and growth trajectory. The sponsor's founder shares (often representing 20–25% of post-merger equity) create a prolonged alignment incentive; sponsors who hold founder shares for years after the merger are incentivized to drive shareholder returns.
 
-However, SPAC sponsors historically have mixed incentives: they earn sponsor fees (often 2–3% of assets) upfront, so they benefit from closing a deal regardless of quality. Post-merger, sponsors may exit via [secondary offerings](/secondary-offering/) rather than holding for the long term. This creates a misalignment with public shareholders, who bear post-merger execution risk.
+However, SPAC sponsors historically have mixed incentives: they earn sponsor fees (often 2–3% of assets) upfront, so they benefit from closing a deal regardless of quality. Post-merger, sponsors may exit via [secondary offerings](/secondary-offering/) rather than holding for the long term. This creates a misalignment with public shareholders, who bear post-merger [execution risk](/execution-risk/).
 
 ## Regulatory and Disclosure Considerations
 

@@ -37,7 +37,7 @@ SL Green owns office towers outright and leases space to tenants under long-term
 
 The economics are straightforward: buy an office building at a yield below the cost of capital (or refinance existing debt), lease the space, and pocket the difference. The appeal lies in scarcity. You cannot easily build new office space in Manhattan, so existing buildings hold value. Occupancy rates have historically been high, and rents rise over time with [inflation](/inflation/) and demand.
 
-But this segment faces a structural headwind. Post-pandemic office demand has softened as companies embraced remote and hybrid work. Vacancy rates in Manhattan climbed from historical lows (circa 5 percent) to the double digits. Tenants downsizing or relocating have created a glut of available space, pressure on rents, and uncertainty about long-term demand. When leases renew, SL Green often renews at lower rents or faces longer vacancy periods.
+But this segment faces a structural headwind. Post-pandemic office demand has softened as companies embraced remote and hybrid work. [Vacancy rates](/vacancy-rate-property/) in Manhattan climbed from historical lows (circa 5 percent) to the double digits. Tenants downsizing or relocating have created a glut of available space, pressure on rents, and uncertainty about long-term demand. When leases renew, SL Green often renews at lower rents or faces longer vacancy periods.
 
 ### Retail and other ancillary space
 
@@ -53,7 +53,7 @@ The debt-and-equity business is more flexible than owning buildings. SL Green ca
 
 [Office REITs](/office-reit/) are caught in two cycles at once. The first is the real-estate cycle: periods of strong demand, high occupancy, rising rents, and capital appreciation alternate with periods of weak demand, vacant space, declining rents, and capital losses. SL Green entered the post-pandemic period in the weak phase of this cycle.
 
-The second cycle is interest-rate driven. Office buildings are financed with debt. When [interest rates](/interest-rate/) rise, refinancing costs increase, and the spread between rent yields and borrowing costs narrows. The company also faces a "cap-rate cycle"—when the market yield required to attract capital to real estate rises (reflecting higher risk-free rates or risk appetite), building valuations fall because the same rental income is divided by a higher cap rate.
+The second cycle is interest-rate driven. Office buildings are financed with debt. When [interest rates](/interest-rate/) rise, refinancing costs increase, and the spread between rent yields and borrowing costs narrows. The company also faces a "cap-rate cycle"—when the market yield required to attract capital to real estate rises (reflecting higher [risk-free rates](/risk-free-rate/) or risk appetite), building valuations fall because the same rental income is divided by a higher cap rate.
 
 Rising interest rates from 2022 onward created a double squeeze for SL Green: office occupancy was weak (depressing rents and valuations), and borrowing costs climbed sharply (squeezing the financing advantage). The stock fell steeply as investors repriced the company's assets and earnings. REITs are highly sensitive to interest-rate expectations, sometimes more so than to changes in actual business performance.
 

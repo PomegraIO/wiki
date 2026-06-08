@@ -39,7 +39,7 @@ Embraer makes money in two ways: selling new aircraft and servicing the existing
 
 Manufacturing aircraft is capital-intensive and margin-heavy. A regional jet sells for tens of millions of dollars, and Embraer can achieve healthy profit margins if production is stable and the learning curve is managed well. But the upfront investment is substantial, and a single model can take years to develop.
 
-The aftermarket business is the more valuable prize in the long run. Once aircraft are in service, airlines need parts, repairs, and support continuously. These services carry high margins and little execution risk — Embraer owns spare-parts monopolies for its own aircraft, and the company can dictate pricing. A strong installed base translates to reliable, visible aftermarket revenue for decades. As aircraft age, they may be retired, but the long life of commercial aircraft means Embraer can expect to service its current fleet for twenty or more years beyond now.
+The aftermarket business is the more valuable prize in the long run. Once aircraft are in service, airlines need parts, repairs, and support continuously. These services carry high margins and little [execution risk](/execution-risk/) — Embraer owns spare-parts monopolies for its own aircraft, and the company can dictate pricing. A strong installed base translates to reliable, visible aftermarket revenue for decades. As aircraft age, they may be retired, but the long life of commercial aircraft means Embraer can expect to service its current fleet for twenty or more years beyond now.
 
 ## The E-Series and competitive positioning
 

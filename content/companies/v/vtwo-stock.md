@@ -45,7 +45,7 @@ The core risks are small-cap-specific. Market downturns hit small-caps hardest; 
 
 A second risk is breadth and quality variability. The Russell 2000 includes genuinely strong, profitable businesses alongside highly speculative companies with unproven business models. The index does no quality filtering; it simply takes the bottom 2,000 by rank. Some positions will fail; the fund spreads that risk across the entire universe, but an investor in VTWO is assuming some holdings will not survive.
 
-Tracking error can arise from reconstitution, cash drag, and market microstructure. The June reconstitution causes a large one-time reshuffle of holdings, incurring transaction costs; ordinary rebalancing as companies move in and out of the Russell 2000 can also create slippage. In taxable accounts, those costs and any realized gains are borne by the shareholder.
+Tracking error can arise from reconstitution, cash drag, and [market microstructure](/market-microstructure/). The June reconstitution causes a large one-time reshuffle of holdings, incurring transaction costs; ordinary rebalancing as companies move in and out of the Russell 2000 can also create slippage. In taxable accounts, those costs and any realized gains are borne by the shareholder.
 
 There is also a sector tilt to watch: the Russell 2000 has at times been heavily weighted toward financials (banks, insurance) or industrials relative to the broad market, and those allocations shift with reconstitution. An investor should be aware that VTWO's sector mix can deviate from the overall economy.
 

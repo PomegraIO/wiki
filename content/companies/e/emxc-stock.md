@@ -48,7 +48,7 @@ The fund trades on a US exchange. It is easy to buy, easy to sell, and you can d
 
 No China means less concentration, but you still have emerging-market risks. Brazil's currency swings. India's political changes. Indonesia's less-developed [stock market](/stock-market/). Taiwan's geopolitical tensions with mainland China. Take your pick: every country in this fund has something that can go wrong.
 
-Currency weakness hits your dollar returns. The [Indian rupee](/indian-rupee/) weakens, the Brazilian real tumbles, the South Korean won slides — all of these hurt you if you own the fund. There is no hedge. You get the full currency hit.
+Currency weakness hits your dollar returns. The [Indian rupee](/indian-rupee/) weakens, the [Brazilian real](/brazilian-real/) tumbles, the South [Korean won](/korean-won/) slides — all of these hurt you if you own the fund. There is no hedge. You get the full currency hit.
 
 Liquidity is lower than in US markets, though EMXC itself is liquid and easy to trade. Some of the smaller countries in the index — Thailand, Philippines, Vietnam — have tight trading spreads and less reliable market depth. That does not mean you cannot trade them, but it means they are not as frictionless as owning [Apple](/aapl-stock/) or [Microsoft](/msft-stock/).
 

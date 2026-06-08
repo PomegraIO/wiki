@@ -25,7 +25,7 @@ Cornerstone Total Return Fund is a closed-end fund — a basket of stocks, [bond
 </table>
 </aside>
 
-The fund is old. The organization behind Cornerstone was established in the 1980s, and the fund itself predates many of the mega-asset-management firms that dominate today. This matters because a long track record gives investors something to evaluate — decades of performance data, multiple market cycles, proof of concept through bull and [bear markets](/bear-market/). The longevity also signals stability; Cornerstone has survived plenty of [recessions](/recession/) and market dislocations.
+The fund is old. The organization behind Cornerstone was established in the 1980s, and the fund itself predates many of the mega-asset-management firms that dominate today. This matters because a long track record gives investors something to evaluate — decades of performance data, multiple [market cycles](/market-cycle/), proof of concept through bull and [bear markets](/bear-market/). The longevity also signals stability; Cornerstone has survived plenty of [recessions](/recession/) and market dislocations.
 
 Cornerstone's asset mix is flexible. The prospectus allows the manager to hold anywhere from a minority to a majority of assets in equities, with the balance in bonds and other fixed income. This flexibility is the fund's signal that it is not dogmatic about allocation — it tilts toward what the manager believes will deliver total return, whether that is stocks or bonds or a mix. In bullish equity periods, the fund is likely heavier in stocks. In choppy markets, it might tilt defensive.
 

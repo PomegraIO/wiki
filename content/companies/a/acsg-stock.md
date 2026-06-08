@@ -12,7 +12,7 @@ handwritten: true
 
 *An **American Century Small Cap Growth Insights ETF** (ACSG) is an exchange-traded fund that gives investors access to a portfolio of smaller U.S. companies selected for growth potential. The fund tracks an index of small-cap stocks meeting growth criteria, with the manager applying active screening to select firms positioned for above-market earnings expansion.*
 
-The fund sits in the small-cap growth segment of the U.S. equity market — companies with market capitalisation typically between $300 million and $2 billion, chosen for characteristics suggesting future revenue and earnings growth rather than current [dividend yield](/dividend-yield/) or defensive stability. Small-cap stocks are more volatile and less liquid than large-cap peers, and single-company risk is higher, but the growth payoff can be substantial over full market cycles.
+The fund sits in the small-cap growth segment of the U.S. equity market — companies with market capitalisation typically between $300 million and $2 billion, chosen for characteristics suggesting future revenue and earnings growth rather than current [dividend yield](/dividend-yield/) or defensive stability. Small-cap stocks are more volatile and less liquid than large-cap peers, and single-company risk is higher, but the growth payoff can be substantial over full [market cycles](/market-cycle/).
 
 ## What the fund holds and how it works
 

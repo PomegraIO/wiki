@@ -81,7 +81,7 @@ Start with the company's 10-K filing (SEC CIK 0001291855) and quarterly releases
 
 Monitor contract wins and pipeline. Earnings calls are where management discusses large deals closed or expected to close. A strong pipeline signals confidence in future growth; a weak pipeline signals near-term headwinds.
 
-Track trends in criminal justice policy and budgets in major jurisdictions. Announcements about bail reform, sentencing changes, incarceration trends, or corrections infrastructure spending are leading indicators of SuperCom's addressable market. Public statements from government agencies about technology modernization or electronic monitoring expansion can also signal upcoming demand.
+Track trends in criminal justice policy and budgets in major jurisdictions. Announcements about bail reform, sentencing changes, incarceration trends, or corrections infrastructure spending are [leading indicators](/leading-indicator/) of SuperCom's addressable market. Public statements from government agencies about technology modernization or electronic monitoring expansion can also signal upcoming demand.
 
 Finally, watch gross margins and R&D spending. If margins are compressing, pricing pressure is intensifying. If R&D is falling as a percentage of revenue, product innovation may be slowing, which risks future competitiveness.
 

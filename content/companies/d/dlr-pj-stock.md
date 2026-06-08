@@ -80,7 +80,7 @@ Start with the annual 10-K report (SEC CIK 0001297996) and quarterly earnings an
 - **Utilization and occupancy rates** — what percentage of available space is leased. Rising occupancy indicates demand strength; falling occupancy signals slowdown.
 - **Average rent per square foot and per kilowatt** — the company's pricing power and pricing trends over time.
 - **Customer concentration** — what percentage of revenue comes from the largest customers. High concentration means risk if a major customer leaves; [diversification](/diversification/) is generally positive.
-- **Funds from operations (FFO)** — a REIT-specific metric similar to operating cash flow, used to calculate the sustainable dividend.
+- **[Funds from operations](/funds-from-operations/) (FFO)** — a REIT-specific metric similar to operating cash flow, used to calculate the sustainable dividend.
 - **Capital expenditure** — spending on new facilities, expansions, and maintenance. This determines how much of the cash flow is available for distribution.
 - **Debt levels and coverage ratios** — how much the company has borrowed and whether operating cash flow comfortably covers interest and debt repayment.
 

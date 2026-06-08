@@ -41,7 +41,7 @@ In addition to clinical efficacy and safety, a drug's commercial success depends
 
 ## Competition and Market Saturation
 
-Dozens of companies are developing NK cell activators, checkpoint inhibitors, CAR-T therapies, and other immunotherapy approaches for oncology. Many of these companies are well-funded with established partnerships. IPHA must compete for clinical trial sites, patient enrollment, and ultimately investor capital. A crowded field means slower patient recruitment (if many trials are running simultaneously for similar indications), higher trial costs, and greater probability that competitors advance faster or achieve superior clinical results. The company's differentiation (NK cell focus, novel mechanism) is meaningful, but execution risk remains high.
+Dozens of companies are developing NK cell activators, checkpoint inhibitors, CAR-T therapies, and other immunotherapy approaches for oncology. Many of these companies are well-funded with established partnerships. IPHA must compete for clinical trial sites, patient enrollment, and ultimately investor capital. A crowded field means slower patient recruitment (if many trials are running simultaneously for similar indications), higher trial costs, and greater probability that competitors advance faster or achieve superior clinical results. The company's differentiation (NK cell focus, novel mechanism) is meaningful, but [execution risk](/execution-risk/) remains high.
 
 ## Partnership and Exit Scenarios
 

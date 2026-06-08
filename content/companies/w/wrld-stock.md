@@ -44,6 +44,6 @@ World Acceptance is smaller than large financial-services firms and lacks the sc
 
 ## How to research World Acceptance
 
-Start with the company's annual 10-K filing (SEC CIK 0000108385), which details loan originations, repayment rates by vintage and product, and charge-off history. Pay close attention to [delinquency](/delinquency/) rates (typically 30–90 days past due) and charge-offs (loans written off as uncollectible), as these are leading indicators of profitability. The balance sheet's loan receivable composition and allowance for credit losses show what management expects to lose.
+Start with the company's annual 10-K filing (SEC CIK 0000108385), which details loan originations, repayment rates by vintage and product, and charge-off history. Pay close attention to [delinquency](/delinquency/) rates (typically 30–90 days past due) and charge-offs (loans written off as uncollectible), as these are [leading indicators](/leading-indicator/) of profitability. The balance sheet's loan receivable composition and allowance for credit losses show what management expects to lose.
 
 The quarterly earnings calls reveal trends in origination volume, the cost of funds, and competitive pricing. Watch for any comments on regulatory changes, refinancing needs, or capital-raising plans. Unlike large financial-services firms with diversified revenue streams, World Acceptance's results are almost entirely driven by loan performance, so loan metrics are the business.

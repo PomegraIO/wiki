@@ -13,7 +13,7 @@ handwritten: true
 
 > "Leverage is not free; volatility is the cost you pay to borrow returns."
 
-APHU magnifies returns from its underlying index by two times through daily rebalancing. If the health-and-wellness index rises 1%, APHU aims to rise roughly 2%. If it falls 1%, APHU falls roughly 2%. This doubling happens by design: the fund borrows money to hold twice the notional value of index securities as it actually has in assets, creating what is essentially a leveraged bet.
+APHU magnifies returns from its underlying index by two times through daily rebalancing. If the health-and-wellness index rises 1%, APHU aims to rise roughly 2%. If it falls 1%, APHU falls roughly 2%. This doubling happens by design: the fund borrows money to hold twice the [notional value](/notional-value/) of index securities as it actually has in assets, creating what is essentially a leveraged bet.
 
 The name tells its story: "2X Long" means double the upside (and downside); "Daily Target" means the fund rebalances every day to maintain that 2x ratio, crucial because the math of leverage and daily resetting creates what is called "volatility decay."
 

@@ -15,7 +15,7 @@ IUS holds a basket of large US companies, but it doesn't use the same method as 
 
 ## What RAFI indexing means
 
-RAFI stands for Fundamental Index, a methodology created by Research Affiliates. The approach starts with US large-cap companies but selects them and sizes them differently than the S&P 500 does. Instead of using stock price to determine weight, it looks at the past four years of a company's sales, cash flow, book value, and [dividends](/dividend/). This way, a business that earns the same money as a pricier competitor gets equal or greater weight in the fund.
+RAFI stands for [Fundamental Index](/fundamental-index/), a methodology created by Research Affiliates. The approach starts with US large-cap companies but selects them and sizes them differently than the S&P 500 does. Instead of using stock price to determine weight, it looks at the past four years of a company's sales, cash flow, book value, and [dividends](/dividend/). This way, a business that earns the same money as a pricier competitor gets equal or greater weight in the fund.
 
 The reasoning is: market cap reflects what investors think a company is worth today; fundamentals reflect what it actually earned. When the market bids up mega-cap growth stocks and leaves unglamorous value stocks cheap, a fundamental-index approach naturally tilts the fund toward value — not because a manager made a deliberate call, but because fundamentals and price happen to diverge. This tilt is intentional and often appeals to investors who believe value is undervalued when growth stocks soar.
 
@@ -31,6 +31,6 @@ IUS carries an [expense ratio](/expense-ratio/) that is modest — roughly in li
 
 ## The cyclical case for fundamentals
 
-The appeal of fundamental weighting waxes and wanes with market cycles. When the market gets intoxicated with growth stories, cap-weighted indexes pull forward and leave value behind — and IUS underperforms. When the cycle turns, when profit growth matters more than narrative, when expensive stocks correct, the fundamental tilt often adds value. Cyclically, this is a fund that works best for investors who believe the current cycle favors value or who want to hedge against continued growth outperformance by holding a different, fundamental-first lens on the same companies.
+The appeal of [fundamental weighting](/fundamental-weighting/) waxes and wanes with [market cycles](/market-cycle/). When the market gets intoxicated with growth stories, cap-weighted indexes pull forward and leave value behind — and IUS underperforms. When the cycle turns, when profit growth matters more than narrative, when expensive stocks correct, the fundamental tilt often adds value. Cyclically, this is a fund that works best for investors who believe the current cycle favors value or who want to hedge against continued growth outperformance by holding a different, fundamental-first lens on the same companies.
 
 For a long-term holder, IUS is a reasonable substitute for the S&P 500 if the goal is to own large US companies but with less concentration in the largest and priciest. It is not a market-beating strategy — just a different way to own America's largest public firms.

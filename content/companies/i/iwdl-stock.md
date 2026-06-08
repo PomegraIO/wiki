@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-IWDL is a UBS structured product targeting investors who believe value—cheap, dividend-paying large-cap stocks—will outperform growth. It applies 2x leverage via daily rebalancing, meaning the product resets each day to maintain exactly twice the exposure of the underlying index. It is not a fund; it is an unsecured promissory note, so [credit risk](/credit-risk/) sits with the issuer.
+IWDL is a UBS [structured product](/structured-product/) targeting investors who believe value—cheap, dividend-paying large-cap stocks—will outperform growth. It applies 2x leverage via daily rebalancing, meaning the product resets each day to maintain exactly twice the exposure of the underlying index. It is not a fund; it is an unsecured promissory note, so [credit risk](/credit-risk/) sits with the issuer.
 
 ## The mechanics: What is a 2x leveraged factor play?
 
@@ -46,6 +46,6 @@ IWDL is an unsecured note backed by UBS. If the bank fails, holders face counter
 
 This product is a tactical position for investors who believe value is underpriced relative to growth and want amplified exposure to that bet. It is not suitable for buy-and-hold investors, especially in low-volatility periods. The cost of daily rebalancing erodes long-term returns, particularly in sideways markets.
 
-An investor considering IWDL should monitor the underlying value index and the performance gap between value and growth. When value is significantly cheaper than growth by traditional metrics—and when [interest rates](/interest-rate/) or inflation expectations suggest a regime shift in value's favor—IWDL can outperform. In other environments, the leverage amplifies value's underperformance.
+An investor considering IWDL should monitor the underlying value index and the performance gap between value and growth. When value is significantly cheaper than growth by traditional metrics—and when [interest rates](/interest-rate/) or [inflation expectations](/inflation-expectations/) suggest a regime shift in value's favor—IWDL can outperform. In other environments, the leverage amplifies value's underperformance.
 
 Holdings and turnover matter. Read the prospectus and the latest fact sheet from UBS to understand which sectors and companies comprise the index. Watch how the [leverage ratio](/leverage-ratio-forex/) drifts during volatile weeks—large swings force larger rebalancing trades.

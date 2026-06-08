@@ -18,7 +18,7 @@ Rather than pursuing door-to-door robot delivery, Arrive designed a stationary s
 
 ## Market and Sector Position
 
-The last-mile logistics bottleneck is a persistent cost driver for e-commerce and delivery networks. Arrive's approach sidesteps some labor challenges by removing the need for doorstep access, but faces adoption hurdles tied to property management coordination and consumer behavior. The company competes indirectly with traditional courier networks and increasingly with other autonomous delivery startups pursuing varied technical approaches.
+The last-mile logistics bottleneck is a persistent [cost driver](/cost-driver/) for e-commerce and delivery networks. Arrive's approach sidesteps some labor challenges by removing the need for doorstep access, but faces adoption hurdles tied to property management coordination and consumer behavior. The company competes indirectly with traditional courier networks and increasingly with other autonomous delivery startups pursuing varied technical approaches.
 
 ## At a Glance
 

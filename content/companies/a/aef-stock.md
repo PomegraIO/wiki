@@ -37,7 +37,7 @@ The fund's managers make individual stock picks within the ex-China emerging mar
 
 ## Risks inherent in emerging markets
 
-Investing in developing economies carries distinct risks. Emerging-market countries are often subject to greater political and economic volatility than the United States or Western Europe. Currency fluctuations can matter: the Brazilian real, Indian rupee, and Philippine peso move against the dollar based on each country's economic conditions and [central bank](/central-bank/) policy. If the dollar strengthens, dollar-based investors in these markets see a headwind even if the underlying stocks perform well.
+Investing in developing economies carries distinct risks. Emerging-market countries are often subject to greater political and economic volatility than the United States or Western Europe. Currency fluctuations can matter: the [Brazilian real](/brazilian-real/), Indian rupee, and Philippine peso move against the dollar based on each country's economic conditions and [central bank](/central-bank/) policy. If the dollar strengthens, dollar-based investors in these markets see a headwind even if the underlying stocks perform well.
 
 Companies in emerging markets often have weaker governance, less transparent financial reporting, and greater susceptibility to corruption than established firms in developed economies. Accounting standards may be looser, making it harder for an investor to know what is really happening inside a company. Some countries restrict foreign ownership or have imposed sudden, unexpected regulatory changes on entire industries.
 
@@ -45,12 +45,12 @@ The stocks themselves are often less liquid than those in developed markets. [Bi
 
 ## Currency and diversification
 
-Because the fund holds stocks priced in [Indian rupees](/indian-rupee/), Brazilian reals, Mexican pesos, and other currencies, the fund's dollar-denominated share price bounces around with both the underlying stocks and currency movements. This adds volatility but also [diversification](/diversification/) — the fund's fortunes are not tied to the strength or weakness of any single currency.
+Because the fund holds stocks priced in [Indian rupees](/indian-rupee/), Brazilian reals, [Mexican pesos](/mexian-peso/), and other currencies, the fund's dollar-denominated share price bounces around with both the underlying stocks and currency movements. This adds volatility but also [diversification](/diversification/) — the fund's fortunes are not tied to the strength or weakness of any single currency.
 
 The geographic diversification within emerging markets is genuine. India, Brazil, and Indonesia are distinct economies with different growth drivers, commodity exposures, and political systems. A downturn in Vietnam's manufacturing does not necessarily harm an Indian IT company or a Brazilian retailer. This diversification is one reason to own an emerging-market fund rather than picking individual country stocks.
 
 ## How to research the fund
 
-Start with abrdn's factsheets and the fund's most recent [annual report](/10-k/), which disclose the current holdings, their weights in the portfolio, and the geographic and sector breakdown. Compare the fund's one-year, three-year, and five-year returns against the MSCI Emerging Markets Index ex-China — this benchmark shows how the fund's managers have performed relative to a passive alternative. Check the fund's [expense ratio](/expense-ratio/) and any leverage it carries. Examine the current premium or discount to [net asset value](/net-asset-value/).
+Start with abrdn's factsheets and the fund's most recent [annual report](/10-k/), which disclose the current holdings, their weights in the portfolio, and the geographic and sector breakdown. Compare the fund's one-year, three-year, and five-year returns against the [MSCI Emerging Markets Index](/msci-emerging-markets-index/) ex-China — this benchmark shows how the fund's managers have performed relative to a passive alternative. Check the fund's [expense ratio](/expense-ratio/) and any leverage it carries. Examine the current premium or discount to [net asset value](/net-asset-value/).
 
 Pay attention to flows: if investors are buying the fund in large amounts, that creates demand that can push the share price above net asset value, making it an expensive way to access the underlying stocks. If the fund trades at a discount, it might offer better value. As always with international stocks, watch macroeconomic conditions in the fund's key countries and monitor any regulatory changes that might affect foreign investors or specific industries.

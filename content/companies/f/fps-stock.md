@@ -45,7 +45,7 @@ The renewable energy transition is reshaping demand. As utilities and industrial
 
 The manufacturing sector faces wage and input cost pressures. Forgent's products require skilled labor — engineers and technicians with electrical and mechanical expertise — and that labor has become costlier and sometimes harder to find. Material costs for metals, semiconductors, and electrical components fluctuate with commodity prices and supply availability.
 
-Project-based revenue means execution risk. A major contract gone wrong — cost overruns, design revisions, delivery delays — can hurt a quarter materially. Customer consolidation in some industries also matters; when utilities or large industrials merge, redundant suppliers may be eliminated.
+Project-based revenue means [execution risk](/execution-risk/). A major contract gone wrong — cost overruns, design revisions, delivery delays — can hurt a quarter materially. Customer consolidation in some industries also matters; when utilities or large industrials merge, redundant suppliers may be eliminated.
 
 The pace of technological change in power electronics is accelerating. Wide-bandgap semiconductors (silicon carbide, gallium nitride) promise higher efficiency and smaller equipment. Companies that fail to integrate these advances into product roadmaps can find themselves at a disadvantage.
 

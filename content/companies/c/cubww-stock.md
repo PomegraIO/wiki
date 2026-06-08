@@ -50,4 +50,4 @@ Warrant prices are published by the exchanges and tracked by financial data prov
 
 Look at the time value separately from the [intrinsic value](/intrinsic-value/). If CUBWW has three years left and the underlying stock is $20 (strike $11.50), the intrinsic value is $4.25. If CUBWW is trading at $6, the extra $1.75 is time value — the market is betting the stock could move further. As expiration approaches, that time value evaporates.
 
-Finally, understand position sizing. Warrants are leverage. A 5% portfolio allocation to a stock position should not be a 5% allocation to warrants of that stock. Warrants move harder. Sizing them smaller is the only way to avoid being wiped out by adverse volatility.
+Finally, understand [position sizing](/position-sizing/). Warrants are leverage. A 5% portfolio allocation to a stock position should not be a 5% allocation to warrants of that stock. Warrants move harder. Sizing them smaller is the only way to avoid being wiped out by adverse volatility.

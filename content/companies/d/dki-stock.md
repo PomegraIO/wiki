@@ -4,7 +4,7 @@ description: "A small-cap technology firm trading under CIK 2058584; risks and d
 keywords: [DKI, technology, small-cap, emerging business, financial risk, investment]
 ---
 
-*DarkIris Inc. (DKI), a publicly traded micro-cap entity with SEC filing obligations under CIK 2058584, operates in an arena where regulatory oversight, capital scarcity, and execution risk are often the binding constraints. Unlike established technology firms that can weather pivots and margin pressure, a company at this scale lives or dies on its ability to solve a focused problem, retain customer trust, and manage its [balance sheet](/balance-sheet/). Prospective analysts should approach DarkIris through the lens of what could break the business, not what could make it soar.*
+*DarkIris Inc. (DKI), a publicly traded micro-cap entity with SEC filing obligations under CIK 2058584, operates in an arena where regulatory oversight, capital scarcity, and [execution risk](/execution-risk/) are often the binding constraints. Unlike established technology firms that can weather pivots and margin pressure, a company at this scale lives or dies on its ability to solve a focused problem, retain customer trust, and manage its [balance sheet](/balance-sheet/). Prospective analysts should approach DarkIris through the lens of what could break the business, not what could make it soar.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>DKI</td></tr>
@@ -39,7 +39,7 @@ Unlike a REIT or regulated utility, where competitive risk is more stable and pr
 
 ## What to Watch in the 10-K
 
-Analysts should closely examine: cash burn rate and runway, customer concentration (large revenue from one or two customers is dangerous), gross margins and their stability, deferred revenue and its meaning, debt covenants and likelihood of breach, related-party transactions, and officer compensation as a percentage of revenue (abnormally high comp relative to company size can signal either desperation or misaligned priorities). Any company with a weak balance sheet, declining revenue, and limited optionality for raising capital faces a hard clock.
+Analysts should closely examine: cash burn rate and runway, customer concentration (large revenue from one or two customers is dangerous), gross margins and their stability, [deferred revenue](/deferred-revenue/) and its meaning, debt covenants and likelihood of breach, related-party transactions, and officer compensation as a percentage of revenue (abnormally high comp relative to company size can signal either desperation or misaligned priorities). Any company with a weak balance sheet, declining revenue, and limited optionality for raising capital faces a hard clock.
 
 ## The Fair View
 

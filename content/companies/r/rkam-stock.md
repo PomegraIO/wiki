@@ -44,7 +44,7 @@ The underlying challenge that ROKIT's platform attempts to address is straightfo
 
 ROKIT's approach, as described in public disclosures, uses artificial intelligence and machine learning to map the biological rules governing organ development and to guide the organization of cells grown in culture toward functional three-dimensional structures. The company has not disclosed specific technical results or timelines for bringing a product to market. The field of regenerative medicine remains largely academic and preclinical; very few companies have moved candidates into clinical trial stages.
 
-For ROKIT America's public offering, the regenerative medicine segment is positioned as a future growth lever rather than a current revenue driver. It provides a growth narrative — "we are not just a supplement company, we are positioning ourselves as a regenerative medicine company" — that can justify a higher valuation multiple among biotech-focused investors. However, it also introduces execution risk: the company is committing capital and management time to a technology platform with no demonstrated near-term commercial output.
+For ROKIT America's public offering, the regenerative medicine segment is positioned as a future growth lever rather than a current revenue driver. It provides a growth narrative — "we are not just a supplement company, we are positioning ourselves as a regenerative medicine company" — that can justify a higher valuation multiple among biotech-focused investors. However, it also introduces [execution risk](/execution-risk/): the company is committing capital and management time to a technology platform with no demonstrated near-term commercial output.
 
 ## Ownership structure and capital strategy
 

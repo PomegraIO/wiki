@@ -45,7 +45,7 @@ Gentor's risk factor disclosures address competition from larger mining companie
 
 ## Management Background and Exploration Expertise
 
-The company discloses the background of its officers and directors in proxy statements or annual reports. For an explorer, the relevant expertise includes geology, mining operations, project development, and financing. Gentor's management disclosures allow readers to assess whether the team has relevant experience advancing properties. This biographical transparency is mandated and material for a company whose success depends on skilled execution in a specialized field.
+The company discloses the background of its officers and directors in [proxy statements](/proxy-statement/) or annual reports. For an explorer, the relevant expertise includes geology, mining operations, project development, and financing. Gentor's management disclosures allow readers to assess whether the team has relevant experience advancing properties. This biographical transparency is mandated and material for a company whose success depends on skilled execution in a specialized field.
 
 ## Historical Performance and Prior Property Assessments
 

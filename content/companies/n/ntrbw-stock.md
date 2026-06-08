@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-NutriBand is a small, development-stage company operating in the nutritional and functional foods space. It was incorporated to develop and market branded products in health and wellness categories — primarily nutritional supplements and functional food items — with the intent to capture a slice of a large and fragmented market. The company has pursued commercialization through various channels and partnerships, though its financial results remain modest and its path to scale remains uncertain.
+NutriBand is a small, development-stage company operating in the nutritional and functional foods space. It was incorporated to develop and market branded products in health and wellness categories — primarily nutritional supplements and functional food items — with the intent to capture a slice of a large and [fragmented market](/fragmented-market/). The company has pursued commercialization through various channels and partnerships, though its financial results remain modest and its path to scale remains uncertain.
 
 The basic economics of a nutritional products business are straightforward in theory: formulate or source a product that consumers believe delivers health benefits, brand it, and sell it at a markup over the cost of goods sold and distribution. The gross margin on branded nutritional products can be attractive — often 50% or higher if the product has a loyal customer base and efficient supply chains. The hard part is building that customer base and sustainable brand loyalty in a category cluttered with thousands of competitors, many of them far larger and better capitalized.
 

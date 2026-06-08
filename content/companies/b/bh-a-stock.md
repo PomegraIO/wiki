@@ -56,7 +56,7 @@ This lack of transparency has been a persistent criticism of the company. Shareh
 
 Biglari Holdings is controlled by Sardar Biglari, who serves as the chief executive officer and is the largest shareholder. This concentration of control means that Biglari sets strategy and capital allocation with minimal oversight from independent directors or shareholders. While some investors appreciate the focused leadership, others view the control structure and limited disclosure as problematic — shareholders have little ability to challenge major decisions or to demand transparency.
 
-The relationship between Biglari and his shareholders has been strained at times. Disputes over executive compensation, capital allocation, and company strategy have led to shareholder criticism and occasionally to unsuccessful proxy contests. The company's stock price has generally underperformed a diversified equity index over extended periods, which shareholders have attributed to poor capital allocation, unsuccessful business operations, and the stock trading at a deep discount to net asset value.
+The relationship between Biglari and his shareholders has been strained at times. Disputes over executive compensation, capital allocation, and company strategy have led to shareholder criticism and occasionally to unsuccessful [proxy contests](/proxy-contest/). The company's stock price has generally underperformed a diversified equity index over extended periods, which shareholders have attributed to poor capital allocation, unsuccessful business operations, and the stock trading at a deep discount to net asset value.
 
 ## Current position and the disclosure question
 

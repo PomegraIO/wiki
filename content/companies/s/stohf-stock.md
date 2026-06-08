@@ -49,7 +49,7 @@ The transition is not seamless. Equinor must simultaneously manage the decline o
 
 ## The state-ownership question
 
-Like Petrobras and other national champions, Equinor is majority state-owned. Norway holds roughly 67 percent of the shares, with the remainder in public markets. That ownership structure gives the Norwegian state influence over strategy, [dividend](/dividend/) policy, and the pace of the energy transition. The state also benefits financially from Equinor's cash flow, which helps fund the Norwegian sovereign wealth fund — one of the world's largest.
+Like Petrobras and other national champions, Equinor is majority state-owned. Norway holds roughly 67 percent of the shares, with the remainder in public markets. That ownership structure gives the Norwegian state influence over strategy, [dividend](/dividend/) policy, and the pace of the energy transition. The state also benefits financially from Equinor's cash flow, which helps fund the Norwegian [sovereign wealth fund](/sovereign-wealth-fund/) — one of the world's largest.
 
 Norwegian governance, however, is generally competent and stable. The state has not typically meddled in management appointments or day-to-day operations the way some governments do. That has allowed Equinor to operate relatively professionally. But the reality remains that strategic decisions — like how aggressively to push the renewable transition, where to invest capital, what dividend to pay — are ultimately beholden to the political interests of Norway.
 

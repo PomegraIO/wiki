@@ -28,7 +28,7 @@ O-I Glass is one of the world's largest manufacturers of glass containers, prima
 
 Glass containers are not commodity-like as they appear. Each bottle or jar is engineered to match specific customer requirements—weight, shape, color (clear, amber, green), label placement, embossing, and closure fitment. A brewery or winery does not merely order "bottles"; it specifies exact dimensions and performance specs. This customer-driven engineering, combined with the capital intensity of furnace operations, creates switching costs and customer lock-in. O-I manufactures to order, managing inventory and production schedules based on client demand, and operates long-term supply contracts.
 
-The production process is energy-intensive. Raw materials—silica sand, soda ash, limestone, and recycled glass cullet—are melted in furnaces at extremely high temperatures. The molten glass flows to forming machines that shape containers at scale. Once cooled and inspected, bottles are palletized and shipped. The company owns and operates furnaces, forming lines, and quality control systems across multiple plants; capital expenditure on furnace maintenance and replacement is a perpetual cost driver.
+The production process is energy-intensive. Raw materials—silica sand, soda ash, limestone, and recycled glass cullet—are melted in furnaces at extremely high temperatures. The molten glass flows to forming machines that shape containers at scale. Once cooled and inspected, bottles are palletized and shipped. The company owns and operates furnaces, forming lines, and quality control systems across multiple plants; capital expenditure on furnace maintenance and replacement is a perpetual [cost driver](/cost-driver/).
 
 ## Business Segments and Revenue Mix
 

@@ -42,7 +42,7 @@ Second, financing. Building a modern underground gold mine costs hundreds of mil
 
 Third, commodity prices. Gold and antimony prices fluctuate. If the company's original project economics assumed gold at a certain price and the price crashes, the mine becomes unprofitable to build. Projects get shelved or redesigned when commodity prices swing. Perpetua must convince lenders and investors that the project will be profitable across a reasonable range of future prices, not just at spot prices today.
 
-Fourth, execution risk. Even after permits are won and capital is raised, building a mine is a complex, multi-year construction project. Cost overruns and delays are common. History is littered with mining projects that looked great on paper but stumbled in execution.
+Fourth, [execution risk](/execution-risk/). Even after permits are won and capital is raised, building a mine is a complex, multi-year construction project. Cost overruns and delays are common. History is littered with mining projects that looked great on paper but stumbled in execution.
 
 ## Why it matters: domestic antimony supply and gold
 

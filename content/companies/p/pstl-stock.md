@@ -27,7 +27,7 @@ Postal Realty Trust is a [real estate investment trust](/real-estate-investment-
 
 ## Why is the Postal Service's real estate worth investing in?
 
-The USPS needs thousands of facilities to function. Post offices, distribution centers, processing hubs, and last-mile sorting facilities are the physical backbone of mail delivery. For decades these properties were owned piecemeal by local operators, franchisees, and property companies with no public way to invest in the sector as a unified whole. Postal Realty was created by Tony Weisman and others in 2021 to consolidate this fragmented market, buy existing facilities, and create a steady-income REIT from properties whose tenant is effectively the federal government.
+The USPS needs thousands of facilities to function. Post offices, distribution centers, processing hubs, and last-mile sorting facilities are the physical backbone of mail delivery. For decades these properties were owned piecemeal by local operators, franchisees, and property companies with no public way to invest in the sector as a unified whole. Postal Realty was created by Tony Weisman and others in 2021 to consolidate this [fragmented market](/fragmented-market/), buy existing facilities, and create a steady-income REIT from properties whose tenant is effectively the federal government.
 
 ## What makes Postal's tenant reliable?
 
@@ -61,6 +61,6 @@ A third risk is concentration: Postal's tenant is singular. The company owns pro
 
 Start with Postal's quarterly 10-Q and annual 10-K filings (SEC CIK 0001759774), which detail the portfolio breakdown by property type, occupancy rates, and lease expirations. The earnings calls reveal management's thinking on acquisition pace, the USPS's changing mail volumes, and any strategic shifts in how the company deploys capital.
 
-Key metrics to watch include funds from operations (FFO), a REIT-specific measure that adjusts net income for [depreciation](/depreciation/) and other non-cash items to show the cash available for distributions. The distribution yield—the annual dividend divided by share price—shows what income you receive, and trends in funds from operations growth reveal whether distributions are sustainable. Watch also the weighted average lease [expiration date](/expiration-date/); longer lease life suggests more revenue stability.
+Key metrics to watch include [funds from operations](/funds-from-operations/) (FFO), a REIT-specific measure that adjusts net income for [depreciation](/depreciation/) and other non-cash items to show the cash available for distributions. The distribution yield—the annual dividend divided by share price—shows what income you receive, and trends in funds from operations growth reveal whether distributions are sustainable. Watch also the weighted average lease [expiration date](/expiration-date/); longer lease life suggests more revenue stability.
 
 The mail-delivery industry itself is worth monitoring. USPS volume trends, changes in postal service policy, and any federal legislative moves around the Postal Service's finances or operations all ripple through Postal Realty's business. The company is not a bet on growth but a bet on continuity, so the continuity thesis is everything.

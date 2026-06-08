@@ -33,7 +33,7 @@ handwritten: true
 
 ## How the 2X leverage actually works
 
-ASMG does not hold ASML shares directly. Instead, the fund uses equity derivatives — predominantly total-return swaps or leveraged [call spreads](/call-spread/) — combined with borrowed cash to construct a synthetic position worth roughly twice the fund's total assets. If ASML rises 1 percent on a trading day, ASMG aims to rise 2 percent. If ASML falls 2 percent, ASMG aims to fall 4 percent. At each market close, the fund rebalances the derivatives and borrowing to reset the [leverage ratio](/leverage-ratio-forex/), ensuring that the next trading day begins with a fresh 2X multiple. This daily reset is mechanically necessary to meet the stated objective but carries a hidden cost.
+ASMG does not hold ASML shares directly. Instead, the fund uses equity derivatives — predominantly total-return swaps or leveraged [call spreads](/call-spread/) — combined with borrowed cash to construct a [synthetic position](/synthetic-position/) worth roughly twice the fund's total assets. If ASML rises 1 percent on a trading day, ASMG aims to rise 2 percent. If ASML falls 2 percent, ASMG aims to fall 4 percent. At each market close, the fund rebalances the derivatives and borrowing to reset the [leverage ratio](/leverage-ratio-forex/), ensuring that the next trading day begins with a fresh 2X multiple. This daily reset is mechanically necessary to meet the stated objective but carries a hidden cost.
 
 ## The volatility decay trap
 

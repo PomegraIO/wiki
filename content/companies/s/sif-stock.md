@@ -61,6 +61,6 @@ The consolidated nature of aerospace — fewer but larger OEMs and integrators �
 
 Start with the annual 10-K filing (SEC CIK 0000090168), which details the two business segments, names the major customers and programs, and outlines the company's risk exposures and capacity constraints. Watch the gross-margin trend over several quarters; margin compression usually signals either rising material costs, lower capacity utilization, or competitive pricing pressure.
 
-The quarterly earnings releases and management calls are where SIFCO discusses the health of its key programs — which ones are ramping, which are declining, and what the visibility looks like into future years. The order backlog (disclosed in the 10-K and quarterly filings) is a leading indicator of manufacturing activity and revenue in the near term.
+The quarterly earnings releases and management calls are where SIFCO discusses the health of its key programs — which ones are ramping, which are declining, and what the visibility looks like into future years. The order backlog (disclosed in the 10-K and quarterly filings) is a [leading indicator](/leading-indicator/) of manufacturing activity and revenue in the near term.
 
 For context on SIFCO's industry, follow commercial aircraft order and delivery trends from Boeing and Airbus, as well as defence spending forecasts and military aircraft program status. SIFCO's fortunes rise and fall with those macro trends, making it a play on commercial and military aviation production cycles rather than a standalone growth story.

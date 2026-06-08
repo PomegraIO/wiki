@@ -41,7 +41,7 @@ Downstream, Gibraltar sells through multiple channels. Direct sales to large nat
 
 ## Revenue and profitability drivers
 
-Gibraltar's revenue is driven by the volume of residential construction (measured by housing starts, building permits, and the total square footage of residential building) and commercial/industrial construction activity. New residential construction is the primary segment; repair and renovation comprises a meaningful secondary stream. During expansion, builders start more homes, buy more materials, and margins improve as factories operate at high capacity. During contraction, volumes fall, excess capacity emerges, and price competition intensifies.
+Gibraltar's revenue is driven by the volume of residential construction (measured by [housing starts](/housing-starts/), building permits, and the total square footage of residential building) and commercial/industrial construction activity. New residential construction is the primary segment; repair and renovation comprises a meaningful secondary stream. During expansion, builders start more homes, buy more materials, and margins improve as factories operate at high capacity. During contraction, volumes fall, excess capacity emerges, and price competition intensifies.
 
 The company has made strategic moves to de-emphasize pure cyclicality. Some products (windows, siding) are used in renovation as well as new construction, which smooths revenue. Recurring or contracted revenue (supplying components to large national builders under supply agreements) provides baseline stability. Specialty hardware and fasteners, sold to a broad base of manufacturers, have low correlation to residential construction cycles. Service contracts and extended warranties add some recurring revenue.
 

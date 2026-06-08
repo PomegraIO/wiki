@@ -52,4 +52,4 @@ The inclusion of both traditional and renewable energy suggests the sponsor is n
 
 Like all SPACs, Pyrophyte has a defined window (typically 24 months from IPO, extendable with shareholder approval) to announce a merger target. Once a deal is signed, shareholders vote to approve. Those who vote against have [redemption rights](/redemption-rights-equity/) — they can exit at the original $10 IPO price using the trust account. This redemption right is the main check on sponsor opportunism; if the proposed target is unpopular, widespread redemptions can make the deal uneconomical.
 
-Investors should monitor SEC filings for merger announcements and read the proxy statement closely before voting. The pre-merger SPAC phase offers little to analyze except the sponsor's prior track record and sector expertise.
+Investors should monitor SEC filings for merger announcements and read the [proxy statement](/proxy-statement/) closely before voting. The pre-merger SPAC phase offers little to analyze except the sponsor's prior track record and sector expertise.

@@ -4,7 +4,7 @@ description: "A special-purpose acquisition company and public shell entity form
 keywords: ["SPAC", "special purpose acquisition company", "blank-check company", "merger", "capital raising"]
 ---
 
-*[Churchill Capital Corp XI](/stock/) (**CCXI**) is a [special-purpose-acquisition-company](/special-purpose-acquisition-company/) that operates as a publicly listed blank-check entity. The company was formed expressly to raise capital and identify a suitable private business for merger or [acquisition](/acquisition/), enabling that target firm to achieve [public-company](/public-company/) status through a reverse combination rather than a traditional initial-public-offering. Until a definitive merger agreement is executed, CCXI itself conducts no operations and owns no productive assets—it functions as a capital vehicle stewarded by experienced sponsors.*
+*[Churchill Capital Corp XI](/stock/) (**CCXI**) is a [special-purpose-acquisition-company](/special-purpose-acquisition-company/) that operates as a publicly listed blank-check entity. The company was formed expressly to raise capital and identify a suitable private business for merger or [acquisition](/acquisition/), enabling that target firm to achieve [public-company](/public-company/) status through a reverse combination rather than a traditional initial-public-offering. Until a [definitive merger agreement](/definitive-merger-agreement/) is executed, CCXI itself conducts no operations and owns no productive assets—it functions as a capital vehicle stewarded by experienced sponsors.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CCXI</td></tr>
@@ -34,7 +34,7 @@ The SPAC market contracted significantly following 2021 as subsequent performanc
 
 ## Operational Structure Prior to Merger
 
-Before a business combination, CCXI has minimal operating infrastructure. It employs a small administrative staff, retains legal and financial advisors, and conducts due diligence on potential acquisition targets. The company's [balance sheet](/balance-sheet/) primarily reflects cash held in trust, with minimal recurring expenses. No revenue is generated; the vehicle exists purely as a merger-seeking instrument.
+Before a business combination, CCXI has minimal operating infrastructure. It employs a small administrative staff, retains legal and financial advisors, and conducts [due diligence](/due-diligence/) on potential acquisition targets. The company's [balance sheet](/balance-sheet/) primarily reflects cash held in trust, with minimal recurring expenses. No revenue is generated; the vehicle exists purely as a merger-seeking instrument.
 
 Public shareholders receive periodic updates through [10-K](/10-k/) annual reports and quarterly filings, which disclose the status of merger negotiations, any developments with prospective targets, and the trust account balance. The informational asymmetry—in which sponsors and insiders often know more about target prospects than public shareholders—is an inherent feature of the SPAC structure and a source of ongoing [securities-and-exchange-commission](/securities-and-exchange-commission/) concern.
 

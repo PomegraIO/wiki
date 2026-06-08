@@ -34,7 +34,7 @@ A critical disclosure in the 10-K is whether BlueOne depends on a handful of cus
 
 ## Competitive Positioning
 
-BlueOne operates in a fragmented market. At the global scale, giants like [Accenture](/acn-stock/) and IBM dominate through scale, brand, and capability breadth. At the regional or vertical level, dozens of specialized boutiques compete on expertise or relationships. BlueOne's niche is likely defined by either vertical expertise (e.g., "the manufacturing systems integrator for mid-market firms in the Midwest") or horizontal capability (e.g., "the cloud-migration specialist"). The 10-K often hints at competitive advantage through customer retention rates, win rates, or contract expansion metrics.
+BlueOne operates in a [fragmented market](/fragmented-market/). At the global scale, giants like [Accenture](/acn-stock/) and IBM dominate through scale, brand, and capability breadth. At the regional or vertical level, dozens of specialized boutiques compete on expertise or relationships. BlueOne's niche is likely defined by either vertical expertise (e.g., "the manufacturing systems integrator for mid-market firms in the Midwest") or horizontal capability (e.g., "the cloud-migration specialist"). The 10-K often hints at competitive advantage through customer retention rates, win rates, or contract expansion metrics.
 
 ## Technology and Intellectual Property
 

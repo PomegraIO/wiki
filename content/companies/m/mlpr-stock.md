@@ -42,4 +42,4 @@ Anyone considering this product should start by understanding the Alerian MLP In
 
 Watch the distribution yield relative to the underlying MLPs and monitor the quarterly distributions themselves—cuts are a sign of operational stress in the sector. In a rising commodity cycle, a leveraged MLP product can deliver significant gains; in a stable or falling cycle, rebalancing drag and distribution cuts often overwhelm any price appreciation.
 
-As with any leveraged structured product, MLPR is a tactical position, not a long-term holding. Investors should understand not only the energy sector but the mechanics of daily rebalancing and the tax and [credit risks](/credit-risk/) that come with an ETN structure.
+As with any leveraged [structured product](/structured-product/), MLPR is a tactical position, not a long-term holding. Investors should understand not only the energy sector but the mechanics of daily rebalancing and the tax and [credit risks](/credit-risk/) that come with an ETN structure.

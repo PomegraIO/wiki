@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Digital Asset Debt Strategy ETF (NYSE Arca: DADS) is an exchange-traded fund designed to track the performance of digital-asset-backed debt instruments and on-chain lending strategies. It represents a distinct market segment: investors seeking yield from the emerging infrastructure of decentralized finance without owning cryptocurrencies directly. The fund bridges traditional portfolio management and the nascent world of blockchain-based lending.
+The Digital Asset Debt Strategy ETF ([NYSE Arca](/nyse-arca/): DADS) is an exchange-traded fund designed to track the performance of digital-asset-backed debt instruments and on-chain lending strategies. It represents a distinct market segment: investors seeking yield from the emerging infrastructure of decentralized finance without owning cryptocurrencies directly. The fund bridges traditional portfolio management and the nascent world of blockchain-based lending.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ Unlike a traditional [bond](/bond/) fund, DADS does not seek a specific maturity
 
 The fund is structured as a standard exchange-traded fund, meaning shares trade intraday on a [stock exchange](/stock-exchange/) and carry an [expense ratio](/expense-ratio/) for management and administrative costs. The sponsor handles daily rebalancing, collects distributions from the underlying protocols, and manages the logistics of holding and accessing on-chain assets. Because the underlying assets are not held by traditional [custodians](/custodian/), the sponsor must employ specialised custody partners with blockchain expertise.
 
-The expense ratio is modest relative to active management but carries implicit trading costs due to the rebalancing required to maintain the fund's strategy. Trading volumes on the underlying protocols can vary, and wide [bid-ask spreads](/bid-ask-spread/) in less liquid debt positions may slow rebalancing or increase costs during market stress.
+The expense ratio is modest relative to active management but carries [implicit trading costs](/implicit-trading-costs/) due to the rebalancing required to maintain the fund's strategy. Trading volumes on the underlying protocols can vary, and wide [bid-ask spreads](/bid-ask-spread/) in less liquid debt positions may slow rebalancing or increase costs during market stress.
 
 ## Risks and limitations
 

@@ -51,7 +51,7 @@ Macro conditions affect both occupancy and rental rates. In a strong economic ex
 
 ### How does Granite fund acquisitions and maintain distributions?
 
-Granite grows its portfolio by acquiring new properties. It funds acquisitions through a combination of debt (mortgages and [bonds](/bond/)), equity offerings (issuing new units), and retained cash flow. The capital structure matters significantly. Too much debt increases financial risk and reduces flexibility. Too much equity dilutes existing unitholders. The optimal capital structure balances growth with financial stability.
+Granite grows its portfolio by acquiring new properties. It funds acquisitions through a combination of debt (mortgages and [bonds](/bond/)), equity offerings (issuing new units), and retained cash flow. The capital structure matters significantly. Too much debt increases financial risk and reduces flexibility. Too much equity dilutes existing unitholders. The [optimal capital structure](/optimal-capital-structure/) balances growth with financial stability.
 
 Granite's distributions to unitholders come from operating cash flow — rent collected minus operating expenses (property taxes, maintenance, insurance, [management fees](/management-fee/)), minus debt service. If the company distributes more than it generates in operating cash flow, it is funding distributions from asset sales or retained reserves, which is unsustainable. Conservative REITs maintain a [payout ratio](/payout-ratio/) below 80%, meaning they retain at least 20% of cash flow for reinvestment and reserves.
 

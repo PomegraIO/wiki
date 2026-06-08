@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Sixth Street Specialty Lending, Inc. trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker TSLX and sits in a specific financial niche: it is a [business development company](/business-development-company/) (BDC) that lends money to middle-market companies. Its customers are not retail depositors or large corporations — they are private businesses with [enterprise values](/enterprise-value/) between $50 million and $1 billion that need growth capital, want to fund [acquisitions](/acquisition/), or need refinancing. TSLX provides the capital those companies need, typically in the form of senior secured loans (first-lien and second-lien debt), mezzanine financing, and some equity stakes. In return, the company earns interest income and fees, which it distributes to shareholders, making it a popular holding for income-focused investors.
+Sixth Street Specialty Lending, Inc. trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker TSLX and sits in a specific financial niche: it is a [business development company](/business-development-company/) (BDC) that lends money to middle-market companies. Its customers are not retail depositors or large corporations — they are private businesses with [enterprise values](/enterprise-value/) between $50 million and $1 billion that need growth capital, want to fund [acquisitions](/acquisition/), or need refinancing. TSLX provides the capital those companies need, typically in the form of senior secured loans (first-lien and second-lien debt), [mezzanine financing](/mezzanine-financing/), and some equity stakes. In return, the company earns interest income and fees, which it distributes to shareholders, making it a popular holding for income-focused investors.
 
 ## What a Business Development Company Does
 
@@ -24,7 +24,7 @@ TSLX focuses on senior secured loans, which are first-lien obligations backed by
 
 The portfolio spans multiple industries: software and technology, healthcare, business services, energy, consumer and retail, manufacturing, and industrials. This [diversification](/diversification/) matters because it spreads credit risk — a downturn in one sector doesn't collapse the entire loan book. However, the portfolio is tilted toward industries that are less cyclical or have strong underlying growth. Software and professional services, for example, tend to be more resilient in downturns than cyclical manufacturing.
 
-Alongside senior lending, TSLX also originates second-lien loans (junior to first-lien debt but senior to equity), which carry higher rates to compensate for higher risk. The company also makes select unitranche loans — a single [tranche](/tranche/) of debt that blends characteristics of first and second lien — and occasionally takes equity stakes or invests in structured products and [corporate bonds](/corporate-bond/).
+Alongside senior lending, TSLX also originates second-lien loans (junior to first-lien debt but senior to equity), which carry higher rates to compensate for higher risk. The company also makes select unitranche loans — a single [tranche](/tranche/) of debt that blends characteristics of first and second lien — and occasionally takes equity stakes or invests in [structured products](/structured-product/) and [corporate bonds](/corporate-bond/).
 
 ## The Mergers and Rebranding
 
@@ -38,7 +38,7 @@ TSLX generates nearly all its revenue from interest earned on loans. A typical m
 
 Operating expenses include investment-management fees (typically paid to an affiliate), servicing costs, and provision for loan losses. In strong credit environments, loan losses are minimal; in downturns, they rise.
 
-Dividend policy is critical for BDCs. The tax structure incentivizes distributions, and yield-seeking investors choose BDCs specifically for dividend income. TSLX's management targets a dividend that absorbs most of the company's taxable income, though management retains discretion to cut or maintain the payout if portfolio performance deteriorates. In [recessions](/recession/) or credit cycles, BDCs often cut dividends when realized losses mount — a significant risk for yield-focused shareholders.
+Dividend policy is critical for BDCs. The tax structure incentivizes distributions, and yield-seeking investors choose BDCs specifically for dividend income. TSLX's management targets a dividend that absorbs most of the company's taxable income, though management retains discretion to cut or maintain the payout if portfolio performance deteriorates. In [recessions](/recession/) or [credit cycles](/credit-cycle/), BDCs often cut dividends when realized losses mount — a significant risk for yield-focused shareholders.
 
 ## Portfolio Risk and Credit Cycles
 

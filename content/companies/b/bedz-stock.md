@@ -41,7 +41,7 @@ Hotel operators fall into two models. Asset-heavy companies own real estate dire
 
 Asset-light operators (franchisors and managers) have lower capital intensity and higher returns on equity in good times. They are also somewhat more stable because they earn steady fees even if property values fall. Asset-heavy companies leverage real estate appreciation and rental rates if times are good, but suffer if real estate values fall or [cap rates](/cap-rate/) (the relationship between rental income and property value) widen.
 
-Many BEDZ holdings use hybrid models, balancing owned properties with managed or franchised properties. A company with a strong brand and many franchises can grow rooms and revenue without buying every property, lowering capital needs. But a portfolio concentrated in pure real estate landlords (REITs) will have higher exposure to real estate cycle risk. The fund's composition matters: reviewing holdings to understand how many are owners versus operators helps calibrate risk.
+Many BEDZ holdings use hybrid models, balancing owned properties with managed or franchised properties. A company with a strong brand and many franchises can grow rooms and revenue without buying every property, lowering capital needs. But a portfolio concentrated in pure real estate landlords (REITs) will have higher exposure to [real estate cycle](/real-estate-cycle/) risk. The fund's composition matters: reviewing holdings to understand how many are owners versus operators helps calibrate risk.
 
 ## Demand drivers and secular trends
 

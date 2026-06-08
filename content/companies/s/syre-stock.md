@@ -37,7 +37,7 @@ Spyre's therapeutic programs target conditions where uncontrolled immune activat
 
 As of the company's most recent clinical updates, Spyre had multiple programs in clinical development, though specific stage and timeline data should be confirmed in the company's latest SEC filings. The nature of early-stage biotech means the pipeline is likely to shift — some programs will be abandoned as data emerges, others will be paused, and new candidates may emerge from the research phase. This is normal and expected; most experimental drugs fail before reaching patients.
 
-The strategic value of the company lies in whether one or more of these programs can successfully complete clinical trials, gain regulatory approval, and eventually generate revenue. If one program succeeds and reaches the market as an approved therapy, the company would transition from a development-stage firm to a commercial entity with a revenue-generating product. If a program fails in clinical trials, Spyre must rely on its remaining pipeline candidates, which increases execution risk.
+The strategic value of the company lies in whether one or more of these programs can successfully complete clinical trials, gain regulatory approval, and eventually generate revenue. If one program succeeds and reaches the market as an approved therapy, the company would transition from a development-stage firm to a commercial entity with a revenue-generating product. If a program fails in clinical trials, Spyre must rely on its remaining pipeline candidates, which increases [execution risk](/execution-risk/).
 
 ## The capital and cost structure
 

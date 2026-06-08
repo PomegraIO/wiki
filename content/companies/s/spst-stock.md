@@ -45,7 +45,7 @@ The creator-economy software market has shown both opportunity and fragility. Ma
 
 Superstar has historically operated at the scale of a micro-cap or small-cap public company, which means capital is constrained compared to venture-backed competitors or established tech giants. Funding rounds, strategic partnerships, and [acquisition](/acquisition/) interest have punctuated its history. The company faces the persistent challenge of building a large enough user base to be relevant while managing cash burn — a classic venture-scale problem in a public-company format.
 
-Execution risk is real. Gaming and entertainment are fast-moving sectors with high churn; user acquisition is expensive; and network effects work both ways — a declining user base accelerates departure rather than creating stickiness. The company must continue to ship features that creators and fans want and sustain marketing spend to grow.
+[Execution risk](/execution-risk/) is real. Gaming and entertainment are fast-moving sectors with high churn; user acquisition is expensive; and network effects work both ways — a declining user base accelerates departure rather than creating stickiness. The company must continue to ship features that creators and fans want and sustain marketing spend to grow.
 
 ## The investment research angle
 

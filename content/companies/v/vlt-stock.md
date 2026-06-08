@@ -55,7 +55,7 @@ An investor evaluating VLT should examine the quarterly holdings data to assess 
 
 ## Capital allocation and return on equity
 
-VLT returns nearly all earned income to shareholders in distributions. It does not reinvest earnings or build capital. This is by design: the fund's purpose is to provide current income, not growth. As a consequence, VLT's NAV tends to drift downward over long periods if defaults or credit losses exceed new gains on the portfolio. Over decades, a high-yield bond fund that pays out all its income experiences gradual NAV deterioration — a fact that rarely troubles income-focused investors but should not be ignored.
+VLT returns nearly all earned income to shareholders in distributions. It does not reinvest earnings or build capital. This is by design: the fund's purpose is to provide current income, not growth. As a consequence, VLT's NAV tends to drift downward over long periods if defaults or credit losses exceed new gains on the portfolio. Over decades, a [high-yield bond fund](/high-yield-bond-fund/) that pays out all its income experiences gradual NAV deterioration — a fact that rarely troubles income-focused investors but should not be ignored.
 
 ## How to research Invesco High Income Trust II
 

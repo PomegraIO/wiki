@@ -51,7 +51,7 @@ The company was incorporated in 2015 and operates through subsidiaries in Hong K
 
 ## Investment considerations
 
-For investors examining Reitar, several concerns are obvious. First, the stock price collapse raises questions about the fundamental business. Why has the valuation compressed from over 8 dollars to under 0.50? This is not a normal market cycle movement; it suggests either a crisis event, deteriorating operations, or loss of confidence from insiders or major shareholders.
+For investors examining Reitar, several concerns are obvious. First, the stock price collapse raises questions about the fundamental business. Why has the valuation compressed from over 8 dollars to under 0.50? This is not a normal [market cycle](/market-cycle/) movement; it suggests either a crisis event, deteriorating operations, or loss of confidence from insiders or major shareholders.
 
 Second, a micro-cap stock on NASDAQ with limited trading volume carries [liquidity risk](/liquidity-risk/). If you own the shares, selling them in size is difficult without moving the price significantly.
 

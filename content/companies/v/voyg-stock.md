@@ -43,7 +43,7 @@ The third leg is managed services: Voyager staff manage and monitor customers' I
 
 Healthcare IT sales are long and complex. A hospital system considering a new clinical platform or analytics tool must evaluate it against alternatives, conduct pilots, secure board approval, negotiate contracts with procurement, and plan a multi-month implementation. Salespeople often work on extended sales cycles, and once a deal is signed, implementation can take half a year or more. But once live, customers tend to stay. The data is locked in, staff are trained on the system, and replacing it entails risk and cost. Churn rates in enterprise healthcare software are typically low, making the installed base of customers a durable asset.
 
-Voyager's ability to grow depends on holding existing customers (renewal rates above 90% is typical for strong players), expanding within existing customers (convincing them to buy additional modules or services), and winning new customers. The company faces competition from larger vendors in some segments and smaller, niche players in others. In fragmented markets, scale matters less than product fit and customer service, which is where companies like Voyager can compete effectively.
+Voyager's ability to grow depends on holding existing customers (renewal rates above 90% is typical for strong players), expanding within existing customers (convincing them to buy additional modules or services), and winning new customers. The company faces competition from larger vendors in some segments and smaller, niche players in others. In [fragmented markets](/fragmented-market/), scale matters less than product fit and customer service, which is where companies like Voyager can compete effectively.
 
 ## Profitability and capital structure
 

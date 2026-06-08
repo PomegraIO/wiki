@@ -29,17 +29,17 @@ The VanEck Solana ETF (ticker VSOL) is an exchange-traded product sponsored by V
 
 Solana is a blockchain — a distributed network of computers that record transactions and run software programs without a central authority. Unlike [Bitcoin](/bitcoin/), which prioritises decentralisation and security above speed, Solana is engineered for throughput: it aims to settle thousands of transactions per second at relatively low cost. The network's native cryptocurrency, SOL, serves dual roles: it is the medium of exchange for fees and transactions on the network, and it is also the token that participants stake to secure the blockchain and earn rewards.
 
-Solana competes in a crowded space. [Ethereum](/ethereum/) dominates as the platform for decentralised finance and smart contracts, but Ethereum's transaction costs and speed have pushed builders and users toward alternatives. Solana positioned itself as the faster, cheaper option, and by the mid-2020s it had accrued a meaningful ecosystem of projects — [decentralised exchanges](/decentralized-exchange/), lending protocols, NFT marketplaces, and others — that run atop its network.
+Solana competes in a crowded space. [Ethereum](/ethereum/) dominates as the platform for decentralised finance and [smart contracts](/smart-contract/), but Ethereum's transaction costs and speed have pushed builders and users toward alternatives. Solana positioned itself as the faster, cheaper option, and by the mid-2020s it had accrued a meaningful ecosystem of projects — [decentralised exchanges](/decentralized-exchange/), lending protocols, NFT marketplaces, and others — that run atop its network.
 
 ## Why VSOL exists
 
 Direct cryptocurrency ownership involves private key management, exchange accounts, and tax complexity. Many institutional investors, retirement accounts, and individuals find that friction forbidding. VSOL sidesteps it: the fund holds Solana coins directly, and the investor holds fund shares in a regular brokerage account, just like any stock or [bond](/bond/) fund.
 
-VanEck is a respected ETF sponsor with decades of history in alternative asset classes, including Bitcoin and Ethereum ETFs. The firm's name and regulatory track record make VSOL less risky from a counterparty perspective than holding coins on an exchange, which could suffer a hack or a custodial failure.
+VanEck is a respected [ETF sponsor](/etf-sponsor/) with decades of history in alternative asset classes, including Bitcoin and Ethereum ETFs. The firm's name and regulatory track record make VSOL less risky from a counterparty perspective than holding coins on an exchange, which could suffer a hack or a custodial failure.
 
 ## How VSOL trades and what it costs
 
-VSOL shares trade continuously on the NYSE Arca exchange during US market hours, buying and selling at market-determined prices set by [bid-ask spreads](/bid-ask-spread/). The [expense ratio](/expense-ratio/) is modest — roughly 0.25% to 0.40% annually, depending on when you check the fund literature — which is reasonable given that the fund is holding an illiquid underlying asset (Solana coins) in a regulated wrapper.
+VSOL shares trade continuously on the [NYSE Arca](/nyse-arca/) exchange during US market hours, buying and selling at market-determined prices set by [bid-ask spreads](/bid-ask-spread/). The [expense ratio](/expense-ratio/) is modest — roughly 0.25% to 0.40% annually, depending on when you check the fund literature — which is reasonable given that the fund is holding an illiquid underlying asset (Solana coins) in a regulated wrapper.
 
 The fund uses a creation-redemption mechanism typical of ETFs: authorised participants can exchange large baskets of Solana coins for fund shares, and vice versa, which keeps the fund price tied closely to the [net asset value](/net-asset-value/) of the underlying Solana holdings. If Solana's price on centralised cryptocurrency exchanges drifts away from VSOL's price, arbitrage opportunities emerge for sophisticated traders, which tends to narrow any gap quickly.
 

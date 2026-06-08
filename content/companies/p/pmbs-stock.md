@@ -35,7 +35,7 @@ This active management is not a guarantee of outperformance. Mortgage investing 
 
 ## Monthly distributions and yield
 
-PMBS distributes monthly the income it collects from the underlying mortgages, minus expenses and [management fees](/management-fee/). The yield varies month to month depending on mortgage [coupon rates](/coupon-rate/), prepayment speeds, and the fund's positioning. In periods of stable interest rates and normal prepayment speeds, distributions are predictable. In periods of volatility, distributions can surprise.
+PMBS distributes monthly the income it collects from the underlying mortgages, minus expenses and [management fees](/management-fee/). The yield varies month to month depending on mortgage [coupon rates](/coupon-rate/), [prepayment speeds](/prepayment-speed/), and the fund's positioning. In periods of stable interest rates and normal prepayment speeds, distributions are predictable. In periods of volatility, distributions can surprise.
 
 The fund's historical yields provide context but are not a guarantee of future distributions. Higher interest-rate environments typically mean higher mortgage yields and higher PMBS distributions. Lower rate environments mean tighter mortgage spreads and lower distributions.
 

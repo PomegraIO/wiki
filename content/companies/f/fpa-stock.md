@@ -45,9 +45,9 @@ Because the fund uses fundamental screens, its holdings are not the region's hou
 
 Investors choosing FPA typically want Asia Pacific exposure excluding Japan, prefer companies smaller than mega-cap multinational conglomerates, and have some confidence in quantitative-driven stock selection. The AlphaDEX framework appeals to those who believe that disciplined fundamental screens can identify outperformers over time.
 
-The structure also suits investors seeking regional [diversification](/diversification/) beyond the usual China mega-cap holdings. By excluding Japan and emphasizing smaller companies, FPA tilts toward faster-growing emerging and frontier markets rather than the developed-market anchor that a broader Asia Pacific fund would have.
+The structure also suits investors seeking regional [diversification](/diversification/) beyond the usual China mega-cap holdings. By excluding Japan and emphasizing smaller companies, FPA tilts toward faster-growing emerging and [frontier markets](/frontier-markets/) rather than the developed-market anchor that a broader Asia Pacific fund would have.
 
-The trade-offs are real. Mid-cap and smaller-cap stocks are less liquid than blue-chips, experience larger price swings in both directions, and carry higher individual-company bankruptcy risk. Currency exposure matters too — the fund holds stocks priced in Chinese yuan, [Hong Kong dollars](/hong-kong-dollar/), [Indian rupees](/indian-rupee/), Korean won, Taiwanese dollars, and others, so movements in those currencies against the [US dollar](/us-dollar/) will drive a meaningful slice of returns.
+The trade-offs are real. Mid-cap and smaller-cap stocks are less liquid than blue-chips, experience larger price swings in both directions, and carry higher individual-company bankruptcy risk. Currency exposure matters too — the fund holds stocks priced in Chinese yuan, [Hong Kong dollars](/hong-kong-dollar/), [Indian rupees](/indian-rupee/), [Korean won](/korean-won/), Taiwanese dollars, and others, so movements in those currencies against the [US dollar](/us-dollar/) will drive a meaningful slice of returns.
 
 ## Costs, trading, and tracking
 

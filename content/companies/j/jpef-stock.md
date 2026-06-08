@@ -35,7 +35,7 @@ When the manager's best picks work out, JPEF can beat the broad market smartly. 
 
 The managers do not hold stocks forever. They sell when a thesis breaks — when a company's competitive position weakens, when valuation becomes stretched, or when a better opportunity appears. Turnover is typically moderate. The fund trades hourly on an exchange like all ETFs, so you can buy or sell during the market day at a price reflecting its holdings' real-time values. That liquidity is useful for investors who want to move in or out quickly without waiting until day-end pricing.
 
-The fund's performance depends entirely on whether JPMorgan's stock pickers are skilled. Some [actively managed funds](/actively-managed-fund/) outperform consistently; others do not. The only real way to know is to look at actual returns over a full market cycle — including a [bull market](/bull-market/), a [bear market](/bear-market/), and a recovery.
+The fund's performance depends entirely on whether JPMorgan's stock pickers are skilled. Some [actively managed funds](/actively-managed-fund/) outperform consistently; others do not. The only real way to know is to look at actual returns over a full [market cycle](/market-cycle/) — including a [bull market](/bull-market/), a [bear market](/bear-market/), and a recovery.
 
 ## Before you invest
 

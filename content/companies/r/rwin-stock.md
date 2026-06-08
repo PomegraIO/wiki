@@ -19,7 +19,7 @@ handwritten: true
 
 RWIN invests in stocks from developed markets (Canada, Europe, Australia, Japan) and emerging markets (Brazil, India, China, Mexico, and others), excluding the United States entirely. The rationale is straightforward: U.S. equities already make up roughly half the world's [stock market](/stock-market/) by value. An investor with a portfolio heavily concentrated in U.S. stocks is implicitly betting against the rest of the world. RWIN provides the non-U.S. sleeve.
 
-International equities bring distinct characteristics. Many foreign companies are older, more established, and trade at lower valuations relative to earnings than comparable U.S. firms. Currency exposure adds a layer: owning Japanese stocks means being long the yen, which can amplify or offset equity returns depending on exchange-rate movements. Emerging-market companies offer growth prospects but come with higher business and political risk. RWIN's selection process spans all these territories, balancing opportunities without concentrating on any single region.
+International equities bring distinct characteristics. Many foreign companies are older, more established, and trade at lower valuations relative to earnings than comparable U.S. firms. Currency exposure adds a layer: owning Japanese stocks means being long the yen, which can amplify or offset equity returns depending on exchange-rate movements. Emerging-market companies offer growth prospects but come with higher business and [political risk](/political-risk/). RWIN's selection process spans all these territories, balancing opportunities without concentrating on any single region.
 
 ## Multifactor selection in an international context
 
@@ -53,4 +53,4 @@ The prospectus and fact sheet explain Rayliant's factor methodology and the geog
 
 Watch the geographic weighting shifts: if emerging markets suddenly comprise 40% of the fund instead of 25%, that reflects Rayliant's factor screens finding better opportunity there. Monitor the currency exposure: sharp movements in the dollar can help or hurt returns independent of stock selection. Examine the holdings list quarterly to verify the portfolio truly reflects a multifactor approach rather than drifting toward a single factor or region.
 
-The fund's ability to outperform hinges on Rayliant's research quality and on whether factor premiums show up globally the way they do in the U.S. academic literature. Neither is guaranteed.
+The fund's ability to outperform hinges on Rayliant's research quality and on whether [factor premiums](/factor-premium/) show up globally the way they do in the U.S. academic literature. Neither is guaranteed.

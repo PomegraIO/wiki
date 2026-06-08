@@ -72,7 +72,7 @@ The fund is less useful for lower-income investors (the tax advantage diminishes
 
 ## How to research AUSM
 
-Start with the fund's fact sheet, which should detail the average maturity, the credit quality breakdown (percentage AAA, AA, A, and below), and the geographic [diversification](/diversification/). Ask whether the fund holds general obligation bonds, revenue bonds, or a mix. Look at the fund's yield relative to other municipal bond funds and to taxable short-term alternatives like [Treasury bills](/treasury-bill/) or high-quality short-term corporates.
+Start with the fund's fact sheet, which should detail the average maturity, the credit quality breakdown (percentage AAA, AA, A, and below), and the geographic [diversification](/diversification/). Ask whether the fund holds general obligation bonds, revenue bonds, or a mix. Look at the fund's yield relative to other [municipal bond funds](/municipal-bond-fund/) and to taxable short-term alternatives like [Treasury bills](/treasury-bill/) or high-quality short-term corporates.
 
 Check the fund's latest 10-Q filing, which lists the major holdings. Search for any municipal issuers in financial distress and note their size within the portfolio. Review AUSM's price performance over the past few years, looking especially at periods of interest-rate change — the price should be nearly flat even when rates moved sharply.
 

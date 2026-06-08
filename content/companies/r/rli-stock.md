@@ -31,7 +31,7 @@ Specialty insurance is less concentrated than standard property-casualty lines. 
 
 ## What are the main risks?
 
-Specialty insurance is inherently cyclical. In flush periods when capital is abundant, new entrants underwrite business at unsustainable prices, pushing all carriers' margins down. When losses mount and capital becomes scarce, pricing recovers. RLI's ability to maintain discipline during soft markets — to walk away from business rather than chase volume at losing prices — is crucial to its long-term returns. That requires conviction and a willingness to see premium written decline temporarily. Execution risk is real.
+Specialty insurance is inherently cyclical. In flush periods when capital is abundant, new entrants underwrite business at unsustainable prices, pushing all carriers' margins down. When losses mount and capital becomes scarce, pricing recovers. RLI's ability to maintain discipline during soft markets — to walk away from business rather than chase volume at losing prices — is crucial to its long-term returns. That requires conviction and a willingness to see premium written decline temporarily. [Execution risk](/execution-risk/) is real.
 
 The other big risks are long-tail claims. RLI writes professional liability policies that might not be claimed for years after issuance. A design defect in a building might not surface until five years after construction. An architectural firm might go out of business, leaving RLI holding reserves for claims that will take a decade to settle. Changes in how courts award damages, or in regulatory interpretations of liability, can make old estimates obsolete. The company must rely on actuarial models and claims data to estimate its obligation, but these models are imperfect.
 

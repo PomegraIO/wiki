@@ -43,7 +43,7 @@ Government clean-energy spending is political. A new administration or a sudden 
 
 Hillcrest also faces a technology-risk overlay. Energy transition is secular and inevitable, but *which* technologies win is uncertain. Hydrogen, battery electric, synthetic fuels, nuclear, and traditional renewables are all competing pathways. If Hillcrest's technology addresses one pathway and a different pathway becomes dominant, the company's opportunity shrinks.
 
-Similarly, larger, better-funded competitors (established industrial companies, automotive suppliers, energy majors) are also investing in energy-transition technology. Hillcrest's success depends on execution, intellectual property, and customer adoption—not merely on being in the right market. These are competition and execution risks, not cyclicality, but they operate on the same time scale and can mask or amplify the cycle.
+Similarly, larger, better-funded competitors (established industrial companies, automotive suppliers, energy majors) are also investing in energy-transition technology. Hillcrest's success depends on execution, intellectual property, and customer adoption—not merely on being in the right market. These are competition and [execution risks](/execution-risk/), not cyclicality, but they operate on the same time scale and can mask or amplify the cycle.
 
 ## Capital Intensity and Funding Requirements
 

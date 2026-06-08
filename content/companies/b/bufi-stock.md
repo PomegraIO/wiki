@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-*The AB International Buffer ETF (BUFI) is an exchange-traded fund that wraps a defined outcome strategy around exposure to the MSCI World Index, a broad basket of large-cap stocks from developed markets worldwide. Instead of tracking the index directly, the fund offers a buffer against losses — if the index falls 15%, you keep your money. If it rises, you participate, but your gains cap out. The entire bet resets every year.*
+*The AB International [Buffer ETF](/buffer-etf/) (BUFI) is an exchange-traded fund that wraps a defined outcome strategy around exposure to the [MSCI World Index](/msci-world-index/), a broad basket of large-cap stocks from developed markets worldwide. Instead of tracking the index directly, the fund offers a buffer against losses — if the index falls 15%, you keep your money. If it rises, you participate, but your gains cap out. The entire bet resets every year.*
 
-The product appeals to investors who hold a long-term view of global equities but want insurance against severe drawdowns in any given twelve-month period. Rather than paying explicit fees to a separate options strategy, the buffer is baked into the fund's mechanism. The sponsor, AllianceBernstein, manages a portfolio of index components and embedded derivatives to deliver this outcome, balancing daily rebalancing to stay on track to deliver the promised buffer and cap.
+The product appeals to investors who hold a long-term view of global equities but want insurance against severe drawdowns in any given twelve-month period. Rather than paying explicit fees to a separate options strategy, the buffer is baked into the fund's mechanism. The sponsor, AllianceBernstein, manages a portfolio of index components and [embedded derivatives](/embedded-derivative/) to deliver this outcome, balancing daily rebalancing to stay on track to deliver the promised buffer and cap.
 
 ## How the buffer works
 

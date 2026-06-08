@@ -30,7 +30,7 @@ A closed-end fund is a fixed pool of money that has been invested in a portfolio
 
 The manager of the fund — in this case, NexPoint Advisors — decides which properties to buy, when to sell, how much debt to take on, and how to allocate capital. The shareholders do not have direct control over those decisions; they own shares in the fund, not the properties themselves. They rely on the manager's skill in picking good properties, negotiating favorable financing, and exiting at the right time.
 
-Closed-end funds in real estate existed long before NexPoint, and the structure has both advantages and drawbacks. The advantage is that the manager can take a long view: without pressure from redemptions, they can hold properties through market cycles and make decisions based on fundamentals rather than share-price volatility. The drawback is that there is no exit mechanism that forces the fund to pay you net asset value; if you need to sell your shares, you sell them to another investor at whatever price the market will pay — which may be a steep discount to the underlying assets.
+Closed-end funds in real estate existed long before NexPoint, and the structure has both advantages and drawbacks. The advantage is that the manager can take a long view: without pressure from redemptions, they can hold properties through [market cycles](/market-cycle/) and make decisions based on fundamentals rather than share-price volatility. The drawback is that there is no exit mechanism that forces the fund to pay you net asset value; if you need to sell your shares, you sell them to another investor at whatever price the market will pay — which may be a steep discount to the underlying assets.
 
 ## The history and current portfolio mix
 

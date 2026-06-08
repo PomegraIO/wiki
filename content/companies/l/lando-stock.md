@@ -60,7 +60,7 @@ The portfolio is diversified across crops — nuts (almonds, walnuts), row crops
 
 ## Reading Gladstone as an investment
 
-The key metric is adjusted funds from operations (AFFO), which approximates the stable cash available for distribution to shareholders. Since Gladstone is a [real estate investment trust](/real-estate-investment-trust/) (REIT), it is required to distribute most of its taxable income, so AFFO is close to what investors receive in total distributions.
+The key metric is [adjusted funds from operations](/adjusted-funds-from-operations/) (AFFO), which approximates the stable cash available for distribution to shareholders. Since Gladstone is a [real estate investment trust](/real-estate-investment-trust/) (REIT), it is required to distribute most of its taxable income, so AFFO is close to what investors receive in total distributions.
 
 The annual 10-K (SEC CIK 0001495240) discloses the portfolio's composition by crop and region, lease [expiration dates](/expiration-contracts/) and their terms, and any refinancing activity. The quarterly calls highlight recent acquisitions, lease spreads (the premium or discount between expiring leases and new terms), and updates on water availability and regulatory changes in key regions.
 

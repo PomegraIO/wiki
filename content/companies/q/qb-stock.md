@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **ProShares Nasdaq-100 Dynamic Buffer ETF** (QB) wraps the Nasdaq-100 — the 100 largest non-financial stocks on the [Nasdaq](/nasdaq/) — with a quarterly options-based collar. The fund absorbs losses beyond a rolling buffer (typically 5–8 per cent per quarter) while capping gains, offering investors a middle path: equity exposure with a floor.*
+*The **ProShares Nasdaq-100 Dynamic [Buffer ETF](/buffer-etf/)** (QB) wraps the Nasdaq-100 — the 100 largest non-financial stocks on the [Nasdaq](/nasdaq/) — with a quarterly options-based collar. The fund absorbs losses beyond a rolling buffer (typically 5–8 per cent per quarter) while capping gains, offering investors a middle path: equity exposure with a floor.*
 
 ## The collar: what the fund does
 
@@ -24,7 +24,7 @@ Three operational reasons. First: expertise. Managing a put-and-call collar requ
 
 ## The hidden cost: volatility decay
 
-Buffer funds carry a structural weakness that shows up in volatile, sideways markets. QB's collar is reset daily to track the underlying index — not monthly or quarterly. If the Nasdaq-100 falls 5 per cent one day (QB falls 1 per cent) and then rises 5 per cent the next day (QB rises 1 per cent), the Nasdaq-100 is flat over two days, but QB has lost money. The put option QB bought for protection is now out-of-the-money and worth less than it was, and the fund has crystallized that loss. This volatility drag — compounding each time the market reverses — is the price of the collar's daily rebalancing.
+[Buffer funds](/buffer-fund/) carry a structural weakness that shows up in volatile, sideways markets. QB's collar is reset daily to track the underlying index — not monthly or quarterly. If the Nasdaq-100 falls 5 per cent one day (QB falls 1 per cent) and then rises 5 per cent the next day (QB rises 1 per cent), the Nasdaq-100 is flat over two days, but QB has lost money. The put option QB bought for protection is now out-of-the-money and worth less than it was, and the fund has crystallized that loss. This volatility drag — compounding each time the market reverses — is the price of the collar's daily rebalancing.
 
 Over longer horizons, particularly in choppy, trendless markets, this decay adds up. Investors holding QB for six months during a volatile sideways period often find they lost money despite the Nasdaq-100 finishing near where it started.
 
@@ -42,7 +42,7 @@ Investors who know they panic-sell. If you historically sell equities near marke
 
 Buffer funds are useful in steady declines, useless in shocks. If the market falls 5 per cent a day for three days, QB's daily-reset hedge moves as expected — the fund falls less, the buffer holds. But if the market gaps down 15 per cent overnight due to a geopolitical shock or banking crisis, the fund's options may not unwind at the prices the rebalancing algorithm expected. The gap creates slippage — real, unhedged losses for a day or two until the fund can re-balance.
 
-This gap risk is rare but material when most needed. During the 2020 COVID crash, for instance, buffer funds with tight buffers saw real intra-day losses despite the stated protection.
+This [gap risk](/gap-risk/) is rare but material when most needed. During the 2020 COVID crash, for instance, buffer funds with tight buffers saw real intra-day losses despite the stated protection.
 
 ## The math on capped upside
 

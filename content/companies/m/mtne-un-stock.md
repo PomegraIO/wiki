@@ -48,7 +48,7 @@ The sector's growth is driven by policy: renewable natural gas mandates in Calif
 
 ## Risks and dependencies
 
-CH4 faces structural headwinds typical of the sector. Commodity gas prices set a floor on what it can earn — if natural gas is very cheap, even the incremental cost of capture and processing can make projects uneconomical. Policy risk is material: changes to carbon-pricing regimes or renewable-gas mandates would shift the sector's growth trajectory. Execution risk is also present: methane-capture projects are bespoke, and delays or technical problems on any given site can hurt returns.
+CH4 faces structural headwinds typical of the sector. Commodity gas prices set a floor on what it can earn — if natural gas is very cheap, even the incremental cost of capture and processing can make projects uneconomical. Policy risk is material: changes to carbon-pricing regimes or renewable-gas mandates would shift the sector's growth trajectory. [Execution risk](/execution-risk/) is also present: methane-capture projects are bespoke, and delays or technical problems on any given site can hurt returns.
 
 The company's small scale and limited equity float (signalled by the UN unit structure, typical of junior Canadian entities) mean it is sensitive to capital-market conditions. Raising growth capital at an attractive valuation depends on sustained investor appetite for renewable-energy infrastructure, a sector that has seen significant volatility.
 

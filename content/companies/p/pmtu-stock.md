@@ -71,7 +71,7 @@ Start with the company's 10-K filing (SEC Edgar, CIK 0001464423), which breaks d
 
 ### Wider context
 
-- Housing market cycles — booms and busts in [residential real estate](/residential-real-estate/)
+- Housing [market cycles](/market-cycle/) — booms and busts in [residential real estate](/residential-real-estate/)
 - Consumer credit — lending to individuals for purchases and refinancing
 - Financial regulation — rules governing lending, servicing, and consumer protection
 - [Yield curve](/yield-curve/) — the relationship between short-term and long-term interest rates

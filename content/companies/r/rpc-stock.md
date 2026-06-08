@@ -37,7 +37,7 @@ The typical Ridgepost investment thesis involves identifying companies or debt i
 
 ## Capital deployment and fund structure
 
-Ridgepost manages capital through tiered structures common among alternatives managers. Typically, institutional investors and high-net-worth individuals commit capital to dedicated funds or managed accounts, and the firm charges an annual management fee (commonly 1.5% to 2.5% of assets under management) plus a share of profits, usually 20% of gains above a hurdle rate. This fee structure gives the firm recurring income and aligns it with delivering returns that exceed investor benchmarks.
+Ridgepost manages capital through tiered structures common among alternatives managers. Typically, institutional investors and high-net-worth individuals commit capital to dedicated funds or managed accounts, and the firm charges an annual management fee (commonly 1.5% to 2.5% of assets under management) plus a share of profits, usually 20% of gains above a [hurdle rate](/hurdle-rate/). This fee structure gives the firm recurring income and aligns it with delivering returns that exceed investor benchmarks.
 
 The firm's own capital serves multiple roles. It provides skin-in-the-game in fund vehicles, demonstrating commitment to its investors. It also allows the company to make opportunistic principal investments that may not fit within fund mandates, or to co-invest alongside external capital on attractive deals. This flexibility in deploying proprietary capital has become a differentiator for larger alternatives managers, as it signals both conviction and the financial strength to act quickly when opportunities arise.
 

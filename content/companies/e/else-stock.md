@@ -37,7 +37,7 @@ The maturity profile of any term debt matters for a micro-cap manufacturer. If a
 
 Inventory on a sensor maker's balance sheet can be deceiving. Raw components in stock might be worth 100% of their purchase cost if they are standard items; however, assembled or semi-finished units that are specific to customer orders face obsolescence risk if the customer project is cancelled. Similarly, if market demand shifts—say, a customer switches to a competitor's sensor design—Electro Sensors may find its finished goods inventory is suddenly unmarketable.
 
-Balance sheet accounting requires inventory to be stated at the lower of cost or market value, but "market value" is often estimated rather than observed. A company with sticky inventory—units on the shelf for six months or more—may be understating the true markdown required.
+Balance sheet accounting requires inventory to be stated at the [lower of cost or market](/lower-of-cost-or-market/) value, but "market value" is often estimated rather than observed. A company with sticky inventory—units on the shelf for six months or more—may be understating the true markdown required.
 
 ## Gross Property, Plant & Equipment vs. Depreciation
 

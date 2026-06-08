@@ -36,7 +36,7 @@ This operational burden is real. If a worker fails to show, Lavoro's reputation 
 
 Lavoro generates revenue by charging employers a placement fee—typically a percentage of the worker's wage or a fixed fee per placement. For a hospitality worker earning AUD 25 per hour for a 40-hour week, Lavoro might charge the employer 20–30% of that wage as a placement commission. Revenue scales with placement volume and placement duration. High-volume sectors (hospitality, construction) with frequent turnover generate steady but thin-margin revenue. Lower-volume, longer-duration placements (permanent recruitment or executive search) generate higher fees per placement.
 
-The company's cost structure includes branch lease payments, branch staff salaries (managers, intake coordinators), background-check fees, and candidate support (sometimes training or compliance). Profitability depends on achieving sufficient placement volume per branch to cover fixed costs. A branch in a major city with dense hospitality or healthcare demand can become profitable; a branch in a thin market may struggle.
+The company's cost structure includes branch lease payments, branch staff salaries (managers, intake coordinators), background-check fees, and candidate support (sometimes training or compliance). Profitability depends on achieving sufficient placement volume per branch to cover fixed costs. A branch in a major city with dense hospitality or healthcare demand can become profitable; a branch in a [thin market](/thin-market/) may struggle.
 
 ## The Constraint: Geographic Density and Brand Building
 

@@ -21,7 +21,7 @@ The downside is that small-cap investing requires more research. Less analyst co
 
 ## Portfolio Construction
 
-ABLS typically holds 30 to 50 stocks, each weighted equally or near-equally to avoid becoming too concentrated in any single idea. The selection process emphasises free cash flow yield — how much cash a company generates relative to its market value — combined with management quality and sustainable competitive advantages. The fund avoids micro-caps and illiquid stocks, instead focusing on the more-established end of the small-cap spectrum where trading is reasonably liquid.
+ABLS typically holds 30 to 50 stocks, each weighted equally or near-equally to avoid becoming too concentrated in any single idea. The selection process emphasises free [cash flow yield](/cash-flow-yield/) — how much cash a company generates relative to its market value — combined with management quality and sustainable competitive advantages. The fund avoids micro-caps and illiquid stocks, instead focusing on the more-established end of the small-cap spectrum where trading is reasonably liquid.
 
 The fund trades on a major US exchange, offering daily liquidity for the ETF itself, even though the underlying holdings may be less liquid. The [expense ratio](/expense-ratio/) typically sits between 0.80 and 1.00 per cent, reflecting the higher research costs of identifying quality small-cap businesses and the costs of trading more-illiquid securities.
 

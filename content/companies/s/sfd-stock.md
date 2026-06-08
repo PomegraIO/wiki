@@ -70,7 +70,7 @@ The COVID-19 pandemic highlighted those vulnerabilities; facility closures and w
 
 Start with the 10-K (SEC CIK 0000091388). It breaks revenue by geography and by product category (fresh pork, processed, international), and it lays out major risks including disease, commodity price volatility, and labor. Note that Smithfield is now a subsidiary of WH Group, so consolidated financials may be less transparent than for a fully public U.S. company.
 
-Watch hog prices and feed costs (corn and soybean prices), which are publicly available futures data. The spread between hog input costs and pork output prices is a leading indicator of Smithfield's near-term profitability.
+Watch hog prices and feed costs (corn and soybean prices), which are publicly available futures data. The spread between hog input costs and pork output prices is a [leading indicator](/leading-indicator/) of Smithfield's near-term profitability.
 
 Monitor for disease outbreaks in major hog-producing regions — both in Smithfield's facilities and among competitors. ASF or other pathogens can reshape supply and price dynamics rapidly.
 

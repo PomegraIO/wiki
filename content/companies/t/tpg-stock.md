@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TPG is a private equity and alternatives firm that manages capital on behalf of institutions, pension funds, and wealthy individuals. It buys companies and assets with borrowed money, improves them, and sells them for profit. It also manages real estate, infrastructure, and credit funds. Most of its revenue comes from [management fees](/management-fee/) charged on the capital it oversees and from carried interest—a share of profits when deals pay off.
+TPG is a private equity and alternatives firm that manages capital on behalf of institutions, pension funds, and wealthy individuals. It buys companies and assets with borrowed money, improves them, and sells them for profit. It also manages real estate, infrastructure, and credit funds. Most of its revenue comes from [management fees](/management-fee/) charged on the capital it oversees and from [carried interest](/carried-interest-compensation/)—a share of profits when deals pay off.
 
 The business model is different from most corporations. TPG does not manufacture anything or deliver services to millions of end customers. Instead, it pools money from a relatively small number of large investors, makes bets on private companies and assets, and takes a cut when those bets win. The more capital it manages, the more fees it collects. The better its deals perform, the more carried interest it earns.
 
@@ -19,9 +19,9 @@ The business model is different from most corporations. TPG does not manufacture
 
 When TPG raises a fund—say, a $10 billion [private equity fund](/private-equity-fund/)—it collects commitments from investors. TPG then draws down that capital over a few years as it identifies and buys companies. TPG immediately starts charging a management fee, typically 1.5 to 2 percent of assets under management per year, regardless of performance. That fee covers the firm's operating costs and pays employees.
 
-When a portfolio company is sold for a profit, TPG collects carried interest—usually 20 percent of the profits above a hurdle rate (a minimum return that justifies the investors' risk). If the fund makes $100 million in profits above the hurdle, TPG takes $20 million. This is where the real money is. Good funds produce outsized returns for TPG; bad ones produce nothing.
+When a portfolio company is sold for a profit, TPG collects carried interest—usually 20 percent of the profits above a [hurdle rate](/hurdle-rate/) (a minimum return that justifies the investors' risk). If the fund makes $100 million in profits above the hurdle, TPG takes $20 million. This is where the real money is. Good funds produce outsized returns for TPG; bad ones produce nothing.
 
-TPG's funds cover many asset classes. The flagship is private equity—buying companies, running them for five to seven years, and selling them at a higher valuation. [Real estate funds](/real-estate-fund/) buy and operate commercial and residential property. Infrastructure funds own toll roads, airports, utilities, and similar assets that generate stable cash flow. Credit funds lend to companies and real estate ventures. Each has a different return profile and risk level.
+TPG's funds cover many asset classes. The flagship is private equity—buying companies, running them for five to seven years, and selling them at a higher valuation. [Real estate funds](/real-estate-fund/) buy and operate commercial and residential property. [Infrastructure funds](/pe-infrastructure-fund/) own toll roads, airports, utilities, and similar assets that generate stable cash flow. Credit funds lend to companies and real estate ventures. Each has a different return profile and risk level.
 
 ## A decade-long expansion
 
@@ -55,7 +55,7 @@ TPG does not typically carry much debt on its own [balance sheet](/balance-sheet
 
 ## How to research TPG as an investment
 
-Start with assets under management and fund composition. Growth in AUM is a leading indicator of future fee revenue. The 10-K breaks down AUM by fund type and vintage year. Watch the pace of fund-raising: if TPG is struggling to raise new capital, future fees will stagnate.
+Start with assets under management and fund composition. Growth in AUM is a [leading indicator](/leading-indicator/) of future fee revenue. The 10-K breaks down AUM by fund type and [vintage year](/vintage-year/). Watch the pace of fund-raising: if TPG is struggling to raise new capital, future fees will stagnate.
 
 Study the vintage-year returns of older funds. When a 2015-vintage fund is sold off in 2024, the realized returns reveal whether TPG's picks were good. Look for consistency: a manager that has two strong fund vintages and one weak one is not as impressive as one with five strong ones in a row.
 

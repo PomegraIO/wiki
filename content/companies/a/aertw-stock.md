@@ -40,7 +40,7 @@ The client relationship is typically multi-year and sticky. Once a GCC is operat
 
 ## Operating model and scale
 
-Aeries builds and operates multiple GCCs across different geographies and customer bases. The company had significant expansion plans during recent years, with growth targeted at key destinations including India, Vietnam, Mexico, and the Philippines. As of its most recent fiscal year (ended March 31, 2025), the company anticipated a loss from operations, having swung from profitability in the prior year to an operating loss. This indicates the company is in an expansion or restructuring phase, absorbing costs to build capacity or reposition its service offerings.
+Aeries builds and operates multiple GCCs across different geographies and customer bases. The company had significant expansion plans during recent years, with growth targeted at key destinations including India, Vietnam, Mexico, and the Philippines. As of its most recent [fiscal year](/fiscal-year-definition/) (ended March 31, 2025), the company anticipated a loss from operations, having swung from profitability in the prior year to an operating loss. This indicates the company is in an expansion or restructuring phase, absorbing costs to build capacity or reposition its service offerings.
 
 The operating model is asset-light in many respects—Aeries does not own the buildings where GCCs are housed; it contracts with real estate partners—but requires significant investment in recruiting, training, and technology infrastructure. The company's revenue comes from managing and staffing those centers. As centers scale and mature, the incremental margin can improve as the fixed cost of managing the center is spread across more employees and more billable hours.
 

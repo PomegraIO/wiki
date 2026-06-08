@@ -34,7 +34,7 @@ The core intellectual propertyâ€”the dry-powder inhalation platform technologyâ€
 
 ## The inhalation platform and product candidates
 
-Pulmatrix's platform technology is designed to deliver drugs as fine dry powders that patients inhale into the lungs using a simple handheld inhaler device. The advantages of inhalation delivery, versus oral tablets or injections, include lower systemic exposure (a dose that reaches the lungs directly does not pass through the liver and stomach, avoiding first-pass metabolism), potential for lower total drug doses, and in some cases faster onset of action.
+Pulmatrix's platform technology is designed to deliver drugs as fine [dry powders](/pe-dry-powder/) that patients inhale into the lungs using a simple handheld inhaler device. The advantages of inhalation delivery, versus oral tablets or injections, include lower systemic exposure (a dose that reaches the lungs directly does not pass through the liver and stomach, avoiding first-pass metabolism), potential for lower total drug doses, and in some cases faster onset of action.
 
 Developing an inhalation formulation is not straightforward. The powder must be fine enough to reach the deep lungs, stable enough to withstand manufacturing and storage, and dispersible enough that the patient can inhale it easily. Pulmatrix's proprietary technology addresses these technical challenges with a manufacturing approach that, the company asserts, is simpler and more robust than competitors' methods.
 

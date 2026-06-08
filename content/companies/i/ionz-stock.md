@@ -55,7 +55,7 @@ IONZ is not suitable for long-term holders. The prospectus explicitly warns agai
 
 ## Costs and mechanics
 
-IONZ trades on NYSE ARCA with typical [bid-ask spreads](/bid-ask-spread/) during normal hours. The fund charges an annual [expense ratio](/expense-ratio/) for swap management and administration. The ratio accrues daily as a drag. The fund does not pay a [dividend](/dividend/).
+IONZ trades on [NYSE ARCA](/nyse-arca/) with typical [bid-ask spreads](/bid-ask-spread/) during normal hours. The fund charges an annual [expense ratio](/expense-ratio/) for swap management and administration. The ratio accrues daily as a drag. The fund does not pay a [dividend](/dividend/).
 
 Swap positions are marked daily. In volatile markets or stress periods, the banks providing swaps may widen costs, causing wider bid-ask spreads. [Authorized participants](/authorized-participant/) can arbitrage gaps.
 

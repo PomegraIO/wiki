@@ -29,7 +29,7 @@ The HCM software market is crowded. Large enterprises use systems from vendors l
 
 ## What's the financial picture?
 
-The company operates profitably at the operating level, with Q1 2026 net income positive after prior-year losses. Management guides to 15-20 percent organic revenue growth and is investing in sales expansion alongside product development. With over 80 percent recurring revenue and predictable churn, the business resembles a textbook SaaS operator, though execution and churn rates remain critical watch items. The company is not a high-growth moonshot; it is a steady, disciplined player in a large and fragmented market.
+The company operates profitably at the operating level, with Q1 2026 net income positive after prior-year losses. Management guides to 15-20 percent organic revenue growth and is investing in sales expansion alongside product development. With over 80 percent recurring revenue and predictable churn, the business resembles a textbook SaaS operator, though execution and churn rates remain critical watch items. The company is not a high-growth moonshot; it is a steady, disciplined player in a large and [fragmented market](/fragmented-market/).
 
 ---
 

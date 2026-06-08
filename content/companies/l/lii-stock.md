@@ -80,4 +80,4 @@ Start with the annual 10-K filing (SEC CIK 0001069202), which breaks revenue by 
 
 Key numbers to track: revenue growth in residential versus commercial segments, gross margin trends, [operating margin](/operating-margin/), and [free cash flow](/free-cash-flow/). The company's [return on invested capital](/return-on-invested-capital/) shows whether it is earning strong returns on the capital deployed in manufacturing and distribution. Compare Lennox's valuation to peers and to its own history.
 
-Watch industry data on housing starts, commercial construction activity, and HVAC replacement rates — these move demand. Follow regulatory announcements about energy-efficiency standards, which affect product development costs and industry dynamics.
+Watch industry data on [housing starts](/housing-starts/), commercial construction activity, and HVAC replacement rates — these move demand. Follow regulatory announcements about energy-efficiency standards, which affect product development costs and industry dynamics.

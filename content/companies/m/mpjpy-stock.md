@@ -42,7 +42,7 @@ Metaplanet's customer acquisition is complicated by regulatory strictness in Jap
 
 ## Custody and Security Costs
 
-If Metaplanet holds customer Bitcoin in custody (which it likely does), it must invest in security infrastructure—hardware wallets, cold storage, insurance, audit trails, and backup systems. A major security breach (theft or loss of customer funds) could destroy the company's value. These security costs are ongoing and non-negotiable; customers expect that their funds are safe, and regulators require it.
+If Metaplanet holds customer Bitcoin in custody (which it likely does), it must invest in security infrastructure—hardware wallets, [cold storage](/cold-storage-crypto/), insurance, audit trails, and backup systems. A major security breach (theft or loss of customer funds) could destroy the company's value. These security costs are ongoing and non-negotiable; customers expect that their funds are safe, and regulators require it.
 
 Security costs are fixed overhead that scale slowly with customer assets. A platform with one billion dollars in customer assets under custody needs similar security infrastructure to a platform with five billion dollars. This means security spending per dollar of assets declines as the platform grows—another reason that scale favors incumbents.
 

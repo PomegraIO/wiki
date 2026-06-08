@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The PE designation on Athene's share register signals a particular tier in the company's capital structure. Athene Holding Ltd. is itself an insurance holding company incorporated in Bermuda, not in the United States. Unlike direct equity holders, PE preferred shareholders receive a fixed [dividend](/dividend/) stream and occupy a privileged position in the company's claims hierarchy — above common shareholders but below debt holders — yet they also have the upside if the underlying business thrives.
+The PE designation on Athene's [share register](/share-register/) signals a particular tier in the company's capital structure. Athene Holding Ltd. is itself an insurance holding company incorporated in Bermuda, not in the United States. Unlike direct equity holders, PE preferred shareholders receive a fixed [dividend](/dividend/) stream and occupy a privileged position in the company's claims hierarchy — above common shareholders but below debt holders — yet they also have the upside if the underlying business thrives.
 
 <aside class="wiki-infobox">
 <table>

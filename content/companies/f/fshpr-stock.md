@@ -24,7 +24,7 @@ The core problem with SPAC investing is misaligned incentives. The SPAC's sponso
 
 ## How does Flag Ship Acquisition operate?
 
-As an unmerged SPAC, Flag Ship holds a trust account of investor capital and is actively seeking a merger target. The company's board and management team, led by sponsors with prior acquisition experience, evaluate potential targets and conduct due diligence on behalf of the shareholders. When (or if) a suitable merger partner is identified, the SPAC and the target company negotiate terms, the deal is announced, and shareholders are given the right to vote. Shareholders who do not wish to proceed can redeem their shares for their proportional share of the trust account. The remaining investors stay in and become shareholders of the merged company.
+As an unmerged SPAC, Flag Ship holds a trust account of investor capital and is actively seeking a merger target. The company's board and management team, led by sponsors with prior acquisition experience, evaluate potential targets and conduct [due diligence](/due-diligence/) on behalf of the shareholders. When (or if) a suitable merger partner is identified, the SPAC and the target company negotiate terms, the deal is announced, and shareholders are given the right to vote. Shareholders who do not wish to proceed can redeem their shares for their proportional share of the trust account. The remaining investors stay in and become shareholders of the merged company.
 
 ## What should an investor understand?
 

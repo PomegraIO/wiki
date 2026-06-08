@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The [Goldman Sachs](/goldman-sachs/) Physical Gold ETF (trading as AAAU on the NYSE ARCA exchange) is an investment vehicle structured to give shareholders direct ownership of physical gold bullion. Rather than holding gold [futures contracts](/futures-contract/), mining company equities, or leveraged derivatives, this ETF buys and holds gold bars that are allocated to it in secure vaults around the world. A shareholder buying AAAU is buying a slice of that bullion without taking delivery, managing a vault, or paying the premium inherent in owning physical bars through retail dealers.
+The [Goldman Sachs](/goldman-sachs/) Physical Gold ETF (trading as AAAU on the [NYSE ARCA](/nyse-arca/) exchange) is an investment vehicle structured to give shareholders direct ownership of physical gold bullion. Rather than holding gold [futures contracts](/futures-contract/), mining company equities, or leveraged derivatives, this ETF buys and holds gold bars that are allocated to it in secure vaults around the world. A shareholder buying AAAU is buying a slice of that bullion without taking delivery, managing a vault, or paying the premium inherent in owning physical bars through retail dealers.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ The [Goldman Sachs](/goldman-sachs/) Physical Gold ETF (trading as AAAU on the N
 
 ## Origins and the case for physical gold ownership
 
-Physical gold funds emerged in the early 2000s as a response to investor demand for commodity exposure without futures contracts or mining stocks. Before exchange-traded commodities gained traction, most retail investors had limited ways to own gold beyond buying coins or bars from dealers, which involved storage costs, insurance premiums, and significant [bid-ask spreads](/bid-ask-spread/). The gold mining stocks available on exchanges offered leverage and [diversification](/diversification/) benefits but did not track gold's price cleanly, since they were beholden to mining companies' operational efficiency, capital discipline, and regional risks.
+Physical [gold funds](/gold-fund/) emerged in the early 2000s as a response to investor demand for commodity exposure without futures contracts or mining stocks. Before exchange-traded commodities gained traction, most retail investors had limited ways to own gold beyond buying coins or bars from dealers, which involved storage costs, insurance premiums, and significant [bid-ask spreads](/bid-ask-spread/). The gold mining stocks available on exchanges offered leverage and [diversification](/diversification/) benefits but did not track gold's price cleanly, since they were beholden to mining companies' operational efficiency, capital discipline, and regional risks.
 
 Goldman Sachs entered this space by creating a structure in which the ETF buys and holds actual gold bars in London, Zurich, and New York, with a third-party [custodian](/custodian/) (the London Bullion Market Association vaults and others) holding the metal on the fund's behalf. This allowed retail investors to access the precious metal market through their ordinary stock brokerage accounts — no need to open a futures account, navigate commodity exchanges, or navigate the London Bullion Market.
 

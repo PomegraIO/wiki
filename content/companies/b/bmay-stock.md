@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Innovator U.S. Equity Buffer ETF – May is one entry in Innovator's family of buffer funds, each using index options to cushion losses while capping gains. The May series runs its protective collar on a May monthly cycle, resetting every 30 days to implement a fresh set of put-call strikes that target specific buffer and upside-cap levels.
+The Innovator U.S. Equity [Buffer ETF](/buffer-etf/) – May is one entry in Innovator's family of [buffer funds](/buffer-fund/), each using index options to cushion losses while capping gains. The May series runs its protective collar on a May monthly cycle, resetting every 30 days to implement a fresh set of put-call strikes that target specific buffer and upside-cap levels.
 
 ## The collar mechanism and reset rhythm
 

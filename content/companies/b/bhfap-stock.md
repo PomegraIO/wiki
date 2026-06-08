@@ -41,7 +41,7 @@ Three things stand out. First, net investment income and the yield on the invest
 
 ### Is Brighthouse a growth stock or a value play?
 
-Neither, really. It is a capital-efficient, mature-business player in a capital-intensive industry. The growth in the business is constrained by the existing block of in-force policies and the maturity of the annuity market overall. Value comes not from cheap [earnings multiples](/earnings-multiple/) but from the quality of the investment case: Can this management team keep that large block profitable and fully reserved? Can they adapt to a changing competitive environment? Can they navigate a low-rate world without taking on undue risk? Those are judgment calls on management and sustainability, not math on multiple compression.
+Neither, really. It is a capital-efficient, mature-business player in a capital-intensive industry. The growth in the business is constrained by the existing block of in-force policies and the maturity of the annuity market overall. Value comes not from cheap [earnings multiples](/earnings-multiple/) but from the quality of the investment case: Can this management team keep that large block profitable and fully reserved? Can they adapt to a changing competitive environment? Can they navigate a low-rate world without taking on undue risk? Those are judgment calls on management and sustainability, not math on [multiple compression](/multiple-compression/).
 
 ### How would an individual investor research Brighthouse?
 

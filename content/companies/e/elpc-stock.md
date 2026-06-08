@@ -37,7 +37,7 @@ The northern region that ELPC serves is less densely populated than the southern
 
 ## Risks and pressures
 
-Regulatory risk is structural. If ANEEL tightens allowed returns or changes rate-setting rules, company valuations can shift sharply. Most of the [market risk](/market-risk/) comes from policy rather than operational execution. Political risk is also present: Brazil's utility regulation, like its broader governance, can shift as administrations change. A new regulator or a political push to freeze rates to fight inflation would directly reduce earnings.
+Regulatory risk is structural. If ANEEL tightens allowed returns or changes rate-setting rules, company valuations can shift sharply. Most of the [market risk](/market-risk/) comes from policy rather than operational execution. [Political risk](/political-risk/) is also present: Brazil's utility regulation, like its broader governance, can shift as administrations change. A new regulator or a political push to freeze rates to fight inflation would directly reduce earnings.
 
 Demand risk is real but slow-moving. If northern Parana's economy stagnates, power demand stagnates with it. The utility cannot easily exit the region or downsize; the concession requires it to serve all connected customers at regulated rates. A prolonged [recession](/recession/) would squeeze margins and limit the return on capital, though the business would remain solvent.
 

@@ -43,7 +43,7 @@ Beginning in March 2026, shareholders could elect to separate the units into sha
 
 Between IPO and the merger close, the SPAC sits in "search mode." The sponsors and management team (advisors and board members) hunt for targets in the stated sectors: artificial intelligence, cloud services, or automotive technology. This is a wide net. Artificial intelligence includes everything from enterprise software to semiconductor design; cloud services ranges from infrastructure providers to application platforms; automotive technology spans battery makers, autonomous driving, and electric vehicle components.
 
-The SPAC pays for the search using interest earned on the IPO proceeds held in trust, which explains why they generate small net profits in early quarters (Archimedes reported $1.57 million net income in Q1 2026, driven almost entirely by interest on the trust balance). Once a target is found and negotiated, the SPAC issues a definitive merger agreement, takes the deal to shareholder vote, and—if approved—completes the combination, merging the SPAC with the target company and retiring the SPAC as a legal entity.
+The SPAC pays for the search using interest earned on the IPO proceeds held in trust, which explains why they generate small net profits in early quarters (Archimedes reported $1.57 million net income in Q1 2026, driven almost entirely by interest on the trust balance). Once a target is found and negotiated, the SPAC issues a [definitive merger agreement](/definitive-merger-agreement/), takes the deal to shareholder vote, and—if approved—completes the combination, merging the SPAC with the target company and retiring the SPAC as a legal entity.
 
 ## The investor's position before a merger
 
@@ -53,4 +53,4 @@ The tension in SPAC investing is that you buy at $10 per unit, pay a manager to 
 
 ## What to monitor
 
-Until a merger is announced, there is little to track except the interest earned on the trust and occasional updates on sponsor activity. Once a target is named, investors should scrutinize the merger agreement, valuation, sponsor's track record with previous SPACs, and the target's financial metrics and competitive position. The SEC filings (Form S-4 / proxy statement) will contain detailed disclosures on both the SPAC and the target.
+Until a merger is announced, there is little to track except the interest earned on the trust and occasional updates on sponsor activity. Once a target is named, investors should scrutinize the merger agreement, valuation, sponsor's track record with previous SPACs, and the target's financial metrics and competitive position. The SEC filings (Form S-4 / [proxy statement](/proxy-statement/)) will contain detailed disclosures on both the SPAC and the target.

@@ -61,7 +61,7 @@ This is where risk concentrates. Shareholders voting on a merger are betting on 
 
 For an investor considering Silver Pegasus shares before a merger is announced, the primary research involves evaluating the sponsor team's track record, understanding the size of the capital raise and how that constrains acquisition targets, and watching the acquisition timeline for announcements.
 
-Once a merger is proposed, the critical document is the proxy statement. It contains the target company's historical financials, management's projections, the deal valuation, the post-merger ownership structure, and any [earnout provisions](/earnout-provision/) (additional payments if targets hit specific milestones post-merger). Comparing the proposed valuation to the target's historical growth, margins, and competitive position is the essential work.
+Once a merger is proposed, the critical document is the [proxy statement](/proxy-statement/). It contains the target company's historical financials, management's projections, the deal valuation, the post-merger ownership structure, and any [earnout provisions](/earnout-provision/) (additional payments if targets hit specific milestones post-merger). Comparing the proposed valuation to the target's historical growth, margins, and competitive position is the essential work.
 
 Warrant holders should evaluate whether the post-merger company's growth prospects justify the strike price. A warrant struck at $12 is only valuable if the company achieves enough growth and market confidence that the stock trades above $12. Many warrant holders lose this bet.
 

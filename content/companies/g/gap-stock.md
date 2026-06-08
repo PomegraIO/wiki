@@ -60,13 +60,13 @@ Banana Republic's aspirational positioning has also dimmed. Office culture has s
 
 **Secular retail decline.** Traditional department stores and malls continue to close. Unless Gap can shift a meaningful volume of sales to higher-margin e-commerce or maintain strong store traffic through experience and curation, it faces steady margin compression.
 
-**Fashion cycle risk.** Gap and Banana Republic are vulnerable to shifts in taste. If denim falls out of favor (an ongoing risk given athleisure's rise), Gap's core category is at risk. The company must continuously invest in design and trend-spotting or cede market share.
+**Fashion cycle risk.** Gap and Banana Republic are vulnerable to shifts in taste. If denim falls out of favor (an ongoing risk given athleisure's rise), Gap's core category is at risk. The company must continuously invest in design and trend-spotting or cede market [share.
 
-**Capital intensity and cash generation.** Retail requires constant inventory replenishment, store maintenance, and digital investment. If sales decelerate and margins remain under pressure, cash flow tightens, and the company's ability to fund [dividends](/dividend/), buybacks, or growth initiatives shrinks.
+**Capital](/share-capital/) intensity and cash generation.** Retail requires constant inventory replenishment, store maintenance, and digital investment. If sales decelerate and margins remain under pressure, cash flow tightens, and the company's ability to fund [dividends](/dividend/), buybacks, or growth initiatives shrinks.
 
 **Labor costs and supply-chain inflation.** Wage pressures in retail and manufacturing, along with freight and energy costs, squeeze unit economics. Gap must either raise prices (risking volume loss to competitors) or absorb the cost (destroying profitability).
 
-**Execution risk on turnarounds.** Banana Republic has been in steady decline for a decade despite repeated repositioning attempts. Old Navy and Gap themselves require continuous reinvention to stay relevant. Missteps in product assortment, merchandising, or pricing are costly and slow to correct.
+**[Execution risk](/execution-risk/) on turnarounds.** Banana Republic has been in steady decline for a decade despite repeated repositioning attempts. Old Navy and Gap themselves require continuous reinvention to stay relevant. Missteps in product assortment, merchandising, or pricing are costly and slow to correct.
 
 **E-commerce saturation and customer [acquisition](/acquisition/).** Direct digital channels offer higher margins but face brutal competition and rising customer acquisition costs. Loyalty is weak; customers shop across many retailers.
 

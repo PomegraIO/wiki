@@ -61,7 +61,7 @@ In benign credit environments, Blackstone's underwriting cushion tends to hold. 
 
 ## How to research Blackstone Mortgage Trust
 
-Investors should begin with the firm's annual 10-K filing and quarterly earnings reports, which detail the composition of the mortgage portfolio (property type, geographic distribution, loan-to-value ratios, [interest rates](/interest-rate/)), the cost of funding, and delinquencies. The earnings call provides color on deal sourcing, the competitive environment, and management's view of credit conditions. 
+Investors should begin with the firm's annual 10-K filing and quarterly earnings reports, which detail the composition of the mortgage portfolio (property type, geographic distribution, [loan-to-value ratios](/loan-to-value-ratio/), [interest rates](/interest-rate/)), the cost of funding, and delinquencies. The earnings call provides color on deal sourcing, the competitive environment, and management's view of credit conditions. 
 
 Watch the net interest margin trend—whether the spread is widening or narrowing—and the level of delinquencies and non-accrual loans (those borrowers are not paying). The [dividend payout ratio](/dividend-payout-ratio/) shows how much of earnings is returned to shareholders; sustained payouts above 100 percent of earnings signal the REIT is drawing down capital. And monitor the [leverage ratio](/leverage-ratio-forex/)—how many dollars of debt per dollar of equity—because rising leverage in a falling-value environment increases risk rapidly.
 

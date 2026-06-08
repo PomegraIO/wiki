@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-HDLB is a UBS-issued structured product with a defined maturity date (September 30, 2044) that combines two seemingly opposite goals: monthly income payments and 2x leverage to a low-volatility dividend-stock index. It rebalances daily to maintain 2x exposure to an index of US large-cap stocks selected for high [dividend yield](/dividend-yield/) and low [historical volatility](/historical-volatility/), distributing cash monthly while the underlying leverage compounds within the note.
+HDLB is a UBS-issued [structured product](/structured-product/) with a defined maturity date (September 30, 2044) that combines two seemingly opposite goals: monthly income payments and 2x leverage to a low-volatility dividend-stock index. It rebalances daily to maintain 2x exposure to an index of US large-cap stocks selected for high [dividend yield](/dividend-yield/) and low [historical volatility](/historical-volatility/), distributing cash monthly while the underlying leverage compounds within the note.
 
 ## The strategy: Dividends plus leverage
 

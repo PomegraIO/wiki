@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Quhuo Limited** (ticker QH on [NASDAQ](/nasdaq/), traded as American Depositary Shares) is a Chinese platform company that connects freelancers and on-demand workers with short-term employment and service opportunities. The company has pivoted from its origins as a micro-tasking platform toward higher-value service categories — delivery, local services, field work — where vetting, insurance, and payment processing create meaningful margins and differentiation.*
+*The **Quhuo Limited** (ticker QH on [NASDAQ](/nasdaq/), traded as American [Depositary Shares](/depositary-share/)) is a Chinese platform company that connects freelancers and on-demand workers with short-term employment and service opportunities. The company has pivoted from its origins as a micro-tasking platform toward higher-value service categories — delivery, local services, field work — where vetting, insurance, and payment processing create meaningful margins and differentiation.*
 
 ## Founding and the micro-tasking era
 
@@ -37,9 +37,9 @@ This model gives Quhuo leverage as it scales. Additional workers make the platfo
 
 ## 2018 public offering and the ADS structure
 
-Quhuo sought capital to accelerate growth and went public on NASDAQ in 2018 through an [initial public offering](/initial-public-offering/), issuing American Depositary Shares. Each ADS represents an indirect ownership stake in the Chinese operating company, held through a Variable Interest Entity (VIE) structure — a legally complex but common arrangement that allows Chinese companies to raise capital from foreign investors while navigating China's restrictions on foreign ownership and capital outflows.
+Quhuo sought capital to accelerate growth and went public on NASDAQ in 2018 through an [initial public offering](/initial-public-offering/), issuing American Depositary Shares. Each ADS represents an indirect ownership stake in the Chinese operating company, held through a [Variable Interest Entity](/variable-interest-entity/) (VIE) structure — a legally complex but common arrangement that allows Chinese companies to raise capital from foreign investors while navigating China's restrictions on foreign ownership and capital outflows.
 
-Under the VIE structure, foreign ADS holders do not directly own the Chinese entity. Instead, they own shares of a Cayman Islands holding company, which has a contractual relationship (not ownership) with the operating company in China. This creates regulatory and political risk: if the Chinese government changes its stance on VIEs or on foreign listings, the ADS holders' rights could be impaired. In recent years, Chinese regulators have increased scrutiny of VIE structures, creating long-term uncertainty for holders of Chinese company ADSs.
+Under the VIE structure, foreign ADS holders do not directly own the Chinese entity. Instead, they own shares of a Cayman Islands holding company, which has a contractual relationship (not ownership) with the operating company in China. This creates regulatory and [political risk](/political-risk/): if the Chinese government changes its stance on VIEs or on foreign listings, the ADS holders' rights could be impaired. In recent years, Chinese regulators have increased scrutiny of VIE structures, creating long-term uncertainty for holders of Chinese company ADSs.
 
 ## Competitive landscape and regulatory headwinds
 
@@ -51,7 +51,7 @@ Regulatory risk has intensified. The Chinese government has moved to formalize g
 
 Quhuo today is substantially different from the micro-tasking platform of the early 2010s. The company has matured its service mix, built trust infrastructure, and navigated both competitive and regulatory pressures. Revenue has grown, but profitability has fluctuated as the company has alternated between growth-focused spending (user acquisition, geographic expansion) and profitability-focused efficiency (tightening margins, cost discipline).
 
-The company operates at a much smaller scale than mega-cap American platform companies. Its user base is substantial in absolute terms but concentrated in China, a market where many services remain fragmented and regulatory uncertainty persists. The opportunity for growth is real — the Chinese middle class continues to expand and demand for affordable local services is rising — but the execution risk is equally real. Larger competitors can move quickly, and regulatory headwinds can shift rapidly.
+The company operates at a much smaller scale than mega-cap American platform companies. Its user base is substantial in absolute terms but concentrated in China, a market where many services remain fragmented and regulatory uncertainty persists. The opportunity for growth is real — the Chinese middle class continues to expand and demand for affordable local services is rising — but the [execution risk](/execution-risk/) is equally real. Larger competitors can move quickly, and regulatory headwinds can shift rapidly.
 
 ## How to research the company
 

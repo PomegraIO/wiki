@@ -63,11 +63,11 @@ However, HDFC Bank is not without competitive pressure. The private banking sect
 
 ## How does a reader research HDFC Bank?
 
-Start with the bank's annual report and audited financial statements, filed with both the RBI and the SEC (as part of [ADR](/wiki/adr/) reporting). The [10-K](/wiki/10-k/) filed with the SEC each fiscal year contains detailed segmentation of revenue by retail, corporate, and mortgage; discussion of asset quality; and forward-looking risk disclosures. Pay attention to net interest margin trends, loan growth rates, and asset quality indicators (gross and net non-performing assets as a percentage of total advances).
+Start with the bank's annual report and audited financial statements, filed with both the RBI and the SEC (as part of [ADR](/wiki/adr/) reporting). The [10-K](/wiki/10-k/) filed with the SEC each [fiscal year](/fiscal-year-definition/) contains detailed segmentation of revenue by retail, corporate, and mortgage; discussion of asset quality; and forward-looking risk disclosures. Pay attention to net interest margin trends, loan growth rates, and asset quality indicators (gross and net non-performing assets as a percentage of total advances).
 
 Watch the quarterly results for trends in deposit growth (and the cost of deposits), loan growth by segment, and net interest income. Listen to management's earnings call commentary on competitive dynamics, regulatory changes (RBI policy), and macro conditions in India. Macro indicators matter: India's GDP growth, inflation, currency strength, and credit growth in the broader economy all influence HDFC's prospects.
 
-Compare HDFC Bank's profitability ratios and efficiency metrics to [public-company](/wiki/public-company/) peers in India (Axis Bank, Kotak Mahindra) and to global banks if seeking context. HDFC's [return on equity](/return-on-equity/) and cost-to-income ratio are useful metrics; watch whether those are improving or deteriorating.
+Compare HDFC Bank's profitability ratios and efficiency metrics to [public-company](/wiki/public-company/) peers in India (Axis Bank, Kotak Mahindra) and to global banks if seeking context. HDFC's [return on equity](/return-on-equity/) and [cost-to-income ratio](/cost-income-ratio/) are useful metrics; watch whether those are improving or deteriorating.
 
 Finally, follow RBI policy decisions and any regulatory shifts affecting bank capital requirements or lending guidelines. The RBI's inflation target, rate-setting decisions, and macroprudential tightening or easing all cascade into HDFC's operating conditions. Geopolitical events affecting India—trade tensions, regional stability, or shifts in foreign [capital flows](/capital-flows/)—can also influence the bank's valuation and risk profile.
 

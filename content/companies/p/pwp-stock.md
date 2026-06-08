@@ -20,7 +20,7 @@ A dollar of Perella Weinberg's revenue is almost entirely advisory fees. When a 
 
 The fee model creates pronounced earnings volatility. A year with three mega-deals can generate vastly more revenue than a year with a dozen mid-sized transactions. The company's profit depends on deal flow, deal size, and the intensity of competition among advisory firms for client mandates. During periods of M&A drought—such as 2022 and 2023 when [interest rates](/interest-rate/) spiked and corporate deal-making fell—advisory firms' earnings compressed sharply. Conversely, in active markets with low interest rates and high equity valuations, advisory revenue can surge.
 
-The other revenue sources are modest by comparison. PWP provides fairness opinions (third-party valuations delivered to corporate boards to support their decision-making on major transactions) and occasionally generates fees from other advisory work outside core M&A. But for practical purposes, PWP is an M&A fee factory, and understanding the company means understanding the M&A market cycle and the firm's market share within it.
+The other revenue sources are modest by comparison. PWP provides [fairness opinions](/fairness-opinion/) (third-party valuations delivered to corporate boards to support their decision-making on major transactions) and occasionally generates fees from other advisory work outside core M&A. But for practical purposes, PWP is an M&A fee factory, and understanding the company means understanding the M&A [market cycle](/market-cycle/) and the firm's market share within it.
 
 ## The client base and deal patterns
 
@@ -44,7 +44,7 @@ The firm has no inherent cost advantage over larger, full-service banks. Morgan 
 
 ## Macro pressures and the long view
 
-PWP's earnings are a leading indicator of corporate M&A appetite and capital markets health. In periods of economic slowdown, rising interest rates, or equity-market stress, deal-making stalls and advisory fees vanish. The firm entered 2023 facing a severe M&A drought after a strong 2021 and weak 2022, and that multi-year volatility is endemic to the business. Any durable recovery in PWP's earnings depends on a reacceleration in large-scale corporate transactions, which is tied to broader economic conditions and equity valuations rather than anything intrinsic to the firm.
+PWP's earnings are a [leading indicator](/leading-indicator/) of corporate M&A appetite and capital markets health. In periods of economic slowdown, rising interest rates, or equity-market stress, deal-making stalls and advisory fees vanish. The firm entered 2023 facing a severe M&A drought after a strong 2021 and weak 2022, and that multi-year volatility is endemic to the business. Any durable recovery in PWP's earnings depends on a reacceleration in large-scale corporate transactions, which is tied to broader economic conditions and equity valuations rather than anything intrinsic to the firm.
 
 A longer-term question is whether advisory work will migrate to in-house teams at large corporations or to lower-cost offshore providers for commodity-like fairness opinions and data work. So far, the most complex strategic transactions still go to top-tier advisors because the reputational and financial stakes are too high to experiment. But that durability is not assured forever.
 

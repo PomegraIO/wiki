@@ -44,7 +44,7 @@ The cost of this strategy is opportunity cost, not a hard cash expense. There is
 
 CAIQ is designed to be less volatile than the unhedged Nasdaq-100 because the option-selling dampens swings. The strategy naturally suffers more in sharp drawdowns than in steady rallies, because the cap works equally both ways — if the Nasdaq-100 falls thirty percent, CAIQ falls roughly thirty percent as well. The option strategy provides no downside protection. But in the recovery, the capped upside means the fund lags.
 
-An investor holding through a full market cycle will expect CAIQ to trail the Nasdaq-100 in total return, because the strategy sacrifices more upside in the recovery than it saves in volatility along the way. The fund makes sense for investors who are comfortable with moderate tech exposure, prefer steady income, and expect tech stocks to rise modestly rather than explosively.
+An investor holding through a full [market cycle](/market-cycle/) will expect CAIQ to trail the Nasdaq-100 in total return, because the strategy sacrifices more upside in the recovery than it saves in volatility along the way. The fund makes sense for investors who are comfortable with moderate tech exposure, prefer steady income, and expect tech stocks to rise modestly rather than explosively.
 
 ## Reading the factsheet and prospectus
 

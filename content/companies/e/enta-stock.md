@@ -48,7 +48,7 @@ Management's willingness to terminate programs promptly — rather than "throwin
 
 Enanta, like all biotechs, grants stock options to employees and consultants as compensation. A large option pool (representing 10–20% of total diluted shares outstanding) is standard and necessary to attract talent, but it creates contingent dilution: if the stock price rises, options are exercised, and new shares are issued, diluting existing shareholders.
 
-The company's proxy statement (Schedule 14-A filed in spring) discloses the total options outstanding, the [exercise price](/exercise-price/) distribution, and the potential dilution on full exercise. An option pool concentrated at low [strike prices](/strike-price/) (employees granted deep in-the-money options) will likely be exercised soon, creating dilution; an option pool struck at or above the current stock price may never be exercised, creating no dilution. Investors should examine Enanta's option terms and the potential for dilution from fully diluted share count.
+The company's [proxy statement](/proxy-statement/) (Schedule 14-A filed in spring) discloses the total options outstanding, the [exercise price](/exercise-price/) distribution, and the potential dilution on full exercise. An option pool concentrated at low [strike prices](/strike-price/) (employees granted [deep in-the-money options](/deep-in-the-money-option/)) will likely be exercised soon, creating dilution; an option pool struck at or above the current stock price may never be exercised, creating no dilution. Investors should examine Enanta's option terms and the potential for dilution from fully diluted share count.
 
 ## Partnership Concentration Risk
 
@@ -65,5 +65,5 @@ Reading Enanta's 10-K for related-party transactions and revenue sources reveals
 ### Wider context
 - Biotech Partnerships: in-licensing and out-licensing models
 - Venture Capital: equity raises in clinical-stage biotech
-- Research and Development Expense: R&D capitalization and timing
+- [Research and Development Expense](/research-development-expense/): R&D capitalization and timing
 </div>

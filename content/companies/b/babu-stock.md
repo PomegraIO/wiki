@@ -31,7 +31,7 @@ Geopolitical and regulatory risk is the third. Alibaba operates in mainland Chin
 
 Who should trade BABU and how?
 
-BABU is suitable only for sophisticated traders who fully understand leverage decay and daily reset mechanics. They should hold BABU for intraday moves or at most one or two days. They should understand Alibaba's business model, recent news, and the company's exposure to Chinese regulatory change. They should be disciplined about exit rules and position sizing, understanding that leverage can turn a bad day into a catastrophic day.
+BABU is suitable only for sophisticated traders who fully understand leverage decay and daily reset mechanics. They should hold BABU for intraday moves or at most one or two days. They should understand Alibaba's business model, recent news, and the company's exposure to Chinese regulatory change. They should be disciplined about exit rules and [position sizing](/position-sizing/), understanding that leverage can turn a bad day into a catastrophic day.
 
 BABU is not suitable for:
 
@@ -47,4 +47,4 @@ Start with Direxion's prospectus and fact sheet, which explain the daily reset m
 
 For Alibaba, consult the company's annual 20-F filing (the Chinese equivalent of the U.S. 10-K) and quarterly earnings calls. Pay attention to the growth of Alibaba's cloud business, the health of its e-commerce segments, margins, and any commentary on Chinese regulatory headwinds. News about Alibaba's relationship with the Chinese government is especially important for understanding the stock's volatility.
 
-Before trading BABU, check Alibaba's recent intraday volatility, upcoming earnings dates, and major news. Trading a 2x leveraged fund without that intelligence is gambling, not investing.
+Before trading BABU, check Alibaba's recent intraday volatility, upcoming earnings dates, and major [news. Trading](/news-trading/) a 2x leveraged fund without that intelligence is gambling, not investing.

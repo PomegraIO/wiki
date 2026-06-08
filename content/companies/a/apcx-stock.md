@@ -23,7 +23,7 @@ handwritten: true
 
 </aside>
 
-AppTech Payments Corp. operates at the intersection of payment technology and financial services, building infrastructure for the kinds of merchants and lenders that conventional processors often overlook. The company's platform handles transaction processing, merchant funding, and alternative payment channel management—serving a sprawling ecosystem of independent operators, small-ticket lenders, and niche sales channels. Unlike the major payment networks that optimize for scale and standardization, AppTech targets fragmented markets where specialized solutions and customized integrations matter more than commodity pricing. Its revenue engine runs on transaction fees, merchant service charges, and software licensing, with ancillary income from partnerships and merchant financing operations.
+AppTech Payments Corp. operates at the intersection of payment technology and financial services, building infrastructure for the kinds of merchants and lenders that conventional processors often overlook. The company's platform handles transaction processing, merchant funding, and alternative payment channel management—serving a sprawling ecosystem of independent operators, small-ticket lenders, and niche sales channels. Unlike the major payment networks that optimize for scale and standardization, AppTech targets [fragmented markets](/fragmented-market/) where specialized solutions and customized integrations matter more than commodity pricing. Its revenue engine runs on transaction fees, merchant service charges, and software licensing, with ancillary income from partnerships and merchant financing operations.
 
 ## The business model in practice
 

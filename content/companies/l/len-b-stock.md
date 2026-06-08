@@ -51,7 +51,7 @@ Higher prices sound great for a homebuilder, but there is a catch: buyers have a
 
 Lennar Financial Services originates mortgages for Lennar buyers (and also for buyers at competitor builders). This is not a separate profit center; it is a way to make it easier for your customers to buy your homes. The mortgage origination business makes money from origination fees and a markup on the interest rate. When fewer people are buying homes, fewer mortgages are originated, and that business shrinks. But it also removes friction for Lennar's own sales.
 
-Lennar's title-insurance business is similar. Title insurance protects the buyer and the lender against the risk that somebody else has a legal claim on the property. Every home sale includes title insurance. Lennar owns a title company that does title work and insurance for its own sales plus for other transactions. It is profitable as long as it is busy.
+Lennar's title-insurance business is similar. [Title insurance](/title-insurance/) protects the buyer and the lender against the risk that somebody else has a legal claim on the property. Every home sale includes title insurance. Lennar owns a title company that does title work and insurance for its own sales plus for other transactions. It is profitable as long as it is busy.
 
 ## Labor and input costs
 

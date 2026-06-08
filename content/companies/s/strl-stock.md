@@ -47,7 +47,7 @@ Labor is sticky. Skilled heavy-equipment operators and ironworkers are in limite
 
 ## Project risk and execution
 
-Every large construction project carries execution risk. Ground conditions, weather, supply delays, and labor availability can all push timelines and costs. A contractor's ability to manage these variables — through experience, equipment availability, scheduling discipline, and relationships with suppliers and unions — defines its profitability.
+Every large construction project carries [execution risk](/execution-risk/). Ground conditions, weather, supply delays, and labor availability can all push timelines and costs. A contractor's ability to manage these variables — through experience, equipment availability, scheduling discipline, and relationships with suppliers and unions — defines its profitability.
 
 Disputes with customers are common. A change in scope (the customer wants something not in the original contract), an unforeseen subsurface condition, or a schedule impact can trigger claims and disputes that are litigated for years. Sterling's historical financial statements and notes to the financials typically disclose material disputes or pending claims, which provide insight into where execution has stumbled.
 
@@ -65,7 +65,7 @@ Sterling's competitive position depends on its backlog, its equipment fleet, its
 
 ## How to research Sterling
 
-Read the quarterly filings (SEC CIK 0000874238) for backlog trends, gross margins, and commentary on customer spending and competition. Backlog growth is a leading indicator of future revenue. Improving margins indicate better project selection and execution; deteriorating margins suggest pricing pressure or execution challenges.
+Read the quarterly filings (SEC CIK 0000874238) for backlog trends, gross margins, and commentary on customer spending and competition. Backlog growth is a [leading indicator](/leading-indicator/) of future revenue. Improving margins indicate better project selection and execution; deteriorating margins suggest pricing pressure or execution challenges.
 
 Segment breakdowns (usually by customer type or geography) show where the company is winning and where it is weak. Management commentary on labor availability, material costs, and customer capital budgets frames the operating environment. Any material contract cancellations or disputes are disclosed in footnotes.
 

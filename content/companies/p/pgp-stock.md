@@ -46,7 +46,7 @@ The trade-off is straightforward: by selling calls, the fund caps its upside. If
 
 ## PIMCO's history and market context
 
-PIMCO was founded in 1971 and built a world-class reputation in fixed-income management, particularly in the era after the Volcker [inflation](/inflation/) of the early 1980s when [bond](/bond/) investing became a sophisticated, technical art. The firm's legendary bond manager Bill Gross made the company synonymous with fixed-income expertise for decades, and the brand became synonymous with institutional-quality management.
+PIMCO was founded in 1971 and built a world-class reputation in fixed-income management, particularly in the era after the Volcker [inflation](/inflation/) of the early 1980s when [bond](/bond/) investing became a sophisticated, technical art. The firm's legendary bond manager [Bill Gross](/bill-gross/) made the company synonymous with fixed-income expertise for decades, and the brand became synonymous with institutional-quality management.
 
 PIMCO Global StocksPLUS & Income Fund was created much later, in the context of a structural shift in financial markets. By the 2000s, [interest rates](/interest-rate/) were low and equity [dividend yields](/dividend-yield/) had fallen. Many investors, especially retirees living on portfolio income, found that traditional bonds yielded very little. At the same time, investors' hunger for income created demand for yield-generation strategies, and closed-end funds with structured overlays became fashionable. PIMCO's move into equity options strategies represented an extension of its brand into spaces beyond its traditional fixed-income core.
 

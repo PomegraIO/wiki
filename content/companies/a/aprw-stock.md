@@ -63,7 +63,7 @@ It is not for those under 40 years old with high income, flexible expenses, and 
 
 ## Understanding the full mechanics
 
-The prospectus is mandatory reading. Allianz's documentation explains precisely how the Solactive index is selected, how the outcome period works, what happens on the reset date, and what happens if the market opens sharply on day one of a new period (some structures have gap risk; others are designed to absorb it). Read the section on annual reset carefully — does the fund truly reset to a fresh buffer, or do prior-year losses carry forward?
+The prospectus is mandatory reading. Allianz's documentation explains precisely how the Solactive index is selected, how the outcome period works, what happens on the reset date, and what happens if the market opens sharply on day one of a new period (some structures have [gap risk](/gap-risk/); others are designed to absorb it). Read the section on annual reset carefully — does the fund truly reset to a fresh buffer, or do prior-year losses carry forward?
 
 Watch also for statements on how the fund handles dividends in excess of the capped gain, how it manages to stay fully invested in the 30 stocks while also holding options that are effectively calls and puts, and what happens to the fund in a scenario where the market gaps down 30% in a single day (will the actual loss be truly capped at 20%, or is there a gap-risk exception?).
 

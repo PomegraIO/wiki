@@ -42,7 +42,7 @@ The fragmented nature of China's automotive service sector—countless small and
 
 **Cyclical exposure** to vehicle ownership and miles-driven means platform transaction volumes can decline during economic slowdowns. The automotive sector in China is cyclical, and consumer insurance purchasing is discretionary.
 
-**Execution risk** is inherent in any platform business: achieving and maintaining network effects requires continuous investment in user acquisition, retention, and product quality. Failure to innovate or keep pace with rivals can lead to market share loss.
+**[Execution risk](/execution-risk/)** is inherent in any platform business: achieving and maintaining network effects requires continuous investment in user acquisition, retention, and product quality. Failure to innovate or keep pace with rivals can lead to market share loss.
 
 **Macro headwinds** affecting consumer spending and credit conditions in China have downstream effects on vehicle ownership and service demand, both of which feed into the platform's transaction volumes.
 

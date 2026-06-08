@@ -21,7 +21,7 @@ Chord Energy's principal assets are in the Williston Basin, where the company ow
 
 ## The production and reserve life profile
 
-Chord Energy produces a mix of crude oil (the largest component), natural gas, and natural gas liquids (propane, ethane, butane — the liquid fractions extracted during gas processing). Crude oil typically represents 70–75 percent of revenue, even though the company produces roughly equivalent volumes of gas; the price disparity is enormous, because a barrel of oil is worth many times more per unit than a unit of gas.
+Chord Energy produces a mix of crude oil (the largest component), natural gas, and [natural gas liquids](/natural-gas-liquids/) (propane, ethane, butane — the liquid fractions extracted during gas processing). Crude oil typically represents 70–75 percent of revenue, even though the company produces roughly equivalent volumes of gas; the price disparity is enormous, because a barrel of oil is worth many times more per unit than a unit of gas.
 
 The company's reserve base — the estimated amount of hydrocarbons the company can economically recover from its leases — is a critical measure of long-term viability. Chord regularly updates reserve estimates and remains focused on maintaining reserve replacement, meaning that the company drills enough new wells each year to replace the volumes produced, keeping the reserve base stable or growing. Because Bakken wells have a steeper production decline curve than some other formations (they decline faster in the early years), the company must drill consistently to maintain production levels.
 

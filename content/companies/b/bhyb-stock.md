@@ -32,7 +32,7 @@ The fund distributes this income to shareholders, typically monthly or quarterly
 
 ## Duration and interest-rate sensitivity
 
-Like all bond funds, BHYB moves inversely to interest rates: when rates rise, bond prices fall, and vice versa. The fund's duration — a measure of its sensitivity to rate changes — reflects the average maturity of its holdings. A bond fund with a duration of 4 or 5 years will decline roughly 4–5% for every 1% rise in interest rates. BHYB's specific duration should be verified in its fact sheet, but high-yield bond funds typically have moderate duration (3–6 years) because many of the underlying bonds are shorter-dated or have call provisions that limit upside if rates fall.
+Like all bond funds, BHYB moves inversely to interest rates: when rates rise, bond prices fall, and vice versa. The fund's duration — a measure of its sensitivity to rate changes — reflects the average maturity of its holdings. A bond fund with a duration of 4 or 5 years will decline roughly 4–5% for every 1% rise in interest rates. BHYB's specific duration should be verified in its fact sheet, but [high-yield bond funds](/high-yield-bond-fund/) typically have moderate duration (3–6 years) because many of the underlying bonds are shorter-dated or have call provisions that limit upside if rates fall.
 
 ## Credit spread dynamics
 

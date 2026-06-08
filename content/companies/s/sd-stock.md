@@ -12,7 +12,7 @@ handwritten: true
 
 ## What is SandRidge Energy?
 
-SandRidge Energy is an independent oil and [natural gas](/natural-gas/) company headquartered in Oklahoma City that explores for, develops, and produces hydrocarbons across the U.S. Mid-Continent region. Founded in 2006 by Tom L. Ward (who previously co-founded Chesapeake Energy), the company trades on the [New York Stock Exchange](/wiki/stock-exchange/) under the ticker SD. SandRidge operates through traditional upstream operations—finding oil and gas reserves, drilling wells, and bringing production to market. The company's reserve base is heavily weighted toward natural gas, which accounts for roughly 55 percent of proved reserves, with natural gas liquids at 34 percent and [crude oil](/crude-oil/) at 11 percent.
+SandRidge Energy is an independent oil and [natural gas](/natural-gas/) company headquartered in Oklahoma City that explores for, develops, and produces hydrocarbons across the U.S. Mid-Continent region. Founded in 2006 by Tom L. Ward (who previously co-founded Chesapeake Energy), the company trades on the [New York Stock Exchange](/wiki/stock-exchange/) under the ticker SD. SandRidge operates through traditional upstream operations—finding oil and gas reserves, drilling wells, and bringing production to market. The company's reserve base is heavily weighted toward natural gas, which accounts for roughly 55 percent of proved reserves, with [natural gas liquids](/natural-gas-liquids/) at 34 percent and [crude oil](/crude-oil/) at 11 percent.
 
 ## Where does the company operate?
 

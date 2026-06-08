@@ -47,7 +47,7 @@ The risks are several. The most straightforward is that inflation might not acce
 
 [Currency risk](/currency-risk/) is also present. AVIE holds stocks denominated in currencies other than the [U.S. dollar](/us-dollar/). If those currencies weaken, the dollar returns will be diminished. In theory, inflation in other countries might cause their currencies to weaken against the dollar anyway, which could partly offset the inflation-protection benefit of those stock holdings.
 
-Finally, there is company-specific risk. Some of the companies in AVIE are large and stable, but others are smaller or more cyclical. The fund concentrates in sectors like energy and real estate, which are subject to sector-specific shocks — regulatory changes, shifts in energy demand, real estate cycles — that can hurt returns significantly.
+Finally, there is company-specific risk. Some of the companies in AVIE are large and stable, but others are smaller or more cyclical. The fund concentrates in sectors like energy and real estate, which are subject to sector-specific shocks — regulatory changes, shifts in energy demand, [real estate cycles](/real-estate-cycle/) — that can hurt returns significantly.
 
 ## How to research AVIE
 

@@ -46,7 +46,7 @@ Bank of America's competitive position in wealth management is middling. It is t
 
 ## Investment banking: cyclical and constrained
 
-The investment banking division does mergers-and-acquisitions advisory, debt and equity underwriting, derivatives trading, and prime brokerage. Revenue here is lumpy and highly cyclical. When capital markets are open and corporations are feeling confident, advisory fees roll in. When markets are closed or valuations are crashing, advisory work dries up. Underwriting fees are paid on completed deals. Trading revenue depends on volatility and the bank's risk appetite.
+The investment banking division does mergers-and-acquisitions advisory, debt and equity underwriting, derivatives trading, and [prime brokerage](/prime-brokerage-venue/). Revenue here is lumpy and highly cyclical. When capital markets are open and corporations are feeling confident, advisory fees roll in. When markets are closed or valuations are crashing, advisory work dries up. Underwriting fees are paid on completed deals. Trading revenue depends on volatility and the bank's risk appetite.
 
 This division is where regulatory constraint bites hardest. The bank must hold capital against trading positions (even if profitable) because regulators view trading as risk. A particularly valuable trade in, say, complex derivatives might have to be passed up or downsized because accepting it would violate capital requirements. In a truly stressed market, the bank might have to de-risk aggressively even if doing so locks in losses, because capital rules demand it.
 
@@ -60,6 +60,6 @@ The tension is constant: shareholders want capital returned (they could earn it 
 
 ## Research starting points
 
-Anyone evaluating Bank of America should read the annual 10-K filing (SEC CIK 0000070858) and listen to quarterly earnings calls. Track net interest margin, especially the composition of deposits — any shift toward more rate-sensitive customers or away from deposits toward borrowed funding signals pressure. Watch loan-loss reserves and commentary on the consumer credit cycle; consumer losses are often an early warning for broader loan deterioration.
+Anyone evaluating Bank of America should read the annual 10-K filing (SEC CIK 0000070858) and listen to quarterly earnings calls. Track net interest margin, especially the composition of deposits — any shift toward more rate-sensitive customers or away from deposits toward borrowed funding signals pressure. Watch loan-loss reserves and commentary on the consumer [credit cycle](/credit-cycle/); consumer losses are often an early warning for broader loan deterioration.
 
 The capital ratio relative to regulatory minimums indicates how much pressure the bank is under. A ratio well above minimums suggests management has room to take risks or return capital; a ratio tight to minimums suggests caution. Pay attention to investment banking pipeline commentary and underwriting activity — a collapse in advisory or equity underwriting often precedes broader economic slowdown.

@@ -46,7 +46,7 @@ Profit margins in this business are not breathtaking by absolute numbers, becaus
 
 ## The sale-leaseback machine
 
-One distinctive strand of W. P. Carey's acquisitions is the sale-leaseback transaction. A company that owns a property — say, a manufacturing plant or a corporate campus — may face pressure to unlock the value of that real estate without selling the business itself. W. P. Carey steps in, buys the property, and simultaneously leases it back to the original owner, who continues to operate it. The seller gets a lump sum of cash to deploy elsewhere (debt repayment, growth investment, shareholder returns), and W. P. Carey gets a long-term lease with a tenant it already knows. Both parties see advantage, and these transactions have grown as a meaningful portion of W. P. Carey's acquisition pipeline.
+One distinctive strand of W. P. Carey's acquisitions is the [sale-leaseback transaction](/sale-leaseback-transaction/). A company that owns a property — say, a manufacturing plant or a corporate campus — may face pressure to unlock the value of that real estate without selling the business itself. W. P. Carey steps in, buys the property, and simultaneously leases it back to the original owner, who continues to operate it. The seller gets a lump sum of cash to deploy elsewhere (debt repayment, growth investment, shareholder returns), and W. P. Carey gets a long-term lease with a tenant it already knows. Both parties see advantage, and these transactions have grown as a meaningful portion of W. P. Carey's acquisition pipeline.
 
 ## Capital allocation and shareholder returns
 

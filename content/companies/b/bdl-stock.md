@@ -53,7 +53,7 @@ However, this advantage evaporates if restaurants are forced to take slow-moving
 
 South Florida tourism creates pronounced seasonality in restaurant traffic. Winter months (December–March) see peak traffic from Northern tourists and seasonal residents; summer months see sharp drops. Distribution also varies seasonally, though less dramatically (year-round demand from retail and bars). This seasonality creates uneven cash flow and complicates labor scheduling (casual dining is labor-intensive and high turnover).
 
-Geographic concentration in South Florida means Flanigans' fortunes are tightly linked to South Florida's economic health. Population growth, real estate cycles, unemployment, and tourism levels directly impact restaurant and distribution volume.
+Geographic concentration in South Florida means Flanigans' fortunes are tightly linked to South Florida's economic health. Population growth, [real estate cycles](/real-estate-cycle/), unemployment, and tourism levels directly impact restaurant and distribution volume.
 
 ## Capital Requirements and Return Profile
 

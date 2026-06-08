@@ -27,7 +27,7 @@ Direxion Shares is the sponsor. The fund holds not the stocks themselves but a b
 
 The [expense ratio](/expense-ratio/) is meaningful because the fund is using derivatives that must be paid for. On top of that, the daily reset means the fund "bleeds" in choppy or sideways markets. A trader might own this fund for weeks during a strong Brazilian [bull market](/bull-market/). A patient long-term investor should not: the volatility decay will punish any period of chop, and holding for years guarantees a slow leakage of returns relative to what you would get from buying and holding the Bovespa outright.
 
-The biggest risk is leverage itself. If the Brazilian market swings sharply in one direction, the fund can lose a lot of money very quickly. A 20% market correction translates to a 40% loss in the fund. There is also [currency risk](/currency-risk/): the Bovespa is priced in Brazilian reals, so any move in the dollar versus the real affects returns (though the fund should track the index in reals, not hedge the currency).
+The biggest risk is leverage itself. If the Brazilian market swings sharply in one direction, the fund can lose a lot of money very quickly. A 20% market correction translates to a 40% loss in the fund. There is also [currency risk](/currency-risk/): the Bovespa is priced in [Brazilian reals](/brazilian-real/), so any move in the dollar versus the real affects returns (though the fund should track the index in reals, not hedge the currency).
 
 This fund is for tactical traders betting on near-term Brazilian strength, not for someone building a portfolio. It is a tool you set down after you have made your case, not something to leave on and forget.
 

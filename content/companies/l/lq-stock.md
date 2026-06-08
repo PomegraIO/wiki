@@ -33,9 +33,9 @@ handwritten: true
 
 ## The problem LQ was built to solve
 
-Before tax-aware alternatives entered the market, affluent investors faced an uncomfortable tradeoff. Private [hedge funds](/hedge-fund/) and separately managed accounts offered tax optimization as a core service — managers could selectively realize losses to offset gains, time transactions to minimize distributions, and structure portfolios to generate returns with minimal tax drag. But hedge funds and SMAs came with five-figure minimums, 2–2.5% fees, and limited accessibility to ordinary taxable investors.
+Before tax-aware alternatives entered the market, affluent investors faced an uncomfortable tradeoff. Private [hedge funds](/hedge-fund/) and [separately managed accounts](/separately-managed-account/) offered tax optimization as a core service — managers could selectively realize losses to offset gains, time transactions to minimize distributions, and structure portfolios to generate returns with minimal tax drag. But hedge funds and SMAs came with five-figure minimums, 2–2.5% fees, and limited accessibility to ordinary taxable investors.
 
-Retail-level alternatives, meanwhile, were cheaper but inefficient. Alternative-strategy [mutual funds](/mutual-fund/) and ETFs often turned over holdings frequently, generating annual capital gains distributions that passed through to shareholders even in lackluster years. The more actively the manager traded, the larger the tax bill. Someone in a high tax bracket — subject to federal, state, and net investment income taxes — could easily lose 40–50% of a fund's gross gains to taxes, a drag that simple [index funds](/index-fund/) managed to avoid through their low turnover.
+Retail-level alternatives, meanwhile, were cheaper but inefficient. Alternative-strategy [mutual funds](/mutual-fund/) and ETFs often turned over holdings frequently, generating annual [capital gains distributions](/capital-gains-distribution/) that passed through to shareholders even in lackluster years. The more actively the manager traded, the larger the tax bill. Someone in a high tax bracket — subject to federal, state, and net investment income taxes — could easily lose 40–50% of a fund's gross gains to taxes, a drag that simple [index funds](/index-fund/) managed to avoid through their low turnover.
 
 ## The evolution: tax optimization meets alternatives
 

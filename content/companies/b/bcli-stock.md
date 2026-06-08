@@ -51,7 +51,7 @@ Since Brainstorm is pre-revenue or generating minimal revenue, the company's pri
 Brainstorm will need to raise capital, either through equity (stock offerings, which dilute existing shareholders) or debt (which creates repayment obligations). The 10-K should disclose:
 
 - **Current cash balance** and any restricted cash.
-- **Debt obligations** — any convertible notes, credit lines, or term loans. Importantly, if debt is convertible to stock, it represents a future dilution overhang.
+- **Debt obligations** — any [convertible notes](/convertible-notes/), credit lines, or term loans. Importantly, if debt is convertible to stock, it represents a future dilution overhang.
 - **Plans for funding clinical trials** — does the company have a specific financing roadmap, or is it uncertain how trials will be funded?
 - **Any government grants or research funding** — grants reduce the need for [equity financing](/equity-financing/) and can extend runway without dilution.
 
@@ -127,7 +127,7 @@ Brainstorm, like all development-stage biotech, is a high-risk, high-reward inve
 ### Closely related
 - Cell and Gene Therapy: How It Works and Where It's Going
 - Clinical Trials and FDA Approval: The Path from Lab to Patient
-- Biotech Stock Valuation: Pipeline Risk and Burn Rate
+- Biotech Stock Valuation: [Pipeline Risk](/pipeline-risk/) and Burn Rate
 
 ### Wider context
 - Understanding Neurodegenerative Diseases and Treatment Targets

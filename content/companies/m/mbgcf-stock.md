@@ -49,7 +49,7 @@ Electronics demand fluctuates with device cycles: smartphone refresh seasons, se
 
 Investors researching MGC should start with its English investor relations materials on its Japanese parent website, which summarize segment performance and guidance. The company's [annual reports](/10-k/) filed with Japan's Financial Services Agency provide standard financial statements but less granular disclosure than a U.S. 10-K. SEC filings for the ADR itself (via CIK 2079706) offer the baseline registration and periodic amendments.
 
-The relevant questions for due diligence: How is MGC's exposure to commodity chemicals changing year-on-year? Which customer groups (semiconductors vs. automotive vs. pharma) grew or contracted? How much of the company's capex is directed at new capacity for high-margin specialty products, and what is the utilization rate on existing capacity? These data appear in earnings calls and segment tables.
+The relevant questions for [due diligence](/due-diligence/): How is MGC's exposure to commodity chemicals changing year-on-year? Which customer groups (semiconductors vs. automotive vs. pharma) grew or contracted? How much of the company's capex is directed at new capacity for high-margin specialty products, and what is the utilization rate on existing capacity? These data appear in earnings calls and segment tables.
 
 <div class="wiki-seealso">
 ### Closely related

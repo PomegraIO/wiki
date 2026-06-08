@@ -17,11 +17,11 @@ keywords: [SPAC, special-purpose acquisition company, merger, capital deployment
 
 Columbus Circle Capital II raised capital through a public offering of units (shares plus warrants), generating cash held in a trust account pending identification of a merger target. The trust account is the financial centerpiece of the SPAC structure: investor funds are segregated and held by a trustee, not deployed until a merger is announced and approved by shareholders. Interest accrues in the trust; sponsors invest separately in [founder shares](/founder-shares/), incentivizing the search team to complete a deal and unlock their equity upside.
 
-The trust account balance, net of any operating expenses and offering underwriting fees, represents the maximum capital available for the acquisition. If investors redeem shares before a deal closes—a common outcome—the trust shrinks, reducing available merger consideration. Sponsors typically negotiate underwriting arrangements to offset redemptions, preserving deal certainty. The SEC mandates full disclosure of trust account mechanics in the SPAC's [10-k](/10-k/) and subsequent merger proxy statements.
+The trust account balance, net of any operating expenses and offering underwriting fees, represents the maximum capital available for the acquisition. If investors redeem shares before a deal closes—a common outcome—the trust shrinks, reducing available merger consideration. Sponsors typically negotiate underwriting arrangements to offset redemptions, preserving deal certainty. The SEC mandates full disclosure of trust account mechanics in the SPAC's [10-k](/10-k/) and subsequent merger [proxy statements](/proxy-statement/).
 
 ## Sponsor Structure and Incentive Alignment
 
-Columbus Circle Capital's sponsor (typically a financial sponsor, industry operator, or institutional investor group) received founder shares at nominal cost, representing a percentage of the pro-forma equity post-merger. Sponsors earn carried interest only if the SPAC completes a merger and the post-merger entity achieves returns on the invested capital. This creates strong incentive alignment: sponsors search for targets where they believe they can add value.
+Columbus Circle Capital's sponsor (typically a financial sponsor, industry operator, or institutional investor group) received founder shares at nominal cost, representing a percentage of the pro-forma equity post-merger. Sponsors earn [carried interest](/carried-interest-compensation/) only if the SPAC completes a merger and the post-merger entity achieves returns on the invested capital. This creates strong incentive alignment: sponsors search for targets where they believe they can add value.
 
 The sponsor's equity stake is typically 20% of pro-forma shares, diluted for each redemption before merger close. High redemption rates force sponsors to negotiate for significant capital commitment from other investors or sponsors, or to accept heavier dilution. Redemption risk is disclosed prominently in merger filings.
 
@@ -33,7 +33,7 @@ Transparency in expense reporting is a legal requirement and a governance standa
 
 ## Merger Currency and Equity Structure
 
-Once a target is identified, the SPAC negotiates a merger structure. The target's equity is exchanged for a combination of CMII shares and seller financing or private equity investment. The merger proxy statement discloses pro-forma capitalization: shares outstanding for the SPAC, target, and sponsors post-deal; implied valuation of the target; and how the equity is layered among public shareholders, founders, and sponsor equity stakes.
+Once a target is identified, the SPAC negotiates a merger structure. The target's equity is exchanged for a combination of CMII shares and [seller financing](/seller-financing/) or private equity investment. The merger proxy statement discloses pro-forma capitalization: shares outstanding for the SPAC, target, and sponsors post-deal; implied valuation of the target; and how the equity is layered among public shareholders, founders, and sponsor equity stakes.
 
 Equity structure post-merger often includes multiple [tranches](/tranche/): public equity, sponsor equity, earnout shares (vesting if targets hit financial milestones), and warrants. Each class has different rights and economic interests. Investors analyzing a SPAC merger must carefully parse the pro-forma capitalization to assess their fully-diluted ownership and whether the deal valuation makes economic sense.
 

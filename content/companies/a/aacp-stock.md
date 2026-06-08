@@ -17,7 +17,7 @@ Apogee [Acquisition](/acquisition/) Corp is a blank-check company incorporated i
 
 Apogee completed its [initial public offering](/initial-public-offering/) on April 8, 2026, raising $172.5 million across 17.25 million units at $10 per unit. Each unit consisted of three securities: a Class A ordinary share, a public warrant priced at $11.50 per share, and a right to one-fifth of a share upon completion of a [business combination](/business-combination-purchase/). The units began trading immediately on the [NASDAQ](/nasdaq/) under the ticker AACPU, with Class A shares, warrants, and rights expected to trade separately under AACP, AACPW, and AACPR respectively.
 
-The trust account, funded from the IPO proceeds and additional capitalization, provides the dry powder for Apogee to pursue a combination target. Under SPAC rules, the trust capital may be deployed only when the company announces a definitive merger agreement, and shareholders holding Class A shares retain [redemption rights](/redemption-rights-equity/) if they choose not to proceed with the proposed combination.
+The trust account, funded from the IPO proceeds and additional capitalization, provides the [dry powder](/pe-dry-powder/) for Apogee to pursue a combination target. Under SPAC rules, the trust capital may be deployed only when the company announces a [definitive merger agreement](/definitive-merger-agreement/), and shareholders holding Class A shares retain [redemption rights](/redemption-rights-equity/) if they choose not to proceed with the proposed combination.
 
 ## Investment thesis and target sectors
 

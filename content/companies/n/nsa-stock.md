@@ -63,7 +63,7 @@ However, demand is stickier than in many real estate segments. Many storage cust
 
 ## Risks and headwinds
 
-The primary risk is economic downturn. If unemployment spikes and household incomes decline, demand for storage weakens, and pricing power diminishes. Tenants delay moving, abandon storage units, or downsize to smaller units. Vacancy rates rise, rental rates stagnate or decline, and cash flow falls. This happened notably during the 2008 financial crisis, though recovery was relatively swift.
+The primary risk is economic downturn. If unemployment spikes and household incomes decline, demand for storage weakens, and pricing power diminishes. Tenants delay moving, abandon storage units, or downsize to smaller units. [Vacancy rates](/vacancy-rate-property/) rise, rental rates stagnate or decline, and cash flow falls. This happened notably during the 2008 financial crisis, though recovery was relatively swift.
 
 Competition from alternative uses of space is also a longer-term consideration. If [commercial real estate](/commercial-real-estate/) becomes cheaper or if urban warehousing becomes more efficient, some storage demand might shift. Regulatory risk is modest but present — local zoning restrictions, [property tax](/property-tax/) increases, or changes to residential eviction law could impact asset values or operating costs in specific markets.
 
@@ -71,6 +71,6 @@ The REIT structure, while tax-efficient for shareholders, constrains strategic f
 
 ## Understanding NSA's finances
 
-An investor evaluating National Storage Affiliates should start with the quarterly financial reports and annual 10-K filing (SEC CIK 0001618563) to understand occupancy rates, revenue per available unit, same-store NOI growth (net operating income from properties owned for the full period, allowing comparison of operational performance), and the company's debt levels and refinancing needs.
+An investor evaluating National Storage Affiliates should start with the quarterly financial reports and annual 10-K filing (SEC CIK 0001618563) to understand occupancy rates, revenue per available unit, [same-store NOI growth](/same-store-noi-growth/) (net operating income from properties owned for the full period, allowing comparison of operational performance), and the company's debt levels and refinancing needs.
 
 Key metrics to track are occupancy rate (trending up suggests demand strength; trending down suggests weakness), rental rate growth (ability to raise prices without losing tenants), tenant-acquisition cost, and tenant turnover (churn). Management commentary on lease rate changes by market and on capital spending plans in each quarterly call reveals management's confidence in demand. Like all REITs, NSA's valuation and total return depend on both operational cash-flow growth and the level of [interest rates](/interest-rate/) — rising rates can compress REIT valuations even if operational performance is solid.

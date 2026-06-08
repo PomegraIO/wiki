@@ -42,10 +42,10 @@ The effectiveness of this strategy depends on the accuracy of the model driving 
 
 ## Costs and credit risk
 
-ADFI carries a higher [expense ratio](/expense-ratio/) than a broad bond index ETF, reflecting the cost of active management and trading needed to rebalance dynamically. The fund's true costs also include any trading spreads on the bond sales and purchases required by the rebalancing process. Because many corporate bonds trade in relatively thin markets, large transactions by ADFI can move spreads wider, eating into returns.
+ADFI carries a higher [expense ratio](/expense-ratio/) than a broad bond index ETF, reflecting the cost of active management and trading needed to rebalance dynamically. The fund's true costs also include any trading spreads on the bond sales and purchases required by the rebalancing process. Because many corporate bonds trade in relatively [thin markets](/thin-market/), large transactions by ADFI can move spreads wider, eating into returns.
 
 The fund is also exposed to credit risk — the risk that a bond issuer defaults or that spreads widen sharply in a market panic. Unlike a [treasury bond](/treasury-bond/), a corporate bond can lose significant value if the issuer's finances deteriorate. ADFI's mix of investment-grade and high-yield gives it more credit risk than a pure investment-grade fund, but less than a pure high-yield fund.
 
 ## Who ADFI serves
 
-ADFI fits investors seeking higher yield than plain bond indices offer but who want some attempt at [systematic risk](/systematic-risk/) management. It appeals to those willing to accept the costs of active management in exchange for a rules-based process that adapts to credit cycles. Conservative investors who cannot tolerate meaningful credit risk should stay closer to pure investment-grade funds; aggressive investors may prefer pure high-yield exposure. ADFI sits in the middle, assuming the dynamic rebalancing adds value over a fixed allocation.
+ADFI fits investors seeking higher yield than plain bond indices offer but who want some attempt at [systematic risk](/systematic-risk/) management. It appeals to those willing to accept the costs of active management in exchange for a rules-based process that adapts to [credit cycles](/credit-cycle/). Conservative investors who cannot tolerate meaningful credit risk should stay closer to pure investment-grade funds; aggressive investors may prefer pure high-yield exposure. ADFI sits in the middle, assuming the dynamic rebalancing adds value over a fixed allocation.

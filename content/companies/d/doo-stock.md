@@ -57,7 +57,7 @@ Start with the revenue by segment and geography: how much of BRP's revenue comes
 
 Next, read the accounts-receivable aging and inventory levels. High inventory relative to quarterly revenue suggests either strong demand (good inventory position) or slowing demand (excess inventory that will need clearance). Inventory write-downs in periods of slowing demand are common in discretionary manufacturing.
 
-Finally, examine the debt schedule and interest-coverage ratio: debt divided by EBIT (earnings before interest and taxes). If interest expense is growing faster than operating income, debt capacity is shrinking. Also read any [forward guidance](/forward-guidance/) on demand or capital allocation; management commentary on dealer inventory levels and order flow is a leading indicator of next-quarter sales.
+Finally, examine the debt schedule and interest-coverage ratio: debt divided by EBIT (earnings before interest and taxes). If interest expense is growing faster than operating income, debt capacity is shrinking. Also read any [forward guidance](/forward-guidance/) on demand or capital allocation; management commentary on dealer inventory levels and order flow is a [leading indicator](/leading-indicator/) of next-quarter sales.
 
 <div class="wiki-seealso">
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Bitwise Trendwise [Bitcoin](/bitcoin/) and Treasuries Rotation Strategy ETF (ticker BITC, shares exchange-traded on NYSE Arca) is a thematic fund that implements a simple mechanical rule: hold either Bitcoin or short-term US Treasuries based on a momentum signal. The fund does not make discretionary bets. Instead, it follows an algorithmic trend-following model that switches between these two assets depending on Bitcoin's recent direction. The premise is pragmatic — capture Bitcoin's upside during a bull phase, but retreat to the safety of Treasuries when Bitcoin momentum weakens — without requiring a human manager to time the market.
+The Bitwise Trendwise [Bitcoin](/bitcoin/) and Treasuries Rotation Strategy ETF (ticker BITC, shares exchange-traded on [NYSE Arca](/nyse-arca/)) is a thematic fund that implements a simple mechanical rule: hold either Bitcoin or short-term US Treasuries based on a momentum signal. The fund does not make discretionary bets. Instead, it follows an algorithmic trend-following model that switches between these two assets depending on Bitcoin's recent direction. The premise is pragmatic — capture Bitcoin's upside during a bull phase, but retreat to the safety of Treasuries when Bitcoin momentum weakens — without requiring a human manager to time the market.
 
 ## What the fund holds
 
@@ -29,7 +29,7 @@ Importantly, the fund does not use leverage. It does not borrow money to amplify
 
 ## Who runs it and how it's structured
 
-Bitwise Investment Advisors, the crypto-focused ETF sponsor, manages the fund. Bitwise is responsible for the composition of the Treasury holdings and the execution of rotations — ensuring trades are fair-priced and minimize slippage. Like all ETFs, BITC can be bought or sold intraday on a [stock exchange](/stock-exchange/), and its price tracks the [net asset value](/net-asset-value/) (NAV) of the underlying holdings.
+Bitwise Investment Advisors, the crypto-focused [ETF sponsor](/etf-sponsor/), manages the fund. Bitwise is responsible for the composition of the Treasury holdings and the execution of rotations — ensuring trades are fair-priced and minimize slippage. Like all ETFs, BITC can be bought or sold intraday on a [stock exchange](/stock-exchange/), and its price tracks the [net asset value](/net-asset-value/) (NAV) of the underlying holdings.
 
 The fund is a standard ETF, not a [leveraged ETF](/leveraged-etf/), not an inverse fund, and not an exchange-traded note (ETN). It holds real assets, and those holdings appear in the fund's Statement of Investments. Because it rotates between Bitcoin and Treasuries — dramatically different asset classes with different custody, settlement, and market-structure requirements — the operational complexity is higher than a simple single-asset ETF.
 

@@ -57,7 +57,7 @@ A third risk is concentration in technology. As of recent years, the largest pos
 
 ## How do you actually buy and trade SPY?
 
-SPY trades on the [stock exchange](/stock-exchange/) (NYSE Arca) just like a normal stock. You can buy and sell SPY shares in real time during market hours. The bid-ask spread — the difference between what buyers are willing to pay and what sellers are willing to accept — is typically a penny or two, making it very liquid. You can buy as little as one share or as many as you want. If you own SPY in a taxable account, you can sell anytime, and the realized gain or loss is taxable. If you own it in a retirement account like an IRA, you can hold it indefinitely with no tax consequences until you withdraw.
+SPY trades on the [stock exchange](/stock-exchange/) ([NYSE Arca](/nyse-arca/)) just like a normal stock. You can buy and sell SPY shares in real time during market hours. The [bid-ask spread](/bid-ask-spread/) — the difference between what buyers are willing to pay and what sellers are willing to accept — is typically a penny or two, making it very liquid. You can buy as little as one share or as many as you want. If you own SPY in a taxable account, you can sell anytime, and the realized gain or loss is taxable. If you own it in a retirement account like an IRA, you can hold it indefinitely with no tax consequences until you withdraw.
 
 ## Where to start if you want to research SPY
 

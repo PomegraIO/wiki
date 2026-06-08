@@ -31,7 +31,7 @@ Moreover, airline consolidation and route rationalization can quickly reduce tra
 
 A persistent tension disclosed in Corporación América's filings is currency mismatch. The company earns revenue in Argentine pesos and other Latin American currencies, but carries substantial debt in [US dollars](/us-dollar/). During periods of currency [depreciation](/depreciation/)—common in Argentina—the peso value of dollar-denominated debt rises relative to peso-denominated revenues, compressing margins and potentially creating debt-service stress.
 
-The company's filings note that Argentina specifically has experienced multiple currency devaluations and periods of [inflation](/inflation/) that have eroded the real value of peso revenues. When the peso weakens, the company's dollar debt becomes more expensive to service in local currency terms. The company can raise peso-denominated fees to offset inflation, but concession contracts often limit its flexibility, and raising fares too aggressively can depress traffic further.
+The company's filings note that Argentina specifically has experienced multiple [currency devaluations](/currency-devaluation/) and periods of [inflation](/inflation/) that have eroded the real value of peso revenues. When the peso weakens, the company's dollar debt becomes more expensive to service in local currency terms. The company can raise peso-denominated fees to offset inflation, but concession contracts often limit its flexibility, and raising fares too aggressively can depress traffic further.
 
 ## Concession Renewal and Renegotiation Risk
 

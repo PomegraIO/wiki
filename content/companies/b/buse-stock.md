@@ -17,7 +17,7 @@ keywords: [community bank, banking regulation, capital requirements, federal ove
 
 ## Regulatory Perimeter and Dual Oversight
 
-First Busey is a bank holding company, which means it is the parent of one or more subsidiary banks. As a holding company, it is subject to consolidated supervision by the [Federal Reserve](/federal-reserve/), which exercises authority over the entire organization. The subsidiary bank—First Busey Bank—is subject to primary regulation by either the [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) (OCC, if federally chartered) or by the state banking authority (if state-chartered). This creates a two-tier regulatory structure: the Federal Reserve examines the holding company, while the OCC or state regulator examines the bank itself.
+First Busey is a bank holding company, which means it is the parent of one or more subsidiary banks. As a holding company, it is subject to consolidated supervision by the [Federal Reserve](/federal-reserve/), which exercises authority over the entire organization. The subsidiary [bank—First](/bfc-stock/) Busey Bank—is subject to primary regulation by either the [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) (OCC, if federally chartered) or by the state banking authority (if state-chartered). This creates a two-tier regulatory structure: the Federal Reserve examines the holding company, while the OCC or state regulator examines the bank itself.
 
 The distinction matters because different regulators have different priorities and examination standards. The Federal Reserve focuses on consolidated risk management, liquidity, and [capital adequacy](/capital-adequacy/) at the holding company level. The OCC or state regulator focuses on safety and soundness of the bank, consumer compliance, and lending practices. First Busey must satisfy both regulators, submit regulatory reports to both, and address findings and concerns from each.
 
@@ -25,7 +25,7 @@ The distinction matters because different regulators have different priorities a
 
 At the core of banking regulation is the requirement that banks maintain minimum levels of capital relative to their assets and risk exposures. Following the 2008 financial crisis, these requirements were significantly tightened. First Busey must now maintain a Common Equity Tier 1 (CET1) capital ratio, a [Tier 1 capital](/tier-1-capital/) ratio, and a Total capital ratio, each above regulatory minimums established by the Federal Reserve and the FDIC.
 
-These ratios are not simple—they require detailed calculations of risk-weighted assets, where different categories of loans and investments are weighted based on their probability of default. A mortgage loan to a homeowner with a strong credit profile may be weighted at 35 percent, while an unsecured commercial loan may be weighted at 100 percent, or even higher for risky ventures. First Busey must maintain detailed records of all assets, classify them according to regulatory risk weights, and calculate capital ratios on a quarterly basis.
+These ratios are not simple—they require detailed calculations of [risk-weighted assets](/risk-weighted-assets/), where different categories of loans and investments are weighted based on their [probability of default](/probability-of-default/). A mortgage loan to a homeowner with a strong credit profile may be weighted at 35 percent, while an unsecured commercial loan may be weighted at 100 percent, or even higher for risky ventures. First Busey must maintain detailed records of all assets, classify them according to regulatory risk weights, and calculate capital ratios on a quarterly basis.
 
 If First Busey's capital ratios fall below regulatory minimums—whether due to loan losses, operational expenses exceeding income, or a decline in investment values—the bank faces restrictions on dividend payments, expansion, and [acquisitions](/acquisition/). If capital falls far enough, the FDIC can place the bank into receivership and assume control of its operations.
 
@@ -47,7 +47,7 @@ Additionally, FDIC membership brings ongoing examination by FDIC staff, who work
 
 ## Liquidity Requirements and Stress Testing
 
-After the 2008 crisis, banking regulations were expanded to require banks to maintain adequate liquidity—the ability to fund operations and meet withdrawal demand even in stressed conditions. The Federal Reserve and OCC implement liquidity coverage ratio (LCR) and net stable funding ratio (NSFR) requirements that mandate banks maintain minimum levels of liquid assets and stable funding.
+After the 2008 crisis, banking regulations were expanded to require banks to maintain adequate liquidity—the ability to fund operations and meet withdrawal demand even in stressed conditions. The Federal Reserve and OCC implement [liquidity coverage ratio](/liquidity-coverage-ratio/) (LCR) and [net stable funding ratio](/net-stable-funding-ratio/) (NSFR) requirements that mandate banks maintain minimum levels of liquid assets and stable funding.
 
 For a community bank like First Busey, these requirements are less burdensome than they are for large systemically important banks, but they still require ongoing monitoring and reporting. The bank must calculate its liquidity coverage on a quarterly basis, identify potential funding shortfalls, and ensure that it can meet withdrawal demand and fund operations for a specified stress period.
 
@@ -55,7 +55,7 @@ Additionally, larger banks are subject to annual stress tests—exercises where 
 
 ## Anti-Money Laundering and Know-Your-Customer
 
-First Busey must implement an [anti-money laundering](/anti-money-laundering/) (AML) program that screens customers against government sanctions lists, monitors accounts for suspicious activity, and files Suspicious Activity Reports (SARs) with the Financial Crimes Enforcement Network (FinCEN). Customer deposits—especially large or unusual transactions—must be scrutinized for indications of money laundering or terrorist financing.
+First Busey must implement an [anti-money laundering](/anti-money-laundering/) (AML) program that screens customers against government sanctions lists, monitors accounts for suspicious activity, and files [Suspicious Activity Reports](/suspicious-activity-report/) (SARs) with the [Financial Crimes Enforcement Network](/financial-crimes-enforcement-network/) (FinCEN). Customer deposits—especially large or unusual transactions—must be scrutinized for indications of money laundering or terrorist financing.
 
 The bank must collect identifying information from customers (Know-Your-Customer, or KYC), conduct beneficial ownership verification for business customers, and maintain updated customer files. Transactions flagged as suspicious must be reported within 30 days. Failure to file required SARs, or failure to maintain adequate AML controls, exposes the bank to substantial fines and potential criminal prosecution of executives and employees.
 

@@ -21,7 +21,7 @@ T3 Defense's most unusual balance-sheet item is unbilled receivables—amounts e
 
 ## Contract Advances and Deferred Revenue
 
-Conversely, some government contracts include upfront customer advances—the agency prepays a portion of contract value to allow T3 Defense to mobilize, hire staff, or purchase long-lead materials. These advances appear as deferred revenue (a liability) on the balance sheet until the company performs the work and recognizes the revenue. A growing deferred revenue balance is favorable: it represents customer commitment and float that can fund working capital. A shrinking balance may indicate slowness in contract progression or reduced new contract awards.
+Conversely, some government contracts include upfront customer advances—the agency prepays a portion of contract value to allow T3 Defense to mobilize, hire staff, or purchase long-lead materials. These advances appear as [deferred revenue](/deferred-revenue/) (a liability) on the balance sheet until the company performs the work and recognizes the revenue. A growing deferred revenue balance is favorable: it represents customer commitment and float that can fund working capital. A shrinking balance may indicate slowness in contract progression or reduced new contract awards.
 
 ## Intangible Assets and Customer Relationships
 

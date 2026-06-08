@@ -26,7 +26,7 @@ Enbridge is the infrastructure backbone connecting North American oil and gas pr
 
 ## The business architecture
 
-Enbridge's operations span three interconnected segments. The liquids pipeline business transports crude oil and natural gas liquids from western Canada, the US Gulf Coast, and Alaska to refineries across North America. The natural gas transmission and distribution segment carries natural gas from production fields through interstate and inter-provincial pipelines to local utilities and industrial customers. The energy services division operates storage terminals and trading operations that help stabilize supply and manage seasonal swings in demand. Each segment generates tariff revenue based on volume moved or storage services rendered, with rates typically locked in by regulation or long-term contract.
+Enbridge's operations span three interconnected segments. The liquids pipeline business transports crude oil and [natural gas liquids](/natural-gas-liquids/) from western Canada, the US Gulf Coast, and Alaska to refineries across North America. The natural gas transmission and distribution segment carries natural gas from production fields through interstate and inter-provincial pipelines to local utilities and industrial customers. The energy services division operates storage terminals and trading operations that help stabilize supply and manage seasonal swings in demand. Each segment generates tariff revenue based on volume moved or storage services rendered, with rates typically locked in by regulation or long-term contract.
 
 The physical asset base is vast: tens of thousands of miles of pipelines, hundreds of storage facilities, pumping stations, and terminals. This infrastructure takes years and billions of dollars to build, making it a genuine competitive moat. A competitor cannot simply build an alternative pipeline across the same terrain overnight; regulatory approval alone takes years, environmental reviews take longer, and the capital costs are enormous. Existing pipelines benefit from this high barrier to entry.
 
@@ -59,7 +59,7 @@ This creates a supply-demand imbalance. Shippers often want more capacity than E
 
 The most significant long-term risk is demand destruction. If the world shifts decisively away from oil and natural gas toward renewable electricity and alternative fuels, the volume flowing through Enbridge's pipelines declines, and the company's cash flow erodes. This is not a near-term risk, but it is real over 20+ year horizons. The company has acknowledged this by investing in renewable power projects, but renewables represent a tiny fraction of current cash flow.
 
-Shorter-term risks include geopolitical disruption (particularly around Canadian crude exports to the US), environmental accidents or operational disruptions, and continued regulatory opposition to major pipeline expansions. The company is also exposed to construction and execution risk on large capital projects; cost overruns or delays can impair returns.
+Shorter-term risks include geopolitical disruption (particularly around Canadian crude exports to the US), environmental accidents or operational disruptions, and continued regulatory opposition to major pipeline expansions. The company is also exposed to construction and [execution risk](/execution-risk/) on large capital projects; cost overruns or delays can impair returns.
 
 ## Understanding Enbridge as an investment
 

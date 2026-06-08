@@ -14,7 +14,7 @@ StoneBridge [Acquisition](/acquisition/) II Corp. Ticker APACU. Units structure.
 
 What this is: A listed shell company, formed to hunt for and acquire a private business. Management team raised capital from public investors. Capital sits in trust. Team finds target, announces deal, shareholders vote. If deal closes, the shell merges with the target and becomes an operating company. If no deal within deadline, trust liquidates and money returns.
 
-The name "II" is worth noting. StoneBridge already ran one acquisition vehicle, SPAC One. Two suggests the sponsor had success, had dry powder, or believed the market would support another bite at the apple. Second vehicles often raise smaller amounts than firsts, or come after a first deal has closed and proven the sponsor's thesis.
+The name "II" is worth noting. StoneBridge already ran one acquisition vehicle, SPAC One. Two suggests the sponsor had success, had [dry powder](/pe-dry-powder/), or believed the market would support another bite at the apple. Second vehicles often raise smaller amounts than firsts, or come after a first deal has closed and proven the sponsor's thesis.
 
 The unit structure is the standard SPAC play: one share of common plus fractional warrant. Investor gets equity upside from the [merger](/merger/) and a [call option](/call-option/) on additional shares. Sponsor gets [founder shares](/founder-shares/) (cheap equity that vests only if deal closes) plus warrants. Alignment.
 

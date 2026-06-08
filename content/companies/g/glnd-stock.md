@@ -33,7 +33,7 @@ The mix of fossil and renewable assets also creates portfolio management complex
 
 ## Geographic Concentration and Political Risk
 
-GLND's frontier operations are likely concentrated in politically volatile or less-developed regions. These regions offer exploration opportunities because they are less thoroughly explored and exploited, but they also carry sovereign and political risk. A change in government, contract renegotiation, or civil unrest can destroy project economics overnight.
+GLND's frontier operations are likely concentrated in politically volatile or less-developed regions. These regions offer exploration opportunities because they are less thoroughly explored and exploited, but they also carry sovereign and [political risk](/political-risk/). A change in government, contract renegotiation, or civil unrest can destroy project economics overnight.
 
 Supermajors manage this risk through geographic diversification—they operate in Russia, Nigeria, Angola, Brazil, and the Middle East simultaneously, so no single country's upheaval eliminates major earnings. GLND, with smaller scale, likely cannot afford full diversification and concentrates in chosen regions. This is a deliberate trade-off: accept concentrated political risk to achieve meaningful positions in regions where majors avoid or have exited.
 
@@ -75,7 +75,7 @@ Study GLND's 10-K to understand the geographic concentration of fossil and renew
 
 Assess [sovereign risk](/sovereign-risk/) in GLND's operating jurisdictions—consult country-risk indices and news flow to understand political stability and fiscal predictability. Model GLND's earnings sensitivity to oil prices by assuming \$50/barrel, \$70/barrel, and \$100/barrel scenarios and examining impact on profitability and capital availability.
 
-GLND is suitable for investors comfortable with geographic and commodity risk and who believe oil will remain economically viable long-term while renewable capacity grows. Risk-averse investors should avoid frontier energy operators entirely.
+GLND is suitable for investors comfortable with geographic and [commodity risk](/commodity-risk/) and who believe oil will remain economically viable long-term while renewable capacity grows. Risk-averse investors should avoid frontier energy operators entirely.
 
 <div class="wiki-seealso">
 

@@ -46,7 +46,7 @@ Analyst sentiment can be wrong. If the consensus turns negative and analyst sell
 
 [Currency risk](/currency-risk/) is structural. If you are a US investor, you are converting dollars to euros, yen, pounds, and other foreign currencies to own these stocks. If the dollar appreciates (gains value), foreign returns are dampened when you convert back to dollars. If the dollar falls, foreign returns are boosted. Over long periods this typically evens out, but in any given year it can swing the results significantly.
 
-International stocks carry political, regulatory, and economic risks that differ from the US. A country might change its policies, a geopolitical crisis might erupt, or a banking system might face stress. While diversification across many countries reduces any single country's impact, international investing is not a way to remove political risk — only to spread it.
+International stocks carry political, regulatory, and economic risks that differ from the US. A country might change its policies, a geopolitical crisis might erupt, or a banking system might face stress. While diversification across many countries reduces any single country's impact, international investing is not a way to remove [political risk](/political-risk/) — only to spread it.
 
 Concentration in developed markets means exposure is limited to rich countries. Emerging markets (China, India, Brazil) are excluded, which is a deliberate choice to keep the focus on stable, well-regulated markets, but it also means you miss any outperformance those markets might deliver.
 

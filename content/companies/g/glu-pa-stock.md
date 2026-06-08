@@ -37,7 +37,7 @@ GABELLI GLOBAL UTILITY & INCOME TRUST focuses on utility stocks worldwide. Utili
 
 The trust also invests in other income-generating securities: [corporate bonds](/corporate-bond/), [preferred stocks](/preferred-stock/) of other companies, and occasionally dividend-paying stocks outside utilities. The goal is to construct a portfolio weighted toward current income—distributions and dividends the fund receives—rather than capital gains from price appreciation.
 
-Global [diversification](/diversification/) means the fund is not limited to United States utilities. It can own shares of European utilities, Asian utilities, and infrastructure companies in other regions. This exposes shareholders to currency fluctuations and to regulatory and political risks in foreign countries, but it also offers diversification away from any single country's economic cycle or regulatory environment.
+Global [diversification](/diversification/) means the fund is not limited to United States utilities. It can own shares of European utilities, Asian utilities, and infrastructure companies in other regions. This exposes shareholders to currency fluctuations and to regulatory and [political risks](/political-risk/) in foreign countries, but it also offers diversification away from any single country's economic cycle or regulatory environment.
 
 ## Why preferred shares of this fund?
 

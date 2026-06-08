@@ -4,7 +4,7 @@ description: "A specialty retail apparel company managing capital structure thro
 keywords: ["retail", "apparel", "capital structure", "inventory financing", "same-store sales"]
 ---
 
-*[**DESTINATION XL GROUP, INC.**](/stock/) (DXLG) is a specialty retailer operating a chain of physical stores focused on a specific market segment, with a capital structure driven by inventory cycles, leasehold obligations, and the delicate balance between scaling locations and harvesting cash from a mature footprint.*
+*[**DESTINATION XL GROUP, INC.**](/stock/) (DXLG) is a specialty retailer operating a chain of physical stores focused on a specific market segment, with a capital structure driven by [inventory cycles](/inventory-cycle/), leasehold obligations, and the delicate balance between scaling locations and harvesting cash from a mature footprint.*
 
 ## Retail Capital Architecture
 
@@ -16,7 +16,7 @@ DXLG's capital structure reflects this lumpiness. The company likely carries rev
 
 ## Lease Obligations and Fixed Costs
 
-DXLG operates a chain of physical stores, each of which requires a lease. Leases are fixed or semi-fixed costs: the company must pay rent whether stores are busy or slow. Under [accounting standards](/stock/), [operating leases](/operating-lease/) create lease-related liabilities and right-of-use assets on the balance sheet, increasing reported leverage.
+DXLG operates a chain of physical stores, each of which requires a lease. Leases are fixed or semi-fixed costs: the company must pay rent whether stores are busy or slow. Under [accounting standards](/stock/), [operating leases](/operating-lease/) create lease-related liabilities and [right-of-use assets](/finance-lease-right-of-use-asset/) on the balance sheet, increasing reported leverage.
 
 Lease obligations are a form of [implicit debt](/implicit-debt/). A $50 million annual lease obligation, payable over 10 years, is economically equivalent to a $50 million liability. Leases constrain financial flexibility: the company cannot easily exit a store lease, even if the location is unprofitable, without renegotiating or paying a penalty. This reduces management's ability to quickly right-size the footprint if conditions deteriorate.
 

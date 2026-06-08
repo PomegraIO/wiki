@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-TORM operates one of the world's largest fleets of product tankers — the medium-range vessels (MR) that haul refined oil products, chemicals, and other liquid cargo across the global seas. The company owns and charters in roughly 80 tankers, most in the 50,000 deadweight-ton size, and earns money by placing them on voyage contracts or time charters where they take cargo from refineries and distributors and deliver it thousands of miles away. Revenue per ship depends entirely on the daily spot rate for tanker capacity, which fluctuates wildly based on how much oil is being refined and shipped relative to how many tankers are sitting idle waiting for work. TORM is profitable when shipping rates are firm; it bleeds cash when rates crater.
+TORM operates one of the world's largest fleets of product tankers — the medium-range vessels (MR) that haul refined oil products, chemicals, and other liquid cargo across the global seas. The company owns and charters in roughly 80 tankers, most in the 50,000 deadweight-ton size, and earns money by placing them on voyage contracts or time charters where they take cargo from refineries and distributors and deliver it thousands of miles away. Revenue per ship depends entirely on the daily [spot rate](/spot-rate/) for tanker capacity, which fluctuates wildly based on how much oil is being refined and shipped relative to how many tankers are sitting idle waiting for work. TORM is profitable when shipping rates are firm; it bleeds cash when rates crater.
 
 ## Tanker rates as a commodity
 

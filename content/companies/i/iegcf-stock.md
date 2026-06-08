@@ -29,7 +29,7 @@ The company's annual exploration budget reveals priorities: which properties are
 
 ## Dilution, Financing, and Runway
 
-Like all junior explorers, Independence Gold funds operations by issuing equity and, occasionally, by taking on debt. The company's share count grows with each raise; tracking [shareholder equity](/common-stock/) and the share count over time reveals cumulative dilution. The company's latest 10-K or 10-Q (quarterly filing) should disclose cash on hand and the estimated burn rate, allowing readers to calculate runway: how many months the company can continue exploration before it must raise more capital or shut down. An explorer with limited runway and no pending drill results faces a financing crunch; one with robust cash and an upcoming drill announcement is better positioned.
+Like all junior explorers, Independence [Gold funds](/gold-fund/) operations by issuing equity and, occasionally, by taking on debt. The company's share count grows with each raise; tracking [shareholder equity](/common-stock/) and the share count over time reveals cumulative dilution. The company's latest 10-K or 10-Q (quarterly filing) should disclose cash on hand and the estimated burn rate, allowing readers to calculate runway: how many months the company can continue exploration before it must raise more capital or shut down. An explorer with limited runway and no pending drill results faces a financing crunch; one with robust cash and an upcoming drill announcement is better positioned.
 
 ## Geological Reports and Expert Certification
 

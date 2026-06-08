@@ -13,11 +13,11 @@ handwritten: true
 
 ## What is a buffer ETF and how does ARLU work?
 
-A buffer ETF is a structured investment that combines broad equity exposure with an embedded protection mechanism. The AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF delivers U.S. equity market exposure — typically tracking large-cap U.S. companies similar to an [S&P 500 index](/sp-500-index/) — while absorbing the first 15 percent of any annual losses. This protection comes at a cost, built into the fund's [expense ratio](/expense-ratio/) and embedded in the option strategies that create the buffer.
+A [buffer ETF](/buffer-etf/) is a structured investment that combines broad equity exposure with an embedded protection mechanism. The AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF delivers U.S. equity market exposure — typically tracking large-cap U.S. companies similar to an [S&P 500 index](/sp-500-index/) — while absorbing the first 15 percent of any annual losses. This protection comes at a cost, built into the fund's [expense ratio](/expense-ratio/) and embedded in the option strategies that create the buffer.
 
 ## What underlying index or holdings does ARLU track?
 
-The fund provides exposure to the broad U.S. equity market, generally through holdings or derivatives tracking an index of large-cap U.S. companies. Unlike a simple [index fund](/index-fund/) that holds the actual stocks, a structured buffer fund may use a combination of equity positions, [futures contracts](/futures-contract/), and options strategies to achieve its dual objective of market participation and loss cushioning. The specific methodology — whether the fund owns the underlying shares directly, uses total-return swaps, or employs other derivatives — is detailed in the prospectus.
+The fund provides exposure to the broad U.S. equity market, generally through holdings or derivatives tracking an index of large-cap U.S. companies. Unlike a simple [index fund](/index-fund/) that holds the actual stocks, a structured [buffer fund](/buffer-fund/) may use a combination of equity positions, [futures contracts](/futures-contract/), and options strategies to achieve its dual objective of market participation and loss cushioning. The specific methodology — whether the fund owns the underlying shares directly, uses total-return swaps, or employs other derivatives — is detailed in the prospectus.
 
 ## How much downside protection does the buffer really provide?
 
@@ -33,7 +33,7 @@ Some buffer strategies impose a cap on annual gains — for example, a fund migh
 
 ## What are the costs, and how do they compare to traditional index funds?
 
-The expense ratio of a buffer ETF is materially higher than a plain U.S. equity index fund because the fund is paying for protective option positions or equivalent hedging. Where a basic S&P 500 index fund might charge 0.03 to 0.10 percent annually, a buffer fund typically ranges from 0.50 to 1.25 percent or higher, depending on the issuer and the specific strategy. This cost covers the fund's operational expenses plus the embedded cost of maintaining the downside protection. Investors must weigh whether the reduced drawdowns are worth the higher fees over a full market cycle.
+The expense ratio of a buffer ETF is materially higher than a plain U.S. equity index fund because the fund is paying for protective option positions or equivalent hedging. Where a basic S&P 500 index fund might charge 0.03 to 0.10 percent annually, a buffer fund typically ranges from 0.50 to 1.25 percent or higher, depending on the issuer and the specific strategy. This cost covers the fund's operational expenses plus the embedded cost of maintaining the downside protection. Investors must weigh whether the reduced drawdowns are worth the higher fees over a full [market cycle](/market-cycle/).
 
 ## What are the principal risks?
 

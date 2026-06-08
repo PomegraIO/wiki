@@ -78,7 +78,7 @@ Post-Hearsay, the company bundles these as **Enterprise SaaS revenue** and has b
 **What weakens the moat**: 
 - **Google's power**: Google controls the largest portion of search traffic and could theoretically commoditize Yext by offering free listing management to all businesses and integrating it directly into Google Search and Maps. Google has moved in this direction (Google My Business is free, Google has expanded what information it shows), which pressures Yext's pricing for smaller and mid-market customers.
 - **Vertical commoditization**: Some verticals (restaurants, hotels) have developed specialized platforms (Toast, MarginEdge, property management systems) that now include their own listing management and distribution. Yext must compete within those ecosystems rather than being the central platform.
-- **Hearsay integration complexity**: Integrating two different sales teams, customer bases, product roadmaps, and engineering cultures is hard. There is execution risk in whether the combined company can translate the acquisition into revenue synergies rather than losing customers or slowing innovation.
+- **Hearsay integration complexity**: Integrating two different sales teams, customer bases, product roadmaps, and engineering cultures is hard. There is [execution risk](/execution-risk/) in whether the combined company can translate the acquisition into revenue synergies rather than losing customers or slowing innovation.
 
 ## What are the pressures and risks?
 

@@ -36,7 +36,7 @@ This dynamic puts pressure on the SPAC sponsor (the people who set up YHN) to fi
 
 ## When the merger closes (or does not)
 
-If shareholders approve the deal, the two companies merge. Mingde shareholders get shares in the combined company. YHN's public shareholders keep their shares, but now their shares represent ownership of Mingde instead of an empty SPAC. The rights automatically convert into fractional shares of the combined company. The rights stop existing as a tradeable security; they simply become part of your ownership stake.
+If shareholders approve the deal, the two companies merge. Mingde shareholders get shares in the combined company. YHN's public shareholders keep their shares, but now their shares represent ownership of Mingde instead of an empty SPAC. The rights automatically convert into [fractional shares](/fractional-shares/) of the combined company. The rights stop existing as a tradeable security; they simply become part of your ownership stake.
 
 YHN set a deadline to complete the merger. In mid-2024, YHN was extended to June 19, 2026 (after depositing $150,000 into the trust account as an extension fee). If the merger still has not closed by then, YHN can ask for another extension. But if no deal closes by September 19, 2026, the SPAC is required to liquidate, shareholders get their money back, and the whole thing ends.
 
@@ -44,7 +44,7 @@ YHN set a deadline to complete the merger. In mid-2024, YHN was extended to June
 
 The Mingde deal promises up to $80 million in extra earnout shares if Mingde hits profit or revenue targets within a set period after going public. This structure is meant to align Mingde's management with public shareholders: if Mingde grows as promised, the earnout pays out and founders benefit; if Mingde disappoints, the earnout never vests.
 
-But earnouts are tricky. They create complexity in the capital structure, they can be gaming targets for management (hitting the letter of the target while missing the spirit), and they dilute existing shareholders if they do vest. From a public shareholder's perspective, the earnout is a bet on Mingde's management and execution. If you believe in the team, earnouts are fine. If you are skeptical, they look like a way for the founders to transfer risk to public shareholders.
+But earnouts are tricky. They create complexity in the capital structure, they can be gaming targets for management (hitting the letter of the target while missing the spirit), and they dilute existing shareholders if they do vest. From a public shareholder's perspective, the earnout is a bet on Mingde's management and execution. If you believe in the team, earnouts are fine. If you are skeptical, they look like a way for the founders to [transfer risk](/transfer-risk/) to public shareholders.
 
 ## The real risk: staying or leaving
 

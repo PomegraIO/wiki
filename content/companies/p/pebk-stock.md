@@ -16,7 +16,7 @@ handwritten: true
 
 ## How the bank makes money
 
-The bank earns the difference between what it pays depositors (interest on savings accounts, money market accounts, certificates of deposit) and what it charges borrowers (interest on mortgages, business loans, auto loans). That spread is the bank's gross profit, called the net interest margin. After paying the cost of running branches, paying employees, and setting aside reserves for loans that go bad, what remains is the bank's net income.
+The bank earns the difference between what it pays depositors (interest on savings accounts, [money market accounts](/money-market-account/), certificates of deposit) and what it charges borrowers (interest on mortgages, business loans, auto loans). That spread is the bank's gross profit, called the net interest margin. After paying the cost of running branches, paying employees, and setting aside reserves for loans that go bad, what remains is the bank's net income.
 
 The bank's loan portfolio is diverse. It makes mortgage loans to people buying homes. It lends to small manufacturers and businesses buying equipment. It lends to farmers for seasonal needs. It makes consumer loans secured by autos and other personal property. This variety matters. If all the loans were to one industry or one type of borrower, a downturn in that sector could wipe out the portfolio. Spreading loans across different borrowers and purposes lowers that risk.
 

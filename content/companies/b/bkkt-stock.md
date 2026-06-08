@@ -49,7 +49,7 @@ The company's filings also highlight technology talent acquisition risk: blockch
 
 ## Customer Concentration and Adoption Drivers
 
-Bakkt's filings disclose material concentration in a small number of institutional customers, particularly in early periods. Revenue growth depends on broadening the customer base and deepening per-customer engagement (more assets under custody, higher trading volumes). Filings note that adoption is driven by maturation of digital asset regulatory frameworks, institutional comfort with blockchain-based assets, and specific use cases (payments, settlements, reserves) that create tangible value. The company's filings track adoption metrics (users, assets under custody, transaction volumes) as leading indicators of business scale.
+Bakkt's filings disclose material concentration in a small number of institutional customers, particularly in early periods. Revenue growth depends on broadening the customer base and deepening per-customer engagement (more assets under custody, higher trading volumes). Filings note that adoption is driven by maturation of digital asset regulatory frameworks, institutional comfort with blockchain-based assets, and specific use cases (payments, settlements, reserves) that create tangible value. The company's filings track adoption metrics (users, assets under custody, transaction volumes) as [leading indicators](/leading-indicator/) of business scale.
 
 ## See Also
 

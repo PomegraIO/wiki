@@ -45,7 +45,7 @@ The company's [market capitalization](/market-capitalization/) has declined shar
 
 ## Competitive Context and Risks
 
-17 Education competes in a fragmented market of specialized platforms serving Chinese K-12 schools. Some competitors focus on homework systems, others on classroom interactivity, and still others on administrative workflows. The company's attempt to build a broader platform—linking classroom tools, homework, and now AI-powered learning—positions it as an end-to-end institutional vendor rather than a single-point solution.
+17 Education competes in a [fragmented market](/fragmented-market/) of specialized platforms serving Chinese K-12 schools. Some competitors focus on homework systems, others on classroom interactivity, and still others on administrative workflows. The company's attempt to build a broader platform—linking classroom tools, homework, and now AI-powered learning—positions it as an end-to-end institutional vendor rather than a single-point solution.
 
 Risk factors are material. The company depends on China's willingness to allow and fund digital transformation in public schools—a favorable backdrop, but subject to policy shifts. Regulatory changes in China's tech and education sectors remain a structural threat. The company's small customer base and revenue scale leave limited margin for error. International expansion is not meaningfully underway, leaving the company entirely dependent on one market.
 

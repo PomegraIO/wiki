@@ -62,7 +62,7 @@ The capital-intensity of the business means Energy Vault is dependent on access 
 
 ## The portfolio problem and why it matters
 
-Energy Vault's technology is sound in principle, but hardware businesses that are only-of-a-kind or dependent on rapid cost reductions face execution risk. The company has competent management and credible technology, but it must demonstrate that its approach is economically viable at the scale utilities need. Competitors include established lithium-ion suppliers ([Tesla](/tsla-stock/), Fluence, which is part of Siemens, and others), which have economies of scale, customer relationships, and established supply chains.
+Energy Vault's technology is sound in principle, but hardware businesses that are only-of-a-kind or dependent on rapid cost reductions face [execution risk](/execution-risk/). The company has competent management and credible technology, but it must demonstrate that its approach is economically viable at the scale utilities need. Competitors include established lithium-ion suppliers ([Tesla](/tsla-stock/), Fluence, which is part of Siemens, and others), which have economies of scale, customer relationships, and established supply chains.
 
 Energy Vault's differentiation is modular scaling and potentially cheaper per-unit energy-storage cost. But "potentially cheaper" and "proven cheaper" are different. Utilities will only adopt the technology if the life-cycle cost (purchase price, operating costs, maintenance, replacement) is lower than alternatives. Energy Vault must prove this through real-world deployments, long-term operating data, and transparent cost accounting.
 

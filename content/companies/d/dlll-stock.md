@@ -35,7 +35,7 @@ The products also persist because they are transparent and regulated. You can se
 
 ## Structure and costs
 
-DLLL is a standard exchange-traded fund, not a note or structured product. It trades on a major exchange with publicly disclosed [net asset value](/net-asset-value/), holdings, and an [expense ratio](/expense-ratio/). The expense ratio is reasonable for the rebalancing and derivative costs involved — typically 1-2 percent annually for this category.
+DLLL is a standard exchange-traded fund, not a note or [structured product](/structured-product/). It trades on a major exchange with publicly disclosed [net asset value](/net-asset-value/), holdings, and an [expense ratio](/expense-ratio/). The expense ratio is reasonable for the rebalancing and derivative costs involved — typically 1-2 percent annually for this category.
 
 [Bid-ask spreads](/bid-ask-spread/) are usually tight because DELL is a liquid stock and the fund carries good daily volume. During market stress or DELL halts, spreads can widen sharply.
 
@@ -43,7 +43,7 @@ DELL's [dividend](/dividend/) is not passed through to DLLL shareholders because
 
 ## Volatility decay and the reality of holding longer
 
-DLLL's core flaw is volatility decay, particularly acute if held through a normal market cycle. If DELL trades sideways for six months, DLLL loses money — period. If DELL rises 50 percent but with daily swings of 3-5 percent along the way, DLLL will have gained substantially but less than 100 percent because of the compounding losses from down days.
+DLLL's core flaw is volatility decay, particularly acute if held through a normal [market cycle](/market-cycle/). If DELL trades sideways for six months, DLLL loses money — period. If DELL rises 50 percent but with daily swings of 3-5 percent along the way, DLLL will have gained substantially but less than 100 percent because of the compounding losses from down days.
 
 The mathematical reality: if you intend to hold a leveraged ETF for more than a few weeks, you are making a deliberate bet against compounding. That is not necessarily irrational — if you are confident DELL will gain 30 percent in the next three weeks with little volatility, DLLL is a sensible trade. If you are buying for a year or longer, DELL itself is the better bet almost certainly.
 

@@ -15,7 +15,7 @@ handwritten: true
 
 ## From Concept to Public Company
 
-Borealis Foods was founded in 2019 with an explicit mission: to make nutritious meals accessible and affordable to populations that cannot afford conventional protein sources. The company's first product was Chef Woo's complete-protein ramen noodles, developed with the insight that ramen—affordable, shelf-stable, globally familiar—could be reformulated with legumes, grains, and whole-food ingredients to deliver 20 grams of plant-based protein per serving, plus significant iron content, while remaining competitive on price with conventional instant noodles.
+Borealis Foods was founded in 2019 with an explicit mission: to make nutritious meals accessible and affordable to populations that cannot afford conventional protein sources. The company's first product was Chef Woo's complete-protein ramen [noodles](/ndls-stock/), developed with the insight that ramen—affordable, shelf-stable, globally familiar—could be reformulated with legumes, grains, and whole-food ingredients to deliver 20 grams of plant-based protein per serving, plus significant iron content, while remaining competitive on price with conventional instant noodles.
 
 This was not a premium-organic play. Borealis positioned itself in mass market: conventional grocery aisles, high-volume retailers, price-sensitive consumers. The approach required developing both a novel ingredient formulation and a manufacturing process capable of industrial scale. The company acquired or built Palmetto Gourmet Foods, a subsidiary handling production and bringing existing food-manufacturing expertise.
 
@@ -33,7 +33,7 @@ The manufacturing model is outsourced—Borealis owns the brand, recipes, and in
 
 Borealis has expanded from ramen into a broader portfolio: ready-to-eat meals under the Chef Woo brand and additional product lines under Palmetto Gourmet. Products carry certifications—organic, vegan, vegetarian, Halal, Kosher, non-GMO—to signal quality and appeal to specific consumer segments. The emphasis on removing "bad" additives (no added MSG, no TBHQ) positions Borealis as a cleaner alternative to both conventional instant noodles and to competitors who may use processing shortcuts.
 
-The product mix allows the company to play in multiple price tiers and distribution channels: premium organic at specialty retailers, value-oriented at mass grocers, and international variants adapted to regional tastes. This portfolio approach smooths revenue across market cycles and customer segments.
+The product mix allows the company to play in multiple price tiers and distribution channels: premium organic at specialty retailers, value-oriented at mass grocers, and international variants adapted to regional tastes. This portfolio approach smooths revenue across [market cycles](/market-cycle/) and customer segments.
 
 ## Cyclicality and Demand Exposure
 
@@ -55,4 +55,4 @@ The company's success will hinge on several execution points: sustaining retail 
 
 ## How to Research Borealis Foods
 
-Start with the company's SEC filings (CIK 0001852973), particularly the latest 10-K [annual report](/10-k/) and quarterly 10-Q filings, which detail revenue by product, customer concentration, input-cost trends, and [operating margins](/operating-margin/). Watch quarterly earnings calls for management commentary on per-store sales trends, retailer feedback, and pricing actions—these are leading indicators of demand health and competitive pressure. Monitor input-commodity prices (legumes, grains, packaging) through USDA and commodity market sources; sustained inflation in these costs will compress margins. Finally, track retail inventory levels and promotional activity in the plant-based category; if Borealis is relying increasingly on discounts to move volume, demand is softening relative to supply.
+Start with the company's SEC filings (CIK 0001852973), particularly the latest 10-K [annual report](/10-k/) and quarterly 10-Q filings, which detail revenue by product, customer concentration, input-cost trends, and [operating margins](/operating-margin/). Watch quarterly earnings calls for management commentary on per-store sales trends, retailer feedback, and pricing actions—these are [leading indicators](/leading-indicator/) of demand health and competitive pressure. Monitor input-commodity prices (legumes, grains, packaging) through USDA and commodity market sources; sustained inflation in these costs will compress margins. Finally, track retail inventory levels and promotional activity in the plant-based category; if Borealis is relying increasingly on discounts to move volume, demand is softening relative to supply.

@@ -44,7 +44,7 @@ The margin structure of wireless is compressible. Over the past 15 years, the in
 
 ## Risks and pressures
 
-T-Mobile remains the smallest of the three national carriers by revenue, though the gap with AT&T has narrowed. That size disadvantage shows in capital intensity — smaller carriers relative to peers must spend more to maintain network parity. The company is also still integrating the Sprint acquisition and shedding redundancy, a multi-year process that creates execution risk.
+T-Mobile remains the smallest of the three national carriers by revenue, though the gap with AT&T has narrowed. That size disadvantage shows in capital intensity — smaller carriers relative to peers must spend more to maintain network parity. The company is also still integrating the Sprint acquisition and shedding redundancy, a multi-year process that creates [execution risk](/execution-risk/).
 
 The regulatory environment has loosened somewhat (the government approved the Sprint merger in 2020 after extensive condition-setting), but telecom remains one of the most regulated industries in America. The FCC can mandate how carriers price or service specific customer groups, can levy fines for network outages or customer service failures, and periodically revisits the terms on which carriers can operate. A shift toward heavier regulation could compress margins further.
 

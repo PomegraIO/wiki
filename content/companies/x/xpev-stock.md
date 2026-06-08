@@ -57,7 +57,7 @@ XPeng matters because it proves that a new car maker—not one of the old brands
 
 What could go wrong? Several things. First, other Chinese car makers are also building good electric cars with good software. The competition is intense and some competitors have more money or bigger factories. Second, the Chinese government could change its rules about electric cars or driving software, which would affect XPeng's business. Third, if the economy in China slows down, fewer people will buy new cars, and XPeng's sales could drop. Fourth, the self-driving software is getting better but it still makes mistakes. A serious accident caused by the software could hurt the company's reputation.
 
-There is also the fact that XPeng is based in China. Doing business there carries political risks. Trade tensions between China and other countries could affect XPeng's ability to sell cars or get parts.
+There is also the fact that XPeng is based in China. Doing business there carries [political risks](/political-risk/). Trade tensions between China and other countries could affect XPeng's ability to sell cars or get parts.
 
 ## How to learn more about XPeng
 

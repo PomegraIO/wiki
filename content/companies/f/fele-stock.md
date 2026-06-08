@@ -23,7 +23,7 @@ The company's multi-segment structure reflects this evolution. Rather than being
 
 ## Market Cycles and Segment Exposure
 
-Franklin Electric's revenue and [earnings-per-share](/earnings-per-share/) are sensitive to macroeconomic cycles, agricultural commodity prices, residential construction activity, and industrial capacity utilization. A severe agricultural downturn affects demand for irrigation pumps and well-system upgrades. A decline in new housing starts reduces HVAC motor demand. Industrial slowdown cuts into maintenance and upgrade cycles across all segments.
+Franklin Electric's revenue and [earnings-per-share](/earnings-per-share/) are sensitive to macroeconomic cycles, agricultural commodity prices, residential construction activity, and industrial capacity utilization. A severe agricultural downturn affects demand for irrigation pumps and well-system upgrades. A decline in new [housing starts](/housing-starts/) reduces HVAC motor demand. Industrial slowdown cuts into maintenance and upgrade cycles across all segments.
 
 The company's geographic and segment [diversification](/diversification/) provides some buffers: when U.S. agricultural activity contracts, international agricultural markets or industrial segments may remain stable. However, FELE is far from recession-proof. A mature firm like this typically sees its stock priced as a cyclical play, meaning investors expect earnings volatility and multiple contraction in downturns. The [price-to-earnings-ratio](/price-to-earnings-ratio/) may be lower than that of non-cyclical firms, reflecting this risk.
 

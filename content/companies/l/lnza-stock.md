@@ -54,7 +54,7 @@ However, this model has inherent challenges. The capex intensity is very high; a
 
 LanzaTech faces competition from alternative decarbonization pathways. A steel mill can reduce emissions by switching to electric arc furnaces (EAF), which avoids CO₂ from blast-furnace off-gas entirely. A refinery can blend lower-carbon crude, invest in carbon capture and storage (CCS), or shift to renewable chemical feedstocks. For any buyer, LanzaTech is one option among many; the technology only wins if its unit economics and [operational risk](/operational-risk/) are better than alternatives.
 
-Additionally, LanzaTech's value proposition depends on carbon pricing. If a major carbon tax is repealed or carbon prices collapse, the entire business case evaporates. Buyers are aware of this; they hedge their bets by negotiating price floors and long-term contract floors into off-take agreements, protecting LanzaTech's revenue but capping upside.
+Additionally, LanzaTech's value proposition depends on carbon pricing. If a major [carbon tax](/carbon-tax/) is repealed or carbon prices collapse, the entire business case evaporates. Buyers are aware of this; they hedge their bets by negotiating price floors and long-term contract floors into off-take agreements, protecting LanzaTech's revenue but capping upside.
 
 ## Researching LanzaTech from a Buyer's Lens
 

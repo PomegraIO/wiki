@@ -58,7 +58,7 @@ The 10-K should disclose revenue by geography. If Europe is 30 percent of revenu
 
 ## Debt and Capital Structure
 
-Device companies require capital: R&D to develop new products, manufacturing buildout, clinical trials, and regulatory submissions all consume cash. Many device companies carry debt to fund growth. A device company trading at higher multiples than its [free cash flow](/free-cash-flow/) growth can justify is overheat-susceptible: a revenue miss causes multiple compression and makes debt service difficult.
+Device companies require capital: R&D to develop new products, manufacturing buildout, clinical trials, and regulatory submissions all consume cash. Many device companies carry debt to fund growth. A device company trading at higher multiples than its [free cash flow](/free-cash-flow/) growth can justify is overheat-susceptible: a revenue miss causes [multiple compression](/multiple-compression/) and makes debt service difficult.
 
 Check LivaNova's debt levels and interest expense. Is debt growing faster than revenue? Is the company generating [free cash flow](/free-cash-flow/), or does growth require capital raises? A company generating strong free cash flow can self-fund growth and return cash to shareholders; a company burning cash is subordinate to debt holders and growth dilutes equity.
 

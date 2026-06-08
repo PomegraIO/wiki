@@ -27,7 +27,7 @@ The wealth management segment has been expanded systematically through [acquisit
 
 ## Regulatory and structural risks
 
-Like all broker-dealers, Stifel is heavily regulated by the SEC, [FINRA](/finra/), and state authorities. Capital requirements, suitability rules, and compliance obligations consume significant operating expense. The [Dodd-Frank](/wiki/dodd-frank-act/) framework and post-2008 regulations materially raised the cost of doing business in investment banking and prime brokerage, which is why the business has consolidated upward—only well-capitalized firms can afford the compliance infrastructure.
+Like all broker-dealers, Stifel is heavily regulated by the SEC, [FINRA](/finra/), and state authorities. Capital requirements, suitability rules, and compliance obligations consume significant operating expense. The [Dodd-Frank](/wiki/dodd-frank-act/) framework and post-2008 regulations materially raised the cost of doing business in investment banking and [prime brokerage](/prime-brokerage-venue/), which is why the business has consolidated upward—only well-capitalized firms can afford the compliance infrastructure.
 
 Interest-rate sensitivity is a second-order risk. Wealth management advisory fees do not depend directly on rates, but bull markets (often enabled by lower rates) drive asset growth, while [bear markets](/bear-market/) shrink them. The institutional side is rate-sensitive in fixed-income trading and in the cost of funding the firm's operations. A sharp rate shock could compress margins if the firm cannot quickly pass on cost increases to clients or if trading volumes collapse.
 

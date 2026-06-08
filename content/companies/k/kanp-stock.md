@@ -18,7 +18,7 @@ Ownership composition has shifted over decades. Early Hawaiian resort real estat
 
 ## Strategic Holdings and Development Economics
 
-KANP's core assets are the land parcels themselves. The company is not a manager of operating hotels; instead, it holds property and monetizes it through strategic sales, ground leases, or periodic development initiatives. A developer buying land from KANP is paying for the location premium: Kaanapali's visitor traffic, existing infrastructure, and brand equity. KANP can also ground-lease land to hotel operators or retailers, generating income without surrendering ownership.
+KANP's core assets are the land parcels themselves. The company is not a manager of operating hotels; instead, it holds property and monetizes it through strategic sales, [ground leases](/ground-lease/), or periodic development initiatives. A developer buying land from KANP is paying for the location premium: Kaanapali's visitor traffic, existing infrastructure, and brand equity. KANP can also ground-lease land to hotel operators or retailers, generating income without surrendering ownership.
 
 The economics of holding resort real estate in Hawaii involve several layers. First, there are holding costs: property taxes, environmental compliance, and security. Hawaii's property-tax regime is complex, with rates varying by county and property type. Maui is in Hawaii County, which has relatively modest property-tax rates compared to some mainland jurisdictions, but still meaningful. Second, there is opportunity cost: capital tied up in land is not earning returns elsewhere. KANP must finance its holdings and service any debt, so the company's [debt-to-equity ratio](/debt-to-equity-ratio/) and interest-coverage matter.
 

@@ -49,7 +49,7 @@ Loomis, like many consolidated industrial businesses, operates with moderate lev
 
 ## International Exposure and Currency
 
-Loomis is a Swedish company with significant revenues in currencies other than the Swedish krona. Fluctuations in the euro, pound, and other currencies create translation risk. A strong dollar relative to the krona helps Loomis when reporting to Swedish shareholders, and vice versa. Currency is a shorter-term cyclical factor but not a dominant driver of value.
+Loomis is a Swedish company with significant revenues in currencies other than the [Swedish krona](/swedish-krona/). Fluctuations in the euro, pound, and other currencies create translation risk. A strong dollar relative to the krona helps Loomis when reporting to Swedish shareholders, and vice versa. Currency is a shorter-term cyclical factor but not a dominant driver of value.
 
 ## Researching LOIMF
 

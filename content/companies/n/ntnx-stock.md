@@ -71,7 +71,7 @@ The company has tried to address this by making its platform cloud-compatible an
 
 Nutanix is a publicly traded software company that invests heavily in research and development, sales, and marketing. The company does not yet generate high [free cash flow](/free-cash-flow/) because it is still investing to grow the subscription base. Like many software companies, Nutanix's path to profitability is not primarily about cutting costs but about growing revenue faster than operating expenses.
 
-The company has made several acquisitions to fill gaps in its platform (particularly around security and disaster recovery) and to accelerate growth in new markets. These acquisitions are typical for enterprise software companies but carry execution risk.
+The company has made several acquisitions to fill gaps in its platform (particularly around security and disaster recovery) and to accelerate growth in new markets. These acquisitions are typical for enterprise software companies but carry [execution risk](/execution-risk/).
 
 ## Understanding Nutanix as an investment
 

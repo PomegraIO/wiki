@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The Real Brokerage Inc. is a real estate brokerage company that uses software and technology to offer [residential real estate](/residential-real-estate/) agents an alternative to traditional brokerages. Instead of brick-and-mortar offices and rigid employment structures, Real provides a cloud-based platform, flexible pay models, and ancillary services like mortgages and title insurance.*
+*The Real Brokerage Inc. is a real estate brokerage company that uses software and technology to offer [residential real estate](/residential-real-estate/) agents an alternative to traditional brokerages. Instead of brick-and-mortar offices and rigid employment structures, Real provides a cloud-based platform, flexible pay models, and ancillary services like mortgages and [title insurance](/title-insurance/).*
 
 Real Brokerage was founded in 2014 by three Israeli entrepreneurs—Tamir Poleg, Yuval Niv, and Gal Weiss—with a simple observation: real estate agents are independent operators who resent the overhead costs, inflexible terms, and commissions that traditional brokerages charge. Real's idea was to build a software platform that would let agents work independently but still access back-office support, branding, and marketing tools without paying high commission splits.
 
@@ -29,7 +29,7 @@ Real has grown rapidly by onboarding agents who value flexibility and lower fees
 
 Real also offers mortgage origination, title and escrow services, and lending products. These services generate ancillary revenue beyond the brokerage commission itself. If an agent helps a buyer secure a mortgage through Real's mortgage subsidiary, Real earns [loan origination fees](/loan-origination-fees/). If a transaction closes through Real's title insurance provider, Real earns title fees. This ecosystem approach mirrors what larger national brokerages have built, but Real distributes it to independent agents rather than keeping all the economics for a corporate center.
 
-However, Real competes in a fragmented market. Traditional brokerages like Keller Williams, Coldwell Banker, and Re/Max have adapted to the technology threat, investing in agent tools and commission reforms of their own. Many independent agents also use discount brokerages or work on a flat-fee model with other proptech companies. Real's competitive advantage is not proprietary software—competitors can build similar platforms. Instead, it is the sum of a lower fee structure, a functional software platform, ancillary services, and cultural appeal to agents who want independence.
+However, Real competes in a [fragmented market](/fragmented-market/). Traditional brokerages like Keller Williams, Coldwell Banker, and Re/Max have adapted to the technology threat, investing in agent tools and commission reforms of their own. Many independent agents also use discount brokerages or work on a flat-fee model with other proptech companies. Real's competitive advantage is not proprietary software—competitors can build similar platforms. Instead, it is the sum of a lower fee structure, a functional software platform, ancillary services, and cultural appeal to agents who want independence.
 
 ## Rapid growth in 2024 and the RE/MAX acquisition
 

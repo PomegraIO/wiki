@@ -32,7 +32,7 @@ The single greatest risk is that the company cannot generate sufficient event at
 
 A second risk is fighter retention and talent. Building a successful MMA organization requires a stable of compelling fighters with legitimate skills and personality. Young fighters are always looking to move up to the UFC or other larger organizations; without consistent competitive advantage, Xtreme One will struggle to retain them. Losing key fighters to competitors without being able to replace them undermines event quality and audience interest.
 
-Finally, there is execution risk. Xtreme One rebranded from a dormant cannabis shell to an entertainment company in 2023. The company must prove it can produce compelling live events, manage broadcast and streaming logistics, handle fighter contracts and compliance, and market the product effectively. These are operational competencies that require skilled execution and investment. A single major event failure, safety incident, or regulatory issue could damage the brand significantly.
+Finally, there is [execution risk](/execution-risk/). Xtreme One rebranded from a dormant cannabis shell to an entertainment company in 2023. The company must prove it can produce compelling live events, manage broadcast and streaming logistics, handle fighter contracts and compliance, and market the product effectively. These are operational competencies that require skilled execution and investment. A single major event failure, safety incident, or regulatory issue could damage the brand significantly.
 
 ## What to watch
 

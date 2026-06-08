@@ -32,7 +32,7 @@ Now scale that over weeks and months. AMPX, as a volatile biotech-style stock, w
 
 ## The opportunity cost
 
-Beyond the decay risk, there is a real opportunity cost: the margin or swap financing costs that underlie the leverage. AMPU holds AMPX shares (or derivative instruments that replicate the exposure) and borrows or enters into derivative contracts to add the second X of leverage. That financing costs something — usually a small percentage daily, but it compounds. On a quiet day when AMPX gains 0.5 percent, the leverage might capture 1 percent before financing costs eat 0.08 percent, netting 0.92 percent. The costs are published in the fund's [expense ratio](/expense-ratio/), but they are real drags on returns.
+Beyond the decay risk, there is a real opportunity cost: the margin or swap financing costs that underlie the leverage. AMPU holds AMPX shares (or derivative instruments that replicate the exposure) and borrows or enters into [derivative contracts](/derivative-contract/) to add the second X of leverage. That financing costs something — usually a small percentage daily, but it compounds. On a quiet day when AMPX gains 0.5 percent, the leverage might capture 1 percent before financing costs eat 0.08 percent, netting 0.92 percent. The costs are published in the fund's [expense ratio](/expense-ratio/), but they are real drags on returns.
 
 ## Sector and company risk
 

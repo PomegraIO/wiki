@@ -31,7 +31,7 @@ A dollar of investment management revenue depends entirely on assets under manag
 
 ## The balance sheet and capital constraints
 
-Morgan Stanley is a bank holding company and therefore subject to regulatory capital requirements. The firm must hold minimum amounts of equity capital relative to its risk-weighted assets, which constrains how much leverage it can employ. A dollar of equity can support many dollars of assets and liabilities only if the regulator agrees the firm is sound. During crises or periods of high uncertainty, regulators tighten these requirements, which forces the firm to either raise new equity (dilutive) or shrink assets (contractionary).
+Morgan Stanley is a bank holding company and therefore subject to regulatory capital requirements. The firm must hold minimum amounts of equity capital relative to its [risk-weighted assets](/risk-weighted-assets/), which constrains how much leverage it can employ. A dollar of equity can support many dollars of assets and liabilities only if the regulator agrees the firm is sound. During crises or periods of high uncertainty, regulators tighten these requirements, which forces the firm to either raise new equity (dilutive) or shrink assets (contractionary).
 
 The firm runs a large securities trading portfolio and takes principal risk — meaning it will be harmed if values move against its positions. It also earns investment banking fees on deals it won't know the outcome of until months or years hence. These characteristics mean earnings can be lumpy and difficult to forecast.
 

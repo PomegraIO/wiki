@@ -39,9 +39,9 @@ The incentive structure is built into the deal economics. BHAV's sponsors are mo
 
 ## The transaction risk and the path to public markets
 
-A SPAC is fundamentally a bet on the sponsors' ability to find, negotiate, and close a suitable merger. There is execution risk: the SPAC might not find a target it likes, or might find one but fail to agree on deal terms, or might reach agreement but face shareholder opposition or regulatory hurdles. There is also the risk that the chosen target is a weaker business than the sponsors initially believed, and the merged company struggles after going public.
+A SPAC is fundamentally a bet on the sponsors' ability to find, negotiate, and close a suitable merger. There is [execution risk](/execution-risk/): the SPAC might not find a target it likes, or might find one but fail to agree on deal terms, or might reach agreement but face shareholder opposition or regulatory hurdles. There is also the risk that the chosen target is a weaker business than the sponsors initially believed, and the merged company struggles after going public.
 
-The SPAC structure has become controversial. Critics argue that the inherent conflicts of interest—sponsors earning a return regardless of whether shareholders do well—incentivize them to close *any* deal rather than a *good* deal. The process also provides less scrutiny and disclosure than a traditional IPO, where the company works with an investment bank and must publish a detailed prospectus. Some private companies that went public via SPAC have stumbled significantly, raising questions about due diligence and honesty in the process.
+The SPAC structure has become controversial. Critics argue that the inherent conflicts of interest—sponsors earning a return regardless of whether shareholders do well—incentivize them to close *any* deal rather than a *good* deal. The process also provides less scrutiny and disclosure than a traditional IPO, where the company works with an investment bank and must publish a detailed prospectus. Some private companies that went public via SPAC have stumbled significantly, raising questions about [due diligence](/due-diligence/) and honesty in the process.
 
 ## Capital structure and the dilution effect
 

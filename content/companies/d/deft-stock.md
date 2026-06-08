@@ -17,9 +17,9 @@ keywords: ["cryptocurrency", "decentralized finance", "DeFi", "blockchain", "dig
 
 ## Business Model and Portfolio Approach
 
-Unlike a traditional financial services company, DEFT operates as a holding company and venture platform. The company acquires, develops, and operates DeFi protocols (smart contracts that enable lending, trading, or asset management on blockchains), manages investment funds tracking digital assets, and builds technology infrastructure. Revenue comes from multiple sources: transaction fees from protocols, [management fees](/management-fee/) from digital-asset investment products, staking rewards, and equity interests in portfolio companies.
+Unlike a traditional financial services company, DEFT operates as a holding company and venture platform. The company acquires, develops, and operates DeFi protocols ([smart contracts](/smart-contract/) that enable lending, trading, or asset management on blockchains), manages investment funds tracking digital assets, and builds technology infrastructure. Revenue comes from multiple sources: transaction fees from protocols, [management fees](/management-fee/) from digital-asset investment products, staking rewards, and equity interests in portfolio companies.
 
-The DeFi ecosystem is fragmented: thousands of protocols compete to offer lending, derivatives, asset swaps, and liquidity provision. Most are open-source and permissionless, meaning anyone can fork the code and launch a competitor. DEFT's advantage lies in capital, brand, technical expertise, and ability to bring protocols to mainstream users and institutions. The company functions partly as developer, partly as investor, partly as operator.
+The DeFi ecosystem is fragmented: thousands of protocols compete to offer lending, derivatives, [asset swaps](/asset-swap/), and liquidity provision. Most are open-source and permissionless, meaning anyone can fork the code and launch a competitor. DEFT's advantage lies in capital, brand, technical expertise, and ability to bring protocols to mainstream users and institutions. The company functions partly as developer, partly as investor, partly as operator.
 
 ## Revenue and Growth Vectors
 
@@ -47,7 +47,7 @@ The company is also exposed to technological risk: a security vulnerability in a
 
 ## Asset Management and Institutional Distribution
 
-DEFT's investment products (cryptocurrency index funds, digital-asset strategies) aim to capitalize on demand from institutions and retail investors seeking exposure to digital assets without direct custody or operational complexity. The company may manage these products itself or partner with fund administrators and [custodians](/custodian/). Management fees from assets under management are a high-margin, recurring revenue stream if the company can attract and retain capital.
+DEFT's investment products (cryptocurrency index funds, digital-asset strategies) aim to capitalize on demand from institutions and retail investors seeking exposure to digital assets without direct custody or operational complexity. The company may manage these products itself or partner with [fund administrators](/fund-administrator/) and [custodians](/custodian/). Management fees from assets under management are a high-margin, recurring revenue stream if the company can attract and retain capital.
 
 Institutional adoption of crypto has grown, but it remains a small fraction of total institutional [asset allocation](/asset-allocation/). DEFT's ability to scale this business depends on regulatory clarity, custody solutions, and demonstrated long-term returns. A prolonged [bear market](/bear-market/) in digital assets can see significant outflows and reduced fee revenue.
 

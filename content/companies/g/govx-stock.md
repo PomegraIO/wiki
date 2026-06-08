@@ -4,7 +4,7 @@ description: "Clinical-stage vaccine developer dependent on successful execution
 keywords: ["vaccine development", "clinical trials", "regulatory approval", "biotech risk", "immunology"]
 ---
 
-*GeoVax Labs, Inc. (GOVX) is a small-cap biotechnology company focused on vaccine development, with a platform technology centered on viral-vector-based approaches. The company's entire value proposition rests on its ability to advance candidates through clinical trials, secure regulatory approval, and ultimately commercialize vaccines—a pathway littered with failures, setbacks, and compounds that stumble in late-stage development despite promising preclinical data. **GOVX faces acute clinical execution risk, partner dependency, and a long runway to revenue.***
+*GeoVax Labs, Inc. (GOVX) is a small-cap biotechnology company focused on vaccine development, with a platform technology centered on viral-vector-based approaches. The company's entire value proposition rests on its ability to advance candidates through clinical trials, secure regulatory approval, and ultimately commercialize vaccines—a pathway littered with failures, setbacks, and compounds that stumble in late-stage development despite promising preclinical data. **GOVX faces acute clinical [execution risk](/execution-risk/), partner dependency, and a long runway to revenue.***
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GOVX</td></tr>

@@ -40,7 +40,7 @@ Cardiff Lexington operates within the indexed securities industry, a space where
 
 ## References and Research Path
 
-Researchers investigating Cardiff Lexington should consult the firm's annual [10-K](/10-k/) filing with the SEC, which details the trust's structure, counterparty relationships, and geographic exposures. The filing will specify custodians, counterparties, and jurisdictional concentrations. Delaware's corporate database provides the trust's amended and restated documents, which define the governance structure. The [Securities and Exchange Commission](/securities-and-exchange-commission/) Edgar database allows researchers to track changes in the firm's structured products and regulatory filings over time.
+Researchers investigating Cardiff Lexington should consult the firm's annual [10-K](/10-k/) filing with the SEC, which details the trust's structure, counterparty relationships, and geographic exposures. The filing will specify custodians, counterparties, and jurisdictional concentrations. Delaware's corporate database provides the trust's amended and restated documents, which define the governance structure. The [Securities and Exchange Commission](/securities-and-exchange-commission/) Edgar database allows researchers to track changes in the firm's [structured products](/structured-product/) and regulatory filings over time.
 
 <div class="wiki-seealso">
 ### Closely related

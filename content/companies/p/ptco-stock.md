@@ -29,7 +29,7 @@ Without operating cash flow, PetroGas funds all exploration and development acti
 
 PetroGas faces substantial going-concern doubts. The company has stated explicitly in its SEC filings that it has not generated revenue from operations and will need additional working capital to service debt and fund ongoing operations. Without new capital or a major discovery and production ramp-up, the company cannot sustain operations indefinitely. The accumulated deficit of $142 million represents more than a decade of negative [free cash flow](/free-cash-flow/), and the company has not demonstrated that its properties can be developed profitably at current commodity prices.
 
-The commodity risk is real. Oil and gas prices fluctuate with global supply and demand. A company that has never produced cannot know whether its reserves will be economic at future prices. If oil prices fall significantly, the company's development prospects become less attractive, even if exploration wells prove the presence of hydrocarbons.
+The [commodity risk](/commodity-risk/) is real. Oil and gas prices fluctuate with global supply and demand. A company that has never produced cannot know whether its reserves will be economic at future prices. If oil prices fall significantly, the company's development prospects become less attractive, even if exploration wells prove the presence of hydrocarbons.
 
 ## How does this compare to producers?
 

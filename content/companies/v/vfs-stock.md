@@ -58,7 +58,7 @@ First, competitive intensity. The EV market has room for winners, but it is crow
 
 Second, capital constraints. If Vingroup's appetite for losses diminishes — due to its own financial pressures or a change in founder priorities — VinFast will be forced to reduce spending or raise capital at a much lower valuation. Either scenario is painful.
 
-Third, execution risk. The company must improve quality, reduce manufacturing costs, and grow volumes all at once. Automaking has humbled far more experienced competitors than VinFast.
+Third, [execution risk](/execution-risk/). The company must improve quality, reduce manufacturing costs, and grow volumes all at once. Automaking has humbled far more experienced competitors than VinFast.
 
 Fourth, geopolitical risk. Expansion into the United States faces regulatory and political headwinds around Chinese (and by extension, Southeast Asian) investment in automotive manufacturing. Tariffs or restrictions could choke off margin or limit market access.
 

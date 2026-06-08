@@ -22,7 +22,7 @@ Between raw quantum hardware and the enterprises wanting to use it sits a middle
 
 ## Suppliers and infrastructure: the enabling layer
 
-Building and running quantum computers requires specialized classical infrastructure. There are chip designers making the control computers that orchestrate quantum systems, cryogenic equipment vendors, semiconductor material and substrate suppliers, and telecommunications companies developing quantum-safe cryptography and quantum networking. These suppliers sit further from the quantum narrative but participate in the entire value chain. They also carry lower execution risk: a cryogenic equipment manufacturer survives and profits even if quantum computing remains perpetually on the horizon rather than arriving. Their quantum revenue is often a small slice of larger classical operations that trade on other fundamentals.
+Building and running quantum computers requires specialized classical infrastructure. There are chip designers making the control computers that orchestrate quantum systems, cryogenic equipment vendors, semiconductor material and substrate suppliers, and telecommunications companies developing quantum-safe cryptography and quantum networking. These suppliers sit further from the quantum narrative but participate in the entire value chain. They also carry lower [execution risk](/execution-risk/): a cryogenic equipment manufacturer survives and profits even if quantum computing remains perpetually on the horizon rather than arriving. Their quantum revenue is often a small slice of larger classical operations that trade on other fundamentals.
 
 ## Diversified tech and research divisions: large-company bets
 

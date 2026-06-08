@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Shawbrook Group plc is a bank in the United Kingdom that focuses on small-business lending and consumer finance. It runs several brands—Shawbrook Bank, Exact Mortgages, and others—that each target a different customer base. The company lends to small and medium-sized enterprises (SMEs) for equipment and working capital, provides mortgages to buy-to-let investors and owner-occupiers, offers personal loans for car purchases and home improvements, and accepts savings deposits from customers who want higher [interest rates](/interest-rate/) than big banks offer. In the United States, you can buy Shawbrook shares through American Depositary Shares under the ticker SWBKY, which trade on the OTC Markets.
+Shawbrook Group plc is a bank in the United Kingdom that focuses on small-business lending and consumer finance. It runs several brands—Shawbrook Bank, Exact Mortgages, and others—that each target a different customer base. The company lends to small and medium-sized enterprises (SMEs) for equipment and working capital, provides mortgages to buy-to-let investors and owner-occupiers, offers personal loans for car purchases and home improvements, and accepts savings deposits from customers who want higher [interest rates](/interest-rate/) than big banks offer. In the United States, you can buy Shawbrook shares through American [Depositary Shares](/depositary-share/) under the ticker SWBKY, which trade on the OTC Markets.
 
 <aside class="wiki-infobox">
 <table>

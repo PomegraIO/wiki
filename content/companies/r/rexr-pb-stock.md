@@ -60,6 +60,6 @@ Industrial property is a competitive market, and other REITs focus on similar ge
 
 ## How to research Rexford
 
-Start with Rexford's quarterly earnings reports and annual 10-K filing, which detail the portfolio's composition, lease expiration schedule, occupancy rates, and rent-roll statistics. Pay attention to the weighted-average lease term — a portfolio with short remaining lease terms faces more refinancing and repricing risk. Watch comparable property prices in the Southern California industrial market to gauge whether Rexford's assets are appreciating or facing headwinds.
+Start with Rexford's quarterly earnings reports and annual 10-K filing, which detail the portfolio's composition, lease expiration schedule, occupancy rates, and rent-roll statistics. Pay attention to the weighted-average lease term — a portfolio with short remaining lease terms faces more refinancing and [repricing risk](/interest-rate-risk-repricing/). Watch comparable property prices in the Southern California industrial market to gauge whether Rexford's assets are appreciating or facing headwinds.
 
 Monitor Fed policy and long-term interest-rate expectations, since both directly affect REIT valuations. And follow broader supply-chain trends; any sustained shift in freight volumes or logistics demand would directly affect Rexford's tenant universe and rent growth.

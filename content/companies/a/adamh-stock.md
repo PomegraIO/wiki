@@ -28,7 +28,7 @@ The portfolio is not static. Fund managers may move cash into new fund vehicles 
 
 Professional valuation specialists estimate the [fair value](/fair-value/) of each underlying fund stake quarterly or annually. The fund's total assets, less liabilities and fees, divided by the number of shares outstanding, yields NAV per share. ADAMH and ADAMM share the same underlying fund, so their NAVs are related, though fee structures may create slight differences.
 
-Closed-end fund discounts and premiums reflect investor sentiment and expectations about private-market performance. A widening discount can signal investor doubt about venture-capital returns, tech startup viability, or the fund manager's skill. A shrinking discount or premium suggests growing confidence. Savvy investors sometimes exploit discounts by buying shares trading cheap relative to NAV, betting the discount will narrow. Conversely, insiders and long-term holders understand that overpaying for a premium is a path to underperformance.
+[Closed-end fund discounts](/closed-end-fund-discount/) and premiums reflect investor sentiment and expectations about private-market performance. A widening discount can signal investor doubt about venture-capital returns, tech startup viability, or the fund manager's skill. A shrinking discount or premium suggests growing confidence. Savvy investors sometimes exploit discounts by buying shares trading cheap relative to NAV, betting the discount will narrow. Conversely, insiders and long-term holders understand that overpaying for a premium is a path to underperformance.
 
 ## Distribution policy and cash flows
 

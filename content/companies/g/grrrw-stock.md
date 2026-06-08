@@ -64,4 +64,4 @@ Warrant holders should track Gorilla's product announcements, new hardware relea
 
 Investors evaluating GRRRW should review Gorilla's SEC filings (annual 10-K and quarterly 10-Q reports under CIK 0001903145) to assess revenue growth, gross margins, operating profitability or cash burn, and the split between hardware, deployment, and services revenue. The company's comments on customer wins, pipeline, and geographic expansion are important colour. Warrant holders should verify the [strike price](/strike-price/), [expiration date](/expiration-date/), and any make-whole provisions, and assess the liquidity and trading volume of GRRRW on its listing venue.
 
-The edge computing market is real and growing, but Gorilla faces intense competition and execution risk. Warrant holders have leverage to this outcome—both on the upside and downside.
+The edge computing market is real and growing, but Gorilla faces intense competition and [execution risk](/execution-risk/). Warrant holders have leverage to this outcome—both on the upside and downside.

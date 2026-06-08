@@ -45,7 +45,7 @@ Universities and educational institutions that participate in IDP's student recr
 
 ## Regulatory and Reputational Risk
 
-Education services are regulated industries; immigration authorities and educational accreditors scrutinize agent conduct. IDP is exposed to reputational risk if its practices are perceived as exploitative, overly sales-focused, or indifferent to student outcomes. A regulatory investigation or negative media coverage could reduce institutional partners' willingness to use IDP's services. Additionally, IDP's role in student recruitment places it in a position where it is simultaneously profiting from and facilitating student migration, creating potential for perception of conflicts of interest (recruitment agents incentivized to maximize enrollments rather than student success).
+Education services are regulated industries; immigration authorities and educational accreditors scrutinize agent conduct. IDP is exposed to [reputational risk](/reputational-risk/) if its practices are perceived as exploitative, overly sales-focused, or indifferent to student outcomes. A regulatory investigation or negative media coverage could reduce institutional partners' willingness to use IDP's services. Additionally, IDP's role in student recruitment places it in a position where it is simultaneously profiting from and facilitating student migration, creating potential for perception of conflicts of interest (recruitment agents incentivized to maximize enrollments rather than student success).
 
 ## Secular Trends in International Education
 

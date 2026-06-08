@@ -41,7 +41,7 @@ Supply-chain and logistics issues also weigh more heavily on small players. Dela
 
 ## Capital structure and funding
 
-OneConstruction went public via NASDAQ listing in the 2024–2025 period, which allowed founders and early investors to liquidate and supplied the company with growth capital. The exact post-IPO capital structure depends on the offer size and pricing, but small-cap IPOs typically provide modest cushion for working-capital swings and project losses. The public market scrutiny—quarterly reporting, investor expectations for growth—can also pressure management to pursue larger projects or geographic expansion faster than prudent, creating execution risk.
+OneConstruction went public via NASDAQ listing in the 2024–2025 period, which allowed founders and early investors to liquidate and supplied the company with growth capital. The exact post-IPO capital structure depends on the offer size and pricing, but small-cap IPOs typically provide modest cushion for working-capital swings and project losses. The public market scrutiny—quarterly reporting, investor expectations for growth—can also pressure management to pursue larger projects or geographic expansion faster than prudent, creating [execution risk](/execution-risk/).
 
 The company will face pressure to grow revenue or demonstrate clear profit expansion to justify a public valuation; failure to meet market expectations can lead to share-price weakness and reduced access to capital for future growth.
 
@@ -55,4 +55,4 @@ Start with the company's SEC filings under CIK 0002030834. The annual 10-K and q
 - **Working-capital dynamics**: Changes in [accounts receivable](/accounts-receivable/) and payable can reveal payment-cycle stress.
 - **Hong Kong construction activity**: Watch public infrastructure spending and new-start data for the Hong Kong market; OneConstruction's revenue is highly sensitive to the local cycle.
 
-Competitive context matters: comparing OneConstruction's margins, revenue per employee, and backlog metrics to larger, listed steelwork companies elsewhere helps frame the structural challenges of being small in a capital-intensive, project-driven industry.
+Competitive context matters: comparing OneConstruction's margins, [revenue per employee](/revenue-per-employee/), and backlog metrics to larger, listed steelwork companies elsewhere helps frame the structural challenges of being small in a capital-intensive, project-driven industry.

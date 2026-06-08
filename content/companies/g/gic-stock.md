@@ -30,7 +30,7 @@ If GIC loses a major account—because a customer merged with a rival, shifted p
 
 GIC must maintain inventory to serve customer demand immediately; it cannot source products just-in-time from Asia and wait for shipment. This inventory is financed, either on the [balance sheet](/balance-sheet/) (cash tied up) or through vendor credit. In a recession, inventory values can drop (if commodity prices fall) or become obsolete (if demand disappears). In an inflationary environment, GIC must buy inventory at rising costs and carry it at depressed turnover, straining [cash flow](/free-cash-flow/) before the company can raise prices on customers.
 
-Working-capital management is the invisible art of distribution; most GIC investors ignore it until it breaks. A sudden shift in the inventory-to-sales ratio—because the company overestimated demand, or customer demand plummeted unexpectedly—can force a working-capital crunch and limit the company's ability to pay [dividends](/dividend/) or service debt.
+Working-capital management is the invisible art of distribution; most GIC investors ignore it until it breaks. A sudden shift in the [inventory-to-sales ratio](/inventory-to-sales-ratio/)—because the company overestimated demand, or customer demand plummeted unexpectedly—can force a working-capital crunch and limit the company's ability to pay [dividends](/dividend/) or service debt.
 
 ## Technological Disruption and the E-Commerce Threat
 

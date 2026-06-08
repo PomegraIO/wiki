@@ -32,7 +32,7 @@ The challenge of any oil producer is that reservoirs deplete. A well that produc
 
 ## Natural gas and liquids
 
-Whitecap also produces natural gas and natural gas liquids (condensate and other light hydrocarbon byproducts). The gas component brings in less cash per unit than crude oil, but it is meaningful. Gas contracts are often tied to heating-season demand in winter and are subject to basis discounts depending on where the gas is produced relative to pipeline infrastructure and export markets. Liquids — propane, butane, ethane — are extracted alongside the oil and can be marketed separately, often at favorable prices if crude is high.
+Whitecap also produces natural gas and [natural gas liquids](/natural-gas-liquids/) (condensate and other light hydrocarbon byproducts). The gas component brings in less cash per unit than crude oil, but it is meaningful. Gas contracts are often tied to heating-season demand in winter and are subject to basis discounts depending on where the gas is produced relative to pipeline infrastructure and export markets. Liquids — propane, butane, ethane — are extracted alongside the oil and can be marketed separately, often at favorable prices if crude is high.
 
 The three revenue streams — crude, gas, and liquids — give Whitecap some [diversification](/diversification/), but crude is the swing factor. In a downturn, gas and liquids support cash flow even if oil prices collapse. In a strong market, the crude upside drives outsized returns.
 

@@ -17,7 +17,7 @@ keywords: [gold mining, junior miner, exploration, development stage, Canada, SE
 
 ## Exploration to Production: Junior Miner's Role
 
-The value chain in gold mining spans from prospecting (locating ore bodies) through development (proving geological reserves and designing a mine) to production (extracting and refining ore) to sales and closure. Large integrated mining companies (majors) control most of this chain themselves. Junior miners like First Mining Gold specialize in the early stages—prospecting and development—where capital requirements are lower but geological and execution risk is higher.
+The value chain in gold mining spans from prospecting (locating ore bodies) through development (proving geological reserves and designing a mine) to production (extracting and refining ore) to sales and closure. Large integrated mining companies (majors) control most of this chain themselves. Junior miners like First Mining Gold specialize in the early stages—prospecting and development—where capital requirements are lower but geological and [execution risk](/execution-risk/) is higher.
 
 A junior exploration company holds claims (government-granted rights to explore and develop mineral deposits) on lands believed to contain gold. It funds geological surveys, drilling programs, and metallurgical tests to determine whether ore exists in economically viable quantities and whether it can be extracted at a profit. The company is essentially answering the question: is there a mineable deposit here, and if so, how large and how rich?
 

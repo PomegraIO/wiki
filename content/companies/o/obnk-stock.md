@@ -46,7 +46,7 @@ The minimum investment is ten thousand dollars. That is higher than buying Bitco
 
 A grantor trust is a specific legal structure where the person who created the trust is treated as the owner for tax purposes, even though legally the trust owns the asset. For OBNK, shareholders own the trust indirectly and have tax obligations based on their proportional ownership of the underlying Bitcoin.
 
-This structure was chosen for specific tax and regulatory reasons: it keeps the trust simple, avoids double taxation, and clearly establishes ownership stakes. Shareholders get a K-1 form (or equivalent) showing their share of any gains or losses on the Bitcoin held, and they owe taxes on those gains the same way they would if they owned Bitcoin directly. The trust itself does not pay taxes on the gain—the shareholders do.
+This structure was chosen for specific tax and regulatory reasons: it keeps the trust simple, avoids [double taxation](/double-taxation/), and clearly establishes ownership stakes. Shareholders get a K-1 form (or equivalent) showing their share of any gains or losses on the Bitcoin held, and they owe taxes on those gains the same way they would if they owned Bitcoin directly. The trust itself does not pay taxes on the gain—the shareholders do.
 
 ## Custody and operational risk
 

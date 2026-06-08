@@ -16,7 +16,7 @@ BFJA wraps exposure to [Bitcoin](/bitcoin/) inside a monthly options collar that
 
 ## What a Bitcoin buffer ETF actually does
 
-BFJA does not hold Bitcoin directly; instead, it gains exposure through a total-return swap, a [futures contract](/futures-contract/), or a fund-of-funds structure that delivers Bitcoin's performance. On the first trading day of each month, the fund's sponsor (Fintech Vest, part of the FT Vest suite) establishes a new collar around that Bitcoin position. The [protective put](/protective-put/) sets a floor at minus 15% — if Bitcoin falls more than 15% in the calendar month, the holder's maximum loss is 15%. The short call sets a ceiling — if Bitcoin rallies 60%, the holder captures up to that cap, say, 25% or 30%, and the excess is kept by the option writer (typically a dealer hedging the risk).
+BFJA does not hold Bitcoin directly; instead, it gains exposure through a total-return swap, a [futures contract](/futures-contract/), or a fund-of-funds structure that delivers Bitcoin's performance. On the first trading day of each month, the fund's sponsor (Fintech Vest, part of the FT Vest suite) establishes a new collar around that Bitcoin position. The [protective put](/protective-put/) sets a floor at minus 15% — if Bitcoin falls more than 15% in the calendar month, the holder's maximum loss is 15%. The short call sets a ceiling — if Bitcoin rallies 60%, the holder captures up to that cap, say, 25% or 30%, and the excess is kept by the [option writer](/option-writer/) (typically a dealer hedging the risk).
 
 ## Why Bitcoin needs a floor more than stocks do
 
@@ -30,7 +30,7 @@ This monthly reset structure is entirely different from holding [put options](/p
 
 ## Costs and the cash drag
 
-Operating a Bitcoin buffer ETF is expensive. The fund must actively manage the collar each month, which requires dealer relationships and operational sophistication. The [expense ratio](/expense-ratio/) reflects this. Beyond that, Bitcoin itself incurs custody and operational costs — a fund must safely store or tokenize the underlying exposure, which is not free. The true cost of the buffer is the capped upside — opportunity cost, not a fee — but the layers of operational costs chip away at returns even in months where the buffer and ceiling do not bind.
+Operating a Bitcoin [buffer ETF](/buffer-etf/) is expensive. The fund must actively manage the collar each month, which requires dealer relationships and operational sophistication. The [expense ratio](/expense-ratio/) reflects this. Beyond that, Bitcoin itself incurs custody and operational costs — a fund must safely store or tokenize the underlying exposure, which is not free. The true cost of the buffer is the capped upside — opportunity cost, not a fee — but the layers of operational costs chip away at returns even in months where the buffer and ceiling do not bind.
 
 If Bitcoin is in a sustained [bull market](/bull-market/), BFJA will significantly underperform a simple Bitcoin holding because the ceiling will be hit month after month. An investor in BFJA giving up 25% of the upside should know that going in.
 

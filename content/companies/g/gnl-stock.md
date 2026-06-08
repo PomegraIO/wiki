@@ -48,7 +48,7 @@ GNL must also monitor whether leases have escalation clauses tied to [inflation]
 
 GNL's growth depends on the ability to acquire properties at returns above cost of capital. In a rising-rate or rising-cap-rate environment, acquisition cap rates widen (property yields rise), making new acquisitions more attractive. Conversely, when cap rates compress, acquisition yields shrink, and GNL cannot achieve adequate spreads on new deals. The company may then slow acquisition, hold cash, and wait for better opportunities. This creates lumpy acquisition cycles aligned with market conditions.
 
-A REIT that grows aggressively late in a real estate cycle (when cap rates are compressed and prices are high) locks in low yields and faces margin pressure when the cycle turns. A REIT that acquires conservatively through booms and aggressively in busts generates better long-term returns. GNL's acquisition timing and discipline shape its long-term value creation.
+A REIT that grows aggressively late in a [real estate cycle](/real-estate-cycle/) (when cap rates are compressed and prices are high) locks in low yields and faces margin pressure when the cycle turns. A REIT that acquires conservatively through booms and aggressively in busts generates better long-term returns. GNL's acquisition timing and discipline shape its long-term value creation.
 
 ## Tenant Concentration and Macro Sensitivity
 

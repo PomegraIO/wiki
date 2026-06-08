@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **First Trust AAA CMBS ETF (CAAA)** is an actively managed exchange-traded fund that invests primarily in commercial mortgage-backed securities rated AAA at the time of purchase. CMBS are [bonds](/bond/) secured by pools of mortgages on commercial office buildings, apartment complexes, hotels, shopping centres, and other revenue-generating properties.*
+*The **First Trust AAA CMBS ETF (CAAA)** is an actively managed exchange-traded fund that invests primarily in [commercial mortgage-backed securities](/commercial-mortgage-backed-securities/) rated AAA at the time of purchase. CMBS are [bonds](/bond/) secured by pools of mortgages on commercial office buildings, apartment complexes, hotels, shopping centres, and other revenue-generating properties.*
 
 <aside class="wiki-infobox">
 
@@ -51,4 +51,4 @@ CMBS trade less frequently than Treasury bonds or investment-grade [corporate bo
 
 CAAA attracts yield-seeking investors who hold fixed income for current income rather than capital appreciation—retirees, bond funds, and strategies requiring a steady stream of cash. The fund is not meant for investors concerned primarily with capital preservation in a downturn; those seeking AAA-equivalent safety typically prefer US Treasuries or investment-grade corporate bonds with more robust [secondary markets](/secondary-market/).
 
-Readers evaluating the fund should review the prospectus, which details the composition of the underlying CMBS pool, the average loan-to-value ratio of the mortgages, and the properties' geographic and sectoral makeup. First Trust publishes holdings data regularly, and watching trends in [commercial real estate](/commercial-real-estate/)—office vacancy rates, retail foot traffic, and hotel occupancy—provides context for understanding the collateral's outlook.
+Readers evaluating the fund should review the prospectus, which details the composition of the underlying CMBS pool, the average [loan-to-value ratio](/loan-to-value-ratio/) of the mortgages, and the properties' geographic and sectoral makeup. First Trust publishes holdings data regularly, and watching trends in [commercial real estate](/commercial-real-estate/)—office [vacancy rates](/vacancy-rate-property/), retail foot traffic, and hotel occupancy—provides context for understanding the collateral's outlook.

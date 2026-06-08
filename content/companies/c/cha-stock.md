@@ -46,7 +46,7 @@ Like many small-cap holding companies, Chagee may face scrutiny around related-p
 
 ## Path Forward and Key Questions
 
-For any investor considering Chagee, the core questions pivot on execution risk, not [market risk](/market-risk/). Is management capable of identifying and integrating acquisitions without overpaying? Can the company differentiate its brands in a crowded segment? What is the debt load, and what happens to it if a recession dampens discretionary spending? A [10-K](/10-k/) deep-dive would reveal the balance-sheet structure, segment performance, and management's track record. Small-cap holding companies can deliver outsized returns, but only if their bets on niche brands prove durable and their capital allocation is disciplined. For Chagee, those ifs are substantial.
+For any investor considering Chagee, the core questions pivot on [execution risk](/execution-risk/), not [market risk](/market-risk/). Is management capable of identifying and integrating acquisitions without overpaying? Can the company differentiate its brands in a crowded segment? What is the debt load, and what happens to it if a recession dampens discretionary spending? A [10-K](/10-k/) deep-dive would reveal the balance-sheet structure, segment performance, and management's track record. Small-cap holding companies can deliver outsized returns, but only if their bets on niche brands prove durable and their capital allocation is disciplined. For Chagee, those ifs are substantial.
 
 <div class="wiki-seealso">
 ### Closely related

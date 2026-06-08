@@ -39,7 +39,7 @@ Beyond the refineries themselves, HF Sinclair operates logistics infrastructure:
 
 ## The crack spread — how profit emerges
 
-The refining business profits from the spread between the input cost of crude oil and the output value of finished fuels and products. This is called the crack spread. If crude oil costs eighty dollars per barrel and the finished products from that barrel sell for ninety dollars, the twelve-dollar spread is gross profit — the refinery's "crack." Operating costs (labor, energy, maintenance, deprecities) are subtracted from the crack to arrive at operating profit.
+The refining business profits from the spread between the input cost of crude oil and the output value of finished fuels and products. This is called the [crack spread](/crack-spread/). If crude oil costs eighty dollars per barrel and the finished products from that barrel sell for ninety dollars, the twelve-dollar spread is gross profit — the refinery's "crack." Operating costs (labor, energy, maintenance, deprecities) are subtracted from the crack to arrive at operating profit.
 
 The crack spread is not stable. It widens and narrows based on supply and demand dynamics for crude oil relative to finished products. When crude oil is plentiful and demand for fuel is weak, the crack narrows. When crude is scarce or fuel demand spikes, the crack widens. Major geopolitical events, seasonal demand shifts, supply disruptions, and shifts in refinery utilization all move the crack.
 

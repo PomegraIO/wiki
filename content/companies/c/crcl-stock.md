@@ -48,7 +48,7 @@ The stablecoin market is nascent but competitive. Tether (USDT) is larger and mo
 
 Regulation is the larger uncertainty. The U.S. Congress and regulators have debated stablecoin legislation for years, and multiple proposals would impose strict capital requirements, regular attestations, and limits on which companies can issue stablecoins. Some proposals would effectively require issuers to be banks or bank-adjacent institutions. Circle has worked to position itself as a regulated player (it holds money-transmitter licenses in most U.S. states) and has been transparent about reserve backing, so it is better positioned than some competitors. But the outcome of legislation remains uncertain and could materially restrict Circle's business.
 
-Globally, the picture is even messier. The European Union is developing the Markets in Crypto-assets Regulation (MiCA), which will govern stablecoins in member states. Singapore, the UK, and other financial centers have launched consultations. Broadly, regulators seem to be moving toward permitting stablecoins that are well-backed and operated by reputable firms, but the details are in flux and could change quickly.
+Globally, the picture is even messier. The European Union is developing the [Markets in Crypto-assets Regulation](/mica-regulation/) (MiCA), which will govern stablecoins in member states. Singapore, the UK, and other financial centers have launched consultations. Broadly, regulators seem to be moving toward permitting stablecoins that are well-backed and operated by reputable firms, but the details are in flux and could change quickly.
 
 ## The business-model challenge
 

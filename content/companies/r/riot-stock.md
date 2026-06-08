@@ -59,7 +59,7 @@ The company's capital structure has been stressed during downturns. High debt le
 
 Bitcoin mining is highly competitive among a small number of public and private operators. Competition is based largely on electricity costs and capital availability, not on operational skill or innovation. Regulatory risk is also significant: some jurisdictions have discouraged or banned mining due to environmental concerns, requiring miners to relocate operations. Any significant shift in bitcoin's legal status or in global carbon policy could reshape the industry.
 
-The environmental narrative matters too. Bitcoin mining consumes enormous electricity; if much of that power comes from fossil fuels, it creates reputational risk and regulatory vulnerability. Riot and competitors have increasingly emphasized renewable and stranded power to address this concern.
+The environmental narrative matters too. Bitcoin mining consumes enormous electricity; if much of that power comes from fossil fuels, it creates [reputational risk](/reputational-risk/) and regulatory vulnerability. Riot and competitors have increasingly emphasized renewable and stranded power to address this concern.
 
 ## Reading the business
 

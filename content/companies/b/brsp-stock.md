@@ -17,7 +17,7 @@ keywords: [REIT, real-estate-investment-trust, commercial-real-estate, property-
 
 ## Lease Income and the Core Business Model
 
-BrightSpire owns [commercial real estate](/commercial-real-estate/) (office buildings, retail centers, industrial warehouses, or mixed-use properties) and leases space to tenants. A tenant signs a multi-year lease specifying rent per square foot per year, lease renewal terms, expense-sharing arrangements, and termination conditions. The rent is BrightSpire's top-line revenue. A 500,000-square-foot office building leased at $25 per square foot annually generates $12.5 million in annual gross lease income, assuming 100% occupancy.
+BrightSpire owns [commercial real estate](/commercial-real-estate/) (office buildings, retail centers, industrial warehouses, or mixed-use properties) and leases space to tenants. A tenant signs a multi-year lease specifying rent per square foot per year, lease renewal terms, expense-sharing arrangements, and termination conditions. The rent is BrightSpire's top-line revenue. A 500,000-square-foot office building leased at $25 per square foot annually generates $12.5 million in annual [gross lease](/gross-lease/) income, assuming 100% occupancy.
 
 Lease income is only "gross" revenue; operating costs must be deducted to arrive at [net operating income](/net-operating-income/) (NOI). Operating costs include real estate taxes, insurance, utilities, maintenance, property [management fees](/management-fee/), and capital repairs. In a landlord's lease structure, some of these costs may be passed to tenants through "triple net" (NNN) or "double net" (NN) clauses; in a "full-service" or "gross" lease, the landlord absorbs them. The structure varies by property type and lease vintage. Triple-net commercial leases are common for single-tenant or investment-grade properties where the landlord wants stable, predictable income; full-service leases are typical for multitenant properties where the landlord actively manages tenant relationships.
 
@@ -39,7 +39,7 @@ Example: A $100 million property with a 6% unleveraged yield generates $6 millio
 
 However, leverage amplifies losses. If [interest rates](/interest-rate/) rise and refinancing cost increases to 6%, or if property values fall and occupancy drops, the same property may generate only $4 million in NOI. After interest of $3.6 million, only $0.4 million remains for equity—a 1% return. Leverage magnifies both upside and downside.
 
-BrightSpire must manage its debt maturity profile, [refinancing risk](/refinancing-risk/), and covenant compliance carefully. Rising rates or declining property values can compress spreads and force asset sales at disadvantageous prices.
+BrightSpire must manage its [debt maturity profile](/debt-maturity-profile/), [refinancing risk](/refinancing-risk/), and covenant compliance carefully. Rising rates or declining property values can compress spreads and force asset sales at disadvantageous prices.
 
 ## Dividend Requirements and Taxable Income
 
@@ -51,7 +51,7 @@ BrightSpire's dividend sustainability depends on whether cash earnings exceed th
 
 ## Real Estate Sector and Economic Sensitivity
 
-BrightSpire's performance is closely tied to the health of its tenants' sectors and the broader real estate cycle. [Office REITs](/office-reit/) have faced structural headwinds as remote work has reduced demand for commercial office space; [retail REITs](/retail-reit/) have been pressured by e-commerce; [industrial REITs](/industrial-reit/) have benefited from logistics demand but are sensitive to supply-chain volatility.
+BrightSpire's performance is closely tied to the health of its tenants' sectors and the broader [real estate cycle](/real-estate-cycle/). [Office REITs](/office-reit/) have faced structural headwinds as remote work has reduced demand for commercial office space; [retail REITs](/retail-reit/) have been pressured by e-commerce; [industrial REITs](/industrial-reit/) have benefited from logistics demand but are sensitive to supply-chain volatility.
 
 Economic downturns increase tenant defaults and reduce property values. A [recession](/recession/) suppresses both rent growth (tenants renew at lower rates or leave) and property values (cap rates widen, reducing values), creating losses for equity holders. BrightSpire must maintain a portfolio resilient to sector and economic downturns, or accept the cyclical nature of REIT returns.
 

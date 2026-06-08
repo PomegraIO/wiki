@@ -4,7 +4,7 @@ description: "An independent oil and gas exploration and production company; exp
 keywords: ["oil and gas", "exploration", "E&P", "energy", "commodity prices"]
 ---
 
-*BATTALION OIL CORP (BATL) is an independent oil and gas exploration and production (E&P) company—a firm that owns, develops, and operates oil and gas leases in onshore and potentially offshore US basins. The company's revenues and profitability rise and fall with [crude oil](/crude-oil/) and [natural gas](/natural-gas/) prices; its asset base depends on geological success in finding and developing reserves; and its strategic options narrow as energy capital markets increasingly price in energy transition risks and impose cost-of-capital penalties on fossil-fuel producers. Battalion operates in a business increasingly at odds with capital-market sentiment and long-term energy decarbonization.*
+*BATTALION OIL CORP (BATL) is an independent oil and gas exploration and production (E&P) company—a firm that owns, develops, and operates oil and gas leases in onshore and potentially offshore US basins. The company's revenues and profitability rise and fall with [crude oil](/crude-oil/) and [natural gas](/natural-gas/) prices; its asset base depends on geological success in finding and developing reserves; and its strategic options narrow as energy capital markets increasingly price in [energy transition risks](/energy-transition-risk/) and impose cost-of-capital penalties on fossil-fuel producers. Battalion operates in a business increasingly at odds with capital-market sentiment and long-term energy decarbonization.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BATL</td></tr>

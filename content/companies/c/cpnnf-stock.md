@@ -25,7 +25,7 @@ Read this balance sheet by first identifying the property holdings. The 10-K or 
 
 Real-estate operators finance [acquisitions](/acquisition/) and development with secured debt. Mortgages are the norm: the bank or financial institution lends against the property, taking first lien. Central Pattana's liabilities side shows these secured loans. Look at the debt schedule: what is the total outstanding mortgage debt? What are the [interest rates](/interest-rate/), maturity dates, and [amortization](/amortization/) schedules? For a stable company, debt matures over 10–30 years, matching the useful life of the property.
 
-The debt-to-value ratio is critical. If Central Pattana has $800 million in property assets and $500 million in debt, the loan-to-value (LTV) is roughly 62.5%. This is typical for real-estate operators. However, if property values decline—market downturn, neighborhood deterioration—the equity cushion shrinks. If assets drop to $700 million while debt stays at $500 million, LTV rises to 71.4%, closer to distress territory.
+The debt-to-value ratio is critical. If Central Pattana has $800 million in property assets and $500 million in debt, the loan-to-value (LTV) is roughly 62.5%. This is typical for real-estate operators. However, if property values decline—market downturn, neighborhood deterioration—the [equity cushion](/equity-cushion/) shrinks. If assets drop to $700 million while debt stays at $500 million, LTV rises to 71.4%, closer to distress territory.
 
 ## Occupancy and Rent Revenue
 
@@ -47,7 +47,7 @@ Capitalized interest during construction also appears in the development asset l
 
 ## Foreign Currency and ADR Risk
 
-Central Pattana operates in Thailand; its balance sheet is reported in Thai baht. The firm issues an American Depositary Receipt (ADR) so US investors can own shares without currency hassles, but the underlying assets are in baht. If the Thai currency weakens against the [US dollar](/us-dollar/), the dollar value of Central Pattana's assets declines in translation, even if the properties themselves are unchanged. [Currency risk](/currency-risk/) is a balance-sheet issue for foreign operators.
+Central Pattana operates in Thailand; its balance sheet is reported in Thai baht. The firm issues an American [Depositary Receipt](/depositary-receipt/) (ADR) so US investors can own shares without currency hassles, but the underlying assets are in baht. If the Thai currency weakens against the [US dollar](/us-dollar/), the dollar value of Central Pattana's assets declines in translation, even if the properties themselves are unchanged. [Currency risk](/currency-risk/) is a balance-sheet issue for foreign operators.
 
 ## Leasehold vs. Freehold
 

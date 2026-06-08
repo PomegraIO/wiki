@@ -35,11 +35,11 @@ K&F Growth Acquisition Corp. II raised roughly $287.5 million in its initial pub
 
 K&F Growth's management—led by co-executives Edward King and Daniel Fetters—aims to acquire a company in the entertainment industry. Not movies or music primarily, but experiential entertainment: think consumer loyalty platforms, entertainment venues, regulated gaming, or similar businesses with durable customer relationships and secular growth tailwinds. The stated preference is for companies valued over $1 billion with defensible business models and exposure to stable or growing demand.
 
-The idea is that by bringing a private company public via SPAC merger, both the target company's founders and the SPAC's original shareholders benefit. The company gets access to public capital markets, liquidity for early shareholders, and a publicly traded currency it can use for future [acquisitions](/acquisition/) or growth. The SPAC's original shareholders get exposure to a real business instead of holding a shell. The sponsors and management team earn carried interest or board seats in the merged entity.
+The idea is that by bringing a private company public via SPAC merger, both the target company's founders and the SPAC's original shareholders benefit. The company gets access to public capital markets, liquidity for early shareholders, and a publicly traded currency it can use for future [acquisitions](/acquisition/) or growth. The SPAC's original shareholders get exposure to a real business instead of holding a shell. The sponsors and management team earn [carried interest](/carried-interest-compensation/) or board seats in the merged entity.
 
 ## The clock is ticking
 
-SPACs are not designed to sit idle. K&F Growth has until November 6, 2026, to announce a definitive merger agreement with a target company. If it fails to do so, it must liquidate and return the remaining trust account capital to its public shareholders. This deadline creates urgency: the sponsors and management have a finite window to source a deal, negotiate price and terms, conduct due diligence, and secure shareholder votes.
+SPACs are not designed to sit idle. K&F Growth has until November 6, 2026, to announce a [definitive merger agreement](/definitive-merger-agreement/) with a target company. If it fails to do so, it must liquidate and return the remaining trust account capital to its public shareholders. This deadline creates urgency: the sponsors and management have a finite window to source a deal, negotiate price and terms, conduct [due diligence](/due-diligence/), and secure shareholder votes.
 
 As of late 2025, the company had not signed a definitive merger agreement. That means roughly 18 months remained to find and close a deal—still feasible but with the clock visibly ticking.
 
@@ -67,7 +67,7 @@ The entertainment and experiential-business sector is broad. K&F's criteria—de
 
 Anyone considering SPAC shares should understand the redemption mechanics and the timeline. Read K&F's most recent quarterly filing (10-Q) and [annual report](/10-k/) (10-K) to understand the trust account balance, the amount of capital committed by sponsors and insiders, and any updates on merger discussions. The SEC filings also disclose risk factors, including the going-concern warning that K&F included in recent filings.
 
-Monitor news and press releases for any announcement of a merger target or preliminary negotiations. Once a target is announced, read the proxy statement that will be filed with the SEC—it contains financial projections, detailed business descriptions of the target, and pro forma financial statements showing what the combined company will look like.
+Monitor news and press releases for any announcement of a merger target or preliminary negotiations. Once a target is announced, read the [proxy statement](/proxy-statement/) that will be filed with the SEC—it contains financial projections, detailed business descriptions of the target, and pro forma financial statements showing what the combined company will look like.
 
 Key metrics to track: trust account balance (higher is better, as it means fewer redemptions), the composition of shareholdings (sponsors with significant skin in the game are preferable to sponsors with minimal stakes), and any commentary on deal progress. Remember that SPAC shares trade at public markets prices, which can diverge from the $10 trust value depending on the perceived likelihood and quality of a future deal.
 

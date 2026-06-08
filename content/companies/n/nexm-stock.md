@@ -57,7 +57,7 @@ Here is the hard truth about exploration: it costs money every single year, and 
 
 This creates a harsh dynamic. If the company drills and finds nothing, it has burned cash and has nothing to show for it. If it wants to keep exploring, it has to go back to investors and ask for more money. If investors lose confidence, the company may not be able to raise capital, and it runs out of money and shuts down.
 
-Some junior explorers are backed by larger mining companies or investment firms that give them steady funding. Others survive by hitching to market cycles — when gold or copper prices are high and investors are hungry for exposure to mining, junior explorers can raise money easily. When prices collapse, money dries up.
+Some junior explorers are backed by larger mining companies or investment firms that give them steady funding. Others survive by hitching to [market cycles](/market-cycle/) — when gold or copper prices are high and investors are hungry for exposure to mining, junior explorers can raise money easily. When prices collapse, money dries up.
 
 ## The risks and the opportunity
 

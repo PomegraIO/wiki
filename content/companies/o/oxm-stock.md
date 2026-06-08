@@ -39,7 +39,7 @@ The tradeoff is operational complexity and capital intensity. Running hundreds o
 
 ## Seasonal and quarterly dynamics
 
-The apparel business is profoundly seasonal. Oxford's fiscal year ends in January, and the holiday season—November through December—drives outsized quarterly revenue. Spring and summer months see strong leisure-driven demand for the Tommy Bahama and Lilly Pulitzer brands. Inventory management is a perpetual challenge: build too much stock of a style that does not move and the company must discount heavily to clear it. Build too little and you miss sales in peak periods. Fashion risk—the risk that a style or print simply does not resonate—is real and not easily hedged.
+The apparel business is profoundly seasonal. Oxford's [fiscal year](/fiscal-year-definition/) ends in January, and the holiday season—November through December—drives outsized quarterly revenue. Spring and summer months see strong leisure-driven demand for the Tommy Bahama and Lilly Pulitzer brands. Inventory management is a perpetual challenge: build too much stock of a style that does not move and the company must discount heavily to clear it. Build too little and you miss sales in peak periods. Fashion risk—the risk that a style or print simply does not resonate—is real and not easily hedged.
 
 ## Merchandise and margin discipline
 

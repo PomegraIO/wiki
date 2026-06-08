@@ -31,7 +31,7 @@ This concentration creates both a strength and a vulnerability. The strength is 
 
 Tian'an operates under multiple layers of regulatory oversight. Within China, the company must navigate information security regulations, data protection laws, and government procurement rules. More broadly, the company faces export controls and restrictions on technology sales to certain countries or end-uses. Because information security and IT infrastructure are treated as strategic assets by most governments, Tian'an's ability to operate internationally is limited, particularly in markets where Chinese technology is viewed with suspicion.
 
-The company is also exposed to changes in US-China technology policy. Trade restrictions, investment screening, and sanctions have all affected the ability of Chinese technology companies to access certain technologies, invest abroad, or list their shares on US exchanges. For a company trading on the US market via American Depositary Shares (warrants in this case), regulatory crackdowns on Chinese listings or scrutiny of Chinese companies in sensitive sectors can affect share price and the company's ability to raise capital.
+The company is also exposed to changes in US-China technology policy. Trade restrictions, investment screening, and sanctions have all affected the ability of Chinese technology companies to access certain technologies, invest abroad, or list their shares on US exchanges. For a company trading on the US market via American [Depositary Shares](/depositary-share/) (warrants in this case), regulatory crackdowns on Chinese listings or scrutiny of Chinese companies in sensitive sectors can affect share price and the company's ability to raise capital.
 
 ## Capital markets and transparency risks
 

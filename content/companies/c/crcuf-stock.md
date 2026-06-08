@@ -41,7 +41,7 @@ Many junior explorers enter joint ventures with larger mining companies to fund 
 
 ## Permitting and Jurisdiction Risk
 
-Gold exploration in Canada operates under federal and provincial mining regulations. Claims must be staked and maintained according to jurisdiction-specific rules; exploration work requires environmental permits and assessment reports. Some jurisdictions are mining-friendly with clear, predictable processes; others are restrictive or have environmental activists who block projects. Canagold's geology is only one dimension of success; permitting and political risk are equally real. A great deposit in a jurisdiction hostile to mining can be impossible to develop; a mediocre deposit in mining-friendly BC or Ontario can be developed cheaply.
+Gold exploration in Canada operates under federal and provincial mining regulations. Claims must be staked and maintained according to jurisdiction-specific rules; exploration work requires environmental permits and assessment reports. Some jurisdictions are mining-friendly with clear, predictable processes; others are restrictive or have environmental activists who block projects. Canagold's geology is only one dimension of success; permitting and [political risk](/political-risk/) are equally real. A great deposit in a jurisdiction hostile to mining can be impossible to develop; a mediocre deposit in mining-friendly BC or Ontario can be developed cheaply.
 
 ## The Venture Stage and Zero Earnings Metrics
 

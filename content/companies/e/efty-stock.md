@@ -27,11 +27,11 @@ A $50 million position purchased over three months and sold over the next three 
 
 ## Asset Management Fees: Predictable but Competitive
 
-If Etoiles Capital manages client money — pooled investment vehicles or separately managed accounts — it earns management fees, typically 1–2% of assets under management (AUM) annually. A $500 million AUM fund at 1.5% fees generates $7.5 million in annual revenue. This revenue is sticky (assuming the fund performs and clients do not redeem) and scales: $1 billion AUM at the same fee rate yields $15 million.
+If Etoiles Capital manages client money — pooled investment vehicles or [separately managed accounts](/separately-managed-account/) — it earns management fees, typically 1–2% of assets under management (AUM) annually. A $500 million AUM fund at 1.5% fees generates $7.5 million in annual revenue. This revenue is sticky (assuming the fund performs and clients do not redeem) and scales: $1 billion AUM at the same fee rate yields $15 million.
 
 The cost structure is different from trading. Management fees must cover:
 - Analyst and portfolio manager salaries (senior PMs at [hedge funds](/hedge-fund/) or asset managers earn $300,000–$1 million annually, juniors $80,000–$150,000)
-- Compliance and legal (licenses, audit, SEC or Hong Kong Securities and Futures Commission (SFC) filings)
+- Compliance and legal (licenses, audit, SEC or Hong Kong [Securities and Futures Commission](/securities-and-futures-commission-hk/) (SFC) filings)
 - Technology and operations ([fund accounting](/fund-accounting/), valuation, trading infrastructure)
 - Marketing and investor relations (to attract and retain clients)
 
@@ -39,7 +39,7 @@ A $500 million fund with $7.5 million in fees might allocate $1.5 million to inv
 
 ## Performance Fees: The High-Variance Lever
 
-If Etoiles Capital's funds have a performance fee component — a percentage of gains above a benchmark or hurdle rate — total compensation can spike if performance is exceptional. A fund that generates 25% annual returns (vs. a 10% benchmark) might earn a 20% performance fee on the outperformance, generating 3% of AUM in [performance fees](/performance-fee/) atop the 1.5% base fee.
+If Etoiles Capital's funds have a performance fee component — a percentage of gains above a benchmark or [hurdle rate](/hurdle-rate/) — total compensation can spike if performance is exceptional. A fund that generates 25% annual returns (vs. a 10% benchmark) might earn a 20% performance fee on the outperformance, generating 3% of AUM in [performance fees](/performance-fee/) atop the 1.5% base fee.
 
 Performance fees are lucrative but volatile. A fund with strong returns for two years and weak returns the third experiences a sharp revenue cliff. This is why asset managers emphasize base fees (which are stable) and work to grow AUM (which multiplies base fee revenue) even as performance naturally reverts to benchmarks.
 
@@ -49,7 +49,7 @@ Etoiles Capital may also earn advisory fees (0.5–1% of transaction value) for 
 
 ## Capital Leverage and Risk Management
 
-The distinction between Etoiles Capital's capital and its clients' capital matters for unit economics. Proprietary trading uses Etoiles' own capital — profits are unlevered returns to equity holders. Asset management uses client capital — Etoiles earns fees without risking its own money (though reputational risk is high if performance is poor).
+The distinction between Etoiles Capital's capital and its clients' capital matters for unit economics. Proprietary trading uses Etoiles' own capital — profits are unlevered returns to equity holders. Asset management uses client capital — Etoiles earns fees without risking its own money (though [reputational risk](/reputational-risk/) is high if performance is poor).
 
 Most Asia-focused investment firms employ financial leverage: they borrow at low rates to amplify trading positions. If Etoiles Capital borrows at 4% and deploys the borrowed capital into investments yielding 8%, it pockets the 4% spread. But if investments yield only 3%, Etoiles Capital pays 1% out of pocket. Leverage increases both upside and downside.
 

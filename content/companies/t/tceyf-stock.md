@@ -37,7 +37,7 @@ The company operates under regulatory frameworks in each jurisdiction. Canadian 
 
 For decades, natural gas pipelines were seen as boring, stable utilities — exactly the kind of long-duration asset that pension funds and conservative portfolios wanted to own. That backdrop has shifted. Net-zero commitments, renewable energy adoption, and electrification are reshaping the long-term demand outlook for fossil fuels. Some analysts argue that pipeline operators face declining throughput over the next 20–30 years as the energy mix shifts toward wind, solar, and batteries.
 
-TC Energy has responded by building generation and storage capacity, positioning itself as an energy infrastructure company rather than purely a gas-pipeline operator. This [diversification](/diversification/) is genuine, but it also introduces execution risk — developing large power projects requires regulatory approval, customer contracts, and capital discipline, none of which is guaranteed.
+TC Energy has responded by building generation and storage capacity, positioning itself as an energy infrastructure company rather than purely a gas-pipeline operator. This [diversification](/diversification/) is genuine, but it also introduces [execution risk](/execution-risk/) — developing large power projects requires regulatory approval, customer contracts, and capital discipline, none of which is guaranteed.
 
 The company's existing portfolio of pipelines will likely remain productive for decades because the energy transition will not happen overnight. North America will continue consuming natural gas for years. But the trajectory matters for valuation and for the long-term sustainability of growth. Investors in TCEYF are betting that TC Energy can manage that transition effectively.
 
@@ -59,4 +59,4 @@ Begin with the company's investor relations site and annual 10-K filing (SEC CIK
 
 A few metrics illuminate the business. The [debt-to-EBITDA ratio](/debt-to-ebitda-ratio/) shows whether the company is borrowing prudently or overleveraging. The [dividend yield](/dividend-yield/) (or distribution yield, if the company operates as a partnership) indicates what income you earn from holding the shares. The return on invested capital reveals whether new projects earn an adequate return. Segment revenue growth shows which parts of the business are expanding and which are maturing.
 
-Watch for regulatory decisions on pending projects, updates on the energy transition strategy, and any commentary on customer contract renewals — these are the leading indicators of whether TC Energy's cash flow will remain stable or decline over time.
+Watch for regulatory decisions on pending projects, updates on the energy transition strategy, and any commentary on customer contract renewals — these are the [leading indicators](/leading-indicator/) of whether TC Energy's cash flow will remain stable or decline over time.

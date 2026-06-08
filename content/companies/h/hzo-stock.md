@@ -65,5 +65,5 @@ MarineMax's scale allows it to undercut small independents on financing rates an
 
 The business model is capital-intensive and cyclical. Inventory and floor-plan financing consume substantial working capital; the business rises and falls with [discretionary spending](/discretionary-spending/). During economic expansions, financing availability broadens, boat purchases surge, and MarineMax's consolidated cost structure generates strong returns. During [recessions](/recession/), financing tightens, inventory turns slow, and leverage pressures emerge.
 
-The ability to weather downturns and acquire troubled independent dealers during distressed cycles is a key competitive advantage. MarineMax uses its [balance-sheet](/balance-sheet/) strength to make opportunistic purchases when independent operators face liquidity pressure, further consolidating the fragmented market.
+The ability to weather downturns and acquire troubled independent dealers during distressed cycles is a key competitive advantage. MarineMax uses its [balance-sheet](/balance-sheet/) strength to make opportunistic purchases when independent operators face liquidity pressure, further consolidating the [fragmented market](/fragmented-market/).
 

@@ -39,7 +39,7 @@ This technology layer did several things. It lowered the cost of matching by red
 
 ## Market Position and Scale Dynamics
 
-Beeline operated in a fragmented market. The temporary staffing industry in the United States remained dominated by large generalists like Kforce, [Kelly Services](/kelya-stock/), and ManpowerGroup, but also included many regional and niche players. Beeline's strength was building deep relationships with large employers, particularly in industries with predictable, recurring temporary needs (manufacturing, logistics, distribution, hospitality).
+Beeline operated in a [fragmented market](/fragmented-market/). The temporary staffing industry in the United States remained dominated by large generalists like Kforce, [Kelly Services](/kelya-stock/), and ManpowerGroup, but also included many regional and niche players. Beeline's strength was building deep relationships with large employers, particularly in industries with predictable, recurring temporary needs (manufacturing, logistics, distribution, hospitality).
 
 The company's geographic footprint and customer relationships mattered enormously. Being able to serve a large auto supplier across multiple plants in the Midwest, or a retailer with seasonal needs across the country, required physical infrastructure, local management, and coordination. This was not easily replicated by startups lacking established networks.
 
@@ -49,7 +49,7 @@ However, Beeline also faced headwinds. Pressure from labor unions and advocacy g
 
 Beeline's profitability depended on maintaining favorable spreads between what it paid workers and what clients would pay it. That spread was under constant pressure. Tighter labor markets meant higher wage requirements to attract workers. Client demand for better wages — driven by pressure to treat workers more fairly — reduced net margins. Tech investments were necessary to compete but were expensive to develop and maintain.
 
-The company's evolution reflected these pressures: investing in technology to reduce operating costs per placement, expanding into managed services to increase revenue per customer, and pursuing geographic expansion and customer [diversification](/diversification/) to spread risk. The goal was to move away from transactional, low-margin staffing toward higher-value partnerships where Beeline was an essential part of the client's human resources infrastructure.
+The company's evolution reflected these pressures: investing in technology to reduce operating costs per placement, expanding into managed services to increase revenue per customer, and pursuing geographic expansion and customer [diversification](/diversification/) to [spread risk](/spread-risk/). The goal was to move away from transactional, low-margin staffing toward higher-value partnerships where Beeline was an essential part of the client's human resources infrastructure.
 
 <div class="wiki-seealso">
 

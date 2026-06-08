@@ -51,7 +51,7 @@ That capital intensity requires funding, and Liberty is not a low-leverage compa
 
 Each Latin American country where Liberty operates has its own telecom regulator, and regulations can change. Price controls, mandatory service quality standards, requirements to expand to unprofitable areas, and changes to spectrum regulations can all affect profitability. Venezuela, where Liberty once had significant assets, became essentially uninvestable due to political and economic collapse; Liberty wrote off those operations.
 
-Political risk is harder to quantify but real. A change in government or a shift toward more nationalist or socialist policies could bring demands for local ownership, price controls, or nationalisation. The risk of outright expropriation is low in Chile and the Dominican Republic (more stable democracies) but cannot be dismissed entirely in a region with a history of such events.
+[Political risk](/political-risk/) is harder to quantify but real. A change in government or a shift toward more nationalist or socialist policies could bring demands for local ownership, price controls, or nationalisation. The risk of outright expropriation is low in Chile and the Dominican Republic (more stable democracies) but cannot be dismissed entirely in a region with a history of such events.
 
 ## Competition and technological disruption
 

@@ -75,7 +75,7 @@ Integration risk from Aerojet remains. Rocket engines are capital-intensive, hav
 
 ## How to Research L3Harris
 
-Start with the [10-K](/wiki/10-k/) and quarterly 10-Q filings, which detail backlog (a leading indicator of future revenue), contract wins and losses, segment margins, and capital deployment. L3Harris typically maintains a healthy backlog relative to annual revenue, which indicates sustained demand and some protection against cyclical downturns.
+Start with the [10-K](/wiki/10-k/) and quarterly 10-Q filings, which detail backlog (a [leading indicator](/leading-indicator/) of future revenue), contract wins and losses, segment margins, and capital deployment. L3Harris typically maintains a healthy backlog relative to annual revenue, which indicates sustained demand and some protection against cyclical downturns.
 
 Industry conferences and trade publications (Defense News, Space News, Aerospace & Defense Outlook) regularly cover the company's major awards and strategic moves. Wall Street sell-side research from defense-focused equity analysts often provides deep dives into segment economics and competitive positioning.
 

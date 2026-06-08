@@ -45,6 +45,6 @@ Fourth, the company's fortunes are tied to the semiconductor cycle and long-term
 
 ## How would an investor research this company?
 
-Start with the company's 10-K filing (SEC CIK 0000704532), which will detail revenue by customer and by product segment, the company's backlog, and forward-looking commentary on demand trends. Watch the quarterly earnings calls for updates on order trends, gross margins, and any color on customer demand in key markets like Taiwan and South Korea. The company's backlog — the orders already in hand but not yet fulfilled — is a useful leading indicator of near-term revenue.
+Start with the company's 10-K filing (SEC CIK 0000704532), which will detail revenue by customer and by product segment, the company's backlog, and forward-looking commentary on demand trends. Watch the quarterly earnings calls for updates on order trends, gross margins, and any color on customer demand in key markets like Taiwan and South Korea. The company's backlog — the orders already in hand but not yet fulfilled — is a useful [leading indicator](/leading-indicator/) of near-term revenue.
 
 Beyond ONTO, the broader semiconductor capex cycle is crucial context. Industry publications and analyst reports on semiconductor equipment demand in general will give a sense of whether the overall market is in an upcycle or downturn. If the industry is investing heavily, ONTO is well-positioned; if capex is retreating, headwinds will follow regardless of the company's own execution.

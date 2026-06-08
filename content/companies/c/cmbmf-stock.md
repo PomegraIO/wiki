@@ -37,7 +37,7 @@ Wireless-equipment markets are increasingly commoditized. Customers—carriers a
 
 ## Supply Chain and Manufacturing Risk
 
-Equipment manufacturing depends on secure sourcing of components, particularly semiconductors and key integrated circuits. **CMBMF** faces exposure to component shortages, price volatility, and supply-chain disruptions. During shortage periods, larger vendors command allocation priority; smaller vendors like Cambium face delays or allocation cuts. Manufacturing costs are volatile and difficult to forecast, affecting gross margins and profitability. If Cambium outsources manufacturing—as many equipment vendors do—it is dependent on contract manufacturers' quality, capacity, and compliance, introducing operational and reputational risks.
+Equipment manufacturing depends on secure sourcing of components, particularly semiconductors and key integrated circuits. **CMBMF** faces exposure to component shortages, price volatility, and supply-chain disruptions. During shortage periods, larger vendors command allocation priority; smaller vendors like Cambium face delays or allocation cuts. Manufacturing costs are volatile and difficult to forecast, affecting gross margins and profitability. If Cambium outsources manufacturing—as many equipment vendors do—it is dependent on contract manufacturers' quality, capacity, and compliance, introducing operational and [reputational risks](/reputational-risk/).
 
 ## Capital Intensity and Cash Generation Constraints
 

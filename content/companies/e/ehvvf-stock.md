@@ -51,7 +51,7 @@ Ehave has been operating for several years now, which is both encouraging (it ha
 
 For public shareholders (even OTC holders), Ehave's stage of lifecycle carries extreme risk. The company likely raises capital occasionally to bridge the gap between cash burn and runway, which dilutes existing shareholders. If the firm fails to raise, or if growth slows relative to burn, restructuring or [liquidation](/liquidation/) could wipe out public equity. The expected value of a position in an early-stage startup is highly non-linear: some tiny probability of a home run (Ehave successfully scales and becomes a major digital-mental-health player), substantial probability of failure.
 
-Investors in Ehave are betting on execution risk and [market risk](/market-risk/) simultaneously—that the company can build a better product and business model than competitors, *and* that the market for digital mental health will grow large and mature rapidly enough to sustain multiple viable players. Both must occur for the stock to reward holders.
+Investors in Ehave are betting on [execution risk](/execution-risk/) and [market risk](/market-risk/) simultaneously—that the company can build a better product and business model than competitors, *and* that the market for digital mental health will grow large and mature rapidly enough to sustain multiple viable players. Both must occur for the stock to reward holders.
 
 <div class="wiki-seealso">
 

@@ -51,7 +51,7 @@ The company benefits from secular tailwinds in animal feed demand (as emerging m
 
 ## Earnings and Volatility
 
-Bunge's earnings are notoriously volatile. The agribusiness segment swings wildly with commodity prices and agricultural supply shocks. A harvest failure in Argentina or Eastern Europe reshuffles sourcing economics. Grain prices can move 20–30% in a season on weather and geopolitical shocks. This cascades directly to profit.
+Bunge's earnings are notoriously volatile. The agribusiness segment swings wildly with commodity prices and [agricultural supply shocks](/commodity-supply-shock/). A harvest failure in Argentina or Eastern Europe reshuffles sourcing economics. Grain prices can move 20–30% in a season on weather and geopolitical shocks. This cascades directly to profit.
 
 The crushing and refining margins have been squeezed in recent years due to oversupply of refineries globally and competition from cheaper producers in Asia. Capital deployment into new capacity in Brazil and elsewhere has not consistently returned cost of capital, a structural challenge for the industry.
 
@@ -61,7 +61,7 @@ Bunge does hedge, and treasury units manage some commodity exposure, but earning
 
 **Weather and crop failure** remain the highest [operational risks](/operational-risk/). A multiyear drought or pest outbreak in key growing regions (Argentina, the U.S. Midwest, Brazil) directly impairs margins.
 
-**Commodity price crashes** erode both agribusiness margins and crush spreads. A collapse in grain prices can also squeeze customer demand for refined oils and derivatives.
+**Commodity price crashes** erode both agribusiness margins and [crush spreads](/crush-spread-soybeans/). A collapse in grain prices can also squeeze customer demand for refined oils and derivatives.
 
 **Regulation** poses evolving risks: stricter environmental rules in the EU and U.S. around deforestation and agricultural practices could restrict sourcing or raise compliance costs. Brazilian deforestation scrutiny has already crimped some supply chains.
 
@@ -69,7 +69,7 @@ Bunge does hedge, and treasury units manage some commodity exposure, but earning
 
 **Oversupply of refining capacity** has depressed crushing margins globally and may persist unless demand (meat production, biofuel mandates) keeps pace with supply.
 
-**[Currency risk](/currency-risk/)**: Bunge earns substantially in Brazilian real and Argentine peso but has [U.S. dollar](/us-dollar/) debt and shareholder expectations in dollars. [Depreciation](/depreciation/) of these currencies can erode translated results.
+**[Currency risk](/currency-risk/)**: Bunge earns substantially in [Brazilian real](/brazilian-real/) and Argentine peso but has [U.S. dollar](/us-dollar/) debt and shareholder expectations in dollars. [Depreciation](/depreciation/) of these currencies can erode translated results.
 
 ## How to Research It
 
@@ -78,7 +78,7 @@ The 10-K, filed annually on the SEC's EDGAR system, is essential reading. Focus 
 - **Segment profit and crush spread trends** (agribusiness, refined & specialty oils) — these reveal the underlying profitability of each business.
 - **Debt and [leverage ratios](/leverage-ratio-forex/)** — Bunge is capital-intensive and leveraged; debt trends matter for safety and financial flexibility.
 - **Farmer advance accounts and working capital** — agribusiness requires financing of farmer payments and inventory; changes here signal seasonal dynamics and [credit risk](/credit-risk/).
-- **Shipping and logistics costs** — freight rates and logistics complexity are major cost drivers in a physically dispersed business.
+- **Shipping and logistics costs** — freight rates and logistics complexity are major [cost drivers](/cost-driver/) in a physically dispersed business.
 - **Commodity price assumptions** in guidance and risk disclosures.
 
 Quarterly earnings calls are worth listening to for management commentary on harvest timing, crush margins, and refinancing needs. Industry trackers like USDA forecasts and international grain body reports (IGC) provide context on supply and demand shifts that move Bunge's margin environment.

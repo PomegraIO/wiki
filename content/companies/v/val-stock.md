@@ -72,7 +72,7 @@ The company has pursued selective rig retirements and sales to reduce fleet drag
 
 **Operator capex volatility** is direct. A single 20% cut in exploration budgets by the top five operators translates into multi-rig deferrals and margin compression across the industry.
 
-**Energy transition risk** looms. Offshore drilling for oil is being gradually phased down in some regions; the UK, Denmark, and the EU are curtailing North Sea exploration. Long-term demand may gradually erode, though this plays out over decades and offshore supply is still essential to meet near-term oil demand.
+**[Energy transition risk](/energy-transition-risk/)** looms. Offshore drilling for oil is being gradually phased down in some regions; the UK, Denmark, and the EU are curtailing North Sea exploration. Long-term demand may gradually erode, though this plays out over decades and offshore supply is still essential to meet near-term oil demand.
 
 **[Debt ceiling](/debt-ceiling/)** limits strategic agility. High leverage constrains M&A, forces conservative capex, and leaves little room for error. A market downturn could trigger refinancing stress or covenant breaches.
 

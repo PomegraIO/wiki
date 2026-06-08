@@ -37,7 +37,7 @@ For a development-stage company, the most important balance-sheet metric is cash
 
 ## Equity Dilution and Capital Raises
 
-CETY has likely raised capital multiple times through equity issuances, each round diluting existing shareholders. The balance sheet shows the cumulative effect: the number of shares outstanding, and the average price per share at which they were issued, can be reconstructed from the stockholders' equity section and the statement of shareholders' equity. A firm that has raised capital at declining share prices signals weakening investor confidence or deteriorating business prospects; one that has raised at consistent or rising prices suggests progress. The terms of recent funding rounds (investment price, [liquidation preferences](/liquidation-preference/), board seats) reveal what investors think the company is worth and what confidence they place in management.
+CETY has likely raised capital multiple times through equity issuances, each round diluting existing shareholders. The balance sheet shows the cumulative effect: the number of shares outstanding, and the average price per share at which they were issued, can be reconstructed from the stockholders' equity section and the statement of [shareholders' equity](/shareholders-equity/). A firm that has raised capital at declining share prices signals weakening investor confidence or deteriorating business prospects; one that has raised at consistent or rising prices suggests progress. The terms of recent funding rounds (investment price, [liquidation preferences](/liquidation-preference/), board seats) reveal what investors think the company is worth and what confidence they place in management.
 
 ## Strategic Partnerships and Co-Development Agreements
 

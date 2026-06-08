@@ -22,7 +22,7 @@ Vietnam Biofuels Group. Established 2014. Operates ethanol plants in Vietnam. Ma
 
 ## Why it matters that it's Vietnam.
 
-Vietnam is not a mature ethanol market like the United States or Brazil. It's emerging. That means both upside (growing consumption, policy tailwinds) and execution risk (supply chain, feedstock reliability, geopolitical factors). VCI Biofuels would be a way to gain Vietnam renewable-fuels exposure without building a plant from scratch. The SPAC vehicle itself buys speed and public-market access for a Southeast Asian producer that might otherwise stay private or list on a regional exchange.
+Vietnam is not a mature ethanol market like the United States or Brazil. It's emerging. That means both upside (growing consumption, policy tailwinds) and [execution risk](/execution-risk/) (supply chain, feedstock reliability, geopolitical factors). VCI Biofuels would be a way to gain Vietnam renewable-fuels exposure without building a plant from scratch. The SPAC vehicle itself buys speed and public-market access for a Southeast Asian producer that might otherwise stay private or list on a regional exchange.
 
 ## The timeline problem.
 
@@ -34,4 +34,4 @@ If the merger closes, units cease to exist as units. Holders receive equivalent 
 
 ## The research path for unit holders.
 
-SEC filings under CIK 0001846235 are the source: proxy statements, 8-K announcements, and periodic updates on extension votes and shareholder meetings. Each proxy disclosure and amendment provides updated deal economics, capitalization, and [founder shares](/founder-shares/) / sponsor promoting arrangements. Read the risk factors carefully — they outline execution, regulatory, and geopolitical risks to deal closure and post-merger performance. Vietnam government ethanol blending mandates and import/export policy are material to VCI's outlook and are worth sourcing from Vietnamese government and industry sources. Finally, track the warrant and unit [bid-ask spreads](/bid-ask-spread/) — wide spreads often signal lower conviction among traders about the merger's likelihood or timing.
+SEC filings under CIK 0001846235 are the source: [proxy statements](/proxy-statement/), 8-K announcements, and periodic updates on extension votes and shareholder meetings. Each proxy disclosure and amendment provides updated deal economics, capitalization, and [founder shares](/founder-shares/) / sponsor promoting arrangements. Read the risk factors carefully — they outline execution, regulatory, and geopolitical risks to deal closure and post-merger performance. Vietnam government ethanol blending mandates and import/export policy are material to VCI's outlook and are worth sourcing from Vietnamese government and industry sources. Finally, track the warrant and unit [bid-ask spreads](/bid-ask-spread/) — wide spreads often signal lower conviction among traders about the merger's likelihood or timing.

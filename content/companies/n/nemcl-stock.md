@@ -48,7 +48,7 @@ Downstream, Newmont sells gold to refineries and traders, and depends on maintai
 
 ## Geographic and political risk
 
-Newmont operates in politically and geographically diverse regions — the United States, Canada, South America, West Africa, and Australia. This [diversification](/diversification/) reduces dependence on any single country's stability, but it also means the company faces a patchwork of regulatory regimes, tax codes, labor laws, and political risk. A major mine in Ghana or Peru is exposed to government policy changes, nationalization risk, social unrest, and infrastructure disruptions.
+Newmont operates in politically and geographically diverse regions — the United States, Canada, South America, West Africa, and Australia. This [diversification](/diversification/) reduces dependence on any single country's stability, but it also means the company faces a patchwork of regulatory regimes, tax codes, labor laws, and [political risk](/political-risk/). A major mine in Ghana or Peru is exposed to government policy changes, nationalization risk, social unrest, and infrastructure disruptions.
 
 Environmental regulation is an increasing constraint, particularly in developed countries. Mining requires moving massive volumes of rock, managing waste rock and mine tailings, and addressing water quality and land reclamation concerns. Stricter environmental standards can raise operating costs, delay permitting of new projects, or force closure of mines deemed too damaging to continue. Community opposition to mining, particularly in regions with Indigenous land claims or pristine ecosystems, can halt or slow projects.
 

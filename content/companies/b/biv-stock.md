@@ -21,7 +21,7 @@ BIV, the exchange-traded version of Vanguard's intermediate-term bond exposure, 
 
 ## What BIV holds and why
 
-BIV holds a diversified portfolio of [investment-grade bonds](/investment-grade-bond/) — Treasuries, government-backed mortgage bonds, and corporate debt — with an average maturity of roughly five to ten years (intermediate term). The fund tracks the Bloomberg U.S. Aggregate Bond Index, which includes most bonds issued in the U.S. with investment-grade [credit ratings](/credit-rating/). This means BIV is broadly exposed to the entire U.S. bond market without concentrating on any single issuer, maturity, or type of bond.
+BIV holds a diversified portfolio of [investment-grade bonds](/investment-grade-bond/) — Treasuries, government-backed mortgage bonds, and corporate debt — with an average maturity of roughly five to ten years (intermediate term). The fund tracks the [Bloomberg U.S. Aggregate Bond Index](/bloomberg-aggregate-bond-index/), which includes most bonds issued in the U.S. with investment-grade [credit ratings](/credit-rating/). This means BIV is broadly exposed to the entire U.S. bond market without concentrating on any single issuer, maturity, or type of bond.
 
 The composition shifts over time as bonds mature, are bought and sold in [secondary markets](/secondary-market/), and new issuances are added to the index. The largest holdings are typically U.S. Treasury securities, which are the safest component, along with mortgage-backed securities and investment-grade [corporate bonds](/corporate-bond/). This [diversification](/diversification/) is core to the fund's appeal; no single issuer or [credit event](/credit-event-sovereign/) can meaningfully move the fund's value.
 
@@ -29,7 +29,7 @@ The composition shifts over time as bonds mature, are bought and sold in [second
 
 BIV charges one of the industry's lowest [expense ratios](/expense-ratio/) for a bond ETF, reflecting Vanguard's scale and its commitment to low-cost indexing. The fund is highly liquid — trading millions of shares daily — which keeps [bid-ask spreads](/bid-ask-spread/) tight and makes it easy to build or exit positions. For investors or portfolio managers needing bond exposure without active security selection, BIV offers near-zero friction.
 
-The fund can be purchased through any brokerage account, and fractional shares are available on most platforms, making it accessible to investors of any size.
+The fund can be purchased through any brokerage account, and [fractional shares](/fractional-shares/) are available on most platforms, making it accessible to investors of any size.
 
 ## Interest-rate risk and credit quality
 

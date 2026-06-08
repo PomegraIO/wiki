@@ -47,7 +47,7 @@ Irving's ability even to access its claims depends on regulatory approval. Road-
 
 ## Financing and Escrow Mandates
 
-When Irving raises money for exploration, regulators in the provinces where capital is raised mandate certain investor protections. Funds are often held in escrow pending satisfaction of "escrow release conditions"—typically milestone achievements or regulatory approvals. Regulatory agencies also scrutinize [share issuance](/share-issuance/) structures to prevent dilution of existing shareholders beyond certain thresholds without shareholder approval. Irving cannot simply issue shares ad libitum; equity raises are gated by securities law and, when material, trigger proxy statements and shareholder votes.
+When Irving raises money for exploration, regulators in the provinces where capital is raised mandate certain investor protections. Funds are often held in escrow pending satisfaction of "escrow release conditions"—typically milestone achievements or regulatory approvals. Regulatory agencies also scrutinize [share issuance](/share-issuance/) structures to prevent dilution of existing shareholders beyond certain thresholds without shareholder approval. Irving cannot simply issue shares ad libitum; equity raises are gated by securities law and, when material, trigger [proxy statements](/proxy-statement/) and shareholder votes.
 
 ## Exit and the Regulatory Path
 

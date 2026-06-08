@@ -25,7 +25,7 @@ The Themes Global Systemically Important Banks ETF (GSIB) holds the world's larg
 
 ## What the G-SIB list means
 
-Every year, the Financial Stability Board — an international organization that coordinates financial regulation — publishes a list of banks that are systemically important. Being on that list is a formal designation. It means the bank is so large and so interconnected that if it failed, other financial institutions and the economy would suffer serious damage. Banks on this list face stricter capital requirements, more frequent [stress testing](/stress-testing/), and tighter regulatory oversight than smaller competitors.
+Every year, the [Financial Stability Board](/financial-stability-board/) — an international organization that coordinates financial regulation — publishes a list of banks that are systemically important. Being on that list is a formal designation. It means the bank is so large and so interconnected that if it failed, other financial institutions and the economy would suffer serious damage. Banks on this list face stricter capital requirements, more frequent [stress testing](/stress-testing/), and tighter regulatory oversight than smaller competitors.
 
 GSIB includes the banks on that official list. These are the mega-cap global banks: institutions like [JPMorgan Chase](/jpmorgan-chase/), [Bank of America](/bank-of-america/), and [Citigroup](/c-stock/) from the United States; HSBC, Barclays, and [Deutsche Bank](/deutsche-bank/) from Europe; and ICBC and Bank of China from Asia. They are the plumbing of the global financial system, moving money between countries, funding major corporations, and managing the assets of millions of individuals and institutions.
 
@@ -43,13 +43,13 @@ The largest holdings tend to be the absolute biggest global banks by total asset
 
 ## Costs, trading, and fees
 
-GSIB trades on NYSE Arca, so investors can buy and sell shares at market prices throughout the trading day. The fund's [expense ratio](/expense-ratio/) is disclosed in its prospectus; it is generally low to moderate, reflecting the straightforward index-like approach of owning large, well-known banks.
+GSIB trades on [NYSE Arca](/nyse-arca/), so investors can buy and sell shares at market prices throughout the trading day. The fund's [expense ratio](/expense-ratio/) is disclosed in its prospectus; it is generally low to moderate, reflecting the straightforward index-like approach of owning large, well-known banks.
 
 Liquidity is typically good. The fund is not tiny, and the underlying bank stocks are among the most actively traded securities in the world, so an investor can usually buy or sell without difficulty.
 
 ## Real risks worth understanding
 
-The biggest risk is a shock to the global financial system. If credit freezes up, if major banks suffer loan losses, or if a serious economic downturn hits, bank stocks fall across the board. Owning GSIB means owning that sector risk. The fact that a bank is systemically important does not make it immune to losses — it only means the government will likely step in to prevent total failure.
+The biggest risk is a shock to the global financial system. If [credit freezes](/credit-freeze/) up, if major banks suffer loan losses, or if a serious economic downturn hits, bank stocks fall across the board. Owning GSIB means owning that sector risk. The fact that a bank is systemically important does not make it immune to losses — it only means the government will likely step in to prevent total failure.
 
 A second risk is regulatory change. Governments might raise capital requirements on large banks, cutting into profits. They might impose new taxes or restrictions on certain activities. These shifts can hurt bank stock prices even if the underlying banks remain financially sound.
 

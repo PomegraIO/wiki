@@ -36,7 +36,7 @@ If CHCO experiences significant deposit outflows, it must replace funding at hig
 
 ## Operating Leverage in a Low-Growth Environment
 
-Regional banks have high fixed costs: branch infrastructure, compliance staff, IT systems, and payment processing. These costs do not scale down easily if loan volume declines or NIM compresses. CITY HOLDING's cost-to-income ratio (operating expenses as a percentage of operating revenue) is thus critical to watch. If CHCO has been able to grow and consolidate branches, maintaining a reasonable cost base, it has some operational flexibility. If branches and headcount are sticky, the bank becomes increasingly inefficient if revenue falls.
+Regional banks have high fixed costs: branch infrastructure, compliance staff, IT systems, and payment processing. These costs do not scale down easily if loan volume declines or NIM compresses. CITY HOLDING's [cost-to-income ratio](/cost-income-ratio/) (operating expenses as a percentage of operating revenue) is thus critical to watch. If CHCO has been able to grow and consolidate branches, maintaining a reasonable cost base, it has some operational flexibility. If branches and headcount are sticky, the bank becomes increasingly inefficient if revenue falls.
 
 Consolidation offers the only real lever—if CHCO acquires smaller competitors and closes redundant branches, it can reduce fixed costs. But [acquisitions](/acquisition/) create integration risk, disruption, and often fail to achieve projected savings. And they require capital, which a bank under margin pressure may not want to deploy.
 

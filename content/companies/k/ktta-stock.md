@@ -72,7 +72,7 @@ Focus on the following sections:
 1. **Risk Factors**: Covers development, regulatory, and capital risks. A thorough risk section signals management's awareness of challenge.
 2. **Pipeline section**: Lists compounds, indications, trial phases, and expected milestones.
 3. **Cash flow statement**: Shows R&D spending, capital raises, and cash burn.
-4. **Subsequent events**: Any post-filing financing, trial suspensions, or partnerships.
+4. **[Subsequent events](/subsequent-events/)**: Any post-filing financing, trial suspensions, or partnerships.
 5. **Related-party transactions**: Any stock sales or loans by officers; a sign of confidence or desperation depending on context.
 
 An analyst should also monitor FDA correspondence letters, trial enrollment updates, and early-stage publication of trial results in conference presentations. These signals arrive before formal 10-K filings and shape investment decisions.

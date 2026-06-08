@@ -51,7 +51,7 @@ Borrow scarcity is a risk. If many investors are short a particular stock, lende
 
 Volatility of short-side returns is often higher than long-side returns because losses on shorts can grow faster than gains. Even a balanced long-short fund can experience violent swings if its short picks surge.
 
-Manager risk is paramount. The strategy depends entirely on the manager's ability to identify stocks that will outperform and underperform. Long-short funds often underperform simple broad-market long-only funds over full market cycles.
+Manager risk is paramount. The strategy depends entirely on the manager's ability to identify stocks that will outperform and underperform. Long-short funds often underperform simple broad-market long-only funds over full [market cycles](/market-cycle/).
 
 Regulatory and capital requirements can constrain strategy. Short-selling is regulated; changes in rules or increases in borrow costs can reduce the strategy's economics.
 

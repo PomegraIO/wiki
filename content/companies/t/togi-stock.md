@@ -44,7 +44,7 @@ Installation work can be capital-intensive if it requires extensive rewiring or 
 
 ## Market position and constraints
 
-TurnOnGreen operates in a fragmented market where each city represents a separate sales cycle. Unlike a software company with scalable marginal costs, TurnOnGreen must bid for municipal contracts, navigate procurement processes, and deliver customized implementations. Competitors range from large, established traffic-signal manufacturers (like Siemens or GE Transportation) that bundle preemption as one feature among many, to smaller regional players.
+TurnOnGreen operates in a [fragmented market](/fragmented-market/) where each city represents a separate sales cycle. Unlike a software company with scalable marginal costs, TurnOnGreen must bid for municipal contracts, navigate procurement processes, and deliver customized implementations. Competitors range from large, established traffic-signal manufacturers (like Siemens or GE Transportation) that bundle preemption as one feature among many, to smaller regional players.
 
 The company's advantages lie in deep specialization in emergency preemption and responsiveness to municipal customers. Its disadvantages are limited resources for research and development, no venture capital backing, and the slow sales cycles inherent in government procurement. A single large contract win can swing annual results; a customer defection or project cancellation can equally impact results sharply.
 

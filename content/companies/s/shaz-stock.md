@@ -69,7 +69,7 @@ AI compute capacity is becoming more commoditized. As more companies build data 
 
 SharonAI's competitive advantages are geographic proximity (Australian data centers serve regional customers), specialized engineering (facilities built for AI workloads), and customer relationships. But these are not permanent moats. A hyperscaler like Amazon Web Services or [Microsoft](/msft-stock/) Azure can enter the market and leverage its existing infrastructure, customer relationships, and capital resources to undercut or outcompete a pure-play AI infrastructure company.
 
-Commodity risk is real: if GPU and accelerator prices fall sharply, the cost of equipping a facility drops, but the revenue from existing customer contracts does not. The company is locked into long-term pricing with customers while hardware costs fluctuate. This is a standard commodity exposure, but it is material to profitability.
+[Commodity risk](/commodity-risk/) is real: if GPU and accelerator prices fall sharply, the cost of equipping a facility drops, but the revenue from existing customer contracts does not. The company is locked into long-term pricing with customers while hardware costs fluctuate. This is a standard commodity exposure, but it is material to profitability.
 
 ## The regulatory and geopolitical layer
 
@@ -89,4 +89,4 @@ Watch the broader AI infrastructure market. As the AI market matures, are compan
 
 Finally, monitor the hardware layer. What is happening to GPU prices, availability, and performance? Are customers accelerating AI projects or pausing? These trends affect the attractiveness of SharonAI's capacity and the company's ability to retain and grow its customer base.
 
-The investment thesis for SharonAI is straightforward: the company is building AI infrastructure that customers want, under long-term contracts, funded by capital raised at the right moment in the market cycle. But execution risk is high. Capital-intensive businesses that miss timelines or cost targets can face severe consequences. The management team's track record in infrastructure operations and the quality of their capital discipline will determine whether this becomes a profitable franchise or a costly mistake.
+The investment thesis for SharonAI is straightforward: the company is building AI infrastructure that customers want, under long-term contracts, funded by capital raised at the right moment in the [market cycle](/market-cycle/). But [execution risk](/execution-risk/) is high. Capital-intensive businesses that miss timelines or cost targets can face severe consequences. The management team's track record in infrastructure operations and the quality of their capital discipline will determine whether this becomes a profitable franchise or a costly mistake.

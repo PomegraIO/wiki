@@ -26,7 +26,7 @@ XP Inc. is Brazil's largest independent investment platform, serving millions of
 
 ## A Shift in Brazilian Finance
 
-Founded at the turn of the millennium, Grupo XP emerged during Brazil's financial stabilization following its 1998–1999 currency crisis. The firm initially focused on equities research and brokerage, but its identity crystallized in the early 2000s when the founders recognized a structural gap: Brazil's retail investors had limited independent choices. The major banks—Itaú, Bradesco, Banco do Brasil—dominated the financial advisory landscape but often steered clients toward their own products. XP positioned itself as a neutral, advice-driven alternative, attracting advisors from incumbent banks by offering attractive commissions and independence.
+Founded at the turn of the millennium, Grupo XP emerged during Brazil's financial stabilization following its 1998–1999 [currency crisis](/currency-crisis/). The firm initially focused on equities research and brokerage, but its identity crystallized in the early 2000s when the founders recognized a structural gap: Brazil's retail investors had limited independent choices. The major banks—Itaú, Bradesco, Banco do Brasil—dominated the financial advisory landscape but often steered clients toward their own products. XP positioned itself as a neutral, advice-driven alternative, attracting advisors from incumbent banks by offering attractive commissions and independence.
 
 This model proved scalable. XP grew steadily through the 2000s and 2010s, building a network of thousands of financial advisors who became the firm's front-line relationship managers with clients. The company held an IPO on Brazil's B3 exchange in 2007, then later added a [dual listing](/dual-listing/) on [NASDAQ](/nasdaq/) in 2019, raising capital to expand its technology infrastructure and product suite.
 
@@ -56,7 +56,7 @@ XP operates across three interconnected segments:
 
 **Currency and Macroeconomic Volatility.** As a Brazilian firm with revenues in reais, XP's dollar-based profits (and NASDAQ valuation) fluctuate with exchange rates. Broader economic downturns in Brazil—[recessions](/recession/), [inflation](/inflation/) spikes, unemployment—can suppress retail trading volumes and wealth.
 
-**Fintech Competition.** Newer, lower-cost digital platforms have begun entering the Brazilian market. XP's historical advisor-centric model is being challenged by commission-free or ultra-low-cost brokers. The company has started offering fractional shares and lower entry points, but pressure on transaction margins remains real.
+**Fintech Competition.** Newer, lower-cost digital platforms have begun entering the Brazilian market. XP's historical advisor-centric model is being challenged by commission-free or ultra-low-cost brokers. The company has started offering [fractional shares](/fractional-shares/) and lower entry points, but pressure on transaction margins remains real.
 
 **Concentration in Equities.** During [bull markets](/bull-market/), equities drive the bulk of XP's revenue. Market downturns can cause sharp declines in trading volumes and advisory AUM, making earnings volatile.
 

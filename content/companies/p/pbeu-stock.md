@@ -41,7 +41,7 @@ handwritten: true
 
 The BITA European Banks Index captures publicly listed banking institutions operating in developed European markets, selecting companies that derive a significant portion of their revenue from traditional and institutional banking activities. The index construction uses a rules-based methodology that prioritizes large-cap and regional banks with substantial market capitalisation, creating a diversified basket of the continent's leading lenders.
 
-PBEU holds approximately 55 securities, with the largest positions accounting for a meaningful share of assets. The fund's concentration reflects both the regional nature of European banking — where a handful of megabanks operate across borders alongside hundreds of smaller, domestically focused lenders — and the index's market-capitalization weighting approach. Holdings span multiple countries and regulatory jurisdictions, from major cross-border players headquartered in Frankfurt, Paris, and London to regional lenders serving single countries or ethnic-linguistic regions.
+PBEU holds approximately 55 securities, with the largest positions accounting for a meaningful share of assets. The fund's concentration reflects both the regional nature of European banking — where a handful of megabanks operate across borders alongside hundreds of smaller, domestically focused lenders — and the index's [market-capitalization weighting](/market-cap-weighting/) approach. Holdings span multiple countries and regulatory jurisdictions, from major cross-border players headquartered in Frankfurt, Paris, and London to regional lenders serving single countries or ethnic-linguistic regions.
 
 ## Capital regulation and the post-2008 environment
 

@@ -35,7 +35,7 @@ Gross margins in software tend to be attractive, but RedCloud's take rates are o
 
 The business sits at the intersection of several sources of risk. First, **macroeconomic**: retail is discretionary, and a sharp contraction in consumer spending in Africa or Latin America directly shrinks the value retailers place on the platform. Second, **regulatory**: the company extends credit or facilitates lending to retailers, which invites banking regulation and [anti-money laundering](/anti-money-laundering/) scrutiny. Compliance burden and capital requirements can quickly change the cost structure. Third, **competitive**: large retailers (both online and traditional chains) and global logistics firms are beginning to disintermediate small retailers directly, reducing the opportunity for a middleman platform. Fourth, **adoption**: the stickiness of digital adoption in informal retail is unproven at scale; many retailers may revert to cash-based informal networks if switching costs drop or incentives fade.
 
-Finally, there is **execution risk**. Expanding into multiple African and Latin American markets means operating in environments with unreliable payment infrastructure, inconsistent regulatory frameworks, and fragmented retail landscapes. Each market requires local adaptation and operational excellence; RedCloud's track record of scaling globally is limited.
+Finally, there is **[execution risk](/execution-risk/)**. Expanding into multiple African and Latin American markets means operating in environments with unreliable payment infrastructure, inconsistent regulatory frameworks, and fragmented retail landscapes. Each market requires local adaptation and operational excellence; RedCloud's track record of scaling globally is limited.
 
 ## What to follow
 

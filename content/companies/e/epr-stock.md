@@ -45,7 +45,7 @@ EPR grows primarily through acquisitions of new properties from operators or pri
 
 ## 10-K and Investment Analysis
 
-Prospective investors should examine EPR's 10-K (CIK 1045450) for: tenant concentration (revenue from top 10 tenants), property-by-property NOI ([net operating income](/net-operating-income/) under the [triple-net lease](/triple-net-lease/)), lease expiration schedule and renewal prospects, and the profile of escalation clauses. Key metrics include funds from operations (FFO) per share, adjusted FFO, dividend coverage ratio, and debt-to-EBITDA. The 10-K also discloses tenant [credit ratings](/credit-rating/) and payment history, allowing readers to assess whether EPR's stable of tenants is financially robust or deteriorating. Understanding EPR's durability requires assessing both the real estate portfolio and the credit health of the tenants who occupy it.
+Prospective investors should examine EPR's 10-K (CIK 1045450) for: tenant concentration (revenue from top 10 tenants), property-by-property NOI ([net operating income](/net-operating-income/) under the [triple-net lease](/triple-net-lease/)), lease expiration schedule and renewal prospects, and the profile of escalation clauses. Key metrics include [funds from operations](/funds-from-operations/) (FFO) per share, adjusted FFO, dividend coverage ratio, and debt-to-EBITDA. The 10-K also discloses tenant [credit ratings](/credit-rating/) and payment history, allowing readers to assess whether EPR's stable of tenants is financially robust or deteriorating. Understanding EPR's durability requires assessing both the real estate portfolio and the credit health of the tenants who occupy it.
 
 <div class="wiki-seealso">
 

@@ -57,7 +57,7 @@ Bluemount's [balance sheet](/balance-sheet/) should disclose total debt, the rat
 
 Bluemount operates across borders. That brings [currency risk](/currency-risk/). If the company earns profit in a weak currency and needs to pay dividends in dollars, exchange rates matter. A weakening local currency erodes returns. Conversely, a strengthening local currency boosts returns.
 
-Political risk is also real. A shift in policy toward foreign investment, changes in property rights, or nationalization of assets can wipe out value overnight. Holding companies that diversify geographically hedge this risk—if one country becomes hostile, others may thrive.
+[Political risk](/political-risk/) is also real. A shift in policy toward foreign investment, changes in property rights, or nationalization of assets can wipe out value overnight. Holding companies that diversify geographically hedge this risk—if one country becomes hostile, others may thrive.
 
 ## Tax Arbitrage and Holding Company Structures
 

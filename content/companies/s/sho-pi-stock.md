@@ -45,7 +45,7 @@ The company also faces the perpetual question facing all real estate owners: how
 
 ## How to research it
 
-Start with the company's annual 10-K filing (SEC CIK 0001295810), which breaks down the portfolio by market and operator, shows lease terms, and discloses the key assumptions baked into profit-sharing arrangements. Pay attention to the [concentration risk](/concentration-risk/): how much of total earnings does each major operator and each major geographic market represent? Quarterly earnings calls reveal trends in occupancy and average daily rate — these are the leading indicators of profit sharing that will flow through in coming quarters.
+Start with the company's annual 10-K filing (SEC CIK 0001295810), which breaks down the portfolio by market and operator, shows lease terms, and discloses the key assumptions baked into profit-sharing arrangements. Pay attention to the [concentration risk](/concentration-risk/): how much of total earnings does each major operator and each major geographic market represent? Quarterly earnings calls reveal trends in occupancy and average daily rate — these are the [leading indicators](/leading-indicator/) of profit sharing that will flow through in coming quarters.
 
 Watch the [debt-to-assets ratio](/debt-to-assets-ratio/) and the [interest coverage ratio](/interest-coverage-ratio/). When refinancing needs loom, investors should understand Sunstone's liquidity, available credit, and the terms it will face in the capital markets. The [dividend yield](/dividend-yield/) is meaningful, but it is not guaranteed: it depends on executed profits that are not within Sunstone's direct control.
 

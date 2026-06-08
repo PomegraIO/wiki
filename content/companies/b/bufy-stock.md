@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The FT Vest Laddered International Moderate Buffer ETF (BUFY) is an options-based exchange-traded fund designed to give investors exposure to developed international [stock markets](/stock-market/) while attempting to limit downside risk through a structured, laddered approach to capital protection.*
+*The FT Vest Laddered International Moderate [Buffer ETF](/buffer-etf/) (BUFY) is an options-based exchange-traded fund designed to give investors exposure to developed international [stock markets](/stock-market/) while attempting to limit downside risk through a structured, laddered approach to capital protection.*
 
 ## What does BUFY track, and why use the ladder structure?
 

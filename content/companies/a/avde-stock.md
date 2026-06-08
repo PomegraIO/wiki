@@ -30,7 +30,7 @@ This makes AVDE suited to investors who believe value and quality factors have b
 
 The [expense ratio](/expense-ratio/) is modest for an actively managed index overlay. The fund trades on major US [stock exchanges](/stock-exchange/) with tight [bid-ask spreads](/bid-ask-spread/) typical of large equity ETFs, so trading costs for entry and exit are low for typical investor-sized trades.
 
-Liquidity is abundant; AVDE is a flagship product with billions of assets under management. Execution risk on large trades is minimal.
+Liquidity is abundant; AVDE is a flagship product with billions of assets under management. [Execution risk](/execution-risk/) on large trades is minimal.
 
 ## Real risks to understand
 

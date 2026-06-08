@@ -50,7 +50,7 @@ The fund rebalances monthly or quarterly, depending on how much the signals have
 
 ## Why factor timing is hard
 
-The appeal is obvious: capture value premiums when value is cheap, pivot to growth when growth is accelerating, harvest momentum when it is strong. In practice, several things go wrong.
+The appeal is obvious: capture [value premiums](/value-premium/) when value is cheap, pivot to growth when growth is accelerating, harvest momentum when it is strong. In practice, several things go wrong.
 
 First, factor performance is cyclical but not predictable with precision. A model can be right about the direction of the tilt and still be early or late, missing the best part of the rally or catching the tail end of a reversal. Second, the factors themselves are correlated; in some market regimes, rotation signals conflict (value cheap but momentum weak), forcing the algorithm to choose. Third, rebalancing has costs. Turning over the portfolio every quarter means trading commissions, [bid-ask spreads](/bid-ask-spread/), and tax drag that reduce the net benefit of the tilt.
 
@@ -64,7 +64,7 @@ A useful exercise is to look back at the last three to five years and score: how
 
 ## Who this fund suits
 
-AUSF appeals to investors who believe factor performance is partly predictable but do not want to run their own factor rotation model. It may also suit someone trying to blend multiple factor exposures without the work of managing separate funds. The fund's dynamic nature also appeals conceptually to investors uncomfortable with long buy-and-hold factor bets, especially those who have been burned by a single-factor fund during a downtrend in that factor.
+AUSF appeals to investors who believe factor performance is partly predictable but do not want to run their own [factor rotation](/factor-rotation/) model. It may also suit someone trying to blend multiple factor exposures without the work of managing separate funds. The fund's dynamic nature also appeals conceptually to investors uncomfortable with long buy-and-hold factor bets, especially those who have been burned by a single-factor fund during a downtrend in that factor.
 
 The real cost is opportunity: in a market where a single factor outperforms dramatically (like a pure value rally after a long growth outperformance), AUSF's rotation might lag because it was only partly tilted by the time the rally began. The fund trades that regret for protection against being fully committed to a factor just as it turns.
 

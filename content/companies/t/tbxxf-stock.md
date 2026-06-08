@@ -38,7 +38,7 @@ If the Colquemayo Project turns out to host a mineable deposit, the economics de
 
 ## The core risks
 
-Exploration risk is paramount. Promising drill holes don't guarantee a mineable deposit. The ore could be too scattered, too deep, or require processing that destroys its economics. Permitting risk is real in Peru, a country with a complex relationship between mining and indigenous communities and environmental groups. Political risk, commodity price risk, and funding risk all apply. If copper prices crash, investors lose interest in unproven exploration projects, and capital dries up.
+Exploration risk is paramount. Promising drill holes don't guarantee a mineable deposit. The ore could be too scattered, too deep, or require processing that destroys its economics. Permitting risk is real in Peru, a country with a complex relationship between mining and indigenous communities and environmental groups. [Political risk](/political-risk/), commodity price risk, and funding risk all apply. If copper prices crash, investors lose interest in unproven exploration projects, and capital dries up.
 
 ## How to follow the story
 

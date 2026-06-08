@@ -22,7 +22,7 @@ The company expanded from a pure gold miner to a producer of both gold and coppe
 
 Eldorado generates revenue by mining ore at its operating properties, processing that ore to extract the valuable metals, and selling concentrate or refined gold and copper to refineries, fabricators, and traders. The company's mining operations vary in age and efficiency: some are mature, stable producers; others are newer and still ramping up throughput. The revenue per ounce depends on both the grade of ore in the ground and the metallurgical recovery—that is, how much of the gold or copper locked in the rock actually makes it into saleable form.
 
-The primary cost drivers are underground or open-pit mining labor, energy for processing equipment, consumables (explosives, reagents for separation), and transportation of ore and concentrate. Like all miners, Eldorado faces mining permit costs, environmental compliance, and rehabilitation obligations tied to reclaiming land after ore is exhausted. A single mine's profitability is measured by the cash it generates after subtracting these direct operating costs, capital maintenance, and the costs of moving the product to market.
+The primary [cost drivers](/cost-driver/) are underground or open-pit mining labor, energy for processing equipment, consumables (explosives, reagents for separation), and transportation of ore and concentrate. Like all miners, Eldorado faces mining permit costs, environmental compliance, and rehabilitation obligations tied to reclaiming land after ore is exhausted. A single mine's profitability is measured by the cash it generates after subtracting these direct operating costs, capital maintenance, and the costs of moving the product to market.
 
 ## Margins, metal prices, and leverage
 

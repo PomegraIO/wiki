@@ -27,7 +27,7 @@ The fund trades on the [NASDAQ](/nasdaq/), so it can be bought and sold in real 
 
 ## The currency angle
 
-Holdings are denominated in local Asian currencies — Chinese yuan, [Indian rupee](/indian-rupee/), South Korean won, Thai baht, Indonesian rupiah, and others. EEMA does not hedge this currency exposure. For a [US dollar](/us-dollar/) investor, that means returns depend not only on the stock prices of companies in the index but also on the values of those currencies against the dollar. During periods when Asian currencies strengthen, EEMA can deliver additional gains for US investors; when they weaken, returns are dragged lower even if the underlying stocks rise.
+Holdings are denominated in local Asian currencies — Chinese yuan, [Indian rupee](/indian-rupee/), South [Korean won](/korean-won/), Thai baht, Indonesian rupiah, and others. EEMA does not hedge this currency exposure. For a [US dollar](/us-dollar/) investor, that means returns depend not only on the stock prices of companies in the index but also on the values of those currencies against the dollar. During periods when Asian currencies strengthen, EEMA can deliver additional gains for US investors; when they weaken, returns are dragged lower even if the underlying stocks rise.
 
 This is not a flaw — it is a feature for investors who believe in Asian economic growth and want that growth to include currency appreciation. But it adds a layer of volatility and makes EEMA more sensitive to international monetary conditions and [capital flows](/capital-flows/) than a domestically focused fund would be.
 
@@ -47,6 +47,6 @@ The fund's technology and financials content is also elevated because those are 
 
 The fund's prospectus details the index methodology, the expense ratio, and the fund's strategy for handling cash flows and rebalancing. The MSCI Emerging Markets Asia Index documentation explains which countries qualify, how index constituents are selected, and how often the composition changes.
 
-Track the composition of the fund's top ten holdings and their sector weights. Compare EEMA's performance to the plain MSCI Emerging Markets Index and to individual-country funds to understand whether regional [diversification](/diversification/) is adding value or whether concentration is creating drag. Watch for policy announcements in key markets that might reshape returns.
+Track the composition of the fund's top ten holdings and their sector weights. Compare EEMA's performance to the plain [MSCI Emerging Markets Index](/msci-emerging-markets-index/) and to individual-country funds to understand whether regional [diversification](/diversification/) is adding value or whether concentration is creating drag. Watch for policy announcements in key markets that might reshape returns.
 
 EEMA is a straightforward tool for a specific bet: that companies in developing Asia will grow faster than those in mature markets and that those growth prospects justify the volatility. It is not a market-cap-weighted global equity fund; it is a regional sliver chosen because it is believed to be compelling.

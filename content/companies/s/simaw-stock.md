@@ -26,7 +26,7 @@ However, leverage cuts both ways. Warrants expire. SIMAW warrants can be exercis
 
 When SIM Acquisition completes a business combination with a target company, the SPAC structure dissolves and the target becomes the new public company. The shares and warrants automatically convert. Holders of SIMAW receive the right to exercise their warrants into shares of the newly public combined entity at the same eleven dollars fifty cents strike price. The economics don't change — the warrant still gives the same leverage on the new stock — but the issuing company becomes the operating business, not a blank check vehicle.
 
-If the merged company trades above strike, warrant holders can exercise and participate in the stock's appreciation. If it trades below strike, the warrants expire worthless or remain unexercised. Some merged entities offer redemption provisions or other terms that affect how warrants behave. Readers should watch the [merger](/merger/) proxy statement carefully for any tweaks to warrant terms.
+If the merged company trades above strike, warrant holders can exercise and participate in the stock's appreciation. If it trades below strike, the warrants expire worthless or remain unexercised. Some merged entities offer redemption provisions or other terms that affect how warrants behave. Readers should watch the [merger](/merger/) [proxy statement](/proxy-statement/) carefully for any tweaks to warrant terms.
 
 ## What's the biggest risk in owning SIMAW?
 

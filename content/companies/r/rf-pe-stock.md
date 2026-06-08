@@ -38,7 +38,7 @@ Regions operates as a full-service bank. The company divides its business into t
 
 Banks issue preferred stock to satisfy capital requirements set by federal regulators. Under [Basel III](/basel-iii/) capital rules, banks must hold a minimum percentage of their assets in common equity, tier-1 capital, and total capital. Preferred stock counts as tier-1 capital — that is, loss-absorbing capital in the event of extreme stress. By issuing preferred shares, Regions raises capital to lend out or invest while meeting regulatory minimums. The bank could raise the same capital by issuing [common stock](/common-stock/), but that would dilute existing common shareholders' ownership and [voting rights](/voting-rights/). Preferred stock, because it is subordinate to common stock, is sometimes more acceptable to existing common shareholders.
 
-Regulators also require banks to hold Liquidity Coverage Ratios, Stable Funding Ratios, and other buffers. Preferred stock is a way to meet these requirements without issuing more common stock or taking on short-term debt.
+Regulators also require banks to hold [Liquidity Coverage Ratios](/liquidity-coverage-ratio/), Stable Funding Ratios, and other buffers. Preferred stock is a way to meet these requirements without issuing more common stock or taking on short-term debt.
 
 ## The characteristics of RF-PE
 

@@ -22,7 +22,7 @@ The company's strength lies in understanding local preferences and regulations a
 
 ## Revenue and Growth Drivers
 
-Revenue scales with transaction volume and the average value of trades executed on the platform. The company has no recurring subscription revenue; it is purely transaction-dependent. This makes it sensitive to market cycles—when collectors are confident and deploying capital, trading accelerates; during downturns or economic uncertainty, both volume and deal size shrink.
+Revenue scales with transaction volume and the average value of trades executed on the platform. The company has no recurring subscription revenue; it is purely transaction-dependent. This makes it sensitive to [market cycles](/market-cycle/)—when collectors are confident and deploying capital, trading accelerates; during downturns or economic uncertainty, both volume and deal size shrink.
 
 Key growth levers include expanding the seller base (recruiting more dealers and galleries), deepening adoption among institutional collectors, and adding new categories of collectibles beyond traditional fine art. The business also benefits from increased digitization of art trading; many transactions historically occurred in person or through [brokers](/broker/), and the shift to online platforms is still in early stages in several Asian markets.
 
@@ -34,13 +34,13 @@ The space includes larger, better-capitalized competitors, some backed by major 
 
 Transaction-dependent revenue makes the business cyclical. During periods of economic slowdown, art and collectibles are discretionary purchases; collectors reduce spending, dealers become conservative. Regulatory risk is material, since art trading is subject to various rules around valuations, export restrictions, authentication standards, and money-laundering compliance. A tightening of anti-money-laundering rules (which have caught the fine-art sector's attention globally) could increase compliance costs or reduce trading volumes.
 
-The company is also exposed to operational and reputational risks inherent to any online marketplace: authentication fraud, buyer remorse, disputes between parties, and cybersecurity breaches could erode user trust. Given that individual deals may involve significant sums, any major incident could damage the platform's reputation.
+The company is also exposed to operational and [reputational risks](/reputational-risk/) inherent to any online marketplace: authentication fraud, buyer remorse, disputes between parties, and cybersecurity breaches could erode user trust. Given that individual deals may involve significant sums, any major incident could damage the platform's reputation.
 
 Additionally, OCG depends on maintaining a healthy balance between buyers and sellers on its platform. If seller liquidity dries up, buyers have less to browse and may leave. If buyers are scarce, sellers have fewer potential counterparties and less incentive to list.
 
 ## Financial Structure and Capital Requirements
 
-As a [public company](/wiki/public-company/) trading on [NASDAQ](/nasdaq/) under ticker OCG (CIK 1776067), the company files regular [10-K](/wiki/10-k/) reports disclosing its operations, financial condition, and risk factors. Readers should review the latest annual report for current revenue, profitability, cash position, and capital allocation strategy. Given the marketplace model, the business does not require heavy inventory investment (the platform hosts transactions but does not hold inventory itself), allowing for higher gross margins than traditional retail. However, continued investment in technology infrastructure, customer [acquisition](/acquisition/), and compliance is necessary to remain competitive.
+As a [public company](/wiki/public-company/) trading on [NASDAQ](/nasdaq/) under ticker OCG (CIK 1776067), the company files regular [10-K](/wiki/10-k/) reports disclosing its operations, financial condition, and risk factors. Readers should review the latest annual report for current revenue, profitability, cash position, and capital allocation strategy. Given the marketplace model, the business does not require heavy [inventory investment](/inventory-investment/) (the platform hosts transactions but does not hold inventory itself), allowing for higher gross margins than traditional retail. However, continued investment in technology infrastructure, customer [acquisition](/acquisition/), and compliance is necessary to remain competitive.
 
 ## How to Research It
 

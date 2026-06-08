@@ -15,7 +15,7 @@ keywords: ["ADR", "American Depositary Receipt", "holding company", "internation
 
 ## The ADR Unit: Dollar Conversion and Friction
 
-An ADR ([American Depositary Receipt](/adr/)) represents a foreign company's shares held in a depository, allowing US investors to own the underlying equity. The unit economics of Lapco via ADR is mediated by this structure. If Lapco's underlying shares trade in their home currency and the ADR represents one or more of those shares, fluctuations in the [currency pair](/currency-pair/) directly affect the [US dollar](/us-dollar/) return. A subsidiary that generates steady margin in local currency can still destroy ADR holder value if that currency weakens relative to the dollar. Conversely, a currency tailwind can obscure operational deterioration. The unit economics of holding Lapco must account for this currency overlay.
+An ADR ([American Depositary Receipt](/adr/)) represents a foreign company's shares held in a depository, allowing US investors to own the underlying equity. The unit economics of Lapco via ADR is mediated by this structure. If Lapco's underlying shares trade in their home currency and the ADR represents one or more of those shares, fluctuations in the [currency pair](/currency-pair/) directly affect the [US dollar](/us-dollar/) return. A subsidiary that generates steady margin in local currency can still destroy ADR holder value if that currency weakens relative to the dollar. Conversely, a currency tailwind can obscure operational deterioration. The unit economics of holding Lapco must account for this [currency overlay](/currency-overlay/).
 
 ## Holding Company Math: Margin Per Dollar of Capital
 
@@ -25,7 +25,7 @@ This arithmetic can be stark. A subsidiary generating $10 million in EBIT on $50
 
 ## Transaction Cost at the Group Level
 
-Holding companies routinely incur costs their operating subsidiaries do not: corporate tax compliance across jurisdictions, currency conversion on cross-border cash flows, transfer pricing adjustments, and the administrative overhead of coordinating or divesting units. These are real economic drains that reduce the margin available to shareholders. If a subsidiary earns 15% operating margin but the group-level overhead and tax complexity consume 3–4 percentage points, the shareholder's realized margin is 11–12%. For a holding company with diversified international operations, these friction costs are material.
+Holding companies routinely incur costs their operating subsidiaries do not: corporate tax compliance across jurisdictions, currency conversion on cross-border cash flows, [transfer pricing](/transfer-pricing/) adjustments, and the administrative overhead of coordinating or divesting units. These are real economic drains that reduce the margin available to shareholders. If a subsidiary earns 15% operating margin but the group-level overhead and tax complexity consume 3–4 percentage points, the shareholder's realized margin is 11–12%. For a holding company with diversified international operations, these friction costs are material.
 
 Additionally, [dividends](/dividend/) or cash repatriations from foreign subsidiaries incur withholding taxes and often additional local taxes before reaching the parent and, eventually, US shareholders. The unit economics of cash flow—how many dollars of foreign subsidiary earnings ultimately translate to [dividend per share](/dividend-per-share/)—is heavily shaped by the tax architecture. Lapco, as a foreign holding company, faces a tax structure that a purely domestic US firm does not.
 
@@ -41,7 +41,7 @@ Because Lapco operates internationally, the local-currency margin of a foreign s
 
 ## Pooled Capital and Internal Competition
 
-Many holding companies assign a "hurdle rate"—a minimum return required for any new capital deployment. Lapco's subsidiaries effectively compete for incremental capital against each other and against the option to return cash to shareholders (via dividend or buyback). If the hurdle is 12% and a subsidiary can earn only 10%, it should receive no growth capital; instead, cash should be harvested and returned. Monitoring these unit-level returns is critical to shareholder value. If Lapco's management fails to enforce hurdle-rate discipline and allows low-margin subsidiaries to absorb new capital, shareholder returns will compress.
+Many holding companies assign a "[hurdle rate](/hurdle-rate/)"—a minimum return required for any new capital deployment. Lapco's subsidiaries effectively compete for incremental capital against each other and against the option to return cash to shareholders (via dividend or buyback). If the hurdle is 12% and a subsidiary can earn only 10%, it should receive no growth capital; instead, cash should be harvested and returned. Monitoring these unit-level returns is critical to shareholder value. If Lapco's management fails to enforce hurdle-rate discipline and allows low-margin subsidiaries to absorb new capital, shareholder returns will compress.
 
 ---
 

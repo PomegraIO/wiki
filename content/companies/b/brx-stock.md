@@ -65,7 +65,7 @@ The market for strip shopping centers is also mature in most of the United State
 
 Brixmor owns centers across the United States, with significant exposure to suburban markets in California, Texas, Florida, and the Northeast. The company focuses on properties in trade areas with strong demographics — higher incomes, higher education, growing populations. These areas support stronger retailers and allow Brixmor to charge higher rents.
 
-The company also invests in renovations and repositioning of underperforming centers, aiming to make them more attractive to modern retailers and more valuable. These investments are capital-intensive and carry execution risk: the renovation must successfully attract new or upgraded tenants, or the property does not improve.
+The company also invests in renovations and repositioning of underperforming centers, aiming to make them more attractive to modern retailers and more valuable. These investments are capital-intensive and carry [execution risk](/execution-risk/): the renovation must successfully attract new or upgraded tenants, or the property does not improve.
 
 ## Understanding Brixmor as a long-term holding
 

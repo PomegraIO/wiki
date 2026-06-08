@@ -27,7 +27,7 @@ High Income Securities Fund is a closed-end management investment company struct
 
 ## The architecture: investing in other funds
 
-High Income Securities Fund follows a specialized strategy centered on the closed-end fund discount. Most closed-end funds are structured so that investors cannot redeem shares directly; instead, shares trade on an exchange like any stock. This creates a valuation gap: on any given day, the fund's shares might trade for less than the net asset value of the underlying portfolio—often trading at 10, 15, or even 20 percent discounts. The gap persists because many individual investors are unaware of the discount, or because sentiment turns sour on a particular fund or sector.
+High Income Securities Fund follows a specialized strategy centered on the [closed-end fund discount](/closed-end-fund-discount/). Most closed-end funds are structured so that investors cannot redeem shares directly; instead, shares trade on an exchange like any stock. This creates a valuation gap: on any given day, the fund's shares might trade for less than the net asset value of the underlying portfolio—often trading at 10, 15, or even 20 percent discounts. The gap persists because many individual investors are unaware of the discount, or because sentiment turns sour on a particular fund or sector.
 
 High Income Securities identifies closed-end funds and business development companies trading at substantial discounts and invests in them with the expectation that the discount will narrow over time, providing both the income paid by the underlying fund and an appreciation gain when the discount compresses. The strategy amounts to a second-order arbitrage: buy income-producing vehicles at prices below [intrinsic value](/intrinsic-value/), collect their distributions, and wait for the valuation gap to close.
 
@@ -39,7 +39,7 @@ Business development companies (BDCs) form another significant segment. BDCs are
 
 Preferred stocks and convertible securities are a third component. Preferred shares sit between common equity and debt, paying fixed dividends but carrying less downside than common shares if the issuer faces distress. The fund may hold preferred shares of closed-end funds and other companies directly, or through other funds' portfolios.
 
-Special purpose [acquisition](/acquisition/) companies and other structured products round out the mix. These represent smaller allocations but diversify the income sources and provide exposure to strategies the fund believes are undervalued.
+Special purpose [acquisition](/acquisition/) companies and other [structured products](/structured-product/) round out the mix. These represent smaller allocations but diversify the income sources and provide exposure to strategies the fund believes are undervalued.
 
 ## Capital allocation and leverage
 

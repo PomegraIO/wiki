@@ -53,7 +53,7 @@ Retention depends on repeat purchase behavior (customers returning to buy additi
 
 ## Regulatory and Compliance Overhead
 
-Precious metals marketplaces must comply with anti-money-laundering (AML) regulations, know-your-customer (KYC) requirements, and various state and federal reporting obligations. Transaction sizes often trigger suspicious activity reports or currency transaction reports. This regulatory overhead creates operational complexity and requires investment in compliance infrastructure. For smaller or less sophisticated platforms, this can be a significant cost burden that larger competitors absorb more easily.
+Precious metals marketplaces must comply with anti-money-laundering (AML) regulations, know-your-customer (KYC) requirements, and various state and federal reporting obligations. Transaction sizes often trigger [suspicious activity reports](/suspicious-activity-report/) or [currency transaction reports](/currency-transaction-report/). This regulatory overhead creates operational complexity and requires investment in compliance infrastructure. For smaller or less sophisticated platforms, this can be a significant cost burden that larger competitors absorb more easily.
 
 ## Margin Profile and Profitability Path
 

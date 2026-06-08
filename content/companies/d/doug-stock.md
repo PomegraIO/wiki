@@ -25,7 +25,7 @@ The financial model is fragile in ways familiar to all commission-based intermed
 
 Douglas Elliman's strength lies in its dominance in specific high-value markets: New York City and the Hamptons remain the firm's historical anchor, where it has deployed brand and agent relationships over decades. Florida operations, particularly Miami and Palm Beach, serve as a complementary wealth center where international capital and domestic retirees intersect. California expansion adds exposure to Los Angeles and San Francisco, though competitive intensity in these markets is high and agent switching costs are low.
 
-The firm's revenue is therefore hostage to real estate market cycles in three coastal metropolitan regions. When these markets experience sustained inventory shortages and rapid appreciation, as occurred in parts of 2021–2023, transaction velocity and deal sizes both expand, and the firm's commissions scale. Conversely, when mortgage rates rise, buyer affordability contracts, and institutional investors pause [acquisitions](/acquisition/), transaction volume collapses before any adjustment to the agent base can be made.
+The firm's revenue is therefore hostage to real estate [market cycles](/market-cycle/) in three coastal metropolitan regions. When these markets experience sustained inventory shortages and rapid appreciation, as occurred in parts of 2021–2023, transaction velocity and deal sizes both expand, and the firm's commissions scale. Conversely, when mortgage rates rise, buyer affordability contracts, and institutional investors pause [acquisitions](/acquisition/), transaction volume collapses before any adjustment to the agent base can be made.
 
 ## Talent and Scale Trade-Offs
 

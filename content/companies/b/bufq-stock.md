@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The FT Vest Laddered [Nasdaq](/nasdaq/) Buffer ETF tracks the Nasdaq-100, the same index underlying the popular QQQ ETF, but with a structural twist: it is designed to capture most of the upside movement in that growth-heavy index while capping annual losses at approximately 13%. This is not a hedging product for all market conditions, but a defined-outcome fund built on the insight that investors often regret missing big rallies far more acutely than they regret a single bad year, and that capping losses at a known level can make holding through volatility psychologically and financially easier.
+The FT Vest Laddered [Nasdaq](/nasdaq/) [Buffer ETF](/buffer-etf/) tracks the Nasdaq-100, the same index underlying the popular QQQ ETF, but with a structural twist: it is designed to capture most of the upside movement in that growth-heavy index while capping annual losses at approximately 13%. This is not a hedging product for all market conditions, but a defined-outcome fund built on the insight that investors often regret missing big rallies far more acutely than they regret a single bad year, and that capping losses at a known level can make holding through volatility psychologically and financially easier.
 
 <aside class="wiki-infobox">
 <table>

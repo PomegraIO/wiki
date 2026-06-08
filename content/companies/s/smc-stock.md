@@ -32,7 +32,7 @@ The Piceance Basin operates across multiple gas formations—the Mesaverde, Manc
 
 ## Transmission and the Delaware Basin
 
-Beyond its four core gathering basins, Summit holds an equity investment in and operates Double E Pipeline LLC, a natural gas transmission system connecting multiple receipt points in the Delaware Basin (a major producer of associated gas from oil wells) to the Waha Hub in West Texas. Double E provides a strategic link for producers who need transport from the basin to downstream markets. The transmission business differs from gathering in character—longer-haul, fewer counterparties, less subject to the development cycle of a single basin—but is similarly fee-based.
+Beyond its four core gathering basins, Summit holds an equity investment in and operates Double E Pipeline LLC, a natural gas transmission system connecting multiple receipt points in the Delaware Basin (a major producer of [associated gas](/associated-gas/) from oil wells) to the Waha Hub in West Texas. Double E provides a strategic link for producers who need transport from the basin to downstream markets. The transmission business differs from gathering in character—longer-haul, fewer counterparties, less subject to the development cycle of a single basin—but is similarly fee-based.
 
 ## The Economic Model: Volume, Price, and Leverage
 

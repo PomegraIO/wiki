@@ -54,7 +54,7 @@ Over the past few years, rising Fed rates have pressured Valley's margins, but t
 
 Valley is large enough to operate modern banking infrastructure — online banking, mobile apps, loan-processing systems, and risk-management technology — but not so large that it can operate at the efficiency levels of JPMorgan or [Bank of America](/bank-of-america/). The company competes on relationship and service, not on price alone. This means Valley's operating expenses (salaries, rent, technology) are relatively high as a percentage of revenue. Management's ability to manage these costs through technology investment and branch consolidation directly affects profitability.
 
-Capital requirements are another constraint. Regulators require Valley to hold capital equal to at least 10% of its risk-weighted assets. This limits how much the bank can lend relative to its equity base. When Valley acquires another bank, the acquisition dilutes earnings temporarily because the capital deployed does not immediately generate the same return as the bank's existing assets. Over time, as the acquired bank is integrated and synergies are captured, returns improve.
+Capital requirements are another constraint. Regulators require Valley to hold capital equal to at least 10% of its [risk-weighted assets](/risk-weighted-assets/). This limits how much the bank can lend relative to its equity base. When Valley acquires another bank, the acquisition dilutes earnings temporarily because the capital deployed does not immediately generate the same return as the bank's existing assets. Over time, as the acquired bank is integrated and synergies are captured, returns improve.
 
 ## Investment research and metrics
 

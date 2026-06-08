@@ -56,7 +56,7 @@ Having a bank also solves a problem: where does the money come from to fund bill
 
 Capital One is big. It has millions of card customers and is one of the top three credit-card issuers in the country. It finances hundreds of thousands of car loans a year. It has more than a hundred billion dollars in deposits. That size brings real advantages.
 
-Big means Capital One can spread risk. If one customer defaults, it barely matters. With millions of customers, credit losses follow a predictable pattern. A tiny lender with one thousand customers might lose five percent of revenue to bad debts in a down year — a disaster. Capital One loses roughly two or three percent across an entire cycle. That predictability lets the company earn steady profits.
+Big means Capital One can [spread risk](/spread-risk/). If one customer defaults, it barely matters. With millions of customers, credit losses follow a predictable pattern. A tiny lender with one thousand customers might lose five percent of revenue to bad debts in a down year — a disaster. Capital One loses roughly two or three percent across an entire cycle. That predictability lets the company earn steady profits.
 
 Big also means cheap funding. Capital One can borrow money from investors at attractive rates because it is big and stable. A smaller lender has to pay more. If Capital One pays one percent less on its funding, and it funds billions of dollars in loans, that is tens of millions of dollars of extra profit each year.
 

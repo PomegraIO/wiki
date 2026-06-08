@@ -35,7 +35,7 @@ Holding costs come implicitly through the decay itself. In range-bound or down m
 
 The central risk in AVL is not AVGO falling (though that certainly hurts a 2X bull). It is volatility decay — the erosion that happens when a highly leveraged position rebalances daily through ups and downs. A stock that finishes the month where it started but swung wildly in between may leave a 2X fund down 20% or more. This is not a failure of the fund; it is the mechanical cost of leverage and daily reset.
 
-A related risk is gap risk: if Broadcom has a catastrophic drop in a single session (owing to earnings, [acquisition](/acquisition/) news, or sector shock), AVL could fall 40%, 50%, or more in a day. Leverage amplifies [tail risk](/tail-risk/), so a 20% stock drop becomes a 40% fund drop.
+A related risk is [gap risk](/gap-risk/): if Broadcom has a catastrophic drop in a single session (owing to earnings, [acquisition](/acquisition/) news, or sector shock), AVL could fall 40%, 50%, or more in a day. Leverage amplifies [tail risk](/tail-risk/), so a 20% stock drop becomes a 40% fund drop.
 
 ## How to research it
 

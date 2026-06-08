@@ -75,7 +75,7 @@ But the transition is also a threat. As power generation becomes more distribute
 
 ## Pressures: capital intensity, consolidation risk, and execution
 
-Pfisterer is a capital-intensive business. Manufacturing electrical equipment requires precision tooling, testing labs, and quality systems. The company is not automation-light; it has invested heavily in factories. This means growth requires significant capital investment and carries real operational execution risk—if product quality slips or if production is disrupted, it is expensive to recover.
+Pfisterer is a capital-intensive business. Manufacturing electrical equipment requires precision tooling, testing labs, and quality systems. The company is not automation-light; it has invested heavily in factories. This means growth requires significant capital investment and carries real operational [execution risk](/execution-risk/)—if product quality slips or if production is disrupted, it is expensive to recover.
 
 The broader electrical-equipment industry is consolidating. Larger conglomerates are acquiring smaller specialists to build portfolios and achieve scale. Pfisterer has resisted [acquisition](/acquisition/) attempts and remains family-influenced (majority stakeholder is the founder's family), but consolidation pressure is real. If a much larger competitor enters the specialized connection market aggressively, Pfisterer could face margin pressure.
 

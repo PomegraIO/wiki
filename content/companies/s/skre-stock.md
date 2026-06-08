@@ -13,7 +13,7 @@ handwritten: true
 
 ## What does SKRE actually do?
 
-SKRE is an exchange-traded fund sponsored by Tuttle Capital Management that aims to deliver twice the opposite daily return of a regional banking stock index. If the regional bank index falls 1 percent on a given day, SKRE targets a 2 percent gain. If the index rises 1 percent, SKRE targets a 2 percent loss. The fund uses derivatives to construct this inverse-leveraged exposure rather than owning bank stocks directly. It is explicitly designed as a short-term tactical tool — intended for days or weeks of use, not buy-and-hold investing.
+SKRE is an exchange-traded fund sponsored by Tuttle Capital Management that aims to deliver twice the opposite daily return of a regional banking stock index. If the regional bank index falls 1 percent on a given day, SKRE targets a 2 percent gain. If the index rises 1 percent, SKRE targets a 2 percent loss. The fund uses derivatives to construct this inverse-leveraged exposure rather than owning bank stocks directly. It is explicitly designed as a short-term tactical tool — intended for days or weeks of use, not [buy-and-hold investing](/buy-and-hold/).
 
 ## How do the leverage and inverse mechanics actually work?
 

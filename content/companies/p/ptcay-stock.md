@@ -33,7 +33,7 @@ However, Indonesia's advantages come with offsetting challenges. Infrastructure 
 
 PT Chandra Asri was founded in 1990 and began operations in 1997, initially as a joint venture with Mitsubishi Gas Chemical (Japan), which owned a stake and provided technology. Over time, Indonesian shareholders increased their stake. The company is now publicly listed on the Indonesian [stock exchange](/stock-exchange/) (ticker ASII.JK, separate from the ADR traded in the US), and its controlling shareholder is a group of Indonesian business families and institutions.
 
-The American depositary receipt (PTCAY) allows US investors to hold shares in the Indonesian company without directly holding Indonesian rupiah securities. The ADR is less liquid than major US stocks because Chandra Asri is a regional Asian company, not a globally recognized brand. Investors in PTCAY are making a bet on the Indonesian petrochemical industry and this company's competitive position within it.
+The American [depositary receipt](/depositary-receipt/) (PTCAY) allows US investors to hold shares in the Indonesian company without directly holding Indonesian rupiah securities. The ADR is less liquid than major US stocks because Chandra Asri is a regional Asian company, not a globally recognized brand. Investors in PTCAY are making a bet on the Indonesian petrochemical industry and this company's competitive position within it.
 
 ## Competitive positioning and profitability
 

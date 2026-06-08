@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The most memorable thing about [closed-end funds](/closed-end-fund/) like the Gabelli Global Small & Mid Cap Value Trust is that they trade like stocks while holding stocks — a distinction that transforms the investment entirely. Most [mutual funds](/mutual-fund/) calculate daily [net asset value](/net-asset-value/) and let you buy or sell at that price. GGZ, which trades under ticker GGZ on the American [Stock Exchange](/stock-exchange/), instead trades at whatever price the market will pay for its shares, which may be well above or well below the value of its underlying holdings. That spread — the discount or premium — becomes as important as the fund's actual investment performance and creates an entirely separate layer of risk and opportunity across market cycles.
+The most memorable thing about [closed-end funds](/closed-end-fund/) like the Gabelli Global Small & Mid Cap Value Trust is that they trade like stocks while holding stocks — a distinction that transforms the investment entirely. Most [mutual funds](/mutual-fund/) calculate daily [net asset value](/net-asset-value/) and let you buy or sell at that price. GGZ, which trades under ticker GGZ on the American [Stock Exchange](/stock-exchange/), instead trades at whatever price the market will pay for its shares, which may be well above or well below the value of its underlying holdings. That spread — the discount or premium — becomes as important as the fund's actual investment performance and creates an entirely separate layer of risk and opportunity across [market cycles](/market-cycle/).
 
 <aside class="wiki-infobox">
 <table>

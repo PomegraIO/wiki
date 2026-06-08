@@ -47,7 +47,7 @@ Municipal credit quality varies dramatically. A bond issued by a large, diversif
 
 ## How leverage amplifies yield
 
-Many municipal bond funds, including AFB, use financial leverage (borrowed money) to amplify their income. The fund borrows at short-term rates (which are typically lower than long-term municipal-bond yields) and uses that borrowed capital to buy more bonds. The yield spread between the longer-term munis and the cost of short-term borrowing is pocketed as extra income. This works beautifully when short-term rates stay low; it becomes a headwind if short-term rates rise sharply and the fund is forced to refinance at higher rates.
+Many [municipal bond funds](/municipal-bond-fund/), including AFB, use financial leverage (borrowed money) to amplify their income. The fund borrows at short-term rates (which are typically lower than long-term municipal-bond yields) and uses that borrowed capital to buy more bonds. The yield spread between the longer-term munis and the cost of short-term borrowing is pocketed as extra income. This works beautifully when short-term rates stay low; it becomes a headwind if short-term rates rise sharply and the fund is forced to refinance at higher rates.
 
 Leverage is disclosed prominently in fund materials, but many investors overlook it. A fund that uses leverage will experience both larger gains and larger losses than an un-leveraged fund; during periods of rising rates or credit stress, that amplification can be brutal.
 

@@ -30,7 +30,7 @@ Lennar builds homes ranging from entry-level to luxury across all price points. 
 
 The homebuilding operation splits into three geographic segments: East, Central, and West. The East region covers the Atlantic seaboard and parts of Florida. Central includes Texas, Arizona, and the interior Mountain states. West covers California, Hawaii, and the Pacific Northwest. Each region has different market dynamics, cost structures, and buyer profiles, though Lennar operates them under a unified brand and company culture.
 
-Beyond pure homebuilding, Lennar owns two subsidiary engines: Lennar Financial Services (mortgages, title insurance, and [homeowners insurance](/homeowners-insurance/)) and Radian, its former mortgage insurer (spun as an independent public company in recent years). The financial services arm is strategically important because it captures origination economics and deepens buyer relationships, though it also concentrates [credit risk](/credit-risk/) during downturns.
+Beyond pure homebuilding, Lennar owns two subsidiary engines: Lennar Financial Services (mortgages, [title insurance](/title-insurance/), and [homeowners insurance](/homeowners-insurance/)) and Radian, its former mortgage insurer (spun as an independent public company in recent years). The financial services arm is strategically important because it captures origination economics and deepens buyer relationships, though it also concentrates [credit risk](/credit-risk/) during downturns.
 
 In 2021, Lennar spun off Millrose, its land company, into an independent public corporation. Millrose holds undeveloped land and manages the land pipeline for Lennar under a long-term supply agreement. This separation allowed Lennar to reduce capital intensity, move toward a true land-light model, and free Millrose to monetize land at a faster pace or to third-party builders. The arrangement aligns incentives: Millrose profits from land appreciation and sales velocity, while Lennar focuses on construction efficiency and margin.
 
@@ -80,7 +80,7 @@ Capital allocation priorities typically reflect the cycle. In strong markets, Le
 
 ## Researching Lennar
 
-Start with the [10-K](/wiki/10-k/), filed annually. Look for changes in backlog, average selling price, gross margins, and land inventory. Backlog (homes under contract but not yet closed) is a leading indicator of future revenue and is disclosed in quarterly releases.
+Start with the [10-K](/wiki/10-k/), filed annually. Look for changes in backlog, average selling price, gross margins, and land inventory. Backlog (homes under contract but not yet closed) is a [leading indicator](/leading-indicator/) of future revenue and is disclosed in quarterly releases.
 
 Watch quarterly earnings calls for commentary on demand trends, pricing power, and cost inflation. Lennar typically speaks candidly about weakening demand before it shows up in official numbers.
 

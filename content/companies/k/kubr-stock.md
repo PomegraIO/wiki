@@ -74,14 +74,14 @@ Key sections:
 1. **Properties**: Detailed description of each property, location, acreage, Kuber's interest %, and exploration work to date.
 2. **Cash flow from operations**: Should show exploration expenditure, capitalized as assets.
 3. **Financing activities**: Shows equity or debt raises.
-4. **Subsequent events**: Any new financings, property [acquisitions](/acquisition/), or option defaults.
+4. **[Subsequent events](/subsequent-events/)**: Any new financings, property [acquisitions](/acquisition/), or option defaults.
 5. **Risk factors**: Addresses permitting, Indigenous consultation, commodity price sensitivity, and financing risk.
 
 An analyst should create a simple timeline: current cash, monthly burn, next funding need. Compare that to management's guidance on permitting and exploration milestones. If permitting will take three years but the company runs out of money in two, there is a financing gap.
 
 ## Valuation for Non-Revenue Companies
 
-Comparing Kuber to peers requires a non-traditional lens. Conventional metrics (P/E, price-to-sales) do not apply. Instead, compare market cap to acreage held, cash burn rate, and exploration stage. Also note the size and experience of the management team: a smaller team may struggle to advance multiple properties in parallel, creating execution risk beyond the geological fundamentals.
+Comparing Kuber to peers requires a non-traditional lens. Conventional metrics (P/E, price-to-sales) do not apply. Instead, compare market cap to acreage held, cash burn rate, and exploration stage. Also note the size and experience of the management team: a smaller team may struggle to advance multiple properties in parallel, creating [execution risk](/execution-risk/) beyond the geological fundamentals.
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>

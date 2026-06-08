@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Eaton Vance Tax-Managed Diversified Equity Income Fund (NYSE: ETY) exists to solve a specific problem: how to give investors exposure to dividend-paying stocks while managing the tax drag that comes with frequent trading and high-turnover portfolios. The fund, a closed-end structure launched in the late 1990s, is managed by Eaton Vance (now owned by [Morgan Stanley](/morgan-stanley/)), one of the large asset managers in the United States. Its story is the story of the closed-end fund industry itself — a sector that flourished, stumbled, adapted, and has found a durable niche serving income-seeking investors who value the tax efficiency and professional management that such funds can provide.
+The Eaton Vance Tax-Managed Diversified [Equity Income Fund](/equity-income-fund/) (NYSE: ETY) exists to solve a specific problem: how to give investors exposure to dividend-paying stocks while managing the tax drag that comes with frequent trading and high-turnover portfolios. The fund, a closed-end structure launched in the late 1990s, is managed by Eaton Vance (now owned by [Morgan Stanley](/morgan-stanley/)), one of the large asset managers in the United States. Its story is the story of the closed-end fund industry itself — a sector that flourished, stumbled, adapted, and has found a durable niche serving income-seeking investors who value the tax efficiency and professional management that such funds can provide.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ The fund's core innovation was the tax-management process. While a typical divid
 
 ## The closed-end fund era: growth and disruption
 
-Throughout the 2000s and early 2010s, closed-end funds were a staple offering for asset managers. They appealed to investors seeking yield, to advisors who wanted to offer structured products with professional management, and to managers who valued the stable capital base that closed-end funds provided. Eaton Vance built a substantial [fund family](/fund-family/), and ETY was one of the marquee offerings — large enough to have low fees, respected enough to trade near [net asset value](/net-asset-value/) much of the time.
+Throughout the 2000s and early 2010s, closed-end funds were a staple offering for asset managers. They appealed to investors seeking yield, to advisors who wanted to offer [structured products](/structured-product/) with professional management, and to managers who valued the stable capital base that closed-end funds provided. Eaton Vance built a substantial [fund family](/fund-family/), and ETY was one of the marquee offerings — large enough to have low fees, respected enough to trade near [net asset value](/net-asset-value/) much of the time.
 
 But the financial crisis of 2008–2009 exposed the fragility of this model. Fund values collapsed, leverage became expensive and risky, and many investors redeemed their holdings. Closed-end funds discounts to NAV widened sharply; some funds cut or suspended distributions; a few closed or merged. The industry contracted significantly. Eaton Vance survived and continued managing funds, but growth slowed. A new generation of investors coming into the market preferred the low cost and simplicity of passive [index funds](/index-fund/) and ETFs, which were rapidly expanding. The closed-end fund, once a mainstream offering, became a specialist product.
 
@@ -61,7 +61,7 @@ ETY's long track record — more than 25 years — allows this comparison. Over 
 
 ETY competes against a growing array of alternatives. Other closed-end equity [income funds](/income-fund/) exist, managed by Nuveen, Parnassus, Franklin, and others. It also competes against open-end mutual funds focused on dividend income, and increasingly against [dividend-focused ETFs](/dividend-focused-etf/), which offer lower fees and daily liquidity. The tax-efficiency angle is less central to marketing now, because many investors use [tax-loss harvesting](/tax-loss-harvesting/) software (offered by robo-advisors and wealth managers) and tax-aware trading platforms that approximate professional-grade tax management.
 
-For those who value professional management, a closed-end fund structure, and a long track record of tax-aware investing, ETY remains relevant. For others, a low-cost dividend ETF or a diversified index fund may be simpler and cheaper. The closed-end fund's survival has come to depend not on being the obvious choice for income but on serving a specific, often affluent, shareholder base that values what the fund offers enough to hold it across multiple market cycles.
+For those who value professional management, a closed-end fund structure, and a long track record of tax-aware investing, ETY remains relevant. For others, a low-cost dividend ETF or a diversified index fund may be simpler and cheaper. The closed-end fund's survival has come to depend not on being the obvious choice for income but on serving a specific, often affluent, shareholder base that values what the fund offers enough to hold it across multiple [market cycles](/market-cycle/).
 
 ## How to research Eaton Vance Tax-Managed Diversified Equity Income
 

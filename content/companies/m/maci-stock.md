@@ -59,6 +59,6 @@ The grocery delivery market remains highly competitive, with several entrenched 
 
 ## How to track the deal
 
-Watch the SEC filings for updates on closing conditions and any changes to deal terms. The proxy statement filed ahead of the shareholder vote (typically a PREM14A form) will contain detailed financial information about Everli, management commentary, and risk factors. That document is the main artifact for investor due diligence.
+Watch the SEC filings for updates on closing conditions and any changes to deal terms. The [proxy statement](/proxy-statement/) filed ahead of the shareholder vote (typically a PREM14A form) will contain detailed financial information about Everli, management commentary, and risk factors. That document is the main artifact for investor [due diligence](/due-diligence/).
 
 As with all SPACs, nothing here is investment advice — only a framework for understanding the structure and what to monitor.

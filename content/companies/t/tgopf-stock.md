@@ -35,7 +35,7 @@ ICFC grew quietly through the postwar decades, becoming a respected source of pa
 
 ## The transformation into a modern investment house
 
-The 1980s and 1990s were transformative. As the broader economy began to embrace buyouts and leveraged transactions, FFI found itself at the centre of a new asset class. The company became a leading financier of [management buyouts](/management-buyout/) — transactions in which a company's managers acquire the business from its owners, often with borrowed money and professional investors supplying the equity cushion.
+The 1980s and 1990s were transformative. As the broader economy began to embrace buyouts and leveraged transactions, FFI found itself at the centre of a new asset class. The company became a leading financier of [management buyouts](/management-buyout/) — transactions in which a company's managers acquire the business from its owners, often with borrowed money and professional investors supplying the [equity cushion](/equity-cushion/).
 
 This was the incubation of what would become 3i as a private equity firm. Buyouts are fundamentally different from traditional lending: instead of financing a company to grow in place, you finance the [acquisition](/acquisition/) of the company itself, often from a family owner or a larger conglomerate looking to divest. You then have five to ten years to improve the business and sell it at a profit. The returns can be substantial, and the skill required is acute: finding businesses that are worth more to a new owner than to the current one, assembling financial structures that let you acquire them, and then executing the improvement and exit.
 

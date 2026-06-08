@@ -61,7 +61,7 @@ A secondary risk is the media landscape itself. SiriusXM's moat — the fact tha
 
 ## How to approach Liberty as an investment
 
-Start with Liberty's investor documents and quarterly reports. The company publishes detailed segment information on SiriusXM and Qurate, including subscriber counts, churn, and cash generation. Track those numbers; they are leading indicators of whether Malone's thesis on each business is working.
+Start with Liberty's investor documents and quarterly reports. The company publishes detailed segment information on SiriusXM and Qurate, including subscriber counts, churn, and cash generation. Track those numbers; they are [leading indicators](/leading-indicator/) of whether Malone's thesis on each business is working.
 
 Second, read interviews or letters where Malone discusses capital allocation. His outlook on interest rates, media consolidation, and which assets are cheap relative to their [intrinsic value](/intrinsic-value/) shapes what the company does next. If you believe his judgment on those questions, Liberty stock appeals to you. If you do not, avoid it.
 

@@ -51,7 +51,7 @@ Cogent operates in a secular growth industry—data consumption will continue to
 ### Closely related
 - Data Centers
 - Fiber Optic Networks
-- Colocation Services
+- [Colocation Services](/colocation-services/)
 - Cloud Computing
 - Capital Intensity
 

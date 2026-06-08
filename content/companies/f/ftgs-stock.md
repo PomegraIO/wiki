@@ -55,4 +55,4 @@ A recession or sharp economic contraction would test both components: growth sco
 
 ## Comparison and research approach
 
-Investors comparing FTGS to alternatives should consider a pure Russell 1000 Growth [Index fund](/index-fund/) (which holds every growth-categorised stock regardless of quality), a pure quality or dividend fund, and one or more competing growth-quality hybrids to see how returns, volatility, and drawdowns compare over full market cycles. The prospectus and fact sheets will detail the exact growth and strength scoring methodology, historical returns, and current holdings.
+Investors comparing FTGS to alternatives should consider a pure Russell 1000 Growth [Index fund](/index-fund/) (which holds every growth-categorised stock regardless of quality), a pure quality or dividend fund, and one or more competing growth-quality hybrids to see how returns, volatility, and drawdowns compare over full [market cycles](/market-cycle/). The prospectus and fact sheets will detail the exact growth and strength scoring methodology, historical returns, and current holdings.

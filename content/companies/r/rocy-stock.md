@@ -34,7 +34,7 @@ The fund's design implicitly makes a bet that equity prices will remain range-bo
 
 ROCY holds a portfolio of roughly 100 large-cap stocks drawn from the Russell 1000 index. Rather than holding them passively, JPMorgan selects which calls to write — choosing which stocks, at what strike prices, and with what [expiration dates](/expiration-contracts/) — in an attempt to balance the income-generation goal with the need to track the performance of its underlying equity basket reasonably closely. The calls typically expire monthly, after which the process repeats. If a call is exercised because the stock price has risen above the strike, the fund loses the holding but receives the strike price in cash, which is then reinvested.
 
-Because ROCY is writing options rather than simply holding stocks, the fund's movements are not identical to a plain-vanilla large-cap index ETF. In rising markets, ROCY typically underperforms (due to the capped upside), while in flat or falling markets it tends to outperform (because the option premiums cushion losses). Over full market cycles, this performance drag is the cost of the steady income stream.
+Because ROCY is writing options rather than simply holding stocks, the fund's movements are not identical to a plain-vanilla large-cap index ETF. In rising markets, ROCY typically underperforms (due to the capped upside), while in flat or falling markets it tends to outperform (because the option premiums cushion losses). Over full [market cycles](/market-cycle/), this performance drag is the cost of the steady income stream.
 
 ## Costs and who holds it
 

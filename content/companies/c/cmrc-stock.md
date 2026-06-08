@@ -43,7 +43,7 @@ As Commerce.com grows and adds merchants, the data it collects becomes valuable.
 
 ## Regulation and payment risk
 
-Any company that processes payments or holds customer data faces regulatory scrutiny. Payment processors must comply with anti-money-laundering rules, fraud prevention, and data security standards. These are not optional; violations bring fines and reputational harm. Commerce.com's [10-K filing](/10-k/) will disclose any material regulatory risk or compliance cost. Investor due diligence requires reading those disclosures.
+Any company that processes payments or holds customer data faces regulatory scrutiny. Payment processors must comply with anti-money-laundering rules, fraud prevention, and data security standards. These are not optional; violations bring fines and reputational harm. Commerce.com's [10-K filing](/10-k/) will disclose any material regulatory risk or compliance cost. Investor [due diligence](/due-diligence/) requires reading those disclosures.
 
 ## Why the category matters
 

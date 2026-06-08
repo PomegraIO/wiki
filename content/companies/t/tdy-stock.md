@@ -64,7 +64,7 @@ Government contracts, particularly from the Department of Defense and NASA, prov
 
 Teledyne is heavily exposed to U.S. government budgets. The defense and aerospace segments depend on appropriations that Congress controls and that can be cut or redirected toward different priorities. Budget uncertainty or a major shift in military strategy — for example, a retreat from overseas presence or a pivot away from crewed aircraft toward pure autonomous systems — could reshape the company's addressable market.
 
-The FLIR acquisition was expensive and transformative. Integration remains ongoing, and if the company struggles to reduce overlapping costs or fails to cross-sell FLIR's products to existing Teledyne customers (or vice versa), the deal could underperform expectations. Large acquisitions also carry execution risk: the blending of different corporate cultures, information systems, and supply chains can be messy and costly.
+The FLIR acquisition was expensive and transformative. Integration remains ongoing, and if the company struggles to reduce overlapping costs or fails to cross-sell FLIR's products to existing Teledyne customers (or vice versa), the deal could underperform expectations. Large acquisitions also carry [execution risk](/execution-risk/): the blending of different corporate cultures, information systems, and supply chains can be messy and costly.
 
 Supply-chain volatility affects Teledyne's ability to deliver. Many products depend on specialized components — semiconductors, rare-earth elements, precision machining — sourced globally. Disruptions can delay shipments and erode margins if the company cannot pass costs to customers immediately.
 

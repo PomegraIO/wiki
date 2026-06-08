@@ -30,7 +30,7 @@ FMFC shareholders face a choice at the time of merger: remain invested in the co
 
 The sponsors and founders of FMFC typically own a portion of the company (often called "[founder shares](/founder-shares/)" or promote shares) that carries superior voting or economic rights. They may also commit capital to the merger beyond their founder equity. This sponsor stake creates an incentive to complete a deal: if FMFC fails to merge and dissolves, the sponsors lose their equity and any sunk capital. Sponsors often have to forfeit their shares if the merger does not close within a specified window, further motivating deal completion.
 
-The sponsor structure reveals a potential conflict: sponsors want to close *a* deal, not necessarily the *best* deal. Because their founder equity is at risk, they may accept a target business that appears weaker or pricier than ideal, just to avoid losing their entire equity stake. This "deal completion risk" is a hallmark of the SPAC model. Investors in FMFC need to scrutinize sponsor incentives and the due diligence process for any potential merger target.
+The sponsor structure reveals a potential conflict: sponsors want to close *a* deal, not necessarily the *best* deal. Because their founder equity is at risk, they may accept a target business that appears weaker or pricier than ideal, just to avoid losing their entire equity stake. This "deal completion risk" is a hallmark of the SPAC model. Investors in FMFC need to scrutinize sponsor incentives and the [due diligence](/due-diligence/) process for any potential merger target.
 
 ## Debt and Leverage Constraints
 

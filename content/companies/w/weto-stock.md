@@ -84,5 +84,5 @@ Monitor the installed base of deployed robots and subscription customer count. T
 
 Track gross margin and R&D spending as a percentage of revenue. Improving margins suggest operational efficiency or pricing power. Declining R&D spending relative to revenue could signal under-investment in future products.
 
-Finally, watch Chinese economic data and hospitality sector trends. Indices of hotel occupancy, commercial real-estate development, and Chinese GDP growth are leading indicators of Wetour's addressable market. Similarly, announcements about international customer wins or expansion milestones signal progress in geographical diversification.
+Finally, watch Chinese economic data and hospitality sector trends. Indices of hotel occupancy, commercial real-estate development, and Chinese GDP growth are [leading indicators](/leading-indicator/) of Wetour's addressable market. Similarly, announcements about international customer wins or expansion milestones signal progress in geographical diversification.
 

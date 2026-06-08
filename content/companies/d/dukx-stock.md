@@ -28,7 +28,7 @@ That principle animates Ocean Park [International ETF](/international-etf/). DUK
 
 ## The strategy and how it adapts
 
-DUKX maintains a universe of international equity ETFs that are unconstrained—no commitment to size, style, region, or country. The fund might hold Japan, Brazil, India, the UK, the MSCI Emerging Markets index, or any number of developed-nation indices depending on what its proprietary signals suggest. The active rotation happens through banded moving averages: each international ETF candidate is evaluated continuously. When a fund's price crosses above the upper band of its moving average channel, it earns a buy signal; when it falls below the lower band, it gets sold. The fund holds cash equivalents when no uptrends are detected.
+DUKX maintains a universe of international equity ETFs that are unconstrained—no commitment to size, style, region, or country. The fund might hold Japan, Brazil, India, the UK, the [MSCI Emerging Markets index](/msci-emerging-markets-index/), or any number of developed-nation indices depending on what its proprietary signals suggest. The active rotation happens through banded [moving averages](/moving-average/): each international ETF candidate is evaluated continuously. When a fund's price crosses above the upper band of its moving average channel, it earns a buy signal; when it falls below the lower band, it gets sold. The fund holds cash equivalents when no uptrends are detected.
 
 This approach treats international markets as a competitive space. Rather than maintaining a fixed geographic or developed/emerging split, DUKX chases wherever the momentum is strongest. In years when emerging markets outpace developed, the fund shifts that way. When European or Japanese equities lead, the weighting adjusts. The system does not predict; it responds to price action after the fact.
 
@@ -38,7 +38,7 @@ Active international equity management comes at a price—the fund levies an [ex
 
 Currency fluctuations add another layer of complexity. International equity exposure carries inherent foreign exchange risk, though the underlying ETFs handle currency exposure in their own ways—some unhedged, some hedged. DUKX itself does not hedge, so an investor is exposed both to stock market moves and to the dollar's strength or weakness relative to other currencies.
 
-Liquidity in international ETFs can be thinner than in US-market funds, especially in emerging-market indices. The fund's ability to move in and out of positions depends on underlying ETF liquidity. Tax efficiency also takes a hit when the system rotates frequently; capital gains distributions and short-term trading activity matter more in a taxable account than in a retirement account.
+Liquidity in international ETFs can be thinner than in US-market funds, especially in emerging-market indices. The fund's ability to move in and out of positions depends on underlying ETF liquidity. Tax efficiency also takes a hit when the system rotates frequently; [capital gains distributions](/capital-gains-distribution/) and short-term trading activity matter more in a taxable account than in a retirement account.
 
 ## Who DUKX is for, and how to monitor it
 

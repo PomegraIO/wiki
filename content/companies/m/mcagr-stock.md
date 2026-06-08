@@ -51,4 +51,4 @@ MCAGR is distinct from MCAG (common shares) because it gives holders a future pu
 
 ## Monitoring MCAGR as an investor
 
-An investor holding MCAGR should track Mountain Crest's progress toward a business combination through SEC filings and investor updates. Once a target is announced or a merger is proposed, the prospectus supplement and proxy statement will specify the exact exercise terms, [expiration dates](/expiration-contracts/), and any redemption provisions. Rational exercise requires comparing the strike price to the merged company's anticipated or actual trading price at the moment the right becomes exercisable.
+An investor holding MCAGR should track Mountain Crest's progress toward a business combination through SEC filings and investor updates. Once a target is announced or a merger is proposed, the prospectus supplement and [proxy statement](/proxy-statement/) will specify the exact exercise terms, [expiration dates](/expiration-contracts/), and any redemption provisions. Rational exercise requires comparing the strike price to the merged company's anticipated or actual trading price at the moment the right becomes exercisable.

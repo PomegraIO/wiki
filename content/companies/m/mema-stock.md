@@ -35,7 +35,7 @@ Emerging markets are far more cyclical than developed markets. They are highly s
 
 This boom-and-bust pattern is the core thesis for an active emerging-markets fund. If MEMA's managers spot turning points — recognizing when an emerging market is overheated and capital is about to flee, or when deeply undervalued and about to attract fresh capital — they can outperform by rotating in and out or hedging downside risk.
 
-[Currency risk](/currency-risk/) compounds the volatility. Most emerging-market stocks are denominated in local currencies ([Indian rupees](/indian-rupee/), Brazilian reals, Mexican pesos), and when those currencies weaken during risk-off periods, international investors suffer twice: from falling stock prices and currency [depreciation](/depreciation/). MEMA's managers can hedge currency exposure or leave it unhedged depending on conviction.
+[Currency risk](/currency-risk/) compounds the volatility. Most emerging-market stocks are denominated in local currencies ([Indian rupees](/indian-rupee/), [Brazilian reals](/brazilian-real/), [Mexican pesos](/mexian-peso/)), and when those currencies weaken during risk-off periods, international investors suffer twice: from falling stock prices and currency [depreciation](/depreciation/). MEMA's managers can hedge currency exposure or leave it unhedged depending on conviction.
 
 ## Structure, costs, and liquidity
 
@@ -59,4 +59,4 @@ MEMA suits investors who have conviction that emerging markets will be attractiv
 
 To evaluate MEMA, examine the prospectus and holding list to understand geographic and sector mix. Track performance relative to a relevant emerging-markets benchmark over rolling three to five-year periods; shorter-term performance is noise. Also assess portfolio managers' biographical information and track records: do they have deep emerging-markets experience and demonstrated ability to navigate cycles?
 
-Monitor portfolio turnover and ask whether the level of trading is consistent with stated strategy. Watch largest holdings and geographic allocations to see if bets are concentrated or diversified, and whether they shift with market cycles as expected from active management.
+Monitor portfolio turnover and ask whether the level of trading is consistent with stated strategy. Watch largest holdings and geographic allocations to see if bets are concentrated or diversified, and whether they shift with [market cycles](/market-cycle/) as expected from active management.

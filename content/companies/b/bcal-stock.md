@@ -33,7 +33,7 @@ A critical metric for any bank is its loan portfolio composition and the rate of
 
 During economic downturns, loan losses spike. Borrowers who lose jobs default on mortgages. Small businesses fold and can't repay commercial loans. For California BanCorp, the state's economic health is directly relevant. California's [unemployment rate](/unemployment-rate/), wage trends, and real estate market affect both the quality of the bank's existing loan book and the demand for new lending.
 
-A bank's [loan-loss reserve](/balance-sheet/) is the accounting estimate of future losses. Banks set aside capital against expected defaults. If charge-offs exceed reserves, the bank must take provisions (hitting [earnings per share](/earnings-per-share/)), which can surprise investors. Conversely, if reserves prove too high, the bank can release excess reserves and boost earnings. This accounting dynamic is important to tracking bank profitability quarter-to-quarter.
+A bank's [loan-loss reserve](/balance-sheet/) is the [accounting estimate](/accounting-estimate/) of future losses. Banks set aside capital against expected defaults. If charge-offs exceed reserves, the bank must take provisions (hitting [earnings per share](/earnings-per-share/)), which can surprise investors. Conversely, if reserves prove too high, the bank can release excess reserves and boost earnings. This accounting dynamic is important to tracking bank profitability quarter-to-quarter.
 
 ## Deposits and Funding
 
@@ -43,7 +43,7 @@ Deposit stability is crucial. If depositors withdraw funds en masse (a "run"), t
 
 ## Capital Requirements and Dividend Policy
 
-Banks are heavily regulated. The Federal Reserve and the FDIC impose minimum [capital](/balance-sheet/) ratios—the bank must maintain equity relative to risk-weighted assets. These regulations ensure banks don't over-leverage. California BanCorp's capital ratios are disclosed in the [10-K](/10-k/) and quarterly filings.
+Banks are heavily regulated. The Federal Reserve and the FDIC impose minimum [capital](/balance-sheet/) ratios—the bank must maintain equity relative to [risk-weighted assets](/risk-weighted-assets/). These regulations ensure banks don't over-leverage. California BanCorp's capital ratios are disclosed in the [10-K](/10-k/) and quarterly filings.
 
 Because banks are profitable in normal times if interest spreads are adequate, many pay [dividends](/dividend/). California BanCorp's [dividend yield](/dividend-yield/) and [payout ratio](/payout-ratio/) (the percentage of earnings paid out as dividends) are relevant to yield-focused investors. However, dividends can be cut if the bank faces unexpected losses or if capital is needed for expansion or [acquisitions](/acquisition/).
 

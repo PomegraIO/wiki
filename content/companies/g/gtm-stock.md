@@ -43,7 +43,7 @@ The company's advantage remains speed and breadth of coverage rather than absolu
 
 ZoomInfo's business depends on buying, aggregating, and distributing personal business-contact data on a massive scale. This creates ongoing regulatory exposure: as privacy laws evolve—particularly [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) in Europe and state-level regulations in the U.S.—the cost of compliance can rise, and the permissibility of certain data sources may narrow. The company must continuously verify that its data sources are lawful and that customers use the data in compliance with applicable regulations, a burden that scales with the size of the customer base and the scope of the database.
 
-Data quality is also an operational and reputational risk. If the database deteriorates—contacts become stale, organizational changes are not reflected quickly, duplicate records proliferate—customers churn. ZoomInfo's competitive edge erodes if the data product stops being trusted.
+Data quality is also an operational and [reputational risk](/reputational-risk/). If the database deteriorates—contacts become stale, organizational changes are not reflected quickly, duplicate records proliferate—customers churn. ZoomInfo's competitive edge erodes if the data product stops being trusted.
 
 ## Market Position and Secular Growth
 

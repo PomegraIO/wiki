@@ -35,7 +35,7 @@ Brazil's economy is large and capital-intensive. It has major chemical, petroche
 
 However, Brazil also faces macroeconomic volatility. Currency fluctuations affect costs and revenue. Economic downturns reduce construction activity and may cause businesses to defer maintenance spending. [Interest rates](/interest-rate/) and credit availability influence whether companies invest in upgrades. Minimax's business is somewhat cyclical, moving with Brazil's economic cycles, even though the baseline demand for safety compliance is secular and stable.
 
-Political risk and regulatory changes in Brazil can also shift the business environment. New environmental regulations or labor laws could increase costs. Shifts in building codes might require different technologies. Economic policy changes affect investment and [construction spending](/construction-spending/). For a company operating primarily in one country, these macro risks are significant.
+[Political risk](/political-risk/) and regulatory changes in Brazil can also shift the business environment. New environmental regulations or labor laws could increase costs. Shifts in building codes might require different technologies. Economic policy changes affect investment and [construction spending](/construction-spending/). For a company operating primarily in one country, these macro risks are significant.
 
 ## Competition and Market Position
 
@@ -45,10 +45,10 @@ That said, the fire safety market is not a growth bonanza. It is a mature servic
 
 ## How to Research Minimax
 
-The company files with the SEC because it issues American Depositary Receipts, which are tradable US instruments backed by shares held in Brazil. Its [10-K](/10-k/) filing (available on the SEC's EDGAR database using its [CIK](/public-company/), 2109556) will contain translated financial statements and descriptions of its operations, risks, and market.
+The company files with the SEC because it issues American [Depositary Receipts](/depositary-receipt/), which are tradable US instruments backed by shares held in Brazil. Its [10-K](/10-k/) filing (available on the SEC's EDGAR database using its [CIK](/public-company/), 2109556) will contain translated financial statements and descriptions of its operations, risks, and market.
 
 Key numbers to watch include the ratio of maintenance revenue to total revenue (higher ratios suggest stable, recurring income), the size of the backlog of installations under contract (which predicts near-term revenue), and customer concentration (whether a few large clients drive most revenue, which would indicate risk). The company's ability to raise prices with [inflation](/inflation/), or lose contracts in a downturn, are also critical. A fire safety company in a strong economic position can raise prices because customers must maintain compliance. In a downturn, customers may delay upgrades, which can hurt revenue growth.
 
 ## The ADR Structure
 
-Minimax issues American Depositary Receipts because Brazilian securities are not easily tradable in US markets. An ADR is a certificate, issued by a US bank, representing shares of a foreign company held in deposit abroad. An investor holding an MMXGY ADR technically owns a fractional interest in the underlying Brazilian shares, plus exposure to [currency risk](/currency-risk/). If the Brazilian real weakens relative to the [US dollar](/us-dollar/), a US investor's ADR value can fall even if the company's Brazilian operations perform well. This currency exposure is an invisible but real risk that exchange-traded investors must accept.
+Minimax issues American Depositary Receipts because Brazilian securities are not easily tradable in US markets. An ADR is a certificate, issued by a US bank, representing shares of a foreign company held in deposit abroad. An investor holding an MMXGY ADR technically owns a fractional interest in the underlying Brazilian shares, plus exposure to [currency risk](/currency-risk/). If the [Brazilian real](/brazilian-real/) weakens relative to the [US dollar](/us-dollar/), a US investor's ADR value can fall even if the company's Brazilian operations perform well. This currency exposure is an invisible but real risk that exchange-traded investors must accept.

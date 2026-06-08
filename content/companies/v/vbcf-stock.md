@@ -27,13 +27,13 @@ The portfolio is broadly representative of the investment-grade corporate bond m
 
 Early in its life — say, when VBCF is five years old and still has seven years until maturity — the bonds behave much like any other corporate bonds. Their prices fluctuate with [interest rates](/interest-rate/) and shifts in perceived credit risk. The fund's [net asset value](/net-asset-value/) can swing significantly in either direction if the Fed raises rates sharply or if a [recession](/recession/) threatens corporate earnings.
 
-But as 2032 approaches, something subtle shifts. The bonds are increasingly likely to be repaid on schedule, simply because the date is nearer and less can go wrong in fewer years. Credit cycles are less likely to push an issuer into distress if there is only a year or two left. Interest-rate sensitivity withers because the cash flows are imminent. By 2031, VBCF behaves less like a bond fund and more like money-market cash — stable in value, minuscule price swings, and returns driven mainly by the remaining [coupon payments](/coupon-payment/).
+But as 2032 approaches, something subtle shifts. The bonds are increasingly likely to be repaid on schedule, simply because the date is nearer and less can go wrong in fewer years. [Credit cycles](/credit-cycle/) are less likely to push an issuer into distress if there is only a year or two left. Interest-rate sensitivity withers because the cash flows are imminent. By 2031, VBCF behaves less like a bond fund and more like money-market cash — stable in value, minuscule price swings, and returns driven mainly by the remaining [coupon payments](/coupon-payment/).
 
 This maturation curve is automatic and requires no action from Vanguard. There is no target date to rebalance toward, no strategy to adjust. The bonds simply age, and the fund's risk profile shrinks on its own.
 
 ## Costs and liquidity
 
-VBCF carries a low [expense ratio](/expense-ratio/) consistent with Vanguard's index-following philosophy. The fund trades on NYSE Arca during market hours as an exchange-traded product, settling in cash. Liquidity is adequate but lighter than for mega-funds like BND, which tracks the entire US bond market. Investors who need to transact large positions should be mindful of [bid-ask spreads](/bid-ask-spread/), particularly if markets are stressed.
+VBCF carries a low [expense ratio](/expense-ratio/) consistent with Vanguard's index-following philosophy. The fund trades on [NYSE Arca](/nyse-arca/) during market hours as an exchange-traded product, settling in cash. Liquidity is adequate but lighter than for mega-funds like BND, which tracks the entire US bond market. Investors who need to transact large positions should be mindful of [bid-ask spreads](/bid-ask-spread/), particularly if markets are stressed.
 
 There are no front-end or back-end sales loads. The fund is not encumbered by the high annual fees of actively managed bond funds, nor is it weighted down by the complexity of [closed-end funds](/closed-end-fund/).
 

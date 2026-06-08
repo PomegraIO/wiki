@@ -25,7 +25,7 @@ The size of the margin depends on market conditions. When the [Federal Reserve](
 
 ## Loan Portfolio Composition and Credit Risk
 
-HOPE Bancorp earns different net interest margins on different loan types. Residential mortgages, especially [conforming loans](/conforming-loan/) eligible for sale to [government-sponsored enterprises](/stock/), are lower-risk and lower-margin. A bank might earn 2.5–3.5% margin on a 30-year fixed mortgage because the loan is backed by real estate and has strong credit demand. Construction loans or [commercial real estate](/commercial-real-estate/) loans carry higher margin—5–8%—because they are riskier and less commoditized.
+HOPE Bancorp earns different net interest margins on different loan types. Residential mortgages, especially [conforming loans](/conforming-loan/) eligible for sale to [government-sponsored enterprises](/stock/), are lower-risk and lower-margin. A bank might earn 2.5–3.5% margin on a 30-year fixed mortgage because the loan is backed by real estate and has strong credit demand. [Construction loans](/construction-loan/) or [commercial real estate](/commercial-real-estate/) loans carry higher margin—5–8%—because they are riskier and less commoditized.
 
 But higher margin comes with higher [credit risk](/credit-risk/). If a commercial borrower's business fails, the bank may lose the entire loan balance (net of collateral recovery). HOPE must therefore balance margin aspiration against credit quality. A loan portfolio heavy in high-margin commercial real estate is more profitable in a strong economy but more vulnerable in recession. A portfolio heavy in low-margin residential mortgages is stable but produces thinner returns.
 

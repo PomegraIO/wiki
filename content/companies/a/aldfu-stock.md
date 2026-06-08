@@ -33,7 +33,7 @@ This is crucial. Aldel's sponsors (Kauffman and other founders) received their e
 
 ## What happens if a deal is announced?
 
-When Aldel announces a target, it will file a proxy statement with the SEC containing the target company's financials, the transaction terms (the valuation, earnout conditions, sponsor fees), and detailed risk factors. Shareholders will then vote on whether to approve the merger. If a shareholder votes "no" but wants out rather than taking the deal, they can redeem their shares. This redemption mechanism is the shareholder protection against a bad deal—it forces Aldel's sponsors to either negotiate a genuinely attractive transaction or secure committed financing that covers expected redemptions. Without this, no deal would close.
+When Aldel announces a target, it will file a [proxy statement](/proxy-statement/) with the SEC containing the target company's financials, the transaction terms (the valuation, earnout conditions, sponsor fees), and detailed risk factors. Shareholders will then vote on whether to approve the merger. If a shareholder votes "no" but wants out rather than taking the deal, they can redeem their shares. This redemption mechanism is the shareholder protection against a bad deal—it forces Aldel's sponsors to either negotiate a genuinely attractive transaction or secure committed financing that covers expected redemptions. Without this, no deal would close.
 
 ## What is the timeline risk?
 

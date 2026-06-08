@@ -28,6 +28,6 @@ As a pre-revenue or minimal-revenue biotech, Aptorum funds research by raising e
 - Pipeline focus: Infectious disease, oncology, gastroenterology
 - Business model: Drug discovery and development; no commercialized products
 - Funding: Equity-based; dependent on capital raises and cash preservation
-- Risk profile: Early-stage biotech with regulatory and scientific execution risk
+- Risk profile: Early-stage biotech with regulatory and scientific [execution risk](/execution-risk/)
 
 Tracking Aptorum requires reading SEC filings under CIK 1734005, monitoring ClinicalTrials.gov for trial updates, and following press releases on partnership or clinical progress milestones.

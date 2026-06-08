@@ -30,7 +30,7 @@ The 21Shares Hyperliquid ETF is a regulated investment vehicle that grants retai
 
 Hyperliquid is a high-performance blockchain optimized for onchain trading, meaning it is a dedicated cryptocurrency network built specifically for speed and low friction in derivatives trading. Unlike traditional decentralized finance platforms that run on slower, more congested blockchains, Hyperliquid is its own chain, designed from the ground up to handle perpetual [futures contracts](/futures-contract/) — a financial instrument that lets traders take leveraged long and short positions without an [expiration date](/expiration-date/).
 
-The Hyperliquid platform has become the dominant venue for decentralized perpetual futures, capturing more than half of the sector's [open interest](/open-interest/) (the total value of all outstanding positions at any given time). The blockchain processes roughly eight billion dollars in daily trading volume and has accumulated over four trillion dollars in cumulative volume since its launch. These figures reflect not a startup dabbling in cryptocurrency, but a genuine financial infrastructure that has attracted significant user adoption.
+The Hyperliquid platform has become the dominant venue for decentralized [perpetual futures](/perpetual-futures/), capturing more than half of the sector's [open interest](/open-interest/) (the total value of all outstanding positions at any given time). The blockchain processes roughly eight billion dollars in daily trading volume and has accumulated over four trillion dollars in cumulative volume since its launch. These figures reflect not a startup dabbling in cryptocurrency, but a genuine financial infrastructure that has attracted significant user adoption.
 
 ## How the ETF works: structure and mechanics
 
@@ -38,7 +38,7 @@ THYP is structured as a grantor trust, a regulatory classification that means th
 
 Staking is the cryptocurrency equivalent of earning interest: holders of certain tokens can lock them up to help secure the network, and in return they receive periodic rewards. The THYP fund stakes between thirty and seventy percent of its HYPE holdings through Figment, a infrastructure provider specializing in staking operations. The staking rewards are split roughly seventy percent to the trust (and distributed to shareholders) and thirty percent to Figment for operational costs. Distributions are scheduled to flow to shareholders quarterly, beginning in June 2026.
 
-The fund charges a thirty basis-point annual fee (0.30%), which is competitive within the cryptocurrency ETF category. That fee covers administrative costs, custody of the tokens, and the operational overhead of maintaining a regulated investment product.
+The fund charges a thirty basis-point annual fee (0.30%), which is competitive within the [cryptocurrency ETF](/cryptocurrency-etf/) category. That fee covers administrative costs, custody of the tokens, and the operational overhead of maintaining a regulated investment product.
 
 ## Why this matters: bridging institutional and retail crypto
 

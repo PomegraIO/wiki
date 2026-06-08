@@ -18,7 +18,7 @@ The premise is simple: gaming and esports are no longer niche hobbies but mainst
 
 ## What the portfolio actually contains
 
-ESPO's holdings span an unusual diversity. The portfolio includes chipmakers like [NVIDIA](/nvda-stock/) that provide the processors for gaming systems; console manufacturers; large game publishers such as Tencent, Activision, and Take-Two; companies operating esports tournaments and betting platforms; PC gaming peripherals makers; and streaming services with gaming content. The exact composition changes as the index committee reviews whether each company derives sufficient revenue from gaming and esports. The fund aims to hold 25–35 names, though this varies. A holding might be included because it owns an esports league franchise, publishes blockbuster games, operates a gaming platform, or manufactures hardware used by gamers.
+ESPO's holdings span an unusual diversity. The portfolio includes chipmakers like [NVIDIA](/nvda-stock/) that provide the processors for gaming systems; console manufacturers; large game publishers such as Tencent, Activision, and Take-Two; companies operating esports tournaments and betting platforms; PC gaming peripherals makers; and streaming services with gaming content. The exact composition changes as the [index committee](/index-committee/) reviews whether each company derives sufficient revenue from gaming and esports. The fund aims to hold 25–35 names, though this varies. A holding might be included because it owns an esports league franchise, publishes blockbuster games, operates a gaming platform, or manufactures hardware used by gamers.
 
 ## Why it is more cyclical than the ordinary tech fund
 

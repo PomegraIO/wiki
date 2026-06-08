@@ -39,7 +39,7 @@ For Marpai, long-lived client relationships translate into high [gross profit ma
 
 ## Data and Analytics Advantage
 
-Over time, Marpai accumulates anonymized data on behavioral health treatment patterns, cost drivers, and outcome correlations. Large datasets become proprietary assets: competitors cannot replicate years of anonymized claim patterns, treatment protocols, and cost outcomes. This data advantage can feed better algorithms, predictive models, and client benchmarking tools, creating a widening moat as the dataset grows.
+Over time, Marpai accumulates anonymized data on behavioral health treatment patterns, [cost drivers](/cost-driver/), and outcome correlations. Large datasets become proprietary assets: competitors cannot replicate years of anonymized claim patterns, treatment protocols, and cost outcomes. This data advantage can feed better algorithms, predictive models, and client benchmarking tools, creating a widening moat as the dataset grows.
 
 However, this advantage accrues slowly and is vulnerable if competitors gain access to similar volumes of data through other channels or partnerships. The moat is strengthened if Marpai's client relationships are long and stable, allowing continuous data enrichment; it is threatened if client churn accelerates.
 

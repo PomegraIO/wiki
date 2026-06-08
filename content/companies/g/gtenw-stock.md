@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Gores Holdings X is a blank-check company, meaning it is a shell corporation with no operating business at the time of its public offering. Its sole purpose is to raise capital from public investors and then use that capital to acquire, merge with, or otherwise combine with an operating company. The company completed the largest SPAC IPO of 2025 in May, raising $358.8 million at pricing and going public under the tickers GTEN and GTENW (the second being warrants, which are options to purchase shares at a predetermined price).
+Gores Holdings X is a blank-check company, meaning it is a shell corporation with no operating business at the time of its public offering. Its sole purpose is to raise capital from public investors and then use that capital to acquire, merge with, or otherwise combine with an operating company. The company completed the largest [SPAC IPO](/spac-ipo/) of 2025 in May, raising $358.8 million at pricing and going public under the tickers GTEN and GTENW (the second being warrants, which are options to purchase shares at a predetermined price).
 
 The company is sponsored by the Gores Group, a Los Angeles-based private equity and investment firm founded by Alec Gores. The Gores Group has a history of sponsoring SPACs and completing [business combinations](/business-combination-purchase/); the Gores Holdings X vehicle is one of several blank-check companies the group has created over the past five years.
 
@@ -45,4 +45,4 @@ For readers tracking the company, the important moment will be when the Gores Gr
 
 The SEC filing for the SPAC IPO (CIK 0001986817) contains the prospectus, which describes the Gores Group's track record, the terms of the trust account, the warrant structure, and the conditions under which shareholder approval is required for any proposed merger. Anyone considering an investment should read that document carefully, particularly the risk factors section, which outlines what can go wrong with a blank-check company strategy.
 
-Once a merger is announced, the proxy statement filed with the SEC will lay out the target company's business, financial projections (if provided), and the financial terms of the deal. That is when the analysis shifts from evaluating the sponsor to evaluating the actual acquisition. Gores Holdings X trades on [Nasdaq](/nasdaq/); nothing here is a recommendation to buy or sell.
+Once a merger is announced, the [proxy statement](/proxy-statement/) filed with the SEC will lay out the target company's business, financial projections (if provided), and the financial terms of the deal. That is when the analysis shifts from evaluating the sponsor to evaluating the actual acquisition. Gores Holdings X trades on [Nasdaq](/nasdaq/); nothing here is a recommendation to buy or sell.

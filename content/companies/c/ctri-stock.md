@@ -41,7 +41,7 @@ CENTURI's work falls into categories with different margin profiles:
 
 **Routine maintenance and operations** generate steady, predictable revenue but often carry lower margins. These are the baseline work utilities contract for.
 
-**Capital projects** (infrastructure upgrades, new installation) tend to have larger dollar values, longer timelines, and potentially higher margins if well-managed. Execution risk is higher on large capital projects; delays or cost overruns directly impact profitability.
+**Capital projects** (infrastructure upgrades, new installation) tend to have larger dollar values, longer timelines, and potentially higher margins if well-managed. [Execution risk](/execution-risk/) is higher on large capital projects; delays or cost overruns directly impact profitability.
 
 **Emergency restoration** (restoring service after storms, accidents, or equipment failure) is highly variable, concentrated in certain seasons (hurricanes, ice storms), and often commands premium pricing because utilities prioritize speed and service restoration. This is higher-margin but lumpy revenue.
 

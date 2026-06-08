@@ -41,7 +41,7 @@ Volatility decay becomes severe quickly. If the SOUN index rises 10% over five d
 
 ## The cost of leverage and rebalancing
 
-SOUX's [expense ratio](/expense-ratio/) typically exceeds 1.10% annually, reflecting the cost of maintaining leverage. This includes the explicit [management fee](/management-fee/), the cost of derivatives hedging, daily rebalancing friction (the [bid-ask spreads](/bid-ask-spread/) incurred in daily trading to reset the leverage), and potentially borrowing costs if any of the leverage is sourced through debt.
+SOUX's [expense ratio](/expense-ratio/) typically exceeds 1.10% annually, reflecting the cost of maintaining leverage. This includes the explicit [management fee](/management-fee/), the cost of [derivatives hedging](/derivatives-hedging/), daily rebalancing friction (the [bid-ask spreads](/bid-ask-spread/) incurred in daily trading to reset the leverage), and potentially borrowing costs if any of the leverage is sourced through debt.
 
 For a fund designed for days-long tactical trades, the annual percentage cost is less relevant than the daily impact. A trader holding SOUX for two weeks faces the combined drag of volatility decay and daily compounding of these costs. Over such a horizon, decay can easily exceed 5% of position value in a volatile environment.
 

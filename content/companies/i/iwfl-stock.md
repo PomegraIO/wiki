@@ -36,7 +36,7 @@ Unlike a dividend-yield or value screen, which picks stable, mature businesses, 
 
 The reversal was equally stark. From late 2021 onward, as the Fed began raising rates sharply, long-duration growth stocks became less attractive relative to older, cheaper, dividend-paying businesses. IWFL underperformed, and the 2x leverage amplified that underperformance. An investor who bought IWFL at its peak in late 2021 faced steep losses as the growth cycle rotated.
 
-What matters for IWFL is not whether the underlying growth companies are good businesses—many are—but whether the growth factor (the outperformance of growth relative to value) is expanding or contracting. That is a macro question about [interest rates](/interest-rate/), inflation expectations, and investor risk appetite, not a question about the intrinsic quality of tech companies.
+What matters for IWFL is not whether the underlying growth companies are good businesses—many are—but whether the growth factor (the outperformance of growth relative to value) is expanding or contracting. That is a macro question about [interest rates](/interest-rate/), [inflation expectations](/inflation-expectations/), and investor risk appetite, not a question about the intrinsic quality of tech companies.
 
 ## Daily rebalancing and its cost
 
@@ -46,7 +46,7 @@ Growth stocks are volatile. The [Nasdaq](/nasdaq/), a useful proxy for growth-fa
 
 ## Factor rotation and the macro regime
 
-IWFL's returns depend heavily on factor rotation—the tendency of different investment factors (growth, value, momentum, quality) to outperform in turn. Growth outperforms in one environment, value in another. These rotations are driven by macro conditions: interest rates, inflation, earnings surprises, and sentiment shifts.
+IWFL's returns depend heavily on [factor rotation](/factor-rotation/)—the tendency of different [investment factors](/investment-factor-asset-growth/) (growth, value, momentum, quality) to outperform in turn. Growth outperforms in one environment, value in another. These rotations are driven by macro conditions: interest rates, inflation, earnings surprises, and sentiment shifts.
 
 In an environment where:
 - [Real interest rates](/real-interest-rate/) are negative or near zero, growth outperforms.

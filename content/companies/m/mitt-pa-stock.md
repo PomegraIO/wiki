@@ -29,7 +29,7 @@ In 2025, the company increased its [dividend](/dividend/) by 21 percent from the
 
 ## The mortgage REIT sector
 
-Mortgage REITs exist to exploit the spread between mortgage yields and funding costs. When that spread is wide, returns are strong. When it is narrow, returns compress. The spread is determined by macro conditions: the Federal Reserve's policy rate, the [yield curve shape](/yield-curve-shape/), and [credit spreads](/credit-spread/) (how much more borrowers pay above risk-free rates). A REIT manager's skill is partly in predicting those spreads and allocating capital accordingly, partly in managing portfolio duration and [credit risk](/credit-risk/), and partly in executing securitizations and funding at favorable costs.
+Mortgage REITs exist to exploit the spread between mortgage yields and funding costs. When that spread is wide, returns are strong. When it is narrow, returns compress. The spread is determined by macro conditions: the Federal Reserve's policy rate, the [yield curve shape](/yield-curve-shape/), and [credit spreads](/credit-spread/) (how much more borrowers pay above [risk-free rates](/risk-free-rate/)). A REIT manager's skill is partly in predicting those spreads and allocating capital accordingly, partly in managing portfolio duration and [credit risk](/credit-risk/), and partly in executing securitizations and funding at favorable costs.
 
 Peers include New York Mortgage Trust, Two Harbors, INVESCO Mortgage Capital, and others. All are trying to harvest the spread between mortgages and funding. Differentiation comes from the portfolio allocation (what types of mortgages they buy), the funding strategy (how much leverage and what type), and the operator's cost of capital (larger, better-capitalized REITs can fund more cheaply). TPG Mortgage Trust has diversified into non-agency loans and single-family rentals, which offers some variation in return drivers compared to pure mortgage-backed securities investors.
 
@@ -41,7 +41,7 @@ Interest rate risk is the risk that the value of held mortgages falls because ra
 
 ## The re-branding to TPG
 
-The move from AG Mortgage to TPG Mortgage signals ownership or control. TPG is the [Texas Pacific Land](/tpl-stock/) Corporation or TPG Inc. — unclear from the name alone which entity or what the affiliation entails. The MITT company appears to have changed ownership or leadership as part of the re-branding. This kind of shift sometimes brings new management, new strategic direction, or simply a marker of new ownership. Shareholders should look at SEC filings (proxy statements, 8-K filings) to understand what changed in governance or strategy.
+The move from AG Mortgage to TPG Mortgage signals ownership or control. TPG is the [Texas Pacific Land](/tpl-stock/) Corporation or TPG Inc. — unclear from the name alone which entity or what the affiliation entails. The MITT company appears to have changed ownership or leadership as part of the re-branding. This kind of shift sometimes brings new management, new strategic direction, or simply a marker of new ownership. Shareholders should look at SEC filings ([proxy statements](/proxy-statement/), 8-K filings) to understand what changed in governance or strategy.
 
 ## Preferred shares and MITT-PA
 
@@ -57,13 +57,13 @@ A mortgage REIT distributes most of its taxable income to shareholders as a requ
 
 The company runs securitizations regularly to manage portfolio liquidity and funding costs. Watch for regular securitization activity; a slowdown signals trouble accessing capital markets. Pay attention to the company's portfolio composition: what percentage is non-agency versus agency-eligible, how much is home equity, what is the average mortgage rate and maturity. Shifts in composition signal changes in the company's risk appetite or view on the market.
 
-Credit losses matter. Any quarter with reported loan losses indicates stress in the borrower base. Rising delinquency rates (mortgages 30+ days late) are a leading indicator of future losses.
+Credit losses matter. Any quarter with reported loan losses indicates stress in the borrower base. Rising [delinquency](/delinquency/) rates (mortgages 30+ days late) are a [leading indicator](/leading-indicator/) of future losses.
 
 ## Metric dashboard for monitoring
 
-**Dividend yield:** The preferred dividend divided by the price per share. Compare to other preferred shares and Treasury bonds; a widening spread signals higher perceived risk.
+**[Dividend yield](/dividend-yield/):** The preferred dividend divided by the price per share. Compare to other preferred shares and [Treasury bonds](/treasury-bond/); a widening spread signals higher perceived risk.
 
-**Book value per share:** The company's net asset value, adjusted for mark-to-market of held mortgages. A decline in book value signals portfolio losses or unrealized mark-downs.
+**[Book value per share](/book-value-per-share/):** The company's [net asset value](/net-asset-value/), adjusted for mark-to-market of held mortgages. A decline in book value signals portfolio losses or unrealized mark-downs.
 
 **Net interest margin:** Net interest income divided by average earning assets. A decline signals shrinking spreads and profitability pressure.
 
@@ -71,8 +71,8 @@ Credit losses matter. Any quarter with reported loan losses indicates stress in 
 
 **Securitization volume:** Quarterly securitizations and the funding costs achieved. A slowdown or rising costs signal market stress or company-specific issues.
 
-**Leverage ratio:** Total assets divided by equity. Higher leverage magnifies both returns and losses. Extreme leverage is a warning sign if combined with rate or credit stress.
+**[Leverage ratio](/leverage-ratio-forex/):** Total assets divided by equity. Higher leverage magnifies both returns and losses. Extreme leverage is a warning sign if combined with rate or credit stress.
 
 ## Perspective
 
-Mortgage REITs are financial engineering vehicles — they exist to exploit the spread between mortgages and funding costs, not to create value by building businesses or managing assets productively. The returns depend almost entirely on macro conditions, the yield curve, credit spreads, and the Fed's policy rate. Management skill matters, but it is secondary to the environment. In a favorable environment, the REIT returns attractive income. In an unfavorable one, shareholders suffer losses and dividend cuts. This is not a buy-and-hold-forever business; it is a tactical investment tied to macro outlook.
+Mortgage REITs are financial engineering vehicles — they exist to exploit the spread between mortgages and funding costs, not to create value by building businesses or managing assets productively. The returns depend almost entirely on macro conditions, the [yield curve](/yield-curve/), credit spreads, and the Fed's policy rate. Management skill matters, but it is secondary to the environment. In a favorable environment, the REIT returns attractive income. In an unfavorable one, shareholders suffer losses and dividend cuts. This is not a buy-and-hold-forever business; it is a tactical investment tied to macro outlook.

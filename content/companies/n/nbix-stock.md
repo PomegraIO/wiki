@@ -51,7 +51,7 @@ Neurocrine operates in an environment shaped by FDA oversight and by competition
 
 Large pharmaceutical companies have immense resources and established sales forces, but they also carry the overhead and bureaucracy of large organizations. Neurocrine's advantage lies in its laser focus on a particular area of neuroscience and its ability to move quickly on new scientific insights. The downside is that the company has fewer options if a major program fails: it cannot cross-subsidize with revenue from other therapeutic areas or geographic markets. It is beholden to the success of its focused pipeline.
 
-Generic and biosimilar competition for approved medicines is a longer-term threat. As patents expire, the company must either develop new medicines to replace the revenue or consolidate operations. This is why the pipeline is the company's most valuable asset and why pipeline risk — the risk that upcoming trials will fail — is the primary driver of Neurocrine's share price.
+Generic and biosimilar competition for approved medicines is a longer-term threat. As patents expire, the company must either develop new medicines to replace the revenue or consolidate operations. This is why the pipeline is the company's most valuable asset and why [pipeline risk](/pipeline-risk/) — the risk that upcoming trials will fail — is the primary driver of Neurocrine's share price.
 
 ## How to research the company
 

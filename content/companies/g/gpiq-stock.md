@@ -38,7 +38,7 @@ GPIQ does this mechanically every month across its entire portfolio of Nasdaq-10
 
 ## The trade-off: income for capped upside
 
-Here is what you are trading for that monthly income. In a normal year when Nasdaq-100 stocks rise 15 percent, GPIQ might rise only 8–10 percent because the upside above the [strike price](/strike-price/) (the 160-dollar price in the example above) goes to the option buyers, not to you. You get the income from the premiums, but you miss the big gains that make tech investing appealing in the first place. This is the deal: steady income in exchange for forgoing the home-run returns that come from a massive rally.
+Here is what you are trading for that monthly income. In a normal year when Nasdaq-100 stocks rise 15 percent, GPIQ might rise only 8–10 percent because the upside above the [strike price](/strike-price/) (the 160-dollar price in the example above) goes to the [option buyers](/option-buyer/), not to you. You get the income from the premiums, but you miss the big gains that make tech investing appealing in the first place. This is the deal: steady income in exchange for forgoing the home-run returns that come from a massive rally.
 
 That trade makes sense if:
 
@@ -62,7 +62,7 @@ The fund makes distributions monthly, not quarterly like most funds. These distr
 
 The biggest risk is capped upside. If the Nasdaq-100 has a spectacular year and rises 50 percent, GPIQ will not keep up. You will watch the index rise 50 percent while your fund rises 15-20 percent because you are capped by the strike prices you agreed to. Over time, if the market keeps rising, that drag accumulates. A decade of capped returns underperforms uncapped returns significantly.
 
-A second risk is gap risk. If the market drops overnight — a weekend geopolitical shock, a sudden market crash — the protective floor of your option income disappears in minutes. You own the stocks that just dropped, and the option premiums you collected do not offset the loss. [Covered calls](/covered-call/) are not a hedge against a crash; they just slightly dampen it.
+A second risk is [gap risk](/gap-risk/). If the market drops overnight — a weekend geopolitical shock, a sudden market crash — the protective floor of your option income disappears in minutes. You own the stocks that just dropped, and the option premiums you collected do not offset the loss. [Covered calls](/covered-call/) are not a hedge against a crash; they just slightly dampen it.
 
 A third risk is opportunity cost. If you hold GPIQ for years while tech stocks have a huge bull run, you will regret not owning the uncapped version. This is not a risk in theory; it is a lived experience for many covered-call fund holders.
 

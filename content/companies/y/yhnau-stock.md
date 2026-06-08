@@ -30,9 +30,9 @@ For SPAC investors, the appeal is a mix of gambling and arbitrage. Some believe 
 
 ## The risks and the structural problem
 
-A SPAC is a bet on a sponsor and a manager, not yet on an operating business. The sponsor has incentive to complete a deal—their carried interest only becomes valuable if a merger closes—but the shareholders have a different incentive: they want a *good* deal, not just any deal. This misalignment means sponsors sometimes push inferior targets toward closing to ensure they capture their carried interest and fees.
+A SPAC is a bet on a sponsor and a manager, not yet on an operating business. The sponsor has incentive to complete a deal—their [carried interest](/carried-interest-compensation/) only becomes valuable if a merger closes—but the shareholders have a different incentive: they want a *good* deal, not just any deal. This misalignment means sponsors sometimes push inferior targets toward closing to ensure they capture their carried interest and fees.
 
-A related issue is that SPAC investors often have weak information about the target. The SPAC's sponsor has run extensive due diligence, but the broader public shareholder base often learns details only near the vote, with limited time to form an independent judgment. Information asymmetry is built into the structure.
+A related issue is that SPAC investors often have weak information about the target. The SPAC's sponsor has run extensive [due diligence](/due-diligence/), but the broader public shareholder base often learns details only near the vote, with limited time to form an independent judgment. Information asymmetry is built into the structure.
 
 Additionally, the merger process destroys substantial shareholder value through dilution. The original SPAC shares are diluted by the private company shareholders' shares, who have negotiated hard to secure a valuable chunk of the merged entity. Warrants (options to buy shares at a set price) issued during the SPAC's initial fundraising are also dilutive.
 

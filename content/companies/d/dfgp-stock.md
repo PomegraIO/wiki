@@ -13,7 +13,7 @@ handwritten: true
 
 > A fixed-income fund is only as good as its ability to offer returns that compensate for the interest-rate risk and credit risk investors are taking.
 
-The Dimensional Global Core Plus Fixed [Income ETF](/income-etf/) builds around that principle. It assembles a global [bond](/bond/) portfolio designed to capture returns across multiple bond markets while managing exposure to interest-rate and credit cycles. DFGP trades on an exchange and serves investors seeking diversified fixed-income exposure beyond the US Treasury and investment-grade [corporate bond](/corporate-bond/) market.
+The Dimensional Global Core Plus Fixed [Income ETF](/income-etf/) builds around that principle. It assembles a global [bond](/bond/) portfolio designed to capture returns across multiple bond markets while managing exposure to interest-rate and [credit cycles](/credit-cycle/). DFGP trades on an exchange and serves investors seeking diversified fixed-income exposure beyond the US Treasury and investment-grade [corporate bond](/corporate-bond/) market.
 
 ## What the fund holds and how it flexes
 

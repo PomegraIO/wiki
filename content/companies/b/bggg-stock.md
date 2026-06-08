@@ -27,7 +27,7 @@ Baillie Gifford is a Scottish firm founded in the 1800s and structured as a part
 
 This shows up in the fund. BGGG is designed for people planning to hold for years or decades, not quarters. Short-term volatility—a stock falling thirty percent in a single year because the market lost faith in the transformation story—is a feature, not a bug. It is the price of holding transformational companies.
 
-You should expect the fund to underperform in periods when the market favors stable, dividend-paying companies or cheap value stocks. Those periods will happen. The thesis is that over full market cycles, the ability to identify transformation early and hold it through the unfolding produces superior returns.
+You should expect the fund to underperform in periods when the market favors stable, dividend-paying companies or cheap value stocks. Those periods will happen. The thesis is that over full [market cycles](/market-cycle/), the ability to identify transformation early and hold it through the unfolding produces superior returns.
 
 ## Trading and costs
 

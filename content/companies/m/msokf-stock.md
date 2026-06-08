@@ -37,7 +37,7 @@ In cold-chain logistics (pharmaceuticals, food), competitors include regional co
 
 A critical competitive challenge for Mitsui-Soko is margin compression. As e-commerce and just-in-time manufacturing drive demand for logistics services, supply of warehousing capacity has grown faster than demand in mature markets. This has driven down unit pricing for warehousing and generic transportation. Mitsui-Soko operates high-fixed-cost facilities; declining unit prices directly compress margins unless volume grows offsetting.
 
-The company's response is specialization and automation. By moving into higher-value services (logistics software integration, supply-chain optimization consulting, specialized warehousing for electronics or pharma), Mitsui-Soko can maintain margins even as commodity warehousing becomes a breakeven business. However, specialization requires capital investment and talent that a regional incumbent may lack relative to global IT companies (Amazon Logistics, Google Logistics arms) entering the space.
+The company's response is specialization and automation. By moving into higher-value services (logistics software integration, supply-chain optimization consulting, specialized warehousing for electronics or pharma), Mitsui-Soko can maintain margins even as [commodity warehousing](/commodity-warehousing/) becomes a breakeven business. However, specialization requires capital investment and talent that a regional incumbent may lack relative to global IT companies (Amazon Logistics, Google Logistics arms) entering the space.
 
 ## China Competition and Regional Fragmentation
 

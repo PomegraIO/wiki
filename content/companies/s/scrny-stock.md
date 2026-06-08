@@ -57,7 +57,7 @@ Additionally, SCREEN sources components globally and manufactures systems in Jap
 
 ## Research and investment perspective
 
-Anyone evaluating SCREEN should understand the semiconductor and display cycles intimately. Read the company's quarterly earnings reports and 10-K filings (SEC CIK 0001544379) for equipment order intake (a leading indicator of future revenue), backlog (the value of orders not yet delivered), and the geographic breakdown of customers and sales. Watch for commentary on demand trends from major customers — if TSMC or Samsung signals a slowdown in capex, SCREEN's near-term outlook darkens.
+Anyone evaluating SCREEN should understand the semiconductor and display cycles intimately. Read the company's quarterly earnings reports and 10-K filings (SEC CIK 0001544379) for equipment order intake (a [leading indicator](/leading-indicator/) of future revenue), backlog (the value of orders not yet delivered), and the geographic breakdown of customers and sales. Watch for commentary on demand trends from major customers — if TSMC or Samsung signals a slowdown in capex, SCREEN's near-term outlook darkens.
 
 Key metrics include gross margin on equipment sales (which indicates pricing power and manufacturing efficiency), the ratio of service revenue to total revenue (a rising ratio suggests stickier business), and order book health. The industry press also covers equipment orders and fab investment announcements; those provide real-time visibility into demand trends.
 

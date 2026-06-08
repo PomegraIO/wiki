@@ -41,7 +41,7 @@ CytomX's patents are specific to particular protease-activation mechanisms and d
 
 ## Assessing the Platform's Durability
 
-Investors evaluating CytomX should track clinical trial outcomes for probody candidates in the company's pipeline (both internal and partnered), the rate of new partnership announcements (which indicate continued belief in the platform), and the breadth of indications being explored. A diversified pipeline and successful clinical milestones suggest the moat is holding; concentrated pipeline risk or clinical setbacks indicate the moat is weakening. The company's 10-K and quarterly SEC filings disclose the clinical stage and status of key programs.
+Investors evaluating CytomX should track clinical trial outcomes for probody candidates in the company's pipeline (both internal and partnered), the rate of new partnership announcements (which indicate continued belief in the platform), and the breadth of indications being explored. A diversified pipeline and successful clinical milestones suggest the moat is holding; concentrated [pipeline risk](/pipeline-risk/) or clinical setbacks indicate the moat is weakening. The company's 10-K and quarterly SEC filings disclose the clinical stage and status of key programs.
 
 <div class="wiki-seealso">
 ### Closely related

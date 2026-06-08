@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*A **[leveraged ETF](/leveraged-etf/)** — also called a **daily-reset leveraged fund** — is an exchange-traded product engineered to deliver a multiple of a single stock's daily returns. UPSG, the Leverage Shares 2X Long UPS Daily ETF, targets twice the daily movement of [United Parcel Service](/ups-stock/) stock. It is not a traditional buy-and-hold investment but a tactical instrument designed for traders willing to actively manage timing and volatility risk.*
+*A **[leveraged ETF](/leveraged-etf/)** — also called a **daily-reset leveraged fund** — is an exchange-traded product engineered to deliver a multiple of a single stock's daily returns. UPSG, the Leverage Shares 2X Long UPS Daily ETF, targets twice the daily movement of [United Parcel Service](/ups-stock/) stock. It is not a traditional buy-and-hold investment but a tactical instrument designed for traders willing to actively manage timing and [volatility risk](/volatility-risk/).*
 
 ## What UPSG tracks and how it works
 

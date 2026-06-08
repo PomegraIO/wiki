@@ -49,7 +49,7 @@ The company has also moved strategically into adjacent high-margin segments like
 
 ON's fortunes are tightly bound to automotive electrification. Should EV adoption slow, raw material availability tighten, or customers consolidate their supplier base, the company faces margin compression and slower growth. Geopolitical frictions—particularly U.S.-China tensions around semiconductor trade—pose a secondary risk; ON operates facilities in China and Taiwan, and any further restriction could force costly restructuring.
 
-The semiconductor industry runs in cycles. Periods of undersupply and pricing power alternate with gluts and ferocious price competition. ON is large enough to survive downturns but not insulated from them. Its hybrid manufacturing model also introduces execution risk: a stumble in managing capacity across owned fabs and contract partners can lead to missed shipments or cost overruns.
+The semiconductor industry runs in cycles. Periods of undersupply and pricing power alternate with gluts and ferocious price competition. ON is large enough to survive downturns but not insulated from them. Its hybrid manufacturing model also introduces [execution risk](/execution-risk/): a stumble in managing capacity across owned fabs and contract partners can lead to missed shipments or cost overruns.
 
 Integration into so many automotive platforms and industrial systems does provide some [recession](/recession/) resilience—demand for automotive components and power supplies in factories remains fairly sticky. But the company is not defensive in a downturn; it follows end-market cycles closely.
 

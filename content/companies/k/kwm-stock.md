@@ -44,7 +44,7 @@ KWM must also navigate music licensing separately from visual content. Every sou
 
 As KWM expands into digital platforms and direct-to-consumer offerings, it also collects viewer data—passwords, viewing history, preferences, payment information. This data is subject to privacy regulation in each jurisdiction where the company operates. The GDPR in Europe, CCPA in California, and analogous laws elsewhere impose duties on KWM to obtain consent before collecting data, to allow users to access and delete their data, and to report data breaches. These obligations shape the company's product design (login screens must disclose data collection, user dashboards must allow deletion), and they create ongoing audit and compliance burdens.
 
-The tension for KWM is that viewer data is valuable for recommendation systems and advertising targeting, but privacy regulation constrains how the company can use and monetize that data. The regulatory boundary between permitted personalization and prohibited surveillance is not always clear, and mistakes carry both regulatory and reputational risk.
+The tension for KWM is that viewer data is valuable for recommendation systems and advertising targeting, but privacy regulation constrains how the company can use and monetize that data. The regulatory boundary between permitted personalization and prohibited surveillance is not always clear, and mistakes carry both regulatory and [reputational risk](/reputational-risk/).
 
 ## Advertising Standards and Truth in Advertising
 

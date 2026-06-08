@@ -22,7 +22,7 @@ The core operation is lean: a small team managing intellectual property, liaisin
 
 ## The competitive and regulatory landscape
 
-Psyence competes in an unusually fragmented market. There is no large incumbent player; instead, dozens of small biotech startups, university labs, and larger pharmaceutical companies have all begun exploring psychedelic compounds. Some of the larger players — including established pharma like [Johnson & Johnson](/jnj-stock/) and smaller biotech firms such as [Compass Pathways](/cmps-stock/) and Atai Life Sciences — have more capital, larger pipelines, and more advanced candidates in trials. Many academic institutions, funded by nonprofits and government grants, run parallel research.
+Psyence competes in an unusually [fragmented market](/fragmented-market/). There is no large incumbent player; instead, dozens of small biotech startups, university labs, and larger pharmaceutical companies have all begun exploring psychedelic compounds. Some of the larger players — including established pharma like [Johnson & Johnson](/jnj-stock/) and smaller biotech firms such as [Compass Pathways](/cmps-stock/) and Atai Life Sciences — have more capital, larger pipelines, and more advanced candidates in trials. Many academic institutions, funded by nonprofits and government grants, run parallel research.
 
 The regulatory environment is shifting, but it remains uncertain. The FDA has designated some psychedelic compounds as "breakthrough therapy" candidates, signaling faster potential approval pathways if efficacy data looks strong. However, the controlled substance status of many psychedelics creates administrative overhead: special licensing, secure storage, and additional scrutiny. Canada's regulatory framework has been more permissive, which is one reason several psychedelic biotech firms have Canadian roots or Canadian operations. That said, regulatory approval of any psychedelic medication would be landmark and contentious, likely accompanied by restrictions on prescribing and ongoing controversy.
 
@@ -30,7 +30,7 @@ The regulatory environment is shifting, but it remains uncertain. The FDA has de
 
 Clinical-stage biotech is inherently uncertain. Most candidates that enter human trials fail to show efficacy, fail to meet safety thresholds, or face insurmountable manufacturing or regulatory hurdles before ever reaching the market. For Psyence specifically, the risks stack:
 
-- **Pipeline risk.** The company's value rests entirely on whether its compounds work in humans. A failed trial can erase years of work and burn through capital.
+- **[Pipeline risk](/pipeline-risk/).** The company's value rests entirely on whether its compounds work in humans. A failed trial can erase years of work and burn through capital.
 - **Regulatory risk.** Even if a compound is safe and effective, approval is not guaranteed. Authorities may impose restrictions — e.g., limiting who can prescribe, requiring special training, or mandating narrow indications. Approval might also be slow.
 - **Funding risk.** Without approved products, the company must continuously raise capital from investors, partners, or government grants. Market downturns or investor skepticism about psychedelics can dry up funding quickly.
 - **Competitive risk.** Better-capitalized firms or academic researchers may solve the problem faster or more effectively.

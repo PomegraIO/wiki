@@ -38,7 +38,7 @@ Long-term-care insurance is a special case within this. Policies sold years or d
 
 ### What is the asset-management side of the business?
 
-Manulife Asset Management serves institutional investors, pension funds, and retail clients with [mutual funds](/mutual-fund/), exchange-traded funds, and separately managed accounts. The company charges fees as a percentage of assets under management — typically 0.2% to 1% per year, depending on the asset class and service level.
+Manulife Asset Management serves institutional investors, pension funds, and retail clients with [mutual funds](/mutual-fund/), exchange-traded funds, and [separately managed accounts](/separately-managed-account/). The company charges fees as a percentage of assets under management — typically 0.2% to 1% per year, depending on the asset class and service level.
 
 This business is profitable but lower-margin than insurance and is highly competitive. Large asset managers compete on fees, performance, and service. Manulife has strong scale but faces rivals that are larger or more specialized. The asset-management business generates steady fee income and is less exposed to [tail risks](/tail-risk/) like insurance claims, but it is sensitive to market downturns (when asset values fall, so do fee revenues) and faces pressure to lower fees as passive index investing has grown.
 

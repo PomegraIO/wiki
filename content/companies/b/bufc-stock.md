@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The AllianceBernstein Conservative Buffer ETF represents an evolution in how asset managers have tried to solve a classical investor tension: the desire for [stock market](/stock-market/) returns combined with a fear of stock market losses. The fund uses a structure called a collar—buying downside puts while selling upside calls—to create a defined floor beneath returns and a defined cap above them.
+The AllianceBernstein Conservative [Buffer ETF](/buffer-etf/) represents an evolution in how asset managers have tried to solve a classical investor tension: the desire for [stock market](/stock-market/) returns combined with a fear of stock market losses. The fund uses a structure called a collar—buying downside puts while selling upside calls—to create a defined floor beneath returns and a defined cap above them.
 
 <aside class="wiki-infobox">
 <table>
@@ -50,7 +50,7 @@ The early products were successful, and the category has grown, with multiple ma
 
 ## The economics of the collar
 
-The beauty of a collar is that it can be self-funding or nearly so. Selling upside [call options](/call-option/) generates premium; buying downside [put options](/put-option/) costs premium. If structured correctly, the revenue from the calls offsets the cost of the puts, leaving the fund's costs embedded in the quoted [expense ratio](/expense-ratio/). This is much more efficient than a traditional active manager charging you 1%+ annually to try to navigate market cycles.
+The beauty of a collar is that it can be self-funding or nearly so. Selling upside [call options](/call-option/) generates premium; buying downside [put options](/put-option/) costs premium. If structured correctly, the revenue from the calls offsets the cost of the puts, leaving the fund's costs embedded in the quoted [expense ratio](/expense-ratio/). This is much more efficient than a traditional active manager charging you 1%+ annually to try to navigate [market cycles](/market-cycle/).
 
 But the collar comes with trade-offs. The cap on upside means that in strong [bull markets](/bull-market/), BUFC underperforms the S&P 500 significantly. An investor holding BUFC in a year when the market rises 30% gains only 15% instead—a meaningful opportunity cost. The buffer only matters in down markets; in up markets, it is purely a drag.
 

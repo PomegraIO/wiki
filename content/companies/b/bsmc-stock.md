@@ -29,7 +29,7 @@ There is also the risk of active management itself. The fund's performance depen
 
 ## Who should own this?
 
-This fund is for an investor with two commitments: first, a belief that value investing works over full market cycles and a willingness to stay put through periods where it does not. Second, a tolerance for the extra volatility and idiosyncratic risk that comes with smaller companies. If you want broad small-mid exposure, a cheaper index ETF is a better choice. If you want to back a disciplined value team and are willing to pay active fees for their stock-picking, this makes sense.
+This fund is for an investor with two commitments: first, a belief that value investing works over full [market cycles](/market-cycle/) and a willingness to stay put through periods where it does not. Second, a tolerance for the extra volatility and idiosyncratic risk that comes with smaller companies. If you want broad small-mid exposure, a cheaper index ETF is a better choice. If you want to back a disciplined value team and are willing to pay active fees for their stock-picking, this makes sense.
 
 ## How to evaluate the fund before buying
 

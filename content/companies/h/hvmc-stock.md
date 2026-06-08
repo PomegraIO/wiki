@@ -31,13 +31,13 @@ Holding means betting that the merged company will trade above that redemption p
 
 When HVMC announces a merger target, the deal structure typically involves two valuation levers: the equity purchase price (what the SPAC and sponsor contribute) and the liability or earnout structure (deferred cash or contingent payments). If HVMC's trust holds $250 million and the SPAC sponsor commits $25 million in new equity, the total available consideration is $275 million. The target company is valued at, say, $400 million; the remaining $125 million is funded via earnout agreements.
 
-An earnout creates a unit transaction: the target receives a base purchase price upfront and additional payments if future performance milestones are achieved. From the SPAC's perspective, earnouts preserve cash at close. From the target shareholder's perspective, earnouts extend the investment risk—if the merged company underperforms, the seller leaves money on the table. Earnout structures thus transfer risk from the acquirer (HVMC/Highview) to the target seller.
+An earnout creates a unit transaction: the target receives a base purchase price upfront and additional payments if future performance milestones are achieved. From the SPAC's perspective, earnouts preserve cash at close. From the target shareholder's perspective, earnouts extend the investment risk—if the merged company underperforms, the seller leaves money on the table. Earnout structures thus [transfer risk](/transfer-risk/) from the acquirer (HVMC/Highview) to the target seller.
 
 ## The Sponsor Alignment Conflict and Founder Shares
 
 The founder shares held by Highview's sponsor vest or remain locked based on post-merger share price performance. If the merged company stock remains above the IPO price for extended periods, founder shares remain valuable. If the stock collapses, founder shares may be worthless. This creates a dual incentive for the sponsor: close a merger at almost any reasonable valuation (to unlock shareholder value and justify the SPAC's existence), but negotiate a target strong enough that post-merger stock does not crater immediately.
 
-In practice, this tension often resolves toward deal completion over deal quality. SPAC sponsors face reputational risk if multiple vehicles fail to merge, making deal closure economically rational even at inflated valuations. Shareholders who redeem escape this risk; those who hold bear it directly.
+In practice, this tension often resolves toward deal completion over deal quality. SPAC sponsors face [reputational risk](/reputational-risk/) if multiple vehicles fail to merge, making deal closure economically rational even at inflated valuations. Shareholders who redeem escape this risk; those who hold bear it directly.
 
 ## Warrant Economics and Leverage
 

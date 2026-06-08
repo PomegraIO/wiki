@@ -41,7 +41,7 @@ The company's risk profile also includes construction-cost volatility. Materials
 
 ## How to Research CalEthos Further
 
-An investor or analyst approaching CalEthos would begin with its [10-K](/10-k/) annual report and [quarterly earnings statements](/income-statement/), filed with the SEC and accessible via its CIK 1174891. The 10-K's management discussion and analysis (MD&A) section typically outlines project pipelines, recent sales, and forward-looking challenges. The [balance sheet](/balance-sheet/) reveals debt levels and property holdings. Notes to the financial statements detail mortgage terms, interest rates, and covenant restrictions—all material to assessing financial flexibility.
+An investor or analyst approaching CalEthos would begin with its [10-K](/10-k/) annual report and [quarterly earnings statements](/income-statement/), filed with the SEC and accessible via its CIK 1174891. The 10-K's [management discussion and analysis](/management-discussion-and-analysis/) (MD&A) section typically outlines project pipelines, recent sales, and forward-looking challenges. The [balance sheet](/balance-sheet/) reveals debt levels and property holdings. Notes to the financial statements detail mortgage terms, interest rates, and covenant restrictions—all material to assessing financial flexibility.
 
 ## Broader Context
 

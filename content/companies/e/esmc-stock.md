@@ -21,7 +21,7 @@ Escalon operates in a niche where recession resistance is structural, not accide
 
 ## Portfolio and Market Positioning
 
-Escalon's revenue streams span diagnostic imaging (ultrasound, optical coherence tomography-based systems), surgical hand instruments (forceps, scissors, cannulas), and surgical accessories (lights, visualization systems). These products serve ophthalmologists, retinal specialists, and general surgeons. The company operates as a consolidator in a fragmented market, acquiring and integrating smaller device makers and leveraging shared distribution to expand margins. Its position is neither premium nor budget; it competes on reliability, precision, and surgeon familiarity rather than innovation leadership or aggressive pricing. Geographic exposure spans North America, Europe, and emerging markets, with domestic hospital systems and international surgical centers as core customers.
+Escalon's revenue streams span diagnostic imaging (ultrasound, optical coherence tomography-based systems), surgical hand instruments (forceps, scissors, cannulas), and surgical accessories (lights, visualization systems). These products serve ophthalmologists, retinal specialists, and general surgeons. The company operates as a consolidator in a [fragmented market](/fragmented-market/), acquiring and integrating smaller device makers and leveraging shared distribution to expand margins. Its position is neither premium nor budget; it competes on reliability, precision, and surgeon familiarity rather than innovation leadership or aggressive pricing. Geographic exposure spans North America, Europe, and emerging markets, with domestic hospital systems and international surgical centers as core customers.
 
 ## Capital Light, Margin Dependent
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TON Strategy Co (TONX), formerly Verb Technology, is a public company listed on [NASDAQ](/nasdaq/) that operates as a specialised treasury and investment vehicle focused entirely on the Toncoin ecosystem. The business model is straightforward in concept but novel in execution: the company accumulates and holds Toncoin (TON), generates yield through staking those holdings, and deploys capital into early-stage projects building on the TON blockchain. It also provides infrastructure services that bridge the gap between traditional enterprises and this emerging ecosystem.
+TON Strategy Co (TONX), formerly Verb Technology, is a public company listed on [NASDAQ](/nasdaq/) that operates as a specialised treasury and investment vehicle focused entirely on the Toncoin ecosystem. The business model is straightforward in concept but novel in execution: the company accumulates and holds Toncoin (TON), generates yield through staking those holdings, and deploys capital into early-stage projects building on the [TON blockchain](/ton-blockchain/). It also provides infrastructure services that bridge the gap between traditional enterprises and this emerging ecosystem.
 
 <aside class="wiki-infobox">
 <table>

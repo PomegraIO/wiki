@@ -51,7 +51,7 @@ For-profit education is heavily regulated. Federal law sets requirements for how
 
 Perdoceo has faced this risk directly. The company has been subject to regulatory investigations, and at times has been required to offer loan forgiveness or settlements to students. Regulatory changes can also affect margins and profitability: a lower allowable loan cap per student means lower tuition that the school can charge; new compliance requirements add operating costs.
 
-There is also reputational risk. If Perdoceo graduates do not get jobs, or if they get jobs that pay too little to service their loans, politicians and regulators take notice. The company's marketing claims about job placement have to be accurate or the company risks lawsuits and regulatory action. The business model is fundamentally sound — employers need trained workers, and practical training works — but it lives at the intersection of education and profit, and that is a politically fraught space.
+There is also [reputational risk](/reputational-risk/). If Perdoceo graduates do not get jobs, or if they get jobs that pay too little to service their loans, politicians and regulators take notice. The company's marketing claims about job placement have to be accurate or the company risks lawsuits and regulatory action. The business model is fundamentally sound — employers need trained workers, and practical training works — but it lives at the intersection of education and profit, and that is a politically fraught space.
 
 ## How to research Perdoceo as an investment
 

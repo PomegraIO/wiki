@@ -43,7 +43,7 @@ The search process involves pitching to private companies, private equity sponso
 
 Once a target is identified that both parties find attractive, negotiations begin. The sponsors and the target company's owners or board discuss a valuation (price per share for the target's equity), the transaction structure (merger, asset purchase, or other), and the post-merger capital structure. Deal terms are negotiated: What percentage of the merged company will the original SPAC shareholders own? What percentage will the target company's shareholders own? How much additional capital will be needed post-merger, and where will it come from?
 
-Once a deal is agreed, Trailblazer announces the merger. A proxy statement is prepared and filed with the SEC, detailing the target business, financial projections, fees, and voting mechanics. The announcement typically includes disclosure of the target's business, revenue, profitability (if any), and growth prospects. It also reveals the deal's valuation, the sponsors' incentives, and the fees to be paid to advisors.
+Once a deal is agreed, Trailblazer announces the merger. A [proxy statement](/proxy-statement/) is prepared and filed with the SEC, detailing the target business, financial projections, fees, and voting mechanics. The announcement typically includes disclosure of the target's business, revenue, profitability (if any), and growth prospects. It also reveals the deal's valuation, the sponsors' incentives, and the fees to be paid to advisors.
 
 ## Shareholder vote and potential redemptions
 

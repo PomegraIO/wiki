@@ -46,7 +46,7 @@ This model creates a powerful incentive to outperform benchmarks (so investors k
 
 ## The Brookfield combination: diversification and integration risk
 
-[Brookfield Asset Management](/bam-stock/) brought infrastructure and renewable energy expertise — long-life, cash-generative assets like toll roads, power plants, and renewable energy parks. Oaktree brought credit and private equity. Combining the two created a more diversified manager, reducing the firm's dependence on any single investment style or market cycle.
+[Brookfield Asset Management](/bam-stock/) brought infrastructure and renewable energy expertise — long-life, cash-generative assets like toll roads, power plants, and renewable energy parks. Oaktree brought credit and private equity. Combining the two created a more diversified manager, reducing the firm's dependence on any single investment style or [market cycle](/market-cycle/).
 
 But combining two cultures and investment philosophies carries risk. Private equity returns often depend on leverage and rapid value creation; infrastructure returns depend on stable, long-life cash flows and regulatory relationships. Oaktree's credit investors are disciplined about downside protection; Brookfield's renewable energy team may be more focused on growth. These differences in philosophy can create friction or misallocation of capital.
 

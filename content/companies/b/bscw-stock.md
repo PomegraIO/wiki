@@ -35,7 +35,7 @@ Principal is returned gradually as bonds mature within the 2032 window. A bondho
 
 Invesco, a multinational asset manager with hundreds of billions under management, is the fund's sponsor. Invesco develops the underlying index and administers the fund. The company is large and stable, making it a credible [custodian](/custodian/).
 
-The [expense ratio](/expense-ratio/) is approximately 0.40 percent annually, a reasonable charge for an actively managed bond fund. The fund trades on the NYSE Arca exchange with solid daily volume. [Bid-ask spreads](/bid-ask-spread/) are tight, typically a few basis points, making it straightforward for retail investors to enter and exit positions without significant trading costs.
+The [expense ratio](/expense-ratio/) is approximately 0.40 percent annually, a reasonable charge for an actively managed bond fund. The fund trades on the [NYSE Arca](/nyse-arca/) exchange with solid daily volume. [Bid-ask spreads](/bid-ask-spread/) are tight, typically a few basis points, making it straightforward for retail investors to enter and exit positions without significant trading costs.
 
 ## Risk considerations
 

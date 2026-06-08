@@ -47,7 +47,7 @@ The value creation, if it works, comes from three sources. First, scale in procu
 
 The dental lab consolidation story is not new. Previous attempts to scale dental labs have largely failed, partly because the economics of the lab business are thinner than the narrative suggests, and partly because the skill and relationships that make a lab valuable are genuinely hard to preserve through growth and standardization.
 
-TUTH faces execution risk. Integrating ten independent labs while preserving their craftsmanship and relationships is harder than acquiring them. Dentists are sticky—they have strong relationships with their existing labs and are slow to switch—so growth depends on the acquired labs retaining their customer bases through the transition. If turnover of key technicians accelerates post-acquisition, or if customers defect to maintain relationships with the original owners, the roll-up thesis collapses.
+TUTH faces [execution risk](/execution-risk/). Integrating ten independent labs while preserving their craftsmanship and relationships is harder than acquiring them. Dentists are sticky—they have strong relationships with their existing labs and are slow to switch—so growth depends on the acquired labs retaining their customer bases through the transition. If turnover of key technicians accelerates post-acquisition, or if customers defect to maintain relationships with the original owners, the roll-up thesis collapses.
 
 There is also [market timing](/market-timing/) risk. TUTH is raising capital to fund acquisitions. If the market for dental services softens, or if the rate environment makes it harder to finance acquisitions, the growth pipeline could slow sharply.
 

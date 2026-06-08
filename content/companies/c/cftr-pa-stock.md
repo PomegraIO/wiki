@@ -12,7 +12,7 @@ handwritten: true
 
 Cantor Fitzgerald Income Trust is a closed-end investment fund — a publicly traded company that manages a portfolio of securities with the explicit goal of distributing regular income to its shareholders. Unlike open-ended [mutual funds](/mutual-fund/) that issue and redeem shares based on investor demand, CEFs have a fixed number of shares trading on an exchange at prices set by market supply and demand, which means the share price can diverge from the underlying value of the portfolio held inside.
 
-The fund is managed by Cantor Fitzgerald, the investment bank and financial services firm, which handles portfolio decisions, security selection, and the day-to-day administration of the holdings. As with any managed fund, the returns to investors depend on both the quality of the securities the manager selects and the manager's ability to navigate [interest rates](/interest-rate/), credit cycles, and market dislocations without major losses.
+The fund is managed by Cantor Fitzgerald, the investment bank and financial services firm, which handles portfolio decisions, security selection, and the day-to-day administration of the holdings. As with any managed fund, the returns to investors depend on both the quality of the securities the manager selects and the manager's ability to navigate [interest rates](/interest-rate/), [credit cycles](/credit-cycle/), and market dislocations without major losses.
 
 ## The debt portfolio
 

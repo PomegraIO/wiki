@@ -23,7 +23,7 @@ That concentration is a feature—it allows the bank to develop deep expertise i
 
 Bank OZK also finances construction and real estate development—lending money to developers building new projects before the buildings generate stable, leasing-based income. Construction lending is higher-risk than lending against stabilized, income-producing properties. Developers depend on the ability to complete projects and quickly lease or sell the finished product. If a project stalls (labor issues, material costs rise unexpectedly, or market demand weakens), the bank's loan can deteriorate rapidly.
 
-In buoyant markets, construction lending is profitable—higher rates, strong demand, and developer equity cushioning losses. In downturns, construction loans blow up. Bank OZK's construction portfolio is a window into how management assesses real estate risk and how much leverage the bank is willing to extend on projects that have not yet proven themselves.
+In buoyant markets, construction lending is profitable—higher rates, strong demand, and developer equity cushioning losses. In downturns, [construction loans](/construction-loan/) blow up. Bank OZK's construction portfolio is a window into how management assesses real estate risk and how much leverage the bank is willing to extend on projects that have not yet proven themselves.
 
 ## Residential mortgage and MSR business
 
@@ -35,17 +35,17 @@ Residential mortgage origination volume is volatile and tied to home sales, refi
 
 Bank OZK's profitability depends critically on the spread between the rates it pays on deposits and borrowings and the rates it earns on loans. When the [Federal Reserve](/federal-reserve/) raises rates, it typically raises both sides of that spread, but the timing and magnitude can vary. A rising-rate environment often compresses net interest margins in the short run: depositors move money to higher-yielding accounts, and the bank must raise rates on deposits to compete. Meanwhile, the loan portfolio reprices slower, especially mortgages held with fixed rates.
 
-Conversely, falling rates eventually hurt because the loan book reprices downward before deposit costs fall. The bank's loan portfolio includes mortgages at fixed rates set years earlier, which will eventually mature and be replaced by new loans at lower rates. That repricing risk is embedded in any residential mortgage lender.
+Conversely, falling rates eventually hurt because the loan book reprices downward before deposit costs fall. The bank's loan portfolio includes mortgages at fixed rates set years earlier, which will eventually mature and be replaced by new loans at lower rates. That [repricing risk](/interest-rate-risk-repricing/) is embedded in any residential mortgage lender.
 
 ## Credit quality and charge-offs
 
 A key metric for any bank is the quality of its loan book—how many borrowers are paying as promised and how many are in default or at risk. Bank OZK publishes metrics on non-performing assets and charge-offs. In strong economic times, charge-offs tend to be low. In [recessions](/recession/), they spike. Real estate lenders are especially exposed to this risk because real estate values can change sharply and quickly affect borrower equity and willingness to pay.
 
-The bank's management must balance growth (originating new loans and building the portfolio) with credit quality (ensuring borrowers have the ability and incentive to repay). Too much risk-taking in origination looks good for a few years until the credit cycle turns; then losses mount. Too much conservatism in underwriting leaves money on the table relative to more aggressive competitors.
+The bank's management must balance growth (originating new loans and building the portfolio) with credit quality (ensuring borrowers have the ability and incentive to repay). Too much risk-taking in origination looks good for a few years until the [credit cycle](/credit-cycle/) turns; then losses mount. Too much conservatism in underwriting leaves money on the table relative to more aggressive competitors.
 
 ## Regulatory and capital constraints
 
-As a bank, Bank OZK is subject to regulatory capital requirements set by the Federal Reserve and the [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/). These rules require the bank to maintain certain levels of equity capital relative to its risk-weighted assets. During strong periods, the bank can build capital and pay [dividends](/dividend/) or buy back shares. During stress periods, regulators may restrict dividends if capital levels are judged insufficient.
+As a bank, Bank OZK is subject to regulatory capital requirements set by the Federal Reserve and the [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/). These rules require the bank to maintain certain levels of equity capital relative to its [risk-weighted assets](/risk-weighted-assets/). During strong periods, the bank can build capital and pay [dividends](/dividend/) or buy back shares. During stress periods, regulators may restrict dividends if capital levels are judged insufficient.
 
 A sharp rise in loan losses or a decline in the value of securities held on the [balance sheet](/balance-sheet/) can erode capital quickly. If capital falls below regulatory minimums, the bank may be required to cut dividends, raise more capital, or sell assets—all undesirable for shareholders.
 
@@ -59,4 +59,4 @@ The efficiency ratio (operating expenses divided by operating revenue) reflects 
 
 Watch the composition of the loan portfolio quarterly—shifts toward or away from real estate, construction, or stabilized properties reveal management's risk appetite. Any material change in loan pricing, terms, or underwriting standards is a signal that management perceives either increased opportunity or increased risk.
 
-Finally, monitor real estate market indicators independently: office vacancy rates, apartment rents, construction starts, and real estate lending sentiment from the Federal Reserve's surveys. Bank OZK's earnings move with these trends, and foresight on the real estate cycle is often more useful than backward-looking loan metrics.
+Finally, monitor real estate market indicators independently: office [vacancy rates](/vacancy-rate-property/), apartment rents, construction starts, and real estate lending sentiment from the Federal Reserve's surveys. Bank OZK's earnings move with these trends, and foresight on the [real estate cycle](/real-estate-cycle/) is often more useful than backward-looking loan metrics.

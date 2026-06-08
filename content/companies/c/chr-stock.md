@@ -4,7 +4,7 @@ description: "A Chinese holding company operating in the technology and consumer
 keywords: ["China", "holding company", "offshore structure", "technology", "consumer services", "regulation"]
 ---
 
-*The **Cheer Holding, Inc.** (CHR) story unfolds against the backdrop of offshore [capital flows](/capital-flows/) from China to US equity markets—a structural channel that has reshaped global finance over two decades but has also grown fraught with regulatory scrutiny. As China's own capital controls tightened and Beijing began asserting stricter oversight of VIE (variable interest entity) structures, companies like Cheer have found themselves navigating an increasingly complex intersection between Chinese business operations and American public markets.*
+*The **Cheer Holding, Inc.** (CHR) story unfolds against the backdrop of offshore [capital flows](/capital-flows/) from China to US equity markets—a structural channel that has reshaped global finance over two decades but has also grown fraught with regulatory scrutiny. As China's own capital controls tightened and Beijing began asserting stricter oversight of VIE ([variable interest entity](/variable-interest-entity/)) structures, companies like Cheer have found themselves navigating an increasingly complex intersection between Chinese business operations and American public markets.*
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ This regulatory drift creates a persistent headwind for any company like Cheer t
 
 Cheer operates in technology and consumer services—sectors that have proven both high-growth and high-risk in the Chinese context. Consumer services, in particular, faces cyclicality tied to Chinese consumer confidence and [discretionary spending](/discretionary-spending/), themselves shaped by macro conditions, property-market dynamics, and regulatory policy around social spending. Technology operations may touch areas like software, digital services, or fintech—all zones where Beijing has shown willingness to intervene through regulation, licensing restrictions, or antitrust action.
 
-The company's actual revenue streams and customer base would be documented in its 10-K filings with the SEC. Those filings, by law, must disclose material risks and describe the business with sufficient detail that an investor can form a judgment about viability. For a Chinese holding company, those disclosures often include explicit warnings about VIE enforceability, political risk, and the absence of independent audit rights in certain jurisdictions.
+The company's actual revenue streams and customer base would be documented in its 10-K filings with the SEC. Those filings, by law, must disclose material risks and describe the business with sufficient detail that an investor can form a judgment about viability. For a Chinese holding company, those disclosures often include explicit warnings about VIE enforceability, [political risk](/political-risk/), and the absence of independent audit rights in certain jurisdictions.
 
 ## Capital Structure and Investor Position
 

@@ -43,7 +43,7 @@ New product success is uncertain. A new shelf-stable product in a US grocery cha
 
 ## Supply Chain and Commodity Inputs
 
-Vita Coco's primary input is coconut water, sourced from coconut suppliers in tropical regions (Philippines, Indonesia, India, Latin America). The coconut supply is subject to weather, disease, and seasonal variation. A major drought or coconut-crop failure raises input costs and constrains volume. Vita Coco hedges this risk through long-term supplier relationships and by managing inventory, but commodity risk is endemic to the business.
+Vita Coco's primary input is coconut water, sourced from coconut suppliers in tropical regions (Philippines, Indonesia, India, Latin America). The coconut supply is subject to weather, disease, and seasonal variation. A major drought or coconut-crop failure raises input costs and constrains volume. Vita Coco hedges this risk through long-term supplier relationships and by managing inventory, but [commodity risk](/commodity-risk/) is endemic to the business.
 
 The company also purchases bottles, labels, and secondary packaging. Plastic-bottle costs are sensitive to oil prices; aluminum can costs fluctuate with commodity aluminum prices. These inputs are commoditized, and Vita Coco has limited pricing power with suppliers unless it can move large volumes or negotiate long-term contracts.
 

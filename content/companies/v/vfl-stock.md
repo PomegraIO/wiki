@@ -42,7 +42,7 @@ Like all bonds, munis are sensitive to interest-rate moves. If the [Federal Rese
 
 ## Size and leverage
 
-abrdn National Municipal Income Fund is a long-standing, established fund with meaningful assets, which helps it maintain tight trading spreads on the exchange and gives it the heft to negotiate good purchase prices on large block trades of bonds. The fund may use leverage—borrowing to buy more bonds than shareholder capital alone would permit—to amplify the income stream, a practice common among closed-end muni funds. Leverage increases monthly distributions in calm times but amplifies losses when [credit spreads](/credit-spread/) widen or rates spike, so it is a double-edged tool.
+abrdn National Municipal Income Fund is a long-standing, established fund with meaningful assets, which helps it maintain tight trading spreads on the exchange and gives it the heft to negotiate good purchase prices on large [block trades](/block-trade/) of bonds. The fund may use leverage—borrowing to buy more bonds than shareholder capital alone would permit—to amplify the income stream, a practice common among closed-end muni funds. Leverage increases monthly distributions in calm times but amplifies losses when [credit spreads](/credit-spread/) widen or rates spike, so it is a double-edged tool.
 
 ## How to evaluate the fund
 

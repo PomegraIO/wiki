@@ -19,7 +19,7 @@ Siemens Energy's legacy business is the design and manufacture of large power-ge
 
 Gas-turbine revenue and orders are cyclical, tied to utility investment in new generation capacity and the relative economics of [natural gas](/natural-gas/) versus other fuels. The business is also heavily affected by long-term energy-policy shifts: in Europe and increasingly in other regions, carbon-reduction regulations are making pure gas-fired generation less attractive, and utilities are building fewer new fossil-fuel plants. Yet globally, particularly in developing economies, gas remains the fastest-growing form of power generation, and demand for Siemens Energy's turbines persists in these regions.
 
-The profit profile of the gas-turbine business is dominated by large orders for complete systems—a single contract to supply turbines for a new plant can be worth hundreds of millions of dollars but may take years to execute and deliver. Margins are thin relative to the capital required and the execution risk involved. The business is under structural pressure as global carbon-reduction policies make gas generation less appealing in developed markets.
+The profit profile of the gas-turbine business is dominated by large orders for complete systems—a single contract to supply turbines for a new plant can be worth hundreds of millions of dollars but may take years to execute and deliver. Margins are thin relative to the capital required and the [execution risk](/execution-risk/) involved. The business is under structural pressure as global carbon-reduction policies make gas generation less appealing in developed markets.
 
 ## Transmission and Distribution (Grid)
 

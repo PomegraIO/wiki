@@ -53,7 +53,7 @@ Additionally, as housing policy shifts toward GSE reform or explicit government 
 
 ## Investment and Research Anchors
 
-Investors evaluating Chimera should begin with its balance sheet (asset composition, leverage, duration), its net spread (earnings divided by equity), and its prepayment assumptions (a small change in assumed prepayment speed can swing equity value significantly). The 10-K details all of these. Compare Chimera's leverage and net spread to Annaly, New York Mortgage Trust, and Invesco Mortgage Capital to gauge where Chimera sits in the mREIT risk-return spectrum.
+Investors evaluating Chimera should begin with its balance sheet (asset composition, leverage, duration), its net spread (earnings divided by equity), and its prepayment assumptions (a small change in assumed [prepayment speed](/prepayment-speed/) can swing equity value significantly). The 10-K details all of these. Compare Chimera's leverage and net spread to Annaly, New York Mortgage Trust, and Invesco Mortgage Capital to gauge where Chimera sits in the mREIT risk-return spectrum.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -44,7 +44,7 @@ Development-stage companies making policy choices in financial reporting—wheth
 
 ## Management Compensation and Burn Rate in Context
 
-Genvor's proxy statements (DEF 14A) disclose executive compensation and how much of it is equity-based versus cash. In development-stage companies, large equity grants are common (founders and early employees receive options); this is disclosed in equity tables. By reading the compensation disclosure alongside the cash burn in the statement of cash flows, a skeptical reader assesses whether management is appropriately incentivized to reach milestones or whether the company is paying high salaries for uncertain outcomes.
+Genvor's [proxy statements](/proxy-statement/) (DEF 14A) disclose executive compensation and how much of it is equity-based versus cash. In development-stage companies, large equity grants are common (founders and early employees receive options); this is disclosed in equity tables. By reading the compensation disclosure alongside the cash burn in the statement of cash flows, a skeptical reader assesses whether management is appropriately incentivized to reach milestones or whether the company is paying high salaries for uncertain outcomes.
 
 ## Going-Concern Assessment and Financial Viability
 

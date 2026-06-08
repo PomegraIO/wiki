@@ -22,7 +22,7 @@ CTO Realty Growth was founded in the 1990s as Whitestone REIT and renamed and re
 
 This is straightforward: CTO buys or builds a shopping center, typically in a working-class or middle-class neighborhood. It signs leases with a mix of tenants — a grocery store or dollar store as the anchor, then smaller spaces for a pharmacy, a hair salon, a tax preparer, a restaurant. The grocer or dollar store provides stability and traffic; the smaller tenants fill in around them.
 
-CTO collects the rent — typically a blend of base rent plus a share of tenant sales above a threshold (called percentage rent). It pays operating costs: property taxes, insurance, maintenance, staffing for the parking lot and common areas. What's left is [net operating income](/net-operating-income/), or NOI. CTO funds the purchase price through a combination of debt (mortgages) and equity (shareholder capital), and the difference between the NOI and the interest cost on the debt is what flows to shareholders as dividends.
+CTO collects the rent — typically a blend of base rent plus a share of tenant sales above a threshold (called [percentage rent](/percentage-rent/)). It pays operating costs: property taxes, insurance, maintenance, staffing for the parking lot and common areas. What's left is [net operating income](/net-operating-income/), or NOI. CTO funds the purchase price through a combination of debt (mortgages) and equity (shareholder capital), and the difference between the NOI and the interest cost on the debt is what flows to shareholders as dividends.
 
 This model works as long as three things are true: tenants keep paying rent, occupancy stays high, and the company can refinance or service its debt. When any of those breaks, the dividend is at risk.
 
@@ -32,7 +32,7 @@ The real risk is that Americans are shopping differently. Two forces are at work
 
 Second, consolidation in retail itself is brutal. Dollar stores and drug chains expanded rapidly through the 2000s and 2010s, but they eventually saturated the market — too many dollar stores chasing the same customer. Regional and smaller chains have gone bankrupt (Rite Aid, many local grocers). The surviving anchor tenants are fewer and more powerful, giving them leverage to demand lower rents.
 
-The upshot: neighborhood retail is under pressure. Strip centers built on the assumption of stable, predictable demand from the grocer and a revolving door of small local retailers are finding that demand is less stable and the available tenants less numerous. Vacancy rates in secondary-market strip centers have crept upward. Competition for tenants drives down rents.
+The upshot: neighborhood retail is under pressure. Strip centers built on the assumption of stable, predictable demand from the grocer and a revolving door of small local retailers are finding that demand is less stable and the available tenants less numerous. [Vacancy rates](/vacancy-rate-property/) in secondary-market strip centers have crept upward. Competition for tenants drives down rents.
 
 CTO Realty Growth's portfolio is disproportionately exposed to this trend because it owns neighborhood retail in [secondary markets](/secondary-market/) — exactly where the pressure is sharpest. A grocery-anchored center in a small Ohio town faces more risk than a power center in a major metro (where big-box retailers cluster and reinvestment is constant).
 
@@ -60,4 +60,4 @@ Analyze the debt structure. When are the major mortgage maturities? What is the 
 
 Tenant diversity matters. Is the portfolio overly dependent on one anchor or retail category? A center with a dollar store, a grocery, and a handful of small tenants is less diversified than a larger power center. Look for [concentration risk](/concentration-risk/) — a few major tenants representing a high fraction of rents.
 
-Finally, compare CTO's dividend yield to its peers and to its own history. A yield that seems unusually high relative to peers might indicate the market is pricing in dividend risk. Track the "funds from operations" (FFO) metric — this is the cash earnings that support the dividend — and see whether it is stable, growing, or declining. If FFO is falling while the dividend is held constant, the dividend is increasingly at risk.
+Finally, compare CTO's dividend yield to its peers and to its own history. A yield that seems unusually high relative to peers might indicate the market is pricing in dividend risk. Track the "[funds from operations](/funds-from-operations/)" (FFO) metric — this is the cash earnings that support the dividend — and see whether it is stable, growing, or declining. If FFO is falling while the dividend is held constant, the dividend is increasingly at risk.

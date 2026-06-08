@@ -29,7 +29,7 @@ Offerpad earns money on the spread between what it pays for a home and what it s
 
 The challenge is that unit economics—the profit or loss on each home—can swing wildly. A home bought at the wrong time in the cycle, or in a market where prices prove softer than the model predicted, can flip a loss. Scale helps by allowing the company to absorb some losers if the average across the portfolio is positive. But if the average turns negative, adding volume makes the problem worse, not better.
 
-The company is therefore in a constant battle to refine its offer algorithm, maintain discipline in market selection, and manage renovation costs tightly. It must also maintain the relationship with sellers and buyers: offer prices that attract sellers without overpaying, and resale prices that move inventory without sitting vacant (which costs money). None of this is simple, and none of it is stable across a full market cycle.
+The company is therefore in a constant battle to refine its offer algorithm, maintain discipline in market selection, and manage renovation costs tightly. It must also maintain the relationship with sellers and buyers: offer prices that attract sellers without overpaying, and resale prices that move inventory without sitting vacant (which costs money). None of this is simple, and none of it is stable across a full [market cycle](/market-cycle/).
 
 ## Technology and the illusion of data advantage
 
@@ -39,7 +39,7 @@ This is important because Offerpad's long-term position depends on neither its t
 
 ## How to research Offerpad
 
-Offerpad's 10-K filing (SEC CIK 0001825024) is the place to start. Pay attention to the volume of homes purchased and sold, the average offer price and resale price (which reveal the realized spread before costs), and the trends in gross profit per home. Look for any homes held as rentals or carried on the [balance sheet](/balance-sheet/) as long-term inventory, which could signal trouble in specific markets.
+Offerpad's 10-K filing (SEC CIK 0001825024) is the place to start. Pay attention to the volume of homes purchased and sold, the average offer price and resale price (which reveal the [realized spread](/realized-spread/) before costs), and the trends in gross profit per home. Look for any homes held as rentals or carried on the [balance sheet](/balance-sheet/) as long-term inventory, which could signal trouble in specific markets.
 
 The quarterly earnings calls reveal management's commentary on market conditions, the pace of buying and selling, and any changes to underwriting or renovation strategy. Watch for signs that the company is tightening its offer algorithm (implying it is being more conservative) or loosening it (implying it needs volume). The trajectory of its borrowing and cash position is also worth tracking: a company burning through cash reserves or struggling to borrow is a red flag.
 

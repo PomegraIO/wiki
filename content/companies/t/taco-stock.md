@@ -41,7 +41,7 @@ Harry You's career in technology mergers and [acquisitions](/acquisition/) spans
 
 Berto has not yet announced a specific acquisition target, but the prospectus signals intent to pursue high-growth firms in three areas: artificial intelligence and related software or infrastructure; wellness and longevity technologies (including aesthetic and health-enhancement products); and "enabling" technologies — infrastructure, SaaS platforms, or tools that power faster growth in other industries.
 
-In late 2024 and early 2025, Berto announced a non-binding letter of intent to combine with OnMed LLC, a telemedicine and virtual healthcare platform. If that deal closes, Berto shareholders would hold an equity stake in an operating healthcare technology company, and the SPAC would have satisfied its mandate to combine with a business.
+In late 2024 and early 2025, Berto announced a non-binding [letter of intent](/letter-of-intent-ma/) to combine with OnMed LLC, a telemedicine and virtual healthcare platform. If that deal closes, Berto shareholders would hold an equity stake in an operating healthcare technology company, and the SPAC would have satisfied its mandate to combine with a business.
 
 ## The mechanics and economics for investors
 
@@ -55,4 +55,4 @@ Because SPAC shareholders have [redemption rights](/redemption-rights-equity/) (
 
 ## How to follow Berto
 
-SEC filings — particularly 8-K forms announcing material developments — are the primary source of news. Updates on potential acquisition targets, changes in deal timelines, and redemption levels (revealed in proxy statements) are the key indicators of whether the SPAC is on track or facing obstacles to completing its mission.
+SEC filings — particularly 8-K forms announcing material developments — are the primary source of news. Updates on potential acquisition targets, changes in deal timelines, and redemption levels (revealed in [proxy statements](/proxy-statement/)) are the key indicators of whether the SPAC is on track or facing obstacles to completing its mission.

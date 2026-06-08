@@ -38,7 +38,7 @@ Increasingly, GPT competes for tenants against new entrants to the logistics rea
 
 US investors access GPT through an ADR, a structure that wraps shares in a Australian company and enables trading on American exchanges. The ADR converts [Australian dollars](/australian-dollar/) to [US dollars](/us-dollar/); investors bear [currency risk](/currency-risk/). If the Australian dollar strengthens against the US dollar, ADR holders benefit from the currency movement. If the Australian dollar weakens, the ADR price suffers even if the underlying company's operations improve.
 
-This currency overlay is economically meaningful. Australia's dollar fluctuates based on commodity prices, interest-rate differentials, and [capital flows](/capital-flows/). A sustained period of US [interest rates](/interest-rate/) above Australian rates can push the Australian dollar lower, creating a drag on ADR returns that has nothing to do with the company's operating performance. Investors must distinguish between the [business cycle](/business-cycle/) in Australia and the currency cycle between USD and AUD.
+This [currency overlay](/currency-overlay/) is economically meaningful. Australia's dollar fluctuates based on commodity prices, interest-rate differentials, and [capital flows](/capital-flows/). A sustained period of US [interest rates](/interest-rate/) above Australian rates can push the Australian dollar lower, creating a drag on ADR returns that has nothing to do with the company's operating performance. Investors must distinguish between the [business cycle](/business-cycle/) in Australia and the currency cycle between USD and AUD.
 
 ## Operational Levers and Capital Allocation
 

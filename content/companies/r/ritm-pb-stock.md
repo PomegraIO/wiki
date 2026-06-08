@@ -23,7 +23,7 @@ However, servicing faces regulatory risk. Changes to consumer-protection laws, e
 
 ## Mortgage Origination — Cyclical and Capital-Intensive
 
-Rithm originates residential mortgages (or acquires them from originators) through wholesale and correspondent channels. Origination is cyclical: when [interest rates](/interest-rate/) fall and homebuyers refinance, origination volume and margins spike. When rates are high and refinancing activity falls, origination becomes less profitable. Rithm also takes on pipeline risk — the risk that interest rates move between when a borrower applies for a mortgage and when it closes, affecting the profitability or salability of the loan.
+Rithm originates residential mortgages (or acquires them from originators) through wholesale and correspondent channels. Origination is cyclical: when [interest rates](/interest-rate/) fall and homebuyers refinance, origination volume and margins spike. When rates are high and refinancing activity falls, origination becomes less profitable. Rithm also takes on [pipeline risk](/pipeline-risk/) — the risk that interest rates move between when a borrower applies for a mortgage and when it closes, affecting the profitability or salability of the loan.
 
 This segment is smaller than servicing but strategically important. Originating mortgages gives Rithm first look at loan quality and allows it to retain the best loans for its portfolio rather than selling them all. Origination also strengthens relationships with mortgage [brokers](/broker/) and banks that might use Rithm's servicing for their loan portfolios. However, origination requires capital, carries pipeline risk, and is exposed to competitive pressure from banks with lower funding costs.
 
@@ -47,7 +47,7 @@ That same scale, however, creates systemic importance and regulatory sensitivity
 
 ## Capital Structure and Preferred Share Priority
 
-Rithm's capital stack reflects the REIT model: senior debt (bank lines, mortgage-backed-securities [securitizations](/securitization/)) funds the mortgage portfolio, preferred shares provide mezzanine capital, and common equity absorbs residual risk. REIT tax rules require the company to distribute most taxable income to shareholders, so Rithm cannot retain capital for organic growth and relies on debt and preferred equity instead.
+Rithm's capital stack reflects the REIT model: senior debt (bank lines, mortgage-backed-securities [securitizations](/securitization/)) funds the mortgage portfolio, preferred shares provide mezzanine capital, and common equity absorbs [residual risk](/residual-risk/). REIT tax rules require the company to distribute most taxable income to shareholders, so Rithm cannot retain capital for organic growth and relies on debt and preferred equity instead.
 
 Preferred B sits below Preferred A and senior debt but above common equity. In a stress scenario where earnings compress, Preferred A is paid before Preferred B, and Preferred B is paid before common equity receives anything. However, REIT [dividends](/dividend/) on preferred shares are legally distinct from corporate debt: the company can reduce or suspend them without triggering a default on debt covenants, though doing so is a dire signal of distress.
 

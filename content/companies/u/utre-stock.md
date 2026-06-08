@@ -31,7 +31,7 @@ UTRE is sponsored by iShares, BlackRock's ETF arm, and tracks the ICE US Treasur
 
 ## Who it is for
 
-The fund is useful for investors who want short-to-intermediate Treasury exposure without the friction of buying through TreasuryDirect or a broker, or those building a [bond ladder](/bond-ladder/) who prefer a single diversified holding to picking individual bonds. It also functions as ballast in a stock-heavy portfolio: it earns the risk-free rate (plus the small [term premium](/term-premium/) for locking up money for three years) and dampens overall volatility without forcing investors out of stocks entirely.
+The fund is useful for investors who want short-to-intermediate Treasury exposure without the friction of buying through TreasuryDirect or a broker, or those building a [bond ladder](/bond-ladder/) who prefer a single diversified holding to picking individual bonds. It also functions as ballast in a stock-heavy portfolio: it earns the [risk-free rate](/risk-free-rate/) (plus the small [term premium](/term-premium/) for locking up money for three years) and dampens overall volatility without forcing investors out of stocks entirely.
 
 It is not useful as a trading vehicle for tactical rate bets or for investors with very short time horizons — the three-year duration means real price swings in volatile rate environments. It is also not useful for those seeking to avoid US government debt, which is the entire point of the fund.
 

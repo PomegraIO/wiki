@@ -35,7 +35,7 @@ The challenge is time and capital. A typical drug development programme takes te
 
 In September 2022, Vicapsys appointed three new board members: Richard Rosenblum, Colleen Delaney, and Charles Farrahar. The appointments suggest a deliberate effort to add financial and pharmaceutical expertise to governance. Rosenblum and Delaney and Farrahar brought backgrounds in healthcare finance and drug development—the kind of domain knowledge a pre-revenue biotech company needs to navigate fundraising and partnership discussions with larger firms.
 
-Board composition is often a leading indicator of a biotech's strategic direction. New financial expertise can signal preparation for a licensing deal or [merger](/merger/). New pharmaceutical expertise can suggest a shift toward later-stage development. In Vicapsys' case, the 2022 appointments happened after more than a decade of operations without marketed products—a sign that the company was either refocusing its approach or preparing for a significant capital event.
+Board composition is often a [leading indicator](/leading-indicator/) of a biotech's strategic direction. New financial expertise can signal preparation for a licensing deal or [merger](/merger/). New pharmaceutical expertise can suggest a shift toward later-stage development. In Vicapsys' case, the 2022 appointments happened after more than a decade of operations without marketed products—a sign that the company was either refocusing its approach or preparing for a significant capital event.
 
 ## Compound selection and therapeutic areas
 

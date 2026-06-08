@@ -4,7 +4,7 @@ description: "Silver and precious metals mining company operating a historic min
 keywords: [mining, silver, precious-metals, commodity, extraction, idaho, coeur-d'alene, industrial-metals]
 ---
 
-***Bunker Hill Mining Corp.** (BHLL) embodies the essential tension between commodity cyclicality and the structural forces reshaping mineral demand. Silver prices gyrate with industrial sentiment, credit cycles, and risk appetite—classical cyclical triggers. Yet the structural drift toward renewable energy infrastructure, battery storage, electric vehicle components, and digital device miniaturization creates a longer secular argument for precious metals. The company's margin and stock performance hinge on whether it can lock in stable revenues and manage per-unit costs well enough to survive the inevitable commodity downturns that will come.*
+***Bunker Hill Mining Corp.** (BHLL) embodies the essential tension between commodity cyclicality and the structural forces reshaping mineral demand. Silver prices gyrate with industrial sentiment, [credit cycles](/credit-cycle/), and risk appetite—classical cyclical triggers. Yet the structural drift toward renewable energy infrastructure, battery storage, electric vehicle components, and digital device miniaturization creates a longer secular argument for precious metals. The company's margin and stock performance hinge on whether it can lock in stable revenues and manage per-unit costs well enough to survive the inevitable commodity downturns that will come.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BHLL</td></tr>

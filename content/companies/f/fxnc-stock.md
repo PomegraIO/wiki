@@ -41,7 +41,7 @@ Lending decisions are decentralized. The branch loan officer knows the borrower,
 
 Underwriting is rigorous but local. The loan officer pulls financial statements, reviews credit history, assesses collateral, and structures a loan with terms and covenants. First National takes [credit risk](/credit-risk/)—the borrower might default. The bank provisions for expected losses based on historical [default rates](/default-rate/) and current credit environment. During economic downturns, provision expenses spike as borrowers struggle and default risk rises.
 
-Credit risk is concentrated. First National lends primarily to Virginia businesses and residents. If the local economy weakens—say, a major employer closes—loan defaults can spike and collateral values fall. [Diversification](/diversification/) is limited. Larger banks spread risk across geographies and industries; First National is concentrated.
+Credit risk is concentrated. First National lends primarily to Virginia businesses and residents. If the local economy weakens—say, a major employer closes—loan defaults can spike and collateral values fall. [Diversification](/diversification/) is limited. Larger banks [spread risk](/spread-risk/) across geographies and industries; First National is concentrated.
 
 ## Consumer Banking and Retail Products
 
@@ -55,9 +55,9 @@ Retail banking is increasingly commoditized. A customer shopping for a mortgage 
 
 First National funds its lending through deposits (the primary source) and [borrowing](/bond/) in capital markets. In a normal environment, deposits exceed lending, and the bank invests excess deposits in US Treasury securities and [bonds](/bond/). During loan-demand spikes or if deposits slow, the bank borrows via [repurchase agreements](/repurchase-agreement/) or wholesale funding markets.
 
-[Capital adequacy](/capital-adequacy/) is regulated. Federal regulators require banks to maintain minimum capital ratios to absorb losses. First National must maintain a [Tier 1 capital](/tier-1-capital/) ratio (core equity relative to risk-weighted assets) above a regulatory minimum. This constrains [dividend](/dividend/) payouts and [share buybacks](/share-buyback/); the bank cannot return all earnings to shareholders if doing so would fall below capital minimums.
+[Capital adequacy](/capital-adequacy/) is regulated. Federal regulators require banks to maintain minimum capital ratios to absorb losses. First National must maintain a [Tier 1 capital](/tier-1-capital/) ratio (core equity relative to [risk-weighted assets](/risk-weighted-assets/)) above a regulatory minimum. This constrains [dividend](/dividend/) payouts and [share buybacks](/share-buyback/); the bank cannot return all earnings to shareholders if doing so would fall below capital minimums.
 
-Loan loss reserves are a balance-sheet item. The bank estimates expected losses based on the loan portfolio's credit quality. If the economy weakens and defaults rise, the bank provisions additional reserves, which reduces reported earnings. Conversely, if credit improves, reserves can be released, boosting earnings. This creates earnings volatility tied to credit cycles.
+Loan loss reserves are a balance-sheet item. The bank estimates expected losses based on the loan portfolio's credit quality. If the economy weakens and defaults rise, the bank provisions additional reserves, which reduces reported earnings. Conversely, if credit improves, reserves can be released, boosting earnings. This creates earnings volatility tied to [credit cycles](/credit-cycle/).
 
 ## Interest-Rate Sensitivity
 
@@ -69,7 +69,7 @@ First National must manage this rate sensitivity through hedging strategies (int
 
 ## Operating Efficiency and Cost Control
 
-Community banks often have higher cost-to-income ratios (operating expenses as a percentage of revenue) than large national banks because they lack scale economies. A branch costs roughly the same to operate whether it serves a small town or a suburb. First National must control costs by managing branch staffing, consolidating back-office functions, and automating routine operations (ATMs, online banking) to reduce teller workload.
+Community banks often have higher [cost-to-income ratios](/cost-income-ratio/) (operating expenses as a percentage of revenue) than large national banks because they lack scale economies. A branch costs roughly the same to operate whether it serves a small town or a suburb. First National must control costs by managing branch staffing, consolidating back-office functions, and automating routine operations (ATMs, online banking) to reduce teller workload.
 
 Technology investment is critical. Online and mobile banking reduce branch traffic, but the bank must invest heavily in digital platforms to be competitive. The customer base skews older in many communities (less digital adoption), so branches cannot be eliminated entirely. First National balances investing in technology against maintaining branches.
 

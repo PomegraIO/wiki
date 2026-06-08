@@ -77,7 +77,7 @@ The threat of disruption comes from fintech companies offering faster, cheaper p
 
 ## Regional ambitions and constraints
 
-Bank of Chile operates subsidiaries in Peru and Colombia, where it offers retail and commercial banking. These regional operations are smaller than the Chile business and more exposed to the particular economic and political risks of those countries. They represent an attempt to diversify revenue beyond Chile, but they have not grown to be material to the group.
+Bank of Chile operates subsidiaries in Peru and Colombia, where it offers retail and commercial banking. These regional operations are smaller than the Chile business and more exposed to the particular economic and [political risks](/political-risk/) of those countries. They represent an attempt to diversify revenue beyond Chile, but they have not grown to be material to the group.
 
 Expanding across Latin America is appealing in theory but challenging in practice. Each country has its own regulatory regime, currency, economic cycle, and competitive dynamic. Bank of Chile must build and maintain relationships, technology, and talent in each market, all while competing against entrenched local banks. Regional expansion has been slow and modest.
 

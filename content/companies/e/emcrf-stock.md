@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-Embrace Change [Acquisition](/acquisition/) Corp. is a blank check company, commonly known as a special purpose acquisition company or SPAC, incorporated in 2021 and based in San Diego, California. The company was formed for a single stated purpose: to identify and acquire an operating business and bring it to public markets through a [merger](/merger/), asset acquisition, [stock exchange](/stock-exchange/), or similar [business combination](/business-combination-purchase/). In January 2025, after searching for a target, the company announced a definitive merger agreement with Tianji Tire Global (Cayman) Limited, a tire manufacturer with significant operations in mainland China.
+Embrace Change [Acquisition](/acquisition/) Corp. is a blank check company, commonly known as a special purpose acquisition company or SPAC, incorporated in 2021 and based in San Diego, California. The company was formed for a single stated purpose: to identify and acquire an operating business and bring it to public markets through a [merger](/merger/), asset acquisition, [stock exchange](/stock-exchange/), or similar [business combination](/business-combination-purchase/). In January 2025, after searching for a target, the company announced a [definitive merger agreement](/definitive-merger-agreement/) with Tianji Tire Global (Cayman) Limited, a tire manufacturer with significant operations in mainland China.
 
 ## The SPAC Structure and Capital
 

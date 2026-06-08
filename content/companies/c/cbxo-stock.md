@@ -21,11 +21,11 @@ This gap is what structured Bitcoin products address. Calamos, as an asset manag
 
 ## The October reset cohort
 
-CBXO carries October synchronization, meaning its year-end and annual reset frameworks align with the October calendar. This is administrative infrastructure, not a fundamental difference from April or January cohorts, but it matters operationally for advisers and fund families managing multiple reset dates. The October schedule might suit investors whose fiscal year, planning cycle, or internal rebalancing schedule aligns with autumn.
+CBXO carries October synchronization, meaning its year-end and annual reset frameworks align with the October calendar. This is administrative infrastructure, not a fundamental difference from April or January cohorts, but it matters operationally for advisers and fund families managing multiple reset dates. The October schedule might suit investors whose [fiscal year](/fiscal-year-definition/), planning cycle, or internal rebalancing schedule aligns with autumn.
 
 ## From structured derivatives to ETF format
 
-Calamos originally built these protections as structured notes or separately managed accounts. The transition to an ETF wrapper—trading on an exchange, held in a regular brokerage account, with daily pricing and [intraday liquidity](/intraday-liquidity/)—was a critical evolution. It made the protection accessible to retail advisers and individual investors who could not access structured notes and would not qualify for separate accounts. The ETF format also standardized fees and made costs more transparent than many structured product offerings.
+Calamos originally built these protections as structured notes or [separately managed accounts](/separately-managed-account/). The transition to an ETF wrapper—trading on an exchange, held in a regular brokerage account, with daily pricing and [intraday liquidity](/intraday-liquidity/)—was a critical evolution. It made the protection accessible to retail advisers and individual investors who could not access structured notes and would not qualify for separate accounts. The ETF format also standardized fees and made costs more transparent than many [structured product](/structured-product/) offerings.
 
 The shift to exchange-traded format did not change the underlying mechanics—the fund still uses derivatives and notional Bitcoin positions to create the protective band—but it changed who could own it and how easily. A financial adviser can now buy CBXO in a client account without complex legal agreements; a retail investor can own it directly inside an IRA or taxable account.
 

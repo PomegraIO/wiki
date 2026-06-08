@@ -33,7 +33,7 @@ The second, increasingly important engine is the Wealth Management and Trust div
 
 ## What makes a regional bank like this vulnerable?
 
-Stock Yards, like all regional banks, lives in the centre of the credit cycle. When the economy is strong and interest rates are rising, it benefits: spreads widen, loan demand surges, and corporate borrowers pay more to access capital. But when the cycle turns — when [recession](/recession/) arrives, loan losses rise, and deposit pressure increases — the burden falls suddenly on the bank's capital and credit quality.
+Stock Yards, like all regional banks, lives in the centre of the [credit cycle](/credit-cycle/). When the economy is strong and interest rates are rising, it benefits: spreads widen, loan demand surges, and corporate borrowers pay more to access capital. But when the cycle turns — when [recession](/recession/) arrives, loan losses rise, and deposit pressure increases — the burden falls suddenly on the bank's capital and credit quality.
 
 The company carries a meaningful real estate lending book, both direct commercial real-estate loans and indirect exposure through construction and development lending. When property values decline or the construction market cools, this becomes a flashpoint. It also faces the structural pressure that affects all regional banks: larger, national banks and shadow-banking competitors have easier access to capital markets and can undercut on pricing during downturns. Consolidation in banking has meant that mid-sized regionals like Stock Yards increasingly compete not against each other but against national platforms and non-bank finance.
 

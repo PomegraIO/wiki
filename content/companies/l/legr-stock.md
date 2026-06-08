@@ -21,7 +21,7 @@ The name reflects two streams. Transaction innovation means reimagining how mone
 
 ## How is the underlying index constructed?
 
-LEGR follows the Indxx Innovative Transaction & Process Index, which is rules-based rather than discretionary. Indxx, an index provider, defines criteria for which companies qualify: they must earn revenue from fintech-related business lines or must be leveraged to fintech adoption. Companies are selected and weighted according to a methodology that aims to be transparent and reproducible. The index reconstitutes periodically, removing companies that no longer fit the theme and adding new ones as fintech evolves.
+LEGR follows the Indxx Innovative Transaction & Process Index, which is rules-based rather than discretionary. Indxx, an [index provider](/index-provider/), defines criteria for which companies qualify: they must earn revenue from fintech-related business lines or must be leveraged to fintech adoption. Companies are selected and weighted according to a methodology that aims to be transparent and reproducible. The index reconstitutes periodically, removing companies that no longer fit the theme and adding new ones as fintech evolves.
 
 ## Is LEGR actively managed or passive?
 

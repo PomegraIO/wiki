@@ -4,7 +4,7 @@ description: "A Wyoming-based diversified enterprise operating across energy, lo
 keywords: ["GLEI", "Galaxy Enterprises", "Wyoming", "diversified holding", "industrial operations", "10-K"]
 ---
 
-*[Galaxy Enterprises Inc.](/glei-stock/) (ticker GLEI) is a decentralized conglomerate headquartered in Wyoming, distinct from its holding-company peers by its direct operational footprint rather than pure portfolio management. Where classical investment vehicles concentrate capital in financial instruments, Galaxy operates tangible assets across multiple industrial and real-estate domains, positioning itself not as a passive capital allocator but as an active operator willing to take on sector-specific execution risk.*
+*[Galaxy Enterprises Inc.](/glei-stock/) (ticker GLEI) is a decentralized conglomerate headquartered in Wyoming, distinct from its holding-company peers by its direct operational footprint rather than pure portfolio management. Where classical investment vehicles concentrate capital in financial instruments, Galaxy operates tangible assets across multiple industrial and real-estate domains, positioning itself not as a passive capital allocator but as an active operator willing to take on sector-specific [execution risk](/execution-risk/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GLEI</td></tr>

@@ -4,7 +4,7 @@ description: A special-purpose acquisition company (SPAC) holding or post-merger
 keywords: [SPAC, special-purpose acquisition company, merger risk, founder economics, post-merger execution, shareholder dilution, warrant overhang]
 ---
 
-*GigCapital7 Corp. (GIG, CIK 2023730) represents the intersection of two high-risk dynamics: the structural incentive misalignment of SPAC sponsors and the execution risk inherent in bringing a private company public via merger. Whether GIG is a successful operating company or a failed SPAC depends on whether the underlying business works, and whether the transaction structure did not destroy shareholder value in the process.*
+*GigCapital7 Corp. (GIG, CIK 2023730) represents the intersection of two high-risk dynamics: the structural incentive misalignment of SPAC sponsors and the [execution risk](/execution-risk/) inherent in bringing a private company public via merger. Whether GIG is a successful operating company or a failed SPAC depends on whether the underlying business works, and whether the transaction structure did not destroy shareholder value in the process.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GIG</td></tr>
@@ -41,7 +41,7 @@ GIG's integration risk is opaque. The 10-K will disclose that a merger occurred 
 
 ## Accounting and Valuation Resets
 
-After a SPAC merger, the operating company's balance sheet is stepped up to [fair value](/fair-value/), and [intangible assets](/intangible-assets/) ([goodwill](/goodwill/), deferred revenue adjustments) are recorded. These intangibles are subtracted from shareholders' equity; they also depreciate over time ([amortization](/amortization/)), reducing reported earnings. A company that looked profitable on a private-company [cash-basis accounting](/cash-basis-accounting/) may appear less profitable on a public-company GAAP basis.
+After a SPAC merger, the operating company's balance sheet is stepped up to [fair value](/fair-value/), and [intangible assets](/intangible-assets/) ([goodwill](/goodwill/), [deferred revenue](/deferred-revenue/) adjustments) are recorded. These intangibles are subtracted from [shareholders' equity](/shareholders-equity/); they also depreciate over time ([amortization](/amortization/)), reducing reported earnings. A company that looked profitable on a private-company [cash-basis accounting](/cash-basis-accounting/) may appear less profitable on a public-company GAAP basis.
 
 GIG's post-merger [balance sheet](/balance-sheet/) is therefore not directly comparable to its pre-merger accounts. Shareholders who believed they were buying a company with $X in [EBITDA](/ebitda/) should recalculate: public-company GAAP earnings will be lower due to amortization of deal-related intangibles and fair-value accounting adjustments.
 

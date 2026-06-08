@@ -35,7 +35,7 @@ FIRST MID's acquisition strategy was rational, but it faced inherent limits. Fir
 
 Second, the fundamental economics of community banking did not improve simply because a bank operated across multiple markets. FIRST MID still earned money by taking deposits and making loans—the same basic business model as a single-market bank. It did not have the capital markets capacity to earn fee income from trading or underwriting. It did not have the scale to compete with national banks on product breadth or technology. It earned a [margin](/operating-margin/) on deposits and loans and had to manage that margin carefully against competitive pressures and credit losses.
 
-Third, acquisitions of other banks did not reliably generate synergies. When a profitable bank acquires a weak bank, the acquirer's costs rise sharply as it integrates systems, consolidates redundant locations, and absorbs loan losses that were masked. The financial engineering of the deal—paying an acquisition premium for the target's assets—often exceeds the present value of actual cost savings and revenue synergies. Many regional banks discovered this truth painfully in the 1990s and 2000s.
+Third, acquisitions of other banks did not reliably generate synergies. When a profitable bank acquires a weak bank, the acquirer's costs rise sharply as it integrates systems, consolidates redundant locations, and absorbs loan losses that were masked. The financial engineering of the deal—paying an [acquisition premium](/acquisition-premium/) for the target's assets—often exceeds the present value of actual cost savings and revenue synergies. Many regional banks discovered this truth painfully in the 1990s and 2000s.
 
 ## Navigating the Competitive Squeeze
 

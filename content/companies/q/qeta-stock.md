@@ -56,7 +56,7 @@ The warrants are a separate piece: they give holders the right to buy shares at 
 
 ## Tracking Quetta to a merger and beyond
 
-Before a merger is announced, Quetta is relatively easy to monitor: watch for press releases about target discussions, investor updates from the sponsor, and regulatory filings. The SEC filing calendar is the source of truth — proxy statements filed for the merger vote will spell out the terms, the combined company's projections (if any), and the risk factors.
+Before a merger is announced, Quetta is relatively easy to monitor: watch for press releases about target discussions, investor updates from the sponsor, and regulatory filings. The SEC filing calendar is the source of truth — [proxy statements](/proxy-statement/) filed for the merger vote will spell out the terms, the combined company's projections (if any), and the risk factors.
 
 Once a target is named, analyze it as you would any pre-IPO or early-stage public company: revenue growth rate, gross margins, customer concentration, competitive position, and the founder's track record. Many SPAC-merged companies rush to provide long-range revenue projections that turn out to be overly optimistic. Compare any forecasts against historical operating performance and similar public peers.
 

@@ -41,7 +41,7 @@ Wish's monetization therefore has a cyclical leverage to it: when traffic and tr
 
 Wish's competitive position is ambiguous. Amazon dominates overall e-commerce and has expanded aggressively into the discount segment with storefronts and seller marketplaces. eBay, Alibaba, and regional players compete for price-sensitive buyers. Wish's differentiation—mobile-first UI, social discovery, shipping discounts negotiated with carriers—is real but not defensible. Amazon or eBay could replicate these features at greater scale.
 
-Wish has achieved scale in certain markets (North America, Europe) but remains a minority player in global e-commerce. Growth requires either expanding into new geographies (Asia, Latin America) or deepening penetration in existing markets. Both paths require heavy investment and carry execution risk. Market saturation in core geographies is a secular concern: how much larger can Wish grow in North America without cannibalizing existing users?
+Wish has achieved scale in certain markets (North America, Europe) but remains a minority player in global e-commerce. Growth requires either expanding into new geographies (Asia, Latin America) or deepening penetration in existing markets. Both paths require heavy investment and carry [execution risk](/execution-risk/). Market saturation in core geographies is a secular concern: how much larger can Wish grow in North America without cannibalizing existing users?
 
 ## Unit Economics and Profitability Path
 

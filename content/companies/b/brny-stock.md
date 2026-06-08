@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Burney U.S. Factor Rotation ETF (BRNY)** is an [actively managed fund](/actively-managed-fund/) that shifts capital between U.S. equity factors — value, growth, momentum, quality — in response to quantitative signals about [relative valuation](/relative-valuation/), momentum strength, and technical positioning. Rather than holding a static portfolio of stocks or a static factor mix, BRNY attempts to allocate dynamically, overweighting factors that appear cheap or strong at any given moment and underweighting those that appear expensive or tired.*
+*The **Burney U.S. [Factor Rotation](/factor-rotation/) ETF (BRNY)** is an [actively managed fund](/actively-managed-fund/) that shifts capital between U.S. equity factors — value, growth, momentum, quality — in response to quantitative signals about [relative valuation](/relative-valuation/), momentum strength, and technical positioning. Rather than holding a static portfolio of stocks or a static factor mix, BRNY attempts to allocate dynamically, overweighting factors that appear cheap or strong at any given moment and underweighting those that appear expensive or tired.*
 
 The underlying idea is simple: certain measurable characteristics of stocks — their [price-to-book ratio](/price-to-book-ratio/), [earnings yield](/earnings-yield/), price momentum, profitability stability — historically associate with sustained outperformance. These are factors. A factor-investing fund commits to one or more of them (buying cheap stocks, or momentum stocks, or profitable ones). But factors do not work forever. Value underperforms in long growth rallies. Momentum reverses sharply in crashes. Quality factors can be genuinely bad investments when bought at inflated prices.
 

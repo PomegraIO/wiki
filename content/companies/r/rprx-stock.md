@@ -57,6 +57,6 @@ The capital structure also shapes returns to equity holders. By using leverage, 
 
 Start with the company's 10-K (SEC CIK 0001802768) to understand the portfolio composition, the major royalties, their expected duration, and any scheduled step-downs or contingencies. The company discloses aggregate royalty receipts and breaks them down by geography and therapeutic area, giving a sense of diversification. 
 
-Watch the reinvestment rate: how much of cash flow is being deployed into new royalty acquisitions? And monitor the cost of new acquisitions relative to expected returns. If Royalty Pharma begins paying premium valuations for declining drugs or niche therapies, returns to shareholders will suffer.
+Watch the [reinvestment rate](/reinvestment-rate-dcf/): how much of cash flow is being deployed into new royalty acquisitions? And monitor the cost of new acquisitions relative to expected returns. If Royalty Pharma begins paying premium valuations for declining drugs or niche therapies, returns to shareholders will suffer.
 
 Also track the debt levels and debt-service coverage. A rising interest-rate environment could force Royalty Pharma to cut acquisitions or the [dividend](/dividend/) if leverage grows. Finally, stay aware of major patent cliffs in the portfolio — the company discloses these — and monitor whether key drugs face generic or competitive pressure sooner than anticipated. Any weakness in blockbuster royalties should prompt a reassessment of the growth trajectory.

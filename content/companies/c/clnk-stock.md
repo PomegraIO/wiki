@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-What does Chainlink do? It solves one specific problem: blockchains do not naturally see data outside themselves. A blockchain like [Ethereum](/ethereum/) can run code and hold value, but it has no way to know what the real-world price of oil is, or what the result of a sports game was, or whether a legal contract was satisfied in the physical world. Chainlink exists to bridge that gap. It is a network of computers that fetch real-world data and relay it onto the blockchain in a way that smart contracts can trust and use.
+What does Chainlink do? It solves one specific problem: blockchains do not naturally see data outside themselves. A blockchain like [Ethereum](/ethereum/) can run code and hold value, but it has no way to know what the real-world price of oil is, or what the result of a sports game was, or whether a legal contract was satisfied in the physical world. Chainlink exists to bridge that gap. It is a network of computers that fetch real-world data and relay it onto the blockchain in a way that [smart contracts](/smart-contract/) can trust and use.
 
 Why does that matter? Because the entire decentralized finance ecosystem—lending protocols, derivatives platforms, insurance products—depends on accurate, reliable real-world data. Without it, those systems fail or become vulnerable to manipulation.
 

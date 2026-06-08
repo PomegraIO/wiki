@@ -39,7 +39,7 @@ Beneficient's capital structure must be designed to fund this build-out phase wi
 
 If Beneficient holds or manages significant client assets, it must hold corresponding liabilities on its balance sheet. These may take the form of client deposits (similar to bank deposits), customer advances, or [contingent liabilities](/contingent-liabilities-government/) (commitments to clients that become payable under certain conditions). These liabilities must be carefully managed to ensure the company has sufficient liquidity and capital to meet obligations as they come due.
 
-Client assets create both capital and reputational risk. If clients withdraw funds simultaneously, Beneficient must have liquid assets or credit facilities to pay them; a [liquidity crisis](/liquidity-crisis/) can force asset sales at unfavorable prices or trigger customer losses. Regulators scrutinize whether the company adequately segregates and protects client assets, and whether its internal controls and governance prevent misuse. Capital requirements may be imposed by regulators to ensure the company maintains a cushion against unexpected client outflows.
+Client assets create both capital and [reputational risk](/reputational-risk/). If clients withdraw funds simultaneously, Beneficient must have liquid assets or credit facilities to pay them; a [liquidity crisis](/liquidity-crisis/) can force asset sales at unfavorable prices or trigger customer losses. Regulators scrutinize whether the company adequately segregates and protects client assets, and whether its internal controls and governance prevent misuse. Capital requirements may be imposed by regulators to ensure the company maintains a cushion against unexpected client outflows.
 
 ## Debt Financing and Leverage Constraints
 

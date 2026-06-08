@@ -37,7 +37,7 @@ Funding rounds for advanced-materials ventures typically come from venture capit
 
 The company's value rests substantially on intellectual property—patents on conversion processes, manufacturing methods, or material formulations. Patent portfolios in materials science are double-edged: broad, defensible patents can command licensing revenue for decades; narrow claims or fast-expiring protection mean competitors can replicate your process shortly after you've solved it. Karbon-X's filings emphasize R&D partnerships with universities or national labs, a classic sign that core technology is still being developed.
 
-These partnerships also suggest the company cannot afford to fund bleeding-edge research alone. Outsourcing research to academia is lean capital strategy, but it also means technology timelines depend on university budgets, PhD-candidate productivity, and grant cycles. A partner institution might pivot research focus, pulling resources. This dependency is invisible in quarterly earnings but crucial to understanding execution risk.
+These partnerships also suggest the company cannot afford to fund bleeding-edge research alone. Outsourcing research to academia is lean capital strategy, but it also means technology timelines depend on university budgets, PhD-candidate productivity, and grant cycles. A partner institution might pivot research focus, pulling resources. This dependency is invisible in quarterly earnings but crucial to understanding [execution risk](/execution-risk/).
 
 ## Customer Proof Points
 

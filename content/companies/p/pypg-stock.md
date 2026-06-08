@@ -33,7 +33,7 @@ Leverage Shares' founding vision centred on creating straightforward leveraged v
 
 ## How the daily leverage and reset mechanics work
 
-PYPG owns no shares of PayPal. Instead, the fund holds cash and uses that cash as collateral to enter into swap agreements and derivative contracts with banks. Through these agreements, the fund gains synthetic exposure to PayPal's price movements, amplified by a factor of two. Each trading day, the fund's derivatives positions are rebalanced to ensure that the fund's net exposure remains exactly 2x long to PayPal. If PayPal rises 1 percent on a given day, the fund is designed to rise 2 percent. If PayPal falls 1 percent, the fund is engineered to fall 2 percent.
+PYPG owns no shares of PayPal. Instead, the fund holds cash and uses that cash as collateral to enter into swap agreements and [derivative contracts](/derivative-contract/) with banks. Through these agreements, the fund gains synthetic exposure to PayPal's price movements, amplified by a factor of two. Each trading day, the fund's derivatives positions are rebalanced to ensure that the fund's net exposure remains exactly 2x long to PayPal. If PayPal rises 1 percent on a given day, the fund is designed to rise 2 percent. If PayPal falls 1 percent, the fund is engineered to fall 2 percent.
 
 The daily rebalancing is mechanical and automatic: when PayPal's price changes, the notional size of the fund's derivative exposure is adjusted to maintain the 2x multiple. This adjustment process involves buying or selling derivatives positions at the end of each trading day, which incurs transaction costs embedded in the fund's [expense ratio](/expense-ratio/).
 

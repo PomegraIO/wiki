@@ -51,7 +51,7 @@ The political economy of the issue is genuinely unclear. Hemp farming interests,
 
 ## Is RYTHM exposed to any other risks?
 
-Yes, though they are secondary to the regulatory risk. If hemp THC remains legal but becomes heavily regulated — requiring manufacturing standards, warning labels, age-gated sales, and regular testing — the cost of compliance could squeeze RYTHM's licensing partners' margins and reduce demand. Competition from branded cannabis companies in states with legal cannabis, and from alcohol and energy-drink makers in states without it, could limit growth. And execution risk exists: if RYTHM's licensing partners fail to deliver quality products or fail to capture retail shelf space, the brands will not grow.
+Yes, though they are secondary to the regulatory risk. If hemp THC remains legal but becomes heavily regulated — requiring manufacturing standards, warning labels, age-gated sales, and regular testing — the cost of compliance could squeeze RYTHM's licensing partners' margins and reduce demand. Competition from branded cannabis companies in states with legal cannabis, and from alcohol and energy-drink makers in states without it, could limit growth. And [execution risk](/execution-risk/) exists: if RYTHM's licensing partners fail to deliver quality products or fail to capture retail shelf space, the brands will not grow.
 
 But all of those risks are negligible relative to the probability of a federal prohibition wiping out the entire category. The company's value, from an investment perspective, is almost entirely a bet on Congressional action and regulatory forbearance.
 

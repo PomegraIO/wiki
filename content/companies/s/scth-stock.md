@@ -47,7 +47,7 @@ The carjacking market is global and persistent; vehicle theft remains a major pr
 
 SecureTech has executed aggressive financial engineering. The company cut its share count by 78% to 17,077,368 shares, concentrating ownership and improving [earnings per share](/earnings-per-share/) metrics. It has also announced intention to explore a Bitcoin treasury, a narrative common among OTC and micro-cap technology companies that seek exposure to digital assets without directly operating a blockchain business. This capital positioning suggests management views excess cash and treasury [diversification](/diversification/) as parts of the value story.
 
-The targeting of a NASDAQ uplisting in Q2 2026 is a material event. Uplisting to NASDAQ would increase institutional eligibility, reduce trading friction, and provide legitimacy. OTC companies that achieve NASDAQ listing often see trading volume and valuation multiples expand. However, uplisting is not guaranteed and carries execution risk.
+The targeting of a NASDAQ uplisting in Q2 2026 is a material event. Uplisting to NASDAQ would increase institutional eligibility, reduce trading friction, and provide legitimacy. OTC companies that achieve NASDAQ listing often see trading volume and valuation multiples expand. However, uplisting is not guaranteed and carries [execution risk](/execution-risk/).
 
 ## Is SecureTech a genuine operating company or a financial restructuring vehicle?
 

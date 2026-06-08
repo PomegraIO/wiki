@@ -40,7 +40,7 @@ The practical result is that DSwiss must architect its systems to segregate Swis
 
 ## Cross-Border Banking and Sanctions Compliance
 
-If DSwiss accepts deposits or makes loans, it triggers both Swiss banking regulation and US sanctions rules. Any financial institution handling [US dollars](/us-dollar/) or servicing US customers must comply with Office of Foreign Assets Control (OFAC) sanctions lists, preventing transactions with individuals or entities on US sanctions lists. Similarly, if DSwiss facilitates transactions involving countries under US sanctions (Iran, North Korea, Syria, etc.), it violates US law regardless of where the company is incorporated.
+If DSwiss accepts deposits or makes loans, it triggers both Swiss banking regulation and US sanctions rules. Any financial institution handling [US dollars](/us-dollar/) or servicing US customers must comply with [Office of Foreign Assets Control](/office-of-foreign-assets-control/) (OFAC) sanctions lists, preventing transactions with individuals or entities on US sanctions lists. Similarly, if DSwiss facilitates transactions involving countries under US sanctions (Iran, North Korea, Syria, etc.), it violates US law regardless of where the company is incorporated.
 
 Switzerland's role as a financial hub means DSwiss may encounter pressure from US regulators to police sanctions compliance aggressively. The US has repeatedly fined Swiss banks for sanctions violations or for facilitating transactions on behalf of sanctioned persons. These fines can be material (into the hundreds of millions of dollars for large banks). For a smaller financial services company like DSwiss, a single sanctions violation could be existential.
 
@@ -54,7 +54,7 @@ For a company generating revenue in multiple currencies (Swiss Francs, US Dollar
 
 ## Anti-Corruption and International Sanctions Exposure
 
-Swiss law enforces anti-corruption rules under the Swiss Penal Code, and the OECD Convention Against Bribery. The US Foreign Corrupt Practices Act (FCPA) applies to any US-listed company or any company engaged in US commerce. For DSwiss, this creates overlapping standards: Swiss anti-corruption law and US FCPA both apply if the company services US clients or is traded on US markets.
+Swiss law enforces anti-corruption rules under the Swiss Penal Code, and the OECD Convention Against Bribery. The US [Foreign Corrupt Practices Act](/foreign-corrupt-practices-act/) (FCPA) applies to any US-listed company or any company engaged in US commerce. For DSwiss, this creates overlapping standards: Swiss anti-corruption law and US FCPA both apply if the company services US clients or is traded on US markets.
 
 These regimes are broadly aligned but differ in detail and enforcement aggressiveness. The US is known for aggressive FCPA enforcement; Swiss authorities are more measured. A company must comply with the stricter standard (US FCPA) to avoid US legal jeopardy, creating an implicit regulatory ratchet toward higher compliance standards.
 
@@ -62,7 +62,7 @@ Additionally, if DSwiss's leadership or board includes individuals with ties to 
 
 ## Long-term Regulatory Trajectory
 
-The regulatory trend for Swiss financial services is toward greater international coordination and stricter compliance requirements. The Common Reporting Standard (CRS) for automatic exchange of financial information between tax authorities, implemented globally, means DSwiss cannot offer Swiss-account secrecy to international clients. [Basel III](/basel-iii/) and successor banking capital rules are gradually tightening capital requirements. Data protection globally is trending stricter (GDPR in Europe, California Consumer Privacy Act in the US, evolving privacy laws elsewhere), though Switzerland's existing FADP remains among the world's strictest.
+The regulatory trend for Swiss financial services is toward greater international coordination and stricter compliance requirements. The [Common Reporting Standard](/common-reporting-standard/) (CRS) for automatic exchange of financial information between tax authorities, implemented globally, means DSwiss cannot offer Swiss-account secrecy to international clients. [Basel III](/basel-iii/) and successor banking capital rules are gradually tightening capital requirements. Data protection globally is trending stricter (GDPR in Europe, California Consumer Privacy Act in the US, evolving privacy laws elsewhere), though Switzerland's existing FADP remains among the world's strictest.
 
 For DSwiss, this creates an environment where regulatory arbitrage (exploiting gaps between Switzerland and other jurisdictions) is becoming harder. The company's long-term viability depends on being a genuinely compliant, innovative financial services provider rather than a regulatory-avoidance vehicle. Investors should assess whether DSwiss is positioned as a next-generation Swiss fintech or as a legacy privacy-oriented service, because the regulatory environment is making the latter increasingly difficult.
 

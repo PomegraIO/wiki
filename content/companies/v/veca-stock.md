@@ -33,7 +33,7 @@ The appeal of the SPAC structure to private businesses is speed and certainty. R
 
 The sponsors of Vernal Capital — the managers who created and are raising the SPAC — typically purchase [founder shares](/founder-shares/) at a nominal price (say, $0.001 per share) with a vesting condition: the shares vest only if the SPAC completes a merger. They also earn a promote, a percentage of any profits, if shareholders approve the merger. This structure incentivizes them to find a quality target and negotiate fairly on behalf of public shareholders, rather than pursuing any deal just to avoid [liquidation](/liquidation/).
 
-Public shareholders pay the asking price for the SPAC shares (typically $10) and receive warrants — the right to buy additional shares later at a fixed price. These economics mean the public is funding the process while accepting dilution from founder shares and warrants; the sponsors bear the effort and reputational risk but stand to win if the merger is attractive.
+Public shareholders pay the asking price for the SPAC shares (typically $10) and receive warrants — the right to buy additional shares later at a fixed price. These economics mean the public is funding the process while accepting dilution from founder shares and warrants; the sponsors bear the effort and [reputational risk](/reputational-risk/) but stand to win if the merger is attractive.
 
 ## What happens when a SPAC finds a target?
 
@@ -43,7 +43,7 @@ The merged company inherits the SPAC's public market listing and regulatory burd
 
 ## Risks and mechanics of SPAC investing
 
-SPAC shareholders face several overlapping risks. First, there is the risk that no merger occurs and they get their capital back, which sounds safe but means years of opportunity cost and potential dilution from founder shares. Second, deal risk: the announced merger might fail to clear regulatory or shareholder hurdles. Third, execution risk: the merged company might not live up to sponsors' claims or the private firm's historical performance, especially if the SPAC insists on aggressive growth projections to justify the valuation.
+SPAC shareholders face several overlapping risks. First, there is the risk that no merger occurs and they get their capital back, which sounds safe but means years of opportunity cost and potential dilution from founder shares. Second, deal risk: the announced merger might fail to clear regulatory or shareholder hurdles. Third, [execution risk](/execution-risk/): the merged company might not live up to sponsors' claims or the private firm's historical performance, especially if the SPAC insists on aggressive growth projections to justify the valuation.
 
 Warrant holders face additional complexity. Warrants are often exercised at a loss if the merged company's stock underperforms, or they expire worthless. The details of warrant calls and adjustments vary by deal, creating technical risk that retail investors often misjudge.
 

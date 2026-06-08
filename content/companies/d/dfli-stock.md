@@ -17,7 +17,7 @@ keywords: ["battery", "lithium-ion", "energy storage", "manufacturing", "capital
 
 ## Fixed Assets and Manufacturing Infrastructure
 
-Dragonfly's balance sheet begins with property, plant, and equipment—the manufacturing facilities, assembly lines, and testing equipment required to produce lithium-ion battery modules. These are capital-intensive assets that must be financed upfront, well before the company receives revenue. The [depreciation](/depreciation/) of this equipment runs through the [income statement](/income-statement/) over its useful life (typically 5–10 years for manufacturing equipment), reducing reported earnings. For Dragonfly, the key metric is asset turnover—how much revenue the company generates per dollar of manufacturing assets. A low [turnover ratio](/turnover-ratio/) suggests either idle capacity, poor market demand, or over-investment in equipment. Conversely, high utilization validates the capital investment and lowers the per-unit production cost, improving margins.
+Dragonfly's balance sheet begins with [property, plant, and equipment](/property-plant-equipment/)—the manufacturing facilities, assembly lines, and testing equipment required to produce lithium-ion battery modules. These are capital-intensive assets that must be financed upfront, well before the company receives revenue. The [depreciation](/depreciation/) of this equipment runs through the [income statement](/income-statement/) over its useful life (typically 5–10 years for manufacturing equipment), reducing reported earnings. For Dragonfly, the key metric is asset turnover—how much revenue the company generates per dollar of manufacturing assets. A low [turnover ratio](/turnover-ratio/) suggests either idle capacity, poor market demand, or over-investment in equipment. Conversely, high utilization validates the capital investment and lowers the per-unit production cost, improving margins.
 
 ## Inventory as a Working Capital Claim
 
@@ -37,7 +37,7 @@ Lithium-ion technology improves steadily—newer chemistries, higher energy dens
 
 ## Equity and Retained Earnings Growth
 
-Dragonfly's equity section reflects shareholder invested capital plus [retained earnings](/retained-earnings/) from profitable operations. If the company consistently generates positive earnings, retained earnings accumulate, strengthening the balance sheet. Conversely, if the company loses money, retained earnings decline, weakening the equity cushion. For a young or recently public manufacturer, retained earnings may be small or negative; equity is primarily raised capital. As the company matures and becomes profitable, the growth of retained earnings signals durability.
+Dragonfly's equity section reflects shareholder invested capital plus [retained earnings](/retained-earnings/) from profitable operations. If the company consistently generates positive earnings, retained earnings accumulate, strengthening the balance sheet. Conversely, if the company loses money, retained earnings decline, weakening the [equity cushion](/equity-cushion/). For a young or recently public manufacturer, retained earnings may be small or negative; equity is primarily raised capital. As the company matures and becomes profitable, the growth of retained earnings signals durability.
 
 ## Working Capital Swings and Cash Conversion
 

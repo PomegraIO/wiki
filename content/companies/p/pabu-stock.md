@@ -41,7 +41,7 @@ The specifics matter. Reading the MSCI index rules document, not just the fund n
 
 ## Tracking and transparency
 
-Because PABU is passive, the key decision is whether you agree with the underlying index rules and whether you are comfortable with the expense ratio. The iShares factsheet lists current holdings, sector weights, and the index provider. The MSCI documentation explains the ESG and climate screening criteria in detail.
+Because PABU is passive, the key decision is whether you agree with the underlying index rules and whether you are comfortable with the expense ratio. The iShares factsheet lists current holdings, sector weights, and the [index provider](/index-provider/). The MSCI documentation explains the ESG and climate screening criteria in detail.
 
 Comparing PABU to peer funds—Vanguard's US ESG offerings or climate-themed strategies from other providers—helps you gauge whether iShares' methodology aligns with your own views on corporate climate commitment. Different index providers using similar data can arrive at slightly different constituent lists, so it is worth reading the screening rules rather than assuming all ESG indices are equivalent.
 

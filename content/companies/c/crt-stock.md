@@ -27,7 +27,7 @@ Oil and gas production is a capital-intensive, often speculative business. Compa
 
 ## The royalty trust structure and its origins
 
-Cross Timbers is a royalty trust, one of the few vehicles in American capital markets that offers investors direct exposure to oil and gas revenues without the burdens of drilling, reservoir management, or exploration risk. The structure originated as a tax-efficient way to distribute energy revenue. A royalty trust, properly constructed, is not itself taxed as a corporation; instead, it passes through its income to shareholders, who pay tax on their distributions. This avoidance of double taxation (corporate tax plus shareholder tax) made trusts an attractive tool for energy companies and investors alike.
+Cross Timbers is a royalty trust, one of the few vehicles in American capital markets that offers investors direct exposure to oil and gas revenues without the burdens of drilling, reservoir management, or exploration risk. The structure originated as a tax-efficient way to distribute energy revenue. A royalty trust, properly constructed, is not itself taxed as a corporation; instead, it passes through its income to shareholders, who pay tax on their distributions. This avoidance of [double taxation](/double-taxation/) (corporate tax plus shareholder tax) made trusts an attractive tool for energy companies and investors alike.
 
 Cross Timbers owns mineral rights and working interests in oil and gas properties across the Permian Basin and other productive fields in Texas and Oklahoma. These properties were largely acquired decades ago, often coming from earlier consolidations and [mergers](/merger/) in the energy patch. The trust does not drill — drilling is too risky and capital-intensive. Instead, major oil and gas operators (the big energy companies) drill these leases, and Cross Timbers collects a share of the production revenue as its royalty. The trustee manages the royalties and distributes the cash monthly to unitholders.
 
@@ -61,7 +61,7 @@ The trust's distribution will be higher when both oil and gas are expensive, and
 
 ## Tax treatment and suitability
 
-The pass-through structure means that shareholders receive a Schedule K-1 at tax time, not a simple dividend report. The K-1 itemizes ordinary income, capital gains, depletion deductions, and other components. The tax treatment is complex and varies by investor type; it is often less friendly than a simple dividend in qualified accounts or for taxable investors unfamiliar with resource extraction accounting.
+The pass-through structure means that shareholders receive a [Schedule K-1](/schedule-k-1/) at tax time, not a simple dividend report. The K-1 itemizes ordinary income, capital gains, depletion deductions, and other components. The tax treatment is complex and varies by investor type; it is often less friendly than a simple dividend in qualified accounts or for taxable investors unfamiliar with resource extraction accounting.
 
 Royalty trusts have historically been held by investors with high tax brackets who understood depletion allowances and could use the tax complexity to their advantage. They have also been held by retirement accounts where the tax pass-through is irrelevant. For ordinary taxable investors, the administrative burden of the K-1 and the commodity price volatility combine to make trusts a specialized tool rather than a core holding.
 

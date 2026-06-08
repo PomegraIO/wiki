@@ -47,7 +47,7 @@ Robotics sales are also cyclical. During economic expansions, manufacturers inve
 
 ## Technical Risk and Customer Adoption
 
-The customer is adopting a technology that may be unfamiliar to their workforce. Even if the robot performs as designed, adoption may lag because workers resist the change, or because the company lacks the in-house expertise to maintain and troubleshoot the system. This creates technical support obligations and reputational risk for GMEX. A single high-profile failure—a robot that performs poorly, injures a worker, or disrupts a customer's production—can damage the company's reputation across a small customer base.
+The customer is adopting a technology that may be unfamiliar to their workforce. Even if the robot performs as designed, adoption may lag because workers resist the change, or because the company lacks the in-house expertise to maintain and troubleshoot the system. This creates technical support obligations and [reputational risk](/reputational-risk/) for GMEX. A single high-profile failure—a robot that performs poorly, injures a worker, or disrupts a customer's production—can damage the company's reputation across a small customer base.
 
 Additionally, the robotics field is evolving rapidly toward AI-driven and adaptive systems. GMEX must continuously upgrade its hardware and software to remain competitive. A customer who bought a GMEX robot five years ago may find it obsolete today and seek replacement elsewhere. The company must balance the installed base (keeping legacy customers satisfied) against the need to invest in next-generation products.
 

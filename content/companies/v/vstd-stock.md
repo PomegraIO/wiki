@@ -56,7 +56,7 @@ This is essentially a transition bet: that management can pivot capital and atte
 
 The 15 restaurants remain operational and are treated as a cash generator and asset holder rather than a growth engine. The real estate beneath some locations provides value independent of the restaurant business; the kitchens and staff generate operating cash that can be redeployed toward the treasury and property strategies. From an investor's perspective, the restaurants are neither core to the new strategy nor fully abandoned—they are being squeezed for what value they provide while attention pivots elsewhere.
 
-This hybrid state introduces execution risk. Running restaurants well requires focus and capital that will now compete for management attention with new ventures in real estate and digital assets. Scale economies in restaurant operations reward consistency; a distracted operator typically underperforms.
+This hybrid state introduces [execution risk](/execution-risk/). Running restaurants well requires focus and capital that will now compete for management attention with new ventures in real estate and digital assets. Scale economies in restaurant operations reward consistency; a distracted operator typically underperforms.
 
 ## Reading Vestand as an Investment
 

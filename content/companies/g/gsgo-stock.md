@@ -33,7 +33,7 @@ The fund's positioning within Goldman Sachs' suite reflects a particular niche: 
 
 GSGO's portfolio reflects stock selections made by Goldman Sachs' U.S. equity growth team. The managers seek companies whose earnings are likely to expand meaningfully over a three-to-five-year horizon, driven by revenue acceleration, margin expansion, or both. The research process typically examines competitive positioning, management quality, the sustainability of growth drivers, and valuation against historical and peer baselines.
 
-The fund does not follow a formula or mechanical screen but instead relies on judgment calls by experienced analysts and portfolio managers. This approach allows flexibility to emphasise different characteristics depending on market cycles and the economic outlook — for instance, adjusting the balance between early-stage growth and more mature expansion-stage companies — but it also means the fund's performance depends directly on the quality of those judgments.
+The fund does not follow a formula or mechanical screen but instead relies on judgment calls by experienced analysts and portfolio managers. This approach allows flexibility to emphasise different characteristics depending on [market cycles](/market-cycle/) and the economic outlook — for instance, adjusting the balance between early-stage growth and more mature expansion-stage companies — but it also means the fund's performance depends directly on the quality of those judgments.
 
 ## Portfolio characteristics and typical holdings
 
@@ -43,7 +43,7 @@ The fund maintains moderate [diversification](/diversification/), typically hold
 
 ## Trading, costs, and liquidity
 
-GSGO trades on the NYSE Arca exchange, so investors transact at intraday prices rather than waiting until the market close. The fund's [expense ratio](/expense-ratio/) is disclosed in its prospectus; as an [actively managed fund](/actively-managed-fund/), it is higher than that of a passive growth-stock [index fund](/index-fund/) but competitive with other actively managed growth products.
+GSGO trades on the [NYSE Arca](/nyse-arca/) exchange, so investors transact at intraday prices rather than waiting until the market close. The fund's [expense ratio](/expense-ratio/) is disclosed in its prospectus; as an [actively managed fund](/actively-managed-fund/), it is higher than that of a passive growth-stock [index fund](/index-fund/) but competitive with other actively managed growth products.
 
 Liquidity for the fund shares is generally strong given Goldman Sachs' brand and the capitalization of the fund. An investor buying or selling shares at typical sizes faces minimal transaction costs, and the intraday trading structure means there is no wait for execution.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The AdvisorShares Dorsey Wright FSM US Core ETF (ticker DWUS) tracks an index that applies a specific mechanical filter to the US equity market: it isolates large-cap stocks showing strong relative strength and positive technical momentum, then weights them by their distance from historical moving averages. The fund blends what stock technicians call "focused stock movement" — a set of quantitative rules developed by Dorsey Wright Money Management — with the volatility controls of a diversified core holding.
+The AdvisorShares Dorsey Wright FSM US Core ETF (ticker DWUS) tracks an index that applies a specific mechanical filter to the US equity market: it isolates large-cap stocks showing strong relative strength and positive technical momentum, then weights them by their distance from historical [moving averages](/moving-average/). The fund blends what stock technicians call "focused stock movement" — a set of quantitative rules developed by Dorsey Wright Money Management — with the volatility controls of a diversified core holding.
 
 <aside class="wiki-infobox">
 <table>
@@ -59,4 +59,4 @@ Finally, the fund assumes that the Dorsey Wright model — proximity to moving a
 
 Start with the fund's fact sheet and prospectus, available on the AdvisorShares website, which will detail the current composition, performance history, and any cap or weighting constraints. The underlying Dorsey Wright Focused Stock Movement US Core Index is published and rebalanced on a schedule; understanding how the index screens and weights is central to knowing what you own.
 
-For historical context, compare DWUS's performance to the S&P 500 and to other momentum-focused ETFs over various market cycles — [bull markets](/bull-market/), corrections, and bear years — to see whether the strategy's tighter focus and technical filter have added value or simply added volatility. Watch for turnover rates: higher turnover means more trading costs and potential tax drag in taxable accounts.
+For historical context, compare DWUS's performance to the S&P 500 and to other momentum-focused ETFs over various [market cycles](/market-cycle/) — [bull markets](/bull-market/), corrections, and bear years — to see whether the strategy's tighter focus and technical filter have added value or simply added volatility. Watch for turnover rates: higher turnover means more trading costs and potential tax drag in taxable accounts.

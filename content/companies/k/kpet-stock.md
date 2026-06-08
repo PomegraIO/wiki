@@ -4,7 +4,7 @@ description: "Micro-cap SPAC-related shell or blank-check company with liquidity
 keywords: ["SPAC", "shell company", "blank-check", "capital structure", "dilution risk", "liquidity risk"]
 ---
 
-*KPET Ultra Paceline Corp (KPET) is a blank-check or SPAC-related entity with minimal operating history. Public investors in such vehicles face structural risks: the company is formed to acquire a target business but has not yet done so (or has done so recently), and the deal carries significant execution risk, management risk, and investor dilution risk.*
+*KPET Ultra Paceline Corp (KPET) is a blank-check or SPAC-related entity with minimal operating history. Public investors in such vehicles face structural risks: the company is formed to acquire a target business but has not yet done so (or has done so recently), and the deal carries significant [execution risk](/execution-risk/), management risk, and investor dilution risk.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>KPET</td></tr>
@@ -24,7 +24,7 @@ KPET is a blank-check or SPAC-related company, meaning it was formed to acquire 
 
 ## Deal Risk and Adverse Selection
 
-SPAC sponsors and management teams are incentivized to close deals—any deal—because they earn fees and promote equity stakes. This creates adverse selection: the targets willing to merge with a SPAC (rather than pursuing traditional capital-raising) are often weaker, earlier-stage, or higher-risk businesses that cannot raise capital through traditional [IPO](/initial-public-offering/) channels. Targets may have hidden liabilities, aggressive accounting, or business models that have not been stress-tested in downturns. Shareholders inherit these risks by approving the merger. Due diligence—if it occurs—may be cursory.
+SPAC sponsors and management teams are incentivized to close deals—any deal—because they earn fees and promote equity stakes. This creates adverse selection: the targets willing to merge with a SPAC (rather than pursuing traditional capital-raising) are often weaker, earlier-stage, or higher-risk businesses that cannot raise capital through traditional [IPO](/initial-public-offering/) channels. Targets may have hidden liabilities, aggressive accounting, or business models that have not been stress-tested in downturns. Shareholders inherit these risks by approving the merger. [Due diligence](/due-diligence/)—if it occurs—may be cursory.
 
 ## Investor Dilution
 
@@ -62,7 +62,7 @@ SPACs and recently merged entities sometimes face accounting [restatements](/res
 
 ## Regulatory and Compliance Uncertainty
 
-Blank-check companies and SPACs face increasing SEC scrutiny. Rule changes around SPAC disclosures, sponsor conflicts, and warrant treatment have tightened. If KPET has not completed a merger, it must comply with complex SEC and [NASDAQ](/nasdaq/) rules around timeline, redemption mechanics, and fairness opinions. Compliance failures or regulatory objections could delay mergers or force unfavorable amendments.
+Blank-check companies and SPACs face increasing SEC scrutiny. Rule changes around SPAC disclosures, sponsor conflicts, and warrant treatment have tightened. If KPET has not completed a merger, it must comply with complex SEC and [NASDAQ](/nasdaq/) rules around timeline, redemption mechanics, and [fairness opinions](/fairness-opinion/). Compliance failures or regulatory objections could delay mergers or force unfavorable amendments.
 
 ## Lack of Operating Cash Flow
 

@@ -21,7 +21,7 @@ The sector includes pure-play commodity producers, integrated energy majors, mid
 
 ## Fund Structure and Strategy
 
-ABLD is an actively managed ETF, meaning the fund manager makes security selection decisions rather than replicating a published index passively. The fund typically holds 20 to 40 positions, concentrating holdings in the most conviction-weighted ideas. The selection process emphasises free cash flow yield, balance-sheet strength, and the durability of competitive advantages, with a preference for companies that have demonstrated multi-year capacity to generate cash and return it to shareholders.
+ABLD is an actively managed ETF, meaning the fund manager makes security selection decisions rather than replicating a published index passively. The fund typically holds 20 to 40 positions, concentrating holdings in the most conviction-weighted ideas. The selection process emphasises free [cash flow yield](/cash-flow-yield/), balance-sheet strength, and the durability of competitive advantages, with a preference for companies that have demonstrated multi-year capacity to generate cash and return it to shareholders.
 
 The fund trades on the [Nasdaq](/nasdaq/) exchange like a stock, providing daily liquidity and low trading costs compared to traditional [mutual funds](/mutual-fund/), whilst offering active management oversight. The [expense ratio](/expense-ratio/), typically in the range of 0.70 per cent annually, reflects the costs of active research and trading, higher than pure index ETFs but competitive for actively managed products in the category.
 
@@ -29,7 +29,7 @@ The fund trades on the [Nasdaq](/nasdaq/) exchange like a stock, providing daily
 
 Commodity and real assets businesses face cyclical earnings and cash flows tied to global economic conditions, energy prices, and metal markets. A prolonged downturn in energy prices or commodity demand can compress cash generation and force dividend cuts — a material risk for income-focused holders. The concentration of holdings (20–40 names) creates stock-specific risk; any single major position that faces operational failure or capital misallocation can meaningfully hurt returns.
 
-Regulatory and energy transition risks present a longer-term pressure. Policy favouring renewable energy, carbon pricing, methane regulation, and electrification of transport all reduce the end-market demand for fossil fuels and create uncertainty around stranded assets. A company that generates strong free cash flow today may face secular headwinds that gradually erode that advantage over a decade. Finally, the fund's active management introduces the risk of manager misjudgement — poor security selection or sector timing can underperform a passive alternative.
+Regulatory and [energy transition risks](/energy-transition-risk/) present a longer-term pressure. Policy favouring renewable energy, carbon pricing, methane regulation, and electrification of transport all reduce the end-market demand for fossil fuels and create uncertainty around stranded assets. A company that generates strong free cash flow today may face secular headwinds that gradually erode that advantage over a decade. Finally, the fund's active management introduces the risk of manager misjudgement — poor security selection or sector timing can underperform a passive alternative.
 
 ## Who This Fund Is For
 

@@ -31,7 +31,7 @@ The bank's [balance sheet](/balance-sheet/) likely shows capital contributed in 
 
 Development banks operate under [capital adequacy](/capital-adequacy/) requirements, often self-imposed rather than dictated by a regulator, that specify how much equity capital the bank must maintain relative to the size of its lending portfolio. A bank with $1 billion in equity capital might be authorized to hold a $10 billion loan portfolio, implying a 10:1 [leverage ratio](/leverage-ratio-forex/). This leverage allows the bank to amplify the development impact of its capital: each dollar of shareholder equity funds ten dollars of development lending.
 
-The Foreign Trade Bank's leverage is thus a feature, not a bug. The bank needs sufficient leverage to move meaningful volumes of trade financing; overly conservative capital ratios would mean underfunded development impact. However, leverage also creates vulnerability: if loan losses exceed reserves or if market disruption impairs asset quality, the thin equity cushion can be eroded rapidly.
+The Foreign Trade Bank's leverage is thus a feature, not a bug. The bank needs sufficient leverage to move meaningful volumes of trade financing; overly conservative capital ratios would mean underfunded development impact. However, leverage also creates vulnerability: if loan losses exceed reserves or if market disruption impairs asset quality, the thin [equity cushion](/equity-cushion/) can be eroded rapidly.
 
 ## Lending Spreads and the Cost of Development Finance
 

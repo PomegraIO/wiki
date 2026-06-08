@@ -59,7 +59,7 @@ However, this advantage is not permanent. Chinese manufacturers have rapidly imp
 
 ## Operational challenges and risks
 
-Siemens Energy has faced execution challenges. The company has taken significant losses on some contracts, particularly in renewable energy and grid systems, where project costs exceeded initial estimates or timelines slipped. Large infrastructure projects often have cost overruns and execution risks, and Siemens Energy's track record on project delivery has sometimes disappointed investors.
+Siemens Energy has faced execution challenges. The company has taken significant losses on some contracts, particularly in renewable energy and grid systems, where project costs exceeded initial estimates or timelines slipped. Large infrastructure projects often have cost overruns and [execution risks](/execution-risk/), and Siemens Energy's track record on project delivery has sometimes disappointed investors.
 
 The company also carries legacy pension and environmental liabilities from its history as a Siemens division. These obligations, while not immediately catastrophic, constrain cash generation and balance-sheet flexibility.
 

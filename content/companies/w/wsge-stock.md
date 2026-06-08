@@ -28,7 +28,7 @@ handwritten: true
 
 ## From advisory firm to ETF sponsor
 
-Warren Street Wealth Advisors operates as a research-driven wealth-management firm serving institutional and high-net-worth clients. The firm built its reputation through disciplined equity analysis, portfolio construction, and a commitment to fiduciary standards. WSGE represents the firm's first foray into the ETF structure, a decision reflecting both the growth of [active ETFs](/active-etf/) as a vehicle for managing wealth and the broadening investor appetite for access to skilled, actively managed equity portfolios at lower costs than traditional separately managed accounts. The December 2025 launch marks a moment when the firm determined that offering its investment philosophy and approach to a broader audience — through a transparent, tradable fund — aligned with its long-term mission.
+Warren Street Wealth Advisors operates as a research-driven wealth-management firm serving institutional and high-net-worth clients. The firm built its reputation through disciplined equity analysis, portfolio construction, and a commitment to fiduciary standards. WSGE represents the firm's first foray into the ETF structure, a decision reflecting both the growth of [active ETFs](/active-etf/) as a vehicle for managing wealth and the broadening investor appetite for access to skilled, actively managed equity portfolios at lower costs than traditional [separately managed accounts](/separately-managed-account/). The December 2025 launch marks a moment when the firm determined that offering its investment philosophy and approach to a broader audience — through a transparent, tradable fund — aligned with its long-term mission.
 
 ## Dual-strategy structure: core plus factor
 

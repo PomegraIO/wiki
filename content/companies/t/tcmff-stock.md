@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Telecom Argentina](/teo-stock/) is one of two dominant telecommunications carriers in Argentina, a country of roughly 45 million people where telecom remains essential infrastructure. The company provides fixed-line telephony, internet broadband, television, and mobile services to both residential and business customers. Its history stretches back to the privatization of Argentina's state telephone monopoly in 1990, and it has been a major player in the Argentine telecom market ever since. American depositary shares of the company trade as TCMFF on [over-the-counter markets](/over-the-counter-market/), though the primary listing is on the Buenos Aires [stock exchange](/stock-exchange/). The business model is straightforward—monthly fees from subscribers—but the execution is shaped by the economic instability of Argentina, the persistent weakness of the Argentine peso, regulatory constraints on pricing, and competition from both the second major player (Claro) and from smaller providers.
+[Telecom Argentina](/teo-stock/) is one of two dominant telecommunications carriers in Argentina, a country of roughly 45 million people where telecom remains essential infrastructure. The company provides fixed-line telephony, internet broadband, television, and mobile services to both residential and business customers. Its history stretches back to the privatization of Argentina's state telephone monopoly in 1990, and it has been a major player in the Argentine telecom market ever since. American [depositary shares](/depositary-share/) of the company trade as TCMFF on [over-the-counter markets](/over-the-counter-market/), though the primary listing is on the Buenos Aires [stock exchange](/stock-exchange/). The business model is straightforward—monthly fees from subscribers—but the execution is shaped by the economic instability of Argentina, the persistent weakness of the Argentine peso, regulatory constraints on pricing, and competition from both the second major player (Claro) and from smaller providers.
 
 <aside class="wiki-infobox">
 <table>
@@ -40,7 +40,7 @@ Telecom Argentina's revenue comes from subscription fees. A residential customer
 
 The company's financial performance is constrained by regulation. Argentina's government, like governments in most countries, regulates the rates that incumbent telecom carriers can charge, particularly for basic services. Telecom Argentina has had to negotiate with regulators over rate increases to cover [inflation](/inflation/) and rising costs. In many periods, regulation has limited the company's ability to pass through the full cost of inflation to customers. This creates a margin-squeeze dynamic: costs rise faster than rates can, squeezing profitability.
 
-The situation has been particularly acute in the past decade as Argentina has experienced periods of high inflation and currency devaluation. The Argentine peso has weakened considerably against the [U.S. dollar](/us-dollar/). When inflation and devaluation accelerate, a telecom company's peso-denominated costs and revenue both rise, but if regulation lags in permitting rate increases, profitability deteriorates.
+The situation has been particularly acute in the past decade as Argentina has experienced periods of high inflation and [currency devaluation](/currency-devaluation/). The Argentine peso has weakened considerably against the [U.S. dollar](/us-dollar/). When inflation and devaluation accelerate, a telecom company's peso-denominated costs and revenue both rise, but if regulation lags in permitting rate increases, profitability deteriorates.
 
 ## The currency and macro headwind
 
@@ -66,7 +66,7 @@ The bigger threats are not from new entrants but from substitution and the regul
 
 Regulation is a structural risk. If the government caps rates more stringently or redirects company cash to state priorities, shareholder returns suffer. Nationalization is a tail-risk in Argentina—the country has a history of state takeover of utilities—though Telecom Italia's ownership may provide some protection.
 
-Currency and inflation are existential pressures. If Argentina's currency crisis deepens and the government restricts the company's ability to earn and repatriate dollars, the value of the shares to foreign investors declines sharply. Peso-denominated shares become less useful to an investor seeking dollar-denominated returns if the peso is in free fall.
+Currency and inflation are existential pressures. If Argentina's [currency crisis](/currency-crisis/) deepens and the government restricts the company's ability to earn and repatriate dollars, the value of the shares to foreign investors declines sharply. Peso-denominated shares become less useful to an investor seeking dollar-denominated returns if the peso is in free fall.
 
 ## How to research Telecom Argentina
 

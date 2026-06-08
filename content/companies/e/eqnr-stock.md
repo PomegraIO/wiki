@@ -79,7 +79,7 @@ Environmental damage or accidents are a constant risk with offshore drilling. A 
 
 The transition to renewable energy is uncertain. Equinor is betting on wind and hydrogen, but no one knows if these will be as profitable as oil and gas. The company could invest billions and then find that the market does not develop the way it expected.
 
-Political risk exists, particularly in Angola and Brazil. A change in government, new taxes, or expropriation could hurt the business.
+[Political risk](/political-risk/) exists, particularly in Angola and Brazil. A change in government, new taxes, or expropriation could hurt the business.
 
 Climate policy is tightening. Governments are setting rules that limit fossil fuels. Eventually, this could make large parts of Equinor's current business uneconomical. The company is preparing for this, but it is a long-term headwind.
 

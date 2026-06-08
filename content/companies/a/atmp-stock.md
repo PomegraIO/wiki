@@ -25,7 +25,7 @@ An MLP typically distributes far more cash per year than it retains, sometimes i
 
 ## The ATMP portfolio and exposure
 
-ATMP does not hold every MLP. Instead, it focuses on a select list — the iPath Select MLP Index — which is weighted or screened to capture the most liquid, stable, and distribution-yielding partnerships. The exact weighting and selection criteria are set by the index provider (Barclays, historically, or a successor) and updated on a schedule (usually quarterly).
+ATMP does not hold every MLP. Instead, it focuses on a select list — the iPath Select MLP Index — which is weighted or screened to capture the most liquid, stable, and distribution-yielding partnerships. The exact weighting and selection criteria are set by the [index provider](/index-provider/) (Barclays, historically, or a successor) and updated on a schedule (usually quarterly).
 
 By targeting the "select" universe, the fund tries to avoid the smallest, most illiquid MLPs (which can be hard to buy and sell) and those with the most precarious distributions. The trade-off is that you own fewer positions than you would in a broader MLP index, and your returns will differ from a cap-weighted universe of all tradeable MLPs.
 
@@ -67,6 +67,6 @@ Start by comparing the fund's distributions to broader equity indices and bond y
 
 Review the underlying MLP index's top holdings: Are they in stable midstream infrastructure (pipelines, terminals) or more volatile upstream or downstream segments? The composition determines how sensitive the fund is to energy prices.
 
-Monitor the sponsor's [credit ratings](/credit-rating/) and financial news. While major banks rarely default, understanding the sponsor's current financial health is part of due diligence on any ETN.
+Monitor the sponsor's [credit ratings](/credit-rating/) and financial news. While major banks rarely default, understanding the sponsor's current financial health is part of [due diligence](/due-diligence/) on any ETN.
 
 Finally, consult your tax advisor before investing, particularly if you have other MLP or partnership exposure. The K-1 reporting and interactions with your overall tax situation are complex enough that professional guidance is worthwhile.

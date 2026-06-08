@@ -29,7 +29,7 @@ Utility-scale solar projects run on multi-year timelines: site selection, permit
 
 ## Policy Dependency and Subsidy Cliff Risk
 
-Utility-scale solar installation is heavily subsidized in the United States. The Investment Tax Credit (ITC), Production Tax Credits (PTC), and state-level incentives make solar projects economically viable in many regions. If these incentives are reduced or expire, project developers' returns collapse and orders evaporate. FTC Solar's entire addressable market depends on policy continuity. Political risk is real; Congress periodically debates energy policy, and the subsidy landscape shifts. A sudden change—an ITC reduction, a shift away from renewables—would devastate FTC's demand within months.
+Utility-scale solar installation is heavily subsidized in the United States. The Investment Tax Credit (ITC), Production Tax Credits (PTC), and state-level incentives make solar projects economically viable in many regions. If these incentives are reduced or expire, project developers' returns collapse and orders evaporate. FTC Solar's entire addressable market depends on policy continuity. [Political risk](/political-risk/) is real; Congress periodically debates energy policy, and the subsidy landscape shifts. A sudden change—an ITC reduction, a shift away from renewables—would devastate FTC's demand within months.
 
 ## Supply-Chain Fragility
 
@@ -41,7 +41,7 @@ FTC competes against larger industrial conglomerates and specialized solar-equip
 
 ## Balance-Sheet Leverage and Working-Capital Risk
 
-A cyclical manufacturer like FTC Solar must manage working capital carefully. When demand is strong, FTC invests in inventory and receivables (money owed by customers), requiring cash. If a customer becomes insolvent or delays payment, FTC's [cash flow](/free-cash-flow/) deteriorates quickly. Large projects often involve extended payment terms. FTC must finance its own operations while waiting for customer payments; this requires debt or equity cushion. In a downturn, when FTC's profitability collapses, servicing debt becomes strained. The company's ability to raise capital for growth or to weather downturns depends on its balance-sheet health and investor appetite for cyclical industrials.
+A cyclical manufacturer like FTC Solar must manage working capital carefully. When demand is strong, FTC invests in inventory and receivables (money owed by customers), requiring cash. If a customer becomes insolvent or delays payment, FTC's [cash flow](/free-cash-flow/) deteriorates quickly. Large projects often involve extended payment terms. FTC must finance its own operations while waiting for customer payments; this requires debt or [equity cushion](/equity-cushion/). In a downturn, when FTC's profitability collapses, servicing debt becomes strained. The company's ability to raise capital for growth or to weather downturns depends on its balance-sheet health and investor appetite for cyclical industrials.
 
 ## Technology and Product Commoditization Risk
 

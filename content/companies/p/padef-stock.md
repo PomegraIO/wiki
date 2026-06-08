@@ -53,7 +53,7 @@ Adaro faces mounting pressure on the thermal coal side from global climate commi
 
 The company has invested in other businesses—renewable energy projects, power generation, and logistics—to hedge against the thermal coal headwind. These non-coal segments are expanding but remain small relative to core coal mining. Whether they grow fast enough to offset eventual thermal coal decline remains an open question and a source of real debate among investors.
 
-Indonesia itself is a factor. The government has periodically restricted or banned coal exports to support domestic power supply, and environmental regulations have tightened. Political risk is real: changes in power or sudden policy shifts can affect production and profit.
+Indonesia itself is a factor. The government has periodically restricted or banned coal exports to support domestic power supply, and environmental regulations have tightened. [Political risk](/political-risk/) is real: changes in power or sudden policy shifts can affect production and profit.
 
 ## How to research Adaro as an investment
 

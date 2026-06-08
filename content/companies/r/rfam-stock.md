@@ -53,4 +53,4 @@ Shareholders who remain after a merger are taking the risk that the acquired com
 
 ## How to research RFAM
 
-Monitor the company's SEC filings at CIK 0002091712, particularly Form 8-K announcements of deal negotiations or press releases about potential targets. The proxy statement announcing any proposed merger will contain detailed financial information about the target company and the terms of the deal. Watch closely for redemption rates; if many shareholders vote to redeem shares ahead of a merger, the remaining capital for the combined entity shrinks, potentially affecting its financial flexibility.
+Monitor the company's SEC filings at CIK 0002091712, particularly Form 8-K announcements of deal negotiations or press releases about potential targets. The [proxy statement](/proxy-statement/) announcing any proposed merger will contain detailed financial information about the target company and the terms of the deal. Watch closely for redemption rates; if many shareholders vote to redeem shares ahead of a merger, the remaining capital for the combined entity shrinks, potentially affecting its financial flexibility.

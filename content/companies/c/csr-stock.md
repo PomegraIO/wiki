@@ -33,7 +33,7 @@ CenterSpace's properties are concentrated in the Upper Midwest—Minnesota, Wisc
 
 ## Rent Control and Political Risk
 
-A renter-friendly city council considering rent control creates existential uncertainty for CenterSpace. Rent control caps how much CenterSpace can raise rents, directly reducing revenue. CenterSpace's customer—the renter—benefits from rent control; they pay less and have greater stability. CenterSpace, in this scenario, becomes adversarial to its customers. The political risk is real; several cities have passed or proposed rent-control ordinances. A renter benefiting from rent control might applaud the policy; CenterSpace faces reduced returns on capital. This political dynamic means CenterSpace's customer relationship is not simply a landlord-tenant lease but a contested political question.
+A renter-friendly city council considering rent control creates existential uncertainty for CenterSpace. Rent control caps how much CenterSpace can raise rents, directly reducing revenue. CenterSpace's customer—the renter—benefits from rent control; they pay less and have greater stability. CenterSpace, in this scenario, becomes adversarial to its customers. The [political risk](/political-risk/) is real; several cities have passed or proposed rent-control ordinances. A renter benefiting from rent control might applaud the policy; CenterSpace faces reduced returns on capital. This political dynamic means CenterSpace's customer relationship is not simply a landlord-tenant lease but a contested political question.
 
 ## The Move-In / Move-Out Cycle
 

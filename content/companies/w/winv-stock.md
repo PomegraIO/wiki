@@ -31,7 +31,7 @@ The SPAC framework has attracted a wide range of sponsors, from veteran venture-
 
 ## Regulatory landscape and disclosure
 
-SPACs are required to file detailed disclosures with the SEC, including information about their sponsors, their intended use of capital, and their timeline for completing an acquisition. Once a merger target is identified, additional disclosures must be made to shareholders, and a proxy statement is issued to explain the terms of the deal. Shareholders then vote on whether to approve the merger.
+SPACs are required to file detailed disclosures with the SEC, including information about their sponsors, their intended use of capital, and their timeline for completing an acquisition. Once a merger target is identified, additional disclosures must be made to shareholders, and a [proxy statement](/proxy-statement/) is issued to explain the terms of the deal. Shareholders then vote on whether to approve the merger.
 
 In recent years, regulators have tightened scrutiny of SPAC disclosures and projections. The SEC has challenged some claims made in SPAC prospectuses and has implemented new rules around forward-looking statements and the use of particular language when marketing SPACs to investors. These regulatory moves reflect concern that some SPAC offerings have been marketed with unrealistic projections or insufficient warnings about the risks inherent in blank-check structures.
 

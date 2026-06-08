@@ -27,7 +27,7 @@ Wealth Management generates fees based on assets under management or the volume 
 
 ## Investment Management
 
-Morgan Stanley's asset-management business runs third-party funds ([mutual funds](/mutual-fund/), exchange-traded funds, [hedge funds](/hedge-fund/)) and separately managed accounts for institutions, pension funds, and individuals. Revenue comes from [management fees](/management-fee/), typically a small percentage of assets under management. Growth here comes either from organic increases in client assets or from acquisition of other asset managers.
+Morgan Stanley's asset-management business runs third-party funds ([mutual funds](/mutual-fund/), exchange-traded funds, [hedge funds](/hedge-fund/)) and [separately managed accounts](/separately-managed-account/) for institutions, pension funds, and individuals. Revenue comes from [management fees](/management-fee/), typically a small percentage of assets under management. Growth here comes either from organic increases in client assets or from acquisition of other asset managers.
 
 Investment Management is more recurring than Institutional Securities but less sticky than Wealth Management. As markets fluctuate, assets under management rise and fall, creating volatility in fee revenue. Competition from passive indexing and lower-cost asset managers has pressured margins. But it is an attractive business with strong brands and a large client base, and it adds stable revenue to the portfolio.
 

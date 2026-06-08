@@ -52,7 +52,7 @@ Exploration is intrinsically risky. Drilling programs often fail to intersect si
 
 Silver North also faces political and regulatory risk. Mining is increasingly scrutinized by governments and indigenous communities. Changes to environmental regulations, permit requirements, or local opposition can stall or kill projects. For a junior operating in northern regions, environmental sensitivity and indigenous land claims are material considerations.
 
-Finally, execution risk is very real. The management team's competence in exploration, drilling program design, permitting, and stakeholder relations directly determines whether the company efficiently develops its assets or wastes shareholders' capital.
+Finally, [execution risk](/execution-risk/) is very real. The management team's competence in exploration, drilling program design, permitting, and stakeholder relations directly determines whether the company efficiently develops its assets or wastes shareholders' capital.
 
 ## How to research Silver North
 

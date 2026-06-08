@@ -52,7 +52,7 @@ MAYFAIR operates in a jurisdiction where it shares geology with other explorers 
 
 ## Where to Research MAYFAIR Further
 
-The company's complete 10-K, 10-Q quarterly reports, and proxy statements are available via the SEC's EDGAR system (CIK 1823255). Investors should cross-reference MAYFAIR's technical reports with independent assessments of Colombian mining conditions, gold metallurgy, and comparable company valuations. The ticker MINE trades on OTC Markets, where liquidity may be constrained and [bid-ask spreads](/bid-ask-spread/) wide; this affects how efficiently capital can be deployed or exited.
+The company's complete 10-K, 10-Q quarterly reports, and [proxy statements](/proxy-statement/) are available via the SEC's EDGAR system (CIK 1823255). Investors should cross-reference MAYFAIR's technical reports with independent assessments of Colombian mining conditions, gold metallurgy, and comparable company valuations. The ticker MINE trades on OTC Markets, where liquidity may be constrained and [bid-ask spreads](/bid-ask-spread/) wide; this affects how efficiently capital can be deployed or exited.
 
 ---
 

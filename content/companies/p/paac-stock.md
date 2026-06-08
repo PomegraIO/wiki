@@ -20,7 +20,7 @@ Proem Acquisition Corp. I followed this standard structure. It was formed as a S
 
 ## The economics of SPAC investing
 
-From an investor's perspective, a SPAC IPO offers a defined bet: you pay $10 per share with some downside protection (the cash in trust is guaranteed), and you get a [call option](/call-option/) on whatever company the sponsors acquire. This structure creates specific incentives.
+From an investor's perspective, a [SPAC IPO](/spac-ipo/) offers a defined bet: you pay $10 per share with some downside protection (the cash in trust is guaranteed), and you get a [call option](/call-option/) on whatever company the sponsors acquire. This structure creates specific incentives.
 
 **For sponsors:** The sponsors typically retain 20% of the SPAC's shares at no cost, meaning they own a large stake in whatever company emerges from the merger. This incentivises finding and completing a deal, but it also creates a potential misalignment: sponsors may be motivated to complete *some* deal to lock in their equity stake, even if the target company is mediocre. Sponsors also earn fees from the SPAC for their capital raising and deal-making work.
 

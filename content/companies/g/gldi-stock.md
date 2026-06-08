@@ -24,7 +24,7 @@ Since 2008, global banking regulation has tightened. All large banks must mainta
 
 ## Regulatory Pressure and Cost-to-Income
 
-Credit Suisse also faces mounting compliance and regulatory costs. Laws against money laundering (AML), sanctions enforcement, tax reporting, and data privacy all require investment in people and systems. These compliance costs are fixed and large—a 40,000-person global bank needs hundreds of compliance personnel, legal staff, and technology to meet rules in dozens of jurisdictions. Smaller competitors can escape some costs by focusing on fewer markets. Credit Suisse, operating globally, cannot. This creates pressure on the "cost-to-income ratio"—the percentage of revenue consumed by expenses. If compliance and technology spending grows faster than revenue, the cost-to-income ratio deteriorates and [net profit margin](/net-profit-margin/) shrinks.
+Credit Suisse also faces mounting compliance and regulatory costs. Laws against money laundering (AML), sanctions enforcement, tax reporting, and data privacy all require investment in people and systems. These compliance costs are fixed and large—a 40,000-person global bank needs hundreds of compliance personnel, legal staff, and technology to meet rules in dozens of jurisdictions. Smaller competitors can escape some costs by focusing on fewer markets. Credit Suisse, operating globally, cannot. This creates pressure on the "[cost-to-income ratio](/cost-income-ratio/)"—the percentage of revenue consumed by expenses. If compliance and technology spending grows faster than revenue, the cost-to-income ratio deteriorates and [net profit margin](/net-profit-margin/) shrinks.
 
 ## Scandals and Operational Risk
 

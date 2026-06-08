@@ -63,7 +63,7 @@ The result is a boom-and-bust cycle that Cactus rides. During a boom (2010–201
 
 **Energy transition.** As the world moves toward renewable energy and away from fossil fuels, long-term demand for oil and gas equipment may decline over decades. This is a secular headwind for Cactus, not an immediate threat, but an important consideration for long-term investors.
 
-**Geopolitical and commodity risk.** Oil prices can be disrupted by geopolitical events, supply shocks, or changes in economic growth. Cactus has no control over these, but the company's earnings will suffer if oil prices collapse.
+**Geopolitical and [commodity risk](/commodity-risk/).** Oil prices can be disrupted by geopolitical events, supply shocks, or changes in economic growth. Cactus has no control over these, but the company's earnings will suffer if oil prices collapse.
 
 **Competition from larger players.** Cactus is a mid-sized company in an industry with large, diversified competitors. If larger companies decide to compete harder on price or invest heavily in innovation, Cactus could lose share.
 

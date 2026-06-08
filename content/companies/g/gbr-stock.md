@@ -21,7 +21,7 @@ As a [public company](/wiki/public-company/), New Concept Energy files regulator
 
 ## What defines the company's risk profile?
 
-Micro-cap and OTC-listed companies carry elevated risks. New Concept Energy faces limited liquidity—trading volume and [bid-ask spreads](/bid-ask-spread/) on OTC markets can be wide, making entry and exit difficult. Dormant or minimally active companies risk permanent loss of shareholder capital if assets are consumed or valuations decline. The company's small size and narrow asset base mean it lacks the financial scale to weather extended downturns or execute strategic pivots. There is also limited analyst coverage and institutional interest, leaving retail investors to rely on SEC filings and their own due diligence.
+Micro-cap and OTC-listed companies carry elevated risks. New Concept Energy faces limited liquidity—trading volume and [bid-ask spreads](/bid-ask-spread/) on OTC markets can be wide, making entry and exit difficult. Dormant or minimally active companies risk permanent loss of shareholder capital if assets are consumed or valuations decline. The company's small size and narrow asset base mean it lacks the financial scale to weather extended downturns or execute strategic pivots. There is also limited analyst coverage and institutional interest, leaving retail investors to rely on SEC filings and their own [due diligence](/due-diligence/).
 
 ## How does the company fund operations?
 

@@ -45,4 +45,4 @@ BCTK appeals to long-term investors with high risk tolerance who believe Baron C
 
 ## Researching BCTK
 
-Read the prospectus, examine the current top 10 holdings (they represent a large share of assets), and track performance against the Nasdaq-100 or tech-heavy Russell indices over full market cycles. Monitor turnover to understand the pace of conviction changes. Baron Capital's quarterly and annual commentary explains the manager's thesis and positioning across the three segments.
+Read the prospectus, examine the current top 10 holdings (they represent a large share of assets), and track performance against the Nasdaq-100 or tech-heavy Russell indices over full [market cycles](/market-cycle/). Monitor turnover to understand the pace of conviction changes. Baron Capital's quarterly and annual commentary explains the manager's thesis and positioning across the three segments.

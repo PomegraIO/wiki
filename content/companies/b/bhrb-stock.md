@@ -4,7 +4,7 @@ description: "Community bank holding company serving the Northern Virginia and M
 keywords: [bank, community-bank, financial-services, lending, deposits, northern-virginia, maryland, retail-banking]
 ---
 
-*Banking at the community level is the art of reading local real estate cycles and employment trends while managing exposure to national rate movements. **Burke & Herbert Financial Services Corp.** (BHRB) exemplifies this tension: a well-capitalized institution rooted in a prosperous, Washington-D.C.–adjacent market where structural employment growth from federal government and defense contracting provides a secular tailwind, yet still subject to the cyclical forces of mortgage rates, [commercial real estate](/commercial-real-estate/) risk, and credit quality that move with national economic sentiment.*
+*Banking at the community level is the art of reading local [real estate cycles](/real-estate-cycle/) and employment trends while managing exposure to national rate movements. **Burke & Herbert Financial Services Corp.** (BHRB) exemplifies this tension: a well-capitalized institution rooted in a prosperous, Washington-D.C.–adjacent market where structural employment growth from federal government and defense contracting provides a secular tailwind, yet still subject to the cyclical forces of mortgage rates, [commercial real estate](/commercial-real-estate/) risk, and credit quality that move with national economic sentiment.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BHRB</td></tr>
@@ -25,7 +25,7 @@ This geographic stickiness shows up in relative housing values and employment st
 
 Community banks compete on deposits by cultivating local relationships and offering personalized service. BHRB's core deposit base—checking and savings accounts held by local businesses and individuals—grows with the customer base's wealth and activity. The Northern Virginia market has experienced substantial population growth and real estate appreciation over the past two decades, expanding the addressable customer base and deposit supply. This is a secular tailwind: more wealthy households in the region means more deposits to lend out and invest.
 
-But deposits also create a vulnerability. In a rising-rate environment, customers move funds from low-yield deposits to higher-yielding alternatives—[money market funds](/money-market-fund/), direct Treasury purchases, or high-yield savings accounts at online banks. The cost of deposits rises, squeezing the margin between what the bank pays depositors and what it earns on loans and investments. A sustained period of high [interest rates](/interest-rate/) therefore pressures community bank margins even if the economy is strong and loan quality is good. This rate sensitivity is cyclical in nature: as the [Federal Reserve](/federal-reserve/) raises rates to fight [inflation](/inflation/), deposit costs rise sharply; as rates fall in recession, deposit costs decline slowly (customers are sticky but eventually move).
+But deposits also create a vulnerability. In a rising-rate environment, customers move funds from low-yield deposits to higher-yielding alternatives—[money market funds](/money-market-fund/), direct Treasury purchases, or [high-yield savings accounts](/high-yield-savings-account/) at online banks. The cost of deposits rises, squeezing the margin between what the bank pays depositors and what it earns on loans and investments. A sustained period of high [interest rates](/interest-rate/) therefore pressures community bank margins even if the economy is strong and loan quality is good. This rate sensitivity is cyclical in nature: as the [Federal Reserve](/federal-reserve/) raises rates to fight [inflation](/inflation/), deposit costs rise sharply; as rates fall in recession, deposit costs decline slowly (customers are sticky but eventually move).
 
 ## The Loan Portfolio Lens: Credit Quality Across Cycles
 
@@ -43,7 +43,7 @@ Some community banks adapt by diversifying into fee-based services: wealth manag
 
 ## The Capital Regulation Factor
 
-Community banks are also subject to [Basel III](/basel-iii/) capital rules and Federal Reserve stress tests. A bank must maintain a certain level of equity capital relative to assets and risk-weighted assets. These rules became stricter post-2008 and are periodically tightened. They are not cyclical—they are regulatory and secular. A well-capitalized bank can weather cyclical credit losses; an undercapitalized one cannot.
+Community banks are also subject to [Basel III](/basel-iii/) capital rules and Federal Reserve stress tests. A bank must maintain a certain level of equity capital relative to assets and [risk-weighted assets](/risk-weighted-assets/). These rules became stricter post-2008 and are periodically tightened. They are not cyclical—they are regulatory and secular. A well-capitalized bank can weather cyclical credit losses; an undercapitalized one cannot.
 
 Reading BHRB's tier-1 capital ratio and common equity ratio in its 10-K reveals how much buffer the bank has. A ratio above regulatory minimums suggests stability; one at or near minimums suggests constraints on [dividend](/dividend/) payments or stock buybacks during downturns.
 

@@ -29,7 +29,7 @@ The **banking segment** includes Freedom Bank (Kazakhstan) and related licensed 
 
 The third business is **digital payments and money transfer**. The company operates platforms that allow users in these markets to send money, pay bills, and manage wallets digitally. This segment is growing rapidly and is lower-margin than banking but high-volume and addictive to users.
 
-Revenue breakdown is roughly: brokerage commissions and spreads (30–40 percent), banking interest margin (40–50 percent), and digital payments and other services (10–20 percent). The overall business generates significant cash, though profitability swings with market volatility (when [stock markets](/stock-market/) rally, brokerage volumes surge) and with credit cycles (when lending growth accelerates, so does eventual loan losses).
+Revenue breakdown is roughly: brokerage commissions and spreads (30–40 percent), banking interest margin (40–50 percent), and digital payments and other services (10–20 percent). The overall business generates significant cash, though profitability swings with market volatility (when [stock markets](/stock-market/) rally, brokerage volumes surge) and with [credit cycles](/credit-cycle/) (when lending growth accelerates, so does eventual loan losses).
 
 ## Geographic footprint and market concentration
 
@@ -53,7 +53,7 @@ Leverage exists but is managed — the banking business requires capital ratios 
 
 ## The geopolitical elephant
 
-Freedom's single largest risk is geopolitical. The Russian sanctions regime following 2022 disrupted the company's operations and customer base there significantly. Any further escalation in the region, or a shift in US relations with Kazakhstan or other Central Asian states, could materially harm the business. The company is also exposed to currency devaluation — if the Kazakhstani tenge or Russian rouble collapse against the dollar, customer wealth and deposits shrink, and the company's earnings in dollar terms fall.
+Freedom's single largest risk is geopolitical. The Russian sanctions regime following 2022 disrupted the company's operations and customer base there significantly. Any further escalation in the region, or a shift in US relations with Kazakhstan or other Central Asian states, could materially harm the business. The company is also exposed to [currency devaluation](/currency-devaluation/) — if the Kazakhstani tenge or Russian rouble collapse against the dollar, customer wealth and deposits shrink, and the company's earnings in dollar terms fall.
 
 Regulatory risk is also present. Financial-services regulators in these countries have changed rules and enforcement intensity sharply before. A clampdown on retail trading, a bank run on the deposit side, or new capital requirements could reshape profitability overnight.
 

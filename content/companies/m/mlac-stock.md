@@ -44,7 +44,7 @@ Because SPACs became a hot trend in the years around 2020–2022, they began str
 
 ## Why investors bought MLAC in the first place
 
-SPAC IPOs attracted two types of investors. Some were sophisticated observers who believed a particular sponsor team had a strong track record of deal-making and would find a good acquisition. Others were retail investors who saw SPAC shares as a cheap way to get upside if the company being merged was the next big success story — a chance to get in early on a company before it was famous.
+[SPAC IPOs](/spac-ipo/) attracted two types of investors. Some were sophisticated observers who believed a particular sponsor team had a strong track record of deal-making and would find a good acquisition. Others were retail investors who saw SPAC shares as a cheap way to get upside if the company being merged was the next big success story — a chance to get in early on a company before it was famous.
 
 The supposed advantage of the SPAC route, versus a traditional IPO, was that a private company could negotiate better terms, get to the public markets faster, and avoid the roadshow and underwriting gauntlet of a traditional IPO. In practice, many SPAC mergers diluted shareholders heavily, saddled the merged company with onerous sponsor incentives, and left investors with a company that was worth less than the cash they had put in.
 
@@ -56,4 +56,4 @@ The SPAC boom of 2020–2022 ended when rising [interest rates](/interest-rate/)
 
 ## Researching a SPAC
 
-For investors evaluating SPACs, the key documents are the proxy statement announcing the merger and the target company's financial projections. These reveal the implied valuation, the share structure post-merger, and what the sponsors stand to gain. The financial statements and audited accounts of the target company, if available pre-merger, are essential reading. After the merger closes, the newly public company files traditional reports like any other public company, and those documents tell you whether the deal created or destroyed value.
+For investors evaluating SPACs, the key documents are the [proxy statement](/proxy-statement/) announcing the merger and the target company's financial projections. These reveal the implied valuation, the share structure post-merger, and what the sponsors stand to gain. The financial statements and audited accounts of the target company, if available pre-merger, are essential reading. After the merger closes, the newly public company files traditional reports like any other public company, and those documents tell you whether the deal created or destroyed value.

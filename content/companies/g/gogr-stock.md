@@ -53,7 +53,7 @@ Go Green's path to competitive advantage thus requires either specialization (be
 
 ## Investor Positioning
 
-For investors, Go Green Global's appeal rests on the thesis that environmental services are a durable growth market. This is true in aggregate. However, the specific investment case depends on the company's ability to grow faster than competitors, to defend margins, and to avoid disruptive technological change (e.g., new remediation methods that render current approaches obsolete). Smaller players in fragmented markets with weak competitive positioning frequently struggle to deliver shareholder returns, regardless of favorable industry tailwinds.
+For investors, Go Green Global's appeal rests on the thesis that environmental services are a durable growth market. This is true in aggregate. However, the specific investment case depends on the company's ability to grow faster than competitors, to defend margins, and to avoid disruptive technological change (e.g., new remediation methods that render current approaches obsolete). Smaller players in [fragmented markets](/fragmented-market/) with weak competitive positioning frequently struggle to deliver shareholder returns, regardless of favorable industry tailwinds.
 
 ---
 

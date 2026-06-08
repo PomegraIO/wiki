@@ -28,7 +28,7 @@ SeaStar is a pre-commercial, clinical-stage company. As of recent reports, the c
 
 ## Who owns and funds SeaStar?
 
-SeaStar is a publicly traded company listed on the [NASDAQ](/nasdaq/) under the ticker ICU. As a development-stage biotech and medical-device company, it has historically relied on [equity financing](/equity-financing/), strategic partnerships, and grants to fund research and clinical trials. Investors should understand that the company carries significant execution risk—regulatory approval is not guaranteed, and clinical trials can fail or take longer than expected.
+SeaStar is a publicly traded company listed on the [NASDAQ](/nasdaq/) under the ticker ICU. As a development-stage biotech and medical-device company, it has historically relied on [equity financing](/equity-financing/), strategic partnerships, and grants to fund research and clinical trials. Investors should understand that the company carries significant [execution risk](/execution-risk/)—regulatory approval is not guaranteed, and clinical trials can fail or take longer than expected.
 
 ## How does SeaStar compete in its space?
 

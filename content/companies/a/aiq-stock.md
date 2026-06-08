@@ -34,7 +34,7 @@ AIQ is a thematic bet, not a diversified portfolio. All its holdings are tied to
 
 The sector concentration is compounded by the fact that many of AIQ's holdings are in the technology sector broadly, so market movements that hurt tech hurt AIQ disproportionately. A defensive market rotation away from growth stocks and into utilities or consumer staples would likely drag AIQ's performance.
 
-Within the AI theme itself, the fund's exact holdings shift with index rebalancing (typically quarterly), so the composition is not static. A company that the index constructor deems to be sufficiently AI-dependent might be added or removed. That is part of passive investing — you accept the index constructor's judgment.
+Within the AI theme itself, the fund's exact holdings shift with [index rebalancing](/index-rebalancing/) (typically quarterly), so the composition is not static. A company that the index constructor deems to be sufficiently AI-dependent might be added or removed. That is part of passive investing — you accept the index constructor's judgment.
 
 ## How liquid is AIQ and what does it cost?
 

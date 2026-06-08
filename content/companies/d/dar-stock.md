@@ -48,7 +48,7 @@ Darling's competitive advantages are real but partially offsetting. On the upsid
 
 Against this, the company faces commodity exposure on pricing (fats and proteins trade on global benchmarks, and Darling's output is fungible). Poultry processors and large meat companies can integrate rendering in-house if it makes economic sense, reducing Darling's addressable base. Regulatory shifts in waste handling or fuel standards can shift margin dynamics unpredictably. And competition from smaller regional renderers, especially in Europe and Asia, constrains pricing power in those markets.
 
-The renewable diesel venture partly hedges commodity risk through blended economics, but it ties Darling to regulatory incentives (tax credits, mandates) that are subject to political change.
+The renewable diesel venture partly hedges [commodity risk](/commodity-risk/) through blended economics, but it ties Darling to regulatory incentives (tax credits, mandates) that are subject to political change.
 
 ## Capital Returns and Growth Strategy
 

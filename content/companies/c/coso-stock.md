@@ -25,7 +25,7 @@ CoastalSouth's deposit base is fundamentally constrained by geography; the bank 
 
 ## Loan Origination and the Commercial Real Estate Bet
 
-CoastalSouth generates revenue by originating loans and earning the spread between the cost of deposits and the rate charged to borrowers. Like most regional banks, it concentrates in [commercial real estate](/commercial-real-estate/)—construction loans, permanent mortgages on office, retail, and hospitality properties, and land [acquisition](/acquisition/) financing. This sector was a reliable source of spreads for decades, with real estate values generally appreciating and commercial tenants generating stable rental income.
+CoastalSouth generates revenue by originating loans and earning the spread between the cost of deposits and the rate charged to borrowers. Like most regional banks, it concentrates in [commercial real estate](/commercial-real-estate/)—[construction loans](/construction-loan/), permanent mortgages on office, retail, and hospitality properties, and land [acquisition](/acquisition/) financing. This sector was a reliable source of spreads for decades, with real estate values generally appreciating and commercial tenants generating stable rental income.
 
 The firm also extends credit to small businesses: working-capital lines of credit, equipment financing, and seasonal lending to retail and service businesses. These loans require more underwriting judgment than standardized consumer products, but they generate higher yields and create customer stickiness—a small-business owner whose payroll line or equipment loan is managed by CoastalSouth is more likely to deposit business cash there as well.
 

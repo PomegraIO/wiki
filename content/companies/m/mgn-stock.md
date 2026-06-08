@@ -54,7 +54,7 @@ Investors examining MGN's 10-K should review segment disclosures carefully, noti
 
 MGN's Asia-Pacific focus exposes it to currency fluctuations. A holding company earning revenues in [Singapore dollars](/singapore-dollar/), [Hong Kong dollars](/hong-kong-dollar/), and other regional currencies but reporting in [US dollars](/us-dollar/) faces translation exposure (currency movements affect reported consolidated results) and economic exposure (currency movements affect competitiveness of subsidiaries in their local markets). A strong balance sheet with limited foreign-currency debt mitigates risk; a company with significant foreign-currency liabilities faces the risk of adverse currency movements compressing margins or equity values.
 
-Political risk also attends Asia-Pacific exposure. Regulatory changes, political instability, or sanctions can restrict [capital flows](/capital-flows/), limit business activities, or force asset sales. MGN's 10-K should disclose material foreign-exchange and political exposures by geography.
+[Political risk](/political-risk/) also attends Asia-Pacific exposure. Regulatory changes, political instability, or sanctions can restrict [capital flows](/capital-flows/), limit business activities, or force asset sales. MGN's 10-K should disclose material foreign-exchange and political exposures by geography.
 
 ## Equity Returns and Distribution Policy
 

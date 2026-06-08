@@ -40,11 +40,11 @@ Competitive advantage in mining rests on a few levers: ore grades (quality of de
 
 **Commodity price sensitivity.** A sustained fall in gold or copper prices directly pressures margins and cash flow. Mining companies are price-takers, not price-makers. If bullion prices decline significantly, OceanaGold's profitability can evaporate quickly.
 
-**Regulatory and political risk.** Operating in the Philippines introduces additional geopolitical exposure beyond U.S. and New Zealand. Mining is capital-intensive and long-lived; sudden changes in permitting, environmental rules, or political opposition to mining can disrupt operations or require major remediation spending. Environmental litigation and community opposition are ongoing risks at any large-scale mine.
+**Regulatory and [political risk](/political-risk/).** Operating in the Philippines introduces additional geopolitical exposure beyond U.S. and New Zealand. Mining is capital-intensive and long-lived; sudden changes in permitting, environmental rules, or political opposition to mining can disrupt operations or require major remediation spending. Environmental litigation and community opposition are ongoing risks at any large-scale mine.
 
 **Capital intensity and cost [inflation](/inflation/).** Mining is brutally capital-intensive. Maintaining and expanding production requires continuous investment in equipment, infrastructure, and technology. Labor, fuel, and material costs fluctuate with inflation and commodity prices (fuel especially). A period of rising costs during weak commodity prices is a profit squeeze.
 
-**Execution risk.** Multi-mine operations mean execution complexity. Operational incidents—accidents, environmental spills, processing failures—can halt production, trigger fines, and damage community relationships. Cost overruns on capital projects are common in mining.
+**[Execution risk](/execution-risk/).** Multi-mine operations mean execution complexity. Operational incidents—accidents, environmental spills, processing failures—can halt production, trigger fines, and damage community relationships. Cost overruns on capital projects are common in mining.
 
 **Jurisdictional concentration.** While geography diversifies risk, it also concentrates it. Each mine is its own regulatory jurisdiction. An adverse political shift in the Philippines or a prolonged permitting dispute in South Carolina can hurt a large portion of the company's output.
 

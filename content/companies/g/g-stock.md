@@ -32,7 +32,7 @@ It has invested significantly in automation, cloud platforms, and data analytics
 
 The structural headwinds are substantial. Wage inflation in India and other offshore hubs erodes the labor cost advantage that underwrites margins. Clients are automating their own processes, reducing the portion of work Genpact can serve. Large enterprises are consolidating vendors, preferring one global megaservices partner over many specialists, which can disadvantage a mid-tier player. [Recession](/recession/) in key client sectors—banking, energy, manufacturing—ripples directly into Genpact's revenue because enterprise [discretionary spending](/discretionary-spending/) on outsourcing tends to be among the first things clients cut when profits slide.
 
-Client concentration is measurable: the top customers account for a material portion of total revenue, meaning loss of a major contract can be painful. Execution risk on large transformations is always present; failing to deliver a promised system implementation or process redesign damages reputation and client retention.
+Client concentration is measurable: the top customers account for a material portion of total revenue, meaning loss of a major contract can be painful. [Execution risk](/execution-risk/) on large transformations is always present; failing to deliver a promised system implementation or process redesign damages reputation and client retention.
 
 Geopolitical headwinds matter too. Dependence on India exposes the company to Indian regulation, data residency rules, and visa policy; any tightening of H-1B visa caps or restrictions on offshore data movement would constrain growth. Competition for talent is fierce, particularly for mid-level engineers and process experts; high turnover in the Indian workforce has been a chronic challenge across the BPO sector.
 
@@ -40,7 +40,7 @@ Geopolitical headwinds matter too. Dependence on India exposes the company to In
 
 To research Genpact, start with the [10-K](/wiki/10-k/), filed annually, which breaks out revenue by customer, service line, and geography—critical for gauging concentration and growth. Watch for organic growth (adding new clients or expanding work with existing ones), which is harder to achieve than retaining the base. Track gross margin and operating leverage; a mature BPO should show steady or rising [operating margins](/operating-margin/) as scale increases and automation takes hold, but pricing pressure or wage inflation can compress this.
 
-Key metrics worth monitoring: revenue per employee (higher is better, signaling productivity), revenue from the top customer as a percentage of total (lower diversity is riskier), and the pace of new client wins. The company's earnings calls reveal client wins, deal pipeline, and management's narrative about automation progress and margin outlook.
+Key metrics worth monitoring: [revenue per employee](/revenue-per-employee/) (higher is better, signaling productivity), revenue from the top customer as a percentage of total (lower diversity is riskier), and the pace of new client wins. The company's earnings calls reveal client wins, deal pipeline, and management's narrative about automation progress and margin outlook.
 
 Genpact trades on reasonable [earnings multiples](/earnings-multiple/) in normal times, reflecting the steady-but-not-spectacular growth of a mature services business. Cyclical downturns hit the sector hard; conversely, periods of enterprise digital transformation and cost discipline tend to lift outsourcing demand.
 

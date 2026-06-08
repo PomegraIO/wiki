@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AUGT is a buffer fund built on the Russell 1000 Index, the largest thousand U.S. companies, wrapped in an options strategy that promises a 10% annual downside cushion. It is one of a suite of buffer funds offered by AllianzIM, Allianz Investment Management, and it is designed for investors who want to stay in U.S. equities but who prefer to cap their annual losses rather than live with the full volatility of the [stock market](/stock-market/).
+AUGT is a [buffer fund](/buffer-fund/) built on the Russell 1000 Index, the largest thousand U.S. companies, wrapped in an options strategy that promises a 10% annual downside cushion. It is one of a suite of buffer funds offered by AllianzIM, Allianz Investment Management, and it is designed for investors who want to stay in U.S. equities but who prefer to cap their annual losses rather than live with the full volatility of the [stock market](/stock-market/).
 
 The core premise of a buffer fund is simple: in exchange for giving up some upside, you get a ceiling on your downside. AUGT makes that trade with a 10% loss cap. If the Russell 1000 falls 25% in a year, you lose 10%. If it rises 60%, you gain less than that — the exact cap changes each August and depends on the cost of options at that moment. Over the past decade, as [interest rates](/interest-rate/) have moved and volatility has fluctuated, the upside caps offered with a 10% buffer have ranged from roughly 22% in volatile years to 35% in calmer periods.
 

@@ -80,7 +80,7 @@ Additionally, if the company's programs fail and capital dries up, shareholders 
 
 <div class="wiki-seealso">
 ### Closely related
-- [bdpt-stock](/bdpt-stock/) (fundraising and pipeline risk)
+- [bdpt-stock](/bdpt-stock/) (fundraising and [pipeline risk](/pipeline-risk/))
 - [bdsx-stock](/bdsx-stock/) (diagnostic development path)
 - [bdrx-stock](/bdrx-stock/) (regulatory and market adoption challenges)
 

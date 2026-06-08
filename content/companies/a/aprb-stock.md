@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Aptus April Buffer ETF** (ticker APRB) is an options-based exchange-traded fund that wraps the S&P 500 in a [collar strategy](/collar-strategy/)—absorbing the first portion of market losses while capping the upside—and resets these protections annually.*
+*The **Aptus April [Buffer ETF](/buffer-etf/)** (ticker APRB) is an options-based exchange-traded fund that wraps the S&P 500 in a [collar strategy](/collar-strategy/)—absorbing the first portion of market losses while capping the upside—and resets these protections annually.*
 
 <aside class="wiki-infobox">
 <table>

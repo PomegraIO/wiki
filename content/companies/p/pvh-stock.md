@@ -61,6 +61,6 @@ PVH's path to growth depends on success in direct-to-consumer across developed a
 
 ## What to watch as an investor
 
-Anyone researching PVH should start with its annual 10-K filing (SEC CIK 0000078239), which breaks revenue by brand, channel, and geography. Geography is crucial — watch for exposure to China and other markets with political risk or volatile consumer spending.
+Anyone researching PVH should start with its annual 10-K filing (SEC CIK 0000078239), which breaks revenue by brand, channel, and geography. Geography is crucial — watch for exposure to China and other markets with [political risk](/political-risk/) or volatile consumer spending.
 
 Key metrics: revenue growth by channel (is wholesale declining faster than DTC is growing?), gross margin (are brands able to sustain pricing?), and the health of the wholesale channel (how many retailers are carrying the brands, and are they ordering or delisting?). Monitor quarterly earnings calls for commentary on brand momentum, department-store health, and international expansion plans. The apparel industry is highly exposed to consumer [discretionary spending](/discretionary-spending/), so watch broader economic indicators: employment, wages, consumer sentiment, and retail traffic. Luxury and accessible-luxury brands weather [recessions](/recession/) poorly, as consumers cut back on discretionary purchases first. PVH's shares have historically been volatile through economic cycles for exactly that reason.

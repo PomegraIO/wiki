@@ -41,7 +41,7 @@ The second risk is less obvious: it is [liquidity risk](/liquidity-risk/) and wh
 
 ## The interest-rate wrinkle
 
-While the floating-rate structure protects investors from duration risk (the capital loss when fixed-rate bond prices fall), it does not protect from spread risk. When credit conditions deteriorate and investors demand wider spreads on risky debt, the spread component of BKLN's returns can widen sharply, crimping total return even as the floating rate climbs. Additionally, extremely high base rates can lead to increased borrower distress (companies with variable-rate debt face higher payments when rates rise), which can pressure spreads the other direction.
+While the floating-rate structure protects investors from duration risk (the capital loss when fixed-rate bond prices fall), it does not protect from [spread risk](/spread-risk/). When credit conditions deteriorate and investors demand wider spreads on risky debt, the spread component of BKLN's returns can widen sharply, crimping total return even as the floating rate climbs. Additionally, extremely high base rates can lead to increased borrower distress (companies with variable-rate debt face higher payments when rates rise), which can pressure spreads the other direction.
 
 ## Who holds BKLN and when
 

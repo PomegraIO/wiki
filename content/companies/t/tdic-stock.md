@@ -38,15 +38,15 @@ Like all real estate developers, Dreamland must balance pre-sales (selling units
 
 ## Capital structure and leverage
 
-Property developers are inherently leveraged businesses. Dreamland finances [acquisitions](/acquisition/) and construction using a combination of equity raised from investors, bank debt, vendor financing, and pre-sale cash from buyers. Because projects tie up capital for years, the developer's capital structure and ability to access fresh financing are critical. Equity investors provide a safety buffer but dilute returns; debt is cheaper but obligates the company to service interest payments even if a project stalls. In weak credit conditions or in markets where local financing disappears, a developer can face a [liquidity crisis](/liquidity-crisis/) even if projects are economically sound.
+Property developers are inherently leveraged businesses. Dreamland finances [acquisitions](/acquisition/) and construction using a combination of equity raised from investors, bank debt, [vendor financing](/vendor-financing/), and pre-sale cash from buyers. Because projects tie up capital for years, the developer's capital structure and ability to access fresh financing are critical. Equity investors provide a safety buffer but dilute returns; debt is cheaper but obligates the company to service interest payments even if a project stalls. In weak credit conditions or in markets where local financing disappears, a developer can face a [liquidity crisis](/liquidity-crisis/) even if projects are economically sound.
 
-The company's disclosed leverage, debt maturity profile, and pre-sales backlog are key indicators of financial health. Strong pre-sales provide operating cash flow and reduce financing risk; high leverage on a thin equity base can amplify returns in good times but can force distressed asset sales in downturns.
+The company's disclosed leverage, [debt maturity profile](/debt-maturity-profile/), and pre-sales backlog are key indicators of financial health. Strong pre-sales provide operating cash flow and reduce financing risk; high leverage on a thin equity base can amplify returns in good times but can force distressed asset sales in downturns.
 
 ## Market cycles and the developer's horizon
 
 Real estate development is acutely cyclical. Booms—driven by rapid urbanisation, credit expansion, or foreign investment inflows—create frantic acquisition and launching of projects; busts come when credit dries up, absorption slows, or construction costs spike. Developers that survive cycles are those with patient capital, no forced selling pressure, and the discipline to pause acquisitions during inflated-price periods.
 
-Dreamland, like other developers in emerging markets, operates in environments with volatile credit conditions and currency exposure. These add execution risk beyond the physical project risk (construction delays, cost overruns, design flaws). How the company hedges currency exposure, manages debt maturities, and paces land acquisition through the cycle are material to long-term survival.
+Dreamland, like other developers in emerging markets, operates in environments with volatile credit conditions and currency exposure. These add [execution risk](/execution-risk/) beyond the physical project risk (construction delays, cost overruns, design flaws). How the company hedges currency exposure, manages debt maturities, and paces land acquisition through the cycle are material to long-term survival.
 
 ## How to research Dreamland
 

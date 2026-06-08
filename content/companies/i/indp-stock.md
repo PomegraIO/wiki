@@ -37,7 +37,7 @@ Phase 3 studies are the pivotal trials required for regulatory approval. FDA spe
 
 ## Post-Approval Commitments and Adverse Event Surveillance
 
-Even after FDA approval, INDP's regulatory burden does not end. FDA may approve with Risk Evaluation and Mitigation Strategies (REMS) requiring restricted distribution, patient enrollment registries, or physician training. INDP must conduct Phase 4 post-marketing surveillance, monitoring adverse events and filing quarterly and annual safety reports to FDA. If unexpected safety signals emerge post-approval, FDA can require labeling changes, restrict indications, or withdraw approval. This creates long-term compliance cost and reputational risk; a major safety withdrawal years after approval can destroy shareholder value and invite litigation.
+Even after FDA approval, INDP's regulatory burden does not end. FDA may approve with Risk Evaluation and Mitigation Strategies (REMS) requiring restricted distribution, patient enrollment registries, or physician training. INDP must conduct Phase 4 post-marketing surveillance, monitoring adverse events and filing quarterly and annual safety reports to FDA. If unexpected safety signals emerge post-approval, FDA can require labeling changes, restrict indications, or withdraw approval. This creates long-term compliance cost and [reputational risk](/reputational-risk/); a major safety withdrawal years after approval can destroy shareholder value and invite litigation.
 
 ## Conclusion
 

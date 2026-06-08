@@ -47,9 +47,9 @@ The company also operates with leverage—it borrows money to invest more capita
 
 ## The credit cycle
 
-New Mountain Finance's performance is tightly tied to the credit cycle. When the economy is strong and companies are growing, defaults are rare and companies can refinance loans easily. Interest rates are lower and companies get better terms. New Mountain's portfolio performs well and dividends are full.
+New Mountain Finance's performance is tightly tied to the [credit cycle](/credit-cycle/). When the economy is strong and companies are growing, defaults are rare and companies can refinance loans easily. Interest rates are lower and companies get better terms. New Mountain's portfolio performs well and dividends are full.
 
-When the economy slows, defaults rise and company values fall. New Mountain has to write down the value of its portfolio—sometimes loans it made for 100 million dollars in a booming market are worth only 80 million dollars when a [recession](/recession/) hits. The company's book value per share falls. Some loans default entirely and have to be written off. In severe downturns, BDCs have been forced to cut or eliminate dividends.
+When the economy slows, defaults rise and company values fall. New Mountain has to write down the value of its portfolio—sometimes loans it made for 100 million dollars in a booming market are worth only 80 million dollars when a [recession](/recession/) hits. The company's [book value per share](/book-value-per-share/) falls. Some loans default entirely and have to be written off. In severe downturns, BDCs have been forced to cut or eliminate dividends.
 
 New Mountain's management works to position the portfolio defensively in later-cycle environments. That might mean lending more to proven, stable companies and less to growth-stage or turnaround situations. It might mean reducing leverage or extending the maturity profile of the portfolio so less debt comes due in near term. These moves reduce risk but also reduce the potential upside.
 

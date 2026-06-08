@@ -27,7 +27,7 @@ Gabelli [Dividend](/dividend/) & Income Trust is a closed-end investment company
 
 ## The 1980s and the rise of closed-end funds
 
-Mario Gabelli, a legendary contrarian investor, founded Gabelli Asset Management in the 1980s and launched several [closed-end funds](/closed-end-fund/) to capture the surging interest in tax-efficient dividend income. The late 1980s and early 1990s marked a boom in closed-end fund launches — they offered a way for retail investors to access professional management with leverage and to own a basket of stocks trading as a single security. Gabelli Dividend & Income Trust was part of this wave, targeting investors who wanted a dependable stream of current income. The fund's [board of directors](/board-of-directors/) and investment adviser structure reflected the closed-end model of that era: a fixed capital base, no daily redemptions, and a mandate to deliver above-average yield.
+[Mario Gabelli](/mario-gabelli/), a legendary contrarian investor, founded Gabelli Asset Management in the 1980s and launched several [closed-end funds](/closed-end-fund/) to capture the surging interest in tax-efficient dividend income. The late 1980s and early 1990s marked a boom in closed-end fund launches — they offered a way for retail investors to access professional management with leverage and to own a basket of stocks trading as a single security. Gabelli Dividend & Income Trust was part of this wave, targeting investors who wanted a dependable stream of current income. The fund's [board of directors](/board-of-directors/) and investment adviser structure reflected the closed-end model of that era: a fixed capital base, no daily redemptions, and a mandate to deliver above-average yield.
 
 ## How the fund works: Leverage, dividend focus, and the closed-end structure
 
@@ -51,7 +51,7 @@ The distribution yield — the annual payout divided by the share price — is a
 
 ## Evolution and pressures
 
-Over the past three decades, Gabelli Dividend & Income Trust has experienced multiple market cycles — the 1990s tech boom, the 2000s financial crisis, the 2010s low-rate era, and the recent period of rising interest rates. Each cycle has tested the fund's leverage, its portfolio positioning, and its ability to deliver distributions. The shift toward passive investing and the compression of [dividend yields](/dividend-yield/) have made the environment more challenging for dividend-focused active managers.
+Over the past three decades, Gabelli Dividend & Income Trust has experienced multiple [market cycles](/market-cycle/) — the 1990s tech boom, the 2000s financial crisis, the 2010s low-rate era, and the recent period of rising interest rates. Each cycle has tested the fund's leverage, its portfolio positioning, and its ability to deliver distributions. The shift toward passive investing and the compression of [dividend yields](/dividend-yield/) have made the environment more challenging for dividend-focused active managers.
 
 ## Evaluating the fund as an investment
 

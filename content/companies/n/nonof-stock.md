@@ -45,7 +45,7 @@ The company is exposed to diabetes and obesity trends. As the world gets heavier
 
 ## Pricing and regulatory risk
 
-Novo Nordisk faces constant criticism over the price of insulin. Patients in the United States pay much more for insulin than patients in Europe or Japan for the same drug. That price gap exists because the United States has less price regulation than other countries. Lawmakers have proposed price caps or requirements to lower insulin prices. If the United States government passes price controls, it would hit Novo Nordisk's earnings hard — the US market is huge.
+Novo Nordisk faces constant criticism over the price of insulin. Patients in the United States pay much more for insulin than patients in Europe or Japan for the same drug. That [price gap](/price-gap/) exists because the United States has less price regulation than other countries. Lawmakers have proposed price caps or requirements to lower insulin prices. If the United States government passes price controls, it would hit Novo Nordisk's earnings hard — the US market is huge.
 
 Patent cliffs are another risk. Many of Novo Nordisk's key drugs have patents that will expire in the coming years. When a patent expires, generic competitors can enter the market, and prices usually fall sharply. The company must keep launching new drugs or new formulations to replace the revenue from drugs going generic.
 

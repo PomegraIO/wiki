@@ -58,7 +58,7 @@ Plug Power's path to scale has been cleared partly by government subsidies and i
 
 But subsidies are not permanent. If regulations change or subsidies expire, the economics of hydrogen may not make sense. A customer that relied on a tax credit to justify a fuel-cell investment may not have invested without it. Plug's growth rate assumes that hydrogen demand will continue to rise as regulations tighten and subsidies persist. If either assumption breaks, the business could contract sharply.
 
-There is also an execution risk: Plug has historically struggled to achieve profitability. The company has grown rapidly but burns cash and has a history of one-time charges and write-downs. For a company betting on a future market, that is not immediately fatal — venture-backed companies operate at losses while building. But it means Plug cannot easily absorb a setback in hydrogen adoption or a shift in regulatory incentives.
+There is also an [execution risk](/execution-risk/): Plug has historically struggled to achieve profitability. The company has grown rapidly but burns cash and has a history of one-time charges and write-downs. For a company betting on a future market, that is not immediately fatal — venture-backed companies operate at losses while building. But it means Plug cannot easily absorb a setback in hydrogen adoption or a shift in regulatory incentives.
 
 ## How Plug shows up in the 10-K
 

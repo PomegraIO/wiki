@@ -59,7 +59,7 @@ Customer disputes are common in retail forex. A customer may claim that FBS fill
 
 FBS benefits from network effects to a limited degree; a platform with many active traders generates tighter spreads and better liquidity, which attracts more traders. But this advantage is weak; a trader does not particularly care if FBS has 10,000 or 100,000 other traders; the trader cares about spreads, commissions, and platform performance. FBS competes on price and platform quality, not on network effects.
 
-FBS likely also operates an affiliate program, where influencers, bloggers, and trading educators promote FBS in exchange for commissions on customer sign-ups. These affiliates drive customer acquisition and act as an outsourced sales force. However, affiliate channels can also drive low-quality customers (those likely to lose quickly) and create reputational risk if affiliates promote misleading trading advice.
+FBS likely also operates an affiliate program, where influencers, bloggers, and trading educators promote FBS in exchange for commissions on customer sign-ups. These affiliates drive customer acquisition and act as an outsourced sales force. However, affiliate channels can also drive low-quality customers (those likely to lose quickly) and create [reputational risk](/reputational-risk/) if affiliates promote misleading trading advice.
 
 ## Profitability Drivers and Sustainability
 

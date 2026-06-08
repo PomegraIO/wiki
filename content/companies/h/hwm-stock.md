@@ -45,7 +45,7 @@ The key to success in this business is not just materials knowledge, but manufac
 
 Howmet also manufactures fasteners — bolts, rivets, and fastening systems — for commercial and military aircraft. These components must be lightweight, strong, and corrosion-resistant. Many are made from titanium or specialized aluminum alloys. Howmet makes fasteners for airframes, wings, and fuselages, and also manufactures fastening systems for engines and other critical structures.
 
-Fasteners are a fragmented market where many suppliers compete, but Howmet's position is strong because the company has qualified products for most of the major aircraft and engine programs. Once an aircraft manufacturer or engine maker has certified a Howmet fastener for a particular application, switching suppliers is difficult and expensive.
+Fasteners are a [fragmented market](/fragmented-market/) where many suppliers compete, but Howmet's position is strong because the company has qualified products for most of the major aircraft and engine programs. Once an aircraft manufacturer or engine maker has certified a Howmet fastener for a particular application, switching suppliers is difficult and expensive.
 
 Howmet also manufactures structural forgings and castings for landing gear, engine mounts, and other critical structures. These are specialized, high-strength components that demand precision and reliability. Landing-gear components in particular are high-stressed and failure-intolerant — they must perform perfectly when an aircraft lands, often with significant load.
 

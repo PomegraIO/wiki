@@ -65,7 +65,7 @@ Manufacturing and commercialisation risk is often underestimated. Even if a ther
 
 Start with Jasper's investor presentations and press releases on its website for the most current information on clinical trials, partnerships, and capitalization. Because the company is early-stage and may not file regular SEC documents, clinical-trial databases such as ClinicalTrials.gov are essential — they list Jasper's ongoing studies, inclusion criteria, and expected completion dates.
 
-Watch clinical milestones closely: positive trial data, interim results, and regulatory interactions (IND applications, pre-BLA meetings with the FDA) are the events that drive valuation in this space. Track the company's capital position and any financing announcements; a well-funded company can execute a longer timeline, while one with declining cash presents execution risk.
+Watch clinical milestones closely: positive trial data, interim results, and regulatory interactions (IND applications, pre-BLA meetings with the FDA) are the events that drive valuation in this space. Track the company's capital position and any financing announcements; a well-funded company can execute a longer timeline, while one with declining cash presents [execution risk](/execution-risk/).
 
 Monitor the competitive landscape for similar cell-therapy programs and their progress. If a rival's program shows superior efficacy or a faster path to approval, it may reduce Jasper's competitive advantage. Conversely, clinical data from competitors can provide benchmarks for evaluating Jasper's own results.
 

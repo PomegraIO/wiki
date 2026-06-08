@@ -68,7 +68,7 @@ Newmont faces headwinds endemic to mining and cyclical commodity production.
 
 **Geopolitical risk** is real. Sovereignty disputes over minerals, currency controls, or expropriation are non-zero in some jurisdictions. Peru's mining sector has faced political tension; Ghana has had leadership transitions. Newmont's scale provides some protection (host governments want a major operator) but does not eliminate risk.
 
-**Integration execution** remains a factor. The Newcrest integration, completed in 2023–2024, involved combining operational systems, management, and culture. Missteps or cost overruns have occurred; execution risk lingers.
+**Integration execution** remains a factor. The Newcrest integration, completed in 2023–2024, involved combining operational systems, management, and culture. Missteps or cost overruns have occurred; [execution risk](/execution-risk/) lingers.
 
 **ESG and stakeholder opposition** to large mining operations is growing. Indigenous land claims, water concerns, and climate transition debates complicate permitting and operations in some regions.
 

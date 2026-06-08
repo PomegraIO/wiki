@@ -41,7 +41,7 @@ The government injected tens of billions of dollars into Fannie Mae to keep it s
 
 ## Reconstruction and the regulatory present: 2009–present
 
-Fannie Mae gradually stabilized, returned to profitability, and began repaying the government's rescue investment. But it never fully exited government control. The Federal Housing Finance Agency, created in 2008, now oversees Fannie Mae and sets its capital requirements, [dividends](/dividend/), and mission. The company remains in conservatorship nominally, though it operates as a profit-seeking company constrained by regulation.
+Fannie Mae gradually stabilized, returned to profitability, and began repaying the government's rescue investment. But it never fully exited government control. The [Federal Housing Finance Agency](/federal-housing-finance-agency/), created in 2008, now oversees Fannie Mae and sets its capital requirements, [dividends](/dividend/), and mission. The company remains in conservatorship nominally, though it operates as a profit-seeking company constrained by regulation.
 
 The experience of the crisis transformed how Fannie Mae operates. Capital requirements are far stricter; underwriting standards are considerably tighter than they were before the crisis; and the company is required to maintain far larger loss reserves. The affordable-housing mission remains in tension with the requirement to be profitable and well-capitalized, and that tension has only grown as regulators and policymakers debate what housing finance should look like post-crisis.
 

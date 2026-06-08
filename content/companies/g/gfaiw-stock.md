@@ -44,7 +44,7 @@ The company's moat rests on its existing client relationships, operational exper
 
 ## Financial and strategic risks
 
-Guardforce's historical reliance on labor-intensive services created a base of recurring revenue but with limited profitability and scalability. The transition to technology-based solutions requires sustained investment in R&D and carries execution risk — if the company's AI and surveillance technology does not deliver on promised performance or customer value, adoption will stall and the investment will not be recouped.
+Guardforce's historical reliance on labor-intensive services created a base of recurring revenue but with limited profitability and scalability. The transition to technology-based solutions requires sustained investment in R&D and carries [execution risk](/execution-risk/) — if the company's AI and surveillance technology does not deliver on promised performance or customer value, adoption will stall and the investment will not be recouped.
 
 The company also faces regulatory risk in China, where surveillance technologies are heavily regulated and subject to government oversight. Data privacy, the scope of automated decision-making, and integration with state security systems all have regulatory implications.
 

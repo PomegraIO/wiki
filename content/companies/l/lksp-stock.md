@@ -30,7 +30,7 @@ handwritten: true
 
 A SPAC is a publicly traded shell company — a legal entity with no operating business, no revenue, and no products. Instead, it is a collection of capital raised from the public markets with a single stated purpose: to find and acquire a real operating company within a defined time window (typically 18–24 months). The SPAC's founders and sponsors (often experienced business people or investment firms) commit to finding a target, negotiating a merger, and presenting the deal to shareholders for a vote. If the merger closes, the acquired company becomes the public entity and begins trading under a new ticker. If no deal closes within the window, the money is returned to investors.
 
-SPACs became popular as an alternative to traditional [initial public offerings](/initial-public-offering/) for companies seeking capital to grow. They move faster than IPOs, they provide price certainty (unlike IPO pricing negotiations), and they allow founders and early investors to take some capital off the table through sponsor shares. The downside is that SPAC sponsors are often paid through carried interest rather than fixed fees, creating potential misalignments between the sponsor and public shareholders.
+SPACs became popular as an alternative to traditional [initial public offerings](/initial-public-offering/) for companies seeking capital to grow. They move faster than IPOs, they provide price certainty (unlike IPO pricing negotiations), and they allow founders and early investors to take some capital off the table through sponsor shares. The downside is that SPAC sponsors are often paid through [carried interest](/carried-interest-compensation/) rather than fixed fees, creating potential misalignments between the sponsor and public shareholders.
 
 ## Lake Superior's structure and the Openmarkets deal
 
@@ -42,7 +42,7 @@ In January 2026, Lake Superior announced a definitive [Business Combination](/bu
 
 ## The mechanics of a SPAC merger
 
-When a SPAC announces a target, several things happen. The sponsor and the target negotiate the terms of the merger, including the valuation, the amount of cash the SPAC will contribute, and the equity stakes of the existing sponsors and target shareholders post-combination. The deal is announced publicly, and both the SPAC and the target begin regulatory filings and due diligence.
+When a SPAC announces a target, several things happen. The sponsor and the target negotiate the terms of the merger, including the valuation, the amount of cash the SPAC will contribute, and the equity stakes of the existing sponsors and target shareholders post-combination. The deal is announced publicly, and both the SPAC and the target begin regulatory filings and [due diligence](/due-diligence/).
 
 Crucially, public shareholders who invested in the original SPAC get a choice: they can vote to approve the merger and remain shareholders in the combined entity, or they can "redeem" their shares and take their money back from the trust account (plus any interest earned). The trust account is kept separate from the SPAC's operating funds specifically so that redemption money is always available. This redemption right is one of the SPAC's key selling points to retail investors — they have an exit if they dislike the proposed deal.
 
@@ -70,7 +70,7 @@ The Openmarkets deal, being announced after mid-2024, operates under the current
 
 ## How to track Lake Superior and the Openmarkets transaction
 
-Lake Superior's SEC filings (CIK 0002043508) show quarterly updates on the trust account balance, the deal timeline, and any material events. The most important document is the proxy statement or information statement filed ahead of the shareholder vote on the business combination — that document contains detailed financial information about Openmarkets, the deal terms, and the post-merger business plan.
+Lake Superior's SEC filings (CIK 0002043508) show quarterly updates on the trust account balance, the deal timeline, and any material events. The most important document is the [proxy statement](/proxy-statement/) or information statement filed ahead of the shareholder vote on the business combination — that document contains detailed financial information about Openmarkets, the deal terms, and the post-merger business plan.
 
 Watch for regulatory approvals in Australia, since Openmarkets is an Australian company and may require regulatory consent for the transaction. Monitor the redemption rate as the deal approaches closing — a high redemption rate signals shareholder skepticism and reduces the cash available to the combined company post-closing. Track the stock price versus the SPAC's nav ([net asset value](/net-asset-value/)), which represents the value of the cash held in trust plus any interest earned. If the stock trades well above nav, it signals confidence in the deal; below nav suggests concern.
 

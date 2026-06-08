@@ -20,7 +20,7 @@ Hi-Great's revenue is a function of long-term contracts with vehicle manufacture
 
 ## Manufacturing Footprint and Cost Structure
 
-Hi-Great operates manufacturing facilities in Asia. The company's cost of goods sold is dominated by direct labor and raw materials, primarily plastics and metals. Labor cost [inflation](/inflation/) in Asia, currency fluctuations (particularly if production is in Chinese yuan or [Indian rupees](/indian-rupee/) but contracts are in [U.S. dollars](/us-dollar/)), and raw material volatility are the principal cost drivers. The 10-K should disclose production capacity utilization, [depreciation](/depreciation/) (a proxy for capital intensity), and the breakdown of cost of sales by component. An analyst should examine whether the company has pricing power to pass through cost increases or whether it absorbs them as margin compression. If labor inflation outpaces pricing reductions, the business becomes less profitable over time.
+Hi-Great operates manufacturing facilities in Asia. The company's cost of goods sold is dominated by direct labor and raw materials, primarily plastics and metals. Labor cost [inflation](/inflation/) in Asia, currency fluctuations (particularly if production is in Chinese yuan or [Indian rupees](/indian-rupee/) but contracts are in [U.S. dollars](/us-dollar/)), and raw material volatility are the principal [cost drivers](/cost-driver/). The 10-K should disclose production capacity utilization, [depreciation](/depreciation/) (a proxy for capital intensity), and the breakdown of cost of sales by component. An analyst should examine whether the company has pricing power to pass through cost increases or whether it absorbs them as margin compression. If labor inflation outpaces pricing reductions, the business becomes less profitable over time.
 
 ## Volume Leverage and Cyclicality
 
@@ -32,7 +32,7 @@ Automotive trim and interior components are not commodity products. Customers va
 
 ## Customer Concentration and Blue-Chip Risk
 
-Most automotive suppliers serve three to five major OEMs. If a single customer represents more than 25 percent of revenue and the relationship deteriorates, the company's value can be halved. The 10-K will disclose customer concentrations in the revenue footnote. An analyst should assess the health of Hi-Great's largest customers: Are they profitable? Are they gaining or losing market share? Are they investing in new platforms that could require Hi-Great's components, or are they consolidating suppliers? A customer in financial distress or losing market share is a leading indicator of revenue risk for the supplier.
+Most automotive suppliers serve three to five major OEMs. If a single customer represents more than 25 percent of revenue and the relationship deteriorates, the company's value can be halved. The 10-K will disclose customer concentrations in the revenue footnote. An analyst should assess the health of Hi-Great's largest customers: Are they profitable? Are they gaining or losing market share? Are they investing in new platforms that could require Hi-Great's components, or are they consolidating suppliers? A customer in financial distress or losing market share is a [leading indicator](/leading-indicator/) of revenue risk for the supplier.
 
 ## Debt and Working Capital
 

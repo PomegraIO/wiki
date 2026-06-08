@@ -30,7 +30,7 @@ Triton's business is straightforward in concept but capital-intensive in practic
 
 > "Containers are fungible, essential infrastructure — the plumbing of global trade."
 
-The lease contracts are the revenue engine. A shipping line does not want to own millions of containers; owning and maintaining that fleet would be a distraction and a capital drag. By leasing instead, they shift the burden to specialist owners like Triton, who benefit from scale, purchasing power, and the expertise to manage a vast distributed fleet. For Triton, that dependency creates sticky, recurring revenue that does not depend on cargo volumes or shipping spot rates in the moment.
+The lease contracts are the revenue engine. A shipping line does not want to own millions of containers; owning and maintaining that fleet would be a distraction and a capital drag. By leasing instead, they shift the burden to specialist owners like Triton, who benefit from scale, purchasing power, and the expertise to manage a vast distributed fleet. For Triton, that dependency creates sticky, recurring revenue that does not depend on cargo volumes or shipping [spot rates](/spot-rate/) in the moment.
 
 ## Scale as a strategic advantage
 
@@ -44,7 +44,7 @@ The business also benefits from consolidation: the container-leasing industry ha
 
 The defining constraint of the container business is that it is capital-intensive and growth is expensive. To expand the fleet, Triton must continuously invest in new containers — not once, but year after year. Containers depreciate, wear, and require replacement. Customers demand more capacity. Triton's capital expenditure is enormous relative to annual revenue, which means the company must rely on external financing (debt or equity) to fund growth.
 
-This exposes Triton to [interest-rate risk](/interest-rate-risk/). Container leasing is a fixed-income business in substance — customers sign long-term leases at agreed rates, typically in the 5–8% range (though rates fluctuate with market conditions and credit cycles). If Triton's [cost of debt](/cost-of-debt/) rises sharply, the gap between what the company earns on leases and what it pays to finance the containers shrinks. Periods of rising rates and tight credit hurt the business model.
+This exposes Triton to [interest-rate risk](/interest-rate-risk/). Container leasing is a fixed-income business in substance — customers sign long-term leases at agreed rates, typically in the 5–8% range (though rates fluctuate with market conditions and [credit cycles](/credit-cycle/)). If Triton's [cost of debt](/cost-of-debt/) rises sharply, the gap between what the company earns on leases and what it pays to finance the containers shrinks. Periods of rising rates and tight credit hurt the business model.
 
 Utilization is a second driver of earnings. Triton's fleet generates revenue only when containers are on lease. Unused containers sitting in a depot earn nothing while still costing money to maintain. Industry-wide downturns — [recessions](/recession/), trade disruptions, or shipping-market collapse — can leave Triton with high vacancy and poor cash generation.
 

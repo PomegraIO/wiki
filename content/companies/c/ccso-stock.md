@@ -38,7 +38,7 @@ This is not charity—CCSO buys stocks expecting financial returns—but it does
 
 ## The real risks
 
-Climate investing looks clean, but it carries real dangers. First: execution risk. A company with great climate technology and an inspired founder can still fail. A battery maker might run out of cash. A wind turbine company might face supply shocks or lose government contracts. An electric vehicle maker might lose a price war to a competitor with deeper pockets. Good intentions do not guarantee survival.
+Climate investing looks clean, but it carries real dangers. First: [execution risk](/execution-risk/). A company with great climate technology and an inspired founder can still fail. A battery maker might run out of cash. A wind turbine company might face supply shocks or lose government contracts. An electric vehicle maker might lose a price war to a competitor with deeper pockets. Good intentions do not guarantee survival.
 
 Second: policy risk. Many climate solutions depend on government support—tax credits, subsidies, regulations favoring renewables, carbon prices. If a new government cuts climate spending or reverses environmental rules, many of these companies struggle. A change in political leadership can reshape the entire landscape.
 

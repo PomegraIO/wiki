@@ -43,7 +43,7 @@ Without public financial detail, the path to profitability typically requires vo
 
 ## Risk and reality
 
-This is a high-uncertainty business. Ainnova operates in a heavily regulated sector where even superior technology cannot reach patients without clinical validation, regulatory approval (FDA clearance or equivalents in other markets), and demonstrated cost-benefit to healthcare providers. The company is small and therefore exposed to execution risk, funding needs, and the possibility that competitors or better-capitalized entrants could outpace it.
+This is a high-uncertainty business. Ainnova operates in a heavily regulated sector where even superior technology cannot reach patients without clinical validation, regulatory approval (FDA clearance or equivalents in other markets), and demonstrated cost-benefit to healthcare providers. The company is small and therefore exposed to [execution risk](/execution-risk/), funding needs, and the possibility that competitors or better-capitalized entrants could outpace it.
 
 The retinal imaging niche is also limited. Unlike a broad diagnostic AI (which could serve many organs and diseases), Ainnova is concentrated in a single imaging type. This focus is both its specificity and its constraint — depth in one area, but limited optionality if that area does not grow or if the competitive dynamics shift.
 

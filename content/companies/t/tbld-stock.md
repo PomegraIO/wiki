@@ -26,7 +26,7 @@ The trust's ability to access leverage depends on its [credit rating](/credit-ra
 
 ## Portfolio evolution and market cycles
 
-Over its history, the trust has navigated multiple market cycles and has adjusted its portfolio strategy in response. In the years leading up to the 2008 financial crisis, many closed-end [income funds](/income-fund/) tilted heavily toward complex mortgage-backed and structured credit securities, taking on risk that seemed manageable at the time but proved otherwise. The crisis exposed the vulnerability of these portfolios, and many funds suffered sharp NAV declines.
+Over its history, the trust has navigated multiple [market cycles](/market-cycle/) and has adjusted its portfolio strategy in response. In the years leading up to the 2008 financial crisis, many closed-end [income funds](/income-fund/) tilted heavily toward complex mortgage-backed and structured credit securities, taking on risk that seemed manageable at the time but proved otherwise. The crisis exposed the vulnerability of these portfolios, and many funds suffered sharp NAV declines.
 
 In the post-crisis environment, income funds shifted strategy toward higher-quality fixed-income assets, dividend-paying stocks, and emerging-market debt. Thornburg Income Builder Opportunities Trust, like its peers, had to address legacy holdings and recalibrate portfolio composition to balance yield with risk.
 
@@ -58,7 +58,7 @@ The premium or discount is partly a function of investor sentiment and partly a 
 
 Thornburg Income Builder Opportunities Trust has survived and adapted through multiple market cycles, which speaks to the resilience of its strategy and management. The trust continues to be a vehicle for income-focused investors, though the historical period from 2022 onward—marked by rising interest rates—has challenged all income funds. Rising rates pressure both NAV and the sustainability of distributions, as the cost of leverage rises and the portfolio's assets decline in value.
 
-The trust's future will depend on whether management can navigate the next phase of the interest-rate and credit cycle, whether it maintains shareholder confidence in its distributions, and whether closed-end income funds remain attractive to investors relative to alternatives.
+The trust's future will depend on whether management can navigate the next phase of the interest-rate and [credit cycle](/credit-cycle/), whether it maintains shareholder confidence in its distributions, and whether closed-end income funds remain attractive to investors relative to alternatives.
 
 ## How to research Thornburg Income Builder Opportunities Trust
 

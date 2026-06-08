@@ -11,7 +11,7 @@ keywords:
   - peco-energy
 ---
 
-*KTH (Structured Products Corp Corts Tr for Peco Energy Cap Tr III) represents a niche corner of equity markets where trust structures wrap bond-linked derivatives. The underlying asset is a claim on Peco Energy's capital appreciation rights—a bet on whether the energy company's enterprise value grows above a strike level. KTH trades as equity but its value derives from a fixed-income instrument, making it a hybrid security that requires careful legal and financial unpacking.*
+*KTH ([Structured Products](/structured-product/) Corp Corts Tr for Peco Energy Cap Tr III) represents a niche corner of equity markets where trust structures wrap bond-linked derivatives. The underlying asset is a claim on Peco Energy's capital appreciation rights—a bet on whether the energy company's enterprise value grows above a strike level. KTH trades as equity but its value derives from a fixed-income instrument, making it a hybrid security that requires careful legal and financial unpacking.*
 
 <aside class="wiki-infobox">
 <table>

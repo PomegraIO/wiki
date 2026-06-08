@@ -73,7 +73,7 @@ The risks are equally clear: a prolonged period of high [interest rates](/intere
 
 For investors studying Brookfield Infrastructure, understanding the company's track record of capital allocation is crucial. Has the company been disciplined in acquiring assets, or has it overpaid in competitive auctions? How are the distributions to unitholders trending relative to underlying cash flow growth? Is the company reinvesting adequately to maintain its assets?
 
-Also watch the geographic [diversification](/diversification/). Brookfield's exposure to emerging markets offers growth but also political risk. Exposure to regulated utilities offers stability but lower returns. The balance the company strikes between these two determines the risk and return profile of the partnership.
+Also watch the geographic [diversification](/diversification/). Brookfield's exposure to emerging markets offers growth but also [political risk](/political-risk/). Exposure to regulated utilities offers stability but lower returns. The balance the company strikes between these two determines the risk and return profile of the partnership.
 
 Finally, track Brookfield's broader strategic intentions. Is the parent company committed to the infrastructure partnership as a permanent capital destination, or is it considering restructuring or simplification? Changes in that stance can create opportunities or risks for unitholders.
 

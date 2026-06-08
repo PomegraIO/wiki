@@ -62,13 +62,13 @@ When leveraged products emerged, they were the domain of professional traders wi
 
 NIOG is for experienced traders with a specific, short-term directional view on NIO and the conviction to execute within days or a few weeks. A trader who believes an upcoming NIO earnings announcement will be positive and wants to amplify the upside can initiate a NIOG position for the two weeks leading to the news.
 
-NIOG is unsuitable for anyone planning to hold longer than a month, for passive investors, for retirement accounts, and for anyone unfamiliar with leverage and volatility decay. It is also unsuitable for investors who lack conviction about NIO's near-term direction; the leverage amplifies both gains and losses, making position sizing critical.
+NIOG is unsuitable for anyone planning to hold longer than a month, for passive investors, for retirement accounts, and for anyone unfamiliar with leverage and volatility decay. It is also unsuitable for investors who lack conviction about NIO's near-term direction; the leverage amplifies both gains and losses, making [position sizing](/position-sizing/) critical.
 
 ## Risks and real outcomes
 
 [Counterparty risk](/counterparty-risk/) is present: if the derivatives provider faces financial stress, the fund's ability to rebalance could be impaired. [Liquidity risk](/liquidity-risk/) is real; NIOG's volume may be thin, and [bid-ask spreads](/bid-ask-spread/) wide. [Concentration risk](/concentration-risk/) is acute; it is a bet on a single company, with no [diversification](/diversification/).
 
-The behavioral risk is perhaps the most common. An investor buys NIOG expecting 2X returns over a month and finds that volatility has eroded the position despite NIO moving in the intended direction. Frustration and misunderstanding often lead to losses.
+The [behavioral risk](/behavioral-risk/) is perhaps the most common. An investor buys NIOG expecting 2X returns over a month and finds that volatility has eroded the position despite NIO moving in the intended direction. Frustration and misunderstanding often lead to losses.
 
 ## How to approach NIOG
 

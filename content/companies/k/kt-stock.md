@@ -67,7 +67,7 @@ KT files with the SEC as a foreign private issuer under the 1934 Exchange Act, a
 
 Look closely at the mobile versus fixed-line revenue split and the trends in each. Mobile is large but fading; fixed-line is stable but mature; enterprise services is growing but from a smaller base. A reader should ask: Is KT successfully shifting the business mix toward higher-margin services, or is it caught in a slow-motion decline in its core market?
 
-Watch the Korean Won / [US Dollar](/us-dollar/) exchange rate if you are a foreign investor. KT earns much of its cash in Won; large currency swings can impact reported results for US investors.
+Watch the [Korean Won](/korean-won/) / [US Dollar](/us-dollar/) exchange rate if you are a foreign investor. KT earns much of its cash in Won; large currency swings can impact reported results for US investors.
 
 Pay attention to competitive pricing announcements from KT and its rivals. Telecom is extremely transparent (all three carriers publish rates openly). If price competition is intensifying, margins are under pressure. Conversely, if carriers find pricing discipline, profitability can improve.
 

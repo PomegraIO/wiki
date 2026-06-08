@@ -29,7 +29,7 @@ This is the payoff of the BulletShares structure. A traditional corporate bond f
 
 ## Costs and liquidity
 
-BSCS charges an [expense ratio](/expense-ratio/) of approximately 0.40 percent annually, covering management and operational costs. That is reasonable for an actively managed bond fund. The fund trades on the NYSE Arca exchange with tight spreads, typically a few basis points between bid and ask, meaning it is liquid enough for retail investors to enter and exit without significant slippage.
+BSCS charges an [expense ratio](/expense-ratio/) of approximately 0.40 percent annually, covering management and operational costs. That is reasonable for an actively managed bond fund. The fund trades on the [NYSE Arca](/nyse-arca/) exchange with tight spreads, typically a few basis points between bid and ask, meaning it is liquid enough for retail investors to enter and exit without significant slippage.
 
 The net asset value per share decays as the fund ages and bonds mature, so the price you see on your brokerage screen will be different from the first day you bought it — that is expected and not a problem. The fund's goal is to hold value, not to appreciate.
 

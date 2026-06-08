@@ -45,7 +45,7 @@ Ballard's competitive moat includes patent portfolios covering fuel-cell design 
 
 ## Research Path
 
-Read Ballard's 10-K for detail on product roadmaps, customer concentration, R&D spending, and the path to gross-margin improvement. Monitor quarterly earnings calls for customer win announcements and commentary on hydrogen infrastructure developments. Track industry reports on hydrogen transitions in jurisdictions where Ballard operates (Canada, Europe, Asia) and on competing fuel-cell technologies. Pay attention to OEM commitment announcements and hydrogen-vehicle deployment milestones as leading indicators.
+Read Ballard's 10-K for detail on product roadmaps, customer concentration, R&D spending, and the path to gross-margin improvement. Monitor quarterly earnings calls for customer win announcements and commentary on hydrogen infrastructure developments. Track industry reports on hydrogen transitions in jurisdictions where Ballard operates (Canada, Europe, Asia) and on competing fuel-cell technologies. Pay attention to OEM commitment announcements and hydrogen-vehicle deployment milestones as [leading indicators](/leading-indicator/).
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>

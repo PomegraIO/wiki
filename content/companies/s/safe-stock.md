@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Safehold was founded in 2017 as a specialized real estate investment trust focused on a single, unglamorous idea: buying the land beneath buildings and leasing it to the operators who own and develop the structures above. The company trades on the [New York Stock Exchange](/new-york-stock-exchange/) under SAFE and has grown into one of the largest originators of ground leases in the United States by volume. Its model capitalizes on a structural gap in real estate finance—property owners who want to preserve capital and reduce their balance-sheet footprint, and lenders and financial sponsors who see ground leases as a reliable income stream backed by essential real estate collateral.
+Safehold was founded in 2017 as a specialized real estate investment trust focused on a single, unglamorous idea: buying the land beneath buildings and leasing it to the operators who own and develop the structures above. The company trades on the [New York Stock Exchange](/new-york-stock-exchange/) under SAFE and has grown into one of the largest originators of [ground leases](/ground-lease/) in the United States by volume. Its model capitalizes on a structural gap in real estate finance—property owners who want to preserve capital and reduce their balance-sheet footprint, and lenders and financial sponsors who see ground leases as a reliable income stream backed by essential real estate collateral.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,7 +39,7 @@ Safehold's revenue is predictable and recurring—ground-lease payments arrive m
 
 ## Upstream and downstream
 
-Safehold's position in the real estate supply chain is distinctive. Upstream, the company depends on capital markets that value long-duration, low-risk income streams. Institutional investors (pension funds, insurance companies, endowments, foreign sovereign wealth funds) are the natural buyers for Safehold shares; they seek steady cash distributions and see real estate as a diversifier. Safehold's ability to raise capital at low costs is essential—ground leases are fundamentally loans secured by real property, and the company's cost of capital determines its ability to underwrite leases competitively.
+Safehold's position in the real estate supply chain is distinctive. Upstream, the company depends on capital markets that value long-duration, low-risk income streams. Institutional investors (pension funds, insurance companies, endowments, foreign [sovereign wealth funds](/sovereign-wealth-fund/)) are the natural buyers for Safehold shares; they seek steady cash distributions and see real estate as a diversifier. Safehold's ability to raise capital at low costs is essential—ground leases are fundamentally loans secured by real property, and the company's cost of capital determines its ability to underwrite leases competitively.
 
 Downstream, Safehold serves a broad constituency of real estate operators: developers who need to conserve capital, owner-occupiers who want to delever, and financial sponsors (private equity firms, family offices) who can purchase a property and immediately lease the ground back, freeing up capital for deployment elsewhere. The company also works with lenders and structured-finance firms who see ground leases as portfolio collateral.
 
@@ -55,7 +55,7 @@ The primary risk to Safehold's model is credit stress among ground-lease tenants
 
 A second pressure is rising [interest rates](/interest-rate/) and cost of capital. Safehold's ability to originate new leases profitably depends on being able to fund them at rates lower than the ground-lease yield it earns. If Safehold's cost of capital rises sharply, it may have to reduce origination activity or raise ground-lease rents to stay competitive, which could price out potential lessees.
 
-The long duration of ground leases also creates interest-rate sensitivity. Safehold's economic value is sensitive to [discount rates](/discount-rate/); if real risk-free rates rise substantially, the present value of far-out lease payments falls. Conversely, in a low-rate environment, long-duration assets appreciate.
+The long duration of ground leases also creates interest-rate sensitivity. Safehold's economic value is sensitive to [discount rates](/discount-rate/); if real [risk-free rates](/risk-free-rate/) rise substantially, the present value of far-out lease payments falls. Conversely, in a low-rate environment, long-duration assets appreciate.
 
 Geographic and property-type concentration is a third consideration. Safehold's portfolio is concentrated in certain metropolitan areas and certain real estate sectors. A regional downturn in a major market or a shift in demand for a property type (such as pressure on office real estate from remote work) could expose pockets of weakness in the portfolio.
 

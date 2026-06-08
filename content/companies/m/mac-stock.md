@@ -16,7 +16,7 @@ The Macerich Company is one of the largest shopping mall REITs in the United Sta
 
 Macerich operates about 50 properties, anchored by a mix of department stores (Macy's, Nordstrom), lifestyle brands, and specialty retailers. The company's portfolio is neither a collection of commodity malls nor a pure discount outlet operator—it sits in the middle, managing properties that generate solid sales-per-square-foot and attract the retail tenants that other landlords struggle to book. Properties like South Coast Plaza in Orange County, Fashion Outlets in Las Vegas, and properties in Arizona and Florida are flagship assets with resilient consumer bases and limited direct competition.
 
-The typical Macerich property is a regional enclosed mall or outdoor lifestyle center with strong anchor department stores, national retailers, and regional tenants. These are not the ghost malls you see in Rust Belt videos; they're located in markets with high real estate values, population growth, or both. Rental income comes from base rent plus percentage leases (additional rent based on tenant sales), which ties the REIT's fortunes to retailer performance but also aligns incentives.
+The typical Macerich property is a regional enclosed mall or outdoor lifestyle center with strong anchor department stores, national retailers, and regional tenants. These are not the ghost malls you see in Rust Belt videos; they're located in markets with high real estate values, population growth, or both. Rental income comes from base rent plus [percentage leases](/percentage-lease/) (additional rent based on tenant sales), which ties the REIT's fortunes to retailer performance but also aligns incentives.
 
 ## The Revenue Model
 
@@ -42,6 +42,6 @@ The secular shift in consumer spending—toward experiences, services, and onlin
 
 ## Researching Macerich
 
-Start with the company's [10-K](/wiki/10-k/) filing, filed annually with the SEC. Key metrics to track are occupancy rate, same-store [net operating income](/net-operating-income/) (NOI), funds from operations (FFO) per share, debt-to-EBITDA, and [dividend payout ratios](/dividend-payout-ratio/). Management commentary on anchor tenant activity, tenant sales, and capital allocation strategy reveals conviction about the portfolio and the business.
+Start with the company's [10-K](/wiki/10-k/) filing, filed annually with the SEC. Key metrics to track are occupancy rate, same-store [net operating income](/net-operating-income/) (NOI), [funds from operations](/funds-from-operations/) (FFO) per share, debt-to-EBITDA, and [dividend payout ratios](/dividend-payout-ratio/). Management commentary on anchor tenant activity, tenant sales, and capital allocation strategy reveals conviction about the portfolio and the business.
 
 Compare Macerich's metrics to Simon Property Group and other mall REITs to assess competitive position. Look for news on anchor store openings or closures, major tenant turnovers, and property redevelopment initiatives—these signal where management sees opportunity. Monitor real estate industry publications and earnings calls for insight into traffic trends, tenant demand, and the company's ability to push rents and maintain occupancy in a competitive environment.

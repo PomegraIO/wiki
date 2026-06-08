@@ -26,7 +26,7 @@ handwritten: true
 </table>
 </aside>
 
-Paycom's story is one of deliberate, vertical integration in a fragmented market. The company built its entire payroll and HR platform from the ground up, rather than cobbling together best-of-breed tools from separate vendors. That choice shaped everything about how Paycom operates: it owns the entire code stack, controls the customer experience end to end, and can ensure every feature works seamlessly with every other feature.
+Paycom's story is one of deliberate, vertical integration in a [fragmented market](/fragmented-market/). The company built its entire payroll and HR platform from the ground up, rather than cobbling together best-of-breed tools from separate vendors. That choice shaped everything about how Paycom operates: it owns the entire code stack, controls the customer experience end to end, and can ensure every feature works seamlessly with every other feature.
 
 For most of its first decade, Paycom was a regional player, selling primarily to businesses in the central United States. The company then expanded nationally, building a large direct sales force to sell to mid-market companies — businesses typically with a few hundred to a few thousand employees. These are organizations large enough that they need serious HR infrastructure but not so massive that they have already committed to entrenched legacy systems or have dedicated IT teams to build custom solutions. They are willing to license software if it is well-designed, reliable, and saves them money versus handling payroll and HR manually or through expensive consultants.
 

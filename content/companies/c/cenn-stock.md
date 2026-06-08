@@ -37,7 +37,7 @@ Readers researching Cenntro should consult its [10-k](/10-k/) annual reports fil
 
 ## Secular Tailwinds and Contingencies
 
-Cenntro benefits from structural trends: tightening emissions regulations in major cities, rising fuel costs, and fleet owners' appetite for lower operating costs. These tailwinds are durable. The company's specific vulnerability is execution risk. Scaling automotive manufacturing requires precision supply-chain management, quality control, and capital discipline. A single large warranty issue, a failed customer relationship, or production delays can erode the small margin of profitability that early-stage manufacturers target. Additionally, as legacy automakers invest in commercial EV platforms and Chinese competitors push into Western markets, Cenntro's window to establish brand loyalty and scale may narrow.
+Cenntro benefits from structural trends: tightening emissions regulations in major cities, rising fuel costs, and fleet owners' appetite for lower operating costs. These tailwinds are durable. The company's specific vulnerability is [execution risk](/execution-risk/). Scaling automotive manufacturing requires precision supply-chain management, quality control, and capital discipline. A single large warranty issue, a failed customer relationship, or production delays can erode the small margin of profitability that early-stage manufacturers target. Additionally, as legacy automakers invest in commercial EV platforms and Chinese competitors push into Western markets, Cenntro's window to establish brand loyalty and scale may narrow.
 
 <div class="wiki-seealso">
 ### Closely related

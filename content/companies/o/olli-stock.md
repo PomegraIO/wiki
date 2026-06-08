@@ -61,7 +61,7 @@ The unpredictability also affects Ollie's operations. Merchandise assortment is 
 
 ## Competition and the recession risk
 
-Ollie's competes with other off-price retailers (Marshalls, T.J. Maxx, Ross), deep-discount chains like [Walmart](/wmt-stock/) and [Five Below](/five-stock/), and online marketplaces like Amazon where bargain-hunting also happens. It is a fragmented market, and off-price retail has been growing steadily.
+Ollie's competes with other off-price retailers (Marshalls, T.J. Maxx, Ross), deep-discount chains like [Walmart](/wmt-stock/) and [Five Below](/five-stock/), and online marketplaces like Amazon where bargain-hunting also happens. It is a [fragmented market](/fragmented-market/), and off-price retail has been growing steadily.
 
 The biggest risk Ollie's faces is a [recession](/recession/). When consumers have less money, they buy even less at regular prices and hunt harder for deals. That sounds good for Ollie's, but it is actually dangerous in two ways. First, if other retailers are selling less, there is less overstock and less merchandise for Ollie's to buy — the supply of deals dries up. Second, if a consumer has less to spend, they might buy something from Ollie's instead of a regular retailer, but the overall purchase volume is lower. Ollie's grew during and after the pandemic partly because consumers had stimulus money and the novelty of shopping in a real store was attractive again. If consumer spending turns down sharply, Ollie's could face headwinds.
 

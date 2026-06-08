@@ -49,7 +49,7 @@ Emerging markets as a category have delivered strong long-term returns over many
 
 The risk is that the factors do not persist in all markets or time periods. Emerging-market value stocks can remain cheap for years if sentiment sours on the region. Momentum, by its nature, is a recent-returns-based phenomenon; a momentum score offers no protection against crashes when sentiment reverses. In a major emerging-market sell-off, both value and momentum can amplify losses.
 
-Currency movements also matter. UEVM's holdings are quoted in local currencies — [Indian rupees](/indian-rupee/), Chinese yuan, Brazilian real — and the ETF's dollar performance depends partly on whether those currencies strengthen or weaken. An emerging-market stock rally offset by currency [depreciation](/depreciation/) may leave a US-dollar investor flat.
+Currency movements also matter. UEVM's holdings are quoted in local currencies — [Indian rupees](/indian-rupee/), Chinese yuan, [Brazilian real](/brazilian-real/) — and the ETF's dollar performance depends partly on whether those currencies strengthen or weaken. An emerging-market stock rally offset by currency [depreciation](/depreciation/) may leave a US-dollar investor flat.
 
 ## Costs and liquidity
 

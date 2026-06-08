@@ -29,7 +29,7 @@ The business model is asset-light. Perion does not own the web properties that g
 
 Perion's path to its current shape involved multiple [acquisitions](/acquisition/) and [business combinations](/business-combination-purchase/). The company formed through a [merger](/merger/) in 2010 between Perion Networks (an Israeli company) and Convertro, a digital marketing analytics firm. It then acquired Publitics and other smaller ad-tech businesses, gradually assembling a broader advertising technology platform. In more recent years, Perion has expanded into areas like browser monetization and contextual advertising, betting that alternatives to cookie-based tracking would become important as privacy regulations tightened.
 
-This history of acquisitions is both a strength and a risk. Acquisitions allowed Perion to enter new advertising categories and product lines quickly, bringing in customer bases and engineering talent. But each acquisition carries execution risk — integrating teams, reconciling cultures, and realizing the promised synergies is hard. Overpaying for an acquisition or integrating it poorly can destroy shareholder value.
+This history of acquisitions is both a strength and a risk. Acquisitions allowed Perion to enter new advertising categories and product lines quickly, bringing in customer bases and engineering talent. But each acquisition carries [execution risk](/execution-risk/) — integrating teams, reconciling cultures, and realizing the promised synergies is hard. Overpaying for an acquisition or integrating it poorly can destroy shareholder value.
 
 ## Competitive and regulatory headwinds
 

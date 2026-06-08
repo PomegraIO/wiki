@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **BufferLABS US Equity Dynamic Buffer ETF** (ticker BFLB) is an exchange-traded fund that tracks the performance of U.S. equities while employing a cushioning mechanism designed to absorb market declines within a predetermined range. Rather than tracking an index directly, BFLB uses a proprietary buffer structure that aims to limit losses to a specified percentage over annual periods, making it suitable for investors seeking equity exposure with downside guardrails.*
+*The **BufferLABS US Equity Dynamic [Buffer ETF](/buffer-etf/)** (ticker BFLB) is an exchange-traded fund that tracks the performance of U.S. equities while employing a cushioning mechanism designed to absorb market declines within a predetermined range. Rather than tracking an index directly, BFLB uses a proprietary buffer structure that aims to limit losses to a specified percentage over annual periods, making it suitable for investors seeking equity exposure with downside guardrails.*
 
 <aside class="wiki-infobox">
 <table>
@@ -37,7 +37,7 @@ Liquidity depends on the fund's asset base and trading volume. Newer or smaller 
 
 ## Who this is for, and real limitations
 
-Buffer ETFs appeal most to investors who fear large drawdowns but do not want to abandon equities entirely. A retiree drawing from a portfolio might use a buffer fund for the core equity allocation, knowing that a bad year remains bounded. An investor who sold equity positions at a peak and wants re-entry without fear of an immediate reversal might also find the structure compelling.
+Buffer ETFs appeal most to investors who fear large drawdowns but do not want to abandon equities entirely. A retiree drawing from a portfolio might use a [buffer fund](/buffer-fund/) for the core equity allocation, knowing that a bad year remains bounded. An investor who sold equity positions at a peak and wants re-entry without fear of an immediate reversal might also find the structure compelling.
 
 The practical limits are important. The buffer resets annually, meaning a fund can decline sharply in months ten or eleven of a buffer period; the reset to the next period's protection does not help past losses. The buffer typically allows some loss (such as ten percent) — it is not zero-risk insurance. And because the buffer level is fixed regardless of market conditions, an investor gets less protection in rare tail-risk scenarios when the market declines far beyond the buffer threshold.
 

@@ -35,7 +35,7 @@ Bioceres' geography gives it a strategic advantage here: the company understands
 
 ## Currency and emerging-market exposure
 
-Much of Bioceres' revenue likely comes from Argentina, Brazil, Paraguay, and Uruguay—all emerging markets with currencies that can depreciate sharply. If Bioceres earns revenue in Argentine pesos, Brazilian reals, or other local currencies, and must report earnings in [US dollars](/us-dollar/), currency movements directly affect reported [earnings-per-share](/earnings-per-share/). A severe currency depreciation in Argentina (as happened in 2018–2019 and again in 2023–2024) can halve a company's reported dollar earnings even if underlying agronomic and commercial performance is unchanged.
+Much of Bioceres' revenue likely comes from Argentina, Brazil, Paraguay, and Uruguay—all emerging markets with currencies that can depreciate sharply. If Bioceres earns revenue in Argentine pesos, [Brazilian reals](/brazilian-real/), or other local currencies, and must report earnings in [US dollars](/us-dollar/), currency movements directly affect reported [earnings-per-share](/earnings-per-share/). A severe [currency depreciation](/currency-depreciation/) in Argentina (as happened in 2018–2019 and again in 2023–2024) can halve a company's reported dollar earnings even if underlying agronomic and commercial performance is unchanged.
 
 This [currency risk](/currency-risk/) is inherent to Bioceres' geographic positioning. The company can hedge some currency exposure, but hedging is costly and imperfect. Investors must understand that Bioceres' earnings volatility partly reflects macro volatility in emerging markets, not just agricultural or competitive factors.
 

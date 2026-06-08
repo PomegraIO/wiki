@@ -25,7 +25,7 @@ The screening methodology is entirely systematic and rules-based. There is no po
 
 ## What are the holdings and how do they change?
 
-DVLU typically holds 100 to 200 U.S. large and mid-cap stocks, far fewer than a total-market index but still a reasonably diversified portfolio. The holdings rotate regularly as stocks cross the selection thresholds, so turnover can be moderate to high. High turnover matters for tax efficiency — in taxable brokerage accounts, frequent rebalancing can create capital gains distributions. The fact sheet shows the current portfolio composition and the turnover rate.
+DVLU typically holds 100 to 200 U.S. large and mid-cap stocks, far fewer than a total-market index but still a reasonably diversified portfolio. The holdings rotate regularly as stocks cross the selection thresholds, so turnover can be moderate to high. High turnover matters for tax efficiency — in taxable brokerage accounts, frequent rebalancing can create [capital gains distributions](/capital-gains-distribution/). The fact sheet shows the current portfolio composition and the turnover rate.
 
 ## How much volatility and cost should an investor expect?
 
@@ -35,7 +35,7 @@ The [expense ratio](/expense-ratio/) is moderate, higher than that of a simple m
 
 The fundamental risk is that the factor combination is a bet on a specific market regime. For years after 2015, a growth-stock [bull market](/bull-market/) meant value-based strategies severely underperformed. Adding momentum did not solve the problem — momentum in a growth-stock market led in the same places where value lagged. Investors who bought DVLU near the peak of that growth cycle and held through the subsequent value drought experienced multi-year underperformance. The factor screens cannot adapt to regime shifts.
 
-A second risk is concentration. Because the selection criteria are tight, DVLU is narrower than the total market. If the screened cohort underperforms as a group, the fund has no [diversification](/diversification/) escape hatch. Factor-based funds work best for investors who can tolerate periods of underperformance and who are willing to hold through full market cycles to capture the long-term edge, if one exists.
+A second risk is concentration. Because the selection criteria are tight, DVLU is narrower than the total market. If the screened cohort underperforms as a group, the fund has no [diversification](/diversification/) escape hatch. Factor-based funds work best for investors who can tolerate periods of underperformance and who are willing to hold through full [market cycles](/market-cycle/) to capture the long-term edge, if one exists.
 
 ## How would a reader evaluate whether DVLU is right?
 

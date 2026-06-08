@@ -69,7 +69,7 @@ This is both a weakness and a strength. A weakness because it means GCI Liberty 
 
 ## Valuation and Holder Expectations
 
-GCI Liberty's [stock](/stock/) price will likely track broadcast valuations—which have compressed significantly—plus some modest premium for communications assets. Investors should not expect significant multiple expansion unless GCI Liberty demonstrates sustainable non-broadcast growth or successfully executes a major strategic pivot. More likely, the stock generates returns via [dividends](/dividend/) and buybacks funded by declining but still-positive cash flow, combined with potential price appreciation if the company acquires assets or is acquired by a larger media platform seeking broadcast credentials.
+GCI Liberty's [stock](/stock/) price will likely track broadcast valuations—which have compressed significantly—plus some modest premium for communications assets. Investors should not expect significant [multiple expansion](/multiple-expansion/) unless GCI Liberty demonstrates sustainable non-broadcast growth or successfully executes a major strategic pivot. More likely, the stock generates returns via [dividends](/dividend/) and buybacks funded by declining but still-positive cash flow, combined with potential price appreciation if the company acquires assets or is acquired by a larger media platform seeking broadcast credentials.
 
 ## Research Framework
 

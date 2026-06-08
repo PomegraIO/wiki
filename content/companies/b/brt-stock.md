@@ -25,7 +25,7 @@ Like all [real-estate-investment-trust](/real-estate-investment-trust/)s, BRT fu
 
 ## Resident Turnover and Operational Fragility
 
-Apartment collection is a high-turnover business: typical annual resident turnover runs 30–50%, meaning lease ups and resets drive constant revenue volatility. Residents in secondary markets, less anchored to premium location or brand loyalty, churn more readily when rent rises or local conditions sour. Vacancy rates therefore merit close attention — a rise from 7% to 9% occupancy across the portfolio translates to a sudden 3% revenue shortfall. BRT's ability to pass through rent increases depends on wage growth in its regions. When it stalls, the company faces a choice: sacrifice occupancy or absorb margin erosion.
+Apartment collection is a high-turnover business: typical annual resident turnover runs 30–50%, meaning lease ups and resets drive constant revenue volatility. Residents in secondary markets, less anchored to premium location or brand loyalty, churn more readily when rent rises or local conditions sour. [Vacancy rates](/vacancy-rate-property/) therefore merit close attention — a rise from 7% to 9% occupancy across the portfolio translates to a sudden 3% revenue shortfall. BRT's ability to pass through rent increases depends on wage growth in its regions. When it stalls, the company faces a choice: sacrifice occupancy or absorb margin erosion.
 
 ## Capital Expenditure and Maintenance Unpredictability
 

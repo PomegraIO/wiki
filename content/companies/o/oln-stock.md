@@ -47,7 +47,7 @@ Olin acquired most of its epoxy assets through the 2004 purchase of Momentive Sp
 
 The Winchester brand is iconic in North American ammunition. Olin acquired Winchester in 1981 when it bought the Western Cartridge Company, and it has run the brand continuously since. Winchester ammunition is sold to hunters, sport shooters, law enforcement, and the military. The brand carries pricing power because of its reputation for quality and reliability—hunters and security services prefer Winchester rounds because they are dependable—but the market is mature and sensitive to hunting season, firearm sales cycles, and ammunition availability.
 
-In recent years Winchester has been a profit generator for Olin, particularly when ammunition demand spiked during the firearms boom of the late 2010s and early 2020s. However, the ammunition market is volatile and exposed to political risk. Calls for ammunition taxes or import restrictions can roil demand. The business is also small relative to chemicals—ammunition contributes roughly 10–15 percent of Olin's revenue—and cannot drive growth for the company as a whole.
+In recent years Winchester has been a profit generator for Olin, particularly when ammunition demand spiked during the firearms boom of the late 2010s and early 2020s. However, the ammunition market is volatile and exposed to [political risk](/political-risk/). Calls for ammunition taxes or import restrictions can roil demand. The business is also small relative to chemicals—ammunition contributes roughly 10–15 percent of Olin's revenue—and cannot drive growth for the company as a whole.
 
 ## The commodity chemical treadmill and margin pressures
 

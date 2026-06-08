@@ -39,13 +39,13 @@ In response, some jurisdictions have imposed rent caps or increase caps, restric
 
 Tenant quality is a separate concern. Most renters pay reliably. Some do not. Eviction, even where legal, is expensive and can tie up a property for months. Default risk can concentrate in certain regions during [recessions](/recession/). The company manages this through screening, but perfect selection is impossible.
 
-Institutional landlords have also faced political scrutiny and, in a few cases, legislative attempts to restrict their buying activity or force sales. These have largely failed at the national level but linger in the background as political risk.
+Institutional landlords have also faced political scrutiny and, in a few cases, legislative attempts to restrict their buying activity or force sales. These have largely failed at the national level but linger in the background as [political risk](/political-risk/).
 
 ## The capital structure constraint
 
 AMH's growth is ultimately limited by access to capital. The company needs billions to acquire and develop homes. It has raised money through public equity offerings, debt issuance, and retained cash flow. So long as the debt capital markets are open and the company can service its debt, this constraint is loose. But recessions, interest-rate spikes, or a deterioration in rental fundamentals could tighten it quickly.
 
-The leverage profile matters enormously. If AMH is borrowing at ratios of 40–50% of property value, declining home prices or rising vacancy rates can erode equity rapidly. The company's management must balance growth (which demands leverage) against financial safety (which demands conservative leverage). The calculus changes with economic cycles.
+The leverage profile matters enormously. If AMH is borrowing at ratios of 40–50% of property value, declining home prices or rising [vacancy rates](/vacancy-rate-property/) can erode equity rapidly. The company's management must balance growth (which demands leverage) against financial safety (which demands conservative leverage). The calculus changes with economic cycles.
 
 ## Following the business
 

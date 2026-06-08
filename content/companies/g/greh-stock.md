@@ -29,7 +29,7 @@ These details often occupy footnotes, exhibits, or management discussion section
 ## Regulatory and contractual landscape
 
 Green Rain's projects live within state and federal permitting regimes. Watch for disclosure of:
-- **PPAs (Power Purchase Agreements)** with utilities or corporate offtakers. These are the spinal cord of renewable project finance; without a signed PPA, a project is speculation.
+- **PPAs ([Power Purchase Agreements](/power-purchase-agreement/))** with utilities or corporate offtakers. These are the spinal cord of renewable project finance; without a signed PPA, a project is speculation.
 - **Tax credits and subsidies** (ITC, PTC, state incentives) that reduce capex or boost economics. The 10-K footnotes should quantify exposure to policy change.
 - **Interconnection status** with the grid. Queuing for grid connection is a material milestone hidden in regulatory updates; flag delays or cost overruns.
 

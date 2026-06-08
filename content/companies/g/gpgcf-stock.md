@@ -4,7 +4,7 @@ description: "Exploration-stage gold miner facing permitting risk, funding const
 keywords: ["gold mining", "mineral exploration", "permitting risk", "commodity price exposure", "development capital"]
 ---
 
-*Great Pacific Gold Corp. (GPGCF) is a junior exploration and development-stage gold mining company, typical of hundreds of small-cap mineral explorers that control mineral claims in frontier or semi-developed geographies. The company's value rests entirely on successful exploration (finding ore bodies), permitting (securing government approval to develop), and financing (raising capital to build a mine). **GPGCF operates in a sector where geological success, political risk, funding availability, and commodity prices converge; any one failure is likely fatal.***
+*Great Pacific Gold Corp. (GPGCF) is a junior exploration and development-stage gold mining company, typical of hundreds of small-cap mineral explorers that control mineral claims in frontier or semi-developed geographies. The company's value rests entirely on successful exploration (finding ore bodies), permitting (securing government approval to develop), and financing (raising capital to build a mine). **GPGCF operates in a sector where geological success, [political risk](/political-risk/), funding availability, and commodity prices converge; any one failure is likely fatal.***
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GPGCF</td></tr>
@@ -33,7 +33,7 @@ Gold prices fluctuate; a deposit that is economic at $2,000/ounce might be subec
 
 ## Operator Risk and Technical Execution
 
-Once a mine is built, successfully extracting ore and producing gold depends on the operator's technical competence, cost control, and execution discipline. Mining operations are complex; processing plants must handle ore variability, metallurgical challenges, and environmental constraints. Cost overruns are common in mining; construction timelines slip, operational expenses exceed budgets. If GPGCF does not have experienced operators on staff or as partners, execution risk is acute. A marginal project can become loss-making if costs are 20% higher than budgeted or throughput is lower than planned. Large miners can absorb cost overruns; small companies often cannot and may be forced to mothball operations, further destroying shareholder value.
+Once a mine is built, successfully extracting ore and producing gold depends on the operator's technical competence, cost control, and execution discipline. Mining operations are complex; processing plants must handle ore variability, metallurgical challenges, and environmental constraints. Cost overruns are common in mining; construction timelines slip, operational expenses exceed budgets. If GPGCF does not have experienced operators on staff or as partners, [execution risk](/execution-risk/) is acute. A marginal project can become loss-making if costs are 20% higher than budgeted or throughput is lower than planned. Large miners can absorb cost overruns; small companies often cannot and may be forced to mothball operations, further destroying shareholder value.
 
 ## Financing Development
 

@@ -50,7 +50,7 @@ The SPAC boom of 2020–2021 produced mixed results. Some [mergers](/merger/) cr
 
 **Misaligned incentives.** Sponsors make money on the promote regardless of how the merged company performs. There is a built-in incentive to close a deal, any deal, rather than wait for the best deal. That can lead to overpaying for mediocre targets.
 
-**Weak due diligence.** Traditional IPO underwriters bet their reputation on the company. SPAC sponsors are incentivized to move fast, and the due diligence can be shallow. Some merged companies discovered accounting problems, management issues, or inflated projections only after going public.
+**Weak [due diligence](/due-diligence/).** Traditional IPO underwriters bet their reputation on the company. SPAC sponsors are incentivized to move fast, and the due diligence can be shallow. Some merged companies discovered accounting problems, management issues, or inflated projections only after going public.
 
 **Poor performance.** A study of SPAC mergers from 2019 to 2021 found that merged companies significantly underperformed the S&P 500 in their first years as public companies. Investors in SPACs often lost money.
 

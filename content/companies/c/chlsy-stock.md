@@ -40,7 +40,7 @@ Revenue breaks into two halves. The **wholesale/retail business** — supermarke
 
 ## The competitive landscape
 
-Lindt sits in a crowded but segmented chocolate market. It competes against multi-national food conglomerates (Mondelez, Mars) on the volume end, specialty producers (Godiva, Neuhaus) on the premium end, and an array of regional and local makers. The chief threats are not direct price competition but category expansion: as private-label and discount chocolate improve in quality, the price gap narrows. Meanwhile, health-conscious consumers shifting away from candy, and the commoditization of premium chocolate (Lindt Lindor is now available in supermarkets worldwide, not just specialty shops) erode some of the pricing power the brand once held.
+Lindt sits in a crowded but segmented chocolate market. It competes against multi-national food conglomerates (Mondelez, Mars) on the volume end, specialty producers (Godiva, Neuhaus) on the premium end, and an array of regional and local makers. The chief threats are not direct price competition but category expansion: as private-label and discount chocolate improve in quality, the [price gap](/price-gap/) narrows. Meanwhile, health-conscious consumers shifting away from candy, and the commoditization of premium chocolate (Lindt Lindor is now available in supermarkets worldwide, not just specialty shops) erode some of the pricing power the brand once held.
 
 The advantage Lindt retains is scale combined with premium positioning — it is large enough to invest in marketing and distribution but premium enough to command prices that companies like Hershey cannot. Most smaller artisanal chocolate makers cannot afford the distribution network Lindt has built.
 

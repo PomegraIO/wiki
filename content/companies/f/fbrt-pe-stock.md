@@ -41,7 +41,7 @@ The competitive field is crowded. Hundreds of REITs own commercial and industria
 
 ## The property-cycle bind
 
-REITs are inherently vulnerable to real estate cycles. When prices and rents are rising, a REIT can buy properties, immediately realize appreciation, refinance at better terms, and return capital to shareholders while maintaining the portfolio. When prices and rents are falling, the same playbook reverses. Properties decline in value; refinancing becomes difficult; acquisitions look unattractive; and the dividend is under pressure.
+REITs are inherently vulnerable to [real estate cycles](/real-estate-cycle/). When prices and rents are rising, a REIT can buy properties, immediately realize appreciation, refinance at better terms, and return capital to shareholders while maintaining the portfolio. When prices and rents are falling, the same playbook reverses. Properties decline in value; refinancing becomes difficult; acquisitions look unattractive; and the dividend is under pressure.
 
 Franklin BSP's ability to maintain and grow its distribution depends on its ability to access capital at reasonable rates and to source acquisitions that pencil—properties where the rental yield exceeds the cost of debt by enough to fund the promised dividend and leave room for capital growth or reinvestment. In a rising-rate environment or a period of [commercial real estate](/commercial-real-estate/) stress, that becomes harder.
 

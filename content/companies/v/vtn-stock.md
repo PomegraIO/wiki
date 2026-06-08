@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Invesco Trust for Investment Grade New York Municipals is a closed-end investment company that holds a portfolio of [municipal bonds](/municipal-bond/) issued by New York state, its cities, towns, and public authorities. Like all municipal bond funds, its purpose is to generate tax-exempt income for investors — interest on the [bonds](/bond/) it holds is free from federal income tax and, since the bonds are New York state issues, also free from New York state income tax for New York residents. The fund's shares trade publicly under the ticker VTN.
+Invesco Trust for Investment Grade New York Municipals is a closed-end investment company that holds a portfolio of [municipal bonds](/municipal-bond/) issued by New York state, its cities, towns, and public authorities. Like all [municipal bond funds](/municipal-bond-fund/), its purpose is to generate tax-exempt income for investors — interest on the [bonds](/bond/) it holds is free from federal income tax and, since the bonds are New York state issues, also free from New York state income tax for New York residents. The fund's shares trade publicly under the ticker VTN.
 
 <aside class="wiki-infobox">
 <table>

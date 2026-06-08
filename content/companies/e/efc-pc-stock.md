@@ -31,7 +31,7 @@ In booming years like 2020 and 2021, when people were refinancing their houses l
 
 ## How lending on borrowed money creates trouble
 
-The leverage—borrowing to buy mortgages—is the amplifier. If the spread is 2 percent and you are leveraged four-to-one (four dollars borrowed for every dollar owned), your return on the shareholder's equity is close to 8 percent. That looks great. But it also means that if the spread narrows to one percent, the return is halved. And if the spread turns negative—if you are paying more to borrow than you are earning on the mortgages—you are bleeding out.
+The leverage—borrowing to buy mortgages—is the amplifier. If the spread is 2 percent and you are leveraged four-to-one (four dollars borrowed for every dollar owned), your return on the [shareholder's equity](/shareholders-equity/) is close to 8 percent. That looks great. But it also means that if the spread narrows to one percent, the return is halved. And if the spread turns negative—if you are paying more to borrow than you are earning on the mortgages—you are bleeding out.
 
 When rates rise fast and spreads compress, mortgage REITs can get trapped. They owe money to the banks that lend to them via something called the repo market, a form of short-term borrowing. In a crisis, the repo market can seize up. Lenders can refuse to roll over the loans, and the REIT is forced to sell assets into a bad market, crystallizing losses. The company's relationship with Ellington Management Group, its parent, helps here—the parent can inject capital if needed—but that is a backstop, not a permanent solution.
 
@@ -53,7 +53,7 @@ The third is rate expectations. If people believe rates will stay high for years
 
 Every quarter, check the earnings report. Look at how much interest the company earned versus how much interest it paid on its borrowing. That spread is the business. Look at the size of the mortgage portfolio and whether it is growing or shrinking. A shrinking portfolio usually means the company is trying to reduce risk and lower leverage, often a sign that management thinks the environment is dangerous.
 
-Check the "book value per share." This is the net worth of the company divided by shares outstanding. If book value is falling, the company is losing money on a per-share basis even if distributions are continuing. That is a red flag.
+Check the "[book value per share](/book-value-per-share/)." This is the net worth of the company divided by shares outstanding. If book value is falling, the company is losing money on a per-share basis even if distributions are continuing. That is a red flag.
 
 Watch what the Federal Reserve does with interest rates. Rate cuts help mortgage REITs enormously; rate hikes hurt them. Track the mortgage market; if spreads are widening (the gap between what mortgages pay and what the company pays to borrow), Ellington's margins are expanding. If spreads are shrinking, margin pressure is building.
 

@@ -27,7 +27,7 @@ This extreme capital intensity shapes Karoon's financial strategy fundamentally.
 
 Deepwater exploration risk is so large that pure play independent producers like Karoon often seek joint venture partners. Karoon may retain operatorship of a field but share costs and profits with a major oil company or state-owned energy firm. These partnerships affect capital structure: Karoon raises less capital itself (the partner funds its share), but also retains less of the upside if wells succeed and less control over timing and execution.
 
-The terms of joint ventures—carried interests, cost-sharing ratios, decision-making authority—are detailed in 10-K filings and shape how Karoon finances growth. A discovery with a major-company co-venturer reduces Karoon's capital demands but dilutes returns; a solo-operated field demands more capital but preserves upside.
+The terms of joint ventures—[carried interests](/carried-interest-compensation/), cost-sharing ratios, decision-making authority—are detailed in 10-K filings and shape how Karoon finances growth. A discovery with a major-company co-venturer reduces Karoon's capital demands but dilutes returns; a solo-operated field demands more capital but preserves upside.
 
 ## Currency Exposure and Foreign Domicile
 
@@ -47,7 +47,7 @@ The company's financial disclosures include proved reserve estimates, often upda
 
 Once Karoon makes a significant discovery, it often pursues project financing—debt secured by the future cash flows of the specific development. Project debt allows the company to isolate one asset's financing from its corporate [credit rating](/credit-rating/), and it scales with the cash flow that asset will generate. KRNGF's debt schedule in the 10-K may show both corporate [debt](/corporate-bond/) and project-level facilities, each tied to different revenue streams and maturity dates.
 
-Project financing in offshore oil and gas often includes construction risk, political risk (Australian regulatory changes, for instance), and commodity-price collars (lenders insist on hedging below certain prices to ensure repayment). These structures are complex but allow capital-intensive projects to proceed.
+Project financing in offshore oil and gas often includes construction risk, [political risk](/political-risk/) (Australian regulatory changes, for instance), and commodity-price collars (lenders insist on hedging below certain prices to ensure repayment). These structures are complex but allow capital-intensive projects to proceed.
 
 ## Regulatory and Environmental Costs
 

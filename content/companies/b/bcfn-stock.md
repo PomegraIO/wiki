@@ -43,7 +43,7 @@ Most investors hold for years, not days. Sector funds are inherently volatile â€
 
 ## Sector-specific risks
 
-The financial sector is sensitive to regulatory changes, interest-rate policy, and credit cycles. A sudden rise in loan defaults can crater valuations. Changes to bank capital requirements or insurance regulations can reshape profitability. In 2008 and during the 2020 pandemic, financial stocks fell sharply as uncertainty about loan quality spiked. BCFN, with its concentration on mid-cap and smaller financials, can be hit harder than a fund holding only the largest systemically important banks.
+The financial sector is sensitive to regulatory changes, interest-rate policy, and [credit cycles](/credit-cycle/). A sudden rise in loan defaults can crater valuations. Changes to bank capital requirements or insurance regulations can reshape profitability. In 2008 and during the 2020 pandemic, financial stocks fell sharply as uncertainty about loan quality spiked. BCFN, with its concentration on mid-cap and smaller financials, can be hit harder than a fund holding only the largest systemically important banks.
 
 [Interest-rate risk](/interest-rate-risk/) is two-edged. A rapid rise in rates typically helps net-interest margins but can also trigger asset sales if [bond](/bond/) portfolios fall in value. A sharp rate decline can compress margins. The fund holds no explicit hedges against these dynamics; holders bear them directly.
 

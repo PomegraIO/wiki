@@ -37,7 +37,7 @@ A company like U.S. GoldMining operates in the upper stages of the mining cycle.
 
 U.S. GoldMining is not yet operating a mine. It is funding the advancement of Whistler toward a production decision. The company conducts engineering work, hydrogeological studies, environmental baseline work, and other permitting-phase activities. None of this produces revenue. The company raises capital to fund this work by selling shares or taking on debt. Investors are betting that successful advancement will eventually lead to either a production decision by the company itself or an acquisition by a larger miner willing to develop the deposit.
 
-The key inflection points are major engineering milestones — the completion of a feasibility study, key permitting approvals, or large-scale engineering contracts with mining services firms. Each success reduces execution risk and typically boosts the share price. Setbacks — permitting delays, engineering challenges, or a drop in gold prices — can sharply reverse that gain.
+The key inflection points are major engineering milestones — the completion of a feasibility study, key permitting approvals, or large-scale engineering contracts with mining services firms. Each success reduces [execution risk](/execution-risk/) and typically boosts the share price. Setbacks — permitting delays, engineering challenges, or a drop in gold prices — can sharply reverse that gain.
 
 ## The gold cycle and commodity risk
 

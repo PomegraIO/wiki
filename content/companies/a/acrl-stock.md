@@ -28,4 +28,4 @@ Mining explorers operate in a risky business model: most claims never develop in
 | Rare earths | REE complex | Defense and tech dependency |
 | Speculative | Diamonds | Niche; lower focus |
 
-For those researching Atacama, [10-K](/wiki/10-k/) filings disclose claim holdings, cash position, and management's exploration priorities. OTC market transparency lags major exchanges, making detailed due diligence harder. Commodity price trends and Canadian regulatory changes are material to valuation.
+For those researching Atacama, [10-K](/wiki/10-k/) filings disclose claim holdings, cash position, and management's exploration priorities. OTC market transparency lags major exchanges, making detailed [due diligence](/due-diligence/) harder. Commodity price trends and Canadian regulatory changes are material to valuation.

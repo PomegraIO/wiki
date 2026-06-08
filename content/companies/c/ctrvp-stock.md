@@ -56,7 +56,7 @@ The liver-disease space is competitive. Large pharmaceutical companies like Gile
 
 Hepion's advantage, if it has one, is a differentiated mechanism of action. If Hepion's compounds work through a pathway that competitors have not addressed, that could be valuable. But differentiation alone does not guarantee success. The compound must be effective, safe, manufacturable at scale, and better (or at least non-inferior) to existing options.
 
-The scientific execution risk is enormous. Many compounds fail in clinical trials despite promising preclinical data. The efficacy signal must be clear and reproducible. Safety signals — unexpected adverse events — can kill a program overnight. Hepion has no buffer; a failed trial would likely force another capital raise or strategic restructuring.
+The scientific [execution risk](/execution-risk/) is enormous. Many compounds fail in clinical trials despite promising preclinical data. The efficacy signal must be clear and reproducible. Safety signals — unexpected adverse events — can kill a program overnight. Hepion has no buffer; a failed trial would likely force another capital raise or strategic restructuring.
 
 ## Valuation and investor considerations
 

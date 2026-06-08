@@ -30,7 +30,7 @@ GraniteShares uses swaps rather than buying calls or holding short-dated options
 
 AMZZ is a tool for leveraged traders. Someone might buy it expecting Amazon to rise 10% in the next two weeks and wanting 20% leverage on that bet. A swing trader might hold it across a weekend before an earnings call. A systematic trader might use it as part of a short-term momentum strategy.
 
-But like all leveraged daily-reset funds, AMZZ is not suitable for buy-and-hold investing. Anyone holding it for six months or more will almost certainly underperform a simple Amazon ETF, even if Amazon's stock rises strongly. The daily resets and the embedded costs will drag on returns.
+But like all leveraged daily-reset funds, AMZZ is not suitable for [buy-and-hold investing](/buy-and-hold/). Anyone holding it for six months or more will almost certainly underperform a simple Amazon ETF, even if Amazon's stock rises strongly. The daily resets and the embedded costs will drag on returns.
 
 ## Comparing the alternatives
 

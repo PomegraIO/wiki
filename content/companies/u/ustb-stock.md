@@ -35,7 +35,7 @@ The fund's weighted-average maturity is reviewed regularly and disclosed in its 
 
 VictoryShares' managers are not passive indexers. They make tactical decisions about which bonds to hold, which credit sectors are attractive, and what mix of investment-grade and high-yield to maintain. This active management costs money. The fund's [expense ratio](/expense-ratio/) is higher than a passive short-term Treasury ETF — typically in the range of 0.40–0.50% per year — though still modest compared to actively managed [mutual funds](/mutual-fund/). Over long periods, that cost compounds.
 
-The question is whether the active selection adds enough value to offset that fee. In benign credit environments, active managers might struggle to beat a passive alternative because avoiding bad bonds is easier than finding good ones. In credit cycles when defaults and downgrades accelerate, active managers with stronger credit-selection discipline can meaningfully outperform. The investor's confidence in the manager and the consistency of the fund's process matter here.
+The question is whether the active selection adds enough value to offset that fee. In benign credit environments, active managers might struggle to beat a passive alternative because avoiding bad bonds is easier than finding good ones. In [credit cycles](/credit-cycle/) when defaults and downgrades accelerate, active managers with stronger credit-selection discipline can meaningfully outperform. The investor's confidence in the manager and the consistency of the fund's process matter here.
 
 ## Market risk and credit cycles
 

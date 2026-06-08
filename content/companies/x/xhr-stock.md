@@ -42,7 +42,7 @@ Like all hospitality operators, Xenia is highly sensitive to occupancy rates, av
 
 ## Competitive Position and Challenges
 
-Xenia competes in a crowded REIT landscape. Large diversified hotel REITs (Apple Hospitality, [Summit Hotel Properties](/inn-stock/), Chatham Lodging) control greater scale and institutional relationships, while regional chains and boutique operators compete on brand strength and property-specific appeal. Xenia's positioning in upscale, select-service properties offers some differentiation—these properties command higher rates than economy chains, and the select-service model has proven sticky with the traveling public—but the advantage is modest. The hospitality REIT sector as a whole faces structural headwinds: new supply from developers keeping rate growth muted, labor cost pressures driving wage [inflation](/inflation/), and dependence on consumer confidence for leisure travel.
+Xenia competes in a crowded REIT landscape. Large diversified hotel REITs ([Apple](/aapl-stock/) Hospitality, [Summit Hotel Properties](/inn-stock/), Chatham Lodging) control greater scale and institutional relationships, while regional chains and boutique operators compete on brand strength and property-specific appeal. Xenia's positioning in upscale, select-service properties offers some differentiation—these properties command higher rates than economy chains, and the select-service model has proven sticky with the traveling public—but the advantage is modest. The hospitality REIT sector as a whole faces structural headwinds: new supply from developers keeping rate growth muted, labor cost pressures driving wage [inflation](/inflation/), and dependence on consumer confidence for leisure travel.
 
 Brand dependency is another consideration. Xenia relies on Marriott and Hyatt to maintain brand strength, drive direct bookings, and manage operator performance. A major brand misstep or loss of franchise relationships would directly damage property values. Conversely, strong brand execution drives occupancy and pricing power. This relationship is collaborative but asymmetric: the franchisee operator manages day-to-day reputation and guest experience.
 
@@ -58,7 +58,7 @@ Post-pandemic, hotel REITs have navigated strong demand for domestic leisure tra
 
 Inflation in labor and operating costs has pressured margins. Hotel operators have been forced to increase wages to attract staff, and energy and food costs remain volatile. The company's ability to raise nightly room rates fast enough to offset these costs is central to sustainability. If pricing power stalls and cost inflation persists, profit margins compress and dividend safety deteriorates.
 
-The broader interest-rate environment also shapes the REIT multiple. When risk-free rates rise, the yield required on REITs increases, depressing valuations. This creates a dynamic where REITs trading at seemingly attractive [dividend yields](/dividend-yield/) may still decline as rates move higher, since the yield on risk-free alternatives becomes more competitive.
+The broader interest-rate environment also shapes the REIT multiple. When [risk-free rates](/risk-free-rate/) rise, the yield required on REITs increases, depressing valuations. This creates a dynamic where REITs trading at seemingly attractive [dividend yields](/dividend-yield/) may still decline as rates move higher, since the yield on risk-free alternatives becomes more competitive.
 
 ## How to Research Xenia
 

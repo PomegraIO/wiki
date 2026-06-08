@@ -40,7 +40,7 @@ Start with the most recent 10-K and read the business description and risk facto
 
 ## Why DSS trades where it does
 
-A [small-cap](/market-capitalization/) technology company in mid-transformation, with modest revenue, opaque competitive advantages, and execution risk, typically trades at a discount to more stable peers. If the company eventually succeeds at its pivot—gaining scale, positive cash flow, and a recognizable market position—the [stock](/stock/) could deliver outsized returns. But the base case is that execution falters, the company shrinks, or it gets acquired at a distressed valuation. This is why micro-cap and small-cap software companies remain speculative: the upside is real but so is the downside.
+A [small-cap](/market-capitalization/) technology company in mid-transformation, with modest revenue, opaque competitive advantages, and [execution risk](/execution-risk/), typically trades at a discount to more stable peers. If the company eventually succeeds at its pivot—gaining scale, positive cash flow, and a recognizable market position—the [stock](/stock/) could deliver outsized returns. But the base case is that execution falters, the company shrinks, or it gets acquired at a distressed valuation. This is why micro-cap and small-cap software companies remain speculative: the upside is real but so is the downside.
 
 <div class="wiki-seealso">
 ### Closely related

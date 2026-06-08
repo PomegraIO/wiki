@@ -50,7 +50,7 @@ Covered-call writing reduces upside capture — if a holding rallies sharply, th
 
 ## The fixed income sleeve
 
-LOTI typically allocates a meaningful portion to bonds — government securities, investment-grade corporate debt, and in some cases higher-yielding instruments like bank loans or structured products. The exact allocation varies tactically based on the portfolio manager's assessment of bond valuations, [credit spreads](/credit-spread/), economic conditions, and the prevailing interest-rate environment.
+LOTI typically allocates a meaningful portion to bonds — government securities, investment-grade corporate debt, and in some cases higher-yielding instruments like bank loans or [structured products](/structured-product/). The exact allocation varies tactically based on the portfolio manager's assessment of bond valuations, [credit spreads](/credit-spread/), economic conditions, and the prevailing interest-rate environment.
 
 When bond yields are high and rising, a larger fixed-income allocation offers compelling income without unreasonable risk. When bond yields are very low and credit spreads are tight, the manager may reduce bonds and increase the equity portion instead. This tactical flexibility is the fund's key advantage over a passive index that holds a fixed allocation regardless of conditions.
 

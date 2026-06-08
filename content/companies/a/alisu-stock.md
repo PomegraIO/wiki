@@ -38,7 +38,7 @@ Regulatory oversight is lighter on the OTC Markets than on major exchanges, whic
 
 ## Researching warrants and the acquisition thesis
 
-An investor considering ALISU warrants should understand Calisa's trust account size, its deadline for completing a merger, any public commentary from sponsors about target sectors or geographies, and the aggregate warrant overhang—how many shares would be outstanding if all warrants were exercised. The SPAC's initial S-1 filing and any proxy statements announcing a merger target contain this data.
+An investor considering ALISU warrants should understand Calisa's trust account size, its deadline for completing a merger, any public commentary from sponsors about target sectors or geographies, and the aggregate warrant overhang—how many shares would be outstanding if all warrants were exercised. The SPAC's initial S-1 filing and any [proxy statements](/proxy-statement/) announcing a merger target contain this data.
 
 The warrant-specific details worth verifying include the exercise price, the expiration date, the number of warrants outstanding, any make-whole or cashout provisions, and whether the SPAC has announced a sponsor letter (a commitment by the sponsor to redeem less than a certain threshold, which can signal confidence in the deal). Field investors and traders watch whether Calisa has begun discussing any potential targets, any rumblings of deal flow, or any timeline pressures that might force a lower-quality merger just to avoid [liquidation](/liquidation/).
 

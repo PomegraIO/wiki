@@ -56,7 +56,7 @@ Through all of this, Bank of Hawaii remained locally controlled and independent,
 
 By the 2020s, Bank of Hawaii stood as Hawaii's largest locally owned bank, serving hundreds of thousands of households and businesses across the islands. Its core strength remained what it had always been: the lack of convenient alternatives for customers with serious banking needs in Hawaii. But that strength was not absolute. Customers could now bank anywhere, and the cost of funds had risen as competition increased.
 
-The bank's future depends on whether it can maintain its retail deposit base, grow lending in a mature and competitive market, manage [interest-rate risk](/interest-rate-risk/) in an uncertain economic environment, and avoid major credit losses from tourism-dependent borrowers. The Hawaiian economy offers both stability (military spending, government employment) and volatility (tourism swings, real estate cycles), and the bank's loan book must navigate both.
+The bank's future depends on whether it can maintain its retail deposit base, grow lending in a mature and competitive market, manage [interest-rate risk](/interest-rate-risk/) in an uncertain economic environment, and avoid major credit losses from tourism-dependent borrowers. The Hawaiian economy offers both stability (military spending, government employment) and volatility (tourism swings, [real estate cycles](/real-estate-cycle/)), and the bank's loan book must navigate both.
 
 ## Studying Bank of Hawaii: the long view
 

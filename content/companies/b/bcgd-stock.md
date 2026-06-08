@@ -16,7 +16,7 @@ The simplest way to think about Baron Global Durable Advantage ETF is that it ta
 
 Quality is the word that matters most here. Baron's managers spend most of their time forecasting the long-term fundamentals of businesses — not guessing where the market will trade tomorrow, but understanding what a company might actually earn five or ten years from now. In that search for quality, BCGD focuses on large-cap companies with open-ended growth opportunities, durable competitive advantages (moats), and strong management teams. The fund looks for businesses that earn high returns on invested capital and generate excess [free cash flow](/free-cash-flow/).
 
-The benchmark is the MSCI All Country World Index (ACWI), a comprehensive index of the global [stock market](/stock-market/). BCGD aims to outperform that benchmark by 100 to 200 basis points per year, net of all fees and expenses, over a full market cycle — not in any single year, but over time. That is a meaningful target: consistent 1 to 2 percentage-point outperformance translates into substantially more wealth for long-term holders.
+The benchmark is the MSCI All Country World Index (ACWI), a comprehensive index of the global [stock market](/stock-market/). BCGD aims to outperform that benchmark by 100 to 200 basis points per year, net of all fees and expenses, over a full [market cycle](/market-cycle/) — not in any single year, but over time. That is a meaningful target: consistent 1 to 2 percentage-point outperformance translates into substantially more wealth for long-term holders.
 
 ## A truly global mandate
 

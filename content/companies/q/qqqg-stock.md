@@ -36,7 +36,7 @@ The principle is sound. The difference between reported earnings and actual cash
 
 The underlying index rebalances every three months, so the 50 positions can turn over as companies' cash-generation patterns shift relative to earnings. Because the fund draws from the 100 largest Nasdaq companies, holdings are exceptionally liquid and easy to trade. The largest positions will typically include megacaps like [Apple](/aapl-stock/), [Microsoft](/msft-stock/), [Nvidia](/nvda-stock/), and other technology leaders, though their inclusion or weight depends on how each ranks on the cash-flow metric at rebalance dates.
 
-QQQG itself trades on NYSE Arca with the volume and tight [bid-ask spreads](/bid-ask-spread/) typical of large, simple ETFs. The fund's [expense ratio](/expense-ratio/) is kept low by Pacer, reflecting the mechanical nature of the index construction — no active management, just a transparent sorting rule applied quarterly. The fund holds all 50 index members directly and does not use derivatives.
+QQQG itself trades on [NYSE Arca](/nyse-arca/) with the volume and tight [bid-ask spreads](/bid-ask-spread/) typical of large, simple ETFs. The fund's [expense ratio](/expense-ratio/) is kept low by Pacer, reflecting the mechanical nature of the index construction — no active management, just a transparent sorting rule applied quarterly. The fund holds all 50 index members directly and does not use derivatives.
 
 ## Cost structure and suitability
 

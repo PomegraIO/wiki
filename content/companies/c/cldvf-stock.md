@@ -29,7 +29,7 @@ Cloud3's edge, if it exists, lies in pattern recognition and deep networks withi
 
 ## Portfolio Construction as a Secular Bet
 
-Like all venture firms, Cloud3 must construct a portfolio expecting that most investments lose money, some break even, and a few deliver outsized returns. The distribution of outcomes—the "power law" of venture—is relatively stable across economic cycles. What changes is the denominator: in boom times, VCs write more checks and deploy more capital; in downturns, the dry powder shrinks and deployment slows. Yet the fundamental math of venture—a small number of "home-run" outcomes funding all other activity—persists.
+Like all venture firms, Cloud3 must construct a portfolio expecting that most investments lose money, some break even, and a few deliver outsized returns. The distribution of outcomes—the "power law" of venture—is relatively stable across economic cycles. What changes is the denominator: in boom times, VCs write more checks and deploy more capital; in downturns, the [dry powder](/pe-dry-powder/) shrinks and deployment slows. Yet the fundamental math of venture—a small number of "home-run" outcomes funding all other activity—persists.
 
 For Cloud3 shareholders, the firm's value rests on two secular factors: (1) the skill of the partners in identifying and supporting high-potential founders, and (2) the durability and scale of the underlying markets in which their portfolio companies compete. A recession does not erase either factor; it may dampen the near-term sentiment but does not change whether, say, software distribution to SMBs is a growing market or whether a particular company has found product-market fit.
 

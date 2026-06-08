@@ -48,7 +48,7 @@ As emerging-market exchanges have matured and technology has improved, the mecha
 
 [Liquidity risk](/liquidity-risk/) remains acute. Small-cap emerging-market stocks trade in lower volumes than large-cap stocks. During normal conditions, bid-ask spreads are wider and trading costs higher; during market stress, liquidity can evaporate entirely. A fund trying to exit a position in a less-liquid small-cap stock during a market panic may face forced fire-sale pricing.
 
-Company-specific risk is elevated. While a broad emerging-market fund might own 2,000 companies, EMSC might own 100 or fewer, so each position represents a larger slice of the portfolio. Any single holding's execution risk, competitive position, and exposure to local economic shocks carries more weight.
+Company-specific risk is elevated. While a broad emerging-market fund might own 2,000 companies, EMSC might own 100 or fewer, so each position represents a larger slice of the portfolio. Any single holding's [execution risk](/execution-risk/), competitive position, and exposure to local economic shocks carries more weight.
 
 [Currency volatility](/currency-volatility/) compounds these dynamics. Small-cap stocks are harder to trade when their home currencies move sharply, creating cascading effects on dollar-denominated returns. Additionally, small-cap stocks in emerging markets are highly correlated with investor risk appetite. They soar during risk-on periods and crash during risk-off dislocations, regardless of underlying company fundamentals.
 
@@ -56,7 +56,7 @@ Company-specific risk is elevated. While a broad emerging-market fund might own 
 
 EMSC is a standard, non-leveraged ETF trading on a major US exchange, with expenses typically in the range of 0.5% to 1.0% annually. The fund's exact holdings are public, as are the underlying index's rules for defining small-cap and constructing the portfolio.
 
-Investors researching EMSC should examine the prospectus to understand how Sophus Capital defines small-cap and which emerging markets are included. Reviewing the top 20 holdings reveals the portfolio's character: Is it concentrated in a single country or distributed? Are holdings in defensive consumer sectors or growth-oriented technology? These details shape the fund's sensitivity to economic cycles and geopolitical events. Comparing EMSC's performance against broader emerging-market and small-cap indices over multiple market cycles shows whether the small-cap premium has materialized.
+Investors researching EMSC should examine the prospectus to understand how Sophus Capital defines small-cap and which emerging markets are included. Reviewing the top 20 holdings reveals the portfolio's character: Is it concentrated in a single country or distributed? Are holdings in defensive consumer sectors or growth-oriented technology? These details shape the fund's sensitivity to economic cycles and geopolitical events. Comparing EMSC's performance against broader emerging-market and small-cap indices over multiple [market cycles](/market-cycle/) shows whether the small-cap premium has materialized.
 
 
 EMSC is a standard, non-leveraged ETF. Its [expense ratio](/expense-ratio/) typically ranges from 0.6% to 1.2% annually, reflecting the cost of researching and tracking small-cap stocks in emerging markets — more expensive than large-cap tracking because the underlying companies are less liquid and less widely followed by analysts.

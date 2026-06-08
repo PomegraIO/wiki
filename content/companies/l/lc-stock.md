@@ -45,7 +45,7 @@ Investors researching LendingClub should look at the [10-K](/wiki/10-k/) for sev
 
 The company's capital needs are modest because it does not hold a large loan portfolio. But its balance sheet does carry some legacy loans from periods when it did hold credit risk, and understanding the tail of that aging portfolio is important for modeling future credit losses. The mix of personal loans versus small-business loans is worth tracking too, since small-business loans carry different risk and return profiles.
 
-Institutional investors increasingly make up the funding side, so the breadth and stability of that investor base matter to origination volumes and pricing power. If institutional demand for marketplace loans softens during a credit cycle or regulatory shift, LendingClub's volumes can drop quickly.
+Institutional investors increasingly make up the funding side, so the breadth and stability of that investor base matter to origination volumes and pricing power. If institutional demand for marketplace loans softens during a [credit cycle](/credit-cycle/) or regulatory shift, LendingClub's volumes can drop quickly.
 
 ## The verdict and what to watch
 

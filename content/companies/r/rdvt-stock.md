@@ -16,7 +16,7 @@ Red Violet, Inc. operates at the intersection of public data and private investi
 
 ## The alternative intelligence market
 
-Red Violet operates in what is sometimes called the alternative data or alternative intelligence space. Traditional intelligence sources—credit bureaus, public records obtained directly from courthouses and government offices, individual verification services—are fragmented, slow to access, and expensive to consolidate. A law enforcement agency investigating a subject, a corporation running due diligence on a customer or partner, or a compliance officer screening against regulatory watchlists has historically faced a choice between hiring people to manually search and compile records or subscribing to multiple specialized databases and manually cross-referencing them.
+Red Violet operates in what is sometimes called the alternative data or alternative intelligence space. Traditional intelligence sources—credit bureaus, public records obtained directly from courthouses and government offices, individual verification services—are fragmented, slow to access, and expensive to consolidate. A law enforcement agency investigating a subject, a corporation running [due diligence](/due-diligence/) on a customer or partner, or a compliance officer screening against regulatory watchlists has historically faced a choice between hiring people to manually search and compile records or subscribing to multiple specialized databases and manually cross-referencing them.
 
 Red Violet's platform consolidates these sources into searchable, analyzable databases. The company uses technology and data integration to do at scale what would take humans days or weeks of manual work. The value proposition is immediate: speed, comprehensiveness, and reduced labor cost.
 
@@ -54,7 +54,7 @@ The [balance sheet](/balance-sheet/) and capital structure matter: the company's
 
 ## How to research Red Violet
 
-Start with the company's annual 10-K filing (SEC CIK 0001720116) and quarterly 10-Q filings. Focus on revenue by customer segment and customer concentration—if a few large customers account for most revenue, the business has execution risk. Watch the gross margin trajectory; if it is declining despite revenue growth, data costs are rising relative to pricing power.
+Start with the company's annual 10-K filing (SEC CIK 0001720116) and quarterly 10-Q filings. Focus on revenue by customer segment and customer concentration—if a few large customers account for most revenue, the business has [execution risk](/execution-risk/). Watch the gross margin trajectory; if it is declining despite revenue growth, data costs are rising relative to pricing power.
 
 Review any investor presentations or earnings call transcripts for commentary on customer wins, competitive positioning, and regulatory headwinds. Look for disclosure about data sources and any changes in sourcing strategy, as these signal either competitive advantage or regulatory pressure.
 

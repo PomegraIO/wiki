@@ -29,7 +29,7 @@ This creates a natural question: what happens when franchisees are not making mo
 
 ## The competitive reality
 
-Pizza delivery has been democratized. Any pizza business — independent or national — can now reach customers via apps (Uber Eats, DoorDash, Grubhub) that were not possible even a decade ago. This has fractured the old moat: customers no longer depend on calling Papa John's; they can order from any pizzeria, any pizza place, delivered to them, through a single app. The national brands — Papa John's, Domino's, Pizza Hut — still benefit from scale in marketing and supply, but they have also faced pressure from delivery-enabled independents and from other concepts (chicken, subs, burgers) now competing for the same delivery-app real estate.
+Pizza delivery has been democratized. Any pizza business — independent or national — can now reach customers via apps (Uber Eats, DoorDash, Grubhub) that were not possible even a decade ago. This has fractured the old moat: customers no longer depend on calling Papa John's; they can order from any pizzeria, any pizza place, delivered to them, through a single app. The national brands — Papa John's, [Domino's, Pizza](/dpz-stock/) Hut — still benefit from scale in marketing and supply, but they have also faced pressure from delivery-enabled independents and from other concepts (chicken, subs, burgers) now competing for the same delivery-app real estate.
 
 Papa John's has tried to differentiate on quality ("Better Ingredients. Better Pizza.") and on menu breadth beyond pizza. The company has invested heavily in digital ordering and delivery optimization. But execution matters enormously: if franchisees are unhappy, if service is inconsistent, or if product quality drops, the brand erodes.
 

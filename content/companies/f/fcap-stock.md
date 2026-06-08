@@ -71,7 +71,7 @@ For small banks, compliance cost per dollar of assets is higher than for large b
 
 ## Capital Management and Shareholder Returns
 
-FCAP's capital is its equity—the funds contributed by shareholders and [retained earnings](/retained-earnings/). Regulators require banks to maintain minimum capital levels (typically 8–10% of risk-weighted assets). FCAP's actual capital level, above regulatory minimums, reflects the bank's confidence in its earnings and its ability to absorb future losses.
+FCAP's capital is its equity—the funds contributed by shareholders and [retained earnings](/retained-earnings/). Regulators require banks to maintain minimum capital levels (typically 8–10% of [risk-weighted assets](/risk-weighted-assets/)). FCAP's actual capital level, above regulatory minimums, reflects the bank's confidence in its earnings and its ability to absorb future losses.
 
 Excess capital can be returned to shareholders through [dividends](/dividend/) or [share buybacks](/share-buyback/). FCAP, as a mature community bank, typically emphasizes dividends: a consistent quarterly payout signaling stability and confidence in earnings. A rising dividend signals management confidence; a dividend cut signals financial stress.
 

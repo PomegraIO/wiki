@@ -12,7 +12,7 @@ handwritten: true
 
 Micron Technology is one of the world's largest manufacturers of memory semiconductors—both DRAM (dynamic random-access memory) and NAND flash storage. The company plays a foundational role in every computing device from smartphones and personal computers to enterprise servers and data centers. Its products are deeply embedded in the AI and cloud computing infrastructure that has become central to the modern technology economy.
 
-The business logic is straightforward but cyclical: as the world needs more computing power, it needs more memory to feed that computing. Data centers, AI training clusters, and consumer devices all require enormous quantities of DRAM and NAND, and Micron is one of only a handful of firms with the capital, scale, and expertise to supply them at scale. But memory is a commodity business—prices fluctuate with supply and demand—which means Micron's profitability swings sharply with the memory market cycle.
+The business logic is straightforward but cyclical: as the world needs more computing power, it needs more memory to feed that computing. Data centers, AI training clusters, and consumer devices all require enormous quantities of DRAM and NAND, and Micron is one of only a handful of firms with the capital, scale, and expertise to supply them at scale. But memory is a commodity business—prices fluctuate with supply and demand—which means Micron's profitability swings sharply with the memory [market cycle](/market-cycle/).
 
 ## A Brief History
 

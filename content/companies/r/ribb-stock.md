@@ -36,7 +36,7 @@ In June 2025, Ribbon announced a definitive Business Combination Agreement with 
 
 ## Timeline and shareholder approval
 
-Ribbon initially had until January 16, 2026 to complete the business combination. At an extraordinary general meeting on January 9, 2026, shareholders voted to extend that deadline by one year, to January 16, 2027. This extension is routine for SPACs; completing a full due diligence process and regulatory approval (especially for a healthcare-related combination) often requires more time than the standard two-year window.
+Ribbon initially had until January 16, 2026 to complete the business combination. At an extraordinary general meeting on January 9, 2026, shareholders voted to extend that deadline by one year, to January 16, 2027. This extension is routine for SPACs; completing a full [due diligence](/due-diligence/) process and regulatory approval (especially for a healthcare-related combination) often requires more time than the standard two-year window.
 
 The shareholder meeting also approved an amended memorandum and articles of association, further extending the combination deadline to the same date.
 
@@ -50,4 +50,4 @@ Ribbon's specific risk depends entirely on the terms of the DRC Medicine deal: t
 
 ## Research and the registration statement
 
-The definitive proxy statement and Form S-4 registration statement (required to register the merger and the shares issued by Ribbon) will contain the detailed terms of the deal, audited financial statements of DRC Medicine, management biographies, and the business plan. These documents, filed with the SEC, are the main sources of information for investors evaluating whether to approve the combination or redeem their shares.
+The definitive [proxy statement](/proxy-statement/) and Form S-4 registration statement (required to register the merger and the shares issued by Ribbon) will contain the detailed terms of the deal, audited financial statements of DRC Medicine, management biographies, and the business plan. These documents, filed with the SEC, are the main sources of information for investors evaluating whether to approve the combination or redeem their shares.

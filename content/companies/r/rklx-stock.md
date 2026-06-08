@@ -33,7 +33,7 @@ RKLX is emphatically not suitable for long-term investors. A buy-and-hold invest
 
 ## Risk and leverage amplification
 
-The fundamental risk is that leverage cuts both ways. If RKLB moves against you, your loss doubles. A 10% drop becomes 20%. A 25% decline becomes 50%. Position sizing is critical; investors in RKLX must hold far smaller positions than they would in RKLB itself, and they must maintain strict stop-losses. Holding a 2x leveraged position through a 20% downswing in the underlying stock is a recipe for severe capital loss.
+The fundamental risk is that leverage cuts both ways. If RKLB moves against you, your loss doubles. A 10% drop becomes 20%. A 25% decline becomes 50%. [Position sizing](/position-sizing/) is critical; investors in RKLX must hold far smaller positions than they would in RKLB itself, and they must maintain strict stop-losses. Holding a 2x leveraged position through a 20% downswing in the underlying stock is a recipe for severe capital loss.
 
 A secondary risk emerges during market stress. If RKLB gaps down at the open (due to a company announcement or a broad market crash), the fund may face margin demands from its derivatives counterparties. In extreme scenarios, the fund itself may be forced to rebalance at unfavorable prices, crystallizing losses at precisely the moment an investor least wants to sell.
 

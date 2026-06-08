@@ -43,7 +43,7 @@ The size of the discount fluctuates based on investor sentiment and broader cond
 
 ## What moves the fund
 
-[Interest rates](/interest-rate/) are the most important variable. When bond yields rise, prices of existing bonds fall, which reduces the value of the portfolio. Because the fund is leveraged, that decline is amplified. A 2% rise in yields across the board could easily wipe out a full year of distributable income. The credit cycle also matters: if economic conditions worsen and corporate bonds become riskier, spreads widen, values drop, and the fund's distributions may be cut if the underlying securities generate less income.
+[Interest rates](/interest-rate/) are the most important variable. When bond yields rise, prices of existing bonds fall, which reduces the value of the portfolio. Because the fund is leveraged, that decline is amplified. A 2% rise in yields across the board could easily wipe out a full year of distributable income. The [credit cycle](/credit-cycle/) also matters: if economic conditions worsen and corporate bonds become riskier, spreads widen, values drop, and the fund's distributions may be cut if the underlying securities generate less income.
 
 For a holder receiving monthly income, that risk is real. The stated distribution might be sustainable for years, or it might force a cut if the portfolio's underlying yields decline. In the worst cases, funds have reduced distributions in ways that catch long-term income investors by surprise.
 

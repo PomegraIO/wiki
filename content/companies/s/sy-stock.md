@@ -48,7 +48,7 @@ Each new location is designed to reach positive operating cash flow quickly, ind
 
 **Regulatory and competitive pressure** are significant. The medical aesthetics industry in China operates under multi-layered regulation by health, drug, and market authorities. Any tightening of enforcement around medical claims, practitioner licensing, or device approvals could disrupt operations or increase compliance costs. The market is also crowded; local clinics, hospital-affiliated providers, and competing platforms are entrenched in major cities.
 
-**Clinic expansion execution** poses execution risk. Opening and staffing 50+ new clinics and eventually thousands requires consistent capital, operational discipline, and local market expertise. Failed locations or underperforming clinics will drain capital and management attention. Scaling training and quality control across many sites is operationally complex.
+**Clinic expansion execution** poses [execution risk](/execution-risk/). Opening and staffing 50+ new clinics and eventually thousands requires consistent capital, operational discipline, and local market expertise. Failed locations or underperforming clinics will drain capital and management attention. Scaling training and quality control across many sites is operationally complex.
 
 **Economic sensitivity** matters. Medical aesthetics is [discretionary spending](/discretionary-spending/); during downturns or regional economic weakness, consumers defer treatments. China's economy has slowed in recent years, which could pressure demand and pricing.
 

@@ -31,7 +31,7 @@ TXUG is a plain ETF, structured with no leverage or inverse mechanics. It trades
 
 The fund's returns will depend on the managers' ability to identify growth-oriented companies that do in fact grow faster and compound value over time. In market environments where growth is in favour and expanding companies outperform value or cyclicals, TXUG may gain relative ground. In periods when growth is out of favour, the fund can lag a broader index. Unlike a passive fund that simply holds the market, TXUG's performance relative to its benchmark is driven entirely by the managers' stock-selection decisions.
 
-Thornburg has invested in international equities for decades, and the firm's growth philosophy has roots in that experience. However, the track record of past funds is not a guarantee of future performance, and the difficulty of forecasting which companies will genuinely outgrow their peers means active international growth management carries execution risk.
+Thornburg has invested in international equities for decades, and the firm's growth philosophy has roots in that experience. However, the track record of past funds is not a guarantee of future performance, and the difficulty of forecasting which companies will genuinely outgrow their peers means active international growth management carries [execution risk](/execution-risk/).
 
 ## Risks unique to growth-focused positioning
 

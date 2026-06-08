@@ -29,7 +29,7 @@ This production-focused posture reflects MACH's capital structure and investor b
 
 ## Commodity Price Exposure and Hedging
 
-MACH's revenues are directly proportional to oil and [natural gas](/natural-gas/) prices and production volumes. A 20% drop in [crude oil](/crude-oil/) prices reduces MACH's revenue without any operational change. This exposure is both the appeal and the peril of MLP investment. Investors seeking commodity-price upside buy MLPs; investors fleeing commodity risk avoid them. MACH has little control over the pricing side; hedging programs can reduce price volatility in the short term, but they also cap upside.
+MACH's revenues are directly proportional to oil and [natural gas](/natural-gas/) prices and production volumes. A 20% drop in [crude oil](/crude-oil/) prices reduces MACH's revenue without any operational change. This exposure is both the appeal and the peril of MLP investment. Investors seeking commodity-price upside buy MLPs; investors fleeing [commodity risk](/commodity-risk/) avoid them. MACH has little control over the pricing side; hedging programs can reduce price volatility in the short term, but they also cap upside.
 
 MACH's competitiveness versus integrated majors like ExxonMobil or [Chevron](/cvx-stock/) lies partly in cost structure. Smaller, focused operators often extract crude more efficiently than large conglomerates burdened with legacy infrastructure. But this advantage is marginal and erodes if MACH operates aging fields with rising depletion rates. In declining production, MACH must either replace reserves through acquisition or accept shrinking cash flows to unitholders.
 

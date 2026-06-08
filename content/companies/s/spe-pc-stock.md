@@ -40,7 +40,7 @@ Income to shareholders comes from two sources: [current yields](/current-yield/)
 
 ## The pressure: active management in a passive world
 
-The headwind facing Special Opportunities and similar closed-end vehicles is structural. Over the past two decades, passive indexing has taken share from active management because [index funds](/index-fund/) are cheaper, transparent, and hard to beat. Closed-end funds must justify their fees by outperforming their benchmarks over full market cycles, and many do not. The result is pressure on fund assets, wider discounts to NAV as investors lose faith in the manager's edge, and consolidation in the industry. Special Opportunities' ability to thrive hinges on whether its manager can deliver returns (net of fees) that justify the structure and attract or retain capital in an era when passive strategies are the default.
+The headwind facing Special Opportunities and similar closed-end vehicles is structural. Over the past two decades, passive indexing has taken share from active management because [index funds](/index-fund/) are cheaper, transparent, and hard to beat. Closed-end funds must justify their fees by outperforming their benchmarks over full [market cycles](/market-cycle/), and many do not. The result is pressure on fund assets, wider discounts to NAV as investors lose faith in the manager's edge, and consolidation in the industry. Special Opportunities' ability to thrive hinges on whether its manager can deliver returns (net of fees) that justify the structure and attract or retain capital in an era when passive strategies are the default.
 
 ## Leverage and distributions
 

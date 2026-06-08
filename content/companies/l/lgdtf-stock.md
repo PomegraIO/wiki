@@ -37,7 +37,7 @@ Unlike a producing mining company or industrial operator with cash flow, Liberty
 
 ## Management and Technical Team Expertise
 
-For exploration companies, the quality of management and the technical team's geological and mining expertise are critical determinants of success. The [10-K](/10-k/) proxy statement will list management and board members; their prior experience in mining, geology, or capital markets reveals whether they have successfully advanced exploration projects in the past. A management team with a track record of discoveries or successful mine development has credibility; one without mining industry experience faces higher perceived risk. The company's website and press releases often highlight key geologists and their credentials. Investors should assess whether the technical team has discovery experience in the specific geological settings where Liberty Gold is exploring—a team expert in greenstone belts may not have equal success in porphyry systems, for example.
+For exploration companies, the quality of management and the technical team's geological and mining expertise are critical determinants of success. The [10-K](/10-k/) [proxy statement](/proxy-statement/) will list management and board members; their prior experience in mining, geology, or capital markets reveals whether they have successfully advanced exploration projects in the past. A management team with a track record of discoveries or successful mine development has credibility; one without mining industry experience faces higher perceived risk. The company's website and press releases often highlight key geologists and their credentials. Investors should assess whether the technical team has discovery experience in the specific geological settings where Liberty Gold is exploring—a team expert in greenstone belts may not have equal success in porphyry systems, for example.
 
 ## Geopolitical and Climate Risk in the Canadian Context
 
@@ -58,7 +58,7 @@ Liberty Gold's value relative to peers depends on the quality of its properties,
 - Junior mining companies and exploration-stage fundamentals
 - Canadian mining regulation and permitting frameworks
 - [10-K](/10-k/) filings and technical reports for mineral explorers
-- [Gold](/gold/) commodity prices and market cycles
+- [Gold](/gold/) commodity prices and [market cycles](/market-cycle/)
 
 ### Wider context
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) oversight of Canadian mining companies

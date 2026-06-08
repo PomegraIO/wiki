@@ -61,4 +61,4 @@ Long-term investors should never own QCML. The daily rebalancing will compound l
 
 Start by confirming GraniteShares' prospectus and fact sheet to understand the exact leverage mechanism and reset frequency. Research Qualcomm's recent earnings, competitive position, and any catalysts that might drive a near-term move. Decide exactly what would make you right or wrong — at what price or what event would you exit if the trade goes against you? Set a stop-loss that reflects your risk tolerance.
 
-Only then enter the position. Remember that prices fluctuate constantly, execution risk exists on entry and exit, and daily reset drag works against you every single day you hold. Make the trade work fast, or do not make it at all.
+Only then enter the position. Remember that prices fluctuate constantly, [execution risk](/execution-risk/) exists on entry and exit, and daily reset drag works against you every single day you hold. Make the trade work fast, or do not make it at all.

@@ -17,7 +17,7 @@ AAA offers investors access to a specialized corner of the credit market: the se
 
 A collateralized loan obligation is a financial engineering tool. A sponsor — often a finance company or a credit-focused asset manager — assembles a large portfolio of leveraged loans (typically 100–200 credits, each outstanding in the millions of dollars). These are loans made by banks and specialized lenders to mid-market or lower-middle-market corporations, often to fund [leveraged buyouts](/leveraged-buyout/), refinancings, or growth initiatives. The loans carry floating [interest rates](/interest-rate/), reset periodically to stay above a benchmark like [SOFR](/sofr/) or [LIBOR](/libor/). Once assembled, the portfolio is placed into a legal trust, and claims on the cash flows it generates are split into tranches.
 
-The key to CLOs is that the tranches have different seniority. The AAA-rated tranche at the top receives principal and interest first, regardless of losses in the underlying loan portfolio. Only if loans default and recoveries fall short would the AAA losses be touched — a scenario that would require a devastating [credit event](/credit-event-sovereign/) across the entire loan portfolio. Because of this protection, the AAA tranche can be sold to conservative investors willing to accept a modest spread over risk-free rates in exchange for the security of senior standing.
+The key to CLOs is that the tranches have different seniority. The AAA-rated tranche at the top receives principal and interest first, regardless of losses in the underlying loan portfolio. Only if loans default and recoveries fall short would the AAA losses be touched — a scenario that would require a devastating [credit event](/credit-event-sovereign/) across the entire loan portfolio. Because of this protection, the AAA tranche can be sold to conservative investors willing to accept a modest spread over [risk-free rates](/risk-free-rate/) in exchange for the security of senior standing.
 
 ## Why AAA-rated CLO pieces exist
 
@@ -39,7 +39,7 @@ AAA distributes the income it receives from the underlying CLO tranches, typical
 
 The biggest risk is concentrated: if the underlying loan portfolio deteriorates sharply, and enough loans default without full recovery, the principal of the AAA tranche is at risk. This requires a severe economic downturn, but it is not impossible. The 2008 recession wiped out many CLO tranches, though the AAA pieces were often spared only by narrow margins.
 
-A second risk is structural complexity. CLOs involve dozens of moving pieces — trustee agreements, reinvestment periods, trigger mechanisms that can restrict the manager's ability to make tactical changes once losses mount. An investor in AAA should understand that the fund holds stakes in opaque, complex securities whose terms can shift under stress.
+A second risk is structural complexity. CLOs involve dozens of moving pieces — trustee agreements, [reinvestment periods](/reinvestment-period/), trigger mechanisms that can restrict the manager's ability to make tactical changes once losses mount. An investor in AAA should understand that the fund holds stakes in opaque, complex securities whose terms can shift under stress.
 
 Liquidity is a third concern. While AAA itself trades on an exchange and can be sold quickly, the underlying CLO tranches are often illiquid. If AAA needs to raise cash to meet redemptions from shareholders, it may have to sell CLO pieces at unfavourable prices or temporarily suspend redemptions. This is rare but possible in a market panic.
 

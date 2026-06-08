@@ -4,7 +4,7 @@ description: "Infrastructure and alternative asset manager positioned at the sec
 keywords: [infrastructure, private equity, alternative assets, asset management, fund manager, long-term capital]
 ---
 
-*Hamilton Lane INC ([NASDAQ](/nasdaq/): **HLNE**) is an asset manager focused on infrastructure and related alternative investments—a business that sits astride one of the longest structural shifts in capital allocation. Unlike cyclical asset managers who live and die by equity markets and fund-raise windows, Hamilton Lane operates in an industry increasingly insulated from boom-and-bust cycles and anchored in secular tailwinds: aging populations demanding utility modernization, sovereign wealth funds and pension systems searching for inflation-resistant returns, and corporations seeking to divest and outsource non-core infrastructure.*
+*Hamilton Lane INC ([NASDAQ](/nasdaq/): **HLNE**) is an asset manager focused on infrastructure and related alternative investments—a business that sits astride one of the longest structural shifts in capital allocation. Unlike cyclical asset managers who live and die by equity markets and fund-raise windows, Hamilton Lane operates in an industry increasingly insulated from boom-and-bust cycles and anchored in secular tailwinds: aging populations demanding utility modernization, [sovereign wealth funds](/sovereign-wealth-fund/) and pension systems searching for inflation-resistant returns, and corporations seeking to divest and outsource non-core infrastructure.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HLNE</td></tr>
@@ -39,7 +39,7 @@ Moreover, infrastructure valuations move less dramatically than equities. A toll
 
 Hamilton Lane's competitive advantage rests on a base of capital that is "sticky"—pension funds and insurers do not rotate in and out. This contrasts sharply with high-net-worth individuals managing their own portfolios or with cyclical-focused [hedge funds](/hedge-fund/) that lose capital in downturns and watch AUM shrink.
 
-Once Hamilton Lane establishes a relationship with a large endowment or pension, the friction to switching managers is high. The pension committee has voted to allocate $500 million to Hamilton Lane infrastructure funds; moving that capital to a competitor requires re-underwriting, re-negotiation, and a new decision—work that happens infrequently. As a result, Hamilton Lane's AUM grows more like a utility's customer base (sticky, compounding) than like a hedge fund's portfolio (volatile, subject to performance metrics).
+Once Hamilton Lane establishes a relationship with a large endowment or pension, the friction to switching managers is high. The pension committee has voted to allocate $500 million to Hamilton Lane [infrastructure funds](/pe-infrastructure-fund/); moving that capital to a competitor requires re-underwriting, re-negotiation, and a new decision—work that happens infrequently. As a result, Hamilton Lane's AUM grows more like a utility's customer base (sticky, compounding) than like a hedge fund's portfolio (volatile, subject to performance metrics).
 
 ## The Leverage Point: Fee Revenue and Earnings Power
 

@@ -21,7 +21,7 @@ First Nordic Metals' primary asset is mineral tenure—exploration licenses, cla
 
 However, this moat is narrow and time-bound. Exploration licenses expire (typically every few years) and must be renewed. If First Nordic fails to meet exploration obligations (drilling targets, expenditure minimums), the company risks license revocation. Furthermore, exploration claims are available to anyone who meets regulatory requirements. If First Nordic stakes a claim in geologically prospective terrain, competitors can stake adjacent claims and explore in parallel. The protection is territorial but not exclusive to the industry or technology.
 
-Governments can also revoke or change license terms for political or environmental reasons. Scandinavia's strong environmental regulations and growing opposition to mining create political risk. A change in government or public sentiment could invalidate First Nordic's tenure, wiping out the company's asset base.
+Governments can also revoke or change license terms for political or environmental reasons. Scandinavia's strong environmental regulations and growing opposition to mining create [political risk](/political-risk/). A change in government or public sentiment could invalidate First Nordic's tenure, wiping out the company's asset base.
 
 ## Geologic Prospectivity: Skill-Based, Not Defensible
 

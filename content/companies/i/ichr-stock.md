@@ -30,7 +30,7 @@ Proprietary engineering is a intangible asset ICHOR develops with each customer 
 
 ICHOR has typically carried modest levels of debt, relying on operational cash flow and equity to fund growth. This conservative capital structure reflects the cyclical nature of semiconductor equipment spending: when wafer demand collapses, equipment orders freeze. Suppliers with high leverage face pressure to maintain equipment purchases and working capital even as cash generation declines, leading to covenant stress. ICHOR's lower leverage provides a buffer, but it also means the company sacrifices leverage to amplify returns in upturns.
 
-The company's cash flow from operations is highly seasonal. Major orders bunch late in fiscal year quarters, creating lumpy cash collection and high variability in quarterly [free-cash-flow](/free-cash-flow/). This seasonality is invisible in annual statements but critical for understanding cash deployment: ICHOR must maintain sufficient liquidity between order cycles. The balance sheet reflects this through elevated cash reserves in certain periods and higher working capital swings than typical non-cyclical manufacturers.
+The company's cash flow from operations is highly seasonal. Major orders bunch late in [fiscal year](/fiscal-year-definition/) quarters, creating lumpy cash collection and high variability in quarterly [free-cash-flow](/free-cash-flow/). This seasonality is invisible in annual statements but critical for understanding cash deployment: ICHOR must maintain sufficient liquidity between order cycles. The balance sheet reflects this through elevated cash reserves in certain periods and higher working capital swings than typical non-cyclical manufacturers.
 
 ## Inventory as a Leverage Point and Risk
 
@@ -46,7 +46,7 @@ ICHOR's gross margins are moderate (typically 30–40%), reflecting the engineer
 
 ## The Broader Balance-Sheet Story
 
-ICHOR's equity base has grown steadily as the company retains earnings, though share count has fluctuated due to buyback programs during strong cycles and occasional dilution from employee equity or acquisition currencies. The company's [debt-to-equity ratio](/debt-to-equity-ratio/) has remained conservative, giving it dry powder for [acquisitions](/acquisition/) or investments in new manufacturing capabilities. Yet this strength comes with a caveat: in a prolonged sector downturn, a heavily equipped, inventory-heavy supplier faces margin compression and cash-generation challenges that equity cushion alone may not solve.
+ICHOR's equity base has grown steadily as the company retains earnings, though share count has fluctuated due to buyback programs during strong cycles and occasional dilution from employee equity or acquisition currencies. The company's [debt-to-equity ratio](/debt-to-equity-ratio/) has remained conservative, giving it [dry powder](/pe-dry-powder/) for [acquisitions](/acquisition/) or investments in new manufacturing capabilities. Yet this strength comes with a caveat: in a prolonged sector downturn, a heavily equipped, inventory-heavy supplier faces margin compression and cash-generation challenges that [equity cushion](/equity-cushion/) alone may not solve.
 
 The core balance-sheet discipline for ICHOR investors is to monitor working capital intensity, customer [concentration risk](/concentration-risk/) embedded in both sales concentration and asset specificity, and the sustainability of [free-cash-flow](/free-cash-flow/) generation across full semiconductor cycles.
 

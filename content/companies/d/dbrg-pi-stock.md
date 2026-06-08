@@ -37,7 +37,7 @@ By the 2020s, DigitalBridge had become a global platform manager overseeing hund
 
 DigitalBridge operates as an alternative asset manager, which means its income streams differ from a traditional operator. When DigitalBridge acquires a data center or fiber network, it typically doesn't own it outright but rather manages it on behalf of limited partners who own the underlying asset and share in the cash flow.
 
-DigitalBridge's earnings come from three buckets. First, [management fees](/management-fee/), typically a percentage of assets under management, paid annually by the funds and partnerships it manages. Second, [performance fees](/performance-fee/) or carried interest — a share of profits realized when investments are sold or when targets are hit. Third, income from any direct stakes DigitalBridge itself holds in the managed entities.
+DigitalBridge's earnings come from three buckets. First, [management fees](/management-fee/), typically a percentage of assets under management, paid annually by the funds and partnerships it manages. Second, [performance fees](/performance-fee/) or [carried interest](/carried-interest-compensation/) — a share of profits realized when investments are sold or when targets are hit. Third, income from any direct stakes DigitalBridge itself holds in the managed entities.
 
 This model aligns management incentives with investor returns. DigitalBridge makes more money when its investors make money. But it also means the company's earnings vary with both the size of assets under management and the success rate of the underlying investments.
 

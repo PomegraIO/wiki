@@ -67,7 +67,7 @@ Capital intensity is structural. Whether in commodity or specialty chemicals, ma
 
 ## How a reader would research it
 
-The legal American investor access point is the ADR (MBSHY on the OTC Markets), but the company's primary [listed market](/listed-market/) and the source of comprehensive disclosure is Japan. The [Tokyo Stock Exchange](/tokyo-stock-exchange/) is where the ordinary shares trade, and the company's regulatory filings follow Japanese accounting rules and the Tokyo Exchange's disclosure regime. The SEC filing (CIK 0002079706) provides an annual 20-F form on a delay, offering a view of the previous fiscal year translated into U.S. GAAP accounting.
+The legal American investor access point is the ADR (MBSHY on the OTC Markets), but the company's primary [listed market](/listed-market/) and the source of comprehensive disclosure is Japan. The [Tokyo Stock Exchange](/tokyo-stock-exchange/) is where the ordinary shares trade, and the company's regulatory filings follow Japanese accounting rules and the Tokyo Exchange's disclosure regime. The SEC filing (CIK 0002079706) provides an annual 20-F form on a delay, offering a view of the previous [fiscal year](/fiscal-year-definition/) translated into U.S. GAAP accounting.
 
 The 20-F is the place to start: it breaks the business into segments with separate revenue and operating-income tables, maps the geographic split of sales (crucial for understanding Japan-concentration risk), and describes the company's capital-allocation strategy in a way that American readers can follow. Quarterly earnings results and segment updates come through the Tokyo Exchange and are often available in English on the company's investor relations website.
 

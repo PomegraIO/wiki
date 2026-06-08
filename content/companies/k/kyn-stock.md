@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Kayne Anderson Energy Infrastructure Fund is a closed-end investment fund that pools shareholder capital to buy and hold a diversified portfolio of energy-infrastructure assets traded on public markets. Instead of operating pipelines or utilities itself, the fund acts as a financial vehicle—selecting, holding, and managing stakes in energy-midstream companies, pipeline operators, and related infrastructure firms. Its shareholders receive quarterly or monthly distributions from the fund's collected income, making it a structure designed primarily for investors seeking regular cash distributions rather than capital appreciation.
+Kayne Anderson Energy [Infrastructure Fund](/pe-infrastructure-fund/) is a closed-end investment fund that pools shareholder capital to buy and hold a diversified portfolio of energy-infrastructure assets traded on public markets. Instead of operating pipelines or utilities itself, the fund acts as a financial vehicle—selecting, holding, and managing stakes in energy-midstream companies, pipeline operators, and related infrastructure firms. Its shareholders receive quarterly or monthly distributions from the fund's collected income, making it a structure designed primarily for investors seeking regular cash distributions rather than capital appreciation.
 
 <aside class="wiki-infobox">
 <table>

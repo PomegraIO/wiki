@@ -54,7 +54,7 @@ The company has also consolidated market position through various [acquisitions]
 
 Start with oil price futures ([WTI crude](/wti-crude/) is the U.S. benchmark). When six-month forward prices are above $70, producers are likely budgeting for growth; watch for ProPetro announcements of new contract wins. Conversely, when forward prices are falling, expect management to warn of lower utilisation in the next quarter.
 
-ProPetro's quarterly 10-Q filings (SEC CIK 0001680247) break down utilisation rates — the percentage of available frac fleets in use — and average revenue per stage, both of which are leading indicators of the cycle. Watch the company's debt levels and liquidity position too: a downturn with high debt is painful; a downturn with a fortress balance sheet is merely uncomfortable.
+ProPetro's quarterly 10-Q filings (SEC CIK 0001680247) break down utilisation rates — the percentage of available frac fleets in use — and average revenue per stage, both of which are [leading indicators](/leading-indicator/) of the cycle. Watch the company's debt levels and liquidity position too: a downturn with high debt is painful; a downturn with a fortress balance sheet is merely uncomfortable.
 
 The company's guidance, or lack thereof, is revealing. When management stops giving [forward guidance](/forward-guidance/), it often signals uncertainty about near-term pricing and demand. When it commits to quarterly expectations, conviction is higher.
 

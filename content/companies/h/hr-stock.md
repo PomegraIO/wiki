@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Healthcare Realty Trust owns medical office buildings and surgical centers leased to healthcare operators—a straightforward collection of essential healthcare real estate producing stable, recurring rent. Unlike the sprawling, diversified REITs that own shopping malls and office parks, Healthcare Realty focuses singularly on the spaces where actual medical care happens: clinics, imaging centers, surgical facilities, and the administrative outposts that support them. The business is known for long-term tenant relationships and the defensive characteristics that flow from that arrangement; during downturns, people still need medical care.
+Healthcare Realty Trust owns medical office buildings and surgical centers leased to healthcare operators—a straightforward collection of essential healthcare real estate producing stable, recurring rent. Unlike the sprawling, [diversified REITs](/diversified-reit/) that own shopping malls and office parks, Healthcare Realty focuses singularly on the spaces where actual medical care happens: clinics, imaging centers, surgical facilities, and the administrative outposts that support them. The business is known for long-term tenant relationships and the defensive characteristics that flow from that arrangement; during downturns, people still need medical care.
 
 <aside class="wiki-infobox">
 <table>

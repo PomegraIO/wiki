@@ -36,7 +36,7 @@ Australia and APAC, by contrast, offer steadier [diversification](/diversificati
 
 ## The Inventory Burden
 
-Finning must choose what to stock—a forecasting problem disguised as a balance-sheet question. A parts warehouse that is fully stocked and turns slowly represents trapped cash. A warehouse that is too lean loses urgent repair jobs and customer loyalty. During downturns, when demand for parts plummets, Finning holds massive slow-moving inventory at full cost. The company then faces a grim choice: write down the inventory (hitting profits) or carry it at inflated value (signaling distress to lenders and investors). This inventory cycle is often the first indicator of margin pressure ahead.
+Finning must choose what to stock—a forecasting problem disguised as a balance-sheet question. A parts warehouse that is fully stocked and turns slowly represents trapped cash. A warehouse that is too lean loses urgent repair jobs and customer loyalty. During downturns, when demand for parts plummets, Finning holds massive slow-moving inventory at full cost. The company then faces a grim choice: write down the inventory (hitting profits) or carry it at inflated value (signaling distress to lenders and investors). This [inventory cycle](/inventory-cycle/) is often the first indicator of margin pressure ahead.
 
 Finning also carries significant rental and used equipment inventory. These assets depreciate as used machines; their value is sensitive to resale market prices, which collapse in downturns. A machine purchased for $400,000 new might have a book value of $200,000 after 5 years of rental. If commodity prices fall and rental customers default or return equipment, Finning may be forced to liquidate at fire-sale prices, crystallizing large losses.
 

@@ -63,6 +63,6 @@ Mining development is capital-intensive and long. Once permitting is secured, co
 
 Start with the most recent annual 10-K filing (SEC CIK 0001893899) to understand the portfolio of properties — their locations, the metals targeted, any partnerships in place, and management's assessment of which projects are closest to development. The filing will describe the permitting status of each property and the capital requirements for the next phase.
 
-Watch for financing activity: equity raises, warrant offerings, and any announcement of partnerships with larger miners. These signal management's commitment and the company's progress. Pay attention to metal prices — a 20% drop in silver prices can render a marginal project uneconomic and force the company to shelve or sell assets.
+Watch for financing activity: equity raises, [warrant offerings](/warrant-offering/), and any announcement of partnerships with larger miners. These signal management's commitment and the company's progress. Pay attention to metal prices — a 20% drop in silver prices can render a marginal project uneconomic and force the company to shelve or sell assets.
 
 The company's life depends on finding one project that reaches production; how close it is to that milestone, and how likely that milestone is, determines the risk and potential return to shareholders.

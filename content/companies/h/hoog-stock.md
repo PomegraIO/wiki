@@ -33,7 +33,7 @@ On top of decay, HOOG charges a [management fee](/management-fee/) of approximat
 
 ## Risk in plain terms
 
-Leverage multiplies loss. A 10% drop in Robinhood becomes a 20% drop in HOOG. After-hours news that causes Robinhood to gap down (jump down sharply) at market open means HOOG gaps down twice as much, with no chance to exit before the loss is locked in. Holding HOOG overnight or across weekends multiplies this gap risk. A bad earnings report released after hours, a regulatory announcement, or an industry shock will hit HOOG holders harder and faster than Robinhood shareholders.
+Leverage multiplies loss. A 10% drop in Robinhood becomes a 20% drop in HOOG. After-hours news that causes Robinhood to gap down (jump down sharply) at market open means HOOG gaps down twice as much, with no chance to exit before the loss is locked in. Holding HOOG overnight or across weekends multiplies this [gap risk](/gap-risk/). A bad earnings report released after hours, a regulatory announcement, or an industry shock will hit HOOG holders harder and faster than Robinhood shareholders.
 
 ## Who should actually use it
 

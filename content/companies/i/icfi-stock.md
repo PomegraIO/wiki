@@ -59,7 +59,7 @@ ICF's profitability depends on winning enough high-value, technical contracts to
 
 ## Geographic and Sector Risk
 
-ICF's revenue is concentrated in federal contracting, which is itself cyclical and subject to political risk. A change in administration can shift spending priorities—climate spending rises and falls with political winds, healthcare policy shifts with each Congress, defense spending expands and contracts.
+ICF's revenue is concentrated in federal contracting, which is itself cyclical and subject to [political risk](/political-risk/). A change in administration can shift spending priorities—climate spending rises and falls with political winds, healthcare policy shifts with each Congress, defense spending expands and contracts.
 
 The firm has limited geographic diversification. It operates primarily in the United States, where federal contracting is concentrated. International consulting work is a small portion of total revenue.
 

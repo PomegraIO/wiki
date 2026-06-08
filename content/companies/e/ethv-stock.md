@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-VanEck [Ethereum](/ethereum/) ETF trades under ETHV on the [NASDAQ](/nasdaq/) as the mirror of the firm's [bitcoin](/bitcoin/) ETF, HODL. Where HODL holds physical bitcoin, ETHV holds actual Ethereum tokens. Both are spot cryptocurrency ETFs: the fund buys and holds the underlying asset in custody, avoiding the complications of [futures contracts](/futures-contract/) or derivative structures, and charges investors a [management fee](/management-fee/) for the service.
+VanEck [Ethereum](/ethereum/) ETF trades under ETHV on the [NASDAQ](/nasdaq/) as the mirror of the firm's [bitcoin](/bitcoin/) ETF, HODL. Where HODL holds physical bitcoin, ETHV holds actual Ethereum tokens. Both are spot [cryptocurrency ETFs](/cryptocurrency-etf/): the fund buys and holds the underlying asset in custody, avoiding the complications of [futures contracts](/futures-contract/) or derivative structures, and charges investors a [management fee](/management-fee/) for the service.
 
 <aside class="wiki-infobox">
 <table>

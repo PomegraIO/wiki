@@ -15,7 +15,7 @@ handwritten: true
 
 ## What emerging markets means
 
-Emerging markets are the equity markets of countries beyond the developed world — nations with growing economies, expanding middle classes, and faster economic growth than mature markets, but less stable institutions, higher political risk, and less developed financial infrastructure. The group includes giants like China and India with billions of consumers, as well as smaller markets like Vietnam, Philippines, and Egypt with smaller but still significant growth potential.
+Emerging markets are the equity markets of countries beyond the developed world — nations with growing economies, expanding middle classes, and faster economic growth than mature markets, but less stable institutions, higher [political risk](/political-risk/), and less developed financial infrastructure. The group includes giants like China and India with billions of consumers, as well as smaller markets like Vietnam, Philippines, and Egypt with smaller but still significant growth potential.
 
 AVSE's holdings span these economies. The fund owns Chinese tech companies and manufacturers, Indian software and financial firms, Brazilian banks and commodities exporters, Mexican retailers, southeast Asian industrials. The sectors and company types are as diverse as the underlying economies, but they share one characteristic: they operate in countries with either faster growth than the developed world or lower valuations or both.
 
@@ -25,13 +25,13 @@ AVSE applies the same responsibility-screening logic as its developed-market sib
 
 The screening removes companies with severe practices — toxic pollution, egregious labour violations, kleptocratic management, financial fraud — but does not attempt to perfect governance. The result is a universe of emerging-market companies that have passed a floor of acceptable practice, not a curated list of leaders.
 
-This trade-off matters. An unscreened emerging-market fund might hold a Chinese company with environmental problems but strong growth; a screened fund excludes it, potentially sacrificing returns but reducing exposure to regulatory or reputational risk.
+This trade-off matters. An unscreened emerging-market fund might hold a Chinese company with environmental problems but strong growth; a screened fund excludes it, potentially sacrificing returns but reducing exposure to regulatory or [reputational risk](/reputational-risk/).
 
 ## Why emerging-market exposure and the risks involved
 
 Emerging markets have historically delivered higher average returns than developed markets over long periods, in exchange for higher volatility. The trade-off is real: a Chinese tech boom can make AVSE surge; Chinese regulatory crackdowns can crater it. Indian growth can drive strong returns; Indian political instability can create sharp drawdowns. The countries themselves face [currency risk](/currency-risk/), geopolitical uncertainty, and commodity-price swings.
 
-The currency exposure is significant. AVSE's holdings are denominated in multiple currencies — Chinese renminbi, [Indian rupees](/indian-rupee/), Brazilian reais, Mexican pesos, and others. When those currencies weaken against the [US dollar](/us-dollar/), an American investor's dollar-valued returns decline even if the underlying stocks rise. When emerging-market currencies strengthen, they amplify gains.
+The currency exposure is significant. AVSE's holdings are denominated in multiple currencies — Chinese renminbi, [Indian rupees](/indian-rupee/), Brazilian reais, [Mexican pesos](/mexian-peso/), and others. When those currencies weaken against the [US dollar](/us-dollar/), an American investor's dollar-valued returns decline even if the underlying stocks rise. When emerging-market currencies strengthen, they amplify gains.
 
 The biggest risk is concentration and correlation within the fund. Emerging markets, despite their diversity, tend to move together in times of stress. A global credit crisis, a flight to safety by global investors, a collapse in commodity prices — these systemic shocks ripple across all emerging markets simultaneously. AVSE's [diversification](/diversification/) across countries reduces single-country risk but does not eliminate the risk that all emerging markets will struggle at once.
 

@@ -24,7 +24,7 @@ At its core, content production is a project-based business. A studio develops a
 
 ## Intellectual Property and Franchising
 
-Valuable entertainment companies own or control intellectual property—characters, stories, universes, or talent relationships that have proven commercial appeal. Owning an IP asset means the company can monetize it repeatedly: a film franchise generates theatrical releases, then streaming rights, then merchandise, then theme-park attractions. This multi-window exploitation multiplies the value of the original content investment. Lucky Strike Entertainment's competitive position depends partly on what IP it controls. Companies holding franchises, recognizable characters, or talent deals can build recurring revenue streams. Companies dependent on one-off projects or licensing arrangements from third parties have less defensibility and more execution risk.
+Valuable entertainment companies own or control intellectual property—characters, stories, universes, or talent relationships that have proven commercial appeal. Owning an IP asset means the company can monetize it repeatedly: a film franchise generates theatrical releases, then streaming rights, then merchandise, then theme-park attractions. This multi-window exploitation multiplies the value of the original content investment. Lucky Strike Entertainment's competitive position depends partly on what IP it controls. Companies holding franchises, recognizable characters, or talent deals can build recurring revenue streams. Companies dependent on one-off projects or licensing arrangements from third parties have less defensibility and more [execution risk](/execution-risk/).
 
 ## Distribution and Platform Dynamics
 

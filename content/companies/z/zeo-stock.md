@@ -35,7 +35,7 @@ The company's positioning reflects a shift in how the renewable energy industry 
 
 Zeo's technical focus includes both conventional geothermal development and investment in enhanced geothermal systems (EGS), sometimes called hot fractured rocks or engineered reservoirs. Conventional geothermal requires naturally occurring hot water or steam reservoirs accessible at economic depths; these exist in tectonically active regions (parts of the western U.S., Iceland, New Zealand, Japan). EGS aims to create or improve permeability in hot dry rock formations by hydraulic stimulation, potentially opening geothermal development to a much wider geographic footprint.
 
-The company's project portfolio likely spans site identification, permitting, construction, and operation of plants. Typical modern geothermal plants range from 10 to 50+ megawatts per site, with 30-year+ operational lifespans. The economic model relies on power purchase agreements (PPAs) with utilities or grid operators, offering long-term, contracted revenue streams—a feature that attracts institutional capital and [debt financing](/debt-financing/).
+The company's project portfolio likely spans site identification, permitting, construction, and operation of plants. Typical modern geothermal plants range from 10 to 50+ megawatts per site, with 30-year+ operational lifespans. The economic model relies on [power purchase agreements](/power-purchase-agreement/) (PPAs) with utilities or grid operators, offering long-term, contracted revenue streams—a feature that attracts institutional capital and [debt financing](/debt-financing/).
 
 ## Revenue and Economics
 
@@ -53,7 +53,7 @@ Geothermal energy is a niche within renewables, dominated by larger integrated u
 
 The geothermal industry globally has grown steadily but modestly—global capacity in 2023 stood around 14–15 gigawatts, dwarfed by wind and solar. U.S. capacity is concentrated in California and Nevada. The sector's appeal lies in its dispatchability and small geographic footprint per megawatt, which may favor development in densely populated or grid-constrained regions.
 
-Zeo's willingness to pursue EGS technology signals ambition beyond conventional geothermal. If EGS projects can be developed at scale and cost-effectively, the addressable market expands dramatically. However, EGS remains experimental; success is not guaranteed, and technology risk is real.
+Zeo's willingness to pursue EGS technology signals ambition beyond conventional geothermal. If EGS projects can be developed at scale and cost-effectively, the addressable market expands dramatically. However, EGS remains experimental; success is not guaranteed, and [technology risk](/technology-risk/) is real.
 
 ## Risks and Pressures
 

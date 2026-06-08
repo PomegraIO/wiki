@@ -19,7 +19,7 @@ handwritten: true
 
 A net lease puts the cost of owning and operating the property on the tenant, not the landlord. In a traditional lease, the landlord collects rent and pays for building maintenance, property taxes, and insurance. In a net lease, the tenant pays these costs directly — the rent covers only the return of capital and profit to the owner. This is enormously advantageous to Global Net Lease because it means the company does not have to manage the property or spend capital on repairs. A broken roof or a failed air-conditioning system is the tenant's problem. Global Net Lease simply collects rent.
 
-This arrangement also allows the company to operate with a very small overhead. There is no need for a large property-management organization or maintenance staff. The company can be run by a lean team focused on acquiring properties, analyzing tenant credit, and returning cash to shareholders. This is why net-lease REITs can be very profitable relative to their equity base — they have minimal ongoing capital needs and minimal overhead.
+This arrangement also allows the company to operate with a very small overhead. There is no need for a large property-management organization or maintenance staff. The company can be run by a lean team focused on acquiring properties, analyzing tenant credit, and returning cash to shareholders. This is why [net-lease REITs](/net-lease-reit/) can be very profitable relative to their equity base — they have minimal ongoing capital needs and minimal overhead.
 
 ### How does Global Net Lease make money?
 
@@ -45,7 +45,7 @@ The company can also grow by raising the rents on leases as they expire or as es
 
 The [dividend yield](/dividend-yield/) (annual dividend divided by share price) tells you what percentage of the share price you are earning back in dividends. For a REIT, this is important because the vast majority of returns come from the dividend, not from capital appreciation. A 5% dividend yield means you are earning 5% per year in dividends (before taxes). Compare this to long-term [bond](/bond/) yields and to the yields of competing REITs.
 
-The loan-to-value ratio (the amount of debt divided by the value of the properties) tells you how leveraged the company is. A ratio of 50% means half the properties are financed with debt and half with equity. A ratio of 70% means the company is more heavily leveraged. Higher leverage amplifies returns in good times but increases the risk of financial distress if tenant credit deteriorates.
+The [loan-to-value ratio](/loan-to-value-ratio/) (the amount of debt divided by the value of the properties) tells you how leveraged the company is. A ratio of 50% means half the properties are financed with debt and half with equity. A ratio of 70% means the company is more heavily leveraged. Higher leverage amplifies returns in good times but increases the risk of financial distress if tenant credit deteriorates.
 
 The weighted-average lease term tells you how long on average until leases expire. If the average lease term is 10 years, the company has a decade of predictable rent. If it is three years, leases are expiring frequently and the company faces more risk of rent cuts or tenant defaults at renewal. A company with a long weighted-average lease term is more stable but may also be locking in rents that are now below market if markets have appreciated.
 

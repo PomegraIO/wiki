@@ -52,7 +52,7 @@ StemTech's path to profitability depends on whether it can retain an active affi
 
 The nutraceutical space is subject to FDA oversight, particularly around labeling and marketing claims. Any suggestion that StemTech's products cure or treat disease—rather than simply support wellness—invites regulatory action. The company's claims that stemceuticals "support" cellular regeneration are carefully crafted, but if the company or its affiliates make stronger claims in marketing materials, the company faces potential enforcement.
 
-Additionally, the network-marketing structure, while legal, carries reputational risk. Affiliate-based businesses are often characterized by high failure rates and complaints from participants who earn little, and media scrutiny of MLM structures is intense. Any negative coverage of StemTech's affiliate program could harm recruitment and customer sentiment.
+Additionally, the network-marketing structure, while legal, carries [reputational risk](/reputational-risk/). Affiliate-based businesses are often characterized by high failure rates and complaints from participants who earn little, and media scrutiny of MLM structures is intense. Any negative coverage of StemTech's affiliate program could harm recruitment and customer sentiment.
 
 ## How to research StemTech
 

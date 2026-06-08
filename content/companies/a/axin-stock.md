@@ -29,7 +29,7 @@ When Axiom went public, investors bought units for ten dollars each. Each unit i
 
 **The trade-offs and risks**
 
-If you own AXIN units right now, you are betting that Axiom's management will find a good European infrastructure target at a reasonable price, that shareholders will vote to approve it, and that the combined company's shares will be worth more than ten dollars after the dust settles. But the risks are real. Management might overpay for a target, burning shareholder value. The target might be a dud once the SPAC investor's due diligence is complete. Or the deal might fall apart entirely and you get your money back from the trust account — minus the SPAC's operating expenses and the share of your cash that was paid out in sponsor fees.
+If you own AXIN units right now, you are betting that Axiom's management will find a good European infrastructure target at a reasonable price, that shareholders will vote to approve it, and that the combined company's shares will be worth more than ten dollars after the dust settles. But the risks are real. Management might overpay for a target, burning shareholder value. The target might be a dud once the SPAC investor's [due diligence](/due-diligence/) is complete. Or the deal might fall apart entirely and you get your money back from the trust account — minus the SPAC's operating expenses and the share of your cash that was paid out in sponsor fees.
 
 **Understanding the SPAC trade**
 

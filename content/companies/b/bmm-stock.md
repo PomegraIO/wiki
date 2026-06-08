@@ -40,7 +40,7 @@ A change in any of these shifts profitability. A discovery of higher-grade ore n
 
 Metals prices follow global cycles. In boom times—rapid industrialization, infrastructure spending, construction—demand for copper, zinc, and other building materials surges. Prices spike. Mining companies print cash.
 
-In downturns—[recessions](/recession/), credit freezes, reduced construction—demand crashes. Prices plummet. Miners bleed cash and cut production or lay off workers.
+In downturns—[recessions](/recession/), [credit freezes](/credit-freeze/), reduced construction—demand crashes. Prices plummet. Miners bleed cash and cut production or lay off workers.
 
 Blue Moon's shareholders face timing risk. Buy the stock into an expansion and ride it to a peak, then watch it crater in the downturn. Or buy in a downturn after prices have bottomed and ride the recovery. Or buy at the peak and suffer for years.
 

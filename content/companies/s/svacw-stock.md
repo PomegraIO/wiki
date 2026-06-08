@@ -33,7 +33,7 @@ The risk is asymmetric. The warrant holder can lose 100 percent of the warrant i
 
 If a warrant holder decides to exercise SVACW, they must pay the strike price (typically around 11.50 dollars per share, depending on the exact terms) to Spring Valley. Spring Valley then issues new shares to the exercising warrant holder. That new issuance dilutes the holdings of existing shareholders — the total share count goes up, spreading the same earnings and assets across more shares.
 
-For that reason, the potential for warrant exercise is factored into dilution models and estimates of future [earnings per share](/earnings-per-share/). Analysts and investors examining Spring Valley's 10-K or any proxy statement would find detailed disclosure about warrant terms, how many are outstanding, the strike price, and assumptions about how many are likely to be exercised (if the expected stock price exceeds the strike at expiration).
+For that reason, the potential for warrant exercise is factored into dilution models and estimates of future [earnings per share](/earnings-per-share/). Analysts and investors examining Spring Valley's 10-K or any [proxy statement](/proxy-statement/) would find detailed disclosure about warrant terms, how many are outstanding, the strike price, and assumptions about how many are likely to be exercised (if the expected stock price exceeds the strike at expiration).
 
 ## What happens when the SPAC combines
 

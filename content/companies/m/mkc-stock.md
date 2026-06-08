@@ -43,7 +43,7 @@ The company's response has been to invest in scale at the procurement end. By bu
 
 The consumer products side carries higher gross margins—the brand allows pricing leverage—whilst the industrial side, though growing faster, tends to be lower-margin because it operates under competitive bid pressure and long-term contracts that cap pricing flexibility. The split between the two has shifted over the years; [diversification](/diversification/) into industrial has broadened the addressable market but has also made earnings more sensitive to customer wins and losses and to commodity price moves.
 
-[Inflation](/inflation/) in raw inputs—spices, packaging, labour—squeezes margins, and McCormick has limited ability to pass all of it through to customers immediately. A ten-year climb in pepper prices, for example, forces the company to either hold prices (losing margin) or raise them enough to risk customer defection. The company's strategic response has been to drive volume growth in emerging markets where per-capita spice consumption is still low, and to innovate in products with higher perceived value—premium blends, ethnic flavours, recipe kits.
+[Inflation](/inflation/) in raw inputs—spices, packaging, labour—squeezes margins, and McCormick has limited ability to pass all of it through to customers immediately. A ten-year climb in pepper prices, for example, forces the company to either hold prices (losing margin) or raise them enough to risk customer defection. The company's strategic response has been to drive volume growth in emerging markets where per-capita spice consumption is still low, and to innovate in products with higher perceived [value—premium](/value-premium/) blends, ethnic flavours, recipe kits.
 
 ## Scale and operational leverage
 

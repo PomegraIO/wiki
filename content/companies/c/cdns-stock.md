@@ -83,7 +83,7 @@ Reading Cadence requires understanding the software business, the semiconductor 
 
 Key metrics: subscription revenue as a percentage of total revenue (higher is better and more predictable), customer retention rate (how many customers renew their subscriptions), gross margins (which should remain stable or increase), and free cash flow (which reveals how much cash the business is generating). Compare these to Synopsys and Mentor Graphics to understand competitive performance.
 
-Watch for new product launches, partnerships with semiconductor manufacturers, and investment in emerging areas like AI-driven design. Large customers (TSMC, Samsung, Intel) are mentioned by name in earnings calls; listen for any commentary on their spending plans, which are leading indicators of chip design activity.
+Watch for new product launches, partnerships with semiconductor manufacturers, and investment in emerging areas like AI-driven design. Large customers (TSMC, Samsung, Intel) are mentioned by name in earnings calls; listen for any commentary on their spending plans, which are [leading indicators](/leading-indicator/) of chip design activity.
 
 Cadence is a high-quality business with recurring revenue, strong margins, and limited competition. It is less volatile than semiconductor companies but more exposed to technology cycles than typical software companies. The company pays no [dividend](/dividend/), preferring to reinvest in R&D and return capital through buybacks. It is an appropriate investment for those seeking exposure to semiconductor design, the foundational layer below chip manufacturing, or software businesses with strong pricing power.
 

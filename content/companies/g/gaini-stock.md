@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-GAINI are unsecured convertible notes issued by Gladstone Investment Corporation, listed on [NASDAQ](/nasdaq/), with a [coupon rate](/coupon-rate/) of 7.875% and a maturity date in 2030. They sit in a hybrid space between fixed-income [bonds](/bond/) and equity securities. Holders receive a fixed 7.875% annual interest payment (paid semi-annually) until maturity, at which point they receive their principal back—unless they choose to convert their notes into common shares of Gladstone Investment at a predetermined conversion price before that date.
+GAINI are unsecured [convertible notes](/convertible-notes/) issued by Gladstone Investment Corporation, listed on [NASDAQ](/nasdaq/), with a [coupon rate](/coupon-rate/) of 7.875% and a maturity date in 2030. They sit in a hybrid space between fixed-income [bonds](/bond/) and equity securities. Holders receive a fixed 7.875% annual interest payment (paid semi-annually) until maturity, at which point they receive their principal back—unless they choose to convert their notes into common shares of Gladstone Investment at a predetermined conversion price before that date.
 
 <aside class="wiki-infobox">
 <table>

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **iShares Fallen Angels USD [Bond ETF](/bond-etf/)** (FALN) holds [bonds](/bond/) issued by companies that were once rated investment-grade by credit agencies but have since been downgraded into the higher-risk speculative-grade category. It is a bet on the middle ground: these are not corporations that started life as junk, but rather ones that stumbled.*
+*The **iShares [Fallen Angels](/fallen-angel/) USD [Bond ETF](/bond-etf/)** (FALN) holds [bonds](/bond/) issued by companies that were once rated investment-grade by credit agencies but have since been downgraded into the higher-risk speculative-grade category. It is a bet on the middle ground: these are not corporations that started life as junk, but rather ones that stumbled.*
 
 <aside class="wiki-infobox">
 <table>

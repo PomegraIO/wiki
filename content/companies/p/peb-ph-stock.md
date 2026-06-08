@@ -57,7 +57,7 @@ The third driver is capital markets access. A REIT that cannot raise equity chea
 
 ## What are the real risks?
 
-Pebblebrook's exposure to discretionary travel is both its strength and its vulnerability. During the pandemic, when business and leisure travel effectively ceased, hotel revenues collapsed. Pebblebrook weathered that shock through [debt restructuring](/debt-restructuring/) and asset sales, but it faced real questions about solvency that more diversified REITs did not.
+Pebblebrook's exposure to discretionary travel is both its strength and its vulnerability. During the pandemic, when business and leisure travel effectively ceased, hotel revenues collapsed. Pebblebrook weathered that shock through [debt restructuring](/debt-restructuring/) and asset sales, but it faced real questions about solvency that more [diversified REITs](/diversified-reit/) did not.
 
 The company also faces competition from alternative accommodation platforms like [Airbnb](/abnb-stock/) and Vrbo, which allow individuals to offer short-term rentals outside the traditional hotel market. In popular leisure markets, this has created a shadow supply of rooms that competes on price and unique positioning. Premium luxury hotels are less exposed to this threat — not many properties can match the service, consistency, and liability protection of a professional hotel — but it remains a structural headwind for the middle and upper-middle tiers where some of Pebblebrook's properties compete.
 

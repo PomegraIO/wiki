@@ -39,7 +39,7 @@ Fuel distribution generates the largest revenue stream, driven by Brazil's vehic
 
 LPG distribution is similarly volume-driven but benefits from steady residential and commercial demand, particularly in regions where pipeline gas is unavailable. The regulated nature of LPG safety and handling creates switching costs and loyalty, and Ultragaz's scale allows it to absorb cost pressures better than smaller competitors.
 
-Both segments depend on imported fuel and feedstock stability and on logistics infrastructure—pipelines, ports, and road networks. Currency movements matter acutely: since much of Brazil's crude is imported or indexed to global prices, [depreciation](/depreciation/) of the Brazilian real raises input costs and pressures margins unless prices can be passed through quickly.
+Both segments depend on imported fuel and feedstock stability and on logistics infrastructure—pipelines, ports, and road networks. Currency movements matter acutely: since much of Brazil's crude is imported or indexed to global prices, [depreciation](/depreciation/) of the [Brazilian real](/brazilian-real/) raises input costs and pressures margins unless prices can be passed through quickly.
 
 ## Competitive Position and Constraints
 

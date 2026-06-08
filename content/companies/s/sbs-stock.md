@@ -51,7 +51,7 @@ The coverage challenge is structural. São Paulo state has high urbanization, bu
 
 Sabesp is a capital-intensive business. The water and sewage network is aging, especially in São Paulo's inner city, and maintaining it while expanding coverage requires continuous spending. In recent years, the company has spent billions on maintenance, treatment-plant upgrades, and network expansion. These capital needs are large relative to the company's cash generation, which means Sabesp must regularly rely on [debt financing](/debt-financing/) to fund its operations and growth.
 
-This has made Sabesp sensitive to [interest rates](/interest-rate/) and exchange rates. Much of the company's debt has historically been denominated in foreign currency (including [U.S. dollars](/wiki/us-dollar/)), and when the Brazilian real weakens, the cost of serving foreign-currency debt rises in local-currency terms. Additionally, because the regulated tariff cannot always rise fast enough to cover inflation, periods of high inflation in Brazil can squeeze Sabesp's purchasing power and margins.
+This has made Sabesp sensitive to [interest rates](/interest-rate/) and exchange rates. Much of the company's debt has historically been denominated in foreign currency (including [U.S. dollars](/wiki/us-dollar/)), and when the [Brazilian real](/brazilian-real/) weakens, the cost of serving foreign-currency debt rises in local-currency terms. Additionally, because the regulated tariff cannot always rise fast enough to cover inflation, periods of high inflation in Brazil can squeeze Sabesp's purchasing power and margins.
 
 ## Regulatory and political risks
 

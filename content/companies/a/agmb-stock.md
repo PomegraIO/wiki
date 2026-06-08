@@ -27,6 +27,6 @@ Agomab's antibody platform claims to enable development of antibodies targeting 
 
 ## What are the key risks?
 
-Like all clinical-stage biotech companies, Agomab's success depends entirely on clinical trial outcomes for its key programs. Failure rates in drug development are high. The company also faces competitive pressure from larger pharmaceutical firms pursuing similar targets, regulatory uncertainty, manufacturing complexity, and capital market cycles that can make fundraising difficult. Until a drug reaches commercialization, the company generates no product revenue.
+Like all clinical-stage biotech companies, Agomab's success depends entirely on clinical trial outcomes for its key programs. Failure rates in drug development are high. The company also faces competitive pressure from larger pharmaceutical firms pursuing similar targets, regulatory uncertainty, manufacturing complexity, and capital [market cycles](/market-cycle/) that can make fundraising difficult. Until a drug reaches commercialization, the company generates no product revenue.
 
 Related: [/wiki/public-company/](/wiki/public-company/), [/wiki/10-k/](/wiki/10-k/)

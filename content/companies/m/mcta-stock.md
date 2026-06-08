@@ -47,7 +47,7 @@ Charming Medical's [balance sheet](/balance-sheet/) will show accumulated resear
 
 ## Acquisitions and Technology In-Licensing
 
-Healthcare companies often grow through [acquisition](/acquisition/) of smaller, specialized medical device companies or licensing of promising technologies. Charming Medical's filings will disclose any such transactions, including purchase price allocations and earn-out provisions. Earn-outs—contingent future payments tied to sales or regulatory milestones—indicate that the acquirer and seller disagreed on the value of the acquisition; scrutiny of earn-out terms reveals areas of implicit disagreement.
+Healthcare companies often grow through [acquisition](/acquisition/) of smaller, specialized medical device companies or licensing of promising technologies. Charming Medical's filings will disclose any such transactions, including [purchase price allocations](/purchase-price-allocation/) and earn-out provisions. Earn-outs—contingent future payments tied to sales or regulatory milestones—indicate that the acquirer and seller disagreed on the value of the acquisition; scrutiny of earn-out terms reveals areas of implicit disagreement.
 
 <div class="wiki-seealso">
 ### Closely related

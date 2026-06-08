@@ -98,7 +98,7 @@ Profitability in recent years has been respectable but unspectacular, reflecting
 
 ## How to Research It
 
-The primary source for Bradesco's financials and operations is its [10-K](/wiki/10-k/) annual report filed with the SEC, available via the SEC EDGAR database (CIK 1160330). This provides a detailed breakdown of segments, risk factors, management discussion and analysis, and audited financials in U.S. accounting standards. Bradesco also publishes quarterly earnings releases and investor presentations, usually available on its investor relations website.
+The primary source for Bradesco's financials and operations is its [10-K](/wiki/10-k/) annual report filed with the SEC, available via the SEC EDGAR database (CIK 1160330). This provides a detailed breakdown of segments, risk factors, [management discussion and analysis](/management-discussion-and-analysis/), and audited financials in U.S. accounting standards. Bradesco also publishes quarterly earnings releases and investor presentations, usually available on its investor relations website.
 
 For competitive context, research Itaú Unibanco, Brazil's largest private bank. For macroeconomic trends affecting all Brazilian banks, monitor inflation, the central bank policy rate, currency movements, and economic growth. Industry research from international banking analysts and wire services (Reuters, Bloomberg) offers commentary on competitive dynamics and regulatory changes.
 

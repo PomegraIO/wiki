@@ -39,7 +39,7 @@ Physical branch presence matters too. Customers still value the ability to walk 
 
 Regulator and market access is a third factor. Fulton's size—large enough to be stable, small enough to be nimble—allows it to navigate regulation effectively and to compete in markets where mega-banks are sometimes unwelcome due to community-banking advocacy. That is a modest advantage, but it exists.
 
-Against all this: technology has made banking more commoditized. A customer can open a high-yield savings account with an online bank instantly. They can apply for a mortgage on their phone and compare rates across a dozen providers. Fulton competes in that environment. It is not going away, but its local advantages are thinner than they were twenty years ago.
+Against all this: technology has made banking more commoditized. A customer can open a [high-yield savings account](/high-yield-savings-account/) with an online bank instantly. They can apply for a mortgage on their phone and compare rates across a dozen providers. Fulton competes in that environment. It is not going away, but its local advantages are thinner than they were twenty years ago.
 
 ## Where Fulton is exposed
 

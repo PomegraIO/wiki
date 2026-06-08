@@ -29,7 +29,7 @@ handwritten: true
 
 Globe Life operates three main business segments: Life Insurance, Health Insurance, and Investments. Life insurance is the largest driver of revenue, concentrated in term life policies that appeal to middle-income and working-class customers who may not qualify for or wish to pursue medical underwriting. Health insurance includes accident, cancer, critical illness, and accident/disability products that complement the life portfolio. These policies are designed for underserved markets and offer simple underwriting — in many cases, no medical exam is required, which is both a competitive advantage and a source of slightly higher lapse risk and claims volatility compared to fully underwritten policies.
 
-The company reaches customers through a network of independent agents, direct mail, telephone, and increasingly through digital platforms. Independent agents represent the bulk of distribution, particularly for American Income Life, a significant subsidiary. This diversified distribution approach helps cushion against swings in any one channel and provides sticky customer relationships. The Investments segment, though smaller, includes fixed annuities and structured products.
+The company reaches customers through a network of independent agents, direct mail, telephone, and increasingly through digital platforms. Independent agents represent the bulk of distribution, particularly for American Income Life, a significant subsidiary. This diversified distribution approach helps cushion against swings in any one channel and provides sticky customer relationships. The Investments segment, though smaller, includes fixed annuities and [structured products](/structured-product/).
 
 **History and evolution**
 

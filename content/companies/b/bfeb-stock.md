@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The Innovator U.S. Equity Buffer ETF - February (BFEB) is a defined-outcome fund that wraps a core holding of U.S. equity exposure inside an options collar designed to lock in a floor and ceiling on returns over each calendar month. It sits in a category of buffer funds that trade upside potential for peace of mind — investors give up the chance to capture the full monthly gain in exchange for protection against the full monthly loss.
+The Innovator U.S. Equity [Buffer ETF](/buffer-etf/) - February (BFEB) is a defined-outcome fund that wraps a core holding of U.S. equity exposure inside an options collar designed to lock in a floor and ceiling on returns over each calendar month. It sits in a category of [buffer funds](/buffer-fund/) that trade upside potential for peace of mind — investors give up the chance to capture the full monthly gain in exchange for protection against the full monthly loss.
 
 ## What does BFEB actually hold?
 
@@ -42,4 +42,4 @@ BFEB appeals to investors who want U.S. stock exposure but either cannot stomach
 
 ## How to research BFEB
 
-Start with the fund's fact sheet from Innovator, which will lay out the exact floor and ceiling levels for each month, the underlying equity index used, and the total expense ratio. Review the fund's prospectus to understand the mechanics of the options contracts and what happens in edge cases like [early exercise](/early-exercise/) or a gap open. Track the fund's actual monthly returns over a few calendar months against the S&P 500 or your chosen broad equity benchmark to see how often the buffer or ceiling bound the returns in practice. Because the buffer resets monthly, a 12-month comparison reveals the tradeoff — months where the fund's ceiling was hit and months where the floor protected against sharp drops.
+Start with the fund's fact sheet from Innovator, which will lay out the exact floor and ceiling levels for each month, the underlying equity index used, and the [total expense ratio](/total-expense-ratio/). Review the fund's prospectus to understand the mechanics of the options contracts and what happens in edge cases like [early exercise](/early-exercise/) or a gap open. Track the fund's actual monthly returns over a few calendar months against the S&P 500 or your chosen broad equity benchmark to see how often the buffer or ceiling bound the returns in practice. Because the buffer resets monthly, a 12-month comparison reveals the tradeoff — months where the fund's ceiling was hit and months where the floor protected against sharp drops.

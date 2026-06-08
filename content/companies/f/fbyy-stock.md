@@ -33,7 +33,7 @@ In range-bound or declining markets, [covered calls](/covered-call/) shine. A si
 
 Covered calls reduce portfolio volatility. The premium collected acts as a buffer on declines — if META falls 5 percent but the fund collected 2 percent in call premiums that month, the net loss is 3 percent. That volatility dampening appeals to conservative investors. But the cost is asymmetric: downside is cushioned less than upside is capped.
 
-Over full market cycles, investors in FBYY must ask whether the extra income during sideways or [bear markets](/bear-market/) justifies missing gains during bull runs. If the market rallies 30 percent and FBYY's calls limited it to 10 percent, no amount of collected premiums will recover that opportunity cost.
+Over full [market cycles](/market-cycle/), investors in FBYY must ask whether the extra income during sideways or [bear markets](/bear-market/) justifies missing gains during bull runs. If the market rallies 30 percent and FBYY's calls limited it to 10 percent, no amount of collected premiums will recover that opportunity cost.
 
 ## Trading and costs
 

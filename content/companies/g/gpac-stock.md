@@ -48,7 +48,7 @@ Post-merger, GPAC becomes a holding company for the acquired business. Unlike op
 
 SPACs compete with traditional IPOs, private equity, and other capital-raising routes for the attention of founders and investors alike. A traditional IPO offers a founder the prestige of a full underwriting process and the involvement of marquee investment banks. Private equity offers experienced operators and deep industry expertise, though at the cost of reduced founder control. A SPAC falls between: faster and less burdensome than an IPO, but less hands-on than private equity.
 
-The most visible risk is sponsor alignment. Some SPAC sponsors have pursued [acquisitions](/acquisition/) with less scrutiny than they might apply to a traditional investment, leading to poor outcomes for public shareholders. Regulatory and investor skepticism of the SPAC model intensified after a wave of well-publicized failures in the early 2020s, when companies rushed to go public via SPAC without full due diligence. GPAC's reputation and future ability to raise capital rests on a strong track record and disciplined capital allocation.
+The most visible risk is sponsor alignment. Some SPAC sponsors have pursued [acquisitions](/acquisition/) with less scrutiny than they might apply to a traditional investment, leading to poor outcomes for public shareholders. Regulatory and investor skepticism of the SPAC model intensified after a wave of well-publicized failures in the early 2020s, when companies rushed to go public via SPAC without full [due diligence](/due-diligence/). GPAC's reputation and future ability to raise capital rests on a strong track record and disciplined capital allocation.
 
 ## Understanding GPAC as an investment
 

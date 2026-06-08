@@ -48,7 +48,7 @@ FinVolution's borrowers are not anonymous credit profiles; they are wage earners
 
 FinVolution funds its loan book through two channels: bank syndication and institutional investors. Banks grew skittish after regulatory crackdowns, unwilling to fund platforms they didn't control. Institutional investors—[hedge funds](/hedge-fund/), asset managers—grew skittish after loan losses mounted. The company faced rising funding costs and shorter tenor, meaning it had to source new capital more frequently and at worse rates. A lender that was profitable at 6% funding cost became marginal at 10%.
 
-Additionally, FinVolution's disclosure of loan losses and default rates became subject to intense scrutiny. Every quarterly report that showed rising delinquencies triggered sell-offs in the stock price and higher borrowing costs. Unlike a bank, which can absorb loan losses over many years, a fintech platform with public equity markets watching every quarter faces pressure to either hide deterioration (legal and reputational risk) or acknowledge it and face [capital flight](/capital-flight-sovereign/).
+Additionally, FinVolution's disclosure of loan losses and default rates became subject to intense scrutiny. Every quarterly report that showed rising delinquencies triggered sell-offs in the stock price and higher borrowing costs. Unlike a bank, which can absorb loan losses over many years, a fintech platform with public equity markets watching every quarter faces pressure to either hide deterioration (legal and [reputational risk](/reputational-risk/)) or acknowledge it and face [capital flight](/capital-flight-sovereign/).
 
 ## The Persistence Challenge
 

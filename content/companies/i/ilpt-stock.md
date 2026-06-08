@@ -35,13 +35,13 @@ Following the Monmouth integration, ILPT formed a joint venture with an institut
 
 ## Lease terms and tenant relationships
 
-ILPT's leases typically run for a decade or longer, with regular rent escalation clauses that allow the landlord's revenue to grow with [inflation](/inflation/). Long lease terms are favorable to the landlord because they provide visibility into future cash flows and reduce the risk that a tenant will vacate and leave the property empty. The weighted average remaining lease term on ILPT's portfolio is substantial, providing years of cash flow visibility. Single-tenant net leases are particularly valuable if the tenant is investment-grade and the property is well-located; the combination of stable cash flow and low operational burden makes industrial net-lease properties attractive to institutional capital.
+ILPT's leases typically run for a decade or longer, with regular [rent escalation clauses](/rent-escalation-clause/) that allow the landlord's revenue to grow with [inflation](/inflation/). Long lease terms are favorable to the landlord because they provide visibility into future cash flows and reduce the risk that a tenant will vacate and leave the property empty. The weighted average remaining lease term on ILPT's portfolio is substantial, providing years of cash flow visibility. Single-tenant net leases are particularly valuable if the tenant is investment-grade and the property is well-located; the combination of stable cash flow and low operational burden makes industrial net-lease properties attractive to institutional capital.
 
 ## Risks and the real test
 
 ILPT faces several categories of risk. First, tenant [credit risk](/credit-risk/): if a large tenant fails, ILPT loses rental income, and the company must find a replacement or incur vacancy. The tenant profile mitigates this, but does not eliminate it. E-commerce remains an important end-market, and pressure on e-commerce operators could strain some tenants.
 
-Second, real estate cycles: industrial properties can appreciate significantly during supply-constrained periods and depreciate when new supply floods the market. ILPT cannot control broader supply dynamics or regional economic shifts.
+Second, [real estate cycles](/real-estate-cycle/): industrial properties can appreciate significantly during supply-constrained periods and depreciate when new supply floods the market. ILPT cannot control broader supply dynamics or regional economic shifts.
 
 Third, leverage: any REIT carries debt, and rising [interest rates](/interest-rate/) increase the [cost of debt](/cost-of-debt/) refinancing. ILPT's [dividend](/dividend/) depends on [net operating income](/net-operating-income/), and higher debt costs reduce the income available to distribute.
 

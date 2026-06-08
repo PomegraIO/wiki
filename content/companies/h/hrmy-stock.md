@@ -49,7 +49,7 @@ As a specialist in sleep medicine, HRMY is an acquisition target for larger phar
 
 ## Cost of Capital and Refinancing Access
 
-HRMY's [cost of debt](/cost-of-debt/) reflects its leverage and profitability; the company can access debt markets at reasonable spreads over risk-free rates. Its equity cost reflects its niche market (sleep medicine) and [operational risks](/operational-risk/) (changes in reimbursement, new competitor drugs). Unlike high-risk biotech, HRMY's cost of capital is moderate because it is profitable and growing; unlike a blue-chip pharmaceutical, it is higher because of leverage and [concentration risk](/concentration-risk/) in sleep medicine.
+HRMY's [cost of debt](/cost-of-debt/) reflects its leverage and profitability; the company can access debt markets at reasonable spreads over [risk-free rates](/risk-free-rate/). Its equity cost reflects its niche market (sleep medicine) and [operational risks](/operational-risk/) (changes in reimbursement, new competitor drugs). Unlike high-risk biotech, HRMY's cost of capital is moderate because it is profitable and growing; unlike a blue-chip pharmaceutical, it is higher because of leverage and [concentration risk](/concentration-risk/) in sleep medicine.
 
 <div class="wiki-seealso">
 ### Closely related

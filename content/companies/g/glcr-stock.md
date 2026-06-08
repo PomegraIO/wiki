@@ -29,13 +29,13 @@ handwritten: true
 
 The foundation of GLCR's portfolio rests on Iceland's banking sector. The country's major financial institutions dominate the Nasdaq Iceland market by capitalization, making them the largest positions in the fund. These banks operate primarily within Iceland's domestic economy but maintain exposure to international capital markets and foreign exchange movements. The Icelandic banking system recovered from its severe collapse during the 2008 financial crisis and has since rebuilt itself with tighter regulation and more conservative lending practices.
 
-The banks' profitability depends heavily on Iceland's domestic [interest rates](/interest-rate/) (set by the [Central Bank](/central-bank/) of Iceland), real-estate values, and credit cycles. A U.S.-based investor in GLCR gains exposure to this Nordic banking ecosystem, which is smaller and more concentrated than the banking sectors of larger European countries. Currency movements between the Icelandic króna and the [U.S. dollar](/us-dollar/) affect the dollar-denominated value of these holdings even if the underlying banks' performance remains steady.
+The banks' profitability depends heavily on Iceland's domestic [interest rates](/interest-rate/) (set by the [Central Bank](/central-bank/) of Iceland), real-estate values, and [credit cycles](/credit-cycle/). A U.S.-based investor in GLCR gains exposure to this Nordic banking ecosystem, which is smaller and more concentrated than the banking sectors of larger European countries. Currency movements between the Icelandic króna and the [U.S. dollar](/us-dollar/) affect the dollar-denominated value of these holdings even if the underlying banks' performance remains steady.
 
 ## Fisheries and seafood exports
 
 Iceland's seafood sector — particularly the export of wild-caught fish and aquaculture products — is the country's largest international revenue generator and a significant presence in the Nasdaq Iceland market. Companies in this segment depend on fish stocks in the North Atlantic and the Barents Sea, international commodity prices for species like cod and salmon, and demand from trading partners in Asia and Europe. The sector is cyclical: when global protein demand is strong and fish prices are high, revenues surge; when demand weakens or supply increases, profits compress.
 
-For GLCR investors, this sector concentration means the fund's returns are tied to seafood market cycles and geopolitical fishing-rights negotiations. Changes in European Union or international fishing regulations, climate-driven shifts in fish populations, or major shifts in Asian protein consumption can all affect the fund's holdings materially.
+For GLCR investors, this sector concentration means the fund's returns are tied to seafood [market cycles](/market-cycle/) and geopolitical fishing-rights negotiations. Changes in European Union or international fishing regulations, climate-driven shifts in fish populations, or major shifts in Asian protein consumption can all affect the fund's holdings materially.
 
 ## Energy, renewable resources, and tourism
 

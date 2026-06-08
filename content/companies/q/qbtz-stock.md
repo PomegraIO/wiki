@@ -34,7 +34,7 @@ QBTZ appeals primarily to active traders and short-term speculators. It occasion
 
 ## Real risks beyond decay
 
-QBTZ carries the standard risks of leveraged and inverse instruments. During circuit-breaker halts or market gaps, the daily rebalancing mechanism can break down — if markets gap significantly overnight, the fund's short positions may not unwind at the price the rebalancing algorithm expected. Additionally, the fund depends on the creditworthiness of the counterparties on its swap and derivative contracts; if a major derivatives bank falters, the fund's hedges could fail or be valued unfairly. These [tail risks](/tail-risk/) are small for the bulk of trading days but material in the scenarios when hedges matter most.
+QBTZ carries the standard risks of leveraged and inverse instruments. During circuit-breaker halts or market gaps, the daily rebalancing mechanism can break down — if markets gap significantly overnight, the fund's short positions may not unwind at the price the rebalancing algorithm expected. Additionally, the fund depends on the creditworthiness of the counterparties on its swap and [derivative contracts](/derivative-contract/); if a major derivatives bank falters, the fund's hedges could fail or be valued unfairly. These [tail risks](/tail-risk/) are small for the bulk of trading days but material in the scenarios when hedges matter most.
 
 ## How to research this fund
 

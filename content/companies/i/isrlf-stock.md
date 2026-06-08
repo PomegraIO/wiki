@@ -22,7 +22,7 @@ When Israel Acquisitions Corp. goes public, it raises cash by selling shares to 
 
 During the search phase, investors in the SPAC own shares of an empty shell. The value of those shares is primarily the cash held in trust, minus the company's overhead and any dilution from [founder shares](/founder-shares/) (founders typically retain a modest ownership stake). Once a deal is announced, the target company's valuation is negotiated, and shareholders of both entities must approve the transaction. Public SPAC shareholders can then decide whether to keep their stake (now in a publicly listed Israeli company) or redeem their shares for their pro-rata share of the trust cash and exit.
 
-This structure became popular in the 2020s as a faster alternative to a traditional IPO. Instead of months of roadshow meetings, underwriter negotiations, and regulatory scrutiny, a private company can be acquired by a SPAC in weeks or months. The trade-off is that SPAC investors are betting on management's ability to find and execute a good acquisition—there is execution risk, and returns depend entirely on the quality of the target.
+This structure became popular in the 2020s as a faster alternative to a traditional IPO. Instead of months of roadshow meetings, underwriter negotiations, and regulatory scrutiny, a private company can be acquired by a SPAC in weeks or months. The trade-off is that SPAC investors are betting on management's ability to find and execute a good acquisition—there is [execution risk](/execution-risk/), and returns depend entirely on the quality of the target.
 
 ### Why focus on Israeli companies?
 

@@ -61,7 +61,7 @@ Customer concentration and consolidation in OEM markets (e.g., medical-device co
 
 Start with the 10-K (CIK 0000785786) for segment revenue (by customer vertical and geography), gross margin and [operating margin](/operating-margin/) trends, capital expenditure and free cash flow, customer concentration (largest customers as % of revenue), and management commentary on design-services growth and technology cycles ahead.
 
-**Key metrics**: Gross margin percentage and trend (reflecting pricing power and cost [inflation](/inflation/)); operating margin (revealing operating leverage and capex absorption); revenue per employee (EMS is labour-intensive; productivity matters); backlog (in months—typically 3–6 months; rising backlog signals demand strength); and customer retention and design-services revenue as a percentage of total (higher-margin, stickier business).
+**Key metrics**: Gross margin percentage and trend (reflecting pricing power and cost [inflation](/inflation/)); operating margin (revealing operating leverage and capex absorption); [revenue per employee](/revenue-per-employee/) (EMS is labour-intensive; productivity matters); backlog (in months—typically 3–6 months; rising backlog signals demand strength); and customer retention and design-services revenue as a percentage of total (higher-margin, stickier business).
 
 **Watch for**: Announcements of customer wins (new medical-device OEM contracts) or losses; technology roadmap commentary on upcoming equipment investments; supply-chain comments (component shortages or logistics improvements); and quarterly updates on the mix of assembly versus higher-margin design work.
 

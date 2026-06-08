@@ -15,7 +15,7 @@ handwritten: true
 
 ## The basic idea
 
-Imagine you own a turboprop plane or a light jet. You need somewhere to store it. An airport hangar—a large, climate-controlled building—is the only real option. Hangars are expensive to build and in high demand in major metropolitan areas where aircraft owners are concentrated. Sky Harbour identified a straightforward opportunity: acquire or obtain long-term ground leases at busy regional airports, develop hangars on that ground, and lease the space to aircraft owners under multi-year contracts.
+Imagine you own a turboprop plane or a light jet. You need somewhere to store it. An airport hangar—a large, climate-controlled building—is the only [real option](/real-option/). Hangars are expensive to build and in high demand in major metropolitan areas where aircraft owners are concentrated. Sky Harbour identified a straightforward opportunity: acquire or obtain long-term [ground leases](/ground-lease/) at busy regional airports, develop hangars on that ground, and lease the space to aircraft owners under multi-year contracts.
 
 The business model is simple enough that it works like a [real estate investment trust](/real-estate-investment-trust/), though Sky Harbour is structured as an operating company, not an REIT. A customer signs a lease, typically for five to ten years, and pays monthly rent. That rent is stable, recurring revenue. Once a hangar is built, the marginal cost of serving another customer is nearly zero. The capital requirement is mostly in construction and land [acquisition](/acquisition/) upfront; then cash comes in for years.
 

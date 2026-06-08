@@ -41,7 +41,7 @@ The Philippine retail environment has faced structural headwinds in recent years
 
 SM Prime is capitalized with a combination of debt and equity. The company uses leverage to fund development, which amplifies returns in good environments but also increases financial risk. During downturns or periods of high [interest rates](/interest-rate/), debt service can strain cash flow and limit investment capacity. The company pays a [dividend](/dividend/) to shareholders and reinvests operating cash flow into new development and debt reduction.
 
-Key metrics include mall occupancy rates by property, average rent per square meter, tenant sales productivity, and the company's [debt-to-equity ratio](/debt-to-equity-ratio/). Strong occupancy (above 90%) with stable or rising rents indicates a healthy portfolio. Falling occupancy or rising vacancy durations suggest deteriorating competitive position or challenging market conditions. Debt levels matter because real estate cycles are long — a downturn can extend over years, and a highly leveraged company may not have flexibility to weather it.
+Key metrics include mall occupancy rates by property, average rent per square meter, tenant sales productivity, and the company's [debt-to-equity ratio](/debt-to-equity-ratio/). Strong occupancy (above 90%) with stable or rising rents indicates a healthy portfolio. Falling occupancy or rising vacancy durations suggest deteriorating competitive position or challenging market conditions. Debt levels matter because [real estate cycles](/real-estate-cycle/) are long — a downturn can extend over years, and a highly leveraged company may not have flexibility to weather it.
 
 ## Competitive and economic context
 

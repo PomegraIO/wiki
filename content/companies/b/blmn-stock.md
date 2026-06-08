@@ -31,7 +31,7 @@ Additionally, the company sources seafood (Bonefish Grill is a significant brand
 
 Bloomin's revenue is highly sensitive to changes in consumer [discretionary spending](/discretionary-spending/). Casual dining—"going out for a meal"—is a discretionary purchase that consumers defer during economic downturns, periods of high inflation, or when consumer confidence weakens. During [recessions](/recession/) or periods of rapid interest-rate increases (which raise mortgage and auto-loan burdens), casual-dining visits decline sharply.
 
-The company operates in a mature market where growth comes primarily from market-share gains or by raising prices, not from growing the overall market. Traffic trends (the number of customer visits per location per period) are a critical leading indicator, and negative traffic trends are often difficult to reverse. If Bloomin' experiences sustained traffic declines, it must either downsize its footprint (closing underperforming locations, incurring restructuring charges) or accept lower unit profitability.
+The company operates in a mature market where growth comes primarily from market-share gains or by raising prices, not from growing the overall market. Traffic trends (the number of customer visits per location per period) are a critical [leading indicator](/leading-indicator/), and negative traffic trends are often difficult to reverse. If Bloomin' experiences sustained traffic declines, it must either downsize its footprint (closing underperforming locations, incurring restructuring charges) or accept lower unit profitability.
 
 ## Store Economics and Real Estate Inflexibility
 

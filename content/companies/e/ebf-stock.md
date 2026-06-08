@@ -30,13 +30,13 @@ The business forms market, in particular, has faced secular headwinds. Digital i
 
 ## Financial Dynamics
 
-Revenue growth has been modest and cyclical, tied to corporate capital spending, hiring, and inventory investment. Ennis is economically sensitive; businesses that cut costs during [recessions](/recession/) often reduce purchases of promotional merchandise and cut back on ancillary printed materials, even as core operations continue. Profitability is constrained by rising input costs (paper, energy), wage [inflation](/inflation/), freight costs, and persistent pricing pressure from larger customers with leverage. [Operating margins](/operating-margin/) are typically thin (in the low double-digit percentage range before interest and taxes), limiting financial flexibility.
+Revenue growth has been modest and cyclical, tied to corporate capital spending, hiring, and [inventory investment](/inventory-investment/). Ennis is economically sensitive; businesses that cut costs during [recessions](/recession/) often reduce purchases of promotional merchandise and cut back on ancillary printed materials, even as core operations continue. Profitability is constrained by rising input costs (paper, energy), wage [inflation](/inflation/), freight costs, and persistent pricing pressure from larger customers with leverage. [Operating margins](/operating-margin/) are typically thin (in the low double-digit percentage range before interest and taxes), limiting financial flexibility.
 
 Cash generation from operations is steady but unspectacular. The business requires working capital to maintain inventory and fund [accounts receivable](/accounts-receivable/), constraining [free cash flow](/free-cash-flow/). [Dividend](/dividend/) payments and share repurchases have been modest, reflecting limited excess cash after capital expenditures and debt service. The company carries moderate debt, incurred through past [acquisitions](/acquisition/) and refinanced as rates fluctuate.
 
 ## Key Risk Factors
 
-Secular decline in printed business forms remains the largest structural headwind. While Ennis has pivoted toward labels and packaging, the overall category continues to face pressure as digital alternatives proliferate and customers optimize their supply chains. Customer concentration is low but also means growth must be won one account at a time in a fragmented market.
+Secular decline in printed business forms remains the largest structural headwind. While Ennis has pivoted toward labels and packaging, the overall category continues to face pressure as digital alternatives proliferate and customers optimize their supply chains. Customer concentration is low but also means growth must be won one account at a time in a [fragmented market](/fragmented-market/).
 
 Supply chain disruption poses [operational risk](/operational-risk/); extended lead times for manufacturing equipment or raw materials can limit production capacity and delivery reliability. Freight and logistics cost spikes cascade to profitability if not passed through to customers. Labor availability and wage inflation in manufacturing are persistent challenges.
 

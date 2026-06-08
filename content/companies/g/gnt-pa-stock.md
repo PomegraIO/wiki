@@ -49,7 +49,7 @@ GAMCO Natural Resources does not have a moat in the traditional sense — it is 
 
 ## Risks and structural peculiarities
 
-A closed-end fund discount or premium is a real risk that [open-end funds](/open-end-fund/) do not have. If the fund trades at a deep discount to its net asset value, you are getting a bargain — the stocks in the portfolio are worth more than you are paying for your share of them. But the reverse is also possible: if the fund trades at a premium, you are overpaying, and if the premium narrows, you take a loss even if the underlying stocks hold their value.
+A [closed-end fund discount](/closed-end-fund-discount/) or premium is a real risk that [open-end funds](/open-end-fund/) do not have. If the fund trades at a deep discount to its net asset value, you are getting a bargain — the stocks in the portfolio are worth more than you are paying for your share of them. But the reverse is also possible: if the fund trades at a premium, you are overpaying, and if the premium narrows, you take a loss even if the underlying stocks hold their value.
 
 The fund's returns are driven by two things: the performance of the underlying stocks and changes in the discount or premium. This double-variable structure adds complexity.
 

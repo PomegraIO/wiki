@@ -38,7 +38,7 @@ The company has also secured approvals from Transport Canada to launch scalable 
 
 Volatus' [acquisition](/acquisition/) of Caliburn Holdings' aircraft designs represents a make-or-buy decision tilted toward make. Rather than licensing third-party designs or licensing out Volatus' services exclusively, the company is building organic capability in airframe design and manufacturing. The Caliburn assets included validated flight-test data, detailed engineering documentation, and aircraft designs that could be adapted for the company's strategic programs.
 
-This move is classic in the aerospace industry: once a company achieves operational scale in a service, it can vertically integrate into manufacturing to capture margins, ensure supply, and build defensibility. The execution risk is substantial—aerospace manufacturing is capital-intensive, regulatory oversight is stringent, and quality failures are unforgiving. But if Volatus can build and scale production of advanced drones profitably, the business model shifts from professional services to technology products, a far higher-margin and more scalable architecture.
+This move is classic in the aerospace industry: once a company achieves operational scale in a service, it can vertically integrate into manufacturing to capture margins, ensure supply, and build defensibility. The [execution risk](/execution-risk/) is substantial—aerospace manufacturing is capital-intensive, regulatory oversight is stringent, and quality failures are unforgiving. But if Volatus can build and scale production of advanced drones profitably, the business model shifts from professional services to technology products, a far higher-margin and more scalable architecture.
 
 ## Competitive position and market structure
 

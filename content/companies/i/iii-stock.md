@@ -46,7 +46,7 @@ To hedge utilization risk, III has invested in managed services and retainer-bas
 
 ## Cash Flow and Working Capital
 
-Professional services is cash-generative because III collects fees in advance or shortly after invoicing, while payroll and costs are spread over the month. But III's cash is heavily invested in working capital—accrued benefits, payroll tax deposits, equipment—and in growth-oriented hiring (adding people to grow the bench in anticipation of client demand). During economic downturns, when hiring slows and utilization drops, cash flow swings negative despite positive net income.
+Professional services is cash-generative because III collects fees in advance or shortly after invoicing, while payroll and costs are spread over the month. But III's cash is heavily invested in working capital—accrued benefits, [payroll tax](/payroll-tax/) deposits, equipment—and in growth-oriented hiring (adding people to grow the bench in anticipation of client demand). During economic downturns, when hiring slows and utilization drops, cash flow swings negative despite positive net income.
 
 [Free cash flow](/free-cash-flow/) is III's true health metric. A consulting firm with high earnings but negative free cash flow is burning cash; a firm with modest earnings but strong free cash flow is financing growth and shareholder returns. III's track record shows volatile free cash flow, tied to utilization and hiring cycles.
 

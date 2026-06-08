@@ -20,7 +20,7 @@ handwritten: true
 **What it does:** Global wealth management, investment banking, asset management, and retail banking for high-net-worth clients and institutions
 </aside>
 
-UBS Group AG stands as one of the world's largest and most complex financial institutions, headquartered in Zurich with deep roots in Swiss banking tradition and global reach. The bank emerged in its current form from the 1998 [merger](/merger/) of Union Bank of Switzerland and Swiss Bank Corporation—two pillars of Swiss finance with combined heritage stretching back to the nineteenth century. Today, it operates as a diversified financial powerhouse serving wealth clients, corporations, governments, and institutions across its four primary business divisions.
+[UBS Group](/ubs-group/) AG stands as one of the world's largest and most complex financial institutions, headquartered in Zurich with deep roots in Swiss banking tradition and global reach. The bank emerged in its current form from the 1998 [merger](/merger/) of Union Bank of Switzerland and Swiss Bank Corporation—two pillars of Swiss finance with combined heritage stretching back to the nineteenth century. Today, it operates as a diversified financial powerhouse serving wealth clients, corporations, governments, and institutions across its four primary business divisions.
 
 ## Origin and the Making of Modern UBS
 
@@ -75,8 +75,8 @@ Start with UBS's [10-K](/wiki/10-k/) filing and quarterly earnings reports submi
 - **Assets under management and assets under administration** by division and geography; these drive recurring fee income.
 - **Net interest margin** on deposits and lending; track how rapidly this compresses in a lower-rate environment.
 - **Investment Bank revenue** and headcount; volatility in this segment is substantial.
-- **Regulatory capital ratio** and liquidity coverage ratio; UBS operates under Swiss Too-Big-To-Fail framework rules requiring higher reserves than most peers.
-- **Cost-to-income ratio** by division; efficiency gains from Credit Suisse integration, or slippage, will show here.
+- **Regulatory capital ratio** and [liquidity coverage ratio](/liquidity-coverage-ratio/); UBS operates under Swiss Too-Big-To-Fail framework rules requiring higher reserves than most peers.
+- **[Cost-to-income ratio](/cost-income-ratio/)** by division; efficiency gains from Credit Suisse integration, or slippage, will show here.
 
 The bank's substantial size and systemic importance make it a bellwether for global financial health. Monitor client inflows and outflows in wealth management closely—they signal confidence in the bank and broader wealth preservation trends. Listen to quarterly earnings calls for candid commentary on integration progress and investment banking outlook.
 

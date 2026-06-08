@@ -39,7 +39,7 @@ For investors seeking to understand Flowco's actual business model, revenue sour
 - A detailed description of all operating businesses or segments
 - Segment revenue, operating profit, and [free-cash-flow](/free-cash-flow/) by business
 - Risk factors specific to each business and the consolidated company
-- Management discussion and analysis (MD&A) explaining results and strategic priorities
+- [Management discussion and analysis](/management-discussion-and-analysis/) (MD&A) explaining results and strategic priorities
 - [Balance-sheet](/balance-sheet/) details on debt, equity, and asset composition
 
 Without this information, analysis is speculation. Holding companies, especially those formed through acquisition, require bottom-up understanding of what they own before top-down financial analysis is meaningful.
@@ -59,6 +59,6 @@ Without this information, analysis is speculation. Holding companies, especially
 
 - Acquisition integration and synergy realization in holding companies
 - [Market capitalization](/market-capitalization/) and [public-company](/public-company/) valuation methodologies
-- Investor due diligence on private-to-public transitions
+- Investor [due diligence](/due-diligence/) on private-to-public transitions
 
 </div>

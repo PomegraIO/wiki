@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AAOX, issued by Tradr, is a leveraged exchange-traded product that seeks to deliver twice the daily performance of the Roundhill Applied AI ETF (AAOI). Like other daily-reset leveraged funds, AAOX uses borrowed capital and derivative contracts to amplify its underlying's movements, and it rebalances every trading day to reset its [leverage ratio](/leverage-ratio-forex/). This structure makes it useful for traders betting on artificial intelligence sector moves within a single day or over a few days, but it imposes significant hidden costs on anyone holding it longer.
+AAOX, issued by Tradr, is a leveraged exchange-traded product that seeks to deliver twice the daily performance of the Roundhill Applied AI ETF (AAOI). Like other daily-reset leveraged funds, AAOX uses borrowed capital and [derivative contracts](/derivative-contract/) to amplify its underlying's movements, and it rebalances every trading day to reset its [leverage ratio](/leverage-ratio-forex/). This structure makes it useful for traders betting on artificial intelligence sector moves within a single day or over a few days, but it imposes significant hidden costs on anyone holding it longer.
 
 <aside class="wiki-infobox">
 <table>

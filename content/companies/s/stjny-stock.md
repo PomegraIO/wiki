@@ -39,7 +39,7 @@ The company's size matters. Stella-Jones has dozens of facilities across North A
 
 Demand for treated wood moves with the economic cycle. When construction is booming, demand rises. When the economy slows, it falls. But the utility and railroad markets are more stable because infrastructure replacement is less discretionary. A utility has to replace aging poles whether times are good or bad. This means Stella-Jones has a mix of cyclical and non-cyclical revenue, which smooths earnings compared to purely construction-dependent businesses.
 
-Lumber prices matter a lot. When the cost of raw logs rises, Stella-Jones's input costs increase, which hits margins unless the company can pass the cost to customers. When logs are cheap, margins expand. This commodity exposure is real and affects results quarter to quarter. The price of chemical preservatives also matters, though it is a smaller cost driver.
+Lumber prices matter a lot. When the cost of raw logs rises, Stella-Jones's input costs increase, which hits margins unless the company can pass the cost to customers. When logs are cheap, margins expand. This commodity exposure is real and affects results quarter to quarter. The price of chemical preservatives also matters, though it is a smaller [cost driver](/cost-driver/).
 
 Supply interruptions — whether from weather, pests that damage timber supplies, or transportation disruptions — can tighten the business. Conversely, abundant timber supplies and low transportation costs are tailwinds. A reader following the company should watch lumber prices, timber availability, and transportation costs to get a sense of near-term margin trends.
 

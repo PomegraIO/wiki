@@ -35,9 +35,9 @@ The company's [leverage ratio](/leverage-ratio-forex/)—debt to equity—is a k
 
 Properties that generate rental income provide a steady cash flow that offsets carrying costs and, if the lease rate is high enough, generates profit. The unit economics of a rental property hinge on the lease rate, the occupancy rate, and the carrying costs. A commercial office building leasing 100,000 square feet at $20 per square foot per year generates $2 million in annual gross rental income. If the occupancy rate is 90% (100% occupancy is rare), that is $1.8 million in actual revenue. Subtract carrying costs of $800,000 (taxes, maintenance, insurance, management) and [net operating income](/net-operating-income/) is $1 million.
 
-Lease rates vary by geography, property type, and market conditions. In strong markets (limited supply, high demand), FRP can charge high rents and achieve high occupancy. In weak markets, rents soften and vacancy rises, reducing net operating income. The company's exposure to local market cycles (growth markets are less volatile than commodity markets) is relevant to the stability of cash flows.
+Lease rates vary by geography, property type, and market conditions. In strong markets (limited supply, high demand), FRP can charge high rents and achieve high occupancy. In weak markets, rents soften and vacancy rises, reducing net operating income. The company's exposure to local [market cycles](/market-cycle/) (growth markets are less volatile than commodity markets) is relevant to the stability of cash flows.
 
-Lease terms also matter. A five-year lease at a fixed rate locks in cash flows but leaves FRP at risk if market rents rise. A lease with annual escalation clauses protects against [inflation](/inflation/). A lease with percentage rent (the tenant pays a percentage of sales, in addition to base rent) aligns the landlord's returns with tenant success.
+Lease terms also matter. A five-year lease at a fixed rate locks in cash flows but leaves FRP at risk if market rents rise. A lease with annual escalation clauses protects against [inflation](/inflation/). A lease with [percentage rent](/percentage-rent/) (the tenant pays a percentage of sales, in addition to base rent) aligns the landlord's returns with tenant success.
 
 ## Development Projects and Appreciation
 

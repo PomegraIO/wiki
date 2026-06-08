@@ -31,7 +31,7 @@ This disclosure regime makes Kingfisher's communication discipline critical. The
 
 Kingfisher's exploration strategy is necessarily shaped by the regulatory map. Properties with simpler ownership or permitting posture (privately held land, or claims in streamlined jurisdictions) become relatively more attractive, even if the geology is less promising. Conversely, a world-class deposit on federal land might be deferred in favor of lower-risk targets that can reach a resource estimate on a tighter timeline. The company's geographic focus, property selection, and phasing of work all flow from this regulatory calculus.
 
-Many junior explorers, including Kingfisher, also pursue properties in less-restrictive jurisdictions outside North America — Mexico, South America, or Africa — where permitting is faster but political risk and social license-to-operate challenges may be steeper. The choice of exploration jurisdiction is fundamentally a regulatory trade-off.
+Many junior explorers, including Kingfisher, also pursue properties in less-restrictive jurisdictions outside North America — Mexico, South America, or Africa — where permitting is faster but [political risk](/political-risk/) and social license-to-operate challenges may be steeper. The choice of exploration jurisdiction is fundamentally a regulatory trade-off.
 
 ## The Path to Development Permitting
 

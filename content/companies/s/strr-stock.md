@@ -24,7 +24,7 @@ Star Equity Holdings is a diversified holding company with operations primarily 
 </table>
 </aside>
 
-Star Equity Holdings operates as a multi-asset holding company, owning and managing a collection of industrial and automotive businesses that, individually, are too small or too niche to survive as standalone public companies, but that collectively form a revenue-generating portfolio. This structure — sometimes called a "microcap conglomerate" or a "blind pool" for operations — is common among small-cap industrial companies, particularly those that have grown through acquisition over many years.
+Star Equity Holdings operates as a multi-asset holding company, owning and managing a collection of industrial and automotive businesses that, individually, are too small or too niche to survive as standalone public companies, but that collectively form a revenue-generating portfolio. This structure — sometimes called a "microcap conglomerate" or a "[blind pool](/blind-pool/)" for operations — is common among small-cap industrial companies, particularly those that have grown through acquisition over many years.
 
 ## The holding company model and niche markets
 

@@ -36,7 +36,7 @@ Sponsors seeking to acquire crypto-sector targets must possess genuine expertise
 
 ## The timeline problem
 
-SPACs typically have two to three years to complete a merger before they must liquidate and return capital to public shareholders. For crypto-sector targets, that timeline intersects with market cycles and regulatory timelines that operate on different schedules. A promising blockchain company identified in a [bull market](/bull-market/) may face a [bear market](/bear-market/) and tighter regulations before the merger closes, materially changing its prospects. The sponsors face pressure to close within the window, but public shareholders are not obligated to stay; they can redeem. If redemptions are heavy, the post-merger company operates with less capital than planned, forcing delays or smaller-scale launches.
+SPACs typically have two to three years to complete a merger before they must liquidate and return capital to public shareholders. For crypto-sector targets, that timeline intersects with [market cycles](/market-cycle/) and regulatory timelines that operate on different schedules. A promising blockchain company identified in a [bull market](/bull-market/) may face a [bear market](/bear-market/) and tighter regulations before the merger closes, materially changing its prospects. The sponsors face pressure to close within the window, but public shareholders are not obligated to stay; they can redeem. If redemptions are heavy, the post-merger company operates with less capital than planned, forcing delays or smaller-scale launches.
 
 ## Trust account economics
 

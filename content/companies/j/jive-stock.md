@@ -44,7 +44,7 @@ The fund also attracts income-focused investors. Value stocks are often mature, 
 
 ## Tracking error and market-cap drift
 
-Because JIVE is passively managed and replicates an index rather than making active decisions, its costs are modest — the [expense ratio](/expense-ratio/) is typically low, reflecting the minimal ongoing management required. However, the fund does not perfectly track its index; it incurs small tracking error from trading costs, dividend reinvestment, and index reconstitution timing.
+Because JIVE is passively managed and replicates an index rather than making active decisions, its costs are modest — the [expense ratio](/expense-ratio/) is typically low, reflecting the minimal ongoing management required. However, the fund does not perfectly track its index; it incurs small tracking error from trading costs, dividend reinvestment, and [index reconstitution](/index-reconstitution/) timing.
 
 One structural feature of value indices is that they drift over time. A stock that is a bargain today may become expensive as the market reprices it upward, at which point it may be removed from the value index. Conversely, a recent laggard may fall into value territory and be added. This reconstitution happens at set intervals — typically quarterly or semi-annually — which means the fund occasionally adjusts its holdings in bulk, incurring modest trading costs.
 

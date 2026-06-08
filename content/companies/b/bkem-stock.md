@@ -29,11 +29,11 @@ Emerging-markets investing became a major category in the 1990s as financial mar
 
 ## What BKEM holds
 
-BKEM tracks a broad emerging-markets index—typically the MSCI Emerging Markets Index or a similar benchmark—which includes hundreds of large and mid-cap stocks across dozens of countries. The fund's top holdings come from China, Taiwan, India, Brazil, Mexico, and South Korea, with exposure to financial services, consumer discretionary, technology, and industrials. The index is market-cap weighted, so larger companies and countries receive proportionally larger weights. The fund is fully diversified across geographies and sectors within the emerging-markets universe, avoiding concentration in any single country or company.
+BKEM tracks a broad emerging-markets index—typically the [MSCI Emerging Markets Index](/msci-emerging-markets-index/) or a similar benchmark—which includes hundreds of large and mid-cap stocks across dozens of countries. The fund's top holdings come from China, Taiwan, India, Brazil, Mexico, and South Korea, with exposure to financial services, consumer discretionary, technology, and industrials. The index is market-cap weighted, so larger companies and countries receive proportionally larger weights. The fund is fully diversified across geographies and sectors within the emerging-markets universe, avoiding concentration in any single country or company.
 
 ## Structure and how it trades
 
-BKEM is a passively managed, physically replicating ETF—it owns the actual stocks in its benchmark index rather than holding derivatives or a representative sample. It trades on the NYSE Arca exchange throughout the day, and investors buy and sell shares at market-determined prices. The [expense ratio](/expense-ratio/) is modest, reflecting the low cost of tracking a broad index. The fund rebalances quarterly to match its index, and [dividend](/dividend/) income from its holdings is reinvested or distributed depending on the fund's policy.
+BKEM is a passively managed, physically replicating ETF—it owns the actual stocks in its benchmark index rather than holding derivatives or a representative sample. It trades on the [NYSE Arca](/nyse-arca/) exchange throughout the day, and investors buy and sell shares at market-determined prices. The [expense ratio](/expense-ratio/) is modest, reflecting the low cost of tracking a broad index. The fund rebalances quarterly to match its index, and [dividend](/dividend/) income from its holdings is reinvested or distributed depending on the fund's policy.
 
 ## Currency and emerging-markets risks
 

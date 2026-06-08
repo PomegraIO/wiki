@@ -20,7 +20,7 @@ The distinction matters: Soulpower itself has no revenue, no employees, and no r
 
 ## Soul World Bank—the acquisition target
 
-Soul World Bank is the operating entity that Soulpower intends to acquire. It is sponsored by The Lafazan Brothers LLC and is framed as a new-economy financial services conglomerate focused on [stablecoin](/stablecoin/) issuance, real-world asset tokenization, and international banking infrastructure. The deal was announced in November 2025 with an implied pro forma [enterprise value](/enterprise-value/) near $8.5 billion, and the companies expect closing in late Q2 or Q3 of 2026 (pending SEC review of the registration statement filed in late 2025).
+Soul World Bank is the operating entity that Soulpower intends to acquire. It is sponsored by The Lafazan Brothers LLC and is framed as a new-economy financial services conglomerate focused on [stablecoin](/stablecoin/) issuance, [real-world asset tokenization](/real-world-asset-tokenization/), and international banking infrastructure. The deal was announced in November 2025 with an implied pro forma [enterprise value](/enterprise-value/) near $8.5 billion, and the companies expect closing in late Q2 or Q3 of 2026 (pending SEC review of the registration statement filed in late 2025).
 
 Nothing about Soul World Bank is yet operational—no deposits, no loan book, no customer base. The [merger](/merger/) document amounts to an agreement between Soulpower's sponsors and the Lafazan sponsors to combine their publicly traded shell with a private startup vision, then operate the combined entity as Soul World Bank on a public exchange.
 

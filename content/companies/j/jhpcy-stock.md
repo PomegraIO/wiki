@@ -51,7 +51,7 @@ Key metrics to track:
 
 - **Revenue growth and segment breakdown** — which therapeutic areas are accelerating or decelerating; whether international revenue is growing faster than domestic.
 - **R&D spending as a percentage of revenue** — a falling ratio suggests the company is shifting away from original discovery toward lower-risk generics or other products; a rising ratio signals heavy investment in future pipelines.
-- **Drug approvals and launches** — press releases on new regulatory approvals are leading indicators; approvals today become revenue streams in future quarters.
+- **Drug approvals and launches** — press releases on new regulatory approvals are [leading indicators](/leading-indicator/); approvals today become revenue streams in future quarters.
 - **Gross margins by product** — patent-protected drugs carry high margins; competition from generics pulls margins down sharply. Tracking which products are high-margin and which are commoditizing reveals pressure points.
 - **Competition in key indications** — watching whether new competitors launch drugs in Hengrui's strongest therapeutic areas; competitive saturation erodes pricing power.
 

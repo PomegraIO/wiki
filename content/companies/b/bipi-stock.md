@@ -71,7 +71,7 @@ Brazil and Chile are among Brookfield's largest markets outside North America. B
 
 Looking forward, Brookfield's main competitive challenges are:
 
-**From new rivals in infrastructure.** Sovereign wealth funds are increasingly backing dedicated infrastructure investors. Technology companies, seeing infrastructure as defensible and cash-generative, are moving into certain categories (Amazon and [Microsoft](/msft-stock/) investing in data centres, for instance). Brookfield will face new, well-capitalized bidders for high-quality assets.
+**From new rivals in infrastructure.** [Sovereign wealth funds](/sovereign-wealth-fund/) are increasingly backing dedicated infrastructure investors. Technology companies, seeing infrastructure as defensible and cash-generative, are moving into certain categories (Amazon and [Microsoft](/msft-stock/) investing in data centres, for instance). Brookfield will face new, well-capitalized bidders for high-quality assets.
 
 **From secular shifts in infrastructure demand.** Electric vehicles will eventually reduce toll-road usage. Energy transition will reduce pipeline demand (though data centres and renewable energy transmission may offset this). Autonomous vehicles could reshape transportation entirely. Brookfield has to constantly recalibrate which assets will generate cash flows 10 to 30 years from now.
 

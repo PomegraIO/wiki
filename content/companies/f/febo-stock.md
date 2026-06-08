@@ -20,7 +20,7 @@ Fenbo Holdings Ltd presents a specific form of geographic complexity: it is a U.
 
 For investors, this geographic translation introduces multiple layers of complexity. First, there is the question of corporate governance and regulatory oversight. A company trading on U.S. [OTC markets](/stock/) is subject to SEC reporting requirements and must file its [10-K](/10-k/) annual report and other disclosures with the SEC, despite its operational base being outside the United States. The quality and timeliness of that disclosure, however, depends on the company's own voluntary commitment to transparency, as OTC pink-sheet companies face less rigorous listing standards than [Nasdaq](/nasdaq/) or major exchange firms.
 
-Second, there is the geographic risk of doing business in Asia, mediated through a corporate structure that sits between the investor and those actual operations. Political risk, currency exposure, and regulatory changes in the markets where Fenbo's assets are located directly affect investor returns, but the company's ability to navigate those risks depends on management's understanding of and presence in those specific geographies.
+Second, there is the geographic risk of doing business in Asia, mediated through a corporate structure that sits between the investor and those actual operations. [Political risk](/political-risk/), currency exposure, and regulatory changes in the markets where Fenbo's assets are located directly affect investor returns, but the company's ability to navigate those risks depends on management's understanding of and presence in those specific geographies.
 
 ## Asian Markets as Geographic Opportunity and Risk
 

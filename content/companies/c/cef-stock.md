@@ -43,7 +43,7 @@ That premium-discount behavior is unique to [closed-end funds](/closed-end-fund/
 
 The trust's primary economic driver is the spot price of gold and silver — the per-ounce prices quoted on global commodity markets. When gold prices rise, the value of the trust's holdings rises in lockstep, and shareholders benefit. When gold prices fall, the trust's asset value falls, and shareholders lose. This is a direct, mechanical relationship with virtually no operating leverage or strategic complexity.
 
-The trust holds both gold and silver, typically with a weighting determined by Sprott Inc.'s stated allocation strategy. The gold-silver ratio (how many ounces of silver it takes to equal one ounce of gold in value) fluctuates, which means the relative weighting of the two metals affects how CEF performs versus a pure gold or pure silver index. But the core business — hold the metals, provide custody, charge a fee — remains unchanged.
+The trust holds both gold and silver, typically with a weighting determined by Sprott Inc.'s stated allocation strategy. The [gold-silver ratio](/gold-silver-ratio/) (how many ounces of silver it takes to equal one ounce of gold in value) fluctuates, which means the relative weighting of the two metals affects how CEF performs versus a pure gold or pure silver index. But the core business — hold the metals, provide custody, charge a fee — remains unchanged.
 
 ## Who owns CEF and why
 

@@ -54,11 +54,11 @@ An investor who bought units at the IPO and held them through separation could:
 
 3. **Trade the components independently.** Once separated, sophisticated investors could buy or sell shares and rights independently, creating custom exposures. For example, an arbitrageur betting that the merger would close could short rights and buy shares (betting the warrant spread would compress). A bear could buy rights and short shares (betting the company would perform poorly post-merger).
 
-The unit structure gave Newbridge a larger addressable investor base than a traditional SPAC IPO would have. Conservative investors could understand units as a "get your money back plus maybe upside" bet. Speculators could buy rights for leverage. Institutions could structure complex trades around separation timing.
+The unit structure gave Newbridge a larger addressable investor base than a traditional [SPAC IPO](/spac-ipo/) would have. Conservative investors could understand units as a "get your money back plus maybe upside" bet. Speculators could buy rights for leverage. Institutions could structure complex trades around separation timing.
 
 ## The trust-account protection and the redemption option
 
-The $57.5 million Newbridge raised went into a trust account, subject to regulatory restrictions. That money could not be used for operating expenses or sponsor compensation until a merger closed. This meant that even if the SPAC burned through cash on advisors and due diligence, the core capital was protected.
+The $57.5 million Newbridge raised went into a trust account, subject to regulatory restrictions. That money could not be used for operating expenses or sponsor compensation until a merger closed. This meant that even if the SPAC burned through cash on advisors and [due diligence](/due-diligence/), the core capital was protected.
 
 For unitholders, this created a redemption option: if Newbridge announced a merger and the stock price fell (because investors did not like the target), unitholders could vote to redeem their units for a pro-rata share of the trust account, recovering approximately $10 (minus a small amount deducted for expenses).
 
@@ -72,7 +72,7 @@ If Newbridge fails to close a merger within its charter period (often two years)
 
 ## How to evaluate NBRGU if considering it
 
-Treat a SPAC unit as a conditional bet on (1) the SPAC's execution — does the sponsor have a track record of finding and closing good deals? — and (2) the announced target, once it becomes public. The prospectus and the proxy statement filed when a merger is announced will contain everything you need to assess the target.
+Treat a SPAC unit as a conditional bet on (1) the SPAC's execution — does the sponsor have a track record of finding and closing good deals? — and (2) the announced target, once it becomes public. The prospectus and the [proxy statement](/proxy-statement/) filed when a merger is announced will contain everything you need to assess the target.
 
 If units are still trading pre-merger, they are worth approximately $10 (the redemption value) plus any [time value](/time-value/) investors place on the upside if the merger and business succeed. If the stock is trading at $9.50, the unit is trading at a discount, perhaps because the announced merger target is mediocre. If it is trading at $11, the market believes the merger and the business are good bets.
 

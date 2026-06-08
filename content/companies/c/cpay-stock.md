@@ -77,4 +77,4 @@ Understand the competitive landscape by reviewing filings from other fintech and
 
 Pay attention to developments in the regulation of card interchange rates and payment networks, which could affect the company's largest revenue stream. Monitor commentary on artificial intelligence and automation in the expense-management space — companies using machine learning to classify spending and enforce policy might be the future.
 
-The company's acquisition history is also instructive: which complementary businesses has it bought, and why? Successful acquisitions indicate strategic clarity; failed integrations indicate execution risk.
+The company's acquisition history is also instructive: which complementary businesses has it bought, and why? Successful acquisitions indicate strategic clarity; failed integrations indicate [execution risk](/execution-risk/).

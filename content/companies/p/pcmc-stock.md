@@ -58,11 +58,11 @@ PCMC's stated strategy is to locate and consummate a business combination, impro
 
 The strategy works if the acquired company is profitable, growing, and reasonably priced. It fails if the acquired company is overvalued, declining, or mismanaged, in which case PCMC shareholders suffer dilution and the combined entity underperforms.
 
-The negotiations with Physicians Capital Management are described as substantive, suggesting serious intent. But deal negotiations often take longer than expected; regulatory approval, due diligence, and valuation disputes can all derail transactions. Until the deal closes and is announced, there is no certainty.
+The negotiations with Physicians Capital Management are described as substantive, suggesting serious intent. But deal negotiations often take longer than expected; regulatory approval, [due diligence](/due-diligence/), and valuation disputes can all derail transactions. Until the deal closes and is announced, there is no certainty.
 
 ## Key risks for investors
 
-A small consulting firm pursuing a business combination carries several layers of risk. The consulting business itself may not be profitable or defensible. The target company (Physicians Capital Management) may be misrepresented, overvalued, or poorly managed. The transaction itself may be on unfavorable terms for PCMC shareholders—they may be heavily diluted, the acquired company may carry hidden liabilities, or management may be overpaid or entrenched. Finally, execution risk is real: even if the deal closes, integrating two organizations and realizing synergies is difficult and uncertain.
+A small consulting firm pursuing a business combination carries several layers of risk. The consulting business itself may not be profitable or defensible. The target company (Physicians Capital Management) may be misrepresented, overvalued, or poorly managed. The transaction itself may be on unfavorable terms for PCMC shareholders—they may be heavily diluted, the acquired company may carry hidden liabilities, or management may be overpaid or entrenched. Finally, [execution risk](/execution-risk/) is real: even if the deal closes, integrating two organizations and realizing synergies is difficult and uncertain.
 
 PCMC shareholders have no [dividend](/dividend/) or near-term income; the stock price depends entirely on transaction expectations and the perceived quality of the deal once announced.
 

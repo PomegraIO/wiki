@@ -39,7 +39,7 @@ The situation mirrors many growth-stage technology companies in emerging markets
 
 Jingbo faces several categories of risk. First is operational: sustaining cash burn is only possible if investors continue to fund the company or if the business quickly achieves profitability. The company's accumulated deficit suggests this transition has not yet occurred. Second is competition: as smart parking technology becomes more proven and valuable, larger technology companies (both Chinese and international) might enter the market or a well-funded local competitor could emerge. Third is geographic: the company is entirely dependent on the Chinese market and Chinese customers. Any significant regulatory change, economic slowdown, or currency fluctuation affecting China would hit Jingbo directly.
 
-Fourth is execution risk on the diversification into e-commerce and other product lines. The core parking business had a clear problem and solution; wine sales and auto accessories are different markets where Jingbo lacks expertise. Spreading resources across multiple ventures increases the risk that none reaches meaningful scale.
+Fourth is [execution risk](/execution-risk/) on the diversification into e-commerce and other product lines. The core parking business had a clear problem and solution; wine sales and auto accessories are different markets where Jingbo lacks expertise. Spreading resources across multiple ventures increases the risk that none reaches meaningful scale.
 
 ## How to research Jingbo Technology
 

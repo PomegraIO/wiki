@@ -46,7 +46,7 @@ When Columbus eventually announced a merger target, COLAU's trading pattern chan
 
 ## Cayman Islands domicile and implications
 
-Columbus Acquisition's choice of Cayman incorporation has several consequences for warrant holders. The company is not governed by Delaware law, which most U.S. SPACs use. Instead, it follows Cayman Islands law and its own articles of association. This can affect minority shareholder protections, the ease of proxy contests, and the resolution of disputes. Cayman entities also have slightly different tax treatment for U.S. investors, though warrants themselves are generally subject to the same exercise and taxation regimes regardless of the issuer's domicile.
+Columbus Acquisition's choice of Cayman incorporation has several consequences for warrant holders. The company is not governed by Delaware law, which most U.S. SPACs use. Instead, it follows Cayman Islands law and its own articles of association. This can affect minority shareholder protections, the ease of [proxy contests](/proxy-contest/), and the resolution of disputes. Cayman entities also have slightly different tax treatment for U.S. investors, though warrants themselves are generally subject to the same exercise and taxation regimes regardless of the issuer's domicile.
 
 The regulatory path to a public listing differed as well: Columbus filed with the SEC as a foreign private issuer, though it traded on [NASDAQ](/nasdaq/) and was subject to U.S. securities law in its U.S. operations. This dual jurisdiction means that investors must track both SEC filings and any regulatory developments from Cayman authorities, though in practice the SEC filings dominate.
 
@@ -58,7 +58,7 @@ What distinguishes COLAU from warrants issued by U.S.-incorporated SPACs is prim
 
 ## The merger announcement and warrant repricing
 
-When Columbus Acquisition announced a definitive merger agreement with its target, the warrant market repriced immediately. If the target was well-regarded — strong management, good market position, profitable or near-profitable — COLAU prices rose sharply because warrant holders suddenly owned leverage into a real operating business. If market skepticism about the target emerged, COLAU fell, even if the share price remained stable, because the volatility and time expectations both changed.
+When Columbus Acquisition announced a [definitive merger agreement](/definitive-merger-agreement/) with its target, the warrant market repriced immediately. If the target was well-regarded — strong management, good market position, profitable or near-profitable — COLAU prices rose sharply because warrant holders suddenly owned leverage into a real operating business. If market skepticism about the target emerged, COLAU fell, even if the share price remained stable, because the volatility and time expectations both changed.
 
 Warrant holders have no vote on whether to approve the merger; they are passive leverage holders. This distinguishes them from Class A shareholders, who can redeem if they oppose the deal. Many warrant holders hold through the merger and beyond, betting on the combined company's stock price performance, while others exit early if they become convinced the deal will destroy value.
 

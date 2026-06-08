@@ -35,7 +35,7 @@ One defining characteristic of many PIMCO [closed-end funds](/closed-end-fund/) 
 
 ## Diversification within fixed income
 
-Within the fixed-income portion, PIMCO diversifies across credit quality — from investment-grade down through [high-yield bonds](/high-yield-bond/) issued by companies with weaker [credit ratings](/credit-rating/). High-yield bonds pay higher coupons to compensate for elevated default risk, so a fund can boost distributions by taking on that risk, but it also exposes shareholders to larger losses if a credit cycle turns. The fund also diversifies by maturity: longer-duration bonds are more sensitive to interest-rate movements; if rates fall, their value rises sharply, and vice versa.
+Within the fixed-income portion, PIMCO diversifies across credit quality — from investment-grade down through [high-yield bonds](/high-yield-bond/) issued by companies with weaker [credit ratings](/credit-rating/). High-yield bonds pay higher coupons to compensate for elevated default risk, so a fund can boost distributions by taking on that risk, but it also exposes shareholders to larger losses if a [credit cycle](/credit-cycle/) turns. The fund also diversifies by maturity: longer-duration bonds are more sensitive to interest-rate movements; if rates fall, their value rises sharply, and vice versa.
 
 ## Market conditions and fund performance
 

@@ -1,0 +1,31 @@
+---
+title: "Fidelity MSCI Energy Index ETF (FENY)"
+description: "FENY tracks the MSCI USA Energy Index, offering broad exposure to large and mid-cap energy stocks — oil and gas majors, independents, and services companies — at a low cost."
+keywords:
+  - energy stocks
+  - oil and gas
+  - sector ETF
+  - energy index
+  - commodity exposure
+handwritten: true
+---
+
+*Fidelity MSCI Energy Index ETF (FENY) gives investors direct exposure to energy companies listed on US exchanges — the oil supermajors, regional producers, pipeline operators, oilfield service firms, and related businesses that power the global energy economy and often move inversely to economic weakness.*
+
+The energy sector is one of the oldest and most straightforward exposures in modern markets. FENY tracks the MSCI USA Energy Index, which includes every major and mid-sized energy company in the US equity universe. The index captures the full chain: the giant integrated oil firms like Exxon and [Chevron](/cvx-stock/); smaller independent producers focused on shale, deep water, or other reserve plays; refining and marketing operations; pipeline real-estate investment trusts that own and lease infrastructure; and the equipment makers and service providers that support exploration and production. This breadth means FENY is not a bet on oil prices alone, but on the entire commercial ecosystem that depends on them.
+
+The fund holds roughly 80–90 stocks at any time, weighted by [market capitalization](/market-capitalization/) within the energy sector. The exposure is purely domestic US listed companies, though many of these firms operate globally and earn substantial revenue from international operations. [Exxon Mobil](/xom-stock/), Chevron, [ConocoPhillips](/cop-stock/), and similar large-cap positions typically dominate the top holdings, simply because they are vastly larger by market value than mid-cap producers or pipeline operators. For investors without the time or expertise to pick individual energy stocks, FENY offers a single-ticket way to participate in the energy economy's profits and volatility.
+
+The [expense ratio](/expense-ratio/) sits around 0.08% annually — nearly free by any historical standard — making FENY one of the cheapest ways to gain energy exposure. That low cost is possible because the index is mechanical (no active decisions), the underlying stocks are large and liquid, and Fidelity benefits from scale. The fund trades on NYSE, with solid daily volume and tight bid–ask spreads even in volatile markets.
+
+Energy stocks are inherently cyclical and sensitive to several overlapping forces. Oil and gas prices, obviously, determine whether companies can drill profitably and how much cash they generate. Geopolitical shocks (Middle East tensions, Russian sanctions, supply disruptions) can spike prices abruptly. Currency swings matter because oil is priced globally in dollars — a weak dollar tends to support crude prices. [Recession](/recession/) fears and declines in energy demand can tank the sector for years. Regulatory pressure on fossil fuels, carbon pricing, and the shift toward renewable energy all create headwinds. A single energy fund does not diversify across these risks; it concentrates them.
+
+For investors holding FENY, there are offsetting considerations. Energy stocks deliver real business cash flow — unlike many growth sectors, these companies earn profits measured in tens of billions annually and return some to shareholders via [dividends](/dividend/). The sector's valuation often becomes cheap after extended downturns (when everyone is pessimistic), creating opportunity for disciplined buyers. Conversely, enthusiasm about green energy and electric vehicles can suppress energy stocks even when their fundamentals are sound, creating years of relative underperformance. The [holding period](/holding-period/) and conviction matter immensely.
+
+FENY is not a leveraged or inverse product — it is a straightforward, unleveraged long position in energy companies. That means it moves one-to-one with the sector: when energy stocks rise 10%, the fund rises 10% (minus the tiny fee). The fund does not hedge currency exposure (it buys dollar-denominated stocks), so US-based investors get pure energy-sector exposure without forex complications.
+
+From a portfolio construction view, energy is often included as a small, cyclical diversifier within a larger equity allocation. Because it tends to outperform during inflationary periods and crude-price spikes, some investors hold FENY as a hedge against their [bond](/bond/) portfolio — a way to own something that rises when bond prices fall. Others see it as a tactical position, building an allocation during periods of optimism about oil demand and paring it back during energy-gloom cycles. Buy-and-hold investors less concerned with timing hold it as a permanent sector sleeve.
+
+The fund's prospectus and the MSCI USA Energy Index methodology explain the precise companies included. Review the current top 10 holdings to see which firms dominate your allocation. Compare FENY's performance versus the energy sector's broad reputation — sometimes it lags because of holdings Fidelity must include per the index, sometimes it leads because a particular cohort of energy stocks rallies hard. Watch management commentary and earnings reports from the largest holdings (Exxon, Chevron, ConocoPhillips, Equinor) to understand the business drivers: crude prices, production volumes, project development, and shareholder return policies. The fund's performance is not portable — it will always track energy stocks' fortunes, and those fortunes are tied to global oil and gas markets in ways no individual investor can easily predict or control.
+
+FENY suits investors with a three-to-five-year or longer time horizon who have conviction that energy demand will hold or grow and are comfortable with the sector's volatility. It is not for those seeking income stability, protection from downside, or low volatility. And it is fundamentally a commodity play masquerading as a stock fund — its returns hinge on oil prices, supply disruptions, and geopolitics as much as on company earnings management. Use it deliberately, understand its cyclicality, and size it accordingly within a larger portfolio.

@@ -43,7 +43,7 @@ Conversely, Bitcoin can move 30 percent or more in a matter of weeks. If the cap
 
 ## Tax and Liquidity Considerations
 
-CBTJ trades as an ETF, meaning it can be bought and sold intraday on any exchange where it is listed. The fund's expense ratio and trading costs are lower than those of structured products sold through banks, which often carry embedded markups. However, the options-based structure means that CBTJ's holdings are not as transparent as a traditional equity or Bitcoin ETF; the fund does not publish a simple list of holdings the way an [index fund](/index-fund/) would.
+CBTJ trades as an ETF, meaning it can be bought and sold intraday on any exchange where it is listed. The fund's expense ratio and trading costs are lower than those of [structured products](/structured-product/) sold through banks, which often carry embedded markups. However, the options-based structure means that CBTJ's holdings are not as transparent as a traditional equity or Bitcoin ETF; the fund does not publish a simple list of holdings the way an [index fund](/index-fund/) would.
 
 Investors should be aware that structured products with defined outcomes can have tax complications. The IRS has issued guidance on how to treat certain outcome-based investments, but the specific tax treatment of CBTJ may depend on the investor's circumstances and jurisdiction. Consulting a tax advisor before a large position is prudent.
 

@@ -18,7 +18,7 @@ Hess Midstream was created in 2014 when its parent company, Hess Corporation (an
 
 ## The Bakken and beyond
 
-Hess Midstream's original business centered on the Bakken Shale formation in North Dakota, where Hess Corporation operates prolific oil wells. The midstream assets included pipelines to move Bakken crude to refineries and export terminals, gas processing plants to extract natural gas liquids, and compression equipment to move gas. These assets are long-lived and relatively stable: once a well is producing, it generates crude or gas that must be transported via the midstream system for years.
+Hess Midstream's original business centered on the Bakken Shale formation in North Dakota, where Hess Corporation operates prolific oil wells. The midstream assets included pipelines to move Bakken crude to refineries and export terminals, gas processing plants to extract [natural gas liquids](/natural-gas-liquids/), and compression equipment to move gas. These assets are long-lived and relatively stable: once a well is producing, it generates crude or gas that must be transported via the midstream system for years.
 
 This Bakken focus gave Hess Midstream predictable volume and cash flow, but it also meant the company was heavily exposed to the fortunes of one geographic region and one parent company's production. If Hess Corporation scaled back Bakken drilling, Hess Midstream's volumes would fall. If the Bakken's geology disappointed, or if regulations tightened, the partnership faced headwinds.
 

@@ -60,7 +60,7 @@ Because the fund holds only Alibaba, the entire portfolio depends on one company
 
 ## Who this fund is for
 
-KBAB is for experienced traders making active, tactical bets on Alibaba over short time periods — days to weeks. It is absolutely inappropriate for long-term buy-and-hold investing, retirement accounts, or risk-averse investors. The combination of leverage, daily rebalancing decay, concentration in a single stock, and regulatory risk creates a volatile, active-trading instrument, not a core holding.
+KBAB is for experienced traders making active, tactical bets on Alibaba over short time periods — days to weeks. It is absolutely inappropriate for long-term [buy-and-hold investing](/buy-and-hold/), retirement accounts, or risk-averse investors. The combination of leverage, daily rebalancing decay, concentration in a single stock, and regulatory risk creates a volatile, active-trading instrument, not a core holding.
 
 Even traders should understand volatility-decay mechanics and the costs of holding the fund longer than intended. If you think Alibaba will rise sharply over the next few days, KBAB amplifies that bet. If you think it will rise over the next few years, or if you are uncertain about timing, a single share of BABA is far simpler and more suitable.
 

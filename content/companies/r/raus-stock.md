@@ -84,7 +84,7 @@ The fund's expense ratio is the explicit cost; the implicit costs lie in rebalan
 
 ## Who RAUS appeals to and how to research it
 
-RAUS is intended for investors who believe that systematic value and fundamental-based weighting can add value relative to market-cap weighting, particularly over long [holding periods](/holding-period/) and through complete market cycles. It suits investors comfortable with modest underperformance during growth rallies in exchange for a lower valuation foundation and potential outperformance during value recoveries. It is not a market-timing tool.
+RAUS is intended for investors who believe that systematic value and fundamental-based weighting can add value relative to market-cap weighting, particularly over long [holding periods](/holding-period/) and through complete [market cycles](/market-cycle/). It suits investors comfortable with modest underperformance during growth rallies in exchange for a lower valuation foundation and potential outperformance during value recoveries. It is not a market-timing tool.
 
 An investor considering RAUS should start with Research Affiliates' RAFI methodology document, which explains how fundamentals are measured and applied, and the prospectus and fact sheet, which detail the annual rebalancing calendar, the index constituents, and the expense structure. Monitor the fund's tracking error relative to the underlying RAFI US 1000 Index to detect any cost structure surprises.
 

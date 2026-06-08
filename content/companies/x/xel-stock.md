@@ -44,7 +44,7 @@ Xcel's dividend history and rate-setting model have long made it a core holding 
 
 However, the utility faces mounting pressures. The energy transition is capital-intensive and uncertain: costs to retire coal plants, build wind and solar, and upgrade transmission lines often exceed original forecasts. Regulators sometimes push back on rate increases, delaying cost recovery. [Interest rates](/interest-rate/) affect the cost of the borrowing that funds infrastructure; rising rates have increased Xcel's cost of capital. [Inflation](/inflation/) has pushed up labor and material costs. And the pace of the transition itself remains a political and technical question—faster decarbonization could require even heavier spending, while delays risk regulatory or competitive pressure.
 
-Xcel also operates in a region (the Midwest) where coal generation has deep roots and where some state legislatures have been skeptical of aggressive renewable mandates. This creates a mismatch between the company's stated net-zero targets and the political-regulatory environment it must navigate. The company has moved faster than some peers but slower than others, and that positioning itself carries execution and political risk.
+Xcel also operates in a region (the Midwest) where coal generation has deep roots and where some state legislatures have been skeptical of aggressive renewable mandates. This creates a mismatch between the company's stated net-zero targets and the political-regulatory environment it must navigate. The company has moved faster than some peers but slower than others, and that positioning itself carries execution and [political risk](/political-risk/).
 
 ## Scale and Competitive Position
 

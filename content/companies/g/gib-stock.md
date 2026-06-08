@@ -49,7 +49,7 @@ That model has proven resilient across economic cycles. [Recessions](/recession/
 
 ## Watching CGI as an investment
 
-CGI's quarterly earnings reports and 10-K filings (SEC CIK 0001061574) reveal the health of the business at a glance. Watch backlog (the value of contracts already signed, not yet executed) — it is a leading indicator of future revenue. Watch managed-services revenue growth relative to consulting and integration; a rising mix toward recurring revenue is favorable. Watch utilization and realization rates — they indicate whether the company is keeping people billable and actually collecting the margins it quotes.
+CGI's quarterly earnings reports and 10-K filings (SEC CIK 0001061574) reveal the health of the business at a glance. Watch backlog (the value of contracts already signed, not yet executed) — it is a [leading indicator](/leading-indicator/) of future revenue. Watch managed-services revenue growth relative to consulting and integration; a rising mix toward recurring revenue is favorable. Watch utilization and realization rates — they indicate whether the company is keeping people billable and actually collecting the margins it quotes.
 
 Also track major contract wins and losses. A single large government contract win can reframe the earnings outlook for years. Conversely, a customer announcing a transition away from outsourced IT (or choosing a competitor) is a sign that the relationship is not meeting needs. Sector trends also matter: regulatory change that requires system upgrades (like cybersecurity mandates) creates demand; consolidation in adjacent industries (e.g., banking [mergers](/merger/)) often triggers outsourcing as the combined organization rationalizes infrastructure.
 

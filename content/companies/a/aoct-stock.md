@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Innovator Equity Defined Protection ETF - 2 Yr to October 2026 (ticker: AOCT, traded on NYSE Arca) is part of a newer class of exchange-traded products called defined-outcome ETFs — funds that promise a specific risk-return profile over a defined time window, then reset. AOCT's promise is straightforward: it protects your principal against losses in the S&P 500 through October 2026, but it caps how much you can gain in the same period. It is neither a traditional stock fund nor a [bond](/bond/) fund, but something built out of options and other derivatives — a financial machine engineered to deliver a precise outcome if you hold until the protection period ends.
+The Innovator Equity Defined Protection ETF - 2 Yr to October 2026 (ticker: AOCT, traded on [NYSE Arca](/nyse-arca/)) is part of a newer class of exchange-traded products called defined-outcome ETFs — funds that promise a specific risk-return profile over a defined time window, then reset. AOCT's promise is straightforward: it protects your principal against losses in the S&P 500 through October 2026, but it caps how much you can gain in the same period. It is neither a traditional stock fund nor a [bond](/bond/) fund, but something built out of options and other derivatives — a financial machine engineered to deliver a precise outcome if you hold until the protection period ends.
 
 <aside class="wiki-infobox">
 <table>

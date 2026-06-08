@@ -51,7 +51,7 @@ But Exosens depends on concentrated customers. If France reduces space spending,
 
 ## How to Research Exosens
 
-The company files with the [SEC](/securities-and-exchange-commission/) because it issues ADRs. Check the CIK (2109666) for Form 20-F filings, which are the annual reports Exosens submits in English. These filings contain consolidated financial statements, customer concentration data, and discussion of risks. You'll see which government agencies and contractors are the main revenue sources. The company also files proxy statements (Schedule 14A) if there are shareholder votes. Reading the 20-F is the primary source of truth about Exosens' finances and operations.
+The company files with the [SEC](/securities-and-exchange-commission/) because it issues ADRs. Check the CIK (2109666) for Form 20-F filings, which are the annual reports Exosens submits in English. These filings contain consolidated financial statements, customer concentration data, and discussion of risks. You'll see which government agencies and contractors are the main revenue sources. The company also files [proxy statements](/proxy-statement/) (Schedule 14A) if there are shareholder votes. Reading the 20-F is the primary source of truth about Exosens' finances and operations.
 
 The stock price and trading volume on OTC Markets are thin. U.S. brokers can usually execute trades in EXOSF, but spreads between bid and ask prices are wide. Most trading volume happens on the Euronext exchange in Paris. Investors interested in deep research often consult the French-language filings or analyst reports from European investment banks.
 
@@ -63,7 +63,7 @@ The stock price and trading volume on OTC Markets are thin. U.S. brokers can usu
 
 ### Wider context
 - [Stock](/stock/)
-- American Depositary Receipt
+- American [Depositary Receipt](/depositary-receipt/)
 - [Securities and Exchange Commission](/securities-and-exchange-commission/)
 - [10-K](/10-k/)
 </div>

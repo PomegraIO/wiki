@@ -54,7 +54,7 @@ The cultural problem matters for understanding Wells Fargo's cyclicality. When t
 
 ## Regulation and capital constraints
 
-Wells Fargo is subject to the strictest banking regulations in the world. The bank must maintain a minimum ratio of capital (shareholders' equity) to assets, and this minimum was raised significantly after the 2008 financial crisis. The bank must conduct annual stress tests showing it could survive a severe recession. It must hold enough liquid assets to survive a month-long funding crisis. It must pay fines and compensation for past misconduct.
+Wells Fargo is subject to the strictest banking regulations in the world. The bank must maintain a minimum ratio of capital ([shareholders' equity](/shareholders-equity/)) to assets, and this minimum was raised significantly after the 2008 financial crisis. The bank must conduct annual stress tests showing it could survive a severe recession. It must hold enough liquid assets to survive a month-long funding crisis. It must pay fines and compensation for past misconduct.
 
 These requirements limit how much profit the bank can return to shareholders. A bank with billions of dollars of capital tied up in regulatory cushions is capital that is not earning returns. This makes it harder for Wells Fargo to compete on [return on equity](/return-on-equity/) with less-regulated competitors or with financial technology companies that are not classified as banks.
 

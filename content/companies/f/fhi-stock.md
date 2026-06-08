@@ -51,7 +51,7 @@ Money-market funds remain subject to strict regulatory oversight, with rules on 
 
 Equity management faces its own cyclical and structural pressures. Long-only alpha is difficult in efficient markets; factor strategies are increasingly crowded; and fee pressure on retail equity products is unrelenting. The ESG space has become politically contentious in certain markets, creating both opportunity (for clients who want principled investing) and headwind (in jurisdictions where ESG is viewed skeptically).
 
-The firm's success hinges partly on things outside its control: equity [market breadth](/market-breadth-advances-declines/) (whether a handful of mega-cap stocks continue to dominate returns or whether smaller-cap and international equity outperform), credit cycle stability, and regulatory forbearance on money-market rules. A sharp equity downturn would pressure assets under management and client confidence in active equity strategies. A shift to higher money-market rates (by itself positive for the business) combined with investor flight from cash would be a mixed blessing.
+The firm's success hinges partly on things outside its control: equity [market breadth](/market-breadth-advances-declines/) (whether a handful of mega-cap stocks continue to dominate returns or whether smaller-cap and international equity outperform), [credit cycle](/credit-cycle/) stability, and regulatory forbearance on money-market rules. A sharp equity downturn would pressure assets under management and client confidence in active equity strategies. A shift to higher money-market rates (by itself positive for the business) combined with investor flight from cash would be a mixed blessing.
 
 ## How to research it
 
@@ -61,4 +61,4 @@ Monitor the company's ESG and governance disclosures. These reveal how serious t
 
 Track money-market fund flows industry-wide, and Federated Hermes' market share within that category. Persistent outflows suggest either broader disinterest in the product or specific competitive losses. Look at fee waivers and [expense ratios](/expense-ratio/) on retail funds; a firm resorting to constant fee caps to stay competitive may be sacrificing margin.
 
-For equity and alternatives, examine performance versus benchmarks (with appropriate time horizons and adjusted for fee drag). Persistent underperformance is a leading indicator of future redemptions. Also note client concentration: a firm heavily dependent on a few large institutional clients faces integration risk if those relationships weaken.
+For equity and alternatives, examine performance versus benchmarks (with appropriate time horizons and adjusted for fee drag). Persistent underperformance is a [leading indicator](/leading-indicator/) of future redemptions. Also note client concentration: a firm heavily dependent on a few large institutional clients faces integration risk if those relationships weaken.

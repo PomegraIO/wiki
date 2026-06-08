@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-OceanPal is a shipping company with a twist. It owns and operates three cargo vessels — two Panamax dry bulk carriers and one medium-range tanker — that transport commodities across international waters. That core business, which pays the bills, generates charter revenue by renting ships by the day or the voyage to customers who need to move [iron ore](/iron-ore/), coal, grain, steel products, or refined petroleum. But in recent years, OceanPal has layered on a second business: accumulating digital assets on the NEAR Protocol blockchain and generating yield through staking. The shipping fleet runs the existing operation; the blockchain treasury is the bet on the future. Both sit on the same [balance sheet](/balance-sheet/), traded under the ticker SVRN on [Nasdaq](/nasdaq/).
+OceanPal is a shipping company with a twist. It owns and operates three cargo vessels — two Panamax dry bulk carriers and one medium-range tanker — that transport commodities across international waters. That core business, which pays the bills, generates charter revenue by renting ships by the day or the voyage to customers who need to move [iron ore](/iron-ore/), coal, grain, steel products, or refined petroleum. But in recent years, OceanPal has layered on a second business: accumulating digital assets on the [NEAR Protocol](/near-protocol/) blockchain and generating yield through staking. The shipping fleet runs the existing operation; the blockchain treasury is the bet on the future. Both sit on the same [balance sheet](/balance-sheet/), traded under the ticker SVRN on [Nasdaq](/nasdaq/).
 
 ## The shipping side
 

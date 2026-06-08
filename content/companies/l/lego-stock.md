@@ -53,7 +53,7 @@ This creates a forward-looking competitive dynamic: Legato must not only close a
 
 ## Structural and Regulatory Risks
 
-SPACs face ongoing regulatory scrutiny regarding disclosure, sponsor conflicts of interest, and warrant structures. Regulatory changes (heightened SEC oversight, changes to accounting rules for warrant liabilities) can reduce the attractiveness of SPACs relative to IPOs, compressing Legato's competitive position. Additionally, the SPAC market itself is cyclical; when the market is skeptical, SPAC IPOs struggle, and sponsor teams find it harder to raise capital for future vehicles.
+SPACs face ongoing regulatory scrutiny regarding disclosure, sponsor conflicts of interest, and warrant structures. Regulatory changes (heightened SEC oversight, changes to accounting rules for warrant liabilities) can reduce the attractiveness of SPACs relative to IPOs, compressing Legato's competitive position. Additionally, the SPAC market itself is cyclical; when the market is skeptical, [SPAC IPOs](/spac-ipo/) struggle, and sponsor teams find it harder to raise capital for future vehicles.
 
 Legato's competitive viability depends on whether it can source and close a quality deal before market conditions deteriorate, redemptions erode capital, or regulatory changes undermine the SPAC advantage. Investors researching Legato should focus on sponsor track record, capital available for the deal (after expected redemptions), the quality and credibility of the target (once announced), and post-merger management's capability to execute. Until a target is announced, Legato is essentially a [call option](/call-option/) on the sponsor team's ability to create value.
 

@@ -27,7 +27,7 @@ There is no subscription or membership model; customers purchase individual cart
 
 ## Competitive Position and Pressures
 
-Compatible cartridges are a crowded market. Major OEM brands (Hewlett-Packard, Canon, Epson, Brother, Xerox) defend their cartridge business fiercely, but their supplies cost 3–4 times what compatible alternatives do. That price gap sustains the aftermarket.
+Compatible cartridges are a crowded market. Major OEM brands (Hewlett-Packard, Canon, Epson, Brother, Xerox) defend their cartridge business fiercely, but their supplies cost 3–4 times what compatible alternatives do. That [price gap](/price-gap/) sustains the aftermarket.
 
 The problem is that anyone with modest capital, access to Chinese manufacturers, and an e-commerce listing can enter the market. Planet Image competes against Chinese manufacturers, regional distributors, and re-sellers. There is little product differentiation; compatibility and reliability matter most. The company's moat is limited: it owns no patents of significance, no exclusive supply contracts, and no customer lock-in. It relies on volume, cost efficiency, and a established e-commerce presence.
 

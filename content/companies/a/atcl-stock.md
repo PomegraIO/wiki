@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The REX Autocallable [Income ETF](/income-etf/), traded as ATCL, wraps a structured autocallable strategy around the [S&P 500 Index](/sp-500-index/). Rather than holding the index directly, the fund implements a redemption mechanism borrowed from structured products: the fund observes the index level on preset dates and, if it has gained past a trigger level, automatically redeems and restarts the strategy — locking in gains and resetting the bet. If the index declines, the fund cushions the downside within predefined limits.
+The REX Autocallable [Income ETF](/income-etf/), traded as ATCL, wraps a structured autocallable strategy around the [S&P 500 Index](/sp-500-index/). Rather than holding the index directly, the fund implements a redemption mechanism borrowed from [structured products](/structured-product/): the fund observes the index level on preset dates and, if it has gained past a trigger level, automatically redeems and restarts the strategy — locking in gains and resetting the bet. If the index declines, the fund cushions the downside within predefined limits.
 
 Autocallable structures are common in wealth management and private structured products, where they appeal to income-focused investors who accept complexity in exchange for a defined payoff ladder. ATCL brings that logic into a daily-trading ETF format, making it accessible to retail investors who would normally encounter these only through [private placements](/private-placement/) or [hedge funds](/hedge-fund/).
 

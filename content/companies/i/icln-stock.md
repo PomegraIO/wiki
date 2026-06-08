@@ -30,7 +30,7 @@ ICLN tracks the [S&P Global](/spgi-stock/) Clean Energy Index, a collection of p
 
 The index ICLN tracks spans multiple layers of the clean-energy economy. Major holdings typically include renewable-energy generators like [NextEra Energy](/nee-stock/) (which runs huge wind and solar portfolios), equipment makers such as Vestas and Siemens (turbine manufacturers), solar-panel producers, battery-technology firms, and utilities investing in grid modernization. It also captures companies in less obvious corners of clean energy: manufacturers of smart meters and grid-control software, companies managing energy efficiency in buildings, and suppliers of components for electric vehicles and charging infrastructure.
 
-The composition shifts as the index provider rebalances. Because ICLN is rules-based and index-driven rather than actively managed, the fund does not pick winners — it simply holds the companies that meet the index's clean-energy criteria and rebalances periodically. This rules-based approach means no analyst sitting at a desk trying to guess which solar company will outperform; you get the broad exposure or nothing.
+The composition shifts as the [index provider](/index-provider/) rebalances. Because ICLN is rules-based and index-driven rather than actively managed, the fund does not pick winners — it simply holds the companies that meet the index's clean-energy criteria and rebalances periodically. This rules-based approach means no analyst sitting at a desk trying to guess which solar company will outperform; you get the broad exposure or nothing.
 
 ## Cost and how it trades
 

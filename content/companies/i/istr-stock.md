@@ -41,7 +41,7 @@ Unlike the largest national banks, which can shift capital across regions and bu
 
 ## The Secular Headwind: Consolidation
 
-Separately from the cycle, community banks face a structural secular decline. Customers increasingly choose large national banks or fintech providers over local institutions. Regulatory costs fall disproportionately on small banks, raising the cost of compliance. And deposit competition is national, not local—younger depositors do not default to a regional bank because it is nearby. Investar's profitability in 20 years will depend not just on the Louisiana economy but on whether community banking exists as a viable model at all. For now, regional credit cycles are the dominant driver.
+Separately from the cycle, community banks face a structural secular decline. Customers increasingly choose large national banks or fintech providers over local institutions. Regulatory costs fall disproportionately on small banks, raising the cost of compliance. And deposit competition is national, not local—younger depositors do not default to a regional bank because it is nearby. Investar's profitability in 20 years will depend not just on the Louisiana economy but on whether community banking exists as a viable model at all. For now, regional [credit cycles](/credit-cycle/) are the dominant driver.
 
 <div class="wiki-seealso">
 ### Closely related

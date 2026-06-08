@@ -1,0 +1,28 @@
+---
+title: "The Brinsmere Fund Conservative ETF (TBFC)"
+description: "TBFC is a conservative allocation ETF that blends stocks, bonds, and cash in a fixed mix tilted heavily toward fixed income and stability — designed for investors with low risk tolerance or those near or in retirement."
+keywords:
+  - conservative etf
+  - balanced fund
+  - risk-appropriate
+  - fixed allocation
+  - retirement income
+  - multi-asset
+handwritten: true
+---
+
+The Brinsmere Fund Conservative ETF carves out a specific slot in the portfolio landscape: it is neither pure [bonds](/bond/) nor a [balanced fund](/balanced-fund/) attempting to thread the needle between stocks and bonds. Instead, TBFC leans decisively toward preservation. The typical allocation in a conservative fund of this design runs something like 30 percent stocks, 60 percent bonds, and 10 percent cash and alternatives — a split that acknowledges equities' role in long-term growth while making clear that capital preservation is the priority.
+
+Investors who own TBFC are usually either in or within five to ten years of retirement, or they are younger people with a low risk tolerance who want their portfolio to sleep soundly at night. They are not trying to beat the [stock market](/stock-market/); they are trying to build a steady, predictable return with portfolio declines that stay within what they can emotionally tolerate. In market downturns that might see an aggressive growth portfolio fall 30–40 percent, a conservative fund like TBFC typically falls 10–20 percent, which makes a world of difference to someone who cannot afford a multi-year recovery.
+
+The stock allocation in TBFC likely emphasizes large-cap, dividend-paying shares over small-cap growth stocks, simply because dividend-paying companies tend to be mature, stable, and less volatile than high-flying technology or biotech names. The bond sleeve is the backbone: a blend of government, corporate, and perhaps some higher-yielding securities, all intermediate to short duration to keep [interest-rate risk](/interest-rate-risk/) modest. Some allocation may drift into [inflation-protected securities](/inflation-protected-securities/) like TIPS or commodities, depending on Brinsmere's philosophy. The cash and alternatives bucket — 10 percent — acts as a buffer, available when opportunities appear or when the fund needs to meet redemptions without forced selling.
+
+The fund's construction reflects a straightforward philosophy: over a full [market cycle](/market-cycle/) ([bull market](/bull-market/), [recession](/recession/), recovery, and sideways periods), this allocation should deliver 4–6 percent annualized returns after fees, with drawdowns rarely exceeding 15–20 percent. That is not spectacular. A pure stock portfolio will beat it in good years; a pure bond fund might beat it in some years. But the consistency across decades matters to people who do not want to wonder whether they made a terrible mistake.
+
+The [expense ratio](/expense-ratio/) of a conservative ETF like TBFC is typically in the 0.3–0.5 percent range — low enough that it does not meaningfully impair returns, but reasonable given that the fund must hold and rebalance multiple asset classes. Liquidity is generally good because conservative funds attract capital as money rotates from growth into stability during later-cycle phases.
+
+Rebalancing happens either on a calendar schedule (quarterly or annually) or on a trigger basis (when stocks drift above or below their target by a set percentage). Automatic rebalancing is one of the subtle values of a diversified fund: it forces a mechanical discipline to sell what is working (stocks in an up market) and buy what is struggling (bonds during a bull market rally), which sounds wrong but actually delivers better long-term returns than following your instincts.
+
+The risks in TBFC are real but modest compared to holding stocks alone. [Inflation risk](/inflation-risk/) — the possibility that purchasing power erodes because returns lag [inflation](/inflation/) over decades — is the biggest. A conservative fund in a 2–3 percent inflation world will return approximately 4–6 percent nominally, which is fine; in a 5 percent inflation world, that 4–6 percent real return vanishes. There is also [reinvestment risk](/reinvestment-risk/): if you own bonds yielding 3 percent and new bonds become available at 2 percent, the fund's yield falls when bonds mature and get replaced. And there is sequence-of-returns risk: if a major market crash happens in the first year of your retirement, you may need to sell assets at a loss to fund living expenses, which can affect outcomes even if the market recovers later.
+
+Finding research on TBFC means starting with the Brinsmere fund website, where the prospectus lays out the exact target allocation percentages and the rebalancing rules. Look at the fund's factsheet for its current holdings and the sector and asset-class breakdown, which should match the stated conservative philosophy. Check Morningstar for the fund's historical returns and drawdowns over different periods — especially how it behaved in the 2020 COVID crash and the 2022 [bear market](/bear-market/), which show whether it really did limit downside as promised. Compare it against similar funds like the Vanguard Conservative ETF or the iShares Balanced ETF to see whether the allocation and performance are aligned. Finally, because a conservative fund's job is to be boring and predictable, the most useful metric is not the best year but the worst year: a fund that avoids catastrophic losses, even if it sometimes modestly lags in rallies, is worth its place in a portfolio.

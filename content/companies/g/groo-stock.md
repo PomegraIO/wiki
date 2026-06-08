@@ -21,7 +21,7 @@ This categorization is not optional. It flows from the product's composition and
 
 ## State Licensing and Permits
 
-Many of GROOVY's operations require state-specific licenses. If the company manufactures goods in-house, most states require a manufacturer's license, issued by a state health or business agency. If it sells directly to consumers or operates retail locations, sales-tax permits are required in most states. If the company employs people, it must register with state labor agencies and unemployment insurance systems. If it handles hazardous materials (solvents, adhesives, dyes), state environmental permits are necessary. These are not abstract bureaucratic steps; they are prerequisites to lawful operation, and operating without a required license can result in fines, cease-and-desist orders, or seizure of inventory.
+Many of GROOVY's operations require state-specific licenses. If the company manufactures goods in-house, most states require a manufacturer's license, issued by a state health or business agency. If it sells directly to consumers or operates retail locations, sales-tax permits are required in most states. If the company employs people, it must register with state labor agencies and [unemployment insurance](/unemployment-insurance/) systems. If it handles hazardous materials (solvents, adhesives, dyes), state environmental permits are necessary. These are not abstract bureaucratic steps; they are prerequisites to lawful operation, and operating without a required license can result in fines, cease-and-desist orders, or seizure of inventory.
 
 State requirements also extend to product-specific standards. Some states regulate cosmetics more stringently than the FDA does, banning ingredients the FDA allows. Textiles are regulated differently in different states. California, in particular, has developed a reputation for stringent product safety and environmental standards; companies that want to sell in California must often engineer products to meet California specifications, and then they may find it cheaper to manufacture to those standards nationally than to maintain multiple product lines.
 
@@ -41,7 +41,7 @@ GROOVY must also comply with consumer return and refund policies, which are incr
 
 If GROOVY manufactures overseas (as many consumer companies do), it is responsible for ensuring that imported goods comply with U.S. standards. Customs and Border Protection (CBP) can detain imports if they do not meet labeling requirements, safety standards, or tariff classifications. The company must maintain documentation of suppliers, manufacturing standards, and product testing. If GROOVY sources materials or finished goods from countries subject to tariffs (as of 2026, China, Vietnam, and others have elevated tariff rates on many consumer goods), the company must account for these costs or absorb them as margin pressure.
 
-Labor standards also apply. If suppliers use forced labor or child labor, GROOVY is liable under the Tariff Act and can face import bans. The company is expected to audit suppliers and maintain records of compliance. This is not merely reputational risk; it is a legal obligation.
+Labor standards also apply. If suppliers use forced labor or child labor, GROOVY is liable under the Tariff Act and can face import bans. The company is expected to audit suppliers and maintain records of compliance. This is not merely [reputational risk](/reputational-risk/); it is a legal obligation.
 
 ## Recalls and Crisis Management
 

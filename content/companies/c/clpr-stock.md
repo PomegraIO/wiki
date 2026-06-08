@@ -33,7 +33,7 @@ REITs receive favorable tax treatment at the corporate level—no federal income
 
 ## Valuation and the Role of NOI
 
-Clipper is valued by the investment community using funds from operations (FFO), or adjusted-FFO, metrics rather than traditional earnings-per-share. FFO takes net income and adds back [depreciation](/depreciation/) (a non-cash charge that inflates the loss), yielding a measure closer to actual cash available for dividends. The P/FFO ratio—stock price divided by FFO per share—serves as the valuation multiple, analogous to a P/E ratio for operational companies. This metric-shifting reflects the regulatory reality of REITs: reported net income is distorted by depreciation and is less informative than cash generation. Clipper's investor materials and earnings calls emphasize FFO, occupancy rates, and same-property NOI growth, not traditional profit metrics.
+Clipper is valued by the investment community using [funds from operations](/funds-from-operations/) (FFO), or adjusted-FFO, metrics rather than traditional earnings-per-share. FFO takes net income and adds back [depreciation](/depreciation/) (a non-cash charge that inflates the loss), yielding a measure closer to actual cash available for dividends. The P/FFO ratio—stock price divided by FFO per share—serves as the valuation multiple, analogous to a P/E ratio for operational companies. This metric-shifting reflects the regulatory reality of REITs: reported net income is distorted by depreciation and is less informative than cash generation. Clipper's investor materials and earnings calls emphasize FFO, occupancy rates, and same-property NOI growth, not traditional profit metrics.
 
 ## Capital Allocation and Growth Strategy
 

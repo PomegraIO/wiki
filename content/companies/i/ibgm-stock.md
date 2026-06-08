@@ -53,7 +53,7 @@ The fund pays interim [coupon payments](/coupon-payment/) as the bonds in the po
 
 ## Building IBGM into a portfolio strategy
 
-Some investors use multiple term Treasury ETFs at different maturity dates to build a [bond ladder](/bond-ladder/), where bonds mature in different years and provide staggered liquidity. IBGM, as a 30-year-out maturity, would represent the long end of such a ladder — capital parked for three decades. Combined with shorter-maturity iShares iBonds products (2025, 2035, 2045), an investor can construct a Treasury ladder within an exchange-traded structure, simplifying administration versus managing individual bonds.
+Some investors use multiple term Treasury ETFs at different maturity dates to build a [bond ladder](/bond-ladder/), where bonds mature in different years and provide staggered liquidity. IBGM, as a 30-year-out maturity, would represent the long end of such a [ladder — capital](/ladr-stock/) parked for three decades. Combined with shorter-maturity iShares iBonds products (2025, 2035, 2045), an investor can construct a Treasury ladder within an exchange-traded structure, simplifying administration versus managing individual bonds.
 
 Others use IBGM as a single, dedicated holding aligned to a specific liability or time horizon. A pension fund might hold IBGM to match a known benefit payment obligation in 2056. An endowment might hold it as part of long-term [asset allocation](/asset-allocation/).
 

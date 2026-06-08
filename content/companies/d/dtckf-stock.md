@@ -4,7 +4,7 @@ description: "London-headquartered commodity trader and hedge fund operating OTC
 keywords: [commodities, trading, hedge-fund, energy, agriculture, derivatives, otc]
 ---
 
-*[**Davis Commodities Ltd**](/dtckf-stock/) (DTCKF) is a London-based commodity trading house that operates principally in over-the-counter energy and agricultural derivatives, serving [hedge funds](/hedge-fund/), producers, and end-users who need to manage price risk across oil, gas, metals, and agricultural inputs. It sits in the shadow of larger, well-known commodity houses but occupies a specific niche within a global trade finance and risk-management ecosystem.*
+*[**Davis Commodities Ltd**](/dtckf-stock/) (DTCKF) is a London-based [commodity trading house](/commodity-trading-house/) that operates principally in over-the-counter energy and agricultural derivatives, serving [hedge funds](/hedge-fund/), producers, and end-users who need to manage price risk across oil, gas, metals, and agricultural inputs. It sits in the shadow of larger, well-known commodity houses but occupies a specific niche within a global trade finance and risk-management ecosystem.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>DTCKF</td></tr>

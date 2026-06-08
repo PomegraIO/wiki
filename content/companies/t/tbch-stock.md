@@ -53,7 +53,7 @@ The weakness in Turtle Beach's position is that it is a single-brand, single-sec
 
 ## The PDP acquisition and the controller bet
 
-In March 2024, Turtle Beach acquired Performance Designed Products for $118 million, a significant capital deployment that signals management's confidence in the controller category and its desire to build out a more complete gaming-peripherals ecosystem. PDP brought an established controller business with its own customer base, and Turtle Beach appears to be integrating the two companies' product lines and distribution channels. This acquisition faces execution risk — integration is complex and the controller market is highly competitive — but it offers the potential to diversify Turtle Beach's revenue beyond audio and to increase its presence across multiple gaming-accessory categories.
+In March 2024, Turtle Beach acquired Performance Designed Products for $118 million, a significant capital deployment that signals management's confidence in the controller category and its desire to build out a more complete gaming-peripherals ecosystem. PDP brought an established controller business with its own customer base, and Turtle Beach appears to be integrating the two companies' product lines and distribution channels. This acquisition faces [execution risk](/execution-risk/) — integration is complex and the controller market is highly competitive — but it offers the potential to diversify Turtle Beach's revenue beyond audio and to increase its presence across multiple gaming-accessory categories.
 
 ## Financial dynamics and margins
 

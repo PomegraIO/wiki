@@ -33,7 +33,7 @@ Lifetime does not operate large manufacturing facilities; instead, it designs pr
 
 ## Profitability and Cyclicality
 
-Lifetime's profit is cyclical, tied to consumer [discretionary spending](/discretionary-spending/) and housing starts (new homes drive demand for housewares and kitchen goods). In strong consumer spending environments, retailers stock deeply and Lifetime's revenue accelerates. In downturns, retailers cut inventory and consumers defer purchases of non-essential durable goods, reducing orders and exerting downward pressure on prices. The company's leverage (debt load) amplifies these cycles—in strong years, debt service is manageable; in weak years, leverage can constrain flexibility. Inventory management is critical: retailers demand consistent supply, but overproduction in weak demand periods leads to markdowns, discounting, and margin pressure.
+Lifetime's profit is cyclical, tied to consumer [discretionary spending](/discretionary-spending/) and [housing starts](/housing-starts/) (new homes drive demand for housewares and kitchen goods). In strong consumer spending environments, retailers stock deeply and Lifetime's revenue accelerates. In downturns, retailers cut inventory and consumers defer purchases of non-essential durable goods, reducing orders and exerting downward pressure on prices. The company's leverage (debt load) amplifies these cycles—in strong years, debt service is manageable; in weak years, leverage can constrain flexibility. Inventory management is critical: retailers demand consistent supply, but overproduction in weak demand periods leads to markdowns, discounting, and margin pressure.
 
 ## Competitive Landscape and Alternatives
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The ARK DIET Q4 Buffer ETF ([NASDAQ](/nasdaq/): ARKT) represents a specialized and relatively recent innovation in the ETF universe: a fund designed explicitly to protect an investor's capital during the fourth quarter of each year while still allowing participation in market gains. The acronym DIET stands for Defined Impact Engineered Total Return, reflecting the fund's core promise — to engineer a defined outcome, not to pursue unbounded upside.
+The ARK DIET Q4 [Buffer ETF](/buffer-etf/) ([NASDAQ](/nasdaq/): ARKT) represents a specialized and relatively recent innovation in the ETF universe: a fund designed explicitly to protect an investor's capital during the fourth quarter of each year while still allowing participation in market gains. The acronym DIET stands for Defined Impact Engineered Total Return, reflecting the fund's core promise — to engineer a defined outcome, not to pursue unbounded upside.
 
 ARKT's creation reflects a specific observation: the fourth quarter is historically the most volatile quarter for equity markets. Institutional rebalancing, holiday-season uncertainty, geopolitical surprises, and year-end portfolio actions create larger swings and larger downside risk than other quarters. ARK designed ARKT to address this seasonal vulnerability, creating a product that investors can use to hedge their portfolio during Q4 or to hold year-round if they are comfortable with the tradeoff of capped upside for protected downside.
 
@@ -49,4 +49,4 @@ ARKT is suited to investors with meaningful concern about Q4 volatility — perh
 
 ## How to research ARKT
 
-The prospectus is essential and explains the buffer, cap, and quarterly reset in formal terms. The fund's fact sheet typically includes a visual payoff diagram showing the protected and capped range. ARK publishes quarterly reports on how the fund performed relative to its stated buffer and cap. Investors should carefully calculate what the capped returns would mean over a full market cycle and whether that tradeoff makes sense for their situation and time horizon.
+The prospectus is essential and explains the buffer, cap, and quarterly reset in formal terms. The fund's fact sheet typically includes a visual payoff diagram showing the protected and capped range. ARK publishes quarterly reports on how the fund performed relative to its stated buffer and cap. Investors should carefully calculate what the capped returns would mean over a full [market cycle](/market-cycle/) and whether that tradeoff makes sense for their situation and time horizon.

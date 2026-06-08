@@ -45,7 +45,7 @@ Hydro One was partially privatized by the Ontario government in the 2000s. The g
 
 ## Refinancing Risk and Interest Rates
 
-Hydro One's debt must be refinanced periodically. Rising interest rates increase the cost of new borrowing and push up the weighted average cost of capital, which in turn justifies higher customer rates. Conversely, in declining-rate environments, Hydro One can refinance at lower costs, potentially supporting rate reductions. The company's debt maturity is staggered to avoid refinancing all at once in unfavorable markets. With proper capital structure management, Hydro One can manage long-term [interest-rate risk](/interest-rate-risk/), but a sharp, unexpected rise in rates could temporarily pressure the company until regulators adjust rates upward to allow cost recovery.
+Hydro One's debt must be refinanced periodically. Rising interest rates increase the cost of new borrowing and push up the [weighted average cost of capital](/wacc-calculation/), which in turn justifies higher customer rates. Conversely, in declining-rate environments, Hydro One can refinance at lower costs, potentially supporting rate reductions. The company's debt maturity is staggered to avoid refinancing all at once in unfavorable markets. With proper capital structure management, Hydro One can manage long-term [interest-rate risk](/interest-rate-risk/), but a sharp, unexpected rise in rates could temporarily pressure the company until regulators adjust rates upward to allow cost recovery.
 
 ## Credit Quality and Rating
 

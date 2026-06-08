@@ -29,7 +29,7 @@ Spartacus [Acquisition](/acquisition/) Corp. II is a special purpose acquisition
 
 The structure is deliberately simple. In a traditional IPO, you invest in a company that already operates a business. A SPAC inverts this: investors buy units that consist of shares and partial warrants, and the company uses that capital — held in a trust and legally segregated from management's operating expenses — to hunt for a target to buy. The sponsors (typically experienced investors or operators) put up their own capital and have the freedom to run the company's overhead and exploration costs out of pocket.
 
-The appeal is supposed to be speed and flexibility. Instead of taking a private company through months of due diligence with a traditional investment bank, a SPAC can move faster because it already has listed shares and access to public capital markets. For the sponsors, it is a chance to earn promote shares — additional equity if they succeed in closing a deal within the deadline.
+The appeal is supposed to be speed and flexibility. Instead of taking a private company through months of [due diligence](/due-diligence/) with a traditional investment bank, a SPAC can move faster because it already has listed shares and access to public capital markets. For the sponsors, it is a chance to earn promote shares — additional equity if they succeed in closing a deal within the deadline.
 
 For public investors, a SPAC is a bet on the sponsors' judgment and on the deal they eventually strike. If no deal closes before the deadline, shareholders can redeem their shares for their share of the trust cash (roughly their initial $10 per share), which is why the trust is segregated: to protect capital.
 

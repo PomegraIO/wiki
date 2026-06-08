@@ -26,7 +26,7 @@ The fund typically holds 20 to 40 individual positions, diversified across Treas
 
 BOXX charges an [expense ratio](/expense-ratio/) of roughly 0.17%, lower than most active funds but higher than some passive index money-market funds. Where BOXX gains an advantage is in tax efficiency and liquidity. A traditional money-market fund is a [mutual fund](/mutual-fund/) that charges fees and distributes [dividends](/dividend/) daily; if you own it in a taxable account, you owe tax on those daily distributions. BOXX, being an ETF, trades like a stock and you control when you sell and realize gains; you are not forced into taxable distributions every month. That structural difference can save 0.05-0.15% per year in tax drag for a taxable investor in a high tax bracket.
 
-The fund trades on NYSE Arca with strong liquidity; spreads are typically a basis point or less, and volume is steady because it is used by advisers and individuals constantly moving money in and out. If you hold BOXX because you expect to use the cash in two weeks, you can sell any morning and have the proceeds in your account by settlement.
+The fund trades on [NYSE Arca](/nyse-arca/) with strong liquidity; spreads are typically a basis point or less, and volume is steady because it is used by advisers and individuals constantly moving money in and out. If you hold BOXX because you expect to use the cash in two weeks, you can sell any morning and have the proceeds in your account by settlement.
 
 ## Who uses it and why
 

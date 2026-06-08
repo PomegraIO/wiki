@@ -45,11 +45,11 @@ Gain on sale is not a durable stream like interest yield on a held loan portfoli
 
 FIGP's earnings power is proportional to its mortgage origination volume. The company must compete for loans with large banks, other mortgage companies, and direct-lender platforms. Competition is fierce; differentiation often comes via speed, technology, customer service, or niche positioning (jumbo mortgages, non-prime borrowers, etc.). The balance sheet carries a loan pipeline—applications in process, loans locked but not yet closed, and loans closed but not yet sold.
 
-A strong pipeline indicates future earnings; a collapsing pipeline signals revenue headwinds. Pipeline metrics (number of applications, dollar volume, pull-through rates) are disclosed to investors and tracked as leading indicators of near-term origination volumes.
+A strong pipeline indicates future earnings; a collapsing pipeline signals revenue headwinds. Pipeline metrics (number of applications, dollar volume, pull-through rates) are disclosed to investors and tracked as [leading indicators](/leading-indicator/) of near-term origination volumes.
 
 ## Capital Requirements and Equity Constraints
 
-Forge Group must maintain regulatory capital sufficient to support its origination and servicing business. Capital requirements are less stringent than for banks (mortgage companies are not insured depositories), but they exist. Equity cushion must be sufficient to absorb potential losses on mortgages held pending sale and volatility in MSR valuations.
+Forge Group must maintain regulatory capital sufficient to support its origination and servicing business. Capital requirements are less stringent than for banks (mortgage companies are not insured depositories), but they exist. [Equity cushion](/equity-cushion/) must be sufficient to absorb potential losses on mortgages held pending sale and volatility in MSR valuations.
 
 When FIGP's equity shrinks (due to losses), the company's capacity to originate mortgages contracts. Warehouse lenders become more cautious; they reduce available facilities or tighten covenants. Equity holders may be forced to inject capital or accept dilution through equity raises at unfavorable terms.
 

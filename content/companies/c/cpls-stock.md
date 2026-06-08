@@ -64,7 +64,7 @@ The biggest risk is that the manager guesses wrong. Core-plus funds exist in a m
 
 [Interest-rate risk](/interest-rate-risk/) is always present. The fund's average maturity changes with the manager's decisions. If the manager thinks rates will fall and they actually rise, the fund will underperform. If the manager thinks rates will rise and they actually fall, the fund will outperform.
 
-Liquidity can tighten in a panic. The "plus" part of the portfolio — emerging-market bonds, high-yield debt, structured products — becomes hard to sell when markets seize up. That can force the manager to accept worse prices or hold positions longer than planned.
+Liquidity can tighten in a panic. The "plus" part of the portfolio — emerging-market bonds, high-yield debt, [structured products](/structured-product/) — becomes hard to sell when markets seize up. That can force the manager to accept worse prices or hold positions longer than planned.
 
 ## Who this makes sense for
 

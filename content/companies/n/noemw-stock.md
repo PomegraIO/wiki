@@ -29,7 +29,7 @@ The regulatory sandbox extends beyond the US tax code. Various states have adopt
 
 ## Who is running the company?
 
-The SPAC's sponsor team leads the search and negotiation process. The company is organized around its [board of directors](/board-of-directors/) and a small administrative staff, with no operations of its own until a [merger](/merger/) is announced and closed. The sponsor team's incentives depend on successful deal execution: they hold a carried interest that is worthless unless the merger closes and the resulting combined company's share price appreciates above the warrant strike. This alignment is meant to align sponsors with public shareholders, though the incentive is imperfect — a disappointing acquisition can still leave both parties worse off.
+The SPAC's sponsor team leads the search and negotiation process. The company is organized around its [board of directors](/board-of-directors/) and a small administrative staff, with no operations of its own until a [merger](/merger/) is announced and closed. The sponsor team's incentives depend on successful deal execution: they hold a [carried interest](/carried-interest-compensation/) that is worthless unless the merger closes and the resulting combined company's share price appreciates above the warrant strike. This alignment is meant to align sponsors with public shareholders, though the incentive is imperfect — a disappointing acquisition can still leave both parties worse off.
 
 ## What is the timeline and the redemption dynamic?
 

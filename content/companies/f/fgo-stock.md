@@ -35,7 +35,7 @@ The platform is positioned as a transparent, bilingual (English and Chinese) mar
 
 FG Holdings makes money by charging fees on successful loan transactions—typically a percentage of the loan amount or a flat fee paid by the lender or borrower, or both. The company does not retain [credit risk](/credit-risk/); it does not hold mortgages on its [balance sheet](/balance-sheet/). This is a critical distinction: it is a pure broker model, not a lender.
 
-From inception through June 2024, the company had facilitated approximately $906 million in loans across roughly 528 borrowers. In the fiscal year ended June 30, 2024 alone, FG Holdings facilitated $401 million in loan originations and reported $3.0 million in revenue. These figures reflect a young, early-stage business still building critical mass. The company was not yet profitable at the time of its IPO filing; operating costs (technology development, marketing, compliance, personnel) exceeded revenue in its recent operating periods.
+From inception through June 2024, the company had facilitated approximately $906 million in loans across roughly 528 borrowers. In the [fiscal year](/fiscal-year-definition/) ended June 30, 2024 alone, FG Holdings facilitated $401 million in loan originations and reported $3.0 million in revenue. These figures reflect a young, early-stage business still building critical mass. The company was not yet profitable at the time of its IPO filing; operating costs (technology development, marketing, compliance, personnel) exceeded revenue in its recent operating periods.
 
 The relatively modest revenue base underscores why FG Holdings is a small-cap, newly public company. It is competing in an established market against large, well-capitalized banks with existing customer bases, brand recognition, and existing technology platforms. Success will depend on whether the company can grow transaction volume faster than its cost base, and whether borrowers and lenders increasingly prefer its digital platform over traditional channels.
 
@@ -45,7 +45,7 @@ FG Holdings faces headwinds on multiple fronts. Hong Kong's major banks already 
 
 Additionally, the Hong Kong real estate market and mortgage volumes are subject to macroeconomic and policy shocks—[interest rates](/interest-rate/), property prices, regulatory changes—that are outside the company's control. A sharp contraction in loan demand would directly compress the company's transaction base.
 
-Regulatory risk is also material. Mortgage [brokers](/broker/) in Hong Kong operate under licensing requirements and must comply with regulations from the Securities and Futures Commission and the Monetary Authority. Any material tightening of capital requirements, disclosure rules, or consumer protection standards could increase compliance costs and constrain the company's operating model.
+Regulatory risk is also material. Mortgage [brokers](/broker/) in Hong Kong operate under licensing requirements and must comply with regulations from the [Securities and Futures Commission](/securities-and-futures-commission-hk/) and the Monetary Authority. Any material tightening of capital requirements, disclosure rules, or consumer protection standards could increase compliance costs and constrain the company's operating model.
 
 ## IPO and Capital Raise
 
@@ -55,7 +55,7 @@ The capital raised would be allocated toward platform development, marketing to 
 
 ## What to Watch
 
-Investors assessing FG Holdings should monitor loan origination volumes and the composition of that volume (percentage from private lenders versus banks, loan-to-value ratios, average loan sizes). These metrics directly drive transaction fees and reflect whether the platform is gaining traction with both sides of the marketplace.
+Investors assessing FG Holdings should monitor loan origination volumes and the composition of that volume (percentage from private lenders versus banks, [loan-to-value ratios](/loan-to-value-ratio/), average loan sizes). These metrics directly drive transaction fees and reflect whether the platform is gaining traction with both sides of the marketplace.
 
 Watch also for evidence of repeat usage and borrower retention. In a marketplace business, growth driven by repeat borrowers (refinancing, additional properties) is sticky and profitable; growth driven by one-off new borrower acquisition is expensive. Early investor reports or company disclosures should reveal whether the borrower base is returning.
 

@@ -36,7 +36,7 @@ Moving from laboratory-scale production to commercial manufacturing is complex a
 
 ## Partnering and Out-licensing Vulnerability
 
-Many clinical-stage biotechs partner with larger pharmas, licensing out development and commercialization rights in exchange for upfront payments and milestones. **CLYM** may choose this route to de-risk development or accelerate timelines. However, partnerships concentrate control in the pharma partner's hands; if the partner de-prioritizes a program or terminates a collaboration, **CLYM** loses revenue and development resources. Conversely, if **CLYM** retains control and must fund development and commercialization alone, capital demands increase and execution risks compound.
+Many clinical-stage biotechs partner with larger pharmas, licensing out development and commercialization rights in exchange for upfront payments and milestones. **CLYM** may choose this route to de-risk development or accelerate timelines. However, partnerships concentrate control in the pharma partner's hands; if the partner de-prioritizes a program or terminates a collaboration, **CLYM** loses revenue and development resources. Conversely, if **CLYM** retains control and must fund development and commercialization alone, capital demands increase and [execution risks](/execution-risk/) compound.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -13,7 +13,7 @@ handwritten: true
 
 The Grayscale DeFi Fund is a trust — a legally structured investment vehicle that holds cryptocurrency tokens denominated DeFi on behalf of investors. Investors buy shares in the trust; those shares represent a claim on the underlying tokens, held in custody by Grayscale. The fund exists to let institutional investors and accredited individuals own DeFi tokens through a regulated, custodied vehicle rather than setting up their own wallets and exchanges.
 
-Conceptually, it is similar to a gold fund or a [closed-end fund](/closed-end-fund/). An investor who wants gold exposure can buy gold directly, store it in a vault, and trade it on commodity markets. Or the investor can buy a closed-end fund that holds gold, stored securely, traded on [stock exchanges](/stock-exchange/). The gold fund offers convenience and regulatory oversight; the direct purchase offers more control and lower fees. Grayscale DeFi Fund is the structured-fund approach applied to decentralized finance tokens.
+Conceptually, it is similar to a [gold fund](/gold-fund/) or a [closed-end fund](/closed-end-fund/). An investor who wants gold exposure can buy gold directly, store it in a vault, and trade it on commodity markets. Or the investor can buy a closed-end fund that holds gold, stored securely, traded on [stock exchanges](/stock-exchange/). The gold fund offers convenience and regulatory oversight; the direct purchase offers more control and lower fees. Grayscale DeFi Fund is the structured-fund approach applied to decentralized finance tokens.
 
 The DeFi space comprises blockchain protocols that offer financial services — lending, borrowing, trading, yield generation — without traditional intermediaries. Rather than a bank, a DeFi protocol is smart code running on a blockchain. Tokens are ownership stakes in those protocols or rights to governance and fees. DeFi is a subset of the broader cryptocurrency market, less established than [Bitcoin](/bitcoin/) or [Ethereum](/ethereum/) but considered strategically important by believers in decentralized systems.
 
@@ -35,7 +35,7 @@ Third is decentralized platforms themselves. DeFi protocols often offer tokens t
 
 Fourth is alternative providers. Other investment firms could launch competing DeFi funds, taking market share. Grayscale's first-mover advantage in trusts — they have been offering crypto investment products longer than most competitors — gives them brand recognition and asset base, but not exclusive access to tokens or regulatory status.
 
-The key competitive moat is regulatory approval and custody reputation. Grayscale's trusts are offered to [accredited investors](/accredited-investor/) under SEC rules; they undergo audit; their assets are held by a professional custodian. This creates a trust barrier. Competitors would have to go through similar regulatory and audit processes, and the cost of building trust (insurance, cold storage, institutional custody) is not trivial.
+The key competitive moat is regulatory approval and custody reputation. Grayscale's trusts are offered to [accredited investors](/accredited-investor/) under SEC rules; they undergo audit; their assets are held by a professional custodian. This creates a trust barrier. Competitors would have to go through similar regulatory and audit processes, and the cost of building trust (insurance, [cold storage](/cold-storage-crypto/), institutional custody) is not trivial.
 
 ## What drives the business
 
@@ -51,7 +51,7 @@ The Grayscale DeFi Fund does not generate returns beyond the underlying token va
 
 The broader risk is that DeFi tokens prove to be speculative, illiquid, or prone to collapse — a common pattern for emerging cryptocurrency projects. If DeFi becomes associated with fraud, hacks, or regulatory crackdown, tokens lose value and the fund loses investor confidence.
 
-There is also execution risk. Grayscale must maintain secure custody, comply with regulations, and properly value the holdings. Any lapse in custody, any security breach, or any suggestion of mismanagement would destroy investor trust. The fund is only as good as Grayscale's infrastructure and reputation.
+There is also [execution risk](/execution-risk/). Grayscale must maintain secure custody, comply with regulations, and properly value the holdings. Any lapse in custody, any security breach, or any suggestion of mismanagement would destroy investor trust. The fund is only as good as Grayscale's infrastructure and reputation.
 
 ## For investors understanding Grayscale DeFi Fund
 

@@ -33,7 +33,7 @@ The [expense ratio](/expense-ratio/) reflects active management, higher than a p
 
 ## Volatility and component risk
 
-FMET is inherently volatile. It holds technology and semiconductor stocks, sectors that see sharp price swings based on earnings surprises, macro conditions, and sentiment shifts. Many of the companies are expensive on traditional valuation metrics because their appeal is tied to long-term growth narratives rather than current profitability. Investors should expect significant drawdowns and multi-year periods of underperformance during market cycles unfavorable to growth and speculation.
+FMET is inherently volatile. It holds technology and semiconductor stocks, sectors that see sharp price swings based on earnings surprises, macro conditions, and sentiment shifts. Many of the companies are expensive on traditional valuation metrics because their appeal is tied to long-term growth narratives rather than current profitability. Investors should expect significant drawdowns and multi-year periods of underperformance during [market cycles](/market-cycle/) unfavorable to growth and speculation.
 
 Individual holdings also carry company-specific risks: semiconductor supply shortages, shifts in gaming preferences, talent departures from metaverse divisions, and the perennial risk that an immersive-tech bet turns out to be a distraction rather than a genuine business driver.
 

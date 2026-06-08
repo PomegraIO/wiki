@@ -37,7 +37,7 @@ The company has not publicly announced a specific target or sector focus. SPACs 
 
 A SPAC is inherently risky for the new shareholders who hold the stock after the merger closes. The combined company may underperform. The target may have hidden liabilities or been overpriced. The integration may be botched. Redemptions can leave the combined entity with less cash than expected, weakening its competitive position. And managers of SPACs sometimes rush to close a deal before the deadline, prioritizing speed over quality.
 
-Additionally, regulatory scrutiny of SPACs has increased. The SEC and state regulators have raised concerns about disclosure standards and conflicts of interest. Recent SPAC [mergers](/merger/) have faced litigation and regulatory investigations, which adds legal and reputational risk.
+Additionally, regulatory scrutiny of SPACs has increased. The SEC and state regulators have raised concerns about disclosure standards and conflicts of interest. Recent SPAC [mergers](/merger/) have faced litigation and regulatory investigations, which adds legal and [reputational risk](/reputational-risk/).
 
 ## The investment appeal
 
@@ -47,4 +47,4 @@ From the perspective of a private company seeking to go public, a SPAC offers sp
 
 ## How to research QuasarEdge
 
-Watch SEC filings, especially any 8-K announcements. An 8-K is filed within four business days of a material event. The announcement of a target company, a merger agreement, or a shareholder vote will all be disclosed via 8-K. The company's quarterly 10-Q and any proxy statements will contain financial details and the timeline. Investors should also track the redemption rate — if too many existing shareholders redeem after a deal is announced, the combined company will be starved of cash. Finally, study the SPAC sponsor's track record. Have they backed other successful mergers? Do they have relevant industry expertise? That background is often a better predictor of success than the stated target sector.
+Watch SEC filings, especially any 8-K announcements. An 8-K is filed within four business days of a material event. The announcement of a target company, a merger agreement, or a shareholder vote will all be disclosed via 8-K. The company's quarterly 10-Q and any [proxy statements](/proxy-statement/) will contain financial details and the timeline. Investors should also track the redemption rate — if too many existing shareholders redeem after a deal is announced, the combined company will be starved of cash. Finally, study the SPAC sponsor's track record. Have they backed other successful mergers? Do they have relevant industry expertise? That background is often a better predictor of success than the stated target sector.

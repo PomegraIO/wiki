@@ -24,9 +24,9 @@ The advantage is straightforward: smoother returns without the need for an inves
 
 ## What should investors understand about the risks?
 
-Financial sector stocks swing on [interest rates](/interest-rate/), economic growth, credit cycles, regulation, and macroeconomic sentiment. DVXF moderates those swings but does not eliminate them. When the whole financial sector tumbles — during a banking crisis, a [recession](/recession/), or a sharp rate shock — the fund will fall alongside it; the volatility dampening simply reduces the steepness of the decline. There is no downside protection below a certain threshold; it is a dampening mechanism, not a hedge.
+Financial sector stocks swing on [interest rates](/interest-rate/), economic growth, [credit cycles](/credit-cycle/), regulation, and macroeconomic sentiment. DVXF moderates those swings but does not eliminate them. When the whole financial sector tumbles — during a banking crisis, a [recession](/recession/), or a sharp rate shock — the fund will fall alongside it; the volatility dampening simply reduces the steepness of the decline. There is no downside protection below a certain threshold; it is a dampening mechanism, not a hedge.
 
-A second risk is opportunity cost. In extended calm periods or [bull markets](/bull-market/) where the highest-volatility financial names lead sector rallies, DVXF's reduced positions in those stocks mean an investor captures less upside than a straightforward XLF purchase would. Over a market cycle in which volatile financials deliver outsized gains, this drag can be material. This trade-off is intentional by design, but it is a cost worth acknowledging before committing capital.
+A second risk is opportunity cost. In extended calm periods or [bull markets](/bull-market/) where the highest-volatility financial names lead sector rallies, DVXF's reduced positions in those stocks mean an investor captures less upside than a straightforward XLF purchase would. Over a [market cycle](/market-cycle/) in which volatile financials deliver outsized gains, this drag can be material. This trade-off is intentional by design, but it is a cost worth acknowledging before committing capital.
 
 ## How should I evaluate and use DVXF?
 

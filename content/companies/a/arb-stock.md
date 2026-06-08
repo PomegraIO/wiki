@@ -15,7 +15,7 @@ ARB is an exchange-traded fund that invests in an unusual corner of the [stock m
 
 ## The deal-risk premium
 
-When an [acquisition](/acquisition/) is announced, the target company's stock immediately jumps toward the deal price but rarely reaches it completely. That small gap — perhaps two to five percent — reflects market skepticism that the deal will close as stated. Uncertainty abounds: shareholder votes might fail, regulators might block the transaction on antitrust grounds, a contingency in the merger agreement might not be satisfied, or one party might simply walk away and pay the break-up fee.
+When an [acquisition](/acquisition/) is announced, the target company's stock immediately jumps toward the deal price but rarely reaches it completely. That small gap — perhaps two to five percent — reflects market skepticism that the deal will close as stated. Uncertainty abounds: shareholder votes might fail, regulators might block the transaction on antitrust grounds, a contingency in the merger agreement might not be satisfied, or one party might simply walk away and pay the [break-up fee](/break-up-fee/).
 
 Each of these risks is real, and the discount compensates for them. A fund like ARB profits by holding the target and collecting that spread when closing occurs. With dozens of positions at various stages of deal completion, some successes and some inevitable failures, the fund captures the average return from that premium. Over a year, if ninety-five percent of ARB's positions close on time, the fund collects a modest but steady return independent of stock-market direction — a low-correlation asset that has attracted institutional investors seeking returns uncorrelated to traditional equity and [bond](/bond/) performance.
 
@@ -35,7 +35,7 @@ Deal failure, while uncommon among the deals ARB selects, carries acute risk. Wh
 
 ## Leverage and leverage decay
 
-Some merger arbitrage funds employ leverage to amplify returns, borrowing money to invest more than the fund's assets would otherwise allow. ARB itself may use leverage opportunistically. Leverage magnifies both gains and losses; in a year of successful deal closings, leverage boosts returns, but if a spate of deals fails simultaneously, losses are acute. The cost of borrowing also eats into returns, making leverage a strategic choice, not a default.
+Some [merger arbitrage funds](/merger-arbitrage-fund/) employ leverage to amplify returns, borrowing money to invest more than the fund's assets would otherwise allow. ARB itself may use leverage opportunistically. Leverage magnifies both gains and losses; in a year of successful deal closings, leverage boosts returns, but if a spate of deals fails simultaneously, losses are acute. The cost of borrowing also eats into returns, making leverage a strategic choice, not a default.
 
 ## Fee structure and liquidity
 

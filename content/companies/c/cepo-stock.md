@@ -37,7 +37,7 @@ Some [closed-end funds](/closed-end-fund/) use leverage to increase returns. If 
 
 ## Fee Drag and Performance
 
-Closed-end funds charge [management fees](/management-fee/), typically 1–2% of assets annually, and may charge incentive fees if returns exceed a hurdle rate. CEPO has likely paid these fees continuously since inception, reducing net returns to shareholders. A fund generating gross returns of 10% annually but charging 1.5% in fees realizes only 8.5% net, a difference that compounds substantially over decades. Investors evaluating CEPO should examine the fee structure and ask whether gross returns justify the fees and structure. The SEC filings will disclose all fees and expenses.
+Closed-end funds charge [management fees](/management-fee/), typically 1–2% of assets annually, and may charge incentive fees if returns exceed a [hurdle rate](/hurdle-rate/). CEPO has likely paid these fees continuously since inception, reducing net returns to shareholders. A fund generating gross returns of 10% annually but charging 1.5% in fees realizes only 8.5% net, a difference that compounds substantially over decades. Investors evaluating CEPO should examine the fee structure and ask whether gross returns justify the fees and structure. The SEC filings will disclose all fees and expenses.
 
 ## Exit Opportunities and Realizations
 

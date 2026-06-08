@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Grayscale CoinDesk Crypto 5 ETF is an exchange-traded product that grants ordinary investors exposure to the five largest and most liquid cryptocurrencies without requiring them to hold digital assets directly or navigate [cryptocurrency exchanges](/cryptocurrency-exchange/) themselves. It trades on the NYSE Arca under the ticker GDLC and represents Grayscale Investments' first venture into a multi-asset crypto fund structure.
+The Grayscale CoinDesk Crypto 5 ETF is an exchange-traded product that grants ordinary investors exposure to the five largest and most liquid cryptocurrencies without requiring them to hold digital assets directly or navigate [cryptocurrency exchanges](/cryptocurrency-exchange/) themselves. It trades on the [NYSE Arca](/nyse-arca/) under the ticker GDLC and represents Grayscale Investments' first venture into a multi-asset crypto fund structure.
 
 <aside class="wiki-infobox">
 <table>
@@ -57,7 +57,7 @@ The quarterly rebalancing is mechanical. If Solana drops below the top five by c
 
 ## Structure and regulatory standing
 
-GDLC is an exchange-traded product but not a registered investment company under the [Investment Company Act of 1940](/investment-company-act-of-1940/). This distinction matters for tax treatment and regulatory oversight. Because GDLC holds digital assets rather than traditional securities, the SEC has permitted it to operate outside the 1940 Act framework. That means the fund is not subject to the same [diversification](/diversification/) requirements, leverage limits, and operational restrictions as a conventional ETF or [mutual fund](/mutual-fund/). For investors, it also means GDLC carries less regulatory oversight than a 1940 Act-registered fund would.
+GDLC is an exchange-traded product but not a [registered investment company](/registered-investment-company/) under the [Investment Company Act of 1940](/investment-company-act-of-1940/). This distinction matters for tax treatment and regulatory oversight. Because GDLC holds digital assets rather than traditional securities, the SEC has permitted it to operate outside the 1940 Act framework. That means the fund is not subject to the same [diversification](/diversification/) requirements, leverage limits, and operational restrictions as a conventional ETF or [mutual fund](/mutual-fund/). For investors, it also means GDLC carries less regulatory oversight than a 1940 Act-registered fund would.
 
 The fund's gold is held by [JPMorgan Chase](/jpmorgan-chase/) Bank in London; cash is held through BNY Mellon. This custodial arrangement is common for large crypto funds and mitigates the singular custody risk that individual holders face when managing keys directly.
 

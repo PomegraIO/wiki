@@ -55,7 +55,7 @@ The post-bankruptcy PG&E restructuring affected the preferred shares: some were 
 
 PG&E's future earnings depend on three things going right in tandem: the company must safely operate its network without major incidents; California regulators must approve sufficient rate increases to fund required capital spending and provide a reasonable return; and the company must execute on multibillion-dollar modernization projects without major cost overruns.
 
-The first two are partially in the company's control but heavily exposed to events outside it. A severe wildfire caused by faulty equipment or inadequate maintenance could trigger another financial crisis, regulatory backlash, and a renewal of the existential threat that forced bankruptcy in 2020. The third—execution risk—is chronic in large utilities; infrastructure projects often run behind schedule and over budget.
+The first two are partially in the company's control but heavily exposed to events outside it. A severe wildfire caused by faulty equipment or inadequate maintenance could trigger another financial crisis, regulatory backlash, and a renewal of the existential threat that forced bankruptcy in 2020. The third—[execution risk](/execution-risk/)—is chronic in large utilities; infrastructure projects often run behind schedule and over budget.
 
 Preferred shares in this environment are not the safest corner of the equity market; they are still junior to debt, and a severe operational or financial crisis could put the dividend at risk. But they sit higher in the capital structure than common stock, and they benefit from the near-certainty that California's regulators want PG&E to succeed—the alternative (outright utility failure, fragmentation, or a state takeover) is far more disruptive.
 

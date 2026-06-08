@@ -16,7 +16,7 @@ Yueda Digital Holding is a cryptocurrency-focused treasury and digital-asset man
 
 For its first two decades, AirNet Technology operated out-of-home advertising networks and provided in-flight entertainment solutions for airlines. The company maintained in-flight connectivity systems, digital entertainment content, and advertising infrastructure on aircraft, primarily serving the Chinese aviation market. This business was stable but had limited growth prospects as aviation recovered unevenly and competition intensified.
 
-The rebranding as Yueda Digital Holding represents an abrupt departure from that legacy. Rather than gradually evolving its advertising business, the company effectively reinvented itself around cryptocurrency treasury management. In 2025, it completed a $180 million registered direct offering, with proceeds paid in [Bitcoin](/bitcoin/) and [Ethereum](/ethereum/), signaling total commitment to the shift.
+The rebranding as Yueda Digital Holding represents an abrupt departure from that legacy. Rather than gradually evolving its advertising business, the company effectively reinvented itself around cryptocurrency treasury management. In 2025, it completed a $180 million [registered direct offering](/registered-direct-offering/), with proceeds paid in [Bitcoin](/bitcoin/) and [Ethereum](/ethereum/), signaling total commitment to the shift.
 
 ## What Yueda Does Now
 

@@ -46,7 +46,7 @@ Beyond pipes and phones, NTT has built a collection of businesses around data. I
 
 NTT faces the classic problem of a mature telecom in a wealthy, saturated country: the market is not growing. Nearly all Japanese already have mobile phones and broadband. Growth comes only from raising prices (which brings competitive backlash), taking market share (zero-sum within Japan), or expanding overseas (costly and competitive). The company does pursue all three, but the reality is that NTT is a steady, slow-growth business in which the [dividend](/dividend/) and shareholder returns depend more on how efficiently it can extract value from its existing customer base than on exciting growth.
 
-The company has been investing in 5G infrastructure (faster, lower-latency mobile networks) and in fiber-to-the-home broadband, improvements that may allow some pricing uplift but do not fundamentally change the trajectory. Internationally, it has been acquiring telecom assets in Asia and elsewhere, a strategy that brings geographic [diversification](/diversification/) but dilutes the company's focus and introduces execution risk.
+The company has been investing in 5G infrastructure (faster, lower-latency mobile networks) and in fiber-to-the-home broadband, improvements that may allow some pricing uplift but do not fundamentally change the trajectory. Internationally, it has been acquiring telecom assets in Asia and elsewhere, a strategy that brings geographic [diversification](/diversification/) but dilutes the company's focus and introduces [execution risk](/execution-risk/).
 
 ## How to research Nippon Telegraph & Telephone
 

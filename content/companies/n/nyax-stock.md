@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Nayax is a payments technology company focused on a niche that most financial observers overlook: the monetisation of unattended retail — the vending machines, laundromats, parking metres, and standalone kiosks scattered across neighbourhoods worldwide. The company supplies the hardware and software that let independent operators and small chains collect payment electronically rather than through coins and notes, and it extracts recurring revenue from each transaction that flows through its network. Its shares, listed on the [NASDAQ](/nasdaq/) under the ticker NYAX, serve a small base of specialist investors who understand that captive, fragmented markets can produce durable franchises if the barriers to exit run both ways.
+Nayax is a payments technology company focused on a niche that most financial observers overlook: the monetisation of unattended retail — the vending machines, laundromats, parking metres, and standalone kiosks scattered across neighbourhoods worldwide. The company supplies the hardware and software that let independent operators and small chains collect payment electronically rather than through coins and notes, and it extracts recurring revenue from each transaction that flows through its network. Its shares, listed on the [NASDAQ](/nasdaq/) under the ticker NYAX, serve a small base of specialist investors who understand that captive, [fragmented markets](/fragmented-market/) can produce durable franchises if the barriers to exit run both ways.
 
 ## What exactly does Nayax do?
 

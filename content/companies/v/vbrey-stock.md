@@ -31,7 +31,7 @@ Vibra Energia was created in 2019 through a [merger](/merger/) of two Brazilian 
 
 Brazil's energy mix is distinct from developed countries. While fossil fuels remain the primary source, hydropower provides a large share of electricity. Natural gas comes from both domestic production and imports, with import infrastructure connecting to neighboring countries. Vibra sits in this ecosystem as a critical middleman: it takes energy products from the suppliers and moves them to retailers, industries, and other end users.
 
-The company operates in a regulated environment but with different rules and price dynamics than utilities in developed countries. Brazil's fuel prices are influenced by both local supply and demand and by global [crude oil](/crude-oil/) prices. Currency movements—the Brazilian real relative to the [US dollar](/us-dollar/)—matter enormously because many energy commodities are priced in dollars globally, and a weaker real makes imports more expensive.
+The company operates in a regulated environment but with different rules and price dynamics than utilities in developed countries. Brazil's fuel prices are influenced by both local supply and demand and by global [crude oil](/crude-oil/) prices. Currency movements—the [Brazilian real](/brazilian-real/) relative to the [US dollar](/us-dollar/)—matter enormously because many energy commodities are priced in dollars globally, and a weaker real makes imports more expensive.
 
 ## What Vibra does, segment by segment
 
@@ -67,9 +67,9 @@ The Liquids Distribution segment, in particular, is competitive but sticky. Once
 
 ## Brazil, politics, and macro risks
 
-Brazil is a geographically large, economically important country but faces political and macro uncertainty that affects business. Currency devaluation is a chronic issue: the real has weakened significantly against the dollar over the past decade. [Inflation](/inflation/) has periodically spiked, though it has moderated in recent years. [Interest rates](/interest-rate/) in Brazil are substantially higher than in developed countries, which increases the cost of capital for the company.
+Brazil is a geographically large, economically important country but faces political and macro uncertainty that affects business. [Currency devaluation](/currency-devaluation/) is a chronic issue: the real has weakened significantly against the dollar over the past decade. [Inflation](/inflation/) has periodically spiked, though it has moderated in recent years. [Interest rates](/interest-rate/) in Brazil are substantially higher than in developed countries, which increases the cost of capital for the company.
 
-Political risk is also real. Changes in government, shifts in regulatory philosophy (price controls on fuel, subsidy policies, import restrictions), and corruption or corruption investigations can disrupt business conditions abruptly. Environmental regulations around fossil fuels could tighten, reducing demand for traditional fuel distribution.
+[Political risk](/political-risk/) is also real. Changes in government, shifts in regulatory philosophy (price controls on fuel, subsidy policies, import restrictions), and corruption or corruption investigations can disrupt business conditions abruptly. Environmental regulations around fossil fuels could tighten, reducing demand for traditional fuel distribution.
 
 The broader energy transition also poses a long-term risk. As vehicle electrification accelerates and countries shift toward renewable energy, demand for diesel, gasoline, and traditional fuels will eventually decline. Brazil has been slower to electrify vehicles than developed markets, but that trend will eventually reach the country. Vibra's core business—distributing fossil fuels—faces structural decline over the coming decades.
 

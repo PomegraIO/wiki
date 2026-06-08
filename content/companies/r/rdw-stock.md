@@ -56,7 +56,7 @@ However, Redwire faces real headwinds. The space industry is heavily concentrate
 
 Start with Redwire's [10-K](/wiki/10-k/) filing, which breaks down revenue by segment and customer concentration, and discusses program-level risks in detail. The company discloses its top customers and the percentage of revenue from each; pay attention to whether concentration is improving or worsening.
 
-Look at the company's backlog and contract awards. In defense and space, backlog is a leading indicator of revenue stability; growth in backlog (or shrinkage) signals future trends. NASA's budget documents and congressional space [appropriations bills](/appropriations-bill/) will give you context for the size of the addressable market and whether programs are likely to expand or contract.
+Look at the company's backlog and contract awards. In defense and space, backlog is a [leading indicator](/leading-indicator/) of revenue stability; growth in backlog (or shrinkage) signals future trends. NASA's budget documents and congressional space [appropriations bills](/appropriations-bill/) will give you context for the size of the addressable market and whether programs are likely to expand or contract.
 
 Industry conferences like the Small Satellite Conference and Space Symposium feature presentations by Redwire executives and provide color on customer sentiment and competitive dynamics. The space industry is small; tracking which companies win which contracts tells a story about market share shifts.
 

@@ -67,7 +67,7 @@ The company must thus achieve sufficient market penetration and pricing power du
 
 <div class="wiki-seealso">
 ### Closely related
-- [bdpt-stock](/bdpt-stock/) (early-stage biotech pipeline risk)
+- [bdpt-stock](/bdpt-stock/) (early-stage biotech [pipeline risk](/pipeline-risk/))
 - [bdsx-stock](/bdsx-stock/) (diagnostic biotech development)
 
 ### Wider context

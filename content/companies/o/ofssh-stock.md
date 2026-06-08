@@ -63,7 +63,7 @@ Loan losses are both predictable and surprise-driven. The company maintains a re
 
 **[Refinancing risk](/refinancing-risk/).** If OFS Capital's preferred shares were issued at a fixed dividend that is now below market rates (because overall interest rates have risen), the company might face pressure to refinance them at higher rates. Alternatively, if market conditions worsen, the company might struggle to refinance maturing preferred shares, which could create financial pressure.
 
-**Credit cycle vulnerability.** When the economy weakens, BDCs typically experience rising loan losses. If OFS Capital's losses mount faster than expected, the company might cut its preferred dividend to preserve capital. Preferred shareholders would lose the income they were relying on, and the share price would likely fall.
+**[Credit cycle](/credit-cycle/) vulnerability.** When the economy weakens, BDCs typically experience rising loan losses. If OFS Capital's losses mount faster than expected, the company might cut its preferred dividend to preserve capital. Preferred shareholders would lose the income they were relying on, and the share price would likely fall.
 
 **Interest-rate environment.** OFS Capital's returns are sensitive to where interest rates go. Higher rates increase the company's funding costs (squeezing spreads on variable-rate debt) and can reduce the rates the company can charge new borrowers (because borrowers shop for cheaper alternatives). Lower rates are better for new lending but worse if the company has already locked in higher-yielding loans.
 

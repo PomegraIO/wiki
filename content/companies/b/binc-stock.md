@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The iShares Flexible Income [Active ETF](/active-etf/) (BINC) invests across both stocks and [bonds](/bond/) to generate income, with the flexibility to rotate between the two asset classes depending on valuations and market cycles. Rather than holding a fixed mix, the manager adjusts the portfolio to pursue income opportunities wherever they appear most attractive.*
+*The iShares Flexible Income [Active ETF](/active-etf/) (BINC) invests across both stocks and [bonds](/bond/) to generate income, with the flexibility to rotate between the two asset classes depending on valuations and [market cycles](/market-cycle/). Rather than holding a fixed mix, the manager adjusts the portfolio to pursue income opportunities wherever they appear most attractive.*
 
 ## Equity income sleeve
 

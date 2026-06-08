@@ -27,7 +27,7 @@ The most insidious cost of leverage is volatility decay. Suppose Nvidia trades i
 
 Here is why. On a day Nvidia rises two percent, NVDL rises roughly four percent. The fund's assets grow by four percent, and the manager rebalances the leverage to maintain 2x exposure at the new, higher asset level. The next day, Nvidia falls two percent, and NVDL falls roughly four percent — but that four percent loss is calculated on a larger asset base because of yesterday's gains. Over a ten-day cycle of alternating two percent moves, the fund ends with a net loss even though Nvidia ends flat. That loss is volatility decay, and it accelerates when moves are larger and more frequent.
 
-Volatility decay shapes NVDL's performance through credit cycles and market regimes. During bull markets, when Nvidia trends upward steadily with occasional, modest pullbacks, NVDL shines — the steady uptrend compounds the leverage gains, and volatility is low enough that decay is minimal. During panics or risk-off periods, when volatility spikes and Nvidia falls sharply, NVDL declines catastrophically, and the daily rebalancing locks in losses that the subsequent recovery may only partially recoup.
+Volatility decay shapes NVDL's performance through [credit cycles](/credit-cycle/) and market regimes. During bull markets, when Nvidia trends upward steadily with occasional, modest pullbacks, NVDL shines — the steady uptrend compounds the leverage gains, and volatility is low enough that decay is minimal. During panics or risk-off periods, when volatility spikes and Nvidia falls sharply, NVDL declines catastrophically, and the daily rebalancing locks in losses that the subsequent recovery may only partially recoup.
 
 ## Tactical horizons and who should own NVDL
 

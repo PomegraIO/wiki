@@ -25,7 +25,7 @@ EQRR tilts its portfolio toward that second category—stocks positioned for a r
 
 ## ProShares as issuer and the active-management structure
 
-ProShares, the ETF sponsor, is part of Invesco, a major global asset manager. ProShares pioneered the leveraged and [inverse ETF](/inverse-etf/) space in the mid-2000s and has since expanded into a wide range of strategic and [thematic ETFs](/thematic-etf/). EQRR represents a move into active management—the fund's portfolio is managed by a human team rather than a computer algorithm tracking an index.
+ProShares, the [ETF sponsor](/etf-sponsor/), is part of Invesco, a major global asset manager. ProShares pioneered the leveraged and [inverse ETF](/inverse-etf/) space in the mid-2000s and has since expanded into a wide range of strategic and [thematic ETFs](/thematic-etf/). EQRR represents a move into active management—the fund's portfolio is managed by a human team rather than a computer algorithm tracking an index.
 
 Active management introduces two immediate consequences: a higher [expense ratio](/expense-ratio/) (the annual fee charged to shareholders) compared to passive index-tracking funds, and the possibility of underperformance if the manager's rate forecast turns out to be wrong. If the manager believes rates will rise but they instead fall, EQRR will have overweighted financially sensitive stocks that underperform the broader market. Conversely, if the forecast proves correct, the tilted portfolio can outperform.
 

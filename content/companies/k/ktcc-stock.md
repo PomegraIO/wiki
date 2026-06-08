@@ -45,7 +45,7 @@ Foxconn and Pegatron compete globally on cost and scale, serving massive OEMs wi
 
 ## Single-Product Category Risk
 
-Key Tronic's concentration in keyboards is both moat and vulnerability. If keyboard demand collapsed or if a competitor achieved decisive cost advantage in the category, the company would have limited revenue [diversification](/diversification/) to cushion the impact. Some EMS firms diversify into medical devices, automotive electronics, or IoT hardware to spread risk. Key Tronic has remained primarily keyboard-focused, betting that the category will endure and that its engineering advantage will hold. That focus has allowed it to build unique expertise; it has also made the company less resilient to category disruption.
+Key Tronic's concentration in keyboards is both moat and vulnerability. If keyboard demand collapsed or if a competitor achieved decisive cost advantage in the category, the company would have limited revenue [diversification](/diversification/) to cushion the impact. Some EMS firms diversify into medical devices, automotive electronics, or IoT hardware to [spread risk](/spread-risk/). Key Tronic has remained primarily keyboard-focused, betting that the category will endure and that its engineering advantage will hold. That focus has allowed it to build unique expertise; it has also made the company less resilient to category disruption.
 
 <div class="wiki-seealso">
 ### Closely related

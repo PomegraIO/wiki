@@ -32,7 +32,7 @@ The fund's approach is selective within the municipal universe. Rather than simp
 
 Like many closed-end funds, VMO has historically used leverage — borrowing money at low rates to buy additional bonds, amplifying both the yield and the risk the fund bears. When credit conditions are tight and short-term funding rates rise, this leverage becomes more expensive and can pressurize returns. The fund's shares also trade at discounts or premiums to [net asset value](/net-asset-value/); when the discount widens, shareholders who try to exit get less than the fund's underlying bonds are worth, creating a real drag on returns even if the bonds themselves perform well.
 
-The practical implication is that VMO offers higher yields than a non-leveraged municipal bond fund, but with additional volatility. Interest-rate moves affect the bond holdings; liquidity shocks or shifts in investor sentiment can move the discount or premium significantly; and the cost of leverage ebbs and flows with credit conditions. For patient investors with a long time horizon, these frictions matter less; for those timing entries and exits, they can matter greatly.
+The practical implication is that VMO offers higher yields than a non-leveraged [municipal bond fund](/municipal-bond-fund/), but with additional volatility. Interest-rate moves affect the bond holdings; liquidity shocks or shifts in investor sentiment can move the discount or premium significantly; and the cost of leverage ebbs and flows with credit conditions. For patient investors with a long time horizon, these frictions matter less; for those timing entries and exits, they can matter greatly.
 
 ## The tax story
 

@@ -38,7 +38,7 @@ The company's portfolio is diversified. No single tenant accounts for more than 
 
 ## Location is everything
 
-Wheeler's properties are in the Northeast, Mid-Atlantic, and Southeast. This is deliberate. These regions have stable populations, established suburban growth patterns, and customer bases accustomed to strip-mall shopping. A grocery-anchored center in suburban New Jersey or Atlanta or North Carolina has predictable demand because people in those areas do their shopping at those kinds of locations. The company avoids frontier markets, declining towns, or places where retail is being disrupted faster than the company can adapt.
+Wheeler's properties are in the Northeast, Mid-Atlantic, and Southeast. This is deliberate. These regions have stable populations, established suburban growth patterns, and customer bases accustomed to strip-mall shopping. A grocery-anchored center in suburban New Jersey or Atlanta or North Carolina has predictable demand because people in those areas do their shopping at those kinds of locations. The company avoids [frontier markets](/frontier-markets/), declining towns, or places where retail is being disrupted faster than the company can adapt.
 
 The biggest pressure on retail real estate over the past 15 years has been e-commerce. People buy books, clothes, and other goods online now, which reduces traffic to physical stores. But the tenants Wheeler focuses on — grocers, discount retailers, essential services — have proven resilient because they sell daily goods that people still want to buy in person. You can order some things online. Groceries are still trickier, and people like to try on clothes before buying. The places Wheeler owns remain destinations, not quaint relics.
 

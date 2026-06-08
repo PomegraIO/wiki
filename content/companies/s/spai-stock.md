@@ -54,7 +54,7 @@ Safe Pro Group operates in a sector where the demand is increasing and the aware
 
 Additionally, the market for protective equipment and drone services has expanded. More governments are investing in unmanned systems, more humanitarian organizations are deploying drones for demining, and there is steady demand for body armor and protective gear from law enforcement, military, and private security customers.
 
-Safe Pro is still a small player in a fragmented market, but the sector is moving in its favor. Government spending on defense technology is increasing. The regulatory barriers to entry are high — certification, security clearances, compliance testing — which means that companies that have already cleared these hurdles have a moat against new entrants.
+Safe Pro is still a small player in a [fragmented market](/fragmented-market/), but the sector is moving in its favor. Government spending on defense technology is increasing. The regulatory barriers to entry are high — certification, security clearances, compliance testing — which means that companies that have already cleared these hurdles have a moat against new entrants.
 
 ## The economics and the risks
 

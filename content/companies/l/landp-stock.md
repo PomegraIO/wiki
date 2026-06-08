@@ -25,7 +25,7 @@ Like other REITs, Gladstone Land is required to distribute at least ninety perce
 
 ## Risks and dependencies
 
-The business hinges on the stability of its tenant farmers. A severe drought, a crop disease, a commodity price collapse, or a farmer's own operating mistake can impair a lease payment or trigger a default. Replacement farmers exist but are not infinite, and finding qualified operators for specialty-crop land requires time and due diligence. Farmland itself can face long-term pressure—regulatory restrictions on water use, climate shifts, or urbanisation can reduce productive capacity or increase operating costs for tenants and thus bid down land values.
+The business hinges on the stability of its tenant farmers. A severe drought, a crop disease, a commodity price collapse, or a farmer's own operating mistake can impair a lease payment or trigger a default. Replacement farmers exist but are not infinite, and finding qualified operators for specialty-crop land requires time and [due diligence](/due-diligence/). Farmland itself can face long-term pressure—regulatory restrictions on water use, climate shifts, or urbanisation can reduce productive capacity or increase operating costs for tenants and thus bid down land values.
 
 The REIT framework, while tax-efficient for investors, constrains the company's flexibility. Gladstone must stay focused on real estate income rather than diversify into related services like equipment leasing or agricultural finance, and it must maintain dividend policy regardless of short-term headwinds. A widespread operator default (pandemic-driven, for instance) or a prolonged commodity downturn could stress distributions while the company tries to restore leases or sell impaired properties.
 

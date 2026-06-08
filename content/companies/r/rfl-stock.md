@@ -22,7 +22,7 @@ Rafael Holdings emerged from prior business reorganizations and consolidations. 
 
 ## What does the real estate portfolio consist of?
 
-Rafael's commercial real estate holdings represent a significant portion of the company's asset base. These properties are typically held for long-term appreciation and, in some cases, rental income generation. The portfolio composition can include office, industrial, or mixed-use properties. Real estate valuations fluctuate with market cycles and local economic conditions, making this segment sensitive to [interest rates](/interest-rate/) and commercial occupancy trends. Details on property locations, tenure, and estimated [fair value](/fair-value/) appear in SEC filings. The company may use [like-kind exchange mechanics](/wiki/1031-like-kind-exchange/) to optimize the real estate allocation over time.
+Rafael's commercial real estate holdings represent a significant portion of the company's asset base. These properties are typically held for long-term appreciation and, in some cases, rental income generation. The portfolio composition can include office, industrial, or mixed-use properties. Real estate valuations fluctuate with [market cycles](/market-cycle/) and local economic conditions, making this segment sensitive to [interest rates](/interest-rate/) and commercial occupancy trends. Details on property locations, tenure, and estimated [fair value](/fair-value/) appear in SEC filings. The company may use [like-kind exchange mechanics](/wiki/1031-like-kind-exchange/) to optimize the real estate allocation over time.
 
 ## What is Cyclo Therapeutics and why is Rafael's stake important?
 
@@ -56,7 +56,7 @@ The company has no recurring revenue stream (real estate yields some rental inco
 
 ## How would an investor research Rafael?
 
-Start with the annual [10-K](/wiki/10-k/) and quarterly 10-Q filings at the SEC's EDGAR database. These documents detail property holdings, Cyclo stake information, financial condition, and management discussion. Pay close attention to related party transactions, real estate valuations (often provided through appraisals), and any capital calls or subsidiary funding announcements.
+Start with the annual [10-K](/wiki/10-k/) and quarterly 10-Q filings at the SEC's EDGAR database. These documents detail property holdings, Cyclo stake information, financial condition, and management discussion. Pay close attention to related party transactions, real estate valuations (often provided through appraisals), and any [capital calls](/capital-call/) or subsidiary funding announcements.
 
 Monitor Cyclo Therapeutics' clinical trial progress independently through press releases and trial registry databases (such as ClinicalTrials.gov). Trial results directly impact the subsidiary's near-term prospects and can inform judgments about Rafael's future value. Sector coverage of orphan drug development and commercial real estate trends provides context for the macro environment in which Rafael operates.
 

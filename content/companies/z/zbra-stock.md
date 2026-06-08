@@ -30,7 +30,7 @@ Zebra Technologies supplies the invisible backbone of modern supply chains. Its 
 
 ## The Business Foundation
 
-Zebra's core strength lies in industrial-grade hardware married to software that makes data actionable. The company does not sell trendy gadgets; it sells tools that must work reliably in harsh environments—cold storage rooms, noisy manufacturing floors, healthcare settings where uptime is critical—often for ten years or more with minimal maintenance.
+Zebra's core strength lies in industrial-grade hardware married to software that makes data actionable. The company does not sell trendy gadgets; it sells tools that must work reliably in harsh environments—[cold storage](/cold-storage-crypto/) rooms, noisy manufacturing floors, healthcare settings where uptime is critical—often for ten years or more with minimal maintenance.
 
 Revenue comes from three primary buckets. Hardware sales of scanners and computers remain the foundation: a warehouse operator purchasing dozens of barcode readers, a hospital outfit replacing patient-tracking terminals, a delivery fleet equipping drivers with rugged handhelds. Software and services subscriptions have grown steadily, including the Zebra Savanna cloud platform and mobile enterprise applications. Services cover support contracts, consulting, integration, and the increasingly important domain of data analytics on top of collected asset data.
 

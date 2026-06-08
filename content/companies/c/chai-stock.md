@@ -44,7 +44,7 @@ Building and retaining world-class AI engineers and infrastructure architects is
 
 ## Regulatory and Ethical Exposure
 
-AI infrastructure companies face growing scrutiny around data privacy, bias, and the potential misuse of their tools. If Core AI's platform is used for applications that draw regulatory attention—surveillance, discrimination, or other high-stakes decisions—the company faces reputational and legal risk. Vague "responsible AI" commitments in marketing materials don't actually limit this exposure; they just make lawsuits more likely if things go wrong.
+AI infrastructure companies face growing scrutiny around data privacy, bias, and the potential misuse of their tools. If Core AI's platform is used for applications that draw regulatory attention—surveillance, discrimination, or other high-stakes decisions—the company faces reputational and [legal risk](/legal-risk/). Vague "responsible AI" commitments in marketing materials don't actually limit this exposure; they just make lawsuits more likely if things go wrong.
 
 ## Skeptic's Checklist
 

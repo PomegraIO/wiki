@@ -26,7 +26,7 @@ handwritten: true
 
 ## How did DENTSPLY and Sirona become one?
 
-DENTSPLY Sirona is the result of a 2016 [merger](/merger/) between Dentsply International and Sirona Dental Systems. Dentsply brought a 130-year history in dental consumables, laboratory products, and endodontics. Sirona brought cutting-edge equipment — CAD-CAM milling systems, digital imaging, motorized handpieces, and intraoral scanners. The merger was framed as a "merger of equals" and represented a bet that the future of dentistry would reward companies that could offer an integrated stack: the tools, the materials, and the software to run a modern dental practice end to end.
+DENTSPLY Sirona is the result of a 2016 [merger](/merger/) between Dentsply International and Sirona Dental Systems. Dentsply brought a 130-year history in dental consumables, laboratory products, and endodontics. Sirona brought cutting-edge equipment — CAD-CAM milling systems, digital imaging, motorized handpieces, and intraoral scanners. The merger was framed as a "[merger of equals](/merger-of-equals/)" and represented a bet that the future of dentistry would reward companies that could offer an integrated stack: the tools, the materials, and the software to run a modern dental practice end to end.
 
 ## What does DENTSPLY SIRONA actually sell?
 

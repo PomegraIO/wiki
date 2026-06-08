@@ -37,7 +37,7 @@ Lear's relationships with OEMs run deep—some spanning decades. OEMs prefer est
 
 ## Key Risks and Transition Challenges
 
-The electric vehicle transition presents Lear's most significant near-term challenge. Traditional seating and electrical products are engineered around internal combustion platforms; EV platforms demand different design. The company faces execution risk: can it retool factories, train engineering teams, and win EV content before legacy products decline too far? There is also customer [concentration risk](/concentration-risk/). Losing a major OEM contract or losing significant content on an OEM's new EV platform would materially hurt earnings.
+The electric vehicle transition presents Lear's most significant near-term challenge. Traditional seating and electrical products are engineered around internal combustion platforms; EV platforms demand different design. The company faces [execution risk](/execution-risk/): can it retool factories, train engineering teams, and win EV content before legacy products decline too far? There is also customer [concentration risk](/concentration-risk/). Losing a major OEM contract or losing significant content on an OEM's new EV platform would materially hurt earnings.
 
 Supply chain volatility—particularly for raw materials, electronics components, and semiconductors—affects Lear like all automotive suppliers. Geopolitical tensions, trade barriers, and regional production shifts (especially the rise of Chinese EV makers) create additional uncertainty. The company's global manufacturing footprint exposes it to labor, regulatory, and [currency risk](/currency-risk/) across multiple regions.
 

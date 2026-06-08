@@ -46,7 +46,7 @@ Franklin Advisors' job is to pick stocks from across the world and weight them t
 
 Geographic diversification also means [currency risk](/currency-risk/). If the fund holds a German auto stock, a drop in the euro relative to the dollar automatically reduces that holding's value as measured in dollars. The manager can hedge some of that risk, but hedging is expensive, so most closed-end funds accept it as the price of global exposure.
 
-Emerging markets add another layer: political risk, [liquidity risk](/liquidity-risk/), and the risk that a local government changes its rules in ways that hurt foreign investors. The reward for that risk is the possibility of faster growth in faster-growing economies. How much to allocate to emerging markets is a key judgment call, and it varies with the manager's view of valuations and risks.
+Emerging markets add another layer: [political risk](/political-risk/), [liquidity risk](/liquidity-risk/), and the risk that a local government changes its rules in ways that hurt foreign investors. The reward for that risk is the possibility of faster growth in faster-growing economies. How much to allocate to emerging markets is a key judgment call, and it varies with the manager's view of valuations and risks.
 
 ## The yield trap and the discount puzzle
 
@@ -64,4 +64,4 @@ That appeal is smaller than it was 20 years ago, when closed-end funds were more
 
 Anyone considering FT should start by looking at the actual portfolio breakdown in recent fact sheets and the fund's annual or semi-annual reports. What countries and sectors does it overweight? What is the [dividend yield](/dividend-yield/), and how much of the distribution comes from dividends versus capital gains? The discount or premium to NAV on the day you are considering purchase matters enormously — buying at a discount is better than buying at a premium, all else equal.
 
-The 10-K (SEC CIK 0000833040) provides audited financials and full disclosure of holdings and performance. Watch for changes in the manager's strategy, unexpected changes in the distribution rate (which might signal trouble), and the historical pattern of the discount. For income investors, the tax efficiency of distributions is also worth examining. The fund is best suited to investors who understand the risks of global equities, can tolerate currency moves, and are prepared to hold through market cycles.
+The 10-K (SEC CIK 0000833040) provides audited financials and full disclosure of holdings and performance. Watch for changes in the manager's strategy, unexpected changes in the distribution rate (which might signal trouble), and the historical pattern of the discount. For income investors, the tax efficiency of distributions is also worth examining. The fund is best suited to investors who understand the risks of global equities, can tolerate currency moves, and are prepared to hold through [market cycles](/market-cycle/).

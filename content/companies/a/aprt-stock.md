@@ -27,7 +27,7 @@ handwritten: true
 
 ## How the buffer structure works
 
-A buffer fund sits between you and the market in a specific way. If the underlying stock index drops 15%, the fund only falls 5% because the first 10 percentage points of loss are absorbed by the buffer. That absorption is not a guarantee of minimum value or a [put option](/put-option/) in the insurance sense — it is a feature of the fund's rules for how the outcome is calculated. The fund holds a mix of stocks and options contracts that together create this floor and ceiling.
+A [buffer fund](/buffer-fund/) sits between you and the market in a specific way. If the underlying stock index drops 15%, the fund only falls 5% because the first 10 percentage points of loss are absorbed by the buffer. That absorption is not a guarantee of minimum value or a [put option](/put-option/) in the insurance sense — it is a feature of the fund's rules for how the outcome is calculated. The fund holds a mix of stocks and options contracts that together create this floor and ceiling.
 
 The buffer operates within a defined period: typically one year, or from April to April in APRT's case. At the end of each period, the buffer resets. If the market rose 20%, the fund caps your gain at 16%, and that excess return is kept by Allianz as compensation for running the strategy. When the period ends and a new one begins, you start fresh with a new buffer, a new cap, and a new set of embedded hedges.
 
@@ -43,11 +43,11 @@ The options — typically puts and calls sold by the fund — are what deliver t
 
 The buffer logic inverts the traditional risk conversation. In a typical [index fund](/index-fund/), you weather a 30% market crash and trust that recovery follows. In a buffer fund, you are voluntarily capping yourself at 16% gain in exchange for stopping at a 10% floor. That trade is attractive in choppy, sideways markets where you can collect capped gains without risking blown-up drawdowns. It is attractive for investors near or in retirement who cannot stomach a major loss. It is less attractive in a sustained [bull market](/bull-market/), where the cap cost more than the buffer is worth.
 
-The cost of the buffer is real and persistent, not a theoretical consideration. Every year, upside is sacrificed. Over a full market cycle — years of gains offset by a crash — you have given away perhaps 5 to 10 percentage points of return for the right to exit the crash at a smaller loss. Whether that trade is smart depends entirely on whether you would have sold in panic without the buffer, or whether you would have ridden the crash out to recovery anyway.
+The cost of the buffer is real and persistent, not a theoretical consideration. Every year, upside is sacrificed. Over a full [market cycle](/market-cycle/) — years of gains offset by a crash — you have given away perhaps 5 to 10 percentage points of return for the right to exit the crash at a smaller loss. Whether that trade is smart depends entirely on whether you would have sold in panic without the buffer, or whether you would have ridden the crash out to recovery anyway.
 
 ## Costs and how to think about performance
 
-The fund charges an [expense ratio](/expense-ratio/) around 0.75% annually, meaningfully higher than a low-cost broad index fund but reasonable for a structured product that requires active options management. That expense comes out of the fund's return before the buffer and cap are applied, so it reduces both upside and downside figures. When APRT is up 16% for the year, Allianz has already deducted its fee from that return.
+The fund charges an [expense ratio](/expense-ratio/) around 0.75% annually, meaningfully higher than a low-cost broad index fund but reasonable for a [structured product](/structured-product/) that requires active options management. That expense comes out of the fund's return before the buffer and cap are applied, so it reduces both upside and downside figures. When APRT is up 16% for the year, Allianz has already deducted its fee from that return.
 
 The embedded costs of the options strategy — the spread between the puts the fund buys and the calls it sells — are hard to quantify in a single number. They exist as an ongoing drain on returns, especially in sideways or gently rising markets where options decay over time and return less to the fund than they cost.
 

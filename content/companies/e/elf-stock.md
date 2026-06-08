@@ -31,7 +31,7 @@ Direct-to-consumer also provides data on customer preferences, repeat-purchase p
 
 ELF's portfolio spans color cosmetics (eyeshadow, lipstick, mascara, foundation), brushes and tools, and increasingly skincare. The company typically launches numerous SKUs (stock-keeping units) per category, allowing customers to experiment with different shades, finishes, and formulations. This density creates merchandising and inventory complexity but also captures customers at different price points and preference tiers. A customer might buy a budget ELF eyeshadow to experiment with a trend, discover the brand, and then purchase a full range of coordinating products.
 
-Skincare is a growing frontier for ELF, positioning the brand as a comprehensive beauty destination rather than just a makeup supplier. Skincare typically carries different margin profiles and customer loyalty dynamics than color cosmetics, presenting both opportunity and execution risk. The company must manage SKU complexity without overwhelming its supply chain or alienating the core makeup customer.
+Skincare is a growing frontier for ELF, positioning the brand as a comprehensive beauty destination rather than just a makeup supplier. Skincare typically carries different margin profiles and customer loyalty dynamics than color cosmetics, presenting both opportunity and [execution risk](/execution-risk/). The company must manage SKU complexity without overwhelming its supply chain or alienating the core makeup customer.
 
 ## Wholesale Relationships and Retail Dependence
 

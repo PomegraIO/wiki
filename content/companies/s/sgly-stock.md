@@ -30,7 +30,7 @@ Singularity's primary segment operates in the provision of telecommunications se
 
 China's telecom market has been in a state of transition. The three major carriers—China Mobile, China Unicom, and China Telecom—have been consolidating and rationalizing their networks, closing redundant infrastructure while rolling out 5G coverage. For a contractor like Singularity, this creates both opportunity and risk. When carriers are actively deploying 5G or upgrading core networks, demand for infrastructure services and specialist contractors rises. When carriers enter a maintenance or consolidation phase, project activity slows and pricing can weaken.
 
-The company has had to navigate not only market cycles but also the regulatory environment surrounding telecom in China, which is subject to state ownership, government direction on network standards, and periodic shifts in policy around foreign involvement in infrastructure.
+The company has had to navigate not only [market cycles](/market-cycle/) but also the regulatory environment surrounding telecom in China, which is subject to state ownership, government direction on network standards, and periodic shifts in policy around foreign involvement in infrastructure.
 
 ## Technology solutions and related services
 

@@ -53,6 +53,6 @@ The monthly distribution itself is tied to the coupons and any trading profits o
 
 Start with the fund's semi-annual reports, which list the top ten holdings and the credit quality breakdown of the portfolio. Check the ratings distribution: how many A-rated bonds, how many BBB, how many unrated or speculative-grade. Look for [concentration risk](/concentration-risk/) — funds that lean too heavily on a single state or a few large issuers.
 
-Also watch the fund's premium or discount to net asset value. A widening discount can signal fading investor appetite. Monitor the broader muni credit cycle through business press coverage of state and city fiscal health, particularly in the largest holdings' home states.
+Also watch the fund's premium or discount to net asset value. A widening discount can signal fading investor appetite. Monitor the broader muni [credit cycle](/credit-cycle/) through business press coverage of state and city fiscal health, particularly in the largest holdings' home states.
 
 The monthly distribution is not guaranteed and can change with underlying conditions; do not assume it will remain stable.

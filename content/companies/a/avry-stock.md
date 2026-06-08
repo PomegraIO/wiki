@@ -35,7 +35,7 @@ The [diversification](/diversification/) across hundreds of companies and all ma
 
 ## The case for and against
 
-AVRY is built for investors who believe the US stock market, over multi-decade horizons, compounds wealth faster than [bonds](/bond/) or cash and that trying to pick winners or time market cycles destroys more value than it creates. The fund's low cost means the money stays invested instead of going to fees. The diversification means no single bad bet destroys the thesis. The transparency and simplicity mean the investor knows exactly what they own and why.
+AVRY is built for investors who believe the US stock market, over multi-decade horizons, compounds wealth faster than [bonds](/bond/) or cash and that trying to pick winners or time [market cycles](/market-cycle/) destroys more value than it creates. The fund's low cost means the money stays invested instead of going to fees. The diversification means no single bad bet destroys the thesis. The transparency and simplicity mean the investor knows exactly what they own and why.
 
 It is not for traders chasing returns, sector rotators, or anyone convinced they can beat the market. It is not for investors who cannot tolerate equity volatility without selling at the bottom. It is not a speculation or a hedge — it is an anchor.
 

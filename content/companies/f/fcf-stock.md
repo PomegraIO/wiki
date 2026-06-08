@@ -48,7 +48,7 @@ Rising deposit insurance and capital requirements have cut into profitability. C
 
 First Commonwealth returns capital to shareholders through [dividends](/dividend/) and, periodically, [share buybacks](/share-buyback/). These programs depend on the bank generating sufficient capital beyond what regulators require it to hold. In good years with strong lending and fee income, capital builds and shareholder returns can be substantial. In weaker years, the bank must retain capital, and return programs pause.
 
-The stock price, like that of any bank, tends to track interest rate expectations and credit cycle views. When rates are expected to rise or remain elevated, net interest margins expand and investors bid bank stocks higher. When [recession](/recession/) looms or rates are expected to fall, the sector struggles. Valuation for a regional bank is typically measured against book value (assets minus liabilities, divided by shares outstanding) or against peer banks' price-to-earnings multiples, not against growth stocks or fintech companies.
+The stock price, like that of any bank, tends to track interest rate expectations and [credit cycle](/credit-cycle/) views. When rates are expected to rise or remain elevated, net interest margins expand and investors bid bank stocks higher. When [recession](/recession/) looms or rates are expected to fall, the sector struggles. Valuation for a regional bank is typically measured against book value (assets minus liabilities, divided by shares outstanding) or against peer banks' price-to-earnings multiples, not against growth stocks or fintech companies.
 
 ## How to research First Commonwealth
 

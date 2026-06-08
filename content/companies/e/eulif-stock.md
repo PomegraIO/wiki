@@ -9,7 +9,7 @@ keywords:
   - ADR
 ---
 
-*Lithium demand is reshaping the map of where minerals can be sourced. **European Lithium Ltd** (EULIF), an Australia-registered explorer, is positioning itself to unlock battery-grade lithium deposits across Europe—a continent starved for domestic supply and eager to reduce dependence on distant mines. Its Anglo-Saxon institutional structure (Australian incorporation with American depositary shares) bridges European permitting risk with Anglo capital markets access.*
+*Lithium demand is reshaping the map of where minerals can be sourced. **European Lithium Ltd** (EULIF), an Australia-registered explorer, is positioning itself to unlock battery-grade lithium deposits across Europe—a continent starved for domestic supply and eager to reduce dependence on distant mines. Its Anglo-Saxon institutional structure (Australian incorporation with American [depositary shares](/depositary-share/)) bridges European permitting risk with Anglo capital markets access.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EULIF</td></tr>

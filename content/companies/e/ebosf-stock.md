@@ -43,5 +43,5 @@ EBOS must maintain inventory deep enough to serve customer demand but shallow en
 
 ## Key Metrics for 10-K Scrutiny
 
-Focus on revenue growth rates (organic vs. acquisition-driven), gross margin trends by segment, [inventory turnover](/inventory-turnover/) and [days' sales outstanding](/days-sales-outstanding/), debt service ratios, and customer retention rates. Compare margin trends with industry peers to understand whether EBOS is gaining or losing share through pricing or efficiency. The MD&A should explain major customer wins or losses, competitive pricing pressure, and the company's approach to emerging healthcare distribution trends (direct-to-consumer pharmacy, specialty pharmaceutical handling).
+Focus on revenue growth rates (organic vs. acquisition-driven), gross margin trends by segment, [inventory turnover](/inventory-turnover/) and [days' sales outstanding](/days-sales-outstanding/), [debt service ratios](/debt-service-ratio-sovereign/), and customer retention rates. Compare margin trends with industry peers to understand whether EBOS is gaining or losing share through pricing or efficiency. The MD&A should explain major customer wins or losses, competitive pricing pressure, and the company's approach to emerging healthcare distribution trends (direct-to-consumer pharmacy, specialty pharmaceutical handling).
 

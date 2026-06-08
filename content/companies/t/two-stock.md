@@ -58,7 +58,7 @@ The shareholders are a mix of retail investors (many attracted by the high divid
 
 Two Harbors is essentially a leveraged bet on mortgage spreads and interest-rate stability. If rates rise suddenly, the value of the mortgages in Two Harbors' portfolio falls (because new mortgages at higher rates are issued, making old ones worth less). If the spread between borrowing costs and mortgage yields narrows, returns shrink. If credit stress hits and the government-backed guarantee is questioned (unlikely, but possible in a severe crisis), the entire sector takes a hit.
 
-During the 2022 interest-rate shock, when the [Federal Reserve](/federal-reserve/) raised rates from near-zero to 4 percent in a matter of months, mortgage REITs got hammered. Two Harbors' book value per share fell, the spread collapsed, and the dividend had to be cut. That was not a failure of Two Harbors specifically; it was the market showing what leverage and rate risk look like when reality shifts fast.
+During the 2022 interest-rate shock, when the [Federal Reserve](/federal-reserve/) raised rates from near-zero to 4 percent in a matter of months, mortgage REITs got hammered. Two Harbors' [book value per share](/book-value-per-share/) fell, the spread collapsed, and the dividend had to be cut. That was not a failure of Two Harbors specifically; it was the market showing what leverage and rate risk look like when reality shifts fast.
 
 ## The return to stability, and what's next
 
@@ -70,6 +70,6 @@ For Two Harbors, the question now is whether the interest-rate environment stays
 
 Two Harbors files with the SEC under CIK 0001465740. The quarterly reports spell out the portfolio composition (what percentage in agency RMBS versus MSR), the weighted average coupon of the mortgages, the [leverage ratio](/leverage-ratio-forex/), and the impact of hedges.
 
-The key metrics to watch: book value per share (how much shareholder equity the company has), the net interest margin (the spread it is earning), the loan-to-value ratio on the hedged portfolio (how much leverage is being used), and the dividend coverage (is the dividend being paid from earnings, or are earnings being supplemented by selling portfolio assets at losses). If book value per share is declining, the company is underwater — the leverage is not working anymore and the dividend is at risk.
+The key metrics to watch: book value per share (how much shareholder equity the company has), the net interest margin (the spread it is earning), the [loan-to-value ratio](/loan-to-value-ratio/) on the hedged portfolio (how much leverage is being used), and the dividend coverage (is the dividend being paid from earnings, or are earnings being supplemented by selling portfolio assets at losses). If book value per share is declining, the company is underwater — the leverage is not working anymore and the dividend is at risk.
 
 Mortgage REITs are best for investors who understand fixed income, leverage, and [interest-rate risk](/interest-rate-risk/), and who are comfortable holding a position that can decline 20–30 percent in a rising-rate environment. For everyone else, a traditional bond fund or Treasury ladder is simpler and involves less complexity. If you do own it, track the Federal Reserve's interest-rate expectations obsessively, because that is what drives the returns.

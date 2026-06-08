@@ -34,7 +34,7 @@ Bitcoin Cash inherited Bitcoin's fundamental design—it uses proof of work, a n
 
 ## How the trust works
 
-Grayscale Bitcoin Cash Trust holds actual Bitcoin Cash coins in cold storage (offline vaults) managed by a third-party [custodian](/custodian/). Investors buy shares of the trust, which trade on NASDAQ like any publicly listed security. Each share represents fractional ownership of the underlying Bitcoin Cash. The value of each share moves roughly in line with Bitcoin Cash's spot price, adjusted for the trust's annual fee.
+Grayscale Bitcoin Cash Trust holds actual Bitcoin Cash coins in [cold storage](/cold-storage-crypto/) (offline vaults) managed by a third-party [custodian](/custodian/). Investors buy shares of the trust, which trade on NASDAQ like any publicly listed security. Each share represents fractional ownership of the underlying Bitcoin Cash. The value of each share moves roughly in line with Bitcoin Cash's spot price, adjusted for the trust's annual fee.
 
 The trust is a [closed-end fund](/closed-end-fund/), not an open-end [mutual fund](/mutual-fund/). That means the number of shares outstanding is fixed; new shares are not created or destroyed as investors buy and sell. Instead, investors trade shares among themselves on the NASDAQ. This structure lets the share price sometimes trade at a premium or discount to the underlying Bitcoin Cash value—an arbitrage opportunity that large institutional holders occasionally exploit. A share might trade at 105% of [net asset value](/net-asset-value/) if demand exceeds supply, or 95% if sentiment is pessimistic.
 

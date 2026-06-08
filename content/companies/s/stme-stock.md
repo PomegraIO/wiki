@@ -50,4 +50,4 @@ Evaluating Stimcell requires understanding it as a development-stage or early-co
 
 Investors should track whether the company is reaching technical milestones (working prototypes, field trials, certifications), securing partnerships with credible manufacturers, and generating real orders — not just R&D contracts or partnership announcements. The trajectory of these metrics reveals whether Stimcell is progressing toward a viable business or cycling through promising pilots that never reach scale.
 
-The long-term opportunity in energy harvesting is real; the near-term execution risk is acute. A company in this space is betting that its technology is sufficiently differentiated and that the market it is chasing is large enough to support the capital required to reach profitability.
+The long-term opportunity in energy harvesting is real; the near-term [execution risk](/execution-risk/) is acute. A company in this space is betting that its technology is sufficiently differentiated and that the market it is chasing is large enough to support the capital required to reach profitability.

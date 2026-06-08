@@ -29,9 +29,9 @@ The fund is tradable on the [NASDAQ](/nasdaq/). Distributions of capital gains a
 
 ## The wager underlying value investing
 
-The value approach embedded in GKAT rests on two contestable ideas: that markets misprice securities often enough for skillful analysis to exploit, and that patience—holding positions while waiting for recognition of value—is rewarded. The evidence is mixed. Academic research supports the idea that value premiums exist over very long periods and that some managers do demonstrate genuine skill. Other studies suggest value premiums have diminished in recent decades and that beating an index net of fees remains rare.
+The value approach embedded in GKAT rests on two contestable ideas: that markets misprice securities often enough for skillful analysis to exploit, and that patience—holding positions while waiting for recognition of value—is rewarded. The evidence is mixed. Academic research supports the idea that [value premiums](/value-premium/) exist over very long periods and that some managers do demonstrate genuine skill. Other studies suggest value premiums have diminished in recent decades and that beating an index net of fees remains rare.
 
-An investor evaluating GKAT should examine the manager's documented track record before the fund's inception. Has the team consistently added value over multiple market cycles? How stable is the team, and are the original architects still running the strategy? What does the current portfolio actually hold, and does it align with genuine value principles or has the fund drifted? A fund founded by value practitioners may drift toward quality at any price or other styles if leadership changes or conviction weakens.
+An investor evaluating GKAT should examine the manager's documented track record before the fund's inception. Has the team consistently added value over multiple [market cycles](/market-cycle/)? How stable is the team, and are the original architects still running the strategy? What does the current portfolio actually hold, and does it align with genuine value principles or has the fund drifted? A fund founded by value practitioners may drift toward quality at any price or other styles if leadership changes or conviction weakens.
 
 ## How to assess GKAT
 

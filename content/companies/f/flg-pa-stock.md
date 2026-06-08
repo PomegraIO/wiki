@@ -30,7 +30,7 @@ Flagstar Bank's parent company has issued [preferred stock](/preferred-stock/) t
 
 Flagstar's profitability is tightly linked to the interest-rate environment and the shape of the [yield curve](/yield-curve/). When short-term rates rise sharply but longer-term rates do not, the spread available to lenders narrows — the cost of deposits or short-term wholesale funding increases faster than the fixed rates on mortgage loans can adjust. This spread compression squeezes net interest income, the gap between what a bank earns on loans and what it pays on deposits and borrowings. Conversely, a steep yield curve where long rates are much higher than short rates makes mortgage lending more lucrative.
 
-Mortgage origination volume also swings sharply with interest rates. When rates fall, homebuyers refinance existing mortgages and move to buy homes, driving volume up. When rates rise, buyers retreat, and originations decline. A bank like Flagstar therefore experiences cyclical earnings tied to the mortgage refinancing wave and housing activity, which is why mortgage banks are considered cyclical rather than stable, recurring-revenue businesses.
+Mortgage origination volume also swings sharply with interest rates. When rates fall, homebuyers refinance existing mortgages and move to buy homes, driving volume up. When rates rise, buyers retreat, and originations decline. A bank like Flagstar therefore experiences cyclical earnings tied to the [mortgage refinancing](/mortgage-refinancing/) wave and housing activity, which is why mortgage banks are considered cyclical rather than stable, recurring-revenue businesses.
 
 ## Credit risk and loan-loss provisions
 
@@ -38,7 +38,7 @@ Flagstar, like all banks, faces the risk that borrowers will default on their mo
 
 ## Regulatory oversight and capital requirements
 
-Federal banking regulators set minimum capital ratios that Flagstar must maintain, typically measured as equity and other qualifying capital divided by risk-weighted assets. The higher the ratio, the more of a cushion the bank has to absorb losses. During stress periods, regulators may require higher capital ratios or restrict dividends to force banks to retain earnings. Changes in capital requirements, whether driven by new regulations or by changes in the stress-test framework, can significantly affect how much capital a bank can return to shareholders.
+Federal banking regulators set minimum capital ratios that Flagstar must maintain, typically measured as equity and other qualifying capital divided by [risk-weighted assets](/risk-weighted-assets/). The higher the ratio, the more of a cushion the bank has to absorb losses. During stress periods, regulators may require higher capital ratios or restrict dividends to force banks to retain earnings. Changes in capital requirements, whether driven by new regulations or by changes in the stress-test framework, can significantly affect how much capital a bank can return to shareholders.
 
 Deposit insurance premiums, paid to the FDIC, are another regulatory cost that erodes profitability; banks with larger, less-stable deposit bases pay higher insurance premiums.
 

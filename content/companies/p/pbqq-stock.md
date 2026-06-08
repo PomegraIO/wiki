@@ -42,7 +42,7 @@ Think of it this way. If you own a plain Nasdaq-100 fund and the index falls 15 
 
 This protection costs something. During quarters when the Nasdaq-100 rises, your gains are capped. If the index climbs 20 percent, you do not get the full 20 percent. Instead, gains are limited to a predetermined level—often somewhere between 8 and 12 percent per quarter, depending on market conditions when that quarterly fund was created.
 
-The math here is straightforward: the buffer ETF provider uses options and derivatives to guarantee the downside protection. That guarantee is not free. The cost of buying that insurance is passed to you as a ceiling on upside returns.
+The math here is straightforward: the [buffer ETF](/buffer-etf/) provider uses options and derivatives to guarantee the downside protection. That guarantee is not free. The cost of buying that insurance is passed to you as a ceiling on upside returns.
 
 ## The ladder: spreading protection across four quarters
 
@@ -68,7 +68,7 @@ The exact upside cap and buffer mechanics are detailed in the quarterly prospect
 
 ## Costs and practical considerations
 
-The 0.50 percent annual expense ratio covers the fund's management and the cost of the derivatives and options that create the protection. This is reasonable for a structured product but higher than a vanilla Nasdaq-100 ETF, which might cost 0.15 to 0.20 percent. You are paying for the privilege of having downside capped.
+The 0.50 percent annual expense ratio covers the fund's management and the cost of the derivatives and options that create the protection. This is reasonable for a [structured product](/structured-product/) but higher than a vanilla Nasdaq-100 ETF, which might cost 0.15 to 0.20 percent. You are paying for the privilege of having downside capped.
 
 The fund trades on the [Nasdaq](/nasdaq/) with liquidity that should be reasonable given PGIM's scale. The complexity of the quarterly rolling structure means [bid-ask spreads](/bid-ask-spread/) may be slightly wider than for simpler funds.
 

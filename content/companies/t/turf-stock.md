@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-T. Rowe Price Natural Resources ETF offers direct exposure to global equities in energy, metals, mining, and related materials production—a lower-volatility way to hold commodity-linked stocks without leveraged structures or single-commodity bets. The fund tracks an index of natural-resources firms, bundling together oil majors, gas producers, copper miners, gold and silver extraction, rare-earth companies, and firms that process or trade in these materials. It is a straightforward equity fund, not a derivative play, and it does not reset daily like a leveraged product. TURF trades on the [NASDAQ](/nasdaq/) under ticker TURF and sits in the broad category of sector and commodity-themed ETFs.
+[T. Rowe Price](/t-rowe-price/) Natural Resources ETF offers direct exposure to global equities in energy, metals, mining, and related materials production—a lower-volatility way to hold commodity-linked stocks without leveraged structures or single-commodity bets. The fund tracks an index of natural-resources firms, bundling together oil majors, gas producers, copper miners, gold and silver extraction, rare-earth companies, and firms that process or trade in these materials. It is a straightforward equity fund, not a derivative play, and it does not reset daily like a leveraged product. TURF trades on the [NASDAQ](/nasdaq/) under ticker TURF and sits in the broad category of sector and commodity-themed ETFs.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ T. Rowe Price Natural Resources ETF offers direct exposure to global equities in
 
 The fund focuses on equities in natural resources—companies that extract, process, or trade oil, [natural gas](/natural-gas/), precious metals, base metals, minerals, fertilisers, and timber. The underlying index typically includes multinational names—major integrated oil companies, independent gas and oil explorers, large-cap miners of gold and copper, and diversified commodity traders. The actual holdings rotate with the index, but the sector focus remains stable: energy firms make up a substantial portion, followed by metals and mining. Unlike a commodity futures index or a leveraged product, it is a pure equity play, so readers are exposed to the businesses' earnings, [dividends](/dividend/), cash flow, and management decisions, not just the raw commodity prices.
 
-Quarterly rebalancing and index changes mean the exact names vary, but the fund typically holds 30 to 50 large and mid-cap positions. There is no attempt to time market cycles—the fund mechanically follows its underlying index. Dividend-paying companies in the sector often make up a meaningful portion of holdings, so the fund can generate income alongside price appreciation or [depreciation](/depreciation/).
+Quarterly rebalancing and index changes mean the exact names vary, but the fund typically holds 30 to 50 large and mid-cap positions. There is no attempt to time [market cycles](/market-cycle/)—the fund mechanically follows its underlying index. Dividend-paying companies in the sector often make up a meaningful portion of holdings, so the fund can generate income alongside price appreciation or [depreciation](/depreciation/).
 
 ## Sponsor, structure, and costs
 

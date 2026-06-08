@@ -36,7 +36,7 @@ This loss compounds as volatility increases. In a stock that chops up and down o
 
 PALU is meant for short-term traders and tactical traders, not buy-and-hold investors. A trader who believes Palo Alto Networks will rally sharply in the coming week can use PALU to amplify that exposure to 2x leverage without requesting margin from their [broker](/broker/). The fund delivers leveraged exposure in a simple ETF wrapper, with the daily rebalancing handled automatically.
 
-PALU is fundamentally not designed for long-term investors. If your investment thesis is that Palo Alto Networks is a strong cybersecurity company that will compound at 15% annually for a decade, PALU is the wrong vehicle. Over a multi-year holding period, volatility decay will erode returns far more than any benefit from the leverage. A traditional long position in PANW shares, held through a full market cycle, will almost certainly outperform PALU held over the same time horizon.
+PALU is fundamentally not designed for long-term investors. If your investment thesis is that Palo Alto Networks is a strong cybersecurity company that will compound at 15% annually for a decade, PALU is the wrong vehicle. Over a multi-year holding period, volatility decay will erode returns far more than any benefit from the leverage. A traditional long position in PANW shares, held through a full [market cycle](/market-cycle/), will almost certainly outperform PALU held over the same time horizon.
 
 ## What are the costs of holding PALU?
 

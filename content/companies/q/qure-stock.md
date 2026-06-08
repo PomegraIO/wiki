@@ -57,7 +57,7 @@ Competition is increasing as the field matures. Other companies and academic ins
 
 uniQure's path from university-based research to a publicly traded biopharmaceutical company reflects the capital intensity and patience required in biotech. The company required billions of dollars in funding over two decades before bringing products to market. Much of that funding came from public capital markets — equity offerings, [convertible bonds](/convertible-bond/), and other financing structures that are common in biotech.
 
-The transition from development-stage to revenue-generating company is a critical inflection for any biotech. Early success with commercialized products validates the platform and provides cash flow that can fund future development. It also attracts institutional investors who previously avoided the company because of execution risk.
+The transition from development-stage to revenue-generating company is a critical inflection for any biotech. Early success with commercialized products validates the platform and provides cash flow that can fund future development. It also attracts institutional investors who previously avoided the company because of [execution risk](/execution-risk/).
 
 ## How to research uniQure as an investment
 

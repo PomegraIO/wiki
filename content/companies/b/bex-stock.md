@@ -57,7 +57,7 @@ Conversely, if you buy BEX and hold it for months or years, expecting to capture
 
 ## Emerging-market exposure and the regional risk
 
-The fund's underlying index tracks emerging-market stocks, typically defined as stocks in developing or frontier countries. The exact composition depends on the specific index, but it often includes stocks from countries such as India, Brazil, Mexico, Taiwan, and other regions. Emerging markets are riskier than developed markets — they face [currency volatility](/currency-volatility/), political risk, regulatory uncertainty, and are more sensitive to global economic slowdowns.
+The fund's underlying index tracks emerging-market stocks, typically defined as stocks in developing or frontier countries. The exact composition depends on the specific index, but it often includes stocks from countries such as India, Brazil, Mexico, Taiwan, and other regions. Emerging markets are riskier than developed markets — they face [currency volatility](/currency-volatility/), [political risk](/political-risk/), regulatory uncertainty, and are more sensitive to global economic slowdowns.
 
 By taking 2X leverage on top of that already-volatile asset class, BEX creates a fund suitable only for sophisticated, active traders. The combination of emerging-market risk, leverage, and daily resets makes this product inappropriate for buy-and-hold investors or those new to investing.
 

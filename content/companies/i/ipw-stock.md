@@ -39,7 +39,7 @@ Unlike established industries with stable regulatory foundations, iPower's addre
 
 ## Differentiation from Horticultural Peers
 
-iPower is not a pesticide manufacturer (like FMC or Corteva). It is not a commodity seed company. It is not a nursery or grower itself. Instead, it is the infrastructure layer beneath indoor cultivation—the picks-and-shovels analog to a cannabis gold rush. This positioning gives iPower a peculiar advantage: it benefits from legalization without bearing the regulatory and reputational risk of actually growing cannabis. However, it also makes IPower's fate entirely contingent on others' willingness to invest in growing facilities. If cannabis legalization stalls or existing cultivators decide to build their own equipment, iPower's market shrinks.
+iPower is not a pesticide manufacturer (like FMC or Corteva). It is not a commodity seed company. It is not a nursery or grower itself. Instead, it is the infrastructure layer beneath indoor cultivation—the picks-and-shovels analog to a cannabis gold rush. This positioning gives iPower a peculiar advantage: it benefits from legalization without bearing the regulatory and [reputational risk](/reputational-risk/) of actually growing cannabis. However, it also makes IPower's fate entirely contingent on others' willingness to invest in growing facilities. If cannabis legalization stalls or existing cultivators decide to build their own equipment, iPower's market shrinks.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -51,7 +51,7 @@ That said, geography cuts both ways. Tokyo's office market has faced pressures i
 
 The company's organizational shape reflects its business model. It is both owner and operator: it owns the real estate and also runs the facilities-management teams that keep those buildings functional. This vertical integration contrasts with some other property companies that buy buildings and immediately hire third parties to manage them. Tokyo Tatemono's in-house management approach allows tighter control over maintenance standards and the ability to capture the profit margin from both the ownership and the operation sides.
 
-Revenue and profitability depend on occupancy rates and on the rents the company can command. In a competitive Tokyo real estate market, both are subject to economic pressures. High vacancy rates, the need to offer tenant discounts to fill buildings, and the cost of major renovations all compress the margin. Conversely, full occupancy and rising rents expand it. The company's earnings are therefore quite sensitive to the cycle of the Tokyo property market and the broader health of Japan's economy.
+Revenue and profitability depend on occupancy rates and on the rents the company can command. In a competitive Tokyo real estate market, both are subject to economic pressures. High [vacancy rates](/vacancy-rate-property/), the need to offer tenant discounts to fill buildings, and the cost of major renovations all compress the margin. Conversely, full occupancy and rising rents expand it. The company's earnings are therefore quite sensitive to the cycle of the Tokyo property market and the broader health of Japan's economy.
 
 ## Capital allocation and shareholder returns
 

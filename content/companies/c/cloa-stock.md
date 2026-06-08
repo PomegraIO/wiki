@@ -47,13 +47,13 @@ CLOA trades as a standard ETF: shares list on a public exchange and can be bough
 
 ## The case for owning CLO exposure
 
-Investors seeking credit exposure sometimes view AAA CLOs as offering yield that compensates for their structural complexity, particularly in credit cycles where loan supply is robust and defaults are low. CLOs provide diversified exposure to corporate lending—the pool typically contains dozens or hundreds of loans across industries—making them more diversified than owning a handful of individual [corporate bonds](/corporate-bond/).
+Investors seeking credit exposure sometimes view AAA CLOs as offering yield that compensates for their structural complexity, particularly in [credit cycles](/credit-cycle/) where loan supply is robust and defaults are low. CLOs provide diversified exposure to corporate lending—the pool typically contains dozens or hundreds of loans across industries—making them more diversified than owning a handful of individual [corporate bonds](/corporate-bond/).
 
 For institutional investors, CLOs are a natural allocation within credit portfolios. For individual investors, CLOA simplifies the process: buying CLO securities directly requires relationships with institutional dealers and minimum purchase sizes, which are obstacles for smaller portfolios.
 
 ## Risks embedded in CLO securities
 
-CLOs are structured products with layers of complexity. The AAA rating provides real protection, but it is not a guarantee. The rating reflects issuer assumptions about [default rates](/default-rate/), recovery rates, and [loss severity](/loss-severity/) that can prove too optimistic in a sharp credit downturn. If loan losses exceed the loss cushion beneath the AAA tranche, that tranche suffers principal loss.
+CLOs are [structured products](/structured-product/) with layers of complexity. The AAA rating provides real protection, but it is not a guarantee. The rating reflects issuer assumptions about [default rates](/default-rate/), recovery rates, and [loss severity](/loss-severity/) that can prove too optimistic in a sharp credit downturn. If loan losses exceed the loss cushion beneath the AAA tranche, that tranche suffers principal loss.
 
 [Interest-rate risk](/interest-rate-risk/) amplifies this. As rates rise, existing fixed-rate CLOs become less attractive relative to newly issued instruments with higher coupons, depressing secondary-market prices. Rising rates also increase borrower stress, making defaults more likely—worsening the underlying credit fundamentals.
 

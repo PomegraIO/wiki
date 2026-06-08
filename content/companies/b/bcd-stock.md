@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF, trading as BCD, is a commodities fund that accesses a diversified basket of commodity futures — [crude oil](/crude-oil/), [natural gas](/natural-gas/), metals, and agricultural products — using longer-dated contract positions rather than the most-actively-traded front contracts, and structured to be tax-efficient by minimising K-1 reporting.*
+*The abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF, trading as BCD, is a [commodities fund](/commodities-fund/) that accesses a diversified basket of commodity futures — [crude oil](/crude-oil/), [natural gas](/natural-gas/), metals, and agricultural products — using longer-dated contract positions rather than the most-actively-traded front contracts, and structured to be tax-efficient by minimising K-1 reporting.*
 
 ## The commodity universe and the fund's scope
 

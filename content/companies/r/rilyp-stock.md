@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-RILYP denotes Depositary Shares representing fractional interests in BRC Group Holdings' 6.875% Series A Cumulative [Perpetual Preferred Stock](/perpetual-preferred/). To understand what RILYP is, one must trace how BRC Group evolved from its origins into a multi-sector holding company — a journey of strategic [acquisitions](/acquisition/), portfolio building, and capital-structure layering that has created the complicated security landscape in which RILYP exists.
+RILYP denotes [Depositary Shares](/depositary-share/) representing fractional interests in BRC Group Holdings' 6.875% Series A Cumulative [Perpetual Preferred Stock](/perpetual-preferred/). To understand what RILYP is, one must trace how BRC Group evolved from its origins into a multi-sector holding company — a journey of strategic [acquisitions](/acquisition/), portfolio building, and capital-structure layering that has created the complicated security landscape in which RILYP exists.
 
 <aside class="wiki-infobox">
 <table>

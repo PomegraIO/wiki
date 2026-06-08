@@ -50,9 +50,9 @@ The installed base is another moat component. Coincheck has millions of users in
 
 Cryptocurrency remains politically contested. Japan's approach is relatively friendly compared to some jurisdictions, but policy could shift if regulators become concerned about fraud, money laundering, or consumer losses. Regulatory tightening—capital requirements, position limits, or restrictions on certain products—would increase Coincheck's compliance costs and potentially reduce transaction volume.
 
-Coincheck also faces technology risk. Cryptocurrency exchanges are attractive targets for hackers because users hold valuable digital assets. Any successful hack that causes customer losses would destroy the trust that is the foundation of the moat. Coincheck has invested in security, but the threat is persistent.
+Coincheck also faces [technology risk](/technology-risk/). Cryptocurrency exchanges are attractive targets for hackers because users hold valuable digital assets. Any successful hack that causes customer losses would destroy the trust that is the foundation of the moat. Coincheck has invested in security, but the threat is persistent.
 
-The business is also subject to cryptocurrency market cycles. When [bitcoin](/bitcoin/) and other digital assets are surging, trading volume is high and fee revenue is strong. When the market enters a downtrend, trading volume collapses and retail users lose interest. The staking business is less cyclical but still depends on users choosing to hold cryptocurrencies on the platform rather than transfer them elsewhere or spend them.
+The business is also subject to cryptocurrency [market cycles](/market-cycle/). When [bitcoin](/bitcoin/) and other digital assets are surging, trading volume is high and fee revenue is strong. When the market enters a downtrend, trading volume collapses and retail users lose interest. The staking business is less cyclical but still depends on users choosing to hold cryptocurrencies on the platform rather than transfer them elsewhere or spend them.
 
 ## Strategic Ownership and Future Direction
 

@@ -16,7 +16,7 @@ keywords: [hedge-fund, alternatives, diversification, capital-structure, systema
 
 ## The Tactical Hedge Cycle
 
-MADL's performance and asset base move in a pattern distinct from but related to broader market cycles. When equity and bond markets are highly correlated—both rising or both falling in tandem—[diversification](/diversification/) value collapses and [hedge funds](/hedge-fund/) underperform. Investors who believed they had non-correlated assets discover instead that correlation spikes to near-unity in market stress. This drives redemptions and outflows from funds like MADL.
+MADL's performance and asset base move in a pattern distinct from but related to broader [market cycles](/market-cycle/). When equity and bond markets are highly correlated—both rising or both falling in tandem—[diversification](/diversification/) value collapses and [hedge funds](/hedge-fund/) underperform. Investors who believed they had non-correlated assets discover instead that correlation spikes to near-unity in market stress. This drives redemptions and outflows from funds like MADL.
 
 When markets fragment—equities stable but bonds volatile, or sectors moving independently—the correlation between traditional asset classes falls, and strategies that exploit these uncorrelated pockets of return suddenly outperform. This drives inflows. The cycle of correlation expansion and contraction is real and measurable, and MADL's asset inflows and performance are tightly coupled to it.
 

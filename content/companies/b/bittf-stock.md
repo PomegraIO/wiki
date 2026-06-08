@@ -9,7 +9,7 @@ keywords:
   - early-stage mining
 ---
 
-*[**Bitterroot Resources Ltd** (BITTF)](BITTF) is a Canadian mineral exploration company operating in the early-to-middle stage of the mining lifecycle, having progressed from grassroots prospecting into the phase where it is defining mineral resources on its claim packages. The company operates primarily in North America, with focus on gold and other precious metals that remain central to both macro hedging and industrial demand. Bitterroot exemplifies the arc of a small junior explorer: it must move from staking and preliminary sampling toward economically meaningful resource estimates, all while managing the capital markets pressure that defines survival for unfunded explorers.*
+*[**Bitterroot Resources Ltd** (BITTF)](BITTF) is a Canadian mineral exploration company operating in the early-to-middle stage of the mining lifecycle, having progressed from grassroots prospecting into the phase where it is defining mineral resources on its claim packages. The company operates primarily in North America, with focus on gold and other precious metals that remain central to both [macro hedging](/macro-hedging/) and industrial demand. Bitterroot exemplifies the arc of a small junior explorer: it must move from staking and preliminary sampling toward economically meaningful resource estimates, all while managing the capital markets pressure that defines survival for unfunded explorers.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BITTF</td></tr>
@@ -28,7 +28,7 @@ The pathway from exploration to production takes a decade or more and requires m
 
 ## Geography, Geology, and Project Risk
 
-The company operates in North America, where mineral exploration benefits from established infrastructure, transparent permitting, and high-quality geological data—but faces high exploration and development costs relative to jurisdictions like Peru or Southeast Asia. This choice reflects a trade-off: higher cost per drilled meter, but lower sovereign and political risk, clearer regulatory pathways, and easier access to Western capital markets.
+The company operates in North America, where mineral exploration benefits from established infrastructure, transparent permitting, and high-quality geological data—but faces high exploration and development costs relative to jurisdictions like Peru or Southeast Asia. This choice reflects a trade-off: higher cost per drilled meter, but lower sovereign and [political risk](/political-risk/), clearer regulatory pathways, and easier access to Western capital markets.
 
 For a junior explorer, geography is not merely location but geological franchise. Bitterroot's ability to accumulate quality exploration properties—claim packages with genuine geological merit rather than speculative staking—determines whether it can attract deeper capital and partners. Properties with visible potential (evidence of mineralization in surface samples, proximity to known mineral belts, favorable geology) command attention from larger explorers and majors, which often joint-venture with or acquire successful juniors. Properties that do not meet these thresholds become derisked liabilities on the [balance sheet](/balance-sheet/).
 
@@ -40,7 +40,7 @@ The company's success in this phase depends on execution discipline: finding min
 
 ## Capital Structure and Survival Pressure
 
-Junior explorers trade in the public markets partly to enable ongoing capital raises through equity issuance. Bitterroot's market presence (even OTC) provides access to the financial machinery needed to fund exploration: registered direct offerings, bought deals, and warrant financings. Each round dilutes existing shareholders but keeps the company active.
+Junior explorers trade in the public markets partly to enable ongoing capital raises through equity issuance. Bitterroot's market presence (even OTC) provides access to the financial machinery needed to fund exploration: [registered direct offerings](/registered-direct-offering/), [bought deals](/bought-deal/), and warrant financings. Each round dilutes existing shareholders but keeps the company active.
 
 The alternative—private funding from institutional investors or joint-venture partnerships—requires a more advanced project portfolio and proven management. Bitterroot's OTC listing reflects its position: past the earliest stage, but not yet mature enough for the higher financing costs and stricter governance demands of major exchanges.
 

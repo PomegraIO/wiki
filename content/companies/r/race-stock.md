@@ -67,8 +67,8 @@ Finally, there is the question of scale. Ferrari has built its mystique on rarit
 
 ## Understanding Ferrari's financials
 
-Ferrari's [annual report](/10-k/) (SEC CIK 0001648416) breaks revenue by geography and by model family. Watch for production volume — the number of cars delivered is a good leading indicator of revenue. Monitor the mix of models: are customers shifting toward higher-priced models (good for revenue) or lower-priced ones (a warning sign)? Track gross margins, which should remain exceptionally high if the company is maintaining exclusivity and pricing discipline.
+Ferrari's [annual report](/10-k/) (SEC CIK 0001648416) breaks revenue by geography and by model family. Watch for production volume — the number of cars delivered is a good [leading indicator](/leading-indicator/) of revenue. Monitor the mix of models: are customers shifting toward higher-priced models (good for revenue) or lower-priced ones (a warning sign)? Track gross margins, which should remain exceptionally high if the company is maintaining exclusivity and pricing discipline.
 
-Pay attention to regional demand. While ultra-wealthy individuals are everywhere, the appetite for multi-million-pound cars varies with local wealth, tax policy, and cultural attitudes toward status symbols. The Americas, China, and Europe are the three largest markets, and the trajectory of sales in each region is a window into how global ultra-wealth is distributed and moving.
+Pay attention to regional demand. While ultra-wealthy individuals are everywhere, the appetite for multi-million-pound cars varies with local [wealth, tax](/wealth-tax/) policy, and cultural attitudes toward status symbols. The Americas, China, and Europe are the three largest markets, and the trajectory of sales in each region is a window into how global ultra-wealth is distributed and moving.
 
 Watch capital spending on electrification and new products. The brand is at an inflection point technologically, and management's choices about how aggressively to pursue electric powertrains and new segments will shape the company for the next decade.

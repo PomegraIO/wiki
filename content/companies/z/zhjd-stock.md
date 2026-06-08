@@ -55,7 +55,7 @@ If the company acquires a hotel asset or portfolio, its success would depend ent
 
 **Regulatory and operational complexity.** Hotels are heavily regulated (labor, health codes, zoning, fire safety), labor-intensive, and require ongoing capital investment. A company accustomed to commodity trading may lack infrastructure and discipline for this shift.
 
-**Capital constraints.** With negligible assets, any material acquisition requires external funding. This amplifies execution risk and shareholder dilution.
+**Capital constraints.** With negligible assets, any material acquisition requires external funding. This amplifies [execution risk](/execution-risk/) and shareholder dilution.
 
 **[OTC Pink](/otc-pink/) Sheet liquidity.** Trading on the pink sheets (unaudited, low-volume, high-bid-ask spreads) makes raising capital or completing deals harder. A serious hospitality player would likely seek an uplist to [NASDAQ](/nasdaq/) or NYSE.
 

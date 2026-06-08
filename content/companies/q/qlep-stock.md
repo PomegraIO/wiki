@@ -39,7 +39,7 @@ For public shareholders in Quantum Leap, the trust account provides a floor on d
 
 ## Sectoral dynamics and future strategy
 
-The three sectors Quantum Leap targets — artificial intelligence, quantum computing, and blockchain — operate on different development curves. AI is in active commercialization with established companies and a growing field of private enterprises serving enterprise and consumer markets. Quantum computing remains largely experimental with limited commercial deployment, dominated by research initiatives and specialized hardware companies. Blockchain faces regulatory uncertainty and speculative market cycles alongside persistent technical and adoption challenges.
+The three sectors Quantum Leap targets — artificial intelligence, quantum computing, and blockchain — operate on different development curves. AI is in active commercialization with established companies and a growing field of private enterprises serving enterprise and consumer markets. Quantum computing remains largely experimental with limited commercial deployment, dominated by research initiatives and specialized hardware companies. Blockchain faces regulatory uncertainty and speculative [market cycles](/market-cycle/) alongside persistent technical and adoption challenges.
 
 A SPAC targeting all three must navigate very different competitive dynamics and risk profiles across these domains. An AI acquisition might compete against well-funded tech giants and established enterprise-software vendors. A quantum-computing play would compete for scarce talent and face extreme technical risk. A blockchain business would navigate regulatory flux and market sentiment swings. The diversity of Quantum Leap's mandate both widens its opportunity set and fragments its focus.
 

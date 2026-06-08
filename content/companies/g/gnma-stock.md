@@ -48,7 +48,7 @@ This makes GNMA an intermediate-duration fixed-income instrument. It is longer-d
 
 ## Liquidity and trading costs
 
-GNMA trades as an ETF on a [stock exchange](/stock-exchange/) with tight [bid-ask spreads](/bid-ask-spread/), making it liquid and low-cost to buy and sell for most retail and institutional investors. The fund's underlying securities (the actual mortgage pools) are also actively traded in the dealer market, so the ETF's structure benefits from good underlying market depth.
+GNMA trades as an ETF on a [stock exchange](/stock-exchange/) with tight [bid-ask spreads](/bid-ask-spread/), making it liquid and low-cost to buy and sell for most retail and institutional investors. The fund's underlying securities (the actual mortgage pools) are also actively traded in the [dealer market](/dealer-market/), so the ETF's structure benefits from good underlying market depth.
 
 The fund charges an [expense ratio](/expense-ratio/) for management and administration, typically in the 0.2–0.3% range annually, which is competitive with other [bond ETFs](/bond-etf/). Most of an investor's total return comes from the yield and principal repayment, not from fund fees.
 

@@ -31,7 +31,7 @@ Concentration also means ACGR will outperform and underperform the S&P 500 in cl
 
 As an [actively managed fund](/actively-managed-fund/), ACGR charges a higher [expense ratio](/expense-ratio/) than a passive [S&P 500 index](/sp-500-index/) fund. Typical annual costs range from 0.40–0.65 percent, depending on [share class](/share-class/) and account size, compared to 0.03–0.10 percent for an index fund. Over a decade, that fee difference compounds meaningfully.
 
-The critical question is whether American Century's stock picking adds enough value to justify those fees. The fund's prospectus and fact sheet show long-term performance versus relevant benchmarks (usually the S&P 500 Growth index or the Russell 1000 Growth index). An investor should compare ACGR's net-of-fee returns — after all costs — to a plain large-cap growth index fund over a full market cycle. If the fund has added 1–2 percent annually net of fees over 10 years, the active management has paid for itself. If it is trailing by similar margins, the fees have been a headwind.
+The critical question is whether American Century's stock picking adds enough value to justify those fees. The fund's prospectus and fact sheet show long-term performance versus relevant benchmarks (usually the S&P 500 Growth index or the Russell 1000 Growth index). An investor should compare ACGR's net-of-fee returns — after all costs — to a plain large-cap growth index fund over a full [market cycle](/market-cycle/). If the fund has added 1–2 percent annually net of fees over 10 years, the active management has paid for itself. If it is trailing by similar margins, the fees have been a headwind.
 
 ## Holdings and sector themes over time
 

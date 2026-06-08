@@ -56,6 +56,6 @@ As an investor, you are also exposed to the dilution that comes with the sponsor
 
 ## Tracking Tailwind's progress
 
-Anyone interested in Tailwind 2.0 should monitor SEC filings for news of deal announcements. Once a target is named, the 8-K filing and the proxy statement for the shareholder vote will contain detailed financials and terms. That is when the real evaluation begins: Does the target company have a real business? Are the numbers credible? Is the valuation reasonable? And are the sponsors putting their own money at risk alongside public shareholders, or are they cashing out regardless of performance?
+Anyone interested in Tailwind 2.0 should monitor SEC filings for news of deal announcements. Once a target is named, the 8-K filing and the [proxy statement](/proxy-statement/) for the shareholder vote will contain detailed financials and terms. That is when the real evaluation begins: Does the target company have a real business? Are the numbers credible? Is the valuation reasonable? And are the sponsors putting their own money at risk alongside public shareholders, or are they cashing out regardless of performance?
 
 Until then, Tailwind 2.0 is just a vehicle — a pool of money waiting for a captain to navigate it toward a destination.

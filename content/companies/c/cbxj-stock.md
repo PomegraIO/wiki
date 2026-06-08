@@ -13,7 +13,7 @@ handwritten: true
 
 > "Protection that resets every month means you always know the floor — but the floor itself can move."
 
-The Calamos [Bitcoin](/bitcoin/) 90 Series Structured Alt Protection ETF (January) lets investors hold Bitcoin through a protective framework rather than directly. The fund's mechanics are straightforward enough on the surface: at each monthly reset, establish a floor at 90 percent of the current price, cap upside gains at a predefined level, and let investors capture what lies between. The catch, as always with structured products, lives in the details.
+The Calamos [Bitcoin](/bitcoin/) 90 Series Structured Alt Protection ETF (January) lets investors hold Bitcoin through a protective framework rather than directly. The fund's mechanics are straightforward enough on the surface: at each monthly reset, establish a floor at 90 percent of the current price, cap upside gains at a predefined level, and let investors capture what lies between. The catch, as always with [structured products](/structured-product/), lives in the details.
 
 At each reset, the fund recalibrates. In a Bitcoin rally, that recalibration pushes the floor upward, locking in some protection at a higher level. In a decline, the floor adjusts downward, which sounds like the protection is disappearing — and in one sense it is. The fund does not maintain an absolute, never-moving floor at some 2024 price; instead, it resets to a 90 percent band relative to the new price. This periodic recalibration creates a subtle but important dynamic: the protection is durable, but its absolute value waxes and wanes with Bitcoin's price movements.
 

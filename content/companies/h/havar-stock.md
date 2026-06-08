@@ -47,7 +47,7 @@ If no business combination is consummated before the deadline, the company must 
 
 The regulatory framework is also designed to make conflicts transparent. SPACs must disclose, in detailed proxy materials, the compensation the sponsors will receive, the sponsor's prior transaction history, any arrangements between the sponsor and the target company, and a detailed description of the target's business and finances. The idea is that shareholders, armed with full disclosure, can make an informed judgment about whether the deal is fair.
 
-That design choice reflects an assumption: if shareholders have full information and voting power, they will police themselves. The SEC's role is to police disclosure, not to evaluate whether the deal is good. That philosophy puts the burden on public investors to do their due diligence and on the sponsors and their advisors to be forthright in the proxy materials.
+That design choice reflects an assumption: if shareholders have full information and voting power, they will police themselves. The SEC's role is to police disclosure, not to evaluate whether the deal is good. That philosophy puts the burden on public investors to do their [due diligence](/due-diligence/) and on the sponsors and their advisors to be forthright in the proxy materials.
 
 ## Understanding HAVAR as a corporate structure
 

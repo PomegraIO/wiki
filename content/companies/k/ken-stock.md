@@ -58,7 +58,7 @@ Kenon operates in a concentrated, capital-intensive sector—Israeli and Eastern
 Like any holding company focused on capital-intensive infrastructure, Kenon confronts structural headwinds:
 
 - **Renewable energy transition in Israel**, which could affect long-term demand for thermal power generation and complicate the OPC Energy thesis
-- **Regulatory and political risk**, both in Israel and in markets where Kenon holds stakes; government policy on energy, taxes, and corporate transactions can shift rapidly
+- **Regulatory and [political risk](/political-risk/)**, both in Israel and in markets where Kenon holds stakes; government policy on energy, taxes, and corporate transactions can shift rapidly
 - **Valuation and [liquidity risk](/liquidity-risk/)** on illiquid or privately held assets; not all stakes can be sold immediately or at fair-value prices in downturns
 - **Concentration of expertise**, where key decisions depend on individuals or small teams with deep operational knowledge
 - **Currency and geopolitical exposure**, given Kenon's Israeli domicile and Middle Eastern presence

@@ -28,7 +28,7 @@ When GPLL merged with its operating partner via SPAC, the former blank-check inv
 
 ## How GPLL Returns Capital (or Doesn't)
 
-Some holding companies are cash machines—they harvest dividends from portfolio companies and pass them to shareholders nearly intact. Others are growth vehicles that reinvest all available cash. GPLL's posture depends on its portfolio's maturity. If its holdings are mature, stable businesses (established financial services, recurring-revenue B2B platforms), the company can justify regular [dividend](/dividend/) payments or [share buybacks](/share-buyback/). If holdings are volatile, undercapitalized, or still scaling, the board may retain all cash to build equity cushions. The market pays attention to which approach GPLL adopts. A holding company that suspends its dividend because it needs to shore up a weak subsidiary signals trouble; one that grows its dividend despite flat earnings signals either unrealistic confidence or unsustainable capital allocation. Neither builds long-term equity value.
+Some holding companies are cash machines—they harvest dividends from portfolio companies and pass them to shareholders nearly intact. Others are growth vehicles that reinvest all available cash. GPLL's posture depends on its portfolio's maturity. If its holdings are mature, stable businesses (established financial services, recurring-revenue B2B platforms), the company can justify regular [dividend](/dividend/) payments or [share buybacks](/share-buyback/). If holdings are volatile, undercapitalized, or still scaling, the board may retain all cash to build [equity cushions](/equity-cushion/). The market pays attention to which approach GPLL adopts. A holding company that suspends its dividend because it needs to shore up a weak subsidiary signals trouble; one that grows its dividend despite flat earnings signals either unrealistic confidence or unsustainable capital allocation. Neither builds long-term equity value.
 
 ## Refinancing Risk and Maturity Walls
 
@@ -36,7 +36,7 @@ Holding companies—especially SPAC [mergers](/merger/) that inherited transitio
 
 ## Capital Allocation Discipline
 
-The starkest measure of a holding company's quality is capital discipline—the consistency with which it allocates available cash to high-return opportunities. A weak capital allocator makes [acquisitions](/acquisition/) at inflated prices, holds onto declining subsidiaries, or distributes cash just to meet earnings expectations. A disciplined allocator uses strict hurdle rates, prunes underperformers, and waits for cheap opportunities. GPLL's historical M&A and [divestitures](/divestiture/), if available in SEC filings, reveal which pattern it follows. Over time, capital discipline compounds into shareholder value; its absence compounds into mediocrity.
+The starkest measure of a holding company's quality is capital discipline—the consistency with which it allocates available cash to high-return opportunities. A weak capital allocator makes [acquisitions](/acquisition/) at inflated prices, holds onto declining subsidiaries, or distributes cash just to meet earnings expectations. A disciplined allocator uses strict [hurdle rates](/hurdle-rate/), prunes underperformers, and waits for cheap opportunities. GPLL's historical M&A and [divestitures](/divestiture/), if available in SEC filings, reveal which pattern it follows. Over time, capital discipline compounds into shareholder value; its absence compounds into mediocrity.
 
 ## Why This Matters to Researchers
 

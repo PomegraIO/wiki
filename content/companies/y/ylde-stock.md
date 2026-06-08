@@ -21,7 +21,7 @@ The dividend piece is straightforward. A stock pays dividends — regular cash p
 
 ## The options overlay and what it costs
 
-The distinguishing feature is the [call option](/call-option/) strategy. Each month, the fund sells (writes) call options on large-cap equity indices — typically tied to the S&P 500 or similar benchmarks. When you sell a call option, you receive a cash premium upfront. In exchange, you agree that if the index rises above a certain level, the option buyer can purchase it at that fixed price, and you forfeit the gains above that strike level.
+The distinguishing feature is the [call option](/call-option/) strategy. Each month, the fund sells (writes) call options on large-cap equity indices — typically tied to the S&P 500 or similar benchmarks. When you sell a call option, you receive a cash premium upfront. In exchange, you agree that if the index rises above a certain level, the [option buyer](/option-buyer/) can purchase it at that fixed price, and you forfeit the gains above that strike level.
 
 In flat or down markets, the fund keeps the full premium and it flows to shareholders as income. In rising markets, the upside gets capped. The fund may lag the S&P 500 significantly on years when large-cap equities rally hard. This is the core trade: higher current income in exchange for reduced participation in bull-market gains.
 
@@ -47,6 +47,6 @@ Options markets can gap or become dislocated during stress. If equity volatility
 
 The fund's prospectus and fact sheet (available on the [Franklin Templeton](/fgdl-stock/) website) spell out the strategy and the risks in detail. Read the most recent fact sheet for current expense ratios, portfolio composition by sector, and performance history. The SEC filings (Form N-CSR annual and semi-annual reports) contain the full holdings list and audited performance data.
 
-When evaluating YLDE against other income-focused funds, compare it to other covered-call ETFs and high-dividend ETFs. The comparison should focus on total return over a full market cycle (including both bull and bear periods), not just recent years. Look at the fund's performance during the last major rally to see how much the call-capped ceiling has cost. Check the distribution rate and ask whether it feels sustainable or if it is being boosted by option premiums that may shrink in a lower-volatility environment.
+When evaluating YLDE against other income-focused funds, compare it to other covered-call ETFs and high-dividend ETFs. The comparison should focus on total return over a full [market cycle](/market-cycle/) (including both bull and bear periods), not just recent years. Look at the fund's performance during the last major rally to see how much the call-capped ceiling has cost. Check the distribution rate and ask whether it feels sustainable or if it is being boosted by option premiums that may shrink in a lower-volatility environment.
 
 Track the spread between YLDE and the S&P 500 over time to see whether the extra income has been worth the forgone upside. This is a fund for investors who prioritize steady cash flow over capital appreciation, and who accept that they will underperform in bull markets in exchange for income that is more reliable than the earnings on a dividend portfolio alone.

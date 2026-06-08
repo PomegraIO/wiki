@@ -47,7 +47,7 @@ AIEQ carries an [expense ratio](/expense-ratio/) higher than a passive broad-mar
 
 ## Performance and expectations
 
-AIEQ's track record should be the first thing a prospective investor examines. Has the algorithmic approach actually outperformed a simple broad-market index after fees? If so, by how much, and has the outperformance been consistent or sporadic? Has the fund underperformed at certain times, and if so, under what conditions? Past performance does not guarantee future results, but a fund that has consistently lagged a benchmark over a full market cycle should raise questions about whether the algorithm is providing value for the fee charged.
+AIEQ's track record should be the first thing a prospective investor examines. Has the algorithmic approach actually outperformed a simple broad-market index after fees? If so, by how much, and has the outperformance been consistent or sporadic? Has the fund underperformed at certain times, and if so, under what conditions? Past performance does not guarantee future results, but a fund that has consistently lagged a benchmark over a full [market cycle](/market-cycle/) should raise questions about whether the algorithm is providing value for the fee charged.
 
 ## Risks and limitations
 

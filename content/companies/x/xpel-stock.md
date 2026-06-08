@@ -46,7 +46,7 @@ XPEL has also diversified into ceramic coatings, which protect clear coat and pa
 
 ## The competitive battle: Brand and quality against fragmentation
 
-Paint protection film is a fragmented market. Hundreds of local shops offer some version of protective film—some use XPEL, others use 3M, Suntek, or house brands. What XPEL wins on is brand strength, product quality, and network effects. Once a shop installs XPEL successfully, it has an incentive to stick with XPEL. Once a customer experiences XPEL's self-healing performance, they become an advocate.
+Paint protection film is a [fragmented market](/fragmented-market/). Hundreds of local shops offer some version of protective film—some use XPEL, others use 3M, Suntek, or house brands. What XPEL wins on is brand strength, product quality, and network effects. Once a shop installs XPEL successfully, it has an incentive to stick with XPEL. Once a customer experiences XPEL's self-healing performance, they become an advocate.
 
 XPEL's main competition comes from other branded film makers (3M has deep industrial relationships and distribution), low-cost aftermarket brands, and the simplest threat of all: customers choosing not to protect their cars at all. Many car owners skip protective film entirely or view it as a luxury.
 

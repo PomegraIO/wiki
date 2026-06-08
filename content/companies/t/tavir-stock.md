@@ -34,7 +34,7 @@ The purpose of the right structure is to give Tavia extra capital to deploy in t
 
 ## How rights behave post-merger
 
-Once the merger closes, the rights cease to exist as a separate security. The cash proceeds that were raised through the rights component (about one-tenth of the IPO capital per unit) are deployed into the business, and holders of rights receive their fractional shares in the merged company. The rights themselves are no longer tradeable; they convert into ordinary shares.
+Once the merger closes, the rights cease to exist as a separate security. The cash proceeds that were raised through the rights component (about one-tenth of the IPO capital per unit) are deployed into the business, and holders of rights receive their [fractional shares](/fractional-shares/) in the merged company. The rights themselves are no longer tradeable; they convert into ordinary shares.
 
 Before the merger closes, rights trade separately on the [Nasdaq](/nasdaq/) under the symbol TAVIR and are subject to the normal forces of supply and demand. If investors believe Tavia's target will be attractive, they may bid up rights; if confidence wanes or the merger announcement disappoints, rights may trade below their [intrinsic value](/intrinsic-value/). The [bid-ask spread](/bid-ask-spread/) on rights is often wider than on the ordinary shares because volume is lower, making them less liquid.
 

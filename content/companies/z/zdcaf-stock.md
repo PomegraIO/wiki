@@ -51,7 +51,7 @@ What matters is whether Zedcor's software is good enough and cheap enough that c
 
 Zedcor is a small company. It is not a household name. It does not have millions of users. But it serves a real market with real needs, and it operates a profitable or near-profitable business. The company has not pursued hyper-growth — which would require spending heavily on sales and marketing to dominate its segment quickly. Instead it seems to have taken a steadier path, growing the customer base gradually and keeping costs in line with revenue.
 
-That strategy makes sense for a software company serving a fragmented market. There is no single "winner" in contractor software. The market is too decentralized. Any company that builds a product contractors like can sustain a profitable business, even if it never becomes huge. Zedcor's longevity and the fact that it still exists and operates suggests the company has found a sustainable niche.
+That strategy makes sense for a software company serving a [fragmented market](/fragmented-market/). There is no single "winner" in contractor software. The market is too decentralized. Any company that builds a product contractors like can sustain a profitable business, even if it never becomes huge. Zedcor's longevity and the fact that it still exists and operates suggests the company has found a sustainable niche.
 
 ## What makes this business work
 

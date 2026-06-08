@@ -31,7 +31,7 @@ Morgan Stanley now operates three main businesses. **Institutional Securities** 
 
 **Wealth Management** is the stable, recurring business. Morgan Stanley has a network of advisors and private bankers who manage assets for high-net-worth individuals and families, taking a small percentage as a fee. Revenue here is predictable and tied to asset values and the volume of client trades, making it a natural hedge against the trading arm's volatility.
 
-**Investment Management** — the asset-management arm — runs [mutual funds](/mutual-fund/), [hedge funds](/hedge-fund/), and separately managed accounts for institutions and individuals. It generates fees based on assets under management. The firm has grown this segment through [acquisition](/acquisition/) (buying Stifel Financial's asset-management business, for example) and organic growth, seeking to lock in recurring revenue.
+**Investment Management** — the asset-management arm — runs [mutual funds](/mutual-fund/), [hedge funds](/hedge-fund/), and [separately managed accounts](/separately-managed-account/) for institutions and individuals. It generates fees based on assets under management. The firm has grown this segment through [acquisition](/acquisition/) (buying Stifel Financial's asset-management business, for example) and organic growth, seeking to lock in recurring revenue.
 
 ## The Wealth Management strategic bet
 

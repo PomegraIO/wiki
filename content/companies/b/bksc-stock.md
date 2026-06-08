@@ -40,7 +40,7 @@ As a publicly listed bank, BKSC is subject to federal banking regulations, [Fede
 
 Community banks face the full apparatus of banking regulation: Dodd-Frank compliance, anti-money-laundering and know-your-customer requirements, consumer protection rules, and others. These are disproportionately expensive for small banks, as fixed compliance costs do not scale downward. Larger banks can absorb these costs more easily; smaller banks must often partner with third-party service providers or accept lower efficiency ratios.
 
-Capital requirements also constrain how much BKSC can lend relative to the equity capital its shareholders have contributed. Regulators require banks to hold capital buffers to absorb unexpected losses, and the ratio of capital to risk-weighted assets is tightly monitored. This means BKSC cannot grow its loan portfolio indefinitely; it must periodically raise new equity or retain earnings to fund growth. This acts as a governor on size and growth rate.
+Capital requirements also constrain how much BKSC can lend relative to the equity capital its shareholders have contributed. Regulators require banks to hold capital buffers to absorb unexpected losses, and the ratio of capital to [risk-weighted assets](/risk-weighted-assets/) is tightly monitored. This means BKSC cannot grow its loan portfolio indefinitely; it must periodically raise new equity or retain earnings to fund growth. This acts as a governor on size and growth rate.
 
 ## Understanding BKSC's Financial Position
 

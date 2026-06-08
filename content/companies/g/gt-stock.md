@@ -55,7 +55,7 @@ The company faces countervailing pressures, however. The tire industry is fundam
 
 Start with the [10-K](/wiki/10-k/) annual report (SEC CIK 42582). The filing details segment revenues, margin trends, manufacturing capacity utilization, commodity exposure, and customer concentration. Look at the "Risk Factors" section for management's view on competitive and macro headwinds.
 
-Watch **automotive production forecasts** and new-vehicle sales trends in major markets (US, Europe, China)—these are leading indicators for both OEM and replacement-market demand. If production falls, Goodyear's near-term revenue outlook compresses.
+Watch **automotive production forecasts** and new-vehicle sales trends in major markets (US, Europe, China)—these are [leading indicators](/leading-indicator/) for both OEM and replacement-market demand. If production falls, Goodyear's near-term revenue outlook compresses.
 
 Track **commodity input prices**, especially natural rubber, synthetic rubber, and [crude oil](/crude-oil/). Goodyear discloses commodity exposure in earnings calls; understand what percentage of COGS is hedged and what margin expansion or compression might flow from price moves.
 

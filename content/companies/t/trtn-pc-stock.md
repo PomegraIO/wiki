@@ -55,7 +55,7 @@ A notable feature is the return obligation: when a lessee finishes using a conta
 
 Cyclicality is the obvious answer. Global trade booms and busts with the [business cycle](/business-cycle/). A [recession](/recession/) or sharp contraction in world commerce immediately reduces the number of containers in use and puts downward pressure on lease rates. During the 2020 pandemic-driven disruption, for example, initial shipping declined sharply, which should have hurt Triton, but an unexpected surge in exports from factories struggling to keep up with demand led to a shortage of containers and record high lease rates. The cycle can swing violently and unpredictably.
 
-A second risk is customer concentration. If a handful of large shipping lines represent a disproportionate fraction of Triton's revenue, the loss of a major customer or a forced renegotiation of terms can significantly impact profits. Triton discloses major customer relationships in its filings, and watching for concentration is part of due diligence.
+A second risk is customer concentration. If a handful of large shipping lines represent a disproportionate fraction of Triton's revenue, the loss of a major customer or a forced renegotiation of terms can significantly impact profits. Triton discloses major customer relationships in its filings, and watching for concentration is part of [due diligence](/due-diligence/).
 
 A third risk is technological displacement. If a fundamentally different way of moving cargo emerged — not containers, but some other modality — Triton's fleet would become obsolete. This is a longer-term concern and not an imminent risk, but it is worth monitoring.
 

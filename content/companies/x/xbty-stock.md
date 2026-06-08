@@ -29,7 +29,7 @@ handwritten: true
 
 GraniteShares emerged as a fintech asset manager focused on crypto and commodity products for institutions and retail investors. As Bitcoin evolved from a niche asset into a recognized part of institutional portfolios following the approval of U.S. Bitcoin spot ETFs in early 2024, the market for Bitcoin products expanded rapidly. Most early Bitcoin ETFs simply held Bitcoin and tracked its price; they offered no additional income to offset the opportunity cost of the capital tied up in a non-yielding asset.
 
-XBTY represents an attempt to close that gap. The fund holds Bitcoin directly, but wraps the position in a systematic options strategy: each month (or on some interval defined by the fund's mandate), it writes covered-call options on a portion of its Bitcoin holdings. These are contracts that give buyers the right to purchase that Bitcoin at a specific price (the strike) at or before a specific date. In exchange, the fund collects the premium — the money the option buyer pays for that contract.
+XBTY represents an attempt to close that gap. The fund holds Bitcoin directly, but wraps the position in a systematic options strategy: each month (or on some interval defined by the fund's mandate), it writes covered-call options on a portion of its Bitcoin holdings. These are contracts that give buyers the right to purchase that Bitcoin at a specific price (the strike) at or before a specific date. In exchange, the fund collects the premium — the money the [option buyer](/option-buyer/) pays for that contract.
 
 ## How the yield-boost mechanics work
 
@@ -45,7 +45,7 @@ XBTY holds Bitcoin directly, so the fund's value moves with the Bitcoin price �
 
 The real risks include the usual cryptocurrency risks: Bitcoin's notoriously high volatility means the underlying asset can swing 20% or more in a month. That volatility affects both the value of the calls the fund writes (more volatile assets command higher [option premiums](/option-premium/)) and the fund's [net asset value](/net-asset-value/). If Bitcoin rallies sharply, the [covered calls](/covered-call/) constrain gains. If Bitcoin collapses, the option premium collected is too small to offset the drop.
 
-There is also execution risk in the options strategy itself: the fund's managers must judge when to write calls and at what strikes, and those judgment calls can be suboptimal. A strike set too high captures no premium; one set too low caps upside prematurely. Over long periods, the cumulative effect of repeated month-end decisions adds up.
+There is also [execution risk](/execution-risk/) in the options strategy itself: the fund's managers must judge when to write calls and at what strikes, and those judgment calls can be suboptimal. A strike set too high captures no premium; one set too low caps upside prematurely. Over long periods, the cumulative effect of repeated month-end decisions adds up.
 
 ## Who holds XBTY and for what purpose
 
@@ -55,7 +55,7 @@ Institutional investors and advisors use XBTY because it offers systematic incom
 
 ## Historical context and the options premium environment
 
-The sustainability of XBTY's income relies partly on the option premiums available at any given time. In periods of low Bitcoin volatility, option premiums shrink — sellers of calls demand less compensation when the underlying asset is stable, so the fund's monthly income falls. Conversely, in volatile markets, premiums expand, and the fund's yield rises. This counter-cyclical relationship means XBTY's income is highest when Bitcoin is turbulent and lowest when it is calm.
+The sustainability of XBTY's income relies partly on the option premiums available at any given time. In periods of low Bitcoin [volatility, option](/volatility-option/) premiums shrink — sellers of calls demand less compensation when the underlying asset is stable, so the fund's monthly income falls. Conversely, in volatile markets, premiums expand, and the fund's yield rises. This counter-cyclical relationship means XBTY's income is highest when Bitcoin is turbulent and lowest when it is calm.
 
 Since inception, the fund has operated in an environment shaped by Bitcoin's evolution from speculative asset to institutional holding. As more money entered Bitcoin, volatility (measured as annualized price swings) moderated, which affected option pricing across the board. The fund's yield reflects those market realities; it is not a fixed income stream but one tied to option-market conditions.
 

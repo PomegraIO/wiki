@@ -27,7 +27,7 @@ handwritten: true
 
 ## A cyclical business grounded in housing and infrastructure
 
-Owens Corning rides the construction cycle. The core insulation and roofing businesses depend on new home construction, renovations, and repair activity. When housing starts climb, demand for insulation and shingles rises with them. When the cycle turns, these segments contract. The composites division adds some [diversification](/diversification/)—it serves wind energy, industrial pipes, transportation, and aerospace—but the company remains fundamentally tied to construction activity and economic confidence.
+Owens Corning rides the construction cycle. The core insulation and roofing businesses depend on new home construction, renovations, and repair activity. When [housing starts](/housing-starts/) climb, demand for insulation and shingles rises with them. When the cycle turns, these segments contract. The composites division adds some [diversification](/diversification/)—it serves wind energy, industrial pipes, transportation, and aerospace—but the company remains fundamentally tied to construction activity and economic confidence.
 
 The company maintains three operating segments: Roofing, Insulation, and Composites. Roofing generates roughly one-third of revenue and centers on asphalt shingles, which are commoditized by appearance and performance ratings. Insulation, another large segment, is built on fiberglass batts and blown-in products widely used in residential framing and commercial buildings. Composites, the smallest segment by revenue, produces fiberglass-reinforced materials and is the most exposed to industrial capital spending and energy transition trends (especially wind).
 

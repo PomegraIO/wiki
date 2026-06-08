@@ -33,7 +33,7 @@ This means K2's financial statements read differently than a revenue-generating 
 
 K2's value lies entirely in its mineral rights and the quality of its exploration work. Understanding which properties it controls and in what jurisdictions is essential before consulting the financials. Canadian provinces—British Columbia, Ontario, Quebec, Alberta—each have different permitting timelines and environmental standards. Properties may be owned outright, held under option agreements (meaning K2 must spend defined sums to earn ownership), or joint-ventured with larger partners who fund exploration in exchange for equity or a royalty.
 
-A reader reviewing K2's latest filings should map the company's acreage against its cash position and annual burn rate. If K2 holds 100,000 acres but has only 18 months of cash runway, the timeline for any property to reach a bankable feasibility study becomes critical. Conversely, if a property is optioned and the optionee (typically a mid-cap miner) is funding all exploration, K2's dilution risk shifts: it retains upside through carried interest, but it cedes operational control.
+A reader reviewing K2's latest filings should map the company's acreage against its cash position and annual burn rate. If K2 holds 100,000 acres but has only 18 months of cash runway, the timeline for any property to reach a bankable feasibility study becomes critical. Conversely, if a property is optioned and the optionee (typically a mid-cap miner) is funding all exploration, K2's dilution risk shifts: it retains upside through [carried interest](/carried-interest-compensation/), but it cedes operational control.
 
 ## Cash Flow and Capital Runway
 

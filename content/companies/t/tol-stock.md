@@ -59,10 +59,10 @@ Finally, Toll Brothers, like other large homebuilders, faces exposure to labor c
 
 ## How would an investor track the health of this business?
 
-Any investor or analyst studying Toll Brothers would begin with the company's quarterly and annual SEC filings, particularly the 10-K. The filings break out backlog — homes already sold but not yet completed, a leading indicator of future revenue — and homes under contract, which signal demand trends. The company reports average home price per home closed, a simple but important metric that shows whether the company is selling homes at higher or lower prices in the current market.
+Any investor or analyst studying Toll Brothers would begin with the company's quarterly and annual SEC filings, particularly the 10-K. The filings break out backlog — homes already sold but not yet completed, a [leading indicator](/leading-indicator/) of future revenue — and homes under contract, which signal demand trends. The company reports average home price per home closed, a simple but important metric that shows whether the company is selling homes at higher or lower prices in the current market.
 
 Gross margins per unit and overall gross margin are worth tracking, as they reveal pricing power and cost control. Operating margin shows how efficiently the company converts home sales into operating profit. The mortgage origination or origination-related revenue, if any, is a secondary source worth noting.
 
 Key metrics to watch include the company's land balance — both the amount owned and the amount under option or contract — and the pace at which it is purchasing new land. A sudden slowdown in land purchases may signal management's concern about near-term demand. Conversely, aggressive land purchases suggest confidence.
 
-For the broader context, investors would want to track mortgage rates, housing starts and permits, housing inventory levels, and employment data — all of which shape the demand for new homes. Toll Brothers' performance is not independent of the macro housing cycle; understanding the cycle is essential to understanding the company's prospects.
+For the broader context, investors would want to track mortgage rates, [housing starts](/housing-starts/) and permits, housing inventory levels, and employment data — all of which shape the demand for new homes. Toll Brothers' performance is not independent of the macro housing cycle; understanding the cycle is essential to understanding the company's prospects.

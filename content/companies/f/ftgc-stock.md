@@ -35,7 +35,7 @@ The underlying commodity sectors typically include an energy component (oil and 
 
 Commodities are fundamentally different from stocks or [bonds](/bond/). Prices are driven by supply and demand balances that shift based on harvest cycles, production disruptions, geopolitical shocks, and global economic growth. Because energy, metals, and agriculture do not move in lockstep, owning exposure to multiple commodity sectors can diversify a portfolio — when oil rises but grains fall, owning both hedges the overall risk.
 
-The tactical rotation layer is the fund sponsor's bet that they can improve results by shifting into the sectors showing the strongest momentum. This is a hypothesis that has worked in some periods and failed in others. During a commodity supercycle, rotating into rising sectors captures gains. During a prolonged commodity [bear market](/bear-market/), even the best-performing commodity sector may still lose money, and the rotation merely shifts losses between one bad sector and another.
+The tactical rotation layer is the fund sponsor's bet that they can improve results by shifting into the sectors showing the strongest momentum. This is a hypothesis that has worked in some periods and failed in others. During a [commodity supercycle](/commodity-supercycle/), rotating into rising sectors captures gains. During a prolonged commodity [bear market](/bear-market/), even the best-performing commodity sector may still lose money, and the rotation merely shifts losses between one bad sector and another.
 
 ## Costs and structure
 

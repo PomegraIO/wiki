@@ -56,6 +56,6 @@ The fund is not appropriate for short-term traders or for investors uncomfortabl
 
 Start by reading the [fund prospectus](/fund-prospectus/) to understand the exact universe it follows. Look up the current top holdings and their size. Compare COPP's holdings against competitors like Global X Copper Miners ETF (COPX) or iShares Global Clean Energy ETF, which also have significant copper mining exposure.
 
-Watch the price of copper itself — it trades on the London Metal Exchange and in futures markets. Correlate COPP's returns to copper prices over rolling one-, three-, and five-year periods. If the correlation is loose, the fund is offering something other than pure copper exposure (perhaps a particular mine-development thesis).
+Watch the price of copper itself — it trades on the [London Metal Exchange](/london-metal-exchange/) and in futures markets. Correlate COPP's returns to copper prices over rolling one-, three-, and five-year periods. If the correlation is loose, the fund is offering something other than pure copper exposure (perhaps a particular mine-development thesis).
 
 Finally, read earnings reports and investor presentations from a few of the fund's largest holdings. Major mining producers publish extensive quarterly results and hold investor calls. Listening to a few of those calls will teach you what management is focused on: cost [inflation](/inflation/), permitting delays, ore grades, or expansion plans.

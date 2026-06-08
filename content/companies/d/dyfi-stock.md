@@ -26,7 +26,7 @@ Turnover naturally fluctuates with market conditions. Periods of stable spreads 
 
 DYFI appeals to an investor who wants fixed-income exposure but is skeptical of the static "buy and hold a [bond ladder](/bond-ladder/)" approach or intimidated by the complexity of managing credit risk actively. The rules-based framing offers transparency and consistency: you always know what signals are driving the portfolio, and you can backtest the logic yourself if you choose.
 
-The [expense ratio](/expense-ratio/) is moderate to low compared to actively managed bond funds (which carry higher fees) but higher than a passive bond index ETF, reflecting the added cost of frequent rebalancing and the maintenance of the underlying index. For most bond investors, the fees are economically defensible only if the dynamic rebalancing adds value over time — an empirical question that varies across market cycles.
+The [expense ratio](/expense-ratio/) is moderate to low compared to actively managed bond funds (which carry higher fees) but higher than a passive bond index ETF, reflecting the added cost of frequent rebalancing and the maintenance of the underlying index. For most bond investors, the fees are economically defensible only if the dynamic rebalancing adds value over time — an empirical question that varies across [market cycles](/market-cycle/).
 
 Liquidity is generally adequate. DYFI trades on a major exchange with daily volume; spreads are tight enough for most institutional and individual investors.
 

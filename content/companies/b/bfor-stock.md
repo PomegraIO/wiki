@@ -39,7 +39,7 @@ The cost of this active curation is built into the fund's [expense ratio](/expen
 
 BFOR offers exposure to U.S. companies outside the mega-cap universe without requiring investors to pick individual stocks or evaluate thousands of candidates. For an investor who lacks the time or expertise for stock picking but trusts Barron's research tradition, the fund provides a shortcut: let professionals whose reputations depend on accuracy do the work.
 
-The mid-cap focus makes the fund more volatile than a large-cap index but potentially more rewarding; smaller companies have more room to grow and are often overlooked by institutional investors who must manage multi-billion-dollar portfolios. However, smaller companies also face greater execution risks, competitive threats, and economic sensitivity. A [recession](/recession/) can hit mid-cap companies harder than blue-chip enterprises.
+The mid-cap focus makes the fund more volatile than a large-cap index but potentially more rewarding; smaller companies have more room to grow and are often overlooked by institutional investors who must manage multi-billion-dollar portfolios. However, smaller companies also face greater [execution risks](/execution-risk/), competitive threats, and economic sensitivity. A [recession](/recession/) can hit mid-cap companies harder than blue-chip enterprises.
 
 The broad portfolio of 400 holdings means the fund is well-diversified within its category, reducing the [idiosyncratic risk](/idiosyncratic-risk/) that a concentrated portfolio of ten or twenty stocks would face. No single position dominates, which protects against catastrophic loss if any one company falters unexpectedly.
 

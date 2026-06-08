@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The iShares Core 80/20 Aggressive Allocation ETF (ticker: AOA, traded on NYSE Arca) is a single fund designed to hold an entire diversified portfolio in one purchase. Rather than force an investor to choose between individual [index funds](/index-fund/), AOA does the choosing for them — combining US stocks, international stocks, [bonds](/bond/), and real estate in a fixed ratio that tilts heavily toward equities. It is both a beginner's shortcut and a common building block for investors who want to layer additional strategy on top of a stable core.
+The iShares Core 80/20 Aggressive Allocation ETF (ticker: AOA, traded on [NYSE Arca](/nyse-arca/)) is a single fund designed to hold an entire diversified portfolio in one purchase. Rather than force an investor to choose between individual [index funds](/index-fund/), AOA does the choosing for them — combining US stocks, international stocks, [bonds](/bond/), and real estate in a fixed ratio that tilts heavily toward equities. It is both a beginner's shortcut and a common building block for investors who want to layer additional strategy on top of a stable core.
 
 <aside class="wiki-infobox">
 <table>

@@ -35,7 +35,7 @@ Fourth, the reset itself can be unfavorable. If the index crashes sharply and th
 
 ## Cost and tradability
 
-Buffer ETFs typically have [expense ratios](/expense-ratio/) in the range of 0.5 to 0.8 percent annually, higher than a plain-vanilla Nasdaq-100 ETF, because they embed derivative costs. Unlike a traditional ETF that simply buys and holds the underlying stocks, a buffer fund must continually adjust its option position to maintain the protection as time passes and market levels move. These adjustments have transaction costs.
+[Buffer ETFs](/buffer-etf/) typically have [expense ratios](/expense-ratio/) in the range of 0.5 to 0.8 percent annually, higher than a plain-vanilla Nasdaq-100 ETF, because they embed derivative costs. Unlike a traditional ETF that simply buys and holds the underlying stocks, a [buffer fund](/buffer-fund/) must continually adjust its option position to maintain the protection as time passes and market levels move. These adjustments have transaction costs.
 
 The fund trades on an exchange like a normal ETF, with [bid-ask spreads](/bid-ask-spread/). Because it is more specialized, liquidity can be tighter than a megapopular broad-market index fund, but PGIM funds are generally well-supported.
 

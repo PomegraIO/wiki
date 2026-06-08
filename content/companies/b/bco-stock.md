@@ -42,11 +42,11 @@ The 10-K will segment revenue by geography and sometimes by service line. Key br
 
 ## The Vehicle Fleet, Labor, and Operating Leverage
 
-Brinks operates thousands of armored vehicles and employs tens of thousands of drivers, guards, and support personnel. This is a capital-and-labor-intensive business. The 10-K's [balance sheet](/balance-sheet/) will show property, plant, and equipment (largely vehicles) and [accumulated depreciation](/accumulated-depreciation/). A key metric is the age of the fleet and CapEx trends: is Brinks investing heavily in new vehicles to replace older ones, or is the fleet aging?
+Brinks operates thousands of armored vehicles and employs tens of thousands of drivers, guards, and support personnel. This is a capital-and-labor-intensive business. The 10-K's [balance sheet](/balance-sheet/) will show [property, plant, and equipment](/property-plant-equipment/) (largely vehicles) and [accumulated depreciation](/accumulated-depreciation/). A key metric is the age of the fleet and CapEx trends: is Brinks investing heavily in new vehicles to replace older ones, or is the fleet aging?
 
 Aging vehicles imply rising maintenance costs and safety risks (critical for armored transport). Heavy CapEx suggests management believes in the business and is investing for growth or replacement. Flat or declining CapEx suggests the company is harvesting cash rather than investing, a signal of pessimism about long-term prospects.
 
-Labor costs are Brinks' largest operating expense. The 10-K should disclose headcount trends. If headcount is declining faster than volume, that signals productivity improvements or, conversely, a downsizing in response to demand softness. An analyst should compare Brinks' headcount to its total revenue and armored-car transaction volumes to estimate revenue per employee. If this metric is rising, the company is squeezing productivity; if flat or falling, wage [inflation](/inflation/) may be outpacing pricing power.
+Labor costs are Brinks' largest operating expense. The 10-K should disclose headcount trends. If headcount is declining faster than volume, that signals productivity improvements or, conversely, a downsizing in response to demand softness. An analyst should compare Brinks' headcount to its total revenue and armored-car transaction volumes to estimate [revenue per employee](/revenue-per-employee/). If this metric is rising, the company is squeezing productivity; if flat or falling, wage [inflation](/inflation/) may be outpacing pricing power.
 
 ## Pricing Power and Contract Dynamics
 
@@ -58,9 +58,9 @@ Brinks' ability to raise prices on customers (retailers and banks) determines wh
 
 ## International Operations and Currency Exposure
 
-As Brinks expands internationally, it faces currency exposure. Revenue earned in foreign currencies (euros, pounds, emerging-market currencies) is exposed to FX movements. The 10-K should disclose currency exposure and any hedging policy. A company with significant revenue in volatile currencies (Brazilian real, Mexican peso) faces earnings volatility independent of operational performance.
+As Brinks expands internationally, it faces currency exposure. Revenue earned in foreign currencies (euros, pounds, emerging-market currencies) is exposed to FX movements. The 10-K should disclose currency exposure and any hedging policy. A company with significant revenue in volatile currencies ([Brazilian real](/brazilian-real/), [Mexican peso](/mexian-peso/)) faces earnings volatility independent of operational performance.
 
-Additionally, international operations often require local partnerships, regulatory compliance, and political risk. Brinks should disclose any joint ventures, acquisition integration challenges, or regulatory obstacles. A poorly integrated acquisition or a hostile regulatory environment can turn an acquisition into a value trap.
+Additionally, international operations often require local partnerships, regulatory compliance, and [political risk](/political-risk/). Brinks should disclose any joint ventures, acquisition integration challenges, or regulatory obstacles. A poorly integrated acquisition or a hostile regulatory environment can turn an acquisition into a value trap.
 
 ## Secular Headwinds and the Long-Term Thesis
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Stewart Information Services is the second-largest title insurance company in the United States, competing with [Fidelity National Information Services](/fis-stock/) in a duopoly that controls roughly 80% of the title insurance market. The company underwrites policies that protect home buyers and lenders against defects in property ownership — claims to the title arising from unpaid liens, forged documents, undisclosed heirs, or boundary disputes. Stewart earns its revenue when a property transaction closes: the title underwriter collects a premium, usually a percentage of the sale price or loan amount, in exchange for the promise to defend and indemnify the parties against future title claims.
+Stewart Information Services is the second-largest [title insurance](/title-insurance/) company in the United States, competing with [Fidelity National Information Services](/fis-stock/) in a duopoly that controls roughly 80% of the title insurance market. The company underwrites policies that protect home buyers and lenders against defects in property ownership — claims to the title arising from unpaid liens, forged documents, undisclosed heirs, or boundary disputes. Stewart earns its revenue when a property transaction closes: the title underwriter collects a premium, usually a percentage of the sale price or loan amount, in exchange for the promise to defend and indemnify the parties against future title claims.
 
 <aside class="wiki-infobox">
 <table>

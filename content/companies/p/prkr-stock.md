@@ -33,7 +33,7 @@ That commercial dream did not materialise at scale. ParkerVision never became a 
 
 ## How it makes money now
 
-ParkerVision's revenue comes almost entirely from two sources: licensing deals struck with alleged infringers as litigation is filed or settled, and the occasional settlement or judgment. The company has maintained ongoing patent enforcement actions in various US federal courts against major targets including smartphone manufacturers, WiFi product suppliers, and semiconductor makers. These cases can take years to resolve, and the outcome is uncertain — patent validity and infringement claims both face genuine legal risk.
+ParkerVision's revenue comes almost entirely from two sources: licensing deals struck with alleged infringers as litigation is filed or settled, and the occasional settlement or judgment. The company has maintained ongoing patent enforcement actions in various US federal courts against major targets including smartphone manufacturers, WiFi product suppliers, and semiconductor makers. These cases can take years to resolve, and the outcome is uncertain — patent validity and infringement claims both face genuine [legal risk](/legal-risk/).
 
 The company holds no conventional customer base, maintains minimal product development, and has no recurring revenue stream. Operating costs are largely legal fees. Cash flow is lumpy and unpredictable, tied entirely to the timing and outcome of litigation. This structure means ParkerVision is vulnerable to setbacks: a patent invalidated in court or a settlement that fails to materialize can leave the company with no near-term cash.
 

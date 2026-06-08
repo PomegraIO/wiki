@@ -55,7 +55,7 @@ That shift reflects a maturing real estate market where the easy arbitrage — b
 
 ## Understanding National Healthcare Properties as an investment
 
-Investors researching National Healthcare Properties should begin with the company's quarterly and annual filings (SEC CIK 0001561032), which detail the property portfolio by geography and by tenant, the weighted-average lease maturity (the number of years before the leases expire), and the occupancy rate. The company also reports funds from operations (FFO) and adjusted funds from operations (AFFO), the metrics REITs use to measure distributable cash flow.
+Investors researching National Healthcare Properties should begin with the company's quarterly and annual filings (SEC CIK 0001561032), which detail the property portfolio by geography and by tenant, the weighted-average lease maturity (the number of years before the leases expire), and the occupancy rate. The company also reports [funds from operations](/funds-from-operations/) (FFO) and [adjusted funds from operations](/adjusted-funds-from-operations/) (AFFO), the metrics REITs use to measure distributable cash flow.
 
 Key metrics to watch are the occupancy rate, the percentage of leases expiring each year (lease expiration profile), and the company's ability to retain tenants at renewal or to re-lease vacant space at market rates. A reader trying to assess the sustainability of National Healthcare Properties' dividend should examine the company's AFFO [payout ratio](/payout-ratio/) (the dividend as a percentage of cash flow available for distribution) and the company's debt levels relative to the value of its properties.
 

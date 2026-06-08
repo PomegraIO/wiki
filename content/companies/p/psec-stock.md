@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Prospect Capital Corporation is a [business development company](/business-development-company/), or BDC — a specialized investment vehicle regulated under the Investment Company Act and the Small Business Investment Company Act. The company's mission is to invest in and provide capital to small and middle-market enterprises, typically those with revenues between roughly 25 million and 500 million dollars. Prospect deploys that capital as debt (senior loans, subordinated notes, mezzanine financing) and as equity stakes, earning interest on the debt, origination fees on the deals, and potential equity upside if portfolio companies grow or are sold. The company is required by law to distribute at least 90 percent of its earnings to shareholders as [dividends](/dividend/), making it a yield-focused investment vehicle.
+Prospect Capital Corporation is a [business development company](/business-development-company/), or BDC — a specialized investment vehicle regulated under the Investment Company Act and the Small Business Investment Company Act. The company's mission is to invest in and provide capital to small and middle-market enterprises, typically those with revenues between roughly 25 million and 500 million dollars. Prospect deploys that capital as debt (senior loans, subordinated notes, [mezzanine financing](/mezzanine-financing/)) and as equity stakes, earning interest on the debt, origination fees on the deals, and potential equity upside if portfolio companies grow or are sold. The company is required by law to distribute at least 90 percent of its earnings to shareholders as [dividends](/dividend/), making it a yield-focused investment vehicle.
 
 <aside class="wiki-infobox">
 <table>
@@ -47,7 +47,7 @@ The investment process relies on proprietary analysis and deal sourcing, often w
 
 Prospect competes with dozens of other BDCs, each managing different-sized portfolios and pursuing different niches within the mid-market lending space. Some BDCs are larger ([ares management](/ares-stock/), apollo, blackstone), some are more specialized (focused on healthcare, tech, or buyout lending), and some are more conservative in their leverage and underwriting. The competitive pressure comes both from other BDCs and from traditional private-equity and private-debt firms that have raised larger pools of capital and can be more selective about deals.
 
-The BDC structure itself creates a commoditized feel to the industry — many BDCs operate similarly, hold comparable leverage levels, and offer comparable yields, which can lead to overcrowding in periods when capital is abundant and underperformance when credit conditions tighten. Prospect's differentiation, to the extent it has one, lies in its deal sourcing, its underwriting discipline, and its ability to weather stress without slashing the dividend — though that last claim is tested every credit cycle.
+The BDC structure itself creates a commoditized feel to the industry — many BDCs operate similarly, hold comparable leverage levels, and offer comparable yields, which can lead to overcrowding in periods when capital is abundant and underperformance when credit conditions tighten. Prospect's differentiation, to the extent it has one, lies in its deal sourcing, its underwriting discipline, and its ability to weather stress without slashing the dividend — though that last claim is tested every [credit cycle](/credit-cycle/).
 
 ## Distribution policy and leverage dynamics
 

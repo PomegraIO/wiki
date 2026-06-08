@@ -18,7 +18,7 @@ The Reel Guard is the company's principal intellectual property — a protective
 
 ## Financial Reality
 
-The company's scale is difficult to overstate. For the fiscal year ended September 30, 2025, Outdoor Specialty Products generated total revenue of just $306, an increase from $163 in the prior year — a trivial sum that reflects either minimal sales or perhaps test transactions rather than a functioning business. Against this, the company reported a net loss of $48,529 for the period.
+The company's scale is difficult to overstate. For the [fiscal year](/fiscal-year-definition/) ended September 30, 2025, Outdoor Specialty Products generated total revenue of just $306, an increase from $163 in the prior year — a trivial sum that reflects either minimal sales or perhaps test transactions rather than a functioning business. Against this, the company reported a net loss of $48,529 for the period.
 
 The [balance sheet](/balance-sheet/) reveals the precarious position. Current assets stood at only $11,572, largely cash of $6,121. Current liabilities totalled $209,859, including $194,292 in advances from related parties at a 3.5% [interest rate](/interest-rate/). The company is deeply technically insolvent, with a working capital deficit of roughly $198,287. The firm survives on related-party credit from shareholders or insiders, a structure that cannot persist indefinitely without either significant capital infusion or dramatic revenue growth.
 

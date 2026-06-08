@@ -41,7 +41,7 @@ Freddie Mac's profitability is sensitive to interest rates, housing prices, and 
 
 Since then, Freddie Mac has rebuilt capital and returned to profitability. However, the company remains sensitive to the housing cycle. A sustained rise in unemployment, a sharp drop in home prices, or widening defaults could meaningfully impair earnings. Conversely, a stable economy with low unemployment and rising home prices is a tailwind — people pay their mortgages and home equity limits defaults.
 
-Freddie Mac's capital requirements are set by its regulator, the Federal Housing Finance Agency (FHFA), which also sets the company's [dividend](/dividend/) policy. Unlike a typical corporation, Freddie Mac cannot freely decide how much cash to return to shareholders; the regulator determines what capital level is prudent given the risk profile.
+Freddie Mac's capital requirements are set by its regulator, the [Federal Housing Finance Agency](/federal-housing-finance-agency/) (FHFA), which also sets the company's [dividend](/dividend/) policy. Unlike a typical corporation, Freddie Mac cannot freely decide how much cash to return to shareholders; the regulator determines what capital level is prudent given the risk profile.
 
 ## Government support and ambiguity
 

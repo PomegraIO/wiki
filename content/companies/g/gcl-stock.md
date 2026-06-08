@@ -35,7 +35,7 @@ The business is anchored by an established regional distribution infrastructure.
 
 ## Revenue Concentration and Market Position
 
-A material proportion of GCL's revenue concentrates among a small number of customers—the top four account for more than half of total revenue. This is common in distribution but creates execution risk: loss of a major retailer or publisher relationship would materially impact near-term results. However, such concentration also reflects GCL's role as a preferred regional distributor, trusted enough to be a primary channel for large-scale game releases in its territories.
+A material proportion of GCL's revenue concentrates among a small number of customers—the top four account for more than half of total revenue. This is common in distribution but creates [execution risk](/execution-risk/): loss of a major retailer or publisher relationship would materially impact near-term results. However, such concentration also reflects GCL's role as a preferred regional distributor, trusted enough to be a primary channel for large-scale game releases in its territories.
 
 The company's geographic reach spans seven countries, primarily in Asia-Pacific and extending into Europe and the Americas. This regional spread, though modest compared to global distributors, gives GCL differentiation in emerging and [secondary markets](/secondary-market/) where localized distribution partners can outcompete larger generalists.
 

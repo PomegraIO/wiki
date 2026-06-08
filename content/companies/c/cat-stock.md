@@ -87,7 +87,7 @@ Foreign exchange is a secondary but meaningful driver. Caterpillar earns signifi
 
 Caterpillar files a [10-K](/wiki/10-k/) annually with the SEC (CIK 18230), which details segment revenue, margins, geographic exposure, and risks. The 10-K is the best starting point for understanding the business and recent performance.
 
-Key metrics to track include construction and mining equipment order backlogs (a leading indicator of revenue strength), parts and service revenue growth (a more stable, higher-margin contributor), and dealer inventory levels (a sign of health in the distribution channel). Management commentary on pricing power, wage [inflation](/inflation/), and raw material costs indicates near-term margin direction.
+Key metrics to track include construction and mining equipment order backlogs (a [leading indicator](/leading-indicator/) of revenue strength), parts and service revenue growth (a more stable, higher-margin contributor), and dealer inventory levels (a sign of health in the distribution channel). Management commentary on pricing power, wage [inflation](/inflation/), and raw material costs indicates near-term margin direction.
 
 Industry data on construction spending from the U.S. Census Bureau, global mining capex forecasts, and commodity prices (especially copper, coal, and oil) provide context for Caterpillar's demand environment. The company typically reports quarterly, and analysts focus on gross margin, equipment backlog, and guidance for the coming year.
 

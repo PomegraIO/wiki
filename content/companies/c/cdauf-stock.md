@@ -28,7 +28,7 @@ In January 2026, Compass Digital announced an agreement to merge with Key Mining
 
 ## What risks do investors in a pre-merger SPAC face?
 
-Before a merger closes, investors in a SPAC own shares in an entity with no operating business and minimal assets beyond the capital raised in the initial offering. The principal risks include dilution if the sponsor retains significant ownership after the merger, mismanagement or overpayment for the target company, and the possibility that the merger terms prove unfavourable once business realities become clear. SPACs also face the risk that target negotiations fail and capital is returned at a loss after fees and expenses. Additionally, the transition from SPAC to operating company often involves significant changes in leadership, strategy, and capital allocation, creating execution risk for shareholders.
+Before a merger closes, investors in a SPAC own shares in an entity with no operating business and minimal assets beyond the capital raised in the initial offering. The principal risks include dilution if the sponsor retains significant ownership after the merger, mismanagement or overpayment for the target company, and the possibility that the merger terms prove unfavourable once business realities become clear. SPACs also face the risk that target negotiations fail and capital is returned at a loss after fees and expenses. Additionally, the transition from SPAC to operating company often involves significant changes in leadership, strategy, and capital allocation, creating [execution risk](/execution-risk/) for shareholders.
 
 ## Why would a company choose a SPAC route rather than a traditional IPO?
 

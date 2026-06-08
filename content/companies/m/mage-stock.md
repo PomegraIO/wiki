@@ -4,7 +4,7 @@ description: "A precious and industrial metals exploration firm whose asset valu
 keywords: [mining, commodities, exploration, cycles, metals, capital-intensive]
 ---
 
-*Precious metals and base metals exploration companies exist to extract value from the ground and sell it into global commodity markets. **MAGELLAN COPPER & GOLD Corp (MAGE)** is exposed to two simultaneous patterns: the sharp cyclical swings in copper and gold prices tied to global demand, credit cycles, and [inflation](/inflation/) expectations, and the secular structural demand for both metals driven by electrification, renewable energy infrastructure, and jewelry. Whether MAGE creates shareholder value depends critically on whether it can bring mineral reserves into production at the bottom of a commodity cycle and generate cash flow at the top, reinvesting when feasible and returning capital to shareholders when discipline allows.*
+*Precious metals and base metals exploration companies exist to extract value from the ground and sell it into global commodity markets. **MAGELLAN COPPER & GOLD Corp (MAGE)** is exposed to two simultaneous patterns: the sharp cyclical swings in copper and gold prices tied to global demand, [credit cycles](/credit-cycle/), and [inflation](/inflation/) expectations, and the secular structural demand for both metals driven by electrification, renewable energy infrastructure, and jewelry. Whether MAGE creates shareholder value depends critically on whether it can bring mineral reserves into production at the bottom of a commodity cycle and generate cash flow at the top, reinvesting when feasible and returning capital to shareholders when discipline allows.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MAGE</td></tr>

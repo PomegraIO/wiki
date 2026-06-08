@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Freddie Mac](/freddie-mac/). The name summons immediate associations: government backstop, secondary mortgage market, the 2008 crisis. FMCKK is one of the [preferred stock](/preferred-stock/) classes that emerged from the financial wreckage of 2008–2009, when the Federal Housing Finance Agency placed Freddie Mac and [Fannie Mae](/fannie-mae/) into conservatorship—a technical term meaning government takeover.
+[Freddie Mac](/freddie-mac/). The name summons immediate associations: government backstop, secondary mortgage market, the 2008 crisis. FMCKK is one of the [preferred stock](/preferred-stock/) classes that emerged from the financial wreckage of 2008–2009, when the [Federal Housing Finance Agency](/federal-housing-finance-agency/) placed Freddie Mac and [Fannie Mae](/fannie-mae/) into conservatorship—a technical term meaning government takeover.
 
 The ticker is sparse. FMCKK trades over-the-counter, not on [NASDAQ](/nasdaq/) or NYSE. Liquidity is thin. Most financial platforms list it without fanfare. Yet it sits as a claim on one of the largest [balance sheets](/balance-sheet/) in American finance.
 

@@ -51,7 +51,7 @@ Millicom has made significant [acquisitions](/acquisition/) in its history, some
 
 ## Geographic concentration and geopolitical risks
 
-Millicom's markets are concentrated in Central America (Guatemala, El Salvador, Colombia) and East Africa (Tanzania, Chad, Rwanda). This concentration exposes the company to geopolitical, regulatory, and macroeconomic risk. Some of these countries have experienced political instability, currency devaluation, or regulatory interventions that have affected telecom operations. Colombia, the largest market, has been relatively stable but is exposed to commodity prices and consumer spending pressure. African markets have more volatility and higher operating risk, including currency instability and regulatory unpredictability. A serious political or macroeconomic event in any major market could materially affect the company's results.
+Millicom's markets are concentrated in Central America (Guatemala, El Salvador, Colombia) and East Africa (Tanzania, Chad, Rwanda). This concentration exposes the company to geopolitical, regulatory, and macroeconomic risk. Some of these countries have experienced political instability, [currency devaluation](/currency-devaluation/), or regulatory interventions that have affected telecom operations. Colombia, the largest market, has been relatively stable but is exposed to commodity prices and consumer spending pressure. African markets have more volatility and higher operating risk, including currency instability and regulatory unpredictability. A serious political or macroeconomic event in any major market could materially affect the company's results.
 
 ## How to research Millicom
 

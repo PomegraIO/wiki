@@ -30,7 +30,7 @@ Less-lethal munitions is a crowded space: Taser (now Axon), FN Herstal, and othe
 
 Tactical digitization is where real strategic value lies. Armed forces worldwide are investing heavily in network-centric warfare — linking disparate sensors and shooters through digital command nets. The standard is NATO-aligned systems based on the Variable Message Format (VMF) and military data links. DEFSEC's TAK/ATAK solutions claim compatibility and ease of integration. But competition includes both NATO allies' home-grown systems and other startups attacking the same problem.
 
-**Execution risk.** Small defence contractors live and die on contract wins and successful program execution. DEFSEC has announced wins (U.S. Army testing, Canadian government services expansion) but must deliver on them reliably. One major program delay or failure can crater investor confidence.
+**[Execution risk](/execution-risk/).** Small defence contractors live and die on contract wins and successful program execution. DEFSEC has announced wins (U.S. Army testing, Canadian government services expansion) but must deliver on them reliably. One major program delay or failure can crater investor confidence.
 
 Government procurement is glacial. A test at Army Yuma is not a contract; it is a validation step. Converting test interest into actual procurement orders — purchase orders, production contracts, foreign military sales — takes time, political backing, and consistent technical performance.
 

@@ -62,6 +62,6 @@ A secondary risk is competition. Corebridge competes in retirement benefits with
 
 ## How to research Corebridge as an investment
 
-The 10-K (SEC CIK 0001889539) breaks down revenue and earnings by segment and explains the investment portfolio and the liabilities backing the insurance products. Pay close attention to the sections on "Risks" and "Critical Accounting Estimates," which discuss interest-rate sensitivity, longevity risk, and the modeling assumptions used to value long-duration liabilities.
+The 10-K (SEC CIK 0001889539) breaks down revenue and earnings by segment and explains the investment portfolio and the liabilities backing the insurance products. Pay close attention to the sections on "Risks" and "Critical [Accounting Estimates](/accounting-estimate/)," which discuss interest-rate sensitivity, longevity risk, and the modeling assumptions used to value long-duration liabilities.
 
 Key metrics to watch include assets under management (growth indicates traction in the retirement and investment segments), the investment yield (the return Corebridge earns on its portfolio), and the combined ratio or loss ratio in the insurance segments (which indicate profitability relative to premiums). Watch quarterly earnings calls for commentary on how interest rates, equity markets, and customer flows are affecting the business. And review the quarterly commentary on capital deployment — how Corebridge is using its [free cash flow](/free-cash-flow/) to support growth, pay [dividends](/dividend/), or repurchase shares.

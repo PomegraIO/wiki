@@ -59,7 +59,7 @@ Study SUPA's SEC filings under CIK 0001624985 for:
 
 - **Boumarang disclosure**: Search all filings for details on Boumarang's business, management, financial performance, and ownership structure. Public documents or investor presentations from Boumarang itself would help assess whether the investment has value.
 - **Management background**: Who are the founders and directors? What is their history in food tech, venture capital, or business development? A strong track record is essential for a shell company.
-- **Insider funding and terms**: Review notes payable and related-party advance disclosures. Are insiders providing loans or equity? At what rates and terms? Is there a renewal date, or do insiders have exit rights?
+- **Insider funding and terms**: Review [notes payable](/notes-payable/) and related-party advance disclosures. Are insiders providing loans or equity? At what rates and terms? Is there a renewal date, or do insiders have exit rights?
 - **Merger/acquisition discussion**: Watch for 8-K filings announcing material events, negotiations, or transaction updates. A shell company's story is entirely about the next transaction.
 - **Burn rate and cash runway**: Calculate monthly cash burn from operating expenses and estimate months of runway. Track this quarterly.
 - **Stock price and trading volume**: Low volume and volatile pricing are typical for shell companies; unusually high volume may signal news or insider trading.

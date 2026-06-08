@@ -48,7 +48,7 @@ SWP trades as an ETF, meaning daily liquidity at market prices throughout the tr
 
 SWP suits investors who want a diversified portfolio of growth-oriented dividend stocks without having to research individual names, and who are comfortable with the trade-off of higher current income in exchange for somewhat capped upside if the market rallies sharply. It is appropriate for income-focused investors who still want some capital appreciation and who value professional stock selection over pure indexing.
 
-It is less suitable for those seeking maximum capital appreciation, for investors who want to hold indefinitely without option assignment risk, or for those who dislike the complexity of covered-call mechanics.
+It is less suitable for those seeking maximum capital appreciation, for investors who want to hold indefinitely without [option assignment risk](/option-assignment-risk/), or for those who dislike the complexity of covered-call mechanics.
 
 ## How to research SWP
 

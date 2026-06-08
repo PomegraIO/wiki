@@ -18,7 +18,7 @@ keywords: ["medical devices", "automation", "healthcare technology", "manufactur
 
 Dalrada describes itself in the 10-K as an aggregator of technology businesses. The company does not develop all products in-house but rather acquires or partners with smaller firms that develop specific solutions—often medical devices, point-of-care diagnostics, or industrial automation tools—then integrates them under the Dalrada umbrella for marketing, distribution, and operational support.
 
-This holding-company structure creates reporting complexity. The 10-K must break revenue and operating results by segment or business unit, allowing investors to see which subsidiaries or product lines are growing and which are struggling. Reading Dalrada requires disaggregating the portfolio: which products are actually generating revenue today, and which remain in development or pilot phases? The MD&A (Management Discussion and Analysis) section should detail revenue growth by segment and discuss whether the portfolio is consolidating around winners or spreading across many small, struggling projects.
+This holding-company structure creates reporting complexity. The 10-K must break revenue and operating results by segment or business unit, allowing investors to see which subsidiaries or product lines are growing and which are struggling. Reading Dalrada requires disaggregating the portfolio: which products are actually generating revenue today, and which remain in development or pilot phases? The MD&A ([Management Discussion and Analysis](/management-discussion-and-analysis/)) section should detail revenue growth by segment and discuss whether the portfolio is consolidating around winners or spreading across many small, struggling projects.
 
 ## Medical Device and Diagnostic Positioning
 
@@ -36,7 +36,7 @@ This segment is particularly sensitive to manufacturing cycle and capex spending
 
 A company with a diverse portfolio of products at different development stages creates accounting and disclosure complexity. Some products may generate recurring license or service revenue; others may be project-based. Some may be sold directly; others through distributors or partners. The 10-K's revenue-recognition policy should explain how the company accounts for each revenue stream.
 
-Investors should also track deferred revenue and backlog. If customers have committed to purchases but not yet received products, that appears in the [balance sheet](/balance-sheet/) as deferred revenue (a liability, but one that turns into cash). The 10-K should disclose backlog or pipeline opportunities for each segment, giving visibility into future revenue growth.
+Investors should also track [deferred revenue](/deferred-revenue/) and backlog. If customers have committed to purchases but not yet received products, that appears in the [balance sheet](/balance-sheet/) as deferred revenue (a liability, but one that turns into cash). The 10-K should disclose backlog or pipeline opportunities for each segment, giving visibility into future revenue growth.
 
 ## Research and Development Intensity
 

@@ -43,7 +43,7 @@ Capital Group's stock-selection process emphasizes companies with durable compet
 
 ## Volatility and correlation with the broader market
 
-The whole point of CGCV is lower volatility. Standard deviation — the measure of how much a fund's returns bounce around — should be noticeably lower for CGCV than for a broad stock market index. In some markets, this protective quality will show up as smaller losses during downturns. In others, it will show up as smaller gains in strong upturns. Over a full market cycle, a conservative equity fund should have delivered a smoother ride.
+The whole point of CGCV is lower volatility. Standard deviation — the measure of how much a fund's returns bounce around — should be noticeably lower for CGCV than for a broad stock market index. In some markets, this protective quality will show up as smaller losses during downturns. In others, it will show up as smaller gains in strong upturns. Over a full [market cycle](/market-cycle/), a conservative equity fund should have delivered a smoother ride.
 
 The fund is still correlated with the overall stock market, so it will not escape a major [bear market](/bear-market/) entirely. But because it holds stocks that are less volatile — large companies in stable sectors rather than small speculative names — it should decline less sharply in a selloff.
 

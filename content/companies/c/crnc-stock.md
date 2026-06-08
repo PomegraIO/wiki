@@ -55,7 +55,7 @@ Software licensing businesses, once the initial development and market developme
 
 Cerence's largest risk is concentration: its revenue is likely concentrated among a handful of large OEM customers. If even one major customer reduces orders or switches to a competitor, revenue could drop sharply. The company likely discloses its top customers in its [10-K](/10-k/) filings; investors should review that disclosure to assess [concentration risk](/concentration-risk/).
 
-Additionally, Cerence is exposed to technology risk: if open-source or proprietary competitors develop equally capable voice and NLU systems at lower cost, the company's pricing power and margins could erode. The pace of AI advancement is rapid, and it is plausible that a well-funded AI company or a larger tech company could displace Cerence within a few years if the company fails to innovate.
+Additionally, Cerence is exposed to [technology risk](/technology-risk/): if open-source or proprietary competitors develop equally capable voice and NLU systems at lower cost, the company's pricing power and margins could erode. The pace of AI advancement is rapid, and it is plausible that a well-funded AI company or a larger tech company could displace Cerence within a few years if the company fails to innovate.
 
 Finally, Cerence's success is tied to the success and spending patterns of automakers. If OEM profitability declines or if automakers decide that voice interfaces are not worth the cost to implement or support, demand for Cerence's platform could fall. The company has limited control over these macro trends.
 

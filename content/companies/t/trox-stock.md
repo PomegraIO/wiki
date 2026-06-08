@@ -62,7 +62,7 @@ The company's fortunes are also sensitive to energy prices (production is energy
 
 ## Watching the Business
 
-Investors tracking Tronox should focus on a few indicators. TiO2 pricing in global markets (set by exchanges or industry pricing services) is a leading indicator of Tronox's pricing power. Coatings industry order books and manufacturing activity are leading indicators of demand. The company's cost position relative to peers matters: if Tronox is producing TiO2 at a materially higher cost than competitors, margin pressure will intensify over time.
+Investors tracking Tronox should focus on a few indicators. TiO2 pricing in global markets (set by exchanges or industry pricing services) is a [leading indicator](/leading-indicator/) of Tronox's pricing power. Coatings industry order books and manufacturing activity are leading indicators of demand. The company's cost position relative to peers matters: if Tronox is producing TiO2 at a materially higher cost than competitors, margin pressure will intensify over time.
 
 The 10-K filing breaks down revenue and margins by segment and by geography, revealing which end markets are weak and where the company has pricing power. The company discloses utilisation rates—a key lever on profitability in a capital-intensive, fixed-cost business. Watch quarterly commentary on feedstock availability and pricing: tight mineral sands markets help integrated producers like Tronox but also raise production costs. Finally, any major M&A activity or asset sales signals management's conviction (or doubt) about the long-term shape of the business.
 

@@ -47,11 +47,11 @@ For a lending business, credit quality is everything. You're not trying to predi
 CNFinance must fund the loans it originates or guarantees. The funding model shapes risk and profitability:
 
 - **Warehouse and securitization**: Does the company hold loans on its own balance sheet, or does it sell them to investors (banks, asset managers)? If it sells, it earns origination fees but avoids [credit risk](/credit-risk/) on the back end.
-- **Credit enhancement**: Does CNFinance guarantee loans or provide credit enhancement to investors? If so, the company retains some credit risk even after selling loans, and provisions for these guarantees are crucial to understand.
+- **[Credit enhancement](/credit-enhancement/)**: Does CNFinance guarantee loans or provide credit enhancement to investors? If so, the company retains some credit risk even after selling loans, and provisions for these guarantees are crucial to understand.
 - **Funding cost**: If the company funds loans by borrowing from banks or issuing [bonds](/bond/), what is its cost of funds? Net interest spread (yield on loans minus funding cost) is the profit pool.
 - **Balance sheet leverage**: How much debt does CNFinance carry? Is leverage rising or stable?
 
-The Notes to Financial Statements will detail securitization arrangements, funding facilities, and credit enhancement obligations. These are load-bearing for understanding risk and return.
+The [Notes to Financial Statements](/notes-to-financial-statements/) will detail securitization arrangements, funding facilities, and credit enhancement obligations. These are load-bearing for understanding risk and return.
 
 ## Platform Metrics and Borrower Concentration
 

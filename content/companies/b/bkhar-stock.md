@@ -35,7 +35,7 @@ Black Hawk has a limited window to identify and announce a merger target. Depend
 
 ## The sponsor track record question
 
-Black Hawk Acquisition Corp. was sponsored by Black Hawk Capital, an investor group. The critical question for shareholders is: what is the sponsors' track record? Have they completed successful acquisitions in the past? Did those acquisitions create value or destroy it? Did the merged companies outperform or underperform expectations? A sponsor with a strong history of identifying good targets and negotiating favorable terms is vastly more credible than a sponsor doing their first SPAC. Until the sponsors' identity and prior wins are clearly documented, due diligence is incomplete.
+Black Hawk Acquisition Corp. was sponsored by Black Hawk Capital, an investor group. The critical question for shareholders is: what is the sponsors' track record? Have they completed successful acquisitions in the past? Did those acquisitions create value or destroy it? Did the merged companies outperform or underperform expectations? A sponsor with a strong history of identifying good targets and negotiating favorable terms is vastly more credible than a sponsor doing their first SPAC. Until the sponsors' identity and prior wins are clearly documented, [due diligence](/due-diligence/) is incomplete.
 
 ## The warrant and capital structure
 

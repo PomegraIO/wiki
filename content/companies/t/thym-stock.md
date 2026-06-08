@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*T. Rowe Price High Income Municipal ETF ([NASDAQ](/nasdaq/): THYM) is an actively managed exchange-traded fund that invests in [municipal bonds](/municipal-bond/)—the debt of states, cities, and their authorities—selected for high tax-exempt yield. The fund targets longer-term, lower-rated [bonds](/bond/), making it suitable for high-income investors who benefit from federal tax exemption on municipal interest.*
+*[T. Rowe Price](/t-rowe-price/) High Income Municipal ETF ([NASDAQ](/nasdaq/): THYM) is an actively managed exchange-traded fund that invests in [municipal bonds](/municipal-bond/)—the debt of states, cities, and their authorities—selected for high tax-exempt yield. The fund targets longer-term, lower-rated [bonds](/bond/), making it suitable for high-income investors who benefit from federal tax exemption on municipal interest.*
 
 <aside class="wiki-infobox">
 <table>
@@ -51,4 +51,4 @@ Municipal issuers face structural pressures: [pension obligations](/pension-obli
 
 THYM is built for high-income, tax-conscious investors who want regular, tax-exempt distributions and are comfortable accepting below-investment-grade credit risk for higher yield. It is poorly suited for tax-deferred accounts (IRAs, 401ks), where the tax exemption is wasted, or for low-income investors who do not benefit from the federal exemption.
 
-Research the fund via T. Rowe Price's prospectus, fact sheets, and yield data. Examine the credit-quality breakdown: what percentage is AAA, A, BBB, below-investment-grade? Study geographic diversification and issuer types (schools, water systems, highways, housing) to ensure you are comfortable. Track realized distributions against advertised yield—if distributions significantly exceed income, the fund is paying capital gains, which has different tax treatment. Review the fund's performance during past credit cycles (2008, 2020, 2024) to understand downside risk. Municipal bond research services like Morningstar MUNI can provide deeper issuer credit analysis if you want to audit the portfolio.
+Research the fund via T. Rowe Price's prospectus, fact sheets, and yield data. Examine the credit-quality breakdown: what percentage is AAA, A, BBB, below-investment-grade? Study geographic diversification and issuer types (schools, water systems, highways, housing) to ensure you are comfortable. Track realized distributions against advertised yield—if distributions significantly exceed income, the fund is paying capital gains, which has different tax treatment. Review the fund's performance during past [credit cycles](/credit-cycle/) (2008, 2020, 2024) to understand downside risk. Municipal bond research services like Morningstar MUNI can provide deeper issuer credit analysis if you want to audit the portfolio.

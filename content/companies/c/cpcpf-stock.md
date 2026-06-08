@@ -43,4 +43,4 @@ Mineral exploration operates within host-country regulatory regimes. In the Amer
 
 ## Context for Investors
 
-CopperCorp shareholders are exposed to pure exploration risk, commodity price risk, and financing risk. The company's stock is speculative, illiquid, and appropriate only for investors with high risk tolerance and a long time horizon. Returns, if they materialize, typically arrive through acquisition or major upside revaluation if a large discovery occurs. Losses are possible and common in mineral exploration.
+CopperCorp shareholders are exposed to pure exploration risk, commodity price risk, and financing risk. The company's stock is speculative, illiquid, and appropriate only for investors with high risk tolerance and a long time [horizon. Returns](/horizon-return/), if they materialize, typically arrive through acquisition or major upside revaluation if a large discovery occurs. Losses are possible and common in mineral exploration.

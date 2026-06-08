@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Viper Energy finds and produces [crude oil](/crude-oil/), [natural gas](/natural-gas/), and natural gas liquids (NGLs) from oil and gas fields in the Permian Basin, one of the most productive petroleum regions in the world. The company owns mineral interests and leasehold positions in Texas and New Mexico, contracts with other operators to develop those interests, and captures the revenue from any oil and gas that is produced. Its shares trade on the [NASDAQ](/nasdaq/) under the ticker VNOM.
+Viper Energy finds and produces [crude oil](/crude-oil/), [natural gas](/natural-gas/), and [natural gas liquids](/natural-gas-liquids/) (NGLs) from oil and gas fields in the Permian Basin, one of the most productive petroleum regions in the world. The company owns mineral interests and leasehold positions in Texas and New Mexico, contracts with other operators to develop those interests, and captures the revenue from any oil and gas that is produced. Its shares trade on the [NASDAQ](/nasdaq/) under the ticker VNOM.
 
 <aside class="wiki-infobox">
 <table>
@@ -70,7 +70,7 @@ The primary risk is **commodity price volatility**. Viper has no control over oi
 
 **Regulatory risk** exists at both federal and state levels. Changes in environmental regulations, taxes on oil and gas production, or restrictions on drilling can affect profitability. States and the federal government have been debating energy policy, and Viper must operate within that shifting regulatory environment.
 
-**Technology risk** is less acute for Viper than for operators, but the company benefits from the operators' continued innovation in drilling and completion techniques.
+**[Technology risk](/technology-risk/)** is less acute for Viper than for operators, but the company benefits from the operators' continued innovation in drilling and completion techniques.
 
 **Valuation and investor sentiment** toward the energy sector is variable. Investors' views on fossil fuels, climate change policy, and the energy transition affect how energy companies are valued. Viper must navigate investor concerns about long-term demand for fossil fuels.
 
@@ -82,6 +82,6 @@ Viper and other oil and gas producers face a long-term structural question: as t
 
 Start with Viper's 10-K filing (SEC CIK 0002074176), which details the company's mineral and leasehold interests, production volumes and revenue by property, and management's assessment of future development. Quarterly reports detail recent production volumes and royalty rates.
 
-Critical metrics: royalty volume (barrels and cubic feet), realized prices (what Viper actually receives for its oil and gas after transportation and quality adjustments), [free cash flow](/free-cash-flow/), and dividend policy. Compare Viper's valuation to other mineral interest and royalty companies and to integrated oil companies. Track energy commodity prices ([WTI crude](/wti-crude/) oil price and natural gas prices) as a leading indicator of cash flow.
+Critical metrics: royalty volume (barrels and cubic feet), realized prices (what Viper actually receives for its oil and gas after transportation and quality adjustments), [free cash flow](/free-cash-flow/), and dividend policy. Compare Viper's valuation to other mineral interest and royalty companies and to integrated oil companies. Track energy commodity prices ([WTI crude](/wti-crude/) oil price and natural gas prices) as a [leading indicator](/leading-indicator/) of cash flow.
 
 Follow regulatory announcements affecting oil and gas production in the Permian, news on drilling activity from major operators working Viper's acreage, and any material changes to Viper's property interests through [acquisition](/acquisition/) or divestment.

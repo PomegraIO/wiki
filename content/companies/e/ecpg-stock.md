@@ -41,7 +41,7 @@ Beyond collection-practice lawsuits, Encore faces regulatory scrutiny. The [Cons
 
 ## Seasonal and Cyclical Dynamics
 
-Consumer defaults cluster in economic downturns and vary seasonally. During [recessions](/recession/), credit defaults spike, increasing Encore's acquisition opportunities but also signaling tighter consumer finances. During strong economic periods, [default rates](/default-rate/) fall and acquisition pricing rises (fewer sellers of distressed pools). Encore's revenue is therefore linked to broader credit cycles. The company's portfolio composition at any moment reflects where in the economic cycle it expects to be 12 to 24 months forward.
+Consumer defaults cluster in economic downturns and vary seasonally. During [recessions](/recession/), credit defaults spike, increasing Encore's acquisition opportunities but also signaling tighter consumer finances. During strong economic periods, [default rates](/default-rate/) fall and acquisition pricing rises (fewer sellers of distressed pools). Encore's revenue is therefore linked to broader [credit cycles](/credit-cycle/). The company's portfolio composition at any moment reflects where in the economic cycle it expects to be 12 to 24 months forward.
 
 Recovery timing also matters operationally. A consumer who settles a debt two years after delinquency generates late cash flow. The company must manage cash balance-sheet effects—it spends cash acquiring portfolios months or years before it recovers that cash from consumers. Negative working-capital operations demand liquidity discipline.
 

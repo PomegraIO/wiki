@@ -45,7 +45,7 @@ The tradeoff is volatility. Emerging-market stocks bounce around more than Ameri
 
 ## The real risks and costs
 
-Emerging markets come with extra risks that developed markets do not have. Governments can change policies suddenly. Currency values can swing dramatically, which matters if FEM's holdings are paid in rupees or Brazilian reals but you spend money in dollars. Some stocks have less trading volume, so it can be harder to buy or sell shares without moving the price. And some countries have lower accounting standards, so it is harder to know exactly what a company's financial statements mean.
+Emerging markets come with extra risks that developed markets do not have. Governments can change policies suddenly. Currency values can swing dramatically, which matters if FEM's holdings are paid in rupees or [Brazilian reals](/brazilian-real/) but you spend money in dollars. Some stocks have less trading volume, so it can be harder to buy or sell shares without moving the price. And some countries have lower accounting standards, so it is harder to know exactly what a company's financial statements mean.
 
 FEM charges a fee (an [expense ratio](/expense-ratio/)) that is slightly higher than a fund tracking a simple index, because the [NASDAQ](/nasdaq/) AlphaDEX methodology requires more work to implement. For most investors, the fee is still quite modest, but it is worth knowing about.
 

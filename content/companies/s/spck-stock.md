@@ -23,7 +23,7 @@ Once a merger is announced, SPCK may hold the SPAC shares if the managers believ
 
 The second pillar is companies raising capital through traditional [initial public offerings](/initial-public-offering/). When a private company lists on a public exchange for the first time via IPO, it enters SPCK's investment universe. The fund may hold IPO shares immediately after listing, or wait to see the post-IPO [price discovery](/price-discovery/) phase unfold before adding to a position.
 
-IPO underpricing and the so-called IPO pop — a rise on the first day of trading followed by a pullback — create tactical opportunities. Some IPOs are issued at valuations that prove too cheap as the market reprices them upward; others are overvalued and fall sharply post-listing. A thematic IPO ETF bet that it can navigate this volatility better than passive alternatives.
+[IPO underpricing](/ipo-underpricing/) and the so-called IPO pop — a rise on the first day of trading followed by a pullback — create tactical opportunities. Some IPOs are issued at valuations that prove too cheap as the market reprices them upward; others are overvalued and fall sharply post-listing. A thematic IPO ETF bet that it can navigate this volatility better than passive alternatives.
 
 ## Newly merged SPAC companies: the post-merger period
 

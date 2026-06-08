@@ -73,7 +73,7 @@ A third risk is brand risk. If a major brand partner (Marriott, Hilton, Hyatt) f
 
 ## What to watch
 
-The firm's 10-K filing (SEC CIK 0001295810) breaks down the portfolio by property, brand, and geographic market, and shows the net operating income contributed by each. Look for trends in funds from operations (FFO), a metric that REIT investors watch instead of GAAP earnings — it measures cash earnings available for dividends. The ratio of FFO to dividend is important; if dividends exceed FFO, the REIT is returning cash raised from asset sales or debt, which is unsustainable long-term.
+The firm's 10-K filing (SEC CIK 0001295810) breaks down the portfolio by property, brand, and geographic market, and shows the net operating income contributed by each. Look for trends in [funds from operations](/funds-from-operations/) (FFO), a metric that REIT investors watch instead of GAAP earnings — it measures cash earnings available for dividends. The ratio of FFO to dividend is important; if dividends exceed FFO, the REIT is returning cash raised from asset sales or debt, which is unsustainable long-term.
 
 Quarterly earnings calls surface commentary on occupancy rates, average daily rates (ADR), and revenue per available room (RevPAR) — all operational metrics that indicate whether hotels are filling and at what rates. Watch for any notes on acquisitions planned, divestitures completed, or changes in brand relationships.
 

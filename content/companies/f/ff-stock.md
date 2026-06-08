@@ -59,7 +59,7 @@ The specialty chemicals segment is less directly policy-dependent but remains cy
 
 Start with the company's [10-K](/wiki/10-k/) filing, which discloses segment revenue, gross margins, and key end-market exposures. Pay particular attention to renewable fuels margins (often disclosed as the spread between finished product prices and feedstock costs) and customer concentration in the specialty chemicals segment. Quarterly earnings calls reveal management's outlook on feedstock costs, crude oil dynamics, and aerospace/industrial demand.
 
-Watch crude oil futures and vegetable oil prices as leading indicators for renewable fuels profitability. Tracking crude-to-renewable-diesel spreads gives a sense of near-term margin trends. For specialty chemicals, monitor industrial production indices and aerospace/defense spending—both correlate with customer demand for metalworking and lubricant additives.
+Watch crude oil futures and vegetable oil prices as [leading indicators](/leading-indicator/) for renewable fuels profitability. Tracking crude-to-renewable-diesel spreads gives a sense of near-term margin trends. For specialty chemicals, monitor industrial production indices and aerospace/defense spending—both correlate with customer demand for metalworking and lubricant additives.
 
 The company's cash flow generation and capital allocation (buybacks, debt reduction, capex for capacity) signal management confidence in the sustainability of current margins and their outlook on the competitive environment.
 

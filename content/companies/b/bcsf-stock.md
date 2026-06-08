@@ -38,7 +38,7 @@ The allowance for credit losses mirrors a bank's reserve—it reflects managemen
 
 BDCs face strict rules: minimum 70% of assets must be in qualifying U.S. businesses, at least 90% of net investment income must be distributed, leverage cannot exceed 1:1 (total debt to equity) for most BDCs, and the company must maintain certain asset coverage ratios. These constraints limit growth and capital retention but protect shareholders from overly aggressive leverage.
 
-BCSF's internal controls (the investment adviser relationship, due diligence process, valuation methodology) are disclosed in detail. The adviser—Bain Capital—is compensated via both a management fee (typically 1–2% of assets) and an incentive fee (a percentage of realized gains above a hurdle rate). Alignment between the BDC and adviser is important; misaligned incentives can lead to value destruction.
+BCSF's internal controls (the investment adviser relationship, [due diligence](/due-diligence/) process, valuation methodology) are disclosed in detail. The adviser—Bain Capital—is compensated via both a management fee (typically 1–2% of assets) and an incentive fee (a percentage of realized gains above a [hurdle rate](/hurdle-rate/)). Alignment between the BDC and adviser is important; misaligned incentives can lead to value destruction.
 
 ## Sponsor Affiliation and Reputation
 

@@ -42,7 +42,7 @@ Allegro has three main revenue streams, and understanding them is key to underst
 
 **Advertising and promotional services.** Sellers want their items to stand out. Allegro offers "sponsored listings"—a seller pays extra to have their item appear higher in search results. The company also sells advertising space to brands and other sellers. This is lucrative because sellers have strong incentive to pay for visibility, and each sale that happens because of advertising means the seller can justify the cost. This revenue stream grew significantly in recent years as Allegro built out its advertising tools.
 
-**Financial services and consumer lending.** Allegro offers buyer lending—when you make a big purchase on the platform, you can finance it through a partnership with lenders. Allegro earns money by connecting buyers and lenders, taking a fee or commission on the loans originated. The company also offers seller financing, helping shop owners manage their cash flow. This segment is newer but high-margin because lending generates interest and fees with very little marginal cost to Allegro once the system is set up.
+**Financial services and consumer lending.** Allegro offers buyer lending—when you make a big purchase on the platform, you can finance it through a partnership with lenders. Allegro earns money by connecting buyers and lenders, taking a fee or commission on the loans originated. The company also offers [seller financing](/seller-financing/), helping shop owners manage their cash flow. This segment is newer but high-margin because lending generates interest and fees with very little marginal cost to Allegro once the system is set up.
 
 ## The regulatory sandbox: operating across borders
 
@@ -72,4 +72,4 @@ For investors, the key research point is Poland's economic outlook and online sh
 
 Monitoring regulatory announcements from Poland and the European Union is essential. New rules on seller fees, consumer protections, or data privacy can change Allegro's cost structure overnight. The company also regularly guides on gross margin trends—this is the key metric to watch for whether Allegro is holding its pricing power against competition and regulation.
 
-Allegro's stock trades on the Warsaw Stock Exchange under ALE, and American investors can access it through the ALEUY [American Depositary Receipt](/adr/) on [over-the-counter markets](/over-the-counter-market/). Either way, the company's fate is tightly bound to Central Europe's economic health and competitive dynamics.
+Allegro's stock trades on the [Warsaw Stock Exchange](/warsaw-stock-exchange/) under ALE, and American investors can access it through the ALEUY [American Depositary Receipt](/adr/) on [over-the-counter markets](/over-the-counter-market/). Either way, the company's fate is tightly bound to Central Europe's economic health and competitive dynamics.

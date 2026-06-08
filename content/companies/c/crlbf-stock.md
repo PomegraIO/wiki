@@ -40,7 +40,7 @@ The [10-K](/10-K/) will disclose capex by category (cultivation facilities, reta
 
 ## State Taxes and Regulatory Costs
 
-Cannabis taxation in states where it is legal is steep—excise taxes often 15–25% of retail price, plus ordinary [corporate income tax](/corporate-income-tax/), plus [sales tax](/sales-tax/). For a company earning 30% gross margins (normal for cannabis retail), a 20% excise tax compresses net margins before corporate taxes to single digits. This creates unusual tax drag that limits cash generation.
+Cannabis taxation in states where it is legal is steep—excise taxes often 15–25% of retail price, plus ordinary [corporate income tax](/corporate-income-tax/), plus [sales tax](/sales-tax/). For a company earning 30% gross margins (normal for cannabis retail), a 20% [excise tax](/excise-tax/) compresses net margins before corporate taxes to single digits. This creates unusual tax drag that limits cash generation.
 
 Additionally, the lack of federal deduction for cost of goods sold (Section 280E, a tax rule for Schedule I substances) means cannabis companies cannot deduct ordinary business expenses against revenue for federal tax purposes—they pay tax on gross rather than net profit. This further compresses after-tax cash flow. A cannabis company that appears to earn 20% [EBITDA margin](/ebitda-margin/) may only retain 5–10% after federal and state taxes.
 

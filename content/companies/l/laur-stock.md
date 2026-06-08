@@ -24,7 +24,7 @@ The company operates through owned and partnered campuses—some directly manage
 
 For-profit higher education is not a global commodity. A business degree in Mexico City carries different market weight, regulatory oversight, and family willingness-to-pay than the same credential in Lima or São Paulo. Laureate's writers emphasized this: the company did not compete on pure enrollment numbers but on being the accessible, recognized private option in each market it claimed. That competitive moat is geographic and cultural, not primarily operational or technological.
 
-This makes Laureate particularly sensitive to regional economic downturns. A [recession](/recession/) in Mexico or Brazil directly suppresses both enrollment (families delay university) and tuition revenue (fewer students apply, and institutions may freeze price increases). Currency fluctuations also hit the company asymmetrically—revenue in Mexican pesos or Brazilian reals translates at varying rates to the [U.S. dollar](/us-dollar/), creating foreign-exchange headwinds that pure domestic operators do not face.
+This makes Laureate particularly sensitive to regional economic downturns. A [recession](/recession/) in Mexico or Brazil directly suppresses both enrollment (families delay university) and tuition revenue (fewer students apply, and institutions may freeze price increases). Currency fluctuations also hit the company asymmetrically—revenue in [Mexican pesos](/mexian-peso/) or [Brazilian reals](/brazilian-real/) translates at varying rates to the [U.S. dollar](/us-dollar/), creating foreign-exchange headwinds that pure domestic operators do not face.
 
 ## The Regulatory Terrain
 
@@ -40,7 +40,7 @@ Expansion into less-developed markets (rural areas, smaller cities) requires dif
 
 ## Capital and Currency Considerations
 
-Laureate's business is fundamentally labor-intensive and capital-light at the margin (incremental students require faculty and facilities, not factories or infrastructure). But maintaining and upgrading campuses across multiple countries requires continuous capital investment, denominated in local currencies and subject to regional economic conditions. A currency crisis in any major operating country reduces the dollar value of cash flows and makes new investment more expensive.
+Laureate's business is fundamentally labor-intensive and capital-light at the margin (incremental students require faculty and facilities, not factories or infrastructure). But maintaining and upgrading campuses across multiple countries requires continuous capital investment, denominated in local currencies and subject to regional economic conditions. A [currency crisis](/currency-crisis/) in any major operating country reduces the dollar value of cash flows and makes new investment more expensive.
 
 The company's debt structure and refinancing needs are thus geographically contingent. If Latin American growth slows, the company's ability to service debt or invest in new markets is constrained. This is unlike a domestic-only education company, where [currency risk](/currency-risk/) is absent and growth is tied to national demographic and economic trends rather than a portfolio of regional conditions.
 

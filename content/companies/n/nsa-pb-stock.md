@@ -49,7 +49,7 @@ The company's debt levels and the principal repayment schedule matter. A highly 
 
 National Storage Affiliates owns facilities spread across the United States, which provides [diversification](/diversification/) against regional [recessions](/recession/) or local supply gluts. However, the company's portfolio will reflect whatever market thesis management has adopted. If management believes strongly that [secondary markets](/secondary-market/) offer better growth than [primary markets](/primary-market/), the portfolio will be weighted accordingly—and if that thesis is wrong, returns suffer.
 
-Unlike net-lease REITs, which depend on individual tenant solvency, self-storage relies on the aggregate demand from thousands of individual renters. A single customer default matters little; what matters is occupancy trends and pricing power across the whole portfolio.
+Unlike [net-lease REITs](/net-lease-reit/), which depend on individual tenant solvency, self-storage relies on the aggregate demand from thousands of individual renters. A single customer default matters little; what matters is occupancy trends and pricing power across the whole portfolio.
 
 ## Comparing NSA preferreds to peers
 

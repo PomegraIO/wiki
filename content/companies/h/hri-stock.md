@@ -21,7 +21,7 @@ HERC's business is fundamentally a play on leverage and asset utilization. The c
 
 ## Debt Structure and Maturity Management
 
-HERC carries senior and junior debt, with multiple [tranches](/tranche/) of [bonds](/bond/) outstanding and revolving credit facilities with a syndicate of lenders. The company manages a laddered debt maturity profile—repaying some debt and rolling over other debt each year—to avoid refinancing all outstanding debt at once in a rising-rate environment. Debt covenants are typical for the equipment-rental industry: maintenance of minimum interest-coverage ratios, maximum [leverage ratios](/leverage-ratio-forex/), and restrictions on asset disposals or changes in control. If HERC's cash flows deteriorate sharply—for instance, in a severe construction downturn—these covenants could become binding, constraining dividends or capital expenditures.
+HERC carries senior and junior debt, with multiple [tranches](/tranche/) of [bonds](/bond/) outstanding and revolving credit facilities with a syndicate of lenders. The company manages a laddered [debt maturity profile](/debt-maturity-profile/)—repaying some debt and rolling over other debt each year—to avoid refinancing all outstanding debt at once in a rising-rate environment. Debt covenants are typical for the equipment-rental industry: maintenance of minimum interest-coverage ratios, maximum [leverage ratios](/leverage-ratio-forex/), and restrictions on asset disposals or changes in control. If HERC's cash flows deteriorate sharply—for instance, in a severe construction downturn—these covenants could become binding, constraining dividends or capital expenditures.
 
 ## Equity Cushion and Credit Ratings
 

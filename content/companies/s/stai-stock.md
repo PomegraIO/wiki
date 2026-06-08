@@ -38,7 +38,7 @@ If ScanTech can move from pilots to production contracts with major airports, th
 
 But the risks are equally material. Airport and border security decisions are slow, risk-averse, and heavily influenced by regulations and budgets. A change in government spending priorities, a loss of key regulatory backing, or a competitor emerging with a superior system could stall ScanTech's growth. The company also faces entrenched competition: legacy security providers like L3Harris and Smiths Detection have existing relationships with airports and border agencies, brand trust, and capital to invest in AI technology. Those incumbents will not cede the market without a fight.
 
-A second risk is product liability. If ScanTech's system misses a real threat and a security incident occurs, the company could face lawsuits, regulatory backlash, and reputational damage that undermines customer confidence. The company's insurance and legal protections are important, but the reputational risk in security applications is severe.
+A second risk is product liability. If ScanTech's system misses a real threat and a security incident occurs, the company could face lawsuits, regulatory backlash, and reputational damage that undermines customer confidence. The company's insurance and legal protections are important, but the [reputational risk](/reputational-risk/) in security applications is severe.
 
 A third pressure is the capital intensity of scaling. Each deployment requires not just software but hardware (CT scanners, computers, networking infrastructure) and on-site training and support. Until the company reaches scale, deploying SENTINEL to each new airport will likely require significant professional services labor from ScanTech, which limits the gross margin and strains the company's [balance sheet](/balance-sheet/).
 
@@ -50,7 +50,7 @@ Track press releases and announcements of new pilot deployments or production co
 
 Watch quarterly earnings calls and SEC filings (CIK 0001994624) for commentary on the sales pipeline, the stage of discussions with major airports, and any signs of customer hesitation or competitive losses. The company's path to profitability depends on revenue acceleration, so track whether guidance is improving and whether the backlog is growing.
 
-Monitor the competitive landscape for announcements from established security vendors (L3Harris, Thales, Smiths Detection) about their own AI or advanced screening initiatives. If incumbents are aggressively moving into AI-powered baggage inspection, it signals that ScanTech's market window may be narrowing unless the company has a clear product advantage.
+Monitor the competitive landscape for announcements from established security vendors (L3Harris, Thales, Smiths Detection) about their own AI or advanced screening initiatives. If incumbents are aggressively moving into AI-powered baggage inspection, it signals that ScanTech's [market window](/market-window/) may be narrowing unless the company has a clear product advantage.
 
 Follow defense and security industry publications for coverage of airport security technology trends and any regulatory shifts that could affect demand for advanced screening systems. Changes to TSA procurement priorities or international aviation security standards could accelerate or decelerate adoption of ScanTech's technology.
 

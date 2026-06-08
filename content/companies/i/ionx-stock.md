@@ -44,7 +44,7 @@ IONX is marketed to active traders. The use case is holding for a few days or we
 
 ## Costs and trading
 
-IONX trades on NYSE ARCA during normal hours with reasonable [bid-ask spreads](/bid-ask-spread/). The fund charges an annual [expense ratio](/expense-ratio/) for derivatives management and administrative costs. The fee accrues daily and erodes returns. The fund does not pay a [dividend](/dividend/).
+IONX trades on [NYSE ARCA](/nyse-arca/) during normal hours with reasonable [bid-ask spreads](/bid-ask-spread/). The fund charges an annual [expense ratio](/expense-ratio/) for derivatives management and administrative costs. The fee accrues daily and erodes returns. The fund does not pay a [dividend](/dividend/).
 
 Derivative positions are marked daily. In volatile markets or stress periods, banks may widen costs, leading to wider spreads. [Authorized participants](/authorized-participant/) arbitrage gaps, keeping price aligned with [net asset value](/net-asset-value/).
 

@@ -49,7 +49,7 @@ The competitive dynamic is shaped by raw material costs (especially crude oil), 
 
 Mitsui's historical strength is in Japan and developed-market Asia. However, Japan's domestic demand is mature and slowly declining; automotive production is shifting to electric vehicles, which consume different materials and are made by new entrants ([Tesla](/tsla-stock/), Chinese EV makers) with supply chain preferences distinct from traditional automakers.
 
-Mitsui's strategic imperative is to rebalance capacity toward growth markets (India, Southeast Asia, Latin America) while harvesting mature-market cash flows. This requires large capital expenditures in new geographies, navigating regulatory and political risk, building local partnerships, and competing against Chinese manufacturers with cheaper cost structures. The company is executing this shift, but it is slow and risky.
+Mitsui's strategic imperative is to rebalance capacity toward growth markets (India, Southeast Asia, Latin America) while harvesting mature-market cash flows. This requires large capital expenditures in new geographies, navigating regulatory and [political risk](/political-risk/), building local partnerships, and competing against Chinese manufacturers with cheaper cost structures. The company is executing this shift, but it is slow and risky.
 
 ## Capital Structure and Returns
 
@@ -61,7 +61,7 @@ Mitsui, as a large, publicly listed Japanese industrial, carries moderate debt a
 
 Consult Mitsui's [10-k](/10-k/) (CIK 1446420) to assess by-segment profitability—which business units are margin-positive and which are cash drains. Compare gross margins by product line to identify where competitive pressure is strongest. Track capital expenditure by geography to understand where management expects future growth. Monitor debt levels and [interest coverage ratios](/interest-coverage-ratio/) to assess financial resilience during downturns.
 
-Benchmark Mitsui's returns and cash flow against BASF and other diversified chemicals peers to calibrate valuation. If Mitsui trades at a discount to peers without corresponding business quality advantage, the discount may reflect investor skepticism about Japanese industrial productivity or execution risk on geographic rebalancing.
+Benchmark Mitsui's returns and cash flow against BASF and other diversified chemicals peers to calibrate valuation. If Mitsui trades at a discount to peers without corresponding business quality advantage, the discount may reflect investor skepticism about Japanese industrial productivity or [execution risk](/execution-risk/) on geographic rebalancing.
 
 ---
 

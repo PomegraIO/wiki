@@ -24,7 +24,7 @@ handwritten: true
 </table>
 </aside>
 
-HG Holdings, Inc. is a microeconomy of U.S. [residential real estate](/residential-real-estate/), packaging together title insurance, escrow services, and advisory work around property transactions. The company was founded in 1924 as a furniture manufacturer, pivoted to title insurance in 2018 after its legacy business became obsolete, and now operates as a specialized player in the real estate transaction ecosystem — profitable but small, with $14.7 million in trailing revenue and a net margin around 10 percent.
+HG Holdings, Inc. is a microeconomy of U.S. [residential real estate](/residential-real-estate/), packaging together [title insurance](/title-insurance/), escrow services, and advisory work around property transactions. The company was founded in 1924 as a furniture manufacturer, pivoted to title insurance in 2018 after its legacy business became obsolete, and now operates as a specialized player in the real estate transaction ecosystem — profitable but small, with $14.7 million in trailing revenue and a net margin around 10 percent.
 
 ## From furniture to title: a second act
 
@@ -50,7 +50,7 @@ Scale is not everything in this business. Title insurance profits depend on unde
 
 The downside of smallness is leverage. HG Holdings' size means it has almost no influence over the broader ecosystem — no negotiating power with real estate [brokers](/broker/), lenders, or technology vendors. A large national title insurer can invest in technology to reduce closing times or offer APIs that lenders and brokers integrate; HG Holdings must work with off-the-shelf or legacy systems and simply execute well at lower volume.
 
-Smallness also means fragility. Title insurance is cyclical, tied to residential mortgage activity and housing transactions. A [recession](/recession/), a credit freeze, or a Fed-induced slowdown in home sales directly compresses HG Holdings' revenue. The company is too small to diversify geographically or into adjacent businesses and too unprofitable to fund major new initiatives. It is structurally dependent on benign macroeconomic conditions.
+Smallness also means fragility. Title insurance is cyclical, tied to residential mortgage activity and housing transactions. A [recession](/recession/), a [credit freeze](/credit-freeze/), or a Fed-induced slowdown in home sales directly compresses HG Holdings' revenue. The company is too small to diversify geographically or into adjacent businesses and too unprofitable to fund major new initiatives. It is structurally dependent on benign macroeconomic conditions.
 
 ## Risks and constraints
 

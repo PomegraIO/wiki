@@ -42,7 +42,7 @@ Drilling costs are semi-discretionary: the company can cut drilling to preserve 
 
 CoJax's revenue depends entirely on commodity prices: the price at which it can sell crude oil and natural gas. These prices are set in global markets and are beyond the company's control. When crude oil prices rise to $100 per barrel, the company's revenue surges and cash flow becomes robust; when prices fall to $40 per barrel, revenue and cash flow collapse despite unchanged production volumes.
 
-This price volatility creates operational challenges. A company might develop a $50 million project assuming $70 per barrel oil; if prices fall to $50, the project no longer generates sufficient return to justify its cost. The company must make long-term development decisions knowing that prices may move against the project before it generates any return. Some companies hedge commodity risk by selling [futures contracts](/futures-contract/) or entering commodity hedges; this reduces upside if prices rise but limits downside if prices fall.
+This price volatility creates operational challenges. A company might develop a $50 million project assuming $70 per barrel oil; if prices fall to $50, the project no longer generates sufficient return to justify its cost. The company must make long-term development decisions knowing that prices may move against the project before it generates any return. Some companies hedge [commodity risk](/commodity-risk/) by selling [futures contracts](/futures-contract/) or entering commodity hedges; this reduces upside if prices rise but limits downside if prices fall.
 
 ## Reserves and resource base
 

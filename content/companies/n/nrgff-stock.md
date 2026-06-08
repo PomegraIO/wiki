@@ -62,7 +62,7 @@ The payoff, if execution succeeds, comes years out: a productive mine with recur
 
 **Commodity price exposure.** AE Fuels' eventual economics depend on the price at which it can sell manganese and fluorspar. If battery technology shifts away from manganese-heavy chemistries, or if competing materials become cheaper, the price A.E. Fuels can command falls. Conversely, a tight supply environment—which is the opportunity thesis—could support strong prices.
 
-**Execution risk.** Taking a project from exploration to production is technically and financially demanding. Unexpected geology, permitting delays, cost overruns, or environmental challenges are common. Many mining projects never reach production, even well-funded ones.
+**[Execution risk](/execution-risk/).** Taking a project from exploration to production is technically and financially demanding. Unexpected geology, permitting delays, cost overruns, or environmental challenges are common. Many mining projects never reach production, even well-funded ones.
 
 **Scale-up risk.** Even if AE Fuels brings a mine into production, the purification processes must work at commercial scale, not just in the lab. CSIRO's testwork is designed to reduce this risk, but it does not eliminate it.
 

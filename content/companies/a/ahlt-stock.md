@@ -19,7 +19,7 @@ AHLT is managed by Man Fund, a London-based investment manager with decades of e
 
 The fund trades [futures contracts](/futures-contract/) on dozens of underlying markets: commodity futures ([crude oil](/crude-oil/), [natural gas](/natural-gas/), gold, soybeans, corn), currency forwards (EUR/USD, GBP/USD, JPY), equity index futures (S&P 500, STOXX, Nikkei), and bond futures (U.S. Treasuries, German Bunds). On each market, the system continuously measures momentum — whether prices are climbing or falling — over several look-back periods. Long-term trends (months), medium-term trends (weeks), and short-term moves (days) are combined into a single signal: go long if the trend is up, go short if it is down, sit out if the signal is neutral.
 
-The beauty of trend following is regime independence. When stocks crash and bonds rise — a normal defensive scenario — a trend-following strategy might be short stocks and long bonds, capturing both edges. When everything rallies together, it captures that too. It is not betting on whether stocks will go up or whether bonds will go down; it is asking whether things are moving in a consistent direction, and if they are, following along.
+The beauty of trend following is regime independence. When stocks crash and bonds rise — a normal defensive scenario — a [trend-following strategy](/trend-following-strategy/) might be short stocks and long bonds, capturing both edges. When everything rallies together, it captures that too. It is not betting on whether stocks will go up or whether bonds will go down; it is asking whether things are moving in a consistent direction, and if they are, following along.
 
 ## How does a trend-following ETF actually generate returns?
 

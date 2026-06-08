@@ -50,4 +50,4 @@ Watch for changes in the momentum signal; if top holdings are shifting rapidly, 
 
 ## See also
 
-Consumer staples strategy, [momentum investing](/momentum-investing/), [sector rotation](/sector-rotation/), defensive stocks, expense ratios, ETF rebalancing, Invesco.
+Consumer staples strategy, [momentum investing](/momentum-investing/), [sector rotation](/sector-rotation/), defensive stocks, expense ratios, [ETF rebalancing](/etf-rebalancing/), Invesco.

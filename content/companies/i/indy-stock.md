@@ -12,7 +12,7 @@ handwritten: true
 
 ## What exactly does INDY hold?
 
-INDY tracks the Nifty 50 index, the 50 largest publicly traded companies in India by [market capitalization](/market-capitalization/). The index is maintained by NSE Indices Limited and includes the country's most dominant financial institutions, software exporters, industrial conglomerates, consumer-goods manufacturers, and energy companies. A handful of mega-cap names — the largest banks and software exporters — occupy a disproportionate slice of the index, giving INDY a concentrated feel despite holding 50 separate companies.
+INDY tracks the [Nifty 50 index](/nifty-50-index/), the 50 largest publicly traded companies in India by [market capitalization](/market-capitalization/). The index is maintained by NSE Indices Limited and includes the country's most dominant financial institutions, software exporters, industrial conglomerates, consumer-goods manufacturers, and energy companies. A handful of mega-cap names — the largest banks and software exporters — occupy a disproportionate slice of the index, giving INDY a concentrated feel despite holding 50 separate companies.
 
 ## How does INDY differ from an actively managed India fund like INDQ?
 

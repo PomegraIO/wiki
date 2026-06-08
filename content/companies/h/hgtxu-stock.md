@@ -65,7 +65,7 @@ Administrative costs are low — legal, regulatory, trustee services, investor r
 
 **Gradual depletion of the reserve base** is slow but real. Even as new wells are drilled and acquisitions add production, the legacy portfolio declines. If the trust is unable to acquire enough new royalties to offset natural depletion, production and distributions will trend downward over decades.
 
-**Regulatory and energy-transition risk** looms larger now than in the past. Some jurisdictions are restricting new oil and gas drilling; a major carbon tax or a significant shift in investment away from fossil fuels could erode demand and prices. This is a long-term risk, not an imminent one, but it colors the long-term outlook.
+**Regulatory and energy-transition risk** looms larger now than in the past. Some jurisdictions are restricting new oil and gas drilling; a major [carbon tax](/carbon-tax/) or a significant shift in investment away from fossil fuels could erode demand and prices. This is a long-term risk, not an imminent one, but it colors the long-term outlook.
 
 **[Interest rate](/interest-rate/) exposure.** Trusts are often favored by income investors seeking higher yields in a low-rate environment. If interest rates rise sharply and stay elevated, the appeal of trusts diminishes, and unit prices could face pressure.
 

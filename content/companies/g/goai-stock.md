@@ -28,7 +28,7 @@ Digital media companies disclose user metrics—monthly active users, daily acti
 
 ## Content Library Composition and Amortization Policy
 
-Eva Live likely holds a content library—the collection of films, shows, or other assets available on the platform. The balance sheet carries capitalized content costs, either as intangible assets or as prepaid expenses, depending on the nature and expected life of the content. The company discloses the useful life over which it amortizes content (one year, two years, longer), revealing its assumptions about how long content remains valuable before it must be refreshed or replaced. The [amortization](/amortization/) expense in the [income statement](/income-statement/) scales with the size and churn rate of the content library; rising amortization signals heavy reinvestment in content.
+Eva Live likely holds a content library—the collection of films, shows, or other assets available on the platform. The balance sheet carries capitalized content costs, either as intangible assets or as [prepaid expenses](/prepaid-expenses/), depending on the nature and expected life of the content. The company discloses the useful life over which it amortizes content (one year, two years, longer), revealing its assumptions about how long content remains valuable before it must be refreshed or replaced. The [amortization](/amortization/) expense in the [income statement](/income-statement/) scales with the size and churn rate of the content library; rising amortization signals heavy reinvestment in content.
 
 ## Technology Infrastructure and Streaming Costs
 

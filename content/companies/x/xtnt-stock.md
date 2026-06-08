@@ -72,7 +72,7 @@ Capital requirements are a third concern. Tissue-based companies require investm
 
 ## How to research Xtant Medical
 
-Start with the company's 10-K filing, which discloses product revenue by category, gross margins, key customers, and pipeline products in development. The MD&A (management discussion and analysis) section explains revenue trends and the company's path to profitability.
+Start with the company's 10-K filing, which discloses product revenue by category, gross margins, key customers, and pipeline products in development. The MD&A ([management discussion and analysis](/management-discussion-and-analysis/)) section explains revenue trends and the company's path to profitability.
 
 Look at clinical data. Xtant should be publishing or sponsoring studies in peer-reviewed journals demonstrating the efficacy of its products. Strong clinical evidence supports reimbursement and surgeon adoption; weak evidence is a red flag.
 

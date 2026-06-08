@@ -23,7 +23,7 @@ Abony's stated acquisition targets are private companies with [enterprise values
 
 A SPAC's lifecycle has three distinct phases. In phase one — right now for AACO — the company trades on the [stock exchange](/stock-exchange/) as an empty vessel. Shareholders own shares in the trust account. If the SPAC fails to find a target within its deadline (typically two to three years from the IPO), the money is returned to investors and the SPAC dissolves.
 
-In phase two, the SPAC announces an acquisition target. There is negotiation, due diligence, and a vote by SPAC shareholders to approve the [merger](/merger/). Some shareholders (called "redemptions") choose to exit before the merger closes, recovering their pro-rata share of the trust account. Those who stay through the merger become shareholders in the newly public operating company.
+In phase two, the SPAC announces an acquisition target. There is negotiation, [due diligence](/due-diligence/), and a vote by SPAC shareholders to approve the [merger](/merger/). Some shareholders (called "redemptions") choose to exit before the merger closes, recovering their pro-rata share of the trust account. Those who stay through the merger become shareholders in the newly public operating company.
 
 Phase three is the merged company's life as a public business. Shareholders now own a slice of an actual operating business — not a trust account, but real revenues, earnings, employees, and risks.
 

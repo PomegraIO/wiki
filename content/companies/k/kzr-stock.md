@@ -29,7 +29,7 @@ The structural advantage for Kezar (or any new entrant) is that the disease burd
 
 ## The Capital and Partnership Bridge
 
-Unlike pure clinical-stage oncology companies, where single-asset dependence is high, developers in the autoimmune space often have the option of partnership with larger pharmaceutical firms long before clinical trials conclude. Big pharma has deep unmet-need backlogs in immuno-inflammatory disorders and views external innovation as a pipeline accelerant. This creates a structural path to funding that is less dependent on public market cycles.
+Unlike pure clinical-stage oncology companies, where single-asset dependence is high, developers in the autoimmune space often have the option of partnership with larger pharmaceutical firms long before clinical trials conclude. Big pharma has deep unmet-need backlogs in immuno-inflammatory disorders and views external innovation as a pipeline accelerant. This creates a structural path to funding that is less dependent on public [market cycles](/market-cycle/).
 
 Kezar's ability to negotiate partnerships, licensing deals, or [acquisition](/acquisition/) conversations depends on whether its early-stage data suggest mechanism-of-action proof and safety signals that interest larger firms. This is a secular evaluation—do the early trials show a credible path? Cyclical capital market pressures affect the price at which a partnership might occur, but not the decision to partner if the science is compelling. A downturn in biotech financing that makes Kezar's stock price attractive to strategic buyers may actually accelerate M&A.
 

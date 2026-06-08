@@ -54,7 +54,7 @@ Like all banks, CNB's primary profit source is net interest income — the diffe
 
 The second major profit source is non-interest income: fees on checking accounts, debit-card processing, [loan origination fees](/loan-origination-fees/), wealth [management fees](/management-fee/), and insurance commissions. This income provides some stability because it does not depend on interest rates, but it is also typically smaller in absolute terms than net interest income at a bank like CNB.
 
-Profitability is shaped by credit quality (how many loans default) and cost control. Regional banks with higher loan losses see returns compressed. Banks with high cost-to-income ratios (high expense relative to revenue) are also less profitable. CNB, as a traditional retail and commercial bank in a mature footprint, competes on efficiency and relationship quality rather than on technology or brand.
+Profitability is shaped by credit quality (how many loans default) and cost control. Regional banks with higher loan losses see returns compressed. Banks with high [cost-to-income ratios](/cost-income-ratio/) (high expense relative to revenue) are also less profitable. CNB, as a traditional retail and commercial bank in a mature footprint, competes on efficiency and relationship quality rather than on technology or brand.
 
 ## The competitive and regulatory environment
 

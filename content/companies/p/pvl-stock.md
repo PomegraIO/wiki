@@ -35,7 +35,7 @@ The boom years of the 2010s gave way to the crash of 2014–2015, when oil price
 
 ## How Permianville makes money: the royalty trust structure
 
-Permianville holds mineral interests in oil and natural gas properties. These interests entitle the trust to a contractual percentage of the profits from the sale of oil and natural gas produced on those properties—Permianville's net profits interest is typically eighty percent, meaning it receives eighty percent of the net profits after operating costs and capital spending. The remaining twenty percent goes to the operator or other interest holders.
+Permianville holds mineral interests in oil and natural gas properties. These interests entitle the trust to a contractual percentage of the profits from the sale of oil and natural gas produced on those properties—Permianville's net [profits interest](/profits-interest/) is typically eighty percent, meaning it receives eighty percent of the net profits after operating costs and capital spending. The remaining twenty percent goes to the operator or other interest holders.
 
 When an operator drills a well on one of Permianville's properties and produces oil or natural gas, the commodity is sold. From the revenue, operating costs (labor, equipment maintenance, utilities) are subtracted. Then capital expenditures for drilling, completion, and workovers are deducted. What remains is the net profit, and Permianville receives its eighty percent slice. That cash is then distributed to Permianville's unit holders, usually monthly.
 

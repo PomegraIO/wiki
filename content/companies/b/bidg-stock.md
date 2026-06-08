@@ -29,7 +29,7 @@ handwritten: true
 
 ## What the fund holds and how it works
 
-BIDG does not hold Baidu shares outright. Instead, Leverage Shares maintains a small equity position and uses [total return swaps](/total-return-swap/) or derivative contracts to synthesize 2x daily exposure. When Baidu rises 1 percent, BIDG targets +2 percent; when Baidu falls 1 percent, BIDG targets −2 percent. At day's end, the leverage resets.
+BIDG does not hold Baidu shares outright. Instead, Leverage Shares maintains a small equity position and uses [total return swaps](/total-return-swap/) or [derivative contracts](/derivative-contract/) to synthesize 2x daily exposure. When Baidu rises 1 percent, BIDG targets +2 percent; when Baidu falls 1 percent, BIDG targets −2 percent. At day's end, the leverage resets.
 
 Leverage Shares is a London-based provider of leveraged and inverse ETPs. BIDG is UK-regulated but trades on US exchanges, creating a regulatory gap: US investors do not get the full protections of a US fund structure.
 

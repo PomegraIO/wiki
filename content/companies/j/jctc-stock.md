@@ -35,7 +35,7 @@ The balance between customer payment terms (receivables) and supplier payment te
 
 ## Fixed Assets and Facility Efficiency
 
-JCTC operates manufacturing and distribution facilities in the Pacific Northwest, and the property, plant, and equipment on the balance sheet reflects those locations and production capacity. The age of that equipment, its [depreciation](/depreciation/) status, and maintenance requirements affect both near-term cash needs and long-term competitiveness. Aging equipment may require replacement capital; modern, efficient facilities support margin expansion.
+JCTC operates manufacturing and distribution facilities in the Pacific Northwest, and the [property, plant, and equipment](/property-plant-equipment/) on the balance sheet reflects those locations and production capacity. The age of that equipment, its [depreciation](/depreciation/) status, and maintenance requirements affect both near-term cash needs and long-term competitiveness. Aging equipment may require replacement capital; modern, efficient facilities support margin expansion.
 
 The geographic footprint also shapes logistics costs and responsiveness to regional demand. A facility located near the company's customer base reduces shipping costs and delivery times; an inefficiently located or sized facility becomes a drag on profitability.
 

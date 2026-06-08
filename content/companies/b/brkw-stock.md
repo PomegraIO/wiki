@@ -15,9 +15,9 @@ BRKW is an exchange-traded fund that combines ownership of [Berkshire Hathaway](
 
 ## The core mechanism: weekly call rolling
 
-At the center of BRKW is a straightforward but active operational process. Each week, the fund writes new call options on its Berkshire holdings and, as existing options expire, rolls them into the next week's strikes. This relentless, high-frequency cycle of [option expiration](/option-expiration/) and renewal generates a stream of [option premiums](/option-premium/) — the money paid by option buyers for the right to purchase the shares at designated prices. That premium revenue is then distributed to shareholders as income, typically weekly.
+At the center of BRKW is a straightforward but active operational process. Each week, the fund writes new call options on its Berkshire holdings and, as existing options expire, rolls them into the next week's strikes. This relentless, high-frequency cycle of [option expiration](/option-expiration/) and renewal generates a stream of [option premiums](/option-premium/) — the money paid by [option buyers](/option-buyer/) for the right to purchase the shares at designated prices. That premium revenue is then distributed to shareholders as income, typically weekly.
 
-Weekly options on liquid stocks like Berkshire Hathaway Class B exist because some traders and hedgers need to manage risk on shorter cycles than monthly or quarterly expirations allow. That liquidity — the presence of active buyers and sellers of weekly calls — is what enables a fund to write a large volume of calls at reasonable prices every single week. Without that liquidity, the strategy would be costly or impossible to execute at scale.
+[Weekly options](/weekly-options/) on liquid stocks like Berkshire Hathaway Class B exist because some traders and hedgers need to manage risk on shorter cycles than monthly or quarterly expirations allow. That liquidity — the presence of active buyers and sellers of weekly calls — is what enables a fund to write a large volume of calls at reasonable prices every single week. Without that liquidity, the strategy would be costly or impossible to execute at scale.
 
 ## The income segment: regular, predictable, substantial
 

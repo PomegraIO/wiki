@@ -40,7 +40,7 @@ KeyCorp operates within powerful structural headwinds that affect all regional a
 
 **[Credit risk](/credit-risk/).** Consumer and commercial lending [default rates](/default-rate/) rise during [recessions](/recession/). KeyBank must maintain capital and loan-loss reserves sufficient to absorb those defaults, which reduces profits in downturns. The cyclicality of the commercial portfolio is particularly acute: a mild recession can double or triple charge-offs.
 
-**Regulatory burden.** As a systemically important financial institution, KeyCorp faces substantial capital requirements ([Basel III](/wiki/basel-iii/) and comparable rules), regular stress testing, and compliance costs. These standards exist for macroprudential safety but require substantial capital that could otherwise be returned to shareholders, damping returns.
+**Regulatory burden.** As a systemically important financial institution, KeyCorp faces substantial capital requirements ([Basel III](/wiki/basel-iii/) and comparable rules), regular [stress testing](/stress-testing-portfolios/), and compliance costs. These standards exist for macroprudential safety but require substantial capital that could otherwise be returned to shareholders, damping returns.
 
 **Technology and fintech competition.** Digital banking has reduced the value of physical branch networks. Lending has partially shifted to non-bank fintech platforms and specialized lenders. KeyCorp must invest continuously in technology to remain competitive, an expense that squeezes margins.
 

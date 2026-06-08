@@ -20,7 +20,7 @@ The Nasdaq-based index construction also means FTXG tilts toward larger, more li
 
 ## How the fund holds its positions
 
-FTXG uses a passive replication approach: it holds the stocks in its benchmark index in roughly the same weights as they appear in the index, rebalancing periodically to keep alignment. The fund does not attempt to beat its benchmark; it simply aims to track it closely — a strategy known as indexing. This means performance closely mirrors the index before costs, and any lag is primarily attributable to the fund's [expense ratio](/expense-ratio/) (the annual cost to hold it) and trading friction.
+FTXG uses a passive replication approach: it holds the stocks in its benchmark index in roughly the same weights as they appear in the [index, rebalancing](/index-rebalancing/) periodically to keep alignment. The fund does not attempt to beat its benchmark; it simply aims to track it closely — a strategy known as indexing. This means performance closely mirrors the index before costs, and any lag is primarily attributable to the fund's [expense ratio](/expense-ratio/) (the annual cost to hold it) and trading friction.
 
 Unlike leveraged or inverse funds, FTXG carries no daily-reset mechanics, no use of derivatives or borrowing, and no exposure to volatility decay. It is a straightforward long-only basket of the underlying stocks. Holdings are bought and sold when the index is rebalanced or when companies are added or removed from the Nasdaq-100, but the fund does not trade actively or attempt [market timing](/market-timing/).
 

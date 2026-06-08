@@ -35,7 +35,7 @@ The tradeoff is explicit and unavoidable: every dollar of call premium collected
 
 ## The broader context
 
-Strategies like SPBC reflect the maturity of both options markets and the cryptocurrency space. A decade ago, Bitcoin options were barely traded; today, active options trading on Bitcoin futures and spot instruments is standard. These structured products allow investors to take defined, hedged, or income-enhanced views that simple spot purchases do not offer.
+Strategies like SPBC reflect the maturity of both options markets and the cryptocurrency space. A decade ago, Bitcoin options were barely traded; today, active options trading on Bitcoin futures and spot instruments is standard. These [structured products](/structured-product/) allow investors to take defined, hedged, or income-enhanced views that simple spot purchases do not offer.
 
 However, the complexity cuts both ways. Call-writing funds require constant rebalancing and adjustment of strike prices, creating potential timing errors and tax inefficiency. Investors must understand what they are giving up (future upside) to know whether they want the trade.
 

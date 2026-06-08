@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-A long/short equity fund is fundamentally a bet on a manager's stock-picking skill, divorced from whether equity markets rise or fall. Militia Long/Short [Equity ETF](/equity-etf/) ([NASDAQ](/nasdaq/): ORR) holds stocks the manager expects to appreciate and simultaneously shorts stocks the manager expects to depreciate, aiming to profit from both sides of the relative value judgment while hedging away portfolio risk. It is a [hedge fund](/hedge-fund/) strategy served in an exchange-traded wrapper, accessible to any investor with a brokerage account—a direct alternative to the private hedge funds and separately managed accounts that historically required millions to access this approach.
+A long/short equity fund is fundamentally a bet on a manager's stock-picking skill, divorced from whether equity markets rise or fall. Militia Long/Short [Equity ETF](/equity-etf/) ([NASDAQ](/nasdaq/): ORR) holds stocks the manager expects to appreciate and simultaneously shorts stocks the manager expects to depreciate, aiming to profit from both sides of the relative value judgment while hedging away portfolio risk. It is a [hedge fund](/hedge-fund/) strategy served in an exchange-traded wrapper, accessible to any investor with a brokerage account—a direct alternative to the private hedge funds and [separately managed accounts](/separately-managed-account/) that historically required millions to access this approach.
 
 ## The dual-sided portfolio
 

@@ -58,7 +58,7 @@ The moat is really a regulatory moat. Fannie Mae cannot be easily replicated or 
 
 ## Risks and uncertainty
 
-Fannie Mae is extraordinarily sensitive to interest-rate movements, credit conditions, and housing price dynamics. A sharp rise in unemployment or housing prices can trigger defaults; a sudden change in interest rates can create wild swings in the portfolio value. The company is also subject to intense political scrutiny: every time housing policy becomes a campaign issue, Fannie Mae's regulatory cage, capital requirements, and mission get revisited. That political risk is not quantifiable but it is real.
+Fannie Mae is extraordinarily sensitive to interest-rate movements, credit conditions, and housing price dynamics. A sharp rise in unemployment or housing prices can trigger defaults; a sudden change in interest rates can create wild swings in the portfolio value. The company is also subject to intense political scrutiny: every time housing policy becomes a campaign issue, Fannie Mae's regulatory cage, capital requirements, and mission get revisited. That [political risk](/political-risk/) is not quantifiable but it is real.
 
 Long-term, the company's greatest uncertainty is what role the government wants it to play. Should housing be a public good with heavy subsidies? Should private capital bear more of the credit risk? Should Fannie Mae shrink or grow its affordable-housing footprint? These are not questions the company can answer; it must wait for Congress and regulators to signal a direction, then adapt. For investors, that means Fannie Mae is fundamentally a bet on housing policy as much as on mortgage economics.
 

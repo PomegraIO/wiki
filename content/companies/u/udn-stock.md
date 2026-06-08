@@ -27,7 +27,7 @@ handwritten: true
 
 ## The inverse mechanism
 
-UDN is an inverse fund, which means it is built to move opposite to its reference index. The index it tracks is the DB US Dollar Index, a weighted measure of US dollar strength against a basket of other major currencies — the euro, the [British pound](/british-pound/), the [Japanese yen](/japanese-yen/), the [Canadian dollar](/canadian-dollar/), the Swedish krona, and the [Swiss franc](/swiss-franc/). When those currencies strengthen relative to the dollar, the index falls, and UDN rises. When the dollar strengthens and the index rises, UDN falls.
+UDN is an inverse fund, which means it is built to move opposite to its reference index. The index it tracks is the DB [US Dollar Index](/dollar-index-dxy/), a weighted measure of US dollar strength against a basket of other major currencies — the euro, the [British pound](/british-pound/), the [Japanese yen](/japanese-yen/), the [Canadian dollar](/canadian-dollar/), the [Swedish krona](/swedish-krona/), and the [Swiss franc](/swiss-franc/). When those currencies strengthen relative to the dollar, the index falls, and UDN rises. When the dollar strengthens and the index rises, UDN falls.
 
 The fund achieves this through derivatives and currency forwards held by Invesco, not by actually holding piles of foreign currency. Invesco uses financial contracts that profit when the dollar weakens, synthetically reversing the direction of the index. The mechanics are opaque to the unitholder — you simply buy UDN expecting it to rise as the dollar falls — but the underlying mechanics involve [currency futures](/currency-futures/) and swaps that require active daily management.
 

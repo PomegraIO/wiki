@@ -40,7 +40,7 @@ The bonds in the portfolio are typically of investment-grade credit quality, mea
 
 The interest income from municipal bonds is exempt from federal income tax, and often from state income tax if you buy bonds from your home state. That exemption is valuable to investors in high marginal tax brackets. An investor facing a 37% federal tax rate would have to earn a taxable yield of roughly 4% to generate the same after-tax income as a municipal bond yielding 2.5%. For a wealthy investor, that is a powerful incentive to hold municipal bonds rather than taxable alternatives.
 
-The tax exemption is also a subsidy from the federal government, designed to encourage states and municipalities to borrow cheaply for public works. It means municipal bonds typically offer lower yields than taxable [corporate bonds](/corporate-bond/) of similar credit quality. The trade-off is acceptable for high-income investors; for lower-income investors, it is not, which is why municipal bond funds are concentrated among the wealthy.
+The tax exemption is also a subsidy from the federal government, designed to encourage states and municipalities to borrow cheaply for public works. It means municipal bonds typically offer lower yields than taxable [corporate bonds](/corporate-bond/) of similar credit quality. The trade-off is acceptable for high-income investors; for lower-income investors, it is not, which is why [municipal bond funds](/municipal-bond-fund/) are concentrated among the wealthy.
 
 ## How the fund generates returns
 

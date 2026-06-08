@@ -46,7 +46,7 @@ The competitive race is not infinite. Most SPACs have a 24-month window to annou
 
 Some SPACs raise capital with a stated sector focus—biotech, fintech, aerospace—signaling specialization and deep sponsor expertise. Others remain sector-agnostic, claiming that flexibility is a competitive advantage. CEPV's positioning in this dimension affects its competitive appeal.
 
-A focused SPAC attracts investors who believe in the sector and trust the sponsor's expertise. It can move decisively when targets in that niche become available. A generalist SPAC claims a larger addressable target pool but must convince investors that the sponsor's breadth of experience is an advantage, not a liability. CEPV must choose whether to position as a specialist—competing in a tighter niche where expertise matters—or generalist, competing on flexibility and deal-access breadth. This choice cascades through target sourcing, due diligence resource allocation, and investor messaging.
+A focused SPAC attracts investors who believe in the sector and trust the sponsor's expertise. It can move decisively when targets in that niche become available. A generalist SPAC claims a larger addressable target pool but must convince investors that the sponsor's breadth of experience is an advantage, not a liability. CEPV must choose whether to position as a specialist—competing in a tighter niche where expertise matters—or generalist, competing on flexibility and deal-access breadth. This choice cascades through target sourcing, [due diligence](/due-diligence/) resource allocation, and investor messaging.
 
 ## Post-Merger Integration Advantage
 

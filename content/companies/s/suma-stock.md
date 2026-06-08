@@ -56,7 +56,7 @@ Redemptions matter because they shrink the pot of money available for the combin
 
 ## Risks and the merger uncertainty
 
-A SPAC investor faces several distinct risks. First is the risk that no good deal gets done and capital is returned after years of no returns and [inflation](/inflation/) eroding the $10 per unit value. Second is the risk of overpaying for a bad business — most SPAC targets are private companies with limited public information, so due diligence is harder than evaluating a public company. Third is the risk that redemptions shrink the capital pool, starving the combined company and forcing it to tap public markets again at a bad valuation.
+A SPAC investor faces several distinct risks. First is the risk that no good deal gets done and capital is returned after years of no returns and [inflation](/inflation/) eroding the $10 per unit value. Second is the risk of overpaying for a bad business — most SPAC targets are private companies with limited public information, so [due diligence](/due-diligence/) is harder than evaluating a public company. Third is the risk that redemptions shrink the capital pool, starving the combined company and forcing it to tap public markets again at a bad valuation.
 
 There is also the risk specific to SUMA's stated focus on AI. This is a popular theme, but popularity can inflate valuations. By the time SUMA identifies and acquires an AI-exposed technology company, that narrative may have shifted, taking valuations with it. Timing risk is real in thematic investing.
 

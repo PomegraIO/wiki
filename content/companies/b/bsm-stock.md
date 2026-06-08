@@ -51,7 +51,7 @@ Black Stone also grows through equity issuance—issuing new units to raise capi
 
 ## Reserve Requirements and Debt Cushions
 
-Lenders to energy partnerships often require reserve accounts—cash set aside and unavailable for distribution to cover future debt service or cushion price downturns. These reserves reduce distributable cash in the near term but provide lenders assurance that the partnership can meet obligations even if commodity prices fall sharply. The reserve balance is negotiated as part of the credit facility and typically adjusts based on commodity prices, leverage ratios, and the partnership's recent distributable cash.
+Lenders to energy partnerships often require [reserve accounts](/reserve-account/)—cash set aside and unavailable for distribution to cover future debt service or cushion price downturns. These reserves reduce distributable cash in the near term but provide lenders assurance that the partnership can meet obligations even if commodity prices fall sharply. The reserve balance is negotiated as part of the credit facility and typically adjusts based on commodity prices, leverage ratios, and the partnership's recent distributable cash.
 
 ## The Acquisition-Driven Valuation
 

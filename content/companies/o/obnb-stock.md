@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Osprey BNB Chain Trust is a [closed-end fund](/closed-end-fund/) structured to hold BNB tokens, the native cryptocurrency of the BNB Chain (formerly Binance Smart Chain). It offers investors exposure to BNB through a traditional brokerage account rather than direct cryptocurrency ownership.
+Osprey [BNB Chain](/bnb-chain/) Trust is a [closed-end fund](/closed-end-fund/) structured to hold BNB tokens, the native cryptocurrency of the BNB Chain (formerly Binance Smart Chain). It offers investors exposure to BNB through a traditional brokerage account rather than direct cryptocurrency ownership.
 
 <aside class="wiki-infobox">
 <table>

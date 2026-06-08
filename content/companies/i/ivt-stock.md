@@ -41,7 +41,7 @@ The filings grapple with secular change in retail. Online grocery shopping, phar
 
 ## Valuation Anchors
 
-InvenTrust's filings highlight funds from operations (FFO), a metric that adjusts net income for [depreciation](/depreciation/) and [amortization](/amortization/). FFO approximates the cash available for dividends. The relationship between FFO and the dividend payout is critical: if FFO is rising, the dividend is safe; if stagnant or falling, it may be under pressure. Book value per share and [price-to-book multiples](/price-to-book-multiple/) are also disclosed, indicating whether the market values the REIT at a premium or discount to its stated asset value. The 10-K provides valuation tables showing capitalization rates on recent property [acquisitions](/acquisition/) and disposals, offering insight into market pricing for similar assets.
+InvenTrust's filings highlight [funds from operations](/funds-from-operations/) (FFO), a metric that adjusts net income for [depreciation](/depreciation/) and [amortization](/amortization/). FFO approximates the cash available for dividends. The relationship between FFO and the dividend payout is critical: if FFO is rising, the dividend is safe; if stagnant or falling, it may be under pressure. [Book value per share](/book-value-per-share/) and [price-to-book multiples](/price-to-book-multiple/) are also disclosed, indicating whether the market values the REIT at a premium or discount to its stated asset value. The 10-K provides valuation tables showing capitalization rates on recent property [acquisitions](/acquisition/) and disposals, offering insight into market pricing for similar assets.
 
 <div class="wiki-seealso">
 ### Closely related

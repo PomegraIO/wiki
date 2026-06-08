@@ -24,7 +24,7 @@ For investors in Collective Acquisition, the core risk is not volatility or cycl
 
 The second pressure is dilution. Warrants and sponsor shares (held by founders) represent claims on the company alongside public shareholders. Depending on the structure of any deal that is announced, sponsor incentives may be aligned with public shareholders — or they may diverge sharply if promoting the transaction serves the sponsors' financial interest more than the public's.
 
-Lastly, there is the calendar risk. As the deadline approaches without a signed letter of intent, the company may face shareholder redemptions (a process by which investors who dislike the announced deal can withdraw their capital at [net asset value](/net-asset-value/)). Large redemptions can shrink the capital available for a combination, forcing either a renegotiation, a lower-quality deal, or a [liquidation](/liquidation/).
+Lastly, there is the calendar risk. As the deadline approaches without a signed [letter of intent](/letter-of-intent-ma/), the company may face shareholder redemptions (a process by which investors who dislike the announced deal can withdraw their capital at [net asset value](/net-asset-value/)). Large redemptions can shrink the capital available for a combination, forcing either a renegotiation, a lower-quality deal, or a [liquidation](/liquidation/).
 
 ## Capital structure and use of proceeds
 

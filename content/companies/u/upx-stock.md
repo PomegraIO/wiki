@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Uptrend Holdings Ltd is a Canadian holding company with roots in resource exploration and development, now structured as a diversified investment vehicle. Like many long-lived Canadian holding companies, Uptrend has undergone transformations over decades — beginning as a focused operator in one sector, adapting to market cycles and managerial vision, and eventually settling into a model of owning interests in various projects and entities. That evolution reflects the opportunism and pragmatism that often drives founder-led or founder-influenced companies in Canada, where patient capital and a long-term perspective can compound substantially over time.
+Uptrend Holdings Ltd is a Canadian holding company with roots in resource exploration and development, now structured as a diversified investment vehicle. Like many long-lived Canadian holding companies, Uptrend has undergone transformations over decades — beginning as a focused operator in one sector, adapting to [market cycles](/market-cycle/) and managerial vision, and eventually settling into a model of owning interests in various projects and entities. That evolution reflects the opportunism and pragmatism that often drives founder-led or founder-influenced companies in Canada, where patient capital and a long-term perspective can compound substantially over time.
 
 ## Early foundations and the original focus
 

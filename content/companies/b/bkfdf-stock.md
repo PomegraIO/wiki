@@ -31,7 +31,7 @@ Infrastructure and utilities generate revenue through regulated tariffs (most ut
 
 Renewable energy is a growing segment. Power-purchase agreements with utilities or corporate buyers provide multi-decade certainty. Regulated markets in some jurisdictions offer stable returns on renewable facilities. The underlying assets—wind turbines, solar panels, hydroelectric dams—have long useful lives and generate cash without ongoing commodities exposure (unlike fossil fuel plants).
 
-The asset-management business is strategically important: it allows Brookfield to raise capital from institutional investors and deploy that capital into the same assets the company operates directly, earning management fees and carried interest. This multiplication effect is critical to the company's growth and scale advantage.
+The asset-management business is strategically important: it allows Brookfield to raise capital from institutional investors and deploy that capital into the same assets the company operates directly, earning management fees and [carried interest](/carried-interest-compensation/). This multiplication effect is critical to the company's growth and scale advantage.
 
 ## The scale advantage in capital
 
@@ -41,13 +41,13 @@ This also means the company is exposed to [interest rates](/interest-rate/) and 
 
 ## Geographic and sector diversification
 
-The company operates across North America, Europe, Asia, and other regions. This geographic spread means it is not dependent on any single country's economy or regulatory environment, but it also means the company must navigate different tax regimes, political risks, and regulatory frameworks. A power utility in Brazil faces different pressures than a toll road in Canada; an office tower in London faces different rent trends than one in New York.
+The company operates across North America, Europe, Asia, and other regions. This geographic spread means it is not dependent on any single country's economy or regulatory environment, but it also means the company must navigate different tax regimes, [political risks](/political-risk/), and regulatory frameworks. A power utility in Brazil faces different pressures than a toll road in Canada; an office tower in London faces different rent trends than one in New York.
 
 [Diversification](/diversification/) across asset classes—utilities, transportation, real estate, renewable energy—means the company is not heavily dependent on any single sector. But it also means execution becomes more complex: the expertise needed to run a utility is different from that needed to run a real estate portfolio, and the company must maintain both simultaneously.
 
 ## How to research this company
 
-Start with the annual 10-K filing (SEC CIK 0001001085), which breaks down the operating segments, their revenues, and their margins. Understand which segments are growing, which are mature or declining, and what the capital structure looks like across the business. Look at the [leverage ratios](/leverage-ratio-forex/) and debt maturity profile to understand [refinancing risk](/refinancing-risk/).
+Start with the annual 10-K filing (SEC CIK 0001001085), which breaks down the operating segments, their revenues, and their margins. Understand which segments are growing, which are mature or declining, and what the capital structure looks like across the business. Look at the [leverage ratios](/leverage-ratio-forex/) and [debt maturity profile](/debt-maturity-profile/) to understand [refinancing risk](/refinancing-risk/).
 
 The quarterly earnings reports reveal trends: are rents stable or falling, are utility rates increasing, is renewable energy expanding, are assets under management growing? Management commentary touches on cost of capital, the deployment pipeline, and the opportunity set.
 

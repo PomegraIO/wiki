@@ -37,7 +37,7 @@ Closed-end credit funds like BTZ often use leverage—borrowing money at wholesa
 
 The manager's job is to thread that needle—taking enough [credit risk](/credit-risk/) to generate attractive yields while avoiding the concentration and defaults that blow up the fund. BlackRock's scale gives it information, relationships, and analytical firepower that a smaller manager would lack. It can commit enough capital to sit on the boards of distressed companies, negotiate loan terms, and access opportunities that retail investors never see.
 
-But scale and skill are not destiny. Every credit fund's performance ultimately depends on the credit cycle. When [default rates](/default-rate/) are low and spreads are tight, the fund does well. When credit deteriorates, mark-to-market losses hit fast, and leverage amplifies the damage. A significant [recession](/recession/) or financial stress can force a material cut in distributions.
+But scale and skill are not destiny. Every credit fund's performance ultimately depends on the [credit cycle](/credit-cycle/). When [default rates](/default-rate/) are low and spreads are tight, the fund does well. When credit deteriorates, mark-to-market losses hit fast, and leverage amplifies the damage. A significant [recession](/recession/) or financial stress can force a material cut in distributions.
 
 ## The investor experience and the discount trap
 

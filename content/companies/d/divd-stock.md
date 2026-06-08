@@ -19,7 +19,7 @@ Altrius Global Dividend ETF captures that opportunity by holding dividend-paying
 
 DIVD tracks a global dividend index that selects stocks based on yield and payout history rather than [market cap](/market-capitalization/) alone. That rules out the kind of market-cap weighting that would make the fund America-centric; instead, the portfolio reflects an attempt to balance dividend income across regions and sectors. Financial companies (banks, insurers) typically form a large slice because they have high dividend payouts; consumer staples, utilities, energy, and telecommunications are also heavily represented.
 
-The international angle is meaningful: the fund holds companies like [ASML](/asml-stock/) (Netherlands), SAP (Germany), LVMH (France), and Nestle (Switzerland), alongside dividend-payers from Australia, Singapore, and Hong Kong. A meaningful portion of the portfolio lives in emerging markets — names from India, Brazil, and Mexico that pay high yields but come with higher volatility and political risk.
+The international angle is meaningful: the fund holds companies like [ASML](/asml-stock/) (Netherlands), SAP (Germany), LVMH (France), and Nestle (Switzerland), alongside dividend-payers from Australia, Singapore, and Hong Kong. A meaningful portion of the portfolio lives in emerging markets — names from India, Brazil, and Mexico that pay high yields but come with higher volatility and [political risk](/political-risk/).
 
 The index is usually rebalanced quarterly, trimming positions that have risen in price and adding to those that have fallen — a mechanical value tilt that attempts to keep the funds yield stable over time.
 

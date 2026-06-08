@@ -51,7 +51,7 @@ Canopy's path to profitability and [free cash flow](/free-cash-flow/) is critica
 
 ## Excise taxes and regulatory pricing
 
-Cannabis excise taxes—federal in Canada, state and local in the U.S.—reduce the company's net realizable value per unit. Canada's excise tax is applied at the wholesale level and is baked into the producer's economics; U.S. state taxes vary widely (California's is punitive, others modest). The MD&A should discuss how excise taxes impact margins and pricing strategy. A producer cannot fully pass taxes to consumers without losing sales, so taxes compress the spread between production cost and retail price.
+Cannabis excise taxes—federal in Canada, state and local in the U.S.—reduce the company's net realizable value per unit. Canada's [excise tax](/excise-tax/) is applied at the wholesale level and is baked into the producer's economics; U.S. state taxes vary widely (California's is punitive, others modest). The MD&A should discuss how excise taxes impact margins and pricing strategy. A producer cannot fully pass taxes to consumers without losing sales, so taxes compress the spread between production cost and retail price.
 
 ## Reading CGC's 10-K
 

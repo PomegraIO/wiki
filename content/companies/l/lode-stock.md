@@ -25,7 +25,7 @@ The company must also navigate financing cycles. During precious-metals [bull ma
 
 ## The Secular Headwind: Peak Optimism on Precious Metals
 
-While some argue that gold is a hedge against inflation and currency debasement—arguments with long historical pedigree—the secular demand picture for gold mining is murky. Central-bank gold hoarding and jewelry demand are largely inelastic and driven by cultural factors. Industrial uses of gold exist (electronics, dentistry) but are not growing dramatically. The recent bull case for gold relied on expectations of currency devaluation or geopolitical instability, not a growing economy or rising consumption. If macroeconomic conditions normalize and inflation moderates, the secular support for precious-metals prices weakens.
+While some argue that gold is a hedge against inflation and currency debasement—arguments with long historical pedigree—the secular demand picture for gold mining is murky. Central-bank gold hoarding and jewelry demand are largely inelastic and driven by cultural factors. Industrial uses of gold exist (electronics, dentistry) but are not growing dramatically. The recent bull case for gold relied on expectations of [currency devaluation](/currency-devaluation/) or geopolitical instability, not a growing economy or rising consumption. If macroeconomic conditions normalize and inflation moderates, the secular support for precious-metals prices weakens.
 
 Silver has genuine industrial demand (solar, electronics, photography), providing a slight secular tailwind. But silver is also a byproduct of copper and gold mining; supplies respond to the mining cycle, not primary silver demand. A strong copper price (driven by construction and electrification) can flood the silver market with byproduct silver, crashing the price.
 
@@ -45,7 +45,7 @@ Comstock's leverage position and debt covenants are therefore critical to assess
 
 ## Geopolitical and Jurisdictional Risk
 
-Comstock operates in the western US, a stable legal jurisdiction with rule of law and defined property rights. This is a secular advantage over miners in politically unstable regions. But it also means the company operates under stringent environmental, permitting, and labor regulation. Labor costs are high, permitting timelines are long, and activist opposition to mining is significant. A large ore body in Indonesia or Peru might be developed faster and cheaper, but with higher political risk. Comstock's US jurisdiction is a blessing for stability but a curse for capital efficiency.
+Comstock operates in the western US, a stable legal jurisdiction with rule of law and defined property rights. This is a secular advantage over miners in politically unstable regions. But it also means the company operates under stringent environmental, permitting, and labor regulation. Labor costs are high, permitting timelines are long, and activist opposition to mining is significant. A large ore body in Indonesia or Peru might be developed faster and cheaper, but with higher [political risk](/political-risk/). Comstock's US jurisdiction is a blessing for stability but a curse for capital efficiency.
 
 ## A Commodity Play, Not a Business Play
 

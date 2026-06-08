@@ -36,7 +36,7 @@ GGL Resources' exploration targets are typically precious metals (gold, silver) 
 
 ## Managerial stake and conflict-of-interest considerations
 
-Exploration company filings include executive compensation and ownership disclosures. GGLXF's proxy or DEF 14A statement will show what percentage of shares are owned by management and the board. If the founders or CEO retain a small stake, it may signal low conviction in the company's prospects; if they own a large fraction, it indicates alignment with other shareholders. Additionally, the company may disclose related-party transactions: whether any director or executive provides services to GGLXF through a related entity, or whether the company has loaned money to insiders. These disclosures are in the proxy statement and in footnotes to the 10-K.
+Exploration company filings include executive compensation and ownership disclosures. GGLXF's proxy or DEF 14A statement will show what percentage of shares are owned by management and the board. If the founders or CEO retain a small stake, it may signal low conviction in the company's prospects; if they own a large fraction, it indicates alignment with other shareholders. Additionally, the company may disclose related-party transactions: whether any director or executive provides services to GGLXF through a related entity, or whether the company has loaned money to insiders. These disclosures are in the [proxy statement](/proxy-statement/) and in footnotes to the 10-K.
 
 ## Property abandonment and portfolio transition
 

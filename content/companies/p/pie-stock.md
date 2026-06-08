@@ -32,7 +32,7 @@ The reasoning behind momentum selection is not that a stock going up will keep g
 
 ## What PIE holds
 
-The fund holds a basket of stocks from emerging and frontier markets — primarily countries in Asia (India, Vietnam, Thailand, Indonesia), Latin America (Brazil, Mexico), Eastern Europe (Poland, Czech Republic), and Africa. These are countries with economies still developing or industrializing, which means higher growth potential than mature markets but also higher risk and volatility. The index selects from among the largest and most liquid stocks in these markets — it is not a venture fund seeking tiny companies, but rather a screened slice of the main investable emerging-market universe.
+The fund holds a basket of stocks from emerging and [frontier markets](/frontier-markets/) — primarily countries in Asia (India, Vietnam, Thailand, Indonesia), Latin America (Brazil, Mexico), Eastern Europe (Poland, Czech Republic), and Africa. These are countries with economies still developing or industrializing, which means higher growth potential than mature markets but also higher risk and volatility. The index selects from among the largest and most liquid stocks in these markets — it is not a venture fund seeking tiny companies, but rather a screened slice of the main investable emerging-market universe.
 
 Because the index rebalances regularly (typically monthly or quarterly) based on the latest momentum readings, the actual holdings of PIE change more frequently than a traditional index ETF. A stock that was in the portfolio because it was rising will be dropped if its momentum fades. This turnover is higher than a static index, which means trading costs and tax efficiency are slightly worse for long-term holders in taxable accounts.
 
@@ -48,7 +48,7 @@ Because PIE focuses on stocks from developing countries and smaller companies wi
 
 **Emerging-market volatility.** Emerging markets are more volatile than developed markets. Political instability, currency swings, central-bank policy shifts, and sudden changes in [capital flows](/capital-flows/) can shake share prices dramatically. A fund holding emerging-market stocks will swing more than a developed-market equivalent.
 
-**[Currency risk](/currency-risk/).** Most emerging-market stocks trade in their local currency — Brazilian reals, [Indian rupees](/indian-rupee/), Thai baht. When you buy PIE, you are implicitly holding all those foreign currencies. If the [US dollar](/us-dollar/) strengthens, those currencies weaken, which can erase profits even if the stocks themselves go up in local terms.
+**[Currency risk](/currency-risk/).** Most emerging-market stocks trade in their local currency — [Brazilian reals](/brazilian-real/), [Indian rupees](/indian-rupee/), Thai baht. When you buy PIE, you are implicitly holding all those foreign currencies. If the [US dollar](/us-dollar/) strengthens, those currencies weaken, which can erase profits even if the stocks themselves go up in local terms.
 
 **Concentration.** Momentum screening can create concentration: if a few countries or sectors are experiencing strong price trends, the index will hold disproportionately many stocks from those regions or industries. If that momentum is bubble-like and pops, losses can be severe.
 

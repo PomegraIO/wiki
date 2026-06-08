@@ -41,7 +41,7 @@ MoneySupermarket's competitive moat, if it exists, rests on data (customer behav
 
 ## European Expansion and Diversification
 
-MoneySupermarket began as a UK-centric operator but has expanded into other European markets and into new product categories. The 10-K should break out revenue by geography and product line if possible. Expansion into new geographies or products diversifies revenue but often requires investment and carries execution risk. Look for discussion of recent expansions, profitability by geographic segment (is the UK mature and low-growth, while Europe is high-growth but unprofitable?), and any plans for new product lines or markets.
+MoneySupermarket began as a UK-centric operator but has expanded into other European markets and into new product categories. The 10-K should break out revenue by geography and product line if possible. Expansion into new geographies or products diversifies revenue but often requires investment and carries [execution risk](/execution-risk/). Look for discussion of recent expansions, profitability by geographic segment (is the UK mature and low-growth, while Europe is high-growth but unprofitable?), and any plans for new product lines or markets.
 
 ## Mobile and Digital Trends
 

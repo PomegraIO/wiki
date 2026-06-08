@@ -46,7 +46,7 @@ The economics of an earn-in reveal Enertopia's capital negotiating power: If a m
 
 ## Property Claims and Impairment Risk
 
-Enertopia's balance sheet lists property, plant, and equipment, which likely consists of exploration claims, permits, and drilling equipment. These are tangible assets but illiquid: a claim is valuable only if there is ore, and ore is valuable only if it is economically mineable. If a property yields no economic mineral deposit, its accounting value must be written down (impaired) to zero, destroying balance-sheet equity.
+Enertopia's balance sheet lists [property, plant, and equipment](/property-plant-equipment/), which likely consists of exploration claims, permits, and drilling equipment. These are tangible assets but illiquid: a claim is valuable only if there is ore, and ore is valuable only if it is economically mineable. If a property yields no economic mineral deposit, its accounting value must be written down (impaired) to zero, destroying balance-sheet equity.
 
 Impairment charges are thus a key signal: a large impairment means accumulated exploration costs on a property are deemed unrecoverable. A pattern of impairments suggests management's earlier capital allocation decisions were poor — the firm spent exploration capital on duds. Conversely, success (no impairments, growing resource estimates) suggests capital is being deployed toward real deposits.
 

@@ -48,7 +48,7 @@ Financing risk affects many junior mining companies. If capital markets lose app
 
 Start with the company's annual and quarterly SEC filings (10-K, 10-Q, 8-K reports), which disclose the company's operational updates, capital expenditure plans, and financial condition. The company's 10-K includes a description of each mining concession, its stage of development, and management's assessment of its viability.
 
-Track commodity prices for the metals SOS produces: copper on the London Metal Exchange, molybdenum on the [CME Group](/cme-group/), and rare-earth prices reported by specialized industry data providers. Compare these prices to SOS's stated costs of production to get a sense of cash-generation potential.
+Track commodity prices for the metals SOS produces: copper on the [London Metal Exchange](/london-metal-exchange/), molybdenum on the [CME Group](/cme-group/), and rare-earth prices reported by specialized industry data providers. Compare these prices to SOS's stated costs of production to get a sense of cash-generation potential.
 
 Monitor news from Mongolia regarding mining policy, permitting changes, and the political environment. Mining companies operating in emerging markets can face rapid shifts in government stance toward foreign investment and resource extraction.
 

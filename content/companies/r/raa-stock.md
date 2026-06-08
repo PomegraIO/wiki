@@ -25,7 +25,7 @@ REITs bring property exposure — commercial, residential, industrial, data cent
 
 ## The cyclical trap
 
-RAA thrives in boom-to-bust transitions — when equity multiples compress, when inflation expectations rise, when currencies weaken. It tanks in deflationary cycles and low-inflation, high-growth periods. A decade of declining real rates and equity dominance leaves RAA trailing a simple 60/40 stock-bond split. The fund is not nimble; it is a position, not a trade.
+RAA thrives in boom-to-bust transitions — when [equity multiples](/equity-multiple-real-estate/) compress, when [inflation expectations](/inflation-expectations/) rise, when currencies weaken. It tanks in deflationary cycles and low-inflation, high-growth periods. A decade of declining real rates and equity dominance leaves RAA trailing a simple 60/40 stock-bond split. The fund is not nimble; it is a position, not a trade.
 
 Commodity [contango](/contango/) — the state where future prices exceed spot prices — erodes returns through rolling costs. Tracking error clusters around 0.20 to 0.40 basis points per year as the fund manages [basis risk](/basis-risk/) and rebalance slippage. The [expense ratio](/expense-ratio/) is 0.45 to 0.60 percent, higher than a plain equity index but fair for commodity exposure that funds would otherwise pay 100 basis points to capture.
 

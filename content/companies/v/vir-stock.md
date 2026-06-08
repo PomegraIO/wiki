@@ -68,4 +68,4 @@ The likelihood that at least one program will be approved is reasonable given th
 - No approved products; early-to-mid-stage clinical pipeline
 - Funded by capital raises and partnership deals; significant cash burn and funding risk
 - Valuation entirely dependent on clinical trial results and market perception of program success
-- Appropriate only for investors comfortable with significant execution risk and long development timelines
+- Appropriate only for investors comfortable with significant [execution risk](/execution-risk/) and long development timelines

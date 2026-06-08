@@ -55,4 +55,4 @@ If Centurion fails to complete a transaction, its cash and warrants are returned
 
 ## How investors and analysts assess Centurion
 
-The primary sources of information are SEC filings, particularly 8-K forms announcing material developments or merger announcements, and the company's investor relations website. Once a target is announced, the proxy statement filed with the SEC provides detailed financial and operational information about the proposed acquisition, including management's projections and risk factors. That document is critical for shareholders to evaluate whether to vote in favor of the transaction.
+The primary sources of information are SEC filings, particularly 8-K forms announcing material developments or merger announcements, and the company's investor relations website. Once a target is announced, the [proxy statement](/proxy-statement/) filed with the SEC provides detailed financial and operational information about the proposed acquisition, including management's projections and risk factors. That document is critical for shareholders to evaluate whether to vote in favor of the transaction.

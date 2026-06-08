@@ -68,7 +68,7 @@ In the years after 2020, supply-chain disruptions — pandemic lockdowns, port c
 
 ## Competitive position and margins
 
-WEYCO competes in a fragmented market. At the high end, brands like Nike, Adidas, and luxury footwear makers dominate. In the mass market and mid-tier, WEYCO and hundreds of smaller competitors fight for wholesale placement and consumer preference. WEYCO's niche is mid-tier branded and private-label footwear — solid quality at accessible prices, sold through broad distribution.
+WEYCO competes in a [fragmented market](/fragmented-market/). At the high end, brands like Nike, Adidas, and luxury footwear makers dominate. In the mass market and mid-tier, WEYCO and hundreds of smaller competitors fight for wholesale placement and consumer preference. WEYCO's niche is mid-tier branded and private-label footwear — solid quality at accessible prices, sold through broad distribution.
 
 That positioning is defensible but not fortress-like. The company has longevity and established relationships with retailers, which matters. But large retailers increasingly want proprietary private-label and own-brand shoes that they can margin higher and control more tightly. Larger competitors like Nike use vertical integration and marketing scale to capture share. Smaller, nimbler competitors can move faster on trends.
 

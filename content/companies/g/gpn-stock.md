@@ -71,8 +71,8 @@ But the long-term risk is obsolescence. If transactions shift to new payment met
 
 Start with the annual 10-K filing (SEC CIK 0001123360), which breaks down revenue by geographic region and service type. Watch the net revenue per transaction — if it is declining, it suggests that merchants are using their bargaining power to negotiate lower fees. Watch the [operating margin](/operating-margin/) — it should be high and stable if the company has pricing power.
 
-Track the volume of transactions processed. This is the leading indicator of revenue. The quarterly earnings calls will give color on this metric and on new customer wins or losses.
+Track the volume of transactions processed. This is the [leading indicator](/leading-indicator/) of revenue. The quarterly earnings calls will give color on this metric and on new customer wins or losses.
 
 Watch for announcements about [acquisitions](/acquisition/). Global Payments grows partly through organic growth and partly by buying smaller payment processors in new markets or offering new services. Track whether acquisitions are being integrated successfully and whether they are accretive to earnings.
 
-And monitor the competitive landscape. New payment methods (buy now, pay later, instant payments, etc.) are being invented regularly. Watch which ones are gaining adoption and whether Global Payments has the right infrastructure to support them or whether it will be left behind.
+And monitor the competitive landscape. New payment methods ([buy now, pay later](/buy-now-pay-later/), instant payments, etc.) are being invented regularly. Watch which ones are gaining adoption and whether Global Payments has the right infrastructure to support them or whether it will be left behind.

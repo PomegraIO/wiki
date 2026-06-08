@@ -26,7 +26,7 @@ Smaller retail investors who find raw bitcoin too stomach-churning sometimes use
 
 **Costs and how it trades**
 
-CBXY carries an [expense ratio](/expense-ratio/) that reflects the cost of managing the structure and the ongoing options hedges—typically in the range of 1.5 to 2.5 percent annually, well above a plain bitcoin ETF. The fund trades on an exchange like any other ETF, so you can buy and sell during market hours at [bid-ask spreads](/bid-ask-spread/) that are usually tight relative to the [net asset value](/net-asset-value/). Liquidity depends on the issuer's market-making activity; early versions of these structured products can be thinly traded, so wide spreads are a risk.
+CBXY carries an [expense ratio](/expense-ratio/) that reflects the cost of managing the structure and the ongoing options hedges—typically in the range of 1.5 to 2.5 percent annually, well above a plain bitcoin ETF. The fund trades on an exchange like any other ETF, so you can buy and sell during market hours at [bid-ask spreads](/bid-ask-spread/) that are usually tight relative to the [net asset value](/net-asset-value/). Liquidity depends on the issuer's market-making activity; early versions of these [structured products](/structured-product/) can be thinly traded, so wide spreads are a risk.
 
 **The real risks**
 

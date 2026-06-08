@@ -47,7 +47,7 @@ The company also offers a white-labeled portal that its customers can embed in t
 
 Webhooks are not new — they have existed as a pattern for over a decade — but they have become increasingly central to how modern applications communicate. The shift toward event-driven architecture, microservices, and asynchronous APIs has made webhooks essential infrastructure. Every SaaS platform now needs the ability to notify downstream systems when something happens; every marketplace must alert sellers and buyers when orders arrive; every payment processor must notify merchants when transactions complete.
 
-Despite this ubiquity, webhook infrastructure has remained fragmented. Many companies still build and maintain their own webhooks, duplicating effort across the industry. Svix's opportunity is to consolidate this fragmented market by offering a managed service that is faster, more reliable, and cheaper than each company building alone.
+Despite this ubiquity, webhook infrastructure has remained fragmented. Many companies still build and maintain their own webhooks, duplicating effort across the industry. Svix's opportunity is to consolidate this [fragmented market](/fragmented-market/) by offering a managed service that is faster, more reliable, and cheaper than each company building alone.
 
 Competition exists but is limited. Some companies use third-party message queues like RabbitMQ or Kafka as a foundation for webhooks, but these require significant engineering to secure, scale, and monitor. AWS offers SimpleNotificationService, but it is less purpose-built and still requires customer setup. Svix's advantage is focus: every design decision is optimized for webhook delivery, not generic messaging.
 

@@ -57,7 +57,7 @@ Some SPAC [mergers](/merger/) work — they result in a genuine operating busine
 
 ## Risks and what to watch
 
-Rising Dragon's principal risk is execution risk on the HZJL merger. If the merger fails, investors lose the opportunity cost and may see the shell company liquidate and return capital — but not without losses to fees and timing delays. If the merger succeeds, the risk transfers to HZJL's business fundamentals and growth trajectory. Investors should ask: What exactly does HZJL do? Who are its customers? How durable are its contracts? Are the revenue targets in the earn-out realistic, or inflated?
+Rising Dragon's principal risk is [execution risk](/execution-risk/) on the HZJL merger. If the merger fails, investors lose the opportunity cost and may see the shell company liquidate and return capital — but not without losses to fees and timing delays. If the merger succeeds, the risk transfers to HZJL's business fundamentals and growth trajectory. Investors should ask: What exactly does HZJL do? Who are its customers? How durable are its contracts? Are the revenue targets in the earn-out realistic, or inflated?
 
 Regulatory risk is another vector. U.S. regulators have become scrutinous of Chinese-controlled companies trading on Nasdaq, and the Committee on Foreign Investment in the United States (CFIUS) reviews deals that might create national-security concerns. An unexpected regulatory challenge could derail or reshape the deal.
 
@@ -65,9 +65,9 @@ There is also timing risk. The SPAC window closes in 2027. If Rising Dragon and 
 
 ## How to research Rising Dragon and SPAC mergers
 
-Investors interested in Rising Dragon should begin with the company's SEC filings (CIK 0002018145) and track the Form 8-K announcements related to the HZJL merger. The proxy statement filed in advance of the shareholder vote on the merger will contain detailed financials and risk disclosures for HZJL, along with management projections and the deal terms.
+Investors interested in Rising Dragon should begin with the company's SEC filings (CIK 0002018145) and track the Form 8-K announcements related to the HZJL merger. The [proxy statement](/proxy-statement/) filed in advance of the shareholder vote on the merger will contain detailed financials and risk disclosures for HZJL, along with management projections and the deal terms.
 
 Key questions: What is HZJL's actual business (beyond the marketing description)? Who are its largest customers, and how long are their contracts? What are HZJL's recent financial results, and how realistic are the earn-out revenue targets? What is the governance structure post-merger — who owns how much, and who controls the board?
 
-For anyone considering investing in a SPAC merger, it is worth reading at least one comprehensive post-mortem of failed SPAC deals to understand the structural incentives at play. SPACs are not inherently bad, but they are not inherently good either — they are structures with known failure modes. Investor due diligence is essential.
+For anyone considering investing in a SPAC merger, it is worth reading at least one comprehensive post-mortem of failed SPAC deals to understand the structural incentives at play. SPACs are not inherently bad, but they are not inherently good either — they are structures with known failure modes. Investor [due diligence](/due-diligence/) is essential.
 

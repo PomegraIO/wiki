@@ -68,6 +68,6 @@ The bank's geographic diversity — its strength in serving global customers —
 
 ## Understanding HSBC as an investment
 
-HSBC's [annual report](/10-k/) and 20-F filing (SEC CIK 0001089113) break down profitability by segment and geography, revealing where the bank earns money and where it struggles. Key metrics include [return on equity](/return-on-equity/) across segments, net interest margin, cost-to-income ratio, and the composition of the deposit base by currency and country.
+HSBC's [annual report](/10-k/) and 20-F filing (SEC CIK 0001089113) break down profitability by segment and geography, revealing where the bank earns money and where it struggles. Key metrics include [return on equity](/return-on-equity/) across segments, net interest margin, [cost-to-income ratio](/cost-income-ratio/), and the composition of the deposit base by currency and country.
 
 The bank's resilience depends on the health of global trade, the profitability of multinational corporations, and the wealth of ultra-high-net-worth individuals. Economic slowdown, rising interest rates, or geopolitical disruption all threaten HSBC's earnings. Unlike a domestic bank where you can model the national economy, understanding HSBC requires monitoring conditions across dozens of markets and the complex web of cross-border flows that the bank facilitates.

@@ -48,7 +48,7 @@ Glimpse's forward earnings rest on all three moving. If hardware adoption platea
 
 ## Acquisition-Driven Growth and Integration Risk
 
-The Vicon acquisition exemplifies Glimpse's growth playbook: acquire platforms and teams that deepen the studio's value chain and cross-sell footprint. Vicon brought 30+ years of motion-capture expertise and an installed base in sports production, filmmaking, and performance analysis. The integration promise is significant—a studio that owns the capture tooling and the creative pipeline can offer holistic solutions and higher margins. But integrations at this scale introduce execution risk. Teams, cultures, and billing systems must cohere. Overlapping sales channels must be rationalized. The acquired product roadmap must align with the studio's strategy.
+The Vicon acquisition exemplifies Glimpse's growth playbook: acquire platforms and teams that deepen the studio's value chain and cross-sell footprint. Vicon brought 30+ years of motion-capture expertise and an installed base in sports production, filmmaking, and performance analysis. The integration promise is significant—a studio that owns the capture tooling and the creative pipeline can offer holistic solutions and higher margins. But integrations at this scale introduce [execution risk](/execution-risk/). Teams, cultures, and billing systems must cohere. Overlapping sales channels must be rationalized. The acquired product roadmap must align with the studio's strategy.
 
 ## Mapping the Wider Industry Ecology
 

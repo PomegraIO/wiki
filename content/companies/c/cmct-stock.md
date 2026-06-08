@@ -50,7 +50,7 @@ Creative Media's revenue is almost entirely determined by the creditworthiness a
 
 This creates a subtle but important dynamic. If Creative Media is performing well and its tenants are profitable, the trust raises its distributions and shareholders are happy. But if tenants fall into distress, Creative Media must often choose between cutting distributions (which punishes shareholders) or maintaining distributions by consuming capital (which is unsustainable). Real estate REITs sometimes face tenant bankruptcy en masse, as happened in parts of the retail sector during the e-commerce transition. Creative Media is exposed to the same risk in entertainment.
 
-Diversified REITs, with thousands of tenants across multiple sectors, can absorb tenant losses without disrupting distributions. A specialized REIT with dozens of entertainment tenants cannot. This is the reason Creative Media's distributions are higher and more volatile than those of broader competitors.
+[Diversified REITs](/diversified-reit/), with thousands of tenants across multiple sectors, can absorb tenant losses without disrupting distributions. A specialized REIT with dozens of entertainment tenants cannot. This is the reason Creative Media's distributions are higher and more volatile than those of broader competitors.
 
 ## Measuring the trade-off
 

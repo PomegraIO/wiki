@@ -25,7 +25,7 @@ This decay is not a fee — it is baked into the structure itself. It means that
 
 ## Affirm as the underlying: a concentrated bet
 
-AFRU's fate is Affirm's fate. Affirm is a financial-technology company in the point-of-sale lending space — it offers "buy now, pay later" credit at the checkout. The company's revenue and profitability are subject to consumer credit cycles, regulatory scrutiny on consumer lending, and competition from larger financial-services firms. Holding AFRU is not a trade on the broader fintech sector or on consumer spending; it is a direct doubling-down on a single company's stock.
+AFRU's fate is Affirm's fate. Affirm is a financial-technology company in the point-of-sale lending space — it offers "[buy now, pay later](/buy-now-pay-later/)" credit at the checkout. The company's revenue and profitability are subject to consumer [credit cycles](/credit-cycle/), regulatory scrutiny on consumer lending, and competition from larger financial-services firms. Holding AFRU is not a trade on the broader fintech sector or on consumer spending; it is a direct doubling-down on a single company's stock.
 
 That concentration means AFRU is not a core holding. It is a tactical tool — a way for someone with a strong, near-term conviction about Affirm's direction to amplify that conviction. If that conviction is right and Affirm rallies, AFRU does well. If the conviction is wrong, or if the market conditions shift, the fund amplifies the loss just as readily.
 

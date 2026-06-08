@@ -28,7 +28,7 @@ BZQ is not a fund you hold for your retirement account or a long-term buy-and-fo
 
 ## What does "UltraShort" actually mean?
 
-"UltraShort" is industry jargon for an inverse [leveraged ETF](/leveraged-etf/). Broken down: "inverse" means it moves opposite to its benchmark—when Brazil's [stock market](/stock-market/) goes down, BZQ goes up; and "leveraged" means it exaggerates that movement, typically by a multiple of two. So if the MSCI Brazil Capped Index falls 1 percent on a day, BZQ is designed to gain approximately 2 percent. If the index rises 1 percent, BZQ aims to drop 2 percent. That amplification is the appeal for traders betting on weakness, and the danger for long-term holders.
+"UltraShort" is industry jargon for an inverse [leveraged ETF](/leveraged-etf/). Broken down: "inverse" means it moves opposite to its benchmark—when Brazil's [stock market](/stock-market/) goes down, BZQ goes up; and "leveraged" means it exaggerates that movement, typically by a multiple of two. So if the MSCI Brazil [Capped Index](/capped-index/) falls 1 percent on a day, BZQ is designed to gain approximately 2 percent. If the index rises 1 percent, BZQ aims to drop 2 percent. That amplification is the appeal for traders betting on weakness, and the danger for long-term holders.
 
 ## Why would anyone own this?
 
@@ -48,7 +48,7 @@ This "volatility decay" is a mathematical inevitability of leveraged and inverse
 
 ## What is the MSCI Brazil Capped Index?
 
-MSCI is a major index provider. Its Brazil Capped Index captures the large and mid-cap publicly traded companies in Brazil—the giants like mining companies, banks, and manufacturers. The "capped" part means no single company can dominate the index's weight; the largest holding is typically limited to around 15 percent or so, depending on the cap level. This gives the index some [diversification](/diversification/) compared to owning just a handful of mega-cap Brazilian stocks, but exposure is still concentrated in a few mega-companies.
+MSCI is a major [index provider](/index-provider/). Its Brazil Capped Index captures the large and mid-cap publicly traded companies in Brazil—the giants like mining companies, banks, and manufacturers. The "capped" part means no single company can dominate the index's weight; the largest holding is typically limited to around 15 percent or so, depending on the cap level. This gives the index some [diversification](/diversification/) compared to owning just a handful of mega-cap Brazilian stocks, but exposure is still concentrated in a few mega-companies.
 
 Brazilian equities are highly correlated with commodity prices, economic growth in China and other big trading partners, and Brazilian political and [currency risk](/currency-risk/). The index rises on commodity booms and falling Brazilian risk premiums, and falls during commodity busts or political turmoil.
 

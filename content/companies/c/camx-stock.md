@@ -34,7 +34,7 @@ Concentration is a practical risk. With roughly 50–80 holdings, the fund has f
 
 Value as a factor has cycled in and out of favour with regularity. Periods of high growth and accommodative [monetary policy](/monetary-policy/) (like much of the 2010s and 2020s) tend to suppress value returns relative to growth; periods of rising rates or economic anxiety tend to reward it. CAMX's performance will reflect those broader cycles, not merely manager skill.
 
-Value investors argue that disciplined deep-value buying provides a margin of safety—the discount provides cushion against surprises. Over a full market cycle, that philosophy has historical support. But full cycles require patience and conviction; investors seeking quick capital appreciation should look elsewhere.
+Value investors argue that disciplined deep-value buying provides a margin of safety—the discount provides cushion against surprises. Over a full [market cycle](/market-cycle/), that philosophy has historical support. But full cycles require patience and conviction; investors seeking quick capital appreciation should look elsewhere.
 
 ## For whom and how to assess it
 

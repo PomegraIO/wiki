@@ -21,7 +21,7 @@ The company collected capital through its [initial public offering](/initial-pub
 
 ## The Tigerless Health merger
 
-In early 2026, Piermont Valley announced a definitive merger agreement with Tigerless Health Inc., an insurance technology startup founded in 2018 and headquartered in New York City. Tigerless Health focuses on making insurance simpler and more transparent for consumers — helping people understand, compare, and access coverage in categories including health, pet, and other insurance products. The transaction valued Tigerless Health at approximately 280 million dollars on an enterprise-value basis, meaning Piermont Valley was buying a relatively young company at a significant size.
+In early 2026, Piermont Valley announced a [definitive merger agreement](/definitive-merger-agreement/) with Tigerless Health Inc., an insurance technology startup founded in 2018 and headquartered in New York City. Tigerless Health focuses on making insurance simpler and more transparent for consumers — helping people understand, compare, and access coverage in categories including health, pet, and other insurance products. The transaction valued Tigerless Health at approximately 280 million dollars on an enterprise-value basis, meaning Piermont Valley was buying a relatively young company at a significant size.
 
 The merger is expected to close during 2026, with the combined company planning to list on the [Nasdaq](/nasdaq/) under the name Tigerless Health Inc. The deal gives Tigerless a public listing and the capital and reporting infrastructure that comes with it, while Piermont Valley's shareholders and sponsors gain exposure to an insurance technology business in a sector where consumers increasingly want digital-first experiences.
 

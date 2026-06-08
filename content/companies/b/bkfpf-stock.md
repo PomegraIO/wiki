@@ -59,7 +59,7 @@ Other series are perpetual floating-rate: they pay a base rate (e.g., Canadian p
 
 Preferred shares are one of several tools available to income-seeking investors. [Corporate bonds](/corporate-bond/) offer senior claim but fixed maturity. Common-share dividends offer growth potential but are not contractually guaranteed. Preferred shares sit between: they offer contractual priority over common shares but lack the seniority and maturity of bonds.
 
-Brookfield preferred shares, given the company's scale and diversified asset base, tend to trade at relatively tight spreads to risk-free rates. That makes them appropriate for conservative investors who want corporate income above government bonds but do not want equity risk.
+Brookfield preferred shares, given the company's scale and diversified asset base, tend to trade at relatively tight spreads to [risk-free rates](/risk-free-rate/). That makes them appropriate for conservative investors who want corporate income above government bonds but do not want equity risk.
 
 ## Risks particular to Brookfield
 

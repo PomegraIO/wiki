@@ -57,7 +57,7 @@ Scale matters here differently than in lending. A bank with more deposits can fu
 
 Capital One's size also means it is closely watched by regulators. As one of the largest consumer lenders in North America, the company is systemically important to the financial system — were it to fail suddenly, tens of millions of customers would lose access to credit. This status subjects Capital One to annual stress tests, capital requirements, and regular examinations by the Federal Reserve and the [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/).
 
-Regulatory capital requirements mean that Capital One must hold a much larger equity cushion than a smaller, non-systemically-important bank would. This dampens [return on equity](/return-on-equity/) and makes [acquisitions](/acquisition/) harder to fund. Regulatory attention also means that any consumer complaints, data breaches, or operational failures draw heightened scrutiny and sometimes enforcement action.
+Regulatory capital requirements mean that Capital One must hold a much larger [equity cushion](/equity-cushion/) than a smaller, non-systemically-important bank would. This dampens [return on equity](/return-on-equity/) and makes [acquisitions](/acquisition/) harder to fund. Regulatory attention also means that any consumer complaints, data breaches, or operational failures draw heightened scrutiny and sometimes enforcement action.
 
 ## How to Research Capital One
 

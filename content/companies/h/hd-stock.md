@@ -44,7 +44,7 @@ That said, Amazon and other digital-native players have gained share in smaller 
 
 ## The customer and the earnings engine
 
-Home Depot's customer base is broad but skews toward the aging American homeowner. As people age, they spend more on their homes. Older homes need maintenance. Real estate values create incentives for renovations. The company benefits from this demographic tailwind, but it also means Home Depot is sensitive to housing starts, existing home sales, and consumer confidence. When the economy weakens or [interest rates](/interest-rate/) spike, people delay renovations, and Home Depot feels the pain almost immediately.
+Home Depot's customer base is broad but skews toward the aging American homeowner. As people age, they spend more on their homes. Older homes need maintenance. Real estate values create incentives for renovations. The company benefits from this demographic tailwind, but it also means Home Depot is sensitive to [housing starts](/housing-starts/), existing home sales, and consumer confidence. When the economy weakens or [interest rates](/interest-rate/) spike, people delay renovations, and Home Depot feels the pain almost immediately.
 
 Earnings depend heavily on traffic—the number of transactions per store—and basket size, or the average dollar amount per transaction. Comparable-store sales (sales from stores open for at least a year) are a key metric because they separate growth from new-store opening, and investors watch them closely. The company also tracks pro customer sales separately because the pro side is less sensitive to economic cycles and commands higher margins.
 

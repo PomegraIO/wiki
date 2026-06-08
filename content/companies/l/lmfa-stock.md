@@ -41,7 +41,7 @@ The [debt](/corporate-bond/)-to-equity ratio is critical. High leverage amplifie
 
 ## Underwriting Discipline and Acquisition Timing
 
-The hidden leverage point in LMFA's business is the discipline of acquisition: which judgments does the company buy, and at what discount to face value? If management is aggressive (buying at high face-value percentages during credit expansions), the portfolio bulges with lower-quality claims and defaults spike when the credit cycle turns. If management is conservative, the portfolio is smaller but higher-quality, protecting [return-on-equity](/return-on-equity/) but limiting growth.
+The hidden leverage point in LMFA's business is the discipline of acquisition: which judgments does the company buy, and at what discount to face value? If management is aggressive (buying at high face-value percentages during credit expansions), the portfolio bulges with lower-quality claims and defaults spike when the [credit cycle](/credit-cycle/) turns. If management is conservative, the portfolio is smaller but higher-quality, protecting [return-on-equity](/return-on-equity/) but limiting growth.
 
 Seasonal patterns may exist: creditors sell judgments at certain times of year, and LMFA's ability to capitalize on those windows depends on funding availability. Analysts should track quarterly acquisition volumes and average [discount rates](/discount-rate/) over time to sense whether underwriting is loosening.
 

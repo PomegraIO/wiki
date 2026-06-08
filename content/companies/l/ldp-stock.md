@@ -65,7 +65,7 @@ A fund trading at a steep discount to NAV is cheaper per dollar of assets but si
 
 Cohen & Steers is an independent investment manager known for real-assets investing (real estate, infrastructure, commodities) and for income-focused strategies. The fund manager's job is to construct a portfolio of preferred stock and bonds that can generate the targeted distribution while preserving capital. This requires judgment about credit quality, interest-rate risk, and sector allocation.
 
-The manager does not control the income the assets generate — that is determined by market conditions and the health of the issuers. But the manager can choose which preferred stocks and bonds to buy, how much [credit risk](/credit-risk/) to take, and how long a duration to maintain. Those decisions drive the fund's risk profile and its ability to sustain distributions through market cycles.
+The manager does not control the income the assets generate — that is determined by market conditions and the health of the issuers. But the manager can choose which preferred stocks and bonds to buy, how much [credit risk](/credit-risk/) to take, and how long a duration to maintain. Those decisions drive the fund's risk profile and its ability to sustain distributions through [market cycles](/market-cycle/).
 
 ## How to research LDP
 

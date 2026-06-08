@@ -19,7 +19,7 @@ This model is sometimes called a "mini-Berkshire" when smaller investors deploy 
 
 Graf Global Corp is legally structured as an unincorporated trust — a Canadian structure that allows for tax-efficient income distribution to unitholders (the public shareholders). This is similar to the structure used by many Canadian [real estate investment trusts](/real-estate-investment-trust/) (REITs) and income trusts. The trust itself owns a holding company, which in turn owns the operating subsidiaries and investments. Income from the portfolio — [dividends](/dividend/), interest, and the occasional sale gain — flows up through the structure to unitholders as distributions.
 
-The unincorporated trust structure has two main advantages. First, it allows the company to distribute cash to shareholders without the double taxation that a traditional corporation faces (corporate tax on earnings, then shareholder tax on dividends). Second, it provides tax deferral for capital gains if the trust structures transactions carefully. These structures have become less favored in Canada in recent years due to tax changes, but the trust wrapper remains a standard way for holding companies and income vehicles to organize themselves.
+The unincorporated trust structure has two main advantages. First, it allows the company to distribute cash to shareholders without the [double taxation](/double-taxation/) that a traditional corporation faces (corporate tax on earnings, then shareholder tax on dividends). Second, it provides tax deferral for capital gains if the trust structures transactions carefully. These structures have become less favored in Canada in recent years due to tax changes, but the trust wrapper remains a standard way for holding companies and income vehicles to organize themselves.
 
 For investors, the GRAF-UN units trade on public Canadian [stock exchanges](/stock-exchange/) just like shares of an operating company. The investor owns a fractional interest in the trust, which owns the underlying holding company and all its businesses.
 
@@ -75,7 +75,7 @@ The second risk is illiquidity. The businesses in Graf's portfolio are private. 
 
 The third risk is operational. If Graf's central team of value-creation specialists is small or dependent on a few key people, the quality of capital and operating guidance provided to portfolio companies may suffer if those people depart or the team is overstretched.
 
-The fourth risk is market-dependent. Valuations of small, private businesses are supported by a market for acquisitions. In years when there are many buyers for small businesses (private equity firms, larger strategic buyers, other holding companies), portfolios can be valued generously and individual businesses can be sold at high prices. In years when that market cools, valuations compress and exits become harder. A holding company with a high proportion of businesses it wants to sell in a thin market faces pressure.
+The fourth risk is market-dependent. Valuations of small, private businesses are supported by a market for acquisitions. In years when there are many buyers for small businesses (private equity firms, larger strategic buyers, other holding companies), portfolios can be valued generously and individual businesses can be sold at high prices. In years when that market cools, valuations compress and exits become harder. A holding company with a high proportion of businesses it wants to sell in a [thin market](/thin-market/) faces pressure.
 
 ## How to research Graf Global
 

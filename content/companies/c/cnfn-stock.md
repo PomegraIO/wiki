@@ -102,7 +102,7 @@ Deterioration in utilization, margin compression, and customer concentration are
 Staffing firms typically carry modest [balance sheets](/balance-sheet/). Check for:
 
 - **[Accounts receivable](/accounts-receivable/) aging**: Clients often pay 30–60 days after invoice. If A/R is growing faster than revenue, cash collection is slowing (bad sign).
-- **Deferred revenue**: Does CFN hold any advance client payments? This is a cushion.
+- **[Deferred revenue](/deferred-revenue/)**: Does CFN hold any advance client payments? This is a cushion.
 - **Debt**: Is there meaningful debt, and if so, what are covenants?
 - **Working capital**: Staffing is relatively capital-light, so working capital needs are modest. If working capital is tying up cash, investigate.
 

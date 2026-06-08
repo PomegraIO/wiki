@@ -26,7 +26,7 @@ That said, the expenses are also real and substantial. Vornado has to maintain t
 
 Vornado focuses almost entirely on major metropolitan areas. This matters. New York, Washington, San Francisco — these cities have limited land, lots of money, and lots of demand for space. That means rents stay high and tenants have to pay to be there. A building in a shrinking city in the Midwest is less reliable as an income source.
 
-Real estate is inherently local. The same building in two different neighborhoods can have wildly different rents and vacancy rates. Vornado's strategy is to own premium buildings in premium locations where demand stays strong because companies and people want to be there, not because they have no other choice. That provides a stable moat. It is harder to compete on price when your location is irreplaceable.
+Real estate is inherently local. The same building in two different neighborhoods can have wildly different rents and [vacancy rates](/vacancy-rate-property/). Vornado's strategy is to own premium buildings in premium locations where demand stays strong because companies and people want to be there, not because they have no other choice. That provides a stable moat. It is harder to compete on price when your location is irreplaceable.
 
 ## Office buildings and the post-pandemic question
 

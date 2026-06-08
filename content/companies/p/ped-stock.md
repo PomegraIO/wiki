@@ -32,7 +32,7 @@ The Sacramento Basin is a vast, well-understood oil province in northern Califor
 
 But California regulation has reshaped that advantage. The state requires extensive environmental permits, monitoring, and compliance. Operators must satisfy air quality rules, water-protection standards, and seismic safeguards. Costs that would be minor in Texas or Wyoming are significant in California. New drilling permits have become slow and contentious. Regulatory uncertainty is PEDEVCO's constant companion.
 
-That combination — a prolific, familiar basin coupled with a punishing regulatory regime — explains PEDEVCO's business model and its pressures. The company must extract maximum value from existing fields while the rules allow, because expansion is slow. It must keep costs lean because margins are already compressed by regulation. And it must manage the political risk that California might further restrict or even phase out onshore oil production.
+That combination — a prolific, familiar basin coupled with a punishing regulatory regime — explains PEDEVCO's business model and its pressures. The company must extract maximum value from existing fields while the rules allow, because expansion is slow. It must keep costs lean because margins are already compressed by regulation. And it must manage the [political risk](/political-risk/) that California might further restrict or even phase out onshore oil production.
 
 ## The portfolio and how PEDEVCO makes its money
 

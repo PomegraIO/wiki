@@ -20,7 +20,7 @@ Infrastructure assets are long-lived and, once built, nearly irreplaceable. A hi
 
 NWPX operates under various regulatory and contractual frameworks depending on the jurisdiction and the asset. Some transmission assets fall under state or regional utility regulation that sets a rate of return on capital invested; others are subject to regional transmission organization tariffs; still others may be privately owned and contracted. The diversity of frameworks creates different risk and return profiles across the portfolio.
 
-The beauty of this model is that NWPX does not bear the commodity risk that a power plant or utility retailer carries. It does not matter whether electricity prices are high or low, or whether [natural gas](/natural-gas/) is abundant or scarce — the infrastructure still gets used and still generates revenue from that usage.
+The beauty of this model is that NWPX does not bear the [commodity risk](/commodity-risk/) that a power plant or utility retailer carries. It does not matter whether electricity prices are high or low, or whether [natural gas](/natural-gas/) is abundant or scarce — the infrastructure still gets used and still generates revenue from that usage.
 
 ## Capital intensity and maintenance
 

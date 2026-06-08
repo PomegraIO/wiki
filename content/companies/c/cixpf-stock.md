@@ -4,7 +4,7 @@ description: "Major Spanish bank trading as an American Depositary Receipt; oper
 keywords: [Spanish bank, ADR, European banking, deposit-taking, retail lending, branch network, CIK 1535628]
 ---
 
-*CaixaBank (CIXPF) operates in Spain as one of the country's largest deposit-taking institutions, meaning its daily work consists of managing a branch network across Spanish cities and towns, receiving deposits from Spanish savers and businesses, making loans to Spanish households and companies, and managing the [capital flows](/capital-flows/) and regulatory relationships that come with being a systemically important bank in a eurozone nation. For American investors, the company trades as an American Depositary Receipt—a certificate representing shares held in custody abroad.*
+*CaixaBank (CIXPF) operates in Spain as one of the country's largest deposit-taking institutions, meaning its daily work consists of managing a branch network across Spanish cities and towns, receiving deposits from Spanish savers and businesses, making loans to Spanish households and companies, and managing the [capital flows](/capital-flows/) and regulatory relationships that come with being a systemically important bank in a eurozone nation. For American investors, the company trades as an American [Depositary Receipt](/depositary-receipt/)—a certificate representing shares held in custody abroad.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CIXPF</td></tr>

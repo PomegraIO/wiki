@@ -30,7 +30,7 @@ The practical consequence is that in years when the Nasdaq-100 surges 30% or mor
 
 QQHG carries an [expense ratio](/expense-ratio/) of roughly 0.27% annually — higher than the flagship QQQ (which costs around 0.20%) but lower than many [actively managed funds](/actively-managed-fund/). That extra cost reflects the ongoing management of the options overlay and Invesco's work to reset the hedge periodically.
 
-The fund is moderately liquid. It has attracted less AUM than QQQ and therefore lighter trading volume, which can widen [bid-ask spreads](/bid-ask-spread/) during large trades. For typical retail orders, the spread is tight, but large institutional block trades may face less immediate counterparty depth than the most liquid [equity ETFs](/equity-etf/).
+The fund is moderately liquid. It has attracted less AUM than QQQ and therefore lighter trading volume, which can widen [bid-ask spreads](/bid-ask-spread/) during large trades. For typical retail orders, the spread is tight, but large institutional [block trades](/block-trade/) may face less immediate counterparty depth than the most liquid [equity ETFs](/equity-etf/).
 
 ## Who QQHG is for and what to watch
 

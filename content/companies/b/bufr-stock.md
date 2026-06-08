@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The FT Vest Laddered Buffer ETF was born from a straightforward observation: most individual investors dislike big market losses far more than they rationally should, and this emotional discomfort often causes them to sell at the bottom, locking in losses they might otherwise have weathered. BUFR was designed as a structural answer to that problem — a way to hold a diversified portfolio of the 500 largest American companies while knowing in advance that annual losses were capped at about 13%. It is part of a new class of defined-outcome funds that became practical only as options markets grew deep and efficient enough to underpin them.
+The FT Vest Laddered [Buffer ETF](/buffer-etf/) was born from a straightforward observation: most individual investors dislike big market losses far more than they rationally should, and this emotional discomfort often causes them to sell at the bottom, locking in losses they might otherwise have weathered. BUFR was designed as a structural answer to that problem — a way to hold a diversified portfolio of the 500 largest American companies while knowing in advance that annual losses were capped at about 13%. It is part of a new class of defined-outcome funds that became practical only as options markets grew deep and efficient enough to underpin them.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ The FT Vest Laddered Buffer ETF was born from a straightforward observation: mos
 
 ## The context: when BUFR arrived
 
-The fund emerged in the early-to-mid 2010s, a period when the options markets had matured enough to make complex overlays cost-effective and when the financial crisis had left a generation of retail investors deeply scarred by the possibility of a 50% drawdown. The broader trend was toward structured products that could promise — or at least, create a strong expectation of — a known worst case. [Brokers](/broker/) and advisors began stocking funds that offered some version of "you can invest in stocks but we will cap your loss." BUFR and its sibling buffers (BUFQ for [Nasdaq](/nasdaq/), BUFT for balanced, and others) were First Trust's answer to that demand.
+The fund emerged in the early-to-mid 2010s, a period when the options markets had matured enough to make complex overlays cost-effective and when the financial crisis had left a generation of retail investors deeply scarred by the possibility of a 50% drawdown. The broader trend was toward [structured products](/structured-product/) that could promise — or at least, create a strong expectation of — a known worst case. [Brokers](/broker/) and advisors began stocking funds that offered some version of "you can invest in stocks but we will cap your loss." BUFR and its sibling buffers (BUFQ for [Nasdaq](/nasdaq/), BUFT for balanced, and others) were First Trust's answer to that demand.
 
 The timing was astute. A decade of zero-interest-rate policy and [quantitative easing](/quantitative-easing/) had made options cheap relative to the protection they provided, which meant a put-based downside cap could be funded without completely strangling upside. The S&P 500 itself had climbed steadily from the crisis bottom, so investors were ready to get back into equities but wanted a psychological safety rail.
 
@@ -48,7 +48,7 @@ BUFR is also not a hedge you layer on top of an existing S&P 500 position. You s
 
 Since inception, BUFR has captured roughly 90–95% of the market's upside in normal years and substantially less than 100% of the downside in bad ones. This is not because of outright market-timing skill; it is because of the mechanical shape of the options payoff. In a year like 2022, when the S&P 500 fell 18%, BUFR typically fell closer to 12–13%, a real cushion. In a year like 2023 or 2024, when the market rose strongly, BUFR lagged the broader index by roughly the cost of its options overlay.
 
-Over a full market cycle — a rise, a peak, a fall, and a recovery — an investor in BUFR usually trails an investor in a plain S&P 500 tracker, because the cost of the hedging compounds. This is not a flaw; it is the price of the insurance. The value proposition is emotional as much as financial: the certainty of a known worst case may be worth more to you than an extra 0.8% of expected long-term returns.
+Over a full [market cycle](/market-cycle/) — a rise, a peak, a fall, and a recovery — an investor in BUFR usually trails an investor in a plain S&P 500 tracker, because the cost of the hedging compounds. This is not a flaw; it is the price of the insurance. The value proposition is emotional as much as financial: the certainty of a known worst case may be worth more to you than an extra 0.8% of expected long-term returns.
 
 ## Who holds BUFR and why
 

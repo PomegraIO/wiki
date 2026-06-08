@@ -60,7 +60,7 @@ Leverage amplifies both risks. A given percentage drop in the bond portfolio's v
 
 ## PIMCO's role and the manager question
 
-PIMCO is a respected manager, one of the largest fixed-income specialists in the world, owned by Allianz. The fund benefits from PIMCO's credit research and trading expertise. But a good manager does not eliminate the structural risks of holding bonds during a credit cycle, nor does it prevent losses when markets reprice credit risk sharply. The fund is only as good as its manager's decisions, and even excellent managers can misjudge credit conditions.
+PIMCO is a respected manager, one of the largest fixed-income specialists in the world, owned by Allianz. The fund benefits from PIMCO's credit research and trading expertise. But a good manager does not eliminate the structural risks of holding bonds during a [credit cycle](/credit-cycle/), nor does it prevent losses when markets reprice credit risk sharply. The fund is only as good as its manager's decisions, and even excellent managers can misjudge credit conditions.
 
 ## Why someone would buy this
 

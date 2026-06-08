@@ -51,7 +51,7 @@ This transition risk is not immediately lethal but shapes long-term competitive 
 
 ## Research Framework
 
-Studying Leopard Energy via its [10-K](/10-k/) requires understanding reserve replacement (how much oil and gas the company finds relative to what it produces), reserve life (how many years of production remain), debt levels, and free cash flow. Competitive position depends on acreage quality, drilling costs, and access to capital—factors that become apparent in the reserves footnote, the business description, and the management discussion and analysis section.
+Studying Leopard Energy via its [10-K](/10-k/) requires understanding reserve replacement (how much oil and gas the company finds relative to what it produces), reserve life (how many years of production remain), debt levels, and free cash flow. Competitive position depends on acreage quality, drilling costs, and access to capital—factors that become apparent in the reserves footnote, the business description, and the [management discussion and analysis](/management-discussion-and-analysis/) section.
 
 <div class="wiki-seealso">
 ### Closely related

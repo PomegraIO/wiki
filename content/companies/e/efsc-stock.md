@@ -29,7 +29,7 @@ EFSC earns different spreads on different loan types. A [commercial real estate]
 
 In the central United States, EFSC's portfolio likely tilts toward commercial real estate (typical for community banks: retail properties, office buildings, multifamily apartments in [secondary markets](/secondary-market/)), small commercial loans, and agricultural lending. Each category has its own loss frequency and severity. Agricultural loans are vulnerable to commodity prices and weather; commercial real estate is vulnerable to occupancy and local economic shocks; small businesses are vulnerable to management quality and sector-specific disruption.
 
-The bank earns gross spread on all of these, but must reserve for expected losses. Under accounting standards, EFSC must estimate the lifetime probability of default and loss on each loan pool and set aside a reserve — a non-cash charge that reduces reported earnings. A loan that yields 6.5% but carries a 2% lifetime default rate effectively yields 4.5% after provisioning.
+The bank earns gross spread on all of these, but must reserve for expected losses. Under accounting standards, EFSC must estimate the lifetime [probability of default](/probability-of-default/) and loss on each loan pool and set aside a reserve — a non-cash charge that reduces reported earnings. A loan that yields 6.5% but carries a 2% lifetime default rate effectively yields 4.5% after provisioning.
 
 ## Deposit Pricing and Competition
 
@@ -49,7 +49,7 @@ For EFSC, fee income is important but secondary. A large deposit base of 100,000
 
 EFSC's actual unit economics — spread minus losses — swing with credit conditions. During economic expansion, small businesses grow, property values appreciate, [default rates](/default-rate/) fall, and EFSC can realize near-maximum spreads after modest loan-loss provisions. During contraction, defaults accelerate, recovery rates on defaulted collateral fall, and EFSC must provision heavily, crushing reported earnings.
 
-A $100 loan yielding 6% is worth $6 in gross interest. If the loan defaults and the bank recovers $60 of principal, it has lost $40 (plus [accrued interest](/accrued-interest/) forgone). The bank's realized spread on that loan is negative. A portfolio with 2% default rate and 60% recovery rates effectively surrenders 0.8% of gross yield to loss.
+A $100 loan yielding 6% is worth $6 in gross interest. If the loan defaults and the bank recovers $60 of principal, it has lost $40 (plus [accrued interest](/accrued-interest/) forgone). The bank's [realized spread](/realized-spread/) on that loan is negative. A portfolio with 2% default rate and 60% recovery rates effectively surrenders 0.8% of gross yield to loss.
 
 ## Operating Leverage and Scale
 

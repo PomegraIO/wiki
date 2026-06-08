@@ -65,11 +65,11 @@ Government policy also shapes the industry. 5G is part of both infrastructure an
 
 ## Risks and pressures
 
-The largest risk is that VIAVI's hardware test business is gradually commoditizing or being displaced by software. As networks move to software-defined architectures, the need for specialized portable test equipment may decline. The company is adapting, but the shift requires reinvention and carries execution risk. If VIAVI does not make the transition successfully to software and cloud tools, it could face margin compression and volume decline.
+The largest risk is that VIAVI's hardware test business is gradually commoditizing or being displaced by software. As networks move to software-defined architectures, the need for specialized portable test equipment may decline. The company is adapting, but the shift requires reinvention and carries [execution risk](/execution-risk/). If VIAVI does not make the transition successfully to software and cloud tools, it could face margin compression and volume decline.
 
 A second pressure is customer concentration. A handful of very large carriers account for a material share of revenue. The loss of a major customer or a significant reduction in spending by one carrier can hurt the company materially. Carriers also have leverage in negotiations because of their scale.
 
-Capital intensity is another consideration. VIAVI carries research and development expenses to maintain and advance its product lines, and it requires working capital to fund inventory and manufacturing. Profitability depends on managing these costs while maintaining the innovation needed to keep customers happy.
+Capital intensity is another consideration. VIAVI carries [research and development expenses](/research-development-expense/) to maintain and advance its product lines, and it requires working capital to fund inventory and manufacturing. Profitability depends on managing these costs while maintaining the innovation needed to keep customers happy.
 
 Currency exposure is real because VIAVI sells globally, and revenue in non-U.S. currencies gets translated back to dollars. A strong dollar reduces foreign-currency revenue when reported in U.S. terms.
 

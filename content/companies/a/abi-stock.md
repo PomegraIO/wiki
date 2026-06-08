@@ -35,12 +35,12 @@ The second major risk is [extension risk](/extension-risk/). In a falling-rate e
 
 The third risk is structural complexity. Asset-backed securities come in many varieties, with different seniority levels and payment orders. The residual and lower-rated [tranches](/tranche/) that offer higher yields also carry higher credit risk and are harder to price and trade. A fund concentrated in these lower-rated pieces carries real [liquidation](/liquidation/) risk if the market becomes dislocated and buyers disappear.
 
-ABI, as a newly launched fund, has limited track record through various market cycles. The portfolio's concentration in asset-backed structures means performance depends heavily on the health of the underlying collateral pools and on the liquidity of the market for these securities if the fund needs to sell.
+ABI, as a newly launched fund, has limited track record through various [market cycles](/market-cycle/). The portfolio's concentration in asset-backed structures means performance depends heavily on the health of the underlying collateral pools and on the liquidity of the market for these securities if the fund needs to sell.
 
 ## Who might own this and how to evaluate it
 
 ABI is designed for income-focused investors who want yields higher than traditional bonds but can tolerate credit and duration risks. It appeals to retirees, endowments, and anyone prioritizing cash flow over price appreciation. It is not a core holding but an auxiliary position for investors who understand securitized credit and believe [current yields](/current-yield/) justify the risks.
 
-Evaluating ABI requires reading the fund's prospectus and fact sheet carefully. The prospectus details the underlying collateral types, the payment priority structure, and the specific credit enhancements that protect investors. The fact sheet shows the effective duration, the distribution yield, and the historical performance against peer bond funds. Investors should understand what collateral types make up the portfolio and whether those assets have historically performed well through economic cycles.
+Evaluating ABI requires reading the fund's prospectus and fact sheet carefully. The prospectus details the underlying collateral types, the payment priority structure, and the specific [credit enhancements](/credit-enhancement/) that protect investors. The fact sheet shows the effective duration, the distribution yield, and the historical performance against peer bond funds. Investors should understand what collateral types make up the portfolio and whether those assets have historically performed well through economic cycles.
 
 Because the fund is young, prospective investors should also monitor its net asset base. Asset-based securitized credit is a deep but specialized market. If the fund does not grow to a viable asset level, expense ratios may rise or the fund may close.

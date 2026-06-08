@@ -36,7 +36,7 @@ The company's ability to borrow at favorable rates is thus critical. MREITs rais
 
 Chimera's appeal to many investors is its [dividend yield](/dividend-yield/) — higher than most stocks or bonds, often 8 to 12 percent or more in normal times. However, this dividend is not earned earnings in the traditional sense; it is a distribution of the cash the securities generate. If prepayments accelerate and rates fall, the cash flow available for dividends can decline sharply. Conversely, in a higher-rate environment with slower prepayments, dividend capacity may expand.
 
-Total return for an MREIT shareholder combines the dividend yield plus or minus any change in book value per share (the [net asset value](/net-asset-value/) of the securities held, per share of equity). In favorable rate environments, the combination can be attractive. In volatile or adverse ones, dividend reductions or capital losses can dominate.
+Total return for an MREIT shareholder combines the dividend yield plus or minus any change in [book value per share](/book-value-per-share/) (the [net asset value](/net-asset-value/) of the securities held, per share of equity). In favorable rate environments, the combination can be attractive. In volatile or adverse ones, dividend reductions or capital losses can dominate.
 
 ## Macro headwinds and competitive position
 

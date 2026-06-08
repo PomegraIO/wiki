@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Ares Management](/ares-stock/) is an alternative asset manager — a firm that pools capital from institutional and individual investors and deploys it into non-traditional assets: private equity, private credit, real estate, and infrastructure. The company earns money primarily through [management fees](/management-fee/) (a percentage of assets under management) and carried interest (a share of profits when investments are sold at gains). Unlike traditional diversified asset managers that hold securities on behalf of investors, Ares actively acquires companies, real estate, loans, and infrastructure projects and manages them for profit over a [holding period](/holding-period/) before exit.
+[Ares Management](/ares-stock/) is an alternative asset manager — a firm that pools capital from institutional and individual investors and deploys it into non-traditional assets: private equity, private credit, real estate, and infrastructure. The company earns money primarily through [management fees](/management-fee/) (a percentage of assets under management) and [carried interest](/carried-interest-compensation/) (a share of profits when investments are sold at gains). Unlike traditional diversified asset managers that hold securities on behalf of investors, Ares actively acquires companies, real estate, loans, and infrastructure projects and manages them for profit over a [holding period](/holding-period/) before exit.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,13 +29,13 @@ handwritten: true
 
 ## Private equity: the largest segment
 
-Ares' private equity business acquires companies (typically mid-market firms valued at hundreds of millions to low billions) using a mix of the firm's capital and borrowed money, improves operations and growth over a 5–7 year holding period, and sells the company for a profit. The firm raises capital for each investment fund from pension funds, insurance companies, endowments, and wealthy investors. Management fees are typically 2% of committed capital annually, regardless of performance; the carried interest is a share of profits (usually 20%) above an agreed hurdle rate.
+Ares' private equity business acquires companies (typically mid-market firms valued at hundreds of millions to low billions) using a mix of the firm's capital and borrowed money, improves operations and growth over a 5–7 year holding period, and sells the company for a profit. The firm raises capital for each investment fund from pension funds, insurance companies, endowments, and wealthy investors. Management fees are typically 2% of committed capital annually, regardless of performance; the carried interest is a share of profits (usually 20%) above an agreed [hurdle rate](/hurdle-rate/).
 
 This business is capital-intensive but highly profitable for the manager. Ares has built a reputation for disciplined [acquisitions](/acquisition/) and operational value creation — not financial engineering alone but genuine improvement in the companies it owns. The private equity segment generates the largest portion of Ares' management fees and carried interest.
 
 ## Credit: the fast-growing arm
 
-Ares Management has substantially grown its credit business, which includes direct lending to middle-market companies that cannot easily access traditional bank loans, as well as structured credit and special situations debt. Private credit has exploded in the past decade as banks reduced lending in the wake of the 2008 financial crisis and regulations like Dodd-Frank raised the cost of bank capital. Ares, along with other alternative managers, filled that gap by offering loans and structured products directly to borrowers.
+Ares Management has substantially grown its credit business, which includes direct lending to middle-market companies that cannot easily access traditional bank loans, as well as structured credit and special situations debt. Private credit has exploded in the past decade as banks reduced lending in the wake of the 2008 financial crisis and regulations like Dodd-Frank raised the cost of bank capital. Ares, along with other alternative managers, filled that gap by offering loans and [structured products](/structured-product/) directly to borrowers.
 
 The credit business is attractive because loans generate recurring quarterly or semi-annual interest payments, reducing reliance on fund exits (which drive carried interest). Interest income is more stable and predictable than equity returns. The spread between the cost of capital and the interest Ares charges borrowers creates a profit margin. Default risk exists — borrowers sometimes fail to repay — but the business has proven robust through cycles.
 
@@ -49,7 +49,7 @@ Real estate returns historically come from two sources: cash flow (rents) and ap
 
 Ares' infrastructure platform invests in long-lived assets with predictable cash flows: toll roads, ports, utilities, renewable energy facilities, and telecommunications towers. These assets generate revenue from tolls, fees, or service contracts and often benefit from [inflation](/inflation/) adjustments (prices rise with inflation). The holding periods are typically longer than private equity — 10–20 years or more — and returns are more modest but steady.
 
-Infrastructure is attractive to institutional investors with long time horizons (pensions, sovereign wealth funds, insurance companies) who prioritize stable cash flow over capital gains. Ares earns management fees and carried interest on infrastructure funds and often makes principal investments (deploying its own capital) in co-investment vehicles.
+Infrastructure is attractive to institutional investors with long time horizons (pensions, [sovereign wealth funds](/sovereign-wealth-fund/), insurance companies) who prioritize stable cash flow over capital gains. Ares earns management fees and carried interest on [infrastructure funds](/pe-infrastructure-fund/) and often makes principal investments (deploying its own capital) in co-investment vehicles.
 
 ## How Ares makes money: the fee and carry model
 
@@ -71,7 +71,7 @@ Ares competes directly with other large alternative managers — [Apollo Global 
 
 Key risks include fundraising risk (investors may lose appetite for alternatives), carry realization risk (if exits slow, carry dries up), and [operational risk](/operational-risk/) in underlying investments (if companies acquired perform poorly, Ares' reputation and realized returns suffer). [Interest-rate risk](/interest-rate-risk/) is material: higher rates can slow deal volume, make leverage more expensive, and pressure real estate and infrastructure valuations.
 
-Regulatory and geopolitical risk exists as well. Alternative asset managers can face increased scrutiny, and deals can be blocked on national security or antitrust grounds. International operations expose Ares to currency and political risk.
+Regulatory and geopolitical risk exists as well. Alternative asset managers can face increased scrutiny, and deals can be blocked on national security or antitrust grounds. International operations expose Ares to currency and [political risk](/political-risk/).
 
 ## How to research Ares
 

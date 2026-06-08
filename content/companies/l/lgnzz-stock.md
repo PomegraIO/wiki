@@ -45,7 +45,7 @@ Finally, [concentration risk](/concentration-risk/) matters. If two or three par
 
 Start with the annual 10-K filing and quarterly 10-Q filings (SEC CIK 0000886163), which break down the company's product revenue and non-product revenue (milestones, royalties, license fees) in explicit detail. Pay particular attention to the patent footnote, which lists [expiration dates](/expiration-contracts/) for key compounds—knowing when major intellectual property cliffs arrive is essential to projecting future cash flow.
 
-The management discussion and analysis (MD&A) section of the 10-K should spell out the status of key development programs, milestone expectations, and recent partnerships. This is where management telegraphs the pipeline's health. Watch for commentary on commercialization performance of drugs Ligand promotes directly and those licensed to partners.
+The [management discussion and analysis](/management-discussion-and-analysis/) (MD&A) section of the 10-K should spell out the status of key development programs, milestone expectations, and recent partnerships. This is where management telegraphs the pipeline's health. Watch for commentary on commercialization performance of drugs Ligand promotes directly and those licensed to partners.
 
 Model the business as two separate enterprises: a product revenue business (sales of drugs Ligand itself commercializes) and a royalty/milestone business (contractual streams from partners). They have very different economics, timing, and predictability. The product business operates more like a traditional pharma company; the royalty business looks more like a licensing and IP company with high margins but binary outcomes.
 

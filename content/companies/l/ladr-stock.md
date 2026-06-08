@@ -34,7 +34,7 @@ The reserve estimate is forward-looking and must account for economic conditions
 
 ## Loan Origination and Servicing: The Margin on Fees
 
-Beyond the net interest spread, Ladder earns origination fees and servicing fees on loans. An origination fee of 1.0% charged on a $50 million loan is $500,000 revenue upfront. However, that fee must cover origination costs: due diligence, legal, appraisal, and approval time. Ladder's unit economics on fees depend on how efficiently it can originate loans—the speed of underwriting and the ratio of deals completed to deals abandoned. A company that closes 80% of its pipeline may earn better fee margin than one closing 60%, because it can spread underwriting costs across more deals.
+Beyond the net interest spread, Ladder earns origination fees and servicing fees on loans. An origination fee of 1.0% charged on a $50 million loan is $500,000 revenue upfront. However, that fee must cover origination costs: [due diligence](/due-diligence/), legal, appraisal, and approval time. Ladder's unit economics on fees depend on how efficiently it can originate loans—the speed of underwriting and the ratio of deals completed to deals abandoned. A company that closes 80% of its pipeline may earn better fee margin than one closing 60%, because it can spread underwriting costs across more deals.
 
 Servicing fees are smaller but more durable. Ladder may earn 0.25% of the outstanding loan balance annually for servicing (collecting payments, managing escrows, monitoring compliance). On a large, stable portfolio, servicing generates steady, low-cost revenue. As the portfolio seasons and loans pay off or default, servicing revenue declines, making fee-based earnings volatile over time.
 

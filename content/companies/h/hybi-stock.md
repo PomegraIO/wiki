@@ -47,7 +47,7 @@ HYBI's singular pitch is that credit selection, disciplined and expert, is the l
 
 The core risk is simple: credit selection, like equity stock-picking, may not work. If all high-yield bonds rise together in economic expansions, the fund's selectivity adds nothing and it merely collects returns with an expense-ratio drag. In sharp credit crises, bonds the managers selected may fare no better than the average, and concentrated positions may amplify losses. High-yield bonds are also highly sensitive to interest-rate movements; if yields rise sharply across the board, credit skill is overwhelmed by the market effect.
 
-The high-yield market itself has evolved. Passive flows have grown, index providers have proliferated, and active managers face steadily compressed margins for outperformance. HYBI must now justify not just itself against other active funds but against the basic argument that a lower-cost passive high-yield ETF, tracking the broad market, is the sensible choice.
+The high-yield market itself has evolved. Passive flows have grown, [index providers](/index-provider/) have proliferated, and active managers face steadily compressed margins for outperformance. HYBI must now justify not just itself against other active funds but against the basic argument that a lower-cost passive high-yield ETF, tracking the broad market, is the sensible choice.
 
 ## Assessing HYBI
 

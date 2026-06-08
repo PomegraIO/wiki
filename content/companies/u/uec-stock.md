@@ -43,7 +43,7 @@ Separate from mining, UEC holds a meaningful stockpile of physical uranium metal
 
 ## How the business model would work at scale
 
-UEC's thesis assumes a multi-project, expanding-production model. The company would operate Willow Creek at commercial scale, extract cash flow, and use those proceeds to develop and start up the Reno Creek project, the Churchrock project, and others. Each new operation would lower per-unit cash costs due to operational learning and shared infrastructure, and the cumulative output would position UEC as a meaningful supplier into the nuclear fuel chain. This is a capital-intensive path, and execution risk is high. But if uranium prices remain firm and the company can navigate technical and regulatory hurdles, the model would generate substantial leverage on the uranium price.
+UEC's thesis assumes a multi-project, expanding-production model. The company would operate Willow Creek at commercial scale, extract cash flow, and use those proceeds to develop and start up the Reno Creek project, the Churchrock project, and others. Each new operation would lower per-unit cash costs due to operational learning and shared infrastructure, and the cumulative output would position UEC as a meaningful supplier into the nuclear fuel chain. This is a capital-intensive path, and [execution risk](/execution-risk/) is high. But if uranium prices remain firm and the company can navigate technical and regulatory hurdles, the model would generate substantial leverage on the uranium price.
 
 ## The competitive and regulatory landscape
 

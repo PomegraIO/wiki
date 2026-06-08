@@ -62,7 +62,7 @@ But 2025 also saw higher [interest rates](/interest-rate/), a selective credit e
 
 ## How to research Texas Ventures
 
-Monitor Texas Ventures' current SEC filings and announcements for updates on merger discussions or targets. If the company announces a deal, the detailed proxy statement will disclose the target company, its financials, the business strategy, the valuation, and the capital structure post-merger. That proxy is the key document to understand whether the deal makes economic sense.
+Monitor Texas Ventures' current SEC filings and announcements for updates on merger discussions or targets. If the company announces a deal, the detailed [proxy statement](/proxy-statement/) will disclose the target company, its financials, the business strategy, the valuation, and the capital structure post-merger. That proxy is the key document to understand whether the deal makes economic sense.
 
 Before a merger is announced, there is limited information available. Review the S-1 and 424B3 filings from the SPAC's IPO to understand the sponsor's track record, the target criteria, and any conflicts of interest. Track the SPAC's cash balance and timeline; as the 18-month deadline approaches, pressure increases to announce a deal.
 

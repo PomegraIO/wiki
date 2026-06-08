@@ -36,7 +36,7 @@ Beyond the net interest margin, EMYB earns income from service fees: account mai
 
 ## Balance Sheet Constraints and Capital Requirements
 
-A community bank's growth is constrained by its [equity capital](/common-stock/). Banks are required by regulators to hold a minimum level of equity capital as a buffer against losses; commonly, 10–12% of risk-weighted assets. This means EMYB, with $1 billion in assets, must hold $100–120 million in equity. If the bank retains earnings to build capital, it can grow the loan portfolio; if it pays out most earnings as [dividends](/dividend/), growth is constrained. Capital also affects strategic optionality: a well-capitalized bank can weather loan losses and economic downturns; an undercapitalized bank may face regulatory pressure to cut dividends or raise capital. Many community banks retain 60–70% of earnings to build capital while distributing 30–40% as dividends.
+A community bank's growth is constrained by its [equity capital](/common-stock/). Banks are required by regulators to hold a minimum level of equity capital as a buffer against losses; commonly, 10–12% of [risk-weighted assets](/risk-weighted-assets/). This means EMYB, with $1 billion in assets, must hold $100–120 million in equity. If the bank retains earnings to build capital, it can grow the loan portfolio; if it pays out most earnings as [dividends](/dividend/), growth is constrained. Capital also affects strategic optionality: a well-capitalized bank can weather loan losses and economic downturns; an undercapitalized bank may face regulatory pressure to cut dividends or raise capital. Many community banks retain 60–70% of earnings to build capital while distributing 30–40% as dividends.
 
 ## Geographic Concentration and Market Dependency
 

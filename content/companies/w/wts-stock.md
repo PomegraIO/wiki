@@ -55,7 +55,7 @@ The capital intensity of the business is moderate. Manufacturing facilities requ
 
 ## Acquisitions and portfolio management
 
-Watts has been an active acquirer, buying smaller manufacturers and product lines that fit within its three segments. These [acquisitions](/acquisition/) allow the company to add complementary products, enter new geographies, or acquire technologies and customer relationships. The integration of acquisitions is a key execution risk; buying a company is easier than making it operationally efficient within a larger organization.
+Watts has been an active acquirer, buying smaller manufacturers and product lines that fit within its three segments. These [acquisitions](/acquisition/) allow the company to add complementary products, enter new geographies, or acquire technologies and customer relationships. The integration of acquisitions is a key [execution risk](/execution-risk/); buying a company is easier than making it operationally efficient within a larger organization.
 
 Some acquisitions have been in adjacent markets or in international geographies where Watts wanted to build scale. Others have been in specialized products — for example, acquisitions of companies focused on drinking-water testing or industrial filtration. The goal is to diversify the product portfolio and reduce exposure to any single end market or geography.
 

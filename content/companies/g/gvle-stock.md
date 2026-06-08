@@ -29,7 +29,7 @@ The fund's portfolio of approximately 35 holdings reflects this selectivity. Rat
 
 GVLE competes within a crowded space. Value investing has become popular not because it is easy, but because its long-term results have been strong. Yet popularity creates crowding: when dozens of active managers are hunting for the same undiscovered values, discovering them becomes harder. The fund's success or failure hinges on whether its research team can identify opportunities that others have missed — or recognize qualities in out-of-favor names that will restore confidence before the broader market does.
 
-The fund launched in 2015, which gives it a longer track record than many newer entries but not yet a full market cycle to observe. Its management team includes three professionals with varying tenure; tenure matters in value investing because the best picks often require patience, and patience requires institutional continuity.
+The fund launched in 2015, which gives it a longer track record than many newer entries but not yet a full [market cycle](/market-cycle/) to observe. Its management team includes three professionals with varying tenure; tenure matters in value investing because the best picks often require patience, and patience requires institutional continuity.
 
 ## Geography and exposure
 

@@ -51,7 +51,7 @@ This segment grew substantially in the 2010s and 2020s as pension funding ratios
 
 ## Indexed Universal Life Insurance — bundling insurance and investment
 
-Indexed universal life insurance is a hybrid product blending a death benefit (traditional life insurance) with a cash value component that grows based on an underlying index, similar to indexed annuities. The customer pays a recurring premium, and if they die, their beneficiary receives the death benefit. But as long as the customer is alive, their cash value can accumulate at returns tied to market index performance, with downside protection.
+[Indexed universal life insurance](/indexed-universal-life-insurance/) is a hybrid product blending a death benefit (traditional life insurance) with a cash value component that grows based on an underlying index, similar to indexed annuities. The customer pays a recurring premium, and if they die, their beneficiary receives the death benefit. But as long as the customer is alive, their cash value can accumulate at returns tied to market index performance, with downside protection.
 
 The product appeals to customers who want both insurance protection and a savings vehicle. It is popular among affluent investors who can afford the premiums and want tax-advantaged wealth accumulation. For F&G, the product combines the steady cash flows of insurance premiums (and mortality margin, since most policyholders never claim) with the investment spread F&G captures on the indexed component.
 
@@ -67,6 +67,6 @@ The company's Des Moines headquarters is not incidental: Iowa and the surroundin
 
 Investors should begin with F&G's filings as a subsidiary of Fidelity National Financial (SEC CIK 0001614191), accessing the company's annual 10-K and quarterly 10-Q reports. These documents break down F&G's business by product segment, showing sales, in-force premiums, margins, and investment income by line. The asset composition of F&G's bond portfolio and its duration are also disclosed, revealing interest-rate sensitivity.
 
-Key metrics to track include in-force premiums by product (showing which segments are growing or shrinking), average crediting rates on annuities (a proxy for competitive positioning and profitability), and new-business sales (a leading indicator of future growth). Quarterly earnings calls provide management commentary on competitive conditions, customer demand patterns, and regulatory developments.
+Key metrics to track include in-force premiums by product (showing which segments are growing or shrinking), average crediting rates on annuities (a proxy for competitive positioning and profitability), and new-business sales (a [leading indicator](/leading-indicator/) of future growth). Quarterly earnings calls provide management commentary on competitive conditions, customer demand patterns, and regulatory developments.
 
 The annuity market is mature, competitive, and sensitive to interest rates and equity markets. Monitoring whether customers are buying or avoiding indexed products, how mortality experience is tracking, and whether pension risk transfer deals are abundant or drying up all inform the outlook for F&G's earnings growth.

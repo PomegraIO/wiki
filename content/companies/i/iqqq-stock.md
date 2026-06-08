@@ -87,4 +87,4 @@ Track realized volatility in the Nasdaq-100. Higher volatility historically lead
 
 Consider your own market outlook. If you believe large-cap tech will outperform significantly over the next few years, IQQQ is not the right tool. If you believe growth will be modest or returns will come from income not appreciation, IQQQ makes sense.
 
-Compare IQQQ to a plain Nasdaq-100 ETF (like QQQ) over a full market cycle to see where covered calls added or subtracted value.
+Compare IQQQ to a plain Nasdaq-100 ETF (like QQQ) over a full [market cycle](/market-cycle/) to see where covered calls added or subtracted value.

@@ -33,7 +33,7 @@ The sector focus reflects post-2024 appetite among certain SPAC investors. Crypt
 
 ## The two-year horizon and execution challenge
 
-Like all SPACs, Renatus faces a roughly two-year deadline: if no definitive merger agreement is signed by May 15, 2027, the company must liquidate or seek a shareholder vote to extend. That clock creates urgency for management to identify and negotiate a target. The breadth of the search criteria — three separate sectors and a wide valuation range — offers some flexibility, but finding the right fit in a competitive fundraising environment remains challenging.
+Like all SPACs, Renatus faces a roughly two-year deadline: if no [definitive merger agreement](/definitive-merger-agreement/) is signed by May 15, 2027, the company must liquidate or seek a shareholder vote to extend. That clock creates urgency for management to identify and negotiate a target. The breadth of the search criteria — three separate sectors and a wide valuation range — offers some flexibility, but finding the right fit in a competitive fundraising environment remains challenging.
 
 Success in the SPAC space has increasingly come to those with deep industry relationships and operational credibility. Swider's track record with DWAC and the collective experience of the leadership team provide credibility, but execution on the target identification and deal closure remains ahead. The company began searching in mid-2025 and has not announced any material negotiations or indication of a preferred sector focus within the three named areas.
 

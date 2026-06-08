@@ -28,7 +28,7 @@ SPACs operate under a defined timeline. Most have a two-year window from IPO to 
 
 ## Sponsor and Management Incentives
 
-The sponsor (the team that organized the SPAC) has financial incentives that differ from those of public shareholders. Founder shares typically vest or unlock upon merger close and are worth nothing if liquidation occurs. This creates incentive misalignment: sponsors may be motivated to close a deal, even a mediocre one, rather than liquidate. The 10-K should disclose the sponsor's identity, the sponsor's equity stake, any advisory or consulting fees paid to related parties, and the terms of any earnout arrangements tied to the target's post-merger performance. A critical research task is to cross-check the 10-K against the proxy statement (filed separately) for detailed earnout terms and any conflicts of interest in target valuation.
+The sponsor (the team that organized the SPAC) has financial incentives that differ from those of public shareholders. Founder shares typically vest or unlock upon merger close and are worth nothing if liquidation occurs. This creates incentive misalignment: sponsors may be motivated to close a deal, even a mediocre one, rather than liquidate. The 10-K should disclose the sponsor's identity, the sponsor's equity stake, any advisory or consulting fees paid to related parties, and the terms of any earnout arrangements tied to the target's post-merger performance. A critical research task is to cross-check the 10-K against the [proxy statement](/proxy-statement/) (filed separately) for detailed earnout terms and any conflicts of interest in target valuation.
 
 ## Announced Targets and Merger Agreements
 
@@ -40,5 +40,5 @@ A key entry point for an analyst is the redemption provisions. Public shareholde
 
 ## Where to Look in the Filing
 
-When analyzing Reliance Global's 10-K, prioritize the risk factors (Item 1A), which disclose liquidation timelines and merger deadlines. Review Item 7 (Management Discussion) for any updates on target searches or announced combinations. Pay close attention to related-party transactions (Item 13) for sponsor fees or arrangements that might signal self-dealing. If a merger agreement is in progress, cross-reference the exhibits for the full terms. The [balance sheet](/balance-sheet/) is minimal, but the trust account and sponsor equity rollover commitments are essential to track.
+When analyzing Reliance Global's 10-K, prioritize the risk factors (Item 1A), which disclose liquidation timelines and merger deadlines. Review Item 7 (Management Discussion) for any updates on target searches or announced combinations. Pay close attention to related-party transactions (Item 13) for sponsor fees or arrangements that might signal self-dealing. If a merger agreement is in progress, cross-reference the exhibits for the full terms. The [balance sheet](/balance-sheet/) is minimal, but the trust account and sponsor [equity rollover](/equity-rollover/) commitments are essential to track.
 

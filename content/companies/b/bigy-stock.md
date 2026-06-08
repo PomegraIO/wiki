@@ -66,6 +66,6 @@ It is less suitable for growth-oriented investors or those planning a long buy-a
 
 Read the fund's prospectus for the exact methodology: how strikes are chosen, how often options are rolled, and how distributions are calculated. Check the fact sheet for the current holdings and their weights — you should be comfortable owning those fifty stocks.
 
-Backtest the strategy: compare BIGY's returns (including distributions) against a simple S&P 500 ETF or a covered-call benchmark over several market cycles. In bull markets, the covered-call fund will lag. In choppy or [bear markets](/bear-market/), it may well outperform. Use that comparison to decide whether the income premium justifies the potential upside sacrifice.
+Backtest the strategy: compare BIGY's returns (including distributions) against a simple S&P 500 ETF or a covered-call benchmark over several [market cycles](/market-cycle/). In bull markets, the covered-call fund will lag. In choppy or [bear markets](/bear-market/), it may well outperform. Use that comparison to decide whether the income premium justifies the potential upside sacrifice.
 
 Finally, understand your tax situation. Monthly distributions are typically short-term capital gains (taxed as ordinary income), not [qualified dividends](/qualified-dividend/), which can be a significant cost if the fund is held in a taxable account. Tax-advantaged accounts (IRAs) eliminate that concern.

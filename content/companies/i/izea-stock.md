@@ -41,7 +41,7 @@ Creators also have limited bargaining power individually, so IZEA can apply poli
 
 ## Demand and Brand Acquisition
 
-Brand-side demand is stronger and stickier. Once a brand has run a successful campaign and built internal workflows around IZEA's tools, switching to a competitor incurs process disruption, learning curve, and reputational risk if a migration causes campaign delays. Brands also benefit from IZEA's accumulated data on creator performance and audience demographics, increasing switching costs over time.
+Brand-side demand is stronger and stickier. Once a brand has run a successful campaign and built internal workflows around IZEA's tools, switching to a competitor incurs process disruption, learning curve, and [reputational risk](/reputational-risk/) if a migration causes campaign delays. Brands also benefit from IZEA's accumulated data on creator performance and audience demographics, increasing switching costs over time.
 
 Acquiring new brands, though, requires building track records of campaign success and demonstrating ROI. IZEA's growth thus depends on both marketing to brand prospects and maintaining a creator supply robust and diverse enough to deliver campaigns that beat brands' internal benchmarks for ad spend efficiency.
 

@@ -55,7 +55,7 @@ The core risks are structural. **Emerging-market exposure** is a double-edged sw
 
 The [10-K](/wiki/10-k/) and quarterly earnings reveal underlying trends. Watch **organic revenue growth** (price plus volume), which separates pricing power from market-share loss. **Gross margin** trends signal whether Unilever can pass input-cost inflation to consumers or is losing pricing battles. **[Return on invested capital](/return-on-invested-capital/)** (ROIC) is critical because the company is capital-intensive despite its outsourcing model. Compare it to P&G and other household-goods firms.
 
-Monitor the **emerging-market mix**: Unilever earns roughly half its sales from developing economies, where growth is faster but volatility is higher. Currency headwinds in [Indian rupees](/indian-rupee/), Brazilian reals, or Turkish lira can mask or distort underlying operational performance. Look at **competitive share data** in key categories—does Dove hold ground in skincare, or is it slipping to prestige competitors? Is Lipton's tea franchise growing or declining?
+Monitor the **emerging-market mix**: Unilever earns roughly half its sales from developing economies, where growth is faster but volatility is higher. Currency headwinds in [Indian rupees](/indian-rupee/), [Brazilian reals](/brazilian-real/), or [Turkish lira](/turkish-lira/) can mask or distort underlying operational performance. Look at **competitive share data** in key categories—does Dove hold ground in skincare, or is it slipping to prestige competitors? Is Lipton's tea franchise growing or declining?
 
 Sustainability commitments and capex deserve attention. The company is investing in renewable energy, packaging redesign, and supply-chain decarbonization; quantify whether these moves are driving consumer preference or merely meeting regulatory mandates. A deeper dive into **M&A pipeline** and past acquisitions (how did Schmidt's deodorant and Burt's Bees perform post-acquisition?) reveals whether Unilever can inorganic growth successfully.
 
@@ -65,7 +65,7 @@ Finally, **dividend and shareholder returns** matter for equity investors. Unile
 
 - **Home Care:** Omo, Persil, Sunlight, Domestos, Cif
 - **Personal Care:** Dove, Vaseline, Lynx/Axe, TRESemmé, Sunsilk, Cetaphil, Dermalogica, Aveeno, Icy Hot
-- **Foods & Refreshments:** Lipton (tea), Hellmann's/Best Foods (mayo), Knorr (stocks, soups, sauces), Magnum (ice cream), Cornetto, Ben & Jerry's, Wall's/Edy's (ice cream)
+- **Foods & Refreshments:** Lipton (tea), Hellmann's/Best Foods (mayo), Knorr (stocks, soups, sauces), [Magnum (ice cream](/micc-stock/)), Cornetto, Ben & Jerry's, Wall's/Edy's (ice cream)
 - **Emerging/Acquired:** Burt's Bees (natural personal care), Schmidt's (natural deodorant), Seventh Generation (eco-friendly cleaning)
 
 ---

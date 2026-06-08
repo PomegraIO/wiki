@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Nuveen California Quality Municipal [Income Fund](/income-fund/) (ticker NAC) is a closed-end investment company that holds a portfolio of [municipal bonds](/municipal-bond/) issued by California cities, counties, and other entities. Like all municipal bond funds, its primary appeal is the tax-free income its distributions provide to holders — a crucial feature for investors in high tax brackets. NAC's geographic concentration in California reflects both opportunity and constraint: California's large, sophisticated municipal market offers abundant issuance, but concentrating a portfolio in one state amplifies exposure to regional economic and [credit risks](/credit-risk/) that a more geographically diversified fund would spread.
+Nuveen California Quality Municipal [Income Fund](/income-fund/) (ticker NAC) is a closed-end investment company that holds a portfolio of [municipal bonds](/municipal-bond/) issued by California cities, counties, and other entities. Like all [municipal bond funds](/municipal-bond-fund/), its primary appeal is the tax-free income its distributions provide to holders — a crucial feature for investors in high tax brackets. NAC's geographic concentration in California reflects both opportunity and constraint: California's large, sophisticated municipal market offers abundant issuance, but concentrating a portfolio in one state amplifies exposure to regional economic and [credit risks](/credit-risk/) that a more geographically diversified fund would spread.
 
 <aside class="wiki-infobox">
 <table>

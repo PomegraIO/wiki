@@ -43,7 +43,7 @@ The credit quality is extremely high. The countries in the index are all rated A
 
 ## Costs and liquidity
 
-BWX carries an expense ratio of approximately 0.10% per year, which is competitive for a broad-based bond ETF. The fund has healthy trading volume and tight bid-ask spreads, given its size and the liquidity of underlying government bonds. It is also tax-efficient, generating minimal capital gains and distributing interest income on a monthly basis.
+BWX carries an [expense ratio](/expense-ratio/) of approximately 0.10% per year, which is competitive for a broad-based bond ETF. The fund has healthy trading volume and tight [bid-ask spreads](/bid-ask-spread/), given its size and the liquidity of underlying government bonds. It is also tax-efficient, generating minimal capital gains and distributing interest income on a monthly basis.
 
 ## Who it is for
 
@@ -51,7 +51,7 @@ BWX suits several types of investors:
 
 - International diversifiers who want to reduce home-country bias and add exposure to developed-market sovereign debt.
 - Investors with liabilities or spending plans in foreign currencies, who can use foreign bonds as a natural hedge.
-- Those seeking to extend the duration and credit-stability component of their bond allocation without taking credit risk (corporate bonds or emerging-market debt).
+- Those seeking to extend the duration and credit-stability component of their bond allocation without taking [credit risk](/credit-risk/) ([corporate bonds](/corporate-bond/) or emerging-market debt).
 - Tactical traders who believe international yields offer better value than US Treasuries at a given moment.
 
 It is less appropriate for investors seeking current income (yields are modest) or for those uncomfortable with unhedged currency exposure.

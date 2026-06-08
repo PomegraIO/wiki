@@ -34,7 +34,7 @@ Tradipitant, developed for nausea and vomiting, represents the kind of narrow in
 
 ## Cyclicality and the rareness premium
 
-Vanda's drugs serve niche indications, which creates a natural buffer against commoditization but also limits growth ceiling. In booms, when biotech valuations expand and investors hunt for specialized players with defensible franchises, the stock often benefits from multiple expansion. In downturns, when capital becomes scarce and investors demand profitability or clear paths to it, Vanda's modest scale and narrow focus can weigh on sentiment.
+Vanda's drugs serve niche indications, which creates a natural buffer against commoditization but also limits growth ceiling. In booms, when biotech valuations expand and investors hunt for specialized players with defensible franchises, the stock often benefits from [multiple expansion](/multiple-expansion/). In downturns, when capital becomes scarce and investors demand profitability or clear paths to it, Vanda's modest scale and narrow focus can weigh on sentiment.
 
 The company's cyclical swing is also tied to FDA approvals and pipeline progress. Any significant setback in a Phase 3 trial or a regulatory denial can depress the stock sharply because the pipeline is small. Conversely, an approval in a new indication or a successful trial can spark re-rating upward.
 

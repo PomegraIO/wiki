@@ -8,7 +8,7 @@ keywords: ["industrial technology", "debt financing", "working capital", "capita
 
 ## The Manufacturing Balance Sheet
 
-Eason's balance sheet is populated with physical assets: machinery, facilities, tooling, and work-in-progress inventory. Unlike software firms, which convert operating expenses to [revenue](/stock/) efficiently, manufacturing firms must invest substantial capital upfront to establish production capacity. These investments are reflected on the [balance sheet](/balance-sheet/) as property, plant, and equipment (PP&E), which depreciates over many years.
+Eason's balance sheet is populated with physical assets: machinery, facilities, tooling, and work-in-progress inventory. Unlike software firms, which convert operating expenses to [revenue](/stock/) efficiently, manufacturing firms must invest substantial capital upfront to establish production capacity. These investments are reflected on the [balance sheet](/balance-sheet/) as [property, plant, and equipment](/property-plant-equipment/) (PP&E), which depreciates over many years.
 
 This capital intensity shapes Eason's financial strategy. The company must generate sufficient cash flow to service debt, fund ongoing capital expenditures (capex) needed to replace aging equipment and increase capacity, and manage working-capital swings tied to production cycles. A company building new factories or retooling production lines may see cash flow decline in the near term, even if the underlying business is sound, because capex comes immediately while revenues from new capacity materialize later.
 

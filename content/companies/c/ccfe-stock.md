@@ -30,7 +30,7 @@ The case for concentration is intellectually straightforward. If a manager can i
 
 The case against concentration is equally stark. A portfolio of 50 to 80 stocks swings harder than a diversified fund holding hundreds. When one of the top five holdings falters, the entire fund feels it. Over time, the fund's success depends entirely on whether Concourse's team can identify winners often enough and avoid losers badly enough to overcome its [expense ratio](/expense-ratio/) and beat a simple [index fund](/index-fund/) net of fees.
 
-History suggests this is harder than it looks. Most actively managed funds fail to beat their benchmark after fees over a full market cycle. CCFE's value proposition rests on the claim that this team is the exception.
+History suggests this is harder than it looks. Most actively managed funds fail to beat their benchmark after fees over a full [market cycle](/market-cycle/). CCFE's value proposition rests on the claim that this team is the exception.
 
 ## Costs and how it trades
 

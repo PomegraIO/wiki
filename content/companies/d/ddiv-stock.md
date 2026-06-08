@@ -15,7 +15,7 @@ The First Trust Dorsey Wright Momentum & [Dividend](/dividend/) ETF combines two
 
 ## What does the fund track?
 
-DDIV follows an index constructed by Dorsey Wright & Associates, a firm specializing in technical analysis and quantitative stock selection. The underlying index selects from the universe of large-cap US companies — typically those in the S&P 500 — and applies two filters. First, it measures price momentum over a defined lookback period to identify stocks showing strength. Second, it screens for companies that pay dividends, which can signal financial stability and capital allocation discipline. The result is a portfolio of roughly 100 to 150 stocks, concentrated enough to be differentiated from a total-market fund but diversified enough to spread risk across sectors and company sizes. The index rebalances regularly, typically quarterly, to refresh the momentum signal and ensure stocks still meet dividend criteria.
+DDIV follows an index constructed by Dorsey Wright & Associates, a firm specializing in technical analysis and quantitative stock selection. The underlying index selects from the universe of large-cap US companies — typically those in the S&P 500 — and applies two filters. First, it measures price momentum over a defined lookback period to identify stocks showing strength. Second, it screens for companies that pay dividends, which can signal financial stability and capital allocation discipline. The result is a portfolio of roughly 100 to 150 stocks, concentrated enough to be differentiated from a total-market fund but diversified enough to [spread risk](/spread-risk/) across sectors and company sizes. The index rebalances regularly, typically quarterly, to refresh the momentum signal and ensure stocks still meet dividend criteria.
 
 ## How does momentum and dividend selection behave across boom and bust?
 
@@ -27,7 +27,7 @@ The fund therefore swings more sharply than either a broad large-cap index or a 
 
 ## What are the costs and how does it trade?
 
-DDIV carries an [expense ratio](/expense-ratio/) well below 0.50 percent, making it affordable for long-term holders. It trades with solid liquidity during market hours, though it is not one of the largest or most-liquid [equity ETFs](/equity-etf/) — investors trading large blocks should be mindful of spreads during thin market periods. The fund pays out dividends quarterly, reflecting the underlying holdings' payment schedules, making it suitable for income-focused investors who want to reinvest or live on the cash.
+DDIV carries an [expense ratio](/expense-ratio/) well below 0.50 percent, making it affordable for long-term holders. It trades with solid liquidity during market hours, though it is not one of the largest or most-liquid [equity ETFs](/equity-etf/) — investors trading large blocks should be mindful of spreads during [thin market](/thin-market/) periods. The fund pays out dividends quarterly, reflecting the underlying holdings' payment schedules, making it suitable for income-focused investors who want to reinvest or live on the cash.
 
 ## What risks come from this dual-factor design?
 

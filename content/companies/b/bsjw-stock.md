@@ -39,7 +39,7 @@ BSJW distributes its income as monthly or quarterly dividends. The [current yiel
 
 But BSJW's returns are not limited to dividends. The fund's share price also moves. If interest rates rise, all bonds decline in value. If the credit market deteriorates — if investors suddenly demand much higher yield premiums for taking on junk-bond risk — the prices of high-yield bonds fall even if the level of interest rates stays flat. These price movements can be significant. A spike in rates or a widening of [credit spreads](/credit-spread/) might push BSJW down 8 to 15 percent from peak to trough. Conversely, falling rates or tightening credit spreads (risk appetite rising) can push the fund up.
 
-This volatility is normal and expected. It is also the reason why BSJW is inappropriate for anyone who might need the money before 2032. Selling at a loss is a real possibility if you are forced to exit at the wrong time in the credit cycle.
+This volatility is normal and expected. It is also the reason why BSJW is inappropriate for anyone who might need the money before 2032. Selling at a loss is a real possibility if you are forced to exit at the wrong time in the [credit cycle](/credit-cycle/).
 
 ## The path to 2032
 

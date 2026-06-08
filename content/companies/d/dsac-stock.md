@@ -32,7 +32,7 @@ This liquidation right is important. It means shareholders are not permanently l
 
 ## How Mergers Work
 
-When Daedalus identifies a target company and negotiates a merger agreement, the deal is presented to public shareholders. An SEC filing (typically a proxy statement and merger agreement) is made public, and shareholders vote on whether to approve the merger.
+When Daedalus identifies a target company and negotiates a merger agreement, the deal is presented to public shareholders. An SEC filing (typically a [proxy statement](/proxy-statement/) and merger agreement) is made public, and shareholders vote on whether to approve the merger.
 
 Crucially, public shareholders can choose to redeem their shares before the vote closes. If you own Daedalus shares and do not like the proposed target company, you can redeem and get your cash back from the trust account. This redemption right is a safety valve. If too many shareholders redeem, the merged company will have less capital to operate with, but the mechanics still work. After redemptions and any sponsor shares, the public shareholders' remaining shares represent their stake in the newly public merged company.
 

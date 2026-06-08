@@ -24,7 +24,7 @@ handwritten: true
 </table>
 </aside>
 
-The **GraniteShares YieldBOOST Financials ETF** takes a straightforward portfolio of large financial-sector stocks and wraps them in a systematic covered-call strategy. For every share held, the fund sells [call options](/call-option/) on that share, pocketing the premium from option buyers in exchange for capping how much upside the holder can enjoy. The result is higher current income at the cost of missing outsized rallies.
+The **GraniteShares YieldBOOST Financials ETF** takes a straightforward portfolio of large financial-sector stocks and wraps them in a systematic covered-call strategy. For every share held, the fund sells [call options](/call-option/) on that share, pocketing the premium from [option buyers](/option-buyer/) in exchange for capping how much upside the holder can enjoy. The result is higher current income at the cost of missing outsized rallies.
 
 ## How covered calls work inside the fund
 

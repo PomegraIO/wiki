@@ -28,7 +28,7 @@ The premium compresses in economic good times (investors feel safe lending to co
 
 The fund's constituents are the largest publicly traded American firms — technology, healthcare, financial services, industrials, energy, consumer goods. Financials typically dominate, followed by technology and industrials. A handful of sectors account for a large share of the corporate bond market by issuance, and UCRD captures that concentration. No single bond represents much of the portfolio, but a major sector downturn (say, bank credit quality deteriorating in a crisis) would hurt the fund materially.
 
-Bonds in the portfolio range from short-dated (one to three years) to very long-dated (30 years or more), though the fund typically skews toward intermediate maturities. That mix gives the fund exposure to both the stability of shorter bonds and the yield pickup of longer bonds, without being extreme in either direction.
+Bonds in the portfolio range from short-dated (one to three years) to very long-dated (30 years or more), though the fund typically skews toward intermediate maturities. That mix gives the fund exposure to both the stability of shorter bonds and the [yield pickup](/yield-pickup/) of longer bonds, without being extreme in either direction.
 
 ## The yield and duration picture
 

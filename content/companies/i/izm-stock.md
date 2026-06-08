@@ -49,7 +49,7 @@ The tension is that sharing this intelligence with competing suppliers diminishe
 
 Physical components carry inherent trust issues. Counterfeit semiconductors and components are a known problem in secondary markets; buyers cannot always visually distinguish authentic components from fakes, and fakes can cause equipment failures or safety hazards. ICZOOM must implement vendor vetting, quality assurance claims, and potentially liability coverage to remain trusted.
 
-This raises operational friction: verifying supplier legitimacy, handling disputes around component authenticity, and managing the reputational risk of facilitating known counterfeits. Superior platforms will invest in supply-side verification and buyer protection, raising costs but strengthening market position.
+This raises operational friction: verifying supplier legitimacy, handling disputes around component authenticity, and managing the [reputational risk](/reputational-risk/) of facilitating known counterfeits. Superior platforms will invest in supply-side verification and buyer protection, raising costs but strengthening market position.
 
 ## Competitive Dynamics and Disintermediation Risk
 

@@ -52,7 +52,7 @@ The payer mix matters enormously. A facility that is 60% commercial, 30% Medicai
 
 ## Growth and the capacity build
 
-Syra has grown partly through organic growth (filling existing facilities and improving occupancy and payer mix) and partly through [acquisitions](/acquisition/) of existing treatment centers. Acquisitions are a natural growth strategy in a fragmented market—the company can acquire an underperforming facility, apply its operational playbook, improve management and staff, and increase occupancy and profitability. This is a standard roll-up strategy and works only if the acquirer can actually improve performance and if the acquisition prices are reasonable.
+Syra has grown partly through organic growth (filling existing facilities and improving occupancy and payer mix) and partly through [acquisitions](/acquisition/) of existing treatment centers. Acquisitions are a natural growth strategy in a [fragmented market](/fragmented-market/)—the company can acquire an underperforming facility, apply its operational playbook, improve management and staff, and increase occupancy and profitability. This is a standard roll-up strategy and works only if the acquirer can actually improve performance and if the acquisition prices are reasonable.
 
 Organic growth is constrained by bed availability. Syra can only serve as many patients as it has capacity for, so expanding revenue requires either opening new facilities (capital-intensive and time-consuming) or increasing occupancy rates and per-diem rates at existing facilities (operationally improving what it already owns).
 

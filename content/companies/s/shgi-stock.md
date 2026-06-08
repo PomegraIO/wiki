@@ -41,7 +41,7 @@ The company also manages alternative investments — private equity, real assets
 
 A third segment is advisory services: Sparx provides investment consulting and financial advisory to institutional clients and helps them construct and manage their portfolios. This is less scalable than pure asset management — it is closer to bespoke professional services — but it can be high-margin if priced well.
 
-The company also operates a retail investing platform through subsidiaries, offering [mutual funds](/mutual-fund/) and other investment vehicles to individual Japanese and Asian investors. This channel is capital-intensive and competitive because every retail asset manager competes against large banks, brokerages, and low-cost index providers.
+The company also operates a retail investing platform through subsidiaries, offering [mutual funds](/mutual-fund/) and other investment vehicles to individual Japanese and Asian investors. This channel is capital-intensive and competitive because every retail asset manager competes against large banks, brokerages, and low-cost [index providers](/index-provider/).
 
 ## How Sparx makes money
 
@@ -75,7 +75,7 @@ Personnel risk is significant: asset managers are only as good as their investme
 
 Understanding Sparx requires regularly reviewing its quarterly and annual filings (SEC CIK 0001874138), which break down assets under management by strategy, fee rates, and net flows. These figures reveal whether the firm is growing or shrinking, whether particular strategies are gaining or losing assets, and whether the company is retaining or losing clients.
 
-Key metrics: The trend in assets under management is the most important leading indicator. If AUM is growing, the firm likely has competitive strategies and is winning clients. Margins should be watched: as AUM grows and revenues scale, [operating margins](/operating-margin/) should expand if costs are under control. Any margin compression despite AUM growth suggests rising costs or fee pressure.
+Key metrics: The trend in assets under management is the most important [leading indicator](/leading-indicator/). If AUM is growing, the firm likely has competitive strategies and is winning clients. Margins should be watched: as AUM grows and revenues scale, [operating margins](/operating-margin/) should expand if costs are under control. Any margin compression despite AUM growth suggests rising costs or fee pressure.
 
 Earnings calls often include commentary on market conditions, investment performance relative to benchmarks, and the health of client relationships. Watch whether management is discussing outflows in any major strategy or region — that is often a signal that returns have disappointed or that competitive pressure is rising.
 

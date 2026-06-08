@@ -4,7 +4,7 @@ description: "A business-development company in the middle arc of its lifecycle,
 keywords: ["BDC", "business development company", "credit investing", "income strategy", "debt financing", "portfolio manager"]
 ---
 
-*Eagle Point Income Co Inc., trading under **EIC** (CIK 1754836), exemplifies the business-development company (BDC) caught in the ambiguous middle years of its lifecycle—past the novelty of its founding model, mature enough to operate with steady revenue and distributions, yet perpetually vulnerable to credit cycles and rising [interest rates](/interest-rate/) that can undermine the earnings basis for those distributions. The company sits at a juncture where the macro environment, not operational excellence alone, determines returns.*
+*Eagle Point Income Co Inc., trading under **EIC** (CIK 1754836), exemplifies the business-development company (BDC) caught in the ambiguous middle years of its lifecycle—past the novelty of its founding model, mature enough to operate with steady revenue and distributions, yet perpetually vulnerable to [credit cycles](/credit-cycle/) and rising [interest rates](/interest-rate/) that can undermine the earnings basis for those distributions. The company sits at a juncture where the macro environment, not operational excellence alone, determines returns.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EIC</td></tr>

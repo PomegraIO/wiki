@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The iShares Core 40/60 Moderate Allocation ETF (ticker: AOM, traded on NYSE Arca) sits at the middle of the road. It holds 40% stocks and 60% [bonds](/bond/), making it less aggressive than a pure stock portfolio but more growth-oriented than the very conservative options. For investors who want exposure to rising markets but cannot stomach the ups and downs of equities alone, AOM is the Goldilocks choice — not too hot, not too cold, positioned in the often-overlooked sweet spot between extremes.
+The iShares Core 40/60 Moderate Allocation ETF (ticker: AOM, traded on [NYSE Arca](/nyse-arca/)) sits at the middle of the road. It holds 40% stocks and 60% [bonds](/bond/), making it less aggressive than a pure stock portfolio but more growth-oriented than the very conservative options. For investors who want exposure to rising markets but cannot stomach the ups and downs of equities alone, AOM is the Goldilocks choice — not too hot, not too cold, positioned in the often-overlooked sweet spot between extremes.
 
 <aside class="wiki-infobox">
 <table>

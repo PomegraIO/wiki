@@ -29,7 +29,7 @@ Additionally, Token Cat reached a master service agreement with Better Now New Y
 
 In the Chinese automotive market, Token Cat competes indirectly with digital platforms, social media, and traditional dealership networks that now handle much of the customer discovery and transaction flow. Online listing sites and direct sales channels have reduced the relevance of physical events as the sole or primary discovery mechanism. The company's event-based model faces secular headwinds from digitalization and the shift toward online vehicle purchasing in urban markets.
 
-Currency and geopolitical exposure represents a material risk for a China-domiciled company with a U.S. listing. Regulatory uncertainty in Beijing, trade tensions, and capital controls can affect both operational flexibility and investor sentiment. The company's recent pivot toward crypto and U.S. data center development introduces additional execution risk and volatility not present in its traditional business.
+Currency and geopolitical exposure represents a material risk for a China-domiciled company with a U.S. listing. Regulatory uncertainty in Beijing, trade tensions, and capital controls can affect both operational flexibility and investor sentiment. The company's recent pivot toward crypto and U.S. data center development introduces additional [execution risk](/execution-risk/) and volatility not present in its traditional business.
 
 ## What a Researcher Should Watch
 

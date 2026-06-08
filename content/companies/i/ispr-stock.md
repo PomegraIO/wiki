@@ -52,7 +52,7 @@ This creates customer churn risk. If Ispire fails to innovate and release compel
 
 ## Regulation and Market Structure
 
-Vaporization devices themselves are legal consumer electronics in most jurisdictions. However, their end-use in different jurisdictions and with different materials may be subject to regulation. Ispire's business is agnostic to end-use but must be sensitive to evolving legal frameworks. A customer in a jurisdiction where certain uses are criminalized faces legal risk, not Ispire. But market availability—which markets are open, which are closing—directly shapes Ispire's addressable customer base.
+Vaporization devices themselves are legal consumer electronics in most jurisdictions. However, their end-use in different jurisdictions and with different materials may be subject to regulation. Ispire's business is agnostic to end-use but must be sensitive to evolving legal frameworks. A customer in a jurisdiction where certain uses are criminalized faces [legal risk](/legal-risk/), not Ispire. But market availability—which markets are open, which are closing—directly shapes Ispire's addressable customer base.
 
 ## Assessing Ispire Technology
 

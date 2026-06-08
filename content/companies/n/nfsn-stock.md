@@ -15,7 +15,7 @@ handwritten: true
 
 **Name changes and history.** The company was originally named Yong Bai Chao New Retail Corp. In April 2025, it rebranded to Nongfu Shop Digital New Retail Co., Ltd., suggesting a pivot toward retail or e-commerce positioning. Before that, in an earlier iteration, the company was involved in vehicle emissions-control devices. That business has been abandoned or dormant for years.
 
-**Current financials.** For fiscal year 2024, Nongfu Shop Digital reported zero revenue. The three and nine-month periods ended September 30, 2025 showed no revenue and no positive cash flow from operating activities. The company carries public company overhead — reporting obligations, investor relations, filing costs — against a dormant [balance sheet](/balance-sheet/). Cash burn exists; cash generation does not.
+**Current financials.** For [fiscal year](/fiscal-year-definition/) 2024, Nongfu Shop Digital reported zero revenue. The three and nine-month periods ended September 30, 2025 showed no revenue and no positive cash flow from operating activities. The company carries public company overhead — reporting obligations, investor relations, filing costs — against a dormant [balance sheet](/balance-sheet/). Cash burn exists; cash generation does not.
 
 **Where it's incorporated.** The company was founded in 1999 and is based in Shanghai, People's Republic of China, giving it exposure to Chinese regulatory and geopolitical risk, particularly around investment approvals and cross-border capital controls.
 

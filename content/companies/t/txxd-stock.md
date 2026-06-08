@@ -33,7 +33,7 @@ TXXD trades like any standard ETF — it has an [expense ratio](/expense-ratio/)
 
 ## Who holds it and why
 
-TXXD appeals primarily to active traders and crypto speculators who believe Dogecoin is set for a sharp directional move and want to amplify that bet. It is also used by tactical investors making shorter-term bets around cryptocurrency market cycles. Very few long-term investors hold leveraged crypto ETFs; the volatility decay and fees compound to destroy wealth over years.
+TXXD appeals primarily to active traders and crypto speculators who believe Dogecoin is set for a sharp directional move and want to amplify that bet. It is also used by tactical investors making shorter-term bets around cryptocurrency [market cycles](/market-cycle/). Very few long-term investors hold leveraged crypto ETFs; the volatility decay and fees compound to destroy wealth over years.
 
 The fund also attracts investors who want regulated, tax-transparent exposure to Dogecoin without opening a [cryptocurrency exchange](/cryptocurrency-exchange/) account. A brokerage-based ETF generates standard 1099 tax reporting and avoids the [operational risk](/operational-risk/) and security concerns of holding crypto on an exchange or in a personal wallet.
 

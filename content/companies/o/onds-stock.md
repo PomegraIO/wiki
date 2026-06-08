@@ -23,7 +23,7 @@ handwritten: true
 </table>
 </aside>
 
-Ondas Holdings builds wireless networks for places where standard cellular coverage does not work or is not allowed — oil refineries, power substations, shipping ports, mining operations. The company competes against infrastructure incumbents and newer wireless startups by delivering networks that are private (owned and operated by the customer, not rented from a telecom), ruggedized (designed to survive heat, moisture, and electromagnetic interference), and tailored to the specific needs of industrial operations. It is a small company addressing a fragmented market of large, risk-averse customers.
+Ondas Holdings builds wireless networks for places where standard cellular coverage does not work or is not allowed — oil refineries, power substations, shipping ports, mining operations. The company competes against infrastructure incumbents and newer wireless startups by delivering networks that are private (owned and operated by the customer, not rented from a telecom), ruggedized (designed to survive heat, moisture, and electromagnetic interference), and tailored to the specific needs of industrial operations. It is a small company addressing a [fragmented market](/fragmented-market/) of large, risk-averse customers.
 
 ## The industrial wireless gap
 
@@ -67,4 +67,4 @@ The earnings calls are most useful for tracking customer wins in specific vertic
 
 Ondas competes in a space where the customer may not exist in five years — large organizations operate on very long timescales. If a major customer postpones a network modernization due to economic downturn, cost cutting, or [merger](/merger/) activity, Ondas' revenue suffers immediately. The company is also exposed to the risk that its chosen technology standards become obsolete. If 5G evolution moves in a direction Ondas did not anticipate, its hardware advantage evaporates.
 
-For an investor, Ondas is a bet on industrial modernization momentum and on the company's ability to lock in customers on its specific platform before competitors commoditize the market. The 10-K and earnings calls should be read with the assumption that the vendor risk is real and that customers will always prefer larger, more established vendors unless Ondas offers a compelling efficiency or cost advantage.
+For an investor, Ondas is a bet on industrial modernization momentum and on the company's ability to lock in customers on its specific platform before competitors commoditize the market. The 10-K and earnings calls should be read with the assumption that the [vendor risk](/vendor-risk/) is real and that customers will always prefer larger, more established vendors unless Ondas offers a compelling efficiency or cost advantage.

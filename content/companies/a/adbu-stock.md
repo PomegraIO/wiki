@@ -41,6 +41,6 @@ Direxion publishes an [expense ratio](/expense-ratio/) for ADBU that covers the 
 
 ## Who this is actually for
 
-ADBU is for traders with a specific thesis on Adobe's near-term direction who want leverage to amplify the magnitude of a bet on a 1- to 10-day move. It is not for anyone investing for retirement, building wealth, or holding through a market cycle. Financial advisers and most long-term investors do not recommend leveraged single-stock ETFs to clients, and for good reason: the combination of leverage, daily reset, and volatility decay has destroyed capital for patient investors who mistook them for simple 2x exposure.
+ADBU is for traders with a specific thesis on Adobe's near-term direction who want leverage to amplify the magnitude of a bet on a 1- to 10-day move. It is not for anyone investing for retirement, building wealth, or holding through a [market cycle](/market-cycle/). Financial advisers and most long-term investors do not recommend leveraged single-stock ETFs to clients, and for good reason: the combination of leverage, daily reset, and volatility decay has destroyed capital for patient investors who mistook them for simple 2x exposure.
 
 Anyone considering ADBU should understand that losses in a leveraged fund can be just as amplified as gains, and that holding through rallies and pullbacks will almost certainly underperform the 2x [leverage ratio](/leverage-ratio-forex/) over time. The fund's prospectus lays out these mechanics explicitly; reading it closely before trading is essential.

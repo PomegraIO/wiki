@@ -51,7 +51,7 @@ It is also useful if you want to ladder your bond holdings. Own one fund maturin
 
 Interest rates are the main risk. A sharp rate rise before 2044 creates paper losses if you sell. [Inflation](/inflation/) is a subtler risk: if inflation runs high, the interest you earn gets eaten away by rising prices. Holding to maturity protects you from rate moves but not from inflation eating your purchasing power.
 
-There is also the remote political risk: a debt-ceiling crisis. The government has come close to default in the past. A crisis could cause a temporary spike in yields and a price drop, though the bonds would eventually be paid. This has never happened.
+There is also the remote [political risk](/political-risk/): a debt-ceiling crisis. The government has come close to default in the past. A crisis could cause a temporary spike in yields and a price drop, though the bonds would eventually be paid. This has never happened.
 
 Owning a fund also means you pay a small annual fee, though it is very low for IBGA.
 

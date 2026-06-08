@@ -27,7 +27,7 @@ Silver is valued both as an industrial metal and as a store of value, much like 
 
 Silver deposits often occur alongside other metals — copper, lead, zinc, and molybdenum. A successful silver discovery frequently also contains valuable quantities of these byproducts, which can substantially improve the project's economics. Silver Bull's projects are selected in part based on the opportunity to recover silver alongside other metals, strengthening the business case for development.
 
-The price of silver is set globally in commodity markets and fluctuates based on macroeconomic conditions, inflation expectations, and supply and demand balances. Silver Bull, like all exploration companies, has no direct control over commodity prices. However, the company can control the quality and size of resources it discovers and the efficiency of exploration. Finding a large, high-grade deposit can sustain mine economics even if silver prices soften.
+The price of silver is set globally in commodity markets and fluctuates based on macroeconomic conditions, [inflation expectations](/inflation-expectations/), and supply and demand balances. Silver Bull, like all exploration companies, has no direct control over commodity prices. However, the company can control the quality and size of resources it discovers and the efficiency of exploration. Finding a large, high-grade deposit can sustain mine economics even if silver prices soften.
 
 ## Geographic and operational focus
 

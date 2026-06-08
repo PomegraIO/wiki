@@ -24,7 +24,7 @@ handwritten: true
 
 </aside>
 
-Korn Ferry is a multinational organizational consulting firm that helps enterprises identify, develop, and deploy talent at all organizational levels. The company operates across three primary business domains: executive search (finding senior leadership), talent and organizational consulting (assessing and structuring human capital), and recruitment process outsourcing (managing hiring functions for clients). Together, these segments create a business model rooted partly in transaction fees and partly in recurring advisory relationships, allowing the firm to weather talent market cycles better than pure contingent recruiters.
+Korn Ferry is a multinational organizational consulting firm that helps enterprises identify, develop, and deploy talent at all organizational levels. The company operates across three primary business domains: executive search (finding senior leadership), talent and organizational consulting (assessing and structuring human capital), and recruitment process outsourcing (managing hiring functions for clients). Together, these segments create a business model rooted partly in transaction fees and partly in recurring advisory relationships, allowing the firm to weather talent [market cycles](/market-cycle/) better than pure contingent recruiters.
 
 ## The Search Origins and Growth
 

@@ -43,7 +43,7 @@ Larger companies break out revenue by segment (product line, geography, business
 
 ## Organizing Your 10-K Review
 
-Before diving into the full 10-K, read the cover page and Item 1A (Risk Factors). The cover page indicates filing timeliness and the size of the company; Risk Factors reveals what management thinks could go wrong. Then read Item 7 (MD&A), which is management's narrative of the numbers. Item 7 should help you understand major changes year-to-year. Only then turn to the detailed financial statements themselves. Finally, skim the footnotes—[revenue recognition policy](/revenue-recognition-policy/), accounting estimates, contingencies, and subsequent events (Item 8).
+Before diving into the full 10-K, read the cover page and Item 1A (Risk Factors). The cover page indicates filing timeliness and the size of the company; Risk Factors reveals what management thinks could go wrong. Then read Item 7 (MD&A), which is management's narrative of the numbers. Item 7 should help you understand major changes year-to-year. Only then turn to the detailed financial statements themselves. Finally, skim the footnotes—[revenue recognition policy](/revenue-recognition-policy/), [accounting estimates](/accounting-estimate/), contingencies, and [subsequent events](/subsequent-events/) (Item 8).
 
 <div class="wiki-seealso">
 ### Closely related

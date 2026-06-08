@@ -57,7 +57,7 @@ Review Brilliant Earth's 10-K for: customer acquisition costs and marketing effi
 - [/earnings-per-share/](/earnings-per-share/)
 
 ### Wider context
-- /consumer-discretionary/ (market cycle)
+- /consumer-discretionary/ ([market cycle](/market-cycle/))
 - /brand-equity/ (competitive moat)
 - /e-commerce/ (distribution channel)
 </div>

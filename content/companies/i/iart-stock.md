@@ -79,7 +79,7 @@ Consolidation in the medical device industry continues; [acquisitions](/acquisit
 
 Medical devices have product cycles measured in 5–10 years from initial concept to commercialization, followed by 10–15 years of sales before newer, better products displace them. Integra must invest continuously in R&D to develop next-generation products while also defending market share in mature products.
 
-This long cycle creates a pipeline risk: if Integra's R&D efforts fail to produce successful new products, growth will slow as mature products age. Conversely, if R&D succeeds, new products can drive high growth and margin expansion in the launch phase.
+This long cycle creates a [pipeline risk](/pipeline-risk/): if Integra's R&D efforts fail to produce successful new products, growth will slow as mature products age. Conversely, if R&D succeeds, new products can drive high growth and margin expansion in the launch phase.
 
 The nature of medical device innovation is increasingly about incremental improvement rather than radical breakthrough. A new spinal fusion device might offer slightly better load distribution or biocompatibility than the previous generation, justifying a premium price if surgeons perceive clinical benefit. However, the difference is subtle, adoption is slow, and payer reimbursement may not reward incremental innovation with higher reimbursement.
 

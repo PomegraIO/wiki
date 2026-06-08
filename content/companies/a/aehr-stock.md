@@ -17,6 +17,6 @@ The company's product portfolio includes burn-in handlers that apply stress and 
 
 Competition comes from other test equipment suppliers and from internal test capabilities that some large chipmakers build themselves. AEHR's competitive position depends on innovation in handling speed, test accuracy, and ability to address emerging testing challenges as chip complexity grows. The shift toward advanced packaging (chiplets, heterogeneous integration) and more power-hungry AI processors has created new testing demands that require specialized equipment.
 
-Investors in AEHR are betting on two things: that semiconductor capex spending will remain robust as AI infrastructure and advanced manufacturing expand, and that the company can maintain or grow market share in its niches despite competition. The stock is volatile, reflecting both capital cycle swings and execution risk on new products.
+Investors in AEHR are betting on two things: that semiconductor capex spending will remain robust as AI infrastructure and advanced manufacturing expand, and that the company can maintain or grow market share in its niches despite competition. The stock is volatile, reflecting both capital cycle swings and [execution risk](/execution-risk/) on new products.
 
 For research, [10-K](/wiki/10-k/) filings detail equipment categories, end-market breakdowns, and customer concentration; earnings calls discuss current capex trends and backlog strength.

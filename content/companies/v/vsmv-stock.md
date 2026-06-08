@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The VictoryShares US Multi-Factor Minimum Volatility ETF (ticker VSMV) is an [actively managed fund](/actively-managed-fund/) that holds US stocks chosen for their combination of value, quality, and momentum traits, with a tilt toward companies that historically bounce around less than the market overall. It is run by [Victory Capital](/vctr-stock/) and launched in 2015 as part of a suite of factor-focused strategies.
+The VictoryShares US Multi-Factor Minimum [Volatility ETF](/volatility-etf/) (ticker VSMV) is an [actively managed fund](/actively-managed-fund/) that holds US stocks chosen for their combination of value, quality, and momentum traits, with a tilt toward companies that historically bounce around less than the market overall. It is run by [Victory Capital](/vctr-stock/) and launched in 2015 as part of a suite of factor-focused strategies.
 
 <aside class="wiki-infobox">
 <table>

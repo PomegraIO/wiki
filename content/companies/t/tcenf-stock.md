@@ -28,7 +28,7 @@ No. Some assets operate under regulated utility regimes where government sets al
 
 What are the main risks facing TC Energy?
 
-The first and largest is regulatory and political risk. Pipelines require government permits and operate under regulatory oversight. Over the past decade, public and government opposition to new pipeline projects has intensified, driven by climate concerns about fossil-fuel infrastructure. Some existing pipelines face political pressure to be shut down or decommissioned. Changes in regulation could force the company to retire assets early, reduce allowed returns, or abandon expansion plans. This regulatory uncertainty directly threatens cash flows.
+The first and largest is regulatory and [political risk](/political-risk/). Pipelines require government permits and operate under regulatory oversight. Over the past decade, public and government opposition to new pipeline projects has intensified, driven by climate concerns about fossil-fuel infrastructure. Some existing pipelines face political pressure to be shut down or decommissioned. Changes in regulation could force the company to retire assets early, reduce allowed returns, or abandon expansion plans. This regulatory uncertainty directly threatens cash flows.
 
 The second risk is technology transition. If the world truly moves away from natural gas and oil to renewables and electric vehicles, the long-term demand for the infrastructure TC Energy operates could decline. This is not an immediate threat, but it lurks at the edge of the longer-term investment case.
 

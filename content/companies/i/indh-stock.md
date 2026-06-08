@@ -54,6 +54,6 @@ The portfolio typically includes major banks, energy firms, conglomerates, and u
 
 ## Costs and when to consider INDH
 
-INDH makes sense for investors who specifically want to isolate Indian equity risk from currency risk, understand the cost of hedging, and have committed to India as a core holding rather than a tactical play. The 0.48 percent expense ratio is competitive for a currency-hedged fund but meaningful relative to unhedged alternatives.
+INDH makes sense for investors who specifically want to isolate Indian equity risk from currency risk, understand the cost of hedging, and have committed to India as a core holding rather than a tactical play. The 0.48 percent expense ratio is competitive for a [currency-hedged fund](/currency-hedged-fund/) but meaningful relative to unhedged alternatives.
 
 Before committing, evaluate whether you actually need the hedge. For a short-term tactical position, hedging is unnecessary cost. For a long-term India allocation, the decision hinges on your beliefs about the rupee and your tolerance for [currency volatility](/currency-volatility/). A simpler approach for most investors is to own a broad, unhedged India ETF and accept currency movements as part of emerging-market risk. INDH suits those who have taken a conscious decision that they want India equity returns without rupee risk, and are willing to pay for that precision.

@@ -37,7 +37,7 @@ This logic works well in normal times. Land values tend to be stable or rising, 
 
 The risk appears when commodity prices crash, when bad weather destroys crops, when [interest rates](/interest-rate/) spike, or when land values fall sharply. During the farm crisis of the 1980s, when land values in the Midwest plummeted and commodity prices were very weak, [default rates](/default-rate/) on farm mortgages spiked and farm lenders took big losses. More recently, Farmer Mac has navigated the volatility of crop prices and farmland values without major credit losses, but the risk is never zero.
 
-Farmer Mac manages this risk through underwriting standards — it buys only mortgages that meet its standards, which include a minimum loan-to-value ratio (the borrower must put down 20% or more) and acceptable [debt-to-income ratios](/debt-to-income-ratio/) for the farmer. The company also diversifies geographically, so it is not overexposed to any one region or commodity.
+Farmer Mac manages this risk through underwriting standards — it buys only mortgages that meet its standards, which include a minimum [loan-to-value ratio](/loan-to-value-ratio/) (the borrower must put down 20% or more) and acceptable [debt-to-income ratios](/debt-to-income-ratio/) for the farmer. The company also diversifies geographically, so it is not overexposed to any one region or commodity.
 
 ## The government charter and competitive position
 

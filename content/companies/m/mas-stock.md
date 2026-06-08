@@ -32,7 +32,7 @@ Distribution is the company's persistent challenge and advantage. Reaching homeo
 
 ## Revenue Composition and Cyclicality
 
-Like all home-improvement and building-products manufacturers, Masco is tied to housing starts, remodeling spending, and commercial construction activity. When new-home construction accelerates or homeowners renovate aggressively, demand for paint, faucets, and hardware rises. When [interest rates](/interest-rate/) climb, home sales decline, and remodeling budgets shrink, the company faces headwinds. This cyclicality is baked into the business model and is one reason Masco's earnings can swing sharply year to year.
+Like all home-improvement and building-products manufacturers, Masco is tied to [housing starts](/housing-starts/), remodeling spending, and commercial construction activity. When new-home construction accelerates or homeowners renovate aggressively, demand for paint, faucets, and hardware rises. When [interest rates](/interest-rate/) climb, home sales decline, and remodeling budgets shrink, the company faces headwinds. This cyclicality is baked into the business model and is one reason Masco's earnings can swing sharply year to year.
 
 The company has two principal revenue streams: coatings (paint and stains for residential and commercial use) and home improvement products (faucets, showers, fixtures, cabinet hardware, and related items). A simplified breakdown looks like this:
 

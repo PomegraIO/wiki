@@ -17,7 +17,7 @@ ARKK is an actively managed ETF, which sets it apart from the vast majority of U
 
 > "We want to invest in companies that are meaningfully changing the world."
 
-The fund's core thesis is that certain technologies are orders of magnitude more powerful than the market yet recognizes, and that companies early into these transformations offer disproportionate returns to patient investors over a five- to ten-year horizon. ARKK's universe typically includes between 30 and 50 holdings, which is small enough that each position has real weight but large enough to spread risk across different bets on different technologies.
+The fund's core thesis is that certain technologies are orders of magnitude more powerful than the market yet recognizes, and that companies early into these transformations offer disproportionate returns to patient investors over a five- to ten-year horizon. ARKK's universe typically includes between 30 and 50 holdings, which is small enough that each position has real weight but large enough to [spread risk](/spread-risk/) across different bets on different technologies.
 
 ## What ARKK owns and why
 

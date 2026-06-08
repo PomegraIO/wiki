@@ -56,7 +56,7 @@ The real threat to the business is not other billboard companies, but erosion of
 
 OUTFRONT's revenue is sensitive to advertising spending cycles. During economic downturns, when businesses cut marketing budgets, advertising inventory becomes harder to sell and rates come under pressure. During booms, the opposite occurs. The company's operating leverage is high—most of the cost of an advertisement is the space itself, which is a fixed asset—so small changes in utilization and pricing can swing profits considerably.
 
-The company also faces exposure to real estate cycles. It leases many of its billboard locations from property owners under long-term agreements, which creates fixed costs that do not adjust if the advertising market softens. A severe and prolonged ad-market downturn could put pressure on profitability if rates fall faster than the company can reduce costs.
+The company also faces exposure to [real estate cycles](/real-estate-cycle/). It leases many of its billboard locations from property owners under long-term agreements, which creates fixed costs that do not adjust if the advertising market softens. A severe and prolonged ad-market downturn could put pressure on profitability if rates fall faster than the company can reduce costs.
 
 ## Researching OUTFRONT as an investment
 

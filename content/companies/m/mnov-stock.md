@@ -35,7 +35,7 @@ This pacing problem is why MEDICINOVA's quarterly cash burn and cash position ar
 
 ## Comparative Position in Oncology
 
-MEDICINOVA's oncology positioning differs fundamentally from larger peers. Merck or Roche develop drugs across 20+ indications simultaneously, betting that portfolio breadth and sheer scale reduce execution risk. Monopar Therapeutics, a slightly smaller peer, similarly pursues a broader oncology portfolio. MEDICINOVA instead concentrates capital on fewer shots and accepts the corresponding risk—if all three lead programs fail, the company is valueless.
+MEDICINOVA's oncology positioning differs fundamentally from larger peers. Merck or Roche develop drugs across 20+ indications simultaneously, betting that portfolio breadth and sheer scale reduce [execution risk](/execution-risk/). Monopar Therapeutics, a slightly smaller peer, similarly pursues a broader oncology portfolio. MEDICINOVA instead concentrates capital on fewer shots and accepts the corresponding risk—if all three lead programs fail, the company is valueless.
 
 This concentration is a forced choice born of capital constraints, not strategic preference. Were MEDICINOVA funded like a large pharma, it would diversify. Instead, it bets that focused execution on chosen niches is more efficient than diluted efforts across many indications. The argument has merit for small firms moving quickly; the risk is that a single setback becomes existential.
 

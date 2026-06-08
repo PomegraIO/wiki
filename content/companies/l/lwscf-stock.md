@@ -86,7 +86,7 @@ Senior living demand is relatively stable year-round but may vary by season (som
 
 ## Growth and Portfolio Strategy
 
-Sienna grows through acquiring existing senior living communities, developing new properties, and expanding within existing facilities. [Acquisitions](/acquisition/) involve due diligence on property condition, revenue stability, regulatory compliance, and staff. Integration of acquired operations requires aligning management, systems, and culture.
+Sienna grows through acquiring existing senior living communities, developing new properties, and expanding within existing facilities. [Acquisitions](/acquisition/) involve [due diligence](/due-diligence/) on property condition, revenue stability, regulatory compliance, and staff. Integration of acquired operations requires aligning management, systems, and culture.
 
 New development is capital-intensive: land acquisition, construction, licensing, and pre-opening operations before revenue starts. Expansion within existing properties (adding beds or upgrading) requires capital and temporary disruption.
 
