@@ -41,7 +41,7 @@ Mining projects also face [currency risk](/currency-risk/) if Meta's revenue (fr
 
 ## The Optionality Stack: Exploration, Asset Sales, M&A
 
-Meta's value proposition rests on the idea that one or more of its exploration properties will eventually yield either (1) a mineable resource that it can develop, (2) a [buyout](/special-purpose-acquisition-company) or joint venture payment from a larger mining company, or (3) an asset sale to a strategic buyer. Few junior mining companies ever become operating mines; most are acquired by mid-tier or major miners who have the capital and expertise to develop large properties efficiently.
+Meta's value proposition rests on the idea that one or more of its exploration properties will eventually yield either (1) a mineable resource that it can develop, (2) a [buyout](/special-purpose-acquisition-company/) or joint venture payment from a larger mining company, or (3) an asset sale to a strategic buyer. Few junior mining companies ever become operating mines; most are acquired by mid-tier or major miners who have the capital and expertise to develop large properties efficiently.
 
 This means reading Meta's 10-K (or equivalent Canadian filing) requires tracking not just current exploration budgets and drill results, but the company's optionality—which projects are most advanced, which have attracted strategic interest, and what the exit paths look like.
 
