@@ -1,0 +1,22 @@
+[
+ {
+  "wave": 0,
+  "agents": 130,
+  "file": "C:\\Users\\mk\\workspaces\\blackpc\\pomegra\\repos\\wiki\\scripts\\_wave2k_writers_w0.js"
+ },
+ {
+  "wave": 1,
+  "agents": 130,
+  "file": "C:\\Users\\mk\\workspaces\\blackpc\\pomegra\\repos\\wiki\\scripts\\_wave2k_writers_w1.js"
+ },
+ {
+  "wave": 2,
+  "agents": 130,
+  "file": "C:\\Users\\mk\\workspaces\\blackpc\\pomegra\\repos\\wiki\\scripts\\_wave2k_writers_w2.js"
+ },
+ {
+  "wave": 3,
+  "agents": 110,
+  "file": "C:\\Users\\mk\\workspaces\\blackpc\\pomegra\\repos\\wiki\\scripts\\_wave2k_writers_w3.js"
+ }
+]
