@@ -93,6 +93,14 @@ uglyURLs = false
   # Same console account as /learn but a different verified property.
   googleSiteVerification = 'GnFvBlrDnjRHUjeRjhQdDeejc3Z5l3g7BPnpNpAJRAQ'
 
+  # Google AdSense publisher ID. Set it here (not in the layout) so the loader
+  # can be dropped site-wide by blanking this one value. Emitted on every page
+  # by baseof.html; Auto ads decide placement server-side, so no per-page
+  # <ins class="adsbygoogle"> markup is needed. Note that AdSense also expects
+  # an ads.txt at the *domain* root (pomegra.io/ads.txt) — that file belongs to
+  # the parent site, not to this repo, since the wiki is mounted at /wiki/.
+  googleAdsenseClient = 'ca-pub-3385555905909557'
+
 # Disable taxonomy/term pages — we don't want accidental /tags/foo/ archives.
 disableKinds = ['taxonomy', 'term']
 

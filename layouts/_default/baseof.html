@@ -98,6 +98,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="dns-prefetch" href="https://analytics.pomegra.io" />
   <link rel="preconnect" href="https://analytics.pomegra.io" crossorigin />
+  {{ with .Site.Params.googleAdsenseClient }}
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+  {{ end }}
 
   {{/* ── Fonts + stylesheet (fingerprinted) ─────────────────────────── */}}
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300..900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" />
@@ -125,6 +129,11 @@
   {{ end }}
   {{ $events := resources.Get "js/wiki-events.js" | resources.Minify | resources.Fingerprint }}
   <script src="{{ $events.RelPermalink }}" integrity="{{ $events.Data.Integrity }}" defer></script>
+
+  {{/* ── Google AdSense (Auto ads) — emitted on every page ──────────── */}}
+  {{ with .Site.Params.googleAdsenseClient }}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
+  {{ end }}
 </head>
 <body class="{{ if .IsHome }}is-home{{ else if eq .Section ""}}is-page{{ else }}is-article{{ end }}">
   {{ partial "navbar.html" . }}
