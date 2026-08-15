@@ -670,13 +670,43 @@ img { max-width: 100%; height: auto; }
    late-filling (or unfilled) unit doesn't shove the prose around — the whole
    block collapses to nothing when AdSense declines to fill, because an empty
    <ins> gets `display: none !important` from Google's own script. */
+/* In-article ad units. clear:both stays load-bearing — the unit must never
+   render as a sliver beside the floated infobox — but the template now
+   injects the top unit after the first section, where the float is normally
+   spent, so the clear no longer opens a tall empty gutter. */
 .wiki-ad {
   clear: both;
-  margin: 2rem 0;
+  margin: 2.2rem 0;
+}
+.wiki-ad ins.adsbygoogle {
+  display: block;
   min-height: 100px;
 }
-.wiki-ad:empty { display: none; }
-.wiki-ad .adsbygoogle { display: block; }
+/* Google reported no fill for the slot — collapse the placeholder so it
+   doesn't leave a 100px hole in the prose. */
+.wiki-ad:has(ins[data-ad-status="unfilled"]) { display: none; }
+/* Once a creative actually renders, frame it as a labelled card in the
+   house style so it reads as a deliberate placement — not stray content —
+   in both themes (creatives are usually white, which is jarring on dark
+   paper without a frame). Gated on data-ad-status="filled" so blocked or
+   never-loaded slots don't show an empty labelled box. */
+.wiki-ad:has(ins[data-ad-status="filled"]) {
+  background: var(--pom-card);
+  border: 1px solid var(--pom-rule-firm);
+  border-radius: 10px;
+  padding: 0.65rem 0.9rem 0.9rem;
+}
+.wiki-ad:has(ins[data-ad-status="filled"])::before {
+  content: 'Advertisement';
+  display: block;
+  font-family: var(--pom-font-mono);
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--pom-graphite);
+  margin-bottom: 0.5rem;
+}
 
 .wiki-seealso {
   margin-top: 2.4rem;

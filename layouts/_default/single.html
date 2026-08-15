@@ -90,10 +90,17 @@
            `##` section. That keeps the injection in one template instead of
            editing ~14k content files, and new entries get both units for free.
 
-           Ad 1 lands after chunk 0 (immediately below the opening description).
-           Ad 2 lands before the section at the midpoint. Articles with fewer
-           than three `##` sections get the top unit only — a mid-article ad in
-           a short entry would sit within a screen of the first one.
+           Ad 1 lands after the FIRST `##` section, not after chunk 0: the
+           opening block ends while the float-right infobox is still in play,
+           and .wiki-ad's clear:both would shove the unit below the whole
+           infobox — leaving a tall empty gutter between the lede and the
+           first heading. After one full section of prose the float is spent
+           and the clear costs nothing. Entries with no `##` sections at all
+           still get the unit, after the opening block.
+           Ad 2 lands before the section at the midpoint, and only when there
+           are enough sections (4+) that a full section separates it from the
+           top unit — otherwise the two would render within a screen of each
+           other.
 
            Gated on $section so this stays on wiki *entries* only: single.html
            also renders the root-level /about/ page, which is thin, non-editorial
@@ -104,16 +111,17 @@
         {{ $adMid = partial "ad-inarticle.html" site.Params.googleAdsenseSlotInArticleMid }}
       {{ end }}
       {{ $chunks := split .Content "<h2" }}
-      {{ $mid := cond (ge (len $chunks) 4) (int (math.Ceil (div (float (len $chunks)) 2.0))) 0 }}
+      {{ $topAfter := cond (gt (len $chunks) 1) 1 0 }}
+      {{ $mid := cond (ge (len $chunks) 5) (int (math.Ceil (div (float (len $chunks)) 2.0))) 0 }}
       <div class="wiki-prose">
         {{ range $i, $chunk := $chunks }}
           {{ if eq $i 0 }}
             {{ $chunk | safeHTML }}
-            {{ $adTop }}
           {{ else }}
             {{ if and $mid (eq $i $mid) }}{{ $adMid }}{{ end }}
             {{ printf "<h2%s" $chunk | safeHTML }}
           {{ end }}
+          {{ if eq $i $topAfter }}{{ $adTop }}{{ end }}
         {{ end }}
       </div>
 
