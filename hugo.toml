@@ -101,6 +101,14 @@ uglyURLs = false
   # the parent site, not to this repo, since the wiki is mounted at /wiki/.
   googleAdsenseClient = 'ca-pub-3385555905909557'
 
+  # In-article ad slots, injected into every entry page by single.html via the
+  # `ad-inarticle.html` partial. Two units per article: one right after the
+  # opening description (lede + hatnote + infobox, i.e. before the first ##
+  # section) and one at the midpoint of the section list. Blank either value to
+  # switch that placement off site-wide without touching the layout.
+  googleAdsenseSlotInArticleTop = '5564588335'
+  googleAdsenseSlotInArticleMid = '8295477272'
+
 # Disable taxonomy/term pages — we don't want accidental /tags/foo/ archives.
 disableKinds = ['taxonomy', 'term']
 

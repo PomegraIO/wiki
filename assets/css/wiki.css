@@ -662,6 +662,22 @@ img { max-width: 100%; height: auto; }
   .wiki-infobox { float: none; width: 100%; margin: 1.2rem 0; }
 }
 
+/* ── In-article ad units ──────────────────────────────────────────────────
+   `clear: both` is the load-bearing rule: the first unit sits directly after
+   the opening description, which is exactly where the float:right infobox is
+   still in play. Without it the ad would be squeezed into the ~60% gutter
+   beside the infobox and render as a sliver. `min-height` reserves space so a
+   late-filling (or unfilled) unit doesn't shove the prose around — the whole
+   block collapses to nothing when AdSense declines to fill, because an empty
+   <ins> gets `display: none !important` from Google's own script. */
+.wiki-ad {
+  clear: both;
+  margin: 2rem 0;
+  min-height: 100px;
+}
+.wiki-ad:empty { display: none; }
+.wiki-ad .adsbygoogle { display: block; }
+
 .wiki-seealso {
   margin-top: 2.4rem;
   padding-top: 1.6rem;

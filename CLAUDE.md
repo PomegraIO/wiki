@@ -127,6 +127,46 @@ uses. Two pieces:
   router lifecycle; this version is a single IIFE that starts on
   `DOMContentLoaded` and finalizes on `pagehide`.
 
+## Ads
+
+Google AdSense, driven entirely from `hugo.toml` `[params]` — three values, all
+blankable to switch a piece off site-wide without touching a layout:
+
+| Param | Effect |
+|---|---|
+| `googleAdsenseClient` | Publisher ID. Emits the `adsbygoogle.js` loader once in `<head>` (baseof.html) and gates every ad unit. Blank it and all ads vanish. |
+| `googleAdsenseSlotInArticleTop` | Slot for the ad directly below an entry's opening description. |
+| `googleAdsenseSlotInArticleMid` | Slot for the mid-article ad. |
+
+The two in-article units are rendered by `layouts/partials/ad-inarticle.html`
+(called with the slot ID as its context) and placed by `single.html`.
+
+The placement is the only subtle part. Nearly every entry writes its lede,
+hatnote and infobox *inline in the markdown body*, so there is no template seam
+between "description" and "first section". `single.html` manufactures one by
+splitting the **rendered** `.Content` on `<h2` — chunk 0 is the entire opening
+block, each later chunk is one `##` section — then re-emits the chunks with the
+top unit after chunk 0 and the mid unit before the midpoint section. Two
+consequences:
+
+- **Ads land on every entry automatically**, including new ones. Do not paste
+  `<ins class="adsbygoogle">` into markdown files; you'd end up with duplicates.
+- Entries with fewer than three `##` sections get the top unit only.
+
+Ads are gated on `.Section` being non-empty, so root-level pages
+(`content/about.md`) stay ad-free. The partial deliberately does *not* re-emit
+the `adsbygoogle.js` tag — it is already loaded once in `<head>`, and Google
+expects exactly one loader per page.
+
+`.wiki-ad` in `assets/css/wiki.css` carries `clear: both`. That rule is
+load-bearing: the top unit sits exactly where the `float: right` infobox is
+still in play, and without the clear it renders as a sliver in the leftover
+gutter.
+
+AdSense also expects an `ads.txt` at the **domain** root (`pomegra.io/ads.txt`).
+That file belongs to the parent site, not this repo, since the wiki is mounted
+at `/wiki/`.
+
 ## How the home page works
 
 `layouts/index.html` reads:

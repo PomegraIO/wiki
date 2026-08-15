@@ -82,8 +82,39 @@
         </aside>
       {{ end }}
 
+      {{/* In-article ads. Almost every entry carries its lede, hatnote and
+           infobox inline in the markdown body rather than in front matter, so
+           there is no template seam between "description" and "first section"
+           to hang an ad on. We make one by splitting the *rendered* HTML on
+           `<h2` — chunk 0 is the whole opening block, every later chunk is one
+           `##` section. That keeps the injection in one template instead of
+           editing ~14k content files, and new entries get both units for free.
+
+           Ad 1 lands after chunk 0 (immediately below the opening description).
+           Ad 2 lands before the section at the midpoint. Articles with fewer
+           than three `##` sections get the top unit only — a mid-article ad in
+           a short entry would sit within a screen of the first one.
+
+           Gated on $section so this stays on wiki *entries* only: single.html
+           also renders the root-level /about/ page, which is thin, non-editorial
+           and not somewhere we want ad units. */}}
+      {{ $adTop := "" }}{{ $adMid := "" }}
+      {{ if $section }}
+        {{ $adTop = partial "ad-inarticle.html" site.Params.googleAdsenseSlotInArticleTop }}
+        {{ $adMid = partial "ad-inarticle.html" site.Params.googleAdsenseSlotInArticleMid }}
+      {{ end }}
+      {{ $chunks := split .Content "<h2" }}
+      {{ $mid := cond (ge (len $chunks) 4) (int (math.Ceil (div (float (len $chunks)) 2.0))) 0 }}
       <div class="wiki-prose">
-        {{ .Content }}
+        {{ range $i, $chunk := $chunks }}
+          {{ if eq $i 0 }}
+            {{ $chunk | safeHTML }}
+            {{ $adTop }}
+          {{ else }}
+            {{ if and $mid (eq $i $mid) }}{{ $adMid }}{{ end }}
+            {{ printf "<h2%s" $chunk | safeHTML }}
+          {{ end }}
+        {{ end }}
       </div>
 
       {{ if or .Params.see_also .Params.wider_context }}

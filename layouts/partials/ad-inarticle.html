@@ -1,0 +1,30 @@
+{{/* In-article AdSense unit.
+
+     Call with the ad slot ID as the context:
+       {{ partial "ad-inarticle.html" "5564588335" }}
+
+     Renders nothing unless BOTH `params.googleAdsenseClient` (hugo.toml) and a
+     non-empty slot ID are set — so the whole thing switches off by blanking one
+     config value, same as the Auto-ads loader.
+
+     Note: the `adsbygoogle.js` loader is deliberately NOT re-emitted here. It is
+     already loaded once in <head> by baseof.html, and Google's own guidance is
+     that the tag must appear exactly once per page; repeating it per ad unit
+     costs an extra request and can make units fail to fill. All this partial
+     needs is the <ins> placeholder plus the push() that claims it. */}}
+{{- $slot := . -}}
+{{- with site.Params.googleAdsenseClient -}}
+{{- if $slot -}}
+<div class="wiki-ad" aria-label="Advertisement">
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="{{ . }}"
+       data-ad-slot="{{ $slot }}"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{{- end -}}
+{{- end -}}
