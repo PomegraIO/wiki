@@ -98,6 +98,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="dns-prefetch" href="https://analytics.pomegra.io" />
   <link rel="preconnect" href="https://analytics.pomegra.io" crossorigin />
+  {{ with .Site.Params.googleAnalyticsId }}
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+  {{ end }}
   {{ with .Site.Params.googleAdsenseClient }}
     <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />
     <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
@@ -129,6 +133,21 @@
   {{ end }}
   {{ $events := resources.Get "js/wiki-events.js" | resources.Minify | resources.Fingerprint }}
   <script src="{{ $events.RelPermalink }}" integrity="{{ $events.Data.Integrity }}" defer></script>
+
+  {{/* ── Analytics: Google Analytics 4 (same property as the main site) ── */}}
+  {{ with .Site.Params.googleAnalyticsId }}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      // gtag.js requires the Arguments object itself on the dataLayer — a
+      // spread array is not equivalent, so keep this a non-arrow function.
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '{{ . }}');
+    </script>
+  {{ end }}
 
   {{/* ── Google AdSense (Auto ads) — emitted on every page ──────────── */}}
   {{ with .Site.Params.googleAdsenseClient }}

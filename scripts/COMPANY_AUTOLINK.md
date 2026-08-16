@@ -74,7 +74,7 @@ python scripts/autolink_companies.py --letter z --dry-run
 python scripts/autolink_companies.py --letter z
 
 # 3. Rebuild and validate every internal link on the z pages
-"/c/Users/mk/bin/hugo.exe" --gc --minify
+hugo --gc --minify
 python scripts/validate_links.py --letter z
 #   -> 778 internal links checked; the only broken ones are 7 PRE-EXISTING
 #      hand-authored links (syK-stock, biopharmaceutical, clinical-stage,
@@ -113,7 +113,7 @@ python scripts/autolink_companies.py --all --dry-run     # preview totals
 python scripts/autolink_companies.py --all               # apply
 
 # Always finish with a build + validation sweep:
-"/c/Users/mk/bin/hugo.exe" --gc --minify
+hugo --gc --minify
 python scripts/validate_links.py --all
 ```
 

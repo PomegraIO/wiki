@@ -89,6 +89,13 @@ uglyURLs = false
   umamiSrc = 'https://analytics.pomegra.io/script.js'
   umamiWebsiteId = '3296fbd4-6f4b-41fa-bbed-13193974c9f8'
 
+  # Google Analytics 4 measurement ID. Same GA4 property as the main
+  # pomegra.io site, so it reports as one property and /wiki/ pages show up
+  # as a path segment rather than a separate site. Runs alongside Umami, not
+  # instead of it. Blank this one value to drop gtag.js site-wide without
+  # touching a layout.
+  googleAnalyticsId = 'G-QR6BMZZWS3'
+
   # Google Search Console verification token (issued by the wiki property).
   # Same console account as /learn but a different verified property.
   googleSiteVerification = 'GnFvBlrDnjRHUjeRjhQdDeejc3Z5l3g7BPnpNpAJRAQ'

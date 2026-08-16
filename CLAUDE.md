@@ -37,9 +37,11 @@ hugo list all
 hugo list drafts
 ```
 
-Hugo isn't on PATH on the build host. The installer at the moment lives at `C:\Users\mk\bin\hugo.exe` (Hugo Extended 0.161+). If you need to reinstall:
-- Download `hugo_extended_<version>_windows-amd64.zip` from <https://github.com/gohugoio/hugo/releases>
-- Unzip, place `hugo.exe` somewhere on PATH.
+Hugo may not be on PATH on your machine — it is a single binary kept outside the
+repo, not a dependency this project installs. **Hugo Extended 0.161+** is required
+(the Extended build is what provides the asset pipeline). To install:
+- Download the `hugo_extended_<version>_<platform>` archive from <https://github.com/gohugoio/hugo/releases>
+- Unpack it and put the `hugo` binary somewhere on your PATH.
 
 ## Authoring conventions
 
@@ -118,14 +120,26 @@ uses. Two pieces:
 - The official tracker, loaded as a `<script defer>` from baseof.html with
   `data-website-id` set in `hugo.toml` `[params].umamiWebsiteId`. The wiki has
   its own website-id distinct from each learn book.
-- `assets/js/wiki-events.js` is the Hugo-flavoured port of
-  `learn/books/_shared/umami-events.js`. Same custom event taxonomy
+- `assets/js/wiki-events.js` is the Hugo-flavoured port of the shared
+  `umami-events.js` used by the sibling Learn site. Same custom event taxonomy
   (scroll-depth, heartbeat, engagement-summary, reading-complete, theme-toggle,
   external-link-click, code-copy, etc.) plus wiki-specific events
   (`internal-link-click`, `cross-property-click`, `search-query`,
   `random-article`). The Docusaurus version is a `clientModule` driven by
   router lifecycle; this version is a single IIFE that starts on
   `DOMContentLoaded` and finalizes on `pagehide`.
+
+Google Analytics 4 runs *alongside* Umami — it is not a replacement. `hugo.toml`
+`[params].googleAnalyticsId` holds the measurement ID and gates the gtag.js
+snippet in baseof.html (blank it and GA vanishes site-wide, same switch pattern
+as `googleAdsenseClient`). The ID is the **same GA4 property as the main
+pomegra.io site**, so `/wiki/` shows up as a path segment inside one property
+rather than as a separate site — keep it that way unless someone deliberately
+wants the wiki split out. Note the snippet uses
+`function gtag() { dataLayer.push(arguments); }`: gtag.js needs the `arguments`
+object itself on the dataLayer, so it cannot be an arrow function or a spread
+array. The site is static with no SPA routing, so every page load fires its own
+`page_view` — there is no route-change hook to wire up.
 
 ## Ads
 
@@ -212,9 +226,6 @@ These scripts are utilities, run on demand. They are idempotent.
 
 ## What is *not* in this repo
 
-- **No Dockerfile / CI yet.** The pomegra-infra wiring (image build, nginx
-  routing for `pomegra.io/wiki/`, GitOps bump) is the next step. Until that
-  lands, the production output is whatever `hugo --gc` produces in `public/`.
 - **No tests.** "Tests" effectively mean: `hugo --gc --minify` exits 0 and the
   rendered site looks right when you open `hugo server`.
 
