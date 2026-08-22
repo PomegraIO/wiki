@@ -34,9 +34,9 @@ image: /svg/valuation.svg
 
 ## Why EBITDA is the currency of private company valuation
 
-When a buyer assesses a well-established, profitable private company—a regional manufacturing firm, a mature software business, a distribution network—they focus on operating cash flow. [Net income](income-statement) is distorted by each owner's tax structure, depreciation schedules, and capital allocation choices. [EBITDA](ebitda) strips those layers away, revealing the true economic profit the business generates before claiming back interest on debt, taxes, and non-cash charges.
+When a buyer assesses a well-established, profitable private company—a regional manufacturing firm, a mature software business, a distribution network—they focus on operating cash flow. [Net income](/income-statement/) is distorted by each owner's tax structure, depreciation schedules, and capital allocation choices. [EBITDA](/ebitda/) strips those layers away, revealing the true economic profit the business generates before claiming back interest on debt, taxes, and non-cash charges.
 
-A private business owner might have structured his company with high owner draws, salaries, and related-party expenses that depress reported profit. Buyers know this, so they "normalize" the EBITDA by adding back one-off costs and adjusting for owner compensation that is different from what a professional manager would command. The resulting normalized EBITDA is the real profit available to service [debt](debt-financing) and reward equity [investors](securities-and-exchange-commission).
+A private business owner might have structured his company with high owner draws, salaries, and related-party expenses that depress reported profit. Buyers know this, so they "normalize" the EBITDA by adding back one-off costs and adjusting for owner compensation that is different from what a professional manager would command. The resulting normalized EBITDA is the real profit available to service [debt](/debt-financing/) and reward equity [investors](/securities-and-exchange-commission/).
 
 ## The normalization step: preparing EBITDA for valuation
 
@@ -64,7 +64,7 @@ The multiple applied to normalized EBITDA reflects industry, scale, growth, and 
 
 **Competitive moat and customer concentration** influence perceived risk. A company with a strong brand, patent-protected product, or locked-in customer base commands a premium. A business dependent on a handful of large customers trades at a discount (a concentration risk that buyers price in).
 
-**Debt capacity** also affects the multiple. A business that can sustainably carry debt at a [leverage ratio](leverage-ratio-forex) of 3× EBITDA is worth more than one with limited borrowing capacity, because leverage amplifies returns to equity holders.
+**Debt capacity** also affects the multiple. A business that can sustainably carry debt at a [leverage ratio](/leverage-ratio-forex/) of 3× EBITDA is worth more than one with limited borrowing capacity, because leverage amplifies returns to equity holders.
 
 Public market comparables are the reference point. If three comparable public software companies trade at 12×, 13×, and 11× EBITDA, a buyer might offer 8× to 10× for a similar private company—applying a discount for illiquidity, smaller scale, and execution risk.
 
@@ -91,7 +91,7 @@ If new information emerges—a key customer signals it may switch vendors, or a 
 
 ## EBITDA multiple vs. other methods
 
-**Revenue multiples** are faster but less precise. A [revenue multiple valuation](revenue-multiple-valuation-private-company) is useful for pre-profitability or high-growth firms, but EBITDA multiples are preferred once the business is mature and profitable because they ground value in cash economics.
+**Revenue multiples** are faster but less precise. A [revenue multiple valuation](/revenue-multiple-valuation-private-company/) is useful for pre-profitability or high-growth firms, but EBITDA multiples are preferred once the business is mature and profitable because they ground value in cash economics.
 
 **Discounted cash flow** (DCF) is more detailed but requires explicit assumptions about future margins, capital expenditure, and terminal growth. An EBITDA multiple is a shortcut that bakes in those assumptions implicitly. Many buyers use the multiple method first to screen deals, then use DCF to validate.
 

@@ -4,7 +4,7 @@ description: "A distributor and manager of college bookstore operations, functio
 keywords: ["retail", "distribution", "education", "bookstores", "supply-chain"]
 ---
 
-*[**Barnes & Noble Education, Inc.**](TICKER: **BNED**) runs college bookstores across North America by operating or supplying retail locations on university campuses, a business model where the physical location of stores, the timing of the academic calendar, and the inventory of textbooks and merchandise directly determine profit. The company combines retail operations (owning and running bookstore locations) with wholesale supply (providing inventory and procurement services to partner institutions), creating a business whose cash flow follows the semester cycle and whose earnings depend on managing millions of units of books, apparel, and supplies across a geographically dispersed footprint.*
+***Barnes & Noble Education, Inc.** runs college bookstores across North America by operating or supplying retail locations on university campuses, a business model where the physical location of stores, the timing of the academic calendar, and the inventory of textbooks and merchandise directly determine profit. The company combines retail operations (owning and running bookstore locations) with wholesale supply (providing inventory and procurement services to partner institutions), creating a business whose cash flow follows the semester cycle and whose earnings depend on managing millions of units of books, apparel, and supplies across a geographically dispersed footprint.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BNED</td></tr>

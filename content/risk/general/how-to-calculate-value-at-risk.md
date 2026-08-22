@@ -10,7 +10,7 @@ keywords:
 image: /svg/risk.svg
 ---
 
-*[Value at Risk]((/value-at-risk/)) (VaR) measures the maximum loss a portfolio could suffer within a given time horizon, at a specified confidence level. The three standard calculation methods — historical simulation, variance-covariance, and Monte Carlo — differ in speed, assumptions, and accuracy. Each produces the same answer to a different question, depending on which method matches your data and model.*
+*[Value at Risk](/value-at-risk/)) (VaR) measures the maximum loss a portfolio could suffer within a given time horizon, at a specified confidence level. The three standard calculation methods — historical simulation, variance-covariance, and Monte Carlo — differ in speed, assumptions, and accuracy. Each produces the same answer to a different question, depending on which method matches your data and model.*
 
 <aside class="wiki-infobox">
 
@@ -83,7 +83,7 @@ A second limitation is **structural breaks.** If your portfolio manager changed 
 
 ## Method 2: Variance-covariance (parametric) VaR
 
-The variance-covariance method assumes returns follow a normal (Gaussian) distribution. Given that assumption, you need only two inputs: the mean return and the [standard deviation]((/volatility-smile/)) (volatility).
+The variance-covariance method assumes returns follow a normal (Gaussian) distribution. Given that assumption, you need only two inputs: the mean return and the [standard deviation](/volatility-smile/)) (volatility).
 
 ### Worked example: variance-covariance
 
@@ -107,7 +107,7 @@ Dollar VaR = 0.02841 × $10 million = $284,100
 
 ### Multi-asset portfolios
 
-For a portfolio holding multiple stocks or bonds, the variance-covariance method uses the [correlation matrix]((/correlation/)):
+For a portfolio holding multiple stocks or bonds, the variance-covariance method uses the correlation matrix):
 
 VaR = Portfolio Value × (Zα × √(w^T × Cov × w))
 
@@ -124,7 +124,7 @@ Variance-covariance is **fast and elegant.** You can compute it in a spreadsheet
 
 The major limitation is the **normal distribution assumption.** Real market returns have fat tails (extreme events more often than normal theory predicts) and skew. Variance-covariance VaR systematically underestimates tail losses. In March 2020, for instance, variance-covariance models predicted far smaller losses than actually occurred.
 
-A second issue: **option [gamma]((/gamma/))**. If your portfolio holds options or other nonlinear instruments, return distributions are non-normal even if underlying asset returns are normal. Variance-covariance breaks down.
+A second issue: **option [gamma](/gamma/))**. If your portfolio holds options or other nonlinear instruments, return distributions are non-normal even if underlying asset returns are normal. Variance-covariance breaks down.
 
 ## Method 3: Monte Carlo simulation
 
@@ -179,9 +179,9 @@ For the same portfolio and confidence level:
 
 ## Using VaR in practice
 
-VaR is a summary statistic — useful but incomplete. A portfolio with 95% VaR of $1 million tells you that 5% of the time you lose more than $1 million, but not how much more. [Conditional Value at Risk]((/value-at-risk/)) (CVaR or expected shortfall) extends VaR by computing the *expected* loss in that worst 5% tail — often 50–100% larger than VaR itself.
+VaR is a summary statistic — useful but incomplete. A portfolio with 95% VaR of $1 million tells you that 5% of the time you lose more than $1 million, but not how much more. [Conditional Value at Risk](/value-at-risk/)) (CVaR or expected shortfall) extends VaR by computing the *expected* loss in that worst 5% tail — often 50–100% larger than VaR itself.
 
-Regulators and boards mandate VaR reporting for [market risk]((/market-risk/)) limits. Risk managers also use it to size [hedges]((/derivatives-hedging/)), allocate [capital]((/equity-financing/)), and stress-test portfolios. But VaR should always be paired with scenario analysis, historical backtesting, and expert judgment.
+Regulators and boards mandate VaR reporting for [market risk](/market-risk/)) limits. Risk managers also use it to size [hedges](/derivatives-hedging/)), allocate [capital](/equity-financing/)), and stress-test portfolios. But VaR should always be paired with scenario analysis, historical backtesting, and expert judgment.
 
 ## See also
 

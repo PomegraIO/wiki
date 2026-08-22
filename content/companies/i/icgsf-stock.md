@@ -4,7 +4,7 @@ description: "Canadian junior mining company focused on silver-gold exploration 
 keywords: [mining, precious-metals, silver, gold, junior-miners, exploration, mining-equities]
 ---
 
-*[ICG Silver & Gold Ltd.](ICGSF) is a junior mining company engaged in exploration and early-stage development of silver and gold properties in North America. Like other junior miners, it operates in the volatile, capital-intensive space between early-stage prospecting and commercial production, competing for investor capital and mining concessions against larger established producers and other juniors with similar risk profiles.*
+*ICG Silver & Gold Ltd. is a junior mining company engaged in exploration and early-stage development of silver and gold properties in North America. Like other junior miners, it operates in the volatile, capital-intensive space between early-stage prospecting and commercial production, competing for investor capital and mining concessions against larger established producers and other juniors with similar risk profiles.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>ICGSF</td></tr>

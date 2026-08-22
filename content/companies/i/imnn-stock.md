@@ -9,7 +9,7 @@ keywords:
   - biopharmaceutical
 ---
 
-*[**Imunon, Inc.** (IMNN)](IMNN) is a Delaware corporation developing immunotherapies that train the immune system to recognize and attack cancer cells, with a scientific foundation built around carbohydrate structures displayed on tumor surfaces. The company does not manufacture blockbuster drugs or have approved therapies on the market. It is an early-stage research enterprise, essentially a collection of scientists and clinical programs funded by equity capital, pursuing the hypothesis that carbohydrate-based immunotherapies can extend survival or improve quality of life in patients with solid tumors and blood cancers. Its value is speculative, resting on whether its science translates to clinical benefit.*
+***Imunon, Inc.** (IMNN) is a Delaware corporation developing immunotherapies that train the immune system to recognize and attack cancer cells, with a scientific foundation built around carbohydrate structures displayed on tumor surfaces. The company does not manufacture blockbuster drugs or have approved therapies on the market. It is an early-stage research enterprise, essentially a collection of scientists and clinical programs funded by equity capital, pursuing the hypothesis that carbohydrate-based immunotherapies can extend survival or improve quality of life in patients with solid tumors and blood cancers. Its value is speculative, resting on whether its science translates to clinical benefit.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>IMNN</td></tr>

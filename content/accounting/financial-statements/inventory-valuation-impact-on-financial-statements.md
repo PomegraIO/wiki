@@ -34,9 +34,9 @@ keywords:
 
 ## The three standard methods
 
-Under [generally-accepted-accounting-principles](GAAP), companies have three main ways to flow inventory costs into the income statement:
+Under generally-accepted-accounting-principles, companies have three main ways to flow inventory costs into the income statement:
 
-**FIFO (First-In, First-Out)** assumes the oldest inventory is sold first. The cost of goods sold is built from the earliest purchases, and the inventory remaining on the balance sheet reflects the most recent, typically higher prices. In an inflationary environment, FIFO leaves your balance sheet showing inventory close to current replacement cost but inflates reported [cost-of-goods-sold](COGS), lowering [gross-profit-margin](gross profit).
+**FIFO (First-In, First-Out)** assumes the oldest inventory is sold first. The cost of goods sold is built from the earliest purchases, and the inventory remaining on the balance sheet reflects the most recent, typically higher prices. In an inflationary environment, FIFO leaves your balance sheet showing inventory close to current replacement cost but inflates reported cost-of-goods-sold, lowering [gross profit margin](/gross-profit-margin/).
 
 **LIFO (Last-In, First-Out)** assumes the newest inventory is sold first. COGS uses the most recent, usually higher prices, while the balance sheet inventory is valued at old, cheaper costs. In inflation, LIFO shrinks reported profit and therefore reduces taxable income. Many U.S. manufacturers prefer LIFO for tax purposes, though the IRS requires you to use LIFO for book reporting if you use it for taxes.
 
@@ -44,7 +44,7 @@ Under [generally-accepted-accounting-principles](GAAP), companies have three mai
 
 ## Impact on cost of goods sold and gross profit
 
-The choice of method directly changes [cost-of-goods-sold](COGS), which flows immediately to the income statement.
+The choice of method directly changes cost-of-goods-sold, which flows immediately to the income statement.
 
 Imagine a company that began the year with no inventory, then purchased:
 - 100 units at $10 in January
@@ -59,7 +59,7 @@ Under LIFO, COGS = $14 × 100 = $1,400. Inventory on the balance sheet = (100 ×
 
 Under weighted average, the average cost per unit = ($1,000 + $1,200 + $1,400) / 300 = $12. COGS = $12 × 100 = $1,200. Inventory = $12 × 200 = $2,400.
 
-For the same physical sale, [gross-profit-margin](gross profit) swings by $200 depending on the method. That difference cascades into operating income, net income, and earnings per share.
+For the same physical sale, [gross profit margin](/gross-profit-margin/) swings by $200 depending on the method. That difference cascades into operating income, net income, and earnings per share.
 
 ## Inflationary and deflationary environments
 
@@ -85,7 +85,7 @@ FIFO, by contrast, defers tax burden: you pay tax on higher reported profits now
 
 Conversely, if prices fall, LIFO becomes a drag: you are reporting inflated income and paying taxes on phantom profits, while your actual inventory cost has dropped.
 
-The choice also affects [depreciation-recapture-investor](working capital management). Under LIFO in inflation, your reported inventory is low, so working-capital ratios look lean and efficient. Under FIFO, inventory appears higher, which can inflate [days-inventory-outstanding](DIO) and signal slower turnover, even if the physical flow is identical.
+The choice also affects working capital management. Under LIFO in inflation, your reported inventory is low, so working-capital ratios look lean and efficient. Under FIFO, inventory appears higher, which can inflate days-inventory-outstanding and signal slower turnover, even if the physical flow is identical.
 
 ## Financial statement analysis implications
 

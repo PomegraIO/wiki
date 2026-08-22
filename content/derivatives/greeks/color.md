@@ -1,6 +1,7 @@
 ---
 title: "Color"
-description: "Third-order option Greek measuring the rate of change of gamma with respect to the underlying asset price."
+seo_title: "Color (Options Greek): Gamma of Gamma Explained"
+description: "Color is a third-order option Greek measuring how gamma changes as the underlying price moves. What it means for hedging and when traders track it."
 keywords:
   - color greek
   - gamma sensitivity

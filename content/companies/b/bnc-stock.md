@@ -4,7 +4,7 @@ description: "A diversified manufacturer operating through multiple production f
 keywords: ["manufacturing", "coatings", "industrial", "diversified", "operations"]
 ---
 
-*[**CEA Industries Inc.**](TICKER: **BNC**) operates across a network of manufacturing facilities delivering custom and industrial coating products, functioning as a manufacturer whose fortunes depend directly on the physical throughput of its plants and the consistency of its customer relationships. The company sits in the industrial chemicals and coatings segment, where raw material costs, production uptime, and supply-chain reliability shape margin and growth in ways that are visible in quarterly operating reports.*
+***CEA Industries Inc.** operates across a network of manufacturing facilities delivering custom and industrial coating products, functioning as a manufacturer whose fortunes depend directly on the physical throughput of its plants and the consistency of its customer relationships. The company sits in the industrial chemicals and coatings segment, where raw material costs, production uptime, and supply-chain reliability shape margin and growth in ways that are visible in quarterly operating reports.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BNC</td></tr>

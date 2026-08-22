@@ -1,6 +1,7 @@
 ---
 title: "Elinor Ostrom: How Communities Govern the Commons Without Tragedy"
-description: "Elinor Ostrom's research on commons governance showed communities self-regulate shared resources through rules and norms, refuting the tragedy of the commons."
+seo_title: "Elinor Ostrom: Governing the Commons Without Tragedy"
+description: "Elinor Ostrom proved communities can govern shared resources without state or markets, winning the 2009 Nobel. Her field evidence and design principles."
 keywords:
   - elinor ostrom commons governance
   - tragedy of the commons avoided

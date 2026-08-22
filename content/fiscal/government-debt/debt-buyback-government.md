@@ -1,6 +1,7 @@
 ---
 title: "Debt Buyback (Government)"
-description: "A sovereign's repurchase of its own outstanding bonds on the secondary market to reduce debt, improve maturity profile, or adjust capital structure."
+seo_title: "Government Debt Buyback: How Sovereign Buybacks Work"
+description: "In a debt buyback a government repurchases its own bonds on the secondary market, often below par. Why sovereigns do it and what it means for bondholders."
 keywords:
   - debt buyback
   - bond repurchase

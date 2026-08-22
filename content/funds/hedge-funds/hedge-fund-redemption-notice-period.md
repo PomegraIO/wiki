@@ -1,6 +1,7 @@
 ---
 title: "Hedge Fund Redemption Notice Periods Explained"
-description: "Hedge fund redemption notice periods require investors to signal withdrawal weeks or months in advance. Learn how they work and why they exist."
+seo_title: "Hedge Fund Redemption Notice Period: How It Works"
+description: "A redemption notice period makes hedge fund investors request withdrawals 15–90 days ahead. Why funds require notice and what a missed deadline means."
 keywords:
   - redemption notice period hedge fund
   - hedge fund withdrawal notice

@@ -40,7 +40,7 @@ This difference ripples through every economic lever. In a closed-end structure,
 
 ## Capital deployment and the commitment trap
 
-Closed-end funds front-load their [capital calls](capital-flows/). A large fund might draw 80% of committed capital in years 1–3, then draw the remainder opportunistically over years 4–6. Once the investment period closes, no more capital is deployed. Any remaining undrawn commitments are typically returned. This creates a hard rhythm: pile money in fast, harvest over years 6–10, distribute, and hope the next fund has LPs ready to commit again.
+Closed-end funds front-load their [capital calls](/capital-flows/). A large fund might draw 80% of committed capital in years 1–3, then draw the remainder opportunistically over years 4–6. Once the investment period closes, no more capital is deployed. Any remaining undrawn commitments are typically returned. This creates a hard rhythm: pile money in fast, harvest over years 6–10, distribute, and hope the next fund has LPs ready to commit again.
 
 Evergreen funds spread deployment across their entire existence. Because there is no investment period cutoff, capital can trickle in and be deployed continuously. A deal closes in year 3; it exits in year 8; proceeds immediately feed a new deal in year 9. Capital that would sit idle in a closed-end fund's harvest phase instead recycles into fresh investments.
 
@@ -48,13 +48,13 @@ For the fund manager, this means less "dry powder" sitting between vintages. For
 
 ## Fee implications and manager incentives
 
-The fee tail differs dramatically. [Closed-end funds](mutual-fund/) typically charge management fees for the fund term plus extensions. A 10-year fund + one 2-year extension = 12 years of fees on committed capital. Once the fund liquidates, fees stop. An evergreen fund can theoretically generate management fees forever, as long as it meets performance thresholds and keeps LPs committed. This is a material advantage to the manager, and a material cost to the LP base over decades.
+The fee tail differs dramatically. [Closed-end funds](/mutual-fund/) typically charge management fees for the fund term plus extensions. A 10-year fund + one 2-year extension = 12 years of fees on committed capital. Once the fund liquidates, fees stop. An evergreen fund can theoretically generate management fees forever, as long as it meets performance thresholds and keeps LPs committed. This is a material advantage to the manager, and a material cost to the LP base over decades.
 
 This structural asymmetry drives manager behavior. Closed-end funds have inherent pressure to harvest—to declare victory, return capital, and raise the next fund. Evergreen funds face the opposite pull: keep the vehicle open, keep taking capital, keep earning fees. Some evergreens implement artificial "refresh" cycles to simulate a closed-end rhythm; others genuinely operate in perpetuity.
 
 ## Distribution timing and reinvestment risk
 
-Closed-end funds bunch distributions. Major exits cluster in years 7–10 as the fund unwinds positions. Investors receive large cash infusions late in the cycle. If those investors want to deploy capital, they either commit to the next vintage fund or go elsewhere. This creates the [reinvestment risk](interest-rate-risk/): what if the next fund is not available yet, or offers worse terms?
+Closed-end funds bunch distributions. Major exits cluster in years 7–10 as the fund unwinds positions. Investors receive large cash infusions late in the cycle. If those investors want to deploy capital, they either commit to the next vintage fund or go elsewhere. This creates the [reinvestment risk](/interest-rate-risk/): what if the next fund is not available yet, or offers worse terms?
 
 Evergreen funds distribute as individual deals exit, smoothing the cash flow. Year 3 has a small distribution from one exit; year 7, a larger one from another. This reduces bunching and lets investors redeploy capital into the same vehicle continuously. From a cash management and compounding perspective, this is more elegant—capital never sits idle waiting for the next opportunity.
 
@@ -80,7 +80,7 @@ Evergreen funds can grow by simply opening the capital faucet. If the evergreen 
 
 **Choose evergreen if:** you want continuous redeployment of proceeds, dislike the gap-fund risk between vintages, prefer to grow capital steadily over decades, or believe the fund's strategy is perpetually relevant.
 
-In practice, [private equity funds](leveraged-buyout/), [hedge funds](hedge-fund/), and most [real estate investment trusts](real-estate-investment-trust/) use closed-end structures because their strategies have clear holding periods and exit timelines. Permanently capitalized vehicles—endowments, family offices, certain infrastructure funds—often prefer evergreen structures to avoid fundraising churn and maximize compounding.
+In practice, [private equity funds](/leveraged-buyout/), [hedge funds](/hedge-fund/), and most [real estate investment trusts](/real-estate-investment-trust/) use closed-end structures because their strategies have clear holding periods and exit timelines. Permanently capitalized vehicles—endowments, family offices, certain infrastructure funds—often prefer evergreen structures to avoid fundraising churn and maximize compounding.
 
 ## See also
 

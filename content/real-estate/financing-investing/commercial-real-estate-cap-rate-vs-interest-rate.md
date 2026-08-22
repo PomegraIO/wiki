@@ -40,7 +40,7 @@ Cap rate and interest rate are distinct metrics. Cap rate measures the income yi
 
 A commercial property produces [net operating income](/net-operating-income/) (NOI) from rents and other operational cash flow. The cap rate is the ratio of that NOI to the purchase price. A property worth $1,000,000 generating $60,000 in annual NOI has a 6% cap rate.
 
-An investor typically finances this purchase with a [mortgage]() at a fixed rate—say, 5.5% annually. The mortgage is debt at 5.5%, but the property generates returns at 6% (the cap rate). That 0.5% difference is the spread.
+An investor typically finances this purchase with a mortgage at a fixed rate—say, 5.5% annually. The mortgage is debt at 5.5%, but the property generates returns at 6% (the cap rate). That 0.5% difference is the spread.
 
 On the equity portion of the purchase, the spread directly affects returns. If the investor puts down $250,000 (25%) and finances $750,000 (75%) at 5.5%, the annual interest cost on that mortgage is $41,250. But the property generates $60,000 in NOI. After paying interest, $18,750 remains. Divided by the equity investment of $250,000, this yields a 7.5% return on equity.
 

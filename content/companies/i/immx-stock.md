@@ -9,7 +9,7 @@ keywords:
   - drug discovery
 ---
 
-*[**Immix Biopharma, Inc.** (IMMX)](IMMX) is a Delaware corporation that discovers and develops small-molecule drugs—chemical compounds swallowed as pills or injected as solutions—aimed at treating cancer and metabolic disorders. The firm owns no approved drugs; it is a research and development enterprise, not yet proven in the market. Its value rests entirely on the premise that compounds currently in laboratories and early clinical trials will eventually reach patients, gain regulatory approval, and generate revenue. Until that happens, the company burns cash steadily, funded by equity raises and occasional partnerships.*
+***Immix Biopharma, Inc.** (IMMX) is a Delaware corporation that discovers and develops small-molecule drugs—chemical compounds swallowed as pills or injected as solutions—aimed at treating cancer and metabolic disorders. The firm owns no approved drugs; it is a research and development enterprise, not yet proven in the market. Its value rests entirely on the premise that compounds currently in laboratories and early clinical trials will eventually reach patients, gain regulatory approval, and generate revenue. Until that happens, the company burns cash steadily, funded by equity raises and occasional partnerships.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>IMMX</td></tr>

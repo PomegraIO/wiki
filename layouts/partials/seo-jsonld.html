@@ -72,8 +72,10 @@
 
 {{/* ── Per-page: Article + DefinedTerm for glossary entries ────────── */}}
 {{ if and .IsPage (ne .Section "") }}
-  {{ $desc := cond (ne (string .Description) "") (string .Description) (cond (ne (string .Summary) "") (string .Summary) "") }}
-  {{ $desc = truncate 300 (plainify $desc) }}
+  {{/* Same description string as the meta tags — one implementation, in
+       partials/meta-desc.html. No htmlEscape here: `jsonify` below handles
+       escaping for the JSON-LD context. */}}
+  {{ $desc := partial "meta-desc.html" . }}
   {{ $imgPath := cond (ne (string .Params.image) "") (string .Params.image) (.Site.Params.ogImage | default "/img/og-default.png") }}
   {{ $img := partial "absolute-url.html" $imgPath }}
   {{ $rt := math.Max 1 (math.Ceil (div (float .WordCount) 225.0)) }}

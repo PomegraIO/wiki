@@ -1,6 +1,7 @@
 ---
 title: "Paranovus Entertainment Technology Ltd. (PAVS)"
-description: "Paranovus is an AI-powered entertainment and e-commerce company that funds growth through equity offerings and acquisition, pivoting from a blank-check structure into gaming, entertainment, and TikTok-based commerce."
+seo_title: "PAVS Stock: What Paranovus Entertainment Actually Does"
+description: "PAVS is Paranovus Entertainment Technology, an AI entertainment and TikTok e-commerce company on Nasdaq. Its pivot, acquisitions, and funding model."
 keywords:
   - AI entertainment
   - e-commerce

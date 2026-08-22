@@ -106,7 +106,7 @@ Large prime brokers use [stress testing](/stress-testing/) and robust IT control
 
 - [Over-the-Counter Market](/over-the-counter-market/) — Decentralized trading where give-ups are standard
 - [Broker](/broker/) — Intermediaries that execute and give-up trades
-- [Settlement](/forex.svg) — The process by which trades are confirmed and money changes hands
+- Settlement — The process by which trades are confirmed and money changes hands
 - [Operational Risk](/operational-risk/) — Risk from systems, fraud, or human error in give-up logistics
 
 </div>

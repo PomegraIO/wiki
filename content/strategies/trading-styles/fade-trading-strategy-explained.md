@@ -1,6 +1,7 @@
 ---
 title: "Fade Trading Strategy Explained"
-description: "Fade trading strategy profits by selling into sharp upward moves and buying dips, betting on mean reversion of intraday swings."
+seo_title: "Fade Trading Strategy: Betting Against Sharp Moves"
+description: "A fade trade takes the opposite side of a sharp intraday move, betting it reverts toward the open. When fading works, when it fails, and a worked example."
 keywords:
   - fade trading strategy
   - mean reversion trading

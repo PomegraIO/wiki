@@ -33,7 +33,7 @@ image: /svg/strategies.svg
 
 ## The philosophical foundation
 
-Quantitative investing rests on a simple premise: the human brain is subject to [bias](overconfidence-bias), fatigue, and emotional swings that degrade investment decisions. Markets are populated by thousands of competing agents with imperfect information, creating patterns that can be isolated and exploited—but only if you remove the human's tendency to overweight recent news, favor familiar stocks, or chase performance.
+Quantitative investing rests on a simple premise: the human brain is subject to [bias](/overconfidence-bias/), fatigue, and emotional swings that degrade investment decisions. Markets are populated by thousands of competing agents with imperfect information, creating patterns that can be isolated and exploited—but only if you remove the human's tendency to overweight recent news, favor familiar stocks, or chase performance.
 
 A quant investor accepts that they cannot predict the future; instead, they search for *statistical relationships* in the past that have remained durable and whose sources are economically sound. If small-cap stocks with high profitability and low debt have historically beaten the market, and if that pattern can be explained by rational factors (like lower analyst coverage or less institutional ownership), a quant might build a strategy around that factor. The goal is not certainty but a persistent, measurable edge.
 
@@ -49,7 +49,7 @@ Common equity factors include:
 - **Size**: small-cap stocks have historically carried a return premium, though inconsistently.
 - **Volatility**: lower-volatility stocks sometimes deliver returns with less dramatic swings.
 
-A quant strategy scores each security across these factors, often using a **linear model** or machine-learning approach to combine them. A simple example might assign 40% weight to value, 30% to momentum, 20% to quality, and 10% to liquidity. A stock that ranks high on all four gets a strong signal to buy; one that fails on all counts gets a sell signal. The weighting and the factors themselves are derived from historical data and [economic reasoning](business-cycle).
+A quant strategy scores each security across these factors, often using a **linear model** or machine-learning approach to combine them. A simple example might assign 40% weight to value, 30% to momentum, 20% to quality, and 10% to liquidity. A stock that ranks high on all four gets a strong signal to buy; one that fails on all counts gets a sell signal. The weighting and the factors themselves are derived from historical data and [economic reasoning](/business-cycle/).
 
 ## Backtesting: the critical filter
 

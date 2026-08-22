@@ -1,6 +1,7 @@
 ---
 title: "Essential Properties Realty Trust, Inc. (EPRT)"
-description: "Essential Properties Realty Trust owns and leases single-tenant retail properties occupied by convenience stores, dollar stores, pharmacies, and other everyday businesses in the United States and Canada."
+seo_title: "EPRT Stock: Essential Properties Net-Lease REIT"
+description: "Essential Properties Realty Trust (EPRT) is a net-lease REIT owning ~3,500 single-tenant retail properties. How it makes money, risks, and who holds it."
 keywords:
   - real estate investment trust
   - REIT

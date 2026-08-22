@@ -1,6 +1,7 @@
 ---
 title: "Information Coefficient for Evaluating Quant Signals"
-description: "Information coefficient (IC) and ICIR measure a quant signal's predictive power and consistency. Essential metrics for systematic trading strategy validation."
+seo_title: "Information Coefficient (IC): How to Evaluate Signals"
+description: "Information coefficient (IC) is the correlation between a signal's forecasts and realized returns. Typical values, ICIR, and pitfalls in signal testing."
 keywords:
   - information coefficient ic quant
   - signal evaluation metrics

@@ -1,6 +1,7 @@
 ---
 title: "Average Daily Range of Currency Pairs Explained"
-description: "Average daily range (ADR) measures currency price movement intraday. Learn how majors, minors, and exotics differ and how traders use ADR to set stop losses and profit targets."
+seo_title: "Average Daily Range (ADR) in Forex: Pair-by-Pair Guide"
+description: "Average daily range measures how far a currency pair moves in a typical day—about 80–150 pips for majors, far more for exotics. Using ADR to size stops."
 keywords:
   - average daily range currency pairs
   - currency pair adr

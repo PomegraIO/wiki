@@ -60,7 +60,7 @@ A shareholder holds voting rights if and only if they are on the register as of 
 - A shareholder who owns shares on the record date but dies the day after still votes through their estate.
 - A shareholder who buys and then sells shares all before the record date votes if they are on the register at record date (which they are, if the sale has not yet settled).
 
-The company and transfer agent recognize only the legally registered owner. If shares are in [street name](https://en.wikipedia.org/wiki/Street_name) (held by a broker on behalf of the beneficial owner), the broker is technically the registered owner, but the broker votes on behalf of the beneficial owner according to the beneficial owner's instructions via the [proxy statement](proxy-statement.md).
+The company and transfer agent recognize only the legally registered owner. If shares are in [street name](https://en.wikipedia.org/wiki/Street_name) (held by a broker on behalf of the beneficial owner), the broker is technically the registered owner, but the broker votes on behalf of the beneficial owner according to the beneficial owner's instructions via the [proxy statement](/proxy-statement/).
 
 ## Trading around the record date
 
@@ -90,7 +90,7 @@ The record date mechanism applies not only to shareholder meetings but to any co
 - **Dividend payments**: Record date determines who receives the dividend.
 - **Stock splits**: Record date determines who receives the new shares.
 - **Rights offerings** (the right to buy new shares at a discount): Record date determines eligibility.
-- **Mergers and acquisitions**: Often a record date is set for [shareholder approval](hostile-takeover.md) votes.
+- **Mergers and acquisitions**: Often a record date is set for [shareholder approval](/hostile-takeover/) votes.
 
 In each case, the principle is the same: freeze the register, execute the action, and move on. Trading after the ex-rights date means missing that specific right or payment.
 

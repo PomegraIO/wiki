@@ -9,7 +9,7 @@ keywords:
   - operational scaling
 ---
 
-*[**Baiya International Group Inc.** (BIYA)](BIYA) operates at the growth stage of the company lifecycle, beyond startup and early proof-of-concept but not yet at mature profitability. The company has established manufacturing operations, generates meaningful revenue, and is focused on expanding capacity, market reach, and operational efficiency. Baiya exemplifies the challenges of the growth stage: balancing reinvestment in capacity against pressure to show earnings growth, managing foreign operations and currency exposure, and maintaining execution discipline as scale increases.*
+***Baiya International Group Inc.** (BIYA) operates at the growth stage of the company lifecycle, beyond startup and early proof-of-concept but not yet at mature profitability. The company has established manufacturing operations, generates meaningful revenue, and is focused on expanding capacity, market reach, and operational efficiency. Baiya exemplifies the challenges of the growth stage: balancing reinvestment in capacity against pressure to show earnings growth, managing foreign operations and currency exposure, and maintaining execution discipline as scale increases.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BIYA</td></tr>

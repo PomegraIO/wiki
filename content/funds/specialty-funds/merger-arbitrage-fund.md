@@ -72,7 +72,7 @@ This "tail risk" means merger arbitrage is best viewed as a tactical sleeve with
 - [Hedge Fund](/hedge-fund/) — flexible investment vehicle that often specializes in event-driven strategies
 - [Merger](/merger/) — corporate combination that creates deal-spread opportunities
 - [Acquisition](/acquisition/) — purchase of one company by another
-- [Risk Arbitrage](risk-arbitrage-fund/) — sister strategy capturing mispricings from corporate events
+- Risk Arbitrage — sister strategy capturing mispricings from corporate events
 - Event-Driven Fund — broader category encompassing merger arbitrage and other catalysts
 - [Counterparty Risk](/counterparty-risk/) — exposure when broker or financing partner fails
 

@@ -1,6 +1,7 @@
 ---
 title: "Texas Ventures Acquisition IV Corp (TVIV)"
-description: "A special purpose acquisition company founded to identify and acquire an industrial technology company, led by experienced SPAC operators with a track record of completed transactions."
+seo_title: "TVIV Stock: Texas Ventures Acquisition IV SPAC Explained"
+description: "TVIV is Texas Ventures Acquisition IV, a SPAC hunting an industrial technology target. Its sponsors' track record, unit structure, and thesis."
 keywords:
   - SPAC
   - industrial technology

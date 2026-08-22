@@ -4,7 +4,7 @@ description: "Defense contractor specializing in non-destructive inspection equi
 keywords: ["defense contracting", "inspection equipment", "aerospace", "federal procurement", "non-destructive testing"]
 ---
 
-*[**NAPC Defense, Inc.**](BLIS), operates in the tightly regulated world of defense procurement, where margins are determined by government contract types, competitive bidding, and the customer's willingness to pay for reliability and certification. The company's revenue stems from the manufacture and sale of specialized inspection equipment, service contracts, and contract research and development (CRAD) work on behalf of military and aerospace customers.*
+***NAPC Defense, Inc.**, operates in the tightly regulated world of defense procurement, where margins are determined by government contract types, competitive bidding, and the customer's willingness to pay for reliability and certification. The company's revenue stems from the manufacture and sale of specialized inspection equipment, service contracts, and contract research and development (CRAD) work on behalf of military and aerospace customers.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BLIS</td></tr>

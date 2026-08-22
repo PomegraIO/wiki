@@ -33,9 +33,9 @@ image: /svg/fixed-income.svg
 
 ## The Inverse Relationship Between Yield and Price
 
-The foundation of any bond pricing move is the inverse relationship between a bond's [yield]()/yield-to-maturity) and its market price. If you own a bond paying 4% when newly issued, but market rates for similar risk rise to 6%, no one will pay par value for your 4% bond. The price must fall until the yield to maturity matches the new market rate.
+The foundation of any bond pricing move is the inverse relationship between a bond's yield/yield-to-maturity) and its market price. If you own a bond paying 4% when newly issued, but market rates for similar risk rise to 6%, no one will pay par value for your 4% bond. The price must fall until the yield to maturity matches the new market rate.
 
-A downgrade is a signal that risk has increased. Credit ratings agencies—whether [Standard & Poor's]()/s-and-p), Moody's, or Fitch—assess the probability that an issuer will default. When they cut a rating, they are saying, "this issuer is riskier than we previously thought." The market responds by demanding a higher yield on that issuer's bonds to compensate for the elevated default risk.
+A downgrade is a signal that risk has increased. Credit ratings agencies—whether Standard & Poor's/s-and-p), Moody's, or Fitch—assess the probability that an issuer will default. When they cut a rating, they are saying, "this issuer is riskier than we previously thought." The market responds by demanding a higher yield on that issuer's bonds to compensate for the elevated default risk.
 
 Because the bond's coupon is fixed, the only way to raise the yield is to lower the price. If a bond's coupon is $40 per year and its price falls from $1,000 to $900, the yield rises from 4% to approximately 4.4%. The larger the downgrade—from investment-grade to high-yield, for instance—the larger the price drop required to equilibrate demand.
 
@@ -59,7 +59,7 @@ This calculation yields a new price of approximately **$875**—a loss of $125, 
 
 ## Duration: Why Longer Bonds Fall Harder
 
-The degree of price decline depends on the bond's [duration](). Duration measures how sensitive a bond's price is to yield changes. A bond with 7 years of duration will lose roughly 7% of its value for every 1 percentage-point rise in yield.
+The degree of price decline depends on the bond's duration. Duration measures how sensitive a bond's price is to yield changes. A bond with 7 years of duration will lose roughly 7% of its value for every 1 percentage-point rise in yield.
 
 When a downgrade causes yields to spike by 2 percentage points (as in the example above, from 5% to 7%), a bond with 8 years of duration would fall approximately 16% in price. Long-dated bonds—those maturing in 20, 30, or more years—have the highest duration and suffer the steepest price declines. Short-dated bonds are less sensitive.
 
@@ -73,7 +73,7 @@ Conversely, new money entering the market after the downgrade can buy the bond a
 
 ## Credit Spreads and Sector Effects
 
-Downgrade-driven price moves are amplified by [credit spread](credit-spread) widening. The credit spread is the yield premium an issuer pays above a risk-free benchmark (like Treasuries). When an issuer is downgraded, not only does the overall yield rise, but the spread over risk-free assets widens as well.
+Downgrade-driven price moves are amplified by [credit spread](/credit-spread/) widening. The credit spread is the yield premium an issuer pays above a risk-free benchmark (like Treasuries). When an issuer is downgraded, not only does the overall yield rise, but the spread over risk-free assets widens as well.
 
 If the problem is systemic—affecting multiple issuers in the same sector—you may see a sector-wide downgrade wave. During a recession, for example, retail, energy, or real-estate issuers might face simultaneous rating cuts. This creates forced selling and further price declines across the sector.
 
@@ -81,7 +81,7 @@ If the problem is systemic—affecting multiple issuers in the same sector—you
 
 It is crucial to remember: the **coupon payment** and the **principal owed at maturity** are contractual obligations that do not change. If you hold the bond to maturity, you will still receive $50 per year and $1,000 at the end of 10 years (barring actual default). The downgrade itself does not alter these promised cash flows—only the market's assessment of the risk that those promises will not be kept.
 
-For a [high-yield bond](high-yield-bond) or distressed issuer, the risk of default is material, and the market's skepticism is justified. For an issuer downgraded within the investment-grade range, default is still rare, but the yield penalty is immediate and real.
+For a [high-yield bond](/high-yield-bond/) or distressed issuer, the risk of default is material, and the market's skepticism is justified. For an issuer downgraded within the investment-grade range, default is still rare, but the yield penalty is immediate and real.
 
 ## Recovery and Rating Reversals
 

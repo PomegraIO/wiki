@@ -1,6 +1,7 @@
 ---
 title: "How Mean Reversion Affects Real Option Value"
-description: "Why commodity prices that revert to a mean reduce option value compared to random-walk assumptions, and how practitioners adjust valuations."
+seo_title: "Mean Reversion in Real Options: The Valuation Trap"
+description: "Mean-reverting commodity prices can make Black-Scholes overvalue real options by 30-60%. Why reversion cuts option value and which models fix it."
 keywords:
   - mean reversion real option value
   - commodity option valuation

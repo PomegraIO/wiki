@@ -4,7 +4,7 @@ description: "US-listed mining company focused on mineral extraction and process
 keywords: ["mining", "minerals", "Namibia", "extraction", "commodities", "industrial minerals"]
 ---
 
-*[Namib Minerals]()**NAMM**) operates in the commodities extraction sector, with operational focus on industrial mineral production in Namibia and the southern African region. The company's business model centers on the physical mechanics of mining and beneficiation—the facilities that crush, sort, and process ore into sellable form—rather than on exploration or trading. Understanding Namib requires tracing how ore gets from pit to port, and why location in Namibia matters for both geology and logistics.*
+*Namib Minerals**NAMM**) operates in the commodities extraction sector, with operational focus on industrial mineral production in Namibia and the southern African region. The company's business model centers on the physical mechanics of mining and beneficiation—the facilities that crush, sort, and process ore into sellable form—rather than on exploration or trading. Understanding Namib requires tracing how ore gets from pit to port, and why location in Namibia matters for both geology and logistics.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>NAMM</td></tr>

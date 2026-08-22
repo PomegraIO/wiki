@@ -1,6 +1,7 @@
 ---
 title: "Reversion Value in Commercial Property Valuation"
-description: "The reversion value is the estimated sale price of commercial real estate at the end of an investment holding period, and exit cap rate assumptions drive it."
+seo_title: "Reversion Value: The Exit Number Driving Property DCFs"
+description: "Reversion value is a property's estimated sale price at the end of the hold, often 50-80% of total DCF value. How exit cap rate assumptions drive it."
 keywords:
   - reversion value commercial property
   - terminal value real estate

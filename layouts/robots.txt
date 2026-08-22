@@ -3,17 +3,20 @@
 # The wiki is served under /wiki/ on pomegra.io; the parent site's
 # /robots.txt should reference https://pomegra.io/wiki/sitemap.xml.
 
+# One combined catch-all group. The robots.txt spec keys rules on user-agent
+# GROUPS, and parsers honour only one group per matching agent — a second
+# wildcard block further down is silently ignored by some crawlers and
+# *replaces* the first for others. Keep every wildcard directive in this one
+# block. The index.json disallow: the JSON search index has no canonical
+# content of its own, so keep it out of results.
 User-agent: *
 Allow: /
+Disallow: /wiki/index.json
 
 # Search-engine sitemap. Use printf rather than `absURL` because the
 # latter strips the baseURL path when the argument has a leading slash.
+# (Sitemap is a standalone directive, not part of any user-agent group.)
 Sitemap: {{ printf "%ssitemap.xml" .Site.BaseURL }}
-
-# Block search-result pages and the JSON index from indexing —
-# they have no canonical content of their own.
-User-agent: *
-Disallow: /wiki/index.json
 
 # Encourage well-behaved crawlers to throttle slightly. Bing respects this;
 # Googlebot ignores Crawl-delay but the line is harmless.

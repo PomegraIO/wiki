@@ -1,6 +1,7 @@
 ---
 title: "Double No-Touch Option"
-description: "A range option that pays a fixed sum only when the underlying stays between two barrier levels throughout the option's entire life."
+seo_title: "Double No-Touch Option: A Bet on Range Stability"
+description: "A double no-touch option pays a fixed sum only if the underlying never touches either barrier before expiry. How it's priced and where it's used in FX."
 keywords:
   - binary options
   - range options

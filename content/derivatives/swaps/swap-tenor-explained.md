@@ -1,6 +1,7 @@
 ---
 title: "Swap Tenor Explained"
-description: "What is swap tenor in derivatives? Learn how maturity dates affect swap pricing, duration, and hedge effectiveness across interest rate and currency swaps."
+seo_title: "Swap Tenor: How Maturity Drives Pricing and Hedging"
+description: "Swap tenor is the time from trade date to final settlement, standardized at 2-30 years. How tenor shapes pricing, duration, and hedge effectiveness."
 keywords:
   - swap tenor
   - tenor swap derivatives

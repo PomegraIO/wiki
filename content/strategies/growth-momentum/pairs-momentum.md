@@ -1,6 +1,7 @@
 ---
 title: "Pairs Momentum"
-description: "A trading strategy that exploits divergences between two historically correlated securities by going long the outperformer and short the underperformer."
+seo_title: "Pairs Momentum: Trading Correlated Stock Divergences"
+description: "Pairs momentum rides the divergence between two correlated securities before betting on convergence. How it differs from pairs trading, plus triggers."
 keywords:
   - pairs momentum
   - pairs trading

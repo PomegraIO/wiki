@@ -33,7 +33,7 @@ image: /svg/history.svg
 
 ## The Broadcast.com Business and Explosive Growth
 
-Broadcast.com, founded by Cuban and Todd Wagner in 1995, delivered live and on-demand audio and video streaming—a novel capability in the mid-1990s. The company offered content from sports leagues, concerts, and corporate events at a time when internet bandwidth was scarce and streaming technology was still experimental. By the late 1990s, however, the internet had become a [speculative hothouse](). Investors were willing to fund companies with minimal revenue based purely on user growth and "eyeballs," assuming that monetization would follow.
+Broadcast.com, founded by Cuban and Todd Wagner in 1995, delivered live and on-demand audio and video streaming—a novel capability in the mid-1990s. The company offered content from sports leagues, concerts, and corporate events at a time when internet bandwidth was scarce and streaming technology was still experimental. By the late 1990s, however, the internet had become a speculative hothouse. Investors were willing to fund companies with minimal revenue based purely on user growth and "eyeballs," assuming that monetization would follow.
 
 Cuban and Wagner had grown Broadcast.com aggressively. The firm's losses were substantial, but its user base and the perceived size of the future streaming market caught the attention of the major portals competing for dominance. Yahoo, then the leading internet portal, saw Broadcast.com as a crown jewel that could cement its position as the primary destination for online media.
 
@@ -45,7 +45,7 @@ Yahoo executives and investors believed streaming would become a massive adverti
 
 ## Cuban's Exit and the Market's Subsequent Collapse
 
-Cuban negotiated the deal to be paid entirely in Yahoo stock rather than accepting a mix of cash and equity. This decision proved prescient. The Nasdaq peaked in March 2000—almost exactly one year after the sale—at around 5,100. The dot-com [collapse]() that followed wiped out nearly 80% of the index by late 2002. Broadcast.com, had it remained independent, almost certainly would have failed. Yahoo itself suffered a massive stock decline and never successfully integrated the Broadcast.com acquisition, effectively abandoning the business within a few years.
+Cuban negotiated the deal to be paid entirely in Yahoo stock rather than accepting a mix of cash and equity. This decision proved prescient. The Nasdaq peaked in March 2000—almost exactly one year after the sale—at around 5,100. The dot-com collapse that followed wiped out nearly 80% of the index by late 2002. Broadcast.com, had it remained independent, almost certainly would have failed. Yahoo itself suffered a massive stock decline and never successfully integrated the Broadcast.com acquisition, effectively abandoning the business within a few years.
 
 Cuban's willingness to sell—and to take payment in the inflated currency itself—allowed him to lock in gains and exit before the crash. He had neither the obligation nor the emotional attachment to ride a speculative wave that he recognized as unsustainable. When the market corrected, his wealth was already preserved in Yahoo stock, which later declined but from a much higher base than if he had held Broadcast.com equity.
 

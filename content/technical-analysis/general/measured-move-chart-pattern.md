@@ -51,7 +51,7 @@ The principle is consistent: the distance price traveled to form the pattern bec
 
 ## Why measured moves are useful (and imperfect)
 
-Measured moves give traders a specific, actionable target without needing to forecast sentiment or interpret vague levels. They also help with [position sizing](//)—a trader can size a trade so that the projected move yields a target reward that justifies the [risk]() at the stop-loss level.
+Measured moves give traders a specific, actionable target without needing to forecast sentiment or interpret vague levels. They also help with [position sizing](//)—a trader can size a trade so that the projected move yields a target reward that justifies the risk at the stop-loss level.
 
 However, measured moves are *minimum* targets, not guarantees. Many breakouts fall short; others vastly exceed the projection. A measured move of $5 on a small-cap stock is far less reliable than the same projection on a large-cap with deep liquidity. Market conditions (trending or ranging), the strength of the breakout (high or low volume), and broader market momentum all influence whether the projection is met.
 
@@ -63,7 +63,7 @@ Traders who rely on measured moves almost always pair them with other confirmati
 
 Some traders also check if the measured move target aligns with horizontal support or resistance from earlier price action. If the calculated target falls exactly at a prior swing high, for instance, the probability of reaching that level rises. Conversely, if the target sits in open space with no structural support, follow-through may be weaker.
 
-[Momentum indicators]() such as RSI or MACD can also confirm a breakout. A price breakout accompanied by a momentum divergence (price reaching a new high but momentum not confirming) can signal weakness and suggest the measured move may not be realized.
+Momentum indicators such as RSI or MACD can also confirm a breakout. A price breakout accompanied by a momentum divergence (price reaching a new high but momentum not confirming) can signal weakness and suggest the measured move may not be realized.
 
 ## Common pitfalls
 

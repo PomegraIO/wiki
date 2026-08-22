@@ -9,7 +9,7 @@ keywords:
   - healthcare innovation
 ---
 
-*[**Bluejay Diagnostics, Inc.** (BJDX)](BJDX) operates at the commercialization and early-revenue stage of the diagnostic company lifecycle. The company has moved beyond pure research and clinical validation; it is now launching products into market, building sales and distribution, and beginning to generate revenue from customer adoption. Bluejay exemplifies the challenge of transitioning from a technology company to an operating business: the science works, the clinical evidence is sound, but the company must now build the market infrastructure—regulatory clearances, manufacturing at scale, customer relationships, and reimbursement—needed to turn a good technology into a profitable product.*
+***Bluejay Diagnostics, Inc.** (BJDX) operates at the commercialization and early-revenue stage of the diagnostic company lifecycle. The company has moved beyond pure research and clinical validation; it is now launching products into market, building sales and distribution, and beginning to generate revenue from customer adoption. Bluejay exemplifies the challenge of transitioning from a technology company to an operating business: the science works, the clinical evidence is sound, but the company must now build the market infrastructure—regulatory clearances, manufacturing at scale, customer relationships, and reimbursement—needed to turn a good technology into a profitable product.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BJDX</td></tr>

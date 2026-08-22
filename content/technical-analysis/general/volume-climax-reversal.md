@@ -1,6 +1,7 @@
 ---
 title: "Volume Climax and Reversal Signals"
-description: "What a volume climax reversal signal is and how extreme volume spikes at price extremes often signal exhaustion and potential reversals rather than continuation."
+seo_title: "Volume Climax Reversal: Spotting Exhaustion Spikes"
+description: "A volume climax is an extreme volume spike at a price high or low that often signals exhaustion, not continuation. How to spot buying and selling climaxes."
 keywords:
   - volume climax reversal signal
   - volume spike at extremes

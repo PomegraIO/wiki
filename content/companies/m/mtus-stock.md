@@ -4,7 +4,7 @@ description: "Producer of specialty metal powders and advanced materials; serves
 keywords: ["specialty metals", "powder metallurgy", "advanced materials", "aerospace", "automotive", "manufacturing", "technical differentiation"]
 ---
 
-*[**Metallus Inc.**](MTUS) manufactures specialty metal powders and advanced materials for demanding applications in aerospace, automotive, additive manufacturing, and industrial sectors. The company's earnings model rests on converting raw metals into higher-value engineered products, where the margin spread depends on technical capability, manufacturing yield, and pricing power relative to commodity metal costs.*
+***Metallus Inc.** manufactures specialty metal powders and advanced materials for demanding applications in aerospace, automotive, additive manufacturing, and industrial sectors. The company's earnings model rests on converting raw metals into higher-value engineered products, where the margin spread depends on technical capability, manufacturing yield, and pricing power relative to commodity metal costs.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MTUS</td></tr>

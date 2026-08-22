@@ -36,7 +36,7 @@ The safest path is to **close joint accounts before or immediately after the div
 
 The existing balance still must be paid, but closure prevents surprise charges from accumulating. A bitter ex-spouse might otherwise charge thousands on a joint credit card in the months after divorce, leaving the other obligor liable.
 
-For unsecured accounts (credit cards, lines of credit), this is straightforward: call the creditor, request closure, and pay the balance or set up a [repayment plan](). The account is marked "Closed by Consumer" on both credit reports — a neutral notation that doesn't harm credit scores.
+For unsecured accounts (credit cards, lines of credit), this is straightforward: call the creditor, request closure, and pay the balance or set up a repayment plan. The account is marked "Closed by Consumer" on both credit reports — a neutral notation that doesn't harm credit scores.
 
 For secured debts (mortgages, auto loans), closure isn't an option. The property is the collateral. The debt persists until the property is sold or refinanced.
 

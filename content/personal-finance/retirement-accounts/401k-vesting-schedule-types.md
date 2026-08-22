@@ -35,7 +35,7 @@ image: "/svg/personal-finance.svg"
 
 Your 401(k) has two sources of money: your contributions and your employer's contributions (the "match" or "profit-sharing"). Vesting is a legal concept determining which chunks are permanently yours if you quit, and which the employer can claw back.
 
-Your own deferrals vest immediately and fully. If you contribute $10,000 to your 401(k), every dollar is yours, locked and portable. You can leave tomorrow and take all $10,000 with you when you roll it to an IRA. The [401k-plan](./401k-plan/) cannot touch employee deferrals.
+Your own deferrals vest immediately and fully. If you contribute $10,000 to your 401(k), every dollar is yours, locked and portable. You can leave tomorrow and take all $10,000 with you when you roll it to an IRA. The [401k-plan](/401k-plan/) cannot touch employee deferrals.
 
 The employer's match is different. Imagine your plan offers a 50% match on deferrals up to 6% of salary. You earn $100,000, defer $6,000 (6%), and your employer adds $3,000 (50% match). The $6,000 is yours. The $3,000 match is subject to a vesting schedule—meaning its ownership depends on how long you work there.
 

@@ -1,6 +1,7 @@
 ---
 title: "FX Option Expiry Cut Conventions: New York vs Tokyo"
-description: "The New York 10 am and Tokyo 3 pm expiry cuts determine when FX options stop trading and when exercise decisions lock. Choosing the right cut affects hedging costs and timing."
+seo_title: "FX Option Expiry Cuts: New York 10am vs Tokyo 3pm"
+description: "The NY 10 am and Tokyo 3 pm cuts fix when an FX option stops trading and exercise locks in. How the two conventions differ and which cut to choose."
 keywords:
   - fx option expiry cut
   - new york 10 am cut

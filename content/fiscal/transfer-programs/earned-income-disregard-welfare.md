@@ -11,7 +11,7 @@ keywords:
 image: "/svg/fiscal.svg"
 ---
 
-*An **earned income disregard** exempts a portion of work earnings from the income test that determines welfare eligibility, allowing recipients to keep the first $X of monthly earnings without penalty. This policy reduces the implicit marginal tax rate and work disincentive created by [benefit-clawback-rate-explained](benefit-clawback-rate-explained/), though at the cost of higher program enrollment or smaller benefits for the poorest.*
+*An **earned income disregard** exempts a portion of work earnings from the income test that determines welfare eligibility, allowing recipients to keep the first $X of monthly earnings without penalty. This policy reduces the implicit marginal tax rate and work disincentive created by [benefit-clawback-rate-explained](/benefit-clawback-rate-explained/), though at the cost of higher program enrollment or smaller benefits for the poorest.*
 
 <aside class="wiki-infobox">
 
@@ -63,7 +63,7 @@ Most programs adjust by either (a) keeping the disregard modest to contain cost,
 
 ## Interaction with other policies
 
-Earned income disregards interact with [benefit-clawback-rate-explained](benefit-clawback-rate-explained/) and [earned-income-tax-credit](earned-income-tax-credit/) (EITC) to shape the overall incentive structure. A worker might face:
+Earned income disregards interact with [benefit-clawback-rate-explained](/benefit-clawback-rate-explained/) and [earned-income-tax-credit](/earned-income-tax-credit/) (EITC) to shape the overall incentive structure. A worker might face:
 
 - First $150 earned: retained fully (disregard), net wage = 100%
 - $150–$500 earned: 50% clawback, net wage = 50%
@@ -92,9 +92,9 @@ Some programs use quarterly or annual averaging to smooth earnings volatility, r
 
 Policymakers sometimes use disregards in combination with other tools:
 
-- **[Notch-vs-taper-benefit-design](notch-vs-taper-benefit-design/)**: Instead of a sharp cutoff, taper benefits over a wide income range, naturally creating a low phase-out rate. This can achieve the same incentive improvement as a disregard without a threshold kink.
+- **[Notch-vs-taper-benefit-design](/notch-vs-taper-benefit-design/)**: Instead of a sharp cutoff, taper benefits over a wide income range, naturally creating a low phase-out rate. This can achieve the same incentive improvement as a disregard without a threshold kink.
 - **Flat benefit with income test**: Pay everyone in a category (e.g., all single mothers) a flat benefit, then phase out at high income. The disregard becomes irrelevant for most recipients.
-- **[Earned-income-tax-credit](earned-income-tax-credit/)**: Complement welfare with EITC, which actively supplements work income. The EITC does not disregard; it augments, making work more valuable at the outset.
+- **[Earned-income-tax-credit](/earned-income-tax-credit/)**: Complement welfare with EITC, which actively supplements work income. The EITC does not disregard; it augments, making work more valuable at the outset.
 
 ## See also
 

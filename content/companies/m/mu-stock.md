@@ -1,6 +1,7 @@
 ---
 title: "Micron Technology (MU)"
-description: "A leading manufacturer of DRAM and NAND memory semiconductors, central to data centers and AI infrastructure, facing cyclical demand but enjoying structural growth tailwinds."
+seo_title: "MU Stock: Micron's Memory Chips Powering AI Data Centers"
+description: "Micron (MU) is one of three major DRAM makers and a top NAND supplier for AI data centers. Covers the memory cycle, moat, risks, and how to research MU."
 keywords:
   - memory semiconductors
   - dram and nand manufacturing

@@ -1,6 +1,7 @@
 ---
 title: "Vishay Intertechnology, Inc. (VSH)"
-description: "Vishay is a manufacturer of semiconductors, resistors, capacitors, and diodes — the building blocks of electronic circuits used in industrial equipment, automotive systems, and consumer electronics."
+seo_title: "VSH Stock: What Vishay Intertechnology Makes"
+description: "VSH is Vishay Intertechnology, a maker of resistors, capacitors, diodes, and semiconductors used across electronics. Its moats, risks, and metrics."
 keywords:
   - semiconductor components
   - resistors

@@ -1,6 +1,7 @@
 ---
 title: "Copper Futures Contract Specifications"
-description: "COMEX copper futures lot size, tick value, delivery grades, and specification details that affect hedging calculations for industrial copper buyers."
+seo_title: "Copper Futures Contract Specs: Size, Tick, Delivery"
+description: "COMEX copper futures cover 25,000 lbs per contract with a $12.50 tick and 99.99% cathode grade. Full specs: lot size, months, delivery, and hedging math."
 keywords:
   - copper futures contract size and specifications
   - comex copper futures specs

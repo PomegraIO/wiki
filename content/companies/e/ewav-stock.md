@@ -1,6 +1,7 @@
 ---
 title: "East West Ave Acquisition Corp. (EWAV)"
-description: "A blank-check company formed in Las Vegas to search for acquisitions in fintech, digital assets, and clean energy — a special-purpose vehicle seeking a target business to merge with or acquire."
+seo_title: "EWAV Stock: East West Ave Acquisition SPAC Explained"
+description: "EWAV is East West Ave Acquisition Corp, a blank-check SPAC targeting fintech, digital assets, and energy deals. Its IPO structure and leadership."
 keywords:
   - SPAC
   - blank check company

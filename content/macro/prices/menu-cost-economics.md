@@ -25,7 +25,7 @@ image: "/svg/macro.svg"
 | **Examples** | Reprinting menus, updating POS systems, notifying sales staff, distributing new catalogs |
 | **Magnitude** | Often 0.5–2% of firm profit margin; varies by industry |
 | **Effect** | Firms batch price changes—waiting, then raising/lowering sharply—rather than adjust continuously |
-| **Macro impact** | Contributes to [price stickiness](deflation.md), slowing [inflation](inflation.md) adjustment and delaying [monetary policy](monetary-policy.md) transmission |
+| **Macro impact** | Contributes to [price stickiness](/deflation/), slowing [inflation](/inflation/) adjustment and delaying [monetary policy](/monetary-policy/) transmission |
 
 </aside>
 
@@ -44,7 +44,7 @@ Even digital firms face menu costs. An airline's system must propagate price cha
 
 ## How menu costs create price stickiness
 
-In economic textbooks, firms adjust prices instantly to match demand and supply. If the [cost-of-debt](cost-of-debt.md) rises, firms pass that through immediately. If demand soars, prices spike.
+In economic textbooks, firms adjust prices instantly to match demand and supply. If the [cost-of-debt](/cost-of-debt/) rises, firms pass that through immediately. If demand soars, prices spike.
 
 Menu costs muddy this picture. A firm will tolerate some margin compression rather than incur the cost of a price change. Only when the pressure becomes large enough to justify the menu cost—when margin erosion exceeds, say, 5–10% of profit—does the firm undertake a repricing. This creates **price stickiness**: prices remain fixed for months or years, then jump.
 
@@ -54,11 +54,11 @@ This dynamic appears in every industry. Landlords do not raise rent monthly; the
 
 ## Menu costs and inflation dynamics
 
-**Price stickiness is a cornerstone of macroeconomic models.** If all firms faced zero menu costs and adjusted prices instantly, inflation would be far less persistent. A temporary [monetary policy](monetary-policy.md) shock would affect output only fleetingly; prices would reequilibrate instantly. But with menu costs, firms hold prices steady through mild demand shocks, meaning real output must absorb the shock. This sluggishness is why [monetary policy](monetary-policy.md) is thought to have real, short-term effects on employment and growth, even though money is "neutral" in the long run.
+**Price stickiness is a cornerstone of macroeconomic models.** If all firms faced zero menu costs and adjusted prices instantly, inflation would be far less persistent. A temporary [monetary policy](/monetary-policy/) shock would affect output only fleetingly; prices would reequilibrate instantly. But with menu costs, firms hold prices steady through mild demand shocks, meaning real output must absorb the shock. This sluggishness is why [monetary policy](/monetary-policy/) is thought to have real, short-term effects on employment and growth, even though money is "neutral" in the long run.
 
 During **high inflation**, menu costs become relatively smaller as a share of the decision. If firms raise prices 30% annually anyway, reprinting a menu that might otherwise cost 0.5% of revenue feels negligible. So high-inflation periods show more frequent, smaller price adjustments. During **low inflation** or **deflation**, menu costs loom larger. A firm losing 1–2% annually in price pressure might choose to hold prices steady for a long time rather than bear the cost of a small repricing.
 
-This is one reason that [deflation](deflation.md) is sticky downward: firms will not cut prices frequently because menu costs discourage small adjustments, and large cut feel riskier (fear of a price war, or customer anger at the frequent flip-flopping).
+This is one reason that [deflation](/deflation/) is sticky downward: firms will not cut prices frequently because menu costs discourage small adjustments, and large cut feel riskier (fear of a price war, or customer anger at the frequent flip-flopping).
 
 ## Empirical evidence from scanner data
 
@@ -79,7 +79,7 @@ This behavioral dimension means menu costs are not just about the money spent on
 
 ## Menu costs and monetary policy
 
-Central bankers care about menu costs because they slow the speed at which [monetary policy](monetary-policy.md) affects inflation. If the [Federal Reserve](federal-reserve.md) tightens policy, it takes months or longer for firms to work off margin compression, adjust expectations, and finally repricing. This lag explains why inflation is sticky and why fighting inflation requires sustained, visible commitment—quick, small policy moves do not work because menu costs insulate firms from brief cost shocks.
+Central bankers care about menu costs because they slow the speed at which [monetary policy](/monetary-policy/) affects inflation. If the [Federal Reserve](/federal-reserve/) tightens policy, it takes months or longer for firms to work off margin compression, adjust expectations, and finally repricing. This lag explains why inflation is sticky and why fighting inflation requires sustained, visible commitment—quick, small policy moves do not work because menu costs insulate firms from brief cost shocks.
 
 Conversely, during boom times with high inflation expectations, menu costs shrink in relative terms, and inflation becomes more volatile and harder to anchor, because firms are more willing to adjust prices frequently.
 

@@ -4,7 +4,7 @@ description: "Energy and natural-resources company with oil and gas exploration 
 keywords: ["oil", "gas", "energy", "agriculture", "mining"]
 ---
 
-*[**Barnwell Industries Inc.**](BRN), a publicly traded [energy and natural resources](/stock/) company listed under ticker BRN and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 10048, operates an atypical portfolio spanning oil-and-gas exploration and production, Hawaiian sugar cultivation and processing, and other agricultural assets. The company's geography—with significant operations in Hawaii and the Gulf of Mexico—and its dual-sector exposure make it a niche player that competes in two separate industries (energy and agriculture) simultaneously, a characteristic that complicates its competitive positioning and shareholder valuation.*
+***Barnwell Industries Inc.**, a publicly traded [energy and natural resources](/stock/) company listed under ticker BRN and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 10048, operates an atypical portfolio spanning oil-and-gas exploration and production, Hawaiian sugar cultivation and processing, and other agricultural assets. The company's geography—with significant operations in Hawaii and the Gulf of Mexico—and its dual-sector exposure make it a niche player that competes in two separate industries (energy and agriculture) simultaneously, a characteristic that complicates its competitive positioning and shareholder valuation.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BRN</td></tr>

@@ -1,6 +1,7 @@
 ---
 title: "Minimum Purchase Amount for Treasury Securities"
-description: "The $100 minimum denomination for U.S. Treasury bills, notes, and bonds—how it applies at auction, in the secondary market, and through funds."
+seo_title: "Minimum Purchase for Treasury Securities: $100 Explained"
+description: "Treasury bills, notes, and bonds have a $100 minimum at auction and on the secondary market. How the rule works and how funds let you invest less."
 keywords:
   - minimum purchase amount for treasury securities
   - treasury minimum denomination

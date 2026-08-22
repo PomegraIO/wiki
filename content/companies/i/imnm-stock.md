@@ -9,7 +9,7 @@ keywords:
   - biotechnology
 ---
 
-*[**Immunome Inc.** (IMNM)](IMNM) is a biopharmaceutical company that engineers immune cells—specifically T lymphocytes and related white blood cells—to recognize and attack cancer cells in the human body. The firm does not manufacture small-molecule drugs or large-protein biologics. Instead, it grows living cells in bioreactors, modifies them using genetic techniques, and returns the modified cells to patients where they multiply and kill tumors. This approach, called cell therapy or cellular immunotherapy, is distinct from antibody drugs or checkpoint inhibitors. The company's science and operations reflect the constraints of living-cell manufacturing: quality control is difficult, scaling is capital-intensive, and each patient treatment is bespoke or nearly so.*
+***Immunome Inc.** (IMNM) is a biopharmaceutical company that engineers immune cells—specifically T lymphocytes and related white blood cells—to recognize and attack cancer cells in the human body. The firm does not manufacture small-molecule drugs or large-protein biologics. Instead, it grows living cells in bioreactors, modifies them using genetic techniques, and returns the modified cells to patients where they multiply and kill tumors. This approach, called cell therapy or cellular immunotherapy, is distinct from antibody drugs or checkpoint inhibitors. The company's science and operations reflect the constraints of living-cell manufacturing: quality control is difficult, scaling is capital-intensive, and each patient treatment is bespoke or nearly so.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>IMNM</td></tr>

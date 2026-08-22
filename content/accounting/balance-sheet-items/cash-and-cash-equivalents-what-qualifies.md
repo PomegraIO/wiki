@@ -34,7 +34,7 @@ image: /svg/accounting.svg
 
 The three-month rule is not approximate — it is the legal boundary. Under ASC 305-10 (U.S. GAAP), a short-term investment qualifies as a cash equivalent *only* if it is due within three months *from the date it was acquired*. An instrument due in four months does not qualify, even if it matures the day after quarter-end.
 
-Why three months? The SEC and FASB chose this window because instruments maturing within 90 days trade with minimal yield sensitivity. Interest-rate shocks have negligible effect on the price. A 91-day treasury bill, by contrast, carries measurable [duration]((/duration/)) and price risk — not enough to call it a full bond investment, but too much to treat it as pure cash.
+Why three months? The SEC and FASB chose this window because instruments maturing within 90 days trade with minimal yield sensitivity. Interest-rate shocks have negligible effect on the price. A 91-day treasury bill, by contrast, carries measurable [duration](/duration/)) and price risk — not enough to call it a full bond investment, but too much to treat it as pure cash.
 
 Practical implication: a company buying a 180-day certificate of deposit must classify it as a short-term investment, not cash equivalents. Even if the market value stays stable, the accounting rule rejects it. The cutoff is hard because consistency across companies matters more than perfect economic logic.
 
@@ -58,13 +58,13 @@ The third criterion is that the instrument's value does not fluctuate materially
 
 Instruments with embedded options — callable bonds, prepayable mortgages, or floating-rate notes with wide margin adjustments — do not qualify, because the option holder's actions introduce uncertainty in the cash flow timing or amount.
 
-In practice, [time-value]((/time-value/)) of money operates too: a 90-day instrument yielding 4% per annum has only $1 of accrued interest per $10,000 of principal. The economic effect on fair value is negligible compared to a 2-year bond. That stability is what justifies treating the instrument as "cash."
+In practice, [time-value](/time-value/)) of money operates too: a 90-day instrument yielding 4% per annum has only $1 of accrued interest per $10,000 of principal. The economic effect on fair value is negligible compared to a 2-year bond. That stability is what justifies treating the instrument as "cash."
 
 ## GAAP vs IFRS: no material difference
 
 Both U.S. GAAP (ASC 305-10) and IFRS (IAS 7) adopt the three-month rule. However, IFRS adds slightly more discretion: an entity using IFRS may classify longer-dated investments as cash equivalents if they carry minimal interest-rate risk and are readily convertible to cash. In practice, major multinational companies report very similarly under both standards.
 
-One subtle difference: IFRS [cash flow statements]((/cash-flow-statement/)) must disclose the policy used to determine what counts as a cash equivalent, because the choice affects reported operating cash flows. U.S. filers are less explicit, though both standards expect consistency year to year.
+One subtle difference: IFRS [cash flow statements](/cash-flow-statement/)) must disclose the policy used to determine what counts as a cash equivalent, because the choice affects reported operating cash flows. U.S. filers are less explicit, though both standards expect consistency year to year.
 
 ## Balance sheet presentation and commingling
 
@@ -76,11 +76,11 @@ If cash equivalents are restricted — pledged as loan collateral, held in escro
 
 Once classified, an instrument's standing can change. If a company holds a 120-day commercial paper note and 40 days pass, the remaining 80-day maturity still qualifies as a cash equivalent. But if the issuer's credit rating is downgraded below A-1 midway through, management must reclassify the remaining balance to short-term investments. The reclassification is recorded at fair value as of the reclassification date, with any loss flowing through the income statement if material.
 
-Similarly, if a [money market fund]((/money-market-fund/)) invests in longer-dated instruments or lower-rated paper, it loses its cash-equivalent status. Management must monitor fund holdings and policies to confirm continued eligibility.
+Similarly, if a [money market fund](/money-market-fund/)) invests in longer-dated instruments or lower-rated paper, it loses its cash-equivalent status. Management must monitor fund holdings and policies to confirm continued eligibility.
 
 ## Cash equivalents vs. short-term investments: the boundary
 
-A 180-day Treasury bill is a short-term investment. A 90-day Treasury bill is a cash equivalent. The distinction matters for [working capital]((/cash-conversion-cycle/)) analysis and debt covenant compliance. Some debt agreements restrict the company's ability to spend cash but allow spending of short-term investments. A boundary misclassification can trigger a technical default.
+A 180-day Treasury bill is a short-term investment. A 90-day Treasury bill is a cash equivalent. The distinction matters for [working capital](/cash-conversion-cycle/)) analysis and debt covenant compliance. Some debt agreements restrict the company's ability to spend cash but allow spending of short-term investments. A boundary misclassification can trigger a technical default.
 
 Investors and creditors should verify the policy in the notes to the financial statements. A firm reclassifying a large balance from cash equivalents to short-term investments — because of a policy change or market condition — signals a tightening of liquidity and warrants a closer look.
 

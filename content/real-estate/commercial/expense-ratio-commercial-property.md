@@ -55,9 +55,9 @@ This distinction matters. An owner with a large mortgage will have high debt ser
 
 ## Why OER is the central benchmark
 
-**[Net Operating Income](net-operating-income.md) (NOI)** is what remains after subtracting operating expenses from gross rental income. NOI is the foundation for every commercial real estate valuation:
+**[Net Operating Income](/net-operating-income/) (NOI)** is what remains after subtracting operating expenses from gross rental income. NOI is the foundation for every commercial real estate valuation:
 
-**[Cap Rate](cap-rate.md) = NOI ÷ Purchase Price**
+**[Cap Rate](/cap-rate/) = NOI ÷ Purchase Price**
 
 If two buildings trade at the same cap rate but one has an OER of 35% and the other 50%, the lower-OER building is more profitable. An investor paying $10 million for a $1 million-per-year gross income property expects:
 

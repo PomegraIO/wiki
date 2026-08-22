@@ -4,7 +4,7 @@ description: "A technology company developing environmental remediation solution
 keywords: ["environmental", "remediation", "technology", "waste-treatment", "operations"]
 ---
 
-*[**BION ENVIRONMENTAL TECHNOLOGIES INC**](TICKER: **BNET**) develops environmental remediation and waste-treatment technologies, operating through research and pilot-scale facilities while advancing toward commercialization of proprietary processes. The company's operational reality centers on the challenge of moving from proof-of-concept to industrial-scale production—a transition that requires both technical capability and the ability to finance and build real-world treatment facilities where chemical or biological processes run continuously against industrial waste streams.*
+***BION ENVIRONMENTAL TECHNOLOGIES INC** develops environmental remediation and waste-treatment technologies, operating through research and pilot-scale facilities while advancing toward commercialization of proprietary processes. The company's operational reality centers on the challenge of moving from proof-of-concept to industrial-scale production—a transition that requires both technical capability and the ability to finance and build real-world treatment facilities where chemical or biological processes run continuously against industrial waste streams.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BNET</td></tr>

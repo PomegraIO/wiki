@@ -1,6 +1,7 @@
 ---
 title: "ADR Premium and Discount to Underlying Shares"
-description: "An ADR may trade at a premium or discount to its underlying shares because of supply and demand, fees, and currency fluctuations."
+seo_title: "ADR Premium or Discount: Why ADRs Diverge from Shares"
+description: "ADRs trade above or below the implied value of their underlying shares due to fees, currency, and demand. What drives the gap and how arbitrage closes it."
 keywords:
   - adr trading at premium or discount to underlying
   - adr premium discount nav

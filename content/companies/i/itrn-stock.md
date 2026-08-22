@@ -4,7 +4,7 @@ description: Israeli automotive security firm operating across Europe and the Am
 keywords: telematics, vehicle-tracking, anti-theft, Israel, fleet-management, location-technology
 ---
 
-*[**Ituran Location & Control Ltd.**](ITRN) is an Israeli-founded technology firm specializing in vehicle location tracking, fleet management, and anti-theft systems, with operations spanning Europe, Latin America, and North America. The company's geographic footprint—anchored in Israel's cybersecurity and communications expertise—informs both its product engineering and its market strategy in regions where vehicle theft and fleet opacity present acute business challenges.*
+***Ituran Location & Control Ltd.** is an Israeli-founded technology firm specializing in vehicle location tracking, fleet management, and anti-theft systems, with operations spanning Europe, Latin America, and North America. The company's geographic footprint—anchored in Israel's cybersecurity and communications expertise—informs both its product engineering and its market strategy in regions where vehicle theft and fleet opacity present acute business challenges.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>ITRN</td></tr>

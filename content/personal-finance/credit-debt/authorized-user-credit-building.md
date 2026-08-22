@@ -10,7 +10,7 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*Adding yourself as an authorized user on someone else's credit card can significantly raise your credit score because the primary account's payment history, credit limit, and age are reported to the bureaus under your name—even though you may never use the card; however, the strategy only works if the primary account is in good standing and is accepted by the [credit agencies](credit-rating) as building credit rather than circumventing it.*
+*Adding yourself as an authorized user on someone else's credit card can significantly raise your credit score because the primary account's payment history, credit limit, and age are reported to the bureaus under your name—even though you may never use the card; however, the strategy only works if the primary account is in good standing and is accepted by the [credit agencies](/credit-rating/) as building credit rather than circumventing it.*
 
 <aside class="wiki-infobox">
 
@@ -33,17 +33,17 @@ image: "/svg/personal-finance.svg"
 
 ## How Authorized User Status Works
 
-When a credit card issuer adds you as an authorized user, they link your Social Security number and credit file to the primary account. The issuer then reports that account—its full history, [credit limit](credit-limit), monthly balance, and on-time payment record—to the three major [credit bureaus](credit-rating) (Equifax, Experian, and TransUnion) under your name as well as the primary cardholder's.
+When a credit card issuer adds you as an authorized user, they link your Social Security number and credit file to the primary account. The issuer then reports that account—its full history, credit limit, monthly balance, and on-time payment record—to the three major [credit bureaus](/credit-rating/) (Equifax, Experian, and TransUnion) under your name as well as the primary cardholder's.
 
-You receive a debit card or credit card in your name and can make charges, but you are not legally liable for those charges or the account balance. The primary cardholder is responsible for all payments and debt; you are simply a user on their account. This is a critical distinction from being a [co-signer](co-signer), where you would share legal responsibility for the debt.
+You receive a debit card or credit card in your name and can make charges, but you are not legally liable for those charges or the account balance. The primary cardholder is responsible for all payments and debt; you are simply a user on their account. This is a critical distinction from being a co-signer, where you would share legal responsibility for the debt.
 
-Because the account is reported in your credit file, it affects your [credit score](credit-score) metrics: the account's age contributes to your average account age; its [credit utilization](credit-utilization) (the balance divided by the limit) affects your utilization ratio; and its payment history influences your payment track record. If the primary account is in good standing, all of these factors improve your score.
+Because the account is reported in your credit file, it affects your credit score metrics: the account's age contributes to your average account age; its credit utilization (the balance divided by the limit) affects your utilization ratio; and its payment history influences your payment track record. If the primary account is in good standing, all of these factors improve your score.
 
 ## Why an Old, High-Limit Account Helps Most
 
-The credit score boost depends entirely on the account's characteristics. An old account—say, 10 or 20 years old—is especially valuable because [credit history length](credit-history-length) makes up 15% of most credit scores. When you become an authorized user on a 20-year-old card, your average account age jumps dramatically, even if you have no credit history of your own.
+The credit score boost depends entirely on the account's characteristics. An old account—say, 10 or 20 years old—is especially valuable because credit history length makes up 15% of most credit scores. When you become an authorized user on a 20-year-old card, your average account age jumps dramatically, even if you have no credit history of your own.
 
-Similarly, a high-limit account with a low balance is powerful because [credit utilization](credit-utilization-ratio)—the ratio of your balances to your limits—contributes 30% of your score. If the primary account has a $50,000 limit and carries a $1,000 balance (2% utilization), your utilization ratio benefits immediately from that low rate. Conversely, an authorized user account with a $2,000 limit and a $1,800 balance (90% utilization) will harm your score, not help it.
+Similarly, a high-limit account with a low balance is powerful because [credit utilization](/credit-utilization-ratio/)—the ratio of your balances to your limits—contributes 30% of your score. If the primary account has a $50,000 limit and carries a $1,000 balance (2% utilization), your utilization ratio benefits immediately from that low rate. Conversely, an authorized user account with a $2,000 limit and a $1,800 balance (90% utilization) will harm your score, not help it.
 
 Payment history is equally crucial. A primary account with a spotless record—24 months or more of on-time payments—adds credibility to your file. An account with late payments or past delinquencies will drag down your score, regardless of the age or limit.
 

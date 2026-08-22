@@ -12,7 +12,7 @@ keywords:
 image: "/svg/history.svg"
 ---
 
-*After profiting from his 2008 subprime [short](./short-selling.md) through [credit-default-swap](./credit-default-swap.md) bets, investor Michael Burry pivoted to an entirely different thesis: long-term resource scarcity. In the 2010s, Burry publicly shifted toward acquiring agricultural land and water rights, framing his **Michael Burry water investment thesis** not as a financial-market trade but as a hedge against drought, overpopulation, and the depletion of aquifers. The thesis rests on the premise that water and arable land will become critically scarce commodities as climate stress, population growth, and extraction outpace supply.*
+*After profiting from his 2008 subprime [short](/short-selling/) through [credit-default-swap](/credit-default-swap/) bets, investor Michael Burry pivoted to an entirely different thesis: long-term resource scarcity. In the 2010s, Burry publicly shifted toward acquiring agricultural land and water rights, framing his **Michael Burry water investment thesis** not as a financial-market trade but as a hedge against drought, overpopulation, and the depletion of aquifers. The thesis rests on the premise that water and arable land will become critically scarce commodities as climate stress, population growth, and extraction outpace supply.*
 
 <aside class="wiki-infobox">
 
@@ -64,15 +64,15 @@ Burry's approach was pragmatic rather than speculative:
 
 **Water rights**: In western U.S. states, water rights are separately tradeable commodities. Senior water rights in over-allocated river basins can be extraordinarily valuable. Burry acquired or positioned in water rights in states where scarcity was visible (California, Arizona, New Mexico).
 
-**Agricultural commodity exposure**: Corn, wheat, and soybeans are raw materials for human and animal food. A rising population and biofuel mandates increase demand. Burry held positions aligned with agricultural land, not speculative [futures-contract](./futures-contract.md) bets.
+**Agricultural commodity exposure**: Corn, wheat, and soybeans are raw materials for human and animal food. A rising population and biofuel mandates increase demand. Burry held positions aligned with agricultural land, not speculative [futures-contract](/futures-contract/) bets.
 
-Notably, Burry avoided the typical financial-market tools (commodity [ETFs](./etf.md), [options](./option.md), [swaps](./swap.md)). He wanted ownership of actual resources, not derivative exposure to commodity prices.
+Notably, Burry avoided the typical financial-market tools (commodity [ETFs](/etf/), [options](/option/), [swaps](/swap/)). He wanted ownership of actual resources, not derivative exposure to commodity prices.
 
 ## The Inflation Hedge Angle
 
-A secondary appeal of the thesis was **inflation protection**. Burry, like many macro investors in the 2010s, worried about the consequences of post-2008 [quantitative easing](./quantitative-easing.md) and unprecedented central bank [monetary policy](./monetary-policy.md). He reasoned that:
+A secondary appeal of the thesis was **inflation protection**. Burry, like many macro investors in the 2010s, worried about the consequences of post-2008 [quantitative easing](/quantitative-easing/) and unprecedented central bank [monetary policy](/monetary-policy/). He reasoned that:
 
-- Real [asset prices](./asset-allocation.md) (land, water, commodities) appreciate when [inflation](./inflation.md) accelerates
+- Real [asset prices](/asset-allocation/) (land, water, commodities) appreciate when [inflation](/inflation/) accelerates
 - Nominal debt (mortgages on farmland) shrinks in real terms as inflation erodes it
 - Agricultural land has historically been an excellent inflation hedge
 
@@ -97,7 +97,7 @@ Burry's water-and-land thesis contained real insights about scarcity, but execut
 
 **Policy intervention**: Governments have incentives to sustain agriculture and food prices through subsidies, import restrictions, and water allocation rules. These policy levers can suppress prices or reallocate resources in ways that disrupt a pure scarcity play. The U.S., for example, heavily subsidizes corn and wheat, keeping prices lower than free-market scarcity would suggest.
 
-**Farmland returns modest**: U.S. farmland has appreciated, but at rates only modestly above [inflation](./inflation.md) in many periods. Returns have not matched the appreciation of equities or other asset classes in the 2010s and early 2020s boom.
+**Farmland returns modest**: U.S. farmland has appreciated, but at rates only modestly above [inflation](/inflation/) in many periods. Returns have not matched the appreciation of equities or other asset classes in the 2010s and early 2020s boom.
 
 **Water rights illiquid**: Water rights are difficult to value and trade. Markets are fragmented by state and basin, and sales data is sparse. Selling a large water-rights position can be slow and costly.
 

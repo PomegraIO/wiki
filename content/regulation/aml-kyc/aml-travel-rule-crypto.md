@@ -9,7 +9,7 @@ keywords:
 image: /svg/regulation.svg
 ---
 
-*The FATF Travel Rule requires virtual asset service providers (VASPs) to exchange originator and beneficiary information when customers transfer cryptocurrency above certain thresholds — replicating the wire-transfer reporting mandate for traditional banking. Unlike bank wires, which move through standardized SWIFT rails, crypto transfers happen on public [blockchains]((/blockchain-fundamentals/)), so compliance requires new infrastructure and coordination.*
+*The FATF Travel Rule requires virtual asset service providers (VASPs) to exchange originator and beneficiary information when customers transfer cryptocurrency above certain thresholds — replicating the wire-transfer reporting mandate for traditional banking. Unlike bank wires, which move through standardized SWIFT rails, crypto transfers happen on public [blockchains](/blockchain-fundamentals/)), so compliance requires new infrastructure and coordination.*
 
 <aside class="wiki-infobox">
 
@@ -32,9 +32,9 @@ image: /svg/regulation.svg
 
 ## What the FATF Travel Rule is and where it came from
 
-The "Travel Rule" originated in 1989 in U.S. banking regulation (31 CFR 1020.210). When a bank sends a wire transfer, it must include the sender's name, account, and the recipient's information — so the receiving bank knows who sent the money. The rule combats [money laundering]((/aml-kyc/)) and terrorist financing by preserving a clear chain of identity.
+The "Travel Rule" originated in 1989 in U.S. banking regulation (31 CFR 1020.210). When a bank sends a wire transfer, it must include the sender's name, account, and the recipient's information — so the receiving bank knows who sent the money. The rule combats money laundering) and terrorist financing by preserving a clear chain of identity.
 
-In 2015, the Financial Action Task Force (FATF) — an intergovernmental body focused on combating financial crime — updated its recommendations to include virtual assets and [cryptocurrency exchanges]((/cryptocurrency-exchange/)). Recommendation 16 requires countries to ensure virtual asset service providers apply the same originator and beneficiary information requirements as traditional financial institutions.
+In 2015, the Financial Action Task Force (FATF) — an intergovernmental body focused on combating financial crime — updated its recommendations to include virtual assets and [cryptocurrency exchanges](/cryptocurrency-exchange/)). Recommendation 16 requires countries to ensure virtual asset service providers apply the same originator and beneficiary information requirements as traditional financial institutions.
 
 By 2023, most major jurisdictions had adopted the Travel Rule in law or regulation. The U.S. implemented it through FinCEN guidance (May 2023) for money transmitters. The EU embedded it in MiCA (Markets in Crypto-Assets). Hong Kong, Singapore, Japan, and others followed suit. Compliance is now a material operational and legal requirement for any VASP handling significant transaction volume.
 
@@ -68,7 +68,7 @@ Traditional wire transfers flow through SWIFT, a standardized, closed network wi
 
 Cryptocurrency, by contrast, uses public blockchains. A transaction broadcast to the Bitcoin or Ethereum network is immutable and does not pause for identity verification. The blockchain only records addresses (pseudonymous identifiers), not names or account details.
 
-This gap created a compliance problem. A VASP cannot encode Travel Rule data directly into a blockchain transaction without creating privacy leaks (broadcasting customer names on a public ledger violates [GDPR]((/aml-kyc/)) in Europe and conflicts with FinCEN guidance in the U.S., which discourages putting PII on-chain).
+This gap created a compliance problem. A VASP cannot encode Travel Rule data directly into a blockchain transaction without creating privacy leaks (broadcasting customer names on a public ledger violates GDPR) in Europe and conflicts with FinCEN guidance in the U.S., which discourages putting PII on-chain).
 
 Instead, VASPs developed alternative transmission methods:
 
@@ -83,11 +83,11 @@ The FATF standard is $3,000 USD equivalent, though jurisdictions can set higher 
 
 The threshold is evaluated at the time of the transaction. If the crypto's market price fluctuates after the transfer is committed, the original price at the time of transfer determines applicability. Some guidance allows for a reasonable short-term reference rate (e.g., the midpoint between bid and ask at the moment of transmission).
 
-Structuring transactions to avoid the threshold — deliberately splitting one $5,000 transfer into five $900 transfers — is a red flag for suspicious activity and may trigger [AML]((/aml-kyc/)) investigations. Regulators assume that repeated small transfers among the same parties are intentional avoidance.
+Structuring transactions to avoid the threshold — deliberately splitting one $5,000 transfer into five $900 transfers — is a red flag for suspicious activity and may trigger AML) investigations. Regulators assume that repeated small transfers among the same parties are intentional avoidance.
 
 ## Sanctions screening and originator risk
 
-Beyond basic identity information, VASPs must also screen both originator and beneficiary against sanctions lists (OFAC in the U.S., EU Consolidated List in Europe) and [AML]((/aml-kyc/)) watchlists. If the originator or beneficiary is sanctioned or matches a known fraudster, the VASP must block or freeze the transaction.
+Beyond basic identity information, VASPs must also screen both originator and beneficiary against sanctions lists (OFAC in the U.S., EU Consolidated List in Europe) and AML) watchlists. If the originator or beneficiary is sanctioned or matches a known fraudster, the VASP must block or freeze the transaction.
 
 This creates operational friction: a VASP cannot release a transfer to another VASP until it has confirmed that both parties are not sanctioned. If the beneficiary's VASP later discovers the originator was sanctioned, it may face regulatory scrutiny for having processed the transaction.
 
@@ -126,7 +126,7 @@ As **stablecoins** and tokenized assets grow, regulators are debating whether Tr
 
 Also evolving: **unhosted wallet regulations.** The EU's travel rule requirements in MiCA include stricter rules on customer-to-unhosted-wallet transfers, with enhanced verification and record-keeping. The U.S. FinCEN has not gone as far but continues to monitor.
 
-Some jurisdictions and privacy advocates have questioned whether Travel Rule rules are compatible with [GDPR]((/aml-kyc/)) and privacy laws, since the rule requires VASPs to store and share customer PII. This debate will likely intensify as regulatory frameworks mature.
+Some jurisdictions and privacy advocates have questioned whether Travel Rule rules are compatible with GDPR) and privacy laws, since the rule requires VASPs to store and share customer PII. This debate will likely intensify as regulatory frameworks mature.
 
 ## See also
 

@@ -28,13 +28,13 @@ image: /svg/markets.svg
 | **Counterparty** | Known bank vs. depends on venue matching |
 | **Transparency** | Typically opaque vs. clearer price discovery |
 | **Common asset classes** | Bonds, FX, exotic derivatives | Equities, commodities, standardized products |
-| **Regulation** | Light supervision | [Regulation SHO](regulation-sho), [Dodd-Frank](dodd-frank-act) oversight |
+| **Regulation** | Light supervision | [Regulation SHO](/regulation-sho/), [Dodd-Frank](/dodd-frank-act/) oversight |
 
 </aside>
 
 ## How a Single-Dealer Platform Works
 
-A single-dealer platform is a proprietary electronic system operated by one bank—typically an investment bank like Goldman Sachs, JPMorgan, or Morgan Stanley—where customers can buy or sell specific securities. The bank is the only [market maker](market-maker-trading) on the platform; it provides the only [bid-ask spread](bid-ask-spread) available. 
+A single-dealer platform is a proprietary electronic system operated by one bank—typically an investment bank like Goldman Sachs, JPMorgan, or Morgan Stanley—where customers can buy or sell specific securities. The bank is the only [market maker](/market-maker-trading/) on the platform; it provides the only [bid-ask spread](/bid-ask-spread/) available. 
 
 When you want to trade a bond, a currency pair, or a complex derivative on that platform, you see one price and must decide whether to take it. If the spread is wide or the quote unfavorable, you have no recourse to shop around on that venue—you must leave the platform entirely and seek a competing dealer's platform or call another bank.
 
@@ -44,9 +44,9 @@ These platforms emerged because some securities—particularly illiquid bonds an
 
 A multilateral trading venue—such as a stock exchange, alternative trading system (ATS), or electronic communications network (ECN)—matches orders from multiple dealers and clients. On a multilateral venue, many market makers can submit competing bids and offers simultaneously. When your order arrives, the venue's matching engine routes it to the best available price, and multiple dealers are incentivized to post tight spreads to win flow.
 
-The [New York Stock Exchange](new-york-stock-exchange) and [NASDAQ](nasdaq) are the clearest examples. Dozens of [market makers](market-maker-trading) quote the same stock, and their prices are displayed in real time. A trader submitting a buy order gets filled at the lowest available ask price among all competing dealers.
+The [New York Stock Exchange](/new-york-stock-exchange/) and [NASDAQ](/nasdaq/) are the clearest examples. Dozens of [market makers](/market-maker-trading/) quote the same stock, and their prices are displayed in real time. A trader submitting a buy order gets filled at the lowest available ask price among all competing dealers.
 
-This competition tends to narrow spreads and improve [price discovery](price-discovery). The venue publishes the best bid and offer (the "national best bid and offer," or NBBO), creating transparency that a single-dealer platform deliberately obscures.
+This competition tends to narrow spreads and improve [price discovery](/price-discovery/). The venue publishes the best bid and offer (the "national best bid and offer," or NBBO), creating transparency that a single-dealer platform deliberately obscures.
 
 ## Why Banks Offer Single-Dealer Platforms
 
@@ -54,7 +54,7 @@ Single-dealer platforms appeal to banks because they capture wider spreads. When
 
 Banks also control client relationships. A proprietary platform creates a stickiness factor: clients become accustomed to the interface, may have credit relationships tied to the bank, and face friction in switching to a competitor's platform. This lock-in effect is especially potent in less-liquid products like corporate bonds or long-dated derivatives, where trading frequency is low and relationship capital high.
 
-From the bank's perspective, hosting a single-dealer platform is also a way to manage [counterparty risk](counterparty-risk). The bank controls precisely who it trades with and on what terms; on a multilateral venue, the bank's credit exposure expands with every new counterparty on the network.
+From the bank's perspective, hosting a single-dealer platform is also a way to manage [counterparty risk](/counterparty-risk/). The bank controls precisely who it trades with and on what terms; on a multilateral venue, the bank's credit exposure expands with every new counterparty on the network.
 
 ## Multilateral Venues and Liquidity
 
@@ -62,11 +62,11 @@ Multilateral venues work best for liquid, standardized products. A stock or comm
 
 However, for bespoke or illiquid products—such as a credit default swap on an obscure emerging-market bond, or a custom interest-rate swap—no single centralized multilateral venue may exist, or the venue may be dormant due to thin participation. In those cases, clients often revert to calling dealers directly or accessing a single-dealer platform.
 
-Over-the-counter (OTC) markets, which include both bilateral dealer-to-client trading and some electronic platforms, sit between these extremes. Some OTC venues are growing more multilateral and transparent (e.g., [SEFs](alternative-trading-system) for swaps), while others remain proprietary dealer networks.
+Over-the-counter (OTC) markets, which include both bilateral dealer-to-client trading and some electronic platforms, sit between these extremes. Some OTC venues are growing more multilateral and transparent (e.g., [SEFs](/alternative-trading-system/) for swaps), while others remain proprietary dealer networks.
 
 ## Regulatory Differences
 
-Multilateral venues in the United States are subject to strict rules under the [Dodd-Frank Act](dodd-frank-act) and [Securities and Exchange Commission](securities-and-exchange-commission) regulations. They must publish real-time prices (with limited exceptions for large trades), maintain order books transparently, and follow detailed fair-access rules.
+Multilateral venues in the United States are subject to strict rules under the [Dodd-Frank Act](/dodd-frank-act/) and [Securities and Exchange Commission](/securities-and-exchange-commission/) regulations. They must publish real-time prices (with limited exceptions for large trades), maintain order books transparently, and follow detailed fair-access rules.
 
 Single-dealer platforms operate under lighter regulatory scrutiny. They are not deemed "exchanges" and thus escape many of the transparency and access rules. This regulatory advantage is intentional: regulators recognize that some products are too illiquid or specialized for a centralized, transparent marketplace, and a single-dealer platform serves a legitimate niche.
 
@@ -76,7 +76,7 @@ In practice, a single-dealer platform typically requires clients to have a credi
 
 **Fixed-income trading**: A pension fund wants to buy a specific corporate bond. It may receive quotes from three banks' single-dealer platforms and compare them side by side. The best quote comes from JPMorgan, so it executes there. Later, the same bond is offered on a multilateral fixed-income trading venue; the fund compares both execution venues and discovers the multilateral venue has a tighter spread due to competition.
 
-**Equities**: An investor wants to buy 100 shares of Apple. Both the [NYSE](new-york-stock-exchange) (multilateral) and various single-dealer electronic platforms exist. The NYSE quote is 150.23 bid / 150.24 ask, with dozens of market makers supporting those prices. No rational trader would use a single-dealer platform if it quotes 150.23 / 150.30; competition on the multilateral venue is too strong.
+**Equities**: An investor wants to buy 100 shares of Apple. Both the [NYSE](/new-york-stock-exchange/) (multilateral) and various single-dealer electronic platforms exist. The NYSE quote is 150.23 bid / 150.24 ask, with dozens of market makers supporting those prices. No rational trader would use a single-dealer platform if it quotes 150.23 / 150.30; competition on the multilateral venue is too strong.
 
 **Foreign exchange**: A corporate treasurer needs to hedge currency exposure in an exotic pair (say, Malaysian ringgit). Few dealers quote actively; the treasurer may access a single-dealer platform offered by the bank providing the credit facility. The platform may offer tighter spreads than calling multiple dealers, because the bank has real-time data on the treasurer's past activity.
 

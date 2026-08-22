@@ -1,6 +1,7 @@
 ---
 title: "ADR Arbitrage"
-description: "The practice of exploiting price discrepancies between an ADR and its underlying ordinary shares by simultaneously trading both to lock in a riskless profit."
+seo_title: "ADR Arbitrage: How Traders Profit from ADR Price Gaps"
+description: "ADR arbitrage buys the cheaper of an ADR and its underlying ordinary shares and sells the dearer, capturing the spread. Mechanics, costs, and risks."
 keywords:
   - adr
   - arbitrage

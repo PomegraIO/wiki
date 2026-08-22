@@ -1,6 +1,7 @@
 ---
 title: "Gold Storage Costs Explained"
-description: "Vault fees, insurance, and allocated vs. pooled cost structures for storing physical gold—compare the true carrying cost."
+seo_title: "Gold Storage Costs: Vault Fees, Insurance & Options"
+description: "Storing physical gold runs about 0.1%-0.5% a year in pooled vaults and 0.5%-2% allocated. Compare vaults, bank boxes, and insurance to find true cost."
 keywords:
   - gold storage costs
   - physical gold vault fees

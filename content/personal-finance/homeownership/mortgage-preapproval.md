@@ -26,7 +26,7 @@ image: "/svg/personal-finance.svg"
 | **Also called** | Conditional approval, pre-auth |
 | **Purpose** | Proves to sellers you have buying power; accelerates closing if offer is accepted |
 | **Typical timeline** | 1–3 business days for approval; letter valid 30–90 days |
-| **Key inputs** | Credit score, [income](/), assets, debts, [debt-to-income ratio]() |
+| **Key inputs** | Credit score, [income](/), assets, debts, debt-to-income ratio |
 | **Cost** | Usually free; credit check may incur small fee ($100–500) |
 
 </aside>

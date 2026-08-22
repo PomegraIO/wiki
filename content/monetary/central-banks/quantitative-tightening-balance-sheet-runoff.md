@@ -32,7 +32,7 @@ image: "/svg/monetary.svg"
 
 ## What Quantitative Tightening Is
 
-When a central bank engages in [quantitative easing](quantitative-easing) (QE), it buys long-term bonds—Treasuries, mortgages, corporate bonds—with newly created cash, adding those assets to its balance sheet. This shrinks the supply of bonds available to the public and floods the financial system with fresh money, lowering long-term interest rates and supporting asset prices.
+When a central bank engages in [quantitative easing](/quantitative-easing/) (QE), it buys long-term bonds—Treasuries, mortgages, corporate bonds—with newly created cash, adding those assets to its balance sheet. This shrinks the supply of bonds available to the public and floods the financial system with fresh money, lowering long-term interest rates and supporting asset prices.
 
 Quantitative tightening reverses this. The central bank stops buying new bonds and instead allows its existing holdings to mature. As each bond reaches its maturity date, the issuer repays the principal; the central bank receives cash and does not reinvest it. That cash—no longer in circulation—drains from the financial system. Alternatively, the central bank can actively sell bonds into the market, which also removes cash and puts the bonds back into private hands.
 

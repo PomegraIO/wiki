@@ -54,9 +54,9 @@ The matching engine finds the price where supply and demand overlap most efficie
 
 ## Who Controls the Auction and When It Clears
 
-The exchange controls the auction timing. [NYSE](new-york-stock-exchange) and [NASDAQ](nasdaq) both run 9:25–9:30 a.m. ET opening auctions. The exchange operator (not individual traders) decides the exact time the uncross price is calculated, often with a small randomized offset to prevent gaming the final moments.
+The exchange controls the auction timing. [NYSE](/new-york-stock-exchange/) and [NASDAQ](/nasdaq/) both run 9:25–9:30 a.m. ET opening auctions. The exchange operator (not individual traders) decides the exact time the uncross price is calculated, often with a small randomized offset to prevent gaming the final moments.
 
-Some exchanges also hold pre-market auctions earlier (e.g., 4–9 a.m.) to give traders earlier price discovery, though the formal "opening" auction remains the reference point for [fund prospectus](fund-prospectus) pricing and index calculations.
+Some exchanges also hold pre-market auctions earlier (e.g., 4–9 a.m.) to give traders earlier price discovery, though the formal "opening" auction remains the reference point for [fund prospectus](/fund-prospectus/) pricing and index calculations.
 
 ## The Uncross Price Algorithm
 
@@ -74,7 +74,7 @@ Opening auctions do not eliminate gap risk entirely. If a company announces bank
 
 However, the auction does prevent *additional* losses from poor execution at the open. Instead of the first trader getting filled at $95 and the tenth at $92, everyone gets the same uncross price—say $93—reflecting the true balance of overnight demand.
 
-For [index funds](index-fund) and mutual funds that buy or sell at the open, the auction price is often their net asset value ([NAV](net-asset-value)) reference point. The [Securities and Exchange Commission](securities-and-exchange-commission) rules that funds must price at "net asset value as of the opening," typically meaning the opening auction price or the first trade after the auction.
+For [index funds](/index-fund/) and mutual funds that buy or sell at the open, the auction price is often their net asset value ([NAV](/net-asset-value/)) reference point. The [Securities and Exchange Commission](/securities-and-exchange-commission/) rules that funds must price at "net asset value as of the opening," typically meaning the opening auction price or the first trade after the auction.
 
 ## Real-World Example: Earnings Shock
 
@@ -90,7 +90,7 @@ If the exchange had simply opened trading continuously at 9:30, the first buyer 
 
 ## Continuous Trading After the Auction
 
-Once the opening auction concludes and orders roll into the continuous market at 9:30 a.m., trading operates exactly as it does throughout the day: market makers post [bids and offers](bid-ask-spread), orders execute sequentially at the best available prices, and prices move with supply and demand.
+Once the opening auction concludes and orders roll into the continuous market at 9:30 a.m., trading operates exactly as it does throughout the day: market makers post [bids and offers](/bid-ask-spread/), orders execute sequentially at the best available prices, and prices move with supply and demand.
 
 The opening auction is not repeated; it happens once per trading day. However, individual stocks may have "volatility halts" or trading pauses during the day if price moves exceed certain thresholds, but these are separate from the opening auction mechanism.
 

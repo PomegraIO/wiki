@@ -1,6 +1,7 @@
 ---
 title: "Volume by Time of Day: Intraday Patterns Explained"
-description: "How trading volume follows predictable intraday patterns, with the highest activity at market open and close and a midday trough."
+seo_title: "Volume by Time of Day: The U-Shaped Intraday Pattern"
+description: "Trading volume follows a U-shaped curve: heavy at the open and close, quiet midday. Why each surge happens and how traders use the intraday rhythm."
 keywords:
   - volume by time of day trading patterns
   - intraday volume curve

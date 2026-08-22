@@ -11,7 +11,7 @@ keywords:
 image: /svg/forex.svg
 ---
 
-*Last look is the right reserved by a liquidity provider (usually a [bank](/forex.svg) or [FX prime broker](/fx-prime-brokerage/)) to accept or reject a client's order after observing the full trade details—including price, size, and currency pair. In practice, it creates an asymmetric window during which the provider can cancel the deal if market conditions have shifted, placing the risk of adverse movement entirely on the client.*
+*Last look is the right reserved by a liquidity provider (usually a bank or [FX prime broker](/fx-prime-brokerage/)) to accept or reject a client's order after observing the full trade details—including price, size, and currency pair. In practice, it creates an asymmetric window during which the provider can cancel the deal if market conditions have shifted, placing the risk of adverse movement entirely on the client.*
 
 ## The mechanics of last look
 
@@ -27,7 +27,7 @@ Last look emerged in the 1990s and 2000s as a response to technology and competi
 
 It also served (and still serves) as a crude guard against what providers call "fishing"—placing large orders at tight spreads, then cancelling the parts that don't execute favourably. A client who knows the provider will accept the trade will behave differently than one who suspects rejection.
 
-For smaller market participants without direct [interbank market](/forex.svg) access, the alternative to accepting last look was often no liquidity at all. Prime brokers and electronic communication networks (ECNs) used it as a licensing fee of sorts: to access tight spreads, the client had to accept the provider's right of first refusal.
+For smaller market participants without direct interbank market access, the alternative to accepting last look was often no liquidity at all. Prime brokers and electronic communication networks (ECNs) used it as a licensing fee of sorts: to access tight spreads, the client had to accept the provider's right of first refusal.
 
 ## The controversy
 
@@ -43,7 +43,7 @@ In the mid-2010s, regulatory bodies began scrutinising last look. The UK Financi
 
 Under ESMA rules (which apply in the EU), last look on retail clients was prohibited in 2018 for most currency pairs. However, it persists for professional and institutional clients, where it is deemed acceptable if properly disclosed. The FCA similarly distinguishes between different client types: retail clients must not face last look; professional firms may accept it with explicit consent.
 
-In the United States, the [Commodity Futures Trading Commission](/forex.svg) (CFTC) did not ban last look but required platforms offering it to disclose the practice and rejection statistics. This transparency push, applied to some larger venues, has forced providers to be explicit about when and why they invoke the right.
+In the United States, the Commodity Futures Trading Commission (CFTC) did not ban last look but required platforms offering it to disclose the practice and rejection statistics. This transparency push, applied to some larger venues, has forced providers to be explicit about when and why they invoke the right.
 
 ## The evolution toward automation
 

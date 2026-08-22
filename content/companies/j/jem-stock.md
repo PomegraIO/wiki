@@ -1,6 +1,7 @@
 ---
 title: "707 Cayman Holdings (JEM)"
-description: "Hong Kong–based apparel and supply chain company; went public June 2025 on Nasdaq. Young, micro-cap listing facing significant execution challenges and compliance pressure."
+seo_title: "JEM Stock: 707 Cayman Holdings' Nasdaq Struggles"
+description: "707 Cayman Holdings (JEM) is a Hong Kong apparel and supply chain firm that listed on Nasdaq in June 2025. Its business, listing woes, and reverse split."
 keywords:
   - apparel manufacturing
   - supply chain management

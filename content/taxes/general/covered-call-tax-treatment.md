@@ -1,6 +1,7 @@
 ---
 title: "Covered Call Tax Treatment"
-description: "How writing covered calls affects holding periods, qualified dividend status, and capital gains taxation when options expire, close, or are exercised."
+seo_title: "Covered Call Taxes: How Premiums and Gains Are Taxed"
+description: "Covered call premiums are taxable income; an in-the-money call can suspend your shares' holding period. Rules for expiry, exercise, and qualified calls."
 keywords:
   - covered call tax treatment
   - covered call capital gains

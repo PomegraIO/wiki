@@ -1,6 +1,7 @@
 ---
 title: "Residual Income vs Economic Value Added: Key Differences"
-description: "Understand the distinction between residual income and economic value added: how they differ in adjustments, capital calculation, and practical valuation use."
+seo_title: "Residual Income vs EVA: The Key Differences"
+description: "Residual income starts from net income with a cost-of-equity charge; EVA adjusts NOPAT against all invested capital. When each measure fits best."
 keywords:
   - residual income vs economic value added
   - residual income model

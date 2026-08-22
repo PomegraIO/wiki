@@ -1,6 +1,7 @@
 ---
 title: "Jeremy Grantham"
-description: "GMO founder and long-term value investor whose contrarian macro calls and warnings about asset bubbles have made him an influential voice on market cycles and sustainability."
+seo_title: "Jeremy Grantham: GMO Founder & Bubble Forecaster"
+description: "Jeremy Grantham co-founded GMO and built his name on valuation-driven investing and famous bubble calls. His career, framework, and market predictions."
 keywords:
   - grantham
   - gmo

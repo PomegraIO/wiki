@@ -9,7 +9,7 @@ keywords:
   - installment sale financing
 ---
 
-*In **seller financing**, the property owner extends credit directly to the buyer, becoming a lender rather than exiting the transaction entirely. The buyer signs a [promissory note]() (a debt obligation) and the property is secured by a deed of trust or mortgage held by the seller. This arrangement bypasses traditional banks and allows buyers without conventional financing to acquire property, while giving sellers optionality around payment terms, interest rates, and exit timing.*
+*In **seller financing**, the property owner extends credit directly to the buyer, becoming a lender rather than exiting the transaction entirely. The buyer signs a promissory note (a debt obligation) and the property is secured by a deed of trust or mortgage held by the seller. This arrangement bypasses traditional banks and allows buyers without conventional financing to acquire property, while giving sellers optionality around payment terms, interest rates, and exit timing.*
 
 <aside class="wiki-infobox">
 
@@ -33,7 +33,7 @@ keywords:
 
 ## Why seller financing exists
 
-Most real estate transactions close with the buyer obtaining a [mortgage]() from a bank or institutional lender. The bank finances the purchase, takes a lien on the property, and services the loan over 15–30 years. The seller receives full cash at closing and walks away.
+Most real estate transactions close with the buyer obtaining a mortgage from a bank or institutional lender. The bank finances the purchase, takes a lien on the property, and services the loan over 15–30 years. The seller receives full cash at closing and walks away.
 
 Seller financing inverts this flow. The seller agrees to wait for payment, receiving principal and interest over a period of months or years instead of a lump sum at closing. This happens for several reasons:
 
@@ -88,7 +88,7 @@ Balloons are popular in seller financing because they shorten the effective life
 
 ## Tax treatment: installment sales and recognition timing
 
-A key advantage of seller financing for the seller is the ability to defer [capital gains tax]() via an installment sale. Under IRS rules, if the seller receives payments over two or more taxable years, the gain can be recognized proportionally as payments are received, rather than all in the year of sale.
+A key advantage of seller financing for the seller is the ability to defer capital gains tax via an installment sale. Under IRS rules, if the seller receives payments over two or more taxable years, the gain can be recognized proportionally as payments are received, rather than all in the year of sale.
 
 **Example: Installment sale tax deferral**
 

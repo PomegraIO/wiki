@@ -1,6 +1,7 @@
 ---
 title: "Soft Lock-Up vs Hard Lock-Up in Hedge Funds"
-description: "A soft lock-up allows early exit from a hedge fund but charges a penalty fee. A hard lock-up prohibits withdrawal entirely until the lock period expires."
+seo_title: "Soft vs Hard Lock-Up: Hedge Fund Exit Rules Compared"
+description: "A soft lock-up lets you exit a hedge fund early for a 1%-5% penalty fee; a hard lock-up bars withdrawal entirely. Typical terms, purpose, and trade-offs."
 keywords:
   - soft lock-up vs hard lock-up
   - hedge fund soft lock-up

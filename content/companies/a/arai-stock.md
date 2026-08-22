@@ -1,6 +1,7 @@
 ---
 title: "Arrive AI Inc. (ARAI)"
-description: "Indiana-based robotics and autonomous delivery company building AI-powered smart mailbox systems and last-mile logistics infrastructure for secure package exchange."
+seo_title: "ARAI Stock: Arrive AI's Smart Mailbox Delivery Business"
+description: "ARAI is Arrive AI, an Indiana company building AI-powered smart mailboxes for autonomous last-mile delivery. Covers its MaaS model and SPAC listing."
 keywords:
   - autonomous delivery
   - last-mile logistics

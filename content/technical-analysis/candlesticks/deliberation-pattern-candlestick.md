@@ -51,9 +51,9 @@ The clustering near a resistance level compounds the signal. If the pattern form
 
 ## Deliberation vs. Other Three-Candle Patterns
 
-The deliberation pattern overlaps visually with a few cousins but differs in specifics. A [three-white-soldiers](three-white-soldiers.md) pattern also comprises three white candles in an uptrend, but the bodies *expand* rather than shrink, and each candle closes higher in the range (often near the high). Three white soldiers signal strength and often follow a reversal, whereas deliberation signals weakness.
+The deliberation pattern overlaps visually with a few cousins but differs in specifics. A [three-white-soldiers](/three-white-soldiers/) pattern also comprises three white candles in an uptrend, but the bodies *expand* rather than shrink, and each candle closes higher in the range (often near the high). Three white soldiers signal strength and often follow a reversal, whereas deliberation signals weakness.
 
-The [identical-three-crows](identical-three-crows.md) is its bearish counterpart—three black candles with shrinking bodies—but appears during downtrends and confirms selling momentum rather than hesitation.
+The [identical-three-crows](/identical-three-crows/) is its bearish counterpart—three black candles with shrinking bodies—but appears during downtrends and confirms selling momentum rather than hesitation.
 
 A consolidation or pennant may also show three small-bodied candles near a prior level, but deliberation is specifically about the *shrinking body sequence* in a white-candle context near a high.
 
@@ -84,7 +84,7 @@ A complete deliberation trade setup might include:
 5. **Stop-loss**: Above the high of the pattern, or slightly above the third candle's close.
 6. **Target**: The next [support level](/support-level.md) or a retracement of the prior rally (often 50% or 61.8% via Fibonacci).
 
-Because deliberation is a relatively rare formation, many traders combine it with other [technical analysis](technical-analysis.md) tools—[volume](/volume.md) profile, moving averages, [relative strength index](/rsi.md) readings—to build confidence.
+Because deliberation is a relatively rare formation, many traders combine it with other technical analysis tools—[volume](/volume.md) profile, moving averages, [relative strength index](/rsi.md) readings—to build confidence.
 
 ## See also
 

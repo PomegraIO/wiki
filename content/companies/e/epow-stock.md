@@ -4,7 +4,7 @@ description: "Specialized provider of mobile power solutions and electric energy
 keywords: ["power solutions", "energy storage", "industrial equipment", "mobile power", "utilities"]
 ---
 
-*[**E-Power Inc.**](EPOW) manufactures and rents mobile power generation and energy storage units designed for temporary and emergency power applications, serving utilities during outages, industrial facilities during maintenance shutdowns, and disaster-response agencies—differentiating itself from traditional power-equipment vendors through a rental-first business model and integrated software for power optimization.*
+***E-Power Inc.** manufactures and rents mobile power generation and energy storage units designed for temporary and emergency power applications, serving utilities during outages, industrial facilities during maintenance shutdowns, and disaster-response agencies—differentiating itself from traditional power-equipment vendors through a rental-first business model and integrated software for power optimization.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EPOW</td></tr>

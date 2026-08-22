@@ -33,7 +33,7 @@ image: "/svg/strategies.svg"
 
 ## The volatility problem
 
-A casual investor might allocate the same dollar amount to a growth stock and an index fund, then wonder why the portfolio swings wildly. The root cause is [historical-volatility](./historical-volatility/). Growth stocks—small caps with high revenue growth, zero earnings, or unproven business models—exhibit [volatility](./historical-volatility/) 50% to 200% higher than the [S&P 500](/sp-500-index/). On an ordinary index, annual volatility runs 10–15%. A typical growth stock trades at 30–40% annualized volatility; a small-cap growth name may hit 60% or higher.
+A casual investor might allocate the same dollar amount to a growth stock and an index fund, then wonder why the portfolio swings wildly. The root cause is [historical-volatility](/historical-volatility/). Growth stocks—small caps with high revenue growth, zero earnings, or unproven business models—exhibit [volatility](/historical-volatility/) 50% to 200% higher than the [S&P 500](/sp-500-index/). On an ordinary index, annual volatility runs 10–15%. A typical growth stock trades at 30–40% annualized volatility; a small-cap growth name may hit 60% or higher.
 
 When two holdings have the same dollar amount but different volatilities, the more volatile one dominates portfolio risk. If you own $10,000 of an index fund with 12% vol and $10,000 of a growth stock with 40% vol, the growth stock contributes roughly 11 times more *realized variance* to your portfolio (variance scales with volatility squared). You are overexposed to growth without realizing it.
 
@@ -50,11 +50,11 @@ Example: You manage $100,000 and want 10% portfolio risk in growth stocks and 10
 - Growth position: ($100,000 × 0.10) / 0.40 = $25,000
 - Value position: ($100,000 × 0.10) / 0.16 = $62,500
 
-Now both positions contribute equally to portfolio volatility, even though the growth position is smaller in dollar terms. This is the standard approach used by [factor-investing](./factor-investing/) funds and [hedge-fund](./hedge-fund/) managers sizing sector or style exposures.
+Now both positions contribute equally to portfolio volatility, even though the growth position is smaller in dollar terms. This is the standard approach used by [factor-investing](/factor-investing/) funds and [hedge-fund](/hedge-fund/) managers sizing sector or style exposures.
 
 ## Volatility scaling in practice
 
-For a diversified growth portfolio, the logic is the same across many holdings. Suppose you own a basket of ten [growth-fund](./growth-fund/) candidates:
+For a diversified growth portfolio, the logic is the same across many holdings. Suppose you own a basket of ten [growth-fund](/growth-fund/) candidates:
 
 | Stock | Annual Vol | Target weight in growth bucket | Dollar size |
 |---|---|---|---|
@@ -78,7 +78,7 @@ Individual investors rarely follow this discipline. A $2,000 growth position tha
 
 ## Drawdown scenarios and capital preservation
 
-The rationale for smaller growth positions becomes acute in downturns. Growth stocks and [small-cap](./market-capitalization/) equities suffer larger peak-to-trough losses than the market. A 20% market correction often means a 35–50% loss in concentrated growth holdings.
+The rationale for smaller growth positions becomes acute in downturns. Growth stocks and [small-cap](/market-capitalization/) equities suffer larger peak-to-trough losses than the market. A 20% market correction often means a 35–50% loss in concentrated growth holdings.
 
 Sizing a growth position at 2% of portfolio (instead of 5%) means that a 50% loss in the position shrinks your total portfolio by 1%, not 2.5%. Over many positions, this discipline prevents the psychological and financial catastrophe of a 30% portfolio drawdown that comes from over-sizing illiquid, volatile holdings.
 
@@ -86,15 +86,15 @@ This is not a pessimistic view—growth investing can deliver exceptional [long-
 
 ## Volatility spikes and tail risk
 
-Growth stocks experience volatility spikes around earnings, macroeconomic announcements, and sector rotations. At these moments, [option-listing-effect-stock-volatility](./option-listing-effect-stock-volatility/) and [implied-volatility](./implied-volatility/) may surge. A position sized for "normal" volatility will generate outsized portfolio swings on spike days.
+Growth stocks experience volatility spikes around earnings, macroeconomic announcements, and sector rotations. At these moments, [option-listing-effect-stock-volatility](/option-listing-effect-stock-volatility/) and [implied-volatility](/implied-volatility/) may surge. A position sized for "normal" volatility will generate outsized portfolio swings on spike days.
 
-Some managers use [value-at-risk](./value-at-risk/) (VaR) or [conditional value-at-risk](./value-at-risk/) to size positions, incorporating tail-risk probabilities. If a growth stock has a 5% chance of losing 30% in a single month, VaR sizing might cap the position at 2% to ensure the portfolio can absorb a 1.5% loss without triggering a margin call or forced liquidation.
+Some managers use [value-at-risk](/value-at-risk/) (VaR) or [conditional value-at-risk](/value-at-risk/) to size positions, incorporating tail-risk probabilities. If a growth stock has a 5% chance of losing 30% in a single month, VaR sizing might cap the position at 2% to ensure the portfolio can absorb a 1.5% loss without triggering a margin call or forced liquidation.
 
 ## Sector and style concentration
 
-The position-sizing rule extends beyond individual stocks to sector and [style](./growth-fund/) concentrations. A portfolio heavy in technology growth stocks is not diversified—it is concentrated in a single mega-sector with correlated volatility. Risk-adjusted sizing means capping the entire growth allocation (tech, biotech, renewable energy, etc.) as a proportion of the portfolio, scaled for the average vol of the bucket.
+The position-sizing rule extends beyond individual stocks to sector and [style](/growth-fund/) concentrations. A portfolio heavy in technology growth stocks is not diversified—it is concentrated in a single mega-sector with correlated volatility. Risk-adjusted sizing means capping the entire growth allocation (tech, biotech, renewable energy, etc.) as a proportion of the portfolio, scaled for the average vol of the bucket.
 
-Institutional portfolios use [risk budgeting](./risk-budget/) models that allocate risk (not dollars) to growth, value, dividend, and defensive sleeves. Growth sleeves get smaller risk budgets because their volatility per-dollar is higher. A 20% risk budget in growth might translate to a 12% dollar allocation, while a 20% risk budget in dividend stocks might be 25% dollars—same risk, different sizes.
+Institutional portfolios use risk budgeting models that allocate risk (not dollars) to growth, value, dividend, and defensive sleeves. Growth sleeves get smaller risk budgets because their volatility per-dollar is higher. A 20% risk budget in growth might translate to a 12% dollar allocation, while a 20% risk budget in dividend stocks might be 25% dollars—same risk, different sizes.
 
 ## Tools and monitoring
 

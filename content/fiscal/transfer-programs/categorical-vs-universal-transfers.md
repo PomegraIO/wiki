@@ -28,17 +28,17 @@ image: "/svg/fiscal.svg"
 | **Cost differential** | Universal programs cost 3–10× more for equivalent per-recipient benefit |
 | **Stigma effect** | Categorical benefits carry welfare stigma; universals do not |
 | **Administrative cost** | Means-testing and verification add 10–20% overhead to categorical programs |
-| **Labor supply impact** | Universal programs avoid [benefit-clawback-rate-explained](benefit-clawback-rate-explained/) and work disincentives |
+| **Labor supply impact** | Universal programs avoid [benefit-clawback-rate-explained](/benefit-clawback-rate-explained/) and work disincentives |
 
 </aside>
 
 ## What defines each approach
 
-**Categorical programs** define eligibility by a specific status: age, disability, family structure, or income. To receive [supplemental-security-income](supplemental-security-income/), you must be elderly, blind, or disabled. To get [food-stamps](food-stamps/) (SNAP), your household income must fall below 130% of the federal [poverty-line](poverty-line/). Eligibility is objective, but receiving the benefit signals to neighbors, employers, and oneself that you are in a particular group.
+**Categorical programs** define eligibility by a specific status: age, disability, family structure, or income. To receive supplemental-security-income, you must be elderly, blind, or disabled. To get food-stamps (SNAP), your household income must fall below 130% of the federal poverty-line. Eligibility is objective, but receiving the benefit signals to neighbors, employers, and oneself that you are in a particular group.
 
-**Universal programs** have no eligibility test. Every child, every adult, or every citizen receives the benefit. Finland's experiment with unconditional cash transfers, Denmark's subsidized child care for all families, and [social-security](social-security/) in its original design (before means-testing was added) are examples. The benefit makes no statement about your status or deservingness; it simply exists.
+**Universal programs** have no eligibility test. Every child, every adult, or every citizen receives the benefit. Finland's experiment with unconditional cash transfers, Denmark's subsidized child care for all families, and social-security in its original design (before means-testing was added) are examples. The benefit makes no statement about your status or deservingness; it simply exists.
 
-The distinction is not absolute—many programs sit on a spectrum. [Earned-income-tax-credit](earned-income-tax-credit/) is technically categorical (restricted to working taxpayers) but so broad in eligibility that it functions quasi-universally within its demographic. Similarly, some countries offer "universal" programs that are actually means-tested but with high enough thresholds that the means test is invisible to most recipients.
+The distinction is not absolute—many programs sit on a spectrum. [Earned-income-tax-credit](/earned-income-tax-credit/) is technically categorical (restricted to working taxpayers) but so broad in eligibility that it functions quasi-universally within its demographic. Similarly, some countries offer "universal" programs that are actually means-tested but with high enough thresholds that the means test is invisible to most recipients.
 
 ## The fiscal arithmetic of universality
 
@@ -64,9 +64,9 @@ Universal programs have minimal administrative overhead. Paying every child a mo
 
 This is not merely a bureaucratic quibble. A 15% administrative surcharge means that $100 spent on categorical benefits delivers only $85 to recipients, while universal programs deliver $95–98. For the same gross expenditure, universals put more money in recipients' hands. The fiscal efficiency argument for categorical programs assumes they cost the same to administer; empirically, they do not.
 
-## Work incentives and [clawback-rate](benefit-clawback-rate-explained/)
+## Work incentives and [clawback-rate](/benefit-clawback-rate-explained/)
 
-Because categorical programs are typically means-tested, they generate high implicit [benefit-clawback-rate-explained](benefit-clawback-rate-explained/) as income rises. A worker earning $1 more loses 30–50 cents in benefits, suppressing labor supply and reducing work effort, particularly among secondary earners and low-wage workers.
+Because categorical programs are typically means-tested, they generate high implicit [benefit-clawback-rate-explained](/benefit-clawback-rate-explained/) as income rises. A worker earning $1 more loses 30–50 cents in benefits, suppressing labor supply and reducing work effort, particularly among secondary earners and low-wage workers.
 
 Universal programs avoid this entirely. If every family receives $5,000 in annual child allowance regardless of earnings, there is no clawback, no disincentive, no work penalty. The recipient can earn as much as they choose with no loss of benefit.
 
@@ -88,11 +88,11 @@ In practice, most successful welfare states use a **mixed system**: universal ba
 
 ## Examples across democracies
 
-**Nordic model**: Heavy reliance on universal programs (child allowances, subsidized child care, public education) plus earnings-related [social-insurance](social-insurance/) for workers. Low stigma, high take-up, modest work disincentives.
+**Nordic model**: Heavy reliance on universal programs (child allowances, subsidized child care, public education) plus earnings-related [social-insurance](/social-insurance/) for workers. Low stigma, high take-up, modest work disincentives.
 
 **Anglo-American model**: Primarily categorical means-tested programs (food stamps, housing vouchers) plus some universal programs (public K-12 education). Higher stigma, lower take-up, steeper implicit tax rates.
 
-**Continental Europe**: Earnings-based [social-insurance](social-insurance/) (not categorical by income, but not truly universal either) plus family allowances that are often near-universal. Moderate stigma.
+**Continental Europe**: Earnings-based [social-insurance](/social-insurance/) (not categorical by income, but not truly universal either) plus family allowances that are often near-universal. Moderate stigma.
 
 ## Hybrid approaches: weakening the trade-off
 

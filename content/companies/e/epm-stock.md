@@ -4,7 +4,7 @@ description: "Oil and gas exploration and production company focused on secondar
 keywords: ["oil and gas", "petroleum", "E&P", "secondary recovery", "energy"]
 ---
 
-*[**Evolution Petroleum Corp**](EPM) is an independent exploration and production company that targets low-decline, long-life oil properties in mature onshore basins, distinguishing itself from peers through its focus on secondary recovery operations—infill drilling and pressure maintenance—where acquisition costs run low but execution discipline runs high.*
+***Evolution Petroleum Corp** is an independent exploration and production company that targets low-decline, long-life oil properties in mature onshore basins, distinguishing itself from peers through its focus on secondary recovery operations—infill drilling and pressure maintenance—where acquisition costs run low but execution discipline runs high.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EPM</td></tr>

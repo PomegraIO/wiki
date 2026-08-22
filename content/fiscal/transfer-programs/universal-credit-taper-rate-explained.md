@@ -1,6 +1,7 @@
 ---
 title: "Universal Credit Taper Rate Explained"
-description: "How Universal Credit's earnings taper reduces the benefit by 55 pence for every pound earned, with examples of effective tax rates on different wages."
+seo_title: "Universal Credit Taper Rate: How the 55% Taper Works"
+description: "Universal Credit's taper cuts your payment by 55p for every extra £1 you earn, an effective marginal tax rate far above income tax. Worked examples inside."
 keywords:
   - universal credit taper rate
   - earnings taper

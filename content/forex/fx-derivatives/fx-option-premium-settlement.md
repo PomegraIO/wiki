@@ -46,7 +46,7 @@ For a buyer, upfront means cash outflow on day one. If the option expires worthl
 
 ## Deferred Premium Settlement
 
-Some FX options—particularly exotic structures or [options on non-standard pairs](/forex.svg/)—can settle the premium at **expiry**. The buyer and seller agree that the premium will be due only when the option expires (or is exercised, if it is in the money). If the option expires worthless, the buyer may owe nothing.
+Some FX options—particularly exotic structures or options on non-standard pairs—can settle the premium at **expiry**. The buyer and seller agree that the premium will be due only when the option expires (or is exercised, if it is in the money). If the option expires worthless, the buyer may owe nothing.
 
 Deferred settlement reshapes the economics:
 

@@ -98,7 +98,7 @@ Clawback of vested equity triggers complex tax consequences, depending on the or
 
 **Restricted stock or RSU** (originally taxed on vesting): If clawed back, you may be entitled to a deduction or refund of the ordinary income tax paid at vesting—but only if the IRS permits a "true-up." The company should issue a restated Form W-2 for the year of vesting, reducing the original income and calculating refund due. In practice, many clawbacks do not result in a full refund; the tax burden falls on the employee.
 
-**Stock options or ESPP** (taxed on exercise or sale): Clawback of exercised shares may create a [capital loss](capital-loss), offset-able against other gains. The mechanics depend on whether you surrendered the shares or paid cash.
+**Stock options or ESPP** (taxed on exercise or sale): Clawback of exercised shares may create a capital loss, offset-able against other gains. The mechanics depend on whether you surrendered the shares or paid cash.
 
 **Cash bonus or deferred compensation**: Clawback may trigger a deferred-compensation repayment, with tax consequences varying by plan type and whether the clawback qualifies as a "gross-up" (employer covers the tax) or not.
 

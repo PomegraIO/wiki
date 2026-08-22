@@ -1,0 +1,21 @@
+# Keep the Docker build context lean — the Dockerfile does a blanket
+# `COPY . .`, so anything listed here never reaches the builder stage.
+
+# Local build output and Hugo's asset cache. The image builds the site from
+# scratch (`hugo --gc --minify`), so shipping a stale local `public/` or
+# `resources/` only bloats the context and risks confusing --gc.
+public/
+resources/
+
+# Scratch files from the content-generation swarms (plans, briefs, manifests).
+# Working data, not site input.
+scripts/_*
+
+# Not a Node project — but editors and one-off tooling sometimes leave this
+# behind, and it would dwarf the rest of the context.
+node_modules
+
+# Deliberately NOT ignored: `.git`. hugo.toml sets `enableGitInfo = true`,
+# which resolves each page's .Lastmod from its last commit — the sitemap's
+# <lastmod> depends on it. Ignoring .git would make every build silently
+# lose those dates (Hugo warns but still exits 0).

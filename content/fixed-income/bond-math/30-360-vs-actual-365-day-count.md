@@ -1,6 +1,7 @@
 ---
 title: "30/360 vs Actual/365 Day Count: Which Bonds Use Which"
-description: "30/360 and Actual/365 are the two most common day-count conventions for bond interest accrual. They differ in how they count days and months, affecting yield and accrued interest."
+seo_title: "30/360 vs Actual/365: Which Bonds Use Which Day Count"
+description: "30/360 assumes 30-day months and a 360-day year; Actual/365 counts real days. Which bond markets use each and how the choice shifts accrued interest."
 keywords:
   - 30/360 vs actual/365 day count convention
   - bond day count convention

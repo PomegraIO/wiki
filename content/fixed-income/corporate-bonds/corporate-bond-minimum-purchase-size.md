@@ -1,6 +1,7 @@
 ---
 title: "Minimum Purchase Size for Corporate Bonds"
-description: "Understanding the standard $1,000 minimum denomination and odd-lot barriers that limit retail access to corporate bonds."
+seo_title: "Corporate Bond Minimum Investment: How Much You Need"
+description: "Most corporate bonds have a $1,000 par minimum, but new-issue orders often require $5,000–$25,000. What you need to invest, plus lower-minimum routes."
 keywords:
   - minimum purchase size corporate bond
   - corporate bond denomination

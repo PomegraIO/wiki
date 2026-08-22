@@ -4,7 +4,7 @@ description: "A financial trading platform enabling retail investors to trade st
 keywords: ["fintech", "retail trading", "social trading", "copy trading", "cryptocurrency"]
 ---
 
-*[eToro Group Ltd.](ETOR) is a London-listed fintech platform that has pioneered **social copy-trading**—a mechanism by which retail investors observe and automatically replicate the trades of professional or experienced traders on the platform. The company operates across multiple asset classes (stocks, forex, commodities, cryptocurrencies) and derives revenue primarily from the [bid-ask spreads](/bid-ask-spread/) on trades, overnight holding fees, and subscription tiers.*
+*eToro Group Ltd. is a London-listed fintech platform that has pioneered **social copy-trading**—a mechanism by which retail investors observe and automatically replicate the trades of professional or experienced traders on the platform. The company operates across multiple asset classes (stocks, forex, commodities, cryptocurrencies) and derives revenue primarily from the [bid-ask spreads](/bid-ask-spread/) on trades, overnight holding fees, and subscription tiers.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>ETOR</td></tr>

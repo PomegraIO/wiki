@@ -35,7 +35,7 @@ keywords:
 
 When a real estate syndication acquires a property, the sponsor (the operator managing the deal) allocates the purchase price to its components: the building structure, improvements, and land. The land itself cannot be depreciated under tax law, but everything else can—roof, foundation, walls, electrical, HVAC, flooring, parking lot.
 
-The syndication claims a depreciation deduction each year based on the depreciable basis. For residential properties, that deduction is spread over 27.5 years. For commercial, it is 39 years. The deduction is then passed through to the passive investors (limited partners) on their [Schedule K-1](), the form that reports their share of the partnership's income and losses.
+The syndication claims a depreciation deduction each year based on the depreciable basis. For residential properties, that deduction is spread over 27.5 years. For commercial, it is 39 years. The deduction is then passed through to the passive investors (limited partners) on their Schedule K-1, the form that reports their share of the partnership's income and losses.
 
 If the syndication owns a $5 million apartment building and allocates $4 million to the structure, the annual depreciation deduction is roughly $145,000 per year ($4 million ÷ 27.5). If you own 10% of the syndication, your K-1 shows a $14,500 depreciation loss pass-through, even though the building may be appreciating in value and producing positive cash distributions.
 
@@ -60,7 +60,7 @@ Cost segregation is perfectly legal, but it is resource-intensive (the study typ
 
 ## The passive activity classification trap
 
-Not all real estate investors are passive. If you actively manage a property, materially participate in its operations, or own less than a 10% interest but meet the ["real property professional" test](), you may be able to deduct real estate losses against ordinary income without passive loss limitations.
+Not all real estate investors are passive. If you actively manage a property, materially participate in its operations, or own less than a 10% interest but meet the "real property professional" test, you may be able to deduct real estate losses against ordinary income without passive loss limitations.
 
 However, syndication investors are almost always passive. A limited partner in a syndication who contributes capital but does not manage operations or make day-to-day decisions is treated as passive by definition under the IRS regulations. This means their depreciation losses are subject to passive loss limits, even if they would otherwise qualify as a real property professional.
 

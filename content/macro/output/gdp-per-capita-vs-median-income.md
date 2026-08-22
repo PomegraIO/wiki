@@ -1,6 +1,7 @@
 ---
 title: "GDP per Capita vs Median Income: Why They Diverge"
-description: "GDP per capita can rise while median household income stagnates because capital gains and foreign earnings concentrate at the top; each metric answers a different question."
+seo_title: "GDP per Capita vs Median Income: Why They Diverge"
+description: "GDP per capita is average national output; median income is the middle household's earnings. Why they diverge and which better tracks living standards."
 keywords:
   - gdp per capita vs median income
   - difference between gdp per capita and median income

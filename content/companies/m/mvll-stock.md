@@ -1,6 +1,7 @@
 ---
 title: "GraniteShares 2x Long MRVL Daily ETF (MVLL)"
-description: "MVLL is a 2x leveraged ETF that tracks twice the daily percentage change of Marvell Technology stock, designed for short-term tactical trades, not long-term holding."
+seo_title: "MVLL Stock: The 2x Leveraged Marvell (MRVL) ETF"
+description: "MVLL is GraniteShares' ETF targeting 2x Marvell's daily move, built for short-term trades. How daily resets, decay, and its 1.5% fee erode long holds."
 keywords:
   - leveraged equity
   - daily reset

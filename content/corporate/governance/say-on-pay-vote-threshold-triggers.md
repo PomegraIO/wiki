@@ -43,7 +43,7 @@ Proxy advisors like ISS and Glass Lewis publish their own thresholds in their vo
 
 Most institutional asset managers treat 80% as the informal floor. Above 80%, the board may issue a brief acknowledgment in the next proxy statement. Below 80%, formal engagement is expected.
 
-This is not a legal requirement in the U.S.; it is a market norm among [fiduciaries](). Institutional investors with trillions in assets—State Street, Vanguard, BlackRock—have published voting guidelines that bind their fund managers. Many explicitly state that say-on-pay results below 80% warrant direct dialogue with compensation committees.
+This is not a legal requirement in the U.S.; it is a market norm among fiduciaries. Institutional investors with trillions in assets—State Street, Vanguard, BlackRock—have published voting guidelines that bind their fund managers. Many explicitly state that say-on-pay results below 80% warrant direct dialogue with compensation committees.
 
 The engagement is not a threat. It is a structured conversation: the investor (or a coalition of investors) requests a call with the committee, asks probing questions about the vote drivers, and listens to the board's explanation. The goal is to see whether the company will move on the specific issues—CEO base salary, equity vesting schedules, relative performance metrics, clawback triggers—that cost them votes.
 
@@ -53,7 +53,7 @@ A single year below 80% may be noise. Two years in a row, or a sharp 10+ percent
 
 Year-on-year decline is often more alarming than an absolute level. If a company went from 88% to 76% in a single year, proxy advisors and large investors will ask: What changed? Did the board ignore the prior message, or did a new pay plan cross a line? A consistent slide—85%, 82%, 79%, 75%—is a death knell for the current compensation structure.
 
-Declining share votes sometimes precede a [proxy fight]() or [poison pill]() adoption, because boards read them as evidence of growing shareholder unrest. The compensation committee does not want to be the reason a proxy fight erupts.
+Declining share votes sometimes precede a proxy fight or poison pill adoption, because boards read them as evidence of growing shareholder unrest. The compensation committee does not want to be the reason a proxy fight erupts.
 
 ## Proxy advisor recommendations and the threshold cascade
 

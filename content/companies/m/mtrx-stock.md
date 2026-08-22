@@ -4,7 +4,7 @@ description: "Industrial services company providing specialized welding, fabrica
 keywords: ["industrial services", "welding", "field labor", "energy sector", "contract manufacturing", "fabrication", "recurring revenue"]
 ---
 
-*[**MATRIX SERVICE CO**](MTRX) is a provider of specialized craft labor and fabrication services, earning its margins by deploying skilled field workers into long-term contracts for energy, petrochemical, and industrial-infrastructure clients. The company's competitive position rests not on proprietary technology or capital-intensive assets, but on its ability to identify, train, and retain welders, pipefitters, electricians, and other trades across geographic regions where its clients operate—and to manage the logistical overhead of staffing large, multi-year projects.*
+***MATRIX SERVICE CO** is a provider of specialized craft labor and fabrication services, earning its margins by deploying skilled field workers into long-term contracts for energy, petrochemical, and industrial-infrastructure clients. The company's competitive position rests not on proprietary technology or capital-intensive assets, but on its ability to identify, train, and retain welders, pipefitters, electricians, and other trades across geographic regions where its clients operate—and to manage the logistical overhead of staffing large, multi-year projects.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MTRX</td></tr>

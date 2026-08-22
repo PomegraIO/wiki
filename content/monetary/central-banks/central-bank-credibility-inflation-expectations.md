@@ -32,7 +32,7 @@ image: "/svg/monetary.svg"
 
 ## The Power of Anchored Expectations
 
-When households expect the [Federal Reserve](federal-reserve) to maintain 2% inflation, they set wages and prices with that assumption baked in. A worker expects her salary to lose purchasing power at a steady, predictable rate; a company assumes its input costs will rise gradually. These low expectations are self-fulfilling: if everyone behaves as though inflation will stay low, actual inflation stays low, because wages and prices don't accelerate.
+When households expect the [Federal Reserve](/federal-reserve/) to maintain 2% inflation, they set wages and prices with that assumption baked in. A worker expects her salary to lose purchasing power at a steady, predictable rate; a company assumes its input costs will rise gradually. These low expectations are self-fulfilling: if everyone behaves as though inflation will stay low, actual inflation stays low, because wages and prices don't accelerate.
 
 Conversely, when expectations drift upward—say to 4% or 5%—workers demand higher raises and firms raise prices preemptively, creating the very inflation that was feared. The central bank then faces a cruel choice: raise rates even more aggressively to convince people the old target still holds, or accept a loss of credibility and a period of higher inflation.
 
@@ -60,13 +60,13 @@ Financial markets and surveys reveal credibility in real time. If inflation expe
 
 The gap between actual inflation and what markets expect in 5–10 years is a direct measure of credibility. A credible central bank sees actual inflation move while long-term expectations stay put. An incredulous one sees both move together, suggesting markets think the current inflation is becoming structural.
 
-Central banks also monitor inflation breakeven rates (the difference between nominal Treasury yields and inflation-protected Treasury yields), wage growth, and survey measures of household inflation expectations. A sudden shift in any of these signals eroding credibility and usually prompts a sharper [monetary policy](monetary-policy) pivot—faster hikes or clearer communication—to restore market confidence.
+Central banks also monitor inflation breakeven rates (the difference between nominal Treasury yields and inflation-protected Treasury yields), wage growth, and survey measures of household inflation expectations. A sudden shift in any of these signals eroding credibility and usually prompts a sharper [monetary policy](/monetary-policy/) pivot—faster hikes or clearer communication—to restore market confidence.
 
 ## How Central Banks Rebuild Credibility
 
 Rebuilding is slow. It requires a multi-year track record of hitting the inflation target, transparent and honest communication about any misses, and consistent policy over electoral and economic cycles. The Federal Reserve rebuilt credibility from 1982 onward by keeping inflation low even as unemployment fell and political pressure mounted to cut rates; the payoff was that by the 1990s, markets believed the Fed would keep inflation stable, allowing the economy to grow without inflation spiraling upward.
 
-[Forward guidance](forward-guidance)—public statements about the central bank's intended future policy path—also builds credibility, provided the central bank actually follows through. If the Fed says rates will stay low for two years, then raises rates after six months without economic change, credibility takes a hit. Conversely, following through on guidance, even when uncomfortable, builds trust that the central bank's word is reliable.
+[Forward guidance](/forward-guidance/)—public statements about the central bank's intended future policy path—also builds credibility, provided the central bank actually follows through. If the Fed says rates will stay low for two years, then raises rates after six months without economic change, credibility takes a hit. Conversely, following through on guidance, even when uncomfortable, builds trust that the central bank's word is reliable.
 
 Central banks facing credibility challenges sometimes resort to credibility signals: a surprise rate hike larger than expected, explicit statements ruling out inflation-financing, or committing to reduce the money supply. These dramatic moves are costly in the short term but can shock markets back into believing the central bank is serious, potentially shortening the disinflation process.
 

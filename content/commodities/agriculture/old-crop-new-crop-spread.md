@@ -1,6 +1,7 @@
 ---
 title: "Old-Crop / New-Crop Spread"
-description: "The calendar spread between grain futures contracts from different harvest years, reflecting carry costs, supply expectations, and storage logistics."
+seo_title: "Old-Crop/New-Crop Spread: Grain Calendar Spreads Explained"
+description: "The old-crop/new-crop spread is the price gap between this harvest's grain futures and next year's. What drives the carry and how hedgers trade it."
 keywords:
   - calendar spread
   - harvest spread

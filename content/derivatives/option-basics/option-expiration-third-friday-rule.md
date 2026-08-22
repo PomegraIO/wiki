@@ -1,6 +1,7 @@
 ---
 title: "The Third-Friday Option Expiration Rule Explained"
-description: "Why standard equity options expire on the third Friday of the month. Last trading day and settlement mechanics."
+seo_title: "Third Friday Option Expiration: Why and How It Works"
+description: "Standard monthly options expire the third Friday because CBOE set the convention in 1973. Last trading day, settlement, and assignment timing explained."
 keywords:
   - option expiration third friday rule
   - third friday option expiration

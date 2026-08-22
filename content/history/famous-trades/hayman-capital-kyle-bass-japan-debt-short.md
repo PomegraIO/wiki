@@ -1,6 +1,7 @@
 ---
 title: "Kyle Bass's Japan Sovereign Debt Short"
-description: "How Kyle Bass bet for a decade that Japan's debt-to-GDP ratio would collapse the yen and bond market, yet the thesis repeatedly failed despite compelling logic."
+seo_title: "Kyle Bass's Japan Debt Short: Why the Big Bet Failed"
+description: "Kyle Bass and Hayman Capital shorted Japanese bonds and the yen for a decade, betting 250% debt-to-GDP would break Japan. Why the trade never paid off."
 keywords:
   - kyle bass japan short
   - hayman capital japan

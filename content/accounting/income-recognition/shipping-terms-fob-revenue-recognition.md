@@ -1,6 +1,7 @@
 ---
 title: "How FOB Shipping Terms Affect Revenue Recognition"
-description: "FOB shipping terms determine when control of goods transfers to the buyer. FOB origin shifts control at shipment; FOB destination at delivery—governing when the seller records revenue."
+seo_title: "FOB Shipping Terms: When to Recognize Revenue"
+description: "FOB origin lets sellers book revenue at shipment; FOB destination waits until delivery. How ASC 606 control transfer and cutoff timing work in practice."
 keywords:
   - fob shipping terms revenue recognition
   - fob origin vs destination

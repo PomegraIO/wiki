@@ -1,6 +1,7 @@
 ---
 title: "GTC order"
-description: "A GTC (good-til-canceled) order is an order that remains active until you manually cancel it, or until your broker imposes a time limit (typically 30–90 days). Much longer-lived than a day order."
+seo_title: "GTC Order: Meaning, How Long It Lasts, and When to Use It"
+description: "A GTC (good-til-canceled) order stays active until you cancel it or your broker expires it, typically after 30–90 days. How it works vs a day order."
 keywords:
   - GTC order
   - good-til-canceled

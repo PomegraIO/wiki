@@ -4,7 +4,7 @@ description: "Enterprise software and solutions provider specializing in supply-
 keywords: ["enterprise software", "supply chain", "logistics", "SaaS", "inventory management"]
 ---
 
-*[**Epsium Enterprise**](EPSM) develops and deploys enterprise software for supply-chain visibility, demand sensing, and inventory-optimization—targeting mid-market manufacturing, retail, and logistics companies where bespoke on-premise implementations and consulting services drive revenue, distinguishing itself from cloud-native pure-SaaS competitors through deeper customization and vertically-specialized features.*
+***Epsium Enterprise** develops and deploys enterprise software for supply-chain visibility, demand sensing, and inventory-optimization—targeting mid-market manufacturing, retail, and logistics companies where bespoke on-premise implementations and consulting services drive revenue, distinguishing itself from cloud-native pure-SaaS competitors through deeper customization and vertically-specialized features.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EPSM</td></tr>

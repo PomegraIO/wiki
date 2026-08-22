@@ -1,6 +1,7 @@
 ---
 title: "Greenland Energy Co (GLND)"
-description: "A diversified energy company with exposure to renewable and unconventional resources, operating in emerging markets with concentrated geographic and commodity risk."
+seo_title: "GLND Stock: What Greenland Energy Co Actually Does"
+description: "GLND is Greenland Energy Co, a diversified operator mixing frontier energy projects with renewables. Its strategy, concentration risks, and trade-offs."
 keywords: ["GLND", "Greenland Energy", "renewable energy", "unconventional resources", "energy sector", "emerging markets"]
 ---
 

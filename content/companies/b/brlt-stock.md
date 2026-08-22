@@ -4,7 +4,7 @@ description: "Direct-to-consumer jewelry e-commerce company specializing in resp
 keywords: ["jewelry", "e-commerce", "diamonds", "retail", "direct-to-consumer"]
 ---
 
-*[**Brilliant Earth Group, Inc.**](BRLT), publicly traded under ticker BRLT and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1866757, is a jewelry retailer that operates primarily through e-commerce and direct-to-consumer channels. The company differentiates itself in the competitive diamond and fine-jewelry market by emphasizing sourcing transparency, lab-created gemstones, and environmentally and ethically positioned messaging. Its business model bypasses traditional jewelry-store retail, targeting engaged couples, gift-buyers, and consumers who prioritize supply-chain visibility—a market segment less price-sensitive than mass-market jewelry but more skeptical of traditional industry practices.*
+***Brilliant Earth Group, Inc.**, publicly traded under ticker BRLT and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1866757, is a jewelry retailer that operates primarily through e-commerce and direct-to-consumer channels. The company differentiates itself in the competitive diamond and fine-jewelry market by emphasizing sourcing transparency, lab-created gemstones, and environmentally and ethically positioned messaging. Its business model bypasses traditional jewelry-store retail, targeting engaged couples, gift-buyers, and consumers who prioritize supply-chain visibility—a market segment less price-sensitive than mass-market jewelry but more skeptical of traditional industry practices.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BRLT</td></tr>

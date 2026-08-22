@@ -1,6 +1,7 @@
 ---
 title: "POET Technologies Inc. (POET)"
-description: "POET Technologies designs and manufactures silicon photonics chips that move data using light instead of electrical signals. A pre-revenue fabless semiconductor company betting on a major industry shift."
+seo_title: "POET Stock: The Silicon Photonics Bet Explained"
+description: "POET Technologies designs optical engines that move data with light instead of electricity. Its decade-long path to market, finances, and the key risks."
 keywords:
   - silicon photonics
   - semiconductor design

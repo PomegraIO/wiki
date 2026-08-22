@@ -1,6 +1,7 @@
 ---
 title: "Cocoa Grind Data as a Demand Indicator"
-description: "How quarterly cocoa-grind volumes from North America, Europe, and Asia track chocolate demand and predict cocoa futures prices."
+seo_title: "Cocoa Grind Data: The Key Chocolate Demand Indicator"
+description: "Quarterly cocoa grind reports show how many beans processors actually milled—the best real-time proxy for chocolate demand. How traders read the data."
 keywords:
   - cocoa grind data
   - cocoa grind demand indicator

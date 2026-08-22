@@ -10,7 +10,7 @@ keywords:
 image: /svg/markets.svg
 ---
 
-*The **closing auction** is a batch-matching process at the end of each trading day where major exchanges aggregate all unexecuted orders and match them at a single closing price. Mutual funds and index funds use this price to calculate [net asset value](net-asset-value), making it the official benchmark for daily performance and settlement.*
+*The **closing auction** is a batch-matching process at the end of each trading day where major exchanges aggregate all unexecuted orders and match them at a single closing price. Mutual funds and index funds use this price to calculate [net asset value](/net-asset-value/), making it the official benchmark for daily performance and settlement.*
 
 <aside class="wiki-infobox">
 
@@ -26,19 +26,19 @@ image: /svg/markets.svg
 | **Order collection** | Final minutes of trading day |
 | **Execution price** | Single uncross price balancing all remaining supply/demand |
 | **Volume** | Typically 5–20% of daily volume |
-| **Key users** | [Index funds](index-fund), [mutual funds](mutual-fund), retail traders |
-| **NAV impact** | Official [net asset value](net-asset-value) pricing for equity funds |
+| **Key users** | [Index funds](/index-fund/), [mutual funds](/mutual-fund/), retail traders |
+| **NAV impact** | Official [net asset value](/net-asset-value/) pricing for equity funds |
 | **Imbalance threshold** | If buy/sell imbalance exceeds limits, auction may not run |
 
 </aside>
 
 ## Why Exchanges Hold a Closing Auction
 
-At 4 p.m. ET, the traditional stock market "close" occurs on the [NYSE](new-york-stock-exchange) and [NASDAQ](nasdaq). This moment is not arbitrary; it is the reference point for daily settlement, official reporting, and fund pricing.
+At 4 p.m. ET, the traditional stock market "close" occurs on the [NYSE](/new-york-stock-exchange/) and [NASDAQ](/nasdaq/). This moment is not arbitrary; it is the reference point for daily settlement, official reporting, and fund pricing.
 
 During the final minutes of continuous trading, participants accumulate orders they want to execute at the close. Index funds, in particular, rebalance their portfolios according to the market-close [index](https://example.com) value, and they want to execute large block trades at a fair closing price rather than moving the market individually.
 
-A closing auction works like the [opening auction](opening-auction-mechanism-explained): the exchange aggregates all unexecuted orders and matches them at a single uncross price, ensuring every participant—whether a retail trader or a multi-billion-dollar index fund—gets fair execution at the same price.
+A closing auction works like the [opening auction](/opening-auction-mechanism-explained/): the exchange aggregates all unexecuted orders and matches them at a single uncross price, ensuring every participant—whether a retail trader or a multi-billion-dollar index fund—gets fair execution at the same price.
 
 ## How the Closing Auction Timeline Works
 
@@ -52,7 +52,7 @@ A closing auction works like the [opening auction](opening-auction-mechanism-exp
 
 ## How the Closing Price Is Calculated
 
-The closing uncross price is determined using the same principle as the [opening auction](opening-auction-mechanism-explained): the exchange finds the price at which the maximum volume of shares can execute, subject to the constraint that all [limit orders](https://example.com) are honored (buys at or below their limit, sells at or above theirs).
+The closing uncross price is determined using the same principle as the [opening auction](/opening-auction-mechanism-explained/): the exchange finds the price at which the maximum volume of shares can execute, subject to the constraint that all [limit orders](https://example.com) are honored (buys at or below their limit, sells at or above theirs).
 
 The algorithm accounts for [reference pricing](https://example.com) rules, which typically anchor the uncross price to the last sale price during continuous trading if that price results in better balance between buy and sell interest.
 
@@ -64,19 +64,19 @@ At $80.00, 1.5 million shares can execute (all buy order demand meets 1.5 millio
 
 ## Why the Closing Price Matters
 
-**Fund pricing**: Mutual funds and ETFs ([exchange-traded funds](etf)) calculate their [net asset value](net-asset-value) ([NAV](net-asset-value)) using the closing prices of all underlying holdings. The [Securities and Exchange Commission](securities-and-exchange-commission) requires funds to price at NAV as of market close, which typically means the closing auction price or the last regular trade if the auction does not run.
+**Fund pricing**: Mutual funds and ETFs ([exchange-traded funds](/etf/)) calculate their [net asset value](/net-asset-value/) ([NAV](/net-asset-value/)) using the closing prices of all underlying holdings. The [Securities and Exchange Commission](/securities-and-exchange-commission/) requires funds to price at NAV as of market close, which typically means the closing auction price or the last regular trade if the auction does not run.
 
 A fund manager who wants to price accurately at end of day has every incentive to participate in the closing auction, especially for large rebalances.
 
-**Index rebalancing**: When indices like the [S&P 500](sp-500-index) are reconstructed or reweighted, index funds must buy and sell to match the new composition. The closing price becomes the reference for these calculations, often causing large volume surges at exactly 4 p.m.
+**Index rebalancing**: When indices like the [S&P 500](/sp-500-index/) are reconstructed or reweighted, index funds must buy and sell to match the new composition. The closing price becomes the reference for these calculations, often causing large volume surges at exactly 4 p.m.
 
 **Settlement and reporting**: The closing price is the official price used in daily regulatory reporting, risk assessment, and client statements. It is the standard price at which trades are said to have occurred "at the close."
 
-**Arbitrage and hedging**: Traders use the closing price as a reference to price derivatives, [forwards](forward-contract), and hedging trades that will settle the next morning.
+**Arbitrage and hedging**: Traders use the closing price as a reference to price derivatives, [forwards](/forward-contract/), and hedging trades that will settle the next morning.
 
 ## Real-World Example: Index Rebalancing
 
-The [S&P 500](sp-500-index) index is rebalanced quarterly. On a rebalancing date, the index adds some stocks and removes others. Index fund managers holding trillions of dollars collectively must replicate the new composition.
+The [S&P 500](/sp-500-index/) index is rebalanced quarterly. On a rebalancing date, the index adds some stocks and removes others. Index fund managers holding trillions of dollars collectively must replicate the new composition.
 
 On rebalancing day, a stock is removed from the S&P 500 effective at the close. Thousands of index fund managers want to sell it at 4 p.m. simultaneously. If all these sales hit the continuous market in the minutes before the close, the price could crash and index funds would suffer large losses.
 
@@ -100,7 +100,7 @@ Retail investors often see after-hours trading advertised, but the volume and li
 
 The "closing price" published by market data vendors and financial news outlets is the closing auction uncross price. The "last sale price" during continuous trading (e.g., 3:59:50 p.m.) is different and typically reported separately as "last sale" to distinguish it.
 
-For funds calculating [net asset value](net-asset-value) and for market data consumers, the closing auction price is the official figure used in published quotes and indices.
+For funds calculating [net asset value](/net-asset-value/) and for market data consumers, the closing auction price is the official figure used in published quotes and indices.
 
 ## Comparison to Opening Auction
 
@@ -111,7 +111,7 @@ Both opening and closing auctions use the same batch-matching logic to ensure fa
 | **Timing** | 9:25–9:30 a.m. | 3:50–4:00 p.m. |
 | **Purpose** | Process overnight orders and news | Set official daily close for fund pricing |
 | **Volume** | Typically 5–15% of daily | Typically 5–20% of daily |
-| **Fund impact** | [NAV](net-asset-value) pricing if no intra-day trading | [NAV](net-asset-value) pricing (standard) |
+| **Fund impact** | [NAV](/net-asset-value/) pricing if no intra-day trading | [NAV](/net-asset-value/) pricing (standard) |
 | **Rebalancing use** | Early-day index rebalancing (rare) | Quarterly/daily index rebalancing (common) |
 
 ## See also

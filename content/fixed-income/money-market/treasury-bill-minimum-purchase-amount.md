@@ -1,6 +1,7 @@
 ---
 title: "Treasury Bill Minimum Purchase: How Much Do You Need?"
-description: "Treasury bills have a $100 minimum purchase at TreasuryDirect. Brokerage minimums vary. Discount pricing means face value differs from amount paid."
+seo_title: "Treasury Bill Minimum Purchase: $100 at TreasuryDirect"
+description: "Treasury bills have a $100 face-value minimum at TreasuryDirect; broker minimums vary. What discount pricing means for the amount you actually pay."
 keywords:
   - treasury bill minimum purchase amount
   - T-bill minimum investment

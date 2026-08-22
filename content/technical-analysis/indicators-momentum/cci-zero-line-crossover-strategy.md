@@ -1,6 +1,7 @@
 ---
 title: "CCI Zero Line Crossover: Trend-Following with the Commodity Channel Index"
-description: "Learn how CCI zero line crossovers signal new trends, offering a different trend-filter approach than the classic ±100 overbought/oversold levels."
+seo_title: "CCI Zero Line Crossover: A Trend-Entry Strategy"
+description: "A CCI cross above zero often marks the start of an uptrend; below zero, a downtrend. How to trade the zero line instead of waiting for ±100 extremes."
 keywords:
   - cci zero line crossover
   - commodity channel index strategy

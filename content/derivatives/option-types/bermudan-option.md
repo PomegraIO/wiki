@@ -1,6 +1,7 @@
 ---
 title: "Bermuda Option"
-description: "A Bermuda option can be exercised on specific dates (not just at expiration), sitting between the flexibility of American options and the simplicity of European options."
+seo_title: "Bermuda Option: Definition, Exercise Dates & Pricing"
+description: "A Bermuda option can be exercised only on scheduled dates—quarterly or semi-annual—between European and American styles. Where it's used, how it's priced."
 keywords:
   - bermuda option
   - exercise dates

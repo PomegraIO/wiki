@@ -1,6 +1,7 @@
 ---
 title: "Delta vs Probability of Expiring In the Money"
-description: "Delta vs probability of expiring ITM: why traders use delta as a proxy for ITM odds, where the link holds, and where volatility, skew, and moneyness break it."
+seo_title: "Delta vs Probability of Expiring ITM: When the Proxy Works"
+description: "Delta roughly equals an option's risk-neutral odds of expiring in the money. Where the shortcut holds and how volatility, skew, and moneyness break it."
 keywords:
   - delta vs probability of expiring in the money
   - delta itm probability

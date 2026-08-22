@@ -1,6 +1,7 @@
 ---
 title: "CLO Reset vs Refinancing"
-description: "Difference between a CLO reset and CLO refinancing: extends the reinvestment period vs. reprices existing debt, and when each is economically optimal."
+seo_title: "CLO Reset vs Refinancing: What's the Difference?"
+description: "A CLO reset extends the reinvestment period and reprices the whole stack; a refinancing replaces specific tranches' debt. When each makes economic sense."
 keywords:
   - clo reset vs refinancing difference
   - collateralized loan obligation reset

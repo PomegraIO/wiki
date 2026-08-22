@@ -4,7 +4,7 @@ description: "Clinical-stage biotechnology company developing targeted therapies
 keywords: ["biotech", "pharmaceuticals", "drug development", "CNS", "clinical trials"]
 ---
 
-*[**Eupraxia Pharmaceuticals**](EPRX) is a clinical-stage biopharmaceutical company developing small-molecule and biologics-based therapies for central nervous system (CNS) disorders, pursuing mechanisms of action distinct from incumbents—particularly in mood and anxiety disorders—and positioned to differentiate through superior tolerability and efficacy profiles rather than by competing on indication breadth alone.*
+***Eupraxia Pharmaceuticals** is a clinical-stage biopharmaceutical company developing small-molecule and biologics-based therapies for central nervous system (CNS) disorders, pursuing mechanisms of action distinct from incumbents—particularly in mood and anxiety disorders—and positioned to differentiate through superior tolerability and efficacy profiles rather than by competing on indication breadth alone.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EPRX</td></tr>

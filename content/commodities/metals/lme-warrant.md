@@ -1,6 +1,7 @@
 ---
 title: "LME Warrant"
-description: "A title document certifying ownership of base metal stored in an accredited warehouse, used for physical delivery on futures contracts."
+seo_title: "LME Warrant: How Metal Warehouse Title Documents Work"
+description: "An LME warrant is a title document proving ownership of metal in an LME-approved warehouse. How warrants tie futures prices to physical delivery."
 keywords:
   - metal warrant
   - warehouse receipt

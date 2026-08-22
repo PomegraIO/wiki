@@ -1,6 +1,7 @@
 ---
 title: "JPMorgan Nasdaq Equity Premium Income ETF (JEPQ)"
-description: "JPMorgan Nasdaq Equity Premium Income ETF holds Nasdaq 100 stocks while selling covered calls to generate higher distributions, trading upside for current income."
+seo_title: "JEPQ Stock: JPMorgan Nasdaq Premium Income ETF Guide"
+description: "JEPQ holds Nasdaq-100 stocks and sells covered calls to pay out high monthly income, trading some upside for yield. How the strategy works and its risks."
 keywords:
   - Nasdaq 100
   - covered calls

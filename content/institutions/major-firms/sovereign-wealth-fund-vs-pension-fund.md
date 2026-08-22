@@ -1,6 +1,7 @@
 ---
 title: "Sovereign Wealth Fund vs Pension Fund: How They Differ"
-description: "Sovereign wealth funds and pension funds are both large institutional investors, but differ in mandate, liability structure, and political accountability."
+seo_title: "Sovereign Wealth Fund vs Pension Fund: Key Differences"
+description: "A sovereign wealth fund invests government reserves with no fixed liabilities; a pension fund must pay member benefits. Mandate, governance, and horizon."
 keywords:
   - sovereign wealth fund vs pension fund
   - sovereign wealth fund

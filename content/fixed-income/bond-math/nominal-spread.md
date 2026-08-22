@@ -70,7 +70,7 @@ A widening nominal spread signals deteriorating credit outlook; a tightening spr
 
 Not necessarily. The Treasury curve is steep (60 bp steeper at the 10-year). The weaker credit's extra 20 bp of nominal spread (90 bp vs. 70 bp) may partly reflect the curve shape, not extra credit risk. If you use the [Z-spread](/z-spread/), you might find both bonds offer the same true credit premium—the weaker credit's apparent premium comes from a duration difference, not higher [credit risk](/credit-risk/).
 
-**The duration mismatch problem:** A 5-year bond and a 10-year bond with identical nominal spreads are not equivalent. The 10-year bond has far more [interest-rate](/interest-rate/) risk ([duration](term)). If rates spike 100 bp, the 10-year bond loses twice as much in price as the 5-year bond, even though they have the same nominal spread. A trader comparing the two would need to adjust for this.
+**The duration mismatch problem:** A 5-year bond and a 10-year bond with identical nominal spreads are not equivalent. The 10-year bond has far more [interest-rate](/interest-rate/) risk (duration). If rates spike 100 bp, the 10-year bond loses twice as much in price as the 5-year bond, even though they have the same nominal spread. A trader comparing the two would need to adjust for this.
 
 **The embedded-option problem:** A callable bond with a 150 bp nominal spread may actually deliver far less economic upside than a straight bond at 150 bp, because the issuer can redeem the bond if rates fall. The bondholder loses the upside; the spread understates this cost. This is why [option-adjusted spread (OAS)](/yield-spread-measures/) was invented.
 

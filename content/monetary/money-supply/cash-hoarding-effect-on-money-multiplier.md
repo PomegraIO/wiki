@@ -12,7 +12,7 @@ keywords:
 image: "/svg/monetary.svg"
 ---
 
-*When individuals and businesses hoard currency instead of depositing it in banks, the banking system loses the reserves needed to extend new credit. The **cash hoarding effect on the money multiplier** describes how a rising currency-to-deposit ratio shrinks the broadest measures of money supply by breaking the chain of reserve-based lending that normally amplifies initial [central-bank](./central-bank.md) deposits into multiples of broader money.*
+*When individuals and businesses hoard currency instead of depositing it in banks, the banking system loses the reserves needed to extend new credit. The **cash hoarding effect on the money multiplier** describes how a rising currency-to-deposit ratio shrinks the broadest measures of money supply by breaking the chain of reserve-based lending that normally amplifies initial [central-bank](/central-bank/) deposits into multiples of broader money.*
 
 <aside class="wiki-infobox">
 
@@ -35,7 +35,7 @@ image: "/svg/monetary.svg"
 
 ## The Money Multiplier and Reserve Leverage
 
-The [money-supply](./money-supply.md) multiplier is the ratio of broad money (M2, M3) to the [monetary-base](./monetary-base.md) or [m1](./m1.md). It measures how much the banking system amplifies each unit of base money through layered lending and deposit creation. A multiplier of 3 means the banking system has transformed a unit of base money into three units of broad money.
+The money-supply multiplier is the ratio of broad money (M2, M3) to the [monetary-base](/monetary-base/) or [m1](/m1/). It measures how much the banking system amplifies each unit of base money through layered lending and deposit creation. A multiplier of 3 means the banking system has transformed a unit of base money into three units of broad money.
 
 This amplification works because banks do not hold 100% of deposits in reserve. When a customer deposits $100, the bank keeps a fraction (say, 10%) and lends out the rest. The borrower spends that loan, and the recipient deposits it elsewhere, where it is lent again. Each cycle adds to the total money supply.
 
@@ -43,7 +43,7 @@ This amplification works because banks do not hold 100% of deposits in reserve. 
 
 ## The Currency-to-Deposit Ratio
 
-Economists track hoarding behavior through the currency-to-deposit ratio: the amount of [currency](./currency.md) in circulation divided by deposits held in the banking system. When this ratio rises, it signals that a larger share of the money supply is outside the banking network.
+Economists track hoarding behavior through the currency-to-deposit ratio: the amount of currency in circulation divided by deposits held in the banking system. When this ratio rises, it signals that a larger share of the money supply is outside the banking network.
 
 A high ratio directly constrains the multiplier formula. The money multiplier can be expressed as:
 
@@ -55,17 +55,17 @@ When C/D rises—meaning people hoard more cash—the numerator grows, which ini
 
 ## Why Hoarding Accelerates in Crises
 
-During financial stress, [confidence](./confidence-and-financial-stability.md) in the banking system erodes. Depositors fear [bank-runs](./bank-runs.md) or that their deposits may not be insured fully. They withdraw cash and hold it outside the system.
+During financial stress, confidence in the banking system erodes. Depositors fear bank-runs or that their deposits may not be insured fully. They withdraw cash and hold it outside the system.
 
-The 2008 financial crisis saw a visible spike in the currency-to-deposit ratio as households and firms moved money out of banks. Similarly, countries experiencing [inflation](./inflation.md) surges or [sovereign-default](./sovereign-default.md) scares see cash hoarding rise as people lose faith in the purchasing power or safety of bank balances.
+The 2008 financial crisis saw a visible spike in the currency-to-deposit ratio as households and firms moved money out of banks. Similarly, countries experiencing [inflation](/inflation/) surges or [sovereign-default](/sovereign-default/) scares see cash hoarding rise as people lose faith in the purchasing power or safety of bank balances.
 
 Foreign currency substitution can also drive the ratio. In countries with weak or unstable currencies, residents often hoard U.S. dollars in cash rather than depositing local currency in local banks. This further starves the domestic banking system of the deposits needed to fund lending.
 
 ## The Multiplier Collapse in Data
 
-The [federal-reserve](./federal-reserve.md) publishes the monetary base and M1, M2, M3 (in some cases). Comparing these series reveals the multiplier's behavior.
+The [federal-reserve](/federal-reserve/) publishes the monetary base and M1, M2, M3 (in some cases). Comparing these series reveals the multiplier's behavior.
 
-From 2007 to 2009, the U.S. monetary base nearly doubled, yet M2 grew much more slowly. The multiplier fell sharply because banks faced [reserve-requirements](./reserve-requirements.md) that grew, reserve-demand for safety reasons rose, and deposits did not expand proportionally to base money. While hoarding was not the only driver—[quantitative-easing](./quantitative-easing.md) and banks' reluctance to lend also mattered—the currency-to-deposit ratio did widen, contributing to the multiplier collapse.
+From 2007 to 2009, the U.S. monetary base nearly doubled, yet M2 grew much more slowly. The multiplier fell sharply because banks faced [reserve-requirements](/reserve-requirements/) that grew, reserve-demand for safety reasons rose, and deposits did not expand proportionally to base money. While hoarding was not the only driver—[quantitative-easing](/quantitative-easing/) and banks' reluctance to lend also mattered—the currency-to-deposit ratio did widen, contributing to the multiplier collapse.
 
 Countries with persistent inflation or low banking penetration often show chronically high currency-to-deposit ratios and correspondingly lower multipliers.
 
@@ -73,16 +73,16 @@ Countries with persistent inflation or low banking penetration often show chroni
 
 When hoarding threatens the money supply transmission, central banks have levers:
 
-- **[Interest-rate](./interest-rate.md) policy**: Raising rates on deposits makes holding cash unattractive, encouraging deposits.
+- **[Interest-rate](/interest-rate/) policy**: Raising rates on deposits makes holding cash unattractive, encouraging deposits.
 - **Crisis communication**: Clear statements that deposits are insured (e.g., FDIC guarantees in the US) can restore confidence and reduce hoarding.
-- **Emergency lending facilities**: Banks that face deposit outflows can borrow from the [lender-of-last-resort](./lender-of-last-resort.md) to meet withdrawals without cascading failures.
-- **[Quantitative easing](./quantitative-easing.md)**: Flooding the system with base money can offset the multiplier contraction, though it does not reverse the hoarding itself.
+- **Emergency lending facilities**: Banks that face deposit outflows can borrow from the [lender-of-last-resort](/lender-of-last-resort/) to meet withdrawals without cascading failures.
+- **[Quantitative easing](/quantitative-easing/)**: Flooding the system with base money can offset the multiplier contraction, though it does not reverse the hoarding itself.
 
 None of these tools directly forces people to deposit cash. They instead make depositing more attractive or shore up the banking system's ability to function despite lower deposits.
 
 ## Hoarding and Inflation Control
 
-Paradoxically, hoarding can constrain central bank inflation goals. If the multiplier collapses, a large injection of base money may create little visible [inflation](./inflation.md) because broad money fails to expand proportionally. The velocity of money—how often each unit is spent—also falls when hoarding rises, further dampening inflation pressure.
+Paradoxically, hoarding can constrain central bank inflation goals. If the multiplier collapses, a large injection of base money may create little visible [inflation](/inflation/) because broad money fails to expand proportionally. The velocity of money—how often each unit is spent—also falls when hoarding rises, further dampening inflation pressure.
 
 Conversely, when confidence returns and hoarded cash flows back into banks, the multiplier recovers, and the same base money can support a much larger money supply and inflation surge. This "reflation" risk is why central banks watch the currency-to-deposit ratio carefully during financial recoveries.
 
@@ -90,7 +90,7 @@ Conversely, when confidence returns and hoarded cash flows back into banks, the 
 
 Unlike reserve ratios or discount rates, hoarding behavior is difficult for a central bank to regulate directly. It depends on individual and institutional preferences for safety, confidence, and perceived returns on bank deposits versus cash.
 
-In dollarized economies (where residents prefer U.S. currency to the local currency), the currency-to-deposit ratio may remain permanently elevated, capping the effective money multiplier. In [developing-markets](./developing-markets.md) with weak banking institutions, high cash-to-deposit ratios are normal, limiting the role of the banking system in amplifying monetary policy.
+In dollarized economies (where residents prefer U.S. currency to the local currency), the currency-to-deposit ratio may remain permanently elevated, capping the effective money multiplier. In developing-markets with weak banking institutions, high cash-to-deposit ratios are normal, limiting the role of the banking system in amplifying monetary policy.
 
 A well-functioning multiplier requires both ample reserves and public trust in deposits. Hoarding attacks the second condition. When it occurs, the money supply expands far more slowly despite central bank efforts, illustrating that monetary policy works through institutions as much as through quantities.
 

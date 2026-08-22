@@ -1,6 +1,7 @@
 ---
 title: "Natural Grocers by Vitamin Cottage, Inc. (NGVC)"
-description: "A specialty grocery chain founded in 1955 focused on natural and organic foods, supplements, and wellness products, operating a growing network of stores primarily across the western and central United States."
+seo_title: "NGVC Stock: Natural Grocers' Organic Retail Niche"
+description: "Natural Grocers (NGVC) is a specialty chain selling organic food and supplements across the western US since 1955. Its history, model, and position."
 keywords:
   - natural grocers
   - organic food

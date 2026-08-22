@@ -48,7 +48,7 @@ This asymmetry—collateral-first underwriting instead of credit-first—enables
 
 ## Loan-to-value and the hard money advantage
 
-A [hard money lender]() advances cash against a percentage of the property's current market value. Typical loan-to-value (LTV) ratios sit between 65% and 75%, sometimes lower. If a property is worth $300,000, a 70% LTV loan would be $210,000.
+A hard money lender advances cash against a percentage of the property's current market value. Typical loan-to-value (LTV) ratios sit between 65% and 75%, sometimes lower. If a property is worth $300,000, a 70% LTV loan would be $210,000.
 
 This conservative LTV serves as the lender's cushion. If the deal goes wrong and the lender must liquidate the collateral, a 70% advance still leaves 30% margin to absorb transaction costs, price declines, and legal fees. Lower LTV means lower risk for the lender, which is why terms are more favorable at 60% LTV than at 75%.
 
@@ -58,9 +58,9 @@ For an investor, this creates a different calculus than conventional lending. A 
 
 **Fix-and-flip investors** are the primary customer base. They identify distressed properties, estimate the cost to renovate, and project the future sale value. A conventional lender won't advance on a property in poor condition; a hard money lender advances on the *after-repair value* (ARV), sometimes at 70% of the projected ARV. The investor completes the rehab, lists the property, and repays the loan from sale proceeds within 12–24 months.
 
-**Bridge loans** are another major use case. An investor buys a rental property but hasn't yet sold their previous home. They take a 6–12 month hard money bridge to acquire the new property, then refinance into a traditional [mortgage]() after the old property closes. The bridge loan fills the timing gap.
+**Bridge loans** are another major use case. An investor buys a rental property but hasn't yet sold their previous home. They take a 6–12 month hard money bridge to acquire the new property, then refinance into a traditional mortgage after the old property closes. The bridge loan fills the timing gap.
 
-**Commercial and multifamily investors** use hard money when conventional lenders balk at the property type, location, or borrower profile. A distressed apartment building or a novel-use property may not fit standard lending guidelines, but a hard money lender sees opportunity in the [cap rate]() and cash flow.
+**Commercial and multifamily investors** use hard money when conventional lenders balk at the property type, location, or borrower profile. A distressed apartment building or a novel-use property may not fit standard lending guidelines, but a hard money lender sees opportunity in the cap rate and cash flow.
 
 ## Rate structure and true costs
 
@@ -103,7 +103,7 @@ Conversely, if the property and repairs total $280,000 and will sell for $310,00
 
 ## Hard money vs. conventional financing
 
-Hard money is not cheaper or worse than conventional financing—it serves a different function. A borrower with strong credit, stable income, and time to shop for a mortgage should use a [conventional mortgage]() at 6–8% over 30 years. A borrower with a time-sensitive deal, poor credit, or a property unsuitable for traditional lending uses hard money.
+Hard money is not cheaper or worse than conventional financing—it serves a different function. A borrower with strong credit, stable income, and time to shop for a mortgage should use a conventional mortgage at 6–8% over 30 years. A borrower with a time-sensitive deal, poor credit, or a property unsuitable for traditional lending uses hard money.
 
 The cost premium of hard money (4–7 percentage points in interest) buys speed and flexibility. Whether that premium is worth paying depends entirely on whether the deal's economics—the gain from acquiring the property quickly, or the rental income from an otherwise-unfinanceable property—justify the added borrowing cost.
 

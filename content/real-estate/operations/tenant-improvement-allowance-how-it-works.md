@@ -28,7 +28,7 @@ image: "/svg/real-estate.svg"
 | **Negotiation window** | During lease signature, or for renewals with major renovation |
 | **Unused allowance** | May be forfeited, used toward ongoing rent, or (rarely) refunded to tenant |
 | **Who manages it** | Landlord controls approval; tenant hires architect, contractors, pays overages |
-| **Related terms** | [Buildout](about tenant-improvement-allowance-how-it-works), free rent abatement, moving allowance, design fees |
+| **Related terms** | Buildout, free rent abatement, moving allowance, design fees |
 
 </aside>
 

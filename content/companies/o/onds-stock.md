@@ -1,6 +1,7 @@
 ---
 title: "Ondas Inc. (ONDS)"
-description: "Ondas Holdings manufactures private wireless networks and industrial automation systems — competing for edge computing and IoT connectivity in industrial, energy, and transportation sectors."
+seo_title: "ONDS Stock: Ondas Holdings' Private Wireless Networks"
+description: "Ondas Holdings (ONDS) builds private wireless networks for utilities, oil and gas, ports, and industrial sites. Its business model, market, and key risks."
 keywords:
   - private wireless networks
   - industrial IoT

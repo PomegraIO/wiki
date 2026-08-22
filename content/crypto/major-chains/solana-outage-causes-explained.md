@@ -1,6 +1,7 @@
 ---
 title: "Solana Network Outages: Causes and Recovery"
-description: "Why Solana experiences network outages: Gulf Stream congestion, validator synchronization issues, and the technical limits of high-speed blockchain architecture."
+seo_title: "Solana Outages: Why the Network Goes Down"
+description: "Solana goes down when congestion and validator desync break consensus, forcing coordinated restarts. The architecture trade-offs behind each outage."
 keywords:
   - why does solana go down
   - solana network outage causes

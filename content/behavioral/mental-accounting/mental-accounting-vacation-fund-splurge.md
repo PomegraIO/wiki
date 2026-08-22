@@ -23,7 +23,7 @@ image: /svg/behavioral.svg
 |   |   |
 |---|---|
 | **Core principle** | Money labeled for discretion is spent more freely than money labeled for need |
-| **Why it happens** | [Loss aversion](​/loss-aversion/) makes "breaking the emergency piggy bank" feel costly; "using the vacation fund" feels like plan execution |
+| **Why it happens** | [Loss aversion](/loss-aversion/) makes "breaking the emergency piggy bank" feel costly; "using the vacation fund" feels like plan execution |
 | **Real-world symptom** | Identical savings amounts are depleted at wildly different rates based on their mental category |
 | **Does it matter financially?** | Yes—it can turn emergency savings into a phantom safety net that vanishes before crisis |
 | **The escape** | Segregate money in separate accounts; make withdrawal friction match the account's purpose |
@@ -32,7 +32,7 @@ image: /svg/behavioral.svg
 
 ## The Mental Accounting Framework
 
-[Mental accounting](​/mental-accounting/) describes how people mentally categorize, evaluate, and treat money differently depending on its source, intended use, and the mental frame around it. A single dollar is not a single dollar in the mind. The same $5,000 sitting in one bank account will be treated as "spendable" or "off-limits" based entirely on which mental category it belongs to.
+[Mental accounting](/mental-accounting/) describes how people mentally categorize, evaluate, and treat money differently depending on its source, intended use, and the mental frame around it. A single dollar is not a single dollar in the mind. The same $5,000 sitting in one bank account will be treated as "spendable" or "off-limits" based entirely on which mental category it belongs to.
 
 Vacation funds and emergency funds are a textbook pair. Both are savings. Both are liquid. Both sit in the same checking or savings account. Yet most people spend from a vacation fund without guilt, while raiding an emergency fund triggers genuine distress. The difference is not structural—it is psychological.
 
@@ -48,7 +48,7 @@ Additionally, vacation expenditure is often framed as one-time. You spend the va
 
 By contrast, an emergency fund is labeled as insurance. The mental category is *defensive*. The money is assigned to a worst-case scenario—job loss, medical crisis, major repair. 
 
-This triggers [loss aversion](​/loss-aversion/). Loss aversion is the asymmetric discomfort most people feel when facing a loss versus an equivalent gain. Losing $100 hurts roughly twice as much as gaining $100 feels good. Applied to emergency funds, the *loss* of that safety net—the mental act of eroding your insurance—feels more painful than the *gain* of spending the money on something desirable.
+This triggers [loss aversion](/loss-aversion/). Loss aversion is the asymmetric discomfort most people feel when facing a loss versus an equivalent gain. Losing $100 hurts roughly twice as much as gaining $100 feels good. Applied to emergency funds, the *loss* of that safety net—the mental act of eroding your insurance—feels more painful than the *gain* of spending the money on something desirable.
 
 There is also a conceptual boundary. An emergency fund has no expiration date. Using it for a vacation today does not satisfy the fund's purpose; it *defeats* the fund. You are not executing a plan; you are breaking one. The psychological barrier is intentional—you *want* that barrier to exist—but it is a barrier nonetheless.
 
@@ -66,9 +66,9 @@ The mental accounting creates separate spending rules. Vacation money has a *spe
 
 This framework explains behavior that rational consumption models struggle to capture. If money is fungible—if $1 is truly $1 no matter the source—then the source or label should not matter. Yet it does.
 
-Research in [behavioral economics](​/behavioral-economics/) shows that people are far more likely to spend money designated for "discretionary" use than money designated for "precaution." The label changes the utility calculation. Money labeled as vacation is already mentally "spent" on the vacation; withdrawing it accelerates an expected outflow. Money labeled as emergency is mentally "unspent" and reserved; withdrawing it reverses an expectation.
+Research in behavioral economics shows that people are far more likely to spend money designated for "discretionary" use than money designated for "precaution." The label changes the utility calculation. Money labeled as vacation is already mentally "spent" on the vacation; withdrawing it accelerates an expected outflow. Money labeled as emergency is mentally "unspent" and reserved; withdrawing it reverses an expectation.
 
-This also interacts with [prospect theory](​/prospect-theory/), which describes how people evaluate outcomes relative to a reference point. Your reference point for the vacation fund is zero—you did not expect to have it until you saved it, so using it is a gain relative to your baseline. Your reference point for the emergency fund is "having it available in a crisis"—so using it is a loss relative to that baseline.
+This also interacts with [prospect theory](/prospect-theory/), which describes how people evaluate outcomes relative to a reference point. Your reference point for the vacation fund is zero—you did not expect to have it until you saved it, so using it is a gain relative to your baseline. Your reference point for the emergency fund is "having it available in a crisis"—so using it is a loss relative to that baseline.
 
 ## The Problem: Phantom Safety Nets
 
@@ -82,7 +82,7 @@ Understanding this bias allows you to work with it, rather than against it. One 
 
 Another approach is to *make withdrawal friction match the purpose*. Emergency funds should be in a readily accessible account (savings account, money market fund) so real emergencies are not blocked by access delays. Vacation funds can sit in lower-liquidity products (short-term CDs, certificates) that make casual withdrawals annoying, reducing the impulse to spend.
 
-A third approach is to *relabel and reframe*. Instead of "vacation fund," call it "discretionary fun budget" or "annual splurge allowance," and *actively expect it to be spent*. This removes the cognitive dissonance. Instead of "emergency fund," call it "[buffer fund](​/buffer-fund/)" and define specific thresholds (six months of expenses, for example) so the boundary is numerical, not vague.
+A third approach is to *relabel and reframe*. Instead of "vacation fund," call it "discretionary fun budget" or "annual splurge allowance," and *actively expect it to be spent*. This removes the cognitive dissonance. Instead of "emergency fund," call it "[buffer fund](/buffer-fund/)" and define specific thresholds (six months of expenses, for example) so the boundary is numerical, not vague.
 
 ## See also
 

@@ -1,6 +1,7 @@
 ---
 title: "Poultry Commodity Markets"
-description: "Pricing mechanisms for chicken and turkey as commodities, where broilers trade in cash markets rather than standardized futures exchanges."
+seo_title: "Poultry Commodity Markets: How Chicken Is Priced"
+description: "Chicken and turkey trade in negotiated cash markets, not liquid futures, because producers are vertically integrated. USDA and Urner Barry pricing."
 keywords:
   - poultry prices
   - chicken commodity

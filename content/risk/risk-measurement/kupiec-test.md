@@ -1,6 +1,7 @@
 ---
 title: "Kupiec Proportion-of-Failures Test"
-description: "A binomial statistical test that checks whether a VaR model's observed exception rate matches its claimed confidence level."
+seo_title: "Kupiec Test: Validating VaR Models With Statistics"
+description: "The Kupiec proportion-of-failures test checks whether a VaR model's exception count matches its confidence level. The binomial math and its blind spots."
 keywords:
   - kupiec test
   - var validation

@@ -1,6 +1,7 @@
 ---
 title: "Direxion Daily Semiconductor Bull 3X ETF (SOXL)"
-description: "A daily reset 3X leveraged ETF tracking the NYSE FANG Semiconductor Index — designed to amplify intraday semiconductor sector movements with triple the daily exposure."
+seo_title: "SOXL Stock: Direxion 3X Semiconductor Bull ETF Guide"
+description: "SOXL is a 3X leveraged ETF built to deliver triple the daily move of a semiconductor index. How it works, decay risk, and when traders use it."
 keywords:
   - leveraged ETF
   - semiconductor

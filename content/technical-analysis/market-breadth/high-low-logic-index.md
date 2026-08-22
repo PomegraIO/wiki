@@ -1,6 +1,7 @@
 ---
 title: "High-Low Logic Index"
-description: "Norman Fosback's ratio measuring the proportion of new lows relative to total new highs and lows, serving as a market-extremes warning."
+seo_title: "High-Low Logic Index: Fosback's Market Breadth Warning"
+description: "The High-Low Logic Index divides new 52-week lows by all new extremes to flag split, weakening markets. What normal and danger readings look like."
 keywords:
   - high low logic index
   - market breadth

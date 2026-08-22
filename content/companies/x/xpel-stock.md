@@ -1,6 +1,7 @@
 ---
 title: "XPEL, Inc. (XPEL)"
-description: "XPEL makes paint protection film and ceramic coatings for cars. Started as a software company that pre-cut film patterns, it evolved into a manufacturer and marketer of self-healing protective films, competing against traditional clear bra shops and aftermarket installers."
+seo_title: "XPEL Stock: The Paint Protection Film Leader"
+description: "XPEL makes self-healing paint protection film and ceramic coatings for cars. How a pattern-software shop became the category leader, and what drives it."
 keywords:
   - paint protection film
   - automotive aftermarket

@@ -9,7 +9,7 @@ keywords:
   - regulatory pathway
 ---
 
-*[**BioVie Inc.** (BIVI)](BIVI) operates in the clinical-development phase of the biopharmaceutical lifecycle, where it has moved beyond basic research or preclinical work and is now testing novel therapeutics in human subjects. The company faces the defining challenge of this stage: the need to generate clinical evidence of safety and efficacy while consuming substantial capital, with no guarantee that any program will reach commercialization. BioVie exemplifies the high-risk, high-burn profile of clinical-stage biotech, where scientific capability, regulatory strategy, and access to sustained funding determine whether the company survives to see a marketed product.*
+***BioVie Inc.** (BIVI) operates in the clinical-development phase of the biopharmaceutical lifecycle, where it has moved beyond basic research or preclinical work and is now testing novel therapeutics in human subjects. The company faces the defining challenge of this stage: the need to generate clinical evidence of safety and efficacy while consuming substantial capital, with no guarantee that any program will reach commercialization. BioVie exemplifies the high-risk, high-burn profile of clinical-stage biotech, where scientific capability, regulatory strategy, and access to sustained funding determine whether the company survives to see a marketed product.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BIVI</td></tr>

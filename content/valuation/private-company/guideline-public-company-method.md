@@ -10,15 +10,15 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **Guideline Public Company Method** derives a private-company valuation by identifying publicly traded businesses with similar operations, markets, and risk profiles, then applying their observed [multiples](price-to-earnings-ratio)—such as price-to-earnings or [EV-to-EBITDA](ebitda)—to the private company's financial metrics. Adjustments are made for size, [minority vs. control ownership](voting-rights), and lack of [liquidity](liquidity-risk) to account for the gap between a small, illiquid private holding and a large, tradable public share.*
+*The **Guideline Public Company Method** derives a private-company valuation by identifying publicly traded businesses with similar operations, markets, and risk profiles, then applying their observed [multiples](/price-to-earnings-ratio/)—such as price-to-earnings or [EV-to-EBITDA](/ebitda/)—to the private company's financial metrics. Adjustments are made for size, [minority vs. control ownership](/voting-rights/), and lack of [liquidity](/liquidity-risk/) to account for the gap between a small, illiquid private holding and a large, tradable public share.*
 
 ## The logic of comparable multiples
 
-Markets provide real prices for public companies. If a peer group of software companies trades at an average [EV-to-revenue multiple](price-to-sales-ratio) of 5x, and a private software startup has $10 million in annual revenue, the guideline method suggests an [enterprise value](enterprise-value) near $50 million. The assumption is that in the absence of specific risks unique to the private company, it should be worth roughly what the market pays for similar public companies.
+Markets provide real prices for public companies. If a peer group of software companies trades at an average [EV-to-revenue multiple](/price-to-sales-ratio/) of 5x, and a private software startup has $10 million in annual revenue, the guideline method suggests an [enterprise value](/enterprise-value/) near $50 million. The assumption is that in the absence of specific risks unique to the private company, it should be worth roughly what the market pays for similar public companies.
 
-This "relative valuation" approach contrasts with [discounted cash flow](discounted-cash-flow-valuation), which estimates value by projecting cash flows. Guideline Company instead says: forget forecasts; let the market tell you what similar assets trade for, then apply that pricing to your target.
+This "relative valuation" approach contrasts with [discounted cash flow](/discounted-cash-flow-valuation/), which estimates value by projecting cash flows. Guideline Company instead says: forget forecasts; let the market tell you what similar assets trade for, then apply that pricing to your target.
 
-It is widely used in [mergers and acquisitions](merger), investment banking, and expert valuations because it is grounded in observable market data rather than speculative forecasts. Courts and tax authorities also favor it because the multiples are verifiable and not subject to the analyst's private assumptions about growth or risk.
+It is widely used in [mergers and acquisitions](/merger/), investment banking, and expert valuations because it is grounded in observable market data rather than speculative forecasts. Courts and tax authorities also favor it because the multiples are verifiable and not subject to the analyst's private assumptions about growth or risk.
 
 <aside class="wiki-infobox">
 
@@ -56,13 +56,13 @@ A private specialty chemicals manufacturer might look to public peers like Albem
 
 ## Common multiples and what they measure
 
-**EV-to-EBITDA** is the workhorse. [EBITDA](ebitda) strips out financing and tax choices, so it is comparable across firms with different capital structures. A manufacturing peer group might trade at 6–8x EBITDA; a SaaS company at 10–15x. The multiple reflects growth, margins, [return on invested capital](return-on-invested-capital), and risk.
+**EV-to-EBITDA** is the workhorse. [EBITDA](/ebitda/) strips out financing and tax choices, so it is comparable across firms with different capital structures. A manufacturing peer group might trade at 6–8x EBITDA; a SaaS company at 10–15x. The multiple reflects growth, margins, [return on invested capital](/return-on-invested-capital/), and risk.
 
-**Price-to-Earnings** compares market [capitalization](market-capitalization) to net income. It is most useful for profitable, mature companies where tax and leverage are stable. It is less suitable for high-growth or loss-making firms.
+**Price-to-Earnings** compares market [capitalization](/market-capitalization/) to net income. It is most useful for profitable, mature companies where tax and leverage are stable. It is less suitable for high-growth or loss-making firms.
 
 **EV-to-Revenue** is common for very early-stage or pre-profitability companies where EBITDA is not meaningful. Software and biotech firms often trade on revenue multiples because earnings are negative or obscured by R&D investment. The multiple can range from 2x to 20x depending on unit economics and growth.
 
-**Price-to-Book** compares market value to [book value](balance-sheet) of equity. It is useful for asset-heavy industries like banking or insurance but misleading for knowledge-based businesses where [intangible assets](intangible-assets) dwarf tangible plant.
+**Price-to-Book** compares market value to [book value](/balance-sheet/) of equity. It is useful for asset-heavy industries like banking or insurance but misleading for knowledge-based businesses where [intangible assets](/intangible-assets/) dwarf tangible plant.
 
 ## The control adjustment
 
@@ -90,7 +90,7 @@ If the company has $2 million in EBITDA, the range would be $7–16.2 million, w
 
 The Guideline Company Method assumes the private company is not fundamentally different from its public peers. If the private company has a breakthrough product the peers lack, or is in a declining niche, or has concentrated customer risk, the method may not apply cleanly.
 
-For very young or unprofitable companies, finding good public comparables is hard. The [first Chicago method](first-chicago-method) or [excess earnings method](excess-earnings-method) may be better. For highly asset-intensive businesses, the [excess earnings method](excess-earnings-method) separates tangible and intangible value more carefully. For stable, mature businesses with predictable earnings, the [capitalization of earnings method](capitalization-of-earnings-method) is simpler and equally valid.
+For very young or unprofitable companies, finding good public comparables is hard. The [first Chicago method](/first-chicago-method/) or [excess earnings method](/excess-earnings-method/) may be better. For highly asset-intensive businesses, the [excess earnings method](/excess-earnings-method/) separates tangible and intangible value more carefully. For stable, mature businesses with predictable earnings, the [capitalization of earnings method](/capitalization-of-earnings-method/) is simpler and equally valid.
 
 The Guideline Company Method is strongest when the private company is an established, profitable business in a mainstream industry with a clear set of public-market peers. In that case, it often provides the most credible valuation because it anchors to observable, verifiable market data rather than management forecasts.
 

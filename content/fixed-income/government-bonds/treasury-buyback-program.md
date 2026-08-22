@@ -1,6 +1,7 @@
 ---
 title: "Treasury Buyback Program"
-description: "A government's purchases of its own outstanding bonds before maturity to smooth cash flow management and improve secondary-market liquidity."
+seo_title: "Treasury Buyback Program: How and Why the US Buys Debt"
+description: "A Treasury buyback repurchases outstanding government bonds before maturity to smooth cash flows and boost liquidity—distinct from QE. How it works."
 keywords:
   - treasury buyback
   - debt management

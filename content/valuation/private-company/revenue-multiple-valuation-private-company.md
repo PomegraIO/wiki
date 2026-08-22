@@ -33,7 +33,7 @@ image: /svg/valuation.svg
 
 ## Why revenue multiples matter for private companies
 
-Many early-stage and growth-stage private companies generate large revenues while operating at a loss or razor-thin margins. A software startup might hit $10 million in annual bookings while spending heavily on R&D and customer acquisition. A biotech firm might have minimal revenue but burn through tens of millions annually to develop its pipeline. Traditional [earnings-based valuation](discounted-cash-flow-valuation) methods—which rely on [price-to-earnings ratios](price-to-earnings-ratio) or [EBITDA multiples](ebitda-multiple-private-company-valuation)—fail when there are no earnings to multiply.
+Many early-stage and growth-stage private companies generate large revenues while operating at a loss or razor-thin margins. A software startup might hit $10 million in annual bookings while spending heavily on R&D and customer acquisition. A biotech firm might have minimal revenue but burn through tens of millions annually to develop its pipeline. Traditional [earnings-based valuation](/discounted-cash-flow-valuation/) methods—which rely on [price-to-earnings ratios](/price-to-earnings-ratio/) or [EBITDA multiples](/ebitda-multiple-private-company-valuation/)—fail when there are no earnings to multiply.
 
 **Revenue multiple valuation** sidesteps this problem by tying value directly to sales, making the implicit bet that the company will eventually convert those sales into profit. It works because revenue is both harder to manipulate than earnings and more stable than quarter-to-quarter profitability. For a $30 million revenue software company, investors are not yet asking "how much profit," but rather "how fast is growth" and "can we reach scale."
 
@@ -51,11 +51,11 @@ The revenue multiple for a private company depends on industry, growth rate, com
 
 **Stage and capital efficiency** also play a role. A company that has bootstrapped to $10 million revenue on minimal capital suggests better unit economics than one that burned $50 million to reach $10 million. Buyers reward scrappier, capital-efficient businesses.
 
-Multiples are also pulled down by typical [liquidity risk](liquidity-risk) discounts for private ownership. A private company's revenue multiple is almost always below that of a comparable public peer—sometimes 30–50% lower—because equity in a private firm cannot be sold quickly or easily.
+Multiples are also pulled down by typical [liquidity risk](/liquidity-risk/) discounts for private ownership. A private company's revenue multiple is almost always below that of a comparable public peer—sometimes 30–50% lower—because equity in a private firm cannot be sold quickly or easily.
 
 ## Working through an example
 
-Imagine a fintech lending platform with $25 million in annual revenue, growing 35% per year, with 65% gross margins, and relatively stable customer relationships. Comparable public software companies trade at 6× revenue. A [venture capital](venture-capital) firm or [private equity](private-equity-fund) buyer might apply a 4× multiple to this company, reflecting its strong growth but illiquidity and private-company risk premium.
+Imagine a fintech lending platform with $25 million in annual revenue, growing 35% per year, with 65% gross margins, and relatively stable customer relationships. Comparable public software companies trade at 6× revenue. A venture capital firm or [private equity](/private-equity-fund/) buyer might apply a 4× multiple to this company, reflecting its strong growth but illiquidity and private-company risk premium.
 
 Enterprise Value = $25 million × 4× = $100 million
 
@@ -68,9 +68,9 @@ If the buyer discovers that 40% of revenue comes from a single customer, or that
 
 ## Revenue multiple vs. earnings-based methods
 
-[EBITDA multiples](ebitda-multiple-private-company-valuation) remain the gold standard for mature, profitable private companies. But they require stable, normalized earnings. For a company burning cash or swinging between losses and small profits year to year, the earnings number is noise.
+[EBITDA multiples](/ebitda-multiple-private-company-valuation/) remain the gold standard for mature, profitable private companies. But they require stable, normalized earnings. For a company burning cash or swinging between losses and small profits year to year, the earnings number is noise.
 
-Revenue multiples also differ from [discounted cash flow](discounted-cash-flow-valuation) (DCF) approaches, which model explicit profit margins and cash flows into the future. A DCF is more precise but requires a credible margin path. Revenue multiples are faster and require only consensus on growth rate and multiple—making them useful for quick deal screening when time is tight.
+Revenue multiples also differ from [discounted cash flow](/discounted-cash-flow-valuation/) (DCF) approaches, which model explicit profit margins and cash flows into the future. A DCF is more precise but requires a credible margin path. Revenue multiples are faster and require only consensus on growth rate and multiple—making them useful for quick deal screening when time is tight.
 
 In practice, buyers often use revenue multiples to set an initial offer range, then validate it with DCF or EBITDA analysis as due diligence deepens.
 

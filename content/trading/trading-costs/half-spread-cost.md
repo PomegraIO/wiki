@@ -1,6 +1,7 @@
 ---
 title: "Half-Spread Cost"
-description: "The minimum implicit cost of executing a market order—the difference between the mid-price and the ask (or bid) you receive."
+seo_title: "Half-Spread Cost: The Hidden Price of Market Orders"
+description: "The half-spread cost is the gap between mid-price and the bid or ask you trade at—the minimum cost of a market order. How to size and reduce it."
 keywords:
   - bid-ask spread
   - half spread

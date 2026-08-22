@@ -4,7 +4,7 @@ description: US-based physical-security and surveillance-analytics company; prod
 keywords: surveillance, security, video-analytics, North-America, infrastructure, monitoring
 ---
 
-*[**Iveda Solutions, Inc.**](IVDA) is a US-headquartered firm specializing in video surveillance analytics, security command-and-control systems, and monitoring solutions for critical infrastructure, public safety, and commercial security applications. The company's geographic footprint—concentrated in North America, with heaviest penetration in US state and municipal markets—reflects both the scale of US security spending and the regulatory constraints that shape how surveillance and access-control systems can be deployed and operated.*
+***Iveda Solutions, Inc.** is a US-headquartered firm specializing in video surveillance analytics, security command-and-control systems, and monitoring solutions for critical infrastructure, public safety, and commercial security applications. The company's geographic footprint—concentrated in North America, with heaviest penetration in US state and municipal markets—reflects both the scale of US security spending and the regulatory constraints that shape how surveillance and access-control systems can be deployed and operated.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IVDA</td></tr>

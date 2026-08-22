@@ -10,7 +10,7 @@ keywords:
 image: /svg/forex.svg
 ---
 
-*The **currency composition of official foreign exchange reserves** (COFER) is an [IMF](federal-reserve/) dataset that measures how much of the world's central bank reserves are held in each currency — dollars, euros, yen, yuan, and others. It reveals whether central banks are diversifying away from the [US dollar](/us-dollar/), whether emerging-market currencies are gaining acceptance, and which reserve-currency hierarchy shifts are underway.*
+*The **currency composition of official foreign exchange reserves** (COFER) is an [IMF](/federal-reserve/) dataset that measures how much of the world's central bank reserves are held in each currency — dollars, euros, yen, yuan, and others. It reveals whether central banks are diversifying away from the [US dollar](/us-dollar/), whether emerging-market currencies are gaining acceptance, and which reserve-currency hierarchy shifts are underway.*
 
 <aside class="wiki-infobox">
 
@@ -66,7 +66,7 @@ The COFER dataset is a sensitive indicator of shifts in global finance. Several 
 
 ## Why Governments and Markets Watch COFER
 
-Financial markets scrutinize COFER releases because reserve-currency shifts can foreshadow bigger geopolitical changes. If central banks were fleeing the dollar in large numbers, it would signal loss of confidence and could weaken the dollar on [forex](forex.svg) markets. Conversely, if a currency (say, the euro) were dropping sharply, it might trigger capital outflows or policy responses.
+Financial markets scrutinize COFER releases because reserve-currency shifts can foreshadow bigger geopolitical changes. If central banks were fleeing the dollar in large numbers, it would signal loss of confidence and could weaken the dollar on forex markets. Conversely, if a currency (say, the euro) were dropping sharply, it might trigger capital outflows or policy responses.
 
 Policymakers use COFER data to benchmark their own reserve allocation decisions. If most peers are holding 15% of reserves in euros, a central bank holding only 5% may feel exposed to euro movements. COFER thus creates soft peer pressure toward convergence.
 
@@ -102,7 +102,7 @@ COFER serves as the financial system's seismograph: watch for sudden shifts, but
 
 - [US Dollar](/us-dollar/) — The dominant reserve currency and its global role
 - [Euro](/euro/) — Second-largest reserve currency and eurozone monetary policy
-- [Foreign Exchange](/forex.svg) — Currency trading markets and pricing
+- Foreign Exchange — Currency trading markets and pricing
 - [International Financial Reporting Standards](/international-financial-reporting-standards/) — Accounting for foreign exchange positions
 
 </div>

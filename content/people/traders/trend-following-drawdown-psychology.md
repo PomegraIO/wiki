@@ -11,7 +11,7 @@ keywords:
 image: "/svg/people.svg"
 ---
 
-*A **trend-following drawdown** is a prolonged period—weeks to years—during which a **trend-following strategy** loses money due to whipsaw losses or choppy, range-bound markets where no sustained trends exist. Drawdowns are not aberrations; they are structural features of trend-following investing. A strategy that seeks to capture 30% of profitable trends will also capture losses in the 70% of the time when price is consolidating or mean-reverting. Understanding why drawdowns occur, how long they typically persist, and how to distinguish a normal drawdown from strategy [failure](trend-following-drawdown-psychology) is essential for any investor allocating capital to [commodity trading advisors](commodity-trading-advisor-pioneer) or systematic trend-following funds.*
+*A **trend-following drawdown** is a prolonged period—weeks to years—during which a **trend-following strategy** loses money due to whipsaw losses or choppy, range-bound markets where no sustained trends exist. Drawdowns are not aberrations; they are structural features of trend-following investing. A strategy that seeks to capture 30% of profitable trends will also capture losses in the 70% of the time when price is consolidating or mean-reverting. Understanding why drawdowns occur, how long they typically persist, and how to distinguish a normal drawdown from strategy [failure](/trend-following-drawdown-psychology/) is essential for any investor allocating capital to [commodity trading advisors](/commodity-trading-advisor-pioneer/) or systematic trend-following funds.*
 
 <aside class="wiki-infobox">
 

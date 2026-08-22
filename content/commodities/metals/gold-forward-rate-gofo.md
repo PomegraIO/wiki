@@ -1,6 +1,7 @@
 ---
 title: "Gold Forward Rate (GOFO) Explained"
-description: "The Gold Forward Offered Rate was a benchmark for the cost of borrowing gold; negative GOFO signaled scarcity of physical gold and was watched by central banks and traders."
+seo_title: "GOFO: The Gold Forward Offered Rate Explained"
+description: "GOFO was the LIBOR-minus-gold-lease-rate benchmark for the cost of borrowing gold; negative readings signaled physical scarcity. How it worked until 2015."
 keywords:
   - gold forward rate GOFO
   - GOFO explained

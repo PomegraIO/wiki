@@ -1,6 +1,7 @@
 ---
 title: "Split Credit Ratings Explained"
-description: "A split credit rating occurs when Moody's, S&P, and Fitch assign different ratings to the same bond or issuer. Learn how disagreement is resolved in pricing and indexing."
+seo_title: "Split Credit Rating: What It Means When Agencies Differ"
+description: "A split rating occurs when Moody's, S&P, or Fitch rate the same bond differently. How indexes, funds, and pricing handle the disagreement."
 keywords:
   - split credit rating explained
   - split rating bond

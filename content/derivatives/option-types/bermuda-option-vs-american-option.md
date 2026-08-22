@@ -1,6 +1,7 @@
 ---
 title: "Bermudan Option vs American Option"
-description: "A Bermudan option allows exercise on a discrete set of dates, whereas an American option can be exercised any time before expiry—a difference reflected in both value and pricing."
+seo_title: "Bermudan vs American Option: Key Differences"
+description: "A Bermudan option can be exercised only on preset dates; an American option any time before expiry. How the difference affects price, value, and use cases."
 keywords:
   - bermudan option
   - american option

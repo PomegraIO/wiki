@@ -4,7 +4,7 @@ description: Small-cap US power generation and infrastructure company; operation
 keywords: power-generation, electricity, utilities, infrastructure, North-America, grid
 ---
 
-*[**Independence Power Holdings, Inc.**](ITXP) is a modestly-scaled US power generation and infrastructure company whose business geography centers on North American electricity markets, particularly regions undergoing deregulation or facing capacity constraints. The firm's viability and growth prospects are fundamentally shaped by where it operates: the texture of regional grid regulation, seasonal demand patterns, fuel availability, and the political economy of energy transitions in its service areas.*
+***Independence Power Holdings, Inc.** is a modestly-scaled US power generation and infrastructure company whose business geography centers on North American electricity markets, particularly regions undergoing deregulation or facing capacity constraints. The firm's viability and growth prospects are fundamentally shaped by where it operates: the texture of regional grid regulation, seasonal demand patterns, fuel availability, and the political economy of energy transitions in its service areas.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>ITXP</td></tr>

@@ -1,6 +1,7 @@
 ---
 title: "Regulatory Capital Deductions: Goodwill and Intangibles"
-description: "Basel rules require banks to deduct goodwill and most intangible assets from Common Equity Tier 1 capital, reducing post-acquisition capital ratios even though accounting goodwill appears on the balance sheet."
+seo_title: "Regulatory Capital: Why Banks Deduct Goodwill from CET1"
+description: "Basel III requires banks to deduct goodwill and most intangibles from CET1 capital in full. Why the rule exists and how it shapes bank acquisitions."
 keywords:
   - regulatory capital deductions goodwill
   - tier 1 capital Basel rules

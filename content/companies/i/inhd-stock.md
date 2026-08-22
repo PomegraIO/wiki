@@ -1,6 +1,7 @@
 ---
 title: "INNO HOLDINGS INC. (INHD)"
-description: "INNO HOLDINGS INC. is a US-listed company operating in specialized markets, filing with the SEC under ticker INHD and CIK 1961847."
+seo_title: "INHD Stock: Evaluating Inno Holdings as an Investment"
+description: "INHD is Inno Holdings Inc., a US-listed holding company (CIK 1961847). How to assess its portfolio, management, and capital allocation from filings."
 keywords: ["INHD", "holdings", "investment", "operations", "diversified"]
 ---
 

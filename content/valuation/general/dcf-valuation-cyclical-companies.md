@@ -33,7 +33,7 @@ image: "/svg/valuation.svg"
 
 ## Why Cyclical Earnings Distort Standard DCF
 
-The [discounted-cash-flow-valuation]()/) model roots intrinsic value in a perpetuity of future cash flows, typically assumed to grow at a stable rate indefinitely. That works cleanly for staple businesses—utilities, consumer staples, toll roads—whose earnings stay relatively flat.
+The discounted-cash-flow-valuation/) model roots intrinsic value in a perpetuity of future cash flows, typically assumed to grow at a stable rate indefinitely. That works cleanly for staple businesses—utilities, consumer staples, toll roads—whose earnings stay relatively flat.
 
 But cyclical companies—automakers, industrials, homebuilders, oil drillers—see earnings swing wildly. Revenue and [profit margins](/) might halve during a recession and double in a boom. If you build your DCF when the company is at peak profitability, your perpetual growth rate and terminal value will be anchored to an unsustainably high earnings base. You'll overpay. Conversely, valuing during a trough means underestimating intrinsic value.
 

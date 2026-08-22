@@ -1,6 +1,7 @@
 ---
 title: "Recallable Distributions in Private Equity: When LPs Must Return Cash"
-description: "Recallable distributions allow PE GPs to claw back distributed proceeds to fund new investments or cover losses. How the recall works and why LPs must reserve cash."
+seo_title: "Recallable Distributions: When PE GPs Claw Back Cash"
+description: "A recallable distribution lets a PE GP demand distributed cash back from LPs, often within 10–15 days. What triggers recalls and how LPs prepare."
 keywords:
   - recallable distributions
   - clawback private equity

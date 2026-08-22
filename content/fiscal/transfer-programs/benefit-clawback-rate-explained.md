@@ -35,17 +35,17 @@ image: "/svg/fiscal.svg"
 
 When a welfare recipient earns $100 of additional income and faces a 50% clawback rate, their transfer benefits fall by $50. They net only $50 from that extra work. Add income tax on top, and the effective marginal rate on that income can easily exceed 75%—higher than the top earners face.
 
-A clawback rate of 100% is particularly pernicious: for every dollar earned, benefits drop by a dollar, so the recipient gains nothing. Many programs operate near this threshold in marginal bands. Some programs actually have marginal clawback rates exceeding 100% when multiple benefit types interact; a person losing [food-assistance](food-assistance/) benefits, [housing-voucher](housing-voucher/) eligibility, and child care subsidies simultaneously can face an effective rate above 100%, creating genuine perverse incentives.
+A clawback rate of 100% is particularly pernicious: for every dollar earned, benefits drop by a dollar, so the recipient gains nothing. Many programs operate near this threshold in marginal bands. Some programs actually have marginal clawback rates exceeding 100% when multiple benefit types interact; a person losing food-assistance benefits, housing-voucher eligibility, and child care subsidies simultaneously can face an effective rate above 100%, creating genuine perverse incentives.
 
 ## Why high clawback rates exist
 
 Targeting transfer programs to the poorest households requires means-testing—checking income and assets. The tighter the target, the steeper the clawback must be to avoid serving too many people above the policy-maker's cutoff. A government wanting to help only households earning under $20,000 per year must phase out benefits between (say) $15,000 and $20,000. Over that narrow band, the phase-out rate climbs.
 
-The alternative—[universal-transfer](universal-transfer/) programs that serve everyone—eliminates the clawback entirely because no income test exists. But universal programs cost far more, so most democracies rely on means-tested transfers and tolerate the resulting work disincentives as a fiscal trade-off.
+The alternative—universal-transfer programs that serve everyone—eliminates the clawback entirely because no income test exists. But universal programs cost far more, so most democracies rely on means-tested transfers and tolerate the resulting work disincentives as a fiscal trade-off.
 
 ## The implicit marginal tax rate problem
 
-A benefit clawback rate combines with income tax and [payroll-tax](payroll-tax/) to create the **implicit marginal tax rate**—the true percentage of additional earnings a person loses to all three. A worker earning $25,000 per year might face:
+A benefit clawback rate combines with income tax and [payroll-tax](/payroll-tax/) to create the **implicit marginal tax rate**—the true percentage of additional earnings a person loses to all three. A worker earning $25,000 per year might face:
 
 - Income tax: 10%
 - Payroll tax: 7.65%
@@ -61,7 +61,7 @@ The elasticity of labor supply to the net wage (the wage after taxes and clawbac
 
 - Secondary earners in two-earner households deciding whether to work part-time
 - Single parents balancing child care costs against benefits they might lose
-- Individuals near the [poverty-line](poverty-line/) threshold, where clawback rates are steepest
+- Individuals near the poverty-line threshold, where clawback rates are steepest
 
 Evidence from policy experiments shows that reducing clawback rates from, say, 50% to 25% increases work hours by roughly 5–15%, depending on demographic groups and local labor market conditions. The trade-off: lower clawback rates increase program costs because more recipients keep benefits while earning income.
 
@@ -69,15 +69,15 @@ Evidence from policy experiments shows that reducing clawback rates from, say, 5
 
 Policymakers use three main strategies to lower implicit clawback rates without exploding budgets:
 
-**[Earned-income-disregard-welfare](earned-income-disregard-welfare/)**—Exempt the first $X of monthly earnings from the clawback. A worker keeps the first $200 earned penalty-free; the clawback applies only above that. This reduces the marginal rate for low earners.
+**[Earned-income-disregard-welfare](/earned-income-disregard-welfare/)**—Exempt the first $X of monthly earnings from the clawback. A worker keeps the first $200 earned penalty-free; the clawback applies only above that. This reduces the marginal rate for low earners.
 
-**[Tapered-phase-out](notch-vs-taper-benefit-design/)**—Spread the benefit reduction over a much wider income range, lowering the phase-out rate per dollar but serving fewer recipients. A taper from $15,000 to $50,000 income has a much gentler slope than one from $18,000 to $22,000.
+**[Tapered-phase-out](/notch-vs-taper-benefit-design/)**—Spread the benefit reduction over a much wider income range, lowering the phase-out rate per dollar but serving fewer recipients. A taper from $15,000 to $50,000 income has a much gentler slope than one from $18,000 to $22,000.
 
-**Flat or near-universal programs**—[Categorical-vs-universal-transfers](categorical-vs-universal-transfers/) programs like public education or child allowances avoid income testing entirely, eliminating clawback rates at the cost of larger government expenditure.
+**Flat or near-universal programs**—[Categorical-vs-universal-transfers](/categorical-vs-universal-transfers/) programs like public education or child allowances avoid income testing entirely, eliminating clawback rates at the cost of larger government expenditure.
 
 ## Cross-program clawback stacking
 
-The hidden danger in fragmented benefit systems is **clawback stacking**: a single worker interacting with multiple programs faces compounded clawback rates that can push the implicit marginal tax above 100%. A parent receiving [food-stamps](food-stamps/), housing assistance, child care subsidies, and [earned-income-tax-credit](earned-income-tax-credit/) benefits might face:
+The hidden danger in fragmented benefit systems is **clawback stacking**: a single worker interacting with multiple programs faces compounded clawback rates that can push the implicit marginal tax above 100%. A parent receiving food-stamps, housing assistance, child care subsidies, and [earned-income-tax-credit](/earned-income-tax-credit/) benefits might face:
 
 - Food stamps: 30% clawback
 - Housing: 30% clawback

@@ -16,7 +16,7 @@ image: "/svg/valuation.svg"
 
 The intuition is straightforward: a company is worth the value of what it owns, plus the value of what it earns beyond the return on those assets. Suppose a marketing agency has office furniture worth $100,000 and generates $500,000 in annual profit. A naive tangible-asset approach would value the agency at $100,000, which plainly ignores the profitable business. The Excess Earnings Method instead says the $100,000 in assets should earn some "normal" return—perhaps 10% per year, or $10,000—while the remaining $490,000 is "excess" profit attributable to the firm's reputation, client relationships, and team expertise. That excess is then capitalized (divided by a cap rate) to yield an intangible value, and the two are summed.
 
-The method is common in [small-business valuations](small-business-valuation), divorce proceedings, and insurance-claim disputes where a judge needs a principled way to split fair market value between physical plant and goodwill. It is also taught in many business-school courses as an intermediate step between asset-based and income-based approaches.
+The method is common in small-business valuations, divorce proceedings, and insurance-claim disputes where a judge needs a principled way to split fair market value between physical plant and goodwill. It is also taught in many business-school courses as an intermediate step between asset-based and income-based approaches.
 
 <aside class="wiki-infobox">
 
@@ -57,17 +57,17 @@ An example: a consulting firm with $200,000 in tangible assets (desks, software 
 
 ## Comparing to income and market approaches
 
-The [capitalization of earnings method](capitalization-of-earnings-method) applies a single cap rate to all earnings, treating the business as a mature perpetuity. It is simpler but ignores the distinction between asset-backed return and intangible earning power. The Excess Earnings Method is more granular—it acknowledges that a portion of earnings is simply a market return on tangible capital, and only the surplus deserves premium valuation.
+The [capitalization of earnings method](/capitalization-of-earnings-method/) applies a single cap rate to all earnings, treating the business as a mature perpetuity. It is simpler but ignores the distinction between asset-backed return and intangible earning power. The Excess Earnings Method is more granular—it acknowledges that a portion of earnings is simply a market return on tangible capital, and only the surplus deserves premium valuation.
 
-The [guideline public company method](guideline-public-company-method) relies on observable public-market multiples; it works best when comparable companies are liquid and well-documented. The Excess Earnings Method requires no comparables, only an estimate of normal asset return and a cap rate assumption. This makes it useful for unique or niche businesses where no public peer set exists.
+The [guideline public company method](/guideline-public-company-method/) relies on observable public-market multiples; it works best when comparable companies are liquid and well-documented. The Excess Earnings Method requires no comparables, only an estimate of normal asset return and a cap rate assumption. This makes it useful for unique or niche businesses where no public peer set exists.
 
-The [first Chicago method](first-chicago-method) uses probability-weighted scenarios; it excels when the future is highly uncertain. Excess Earnings is more suited to steady-state or mature private businesses where earnings are relatively stable and the main uncertainty is the sustainability and risk profile of those intangibles.
+The [first Chicago method](/first-chicago-method/) uses probability-weighted scenarios; it excels when the future is highly uncertain. Excess Earnings is more suited to steady-state or mature private businesses where earnings are relatively stable and the main uncertainty is the sustainability and risk profile of those intangibles.
 
 ## When the method breaks down
 
 The Excess Earnings Method assumes intangible value is durable and will not deteriorate. A law practice with strong client relationships may indeed retain them for decades; a software company whose product is rapidly becoming obsolete may not. If key personnel are concentrated in one person and that person is aging or distracted, the intangible value may be considerably lower than the model suggests.
 
-The method also struggles with growth. It assumes the business reaches a steady state of normalized earnings; if the business is expected to grow significantly, a [discounted cash flow](discounted-cash-flow-valuation) approach or the [first Chicago method](first-chicago-method) may be more appropriate.
+The method also struggles with growth. It assumes the business reaches a steady state of normalized earnings; if the business is expected to grow significantly, a [discounted cash flow](/discounted-cash-flow-valuation/) approach or the [first Chicago method](/first-chicago-method/) may be more appropriate.
 
 Asset value can also be subjective, especially for old equipment or specialized facilities that have limited secondary markets. An honest analyst will often use a range of asset valuations and test how the total value responds.
 

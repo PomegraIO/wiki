@@ -4,7 +4,7 @@ description: Chinese biopharmaceutical company developing oncology and immunolog
 keywords: China, biopharmaceutical, oncology, immunology, drug-development, ADR
 ---
 
-*[**Innovent Biologics Inc**](IVBXF) is a Chinese biopharmaceutical firm pursuing discovery and development of monoclonal antibodies and biologics for oncology, immunology, and other therapeutic areas. The company's geographic foundation—China as both operating base and lead market—fundamentally shapes its business model, regulatory pathway, competitive position, and relationship to global pharmaceutical development. US investors access the firm through [American Depositary Receipts](/adr/) (ADRs), a structure reflecting the firm's reliance on Chinese regulatory approval and commercial infrastructure.*
+***Innovent Biologics Inc** is a Chinese biopharmaceutical firm pursuing discovery and development of monoclonal antibodies and biologics for oncology, immunology, and other therapeutic areas. The company's geographic foundation—China as both operating base and lead market—fundamentally shapes its business model, regulatory pathway, competitive position, and relationship to global pharmaceutical development. US investors access the firm through [American Depositary Receipts](/adr/) (ADRs), a structure reflecting the firm's reliance on Chinese regulatory approval and commercial infrastructure.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IVBXF</td></tr>

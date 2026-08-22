@@ -11,7 +11,7 @@ keywords:
 image: /svg/markets.svg
 ---
 
-*The **weighting method** of a stock index determines which stocks move the needle. In a [price-weighted index](​/price-weighted-index/), a $500 stock has ten times the influence of a $50 stock. In a [market-cap-weighted index](​/market-capitalization/), a company worth $100 billion has more influence than one worth $10 billion. In an equal-weighted index, each stock gets an identical voice. The choice shapes performance and risk in ways most investors overlook.*
+*The **weighting method** of a stock index determines which stocks move the needle. In a [price-weighted index](/price-weighted-index/), a $500 stock has ten times the influence of a $50 stock. In a [market-cap-weighted index](/market-capitalization/), a company worth $100 billion has more influence than one worth $10 billion. In an equal-weighted index, each stock gets an identical voice. The choice shapes performance and risk in ways most investors overlook.*
 
 <aside class="wiki-infobox">
 
@@ -23,9 +23,9 @@ image: /svg/markets.svg
 
 |   |   |
 |---|---|
-| **Price-weighted** | [Dow Jones Industrial Average](​/dow-jones/); high stock prices have outsized influence |
-| **Market-cap-weighted** | [S&P 500](​/sp-500-index/), most indices; larger companies dominate; requires rebalancing |
-| **Equal-weighted** | Each stock treated identically; highest [rebalancing](​/rebalancing/) costs; tilts toward small-cap and value |
+| **Price-weighted** | Dow Jones Industrial Average; high stock prices have outsized influence |
+| **Market-cap-weighted** | [S&P 500](/sp-500-index/), most indices; larger companies dominate; requires rebalancing |
+| **Equal-weighted** | Each stock treated identically; highest rebalancing costs; tilts toward small-cap and value |
 | **Real-world consequence** | Index returns diverge widely depending on method—up to 5% annually in extreme years |
 | **Bias created** | Price-weighted favors high-priced stocks; market-cap favors large stocks; equal-weighted favors small stocks |
 
@@ -33,7 +33,7 @@ image: /svg/markets.svg
 
 ## Price-Weighted Indices
 
-The simplest and oldest weighting method is **price-weighting**. Stock price determines influence. The [Dow Jones Industrial Average](​/dow-jones-industrial-average/), the most famous stock index globally, uses price-weighting.
+The simplest and oldest weighting method is **price-weighting**. Stock price determines influence. The [Dow Jones Industrial Average](/dow-jones-industrial-average/), the most famous stock index globally, uses price-weighting.
 
 In a price-weighted index, you add up all the stock prices and divide by a divisor (which adjusts for stock splits and other corporate actions). If the Dow has 30 stocks, the index value might be the sum of their prices divided by a fixed divisor, say 0.2. A $500 stock and a $50 stock have a 10-to-1 ratio of influence; the $500 stock moves the index twice as much percentage-wise when it rises 1%.
 
@@ -45,7 +45,7 @@ In a price-weighted index, you add up all the stock prices and divide by a divis
 - If Stock A rises 1%, the sum becomes $433 (a 0.7% rise)
 - If Stock B rises 1%, the sum becomes $430.30 (a 0.07% rise)
 
-Stock A, because it is expensive, drives the index more. This creates a peculiar situation: a stock's influence depends on its price, not its [market capitalization](​/market-capitalization/) or economic size. A small company with a high stock price can dominate a large company with a low stock price.
+Stock A, because it is expensive, drives the index more. This creates a peculiar situation: a stock's influence depends on its price, not its [market capitalization](/market-capitalization/) or economic size. A small company with a high stock price can dominate a large company with a low stock price.
 
 **Pros:**
 - Simple to calculate and understand
@@ -59,9 +59,9 @@ Stock A, because it is expensive, drives the index more. This creates a peculiar
 
 ## Market-Capitalization-Weighted Indices
 
-Market-cap weighting is the dominant methodology today. The [S&P 500](​/sp-500-index/), the [Nasdaq](​/nasdaq/), the [MSCI World Index](​/msci-world-index/), and nearly all modern indices use market-cap weighting.
+Market-cap weighting is the dominant methodology today. The [S&P 500](/sp-500-index/), the [Nasdaq](/nasdaq/), the [MSCI World Index](/msci-world-index/), and nearly all modern indices use market-cap weighting.
 
-In market-cap weighting, a company's influence is proportional to its [market capitalization](​/market-capitalization/)—the total value of its outstanding shares. A $1 trillion company has 100 times the influence of a $10 billion company.
+In market-cap weighting, a company's influence is proportional to its [market capitalization](/market-capitalization/)—the total value of its outstanding shares. A $1 trillion company has 100 times the influence of a $10 billion company.
 
 **Example:**
 - Company A: 100 million shares at $150 each = $15 billion market cap
@@ -77,7 +77,7 @@ In a market-cap-weighted index, A and B have equal weight (both $15 billion), wh
 - Performance typically beats other methods over long periods
 
 **Cons:**
-- Requires periodic [rebalancing](​/rebalancing/) as market caps shift
+- Requires periodic rebalancing as market caps shift
 - Creates momentum bias; winners (whose market caps have grown) get larger weights
 - Concentrates weight in the largest stocks (the "Magnificent Seven" tech stocks now dominate the S&P 500)
 - Newer, smaller companies get minimal weight until they grow large
@@ -95,11 +95,11 @@ This is the most labor-intensive to maintain. As some stocks rise and others fal
 
 **Pros:**
 - Eliminates concentration risk; no single mega-cap dominates
-- Creates a systematic [value investing](​/value-investing/) tilt (you buy winners at higher prices and sell them, then buy losers at lower prices and sell them when they rebound)
+- Creates a systematic [value investing](/value-investing/) tilt (you buy winners at higher prices and sell them, then buy losers at lower prices and sell them when they rebound)
 - Diversification benefits; exposure to small-cap and mid-cap stocks that are underrepresented in market-cap indices
 
 **Cons:**
-- Highest [rebalancing costs](​/expense-ratio/) and transaction fees; can eat 0.5%+ annually
+- Highest [rebalancing costs](/expense-ratio/) and transaction fees; can eat 0.5%+ annually
 - Returns historically lag market-cap weighting over long periods
 - Over-weights small stocks, which are harder to trade and less liquid
 - Requires active management, defeating the purpose of a passive index
@@ -120,9 +120,9 @@ Over a five-year rolling window, the three methods can diverge by 5% or more in 
 
 **Price-weighted** is largely obsolete except for historical indices (the Dow). It has no economic logic and is maintained mainly for continuity.
 
-**Market-cap-weighted** is the rational default for passive investors. It reflects economic reality; the largest companies are the largest parts of the economy. It is also the equilibrium that passive investors naturally achieve if they buy the market without active management. Most [index funds](​/index-fund/) and [ETFs](​/etf/) use market-cap weighting.
+**Market-cap-weighted** is the rational default for passive investors. It reflects economic reality; the largest companies are the largest parts of the economy. It is also the equilibrium that passive investors naturally achieve if they buy the market without active management. Most [index funds](/index-fund/) and [ETFs](/etf/) use market-cap weighting.
 
-**Equal-weighted** makes sense only for active investors willing to embrace [rebalancing](​/rebalancing/) and pay the costs. It effectively implements a [factor](​/factor-investing/) strategy (a tilt toward small-cap and value) by forcing you to buy beaten-down stocks and sell appreciated ones. The costs and complexity make it more suitable for hedge funds than retail investors.
+**Equal-weighted** makes sense only for active investors willing to embrace rebalancing and pay the costs. It effectively implements a [factor](/factor-investing/) strategy (a tilt toward small-cap and value) by forcing you to buy beaten-down stocks and sell appreciated ones. The costs and complexity make it more suitable for hedge funds than retail investors.
 
 ## Implications for Index Investing
 

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/fiscal.svg"
 ---
 
-*A **benefit notch** is a sharp, sudden decrease in the total value of government benefits at a specific income level. Unlike a smooth [phase-out](glossary-link-not-included) where benefits decline gradually, a notch causes a cliff: earn one dollar more and lose hundreds in assistance. The result is a powerful work disincentive at that exact threshold, making it rational to decline a raise or refuse overtime.*
+*A **benefit notch** is a sharp, sudden decrease in the total value of government benefits at a specific income level. Unlike a smooth phase-out where benefits decline gradually, a notch causes a cliff: earn one dollar more and lose hundreds in assistance. The result is a powerful work disincentive at that exact threshold, making it rational to decline a raise or refuse overtime.*
 
 <div class="wiki-hatnote">
 
@@ -41,7 +41,7 @@ For the broader category of phase-out and welfare-trap design, see [transfer pay
 
 Imagine a household earning USD 1,950 per month, just below a food-assistance threshold. They receive USD 300 in monthly food vouchers. If they earn an extra USD 60 (say, picking up one extra shift), their gross income becomes USD 2,010—now above the cutoff. Result: they lose the entire USD 300 benefit, netting minus USD 240 on that extra USD 60 earned. Their effective marginal tax rate at that threshold is not 25% or 50%, but negative infinity—they are worse off working more.
 
-This is not a theoretical edge case. Notches exist in real welfare systems and affect real behaviour. A single mother might decline overtime hours if she knows crossing an income threshold will lose her childcare subsidy. A disabled worker on [unemployment insurance](glossary-link-not-included) or disability may turn down gig work that would earn more in gross terms but less in net, after benefits are yanked.
+This is not a theoretical edge case. Notches exist in real welfare systems and affect real behaviour. A single mother might decline overtime hours if she knows crossing an income threshold will lose her childcare subsidy. A disabled worker on unemployment insurance or disability may turn down gig work that would earn more in gross terms but less in net, after benefits are yanked.
 
 The notch is also sometimes called a "welfare cliff" or "welfare trap," though welfare trap can refer more broadly to any system where phase-out rates are so steep that working barely pays.
 
@@ -114,7 +114,7 @@ Reform has happened piecemeal. The U.S. expanded the Earned Income Tax Credit, w
 - [Social insurance](/social-insurance/) — contributory benefits that generally avoid notches via continuous benefit formulas
 - [In-kind transfer](/in-kind-transfer/) — benefits that often have sharp eligibility cliffs
 - [Transfer payment](/transfer-payment/) — broad category of support programmes that may exhibit notches
-- [Welfare](glossary-link-not-included) — means-tested programmes where notches are most common
+- Welfare — means-tested programmes where notches are most common
 - [Discretionary spending](/discretionary-spending/) — budget category that welfare and benefit programmes occupy
 
 ### Wider context

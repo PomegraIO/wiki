@@ -33,15 +33,15 @@ image: "/svg/behavioral.svg"
 
 ## What the data shows
 
-When the options exchange grants a company the right to list call and put options, the stock does not simply continue unchanged. Researchers studying this transition find a consistent pattern: volatility increases. The magnitude varies—small caps see sharper rises than large caps—but the direction is rarely ambiguous. A stock trading with [historical-volatility](./historical-volatility/) of 25% may jump to 30% or higher within weeks of option listing.
+When the options exchange grants a company the right to list call and put options, the stock does not simply continue unchanged. Researchers studying this transition find a consistent pattern: volatility increases. The magnitude varies—small caps see sharper rises than large caps—but the direction is rarely ambiguous. A stock trading with [historical-volatility](/historical-volatility/) of 25% may jump to 30% or higher within weeks of option listing.
 
-Equally striking is the behavior of [bid-ask-spread](./bid-ask-spread/). Contrary to intuition, the introduction of a competing derivative market often *tightens* spreads in the underlying stock. Investors and market makers, now armed with cheaper hedging via options, are willing to commit more capital to the stock itself. This deepening of liquidity looks like a blessing until you look under the hood: the ease of hedging attracts new participants—including sophisticated traders—who profit precisely from the increase in realized volatility.
+Equally striking is the behavior of [bid-ask-spread](/bid-ask-spread/). Contrary to intuition, the introduction of a competing derivative market often *tightens* spreads in the underlying stock. Investors and market makers, now armed with cheaper hedging via options, are willing to commit more capital to the stock itself. This deepening of liquidity looks like a blessing until you look under the hood: the ease of hedging attracts new participants—including sophisticated traders—who profit precisely from the increase in realized volatility.
 
 ## Why volatility rises
 
 The mechanism is part arbitrage, part behavior. When options launch, three classes of actors suddenly enter the stock's orbit:
 
-**Hedgers and portfolio managers** now have a cheaper tool to manage [risk](./risk/). Rather than sell a stock position outright, they can buy put options, preserving upside while capping downside. This hedging demand itself is benign—but it signals a willingness to tolerate larger price swings.
+**Hedgers and portfolio managers** now have a cheaper tool to manage risk. Rather than sell a stock position outright, they can buy put options, preserving upside while capping downside. This hedging demand itself is benign—but it signals a willingness to tolerate larger price swings.
 
 **Arbitrageurs** exploit mispricing between the stock and its new option prices. As they trade, they amplify moves in both directions. If the market overprices a call, arbitrageurs short the call and buy the stock, driving the stock higher. If they underprice a put, they buy the put and short the stock, driving it lower. These trades are self-correcting but accentuate volatility in the short run.
 
@@ -51,13 +51,13 @@ A secondary driver is leverage. Options offer embedded leverage (a small premium
 
 ## Liquidity and order flow effects
 
-The option listing effect does not stop at volatility. Trading volume in the stock typically rises, sometimes sharply. The spread tightens, as noted, reducing the cost of round-trip trades. Yet volume gains are not evenly distributed across the market day or the month. Unusual clustering appears around option expiration dates, suggesting that option hedging and [gamma](./gamma/) dynamics are reshaping when traders choose to move shares.
+The option listing effect does not stop at volatility. Trading volume in the stock typically rises, sometimes sharply. The spread tightens, as noted, reducing the cost of round-trip trades. Yet volume gains are not evenly distributed across the market day or the month. Unusual clustering appears around option expiration dates, suggesting that option hedging and [gamma](/gamma/) dynamics are reshaping when traders choose to move shares.
 
 The intraday pattern also shifts. Pre-listing, stocks may trade steadily across the day. Post-listing, you often see larger moves around the open and close, when options dealers rebalance their hedges. A portfolio manager who purchased calls expiring at month-end will be most exposed to realized volatility in the final week; knowing this, sophisticated traders position ahead. The stock's intraday volatility thus becomes an artifact of options settlement logic, not just of new information arrival.
 
 ## Return distribution and skewness
 
-Beyond the level of volatility, the *shape* of return distributions sometimes changes. Stocks with newly listed options may show reduced [skewness](./skewness/) (the tendency to have extreme up or down days). This counterintuitive result arises because options markets are efficient at pricing tail risk. Once put options are available, investors who feared a crash hedge that risk rather than holding unhedged. Demand for downside protection flattens the left tail; demand for upside calls flattens the right. The distribution's extremes compress.
+Beyond the level of volatility, the *shape* of return distributions sometimes changes. Stocks with newly listed options may show reduced skewness (the tendency to have extreme up or down days). This counterintuitive result arises because options markets are efficient at pricing tail risk. Once put options are available, investors who feared a crash hedge that risk rather than holding unhedged. Demand for downside protection flattens the left tail; demand for upside calls flattens the right. The distribution's extremes compress.
 
 However, this effect is weaker and less consistent than the volatility rise. Small-cap stocks, which have fewer professional traders, may show stronger skewness changes than large-caps. And the effect fades if the underlying company's fundamentals do not move, suggesting that option listing amplifies the stock's sensitivity to real news rather than inventing noise.
 
@@ -65,9 +65,9 @@ However, this effect is weaker and less consistent than the volatility rise. Sma
 
 The option listing effect tells investors several truths:
 
-First, when a stock newly lists options, *expect a volatility regime change*. A [volatility-smile](./volatility-smile/) pattern that emerges in the options market will influence realized volatility in the stock for weeks afterward. Position-sizing models built on pre-listing volatility will underestimate risk post-listing.
+First, when a stock newly lists options, *expect a volatility regime change*. A [volatility-smile](/volatility-smile/) pattern that emerges in the options market will influence realized volatility in the stock for weeks afterward. Position-sizing models built on pre-listing volatility will underestimate risk post-listing.
 
-Second, [price-discovery](./price-discovery/) is not a one-way street. The options market is not merely a derivative of the stock market; it actively shapes trading behavior in equities. Information flows into options first sometimes (informed traders often hit options before the stock), and the resulting options prices feedback into stock demand and supply.
+Second, [price-discovery](/price-discovery/) is not a one-way street. The options market is not merely a derivative of the stock market; it actively shapes trading behavior in equities. Information flows into options first sometimes (informed traders often hit options before the stock), and the resulting options prices feedback into stock demand and supply.
 
 Third, transaction costs in the stock can *fall* after option listing, even if volatility rises. This is a boon for long-term holders and a trap for short-term traders. The lower spread may entice overtrading; the higher volatility will punish it.
 

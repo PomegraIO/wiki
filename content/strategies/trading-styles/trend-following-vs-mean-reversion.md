@@ -36,11 +36,11 @@ keywords:
 
 The two approaches spring from different assumptions about how prices behave.
 
-**Trend followers** believe that once a move begins, it tends to continue—at least for a time. They see [momentum](momentum-investing) as real. A stock breaking above a 200-day moving average is not a random blip; it signals a shift in underlying demand. The trader rides that wave, holding as long as the momentum signal holds, and exits when the signal weakens.
+**Trend followers** believe that once a move begins, it tends to continue—at least for a time. They see [momentum](/momentum-investing/) as real. A stock breaking above a 200-day moving average is not a random blip; it signals a shift in underlying demand. The trader rides that wave, holding as long as the momentum signal holds, and exits when the signal weakens.
 
 **Mean-reversion traders** believe that prices overshoot fundamental value and get pulled back. When a stock jumps 10% in a day on temporary sentiment, they expect a correction. They short the spike, or wait for the reversal, betting that the mean is magnetic.
 
-Both philosophies have historical support. Markets *do* trend. A [bull market](bull-market) can last years, and [momentum investing](momentum-investing) has demonstrated positive returns across many asset classes and time periods. Markets *also* mean-revert. A stock down 30% in a week on panic selling often bounces 15% within days. A commodity future in extreme backwardation often snaps back.
+Both philosophies have historical support. Markets *do* trend. A [bull market](/bull-market/) can last years, and [momentum investing](/momentum-investing/) has demonstrated positive returns across many asset classes and time periods. Markets *also* mean-revert. A stock down 30% in a week on panic selling often bounces 15% within days. A commodity future in extreme backwardation often snaps back.
 
 The real question is not which is true, but *when each works*—and at what time scale.
 
@@ -66,7 +66,7 @@ Mean-reversion systems bet on extremes. Common setups include:
 - **Bollinger Bands**: Sell when price touches the upper band (statistically extreme); buy when it touches the lower band.
 - **Z-score reversal**: Calculate how many standard deviations a price sits from its 20-day average. Trade the opposite direction when the z-score exceeds +2 or −2.
 - **Oversold/overbought oscillators**: Use RSI, Stochastic, or CCI to identify when momentum has overextended, then fade the move.
-- **Pairs reversion**: As in [pairs trading](pairs-trading-how-it-works), bet that a correlation breakdown will reverse.
+- **Pairs reversion**: As in [pairs trading](/pairs-trading-how-it-works/), bet that a correlation breakdown will reverse.
 
 The assumption is that *extreme* is temporary. A stock down 15% in a session on an earnings miss will not stay down indefinitely; buyers will emerge at the lower level. A currency that has strengthened 5% in a week against its peers will face headwinds.
 
@@ -103,14 +103,14 @@ Mean reversion falters in truly trending markets. If Apple is in a structural up
 Many successful traders and funds blend both philosophies:
 - **Trend in the direction of the intermediate term, mean-revert intraday** swings. If a stock is in a weekly uptrend, buy the intraday dips.
 - **Diversify by instrument and time frame**. Use trend following on commodities and currencies (which trend strongly) and mean reversion on equities and interest-rate spreads (which oscillate more).
-- **Switch regimes dynamically**. Monitor [volatility](implied-volatility) and correlation; in calm periods, use mean reversion; in volatile period, follow trends.
+- **Switch regimes dynamically**. Monitor [volatility](/implied-volatility/) and correlation; in calm periods, use mean reversion; in volatile period, follow trends.
 
 ## Execution and Slippage
 
 Both strategies lose to costs. Trend followers place limit orders on breakouts and miss 20% of the moves they wanted. Mean-reversion traders face slippage when trying to sell the bounce; they place the order at $100.50 but the quick reversion moves fast and they fill at $100.20.
 
 Successful execution requires:
-- Tight [bid-ask spreads](bid-ask-spread) in your chosen market (liquid assets, peak trading hours).
+- Tight [bid-ask spreads](/bid-ask-spread/) in your chosen market (liquid assets, peak trading hours).
 - Automated order placement to avoid hesitation.
 - Realistic position sizing (if the spread costs 10 basis points and you trade frequently, your edge is already halved).
 

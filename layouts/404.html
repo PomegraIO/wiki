@@ -1,0 +1,46 @@
+{{ define "main" }}
+{{/* 404 — served by nginx (`error_page 404 /wiki/404.html;`) for any URL
+     that doesn't resolve to a built page. baseof.html already emits
+     `noindex` for kind "404", and the navbar above carries the live search
+     box, so this page only needs to say what happened and offer the good
+     ways back in. Reuses the article shell so it inherits the editorial
+     look with no bespoke CSS. */}}
+<article class="wiki-article">
+  <div class="wiki-article-body">
+    <h1 class="wiki-title">Page not found</h1>
+    <p class="wiki-lede">This entry doesn't exist — it may have been retired, renamed, or the link may simply have a typo.</p>
+
+    <div class="wiki-prose">
+      <p>
+        Try the <a href="#" id="pom-404-search">search box</a> up top — the
+        entry you wanted is usually one query away. Or start from one of
+        these:
+      </p>
+    </div>
+
+    <div class="wiki-seealso">
+      <h2>Ways back in</h2>
+      <ul>
+        <li><a href="{{ "/" | relURL }}">Main page</a> — the front door of the wiki.</li>
+        <li><a href="{{ "/atlas/" | relURL }}">Browse by topic</a> — every category, one page at a time.</li>
+        <li><a href="{{ "/index-a-z/" | relURL }}">A–Z index</a> — every entry, alphabetically.</li>
+      </ul>
+    </div>
+  </div>
+</article>
+
+{{/* Same pattern as the home page's Search tile: focus the navbar search
+     input rather than duplicating the box here — its input id and the JS
+     bound to it in baseof.html are singletons. */}}
+<script>
+  (function () {
+    var link = document.getElementById('pom-404-search');
+    if (!link) return;
+    link.addEventListener('click', function (e) {
+      e.preventDefault();
+      var input = document.getElementById('pom-search-input');
+      if (input) { input.focus(); input.scrollIntoView({ block: 'center' }); }
+    });
+  })();
+</script>
+{{ end }}

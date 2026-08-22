@@ -4,7 +4,7 @@ description: "Real estate investment trust owning entertainment, recreation, and
 keywords: ["REIT", "real estate", "entertainment venues", "triple-net lease", "property owner"]
 ---
 
-*[**EPR Properties**](EPR) is a [real-estate-investment-trust](/real-estate-investment-trust/) (REIT) that owns experiential venues—theme parks, ski resorts, water parks, entertainment districts, and educational facilities—leased to operators under long-term, triple-net agreements where tenants bear property taxes, insurance, and maintenance, allowing EPR to collect rent with minimal operational overhead.*
+***EPR Properties** is a [real-estate-investment-trust](/real-estate-investment-trust/) (REIT) that owns experiential venues—theme parks, ski resorts, water parks, entertainment districts, and educational facilities—leased to operators under long-term, triple-net agreements where tenants bear property taxes, insurance, and maintenance, allowing EPR to collect rent with minimal operational overhead.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EPR</td></tr>

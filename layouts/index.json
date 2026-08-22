@@ -1,6 +1,10 @@
 {{- $skip := slice "About Pomegra Wiki" "A–Z index" "A–Z index of entries" "Pomegra Wiki" -}}
 {{- $entries := slice -}}
 {{- range where .Site.RegularPages "Title" "not in" $skip -}}
+  {{- /* Pruned pages (`noindex: true`) stay out of the search index too — if
+        crawlers shouldn't surface them, neither should our own search box or
+        the Random button (both feed off this file). */ -}}
+  {{- if .Params.noindex }}{{ continue }}{{ end -}}
   {{- $entry := dict
     "t" .Title
     "d" (.Description | default "")

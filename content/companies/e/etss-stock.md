@@ -4,7 +4,7 @@ description: "A blank-check investment vehicle focused on identifying and acquir
 keywords: ["SPAC", "special purpose acquisition company", "energy transition", "climate tech", "blank-check merger"]
 ---
 
-*[Energy Transition Special Opportunities](ETSS) is a [special-purpose-acquisition-company](/special-purpose-acquisition-company/) (SPAC)—a blank-check entity created for the explicit purpose of identifying, negotiating with, and acquiring or merging with an operating company in the energy transition sector. The vehicle trades as a public equity security, permitting retail and institutional investors to speculate on the sponsor's ability to identify and execute a favorable acquisition.*
+*Energy Transition Special Opportunities is a [special-purpose-acquisition-company](/special-purpose-acquisition-company/) (SPAC)—a blank-check entity created for the explicit purpose of identifying, negotiating with, and acquiring or merging with an operating company in the energy transition sector. The vehicle trades as a public equity security, permitting retail and institutional investors to speculate on the sponsor's ability to identify and execute a favorable acquisition.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>ETSS</td></tr>

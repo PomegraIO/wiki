@@ -105,7 +105,7 @@ If you make a **disqualifying disposition**, the Form 3921 will reflect this, an
 
 To maximize the ESPP benefit, most employees wait out the full holding period before selling. But this creates a dilemma: if the stock price has risen sharply, waiting exposes you to downside risk. If it has fallen, you are holding an underwater position.
 
-One approach: hold the ESPP shares separately from company stock you acquired through other means ([grants](restricted-stock-award), [options](stock-option), etc.). When the holding period ends, sell the ESPP shares and reinvest the proceeds into diversified investments. This captures the capital-gain benefit while reducing concentration risk.
+One approach: hold the ESPP shares separately from company stock you acquired through other means (grants, options, etc.). When the holding period ends, sell the ESPP shares and reinvest the proceeds into diversified investments. This captures the capital-gain benefit while reducing concentration risk.
 
 Another: treat ESPP purchases like a quarterly rebalancing event. As each purchase vests into the holding period, you sell and rebalance. Over time, you capture many small qualifying dispositions rather than one large one.
 
@@ -113,9 +113,9 @@ But do not let tax tail drive strategy. If the company is genuinely in trouble, 
 
 ## Comparison to other equity grants
 
-ESPP shares are far more tax-efficient than [non-qualified stock options](nso) or [restricted stock awards](restricted-stock-award) (RSAs), assuming you hold for the qualifying period.
+ESPP shares are far more tax-efficient than non-qualified stock options or restricted stock awards (RSAs), assuming you hold for the qualifying period.
 
-- **NSO**: Ordinary income on exercise (spread = fair market value minus strike price). When you sell, additional [short-term capital gain](short-term-capital-gain-tax) or [long-term capital gain](long-term-capital-gain-tax) depending on holding period.
+- **NSO**: Ordinary income on exercise (spread = fair market value minus strike price). When you sell, additional [short-term capital gain](/short-term-capital-gain-tax/) or [long-term capital gain](/long-term-capital-gain-tax/) depending on holding period.
 - **RSA**: Ordinary income on vesting (entire fair market value). Additional gain on sale is capital gain.
 - **ESPP (qualifying)**: Only the discount is ordinary income; the remainder is long-term capital gain.
 

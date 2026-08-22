@@ -1,6 +1,7 @@
 ---
 title: "Signal Decay and Half-Life in Quantitative Finance"
-description: "How quickly a predictive factor loses its edge over time and why measuring a signal's half-life determines appropriate holding periods and rebalancing cadence."
+seo_title: "Signal Decay & Half-Life: How Fast Alpha Fades"
+description: "Signal half-life is the time a signal takes to lose 50% of its predictive power. How to measure decay with IC and set holding and rebalancing periods."
 keywords:
   - signal decay half life quantitative finance
   - factor decay holding period

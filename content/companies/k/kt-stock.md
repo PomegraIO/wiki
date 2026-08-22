@@ -63,7 +63,7 @@ Government regulation and industrial policy in Korea also create uncertainty. If
 
 ## How to Research KT
 
-KT files with the SEC as a foreign private issuer under the 1934 Exchange Act, and its [10-K](wiki/10-k/) [annual reports](/10-k/) are available on EDGAR. The 10-K details financial performance, segment breakdown, competitive landscape, and risk factors; it is the essential document for understanding KT's financial position and capital allocation.
+KT files with the SEC as a foreign private issuer under the 1934 Exchange Act, and its [10-K annual reports](/10-k/) are available on EDGAR. The 10-K details financial performance, segment breakdown, competitive landscape, and risk factors; it is the essential document for understanding KT's financial position and capital allocation.
 
 Look closely at the mobile versus fixed-line revenue split and the trends in each. Mobile is large but fading; fixed-line is stable but mature; enterprise services is growing but from a smaller base. A reader should ask: Is KT successfully shifting the business mix toward higher-margin services, or is it caught in a slow-motion decline in its core market?
 

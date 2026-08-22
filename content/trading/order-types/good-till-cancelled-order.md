@@ -94,9 +94,9 @@ For retail traders, GTC orders are a way to participate in that same "patient" a
 
 - [Limit order](/limit-order/) — order type that specifies maximum buy or minimum sell price; GTC is a persistence variant
 - [Market order](/market-order/) — immediate execution at current market price; no price control
-- [Stop order](glossary-link-not-included) — order triggered when price crosses a threshold, complementary to GTC for risk management
+- Stop order — order triggered when price crosses a threshold, complementary to GTC for risk management
 - [Bid-ask spread](/bid-ask-spread/) — difference between buy and sell prices; affects GTC fill likelihood
-- [Order book](glossary-link-not-included) — central record of all resting limit orders including GTC orders
+- Order book — central record of all resting limit orders including GTC orders
 
 ### Wider context
 

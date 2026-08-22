@@ -4,7 +4,7 @@ description: "Swiss automation specialist manufacturing actuators and controls f
 keywords: ["HVAC controls", "building automation", "actuators", "Swiss manufacturing", "commercial buildings"]
 ---
 
-*[**BELIMO Holding AG**](BLHWF), a Swiss manufacturer represented in US markets via [American depositary receipts](/adr/), earns the bulk of its revenue by embedding actuation intelligence into the pipes and ducts of modern buildings. The company's margin structure hinges on proprietary control algorithms, precision electromechanical design, and a global supply chain that serves replacement cycles spanning two to three decades—a durable foundation for both unit volume and pricing power.*
+***BELIMO Holding AG**, a Swiss manufacturer represented in US markets via [American depositary receipts](/adr/), earns the bulk of its revenue by embedding actuation intelligence into the pipes and ducts of modern buildings. The company's margin structure hinges on proprietary control algorithms, precision electromechanical design, and a global supply chain that serves replacement cycles spanning two to three decades—a durable foundation for both unit volume and pricing power.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BLHWF</td></tr>

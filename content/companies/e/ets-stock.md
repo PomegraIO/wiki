@@ -4,7 +4,7 @@ description: "A logistics and delivery services company providing last-mile fulf
 keywords: ["logistics", "last-mile delivery", "e-commerce fulfillment", "supply chain", "courier services"]
 ---
 
-*[Elite Express Holding Inc.](ETS) is a specialty logistics platform that operates last-mile delivery and fulfillment services, primarily for small-to-medium-sized e-commerce sellers and brick-and-mortar retailers who need cost-effective, flexible parcel handling. The company generates revenue through per-shipment fees, dimensional-weight pricing, and value-added services (packaging, returns processing, storage).*
+*Elite Express Holding Inc. is a specialty logistics platform that operates last-mile delivery and fulfillment services, primarily for small-to-medium-sized e-commerce sellers and brick-and-mortar retailers who need cost-effective, flexible parcel handling. The company generates revenue through per-shipment fees, dimensional-weight pricing, and value-added services (packaging, returns processing, storage).*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>ETS</td></tr>

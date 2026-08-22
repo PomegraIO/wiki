@@ -9,7 +9,7 @@ keywords:
   - early-stage mining
 ---
 
-*[**Bitterroot Resources Ltd** (BITTF)](BITTF) is a Canadian mineral exploration company operating in the early-to-middle stage of the mining lifecycle, having progressed from grassroots prospecting into the phase where it is defining mineral resources on its claim packages. The company operates primarily in North America, with focus on gold and other precious metals that remain central to both [macro hedging](/macro-hedging/) and industrial demand. Bitterroot exemplifies the arc of a small junior explorer: it must move from staking and preliminary sampling toward economically meaningful resource estimates, all while managing the capital markets pressure that defines survival for unfunded explorers.*
+***Bitterroot Resources Ltd** (BITTF) is a Canadian mineral exploration company operating in the early-to-middle stage of the mining lifecycle, having progressed from grassroots prospecting into the phase where it is defining mineral resources on its claim packages. The company operates primarily in North America, with focus on gold and other precious metals that remain central to both [macro hedging](/macro-hedging/) and industrial demand. Bitterroot exemplifies the arc of a small junior explorer: it must move from staking and preliminary sampling toward economically meaningful resource estimates, all while managing the capital markets pressure that defines survival for unfunded explorers.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BITTF</td></tr>

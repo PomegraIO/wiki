@@ -58,9 +58,9 @@ A single HFT operation might spend $10 million to $100 million on infrastructure
 
 ## Common HFT Strategies
 
-**Statistical arbitrage**: The HFT calculates historical correlations between related instruments (stocks, futures, options). When correlation breaks—one asset moves but a peer does not—it trades both sides simultaneously, betting the correlation snaps back. This is [pairs trading](pairs-trading-how-it-works/) at microsecond speed.
+**Statistical arbitrage**: The HFT calculates historical correlations between related instruments (stocks, futures, options). When correlation breaks—one asset moves but a peer does not—it trades both sides simultaneously, betting the correlation snaps back. This is [pairs trading](/pairs-trading-how-it-works/) at microsecond speed.
 
-**Momentum ignition**: Identify a stock with low [liquidity](liquidity-risk). Place a large buy order in the open market, which pushes price up momentarily. Fast algorithms react to this momentum, buying the stock. The HFT immediately cancels its order and sells into the momentum-driven buyer, profiting from the ephemeral move. (This is controversial and has triggered regulatory action.)
+**Momentum ignition**: Identify a stock with low [liquidity](/liquidity-risk/). Place a large buy order in the open market, which pushes price up momentarily. Fast algorithms react to this momentum, buying the stock. The HFT immediately cancels its order and sells into the momentum-driven buyer, profiting from the ephemeral move. (This is controversial and has triggered regulatory action.)
 
 **Order spoofing**: Place large orders with no intention of filling them to create the illusion of demand, triggering algorithmic buyers. Then cancel and trade ahead of them. (This is illegal; the SEC prosecutes spoofers.)
 
@@ -102,8 +102,8 @@ But HFT remains largely legal and continues to dominate equity market volume (es
 
 Individual traders cannot do HFT, but they can apply HFT principles at slower time scales:
 
-- **Exploit micro-inefficiencies**: [Pairs trading](pairs-trading-how-it-works/) and [statistical arbitrage](statistical-arbitrage/) at daily or weekly time frames.
-- **Minimize latency and costs**: Trade the most liquid instruments to avoid slippage; use limit orders to avoid paying the bid-ask [spread](bid-ask-spread).
+- **Exploit micro-inefficiencies**: [Pairs trading](/pairs-trading-how-it-works/) and [statistical arbitrage](/statistical-arbitrage/) at daily or weekly time frames.
+- **Minimize latency and costs**: Trade the most liquid instruments to avoid slippage; use limit orders to avoid paying the bid-ask [spread](/bid-ask-spread/).
 - **Understand market structure**: Know that order types (market vs. limit), timing, and venue selection matter. Trading at market open or close can improve or worsen fills.
 - **Automate with discipline**: Use [algorithmic trading](/algorithmic-trading-for-retail-investors/) to remove emotion and execute rules consistently, even if the latency is millions of times slower than HFT.
 

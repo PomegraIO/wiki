@@ -1,6 +1,7 @@
 ---
 title: "Call Market"
-description: "A market structure where trading occurs periodically at a single clearing price, rather than continuously, allowing batch matching of buy and sell orders."
+seo_title: "Call Market: How Batch Auction Trading Works"
+description: "A call market matches all buy and sell orders at one clearing price at set times, not continuously. How the auction works and where it's used."
 keywords:
   - call market
   - batch auction

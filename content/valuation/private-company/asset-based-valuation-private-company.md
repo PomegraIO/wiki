@@ -10,7 +10,7 @@ keywords:
 image: /svg/valuation.svg
 ---
 
-*An **asset-based valuation for private companies** calculates enterprise value by restating the [balance sheet](balance-sheet) to fair market value, then subtracting liabilities. This method is the primary approach when tangible assets drive value (real estate, equipment, inventory, collectibles) or when the business has no profitable earnings history to project from.*
+*An **asset-based valuation for private companies** calculates enterprise value by restating the [balance sheet](/balance-sheet/) to fair market value, then subtracting liabilities. This method is the primary approach when tangible assets drive value (real estate, equipment, inventory, collectibles) or when the business has no profitable earnings history to project from.*
 
 <aside class="wiki-infobox">
 
@@ -34,7 +34,7 @@ image: /svg/valuation.svg
 
 ## Why asset-based valuation matters for private companies
 
-Traditional earnings-based methods—[EBITDA multiples](ebitda-multiple-private-company-valuation) or [revenue multiples](revenue-multiple-valuation-private-company)—rely on cash generation. But some private companies derive value primarily from their assets, not operations.
+Traditional earnings-based methods—[EBITDA multiples](/ebitda-multiple-private-company-valuation/) or [revenue multiples](/revenue-multiple-valuation-private-company/)—rely on cash generation. But some private companies derive value primarily from their assets, not operations.
 
 A real estate holding company owns $100 million in commercial properties financed by $40 million in debt. Its accounting earnings are tiny because depreciation, interest, and property taxes nearly offset rent. Yet the company is worth roughly $60 million (assets minus liabilities). An EBITDA multiple would undersell it badly.
 
@@ -46,7 +46,7 @@ In these cases, **asset-based valuation** is not a shortcut—it is the right me
 
 ## The adjustment process: from book to fair value
 
-Accounting [historical cost](historical-cost) is often miles away from current market value. The asset-based approach restates everything.
+Accounting [historical cost](/historical-cost/) is often miles away from current market value. The asset-based approach restates everything.
 
 **Real property and land** are marked to appraised fair market value. A building acquired 30 years ago for $5 million and carried on the books at depreciated net book value of $1 million may be worth $12 million today. The appraiser (licensed, independent) issues a valuation.
 
@@ -91,7 +91,7 @@ An **asset-based approach** best suits:
 - Startups with no profitable operations yet but capital-intensive assets
 - Banks, insurance companies, and other financial institutions (whose assets are loans and investments)
 
-An **[EBITDA multiple](ebitda-multiple-private-company-valuation) or earnings-based approach** suits:
+An **[EBITDA multiple](/ebitda-multiple-private-company-valuation/) or earnings-based approach** suits:
 - Mature service businesses (assets matter less than recurring client relationships)
 - Software and intellectual property businesses (most value is in code and brand, not physical assets)
 - Franchises (customers and the operating system drive value)

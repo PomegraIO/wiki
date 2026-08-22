@@ -33,11 +33,11 @@ image: /svg/forex.svg
 
 ## Petrocurrency: Oil Export Strength
 
-A **petrocurrency** is the currency of a country with substantial oil exports, strengthened by the foreign exchange inflows those sales generate. When Nigeria, Russia, or Norway sell crude to global buyers, they receive payment in whatever currency the contract specifies — typically US dollars, but sometimes euros or domestic money. The constant flood of petrodollar earnings (or other currency earnings from oil) boosts the nation's [balance-of-payments](balance-sheet/) position and raises demand for its currency in [foreign exchange](forex.svg) markets.
+A **petrocurrency** is the currency of a country with substantial oil exports, strengthened by the foreign exchange inflows those sales generate. When Nigeria, Russia, or Norway sell crude to global buyers, they receive payment in whatever currency the contract specifies — typically US dollars, but sometimes euros or domestic money. The constant flood of petrodollar earnings (or other currency earnings from oil) boosts the nation's [balance-of-payments](/balance-sheet/) position and raises demand for its currency in foreign exchange markets.
 
-This is not a formal institution; it is a market effect. The more oil a country exports relative to its economy's size, the more its exchange rate will be buoyed by energy revenues. Norway's krone, the Canadian dollar, and the Russian ruble all have petrocurrency characteristics. When oil prices rise, these currencies tend to appreciate; when crude crashes, they weaken. This relationship makes petrocurrencies sensitive to [commodity price cycles](crude-oil/) and geopolitical supply shocks — OPEC+ production cuts, wars in the Middle East, or sanctions can ripple directly into currency valuations.
+This is not a formal institution; it is a market effect. The more oil a country exports relative to its economy's size, the more its exchange rate will be buoyed by energy revenues. Norway's krone, the Canadian dollar, and the Russian ruble all have petrocurrency characteristics. When oil prices rise, these currencies tend to appreciate; when crude crashes, they weaken. This relationship makes petrocurrencies sensitive to [commodity price cycles](/crude-oil/) and geopolitical supply shocks — OPEC+ production cuts, wars in the Middle East, or sanctions can ripple directly into currency valuations.
 
-Petrocurrency strength is purely mechanical: export revenues create [forex](forex.svg) supply and demand. It is not dependent on a global system or treaty, merely on the fact that the country exports oil and the world pays for it.
+Petrocurrency strength is purely mechanical: export revenues create forex supply and demand. It is not dependent on a global system or treaty, merely on the fact that the country exports oil and the world pays for it.
 
 ## The Petrodollar System: Global Oil Pricing Convention
 
@@ -45,15 +45,15 @@ The **petrodollar system** is a different animal. It refers to the arrangement w
 
 After the 1973 oil embargo and the collapse of the Bretton Woods gold standard, US and Saudi Arabia forged an explicit arrangement: the Saudis would keep their reserves in dollars and keep oil priced in dollars, and the US would guarantee Saudi military protection. This so-called petrodollar agreement, formalized through multiple statements and operational agreements, made the US dollar the de facto pricing medium for crude worldwide. Even crude sold between non-US parties — say, India buying from Russia — is typically invoiced in dollars.
 
-This system is structural and global. It means every country that needs oil must hold dollars (or acquire them through trade) to buy it. This constant need for dollars to purchase energy underpins the US dollar's dominant role as a [reserve currency](central-bank/). No other currency has this inherent demand baked into global commerce.
+This system is structural and global. It means every country that needs oil must hold dollars (or acquire them through trade) to buy it. This constant need for dollars to purchase energy underpins the US dollar's dominant role as a [reserve currency](/central-bank/). No other currency has this inherent demand baked into global commerce.
 
 ## How the Two Relate
 
 Petrocurrencies and the petrodollar system reinforce each other but are logically independent. 
 
-If a petrocurrency nation (say, Australia before the resource boom or the UK before North Sea oil) develops large oil reserves, its currency becomes a petrocurrency. But that nation still buys and sells oil in dollars because that is the global standard — the petrodollar system. The revenues flow back in dollars, and those dollars strengthen the nation's own currency in [forex](forex.svg) trading.
+If a petrocurrency nation (say, Australia before the resource boom or the UK before North Sea oil) develops large oil reserves, its currency becomes a petrocurrency. But that nation still buys and sells oil in dollars because that is the global standard — the petrodollar system. The revenues flow back in dollars, and those dollars strengthen the nation's own currency in forex trading.
 
-Conversely, the petrodollar system persists regardless of which nations are large oil exporters. Even if Saudi Arabia dried up completely and Norway became the world's only major oil exporter, crude would still trade in dollars unless there was a conscious, coordinated effort to shift to another medium (such as euros or a supranational currency, analogous to [Keynes's bancor proposal](bancor-keynes-international-currency-proposal/)).
+Conversely, the petrodollar system persists regardless of which nations are large oil exporters. Even if Saudi Arabia dried up completely and Norway became the world's only major oil exporter, crude would still trade in dollars unless there was a conscious, coordinated effort to shift to another medium (such as euros or a supranational currency, analogous to [Keynes's bancor proposal](/bancor-keynes-international-currency-proposal/)).
 
 The feedback loop is this: the petrodollar system ensures that oil-exporting nations accumulate dollars, which allows them to invest and save in dollars, which deepens the dollar's role in global finance, which in turn makes the petrodollar system harder to disrupt.
 
@@ -63,13 +63,13 @@ Conflating the two leads to confused policy and forecasting. Some observers argu
 
 Conversely, the rise of a petrocurrency does not automatically challenge the petrodollar. A stronger Norwegian krone or Russian ruble does not mean oil will trade in krone or rubles globally — it just means that nation's currency is performing well relative to others.
 
-Understanding the two separately also clarifies policy objectives. A nation might want to strengthen its petrocurrency (typically by investing resource wealth wisely, à la Norway's sovereign wealth fund) while having little ability to shift the petrodollar system (which requires global coordination). The US, by contrast, benefits directly from the petrodollar system itself — it can print dollars to buy oil without first earning them through trade — a privilege others call [exorbitant privilege](exorbitant-privilege-explained/).
+Understanding the two separately also clarifies policy objectives. A nation might want to strengthen its petrocurrency (typically by investing resource wealth wisely, à la Norway's sovereign wealth fund) while having little ability to shift the petrodollar system (which requires global coordination). The US, by contrast, benefits directly from the petrodollar system itself — it can print dollars to buy oil without first earning them through trade — a privilege others call [exorbitant privilege](/exorbitant-privilege-explained/).
 
 ## Challenges and Future Shifts
 
-Petrocurrencies face inherent volatility because they are hostage to [commodity price cycles](crude-oil/). When oil crashes, so do the currencies of oil-dependent nations, even if their governments and central banks are well-managed. This creates [currency risk](currency-risk/) for importers and savers in those countries.
+Petrocurrencies face inherent volatility because they are hostage to [commodity price cycles](/crude-oil/). When oil crashes, so do the currencies of oil-dependent nations, even if their governments and central banks are well-managed. This creates [currency risk](/currency-risk/) for importers and savers in those countries.
 
-The petrodollar system faces structural questions as [central banks](central-bank/) diversify their [reserve holdings](central-bank/) and as some nations (Russia, Iran, China) seek to conduct energy trade in alternative currencies or barter. However, switching the global oil market to a different pricing currency would require collective action by buyers and sellers, a threshold not yet crossed. Until then, the petrodollar remains entrenched.
+The petrodollar system faces structural questions as [central banks](/central-bank/) diversify their [reserve holdings](/central-bank/) and as some nations (Russia, Iran, China) seek to conduct energy trade in alternative currencies or barter. However, switching the global oil market to a different pricing currency would require collective action by buyers and sellers, a threshold not yet crossed. Until then, the petrodollar remains entrenched.
 
 The distinction between the two will likely sharpen in the coming years. Expect petrocurrencies to become more volatile and more diversified in their reserve composition — but the petrodollar system itself to remain sticky because the cost of coordinating a shift away from it is very high.
 
@@ -88,7 +88,7 @@ The distinction between the two will likely sharpen in the coming years. Expect 
 ### Wider context
 
 - [Crude Oil](/crude-oil/) — Energy markets and petrocurrency price drivers
-- [Foreign Exchange](/forex.svg) — Global currency trading and valuation
+- Foreign Exchange — Global currency trading and valuation
 - [Reserve Currency](/central-bank/) — Role of dominant currencies in international finance
 
 </div>

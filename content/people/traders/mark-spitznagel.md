@@ -1,6 +1,7 @@
 ---
 title: "Mark Spitznagel"
-description: "A derivatives researcher and hedge fund manager specializing in tail-risk hedging and the economics of extreme market events."
+seo_title: "Mark Spitznagel: The Tail-Risk Hedging Pioneer"
+description: "Mark Spitznagel runs Universa Investments, hedging crashes with far out-of-the-money puts. His path, strategy economics, and clashes with the mainstream."
 keywords:
   - tail-risk hedging
   - derivatives

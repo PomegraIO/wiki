@@ -1,6 +1,7 @@
 ---
 title: "FX Option Expiry Cut Times: New York Cut vs Tokyo Cut"
-description: "Explains the two dominant daily expiry windows for over-the-counter FX options, why spot prices gravitate toward large strike levels, and how traders monitor cut times."
+seo_title: "FX Option Expiry Cut Times: New York vs Tokyo Cut"
+description: "OTC FX options expire at two daily cuts: New York (10 a.m. EST) and Tokyo (2 p.m. JST). Why spot pins to big strikes as expiry approaches."
 keywords:
   - fx option expiry cut times
   - new york cut forex

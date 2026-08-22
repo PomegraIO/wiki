@@ -10,7 +10,7 @@ keywords:
 image: "/svg/history.svg"
 ---
 
-*A **sovereign debt restructuring** is a negotiated adjustment of a country's unpaid debt obligations when it cannot service them from current revenues. Rather than outright [default](sovereign-default/), the borrower and creditors jointly agree to extend maturity dates, reduce interest rates, cut principal ("haircuts"), or some combination of all three. The process aims to restore the debtor's solvency while creditors recover more than they would in a disorderly default.*
+*A **sovereign debt restructuring** is a negotiated adjustment of a country's unpaid debt obligations when it cannot service them from current revenues. Rather than outright [default](/sovereign-default/), the borrower and creditors jointly agree to extend maturity dates, reduce interest rates, cut principal ("haircuts"), or some combination of all three. The process aims to restore the debtor's solvency while creditors recover more than they would in a disorderly default.*
 
 <aside class="wiki-infobox">
 
@@ -23,7 +23,7 @@ image: "/svg/history.svg"
 |   |   |
 |---|---|
 | **Core tools** | Maturity extension, interest-rate reduction, principal haircut, new money |
-| **Key players** | Debtor government, bilateral creditors, banks, [bondholders](bond/), IMF |
+| **Key players** | Debtor government, bilateral creditors, banks, [bondholders](/bond/), IMF |
 | **Duration of talks** | 6 months to 2+ years depending on complexity and creditor base |
 | **Creditor coordination** | Paris Club (governments), London Club (private banks), bond exchanges |
 | **Holdout risk** | Some creditors refuse to participate, demanding full payment; can block agreement |
@@ -52,13 +52,13 @@ The creditors' calculation is brutal: if the debtor defaults unilaterally, credi
 
 When negotiating, countries and creditors mix several instruments:
 
-**Maturity extension**: Rather than pay in 2 years, the debt is extended to 10 years. This reduces the annual cash required upfront, buying time for growth to return and revenues to rise. The [interest rate](interest-rate/) may stay the same, or creditors demand a higher rate to compensate for the longer wait.
+**Maturity extension**: Rather than pay in 2 years, the debt is extended to 10 years. This reduces the annual cash required upfront, buying time for growth to return and revenues to rise. The [interest rate](/interest-rate/) may stay the same, or creditors demand a higher rate to compensate for the longer wait.
 
 **Interest-rate reduction**: The coupon is cut from, say, 8% to 4%, lowering annual cash payments permanently. This is especially relevant if rates have fallen globally or the debtor's credit profile has improved slightly.
 
 **Principal haircut**: Creditors agree to forgive part of the face value. A 50% haircut means a $100 debt becomes $50. This is the most contentious tool because it represents a direct, irreversible loss. Creditors resist unless the debtor's situation is dire (recovery of 50 cents on the dollar beats recovery of 0 cents via default).
 
-**New money**: Creditors may provide fresh lending on top of the restructured debt, to help the debtor cover immediate shortfalls or fund investments. This is rare because it requires creditors to trust that the debtor can recover; it is more common if the country is already in an IMF program with strict [fiscal consolidation](fiscal-consolidation/) guardrails.
+**New money**: Creditors may provide fresh lending on top of the restructured debt, to help the debtor cover immediate shortfalls or fund investments. This is rare because it requires creditors to trust that the debtor can recover; it is more common if the country is already in an IMF program with strict [fiscal consolidation](/fiscal-consolidation/) guardrails.
 
 **Debt-to-equity swaps**: Some creditors convert their claims into equity stakes in privatized firms or special entities, essentially becoming part-owners. This is used when both sides see upside to the debtor's recovery.
 
@@ -68,11 +68,11 @@ Restructuring unfolds in stages:
 
 **Standstill and preliminary talks**: The government announces it is unable to pay on schedule and proposes a negotiation framework. Creditors agree to pause collection efforts while talks commence. The government's negotiation team (often finance ministry and central bank) meets with creditor representatives to exchange financial data and preliminary proposals.
 
-**Information gathering**: Creditors demand detailed balance sheets, revenue forecasts, [export](capital-flows/) projections, and the government's plan to restore solvency. The IMF often conducts a "debt sustainability analysis" estimating the debtor's long-term capacity to pay.
+**Information gathering**: Creditors demand detailed balance sheets, revenue forecasts, [export](/capital-flows/) projections, and the government's plan to restore solvency. The IMF often conducts a "debt sustainability analysis" estimating the debtor's long-term capacity to pay.
 
 **Creditor coordination**: Bilateral creditors organize through the Paris Club; private creditors through steering committees or advisor firms. Bondholders are harder to organize but may be invited to "exchange offers" (formal proposals to swap old bonds for new ones with modified terms).
 
-**Negotiation rounds**: Government and creditors haggle over the package—how much haircut, how long maturity extension, what [interest rate](interest-rate/). Creditors jockey for position: banks may demand better terms than bondholders, or vice versa. The government tries to maximize relief while retaining enough creditor support to avoid holdout risk.
+**Negotiation rounds**: Government and creditors haggle over the package—how much haircut, how long maturity extension, what [interest rate](/interest-rate/). Creditors jockey for position: banks may demand better terms than bondholders, or vice versa. The government tries to maximize relief while retaining enough creditor support to avoid holdout risk.
 
 **Agreement and implementation**: Once a critical mass of creditors agrees, a formal restructuring agreement is signed. The restructured debt is exchanged for new instruments, and the country resumes payments under the new terms.
 
@@ -92,7 +92,7 @@ To combat this, many bonds now include **collective action clauses (CACs)**, whi
 
 ## Post-Restructuring: Return to Markets
 
-Once a country restructures, it faces a period of exclusion from voluntary lending. Creditors are wary, and [credit spreads](credit-spread/) remain wide (the [interest rates](interest-rate/) the country must pay are much higher than for low-risk borrowers). Over time, if the country executes IMF programs, runs primary surpluses, and grows, spreads narrow. Capital begins to return.
+Once a country restructures, it faces a period of exclusion from voluntary lending. Creditors are wary, and [credit spreads](/credit-spread/) remain wide (the [interest rates](/interest-rate/) the country must pay are much higher than for low-risk borrowers). Over time, if the country executes IMF programs, runs primary surpluses, and grows, spreads narrow. Capital begins to return.
 
 Argentina restructured in 2005 and 2020, and remains partially locked out of markets. Greece restructured in 2012 and began to access markets again by 2017, though at elevated costs. Each recovery depends on credibility and growth prospects.
 
@@ -100,7 +100,7 @@ Argentina restructured in 2005 and 2020, and remains partially locked out of mar
 
 The process has become more systematic. The IMF established a formal "Sovereign Debt Restructuring Mechanism" (SDRM) proposal in the early 2000s to streamline negotiations, though political resistance prevented full adoption. Instead, the IMF relies on informal coordination and emphasizes IMF lending that supports successful restructuring programs.
 
-Some economists argue for stronger international frameworks for sovereign insolvency (analogous to corporate [bankruptcy](sovereign-default/)), but [national sovereignty](sovereign-debt/) makes imposing such frameworks difficult. Restructuring remains a mixture of negotiation, creditor pressure, and IMF leverage—messier than bankruptcy court, but functionally similar.
+Some economists argue for stronger international frameworks for sovereign insolvency (analogous to corporate [bankruptcy](/sovereign-default/)), but [national sovereignty](/sovereign-debt/) makes imposing such frameworks difficult. Restructuring remains a mixture of negotiation, creditor pressure, and IMF leverage—messier than bankruptcy court, but functionally similar.
 
 ## See also
 

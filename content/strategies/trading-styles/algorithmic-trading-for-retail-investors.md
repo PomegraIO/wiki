@@ -119,7 +119,7 @@ Despite latency disadvantages, retail algorithmic trading has real benefits:
 
 ## The Honest Assessment
 
-A retail algorithm is not a cash machine. It enforces rules, but the rules must be sound. A poorly thought-out algorithm trades more, loses more, and compounds losses. A well-researched algorithm with positive [expectation](expected-value) but moderate edge can generate steady returns—3–10% annually—if you trade sizeable capital and accept volatility.
+A retail algorithm is not a cash machine. It enforces rules, but the rules must be sound. A poorly thought-out algorithm trades more, loses more, and compounds losses. A well-researched algorithm with positive expectation but moderate edge can generate steady returns—3–10% annually—if you trade sizeable capital and accept volatility.
 
 Most retail algo traders fail because they:
 - Backtest on biased data (look-ahead, overfitting).

@@ -19,7 +19,14 @@ __pycache__/
 /wiki-*.png
 /_tmp/
 
-# Scratch outputs from content swarm scripts
+# Scratch outputs from content swarm / SEO scripts.
+# Blanket rule: every underscore-prefixed path under scripts/ is scratch.
+# This repo is PUBLIC — the SEO tooling writes OAuth token caches
+# (_gsc_token.json), Search Console exports and derived batches into
+# scripts/_* files, none of which may ever be committed. The blanket
+# pattern only affects untracked files, so previously committed _-files
+# (e.g. the wave plan/writer manifests) are unaffected.
+/scripts/_*
 /scripts/_gap_plan.json
 /scripts/_dedup_delete.txt
 /scripts/_swarm_prompts/

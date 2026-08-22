@@ -1,0 +1,17 @@
+{{/* Meta description — the single source of truth for the description string.
+     Called from baseof.html (<meta name="description">, og:description,
+     twitter:description) and seo-jsonld.html (Article + DefinedTerm), so the
+     snippet Google shows and the snippet its parsers read never drift apart.
+
+     Resolution order: front-matter `description` → .Summary → the site-wide
+     default in hugo.toml [params]. Plainified, then truncated to 155 chars —
+     Google ellipsises around ~155–160, and Hugo's `truncate` is word-boundary
+     safe so we never cut mid-word.
+
+     Returns the RAW (unescaped) string via `return`: correct escaping is
+     context-dependent, so it belongs to the call sites — baseof.html pipes
+     through `htmlEscape` for attribute use, seo-jsonld.html leaves it to
+     `jsonify`. */}}
+{{ $desc := cond (ne (string .Description) "") (string .Description) (cond (ne (string .Summary) "") (string .Summary) .Site.Params.description) }}
+{{ $desc = truncate 155 (plainify $desc) }}
+{{ return $desc }}

@@ -1,6 +1,7 @@
 ---
 title: "Capital Gains When Moving Between States"
-description: "How state tax jurisdiction applies to capital gains when you move between states before or after selling an investment."
+seo_title: "Capital Gains When Moving States: Which State Taxes You"
+description: "Which state taxes your capital gain depends on the income's source and your residency at sale. How the rules apply to real estate, stocks, and moves."
 keywords:
   - capital gains state tax
   - state residency capital gains

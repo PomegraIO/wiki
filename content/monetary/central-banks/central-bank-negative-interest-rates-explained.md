@@ -110,6 +110,6 @@ Negative rates did not break the system—the financial plumbing is resilient—
 - [Inflation](/inflation/) — The phenomenon negative rates aim to combat or spark
 - [Recession](/recession/) — The economic weakness that triggers emergency policy measures
 - [Deflation](/deflation/) — The persistent price decline that negative rates are meant to prevent
-- [Zero Lower Bound](zero-lower-bound/) — The theoretical and practical floor on policy rates
+- [Zero Lower Bound](/zero-lower-bound/) — The theoretical and practical floor on policy rates
 
 </div>

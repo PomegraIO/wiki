@@ -65,7 +65,7 @@ That said, in-kind transfers are not economically senseless in all contexts.
 
 In recent decades, development economists and some policy-makers have pushed cash transfers—especially conditional cash transfers (CCTs) that tie payments to school attendance or health checkups. Randomised trials in developing countries have shown that direct cash, with light conditions, can be highly effective and cheaper to administer than in-kind alternatives.
 
-This has spurred a rethink in wealthy countries too. Some jurisdictions have experimented with [universal basic income](glossary-link-not-included) pilots or expanded cash assistance, on the grounds that recipients are the best judges of their own needs. The U.S. expanded the Child Tax Credit (cash) and food-stamp benefits during crises, and some proposals aim to replace fragmentary in-kind programmes with a single cash grant.
+This has spurred a rethink in wealthy countries too. Some jurisdictions have experimented with universal basic income pilots or expanded cash assistance, on the grounds that recipients are the best judges of their own needs. The U.S. expanded the Child Tax Credit (cash) and food-stamp benefits during crises, and some proposals aim to replace fragmentary in-kind programmes with a single cash grant.
 
 Yet the transition is slow. Public opinion often still favours in-kind transfers for "vulnerable" groups (children, elderly, disabled) and cash for others (unemployed, able-bodied adults). The implicit logic is that some groups have proven judgment and others do not—a distinction that is rarely defended openly but shapes policy anyway.
 
@@ -84,7 +84,7 @@ Some proposals combine in-kind and cash by using vouchers that are nearly-cash�
 - [Social insurance](/social-insurance/) — contributory benefits that may be in-kind (healthcare) or cash-like (pensions)
 - [Benefit notch](/benefit-notch/) — sharp threshold where in-kind benefits often phase out, creating perverse incentives
 - [Transfer payment](/transfer-payment/) — broad category encompassing both cash and in-kind government support
-- [Welfare](glossary-link-not-included) — means-tested programmes often delivered in-kind to vulnerable groups
+- Welfare — means-tested programmes often delivered in-kind to vulnerable groups
 - [Discretionary spending](/discretionary-spending/) — budget category including many in-kind benefit programmes
 
 ### Wider context

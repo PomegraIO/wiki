@@ -1,6 +1,7 @@
 ---
 title: "Galaxy Enterprises Inc. (GLEI)"
-description: "A Wyoming-based diversified enterprise operating across energy, logistics, and real-estate ventures with a decentralized operational structure."
+seo_title: "GLEI Stock: Galaxy Enterprises, Operating Conglomerate"
+description: "Galaxy Enterprises (GLEI) is a Wyoming-based conglomerate operating energy, logistics, and real-estate ventures directly. How it differs from holdcos."
 keywords: ["GLEI", "Galaxy Enterprises", "Wyoming", "diversified holding", "industrial operations", "10-K"]
 ---
 

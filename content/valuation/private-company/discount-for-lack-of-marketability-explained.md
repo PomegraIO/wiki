@@ -37,7 +37,7 @@ An investor who owns 1% of a public company can sell that stake in seconds at th
 
 **The discount for lack of marketability captures this friction.** If a public company worth $100 per share is worth $70 per share as a private firm, the 30% difference is the DLOM—the liquidity penalty.
 
-This discount is real and measurable. Private equity sponsors buy minority stakes at DLOM-adjusted prices. Employees receive options and [restricted stock units](stock/) at DLOM-discounted values for tax purposes. Estate planners apply DLOM to calculate taxable value of closely held shares. Without a consistent, empirically grounded DLOM, valuations become arbitrary.
+This discount is real and measurable. Private equity sponsors buy minority stakes at DLOM-adjusted prices. Employees receive options and [restricted stock units](/stock/) at DLOM-discounted values for tax purposes. Estate planners apply DLOM to calculate taxable value of closely held shares. Without a consistent, empirically grounded DLOM, valuations become arbitrary.
 
 ## Historical basis: restricted stock studies
 

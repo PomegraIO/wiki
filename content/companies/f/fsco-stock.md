@@ -4,7 +4,7 @@ description: "A Business Development Company focused on lending to middle-market
 keywords: ["BDC", "credit opportunities", "middle market", "business development company", "lending", "private credit", "publicly traded"]
 ---
 
-*[**FS Credit Opportunities Corp.**](FSCO) is a [business development company](/special-purpose-acquisition-company/) — a publicly traded lender that extends [credit](/stock/) to middle-market businesses, sitting at the intersection of [private credit](/stock/) markets and [public equity](/stock/) ownership. Unlike traditional banks with deposit-gathering franchises, BDCs like FSCO function as investment vehicles where shareholders acquire a stake in a diversified portfolio of loans and debt instruments issued to small and mid-sized enterprises.*
+***FS Credit Opportunities Corp.** is a [business development company](/special-purpose-acquisition-company/) — a publicly traded lender that extends [credit](/stock/) to middle-market businesses, sitting at the intersection of [private credit](/stock/) markets and [public equity](/stock/) ownership. Unlike traditional banks with deposit-gathering franchises, BDCs like FSCO function as investment vehicles where shareholders acquire a stake in a diversified portfolio of loans and debt instruments issued to small and mid-sized enterprises.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>FSCO</td></tr>

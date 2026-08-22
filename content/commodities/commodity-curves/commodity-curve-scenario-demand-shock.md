@@ -26,7 +26,7 @@ image: "/svg/commodities.svg"
 | **Spot/nearby impact** | Usually sharp and immediate, reflecting urgent buying/selling and inventory strain |
 | **Deferred impact** | More muted; new supply can reach market in 6–12+ months |
 | **Curve shape effect** | Contango steepens (or backwardation reverses) as near-term scarcity emerges |
-| **Market evidence** | Bid-ask spreads widen, [basis](../basis/) risk spikes, storage costs become visible |
+| **Market evidence** | Bid-ask spreads widen, [basis](/basis/) risk spikes, storage costs become visible |
 | **Duration of effect** | Days to weeks for spot; months for curve normalization as supply adjusts |
 
 </aside>
@@ -75,7 +75,7 @@ As the cold spell eventually breaks and producers indicate they can ramp output 
 
 How the curve shifts depends critically on what shape it started in.
 
-**If the curve began in contango** (normal supply-side abundance, low carrying costs, prices rising into the future), a demand shock steepens it further. Nearby contracts spike as immediate supply tightens; deferred contracts rise as the market reprices the duration of the tightness, but they don't catch up to spot. [Basis](../basis/) risk grows—the gap between spot and futures widens, reflecting scarcity.
+**If the curve began in contango** (normal supply-side abundance, low carrying costs, prices rising into the future), a demand shock steepens it further. Nearby contracts spike as immediate supply tightens; deferred contracts rise as the market reprices the duration of the tightness, but they don't catch up to spot. [Basis](/basis/) risk grows—the gap between spot and futures widens, reflecting scarcity.
 
 **If the curve began in backwardation** (immediate scarcity already priced in, nearby premium over deferred), a demand shock intensifies the backwardation: the gap between spot and front-month widens even more. The deferred leg eventually catches up as expectations adjust.
 

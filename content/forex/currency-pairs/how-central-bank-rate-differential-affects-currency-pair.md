@@ -14,7 +14,7 @@ image: "/svg/forex.svg"
 
 ## The mechanics: yield, capital, and demand
 
-The most direct path from interest rates to currency movement is the [carry trade](). When the U.S. interest rate is 5% and the Euro zone rate is 2%, an investor can:
+The most direct path from interest rates to currency movement is the carry trade. When the U.S. interest rate is 5% and the Euro zone rate is 2%, an investor can:
 
 1. Borrow euros at 2%
 2. Exchange euros for dollars
@@ -33,7 +33,7 @@ Consider two scenarios:
 
 **Scenario B (Surprise):** The Fed delivers an unannounced 0.75% hike, exceeding the 0.5% markets expected. The differential has unexpectedly widened. Traders scramble to reposition, and the dollar rallies sharply in the hours and days after the decision.
 
-This distinction matters for traders and for [policy](). A central bank that surprises on the hawkish side (bigger hike than expected, or tighter guidance) will see its currency benefit more than one that moves as announced. Conversely, a dovish surprise (smaller hike or easier language) can weaken a currency even if rates still rise in absolute terms.
+This distinction matters for traders and for policy. A central bank that surprises on the hawkish side (bigger hike than expected, or tighter guidance) will see its currency benefit more than one that moves as announced. Conversely, a dovish surprise (smaller hike or easier language) can weaken a currency even if rates still rise in absolute terms.
 
 ## Real rates versus nominal rates
 

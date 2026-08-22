@@ -39,7 +39,7 @@ Investors and analysts pay close attention. A company cannot boost its reported 
 
 ## The Control Test: ASC 606 Step 1
 
-Under [ASC 606](asc-606/), the revenue recognition standard, a company acts as a principal if it "controls the promised good or service before transferring it to the customer." Control is the operative word.
+Under [ASC 606](/asc-606/), the revenue recognition standard, a company acts as a principal if it "controls the promised good or service before transferring it to the customer." Control is the operative word.
 
 Control means the company has:
 - The ability to direct the use of the asset or service

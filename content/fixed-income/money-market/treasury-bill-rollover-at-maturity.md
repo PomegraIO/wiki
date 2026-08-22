@@ -1,6 +1,7 @@
 ---
 title: "Rolling Over Treasury Bills at Maturity"
-description: "Learn what happens when a Treasury bill matures and how to set up automatic reinvestment. Covers both TreasuryDirect and brokerage options for rolling T-bills."
+seo_title: "Treasury Bill Rollover: What Happens at Maturity"
+description: "When a T-bill matures you get face value back; rolling over reinvests it in a new bill. Automatic reinvestment at TreasuryDirect vs brokerage options."
 keywords:
   - how to roll over treasury bills at maturity
   - treasury bill rollover reinvestment

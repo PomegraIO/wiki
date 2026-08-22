@@ -9,7 +9,7 @@ keywords:
 image: /svg/equity.svg
 ---
 
-*A **share class A vs B vs C** structure divides equity into tiers with different [voting-rights](voting-rights), [dividend](dividend) eligibility, or conversion rights. Typically, Class A holds superior voting power (founder-friendly), Class B is held by insiders with medium voting rights, and Class C or common stock has one vote per share but may be the only tradable class. These structures are common at tech companies, media firms, and family businesses seeking to preserve founder control.*
+*A **share class A vs B vs C** structure divides equity into tiers with different [voting-rights](/voting-rights/), [dividend](/dividend/) eligibility, or conversion rights. Typically, Class A holds superior voting power (founder-friendly), Class B is held by insiders with medium voting rights, and Class C or common stock has one vote per share but may be the only tradable class. These structures are common at tech companies, media firms, and family businesses seeking to preserve founder control.*
 
 <aside class="wiki-infobox">
 
@@ -73,7 +73,7 @@ Famous examples:
 **Class C shares** (also called **common stock** in single-class companies, but labeled Class C in multi-class structures) carry one vote per share and are the vehicle for raising public capital.
 
 **Characteristics:**
-- **One vote per share**: Standard [voting-rights](voting-rights); no super-voting advantage.
+- **One vote per share**: Standard [voting-rights](/voting-rights/); no super-voting advantage.
 - **Publicly traded**: Listed on an exchange; liquid and widely held.
 - **Pro-rata economic rights**: Receive dividends and asset distributions equal to other classes on a per-share basis (adjusted for conversion ratios).
 - **Conversion-restriction**: Cannot convert to Class A; sometimes cannot convert to Class B.
@@ -83,7 +83,7 @@ In companies like Meta, Class C is non-voting, meaning Class C shares have zero 
 
 ## Economic rights across share classes
 
-A critical principle in most multi-class structures is **pro-rata economic alignment**: all share classes receive the same [dividend-yield](dividend-yield) and participate equally in asset sales or [liquidation-preference-equity](liquidation-preference-equity).
+A critical principle in most multi-class structures is **pro-rata economic alignment**: all share classes receive the same [dividend-yield](/dividend-yield/) and participate equally in asset sales or liquidation-preference-equity.
 
 **Example:**
 
@@ -117,7 +117,7 @@ Sometimes Class B shares carry a provision: if a founder leaves or loses a board
 
 ## Voting control and board influence
 
-The voting structure affects board elections and major decisions (mergers, [acquisition](acquisition), charter amendments).
+The voting structure affects board elections and major decisions (mergers, [acquisition](/acquisition/), charter amendments).
 
 **Typical voting requirements:**
 - **Standard corporate actions** (hiring officers, declaring dividends): Simple majority of voting shares.

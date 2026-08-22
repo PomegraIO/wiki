@@ -1,6 +1,7 @@
 ---
 title: "Crypto Exchange Withdrawal Limits Explained"
-description: "Understand why exchanges impose daily withdrawal caps, how KYC tier affects limits, and what happens when you hit a limit or need to withdraw more."
+seo_title: "Crypto Exchange Withdrawal Limits: Why They Exist"
+description: "Exchanges cap daily crypto withdrawals for AML compliance and theft protection; your KYC tier sets the limit. How to raise it and what the cap means."
 keywords:
   - crypto exchange withdrawal limits
   - daily withdrawal caps

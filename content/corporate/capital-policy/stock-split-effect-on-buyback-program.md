@@ -9,7 +9,7 @@ keywords:
 image: /svg/corporate.svg
 ---
 
-*When a company executes a forward or reverse **stock split**, any existing board-authorized [share repurchase program](share-buyback/) is automatically adjusted in both dollar amount and share count to maintain the same proportional authorization. A 2-for-1 split doubles the authorized share count but halves the cost per share, keeping the total dollar commitment constant.*
+*When a company executes a forward or reverse **stock split**, any existing board-authorized [share repurchase program](/share-buyback/) is automatically adjusted in both dollar amount and share count to maintain the same proportional authorization. A 2-for-1 split doubles the authorized share count but halves the cost per share, keeping the total dollar commitment constant.*
 
 <aside class="wiki-infobox">
 
@@ -32,7 +32,7 @@ image: /svg/corporate.svg
 
 ## Why Both Dollar and Share Counts Must Adjust
 
-A board authorization for a [share buyback](share-buyback/) specifies both a total dollar amount (e.g., "$5 billion authorized") and sometimes a maximum number of shares (e.g., "up to 100 million shares"). The company's intent is to return that amount of capital to shareholders via repurchase. A [stock split](stock-split-effect-on-buyback-program/) does not change the company's capital-return intention; it just divides each share into multiple pieces.
+A board authorization for a [share buyback](/share-buyback/) specifies both a total dollar amount (e.g., "$5 billion authorized") and sometimes a maximum number of shares (e.g., "up to 100 million shares"). The company's intent is to return that amount of capital to shareholders via repurchase. A [stock split](/stock-split-effect-on-buyback-program/) does not change the company's capital-return intention; it just divides each share into multiple pieces.
 
 When a company executes a 2-for-1 stock split, each outstanding share becomes two shares. If the board had authorized the repurchase of 100 million shares at an average price of $50, that authorization represented $5 billion in capital return. After the 2-for-1 split, the same economic authorization must now read as 200 million shares at an average price of $25 (assuming no change in the stock's intrinsic value). The total dollars remain $5 billion, but the mechanics adjust.
 
@@ -75,21 +75,21 @@ Reverse splits often signal distress—they are typically used by companies whos
 
 ## Interaction with Ongoing Repurchases
 
-If a company is actively buying back shares when it announces a stock split, the repurchase program usually continues without interruption. The company's repurchase plan—whether executed through an [accelerated share repurchase](accelerated-share-repurchase-explained/) agreement, open-market purchases, or algorithmic programs—simply switches to the adjusted share count and price parameters the moment the split becomes effective (usually after a brief ex-date).
+If a company is actively buying back shares when it announces a stock split, the repurchase program usually continues without interruption. The company's repurchase plan—whether executed through an [accelerated share repurchase](/accelerated-share-repurchase-explained/) agreement, open-market purchases, or algorithmic programs—simply switches to the adjusted share count and price parameters the moment the split becomes effective (usually after a brief ex-date).
 
-For companies with large standing repurchase orders or [10b5-1 plans](share-buyback/) (algorithmic buyback plans), the trading plan is typically paused, reset with the split-adjusted parameters, and resumed. The broker managing the plan updates their algorithms to reflect the new share quantity and price targets. There is minimal disruption in practice.
+For companies with large standing repurchase orders or [10b5-1 plans](/share-buyback/) (algorithmic buyback plans), the trading plan is typically paused, reset with the split-adjusted parameters, and resumed. The broker managing the plan updates their algorithms to reflect the new share quantity and price targets. There is minimal disruption in practice.
 
 ## SEC and Disclosure Requirements
 
-The [Securities and Exchange Commission](securities-and-exchange-commission/) requires that a stock split and any adjusted authorizations be disclosed in the company's proxy statement (Schedule 14A filed ahead of the shareholder meeting where the split is approved). The proxy will clearly state the existing buyback authorization and the adjusted share count and dollar amounts post-split.
+The [Securities and Exchange Commission](/securities-and-exchange-commission/) requires that a stock split and any adjusted authorizations be disclosed in the company's proxy statement (Schedule 14A filed ahead of the shareholder meeting where the split is approved). The proxy will clearly state the existing buyback authorization and the adjusted share count and dollar amounts post-split.
 
-When the split is executed, the company may file a Form 8-K (Current Report) to announce the split effective date and the adjusted authorization. Quarterly and annual [10-Q](10-k/) and [10-K](10-k/) filings will also reflect the updated authorization levels. Investors and analysts rely on these disclosures to track the remaining repurchase capacity.
+When the split is executed, the company may file a Form 8-K (Current Report) to announce the split effective date and the adjusted authorization. Quarterly and annual [10-Q](/10-k/) and [10-K](/10-k/) filings will also reflect the updated authorization levels. Investors and analysts rely on these disclosures to track the remaining repurchase capacity.
 
 ## Impact on Share Buyback Tracking and Valuation Models
 
-For equity investors and analysts, the split-adjusted authorization is essential for tracking a company's capital-return program. Valuation models that incorporate expected [share count](common-stock/) reductions over time must use the split-adjusted repurchase schedule.
+For equity investors and analysts, the split-adjusted authorization is essential for tracking a company's capital-return program. Valuation models that incorporate expected [share count](/common-stock/) reductions over time must use the split-adjusted repurchase schedule.
 
-If an investor built a model assuming the company would repurchase 100 million shares at an average price of $50, the model value would be wrong after a 2-for-1 split if not adjusted. The company now repurchases 200 million shares at $25 each—same total dollars, but the [earnings per share](earnings-per-share/) impact (due to larger share count reduction) remains the same. The model remains valid if the analyst understands this mechanical relationship and restates both the share count and price assumptions.
+If an investor built a model assuming the company would repurchase 100 million shares at an average price of $50, the model value would be wrong after a 2-for-1 split if not adjusted. The company now repurchases 200 million shares at $25 each—same total dollars, but the [earnings per share](/earnings-per-share/) impact (due to larger share count reduction) remains the same. The model remains valid if the analyst understands this mechanical relationship and restates both the share count and price assumptions.
 
 Some investors watch buyback authorization trends as a signal of management confidence. A company that expends its original $10 billion authorization and then requests a new $10 billion authorization signals steady capital returns. But after a 2-for-1 split, that same authorization—now stated as 400 million shares instead of 200 million—is economically identical and should not be misinterpreted as a more aggressive program.
 

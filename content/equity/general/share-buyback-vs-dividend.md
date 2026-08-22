@@ -34,8 +34,8 @@ image: /svg/equity.svg
 
 A company with $1 billion in cash and a stable business faces a recurring question: Should it pay dividends, buy back shares, or reinvest? The decision affects:
 
-- **Shareholder returns**: Buybacks raise [earnings-per-share](earnings-per-share) mechanically (same profit, fewer shares); dividends provide immediate cash to all holders.
-- **Tax burden**: Dividend recipients pay income tax right away. Buyback holders pay [long-term-capital-gain-tax](long-term-capital-gain-tax) only when they sell, and only on gains.
+- **Shareholder returns**: Buybacks raise [earnings-per-share](/earnings-per-share/) mechanically (same profit, fewer shares); dividends provide immediate cash to all holders.
+- **Tax burden**: Dividend recipients pay income tax right away. Buyback holders pay [long-term-capital-gain-tax](/long-term-capital-gain-tax/) only when they sell, and only on gains.
 - **Flexibility**: A dividend, once initiated, is difficult to cut without signaling trouble. Buybacks can stop or pause without damaging credibility.
 - **Ownership structure**: Buybacks reduce total shares and concentrate ownership among non-selling shareholders. Dividends preserve share count.
 
@@ -43,7 +43,7 @@ The choice also reflects management confidence. A buyback at today's stock price
 
 ## How a share buyback works
 
-In a **share buyback** (also called a repurchase or **share repurchase**), the company purchases its own shares on the open market, through privately negotiated block trades, or via a Dutch auction. The repurchased shares are either retired (reducing authorized shares) or held as [treasury stock](treasury-stock-method)—shares the company owns but does not count in voting or [earnings-per-share](earnings-per-share) calculations.
+In a **share buyback** (also called a repurchase or **share repurchase**), the company purchases its own shares on the open market, through privately negotiated block trades, or via a Dutch auction. The repurchased shares are either retired (reducing authorized shares) or held as treasury stock—shares the company owns but does not count in voting or [earnings-per-share](/earnings-per-share/) calculations.
 
 **The mechanics:**
 
@@ -55,9 +55,9 @@ In a **share buyback** (also called a repurchase or **share repurchase**), the c
 
 4. **Share count reduction**: Outstanding shares decline by the number repurchased. If a company had 100 million shares and repurchased 5 million, it now has 95 million outstanding.
 
-5. **EPS recalculation**: With fewer shares in the denominator, [earnings-per-share](earnings-per-share) rises mechanically. If net income is $500 million and shares fall from 100 million to 95 million, EPS rises from $5.00 to $5.26—a 5.2% boost with no change in profit.
+5. **EPS recalculation**: With fewer shares in the denominator, [earnings-per-share](/earnings-per-share/) rises mechanically. If net income is $500 million and shares fall from 100 million to 95 million, EPS rises from $5.00 to $5.26—a 5.2% boost with no change in profit.
 
-**Capital source**: Buyback cash typically comes from operating cash flow, sales of assets, or debt issuance. Buying back shares funded by debt is a [leveraged-buyout](leveraged-buyout) structure at the corporate level; it increases leverage but can boost returns to equity holders if the cost of debt is lower than the return on repurchased shares.
+**Capital source**: Buyback cash typically comes from operating cash flow, sales of assets, or debt issuance. Buying back shares funded by debt is a [leveraged-buyout](/leveraged-buyout/) structure at the corporate level; it increases leverage but can boost returns to equity holders if the cost of debt is lower than the return on repurchased shares.
 
 ## How a dividend works
 
@@ -78,7 +78,7 @@ In a **dividend**, the company pays a fixed or variable amount of cash per share
 **Dividend types:**
 - **Regular dividends**: Recurring quarterly or annual payments (e.g., a company pays $2 per share each year).
 - **Special dividends**: One-time distributions, often when the company has excess cash from a large sale or unusual profit.
-- **Spin-off dividends**: Shareholders receive shares in a subsidiary rather than cash (taxed differently, may be non-taxable if structured as a [spin-off](spin-off)).
+- **Spin-off dividends**: Shareholders receive shares in a subsidiary rather than cash (taxed differently, may be non-taxable if structured as a [spin-off](/spin-off/)).
 
 ## Earnings per share effect
 
@@ -112,14 +112,14 @@ This distinction is important for investors: a rising EPS from buybacks is not t
 The tax treatment differs sharply:
 
 **Dividend tax:**
-- Dividends are taxed as income in the hands of the recipient, typically at [marginal-tax-rate-investor](marginal-tax-rate-investor) rates (often 20–37% for ordinary dividends in the US; lower for "qualified" dividends held >60 days).
+- Dividends are taxed as income in the hands of the recipient, typically at [marginal-tax-rate-investor](/marginal-tax-rate-investor/) rates (often 20–37% for ordinary dividends in the US; lower for "qualified" dividends held >60 days).
 - Tax is due in the year of receipt, regardless of whether the shareholder needs the cash.
 - Non-US investors often face withholding taxes and complex treaty claims.
 
 **Buyback tax:**
 - No tax is triggered on the company or the remaining shareholders at the moment of repurchase.
-- Shareholders who do not sell incur no tax. Those who do sell realize [capital-gains-tax-investor](capital-gains-tax-investor) only on gains above their [cost-basis](cost-basis).
-- Gains are taxed at [long-term-capital-gain-tax](long-term-capital-gain-tax) rates (often lower than ordinary income) if the share is held >1 year.
+- Shareholders who do not sell incur no tax. Those who do sell realize [capital-gains-tax-investor](/capital-gains-tax-investor/) only on gains above their [cost-basis](/cost-basis/).
+- Gains are taxed at [long-term-capital-gain-tax](/long-term-capital-gain-tax/) rates (often lower than ordinary income) if the share is held >1 year.
 - Shareholders control the timing of their tax liability—they decide when to sell.
 
 This tax-deferral benefit is the strongest economic case for buybacks. A shareholder who holds a buyback-repurchasing stock can defer taxation indefinitely, paying tax only when they sell and only at capital-gains rates.

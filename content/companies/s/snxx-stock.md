@@ -1,6 +1,7 @@
 ---
 title: "Tradr 2X Long SNDK Daily ETF (SNXX)"
-description: "SNXX is a leveraged daily reset ETF that aims to deliver twice the daily return of SanDisk stock (SNDK), using options and swaps to amplify moves — a specialized instrument for short-term traders, not long-term investors."
+seo_title: "SNXX Stock: Tradr 2X Long SNDK Daily ETF Explained"
+description: "SNXX is a leveraged ETF seeking twice the daily return of SanDisk (SNDK) stock. How it works, its daily-reset decay risk, and who it's built for."
 keywords:
   - leveraged ETF
   - daily reset

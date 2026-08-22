@@ -1,6 +1,7 @@
 ---
 title: "SPDR S&P 500 ETF TRUST (SPY)"
-description: "SPY is an index fund that holds all 500 companies in the S&P 500, letting investors own the broad US stock market through a single share that trades on an exchange like any stock."
+seo_title: "SPY Stock: The S&P 500 ETF Explained (SPDR Trust)"
+description: "SPY is the SPDR S&P 500 ETF: one share holds all 500 companies in the S&P 500, letting you own the broad US market and trade it like a single stock."
 keywords:
   - index fund
   - s&p 500

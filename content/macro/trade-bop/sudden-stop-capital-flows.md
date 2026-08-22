@@ -10,7 +10,7 @@ keywords:
   - capital inflow reversal
 ---
 
-*A **sudden stop in capital flows** is the abrupt, large-scale withdrawal of foreign investment from an emerging market. International investors who were happily buying local bonds, equities, and funding local banks suddenly stop rolling over their loans and flee to safety. The result is immediate currency depreciation, rising [interest rates](), and a [balance-of-payments crisis]() that can freeze the entire financial system.*
+*A **sudden stop in capital flows** is the abrupt, large-scale withdrawal of foreign investment from an emerging market. International investors who were happily buying local bonds, equities, and funding local banks suddenly stop rolling over their loans and flee to safety. The result is immediate currency depreciation, rising interest rates, and a balance-of-payments crisis that can freeze the entire financial system.*
 
 <aside class="wiki-infobox">
 
@@ -33,7 +33,7 @@ keywords:
 
 ## What flows out and why it matters
 
-For years, an emerging market like Turkey, Brazil, or Argentina attracts foreign money: U.S. investment banks buy local government bonds at attractive yields, foreign equity funds load up on local stocks, and international banks extend credit lines to local corporations. The country's [current account deficit]() (imports exceed exports) is financed by these inflows. The currency is stable or appreciating. Local interest rates are low, credit is abundant.
+For years, an emerging market like Turkey, Brazil, or Argentina attracts foreign money: U.S. investment banks buy local government bonds at attractive yields, foreign equity funds load up on local stocks, and international banks extend credit lines to local corporations. The country's current account deficit (imports exceed exports) is financed by these inflows. The currency is stable or appreciating. Local interest rates are low, credit is abundant.
 
 Then something shifts. Maybe the Federal Reserve signals higher U.S. interest rates, making safe Treasuries more attractive than risky emerging-market bonds. Maybe the emerging market's central bank is perceived as weak or politically captured. Maybe a peer country (another emerging market) suffers a crisis and investors panic-sell all emerging-market assets. Suddenly, the inflow stops. More than that: existing foreign investors want out.
 
@@ -43,19 +43,19 @@ This is the sudden stop. It is not a gradual slowdown—it is a halt.
 
 ## The balance-of-payments dimension
 
-The [balance of payments]() is an accounting of all money flowing in and out of a country. The [current account]() captures trade (exports minus imports) and [income flows](/). The [capital account]() (or financial account) captures investment and lending.
+The balance of payments is an accounting of all money flowing in and out of a country. The current account captures trade (exports minus imports) and [income flows](/). The capital account (or financial account) captures investment and lending.
 
 During normal times, an emerging market with a current account deficit—say, imports exceed exports by 5% of GDP—is financed by a capital account surplus: foreign investment inflows exceed outflows. The two roughly balance. Reserves might tick down slightly, but the currency holds steady.
 
 A sudden stop reverses the capital account. Inflows fall below zero: there is a net outflow. The current account deficit cannot be financed anymore. The country is left with a choice: (a) deplete foreign exchange reserves to cover the gap, (b) let the currency crash, or (c) some combination. Most sudden stops involve a combination: reserves drop, the currency plummets, and the central bank raises interest rates to attract some capital back and slow the outflow.
 
-If the country's foreign currency debt is large relative to reserves, the situation is dire. A country with $50 billion of short-term dollar-denominated debt and only $20 billion of reserves cannot sustain a large outflow for long. It will default on some debt or need emergency lending from the [IMF]() or other official sources.
+If the country's foreign currency debt is large relative to reserves, the situation is dire. A country with $50 billion of short-term dollar-denominated debt and only $20 billion of reserves cannot sustain a large outflow for long. It will default on some debt or need emergency lending from the IMF or other official sources.
 
 ## Historical sudden stops: Mexico 1994, East Asia 1997, Turkey 2018
 
 The 1994 Mexican peso crisis is a textbook case. Mexico had built a current account deficit of 7–8% of GDP, financed mostly by short-term foreign portfolio investment. When U.S. interest rates rose (the Fed tightened in 1994) and investors worried about Mexico's political stability, they fled. The peso collapsed from 3.5 per dollar to 7 per dollar within months. Mexico defaulted on its short-term debt and required a $50 billion emergency bailout package.
 
-The 1997–1998 East Asian crisis involved sudden stops in Thailand, Indonesia, South Korea, and Malaysia. Thailand had maintained a [fixed exchange rate]() peg to the U.S. dollar while running a large current account deficit funded by short-term foreign borrowing in dollars. When investors realized the peg was unsustainable and rushed for the exits, Thailand burned through its foreign exchange reserves in days, the peg collapsed, the baht crashed, and the crisis cascaded to neighboring countries. The contagion was rapid because all these countries had similar vulnerabilities.
+The 1997–1998 East Asian crisis involved sudden stops in Thailand, Indonesia, South Korea, and Malaysia. Thailand had maintained a fixed exchange rate peg to the U.S. dollar while running a large current account deficit funded by short-term foreign borrowing in dollars. When investors realized the peg was unsustainable and rushed for the exits, Thailand burned through its foreign exchange reserves in days, the peg collapsed, the baht crashed, and the crisis cascaded to neighboring countries. The contagion was rapid because all these countries had similar vulnerabilities.
 
 Turkey experienced a sharp sudden stop in 2018 when the U.S. imposed tariffs and the Fed continued raising rates. Foreign investors fled Turkish assets, the lira depreciated by 40%, and local interest rates spiked to 25% as the central bank tried desperately to attract capital back and slow the outflow.
 

@@ -4,7 +4,7 @@ description: "Water treatment technology company developing advanced purificatio
 keywords: ["water treatment", "purification technology", "environmental engineering", "industrial systems", "aquaculture"]
 ---
 
-*[**BIOLARGO, INC.**](BLGO) operates at the intersection of industrial water treatment and specialized purification, generating revenue through proprietary technologies that remove contaminants across municipal and industrial applications. The company's economics hinge on licensing its core purification systems and selling consumable filters and media that customers replace on regular schedules.*
+***BIOLARGO, INC.** operates at the intersection of industrial water treatment and specialized purification, generating revenue through proprietary technologies that remove contaminants across municipal and industrial applications. The company's economics hinge on licensing its core purification systems and selling consumable filters and media that customers replace on regular schedules.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BLGO</td></tr>

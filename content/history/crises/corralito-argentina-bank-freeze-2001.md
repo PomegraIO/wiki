@@ -1,6 +1,7 @@
 ---
 title: "Corralito: Argentina's 2001 Bank Account Freeze"
-description: "Argentina's December 2001 emergency measure locking depositors out of dollar bank accounts — withdrawal caps, duration, and resolution of the freeze."
+seo_title: "Corralito: Argentina's 2001 Bank Freeze Explained"
+description: "The corralito was Argentina's December 2001 bank withdrawal freeze, capping depositors at 250 pesos a week. Why it happened and how it ended."
 keywords:
   - corralito argentina bank account freeze
   - argentina 2001 bank freeze

@@ -4,7 +4,7 @@ description: "An agricultural technology company developing soil analysis and pr
 keywords: ["agtech", "precision agriculture", "soil science", "crop optimization", "farm technology"]
 ---
 
-*[Earth Science Tech, Inc.](ETST) is an agricultural technology enterprise focused on soil testing, nutrient optimization, and data-driven guidance for commodity crop growers—primarily corn, soybean, and wheat farmers across North America. The company commercializes soil analysis services, proprietary field-mapping tools, and subscription-based decision-support software.*
+*Earth Science Tech, Inc. is an agricultural technology enterprise focused on soil testing, nutrient optimization, and data-driven guidance for commodity crop growers—primarily corn, soybean, and wheat farmers across North America. The company commercializes soil analysis services, proprietary field-mapping tools, and subscription-based decision-support software.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>ETST</td></tr>

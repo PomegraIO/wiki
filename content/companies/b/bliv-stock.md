@@ -4,7 +4,7 @@ description: "Technology-enabled staffing and scheduling platform serving hospit
 keywords: ["staffing", "scheduling platform", "hospitality", "gig economy", "workforce management"]
 ---
 
-*[**BeLive Holdings**](BLIV) operates a marketplace that matches hospitality and event-industry workers with short-term staffing needs, monetizing through take-rates on completed shifts and subscription-style access fees for employers. The business model's economics hinge on building enough supply (workers) and demand (employers) that the platform achieves liquidity—where shifts fill quickly and workers find consistent booking patterns.*
+***BeLive Holdings** operates a marketplace that matches hospitality and event-industry workers with short-term staffing needs, monetizing through take-rates on completed shifts and subscription-style access fees for employers. The business model's economics hinge on building enough supply (workers) and demand (employers) that the platform achieves liquidity—where shifts fill quickly and workers find consistent booking patterns.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BLIV</td></tr>

@@ -1,6 +1,7 @@
 ---
 title: "Prime Rate"
-description: "The prime rate is the interest rate at which commercial banks lend to their most creditworthy customers, closely tracking the federal funds rate."
+seo_title: "Prime Rate Explained: How It's Set and Why It Matters"
+description: "The prime rate is the rate banks charge their most creditworthy customers, moving in lockstep with the federal funds rate. What sets it and what it moves."
 keywords:
   - prime rate
   - prime lending rate

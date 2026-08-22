@@ -1,6 +1,7 @@
 ---
 title: "Inflation"
-description: "Inflation is a sustained rise in the general price level of goods and services, eroding the purchasing power of money. Central banks target 2% annual inflation, and inflation profoundly affects wages, debts, stocks, and bonds."
+seo_title: "Inflation: Definition, Causes & How It Affects You"
+description: "Inflation is a sustained rise in prices that erodes money's purchasing power. What causes it, how CPI measures it, and its impact on wages and investments."
 keywords:
   - inflation
   - CPI

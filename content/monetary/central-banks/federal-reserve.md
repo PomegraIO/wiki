@@ -1,6 +1,7 @@
 ---
 title: "Federal Reserve"
-description: "The Federal Reserve is the central bank of the United States. It conducts monetary policy, manages the money supply, oversees the banking system, and pursues a dual mandate of maximum employment and price stability."
+seo_title: "Federal Reserve: What the Fed Is and What It Does"
+description: "The Federal Reserve is the US central bank: it sets interest rates, manages the money supply, and supervises banks under its dual mandate. How it works."
 keywords:
   - Federal Reserve
   - central bank

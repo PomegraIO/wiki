@@ -1,6 +1,7 @@
 ---
 title: "ALLEGRO MICROSYSTEMS, INC. (ALGM)"
-description: "Power semiconductor and sensor manufacturer for automotive, industrial, and consumer markets. Specializes in motor drivers, power conversion, and sensing ICs."
+seo_title: "ALGM Stock: Allegro's Automotive Chip Franchise"
+description: "Allegro MicroSystems (ALGM) makes motor drivers, power ICs, and magnetic sensors, mostly for cars and EVs. Its moat, fabless model, and cyclical risks."
 keywords:
   - semiconductor
   - power management

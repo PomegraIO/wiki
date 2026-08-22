@@ -125,7 +125,7 @@ After a 2-for-1 split, the company restates historical EPS:
 - Shares outstanding: 20 million
 - EPS: $2.50 (restated)
 
-The company will report historical EPS as $2.50 (adjusted), so year-over-year comparisons remain meaningful. This is different from [warrant-exercise-corporate-action](warrant-exercise-corporate-action), which creates actual dilution—fewer shares outstanding mean less dilution, but the same net income, so EPS actually improves as a result of the warrant exercise.
+The company will report historical EPS as $2.50 (adjusted), so year-over-year comparisons remain meaningful. This is different from [warrant-exercise-corporate-action](/warrant-exercise-corporate-action/), which creates actual dilution—fewer shares outstanding mean less dilution, but the same net income, so EPS actually improves as a result of the warrant exercise.
 
 In a stock split, there is no real change to earnings power per original share. The restatement is purely mechanical.
 
@@ -143,7 +143,7 @@ After a 2-for-1 split:
 - Quarterly dividend: $0.10 per share
 - Annual dividend: $0.40 per share
 
-Your total dollar payout remains the same (if you own 100 pre-split shares and receive $0.20, that is $20; if you own 200 post-split shares and receive $0.10, that is $20). The [dividend-yield](dividend-yield) is also unchanged.
+Your total dollar payout remains the same (if you own 100 pre-split shares and receive $0.20, that is $20; if you own 200 post-split shares and receive $0.10, that is $20). The [dividend-yield](/dividend-yield/) is also unchanged.
 
 ## Tax consequences of a stock split
 
@@ -200,7 +200,7 @@ Stock splits differ fundamentally from other share-count adjustments:
 | Buyback | Decrease | Variable | Decreased | Yes (to dilution from outside) |
 | Warrant exercise | Increase | Variable | Unchanged (in theory) | Yes (dilutes existing holders) |
 
-Only [warrant-exercise-corporate-action](warrant-exercise-corporate-action) and [share-buyback-vs-dividend](share-buyback-vs-dividend) truly dilute or concentrate existing shareholder ownership. A stock split is purely mechanical.
+Only [warrant-exercise-corporate-action](/warrant-exercise-corporate-action/) and [share-buyback-vs-dividend](/share-buyback-vs-dividend/) truly dilute or concentrate existing shareholder ownership. A stock split is purely mechanical.
 
 ## See also
 

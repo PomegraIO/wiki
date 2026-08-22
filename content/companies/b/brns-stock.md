@@ -4,7 +4,7 @@ description: "Clinical-stage biopharmaceutical company developing RNA-based immu
 keywords: ["biotech", "immunotherapy", "clinical trials", "oncology", "RNA"]
 ---
 
-*[**Barinthus Biotherapeutics plc.**](BRNS), listed under ticker BRNS and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1828185, is a clinical-stage biopharmaceutical company headquartered in the United Kingdom and traded on US exchanges. The company is developing RNA-based immunotherapies targeting [cancer](/stock/) and infectious diseases, competing in the crowded field of personalized oncology and immunotherapy development. As a pre-revenue or early-stage clinical company, Barinthus represents a high-risk, capital-intensive [investment](/public-company/) model where value depends entirely on the clinical and regulatory success of its pipeline.*
+***Barinthus Biotherapeutics plc.**, listed under ticker BRNS and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1828185, is a clinical-stage biopharmaceutical company headquartered in the United Kingdom and traded on US exchanges. The company is developing RNA-based immunotherapies targeting [cancer](/stock/) and infectious diseases, competing in the crowded field of personalized oncology and immunotherapy development. As a pre-revenue or early-stage clinical company, Barinthus represents a high-risk, capital-intensive [investment](/public-company/) model where value depends entirely on the clinical and regulatory success of its pipeline.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BRNS</td></tr>

@@ -1,6 +1,7 @@
 ---
 title: "Loss Severity"
-description: "The percentage of a loan's outstanding balance that is lost after a default, accounting for recovery from collateral sale, foreclosure costs, and legal expenses."
+seo_title: "Loss Severity: How Much a Default Really Costs"
+description: "Loss severity is the share of a defaulted loan balance lost after collateral recovery and costs. The formula, drivers, and role in structured credit."
 ---
 
 *When a borrower defaults, the lender does not simply lose the entire loan balance. It seizes collateral, sells it, and recovers some proceeds. Loss severity measures the shortfall: if a $300,000 mortgage defaults and the house sells for $200,000 after foreclosure costs, loss severity is 33% ($100,000 loss ÷ $300,000 exposure). In structured credit, loss severity is one of the three drivers of expected credit losses and is critical to pricing and structuring securitizations.*

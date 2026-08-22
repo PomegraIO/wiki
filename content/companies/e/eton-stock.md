@@ -4,7 +4,7 @@ description: "A specialty pharmaceutical company licensing and commercializing a
 keywords: ["pharmaceuticals", "specialty drugs", "rare disease", "drug licensing", "FDA approval"]
 ---
 
-*[Eton Pharmaceuticals Inc.](ETON) operates as a specialty pharmaceutical company that acquires U.S. and Canadian marketing rights to already-approved drugs, then commercializes them to physicians treating rare diseases, unmet acute conditions, and historically neglected patient populations. The company holds no patent portfolio of its own and funds its pipeline through milestone payments and royalties rather than discovery research.*
+*Eton Pharmaceuticals Inc. operates as a specialty pharmaceutical company that acquires U.S. and Canadian marketing rights to already-approved drugs, then commercializes them to physicians treating rare diseases, unmet acute conditions, and historically neglected patient populations. The company holds no patent portfolio of its own and funds its pipeline through milestone payments and royalties rather than discovery research.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>ETON</td></tr>

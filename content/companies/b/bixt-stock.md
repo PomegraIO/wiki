@@ -9,7 +9,7 @@ keywords:
   - therapeutic innovation
 ---
 
-*[**BioXytran, Inc** (BIXT)](BIXT) sits at the earliest commercial phase of the biotech lifecycle: pre-clinical to early clinical development, where the company has identified a technology platform but must now prove both scientific feasibility and a viable path to market. The company represents the classic startup biotech archetype—a small team, focused on a specific therapeutic concept, backed by limited capital and dependent on the ability to attract partners or investors. BioXytran's lifecycle stage is defined by technology validation: can the company demonstrate that its approach works in practice, and does the science translate into something the market will adopt?*
+***BioXytran, Inc** (BIXT) sits at the earliest commercial phase of the biotech lifecycle: pre-clinical to early clinical development, where the company has identified a technology platform but must now prove both scientific feasibility and a viable path to market. The company represents the classic startup biotech archetype—a small team, focused on a specific therapeutic concept, backed by limited capital and dependent on the ability to attract partners or investors. BioXytran's lifecycle stage is defined by technology validation: can the company demonstrate that its approach works in practice, and does the science translate into something the market will adopt?*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BIXT</td></tr>

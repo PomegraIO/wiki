@@ -10,7 +10,7 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*Paying off debt can paradoxically lower your credit score in the short term because credit scores reward an active mix of credit types (revolving and installment), and closing an account removes diversity; your [credit utilization](credit-utilization-ratio) may also change unfavorably, and your average account age may decline if the paid-off account was old—but these effects are temporary and the long-term benefit of lower debt far outweighs a modest score dip.*
+*Paying off debt can paradoxically lower your credit score in the short term because credit scores reward an active mix of credit types (revolving and installment), and closing an account removes diversity; your [credit utilization](/credit-utilization-ratio/) may also change unfavorably, and your average account age may decline if the paid-off account was old—but these effects are temporary and the long-term benefit of lower debt far outweighs a modest score dip.*
 
 <aside class="wiki-infobox">
 
@@ -32,7 +32,7 @@ image: "/svg/personal-finance.svg"
 
 ## The Counterintuitive Credit Mix Problem
 
-Credit scoring models, especially FICO, divide credit into two types: revolving credit (credit cards, lines of credit) and installment credit (auto loans, mortgages, student loans). A healthy credit portfolio includes both, and the [credit mix](credit-mix)—the diversity of credit types—makes up 10% of your FICO score.
+Credit scoring models, especially FICO, divide credit into two types: revolving credit (credit cards, lines of credit) and installment credit (auto loans, mortgages, student loans). A healthy credit portfolio includes both, and the [credit mix](/credit-mix/)—the diversity of credit types—makes up 10% of your FICO score.
 
 When you pay off an installment loan entirely, you close that account. A car loan, personal loan, or mortgage disappears from your active credit file. If that installment account was one of only a few sources of diversity in your portfolio, its closure reduces your overall mix. The scoring model now sees fewer types of credit and may lower your score as a result, because a narrower mix is seen as less-proven creditworthiness.
 
@@ -42,7 +42,7 @@ This penalty can be surprising because the natural reaction to financial health 
 
 ## The Account Age Decline
 
-Credit score models weight account age heavily; [credit history length](credit-history-length) comprises 15% of FICO. The longer your oldest account, the higher your score, all else equal. If you have had a credit card for 15 years and a mortgage for 10, your average account age is 12.5 years—a strong signal of long-term creditworthiness.
+Credit score models weight account age heavily; credit history length comprises 15% of FICO. The longer your oldest account, the higher your score, all else equal. If you have had a credit card for 15 years and a mortgage for 10, your average account age is 12.5 years—a strong signal of long-term creditworthiness.
 
 But if you pay off and close the mortgage, you lose 10 years of active history. If that mortgage was one of your oldest accounts, its closure can drop your average account age. The impact is muted if you have other old accounts still open (like that 15-year credit card), but the loss is real. Worse, if the closed account was your oldest, your effective credit history just got shorter.
 
@@ -50,7 +50,7 @@ This is why financial advisors often counsel against closing old credit cards ev
 
 ## Utilization Swings
 
-[Credit utilization](credit-utilization-ratio)—the ratio of your total credit balances to your total credit limits—makes up 30% of your FICO score, second only to payment history. A low utilization (under 10%) is ideal; a high utilization (over 50%) signals financial stress and is penalized heavily.
+[Credit utilization](/credit-utilization-ratio/)—the ratio of your total credit balances to your total credit limits—makes up 30% of your FICO score, second only to payment history. A low utilization (under 10%) is ideal; a high utilization (over 50%) signals financial stress and is penalized heavily.
 
 Paying off a loan can affect utilization in two ways. If you paid off a credit card balance, your utilization immediately improves (the balance goes to zero, the ratio falls), which should help your score. But if you close the card entirely, you lose the credit limit, which can raise your overall utilization ratio.
 

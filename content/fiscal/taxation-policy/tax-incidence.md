@@ -43,7 +43,7 @@ The party with *lower* elasticity bears *more* of the burden. This is the cleare
 
 Consider a tax on cigarettes. Smokers tend to be price-inelastic—addiction means demand doesn't fall sharply when prices rise—so cigarette tax incidence falls heavily on consumers. Contrast this with a tax on a luxury good with many substitutes: demand is elastic, consumers cut purchases, and suppliers must drop prices to clear inventory, bearing much of the tax's burden.
 
-The same logic applies to labour. A [payroll tax](payroll-tax) nominally charged to employers can be entirely passed to workers as lower wages if labour supply is inelastic and labour demand is elastic. Conversely, if workers can easily find other employment and firms face tight labour markets, employers absorb more of the burden.
+The same logic applies to labour. A [payroll tax](/payroll-tax/) nominally charged to employers can be entirely passed to workers as lower wages if labour supply is inelastic and labour demand is elastic. Conversely, if workers can easily find other employment and firms face tight labour markets, employers absorb more of the burden.
 
 ## Why this matters for policy
 
@@ -55,17 +55,17 @@ The confusion between legal and economic incidence often leads to political thea
 
 When a supplier passes a tax forward to the buyer, it is called **forward-shifting**. The price faced by consumers rises. When a supplier absorbs part or all of a tax and lowers its purchase prices or wages, it is called **backward-shifting**. Workers or input suppliers bear the burden.
 
-A uniform [corporate income tax](corporate-income-tax) typically involves both: some is forward-shifted to consumers through higher product prices (if the tax reduces capital returns); some is backward-shifted to workers as lower wages (if less capital is employed). Estimating the split is contentious—recent research suggests the burden is distributed broadly across workers, consumers, and capital owners, with incidence varying by industry and time horizon.
+A uniform [corporate income tax](/corporate-income-tax/) typically involves both: some is forward-shifted to consumers through higher product prices (if the tax reduces capital returns); some is backward-shifted to workers as lower wages (if less capital is employed). Estimating the split is contentious—recent research suggests the burden is distributed broadly across workers, consumers, and capital owners, with incidence varying by industry and time horizon.
 
 ## Empirical complexities
 
 In practice, tax incidence is harder to measure than the theory suggests. Markets adjust dynamically, factor mobility changes over time, and many taxes are imposed simultaneously, making isolation difficult. A tax on land—which has zero elasticity of supply—should theoretically be borne entirely by landowners, yet land values incorporate expected future taxes, and the burden may fall partly on users through higher rents.
 
-Empirical studies typically use [comparative-statics analysis](comparative-statics), comparing economies before and after a tax change, controlling for confounding factors. The findings are often specific to context: the incidence of a corporate tax in a small open economy differs from a large, closed one; the incidence of a sales tax depends on the competitiveness of retail.
+Empirical studies typically use comparative-statics analysis, comparing economies before and after a tax change, controlling for confounding factors. The findings are often specific to context: the incidence of a corporate tax in a small open economy differs from a large, closed one; the incidence of a sales tax depends on the competitiveness of retail.
 
 ## Strategic responses and long-run incidence
 
-Incidence also shifts over time. In the short run, when supply is constrained, producers bear more burden. Over the long run, as capital reallocation and entry/exit occur, consumers and workers may bear more. A tax on a particular industry's profits may cause capital flight; a [capital gains tax](capital-gains-tax-investor) may reduce investment and ultimately reduce wages. The long-run incidence is often more regressive than the short-run, even if the tax appears to target wealth.
+Incidence also shifts over time. In the short run, when supply is constrained, producers bear more burden. Over the long run, as capital reallocation and entry/exit occur, consumers and workers may bear more. A tax on a particular industry's profits may cause capital flight; a [capital gains tax](/capital-gains-tax-investor/) may reduce investment and ultimately reduce wages. The long-run incidence is often more regressive than the short-run, even if the tax appears to target wealth.
 
 ## See also
 

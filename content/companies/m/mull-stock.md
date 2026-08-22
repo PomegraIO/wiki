@@ -1,6 +1,7 @@
 ---
 title: "GraniteShares 2x Long MU Daily ETF (MULL)"
-description: "MULL is a leveraged ETF that delivers 2x daily returns of Micron Technology stock through derivatives and daily rebalancing, designed for tactical traders with understanding of volatility decay."
+seo_title: "MULL Stock: GraniteShares 2x Leveraged Micron ETF"
+description: "MULL is a GraniteShares ETF targeting 2x Micron Technology's daily return via swaps. How daily resets cause volatility decay and who it suits."
 keywords:
   - GraniteShares
   - Micron Technology

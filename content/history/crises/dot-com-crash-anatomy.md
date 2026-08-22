@@ -28,7 +28,7 @@ image: "/svg/history.svg"
 | **Decline** | NASDAQ fell ~78% from peak |
 | **Companies affected** | Hundreds of internet startups; many to zero |
 | **Capital destroyed** | ~$2–3 trillion in market value |
-| **Key metric failure** | Price-to-sales, click-throughs, eyeballs eclipsed [earnings](earnings-per-share/) |
+| **Key metric failure** | Price-to-sales, click-throughs, eyeballs eclipsed [earnings](/earnings-per-share/) |
 | **Recovery** | NASDAQ did not regain 2000 peak until 2007 |
 
 </aside>

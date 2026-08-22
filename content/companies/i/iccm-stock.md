@@ -4,7 +4,7 @@ description: "Medical device company developing and commercializing minimally in
 keywords: [medical-devices, cancer-treatment, cryotherapy, ablation, precision-medicine, surgical-oncology]
 ---
 
-*[IceCure Medical Ltd.](ICCM) manufactures and markets medical devices that use cryogenic (freezing) technology to ablate—destroy—cancerous and benign tumors in solid organs. Rather than surgical resection or thermal ablation (radiofrequency or microwave heat), IceCure's approach freezes tissue to lethal temperatures, allowing minimally invasive, image-guided destruction of tumors without large incisions.*
+*IceCure Medical Ltd. manufactures and markets medical devices that use cryogenic (freezing) technology to ablate—destroy—cancerous and benign tumors in solid organs. Rather than surgical resection or thermal ablation (radiofrequency or microwave heat), IceCure's approach freezes tissue to lethal temperatures, allowing minimally invasive, image-guided destruction of tumors without large incisions.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>ICCM</td></tr>

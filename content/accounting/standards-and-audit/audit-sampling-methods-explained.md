@@ -25,8 +25,8 @@ image: /svg/accounting.svg
 | **Definition** | Testing a portion of transactions to reach conclusions about the whole |
 | **Statistical approach** | Uses probability theory to measure [sampling risk](/) and determine sample size |
 | **Non-statistical approach** | Relies on auditor judgment; no formal risk measurement |
-| **When applied** | Testing internal controls, [accounts receivable](accounts-receivable), [inventory turnover](inventory-turnover), payroll, expense transactions |
-| **Key trade-off** | Efficiency vs. confidence level and [sampling risk]() |
+| **When applied** | Testing internal controls, [accounts receivable](/accounts-receivable/), [inventory turnover](/inventory-turnover/), payroll, expense transactions |
+| **Key trade-off** | Efficiency vs. confidence level and sampling risk |
 | **Sampling error** | The risk that sample results do not reflect the true population |
 
 </aside>
@@ -73,21 +73,21 @@ Non-statistical sampling is faster and easier to explain to management but provi
 
 ## Materiality and Sample Results
 
-An auditor must decide whether errors found in the sample, when projected to the population, would be material. [A material misstatement]() is one that, individually or in aggregate, would change decisions of a reasonable user of the financial statements.
+An auditor must decide whether errors found in the sample, when projected to the population, would be material. A material misstatement is one that, individually or in aggregate, would change decisions of a reasonable user of the financial statements.
 
-If a sample of 100 transactions shows five with incorrect amounts, each $50 off, the auditor projects $2,500 of error across the full population. If that projection exceeds [materiality](), the auditor will expand the sample, investigate further, or request that management adjust the account. If the projected error is well below materiality, the auditor typically concludes the account is fairly stated.
+If a sample of 100 transactions shows five with incorrect amounts, each $50 off, the auditor projects $2,500 of error across the full population. If that projection exceeds materiality, the auditor will expand the sample, investigate further, or request that management adjust the account. If the projected error is well below materiality, the auditor typically concludes the account is fairly stated.
 
 ## Selecting the Right Sampling Method
 
 The choice between statistical and non-statistical sampling depends on:
 
 - **Population size**: Larger populations (millions of transactions) favor statistical sampling.
-- **Risk assessment**: Higher [internal control]() risk or [fraud]() risk often calls for statistical rigor and larger samples.
+- **Risk assessment**: Higher internal control risk or fraud risk often calls for statistical rigor and larger samples.
 - **Audit objective**: Tests of controls often use attributes sampling; tests of account balances often use variables sampling or stratified sampling.
 - **Practicality**: Some transactions are too few or too critical for sampling; they require complete testing (e.g., all board-approved contracts).
 - **Auditor experience and resources**: Statistical sampling requires training and often software tools; non-statistical sampling is more accessible but less defensible.
 
-Regulators and professional standards (AICPA, PCAOB, [AICPA Audit Standards]()) expect auditors to justify their sampling approach and provide evidence that the sample size and method were sufficient for the engagement.
+Regulators and professional standards (AICPA, PCAOB, AICPA Audit Standards) expect auditors to justify their sampling approach and provide evidence that the sample size and method were sufficient for the engagement.
 
 ## Documentation and Governance
 
@@ -108,7 +108,7 @@ Audit sampling results must be documented in the working papers, including the p
 
 - Internal Control — the systems auditors test for effectiveness
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) — requires public company audits
-- [Material Misstatement]() — threshold for audit significance
-- [Financial Statement Audit Standards]() — professional guidance for audit scope
+- Material Misstatement — threshold for audit significance
+- Financial Statement Audit Standards — professional guidance for audit scope
 
 </div>

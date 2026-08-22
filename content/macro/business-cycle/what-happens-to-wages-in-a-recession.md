@@ -25,7 +25,7 @@ image: "/svg/macro.svg"
 | **Outright wage cuts** | Uncommon in developed economies; more common in severe downturns and low-wage sectors |
 | **Hours reductions** | Very common; full-time jobs become part-time, shifts get cancelled, overtime vanishes |
 | **Layoff composition** | Last-hired-first-fired + cyclical sectors hit hardest; survivor bias can mask average wage decline |
-| **Real wage effect** | Falls sharply if [inflation](../inflation/) persists; modest if deflation emerges |
+| **Real wage effect** | Falls sharply if [inflation](/inflation/) persists; modest if deflation emerges |
 | **Wage rigidity** | Nominal stickiness protects existing workers, but adjustment happens via employment, not pay |
 | **Recovery lag** | Wages typically recover slowly after [unemployment](/unemployment-rate/) peaks; wage growth lags GDP growth |
 

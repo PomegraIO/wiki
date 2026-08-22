@@ -33,7 +33,7 @@ keywords:
 
 ## The tail-risk alternative to mechanical rules
 
-The most widely taught framework for monetary policy is the **Taylor rule**: a formula that sets the [federal funds rate]() based on the current [inflation]() rate and the output gap (how far actual GDP is below potential). Follow the formula, and you maintain price stability and full employment. No guessing, no discretion.
+The most widely taught framework for monetary policy is the **Taylor rule**: a formula that sets the federal funds rate based on the current inflation rate and the output gap (how far actual GDP is below potential). Follow the formula, and you maintain price stability and full employment. No guessing, no discretion.
 
 A risk management approach departs from this. Instead of asking "What does the Taylor rule say?", policymakers ask: "What is the distribution of possible outcomes, and what tail risks are lurking?" A tail risk is the probability of an extreme bad outcome—the left tail of the distribution, where things go very wrong.
 
@@ -45,7 +45,7 @@ This is not abandoning inflation targeting. It is acknowledging that inflation t
 
 The risk management framework implies an **asymmetric loss function**. A central bank cares more about the pain of a severe recession (or depression) than about overshooting inflation by 1 or 2 percentage points. In other words, it is willing to tolerate a downside miss on inflation if it materially reduces the probability of a financial crisis or credit crunch.
 
-This bias was most visible in the early 2000s under Fed Chair Alan Greenspan, when the central bank eased aggressively following the 1998 Russian default and Long-Term Capital Management crisis, and again after the 2001 dot-com bust. Critics called this the "Greenspan put"—a metaphor for a [protective put option](): the Fed would cushion catastrophic declines but let upside run. Policymakers themselves denied the put existed, arguing they were simply responding to genuine economic risks. Whether intentional or not, the framework implied asymmetric protection against downside.
+This bias was most visible in the early 2000s under Fed Chair Alan Greenspan, when the central bank eased aggressively following the 1998 Russian default and Long-Term Capital Management crisis, and again after the 2001 dot-com bust. Critics called this the "Greenspan put"—a metaphor for a protective put option: the Fed would cushion catastrophic declines but let upside run. Policymakers themselves denied the put existed, arguing they were simply responding to genuine economic risks. Whether intentional or not, the framework implied asymmetric protection against downside.
 
 The financial crisis of 2008 vindicated the risk management perspective in one sense: policymakers who treated tail risks seriously (deflation, bank runs, credit freezes) justified aggressive easing when the crisis hit. It proved wrong in another sense: the prior easing had contributed to the buildup of risks.
 
@@ -55,7 +55,7 @@ When a central bank perceives high downside risk, it typically:
 
 1. **Cuts rates more aggressively** than a rules-based model would suggest, even if inflation is not alarming.
 2. **Extends forward guidance**, committing to low rates for longer, to reduce uncertainty.
-3. **Expands balance sheet interventions**, such as [quantitative easing](), to inject liquidity and ease credit conditions.
+3. **Expands balance sheet interventions**, such as quantitative easing, to inject liquidity and ease credit conditions.
 4. **Broadens collateral acceptance**, allowing banks and market participants to post less-liquid assets in exchange for central bank credit.
 5. **Lowers reserve requirements or adjusts stress tests**, to encourage lending rather than hoarding.
 
@@ -65,13 +65,13 @@ None of these actions is dictated by the inflation rate or output gap alone. The
 
 A key challenge is that downside risks are hard to measure. Inflation and unemployment are observable. The probability of a banking crisis or deflationary spiral is not. Central banks rely on financial indicators (credit spreads, equity volatility, interbank lending rates), surveys, and anecdotal evidence to assess where risks lie.
 
-The [Federal Reserve]() publishes a "Summary of Economic Projections" that includes estimates of risk around the baseline forecast. A high level of risk—expressed as wider confidence bands or explicit discussion of tail scenarios—can justify preemptive easing even if the central forecast is reasonable.
+The Federal Reserve publishes a "Summary of Economic Projections" that includes estimates of risk around the baseline forecast. A high level of risk—expressed as wider confidence bands or explicit discussion of tail scenarios—can justify preemptive easing even if the central forecast is reasonable.
 
-Similarly, the [European Central Bank]() and [Bank of England]() conduct regular stress tests of their financial systems, using those results to inform how much downside risk must be tolerated before policy adjusts. If stress tests show that a sharp drop in commercial real estate prices would trigger a chain of bank failures, the central bank may ease preemptively.
+Similarly, the European Central Bank and Bank of England conduct regular stress tests of their financial systems, using those results to inform how much downside risk must be tolerated before policy adjusts. If stress tests show that a sharp drop in commercial real estate prices would trigger a chain of bank failures, the central bank may ease preemptively.
 
 ## The zero lower bound and risk management
 
-When [interest rates]() approach zero, the risk management imperative becomes even stronger. Once rates hit zero or go negative, central banks lose their primary tool. Downside risks cannot be offset by further rate cuts, so policymakers must be more aggressive earlier, before the zero bound is reached.
+When interest rates approach zero, the risk management imperative becomes even stronger. Once rates hit zero or go negative, central banks lose their primary tool. Downside risks cannot be offset by further rate cuts, so policymakers must be more aggressive earlier, before the zero bound is reached.
 
 This logic justified the Fed's decision to raise rates very gradually from 2015 to 2018, despite unemployment falling steadily. The reasoning was that every rate increase moved the economy further from the zero lower bound, creating room to cut if risks materialized. It also justified the decision to cut aggressively in 2019 (before the pandemic) when financial stress emerged in the repo market—the Fed wanted to reduce tail risk before rates hit zero again.
 

@@ -4,7 +4,7 @@ description: "Aerospace and defense contractor with focus on specialized compone
 keywords: ["aerospace", "defense", "government", "manufacturing", "contractor"]
 ---
 
-*[**DYNAMIC AEROSPACE SYSTEMS Corp**](BRQL), listed under ticker BRQL and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1854526, is an aerospace and defense contractor serving government and commercial aerospace customers. The company competes in the specialized segment of the aerospace supply chain where scale is smaller than tier-one primes ([Boeing](/ba-stock/), [Lockheed Martin](/lmt-stock/)) but margins and customer stickiness can be higher for firms holding critical subcontract positions. Its competitive position depends on technical capability, manufacturing efficiency, regulatory compliance, and sustained relationships with integrators and end-customers.*
+***DYNAMIC AEROSPACE SYSTEMS Corp**, listed under ticker BRQL and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1854526, is an aerospace and defense contractor serving government and commercial aerospace customers. The company competes in the specialized segment of the aerospace supply chain where scale is smaller than tier-one primes ([Boeing](/ba-stock/), [Lockheed Martin](/lmt-stock/)) but margins and customer stickiness can be higher for firms holding critical subcontract positions. Its competitive position depends on technical capability, manufacturing efficiency, regulatory compliance, and sustained relationships with integrators and end-customers.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BRQL</td></tr>

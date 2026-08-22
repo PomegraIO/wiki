@@ -1,6 +1,11 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {{ range .Data.Pages }}
+  {{/* Pruned pages carry `noindex: true` — keep them out of the sitemap too,
+       or Search Console flags "indexed, though blocked" style conflicts.
+       (They keep rendering and their inbound links keep working; they just
+       stop being advertised to crawlers.) */}}
+  {{ if .Params.noindex }}{{ continue }}{{ end }}
   {{ $pri := .Sitemap.Priority }}
   {{ $cf  := .Sitemap.ChangeFreq }}
   {{/* Sharpen priority: home > atlas/index > articles > misc. */}}

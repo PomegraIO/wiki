@@ -10,7 +10,7 @@ keywords:
 image: /svg/markets.svg
 ---
 
-*A U.S. investor buying an [unhedged international ETF](​/etf/) gets two bets: one on foreign stock prices and one on the foreign currency's strength. A **currency-hedged international ETF** strips out the currency bet and leaves only the stock price bet—but the hedge itself has a cost that can eat returns, and it only makes sense if you believe currencies will weaken.*
+*A U.S. investor buying an [unhedged international ETF](/etf/) gets two bets: one on foreign stock prices and one on the foreign currency's strength. A **currency-hedged international ETF** strips out the currency bet and leaves only the stock price bet—but the hedge itself has a cost that can eat returns, and it only makes sense if you believe currencies will weaken.*
 
 <aside class="wiki-infobox">
 
@@ -37,13 +37,13 @@ When a U.S. investor buys an international ETF holding European stocks, two thin
 
 First, the *stock price* must rise in euros. Second, the *euro must strengthen* against the U.S. dollar. If a German stock rises 10% in euros and the euro also rises 10% against the dollar, a U.S. investor enjoys roughly 20% total return (ignoring compounding). But if the stock rises 10% in euros and the euro falls 10% against the dollar, the two moves cancel, and the U.S. investor breaks even.
 
-This two-layer structure is the essence of international investing. You are betting on the foreign market's stocks *and* on the foreign currency. Most investors focus on the stock part and ignore the currency part. But currency moves are often large and volatile. In extreme years, [currency volatility](​/currency-volatility/) can dominate stock returns.
+This two-layer structure is the essence of international investing. You are betting on the foreign market's stocks *and* on the foreign currency. Most investors focus on the stock part and ignore the currency part. But currency moves are often large and volatile. In extreme years, [currency volatility](/currency-volatility/) can dominate stock returns.
 
-From 2011 to 2012, European stocks rose modestly, but the euro weakened sharply against the dollar. A U.S. investor in an unhedged European [equity ETF](​/equity-etf/) experienced negative total returns despite rising stock prices. Conversely, from 2014 to 2015, the euro weakened again, hurting unhedged European exposure. But from 2016 to 2017, the euro strengthened, and unhedged European ETFs benefited from both stock gains and currency appreciation.
+From 2011 to 2012, European stocks rose modestly, but the euro weakened sharply against the dollar. A U.S. investor in an unhedged European [equity ETF](/equity-etf/) experienced negative total returns despite rising stock prices. Conversely, from 2014 to 2015, the euro weakened again, hurting unhedged European exposure. But from 2016 to 2017, the euro strengthened, and unhedged European ETFs benefited from both stock gains and currency appreciation.
 
 ## How Currency Hedging Works
 
-Currency hedging uses [forward contracts](​/forward-contract/) or [swaps](​/swap/) to lock in an exchange rate. A fund manager holding euros but managing a U.S. dollar-denominated ETF enters a forward contract to sell euros at a fixed rate on a future date.
+Currency hedging uses [forward contracts](/forward-contract/) or [swaps](/swap/) to lock in an exchange rate. A fund manager holding euros but managing a U.S. dollar-denominated ETF enters a forward contract to sell euros at a fixed rate on a future date.
 
 Here is a simplified example:
 
@@ -115,7 +115,7 @@ These scenarios reveal the hedge's asymmetry. Hedging *always* costs roughly 0.3
 
 The deepest issue is that **currency movements are unpredictable**. Academic research shows that forward exchange rates are poor predictors of future spot rates. The interest rate differential drives the forward price, but actual currency moves are driven by trade flows, capital flows, policy surprises, and sentiment—which are themselves volatile and hard to forecast.
 
-Over long horizons (10+ years), currency movements tend to revert to levels implied by [purchasing power parity](​/ppp-purchasing-power-parity/), but the interim path is noisy. This unpredictability means the hedge is a costly insurance premium on an outcome that is roughly coin-flip to predict. Most long-term international investors come out ahead without hedging simply because the 20–40 bps annual cost eventually outweighs the protection.
+Over long horizons (10+ years), currency movements tend to revert to levels implied by purchasing power parity, but the interim path is noisy. This unpredictability means the hedge is a costly insurance premium on an outcome that is roughly coin-flip to predict. Most long-term international investors come out ahead without hedging simply because the 20–40 bps annual cost eventually outweighs the protection.
 
 Shorter-term investors, especially those who *specifically* want to isolate stock-picking talent from currency movements, benefit more from hedging. Professional managers who believe they can pick foreign stocks but not currencies often use hedging to make their stock-picking case cleaner.
 

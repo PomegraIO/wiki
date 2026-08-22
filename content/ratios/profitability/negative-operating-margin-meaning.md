@@ -1,6 +1,7 @@
 ---
 title: "Negative Operating Margin Explained"
-description: "What does negative operating margin mean? Learn when it signals structural problems vs. investment phase, and how to interpret trends."
+seo_title: "Negative Operating Margin: What It Means for a Company"
+description: "A negative operating margin means core operations lose money before interest and taxes. How to tell a growth investment phase from structural distress."
 keywords:
   - negative operating margin
   - operating margin loss

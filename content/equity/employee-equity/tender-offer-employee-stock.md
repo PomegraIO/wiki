@@ -43,11 +43,11 @@ In an acquisition tender offer, an acquirer (often a larger company or PE firm) 
 
 ## Eligibility and blackout periods
 
-Not every share can be tendered. Tender offers typically require shares to be **fully vested**. Unvested [restricted stock](restricted-stock-award) or [RSUs](rsu) may not be eligible, or may have separate rules.
+Not every share can be tendered. Tender offers typically require shares to be **fully vested**. Unvested restricted stock or RSUs may not be eligible, or may have separate rules.
 
 Many companies impose **blackout periods**—windows when insiders (including senior executives and sometimes all employees) cannot buy or sell shares. If a tender offer falls during a blackout period, employees in blackout may be unable to tender, even if they own shares. This protects the company from claims of insider trading or market manipulation.
 
-Additionally, some tender offers exclude shares held in [401(k) plans](401k-plan) or [ESOPs](esop) (employee stock ownership plans), depending on plan rules and tax law. Always check the offer documents to understand which of your shares are eligible.
+Additionally, some tender offers exclude shares held in [401(k) plans](/401k-plan/) or [ESOPs](/esop/) (employee stock ownership plans), depending on plan rules and tax law. Always check the offer documents to understand which of your shares are eligible.
 
 ## The mechanics of tendering
 
@@ -65,21 +65,21 @@ Example: A tender offer buys back $10 million worth of shares at $100 per share.
 
 ## Secondary vs. acquisition tender offers
 
-**Secondary tender offers** are initiated by the company itself—often at a private company that wants to create a partial liquidity event for employees without fully exiting or going public. The company sets the price (often based on a recent [409A valuation](409a-valuation)), the dollar cap, and the terms. Employees can tender or not.
+**Secondary tender offers** are initiated by the company itself—often at a private company that wants to create a partial liquidity event for employees without fully exiting or going public. The company sets the price (often based on a recent [409A valuation](/409a-valuation/)), the dollar cap, and the terms. Employees can tender or not.
 
 **Acquisition tender offers** are initiated by an acquirer. If Company A is buying Company B, the acquirer extends a tender offer to all Company B shareholders at a fixed price per share—say, $50. Employees of Company B who hold shares receive the same offer as all other shareholders. If the offer succeeds and the acquisition closes, employees are paid out, and the company is now owned by the acquirer.
 
-In an acquisition, the tender offer is often a two-step process: a public tender offer (if the target is public or if required by law), followed by a [merger](merger) into a subsidiary of the acquirer. Upon merger close, remaining shareholders are cashed out at the offer price.
+In an acquisition, the tender offer is often a two-step process: a public tender offer (if the target is public or if required by law), followed by a [merger](/merger/) into a subsidiary of the acquirer. Upon merger close, remaining shareholders are cashed out at the offer price.
 
 ## Tax consequences
 
 The tax treatment of a tender offer depends on how long you held the shares.
 
-If you held the shares for more than one year, the sale triggers [long-term capital gain tax](long-term-capital-gain-tax). The gain is the sale price minus your [cost basis](cost-basis). If you paid $10 per share (from an exercise or purchase), and you tender at $100, your gain per share is $90, taxed at long-term rates (0%, 15%, or 20% for federal purposes, depending on income).
+If you held the shares for more than one year, the sale triggers [long-term capital gain tax](/long-term-capital-gain-tax/). The gain is the sale price minus your [cost basis](/cost-basis/). If you paid $10 per share (from an exercise or purchase), and you tender at $100, your gain per share is $90, taxed at long-term rates (0%, 15%, or 20% for federal purposes, depending on income).
 
-If you held the shares for one year or less, it is [short-term capital gain](short-term-capital-gain-tax)—ordinary income tax rates apply.
+If you held the shares for one year or less, it is [short-term capital gain](/short-term-capital-gain-tax/)—ordinary income tax rates apply.
 
-For employees who received shares through an [ESPP](/espp-qualifying-disposition/) or incentive stock options ([ISO](iso)), there is an additional wrinkle: the holding period for long-term gain treatment starts when the stock was granted or exercised, not when the tender offer occurred. Likewise, the basis calculation depends on whether the original grant was taxable (like an NSO) or not (like an ISO in the qualification window).
+For employees who received shares through an [ESPP](/espp-qualifying-disposition/) or incentive stock options ([ISO](/iso/)), there is an additional wrinkle: the holding period for long-term gain treatment starts when the stock was granted or exercised, not when the tender offer occurred. Likewise, the basis calculation depends on whether the original grant was taxable (like an NSO) or not (like an ISO in the qualification window).
 
 Example: You received an ISO in January and exercised in June (holding period begins in June). The stock is now worth $100. If you tender in November (less than 6 months after exercise), you have a short-term gain, taxed as ordinary income. If you tender in January (more than 1 year after grant), the entire gain is long-term capital gain.
 
@@ -93,15 +93,15 @@ In rare cases, a company runs multiple tender offers (a "rolling" or "periodic" 
 
 Most tender offers settle within 5–10 business days of the deadline. You receive cash or, in some acquisition scenarios, stock in the acquiring company. The settlement date is when you are no longer the owner of those shares and the gain is realized.
 
-For tax purposes, the gain is reported on your [Schedule D](schedule-d) (or Form 8949) in the year of settlement, not the year you tendered the form. If the offer closes in early January, report it on your next tax return (filed in April of the following year).
+For tax purposes, the gain is reported on your [Schedule D](/schedule-d/) (or Form 8949) in the year of settlement, not the year you tendered the form. If the offer closes in early January, report it on your next tax return (filed in April of the following year).
 
 ## Strategic considerations
 
 For employees, a tender offer is a liquidity event to weigh carefully. If the company is private and struggling, a tender offer may be the only cash exit you ever see. If the company is doing well and you expect further growth, tendering may lock in gains too early.
 
-Consider your overall [diversification](diversification): if most of your net worth is in company stock, a tender offer is a chance to diversify into cash and other investments. If you are early in your career and the company has upside, you might hold and wait for an IPO or larger acquisition.
+Consider your overall [diversification](/diversification/): if most of your net worth is in company stock, a tender offer is a chance to diversify into cash and other investments. If you are early in your career and the company has upside, you might hold and wait for an IPO or larger acquisition.
 
-Tax bracket also matters. If you are in a high [marginal tax rate](marginal-tax-rate-investor) year, you might defer tendering to a lower-income year. But do not let tax tail wag the economic dog; a bad company is a bad investment even at favorable tax rates.
+Tax bracket also matters. If you are in a high [marginal tax rate](/marginal-tax-rate-investor/) year, you might defer tendering to a lower-income year. But do not let tax tail wag the economic dog; a bad company is a bad investment even at favorable tax rates.
 
 ## See also
 

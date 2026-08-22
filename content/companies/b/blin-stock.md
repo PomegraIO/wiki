@@ -4,7 +4,7 @@ description: "Web-content management and marketing-automation software provider 
 keywords: ["content management", "software subscription", "marketing automation", "SaaS", "B2B technology"]
 ---
 
-*[**Bridgeline Digital, Inc.**](BLIN) generates revenue from software subscriptions, professional implementation services, and hosting fees charged to mid-market businesses that need to manage digital properties across multiple brands or divisions. The company's margin model depends on converting high-touch professional-services revenue into lower-cost subscription renewals, shifting the customer relationship from project-based to recurring.*
+***Bridgeline Digital, Inc.** generates revenue from software subscriptions, professional implementation services, and hosting fees charged to mid-market businesses that need to manage digital properties across multiple brands or divisions. The company's margin model depends on converting high-touch professional-services revenue into lower-cost subscription renewals, shifting the customer relationship from project-based to recurring.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BLIN</td></tr>

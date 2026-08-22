@@ -39,7 +39,7 @@ The cost of this strategy is credibility itself. If a central bank threatens yen
 
 ## Press releases and official statements
 
-Central banks issue formal statements after policy meetings, and language in those statements is parsed obsessively. When the statement shifts from "the [currency-risk](currency-risk.md) is balanced" to "we are monitoring excessive volatility," markets price in a change of stance. When multiple authorities issue aligned language—the Federal Reserve, the [European Central Bank](european-central-bank.md), and the Bank of Japan all noting "disorderly" moves—traders read it as a collective threat.
+Central banks issue formal statements after policy meetings, and language in those statements is parsed obsessively. When the statement shifts from "the [currency-risk](/currency-risk/) is balanced" to "we are monitoring excessive volatility," markets price in a change of stance. When multiple authorities issue aligned language—the Federal Reserve, the [European Central Bank](/european-central-bank/), and the Bank of Japan all noting "disorderly" moves—traders read it as a collective threat.
 
 Press releases also serve to flag routine, non-emergency operations. A central bank may publish "we have intervened in the spot market" the morning after or during intervention, confirming to markets that moves they saw were official action, not organic market flow. This transparency can be tactical: by confirming purchases, authorities reinforce that the move succeeded, signaling strength to speculators betting the other way.
 
@@ -47,7 +47,7 @@ Foreign exchange intervention statements rarely name a target rate. Instead, the
 
 ## Forward guidance and rate expectations
 
-Central banks signal currency intentions through [interest-rate](interest-rate.md) guidance. If the Federal Reserve hints that rates will stay elevated longer than markets expected, the dollar typically strengthens (all else equal) because higher rates attract foreign capital. If the Bank of Japan signals that rates will remain very low, the yen weakens.
+Central banks signal currency intentions through [interest-rate](/interest-rate/) guidance. If the Federal Reserve hints that rates will stay elevated longer than markets expected, the dollar typically strengthens (all else equal) because higher rates attract foreign capital. If the Bank of Japan signals that rates will remain very low, the yen weakens.
 
 This mechanism is so potent that formal forward guidance statements—published quarterly or at key meetings—move currencies worth trillions in a matter of hours. The 2013 "taper tantrum," when the Federal Reserve hinted it might reduce asset purchases, sent yen and emerging-market currencies into sharp downturns. No official said "sell the yen"; the interest-rate forecast spoke for itself.
 
@@ -59,13 +59,13 @@ The most powerful communication occurs when central banks of major economies spe
 
 Modern equivalents appear during currency crises or unexpected shocks. After the Swiss National Bank surprised markets by abandoning its franc ceiling in 2015, major central banks issued coordinated statements that essentially said "don't panic, we are coordinating liquidity." The communication bought time for normal market function to resume without panic selling.
 
-Such coordination requires trust and prior negotiation. Central banks use [international financial reporting standards](international-financial-reporting-standards.md) and conventions (Group of 20 forums, Bank for International Settlements meetings) to align messaging. A poorly timed unilateral statement can trigger the opposite effect if markets read it as a sign of disagreement among authorities.
+Such coordination requires trust and prior negotiation. Central banks use [international financial reporting standards](/international-financial-reporting-standards/) and conventions (Group of 20 forums, Bank for International Settlements meetings) to align messaging. A poorly timed unilateral statement can trigger the opposite effect if markets read it as a sign of disagreement among authorities.
 
 ## Timing and market sensitivity
 
 Central banks are acutely aware of market calendars. If intervention is needed, officials often time statements for moments when financial markets are less liquid—early Asian hours, or just before major economic data releases—so their words have outsized impact. They also avoid statements that contradict one another; if the Federal Reserve just signaled patience on rate cuts, the Treasury Department knows to stay silent on the dollar, lest confusion weaken both messages.
 
-The concept of [fiscal-multiplier](fiscal-multiplier.md) effects applies metaphorically: a well-placed statement at the right moment can move markets more than poorly timed rhetoric, even if the words are nearly identical.
+The concept of [fiscal-multiplier](/fiscal-multiplier/) effects applies metaphorically: a well-placed statement at the right moment can move markets more than poorly timed rhetoric, even if the words are nearly identical.
 
 ## How traders interpret the subtext
 

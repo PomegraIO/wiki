@@ -4,7 +4,7 @@ description: "A diversified holding company with operations in traditional Chine
 keywords: ["holding company", "Chinese medicine", "diversified", "Asia operations", "conglomerate"]
 ---
 
-*[**Beroni Group Ltd**](TICKER: **BNIGF**) operates as a diversified holding company with business segments in traditional Chinese medicine (TCM) products, real estate development, and other ventures, primarily across Asia-Pacific markets. The company's operational reality is that of a conglomerate managing multiple distinct business lines with different operational cycles, customer bases, regulatory environments, and capital requirements. Beroni's earnings depend on how well management allocates capital, executes in each business segment, and navigates the specific operational challenges of manufacturing, healthcare, and property development in Asian jurisdictions.*
+***Beroni Group Ltd** operates as a diversified holding company with business segments in traditional Chinese medicine (TCM) products, real estate development, and other ventures, primarily across Asia-Pacific markets. The company's operational reality is that of a conglomerate managing multiple distinct business lines with different operational cycles, customer bases, regulatory environments, and capital requirements. Beroni's earnings depend on how well management allocates capital, executes in each business segment, and navigates the specific operational challenges of manufacturing, healthcare, and property development in Asian jurisdictions.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BNIGF</td></tr>

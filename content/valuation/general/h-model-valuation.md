@@ -1,6 +1,7 @@
 ---
 title: "H-Model Valuation"
-description: "A two-stage dividend model where growth declines linearly from a high initial rate to a stable perpetual rate, balancing simplicity with realism."
+seo_title: "H-Model Valuation: Formula for Fading Dividend Growth"
+description: "The H-Model values stocks whose dividend growth declines linearly to a stable rate. The Fuller-Hsia formula, when to use it, and what H means."
 keywords:
   - H-model
   - two-stage dividend model

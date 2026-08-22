@@ -4,7 +4,7 @@ description: "A genomics technology company developing and commercializing optic
 keywords: ["genomics", "sequencing", "biotechnology", "instrumentation", "technology"]
 ---
 
-*[**Bionano Genomics, Inc.**](TICKER: **BNGO**) manufactures and distributes optical genome mapping (OGM) instruments and reagent kits used in genomic research, clinical diagnostics, and drug development. The company's business model depends on selling specialized equipment to research institutions, clinical laboratories, and pharmaceutical companies, then generating recurring revenue through reagent and service contracts. The operational reality of Bionano is that of a biotech instrumentation company balancing capital-equipment sales (which are lumpy and long-selling cycles) against recurring reagent revenue (which is predictable but depends on installed base growth).*
+***Bionano Genomics, Inc.** manufactures and distributes optical genome mapping (OGM) instruments and reagent kits used in genomic research, clinical diagnostics, and drug development. The company's business model depends on selling specialized equipment to research institutions, clinical laboratories, and pharmaceutical companies, then generating recurring revenue through reagent and service contracts. The operational reality of Bionano is that of a biotech instrumentation company balancing capital-equipment sales (which are lumpy and long-selling cycles) against recurring reagent revenue (which is predictable but depends on installed base growth).*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>BNGO</td></tr>

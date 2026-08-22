@@ -1,6 +1,7 @@
 ---
 title: "EVERTEC, Inc. (EVTC)"
-description: "A payments processing and technology infrastructure provider with deep roots in Latin American and Caribbean markets."
+seo_title: "EVTC Stock: EVERTEC, Latin America's Payments Backbone"
+description: "EVERTEC (EVTC) provides payment processing and financial technology infrastructure across the Caribbean and Latin America. Its moat, evolution, and risks."
 keywords: ["payments", "processing", "technology", "Latin America", "financial infrastructure"]
 ---
 

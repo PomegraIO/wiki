@@ -1,6 +1,7 @@
 ---
 title: "Power Hour in the Stock Market"
-description: "The final trading hour before market close, when volume and volatility surge as institutional traders rebalance and momentum traders pile in."
+seo_title: "Power Hour in the Stock Market: 3–4 p.m. ET Explained"
+description: "Power hour is the last trading hour, 3–4 p.m. ET, when volume and volatility spike. Why institutions trade late and how the closing auction works."
 keywords:
   - power hour stock market
   - final hour trading volume

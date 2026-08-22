@@ -4,7 +4,7 @@ description: "Biotechnology company focused on developing therapeutic treatments
 keywords: ["biotechnology", "clinical development", "therapeutic development", "drug development", "clinical trials", "regulatory approval", "biopharmaceutical"]
 ---
 
-*[**MetaVia Inc.**](MTVA) is a clinical-stage biotechnology company developing therapeutic treatments targeting specific disease areas. The company does not yet generate product revenue; instead, it invests all capital into preclinical research, clinical trials, and regulatory navigation with the goal of advancing drug candidates toward [FDA](/securities-and-exchange-commission/) approval and eventual commercialization or partnering with larger pharmaceutical firms.*
+***MetaVia Inc.** is a clinical-stage biotechnology company developing therapeutic treatments targeting specific disease areas. The company does not yet generate product revenue; instead, it invests all capital into preclinical research, clinical trials, and regulatory navigation with the goal of advancing drug candidates toward [FDA](/securities-and-exchange-commission/) approval and eventual commercialization or partnering with larger pharmaceutical firms.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MTVA</td></tr>

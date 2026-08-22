@@ -32,7 +32,7 @@ image: /svg/equity.svg
 
 ## Why warrant exercise is a corporate action
 
-A warrant exercise differs from routine trading because it creates new shares issued directly by the company. When a warrant holder exercises, the company must register those new shares on its cap table, update the share register, and adjust the [share buyback-vs-dividend](share-buyback-vs-dividend) decision as part of capital management. This is classified as a **corporate action** rather than a secondary-market trade, meaning it requires formal disclosure, employee notification, and adjustments to [earnings-per-share](earnings-per-share) and [dividend-payout-ratio](dividend-payout-ratio).
+A warrant exercise differs from routine trading because it creates new shares issued directly by the company. When a warrant holder exercises, the company must register those new shares on its cap table, update the share register, and adjust the [share buyback-vs-dividend](/share-buyback-vs-dividend/) decision as part of capital management. This is classified as a **corporate action** rather than a secondary-market trade, meaning it requires formal disclosure, employee notification, and adjustments to [earnings-per-share](/earnings-per-share/) and [dividend-payout-ratio](/dividend-payout-ratio/).
 
 Most listed companies with outstanding warrants file a formal exercise notice with their registry, specifying the notice period (often 5 to 15 business days before the exercise window closes). Holders must act before expiration or forfeit the warrant. The company simultaneously updates institutional holdings, settlement mechanics, and tax reporting.
 
@@ -50,7 +50,7 @@ When a warrant holder decides to exercise, the sequence unfolds in a structured 
 
 5. **Announcement and disclosure**: The company files a notice with the stock exchange and relevant authorities, showing new total shares outstanding and any change to major shareholders' positions if a warrant holder breaches a disclosure threshold.
 
-This process typically settles within 2–5 business days after the exercise deadline. Warrant holders receive their new shares as settled equity; the company receives capital that can be used for operations, debt reduction, or [acquisition](acquisition).
+This process typically settles within 2–5 business days after the exercise deadline. Warrant holders receive their new shares as settled equity; the company receives capital that can be used for operations, debt reduction, or [acquisition](/acquisition/).
 
 ## Dilution and shareholder impact
 
@@ -60,11 +60,11 @@ Suppose ABC Corp has 10 million shares and you own 100,000 shares (1%). If ABC i
 
 The impact on stock price depends on whether the market views the exercise as value-accretive or dilutive:
 
-- **Negative case**: If the company does not deploy the exercise proceeds productively—for example, if the cash sits idle or funds a low-return project—the stock price often falls. A 16% increase in share count without equivalent earnings growth means [earnings-per-share](earnings-per-share) falls by roughly 16%, suppressing valuations.
+- **Negative case**: If the company does not deploy the exercise proceeds productively—for example, if the cash sits idle or funds a low-return project—the stock price often falls. A 16% increase in share count without equivalent earnings growth means [earnings-per-share](/earnings-per-share/) falls by roughly 16%, suppressing valuations.
 
 - **Neutral or positive case**: If the warrant exercise proceeds fund a high-return acquisition or operational expansion that grows earnings faster than the dilution, the stock may hold or rise despite the share count increase.
 
-Warrant exercise also affects [dividend-payout-ratio](dividend-payout-ratio). If a company pays a fixed per-share dividend and issues more shares, total cash outflow to all shareholders increases proportionally. Some companies address this by reducing the per-share dividend; others absorb the cost.
+Warrant exercise also affects [dividend-payout-ratio](/dividend-payout-ratio/). If a company pays a fixed per-share dividend and issues more shares, total cash outflow to all shareholders increases proportionally. Some companies address this by reducing the per-share dividend; others absorb the cost.
 
 ## Calculating the dilution effect
 
@@ -74,13 +74,13 @@ The dilution from a warrant exercise can be quantified as:
 
 Example: A company with 50 million shares outstanding has 5 million warrants exercised (each warrant = 1 share). Dilution = 5 million / 50 million = 10%. Existing shareholders' ownership falls by 10% in absolute terms.
 
-For [earnings-per-share](earnings-per-share) impact:
+For [earnings-per-share](/earnings-per-share/) impact:
 
 **EPS after dilution = Net income / (Shares outstanding before + New shares issued)**
 
 If net income stays constant (the company makes the same profit), EPS falls by the dilution percentage. If the warrant exercise proceeds boost net income by growing the business, the EPS decline may be offset or reversed.
 
-Analysts often use [treasury-stock method](treasury-stock-method) to estimate dilution for future warrant and option exercises, incorporating the assumption that proceeds will be used to buy back shares. In that model, dilution is reduced or eliminated if buyback prices fall below the exercise price.
+Analysts often use treasury-stock method to estimate dilution for future warrant and option exercises, incorporating the assumption that proceeds will be used to buy back shares. In that model, dilution is reduced or eliminated if buyback prices fall below the exercise price.
 
 ## Notice periods and exercise windows
 
@@ -98,9 +98,9 @@ Some warrants are perpetual (no expiration); others have a fixed term (e.g., 10 
 
 For the company, warrant exercise generates immediate cash inflow without new debt. This can be attractive for balance-sheet management—it raises equity capital without increasing leverage. However, the dilution cost is paid by existing shareholders rather than by the company paying interest.
 
-Warrant exercise also affects the company's capital ratios. If the company is near a debt covenant threshold (e.g., [debt-to-equity-ratio](debt-to-equity-ratio)), warrant exercise increases equity and improves the ratio. Conversely, if warrants are in-the-money and very likely to be exercised, [earnings-per-share](earnings-per-share) guidance may be revised downward to reflect dilution.
+Warrant exercise also affects the company's capital ratios. If the company is near a debt covenant threshold (e.g., [debt-to-equity-ratio](/debt-to-equity-ratio/)), warrant exercise increases equity and improves the ratio. Conversely, if warrants are in-the-money and very likely to be exercised, [earnings-per-share](/earnings-per-share/) guidance may be revised downward to reflect dilution.
 
-Some companies use warrant exercise as a substitute for [share buyback](share-buyback-vs-dividend), particularly if they have high warrant exposure. Instead of buying back shares (which reduces equity), they allow warrants to exercise, directly collecting the exercise price. This is a simpler, lower-cost approach to raising capital.
+Some companies use warrant exercise as a substitute for [share buyback](/share-buyback-vs-dividend/), particularly if they have high warrant exposure. Instead of buying back shares (which reduces equity), they allow warrants to exercise, directly collecting the exercise price. This is a simpler, lower-cost approach to raising capital.
 
 ## Tax considerations for warrant holders
 
@@ -108,21 +108,21 @@ When a warrant is exercised, the holder's tax basis and holding period are impor
 
 - **Basis step-up**: The holder's cost basis in the new shares typically includes the exercise price paid. If a warrant cost $2 and the exercise price is $5, the total basis per share is approximately $7 (depending on jurisdiction and holding period).
 
-- **Holding period**: In many jurisdictions, the holding period for the new shares begins on the exercise date, not the warrant purchase date. This affects [long-term-capital-gain-tax](long-term-capital-gain-tax) qualification.
+- **Holding period**: In many jurisdictions, the holding period for the new shares begins on the exercise date, not the warrant purchase date. This affects [long-term-capital-gain-tax](/long-term-capital-gain-tax/) qualification.
 
 - **Dividend eligibility**: The new shares are eligible for dividends starting on the issuance date; past dividends on the warrant are not paid to the new holder.
 
-For the company, warrant exercise has no direct tax consequence on the issuing side (unlike [share buyback](share-buyback-vs-dividend), which may trigger repurchase accounting). The cash received is added to equity without income tax.
+For the company, warrant exercise has no direct tax consequence on the issuing side (unlike [share buyback](/share-buyback-vs-dividend/), which may trigger repurchase accounting). The cash received is added to equity without income tax.
 
 ## Warrant exercise vs regular call option exercise
 
-Warrant exercises are corporate actions; regular [option](option) exercises on secondary markets are not. Here's why:
+Warrant exercises are corporate actions; regular [option](/option/) exercises on secondary markets are not. Here's why:
 
 - **Warrants** create new shares. When issued, warrants increase the company's authorized and potentially outstanding share count. Exercise of listed warrants triggers regulatory filings and official corporate announcements.
 
 - **Exchange-traded options** are contracts between buyers and sellers; the company is not directly involved. When you exercise a call option on an exchange, you buy existing shares from another investor or a market maker, not newly issued shares from the company. No dilution of existing shareholders occurs.
 
-This distinction is critical for [earnings-per-share](earnings-per-share) calculations and dilution analysis. Only warrants and in-the-money convertible securities dilute existing shareholders; traded options do not.
+This distinction is critical for [earnings-per-share](/earnings-per-share/) calculations and dilution analysis. Only warrants and in-the-money convertible securities dilute existing shareholders; traded options do not.
 
 ## See also
 

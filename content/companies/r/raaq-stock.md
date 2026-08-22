@@ -1,6 +1,7 @@
 ---
 title: "Real Asset Acquisition Corp. (RAAQ)"
-description: "Real Asset Acquisition is a special purpose acquisition company merging with IQM Finland Oy to create a publicly listed quantum computing hardware and software developer."
+seo_title: "RAAQ Stock: SPAC Merging With Quantum Firm IQM"
+description: "Real Asset Acquisition (RAAQ) is a SPAC taking quantum computing firm IQM Finland public at a $1.8B valuation. Deal terms, PIPE, and the key risks."
 keywords:
   - SPAC
   - quantum computing

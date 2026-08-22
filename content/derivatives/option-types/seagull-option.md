@@ -1,6 +1,7 @@
 ---
 title: "Seagull Option"
-description: "A three-leg options structure that combines a call spread with a short put to reduce cost, popular in forex and emerging markets."
+seo_title: "Seagull Option: Three-Leg Strategy With Near-Zero Cost"
+description: "A seagull option pairs a call spread with a short put, often for zero net cost. Payoff zones, a EUR/USD example, and why forex hedgers use the structure."
 ---
 
 *A seagull option buys one call spread and sells a put, creating a compound position that reduces cost by collecting put premium. It's a cost-reduced bull call spread, common in currency and emerging-market hedging.*

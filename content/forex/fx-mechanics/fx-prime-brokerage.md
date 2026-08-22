@@ -11,7 +11,7 @@ keywords:
 image: /svg/forex.svg
 ---
 
-*An [FX prime broker](/fx-prime-brokerage/) is a financial institution that acts as an intermediary between hedge funds or other professional traders and the [interbank forex market](/forex.svg). The prime broker extends credit to the client, aggregates pricing from multiple liquidity sources, executes trades, and passes them to the appropriate counterparty dealer—a process known as "giving up" the trade.*
+*An [FX prime broker](/fx-prime-brokerage/) is a financial institution that acts as an intermediary between hedge funds or other professional traders and the interbank forex market. The prime broker extends credit to the client, aggregates pricing from multiple liquidity sources, executes trades, and passes them to the appropriate counterparty dealer—a process known as "giving up" the trade.*
 
 <div class="wiki-hatnote">
 
@@ -40,7 +40,7 @@ For the FX trade-transfer process itself, see [Give-Up in FX](/give-up-forex/). 
 
 ## Why hedge funds need prime brokers
 
-Most hedge funds and large traders do not have the scale or credit history to access the [interbank forex market](/forex.svg) directly. Banks reserve interbank rates and tight spreads for each other and for the largest institutional clients. A mid-sized hedge fund looking to execute a 100-million-dollar currency trade faces two options: go through a bank's institutional desk (accepting wider spreads and their institutional pricing), or use a prime broker.
+Most hedge funds and large traders do not have the scale or credit history to access the interbank forex market directly. Banks reserve interbank rates and tight spreads for each other and for the largest institutional clients. A mid-sized hedge fund looking to execute a 100-million-dollar currency trade faces two options: go through a bank's institutional desk (accepting wider spreads and their institutional pricing), or use a prime broker.
 
 The prime broker model solves this by pooling demand. Ten smaller funds, each trading 100 million, collectively represent a billion-dollar relationship to the major banks. The prime broker can leverage that aggregate volume to negotiate better rates and pass a portion of the savings to the funds (while retaining some as its own profit margin).
 
@@ -97,7 +97,7 @@ Costs to the prime broker include funding, [operational risk](/operational-risk/
 
 Prime brokers hold [tier-1 capital](/tier-1-capital/) cushions against client defaults and market moves. The Basel III framework and subsequent stress-testing regimes require them to model the impact of sharp moves in major currency pairs and hedge accordingly.
 
-The 2013 Dodd-Frank Act enhanced oversight of large [derivatives](/forex.svg) dealers (which includes FX prime brokers) through margin requirements, clearing mandates (where applicable), and reporting to regulators. Uncleared FX derivatives face higher [capital adequacy](/capital-adequacy/) requirements, raising the cost of prime brokerage.
+The 2013 Dodd-Frank Act enhanced oversight of large derivatives dealers (which includes FX prime brokers) through margin requirements, clearing mandates (where applicable), and reporting to regulators. Uncleared FX derivatives face higher [capital adequacy](/capital-adequacy/) requirements, raising the cost of prime brokerage.
 
 ## See also
 
@@ -115,7 +115,7 @@ The 2013 Dodd-Frank Act enhanced oversight of large [derivatives](/forex.svg) de
 ### Wider context
 
 - [Broker](/broker/) — Intermediary facilitating trades
-- [Hedge Fund](/forex.svg) — Investment fund using leverage and derivatives
+- Hedge Fund — Investment fund using leverage and derivatives
 - [Credit Risk](/credit-risk/) — Risk of loss due to borrower or counterparty default
 - [Market Risk](/market-risk/) — Risk of loss from adverse price movements
 

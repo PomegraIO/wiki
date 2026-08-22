@@ -35,7 +35,7 @@ For the subsequent transfer of an aggregated trade to its ultimate dealer counte
 | **Core benefit** | Tighter spreads and better execution than any single dealer quote |
 | **Execution method** | Order splits automatically across multiple quoted liquidity providers |
 | **Technology** | Low-latency systems, market-data feeds, algorithmic routing |
-| **Risk managed** | [Slippage](/forex.svg), [market impact](/market-risk/), partial fills, quote staleness |
+| **Risk managed** | Slippage, [market impact](/market-risk/), partial fills, quote staleness |
 
 </aside>
 

@@ -71,7 +71,7 @@ The [options-greeks](/options-greeks/) work identically for European and America
 
 ## Index and currency options: European dominance
 
-The most liquid European options are on stock indices ([S&P 500](stock-market), [Eurostoxx 50](stock-market), Nikkei) and currency pairs (EUR/USD, GBP/USD). These are quoted in major financial centers in sizes running into billions of notional value daily.
+The most liquid European options are on stock indices ([S&P 500](/stock-market/), [Eurostoxx 50](/stock-market/), Nikkei) and currency pairs (EUR/USD, GBP/USD). These are quoted in major financial centers in sizes running into billions of notional value daily.
 
 For traders, the advantage is that European-style settlement on index options means no assignment surprise mid-trade. The contract runs to the bell on the expiration date, then settles in cash. This predictability, combined with Black-Scholes's pricing precision, makes index options extremely liquid.
 

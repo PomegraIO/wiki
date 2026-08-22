@@ -4,7 +4,7 @@ description: French biopharmaceutical company focused on metabolic and inflammat
 keywords: biopharmaceutical, France, drug-development, metabolic-disease, NASH, research
 ---
 
-*[**Inventiva S.A.**](IVA) is a French biotechnology firm engaged in discovery and early-stage development of small-molecule drugs targeting metabolic and inflammatory diseases, with lead programs in non-alcoholic fatty liver disease (NASH) and other conditions. The company's location in France—specifically its access to French and European regulatory pathways, research talent, and funding ecosystems—shapes both its drug-development strategy and its position within the global biopharmaceutical landscape.*
+***Inventiva S.A.** is a French biotechnology firm engaged in discovery and early-stage development of small-molecule drugs targeting metabolic and inflammatory diseases, with lead programs in non-alcoholic fatty liver disease (NASH) and other conditions. The company's location in France—specifically its access to French and European regulatory pathways, research talent, and funding ecosystems—shapes both its drug-development strategy and its position within the global biopharmaceutical landscape.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IVA</td></tr>

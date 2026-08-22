@@ -49,7 +49,7 @@ The critical flaw in contrarian strategy is timing. Being correct that an asset 
 
 This timing problem is severe because:
 
-- **The crowd can stay irrational longer than the contrarian can stay solvent.** If you short an overvalued stock or bond using leverage, a sustained rally in that asset will force you to liquidate at losses before the reversal arrives. Unlevered contrarian positions suffer from [opportunity cost]()—capital is tied up in a wrong-way trade for years, missing gains elsewhere.
+- **The crowd can stay irrational longer than the contrarian can stay solvent.** If you short an overvalued stock or bond using leverage, a sustained rally in that asset will force you to liquidate at losses before the reversal arrives. Unlevered contrarian positions suffer from opportunity cost—capital is tied up in a wrong-way trade for years, missing gains elsewhere.
 
 - **Consensus can shift suddenly or gradually.** A bubble might take six months to collapse (the dot-com peak in March 2000 to the summer 2000 crash) or eight years (real estate from 2006's peak to 2012's trough). Predicting the transition moment is nearly impossible.
 
@@ -69,7 +69,7 @@ Certain configurations make contrarian bets more viable:
 
 ## Historical Examples of Successful Contrarian Trades
 
-[Value investors](/value-investing/) like Warren Buffett and [Charlie Munger]() built fortunes partly by being contrarian. In 1974–1975, the Nasdaq was down over 50%, and stocks traded at single-digit price-to-earnings multiples. Investors had essentially given up on equities. Those who bought held the best returns of the subsequent decade. In 2009, after the financial crisis bottomed, the consensus was that banks and equities faced perpetual decline. Contrarian buyers of battered stocks and financials rode the subsequent recovery.
+[Value investors](/value-investing/) like Warren Buffett and Charlie Munger built fortunes partly by being contrarian. In 1974–1975, the Nasdaq was down over 50%, and stocks traded at single-digit price-to-earnings multiples. Investors had essentially given up on equities. Those who bought held the best returns of the subsequent decade. In 2009, after the financial crisis bottomed, the consensus was that banks and equities faced perpetual decline. Contrarian buyers of battered stocks and financials rode the subsequent recovery.
 
 More recently, the sale of overvalued growth stocks in 2022 and the subsequent interest in undervalued value stocks represented a contrarian trade: betting against the crowd's prior conviction that unprofitable tech companies would compound forever at any valuation.
 

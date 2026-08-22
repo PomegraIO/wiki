@@ -1,6 +1,7 @@
 ---
 title: "Renaissance vs Two Sigma: How Two Quant Giants Differ in Approach"
-description: "Compare Renaissance Technologies and Two Sigma's quant strategies. Explore differences in talent, data types, holding periods, and fund structures."
+seo_title: "Renaissance vs Two Sigma: Quant Giants Compared"
+description: "Renaissance mines pure statistics with insular PhDs; Two Sigma engineers platforms on alternative data. Talent, holding periods, and funds compared."
 keywords:
   - renaissance technologies vs two sigma differences
   - quant hedge funds comparison

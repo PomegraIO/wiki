@@ -28,18 +28,18 @@ image: /svg/markets.svg
 | **Counterparty risk** | Mutualized via clearinghouse | Concentrated with your dealer |
 | **Typical products** | Stocks, futures, standardized bonds | Bespoke derivatives, most bonds, FX |
 | **Trading hours** | Regular session hours | 24/5 or dealer-dependent |
-| **Examples** | [NYSE](new-york-stock-exchange), [NASDAQ](nasdaq), CBOT | Credit derivatives, spot FX, repos |
+| **Examples** | [NYSE](/new-york-stock-exchange/), [NASDAQ](/nasdaq/), CBOT | Credit derivatives, spot FX, repos |
 | **Regulation** | Strict transparency rules | Lighter oversight historically |
 
 </aside>
 
 ## What Is a Centralized Exchange?
 
-An exchange is a formal, regulated marketplace where standardized contracts trade under a unified set of rules. Buyers and sellers submit orders to a central matching engine, which pairs them automatically at the best available price. The [New York Stock Exchange](new-york-stock-exchange), [NASDAQ](nasdaq), the Chicago Board of Trade (CBOT), and most derivatives exchanges worldwide function this way.
+An exchange is a formal, regulated marketplace where standardized contracts trade under a unified set of rules. Buyers and sellers submit orders to a central matching engine, which pairs them automatically at the best available price. The [New York Stock Exchange](/new-york-stock-exchange/), [NASDAQ](/nasdaq/), the Chicago Board of Trade (CBOT), and most derivatives exchanges worldwide function this way.
 
 The exchange itself does not take the other side of your trade. Instead, a [central counterparty clearinghouse](https://example.com)—often a separate legal entity run by the exchange operator—interposes itself between every buyer and seller. When you buy 100 shares on the NYSE, you technically trade with the clearinghouse, not with the person who sold those shares. This design eliminates the risk that your trading partner will default.
 
-Prices are transparent and continuously visible. Every trader sees the same [bid-ask spread](bid-ask-spread) and can monitor real-time price movement. Published trade data flows to market data vendors within seconds, ensuring that regulators, researchers, and participants have a shared view of recent transactions.
+Prices are transparent and continuously visible. Every trader sees the same [bid-ask spread](/bid-ask-spread/) and can monitor real-time price movement. Published trade data flows to market data vendors within seconds, ensuring that regulators, researchers, and participants have a shared view of recent transactions.
 
 ## What Is the OTC Market?
 
@@ -51,9 +51,9 @@ OTC markets have no fixed hours. A dealer network operates 24 hours a day, 5 day
 
 ## Price Transparency and Discovery
 
-Exchange price transparency is mandatory. The [Securities and Exchange Commission](securities-and-exchange-commission) and international regulators enforce real-time quote and trade reporting. As a result, no trader holds a permanent information advantage; all participants see the same best bid and offer simultaneously.
+Exchange price transparency is mandatory. The [Securities and Exchange Commission](/securities-and-exchange-commission/) and international regulators enforce real-time quote and trade reporting. As a result, no trader holds a permanent information advantage; all participants see the same best bid and offer simultaneously.
 
-This transparency breeds [price discovery](price-discovery). With many buyers and sellers visible, fair value emerges organically from competition. The [bid-ask spread](bid-ask-spread) tends to be narrow because market makers compete to win order flow.
+This transparency breeds [price discovery](/price-discovery/). With many buyers and sellers visible, fair value emerges organically from competition. The [bid-ask spread](/bid-ask-spread/) tends to be narrow because market makers compete to win order flow.
 
 OTC markets are opaque by design. Dealers typically quote prices only to institutional clients; retail traders rarely see OTC quotes. Trade data is reported with a delay and often lacks granular details. A bond dealer might quote one price to a pension fund and a slightly different price to a small bank, and neither will know what the other paid.
 
@@ -61,7 +61,7 @@ This opacity can work both ways: it allows dealers to extract wider spreads, but
 
 ## Counterparty Risk
 
-On an exchange, [counterparty risk](counterparty-risk) is centralized in the clearinghouse. The clearinghouse guarantees both sides of the trade. If the buyer defaults, the clearinghouse pays the seller; if the seller defaults, the clearinghouse pays the buyer. This guarantee is backed by a combination of daily margin collection, a guarantee fund, and ultimately the creditworthiness of the clearinghouse itself.
+On an exchange, [counterparty risk](/counterparty-risk/) is centralized in the clearinghouse. The clearinghouse guarantees both sides of the trade. If the buyer defaults, the clearinghouse pays the seller; if the seller defaults, the clearinghouse pays the buyer. This guarantee is backed by a combination of daily margin collection, a guarantee fund, and ultimately the creditworthiness of the clearinghouse itself.
 
 Counterparty risk is measurable: a trader on an exchange knows precisely who the ultimate counterparty is (the clearinghouse) and can assess its safety.
 
@@ -87,7 +87,7 @@ A global investment-grade bond might trade both on exchanges and OTC; equity ind
 
 ## Regulatory Evolution
 
-Historically, OTC markets were lightly regulated; dealers policed themselves. The [Dodd-Frank Act](dodd-frank-act) (2010) shifted this balance. Certain OTC derivatives—especially standardized swaps—were required to be centrally cleared and traded on regulated venues (SEFs, or swap execution facilities). This was meant to reduce systemic risk.
+Historically, OTC markets were lightly regulated; dealers policed themselves. The [Dodd-Frank Act](/dodd-frank-act/) (2010) shifted this balance. Certain OTC derivatives—especially standardized swaps—were required to be centrally cleared and traded on regulated venues (SEFs, or swap execution facilities). This was meant to reduce systemic risk.
 
 However, many OTC products remained exempt. Most bond trading, foreign exchange, and complex derivatives still happen OTC, though with greater transparency and regulatory oversight than before.
 
@@ -95,7 +95,7 @@ Exchanges remain the most heavily regulated trading venues. Listing standards, t
 
 ## Real-World Examples
 
-**Stock trading**: You want to buy 1,000 shares of Apple. The best approach is the [NYSE](new-york-stock-stock-exchange) or NASDAQ, where the [bid-ask spread](bid-ask-spread) is typically a penny or less, and your order is guaranteed to clear through the clearinghouse within one trading day.
+**Stock trading**: You want to buy 1,000 shares of Apple. The best approach is the NYSE or NASDAQ, where the [bid-ask spread](/bid-ask-spread/) is typically a penny or less, and your order is guaranteed to clear through the clearinghouse within one trading day.
 
 **Corporate bond trading**: You want to buy $5 million of a 5-year bond issued by a mid-cap company. The bond might list on the [NYSE Bonds](https://example.com) platform, but most traders do not shop on the exchange—they call a dealer, get a quote, and trade OTC. Spreads are wider than stocks (perhaps 25 to 50 cents per $100 par), and you bear counterparty risk with the dealer.
 

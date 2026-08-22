@@ -1,6 +1,7 @@
 ---
 title: "Mobility Global Inc. (MBGL)"
-description: "Micro-cap mobility and transportation solutions company; operates in shared mobility and last-mile logistics."
+seo_title: "MBGL Stock: Mobility Global's Last-Mile Delivery Bet"
+description: "Mobility Global (MBGL) is an OTC micro-cap running shared mobility and last-mile delivery in niche markets. Its revenue model, rivals, and funding limits."
 keywords: ["mobility", "transportation", "shared economy", "logistics", "micro-cap"]
 ---
 

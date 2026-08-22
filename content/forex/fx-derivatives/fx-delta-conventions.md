@@ -1,6 +1,7 @@
 ---
 title: "FX Option Delta Conventions"
-description: "How spot delta, forward delta, and premium-adjusted delta differ; quoting conventions vary by currency pair and dealer."
+seo_title: "FX Delta Conventions: Spot, Forward & Premium-Adjusted"
+description: "FX option delta comes in spot, forward, and premium-adjusted forms, and quoting conventions differ by currency pair. How each works and when it's used."
 keywords:
   - fx option delta
   - spot delta

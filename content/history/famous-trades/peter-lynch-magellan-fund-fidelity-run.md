@@ -1,6 +1,7 @@
 ---
 title: "Peter Lynch's Magellan Fund Run"
-description: "Peter Lynch's tenure at Fidelity Magellan from 1977 to 1990 produced a 29% annualized return, one of mutual fund history's greatest sustained outperformance streaks."
+seo_title: "Peter Lynch's Magellan Fund: The 29% a Year Record"
+description: "Peter Lynch ran Fidelity Magellan from 1977 to 1990, returning ~29% a year vs ~10% for the S&P 500. How he did it and why the streak still stands out."
 keywords:
   - peter lynch magellan fund performance
   - fidelity magellan 1977-1990

@@ -4,7 +4,7 @@ description: "Canadian mining exploration and development company focused on cri
 keywords: ["critical minerals", "mining exploration", "lithium", "rare earths", "junior mining", "commodity price exposure", "capital intensive"]
 ---
 
-*[**Meta Critical Minerals Inc.**](MTTAF), a Canadian mineral exploration company, operates in the early and middle stages of the resource discovery and development cycle. Its earnings model is fundamentally different from an operating mine: Meta funds exploration activities and asset development through [equity](/common-stock/) raises and optionally through joint ventures, betting that its geological assets will accumulate value as they progress from exploration to defined mineral resources to mineable reserves.*
+***Meta Critical Minerals Inc.**, a Canadian mineral exploration company, operates in the early and middle stages of the resource discovery and development cycle. Its earnings model is fundamentally different from an operating mine: Meta funds exploration activities and asset development through [equity](/common-stock/) raises and optionally through joint ventures, betting that its geological assets will accumulate value as they progress from exploration to defined mineral resources to mineable reserves.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MTTAF</td></tr>

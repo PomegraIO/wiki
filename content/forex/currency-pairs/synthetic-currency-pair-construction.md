@@ -112,7 +112,7 @@ In practice, this [price discovery](/price-discovery/) mechanism is not instanta
 
 ### Wider context
 
-- [Foreign Exchange](/forex.svg/) — global decentralized market where synthetics serve as liquidity bridges
+- Foreign Exchange — global decentralized market where synthetics serve as liquidity bridges
 - [Limit Order](/limit-order/) — precise execution tactic for multi-leg synthetic trades
 - [Fragmented Market](/fragmented-market/) — characteristic of forex that motivates synthetic construction
 - [Execution Risk](/execution-risk/) — slippage on fills when synthetics are used

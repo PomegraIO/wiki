@@ -33,7 +33,7 @@ image: "/svg/real-estate.svg"
 
 ## The core mechanics of personal liability
 
-A **recourse loan** includes a provision granting the lender a [deficiency judgment](). If the property sells for less than the loan balance at foreclosure, the lender can sue the borrower for the shortfall. Imagine a $10 million loan on a property that appraises at $9 million but sells for $8 million due to market stress. The $2 million gap becomes a judgment lien against the borrower's personal estate—bank accounts, vehicles, home equity, retirement accounts (depending on state law), and future wages.
+A **recourse loan** includes a provision granting the lender a deficiency judgment. If the property sells for less than the loan balance at foreclosure, the lender can sue the borrower for the shortfall. Imagine a $10 million loan on a property that appraises at $9 million but sells for $8 million due to market stress. The $2 million gap becomes a judgment lien against the borrower's personal estate—bank accounts, vehicles, home equity, retirement accounts (depending on state law), and future wages.
 
 A **non-recourse loan** contains language that bars the lender from pursuing the borrower for any deficiency. The property itself is the sole security. If that same property sells for $8 million, the lender absorbs the $2 million loss. The borrower walks away without owing anything further—though they lose the property and face credit damage.
 
@@ -41,11 +41,11 @@ A **non-recourse loan** contains language that bars the lender from pursuing the
 
 Recourse terms shift default risk onto the borrower's entire net worth, not just the equity in the deal. From the lender's perspective, this is a more powerful incentive for the borrower to avoid default and maintain the property. Smaller loans, weaker credit profiles, less-experienced borrowers, and purchase-money mortgages (where the lender financed the acquisition itself) almost always carry recourse provisions.
 
-Institutional borrowers—large real estate firms with substantial balance sheets and track records—often negotiate non-recourse terms, especially on larger, stabilized [commercial properties](). The borrower's strength in the deal determines negotiating power. A borrower pledging a trophy office tower worth $100 million can walk away from a $60 million loan if the market crashes; a borrower putting $500,000 down on a $5 million apartment building usually cannot.
+Institutional borrowers—large real estate firms with substantial balance sheets and track records—often negotiate non-recourse terms, especially on larger, stabilized commercial properties. The borrower's strength in the deal determines negotiating power. A borrower pledging a trophy office tower worth $100 million can walk away from a $60 million loan if the market crashes; a borrower putting $500,000 down on a $5 million apartment building usually cannot.
 
 ## The cost of non-recourse terms
 
-Lenders price non-recourse loans higher because they absorb all default loss above the property's sale price. A non-recourse loan on the same property might price at 150–300 basis points above an equivalent recourse loan, depending on the asset quality, loan-to-value ratio, and market conditions. The lender is essentially buying an implicit [put option]()—the right to force the borrower to return the property at a loss, with no way to recover beyond it.
+Lenders price non-recourse loans higher because they absorb all default loss above the property's sale price. A non-recourse loan on the same property might price at 150–300 basis points above an equivalent recourse loan, depending on the asset quality, loan-to-value ratio, and market conditions. The lender is essentially buying an implicit put option—the right to force the borrower to return the property at a loss, with no way to recover beyond it.
 
 Debt covenants also reflect this. Non-recourse loans typically carry tighter [loan-to-value (LTV)](/) caps, lower [debt service coverage ratio (DSCR)](/) thresholds, and more frequent financial reporting. The lender substitutes personal liability with stricter collateral discipline.
 
@@ -69,7 +69,7 @@ In practice, few loans are purely one or the other. A loan may be non-recourse a
 - Materially breaches financial covenants
 - Allows the property to deteriorate
 
-A [guaranteed non-recourse loan]() includes a guarantor—typically a sponsor or parent company—who pledges personal liability while the primary borrower remains non-recourse. This splits risk and is common in syndicated [commercial real estate](/commercial-real-estate/) deals.
+A guaranteed non-recourse loan includes a guarantor—typically a sponsor or parent company—who pledges personal liability while the primary borrower remains non-recourse. This splits risk and is common in syndicated [commercial real estate](/commercial-real-estate/) deals.
 
 ## Impact on refinancing and exit strategy
 

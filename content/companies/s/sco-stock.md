@@ -1,6 +1,7 @@
 ---
 title: "ProShares Ultra Short Crude Oil (SCO)"
-description: "SCO is a 3x inverse leveraged ETF that profits when crude oil prices fall. It is designed as a short-term tactical bet against oil and offers no structural moat or competitive advantage against direct commodity shorting."
+seo_title: "SCO Stock: ProShares Inverse Crude Oil ETF Explained"
+description: "SCO is ProShares' leveraged inverse ETF that rises when crude oil futures fall. How the daily reset, contango drag, and holding-period risk really work."
 keywords:
   - inverse ETF
   - crude oil

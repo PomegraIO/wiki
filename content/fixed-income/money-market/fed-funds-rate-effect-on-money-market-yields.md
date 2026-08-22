@@ -1,6 +1,7 @@
 ---
 title: "How the Fed Funds Rate Affects Money Market Yields"
-description: "How the Fed funds rate transmission affects money market yields on funds and T-bills through overnight repo and federal funds markets."
+seo_title: "Fed Funds Rate and Money Market Yields: How They Connect"
+description: "The Fed funds rate sets the floor for short-term rates: T-bills reprice within hours, while money market fund yields climb as holdings roll over."
 keywords:
   - fed funds rate money market
   - how fed funds rate affects yields

@@ -53,13 +53,13 @@ Equal-weight spreads capital evenly, reducing the disproportionate influence of 
 
 ## Small-cap exposure and the rebalancing harvest
 
-Equal-weight's tilt toward smaller stocks has historically been a source of outperformance during certain periods. The [small-cap premium](returns)—the excess return of smaller over larger stocks—has appeared in academic data, though it is far from guaranteed. When small-cap premium cycles turn positive, an equal-weight portfolio can outpace a cap-weight rival. When they turn negative (as they have in many recent years), the reverse occurs.
+Equal-weight's tilt toward smaller stocks has historically been a source of outperformance during certain periods. The small-cap premium—the excess return of smaller over larger stocks—has appeared in academic data, though it is far from guaranteed. When small-cap premium cycles turn positive, an equal-weight portfolio can outpace a cap-weight rival. When they turn negative (as they have in many recent years), the reverse occurs.
 
 Interestingly, **rebalancing itself becomes a return driver**. When you force-sell winners and buy losers (as equal-weight rebalancing does), you are mechanically capturing a contrarian impulse. In mean-reverting or sideways markets, this can add returns. In strong trending markets, it can drag returns by forcing you to sell the best performers. This is sometimes called the "rebalancing harvest" or "rebalancing bonus"—a benefit that shows up in some periods and disappears in others.
 
 ## Cost and tax efficiency
 
-The rebalancing requirements of equal-weight portfolios drive higher expense ratios and turnover. An [equal-weight ETF](etf) typically charges 0.20–0.40% annually, while a cap-weight S&P 500 ETF charges 0.03–0.10%. Over 20 years, this fee difference alone can reduce returns by several percentage points, even before considering trading friction and capital gains in taxable accounts.
+The rebalancing requirements of equal-weight portfolios drive higher expense ratios and turnover. An [equal-weight ETF](/etf/) typically charges 0.20–0.40% annually, while a cap-weight S&P 500 ETF charges 0.03–0.10%. Over 20 years, this fee difference alone can reduce returns by several percentage points, even before considering trading friction and capital gains in taxable accounts.
 
 For tax-deferred accounts (like a 401(k) or IRA), the tax drag disappears, making equal-weight somewhat more attractive relative to its cost. For taxable accounts, the annual turnover and capital-gains realization of equal-weight strategies can significantly erode after-tax returns compared to the buy-and-hold simplicity of cap-weight.
 

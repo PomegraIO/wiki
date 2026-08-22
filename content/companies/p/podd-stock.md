@@ -1,6 +1,7 @@
 ---
 title: "Insulet Corp (PODD)"
-description: "Insulet manufactures the Omnipod, a wireless, wearable insulin pump for diabetes management that has become the fastest-growing insulin-delivery system in the market."
+seo_title: "PODD Stock: Insulet's Tubeless Omnipod Insulin Pump"
+description: "Insulet (PODD) makes the Omnipod, a tubeless wearable insulin pump worn for three days at a time. Its razor-and-blade model, growth drivers, and risks."
 keywords:
   - insulin pump
   - diabetes care

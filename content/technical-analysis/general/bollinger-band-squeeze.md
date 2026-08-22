@@ -45,7 +45,7 @@ Not every squeeze leads to a dramatic move; some end with a modest retracement f
 
 ## Interpreting the breakout direction
 
-The squeeze itself does not tell you whether the breakout will be up or down. A trader must look to other signals: the trend leading into the squeeze (an uptrend may suggest an upside break), momentum indicators such as [RSI]() or [MACD]() (divergence can hint at reversal), order flow patterns, support and resistance levels, or broader market context. Some traders wait for the price to pierce the band before committing, confirming the direction before entering.
+The squeeze itself does not tell you whether the breakout will be up or down. A trader must look to other signals: the trend leading into the squeeze (an uptrend may suggest an upside break), momentum indicators such as RSI or MACD (divergence can hint at reversal), order flow patterns, support and resistance levels, or broader market context. Some traders wait for the price to pierce the band before committing, confirming the direction before entering.
 
 Others use the squeeze as a trigger to tighten [stop-loss](//) orders or prepare trade plans for both scenarios. The key is treating the squeeze as a volatility **signal**, not a directional forecast. Confirmation must come from additional technical or fundamental reasoning.
 

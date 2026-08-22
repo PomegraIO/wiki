@@ -4,7 +4,7 @@ description: "Food processing and ingredient manufacturer operating in the indus
 keywords: ["food", "manufacturing", "consumer staples", "ingredients", "commodity"]
 ---
 
-*[**Borealis Foods Inc.**](BRLS) is a publicly traded food processing and specialty ingredients manufacturer, listed on the [stock](/stock/) exchange and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1852973. The company operates in the manufacturing and supply segment of the industrial food supply chain, positioning itself between agricultural commodity suppliers and branded food companies or foodservice distributors that require processed ingredients or finished products. Its competitive posture depends on asset efficiency, supply-chain integration, and relationships within a sector where scale and cost control determine margins.*
+***Borealis Foods Inc.** is a publicly traded food processing and specialty ingredients manufacturer, listed on the [stock](/stock/) exchange and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1852973. The company operates in the manufacturing and supply segment of the industrial food supply chain, positioning itself between agricultural commodity suppliers and branded food companies or foodservice distributors that require processed ingredients or finished products. Its competitive posture depends on asset efficiency, supply-chain integration, and relationships within a sector where scale and cost control determine margins.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BRLS</td></tr>

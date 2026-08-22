@@ -1,6 +1,7 @@
 ---
 title: "Dollar-Neutral vs Beta-Neutral Portfolio Construction"
-description: "Dollar-neutral and beta-neutral strategies neutralize different market exposures. Learn how each affects residual returns and performance attribution in long-short equity."
+seo_title: "Dollar-Neutral vs Beta-Neutral: What's the Difference"
+description: "Dollar-neutral portfolios match long and short notionals; beta-neutral portfolios offset market beta. How each handles residual risk in long-short equity."
 keywords:
   - dollar neutral portfolio
   - beta neutral portfolio

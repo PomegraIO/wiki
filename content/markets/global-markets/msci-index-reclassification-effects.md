@@ -25,16 +25,16 @@ image: /svg/markets.svg
 | **Trigger** | MSCI review of market liquidity, foreign access, regulatory openness |
 | **Rebalancing window** | Typically 1 month; larger indexes can move in tranches |
 | **Fund flows** | Billions inflow on upgrades (emerging funds buy, developed funds sell); opposite on downgrades |
-| **Valuation impact** | Upgrades often trigger [multiple](price-to-earnings-ratio/) expansion; downgrades cause contraction |
+| **Valuation impact** | Upgrades often trigger [multiple](/price-to-earnings-ratio/) expansion; downgrades cause contraction |
 | **Liquidity shift** | Stock prices increase on outflows in frontier; decrease on inflows to emerging |
 
 </aside>
 
 ## What MSCI Index Classification Means
 
-MSCI, a major index provider, categorizes countries into three tiers: developed markets, emerging markets, and frontier markets. This taxonomy is not arbitrary; it reflects liquidity, accessibility, and regulatory stability. The [S&P 500](sp-500-index/), [Nasdaq](nasdaq/), and other developed-market indexes contain companies from countries deemed to have open capital markets, transparent governance, and deep [trading volume](stock-market/). Emerging-market indexes capture countries with growing economies and opening capital markets but some structural or regulatory friction. Frontier markets include least-liquid or least-accessible economies.
+MSCI, a major index provider, categorizes countries into three tiers: developed markets, emerging markets, and frontier markets. This taxonomy is not arbitrary; it reflects liquidity, accessibility, and regulatory stability. The [S&P 500](/sp-500-index/), [Nasdaq](/nasdaq/), and other developed-market indexes contain companies from countries deemed to have open capital markets, transparent governance, and deep [trading volume](/stock-market/). Emerging-market indexes capture countries with growing economies and opening capital markets but some structural or regulatory friction. Frontier markets include least-liquid or least-accessible economies.
 
-Trillions of dollars are indexed to MSCI benchmarks. A [mutual fund](mutual-fund/) tracking the MSCI Emerging Markets Index holds the exact same companies and weights as MSCI's published index. When MSCI reclassifies a country, all index-tracking funds must rebalance—buying into the new index, selling out of the old one—instantaneously on the effective date.
+Trillions of dollars are indexed to MSCI benchmarks. A [mutual fund](/mutual-fund/) tracking the MSCI Emerging Markets Index holds the exact same companies and weights as MSCI's published index. When MSCI reclassifies a country, all index-tracking funds must rebalance—buying into the new index, selling out of the old one—instantaneously on the effective date.
 
 ## Mechanics of a Market Upgrade
 
@@ -42,13 +42,13 @@ When MSCI upgrades a country from frontier to emerging or from emerging to devel
 
 The net flow is typically inbound. Developed-market indexes are larger and more heavily owned than emerging-market indexes, so an upgrade usually brings more buying than selling. This demand surge can drive stock prices up even if the company's earnings or strategy did not change. The inverse applies to downgrades: the reclassified stocks face selling pressure as index funds shed them.
 
-This flow-driven valuation boost is real capital, but it is also temporary unless the underlying fundamentals justify the new valuation. After the reclassification dust settles, [fundamentals](earnings-quality/) drive returns. A company that looked cheap before the upgrade and remains cheap after attracts fundamental investors; one that looked overvalued before and is now even more overvalued after the upgrade attracts traders looking for profit-taking.
+This flow-driven valuation boost is real capital, but it is also temporary unless the underlying fundamentals justify the new valuation. After the reclassification dust settles, [fundamentals](/earnings-quality/) drive returns. A company that looked cheap before the upgrade and remains cheap after attracts fundamental investors; one that looked overvalued before and is now even more overvalued after the upgrade attracts traders looking for profit-taking.
 
 ## Criteria for Reclassification
 
-MSCI bases reclassification decisions on three pillars: economic development (GDP per capita, index liquidity), market accessibility (how easily foreigners can buy/sell, [currency convertibility](currency-risk/)), and institutional environment (regulatory stability, settlement efficiency, transparency).
+MSCI bases reclassification decisions on three pillars: economic development (GDP per capita, index liquidity), market accessibility (how easily foreigners can buy/sell, [currency convertibility](/currency-risk/)), and institutional environment (regulatory stability, settlement efficiency, transparency).
 
-A country must meet all criteria to qualify. India's move toward emerging-market status has been debated for years because the country meets economic thresholds but faces foreign ownership restrictions on certain sectors. Saudi Arabia resisted reclassification pressures for decades due to state control over [capital flows](capital-flows/); its upgrade to emerging-market status in 2018 reflected government commitment to opening markets, but the move was controversial.
+A country must meet all criteria to qualify. India's move toward emerging-market status has been debated for years because the country meets economic thresholds but faces foreign ownership restrictions on certain sectors. Saudi Arabia resisted reclassification pressures for decades due to state control over [capital flows](/capital-flows/); its upgrade to emerging-market status in 2018 reflected government commitment to opening markets, but the move was controversial.
 
 The review process is transparent. MSCI announces consultations years in advance, giving investors time to anticipate changes. But the final reclassification date is precise: on May 27, 2019, when China A-shares partially entered the MSCI Emerging Markets Index, the flows and price action were dramatic. Index funds had to buy hundreds of billions of dollars worth of Chinese equities in a narrow time window.
 
@@ -56,9 +56,9 @@ The review process is transparent. MSCI announces consultations years in advance
 
 An upgrade to emerging-market status immediately makes a country eligible for inclusion in trillions of dollars of emerging-market index funds. The largest such fund, the iShares MSCI Emerging Markets ETF (EEM), manages over $15 billion. When a new country enters the index, every dollar of new inflows to EEM must proportionally flow into that country.
 
-These flows are not instantaneous uniformly across all stocks in the country. MSCI indexes also specify liquidity thresholds: not all stocks are eligible for inclusion, only those with sufficient [trading volume](stock-market/) and accessibility. So a country reclassification typically boosts the most-liquid, largest-cap stocks first. The stocks that make it into the MSCI index can experience 5–20% price appreciation in the weeks surrounding the reclassification.
+These flows are not instantaneous uniformly across all stocks in the country. MSCI indexes also specify liquidity thresholds: not all stocks are eligible for inclusion, only those with sufficient [trading volume](/stock-market/) and accessibility. So a country reclassification typically boosts the most-liquid, largest-cap stocks first. The stocks that make it into the MSCI index can experience 5–20% price appreciation in the weeks surrounding the reclassification.
 
-The secondary effect is currency strength. An inflow of foreign money into a country's stock market increases demand for the local currency (investors must exchange dollars for rupees, for example). This can strengthen the currency, which has spillover effects on [exporters](earnings-quality/), [inflation](inflation/), and international [competitiveness](competitive-advantage/).
+The secondary effect is currency strength. An inflow of foreign money into a country's stock market increases demand for the local currency (investors must exchange dollars for rupees, for example). This can strengthen the currency, which has spillover effects on [exporters](/earnings-quality/), [inflation](/inflation/), and international competitiveness.
 
 ## Capital Flow Effects: Downgrades
 

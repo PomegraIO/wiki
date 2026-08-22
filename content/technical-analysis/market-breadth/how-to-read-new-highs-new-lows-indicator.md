@@ -1,6 +1,7 @@
 ---
 title: "How to Read the New Highs–New Lows Indicator"
-description: "The new highs–new lows indicator tracks the daily count of stocks hitting 52-week peaks versus troughs. Learn how to interpret its ratio and what expanding new lows signal during uptrends."
+seo_title: "New Highs–New Lows Indicator: How to Read It"
+description: "The new highs–new lows indicator counts stocks at 52-week highs vs lows each day. How to read the ratio and spot narrowing breadth before a trend turns."
 keywords:
   - new highs new lows indicator
   - how to read breadth

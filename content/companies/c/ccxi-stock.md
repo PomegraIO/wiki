@@ -1,6 +1,7 @@
 ---
 title: "Churchill Capital Corp XI (CCXI)"
-description: "A special-purpose acquisition company and public shell entity formed to identify and merge with an operating private business, expanding the SPAC market as a capital-formation alternative."
+seo_title: "CCXI Stock: Churchill Capital Corp XI SPAC Explained"
+description: "CCXI is Churchill Capital Corp XI, a blank-check SPAC seeking a private company to take public. Its trust structure, sponsors, and redemption rights."
 keywords: ["SPAC", "special purpose acquisition company", "blank-check company", "merger", "capital raising"]
 ---
 

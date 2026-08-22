@@ -1,6 +1,7 @@
 ---
 title: "Swap Duration and DV01 Explained"
-description: "Swap DV01 and duration explained: how to calculate basis-point sensitivity in interest rate swaps and use it for hedging."
+seo_title: "Swap DV01 & Duration: Measuring Rate Risk in Swaps"
+description: "DV01 is the dollar change in a swap's value per 1 basis-point rate move. How to calculate swap DV01 and duration and use them for hedging and risk limits."
 keywords:
   - swap dv01 duration explained
   - dv01 interest rate swap

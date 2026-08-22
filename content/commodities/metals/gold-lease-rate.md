@@ -1,6 +1,7 @@
 ---
 title: "Gold Lease Rate"
-description: "The interest rate at which central banks lend gold reserves to bullion banks, influencing mining economics and gold carry trades."
+seo_title: "Gold Lease Rate: The Cost of Borrowing Gold, Explained"
+description: "The gold lease rate is the interest central banks charge to lend bullion to banks and miners. Why gold gets lent and what drives the rate."
 keywords:
   - gold lending
   - central bank reserves

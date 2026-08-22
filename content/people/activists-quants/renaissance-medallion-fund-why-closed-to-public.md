@@ -1,6 +1,7 @@
 ---
 title: "Why the Medallion Fund Is Closed to Outside Investors"
-description: "Why the Medallion Fund is closed to outside investors—how size constraints, fee economics, and performance secrecy shape a fund that operates as an insider club."
+seo_title: "Medallion Fund: Why It's Closed to Outside Investors"
+description: "The Medallion Fund is closed because scale erodes its returns and its 5/44 fees only make sense for insiders. Capacity, secrecy, and the RIEF alternative."
 keywords:
   - medallion fund closed
   - why medallion fund closed to outside investors

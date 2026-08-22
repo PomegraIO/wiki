@@ -1,6 +1,7 @@
 ---
 title: "Recallable Distributions in Private Equity Funds"
-description: "Recallable distributions allow private equity funds to claw back previously distributed capital from LPs to cover follow-on investments or fund expenses, protecting the fund's cash position."
+seo_title: "Recallable Distributions: How Fund Recall Windows Work"
+description: "Recallable distributions are LP payouts a fund can call back, typically within 90 days to 2 years. Why funds use them and the liquidity risk for LPs."
 keywords:
   - recallable distributions private equity
   - clawback distributions fund
@@ -41,18 +42,18 @@ This solves three problems at once:
 - It returns value to LPs as soon as possible
 - It reserves the right to redeploy capital if a better opportunity appears
 
-For a [closed-end fund](closed-end-fund/) mid-life, this is valuable. The investment period has closed, but the manager discovers an add-on acquisition that doubles the value of an existing portfolio company. Rather than wait for a new fund, the manager distributes, then recalls 60 days later to execute the add-on.
+For a [closed-end fund](/closed-end-fund/) mid-life, this is valuable. The investment period has closed, but the manager discovers an add-on acquisition that doubles the value of an existing portfolio company. Rather than wait for a new fund, the manager distributes, then recalls 60 days later to execute the add-on.
 
 ## Legal structure and LP commitment
 
-Recallable distributions are typically written into the [fund prospectus](fund-prospectus/) as a **side letter** provision or a core LPA (limited partnership agreement) clause. The language specifies:
+Recallable distributions are typically written into the [fund prospectus](/fund-prospectus/) as a **side letter** provision or a core LPA (limited partnership agreement) clause. The language specifies:
 
 - **Recall window**: How long after distribution can the fund claw back? (Often 60–180 days, sometimes up to 2 years in sequel funds.)
 - **Reason for recall**: Is it only for follow-on investments, or can the fund also recall for general fund expenses, debt repayment, or shortfalls?
 - **LP right of refusal**: Can an LP decline to participate in the follow-on investment and thus refuse the recall? (Rare; most LPs cannot opt out.)
 - **Interest or return premium**: Does the LP earn anything for the temporary return of capital? (Usually no; the LP simply gets the cash back.)
 
-The recall obligation is a **binding commitment**. If an LP has reinvested the distributed capital elsewhere and the fund issues a recall notice with 30 days to settle, the LP must find cash or liquidate positions to meet the obligation. Failure to return capital on time can result in LP removal or [liquidation preferences](liquidation-preference-equity/) being adjusted against the defaulting LP's share.
+The recall obligation is a **binding commitment**. If an LP has reinvested the distributed capital elsewhere and the fund issues a recall notice with 30 days to settle, the LP must find cash or liquidate positions to meet the obligation. Failure to return capital on time can result in LP removal or liquidation preferences being adjusted against the defaulting LP's share.
 
 ## Continuation funds and recallables
 
@@ -60,7 +61,7 @@ The recall obligation is a **binding commitment**. If an LP has reinvested the d
 
 Continuation funds often begin with recallable distributions. The manager says: "We've exited Asset A for $50M. We'll distribute $40M to you now, but we're keeping $10M dry powder. If we identify an add-on in the next 90 days, we'll recall $15M from the distribution to fund it." The recallable structure lets the LP taste partial victory while keeping capital primed for deployment.
 
-Similarly, in [secondary fundraising](secondary-offering/), a fund manager might distribute realized gains but reserve the right to recall them if the secondaries strategy pivots.
+Similarly, in [secondary fundraising](/secondary-offering/), a fund manager might distribute realized gains but reserve the right to recall them if the secondaries strategy pivots.
 
 ## LPs' perspective: reinvestment risk
 
@@ -82,7 +83,7 @@ Option 4 is fastest and least disruptive. The LP who received a distribution fro
 
 ## Fund operations and expense coverage
 
-Less commonly, a fund may use recallables to cover operational expenses. If [management fees](management-fee/) suddenly spike (e.g., due to expanded staffing or increased regulatory costs), a fund facing a cash shortfall could recall distributions to cover the gap. This is controversial with LPs and typically requires either explicit prospectus language or LP consent.
+Less commonly, a fund may use recallables to cover operational expenses. If [management fees](/management-fee/) suddenly spike (e.g., due to expanded staffing or increased regulatory costs), a fund facing a cash shortfall could recall distributions to cover the gap. This is controversial with LPs and typically requires either explicit prospectus language or LP consent.
 
 More typical is the reserve-based model: the fund distributes proceeds net of a small reserve set aside for expenses. That reserve is never distributed; the fund holds it and draws it down as costs accrue.
 

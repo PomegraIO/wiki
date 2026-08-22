@@ -80,7 +80,7 @@ Perpetual KYC is responsive. A sanctions match is detected within hours, not mon
 
 Regulators increasingly favor perpetual KYC, though they do not yet mandate it universally. FinCEN and the Federal Reserve issued guidance (most recently in 2018–2020) noting that **risk-based KYC can justify periodic review cycles, but only if risk is assessed accurately and gaps are acknowledged**.
 
-For high-risk customers—those in [Cash-Intensive Business AML Risk](/cash-intensive-business-aml-risk/) sectors, customers in high-risk jurisdictions, or [Politically Exposed Persons (PEPs)](Perpetual KYC vs Periodic Review)—regulators expect Enhanced Due Diligence (EDD) and frequent re-screening, approaching perpetual monitoring.
+For high-risk customers—those in [Cash-Intensive Business AML Risk](/cash-intensive-business-aml-risk/) sectors, customers in high-risk jurisdictions, or Politically Exposed Persons (PEPs)—regulators expect Enhanced Due Diligence (EDD) and frequent re-screening, approaching perpetual monitoring.
 
 For low-risk customers, periodic review (e.g., every 5 years) is acceptable if the institution documents why the risk rating is low.
 

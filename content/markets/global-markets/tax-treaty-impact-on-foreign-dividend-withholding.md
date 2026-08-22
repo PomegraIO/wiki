@@ -12,7 +12,7 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*Without a [tax-treaty](./tax-treaty.md), an investor in one country who receives dividends from a foreign company faces **withholding tax** imposed by the dividend-paying company's home nation—often at rates of 25–35%. Bilateral **tax treaties reduce this withholding** through negotiated lower rates, typically to 5–15% depending on ownership level and treaty terms. Understanding how to file the correct forms allows investors to pay the treaty rate at source rather than full withholding, reclaiming excess tax later through foreign tax credits.*
+*Without a tax-treaty, an investor in one country who receives dividends from a foreign company faces **withholding tax** imposed by the dividend-paying company's home nation—often at rates of 25–35%. Bilateral **tax treaties reduce this withholding** through negotiated lower rates, typically to 5–15% depending on ownership level and treaty terms. Understanding how to file the correct forms allows investors to pay the treaty rate at source rather than full withholding, reclaiming excess tax later through foreign tax credits.*
 
 <aside class="wiki-infobox">
 
@@ -35,15 +35,15 @@ image: "/svg/markets.svg"
 
 ## Why Withholding Tax Exists
 
-When a foreign corporation pays a [dividend](./dividend.md) to a non-resident shareholder, the dividend-paying country asserts the right to tax that income before it leaves the country. This is "withholding at source"—the company deducts tax and remits it to the government, and the investor receives only the after-tax proceeds.
+When a foreign corporation pays a [dividend](/dividend/) to a non-resident shareholder, the dividend-paying country asserts the right to tax that income before it leaves the country. This is "withholding at source"—the company deducts tax and remits it to the government, and the investor receives only the after-tax proceeds.
 
 The withholding rate is set by the company's home nation's domestic tax law and is often one of the highest rates in that country's tax code. The United States, for example, generally withholds 30% on dividends paid to foreign investors unless a treaty or exemption applies. Many European and Asian countries impose similar or higher rates.
 
-For a U.S. investor receiving a $1,000 dividend from a German company, Germany might withhold 26% (€260), leaving the investor with €740 in hand. The investor is responsible for reporting the gross dividend and any foreign tax paid to the [internal-revenue-service](./internal-revenue-service.md) to claim a [foreign-tax-credit](./foreign-tax-credit.md) for the withheld amount.
+For a U.S. investor receiving a $1,000 dividend from a German company, Germany might withhold 26% (€260), leaving the investor with €740 in hand. The investor is responsible for reporting the gross dividend and any foreign tax paid to the internal-revenue-service to claim a foreign-tax-credit for the withheld amount.
 
 ## How Tax Treaties Negotiate Withholding Rates Down
 
-Bilateral tax treaties between two countries include provisions that reduce the withholding rate on dividends, [interest](./interest-rate.md), and [royalties](./royalties.md). These rates are typically negotiated to align with each country's treatment of domestic investors and to encourage cross-border investment.
+Bilateral tax treaties between two countries include provisions that reduce the withholding rate on dividends, [interest](/interest-rate/), and royalties. These rates are typically negotiated to align with each country's treatment of domestic investors and to encourage cross-border investment.
 
 Common treaty dividend rates are:
 
@@ -60,7 +60,7 @@ For example, the U.S.–Germany treaty allows German companies to withhold at 5%
 
 Investors can access treaty relief in two ways:
 
-**Relief at source** (preferred): The dividend-paying company withholds only the treaty rate if the investor proves treaty eligibility. This requires filing a tax residency certificate or form (e.g., a U.S. [w-8ben](./w-8ben.md) form) before the dividend payment date.
+**Relief at source** (preferred): The dividend-paying company withholds only the treaty rate if the investor proves treaty eligibility. This requires filing a tax residency certificate or form (e.g., a U.S. w-8ben form) before the dividend payment date.
 
 **Foreign tax credit** (fallback): If the company withholds the statutory rate (because the investor did not file forms in time or the payor lacks procedures for treaty relief), the investor reports the full dividend and excess withholding to their home country and claims a credit for the entire amount withheld. However, the credit is limited to the investor's home country's tax liability on that income, so excess credits may be lost or carried forward depending on local rules.
 
@@ -93,7 +93,7 @@ This creates planning incentives: investors accumulating ownership stakes toward
 If a company withholds more tax than the treaty allows—because the investor missed the deadline or the payor made an error—the excess is not automatically refunded. Instead, the investor must:
 
 1. Report the dividend and excess withholding on their home country tax return.
-2. Claim a [foreign-tax-credit](./foreign-tax-credit.md) for the full amount withheld.
+2. Claim a foreign-tax-credit for the full amount withheld.
 3. If the credit exceeds their home country's tax liability on that income, carry the excess forward (or back, in some countries) to offset future income.
 
 In the U.S., excess foreign tax credits can be carried back 1 year and forward 10 years. In some cases, investors can elect to deduct foreign taxes instead of crediting them, though credits are almost always superior.

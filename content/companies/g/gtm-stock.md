@@ -4,7 +4,7 @@ description: "SaaS platform aggregating business contact and company intelligenc
 keywords: ["SaaS", "B2B data", "contact database", "sales intelligence", "go-to-market"]
 ---
 
-*[ZoomInfo Technologies](/gtm-stock/) (ticker: GTM) operates a [public-company](public-company/) SaaS platform that collects, curates, and distributes business-to-business contact and company intelligence. Its core product—a searchable database of executives, decision-makers, and organizational structures—powers hundreds of thousands of sales, marketing, and recruiting professionals.*
+*[ZoomInfo Technologies](/gtm-stock/) (ticker: GTM) operates a [public-company](/public-company/) SaaS platform that collects, curates, and distributes business-to-business contact and company intelligence. Its core product—a searchable database of executives, decision-makers, and organizational structures—powers hundreds of thousands of sales, marketing, and recruiting professionals.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GTM</td></tr>

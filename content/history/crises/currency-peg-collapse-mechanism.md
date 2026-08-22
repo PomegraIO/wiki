@@ -22,11 +22,11 @@ image: "/svg/history.svg"
 
 |   |   |
 |---|---|
-| **Trigger** | Current account deficit, [capital flight](capital-flows/), fiscal imbalance, or external shock |
-| **Defense mechanism** | Burn reserves (sell dollars, buy local currency) or raise [interest rates](interest-rate/) to attract capital |
+| **Trigger** | Current account deficit, [capital flight](/capital-flows/), fiscal imbalance, or external shock |
+| **Defense mechanism** | Burn reserves (sell dollars, buy local currency) or raise [interest rates](/interest-rate/) to attract capital |
 | **Speculators' play** | Borrow local currency, sell for dollars, wait for devaluation, repay at profit |
 | **Duration of defense** | Days to months; speed depends on reserve size and outflow magnitude |
-| **Point of collapse** | When reserves near zero or domestic [interest rates](interest-rate/) trigger recession |
+| **Point of collapse** | When reserves near zero or domestic [interest rates](/interest-rate/) trigger recession |
 | **Post-devaluation** | Currency overshoots, then stabilizes; imports become expensive, inflation spikes |
 | **Classic examples** | Thailand 1997, Russia 1998, Argentina 2002, UK 1992 (Black Wednesday) |
 
@@ -38,7 +38,7 @@ A fixed exchange rate offers stability for trade and investment: exporters and i
 
 Emerging markets, in particular, have often chosen pegs to signal economic discipline and attract foreign investment. A government that pegs its currency essentially says: "We commit to not devaluing, because devaluation would cheat you of your local-currency returns."
 
-But pegs require discipline. If a government spends more than it earns, its [current account](current-yield/) deteriorates (imports exceed exports). If it borrows in foreign currency (dollars, yen) and lends domestically in the local currency, it takes on [currency risk](currency-risk/). If [interest rates](interest-rate/) abroad rise (e.g., the U.S. Federal Reserve tightens), capital flows out to seek higher returns overseas.
+But pegs require discipline. If a government spends more than it earns, its [current account](/current-yield/) deteriorates (imports exceed exports). If it borrows in foreign currency (dollars, yen) and lends domestically in the local currency, it takes on [currency risk](/currency-risk/). If [interest rates](/interest-rate/) abroad rise (e.g., the U.S. Federal Reserve tightens), capital flows out to seek higher returns overseas.
 
 ## The Pressure Builds
 
@@ -48,19 +48,19 @@ A peg becomes vulnerable when:
 
 **The government is fiscally weak**: Large budget deficits force central bank financing (printing money), which inflates the currency relative to others, making exports uncompetitive and imports attractive. The peg's defense requires spending down foreign reserves to buy up excess local currency. But if the fiscal deficit persists, reserves burn endlessly.
 
-**Debt is in foreign currency**: If firms or the government owe dollars but earn in the local currency, a devaluation doubles the local-currency burden of repayment. This creates moral hazard: the government wants to devalue to reduce the real debt burden, but cannot because investors (who know this) will demand a [risk premium](interest-rate/) that raises borrowing costs or flee entirely.
+**Debt is in foreign currency**: If firms or the government owe dollars but earn in the local currency, a devaluation doubles the local-currency burden of repayment. This creates moral hazard: the government wants to devalue to reduce the real debt burden, but cannot because investors (who know this) will demand a [risk premium](/interest-rate/) that raises borrowing costs or flee entirely.
 
-**External shocks hit**: A collapse in the price of the country's main export (oil, metals, agricultural commodities) reduces export revenues and [capital flows](capital-flows/) dry up. Indonesia's shock came from declining oil exports; Russia's from oil and commodity collapse in 1998; Argentina's from the Brazilian devaluation and a global commodity downturn.
+**External shocks hit**: A collapse in the price of the country's main export (oil, metals, agricultural commodities) reduces export revenues and [capital flows](/capital-flows/) dry up. Indonesia's shock came from declining oil exports; Russia's from oil and commodity collapse in 1998; Argentina's from the Brazilian devaluation and a global commodity downturn.
 
 **Interest rates abroad rise**: If the U.S. Federal Reserve raises rates, investors sell emerging-market assets (which now offer lower relative returns) and move money to the U.S. Capital floods out; the local currency faces depreciation pressure.
 
 ## The Defense Phase
 
-Once pressure builds, the government and [central bank](central-bank/) have two tools:
+Once pressure builds, the government and [central bank](/central-bank/) have two tools:
 
 **Burning reserves**: Sell foreign currency (dollars, euros, gold) and buy the local currency, reducing supply and supporting its price. This works temporarily, but reserves are finite. A country with $30 billion in reserves can defend for months if outflows are $2 billion per month, but only days if they spike to $5 billion per day.
 
-**Raising interest rates**: A higher [interest rate](interest-rate/) makes local investments more attractive (why move your money abroad if you can earn 8% at home?), attracting capital inflows and supporting the peg. But there is a cost: higher rates depress domestic investment and consumption, pushing the economy into recession. Firms with [floating-rate debt](cost-of-debt/) see borrowing costs spike. Unemployment rises.
+**Raising interest rates**: A higher [interest rate](/interest-rate/) makes local investments more attractive (why move your money abroad if you can earn 8% at home?), attracting capital inflows and supporting the peg. But there is a cost: higher rates depress domestic investment and consumption, pushing the economy into recession. Firms with [floating-rate debt](/cost-of-debt/) see borrowing costs spike. Unemployment rises.
 
 ## The Trilemma: You Cannot Have All Three
 
@@ -68,10 +68,10 @@ A core principle in international finance—the **impossible trinity** or **tril
 
 1. A fixed exchange rate
 2. Free capital flows (no controls on money moving in or out)
-3. Independent monetary policy (the ability to set [interest rates](interest-rate/) for domestic priorities)
+3. Independent monetary policy (the ability to set [interest rates](/interest-rate/) for domestic priorities)
 
 To defend a peg under pressure, the government must either:
-- Raise [interest rates](interest-rate/) to unattractive levels, or
+- Raise [interest rates](/interest-rate/) to unattractive levels, or
 - Impose capital controls (preventing outflows)
 
 If it chooses neither, the peg breaks. Thailand and the Asian tigers in 1997 had chosen free capital flows and fixed rates, so they had no choice but to tighten rates (which deepened recession) or abandon the peg. They chose devaluation.
@@ -86,7 +86,7 @@ Once investors sense that a peg is unsustainable, they attack it. The mechanics 
 4. When the peg breaks and the baht falls to 35 baht/dollar, the speculator buys baht back at the new rate.
 5. The speculator repays the loan and pockets the profit.
 
-In 1997, speculators shorted (borrowed and sold) enormous amounts of baht, confident the peg would break. This accelerated reserve depletion: the [central bank](central-bank/) had to sell dollars faster to meet the selling pressure. Within weeks, reserves dwindled, and the government admitted the peg was unsustainable.
+In 1997, speculators shorted (borrowed and sold) enormous amounts of baht, confident the peg would break. This accelerated reserve depletion: the [central bank](/central-bank/) had to sell dollars faster to meet the selling pressure. Within weeks, reserves dwindled, and the government admitted the peg was unsustainable.
 
 Speculators do not *cause* the collapse, but they accelerate it. They exploit an imbalance that already exists; if the peg were truly sustainable, speculators would lose money and stop. But once enough large investors conclude the peg will break, their coordinated selling becomes a self-fulfilling prophecy.
 
@@ -105,11 +105,11 @@ Post-devaluation, several dynamics unfold:
 
 **Currency overshooting**: The currency often falls more than economic fundamentals suggest, as investors reposition and pessimism peaks. The baht fell 50% in 1997 even though Thailand's underlying productivity had not fallen 50%. Over months to years, it recovers slightly.
 
-**Inflation spikes**: Imports become expensive, pushing import-competing goods higher in price. Firms with dollar debts struggle; wages erode. [Core inflation](core-inflation/) may stay elevated for a year or two.
+**Inflation spikes**: Imports become expensive, pushing import-competing goods higher in price. Firms with dollar debts struggle; wages erode. [Core inflation](/core-inflation/) may stay elevated for a year or two.
 
-**Competitiveness rebound**: Once the currency has weakened, exports become cheaper and more competitive. Export volumes typically rebound, and the [trade deficit](current-yield/) improves.
+**Competitiveness rebound**: Once the currency has weakened, exports become cheaper and more competitive. Export volumes typically rebound, and the [trade deficit](/current-yield/) improves.
 
-**Capital return**: Investors who fled return once the new exchange rate stabilizes and [interest rates](interest-rate/) normalize. Spreads widen temporarily but narrow again as confidence returns.
+**Capital return**: Investors who fled return once the new exchange rate stabilizes and [interest rates](/interest-rate/) normalize. Spreads widen temporarily but narrow again as confidence returns.
 
 ## Why Governments Keep Trying
 

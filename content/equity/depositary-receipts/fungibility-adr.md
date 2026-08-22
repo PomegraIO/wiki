@@ -1,6 +1,7 @@
 ---
 title: "ADR Fungibility"
-description: "ADR fungibility is the two-way convertibility between an American depositary receipt and the foreign shares behind it, the mechanism that keeps the two prices aligned."
+seo_title: "ADR Fungibility: How Receipts Convert Into Shares"
+description: "ADR fungibility is the two-way swap between an ADR and its foreign shares that keeps prices aligned. How issuance, cancellation, and limits work."
 keywords:
   - adr fungibility
   - depositary receipt

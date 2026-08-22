@@ -1,6 +1,7 @@
 ---
 title: "Eurex Equity Options"
-description: "Europe's leading derivatives exchange for equity options and futures, serving continental European stocks and the broader EU financial markets with centralized clearing and settlement."
+seo_title: "Eurex Equity Options: How Europe's Top Market Works"
+description: "Eurex is Europe's largest derivatives exchange, listing options on blue chips like SAP and ASML plus DAX and EURO STOXX 50 indices. Contracts and clearing."
 keywords:
   - Eurex
   - options exchange

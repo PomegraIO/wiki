@@ -9,7 +9,7 @@ keywords:
 image: /svg/macro.svg
 ---
 
-*Rising prices look uniform in the headline [inflation](inflation/) rate, but **inflation and income inequality** are deeply linked: lower-income households spend more of their income on necessities with volatile prices (food, energy, transport), savers and creditors lose real wealth to borrowers, and those without wage-bargaining power watch real earnings erode. Inflation is not neutral across income groups.*
+*Rising prices look uniform in the headline [inflation](/inflation/) rate, but **inflation and income inequality** are deeply linked: lower-income households spend more of their income on necessities with volatile prices (food, energy, transport), savers and creditors lose real wealth to borrowers, and those without wage-bargaining power watch real earnings erode. Inflation is not neutral across income groups.*
 
 <aside class="wiki-infobox">
 
@@ -52,13 +52,13 @@ Conversely, if a central bank acts rapidly and credibly to anchor expectations, 
 
 ## The Creditor-Debtor Redistribution
 
-Inflation systematically transfers wealth from creditors (savers, bondholders, lenders) to borrowers (mortgaged homeowners, businesses with debt, students with loans). This happens through the [real interest rate](real-interest-rate/) channel.
+Inflation systematically transfers wealth from creditors (savers, bondholders, lenders) to borrowers (mortgaged homeowners, businesses with debt, students with loans). This happens through the [real interest rate](/real-interest-rate/) channel.
 
 When someone borrows $100,000 at a 4% nominal [interest rate](/interest-rate/), they expect to repay roughly $104,000 in real terms one year later if inflation is zero. But if inflation is 5%, the real [interest rate](/interest-rate/) is negative: the borrower repays the loan with dollars worth less than those received. In present-value terms, the debt burden has shrunk.
 
 This is not always bad for inequality. If inflation is unexpected and borrowers are a cross-section of the population, the redistribution can go either way. But in practice, **uncontrolled inflation** redistributes from savers (who hold cash and bonds) to borrowers, and savers are disproportionately wealthy and older. A retiree living on bond income sees real purchasing power collapse if inflation surges and bond yields lag. A young mortgagor benefits from inflation eroding the real value of the loan.
 
-However, if inflation is anticipated and [interest rates](interest-rate/) adjust upward, borrowers do not gain; they refinance at high rates or cannot borrow at all. The real disadvantage falls on those who locked in low rates before inflation, or who lack access to credit in a high-[interest-rate](interest-rate/) environment. Lower-income households are least likely to have fixed-rate debt and most likely to face credit rationing in tight money. So the creditor-debtor channel often reinforces inequality: unexpected inflation helps wealthy mortgagors; expected, persistent inflation hurts poor households locked out of credit.
+However, if inflation is anticipated and [interest rates](/interest-rate/) adjust upward, borrowers do not gain; they refinance at high rates or cannot borrow at all. The real disadvantage falls on those who locked in low rates before inflation, or who lack access to credit in a high-[interest-rate](/interest-rate/) environment. Lower-income households are least likely to have fixed-rate debt and most likely to face credit rationing in tight money. So the creditor-debtor channel often reinforces inequality: unexpected inflation helps wealthy mortgagors; expected, persistent inflation hurts poor households locked out of credit.
 
 ## Asset Inflation and Wealth Inequality
 
@@ -74,7 +74,7 @@ Some retirees have indexed pensions (the payment rises with inflation), but many
 
 ## Policy Trade-offs
 
-Addressing inflation-driven inequality requires trade-offs. [Monetary policy](monetary-policy/) that rapidly controls inflation protects all groups from real wage and purchasing-power loss, but may raise unemployment in the short term, hitting lower-income workers hardest. Fiscal measures—targeted subsidies for food and energy, expanded unemployment benefits, child allowances—can cushion lower-income households during inflation but may themselves stoke inflation if poorly designed.
+Addressing inflation-driven inequality requires trade-offs. [Monetary policy](/monetary-policy/) that rapidly controls inflation protects all groups from real wage and purchasing-power loss, but may raise unemployment in the short term, hitting lower-income workers hardest. Fiscal measures—targeted subsidies for food and energy, expanded unemployment benefits, child allowances—can cushion lower-income households during inflation but may themselves stoke inflation if poorly designed.
 
 Some countries have experimented with price controls or caps on energy costs to shield lower-income households. These often create shortages, black markets, or subsequent large inflation bursts when controls are lifted, ultimately worsening distributional outcomes. Efficiency—reducing inflation quickly—often serves equity better than well-intentioned price interference.
 

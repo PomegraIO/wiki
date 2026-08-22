@@ -1,6 +1,7 @@
 ---
 title: "New Highs and New Lows"
-description: "A count of stocks reaching 52-week price extremes; a breadth indicator revealing whether market strength is broad or concentrated in a few names."
+seo_title: "New Highs vs New Lows: Reading Market Breadth"
+description: "New highs–new lows counts stocks at 52-week extremes to show whether a rally is broad or narrow. Reading ratios, divergences, and capitulation lows."
 keywords:
   - market breadth
   - new highs

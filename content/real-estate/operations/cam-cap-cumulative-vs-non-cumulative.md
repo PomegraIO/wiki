@@ -1,6 +1,7 @@
 ---
 title: "CAM Cap: Cumulative vs Non-Cumulative Explained"
-description: "CAM cap cumulative vs non-cumulative lease structures: how landlords bank unused increases across years while non-cumulative caps reset annually, with cost examples for tenants."
+seo_title: "CAM Cap: Cumulative vs Non-Cumulative, Explained"
+description: "A cumulative CAM cap lets landlords bank unused increases across years; a non-cumulative cap resets annually. What each structure costs tenants."
 keywords:
   - cam cap cumulative vs non-cumulative lease
   - cumulative cam cap

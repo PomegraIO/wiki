@@ -1,6 +1,7 @@
 ---
 title: "EPAM Systems, Inc. (EPAM)"
-description: "A Belarusian-founded, US-listed software engineering firm that builds digital products and platforms for enterprises globally — competing on technical depth and long-term client relationships rather than price."
+seo_title: "EPAM Stock: Inside EPAM Systems' Engineering Business"
+description: "EPAM is EPAM Systems, a global software engineering firm building products and platforms for Fortune 500 clients. How it makes money and keeps them."
 keywords:
   - software engineering
   - digital transformation

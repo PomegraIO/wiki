@@ -43,7 +43,7 @@ Think of it this way: you own 100 shares of a stock and sell a call option. You 
 
 The most common outcome is assignment. Your shares are called away at the strike price, and the transaction closes. Your proceeds equal the strike price plus the premium you collected.
 
-Your [capital-gains-on-covered-calls](capital gain or loss) is calculated as:
+Your capital gain or loss is calculated as:
 
 **Gain = (Strike Price + Premium + Any Other Income) − Original Purchase Price**
 

@@ -4,7 +4,7 @@ description: "Professional services and consulting firm specializing in governme
 keywords: [consulting, government-contracts, federal-services, strategic-advising, public-sector, professional-services]
 ---
 
-*[ICF International, Inc.](ICFI) is a professional services firm that advises government agencies, healthcare organizations, and large corporations on policy, operations, technology, and environmental compliance. It competes in the crowded federal consulting market by combining technical expertise (data science, environmental compliance, health systems design) with long-standing relationships with agencies that oversee large budgets and mission-critical programs.*
+*ICF International, Inc. is a professional services firm that advises government agencies, healthcare organizations, and large corporations on policy, operations, technology, and environmental compliance. It competes in the crowded federal consulting market by combining technical expertise (data science, environmental compliance, health systems design) with long-standing relationships with agencies that oversee large budgets and mission-critical programs.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>ICFI</td></tr>

@@ -1,6 +1,7 @@
 ---
 title: "INVESCO QQQ Trust, Series 1 (QQQ)"
-description: "QQQ is an exchange-traded fund that tracks the NASDAQ-100 index, giving investors exposure to the 100 largest non-financial companies listed on the NASDAQ exchange, heavily weighted toward technology."
+seo_title: "QQQ Stock: Invesco Nasdaq-100 ETF Explained"
+description: "QQQ is the Invesco ETF tracking the Nasdaq-100: the 100 largest non-financial Nasdaq companies, tilted heavily toward tech. What it holds and how it works."
 keywords:
   - NASDAQ-100
   - technology stocks

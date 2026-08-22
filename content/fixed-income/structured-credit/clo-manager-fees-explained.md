@@ -1,6 +1,7 @@
 ---
 title: "CLO Manager Fees Explained"
-description: "CLO manager fees operate in a waterfall: senior fees paid first, then subordinated fees only when equity returns exceed a hurdle. How this incentive structure works."
+seo_title: "CLO Manager Fees: Senior vs Subordinated, Explained"
+description: "CLO managers earn a senior fee paid off the top and a subordinated fee only when equity clears its hurdle. How the fee waterfall aligns incentives."
 keywords:
   - clo manager fees senior subordinated
   - collateralized loan obligation fees

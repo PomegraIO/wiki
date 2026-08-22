@@ -1,6 +1,7 @@
 ---
 title: "Stagflation"
-description: "Stagflation is the coexistence of high inflation and economic stagnation (low growth and high unemployment). It is a worst-case scenario that confounds traditional policy responses."
+seo_title: "Stagflation: Definition, Causes & Why It's Feared"
+description: "Stagflation is high inflation combined with stagnant growth and high unemployment — a worst-case economy that defies standard policy fixes. What causes it."
 keywords:
   - stagflation
   - stagnation

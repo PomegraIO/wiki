@@ -1,6 +1,7 @@
 ---
 title: "S&P 500 Index"
-description: "The S&P 500 is an index of 500 of the largest publicly traded US companies, weighted by market capitalization. It is the most widely used benchmark of the overall health of the US stock market and economy. Trillions of dollars are invested in funds tracking the S&P 500."
+seo_title: "S&P 500 Index: What It Is and How It Works"
+description: "The S&P 500 is a market-cap-weighted index of 500 large US companies covering about 80% of US market value. How it works and why trillions track it."
 keywords:
   - S&P 500
   - SPX

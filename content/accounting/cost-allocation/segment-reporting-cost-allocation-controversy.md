@@ -23,7 +23,7 @@ image: "/svg/accounting.svg"
 |   |   |
 |---|---|
 | **Core tension** | Standards require "consistent" allocation but allow multiple methods; each yields different results |
-| **What must be allocated** | [Operating expenses](../accounting/) directly tied to segments; corporate headquarters staff and shared IT typically must go somewhere |
+| **What must be allocated** | Operating expenses directly tied to segments; corporate headquarters staff and shared IT typically must go somewhere |
 | **What may be excluded** | Costs unrelated to segment activity; tax and finance functions (under certain criteria) |
 | **Key standards** | IFRS 8, [ASC 280](/asc-606/) (though ASC 280 is older and less prescriptive) |
 | **Common methods** | Revenue-based, headcount-based, asset-based, usage-driven, or arbitrary percentages |
@@ -54,7 +54,7 @@ But the boundary is fuzzy. Is IT allocated (segment-facing) or excluded (corpora
 
 ## The Practical Controversy
 
-Imagine a diversified manufacturer with three segments: Consumer Products, Industrial Equipment, and Defense Contracting. Corporate headquarters costs total USD 150 million per year. Revenue is USD 2 billion (Consumer), USD 1.5 billion (Industrial), and USD 500 million (Defense). Direct [operating expenses](../accounting/) are USD 1.5 billion, USD 1.2 billion, and USD 350 million, respectively.
+Imagine a diversified manufacturer with three segments: Consumer Products, Industrial Equipment, and Defense Contracting. Corporate headquarters costs total USD 150 million per year. Revenue is USD 2 billion (Consumer), USD 1.5 billion (Industrial), and USD 500 million (Defense). Direct operating expenses are USD 1.5 billion, USD 1.2 billion, and USD 350 million, respectively.
 
 **Allocation by Revenue** (simplest):
 - Consumer Products: (2B / 4B) × 150M = USD 75M allocated

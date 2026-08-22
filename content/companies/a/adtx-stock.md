@@ -1,6 +1,7 @@
 ---
 title: "Aditxt, Inc. (ADTX)"
-description: "A Nasdaq-listed biotech platform company that acquires and develops diagnostics and therapeutics focused on immune health, early cancer detection, and neurological conditions."
+seo_title: "ADTX Stock: Aditxt's Biotech Acquisition Platform"
+description: "Aditxt (ADTX) is a Nasdaq biotech holding company acquiring immune health, cancer detection, and neuro diagnostics programs. Its model and key bets."
 keywords:
   - biotech company
   - immune health

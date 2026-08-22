@@ -7,8 +7,15 @@
 
   {{/* ── Title, description, canonical ─────────────────────────────── */}}
   {{ $title := cond .IsHome (printf "%s — %s" .Site.Title .Site.Params.tagline) (printf "%s — %s" .Title .Site.Title) }}
-  {{ $desc := cond (ne (string .Description) "") (string .Description) (cond (ne (string .Summary) "") (string .Summary) .Site.Params.description) }}
-  {{ $desc = htmlEscape (truncate 300 (plainify $desc)) }}
+  {{/* Front-matter `seo_title`, when present, is the FULL <title> verbatim —
+       no " — Pomegra Wiki" suffix. The suffix eats 15 of Google's ~60-char
+       budget on exactly the pages fighting for that space. og:title and
+       twitter:title below stay on .Title: social cards want the clean name. */}}
+  {{ with .Params.seo_title }}{{ $title = . }}{{ end }}
+  {{/* Description resolution lives in partials/meta-desc.html so this file
+       and seo-jsonld.html can never drift apart. Escaping stays here — the
+       partial returns the raw string. */}}
+  {{ $desc := htmlEscape (partial "meta-desc.html" .) }}
   {{ $canonical := .Permalink }}
   {{ $section := .Section }}
   {{ $sectionLabel := humanize $section }}
@@ -20,9 +27,13 @@
   <link rel="canonical" href="{{ $canonical }}" />
 
   {{/* ── Robots / indexing ─────────────────────────────────────────── */}}
-  {{ $noindex := or .Params.noindex (in (slice "404.html") .Layout) }}
+  {{/* `noindex` only, never `nofollow`: pruned pages still cross-link
+       generously, and keeping them follow lets that link equity flow through
+       to the entries that remain in the index. Kind "404" covers the
+       layouts/404.html error page, which has no front matter of its own. */}}
+  {{ $noindex := or .Params.noindex (eq .Kind "404") (in (slice "404.html") .Layout) }}
   {{ if $noindex }}
-    <meta name="robots" content="noindex,nofollow" />
+    <meta name="robots" content="noindex" />
   {{ else }}
     <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
     <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />

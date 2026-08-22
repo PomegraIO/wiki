@@ -47,7 +47,7 @@ Notches are fiscally efficient: every dollar spent on the program goes to clearl
 
 A taper replaces the sharp boundary with a graduated decline. The benefit might fall 5% for every additional $100 earned above the threshold. A household earning $20,000 receives the full benefit; at $21,000, the benefit falls to $95. At $21,500, it falls to $90. At $30,000, the benefit is zero.
 
-The phase-out range in a taper typically spans 25–50% of the [poverty-line](poverty-line/) threshold. For a poverty line of $20,000, the phase-out might run from $20,000 to $30,000—a $10,000 band. Over that range, the [benefit-clawback-rate-explained](benefit-clawback-rate-explained/) is gradual (perhaps 10–20%), not punitive.
+The phase-out range in a taper typically spans 25–50% of the poverty-line threshold. For a poverty line of $20,000, the phase-out might run from $20,000 to $30,000—a $10,000 band. Over that range, the [benefit-clawback-rate-explained](/benefit-clawback-rate-explained/) is gradual (perhaps 10–20%), not punitive.
 
 At the notch threshold, earning $1 more loses $8,000; at the taper, earning $1 more loses $0.10. The work incentive is preserved. A household considering whether to increase hours faces a rational calculation: extra earnings translate into meaningful net income gain. The incentive to work does not vanish.
 
@@ -67,7 +67,7 @@ A program with a $20,000 notch might serve 8 million households. The same progra
 
 Alternatively, if per-recipient benefit is held constant, the taper program costs $125 billion instead of $100 billion—a 25% increase to serve 2 million additional people at the margin. Policymakers must decide whether that marginal cost is worth the marginal work-incentive gain.
 
-In most democracies, the answer is "yes, but moderately." Large transfer programs—SNAP, EITC, [earned-income-disregard-welfare](earned-income-disregard-welfare/)—use tapers rather than notches, accepting modestly higher costs in exchange for better work incentives. But the tapers are often not as generous as economic theory would prescribe, because the full cost would be electorally unsustainable.
+In most democracies, the answer is "yes, but moderately." Large transfer programs—SNAP, EITC, [earned-income-disregard-welfare](/earned-income-disregard-welfare/)—use tapers rather than notches, accepting modestly higher costs in exchange for better work incentives. But the tapers are often not as generous as economic theory would prescribe, because the full cost would be electorally unsustainable.
 
 ## The poverty trap interaction
 
@@ -79,18 +79,18 @@ Some tapers are explicitly designed to minimize this by using very low phase-out
 
 ## Real-world examples and hybrids
 
-**SNAP (notch-leaning)**: Federal rules create a notch when [gross-income](gross-income/) reaches 130% of poverty line for non-elderly, non-disabled households. At that threshold, eligibility ceases abruptly. Some states soften this with extended benefits or disregards, creating a quasi-taper.
+**SNAP (notch-leaning)**: Federal rules create a notch when gross-income reaches 130% of poverty line for non-elderly, non-disabled households. At that threshold, eligibility ceases abruptly. Some states soften this with extended benefits or disregards, creating a quasi-taper.
 
 **EITC (taper)**: The Earned Income Tax Credit explicitly uses a taper. As income rises beyond a certain point, the credit phases out at 15–21%, a very gentle slope. This makes it one of the most work-incentive-friendly transfer programs.
 
-**TANF (mixed)**: Temporary Assistance for Needy Families uses a basic notch (income above threshold triggers ineligibility) but many states overlay [earned-income-disregard-welfare](earned-income-disregard-welfare/) and additional benefit structures that approximate a soft taper.
+**TANF (mixed)**: Temporary Assistance for Needy Families uses a basic notch (income above threshold triggers ineligibility) but many states overlay [earned-income-disregard-welfare](/earned-income-disregard-welfare/) and additional benefit structures that approximate a soft taper.
 
 **Housing vouchers (notch-heavy)**: Many public housing programs use notches at income thresholds, creating sharp cliffs. A family earning $1 above the limit loses housing assistance. These are common and particularly disruptive because housing costs are inflexible; losing a voucher can force relocation or homelessness.
 
 Some jurisdictions attempt hybrid approaches:
 
 - **Soft notches**: Set the notch threshold well above the actual poverty level, so few recipients actually experience the cliff.
-- **Notches with disregards**: Introduce [earned-income-disregard-welfare](earned-income-disregard-welfare/) to effectively soften the notch without formally converting to a taper.
+- **Notches with disregards**: Introduce [earned-income-disregard-welfare](/earned-income-disregard-welfare/) to effectively soften the notch without formally converting to a taper.
 - **Notches with overlapping programs**: Use multiple categorical programs with offset notches so that when one benefit ends, another begins, creating a pseudo-taper across the program suite.
 
 ## The optimal design question

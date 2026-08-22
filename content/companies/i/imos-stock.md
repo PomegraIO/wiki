@@ -9,7 +9,7 @@ keywords:
   - contract manufacturing
 ---
 
-*[**Chipmos Technologies Inc** (IMOS)](IMOS) is a Taiwanese semiconductor services company that tests, packages, and quality-certifies semiconductor chips for major foundries, design firms, and electronic device manufacturers. The company does not design chips, does not own fabrication plants (fabs), and does not manufacture semiconductor wafers. Instead, it receives finished or intermediate wafers from customers, performs electrical testing, sorts good dies from defective ones, packages dies into consumer-facing integrated circuits, and validates the final product against customer specifications. It is a downstream link in the semiconductor supply chain, dependent on upstream design and fabrication but essential to the final product.*
+***Chipmos Technologies Inc** (IMOS) is a Taiwanese semiconductor services company that tests, packages, and quality-certifies semiconductor chips for major foundries, design firms, and electronic device manufacturers. The company does not design chips, does not own fabrication plants (fabs), and does not manufacture semiconductor wafers. Instead, it receives finished or intermediate wafers from customers, performs electrical testing, sorts good dies from defective ones, packages dies into consumer-facing integrated circuits, and validates the final product against customer specifications. It is a downstream link in the semiconductor supply chain, dependent on upstream design and fabrication but essential to the final product.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>IMOS</td></tr>

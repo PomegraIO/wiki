@@ -4,7 +4,7 @@ description: "Manufacturer of heavy construction equipment, particularly cranes;
 keywords: ["heavy equipment", "cranes", "construction machinery", "manufacturing", "equipment financing", "dealer networks", "capital equipment"]
 ---
 
-*[**MANITOWOC CO INC**](MTW) manufactures heavy construction equipment—cranes, luffing equipment, and specialized rigging systems—sold primarily to construction contractors, equipment dealers, and rental companies. The company's margins depend on manufacturing efficiency, design differentiation, and its ability to maintain pricing power in a cyclical, capital-intensive market where customers often defer equipment purchases during downturns.*
+***MANITOWOC CO INC** manufactures heavy construction equipment—cranes, luffing equipment, and specialized rigging systems—sold primarily to construction contractors, equipment dealers, and rental companies. The company's margins depend on manufacturing efficiency, design differentiation, and its ability to maintain pricing power in a cyclical, capital-intensive market where customers often defer equipment purchases during downturns.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MTW</td></tr>

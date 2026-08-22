@@ -4,7 +4,7 @@ description: "Digital receipt-based platform connecting CPG brands with retailer
 keywords: [grocery-marketing, digital-coupons, consumer-packaged-goods, retail-data, shopper-marketing, promotional-intelligence]
 ---
 
-*[Ibotta, Inc.](IBTA) operates a digital receipt and promotional-intelligence platform that mediates the promotional relationship between consumer-packaged goods (CPG) companies and grocery retailers. Rather than distributing coupons through newspapers or apps, Ibotta sits between brand marketers and the retail point-of-sale, capturing real receipt data to measure which promotions move product and how.*
+*Ibotta, Inc. operates a digital receipt and promotional-intelligence platform that mediates the promotional relationship between consumer-packaged goods (CPG) companies and grocery retailers. Rather than distributing coupons through newspapers or apps, Ibotta sits between brand marketers and the retail point-of-sale, capturing real receipt data to measure which promotions move product and how.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>IBTA</td></tr>

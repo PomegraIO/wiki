@@ -9,7 +9,7 @@ keywords:
   - tactile feedback
 ---
 
-*[**Immersion Corp** (IMMR)](IMMR) is a Delaware corporation that builds business around a portfolio of haptic—tactile feedback—patents and licensing agreements. The firm itself manufactures nothing; instead, it grants other manufacturers the right to use haptic effects in their products—smartphones, game controllers, automotive touchscreens, industrial equipment—in exchange for ongoing royalty payments. The company's core asset is a collection of techniques and intellectual property governing how devices vibrate, pulse, or otherwise provide touch sensation to users. Its model depends on convincing downstream companies that haptic adds enough customer value to justify licensing fees, and then collecting those fees as devices ship.*
+***Immersion Corp** (IMMR) is a Delaware corporation that builds business around a portfolio of haptic—tactile feedback—patents and licensing agreements. The firm itself manufactures nothing; instead, it grants other manufacturers the right to use haptic effects in their products—smartphones, game controllers, automotive touchscreens, industrial equipment—in exchange for ongoing royalty payments. The company's core asset is a collection of techniques and intellectual property governing how devices vibrate, pulse, or otherwise provide touch sensation to users. Its model depends on convincing downstream companies that haptic adds enough customer value to justify licensing fees, and then collecting those fees as devices ship.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>IMMR</td></tr>

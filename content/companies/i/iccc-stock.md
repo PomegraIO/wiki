@@ -4,7 +4,7 @@ description: "Microbiology and immunology diagnostics company focused on bovine 
 keywords: [animal-diagnostics, dairy-industry, bacterial-detection, veterinary-products, livestock-health, agricultural-biotechnology]
 ---
 
-*[IMMUCELL CORP /DE/](ICCC) develops and sells microbiology and immunology diagnostic products for dairy cattle health, with a core focus on detecting mastitis and other bacterial infections that compromise milk quality and herd productivity. The company occupies a niche within agricultural biotech: tools that reduce the financial and welfare cost of disease in livestock.*
+*IMMUCELL CORP /DE/ develops and sells microbiology and immunology diagnostic products for dairy cattle health, with a core focus on detecting mastitis and other bacterial infections that compromise milk quality and herd productivity. The company occupies a niche within agricultural biotech: tools that reduce the financial and welfare cost of disease in livestock.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>ICCC</td></tr>

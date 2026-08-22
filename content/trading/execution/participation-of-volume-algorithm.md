@@ -1,6 +1,7 @@
 ---
 title: "Participation of Volume Algorithm"
-description: "An execution algorithm that buys or sells a target fraction of market volume to disguise order size and limit adverse price movement."
+seo_title: "Participation of Volume (POV) Algorithm Explained"
+description: "A POV algorithm executes a large order as a fixed 5-25% share of live market volume to hide size and cut impact. How it works and when to use it."
 keywords:
   - participation algorithm
   - execution algorithm

@@ -1,6 +1,7 @@
 ---
 title: "Option-Adjusted Spread (OAS)"
-description: "Option-adjusted spread is the credit spread of a bond adjusted to exclude the value of embedded options like call or conversion features."
+seo_title: "Option-Adjusted Spread (OAS): Formula and Why It Matters"
+description: "Option-adjusted spread (OAS) is a bond's credit spread with embedded option value stripped out. How it's calculated and used to compare callable bonds."
 keywords:
   - option-adjusted spread
   - OAS

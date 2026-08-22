@@ -67,7 +67,7 @@ GARP is not purely quantitative. It combines hard metrics ([PEG ratio](/peg-rati
 
 **Growth criteria:**
 - Earnings growth of 15–25% annually over the past 3–5 years (the longer track record, the higher the confidence).
-- Durable competitive advantages ([moat](moat)) such as brand strength, switching costs, or economies of scale.
+- Durable competitive advantages (moat) such as brand strength, switching costs, or economies of scale.
 - Secular tailwinds: the industry is expanding, not contracting.
 
 **Value criteria:**

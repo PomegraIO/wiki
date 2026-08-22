@@ -42,15 +42,15 @@ This difference cascades through tax law. When a private equity partner receives
 
 The IRS has blessed "profits interests with meaningful participation"—a safe harbor under Section 707(a)(2) and related rulings. If you receive a profits interest and are materially involved in running the partnership, the IRS generally does not treat the grant as ordinary income *when you receive it*. You pay no tax at award time.
 
-This is radically different from stock grants. When you receive [restricted stock](restricted-stock-award), the full fair market value typically triggers ordinary income tax on the vesting date (or earlier if you file a Section 83(b) election). When you exercise [stock options](stock-option), the spread between strike price and fair market value is taxed as ordinary income (for non-qualified options) or capital gain (for incentive stock options). Either way, you owe tax well before you sell.
+This is radically different from stock grants. When you receive restricted stock, the full fair market value typically triggers ordinary income tax on the vesting date (or earlier if you file a Section 83(b) election). When you exercise stock options, the spread between strike price and fair market value is taxed as ordinary income (for non-qualified options) or capital gain (for incentive stock options). Either way, you owe tax well before you sell.
 
-With a profits interest, you owe nothing until you actually realize a gain—typically by selling your partnership stake or receiving a distribution of profits. And when you sell, the entire gain is usually [long-term capital gain](long-term-capital-gain-tax) (if you held for more than a year), not ordinary income. This can save 20 percentage points or more in tax, depending on your bracket.
+With a profits interest, you owe nothing until you actually realize a gain—typically by selling your partnership stake or receiving a distribution of profits. And when you sell, the entire gain is usually [long-term capital gain](/long-term-capital-gain-tax/) (if you held for more than a year), not ordinary income. This can save 20 percentage points or more in tax, depending on your bracket.
 
 The catch: the "meaningful participation" safe harbor is not automatic. The IRS will scrutinize whether you genuinely work in the partnership. A profits interest awarded to a passive investor, a relative, or someone who never shows up to work may not qualify, and the IRS can argue it's disguised compensation—taxable immediately as ordinary income.
 
 ## Equity grants: the corporate equivalent
 
-A traditional equity grant in a corporation—[restricted stock](restricted-stock-award), [stock options](stock-option), or [restricted stock units](rsu)—gives you a claim on all equity value. When a startup grants you 5% of common stock (even unvested), you technically own 5% of everything: the office furniture, the IP, the bank account, the future profit potential.
+A traditional equity grant in a corporation—restricted stock, stock options, or restricted stock units—gives you a claim on all equity value. When a startup grants you 5% of common stock (even unvested), you technically own 5% of everything: the office furniture, the IP, the bank account, the future profit potential.
 
 That ownership claim comes with immediate tax consequences. The fair market value of restricted stock on the vesting date is ordinary income. The spread on exercised stock options is ordinary income (for non-qualified options). These are real tax bills, due today or next April, before you ever sell a share.
 
@@ -70,13 +70,13 @@ The downside: profits interests are illiquid. You cannot easily sell a 1% profit
 
 When you sell a profits interest—or when a partnership dissolves and distributes cash to you—the full gain is taxable. But the tax rate depends on how long you held the interest.
 
-If you held for more than one year, the entire gain is [long-term capital gain](long-term-capital-gain-tax), taxed at preferential rates (0%, 15%, or 20% for most U.S. investors). If held for one year or less, it is [short-term capital gain](short-term-capital-gain-tax), taxed as ordinary income.
+If you held for more than one year, the entire gain is [long-term capital gain](/long-term-capital-gain-tax/), taxed at preferential rates (0%, 15%, or 20% for most U.S. investors). If held for one year or less, it is [short-term capital gain](/short-term-capital-gain-tax/), taxed as ordinary income.
 
 Example: You receive a 1% profits interest when a private equity fund has $500 million under management. Years later, the fund grows to $800 million, and you sell your interest for $3 million. If you held the interest for more than one year, the $3 million gain is long-term capital gain. If less than one year, it is ordinary income.
 
 ## When to choose equity vs. profits interest
 
-Profits interests are attractive if you are earning a high [marginal tax rate](marginal-tax-rate-investor) and expect the partnership to grow significantly. The deferral of ordinary income tax—and the eventual realization as long-term capital gain—can save serious money. They are less attractive if you may leave the partnership soon; your interest typically vests or lapses, and you lose the upside.
+Profits interests are attractive if you are earning a high [marginal tax rate](/marginal-tax-rate-investor/) and expect the partnership to grow significantly. The deferral of ordinary income tax—and the eventual realization as long-term capital gain—can save serious money. They are less attractive if you may leave the partnership soon; your interest typically vests or lapses, and you lose the upside.
 
 Equity grants in corporations are simpler, more liquid, and more familiar. But they create an immediate tax bill at vesting or exercise, even if you do not sell. They also dilute all existing shareholders. They are standard in startups, where vesting schedules (typically 4 years) align founder and employee incentives.
 

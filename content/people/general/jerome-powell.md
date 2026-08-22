@@ -1,6 +1,7 @@
 ---
 title: "Jerome Powell"
-description: "Federal Reserve chairman whose policy shifts from dovish accommodation to inflation-fighting tightening reflect the challenge of navigating pandemic-era monetary policy."
+seo_title: "Jerome Powell: Fed Chair Profile, Policy & Decisions"
+description: "Profile of Jerome Powell, the Federal Reserve chair who steered US monetary policy from pandemic-era easing to aggressive inflation-fighting rate hikes."
 keywords:
   - powell
   - federal reserve

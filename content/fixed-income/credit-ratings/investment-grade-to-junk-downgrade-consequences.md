@@ -33,7 +33,7 @@ image: "/svg/fixed-income.svg"
 
 ## The mandate constraint
 
-Pension funds, insurance companies, mutual funds, and bond ETFs operate under strict mandates. A fund labeled "investment-grade bond" is legally prohibited from holding junk bonds. The mandate is not a suggestion—it is a binding constraint enforced by law, regulation, or fund prospectus. When a bond's [credit-rating](./credit-rating/) falls from BBB- (the lowest rung of investment-grade) to BB+ (junk), funds holding that bond are immediately non-compliant.
+Pension funds, insurance companies, mutual funds, and bond ETFs operate under strict mandates. A fund labeled "investment-grade bond" is legally prohibited from holding junk bonds. The mandate is not a suggestion—it is a binding constraint enforced by law, regulation, or fund prospectus. When a bond's [credit-rating](/credit-rating/) falls from BBB- (the lowest rung of investment-grade) to BB+ (junk), funds holding that bond are immediately non-compliant.
 
 The fix is mandatory: sell the bond, usually within a statutory window of days or weeks. Pension funds often have stricter timelines—sometimes 30 days—while other funds may have slightly longer. But across the entire universe of IG-only funds and mandates, the direction is uniform: dump it.
 
@@ -57,7 +57,7 @@ For a fund with a large position, this liquidity drain is painful. For an issuer
 
 ## Index reconstitution and cascade effects
 
-Most institutional money is passively indexed. A pension fund holding a [bond-etf](./bond-etf/) tracking the Bloomberg Aggregate Index owns every investment-grade bond in proportion to its size. When a bond downgrades and leaves the index, the fund is automatically forced to sell—the fund must match the index. If a $500 billion index drops a bond, and $100 billion in assets track that index, $10+ billion of selling floods the market in a matter of days.
+Most institutional money is passively indexed. A pension fund holding a [bond-etf](/bond-etf/) tracking the Bloomberg Aggregate Index owns every investment-grade bond in proportion to its size. When a bond downgrades and leaves the index, the fund is automatically forced to sell—the fund must match the index. If a $500 billion index drops a bond, and $100 billion in assets track that index, $10+ billion of selling floods the market in a matter of days.
 
 Index reconstitution dates magnify the effect. Indices typically rebalance quarterly or semi-annually. A bond downgraded just before reconstitution joins the junk index immediately and is removed from the IG index, causing a two-sided shock: selling pressure in IG, and simultaneous entry pressure in junk (which then fails to materialize, because junk funds already own the right exposures and have no need to buy).
 
@@ -65,11 +65,11 @@ This cascading effect often extends beyond the downgraded issuer. If the issuer 
 
 ## The cost of capital spike
 
-For the issuer, the consequences are profound. A corporation that relied on capital markets for funding suddenly faces a much higher cost of [debt-financing](./debt-financing/). Before downgrade, the company could borrow at 4% in the investment-grade market. Post-downgrade, it must access the high-yield market at 8% or higher.
+For the issuer, the consequences are profound. A corporation that relied on capital markets for funding suddenly faces a much higher cost of [debt-financing](/debt-financing/). Before downgrade, the company could borrow at 4% in the investment-grade market. Post-downgrade, it must access the high-yield market at 8% or higher.
 
 If the issuer needs to refinance an upcoming maturity—money it must repay within weeks—the downgrade makes refinancing problematic. The issuer either:
 
-1. Refinances at much higher rates, consuming [operating cash flow](./free-cash-flow/) that could fund dividends or capex
+1. Refinances at much higher rates, consuming [operating cash flow](/free-cash-flow/) that could fund dividends or capex
 2. Delays refinancing and renegotiates with existing lenders (a distressed workout)
 3. Defaults
 
@@ -77,19 +77,19 @@ Many issuers, facing this pressure, move quickly to stabilize: cutting dividends
 
 ## Covenant implications
 
-Many investment-grade bonds carry covenants that are triggered by a downgrade—these are called rating-based triggers or downgrade clauses. For example, a bond might require that if the issuer is downgraded below BBB-, the coupon rate increases by 100 basis points, or [put-option](./put-option/) holders can demand immediate repayment.
+Many investment-grade bonds carry covenants that are triggered by a downgrade—these are called rating-based triggers or downgrade clauses. For example, a bond might require that if the issuer is downgraded below BBB-, the coupon rate increases by 100 basis points, or [put-option](/put-option/) holders can demand immediate repayment.
 
 These covenants are baked into the bond's fine print and activate automatically. They are meant to compensate investors for increased risk, but they also increase the issuer's immediate financial burden—adding pressure to default risk. An issuer already stressed by downgrade faces the additional burden of higher coupon payments, straining liquidity.
 
 ## Asymmetric recovery
 
-Once a bond downgrades to junk, recovery to investment-grade is rare and slow. The company must demonstrate sustained improvement in credit metrics—[interest-coverage-ratio](./interest-coverage-ratio/), [debt-to-ebitda-ratio](./debt-to-ebitda-ratio/), profitability—over years. Rating agencies are backward-looking and conservative; they upgrade slowly.
+Once a bond downgrades to junk, recovery to investment-grade is rare and slow. The company must demonstrate sustained improvement in credit metrics—[interest-coverage-ratio](/interest-coverage-ratio/), [debt-to-ebitda-ratio](/debt-to-ebitda-ratio/), profitability—over years. Rating agencies are backward-looking and conservative; they upgrade slowly.
 
-In the meantime, the bond trades in the high-yield market at permanently higher yields. A bond that yielded 3% before downgrade may trade at 7–8% yield afterward. Even if fundamentals stabilize and the default risk subsides, the bond will not "snap back" to its old price. It must earn its way back through accumulated coupon income, a slow process. Investors who bought the bond in the investment-grade window at 3% and watched it downgrade face significant [unrealized-loss](./unrealized-loss/) that might not recover for a decade or more.
+In the meantime, the bond trades in the high-yield market at permanently higher yields. A bond that yielded 3% before downgrade may trade at 7–8% yield afterward. Even if fundamentals stabilize and the default risk subsides, the bond will not "snap back" to its old price. It must earn its way back through accumulated coupon income, a slow process. Investors who bought the bond in the investment-grade window at 3% and watched it downgrade face significant unrealized-loss that might not recover for a decade or more.
 
 ## Spillover to the issuer's equity
 
-A downgrade also signals trouble that hits the issuer's [equity](./common-stock/). Stock prices often fall ahead of downgrade (the market prices it in) and sometimes fall further on the announcement. The [equity](./common-stock/) weakness can trigger margin calls for leveraged investors and force further selling. If the company was planning to raise equity capital, a downgrade makes the offering more difficult and dilutive.
+A downgrade also signals trouble that hits the issuer's [equity](/common-stock/). Stock prices often fall ahead of downgrade (the market prices it in) and sometimes fall further on the announcement. The [equity](/common-stock/) weakness can trigger margin calls for leveraged investors and force further selling. If the company was planning to raise equity capital, a downgrade makes the offering more difficult and dilutive.
 
 ## See also
 

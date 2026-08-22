@@ -1,6 +1,7 @@
 ---
 title: "Paul Tudor Jones Black Monday Trade"
-description: "How Paul Tudor Jones predicted and shorted the October 1987 crash, tripling his fund while markets fell 22% in a single session."
+seo_title: "Paul Tudor Jones Black Monday Trade: How He Tripled His Fund"
+description: "Paul Tudor Jones tripled his fund on October 19, 1987 by shorting the crash with puts and index futures. How he saw Black Monday coming and cashed in."
 keywords:
   - paul tudor jones
   - black monday

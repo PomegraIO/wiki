@@ -10,7 +10,7 @@ keywords:
   - reit performance
 ---
 
-*The **hotel REIT RevPAR metric**, or revenue per available room, is the single most important operating statistic in hotel investing—it captures both how many rooms are booked and at what price, making it the primary driver of [real-estate-investment-trust](REIT) cash flow and value.*
+*The **hotel REIT RevPAR metric**, or revenue per available room, is the single most important operating statistic in hotel investing—it captures both how many rooms are booked and at what price, making it the primary driver of real-estate-investment-trust cash flow and value.*
 
 <aside class="wiki-infobox">
 
@@ -55,7 +55,7 @@ Net operating income (NOI) = Room Revenue + Other Revenue − Operating Expenses
 
 Because operating expenses are largely fixed (payroll, utilities, property management), RevPAR growth translates fairly directly to NOI growth. A 5% increase in RevPAR, with flat expenses, can drive a 7–10% increase in NOI. This leverage is why hotel REIT investors closely watch RevPAR trends.
 
-[Real-estate-investment-trust](REITs) must distribute 90% of taxable income to shareholders, so higher NOI means higher distributions. Institutional investors, therefore, focus relentlessly on RevPAR forecasts, quarterly RevPAR actuals, and forward guidance.
+Real-estate-investment-trust must distribute 90% of taxable income to shareholders, so higher NOI means higher distributions. Institutional investors, therefore, focus relentlessly on RevPAR forecasts, quarterly RevPAR actuals, and forward guidance.
 
 ## Same-store and comparable property analysis
 
@@ -75,7 +75,7 @@ This is why hotel REIT investors pay close attention to leading indicators that 
 
 ## Common pitfalls in RevPAR analysis
 
-RevPAR is not destiny. A hotel with rising RevPAR but soaring capital expenditures, or a property in steep competitive decline, may not generate attractive returns. RevPAR growth is necessary but not sufficient for [real-estate-investment-trust](REIT) value creation.
+RevPAR is not destiny. A hotel with rising RevPAR but soaring capital expenditures, or a property in steep competitive decline, may not generate attractive returns. RevPAR growth is necessary but not sufficient for real-estate-investment-trust value creation.
 
 Additionally, RevPAR can be inflated by one-time bookings (e.g., a major event, conference) that do not represent sustainable run-rate performance. Analysts dig into the composition of RevPAR growth—how much came from core business, how much from transient spike—to forecast sustainability.
 
