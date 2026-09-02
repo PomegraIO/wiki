@@ -109,6 +109,6 @@ Acquisitions can also deplete pools. If an acquirer values a company cheaply, em
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/initial-public-offering/">Initial public offering</a> — IPO proxy discloses pool size.</li>
-  <li><a href="/wiki/dilution/">Dilution</a> — equity grants cause dilution to existing shareholders.</li>
+  <li>Dilution — equity grants cause dilution to existing shareholders.</li>
 </ul>
 </div>

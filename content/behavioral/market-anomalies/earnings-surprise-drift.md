@@ -29,7 +29,7 @@ keywords:
 
 ## The puzzle of slow price discovery
 
-If markets are [efficient](/wiki/efficient-market-hypothesis/), all public information should be reflected instantly. An earnings surprise should move the stock by its full fundamental amount in minutes. Yet empirical studies show that, on average, positive earnings surprises lead to additional stock appreciation over the following weeks, and negative surprises lead to continued decline. This delayed adjustment contradicts the assumption that market participants quickly incorporate all available data.
+If markets are efficient, all public information should be reflected instantly. An earnings surprise should move the stock by its full fundamental amount in minutes. Yet empirical studies show that, on average, positive earnings surprises lead to additional stock appreciation over the following weeks, and negative surprises lead to continued decline. This delayed adjustment contradicts the assumption that market participants quickly incorporate all available data.
 
 The drift is not gradual movement toward an eventual correct price; it is a predictable momentum pattern. A stock that beats earnings by 10% in Q2 tends to continue outperforming for 4–8 weeks afterward. A stock that misses by 5% tends to underperform its peers for similar periods. This predictability suggests a systematic bias in how market participants process earnings news.
 
@@ -81,9 +81,9 @@ All share the common root: markets underreact to public information, creating a 
 - [Statistical arbitrage](/wiki/statistical-arbitrage/) — Automated exploitation of drift and other patterns
 
 ### Wider context
-- [Market efficiency](/wiki/efficient-market-hypothesis/) — The theory that PESD challenges
+- Market efficiency — The theory that PESD challenges
 - [Information cascade](/wiki/information-cascade/) — How slow information diffusion creates drift
-- [Behavioral finance](/wiki/behavioral-finance/) — The theoretical home of PESD and related anomalies
+- Behavioral finance — The theoretical home of PESD and related anomalies
 - [Earnings quality](/wiki/earnings-quality/) — The reliability of earnings figures, which affects investor confidence
 
 </div>

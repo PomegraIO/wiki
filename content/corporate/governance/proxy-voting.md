@@ -49,7 +49,7 @@ Brokers are also permitted to vote shares on certain "routine" matters (like aud
 
 ## Shareholder proposals
 
-Under [SEC Rule 14a-8](/wiki/rule-14a-8/), any shareholder holding at least $2,500 of shares for at least one year can submit a proposal for inclusion in the proxy statement. This has been a vehicle for activism: investor groups have used shareholder proposals to push for board diversity, environmental reporting, political spending disclosure, and other governance reforms. A shareholder proposal need not pass to succeed; many companies make the requested change when a proposal wins 20–30% support, viewing continued contestation as not worth the cost.
+Under SEC Rule 14a-8, any shareholder holding at least $2,500 of shares for at least one year can submit a proposal for inclusion in the proxy statement. This has been a vehicle for activism: investor groups have used shareholder proposals to push for board diversity, environmental reporting, political spending disclosure, and other governance reforms. A shareholder proposal need not pass to succeed; many companies make the requested change when a proposal wins 20–30% support, viewing continued contestation as not worth the cost.
 
 ## Proxy contests and board takeovers
 
@@ -71,6 +71,6 @@ Investors have pushed for changes to make voting more responsive to shareholders
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/board-of-directors/">Board of Directors</a> — the body elected through proxy voting.</li>
-  <li><a href="/wiki/corporate-governance/">Corporate Governance</a> — the broader framework of shareholder rights and oversight.</li>
+  <li>Corporate Governance — the broader framework of shareholder rights and oversight.</li>
 </ul>
 </div>

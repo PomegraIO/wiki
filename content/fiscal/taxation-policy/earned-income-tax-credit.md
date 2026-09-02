@@ -114,13 +114,13 @@ The IRS has increased compliance audits in EITC claims, though critics argue thi
 - [Tax Credit](/wiki/tax-bracket-investor/) — General mechanism of credits vs. deductions
 - [Refundable Tax Credit](/wiki/alternative-minimum-tax-investor/) — Credit that can generate refunds
 - [Tax Policy](/wiki/tax-loss-harvesting/) — Broader tax design and incentives
-- [Poverty and Inequality](/wiki/gini-coefficient/) — Socioeconomic context for EITC
+- Poverty and Inequality — Socioeconomic context for EITC
 
 ### Wider context
 - [Income Redistribution](/wiki/fiscal-policy-contractionary/) — Broader tax-transfer system
 - [Marginal Tax Rate](/wiki/marginal-tax-rate-investor/) — Phase-out creates marginal disincentives
 - [Tax Code Design](/wiki/capital-gains-tax/) — Interaction with other tax provisions
-- [Government Transfer Programs](/wiki/welfare-economics/) — Alternative anti-poverty mechanisms
+- Government Transfer Programs — Alternative anti-poverty mechanisms
 - [Labor Supply and Work Incentives](/wiki/labor-productivity/) — Behavioral response to EITC
 
 </div>

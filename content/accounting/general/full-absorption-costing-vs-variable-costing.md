@@ -24,7 +24,7 @@ image: "/svg/accounting.svg"
 |---|---|
 | **Absorption costing** | Fixed overhead is allocated to units; included in [inventory](/); expensed only when units sell |
 | **Variable costing** | Only variable costs go to inventory; fixed costs are expensed immediately |
-| **Inventory impact** | Building inventory inflates profits under absorption; variable costing shows steady [contribution margin](//) per unit |
+| **Inventory impact** | Building inventory inflates profits under absorption; variable costing shows steady contribution margin per unit |
 | **GAAP compliance** | Absorption costing is required for [financial statements](/income-statement/) under [GAAP](/generally-accepted-accounting-principles/) |
 | **Management use** | Variable costing is preferred for internal [budgeting](/budgeting-methods/), decision-making, and performance analysis |
 
@@ -85,7 +85,7 @@ For example, if our factory produced 12,000 units but still sold only 8,000:
 
 The $16,670 additional fixed costs deferred to inventory (the difference between $100,000 fixed and the $83,330 allocated to the 8,000 sold units) increases reported gross profit, even though no extra revenue was generated and cash is tighter (inventory ties up more cash).
 
-This is why variable costing is strongly preferred for management accounting and internal decision-making. It prevents production-driven earnings manipulation and shows the true economics: fixed costs are fixed, and only the [contribution margin](//) (revenue minus variable costs) matters for decisions about pricing, volume, or product mix.
+This is why variable costing is strongly preferred for management accounting and internal decision-making. It prevents production-driven earnings manipulation and shows the true economics: fixed costs are fixed, and only the contribution margin (revenue minus variable costs) matters for decisions about pricing, volume, or product mix.
 
 ## GAAP Requirement and Financial Reporting
 
@@ -111,7 +111,7 @@ This is why understanding the difference between absorption and variable costing
 - [Income Statement](/income-statement/) — where COGS and operating income appear
 - [Balance Sheet](/balance-sheet/) — where inventory is valued
 - [Cost of Goods Sold](/), [Inventory Turnover](/inventory-turnover/) — how inventory flows through accounting
-- [Contribution Margin](//) — revenue minus variable costs, the focus of variable costing
+- Contribution Margin — revenue minus variable costs, the focus of variable costing
 
 ### Wider context
 

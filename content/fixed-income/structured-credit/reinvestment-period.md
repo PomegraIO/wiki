@@ -10,7 +10,7 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*The **reinvestment period** (or RP) is a defined window in a collateralised loan obligation or collateralised debt obligation during which the [collateral manager](/collateral-manager/) may use principal proceeds collected from maturing or prepaid loans to purchase new collateral, rather than routing those proceeds directly to [noteholders](/bond/) as principal repayment. This mechanism allows the manager to sustain the portfolio's yield and size during the fund's early life, extending the fund's earning capacity and protecting junior investors from an immediate [waterfall](//) paydown.*
+*The **reinvestment period** (or RP) is a defined window in a collateralised loan obligation or collateralised debt obligation during which the [collateral manager](/collateral-manager/) may use principal proceeds collected from maturing or prepaid loans to purchase new collateral, rather than routing those proceeds directly to [noteholders](/bond/) as principal repayment. This mechanism allows the manager to sustain the portfolio's yield and size during the fund's early life, extending the fund's earning capacity and protecting junior investors from an immediate waterfall paydown.*
 
 <div class="wiki-hatnote">
 
@@ -101,7 +101,7 @@ Indentures often include sub-clauses governing the RP: who has the right to exte
 - Collateralised Loan Obligation — the primary CLO structure with reinvestment periods
 - Collateralised Debt Obligation — CDO equivalent structures
 - [Securitization](/securitization/) — the broader framing for CLOs, CDOs, and reinvestment mechanics
-- [Portfolio Management](//) — active trading within the constraints of the RP
+- Portfolio Management — active trading within the constraints of the RP
 - Risk Management — how the RP interacts with credit deterioration and test breaches
 
 </div>

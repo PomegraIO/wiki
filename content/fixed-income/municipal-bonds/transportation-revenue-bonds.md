@@ -38,7 +38,7 @@ This structure is called "self-supporting" or "self-liquidating" because the pro
 
 ## Revenue sources and traffic risk
 
-**Toll roads and bridges** are the most common type. Revenue depends on traffic volume, tolls charged per vehicle, and toll evasion. A toll bridge connecting major metro areas (the Golden Gate Bridge, Verrazano-Narrows Bridge) has reliable, growing traffic. A speculative toll road in rural areas may struggle. [Traffic elasticity](/wiki/elasticity/) is key—if tolls rise 10%, do drivers accept higher fees, reroute, or carpool? Demand curves vary by route and economic conditions.
+**Toll roads and bridges** are the most common type. Revenue depends on traffic volume, tolls charged per vehicle, and toll evasion. A toll bridge connecting major metro areas (the Golden Gate Bridge, Verrazano-Narrows Bridge) has reliable, growing traffic. A speculative toll road in rural areas may struggle. Traffic elasticity is key—if tolls rise 10%, do drivers accept higher fees, reroute, or carpool? Demand curves vary by route and economic conditions.
 
 **Airports** issue revenue bonds backed by landing fees (per flight), terminal rents (airlines pay rent for gates), parking, and concession revenue (restaurants, shops). Major hubs (Atlanta, Dallas) have diversified traffic and stable revenues. Regional airports are vulnerable to airline bankruptcies or route suspensions. The pandemic showed this risk acutely: airport revenues plummeted in 2020–2021 when travel collapsed.
 
@@ -89,7 +89,7 @@ The **Golden Gate Bridge** has been consistently profitable and traded at tight 
 ### Wider context
 - [Municipal Bond Insurance](/wiki/municipal-bond-insurance/) — credit enhancement for risky revenue bonds
 - [Credit Rating](/wiki/credit-rating/) — how agencies assess transportation revenue bond credit quality
-- [Project Finance](/wiki/project-finance/) — the broader field of financing discrete projects with ring-fenced assets
+- Project Finance — the broader field of financing discrete projects with ring-fenced assets
 - [Infrastructure Investment](/wiki/capex-budgeting/) — the policy and financial backdrop for transportation bond issuance
 
 </div>

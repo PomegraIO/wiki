@@ -54,7 +54,7 @@ Negative convexity is most painful in steep bull-flattening scenarios. In 2011, 
 
 Investors holding callable bonds face a dilemma. If you believe rates will fall sharply, callable bonds are a poor choice—you'll underperform the [bull market](/wiki/bull-market/). If you're wrong and rates rise, callable bonds protect you only partially because the call option loses value, so you get the full downside. The payoff is skewed.
 
-Some managers actively trade this asymmetry. They buy straight bonds in a falling-rate scenario, short callable bonds (or sell them against longs), and profit from the negative convexity widening. This is a [relative-value](/wiki/relative-value/) or [basis trade](/wiki/basis-and-bond-trades/).
+Some managers actively trade this asymmetry. They buy straight bonds in a falling-rate scenario, short callable bonds (or sell them against longs), and profit from the negative convexity widening. This is a relative-value or [basis trade](/wiki/basis-and-bond-trades/).
 
 Alternatively, investors can buy [interest rate options](/wiki/interest-rate-option/) (swaptions, caps) to hedge their call risk, but the cost of this insurance often exceeds the yield benefit of the callable bond, so it's rarely done at scale.
 

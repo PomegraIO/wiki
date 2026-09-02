@@ -97,10 +97,10 @@ Some analysts use different lookback periods (200 days, quarterly, all-time), de
 - [Market Regime Momentum](/wiki/market-regime-momentum/) — Whether the market is in a momentum or mean-reversion phase.
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — Price and volume pattern analysis.
+- Technical Analysis — Price and volume pattern analysis.
 - [Momentum Investing](/wiki/momentum-investing/) — Following price trends.
 - [Contrarian Investing](/wiki/contrarian-investing/) — Fading extreme breadth readings.
 - [Divergence](/wiki/butterfly-spread/) — When price and indicators disagree.
-- [Overbought](/wiki/overbought/) — When momentum indicators suggest overextension.
+- Overbought — When momentum indicators suggest overextension.
 
 </div>

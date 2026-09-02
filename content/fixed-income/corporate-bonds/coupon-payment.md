@@ -20,7 +20,7 @@ For the overall bond mechanism, see <a href="/wiki/corporate-bond/">Corporate bo
 
 ## How coupon payments work
 
-A bond specifies a [coupon rate](/wiki/coupon-rate/)—say, 4.5% per year. If the [par value](/wiki/par-value-bond/) is $1,000, the annual coupon is $45. Most [corporate bonds](/wiki/corporate-bonds/) pay this semi-annually, so you'd receive $22.50 every six months. The payment is contractually required; it's the company's obligation to you as a bondholder, written into the [bond indenture](/wiki/bond-indenture/).
+A bond specifies a [coupon rate](/wiki/coupon-rate/)—say, 4.5% per year. If the [par value](/wiki/par-value-bond/) is $1,000, the annual coupon is $45. Most corporate bonds pay this semi-annually, so you'd receive $22.50 every six months. The payment is contractually required; it's the company's obligation to you as a bondholder, written into the [bond indenture](/wiki/bond-indenture/).
 
 On each payment date, the company's transfer agent (or paying agent) distributes the coupon to all registered bondholders. The payment is the same regardless of what price you paid for the bond. If you bought the bond at a discount ($900) or a premium ($1,100), your coupon is still $45 per year—the rate doesn't adjust.
 
@@ -42,7 +42,7 @@ The company can't change the coupon once the bond is issued, even if [interest r
 
 ## Coupon defaults and credit events
 
-If a company fails to make a coupon payment on the due date, it's technically in default, even if it's otherwise solvent. This triggers the cascade of remedies outlined in the [bond indenture](/wiki/bond-indenture/): bondholders can demand acceleration (immediate repayment of the full principal) or negotiate a [restructuring](/wiki/debt-restructuring/). For investment-grade companies, a single missed coupon is rare and usually signals severe distress. For [high-yield bonds](/wiki/high-yield-bond/) in stress, it's more common to see companies miss coupons during [bankruptcy](/wiki/bankruptcy/) or Chapter 11 reorganization.
+If a company fails to make a coupon payment on the due date, it's technically in default, even if it's otherwise solvent. This triggers the cascade of remedies outlined in the [bond indenture](/wiki/bond-indenture/): bondholders can demand acceleration (immediate repayment of the full principal) or negotiate a [restructuring](/wiki/debt-restructuring/). For investment-grade companies, a single missed coupon is rare and usually signals severe distress. For [high-yield bonds](/wiki/high-yield-bond/) in stress, it's more common to see companies miss coupons during bankruptcy or Chapter 11 reorganization.
 
 <div class="wiki-seealso">
 <h2>See also</h2>

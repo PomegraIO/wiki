@@ -73,7 +73,7 @@ None of these reforms have achieved consensus, as they threaten members' ability
 
 At the macroeconomic level, earmarks have minimal direct impact on total spending. A $5 billion earmark that swaps one allocation for another does not change the [fiscal-deficit](/wiki/fiscal-policy-expansionary/). However, earmarks enable [deficit-spending](/wiki/deficit-spending/) by facilitating legislative compromise; without earmarks as side payments, major bills (especially in divided government) fail. The bill's failure prevents spending altogether; its passage, enabled by earmarks, increases the deficit.
 
-This dynamic played out in 2021–2023: earmarks facilitated passage of infrastructure and omnibus bills that might otherwise have faced obstruction, enabling increased [mandatory-spending](/wiki/mandatory-spending/) and [discretionary-limit](/wiki/discretionary-limit/) allocations.
+This dynamic played out in 2021–2023: earmarks facilitated passage of infrastructure and omnibus bills that might otherwise have faced obstruction, enabling increased [mandatory-spending](/wiki/mandatory-spending/) and discretionary-limit allocations.
 
 <div class="wiki-seealso">
 

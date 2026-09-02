@@ -58,6 +58,6 @@ Investors should understand BEY when deciding between bills and bonds. A high 6-
 <ul>
 <li><a href="/wiki/treasury-note/">Treasury Note</a> — medium-term bonds quoted in traditional yield terms.</li>
 <li><a href="/wiki/yield-curve/">Yield Curve</a> — comparison of yields across maturities using BEY for consistency.</li>
-<li><a href="/wiki/fixed-income/">Fixed Income</a> — the asset class where yield standardization matters.</li>
+<li>Fixed Income — the asset class where yield standardization matters.</li>
 </ul>
 </div>

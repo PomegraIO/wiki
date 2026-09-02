@@ -8,7 +8,7 @@ keywords:
   - digital asset basis
 ---
 
-*The tax treatment of **non-fungible tokens** (NFTs) depends on their classification: the IRS typically taxes them as either [collectibles](/wiki/collectible/) under section 1231, triggering a preferential 28% [long-term capital gains](/wiki/long-term-capital-gain-tax/) rate, or as [ordinary income](/wiki/ordinary-dividend/) if held for sale in the [ordinary course](/wiki/wash-sale/) of business. How you acquire, hold, and dispose of an NFT fundamentally determines whether you owe 15%–20% or 28%–37% in [tax](/wiki/capital-gains-tax/).*
+*The tax treatment of **non-fungible tokens** (NFTs) depends on their classification: the IRS typically taxes them as either collectibles under section 1231, triggering a preferential 28% [long-term capital gains](/wiki/long-term-capital-gain-tax/) rate, or as [ordinary income](/wiki/ordinary-dividend/) if held for sale in the [ordinary course](/wiki/wash-sale/) of business. How you acquire, hold, and dispose of an NFT fundamentally determines whether you owe 15%–20% or 28%–37% in [tax](/wiki/capital-gains-tax/).*
 
 <div class="wiki-hatnote">
 For general cryptocurrency taxation, see [Crypto Tax Implications](/wiki/crypto-derivative-tax/). For token vesting and reward taxation, see [Staking Rewards Tax](/wiki/staking-rewards-tax/).
@@ -31,9 +31,9 @@ For general cryptocurrency taxation, see [Crypto Tax Implications](/wiki/crypto-
 
 An NFT is not a single tax category. The IRS distinguishes between **collectibles** (art, music, gaming assets) and **business inventory**. If you mint and sell NFTs regularly, you are likely a dealer, and each sale is [ordinary income](/wiki/ordinary-dividend/)—no [long-term capital gains](/wiki/long-term-capital-gain-tax/) benefit, no 1-year [holding period](/wiki/holding-period/) relief. If you are a collector who buys NFTs sporadically, holds them, and later sells at a gain, the gain is [long-term capital gains](/wiki/long-term-capital-gain-tax/) taxed at 28%.
 
-This distinction mirrors [art market taxation](/wiki/capital-gains-tax/). A museum curator who acquires works for the institution's collection treats purchases as a business expense, but a private collector who buys art for enjoyment and appreciation is subject to [collectibles taxation](/wiki/collectible/). The same logic applies to NFTs: intent and frequency matter.
+This distinction mirrors [art market taxation](/wiki/capital-gains-tax/). A museum curator who acquires works for the institution's collection treats purchases as a business expense, but a private collector who buys art for enjoyment and appreciation is subject to collectibles taxation. The same logic applies to NFTs: intent and frequency matter.
 
-The IRS has not published definitive guidance on "utility NFTs" (tokens that grant access or voting rights), but the default assumption is that they fall under the [collectibles](/wiki/collectible/) umbrella unless they are clearly [business inventory](/wiki/inventory-turnover/). A gaming NFT that grants in-game benefits is treated as a collectible unless you are a professional game developer trading them as inventory.
+The IRS has not published definitive guidance on "utility NFTs" (tokens that grant access or voting rights), but the default assumption is that they fall under the collectibles umbrella unless they are clearly [business inventory](/wiki/inventory-turnover/). A gaming NFT that grants in-game benefits is treated as a collectible unless you are a professional game developer trading them as inventory.
 
 ## Cost basis and acquisition date tracking
 
@@ -91,7 +91,7 @@ Non-US residents and foreign taxpayers face similar frameworks in most jurisdict
 - [Wash-Sale Rule](/wiki/wash-sale/) — The 30-day repurchase restriction that may now apply to NFT losses
 
 ### Wider context
-- [Collectibles Tax Rate](/wiki/collectible/) — The preferential 28% rate applied to art, precious metals, and certain digital assets
+- Collectibles Tax Rate — The preferential 28% rate applied to art, precious metals, and certain digital assets
 - [Cost Basis](/wiki/cost-basis/) — Tracking purchase price and fees to calculate taxable gains
 - [Long-term Capital Gains Tax](/wiki/long-term-capital-gain-tax/) — Preferential rates for assets held over one year
 

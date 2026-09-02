@@ -50,7 +50,7 @@ The [Federal Reserve](/wiki/federal-reserve/)'s rate-setting process is represen
 
 ## Forward guidance and expectations
 
-Modern central banking relies heavily on **[forward guidance](/wiki/forward-guidance//)** — explicit communication about future rate paths. The [Fed](/wiki/federal-reserve/) might announce:
+Modern central banking relies heavily on **[forward guidance](/forward-guidance/)** — explicit communication about future rate paths. The [Fed](/wiki/federal-reserve/) might announce:
 
 *"We expect to maintain rates in the 4.50–4.75% range through mid-2024, after which we anticipate cuts if [inflation](/wiki/inflation/) continues to moderate."*
 

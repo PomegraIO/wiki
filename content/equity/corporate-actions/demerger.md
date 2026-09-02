@@ -119,7 +119,7 @@ These allocation decisions affect the relative valuation of the separated entiti
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events altering company structure or shareholder rights.</li>
+  <li>Corporate actions — events altering company structure or shareholder rights.</li>
   <li><a href="/wiki/conglomerate-discount/">Conglomerate discount</a> — valuation penalty for diversified companies.</li>
 </ul>
 </div>

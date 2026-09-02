@@ -115,7 +115,7 @@ A critical interpretation: CDaR-90 is *not* a worst-case bound (unlike maximum d
 ### Closely related
 
 - [Value at Risk](/value-at-risk/) — coherent return-based tail risk measure; CDaR is its drawdown equivalent
-- [Maximum Drawdown](//) — simpler drawdown metric; focuses on single worst episode
+- Maximum Drawdown — simpler drawdown metric; focuses on single worst episode
 - [Loss Aversion](/loss-aversion/) — behavioral bias that motivates focus on downside risk
 - [Tail Risk](/tail-risk/) — extreme loss episodes that CDaR captures in its average
 - [Volatility](/volatility-smile/) — symmetric risk measure; contrasts with drawdown focus
@@ -123,8 +123,8 @@ A critical interpretation: CDaR-90 is *not* a worst-case bound (unlike maximum d
 
 ### Wider context
 
-- [Risk Measurement](//) — broader framework of risk quantification
-- [Portfolio Optimization](//) — process where CDaR can replace or complement volatility
+- Risk Measurement — broader framework of risk quantification
+- Portfolio Optimization — process where CDaR can replace or complement volatility
 - [Hedge Fund](/hedge-fund/) — strategies where drawdown risk is critical to evaluation
 - [Diversification](/diversification/) — portfolio benefit that coherent measures like CDaR respect
 - [Protective Put](/protective-put/) — hedging strategy motivated by CDaR or drawdown concerns

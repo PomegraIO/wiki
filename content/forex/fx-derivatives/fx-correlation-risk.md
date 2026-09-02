@@ -74,7 +74,7 @@ A diversified forex portfolio that ignores correlation risk is fragile. Professi
 - [Correlation Coefficient](/wiki/correlation-coefficient/) — statistical measure
 
 ### Wider context
-- [Risk Management](/wiki/risk-management/) — broader discipline
+- Risk Management — broader discipline
 - [Portfolio Diversification](/wiki/diversification/) — relying on low correlations
 - [Central Bank](/wiki/central-bank/) — sets rates affecting correlations
 - [Volatility Smile](/wiki/volatility-smile/) — related pricing challenge

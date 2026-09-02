@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Amplify Digital Payments ETF** (ticker IPAY on [NASDAQ](/nasdaq/)) is an actively managed [exchange-traded fund](/wiki/exchange-traded-fund/) that selects stocks across payment processors, payment software, digital wallet providers, and companies building the infrastructure for a cashless world. Unlike most ETFs, which track an index passively, IPAY employs a portfolio manager who chooses which companies to own, betting that he can identify payment-infrastructure winners better than a rules-based index can.*
+*The **Amplify Digital Payments ETF** (ticker IPAY on [NASDAQ](/nasdaq/)) is an actively managed exchange-traded fund that selects stocks across payment processors, payment software, digital wallet providers, and companies building the infrastructure for a cashless world. Unlike most ETFs, which track an index passively, IPAY employs a portfolio manager who chooses which companies to own, betting that he can identify payment-infrastructure winners better than a rules-based index can.*
 
 <aside class="wiki-infobox">
 <div class="wiki-infobox-title">IPAY — at a glance</div>
@@ -41,7 +41,7 @@ The fund holds a blend of established payment processors (Visa, [Mastercard](/ma
 
 What separates IPAY from a passive [index fund](/index-fund/) is its reliance on a portfolio manager's judgment. The manager can overweight companies she believes are winning, underweight or avoid laggards, and move capital within the payment ecosystem based on her view of competitive dynamics and growth prospects. In principle, this flexibility allows the fund to adapt faster than a fixed index would. In practice, active management comes with two costs: a higher [expense ratio](/expense-ratio/) (typically 0.70–0.80 percent, compared to 0.10–0.30 percent for passive competitors) and the risk that the manager's picks underperform the market or an index.
 
-IPAY competes with other payment-focused funds and with broad technology or financial-services indices that naturally include payment companies anyway. An investor can get significant payment-sector exposure through a simple [S&P 500](/wiki/s-and-p-500/) fund or a sector-focused technology ETF without paying the higher fee. IPAY's justification is that it can beat those alternatives by being nimble and focused. Whether it does so consistently is a question for its track record, which investors should examine carefully.
+IPAY competes with other payment-focused funds and with broad technology or financial-services indices that naturally include payment companies anyway. An investor can get significant payment-sector exposure through a simple S&P 500 fund or a sector-focused technology ETF without paying the higher fee. IPAY's justification is that it can beat those alternatives by being nimble and focused. Whether it does so consistently is a question for its track record, which investors should examine carefully.
 
 ## What IPAY holds and why payment companies vary
 

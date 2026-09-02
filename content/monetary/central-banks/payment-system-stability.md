@@ -62,7 +62,7 @@ Not all payment systems are run by central banks. Private firms operate credit c
   <li><a href="/wiki/central-bank/">Central bank</a> — the institution responsible for payment system safety.</li>
   <li><a href="/wiki/federal-reserve/">Federal Reserve</a> — operates the major U.S. payment systems.</li>
   <li><a href="/wiki/settlement-risk/">Settlement risk</a> — the risk of payment system failure.</li>
-  <li><a href="/wiki/financial-stability/">Financial stability</a> — the broader objective.</li>
+  <li>Financial stability — the broader objective.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>

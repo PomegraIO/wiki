@@ -48,7 +48,7 @@ When you replicate a variance swap by buying and selling options across the stri
 
 ### Hedging equity portfolios
 
-An asset manager holding $100 million in equities faces [equity risk](/wiki/equity-risk/) but also volatility risk. If markets turn choppy, [portfolio insurance](/wiki/protective-put/) becomes expensive (options are pricier when implied vol is high). A variance swap allows the manager to cap realized volatility at a known cost: pay a small upfront fee to a counterparty and receive protection if actual vol spikes.
+An asset manager holding $100 million in equities faces equity risk but also volatility risk. If markets turn choppy, [portfolio insurance](/wiki/protective-put/) becomes expensive (options are pricier when implied vol is high). A variance swap allows the manager to cap realized volatility at a known cost: pay a small upfront fee to a counterparty and receive protection if actual vol spikes.
 
 ### Harvesting volatility term structure
 
@@ -154,7 +154,7 @@ This replication is the foundation of modern variance derivative pricing and is 
 
 ### Wider context
 - [Options](/wiki/option/) — foundational derivatives for replication
-- [Derivatives](/wiki/derivatives/) — broader class
+- Derivatives — broader class
 - [Hedge fund](/wiki/hedge-fund/) — major users
 - [Volatility index](/wiki/fear-index/) — related market measure
 

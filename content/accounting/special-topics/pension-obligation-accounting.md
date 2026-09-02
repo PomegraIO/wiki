@@ -99,7 +99,7 @@ When a company acquires another company with a [defined-benefit pension plan](/w
 ### Wider context
 
 - [Other Comprehensive Income](/wiki/comprehensive-income/) — where actuarial gains/losses appear
-- [Bond Yield](/wiki/bond-yield/) — source of discount rate assumption
+- Bond Yield — source of discount rate assumption
 - [Actuarial Assumptions](/wiki/pension-obligation/) — mortality, salary, return assumptions
 - [Goodwill](/wiki/goodwill/) — treatment of plan remeasurement gains/losses in M&A
 

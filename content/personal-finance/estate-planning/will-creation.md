@@ -90,7 +90,7 @@ The federal [estate tax](/wiki/estate-tax/) exemption (approximately $13.6 milli
 <div class="wiki-seealso">
 
 ### Closely related
-- [Estate Planning](/wiki/estate-planning/) — Comprehensive approach to managing assets after death
+- Estate Planning — Comprehensive approach to managing assets after death
 - [Probate Process](/wiki/probate-process/) — How courts validate and execute a will
 - [Trust Establishment](/wiki/trust-establishment/) — Alternative or complement to will-based planning
 - [Intestate Succession](/wiki/intestate-succession/) — Distribution rules when there is no will

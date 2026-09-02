@@ -20,7 +20,7 @@ keywords:
 | **Alternative Minimum Tax (AMT)** | Parallel system ensuring minimum tax on book income |
 | **International Rate** | Global minimum of 15% (agreed G7/OECD 2021) |
 | **Timeline** | Assessed annually on calendar-year or fiscal-year basis |
-| **Interaction with Personal Tax** | [Double taxation](/wiki/double-taxation/) of dividends; [pass-through](/wiki/pass-through-entity/) entities avoid it |
+| **Interaction with Personal Tax** | [Double taxation](/wiki/double-taxation/) of dividends; pass-through entities avoid it |
 
 </aside>
 
@@ -48,7 +48,7 @@ These provisions incentivize [capital expenditure (capex)](/wiki/capex-budgeting
 
 Profits earned by a corporation are taxed at the corporate rate. When those profits are distributed as [dividends](/wiki/dividend/), they are taxed again at the shareholder level (at the [individual capital gains rate](/wiki/dividend-tax/), currently up to 20% federal). This "double taxation" is a long-standing critique of the corporate tax.
 
-Some argue the cost is overstated (dividends are only taxed if paid; retained earnings boost stock price, triggering [capital gains](/wiki/capital-gains-tax/) on sale instead). Others argue the structure is inefficient and depresses [capital allocation](/wiki/capital-allocation/) to productive uses.
+Some argue the cost is overstated (dividends are only taxed if paid; retained earnings boost stock price, triggering [capital gains](/wiki/capital-gains-tax/) on sale instead). Others argue the structure is inefficient and depresses capital allocation to productive uses.
 
 Pass-through entities (S-corps, partnerships, LLCs) avoid the corporate tax by passing income directly to owners' personal returns, taxed once at individual rates. This is why many smaller and medium-sized firms choose pass-through structure.
 
@@ -74,7 +74,7 @@ The AMT has become less relevant after the 2017 rate cut, as it is now harder fo
 
 Most states impose a corporate income tax (typically 3–7%). A few states (Texas, Wyoming, Nevada, South Dakota) have no corporate income tax but may have alternatives like gross receipts taxes or capital gains taxes.
 
-Some cities and counties impose business taxes or [payroll taxes](/wiki/payroll-tax-personal/). A company's total effective tax rate often exceeds the federal 21% when state, local, and foreign taxes are factored in.
+Some cities and counties impose business taxes or payroll taxes. A company's total effective tax rate often exceeds the federal 21% when state, local, and foreign taxes are factored in.
 
 ## Policy debates
 
@@ -91,7 +91,7 @@ The corporate tax rate affects [after-tax earnings](/wiki/after-tax-profit-margi
 <div class="wiki-seealso">
 
 ### Closely related
-- [Capital Allocation](/wiki/capital-allocation/) — how tax incentives shape investment decisions
+- Capital Allocation — how tax incentives shape investment decisions
 - [Debt Financing](/wiki/debt-financing/) — subsidized by interest deductibility
 - [Dividend Tax](/wiki/dividend-tax/) — personal-level tax on distributions
 - [Capital Gains Tax](/wiki/capital-gains-tax/) — alternative to dividends
@@ -100,8 +100,8 @@ The corporate tax rate affects [after-tax earnings](/wiki/after-tax-profit-margi
 ### Wider context
 - [Earnings Per Share](/wiki/earnings-per-share/) — metric affected by tax changes
 - [After-Tax Profit Margin](/wiki/after-tax-profit-margin/) — profitability measure
-- [Pass-Through Entities](/wiki/partnership/) — alternative to C-corp taxation
-- [Tax Policy](/wiki/taxation-policy/) — broader fiscal framework
-- [Double Taxation](/wiki/pass-through-entity/) — corporate + personal tax layers
+- Pass-Through Entities — alternative to C-corp taxation
+- Tax Policy — broader fiscal framework
+- Double Taxation — corporate + personal tax layers
 
 </div>

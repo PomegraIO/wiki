@@ -42,7 +42,7 @@ The impact coefficient is estimated from historical data—how much market impac
 
 ### Square-root rule
 
-Empirical research by [Almgren, Thorp, and others](https://example.com) found that market impact often scales with the *square root* of the order size ratio, not linearly. The intuition is that traders can break up large orders over time, so larger orders are not proportionally more damaging. The square-root model has become a market standard:
+Empirical research by Almgren, Thorp, and others found that market impact often scales with the *square root* of the order size ratio, not linearly. The intuition is that traders can break up large orders over time, so larger orders are not proportionally more damaging. The square-root model has become a market standard:
 
 **Impact = α × √(Order Size / Daily Volume)**
 

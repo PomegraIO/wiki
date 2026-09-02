@@ -23,7 +23,7 @@ When the U.S. Treasury issues new 10-year bonds, those bonds become the "on-the-
 
 1. **Liquidity concentration**: Traders know where the action is. Bid-ask [spreads](/bid-ask-spread/) are tighter for on-the-run Treasuries, and large orders can be executed quickly.
 2. **Lower transaction costs**: With tighter spreads and deeper order books, the round-trip cost of buying and selling on-the-run bonds is lower.
-3. **Benchmark status**: The on-the-run is the reference point for pricing other fixed-income instruments and for [derivatives](//).
+3. **Benchmark status**: The on-the-run is the reference point for pricing other fixed-income instruments and for derivatives.
 4. **Collateral value**: In repurchase agreements (repos), on-the-run Treasuries often command special rates because they are easier to rehypothecate and trade.
 
 Because on-the-run Treasuries are more desirable, investors will accept a *lower* yield — they pay a premium price — to hold them. An off-the-run 10-year Treasury from six months ago must offer a higher yield to compensate for its inferior liquidity. The difference is the on-the-run/off-the-run spread.
@@ -50,7 +50,7 @@ Eventually, an off-the-run bond can become so illiquid that the on-the-run/off-t
 
 ## The role of dealers and repo markets
 
-[Treasury dealers](//) have a vested interest in maintaining the on-the-run/off-the-run spread. By holding inventories of older, off-the-run bonds, dealers can profit from the liquidity premium when spreads widen and narrow. They also benefit from repo financing, where on-the-run bonds often trade at "special" rates — lower repo rates that reflect their higher collateral value.
+Treasury dealers have a vested interest in maintaining the on-the-run/off-the-run spread. By holding inventories of older, off-the-run bonds, dealers can profit from the liquidity premium when spreads widen and narrow. They also benefit from repo financing, where on-the-run bonds often trade at "special" rates — lower repo rates that reflect their higher collateral value.
 
 During periods of stress, dealers reduce inventory and widen spreads to compensate for risk. This amplifies the on-the-run/off-the-run phenomenon. During normal times, dealers' competition narrows spreads, making it cheaper for investors to access the most liquid instruments.
 
@@ -75,7 +75,7 @@ Portfolio managers often exploit the spread opportunistically. If spreads are un
 - [Bid-Ask Spread](/bid-ask-spread/) — the microstructure cost embedded in all trading
 - [Yield Curve](/yield-curve/) — how on-the-run/off-the-run distortions affect curve shape
 - [Treasury Bond](/treasury-bond/) — the instruments at the heart of this phenomenon
-- [Repurchase Agreement](//) — the repo market where on-the-run bonds command special rates
+- Repurchase Agreement — the repo market where on-the-run bonds command special rates
 - [Liquidity Risk](/liquidity-risk/) — the fundamental driver of the premium
 
 ### Wider context

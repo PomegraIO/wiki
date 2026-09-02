@@ -10,11 +10,11 @@ keywords:
 
 *The **energy complex** comprises crude oil, [natural gas](/wiki/natural-gas/), heating oil, and refined gasoline products. These commodities exhibit high historical [correlation](/wiki/correlation-coefficient/), moving together through supply disruptions, refining constraints, and demand cycles, though the strength of that correlation shifts with market structure and regional dynamics.*
 
-All four products share downstream demand from power generation, transportation, and industrial activity. All depend on the same [production](/wiki/production/) infrastructure. A hurricane shutting down [crude](/wiki/crude-oil/) extraction in the Gulf of Mexico simultaneously reduces [oil](/wiki/crude-oil/), heating oil, and gasoline supplies. A polar vortex driving up [heating oil](/wiki/heating-oil/) demand in winter also boosts [natural gas](/wiki/natural-gas/) for residential heating. Yet the correlations are neither perfect nor constant; refining bottlenecks, regional storage imbalances, and seasonal patterns create trading opportunities within the complex.
+All four products share downstream demand from power generation, transportation, and industrial activity. All depend on the same production infrastructure. A hurricane shutting down [crude](/wiki/crude-oil/) extraction in the Gulf of Mexico simultaneously reduces [oil](/wiki/crude-oil/), heating oil, and gasoline supplies. A polar vortex driving up [heating oil](/wiki/heating-oil/) demand in winter also boosts [natural gas](/wiki/natural-gas/) for residential heating. Yet the correlations are neither perfect nor constant; refining bottlenecks, regional storage imbalances, and seasonal patterns create trading opportunities within the complex.
 
 <aside class="wiki-infobox">
 
-| Product | Primary use | [Supply](/wiki/supply-and-resistance/) source | Seasonal driver |
+| Product | Primary use | Supply source | Seasonal driver |
 |---|---|---|---|
 | **Crude oil (WTI, Brent)** | Refining feedstock | OPEC, US shale, Russian | Geopolitical, inventory |
 | **Natural gas (Henry Hub)** | Power, heating, industrial | US production, LNG imports | Winter heating demand |
@@ -67,7 +67,7 @@ Academic studies and trader experience report that [WTI](/wiki/wti-crude/) and [
 
 ## Trading the energy complex: convergence and divergence
 
-**Convergence trades**: Traders exploit temporary correlation breaks. If [crude](/wiki/crude-oil/) rises 5% but heating oil rises only 2%, the heating oil-[crude](/wiki/crude-oil/) spread has widened. A trader might buy heating oil and short [crude](/wiki/crude-oil/], betting the spread narrows back to historical norms—a "[crack spread](/wiki/crack-spread-corporate/)" trade.
+**Convergence trades**: Traders exploit temporary correlation breaks. If [crude](/wiki/crude-oil/) rises 5% but heating oil rises only 2%, the heating oil-[crude](/wiki/crude-oil/) spread has widened. A trader might buy heating oil and short [crude](/wiki/crude-oil/], betting the spread narrows back to historical norms—a "crack spread" trade.
 
 **Divergence trades**: Some traders position for decoupling. If a [natural gas](/wiki/natural-gas/) glut hits while [crude](/wiki/crude-oil/) tightens, the [crude](/wiki/crude-oil/)-[natural gas](/wiki/natural-gas/) [correlation](/wiki/correlation-coefficient/) might break, and traders long [crude](/wiki/crude-oil/) and short [natural gas](/wiki/natural-gas/) profit.
 

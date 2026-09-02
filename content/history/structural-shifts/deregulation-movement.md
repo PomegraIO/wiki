@@ -27,11 +27,11 @@ keywords:
 
 ## The regulatory regime before 1970
 
-Prior to the 1970s, large swaths of the US economy operated under explicit government regulation. Airlines could not set their own fares; the [Civil Aeronautics Board](/wiki/market-makers/) controlled route entry and pricing. Railroads and trucking faced Interstate Commerce Commission (ICC) mandates. Telecommunications was a [natural monopoly](/wiki/monopoly/) handed to AT&T.
+Prior to the 1970s, large swaths of the US economy operated under explicit government regulation. Airlines could not set their own fares; the [Civil Aeronautics Board](/wiki/market-makers/) controlled route entry and pricing. Railroads and trucking faced Interstate Commerce Commission (ICC) mandates. Telecommunications was a natural monopoly handed to AT&T.
 
 In finance, the [Securities Act of 1933](/wiki/securities-act-of-1933/) and [Securities Exchange Act of 1934](/wiki/securities-exchange-act-of-1934/) had created a relatively stable regime. Banks were separated into investment and commercial silos ([Glass-Steagall](/wiki/glass-steagall-act/)). Securities firms operated under fixed commission rates. [Mortgage](/wiki/mortgage-personal/) lending was conservative and local. The [Federal Reserve](/wiki/federal-reserve/) and regulatory bodies (now the [SEC](/wiki/securities-and-exchange-commission/), [CFTC](/wiki/cftc-regulator/), [OCC](/wiki/office-of-the-comptroller-of-the-currency/)) wielded broad power.
 
-The ostensible aim was stability and fairness: preventing monopolistic pricing, protecting small investors, and avoiding banking crises. The actual effect, many economists came to argue, was inefficiency. Protected carriers grew slack. [Natural monopolies](/wiki/oligopoly/) extracted monopoly rents. Innovation lagged.
+The ostensible aim was stability and fairness: preventing monopolistic pricing, protecting small investors, and avoiding banking crises. The actual effect, many economists came to argue, was inefficiency. Protected carriers grew slack. Natural monopolies extracted monopoly rents. Innovation lagged.
 
 ## The intellectual shift: Chicago School and public choice
 

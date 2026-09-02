@@ -33,7 +33,7 @@ FDI takes two main forms. Greenfield investment involves building new productive
 
 ## Motives and industry patterns
 
-Investors pursue FDI for distinct strategic reasons. Resource-extraction firms invest in mining, oil, and timber operations to secure commodity supplies. Manufacturing firms seek lower labor costs or tariff-free access to regional markets—consider the "nearshoring" of auto production from the US into Mexico under NAFTA. Technology and services firms invest to establish regional headquarters, R&D centers, or customer-support operations. Real estate investors acquire property assets abroad for appreciation or rental income. [Multinational corporations](/wiki/multinational-corporation/) often structure FDI through special-purpose entities in low-tax jurisdictions to optimize [capital structure](/wiki/capital-structure-arbitrage/), though this practice faces increased regulatory scrutiny.
+Investors pursue FDI for distinct strategic reasons. Resource-extraction firms invest in mining, oil, and timber operations to secure commodity supplies. Manufacturing firms seek lower labor costs or tariff-free access to regional markets—consider the "nearshoring" of auto production from the US into Mexico under NAFTA. Technology and services firms invest to establish regional headquarters, R&D centers, or customer-support operations. Real estate investors acquire property assets abroad for appreciation or rental income. Multinational corporations often structure FDI through special-purpose entities in low-tax jurisdictions to optimize [capital structure](/wiki/capital-structure-arbitrage/), though this practice faces increased regulatory scrutiny.
 
 ## The home-country and host-country perspective
 
@@ -47,7 +47,7 @@ A persistent tension in host countries is the risk that foreign investors will r
 
 ## FDI and tax policy
 
-The rise of [transfer pricing](/wiki/transfer-pricing/) disputes reflects the central challenge FDI poses for tax authorities. A multinational may invoice goods or services between its subsidiaries at artificial prices to shift profits from high-tax to low-tax jurisdictions. The OECD's Base Erosion and Profit Shifting (BEPS) initiative and the recent global minimum-tax agreement (Pillar Two) are efforts to curb this behavior. [Foreign direct investment](/wiki/foreign-direct-investment/) is taxed in the US under the [global intangible low-taxed income](/wiki/global-intangible-low-taxed-income/) (GILTI) regime, which requires US multinationals to include a minimum percentage of foreign earnings in taxable income even if profits are not repatriated.
+The rise of [transfer pricing](/wiki/transfer-pricing/) disputes reflects the central challenge FDI poses for tax authorities. A multinational may invoice goods or services between its subsidiaries at artificial prices to shift profits from high-tax to low-tax jurisdictions. The OECD's Base Erosion and Profit Shifting (BEPS) initiative and the recent global minimum-tax agreement (Pillar Two) are efforts to curb this behavior. [Foreign direct investment](/wiki/foreign-direct-investment/) is taxed in the US under the global intangible low-taxed income (GILTI) regime, which requires US multinationals to include a minimum percentage of foreign earnings in taxable income even if profits are not repatriated.
 
 ## Measurement and statistical challenges
 
@@ -62,7 +62,7 @@ National statistics on FDI inflows and outflows come from central banks and inve
 - [Equity Method Accounting](/wiki/equity-method-accounting/) — accounting for significant investments
 
 ### Wider context
-- [Multinational Corporations](/wiki/multinational-corporation/) — primary executors of FDI
+- Multinational Corporations — primary executors of FDI
 - [Transfer Pricing](/wiki/transfer-pricing/) — tax strategy within multinationals
 - [Emerging Markets](/wiki/emerging-markets-fund/) — major FDI recipients
 - [Capital Flight](/wiki/capital-flight-sovereign/) — reversal of FDI during crises

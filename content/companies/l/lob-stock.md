@@ -57,7 +57,7 @@ In a [recession](/recession/), when corporate spending slows and hiring freezes,
 
 ## Researching Live Oak from the Borrower's Perspective
 
-A borrower or investor analyzing Live Oak should review its [10-K](/10-K/) (SEC CIK 1462120) to understand:
+A borrower or investor analyzing Live Oak should review its [10-K](/10-k/) (SEC CIK 1462120) to understand:
 
 - Loan portfolio breakdown by industry and geography: is it concentrated in tech and healthcare, or diversifying?
 - Loan loss rates: are losses stable, rising, or falling? How do loss rates compare to peer banks?
@@ -77,7 +77,7 @@ Watch for: Are loan losses tracking the bank's reserve estimates? Are borrowers 
 
 ### Wider context
 - [Stock](/stock/) — LOB trades on [NASDAQ](/nasdaq/); monitor deposit trends and credit-loss reserves
-- [10-K](/10-K/) — review SEC filings for loan portfolio, loss reserves, and net interest margin
+- [10-K](/10-k/) — review SEC filings for loan portfolio, loss reserves, and net interest margin
 - [Balance sheet](/balance-sheet/) — assess the bank's capital ratios and deposit stability
 - [Dividend](/dividend/) — Live Oak returns capital to shareholders through dividends and buybacks when capital permits
 - [Return on equity](/return-on-equity/) — track the bank's ROE relative to loan losses and cost of capital

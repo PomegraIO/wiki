@@ -100,7 +100,7 @@ Professional value practitioners accept this volatility as the price of convicti
 - [value-investing](/wiki/value-investing/) — Broader philosophy
 - [benjamin-graham](/wiki/benjamin-graham/) — Founder of value discipline
 - [warren-buffett](/wiki/warren-buffett/) — Modern master
-- [margin-of-safety](/wiki/margin-of-safety/) — Core principle
+- margin-of-safety — Core principle
 
 ### Wider context
 - [deep-value-investing](/wiki/deep-value-investing/) — Extreme affordability

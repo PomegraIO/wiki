@@ -9,7 +9,7 @@ keywords:
   - tax incentive
 ---
 
-*A **research credit** is a [dollar-for-dollar tax reduction](/wiki/tax-credit/) available to businesses that conduct or commission qualified research and experimental activities. The U.S. federal credit phases in as a percentage of eligible spending above a base-year benchmark, incentivizing companies to expand their research footprint.*
+*A **research credit** is a dollar-for-dollar tax reduction available to businesses that conduct or commission qualified research and experimental activities. The U.S. federal credit phases in as a percentage of eligible spending above a base-year benchmark, incentivizing companies to expand their research footprint.*
 
 <aside class="wiki-infobox">
 
@@ -27,7 +27,7 @@ keywords:
 
 ## How the research credit phases in
 
-The [Internal Revenue Code](/wiki/internal-revenue-code/) Section 41 research credit is structured to reward *incremental* research spending—investment above a company's historical baseline. A corporation that spent $10 million on R&D in 2019 and invests $12 million in 2026 typically qualifies for the credit only on the $2 million increment, not the full $12 million.
+The Internal Revenue Code Section 41 research credit is structured to reward *incremental* research spending—investment above a company's historical baseline. A corporation that spent $10 million on R&D in 2019 and invests $12 million in 2026 typically qualifies for the credit only on the $2 million increment, not the full $12 million.
 
 The phase-in mechanism works through the **base year** calculation. For most corporations, the IRS defines a base as the ratio of prior-year research spending to prior-year gross receipts, multiplied by current-year gross receipts. If a company's base is $9.5 million in 2026, the credit applies only to the amount by which 2026 qualifying spending exceeds $9.5 million. A company investing $11.5 million gets credit on $2 million of incremental spend.
 
@@ -80,13 +80,13 @@ This option favors companies with growing research budgets and is simpler to adm
 
 ## Wage deduction limitation and phase-in mechanics
 
-A subtle phase-in restriction arises from the [wage deduction rule](/wiki/wage-deduction/). If a company claims the research credit on employee wages, those wages cannot also be deducted as a business expense on the [corporate tax return](/wiki/corporate-income-tax/). This creates a "phase-in" of the real tax benefit: the credit reduces tax liability, but claiming it forfeits the deduction.
+A subtle phase-in restriction arises from the wage deduction rule. If a company claims the research credit on employee wages, those wages cannot also be deducted as a business expense on the [corporate tax return](/wiki/corporate-income-tax/). This creates a "phase-in" of the real tax benefit: the credit reduces tax liability, but claiming it forfeits the deduction.
 
 The effective value of the credit depends on the company's [tax bracket](/wiki/tax-bracket-investor/). A 21% federal rate means forgoing a deduction costs 21 cents in tax savings. A 20% credit gives back 20 cents. The net effect is a 1% subsidy, not the full 20%. Some companies decline to claim the credit and instead deduct all R&D wages to maximize deductions.
 
 ## Carryback and carryforward rules
 
-Excess credits—those that cannot reduce current-year [federal income tax](/wiki/federal-income-tax/)—can be carried back one year or carried forward indefinitely. The [business credit](/wiki/business-credit/) limit (currently 25% of net income tax liability above $25,000) can restrict how much credit can be used in any single year.
+Excess credits—those that cannot reduce current-year federal income tax—can be carried back one year or carried forward indefinitely. The business credit limit (currently 25% of net income tax liability above $25,000) can restrict how much credit can be used in any single year.
 
 If a startup in its first profitable year generates a $5 million research credit but only owes $2 million in federal tax, it carries back $2 million to the prior loss year (if applicable) and carries forward $3 million to offset future tax. This phase-in across time ensures the incentive reaches growing businesses without creating refundable windfalls.
 
@@ -109,15 +109,15 @@ Economists debate the effectiveness: some studies show the credit spurs 10–20%
 <div class="wiki-seealso">
 
 ### Closely related
-- [Tax credit](/wiki/tax-credit/) — dollar-for-dollar reduction in tax liability
-- [Business credit](/wiki/business-credit/) — aggregate limit on nonrefundable federal business credits
-- [Wage deduction](/wiki/wage-deduction/) — deduction for employee compensation expenses
-- [Carryback and carryforward](/wiki/tax-loss-carryforward/) — timing of tax benefits across years
+- Tax credit — dollar-for-dollar reduction in tax liability
+- Business credit — aggregate limit on nonrefundable federal business credits
+- Wage deduction — deduction for employee compensation expenses
+- Carryback and carryforward — timing of tax benefits across years
 
 ### Wider context
 - [Corporate income tax](/wiki/corporate-income-tax/) — federal tax on business profits
-- [Tax incentive](/wiki/tax-incentive/) — government use of the tax code to encourage specific activities
-- [R&D spending](/wiki/research-development-expenditure/) — investment in new product and process development
+- Tax incentive — government use of the tax code to encourage specific activities
+- R&D spending — investment in new product and process development
 - [Alternative minimum tax](/wiki/alternative-minimum-tax-investor/) — parallel tax system that may limit research credit use
 
 </div>

@@ -37,7 +37,7 @@ The challenge is distinguishing genuine momentum (a true trend that will persist
 Statistical tests help:
 - **t-statistic on the slope:** If t < 2, the trend is not statistically significant at 95% confidence.
 - **Autocorrelation function (ACF):** Plots correlation of returns with their own lags. High ACF at lag 1–3 suggests momentum.
-- **Unit root tests:** Determine if the price series is mean-reverting or has a unit root (random walk). A true [random walk](/wiki/random-walk-hypothesis-implicitly/) has no momentum; mean-reversion implies reversal.
+- **Unit root tests:** Determine if the price series is mean-reverting or has a unit root (random walk). A true random walk has no momentum; mean-reversion implies reversal.
 
 ## Combining with fundamental signals
 

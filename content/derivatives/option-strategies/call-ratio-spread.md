@@ -63,7 +63,7 @@ This strategy carries **naked short-call risk** above the short strike. Many bro
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/option/">Option</a> — the contract type.</li>
-<li><a href="/wiki/naked-short/">Naked Short</a> — the risk component above the short strikes.</li>
+<li>Naked Short — the risk component above the short strikes.</li>
 <li><a href="/wiki/options-greeks/">Options Greeks</a> — tools for measuring ratio spread risk.</li>
 </ul>
 </div>

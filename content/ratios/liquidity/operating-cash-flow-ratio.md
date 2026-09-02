@@ -48,7 +48,7 @@ Cash flow is often seasonal. A toy company will have massive Q4 operating cash f
 
 ## Relationship to free cash flow
 
-[Free cash flow](/wiki/free-cash-flow/) (OCF minus [capex](/wiki/capex-budgeting/)) is a more stringent measure: it shows cash available after reinvestment. The operating cash flow ratio, by contrast, ignores capex. A company with strong OCF but huge capex needs may still face liquidity stress. Both metrics are valuable: OCF shows operational health, free cash flow shows [capital allocation](/wiki/capital-allocation/) priority.
+[Free cash flow](/wiki/free-cash-flow/) (OCF minus [capex](/wiki/capex-budgeting/)) is a more stringent measure: it shows cash available after reinvestment. The operating cash flow ratio, by contrast, ignores capex. A company with strong OCF but huge capex needs may still face liquidity stress. Both metrics are valuable: OCF shows operational health, free cash flow shows capital allocation priority.
 
 ## Signal of distress
 
@@ -91,7 +91,7 @@ Long-term investors sometimes buy companies with strong and growing OCF ratios r
 ### Wider context
 - [Liquidity Risk](/wiki/liquidity-risk/) — inability to pay obligations
 - [Working Capital](/wiki/net-working-capital-ratio/) — short-term asset management
-- [Capital Allocation](/wiki/capital-allocation/) — deploying cash strategically
+- Capital Allocation — deploying cash strategically
 - [Debt-to-Equity Ratio](/wiki/debt-to-equity-ratio/) — leverage measure
 - [Bankruptcy](/wiki/liquidation/) — outcome of prolonged illiquidity
 

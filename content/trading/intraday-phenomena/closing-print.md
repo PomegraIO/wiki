@@ -25,7 +25,7 @@ For the intra-day trading phenomenon at the close, see <a href="/wiki/closing-au
 | **Fund Valuation** | Mutual funds and ETFs mark positions at the closing print |
 | **Derivatives Expiration** | Options and futures use closing print to determine [settlement](/wiki/cash-settlement/) |
 | **Data Reporting** | Closing print is disseminated to all market data feeds within seconds |
-| **Regulatory Role** | Official daily price for [Form 13F](/wiki/form-13f/) and institutional reporting |
+| **Regulatory Role** | Official daily price for Form 13F and institutional reporting |
 | **Manipulation Risk** | Closing prints can be subject to layering, spoofing, or wash trading |
 
 </aside>

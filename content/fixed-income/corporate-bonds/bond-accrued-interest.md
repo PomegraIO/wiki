@@ -26,7 +26,7 @@ Accrued interest solves this. You calculate how much of the $50 coupon you've ea
 
 ## How it's calculated
 
-The standard convention for [corporate bonds](/wiki/corporate-bonds/) is **actual/360** in the U.S.: count the actual number of days you held the bond, divide by 360 (the standard bond year). For example:
+The standard convention for corporate bonds is **actual/360** in the U.S.: count the actual number of days you held the bond, divide by 360 (the standard bond year). For example:
 
 - Previous coupon date: June 15
 - Sale date: November 30

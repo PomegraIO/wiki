@@ -38,7 +38,7 @@ For CPWR to reach profitability, one or more of the following must occur: (1) a 
 
 ## Research Considerations
 
-Investors reading CPWR's [10-K](/10-K/) filing with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 827099) should assess the stage of technology development (prototype, pilot, or near-commercial?), the company's funding runway (how long until cash runs out?), and any partnerships or government support that might de-risk deployment. The company's ability to attract technical talent and secure R&D partnerships will signal whether the OTEC vision is gaining credibility. Additionally, watching policy trends in renewable energy subsidies and carbon pricing is important: if governments decide that baseload renewable power commands premium value or pricing, OTEC becomes more attractive.
+Investors reading CPWR's [10-K](/10-k/) filing with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 827099) should assess the stage of technology development (prototype, pilot, or near-commercial?), the company's funding runway (how long until cash runs out?), and any partnerships or government support that might de-risk deployment. The company's ability to attract technical talent and secure R&D partnerships will signal whether the OTEC vision is gaining credibility. Additionally, watching policy trends in renewable energy subsidies and carbon pricing is important: if governments decide that baseload renewable power commands premium value or pricing, OTEC becomes more attractive.
 
 <div class="wiki-seealso">
 

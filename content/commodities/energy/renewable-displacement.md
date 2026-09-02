@@ -61,7 +61,7 @@ Financial institutions face exposure through debt held by utilities and miners. 
 
 ## Price suppression and electricity markets
 
-Wholesale [electricity](/wiki/electricity-as-commodity/) prices have declined in many regions due to renewable supply. The [merit order effect](/wiki/merit-order-effect/) of renewables is that their zero marginal cost pushes down the market-clearing price. This is good for consumers but bad for generators. A thermal plant earning \$40/MWh when natural gas was the marginal source now earns \$25/MWh when solar is marginal. Over billions of MWh annually, this is a massive revenue hit.
+Wholesale [electricity](/wiki/electricity-as-commodity/) prices have declined in many regions due to renewable supply. The merit order effect of renewables is that their zero marginal cost pushes down the market-clearing price. This is good for consumers but bad for generators. A thermal plant earning \$40/MWh when natural gas was the marginal source now earns \$25/MWh when solar is marginal. Over billions of MWh annually, this is a massive revenue hit.
 
 Governments have intervened with subsidies, renewable mandates, and carbon pricing to support the renewable transition. Feed-in tariffs (Germany), renewable energy credits (US), and capacity markets attempt to guarantee revenues for renewables and price-out fossil fuels. These interventions distort markets but accelerate the transition. However, they are sometimes scaled back during energy crises (Europe 2022) when fossil-fuel supply is scarce and expensive.
 
@@ -77,12 +77,12 @@ The economic logic is compelling: wind and solar capital costs have fallen 90% a
 - [Coal](/wiki/coal/) — Fossil fuel most affected by displacement
 - [Natural Gas](/wiki/natural-gas/) — Secondary fuel facing longer-term displacement
 - [Electricity as Commodity](/wiki/electricity-as-commodity/) — Power market dynamics
-- [Stranded Assets](/wiki/stranded-assets/) — Assets becoming economically obsolete
+- Stranded Assets — Assets becoming economically obsolete
 
 ### Wider context
 - [Energy Transition](/wiki/energy-complex-correlation/) — Broader shift to renewables
-- [Carbon Pricing](/wiki/carbon-pricing/) — Policy driver of displacement
+- Carbon Pricing — Policy driver of displacement
 - [Fossil Fuel Divestment](/wiki/esg-divestment-activism/) — Financial implications
-- [Demand Destruction](/wiki/demand-destruction/) — Structural decline in commodity use
+- Demand Destruction — Structural decline in commodity use
 
 </div>

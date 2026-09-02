@@ -60,7 +60,7 @@ The ratio also serves as a macro sentiment check. If the economy is growing but 
 
 ## Caveats and Limits
 
-The small-cap/large-cap ratio is a useful gauge, but it's not infallible. Technological disruption, for instance, can cause large-cap tech companies to behave like growth stocks, which can compress the traditional small-cap/large-cap spread. Valuation levels also matter: if small caps are deeply cheap relative to earnings, they may outperform even without a sentiment shift, simply from mean reversion. And in a persistently low-interest-rate environment, the [risk premium](//) for small-cap stocks can remain depressed indefinitely as investors reach for yield.
+The small-cap/large-cap ratio is a useful gauge, but it's not infallible. Technological disruption, for instance, can cause large-cap tech companies to behave like growth stocks, which can compress the traditional small-cap/large-cap spread. Valuation levels also matter: if small caps are deeply cheap relative to earnings, they may outperform even without a sentiment shift, simply from mean reversion. And in a persistently low-interest-rate environment, the risk premium for small-cap stocks can remain depressed indefinitely as investors reach for yield.
 
 Still, as a sentiment barometer, the ratio captures something real about investor psychology: how willing they are to take on concentrated, volatile, cyclical risk. When that willingness is high, the gauge rises. When it evaporates, the gauge falls. Monitoring it can help investors stay alert to shifts in the collective mood.
 

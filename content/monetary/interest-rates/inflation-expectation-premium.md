@@ -32,7 +32,7 @@ keywords:
 
 A [bondholder](/wiki/bond/) lending $100 to the US [government](/wiki/government-bond-auction/) for 10 years at a 4% [coupon](/wiki/coupon-payment/) will receive $4 per year and $100 back at [maturity](/wiki/bond-maturity-corporate/). In nominal dollars, this is a 4% return. But if [inflation](/wiki/inflation/) averages 3% over those 10 years, the purchasing power of that $104 is eroded. The "real" [return](/wiki/return-on-assets/) is only ~1% (4% nominal minus ~3% [inflation](/wiki/inflation/)).
 
-Investors understand this math. In an environment where [inflation](/wiki/inflation/) is expected to be 3%, they will not lend at a 4% nominal rate if a [real](/wiki/real-interest-rate/) return of 1% is inadequate. They will demand higher nominal [yield](/wiki/current-yield/)—say 5.5%—to get a [real return](/wiki/real-yield/) they deem acceptable (again, 2.5% real, after subtracting expected [inflation](/wiki/inflation/]).
+Investors understand this math. In an environment where [inflation](/wiki/inflation/) is expected to be 3%, they will not lend at a 4% nominal rate if a [real](/wiki/real-interest-rate/) return of 1% is inadequate. They will demand higher nominal [yield](/wiki/current-yield/)—say 5.5%—to get a [real return](/wiki/real-yield/) they deem acceptable (again, 2.5% real, after subtracting expected [inflation](/inflation/).
 
 The difference between 4% (where real return is only 1%) and 5.5% (where real return is 2.5%) is the inflation expectation premium: the extra yield demanded to offset the expected [erosion](/wiki/depreciation/) of purchasing power.
 
@@ -62,7 +62,7 @@ This is powerful information. When the inflation premium widens (nominal yields 
 
 The [Federal Reserve](/wiki/federal-reserve/) influences the inflation premium indirectly through [forward guidance](/wiki/forward-guidance/) and communication about [inflation targets](/wiki/inflation-targeting/). If the [Fed](/wiki/federal-reserve/) credibly commits to keeping [inflation](/wiki/inflation/) near 2%, inflation expectations anchor, and the inflation premium remains modest. If the [Fed](/wiki/federal-reserve/) loses credibility (as it did in the 1970s, when actual [inflation](/wiki/inflation/) exceeded expectations repeatedly), inflation expectations become unanchored, and the inflation premium widens substantially.
 
-This is why central-bank communication matters for [bond](/wiki/bond/) markets. A [Fed Chair](/wiki/fed-funds-rate/) saying "inflation is transitory" when [inflation](/wiki/inflation/) is rising might be seen as out of touch; if [bonds](/wiki/bond/) sell off sharply (inflation premium widens), it is because markets doubt the [Fed's](/wiki/federal-reserve/) commitment to bringing [inflation](/wiki/inflation/) down.
+This is why central-bank communication matters for [bond](/wiki/bond/) markets. A Fed Chair saying "inflation is transitory" when [inflation](/wiki/inflation/) is rising might be seen as out of touch; if [bonds](/wiki/bond/) sell off sharply (inflation premium widens), it is because markets doubt the [Fed's](/wiki/federal-reserve/) commitment to bringing [inflation](/wiki/inflation/) down.
 
 ## Inflation premium across the curve
 
@@ -74,7 +74,7 @@ Traders monitor the 5-year and 10-year inflation-premium spread (called "5y5y" i
 
 An investor comparing a 10-year [Treasury](/wiki/treasury-bond/) yielding 4.5% (with an implied inflation premium of ~2.5%) is really making a bet. If actual [inflation](/wiki/inflation/) averages 2% (less than the expected 2.5%), the real return will be better than expected (~2.5% real, instead of the 2% real the market is pricing). If actual [inflation](/wiki/inflation/) averages 3%, the real return will be worse (~1.5% real).
 
-This is why inflation premium matters for [portfolio](/wiki/portfolio-mental-accounting/) construction. In environments where [inflation](/wiki/inflation/) is expected to be high, [bonds](/wiki/bond/) are less attractive (low [real yield](/wiki/real-yield/)), and [investors](/wiki/investor/) shift to [inflation hedges](/wiki/inflation-hedging/)—commodities, [TIPS](/wiki/tips/), real assets. When [inflation](/wiki/inflation/) is expected to be low, nominal [bonds](/wiki/bond/) are attractive because the inflation premium is modest.
+This is why inflation premium matters for [portfolio](/wiki/portfolio-mental-accounting/) construction. In environments where [inflation](/wiki/inflation/) is expected to be high, [bonds](/wiki/bond/) are less attractive (low [real yield](/wiki/real-yield/)), and investors shift to [inflation hedges](/wiki/inflation-hedging/)—commodities, [TIPS](/wiki/tips/), real assets. When [inflation](/wiki/inflation/) is expected to be low, nominal [bonds](/wiki/bond/) are attractive because the inflation premium is modest.
 
 ## Break-even inflation rates and market pricing
 

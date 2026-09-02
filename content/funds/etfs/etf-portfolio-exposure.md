@@ -14,7 +14,7 @@ True effective exposure comes from looking at:
 - Sector and geographic weights.
 - The [portfolio manager's methodology](/wiki/active-etf/) for selecting securities.
 - The underlying index (if tracking an index).
-- Any [leverage](/wiki/leverage/) or [derivatives](/wiki/derivatives/) used to enhance returns.
+- Any leverage or derivatives used to enhance returns.
 
 A [tech-focused ETF](/wiki/thematic-etf/) might claim broad exposure to technology but actually be 70% mega-cap (Apple, Microsoft, Nvidia) with only 30% in smaller tech companies. This concentration risk is invisible if you only read the name.
 
@@ -34,9 +34,9 @@ Conversely, a [US equity ETF](/wiki/equity-etf/) holds many companies (Apple, Mi
 
 This is why understanding revenue geography and currency exposure matters. A ETF that's nominally "international" might be 30% implicitly US-exposed through multinational companies.
 
-## [Leverage](/wiki/leverage/) and compounding effects
+## Leverage and compounding effects
 
-[Leveraged ETFs](/wiki/leveraged-etf/) promise 2x, 3x, or -1x (inverse) exposure to an index. But the [leverage](/wiki/leverage/) compounds daily, not over the long term. A 2x [leveraged ETF](/wiki/leveraged-etf/) resets daily to 2x exposure, which creates "decay" if the index is volatile.
+[Leveraged ETFs](/wiki/leveraged-etf/) promise 2x, 3x, or -1x (inverse) exposure to an index. But the leverage compounds daily, not over the long term. A 2x [leveraged ETF](/wiki/leveraged-etf/) resets daily to 2x exposure, which creates "decay" if the index is volatile.
 
 If the index rises 10% one day and falls 8% the next, a 1x ETF ends at 1.12% gain. But a 2x leveraged ETF rises 20% the first day and falls 16% the second, ending at 1.68% gain (assuming you rebalance daily). Over long periods (months or years), the decay becomes substantial.
 
@@ -50,9 +50,9 @@ Two value ETFs might both screen for cheap stocks, but one might tilt toward sma
 
 Similarly, the [beta](/wiki/beta/) of an ETF (its sensitivity to the overall market) depends on the actual holdings. A "low volatility" ETF holds stocks with low individual volatility, but the portfolio [beta](/wiki/beta/) might still be 0.9–1.0 depending on the correlation structure.
 
-## Hidden costs in [derivatives](/wiki/derivatives/) and securities lending
+## Hidden costs in derivatives and securities lending
 
-Some ETFs use [derivatives](/wiki/derivatives/) to achieve exposure more efficiently. This can reduce the stated [expense ratio](/wiki/expense-ratio/) but creates hidden exposure to [counterparty risk](/wiki/counterparty-risk/).
+Some ETFs use derivatives to achieve exposure more efficiently. This can reduce the stated [expense ratio](/wiki/expense-ratio/) but creates hidden exposure to [counterparty risk](/wiki/counterparty-risk/).
 
 Securities lending (where an ETF lends out its holdings to short-sellers) also creates hidden exposure. If the borrower defaults or if the stock is borrowed right before a major dividend, there might be complications.
 
@@ -91,13 +91,13 @@ Most ETF platforms and fund sponsors (Vanguard, Fidelity, State Street) provide 
 <li><a href="/wiki/etf/">ETF</a> — the broader structure.</li>
 <li><a href="/wiki/factor-etf/">Factor ETF</a> — exposure to systematic factors.</li>
 <li><a href="/wiki/beta/">Beta</a> — the market sensitivity metric.</li>
-<li><a href="/wiki/leverage/">Leverage</a> — used in [leveraged ETFs](#leveraged-etf).</li>
+<li>Leverage — used in [leveraged ETFs](#leveraged-etf).</li>
 <li><a href="/wiki/diversification/">Diversification</a> — analyzing true diversification requires understanding actual exposure.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/asset-allocation/">Asset Allocation</a> — exposure decisions at the portfolio level.</li>
-<li><a href="/wiki/portfolio-concentration/">Portfolio Concentration</a> — the consequence of concentrated ETF exposure.</li>
+<li>Portfolio Concentration — the consequence of concentrated ETF exposure.</li>
 <li><a href="/wiki/sector-rotation/">Sector Rotation</a> — dynamic exposure shifts.</li>
 </ul>
 </div>

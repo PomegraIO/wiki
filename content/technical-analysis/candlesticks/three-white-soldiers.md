@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **three white soldiers** pattern consists of three consecutive bullish candles, ideally of similar size or progressively larger, each opening within the previous candle's body and closing near its high. The pattern shows steady, unrelenting buying pressure: buyers are in control every single session, and the price marches higher with consistency. The name evokes three soldiers advancing in formation, each step solidifying the line's progress. While less dramatic than a three-candle reversal like the [morning star](/technical-analysis/morning-star), the three white soldiers is a pure bullish signal—it confirms that an uptrend is strong and disciplined.*
+*A **three white soldiers** pattern consists of three consecutive bullish candles, ideally of similar size or progressively larger, each opening within the previous candle's body and closing near its high. The pattern shows steady, unrelenting buying pressure: buyers are in control every single session, and the price marches higher with consistency. The name evokes three soldiers advancing in formation, each step solidifying the line's progress. While less dramatic than a three-candle reversal like the [morning star](/morning-star/), the three white soldiers is a pure bullish signal—it confirms that an uptrend is strong and disciplined.*
 
 <div class="wiki-hatnote">
 
-For three-candle patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). The opposite pattern is [three black crows](/technical-analysis/three-black-crows).
+For three-candle patterns broadly, see [candlestick pattern](/candlestick-pattern/). The opposite pattern is [three black crows](/three-black-crows/).
 
 </div>
 
@@ -95,7 +95,7 @@ A trader concerned about a retracement after a strong move might use three white
 
 ## Three black crows: the mirror image
 
-[Three black crows](/technical-analysis/three-black-crows) is the bearish mirror of three white soldiers. It shows three consecutive red candles, each opening within the prior body and closing near its low, signalling a strong downtrend. The structure and interpretation are identical, just inverted.
+[Three black crows](/three-black-crows/) is the bearish mirror of three white soldiers. It shows three consecutive red candles, each opening within the prior body and closing near its low, signalling a strong downtrend. The structure and interpretation are identical, just inverted.
 
 ## Academic perspective
 
@@ -107,19 +107,19 @@ Academic research on three white soldiers is sparse. The pattern is more clearly
 
 ### Related patterns
 
-- [Three black crows](/technical-analysis/three-black-crows) — bearish continuation, opposite pattern
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework
-- [Marubozu](/technical-analysis/marubozu) — strong conviction candles
-- [Morning star](/technical-analysis/morning-star) — three-candle reversal
+- [Three black crows](/three-black-crows/) — bearish continuation, opposite pattern
+- [Candlestick pattern](/candlestick-pattern/) — broader framework
+- [Marubozu](/marubozu/) — strong conviction candles
+- [Morning star](/morning-star/) — three-candle reversal
 
 ### Trend and confirmation
 
-- [Trendline](/technical-analysis/trendline) — confirming uptrend
-- [Moving average](/technical-analysis/simple-moving-average) — alignment with trend
-- [Volume](/technical-analysis/on-balance-volume) — strength of participation
+- [Trendline](/trendline/) — confirming uptrend
+- [Moving average](/simple-moving-average/) — alignment with trend
+- [Volume](/on-balance-volume/) — strength of participation
 
 ### Related concepts
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — where patterns form
+- [Support and resistance](/support-and-resistance/) — where patterns form
 
 </div>

@@ -91,7 +91,7 @@ Investors often adjust reported earnings for significant deferred tax changes to
 - [International Financial Reporting Standards](/international-financial-reporting-standards/) — The global alternative standard with different deferred tax rules
 - [Income Statement](/income-statement/) — Where tax provision and deferred tax changes are disclosed
 - [Balance Sheet](/balance-sheet/) — Where deferred tax assets and liabilities are recorded
-- [Tax Provision](//) — The accounting estimate of current and deferred taxes owed
+- Tax Provision — The accounting estimate of current and deferred taxes owed
 
 ### Wider context
 

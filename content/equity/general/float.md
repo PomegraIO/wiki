@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*Public float is the portion of a [company's](/public-company/) outstanding [shares](/stock/) that are freely tradeable by the public, excluding shares held by company insiders (officers, directors, major shareholders) and shares subject to transfer restrictions (such as [restricted stock](/equity/restricted-stock/) or [lock-up periods](/equity/lock-up-period/)). Public float is used to determine company size, set broker capital requirements, and calculate the minimum trading volume and bid-ask spread thresholds for stock exchange listings.*
+*Public float is the portion of a [company's](/public-company/) outstanding [shares](/stock/) that are freely tradeable by the public, excluding shares held by company insiders (officers, directors, major shareholders) and shares subject to transfer restrictions (such as [restricted stock](/restricted-stock/) or [lock-up periods](/lock-up-period/)). Public float is used to determine company size, set broker capital requirements, and calculate the minimum trading volume and bid-ask spread thresholds for stock exchange listings.*
 
 <aside class="wiki-infobox">
 
@@ -40,7 +40,7 @@ A company has:
 - [Market capitalization](/market-capitalization/): $5 billion.
 
 However:
-- Founders own 20 million shares (restricted from trading post-IPO due to [lock-up](/equity/lock-up-period/), 6 months).
+- Founders own 20 million shares (restricted from trading post-IPO due to [lock-up](/lock-up-period/), 6 months).
 - Management owns 5 million shares (insiders).
 - Company holds 5 million treasury shares (not outstanding).
 
@@ -74,7 +74,7 @@ Public float fluctuates daily with stock price:
 
 Lock-up expiration also affects public float:
 
-- 6 months post-IPO, the founders' [lock-up](/equity/lock-up-period/) expires.
+- 6 months post-IPO, the founders' [lock-up](/lock-up-period/) expires.
 - Suddenly, 20 million more shares are tradeable.
 - Public float increases by $1 billion (20 million × $50), even though the stock price is unchanged.
 
@@ -95,13 +95,13 @@ A stock with a $10 billion public float is likely very liquid; a stock with a $5
 
 ## Secondary offerings and public float
 
-When a company conducts a [secondary offering](/equity/secondary-offering/) (insiders selling), the public float can increase:
+When a company conducts a [secondary offering](/secondary-offering/) (insiders selling), the public float can increase:
 
 - Founder sells 5 million shares to the public, receives $250 million.
 - These 5 million shares are now publicly held.
 - Public float increases by the value of those shares (assuming they trade).
 
-Conversely, if a company conducts a [share buyback](/equity/share-buyback/), the public float may decrease (though it depends on which shareholders sell to the company).
+Conversely, if a company conducts a [share buyback](/share-buyback/), the public float may decrease (though it depends on which shareholders sell to the company).
 
 ## SEC disclosure of public float
 
@@ -117,7 +117,7 @@ The SEC's definition of public float is strict and includes detailed rules about
 
 A company whose public float falls below the exchange minimum (e.g., $50 million) risks delisting. To restore public float, companies can:
 
-- [Secondary offering](/equity/secondary-offering/) by insiders to raise capital and increase public holdings.
+- [Secondary offering](/secondary-offering/) by insiders to raise capital and increase public holdings.
 - Reverse split to boost stock price (and thus public float numerically, though not economically).
 - Merger or strategic restructuring.
 
@@ -145,17 +145,17 @@ Stocks with large public floats are typically more stable and efficient priced b
 ### Closely related
 
 - [Market capitalization](/market-capitalization/) — total company value
-- [Lock-up period](/equity/lock-up-period/) — restricts insider sales
-- [Restricted stock](/equity/restricted-stock/) — reduces public float
-- [Secondary offering](/equity/secondary-offering/) — increases public float
-- [Share buyback](/equity/share-buyback/) — can reduce public float
+- [Lock-up period](/lock-up-period/) — restricts insider sales
+- [Restricted stock](/restricted-stock/) — reduces public float
+- [Secondary offering](/secondary-offering/) — increases public float
+- [Share buyback](/share-buyback/) — can reduce public float
 
 ### Wider context
 
 - [Public company](/public-company/) — subject to float calculations
 - [Stock exchange](/stock-exchange/) — lists minimum float thresholds
-- [SEC](/equity/float/) — defines and regulates float
-- [Liquidity](/equity/float/) — determined partly by float
+- [SEC](/float/) — defines and regulates float
+- [Liquidity](/float/) — determined partly by float
 - [Share price](/stock-market/) — affects float value
 
 </div>

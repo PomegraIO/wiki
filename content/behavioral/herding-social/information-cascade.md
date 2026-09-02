@@ -48,7 +48,7 @@ Cascades also differ from **herding** in behavioral finance. Herding is psycholo
 
 **Dot-com bubble (1999–2000).** Young internet firms with no earnings commanded billion-dollar valuations. Rational investors who knew the valuations were absurd still bought, reasoning: "The crowd is buying. Maybe VCs and institutions know something about the future of tech I don't. Better to follow than miss a rally." The cascade persisted until it became undeniable that earnings would never justify prices; the bubble burst, and valuations collapsed 80%+.
 
-**Housing bubble (2006–07).** Mortgages with stated income, zero down, and adjustable rates were issued widely. Each lender observed others making these loans and reasoned: "Competitive pressure aside, if this many sophisticated lenders are doing it, housing must be safe." Private signals (rising delinquencies in subprime pools, skyrocketing [loan-to-value](/wiki/loan-to-value/) ratios) were ignored. The cascade persisted until 2006–07 when ARM reset rates triggered defaults.
+**Housing bubble (2006–07).** Mortgages with stated income, zero down, and adjustable rates were issued widely. Each lender observed others making these loans and reasoned: "Competitive pressure aside, if this many sophisticated lenders are doing it, housing must be safe." Private signals (rising delinquencies in subprime pools, skyrocketing loan-to-value ratios) were ignored. The cascade persisted until 2006–07 when ARM reset rates triggered defaults.
 
 **Cryptocurrency rallies.** Bitcoin's 2017 rally from $1,000 to $19,000 and subsequent 2021 rally to $69,000 exhibit cascade-like dynamics. Retail investors observe institutions buying and major companies (Tesla, Square) adopting Bitcoin. Individual investors rationally (given the information cascade framework) follow, even if their own analysis says the valuation is speculative. The cascade is sustained by self-reinforcing narratives ("digital gold," "store of value") and reverses when narratives crack or regulations tighten.
 
@@ -62,7 +62,7 @@ Cascades are easiest to spot in retrospect: "How did we ever think dot-com compa
 
 ## Regulatory and structural implications
 
-Regulators have attempted to slow cascades via **circuit breakers** and **trading halts**: if a market falls sharply intra-day, trading is paused to prevent panic selling from triggering further cascades. The [Black Monday crash of 1987](/wiki/black-monday-1987/) and the 2020 [March volatility spike](/wiki/covid-market-shock/) demonstrated both the power of cascades and the partial effectiveness of halts in breaking them.
+Regulators have attempted to slow cascades via **circuit breakers** and **trading halts**: if a market falls sharply intra-day, trading is paused to prevent panic selling from triggering further cascades. The [Black Monday crash of 1987](/wiki/black-monday-1987/) and the 2020 March volatility spike demonstrated both the power of cascades and the partial effectiveness of halts in breaking them.
 
 Information disclosure is another lever: if regulators ensure that fundamental information is transparent and timely, traders have less need to infer value from the crowd's behavior. However, this assumes markets are informationally efficient—a debated proposition.
 
@@ -80,14 +80,14 @@ Some economists argue that markets with many small retail traders (as opposed to
 
 ### Closely related
 - [Herding Behavior](/wiki/herd-behavior/) — Related crowd-following dynamic
-- [Behavioral Bias](/wiki/behavioral-finance/) — Psychological drivers of crowd behavior
+- Behavioral Bias — Psychological drivers of crowd behavior
 - [Conformity Bias](/wiki/conformity-premium/) — Social pressure to follow the crowd
 - [Momentum Investing](/wiki/momentum-investing/) — Strategy that exploits cascades
 
 ### Wider context
 - [Bubbles and Manias](/wiki/bubbles-and-manias/) — Cascades as mechanism for excess
-- [Market Efficiency](/wiki/efficient-market-hypothesis/) — Information aggregation and cascades
-- [Bank Runs](/wiki/bank-panic/) — Cascade dynamics in financial panics
-- [Trading Psychology](/wiki/trading-psychology/) — Behavioral foundations of cascades
+- Market Efficiency — Information aggregation and cascades
+- Bank Runs — Cascade dynamics in financial panics
+- Trading Psychology — Behavioral foundations of cascades
 
 </div>

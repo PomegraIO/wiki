@@ -38,7 +38,7 @@ The key feature is **automation**. The exchange's matching engine re-evaluates t
 
 **Primary peg:** On multi-exchange venues, the peg references the best price on the primary listing exchange, not the consolidated NBBO. This was more common before [Reg NMS](/wiki/reg-nms-adoption/) harmonized best-price rules.
 
-**Trade-through protection:** A peg order will not execute at a price that would constitute a [trade-through](/wiki/trade-through/) under [Reg NMS](/wiki/reg-nms-adoption/) — a buy order that executes at a lower ask without first checking if a higher ask exists on another exchange.
+**Trade-through protection:** A peg order will not execute at a price that would constitute a trade-through under [Reg NMS](/wiki/reg-nms-adoption/) — a buy order that executes at a lower ask without first checking if a higher ask exists on another exchange.
 
 ## Advantage: staying in the queue
 

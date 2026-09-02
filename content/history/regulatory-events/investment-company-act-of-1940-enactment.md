@@ -68,7 +68,7 @@ One of the Act's most important—and most contentious—provisions addressed in
 
 In practice, the SEC polices fees through enforcement and by challenging specific fee arrangements, particularly when they appear to have no competitive justification. A fund cannot simply charge whatever the market will bear; it has to be able to defend its fee structure as reasonable given the adviser's services and the market's competitive rates.
 
-The Act also required detailed disclosure of fees. A fund's prospectus and annual report had to break out management fees, administrative costs, [12b-1 fees](/wiki/12b1-fee/) (distribution expenses), and any other charges. This was crucial because retail investors could then see the full cost of owning the fund, not just the headline management fee.
+The Act also required detailed disclosure of fees. A fund's prospectus and annual report had to break out management fees, administrative costs, 12b-1 fees (distribution expenses), and any other charges. This was crucial because retail investors could then see the full cost of owning the fund, not just the headline management fee.
 
 Over time, this transparency drove down fees. As index funds emerged in the 1970s with ultra-low expense ratios, actively managed funds came under pressure to justify their higher costs. By the 2000s, the average equity fund expense ratio had fallen to less than 1%, a massive decline from the 2–3% ratios common in the 1970s.
 

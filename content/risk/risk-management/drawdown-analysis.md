@@ -78,7 +78,7 @@ These metrics favor strategies that generate return with controlled drawdowns, n
 - [Value at risk](/wiki/value-at-risk/) — Quantile-based loss measure
 
 ### Wider context
-- [Risk management](/wiki/risk-management/) — Systematic approach to downside control
+- Risk management — Systematic approach to downside control
 - [Performance metrics](/wiki/sharpe-ratio/) — Evaluating return and risk
 - [Portfolio construction](/wiki/asset-allocation/) — Building risk-controlled portfolios
 

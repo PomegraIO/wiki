@@ -73,7 +73,7 @@ A shareholder who owns 1% before the offering and exercises fully still owns 1% 
 
 ## Why rights offerings are rare in the US
 
-- **Perceived as desperate signal**: A rights offering can signal that the company could not raise capital at fair terms in the public market (otherwise why not do a [follow-on offering](/equity/follow-on-offering/)?).
+- **Perceived as desperate signal**: A rights offering can signal that the company could not raise capital at fair terms in the public market (otherwise why not do a [follow-on offering](/follow-on-offering/)?).
 
 - **Partial underwriting needed**: If subscription is low, the company needs an underwriter to buy unsubscribed shares (a "backstop"), adding cost and complexity.
 
@@ -81,7 +81,7 @@ A shareholder who owns 1% before the offering and exercises fully still owns 1% 
 
 - **Legal complexity**: Managing rights, expiration dates, and allocation is administratively complex.
 
-US companies typically prefer traditional [follow-on offerings](/equity/follow-on-offering/) or [PIPE offerings](/equity/pipe-offering/), which are cleaner and faster.
+US companies typically prefer traditional [follow-on offerings](/follow-on-offering/) or [PIPE offerings](/pipe-offering/), which are cleaner and faster.
 
 ## Transferable rights
 
@@ -117,13 +117,13 @@ If a rights offering is being proposed, shareholders may vote against it if they
 
 ## Comparison to other offerings
 
-- **[Follow-on offering](/equity/follow-on-offering/)**: Company offers to the entire public market at current market price; faster; no shareholder choice; can result in greater dilution to existing shareholders.
+- **[Follow-on offering](/follow-on-offering/)**: Company offers to the entire public market at current market price; faster; no shareholder choice; can result in greater dilution to existing shareholders.
 
 - **Rights offering**: Shareholders get priority at a discount; slower; shareholder choice; less dilution if exercised.
 
-- **[PIPE offering](/equity/pipe-offering/)**: Sales to institutions at discounted price; fast; no shareholder choice.
+- **[PIPE offering](/pipe-offering/)**: Sales to institutions at discounted price; fast; no shareholder choice.
 
-- **[At-the-market offering](/equity/at-the-market-offering/)**: Continuous sales at market price; no discount; gradual.
+- **[At-the-market offering](/at-the-market-offering/)**: Continuous sales at market price; no discount; gradual.
 
 Rights offerings are most useful when the company wants to be fair to existing shareholders and can afford the slower timeline.
 
@@ -131,18 +131,18 @@ Rights offerings are most useful when the company wants to be fair to existing s
 
 ### Closely related
 
-- [Follow-on offering](/equity/follow-on-offering/) — alternative offering type
-- [PIPE offering](/equity/pipe-offering/) — private alternative
-- [At-the-market offering](/equity/at-the-market-offering/) — continuous alternative
-- [Shareholder dilution](/equity/restricted-stock-units/) — rights protect against
-- [Subscription right](/equity/rights-offering/) — the core mechanism
+- [Follow-on offering](/follow-on-offering/) — alternative offering type
+- [PIPE offering](/pipe-offering/) — private alternative
+- [At-the-market offering](/at-the-market-offering/) — continuous alternative
+- [Shareholder dilution](/restricted-stock-units/) — rights protect against
+- [Subscription right](/rights-offering/) — the core mechanism
 
 ### Wider context
 
 - [Public company](/public-company/) — conducts rights offerings
 - [Capital markets](/stock-market/) — venue for rights
-- [Shareholder protection](/equity/rights-offering/) — purpose of rights
-- [Share dilution](/equity/restricted-stock-units/) — mitigated by rights
-- [Pro-rata allocation](/equity/rights-offering/) — principle of fairness
+- [Shareholder protection](/rights-offering/) — purpose of rights
+- [Share dilution](/restricted-stock-units/) — mitigated by rights
+- [Pro-rata allocation](/rights-offering/) — principle of fairness
 
 </div>

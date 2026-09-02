@@ -53,7 +53,7 @@ Cyngn competes with other autonomous-driving startups (Waymo Trucking, Aurora, E
 
 ## Key metrics for investors
 
-Examine the [10-K](/10-K/) for deployed units (number of trucks running Cyngn software), total mileage under operation, per-mile revenue, customer retention, and unit economics of customer [acquisition](/acquisition/). Growth in deployed miles and stable or improving per-mile revenue are signs of progress. Declining per-mile revenue or customer churn suggest adoption is slowing or the economics are not compelling.
+Examine the [10-K](/10-k/) for deployed units (number of trucks running Cyngn software), total mileage under operation, per-mile revenue, customer retention, and unit economics of customer [acquisition](/acquisition/). Growth in deployed miles and stable or improving per-mile revenue are signs of progress. Declining per-mile revenue or customer churn suggest adoption is slowing or the economics are not compelling.
 
 <div class="wiki-seealso">
 ### Closely related

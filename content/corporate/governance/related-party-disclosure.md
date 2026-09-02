@@ -9,7 +9,7 @@ keywords:
   - conflicts of interest
 ---
 
-*A **related-party disclosure** is a required financial statement note revealing transactions between a company and its [insiders](/wiki/insider-trading-law/) (officers, directors, major shareholders) or entities they control. The goal is to alert investors and creditors to potential [conflicts of interest](/wiki/conflict-of-interest/) and self-dealing.*
+*A **related-party disclosure** is a required financial statement note revealing transactions between a company and its [insiders](/wiki/insider-trading-law/) (officers, directors, major shareholders) or entities they control. The goal is to alert investors and creditors to potential conflicts of interest and self-dealing.*
 
 <aside class="wiki-infobox">
 
@@ -63,7 +63,7 @@ These are required to be disclosed in the proxy statement in a [Compensation Dis
 
 ### Affiliate Sales and Purchases
 
-- **Intercompany transactions** — sales between subsidiaries, often at [transfer prices](/wiki/transfer-pricing-investor/) set by the parent
+- **Intercompany transactions** — sales between subsidiaries, often at transfer prices set by the parent
 - **Related-company purchases** — buying goods/services from a supplier owned by an insider
 - **Joint ventures** — ownership and profit-sharing in entities where insiders have stakes
 
@@ -152,11 +152,11 @@ Shareholders can challenge related-party transactions through:
 - [Insider trading](/wiki/insider-trading-law/) — related-party insiders trading company stock
 - [Beneficial ownership disclosure](/wiki/beneficial-ownership-disclosure/) — required disclosure of insider stakes
 - [Audit committee](/wiki/audit-committee/) — approves related-party transactions
-- [Conflict of interest](/wiki/conflict-of-interest/) — underlying issue related-party disclosure addresses
+- Conflict of interest — underlying issue related-party disclosure addresses
 - [Say-on-pay](/wiki/say-on-pay/) — shareholder vote on compensation (related-party)
 
 ### Wider context
-- [Corporate governance](/wiki/corporate-governance/) — broader framework
+- Corporate governance — broader framework
 - [Sarbanes-Oxley Act](/wiki/sarbanes-oxley-act/) — legislation requiring related-party controls
 - [10-K](/wiki/10-k/) — annual filing where related-party transactions are disclosed
 - [Proxy statement](/wiki/proxy-voting/) — where executive compensation is disclosed

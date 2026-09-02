@@ -50,7 +50,7 @@ A fund that distributes $2 per share sees its NAV drop by $2 on the ex-distribut
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/mutual-fund/">Mutual fund</a> — the vehicles making distributions.</li>
-<li><a href="/wiki/total-return/">Total return</a> — includes distributions plus price appreciation.</li>
-<li><a href="/wiki/form-1099-div/">Form 1099-DIV</a> — document reporting fund distributions for taxes.</li>
+<li>Total return — includes distributions plus price appreciation.</li>
+<li>Form 1099-DIV — document reporting fund distributions for taxes.</li>
 </ul>
 </div>

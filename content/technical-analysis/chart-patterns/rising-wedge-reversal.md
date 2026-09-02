@@ -8,7 +8,7 @@ keywords:
   - chart pattern
 ---
 
-*A **Rising Wedge Reversal** is a [technical analysis](/wiki/technical-analysis/chart-patterns/) pattern in which price action traces two converging trendlines that both slope upward, creating a wedge shape. Despite the upward direction, the pattern is considered bearish and typically signals a pending downside reversal or consolidation break to the downside. The pattern is most reliable when it forms after a sustained uptrend.*
+*A **Rising Wedge Reversal** is a technical analysis pattern in which price action traces two converging trendlines that both slope upward, creating a wedge shape. Despite the upward direction, the pattern is considered bearish and typically signals a pending downside reversal or consolidation break to the downside. The pattern is most reliable when it forms after a sustained uptrend.*
 
 <aside class="wiki-infobox">
 
@@ -62,7 +62,7 @@ Traders use rising wedges to plan entries, exits, and [stop orders](/wiki/stop-o
 
 ## Limitations and occurrence frequency
 
-Rising wedges are less common than some other patterns, and their predictive value is moderate (roughly 60–70% of formations result in the expected downside reversal in research studies). Like all [chart patterns](/wiki/technical-analysis/chart-patterns/), the rising wedge is subjective: the exact placement of trendlines can be ambiguous, and what looks like a wedge to one analyst might not to another. Mechanical identification of patterns (using algorithms) can help remove subjectivity, but rules for what constitutes a valid wedge (minimum touches, angle, etc.) require careful definition.
+Rising wedges are less common than some other patterns, and their predictive value is moderate (roughly 60–70% of formations result in the expected downside reversal in research studies). Like all chart patterns, the rising wedge is subjective: the exact placement of trendlines can be ambiguous, and what looks like a wedge to one analyst might not to another. Mechanical identification of patterns (using algorithms) can help remove subjectivity, but rules for what constitutes a valid wedge (minimum touches, angle, etc.) require careful definition.
 
 <div class="wiki-seealso">
 
@@ -73,8 +73,8 @@ Rising wedges are less common than some other patterns, and their predictive val
 - [Head and Shoulders](/wiki/head-and-shoulders/) — another reversal pattern
 
 ### Wider context
-- [Chart Patterns](/wiki/technical-analysis/chart-patterns/) — broader category
-- [Technical Analysis](/wiki/technical-analysis/chart-patterns/) — discipline using patterns
+- Chart Patterns — broader category
+- Technical Analysis — discipline using patterns
 - [Breakout Trading](/wiki/breakout-trading/) — strategy centered on pattern breaks
 - [Volume Analysis](/wiki/volume-rate-of-change/) — confirming price action
 

@@ -82,7 +82,7 @@ For most buy-and-hold investors, a multi-asset ETF is genuinely convenient and p
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/etf/">ETF</a> — the broader structure.</li>
-<li><a href="/wiki/rebalancing/">Asset Rebalancing</a> — maintaining target allocations.</li>
+<li>Asset Rebalancing — maintaining target allocations.</li>
 <li><a href="/wiki/diversification/">Diversification</a> — the rationale for holding multiple assets.</li>
 </ul>
 </div>

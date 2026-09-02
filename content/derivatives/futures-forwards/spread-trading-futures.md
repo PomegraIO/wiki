@@ -81,6 +81,6 @@ Spreads break when:
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/futures-contract/">Futures contract</a> — the vehicle enabling spread trades through multiple standardized contracts on the same or related underlyings.</li>
-<li><a href="/wiki/derivatives/">Derivatives</a> — overview of the broader category that includes all leveraged and spread-trade opportunities.</li>
+<li>Derivatives — overview of the broader category that includes all leveraged and spread-trade opportunities.</li>
 </ul>
 </div>

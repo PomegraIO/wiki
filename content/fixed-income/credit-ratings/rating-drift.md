@@ -28,7 +28,7 @@ keywords:
 
 Credit rating agencies face internal tension. On one hand, issuers shop for favorable assessments; agencies that assign lower ratings risk losing business. On the other hand, downgrades trigger bad publicity and litigation risk. This creates a systematic bias toward stability and optimism in ratings. [Rating migration](/wiki/rating-migration/) patterns show that agencies tend to hold ratings steady longer than fundamentals warrant, then suddenly reverse course when deterioration becomes undeniable.
 
-The effect compounds during expansions. Early-cycle recoveries look solid, so agencies upgrade. But they lag the turning point. When recession arrives, they maintain ratings too high for months, then execute rapid downgrades in clusters. This [procyclical ratings](/wiki/ratings-procyclical-nature/) behavior amplifies credit cycles rather than stabilizing them.
+The effect compounds during expansions. Early-cycle recoveries look solid, so agencies upgrade. But they lag the turning point. When recession arrives, they maintain ratings too high for months, then execute rapid downgrades in clusters. This procyclical ratings behavior amplifies credit cycles rather than stabilizing them.
 
 ## Evidence in corporate and sovereign bonds
 
@@ -63,7 +63,7 @@ Some proposals suggest that investors should conduct independent [credit analysi
 - [Credit Spread](/wiki/credit-spread/) — Market pricing vs. agency assessment
 
 ### Wider context
-- [Procyclical Ratings](/wiki/ratings-procyclical-nature/) — How ratings amplify business cycles
+- Procyclical Ratings — How ratings amplify business cycles
 - [Institutional Clustering](/wiki/institutional-clustering/) — Herd behavior in bond markets
 - [Credit Risk](/wiki/credit-risk/) — Fundamental basis of rating assessment
 - [Financial Stability](/wiki/financial-stability-oversight-council/) — Regulatory perspective

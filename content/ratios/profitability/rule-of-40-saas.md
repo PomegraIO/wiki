@@ -55,7 +55,7 @@ A rule of 40 score tells you something, but not everything. Context matters.
 - Is the growth rate real, or inflated by a large acquisition that didn't integrate organically?
 - Are margins boosted by one-time gains, currency swings, or accounting conservatism?
 - What is the [cash conversion cycle](/cash-conversion-cycle/)—how long does it take to turn subscription revenue into cash?
-- Is [customer acquisition cost](//) sustainable relative to [lifetime value](//?
+- Is customer acquisition cost sustainable relative to [lifetime value](//?
 
 **A company scoring 30 or below is flagged as a concern**, but again, context saves judgment:
 - Early-stage SaaS (under $2M annual revenue) should ignore the rule; unit economics matter more.
@@ -86,13 +86,13 @@ This company hits the rule squarely. It's cash-generative, but growth is slower.
 
 The rule of 40 is a sieve, not a science. It misses:
 
-- **Unit economics**: A business growing 50% but losing $2 on each customer acquired will never be profitable, no matter the headline growth rate. [Revenue growth](//) alone is not a sign of health.
+- **Unit economics**: A business growing 50% but losing $2 on each customer acquired will never be profitable, no matter the headline growth rate. Revenue growth alone is not a sign of health.
 - **Churn and retention**: High revenue growth with 30% annual churn is often unsustainable. The rule doesn't distinguish between new logos and retained ones.
 - **Capital intensity**: A SaaS company with minimal upfront R&D spending can hit 40 easily; a company building AI models or managing data centers may need both growth _and_ margin just to cover costs.
 - **Customer mix**: A $5M company with 100% margin on one customer is not in the same boat as a company with 5,000 customers and 20% margin.
 - **Debt and interest**: The rule uses net profit margin, which includes interest. A leveraged buyout of a SaaS company may score well on the rule but be saddled with debt.
 
-The rule of 40 is best used alongside [return on equity](/return-on-equity/), [free cash flow](/free-cash-flow/), and [customer acquisition cost](//) metrics to build a fuller picture.
+The rule of 40 is best used alongside [return on equity](/return-on-equity/), [free cash flow](/free-cash-flow/), and customer acquisition cost metrics to build a fuller picture.
 
 ## When to Ignore the Rule
 
@@ -115,7 +115,7 @@ The rule of 40 is best used alongside [return on equity](/return-on-equity/), [f
 
 ### Wider context
 
-- [SaaS Business Model](//) — foundational understanding of software subscription economics
+- SaaS Business Model — foundational understanding of software subscription economics
 - [Business Cycle](/business-cycle/) — explains growth and contraction phases companies navigate
 - [Market Capitalization](/market-capitalization/) — how SaaS companies are valued in public markets
 - [Capital Asset Pricing Model](/capital-asset-pricing-model/) — framework investors use to evaluate risk and return in SaaS stocks

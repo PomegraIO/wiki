@@ -18,7 +18,7 @@ keywords:
 | **Core idea** | Select stocks on [dividend yield](/wiki/dividend-yield/) and payout stability |
 | **Common screens** | Yield > 3%, [payout ratio](/wiki/payout-ratio/) < 70%, positive [cash flow](/wiki/cash-flow-statement/) |
 | **Rebalancing** | Quarterly or semi-annual, capturing [ex-dividend](/wiki/ex-dividend-mechanics/) dates |
-| **Typical [investors](/wiki/investor/)** | Income-focused retirees, dividend funds, [dividend aristocrats](/wiki/dividend-aristocrats/) funds |
+| **Typical investors** | Income-focused retirees, dividend funds, [dividend aristocrats](/wiki/dividend-aristocrats/) funds |
 | **Historical returns** | 8–12% annualized, lower volatility than broad market |
 | **Risk** | Yield compression in rising-rate environments, concentrated in mature sectors |
 | **Tax efficiency** | [Dividend tax](/wiki/dividend-tax/) drag; [qualified dividends](/wiki/qualified-dividend/) are advantaged |
@@ -64,7 +64,7 @@ The best dividend-factor [stocks](/wiki/stock/) are "cheap for a reason"—they 
 
 In academic [factor investing](/wiki/factor-investing/) literature, the dividend-yield factor has shown positive [alpha](/wiki/alpha/) historically. High-yield [stocks](/wiki/stock/) have outperformed low-yield [stocks](/wiki/stock/) by ~2–4% annually (pre-tax, pre-[cost](/wiki/cost-of-carry/)). This outperformance is often attributed to:
 
-1. **Market mispricing**: [Investors](/wiki/investor/) overlook mature, high-yield [stocks](/wiki/stock/) in favor of growth, leaving them cheap.
+1. **Market mispricing**: Investors overlook mature, high-yield [stocks](/wiki/stock/) in favor of growth, leaving them cheap.
 2. **Risk premium**: High-yield [stocks](/wiki/stock/) are riskier (mature, slowing growth), so higher yields compensate.
 3. **Tax drag**: High-yield [stocks](/wiki/stock/) create [dividend tax](/wiki/dividend-tax/) liability, so [after-tax](/wiki/after-tax-profit-margin/) returns are lower, depressing prices.
 
@@ -78,7 +78,7 @@ This is a feature, not a bug: dividend-factor investors are accepting lower grow
 
 ## Reinvestment and compounding: DRIP
 
-A powerful mechanism for dividend-factor [investors](/wiki/investor/) is the Dividend Reinvestment Plan ([DRIP](/wiki/dividend-reinvestment-plan/)). Rather than taking [dividends](/wiki/dividend/) in cash, [shareholders](/wiki/shares-of-stock/) automatically reinvest them in additional [shares](/wiki/shares-of-stock/). Over decades, compounding of reinvested [dividends](/wiki/dividend/) can exceed capital appreciation.
+A powerful mechanism for dividend-factor investors is the Dividend Reinvestment Plan ([DRIP](/wiki/dividend-reinvestment-plan/)). Rather than taking [dividends](/wiki/dividend/) in cash, [shareholders](/wiki/shares-of-stock/) automatically reinvest them in additional [shares](/wiki/shares-of-stock/). Over decades, compounding of reinvested [dividends](/wiki/dividend/) can exceed capital appreciation.
 
 Example: A stock at $100 yielding 3% and growing earnings at 3% annually will have reinvested [dividends](/wiki/dividend/) generating an additional 0.09% annually in new [shares](/wiki/shares-of-stock/) (3% yield × 3% growth compounding). Over 30 years, this compounds to a material difference vs. taking [dividends](/wiki/dividend/) as cash.
 
@@ -86,7 +86,7 @@ Example: A stock at $100 yielding 3% and growing earnings at 3% annually will ha
 
 [Dividend tax](/wiki/dividend-tax/) is a major drag on after-tax returns. [Qualified dividends](/wiki/qualified-dividend/) are taxed at long-term [capital gains](/wiki/capital-gains-tax-investor/) rates (up to 20% federal), while [non-qualified dividends](/wiki/ordinary-dividend/) are taxed as ordinary [income](/wiki/income-statement/) (up to 37%). A 4% [dividend yield](/wiki/dividend-yield/) becomes 3.2% after a 20% [tax](/wiki/corporate-income-tax/), and 2.5% if ordinary rates apply.
 
-This is why tax-advantaged accounts ([401k](/wiki/401k-plan/), [IRA](/wiki/ira-traditional/)) are ideal for dividend-factor [investing](/wiki/dividend-investing/): [dividends](/wiki/dividend/) are earned and reinvested tax-free. In taxable accounts, [investors](/wiki/investor/) should prioritize [dividend aristocrats](/wiki/dividend-aristocrats/) and companies paying [qualified dividends](/wiki/qualified-dividend/) to minimize [tax drag](/wiki/tax-loss-harvesting/).
+This is why tax-advantaged accounts ([401k](/wiki/401k-plan/), [IRA](/wiki/ira-traditional/)) are ideal for dividend-factor [investing](/wiki/dividend-investing/): [dividends](/wiki/dividend/) are earned and reinvested tax-free. In taxable accounts, investors should prioritize [dividend aristocrats](/wiki/dividend-aristocrats/) and companies paying [qualified dividends](/wiki/qualified-dividend/) to minimize [tax drag](/wiki/tax-loss-harvesting/).
 
 ## Dividend cuts and market dislocations
 
@@ -100,7 +100,7 @@ The trade-off: passive funds are cheaper but might hold a deteriorating company 
 
 ## Conclusion: dividend yield as a selection criterion
 
-Dividend-factor investing is a time-honored approach with strong intuitive appeal: invest in [companies](/wiki/public-company/) that pay investors cash. The factor has delivered positive historical [alpha](/wiki/alpha/) in many periods, especially low-[rate](/wiki/interest-rate/) environments and when growth is unpopular. The key to success is rigorous screening (high yield + sustainable [payout](/wiki/payout-ratio/)) and appropriate return expectations (steady income, not dramatic growth). For retirees and income-focused [investors](/wiki/investor/), dividend-factor [strategies](/wiki/factor-investing/) remain compelling.
+Dividend-factor investing is a time-honored approach with strong intuitive appeal: invest in [companies](/wiki/public-company/) that pay investors cash. The factor has delivered positive historical [alpha](/wiki/alpha/) in many periods, especially low-[rate](/wiki/interest-rate/) environments and when growth is unpopular. The key to success is rigorous screening (high yield + sustainable [payout](/wiki/payout-ratio/)) and appropriate return expectations (steady income, not dramatic growth). For retirees and income-focused investors, dividend-factor [strategies](/wiki/factor-investing/) remain compelling.
 
 <div class="wiki-seealso">
 

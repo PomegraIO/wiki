@@ -25,7 +25,7 @@ image: "/svg/crypto.svg"
 | **What it is** | A consensus-layer scaling design that partitions data and uses probabilistic sampling to guarantee availability |
 | **Key innovation** | Separates data propagation from execution verification |
 | **Data guarantee** | Attester sampling provides cryptographic proof data is retrievable without all-or-nothing fallback |
-| **Predecessor** | [Proto-Danksharding](/crypto/scaling-tech/proto-danksharding/) (EIP-4844) introduced the blob mechanism |
+| **Predecessor** | [Proto-Danksharding](/proto-danksharding/) (EIP-4844) introduced the blob mechanism |
 | **Validator role** | Attest to random subsets of data; honest majority ensures all data is covered |
 | **Also called** | Full danksharding, execution sharding (when paired with execution) |
 
@@ -53,7 +53,7 @@ Without PBS, every validator would need to be a competent data packer. With PBS,
 
 ## Relationship to proto-Danksharding
 
-[Proto-Danksharding](/crypto/scaling-tech/proto-danksharding/) (EIP-4844) was Ethereum's 2023 upgrade introducing blob-carrying transactions. Blobs are data-only; they do not execute. Proto-Danksharding is the *interim* design: data is still distributed to all validators, but execution and data handling are decoupled in the protocol.
+[Proto-Danksharding](/proto-danksharding/) (EIP-4844) was Ethereum's 2023 upgrade introducing blob-carrying transactions. Blobs are data-only; they do not execute. Proto-Danksharding is the *interim* design: data is still distributed to all validators, but execution and data handling are decoupled in the protocol.
 
 Full Danksharding removes the "all validators download blobs" requirement. Only a random sample attests; the rest can safely skip the download. This is a significant further scaling boost.
 
@@ -71,7 +71,7 @@ The reason: execution sharding is operationally harder. Validators must coordina
 
 ## Practical implications for users
 
-For most users, Danksharding is transparent. They send transactions; rollups or other [layer 2](/crypto/layer-2/) systems batch them, pay for blob space, and post compressed proofs onchain. The user benefits through lower fees and higher throughput, but the underlying sampling is invisible.
+For most users, Danksharding is transparent. They send transactions; rollups or other layer 2 systems batch them, pay for blob space, and post compressed proofs onchain. The user benefits through lower fees and higher throughput, but the underlying sampling is invisible.
 
 For node operators, the shift is significant but manageable. Running a full node no longer requires downloading all data; you can sample and attest selectively. This lowers barriers to becoming a validator.
 
@@ -87,16 +87,16 @@ Also, Danksharding assumes reasonably sized data blobs. If individual blobs exce
 
 ### Closely related
 
-- [Proto-Danksharding](/crypto/scaling-tech/proto-danksharding/) — EIP-4844, the interim stepping stone before full Danksharding
-- [Recursive SNARK](/crypto/scaling-tech/recursive-snark/) — proof composition used to verify batched data and execution
-- [Rollup](/crypto/rollup/) — layer 2 systems that benefit from cheap blob space
-- [Attestation](/crypto/attestation/) — validator commitment to data availability and block validity
-- [Proposer-Builder Separation](/crypto/pbs/) — the architectural pattern enabling specialist data packing
+- [Proto-Danksharding](/proto-danksharding/) — EIP-4844, the interim stepping stone before full Danksharding
+- [Recursive SNARK](/recursive-snark/) — proof composition used to verify batched data and execution
+- Rollup — layer 2 systems that benefit from cheap blob space
+- Attestation — validator commitment to data availability and block validity
+- Proposer-Builder Separation — the architectural pattern enabling specialist data packing
 
 ### Wider context
 
-- [Layer 2](/crypto/layer-2/) — scaling solutions leveraging Danksharding's data availability
-- [Blockchain Fundamentals](/crypto/blockchain-fundamentals/) — the consensus and throughput model Danksharding scales
-- [Ethereum](/crypto/ethereum/) — the blockchain implementing Danksharding
+- Layer 2 — scaling solutions leveraging Danksharding's data availability
+- [Blockchain Fundamentals](/blockchain-fundamentals/) — the consensus and throughput model Danksharding scales
+- [Ethereum](/ethereum/) — the blockchain implementing Danksharding
 
 </div>

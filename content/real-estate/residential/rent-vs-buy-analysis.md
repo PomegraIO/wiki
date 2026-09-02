@@ -60,7 +60,7 @@ Buying incurs 2–5% in [closing costs](/wiki/closing-condition/) (title, apprai
 
 ## The psychological dimension: ownership vs. flexibility
 
-Renting offers flexibility: you can move for a job, adjust housing costs if income drops, or avoid a [neighborhood](/wiki/neighborhood-analysis/) that deteriorates. Owning a home anchors you and reduces optionality. If your career is mobile or your life is in flux, renting is not a financial loss—it is a liquidity benefit worth paying for. Conversely, if you value stability and plan to stay 10+ years, ownership allows you to optimize your space and build [equity](/wiki/equity-financing/) rather than paying a landlord.
+Renting offers flexibility: you can move for a job, adjust housing costs if income drops, or avoid a neighborhood that deteriorates. Owning a home anchors you and reduces optionality. If your career is mobile or your life is in flux, renting is not a financial loss—it is a liquidity benefit worth paying for. Conversely, if you value stability and plan to stay 10+ years, ownership allows you to optimize your space and build [equity](/wiki/equity-financing/) rather than paying a landlord.
 
 ## Market-dependent arbitrage: when location matters enormously
 

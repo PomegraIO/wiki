@@ -67,7 +67,7 @@ If implied volatility collapses after you open the trade, the premium of both pu
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational derivatives contract.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset category overview.</li>
+  <li>Derivatives — asset category overview.</li>
   <li><a href="/wiki/strike-price/">Strike price</a> — defines where the strategy breaks even.</li>
 </ul>
 </div>

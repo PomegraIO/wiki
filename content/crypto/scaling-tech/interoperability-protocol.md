@@ -50,7 +50,7 @@ Some interoperability protocols support **cross-chain liquidity pools**: a singl
 
 ## Oracles and data interoperability
 
-Interoperability is not just about moving assets; it's also about data. **[Oracle](/wiki/oracle-network-reference/)** protocols like Chainlink allow smart contracts on one blockchain to read data (price feeds, weather data, event outcomes) from the real world or from other blockchains. A DeFi contract on Ethereum might read Bitcoin's price from an oracle that aggregates data from multiple exchanges and attesters. This data interoperability is critical for cross-chain DeFi: a lending protocol needs to know collateral values on other chains, and oracles bridge that gap.
+Interoperability is not just about moving assets; it's also about data. **Oracle** protocols like Chainlink allow smart contracts on one blockchain to read data (price feeds, weather data, event outcomes) from the real world or from other blockchains. A DeFi contract on Ethereum might read Bitcoin's price from an oracle that aggregates data from multiple exchanges and attesters. This data interoperability is critical for cross-chain DeFi: a lending protocol needs to know collateral values on other chains, and oracles bridge that gap.
 
 ## Failure modes and security risks
 

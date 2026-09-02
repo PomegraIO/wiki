@@ -93,7 +93,7 @@ In contrast, identical three crows appearing in the middle of consolidation or i
 
 Once identified, traders typically wait for a **confirmation candle** or a break through a key support level. If the next candle is another black candle closing even lower, or if price gaps down at the open, the pattern gains momentum. If the next candle is white or if price climbs back above the pattern, the reversal signal is weakened or invalidated.
 
-Some traders enter a short position or exit a long position immediately after the third candle closes. Others place a stop-loss (to exit if proven wrong) just above the high of the pattern and ride the downtrend. Still others use identical three crows as a point to tighten [risk management](/risk-management.md): if holding a long position, they move their stop to break-even or just above the pattern's high.
+Some traders enter a short position or exit a long position immediately after the third candle closes. Others place a stop-loss (to exit if proven wrong) just above the high of the pattern and ride the downtrend. Still others use identical three crows as a point to tighten risk management: if holding a long position, they move their stop to break-even or just above the pattern's high.
 
 ## Volume and the Second or Third Candle
 
@@ -126,7 +126,7 @@ A complete setup might look like:
 6. **Stop-loss**: Just above the high of the pattern or above the second or third candle's high.
 7. **Target**: The next support level, a Fibonacci retracement of the uptrend, or a moving average in the downside direction.
 
-As with any pattern-based trade, identical three crows should be combined with [technical analysis](/technical-analysis.md) tools—[moving averages](/moving-averages.md), relative strength indices, or [price action](/price-action-trading.md) confirmation—to reduce false signals.
+As with any pattern-based trade, identical three crows should be combined with technical analysis tools—moving averages, relative strength indices, or price action confirmation—to reduce false signals.
 
 ## See also
 
@@ -135,16 +135,16 @@ As with any pattern-based trade, identical three crows should be combined with [
 ### Closely related
 
 - [Deliberation Pattern Candlestick](/deliberation-pattern-candlestick/) — Three white candles with shrinking bodies; the bullish counterpart.
-- [Three Black Crows](/three-black-crows.md) — The parent pattern; less strict than identical three crows.
-- [Candlestick Reversal Patterns](/candlestick-reversal-patterns.md) — Two-, three-, and four-candle reversals in various market contexts.
-- [Support and Resistance](/support-resistance.md) — Why equal opens at a level suggest that level is significant.
-- [Volume Confirmation](/volume-confirmation.md) — How rising or declining volume on the pattern affects reliability.
+- [Three Black Crows](/three-black-crows/) — The parent pattern; less strict than identical three crows.
+- Candlestick Reversal Patterns — Two-, three-, and four-candle reversals in various market contexts.
+- Support and Resistance — Why equal opens at a level suggest that level is significant.
+- Volume Confirmation — How rising or declining volume on the pattern affects reliability.
 
 ### Wider context
 
-- [Technical Analysis](/technical-analysis.md) — Candlestick patterns and their role in price action analysis.
-- [Price Action Trading](/price-action-trading.md) — Reading candle bodies, wicks, and ranges as a standalone trading foundation.
-- [Trend Following](/trend-following.md) — How reversal patterns fit into momentum-based and trend systems.
-- [Risk Management](/risk-management.md) — Placing stops and sizing positions on high-confidence patterns.
+- Technical Analysis — Candlestick patterns and their role in price action analysis.
+- Price Action Trading — Reading candle bodies, wicks, and ranges as a standalone trading foundation.
+- [Trend Following](/trend-following/) — How reversal patterns fit into momentum-based and trend systems.
+- Risk Management — Placing stops and sizing positions on high-confidence patterns.
 
 </div>

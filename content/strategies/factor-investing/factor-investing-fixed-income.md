@@ -42,7 +42,7 @@ Today, [factor investing](/factor-investing/) in fixed income is growing but sti
 
 ## The carry factor: the clearest signal
 
-The **carry factor** in bonds is the simplest to understand and the most persistent. It is the yield available on a bond today—the coupon and the [price](//) cushion or loss if held to maturity. Bonds with high coupons, steep [yield curves](/yield-curve/), or currency premiums (in [forex](/)-adjusted returns) offer higher "carry."
+The **carry factor** in bonds is the simplest to understand and the most persistent. It is the yield available on a bond today—the coupon and the price cushion or loss if held to maturity. Bonds with high coupons, steep [yield curves](/yield-curve/), or currency premiums (in [forex](/)-adjusted returns) offer higher "carry."
 
 The carry factor works because investors demand extra yield to hold riskier or less liquid bonds. A [junk bond](/junk-bond/) with a 7% coupon and a [U.S. Treasury](/treasury-bill/) with a 3% coupon are not priced arbitrarily; the 400 basis-point spread reflects the risk of default and liquidity. If you buy the [junk bond](/junk-bond/) and it does not default, you pocket the spread. Over time, the frequency of defaults is lower than the spread suggests, so systematic carry harvesting produces positive alpha.
 
@@ -56,7 +56,7 @@ The **quality factor** is straightforward: favor bonds issued by high-creditwort
 
 The empirical fact is that low-default-risk ([investment-grade](/investment-grade-bond/)) bonds outperform high-default-risk ([high-yield](/high-yield-bond/)) bonds in the long run, even though the [yield-to-maturity](/yield-to-maturity/) on the junk bond is higher. Why? Because the default losses on junk bonds are larger and more frequent than the yield premium compensates. It's a form of systematic risk that investors overprice.
 
-Quality can be measured many ways: [credit ratings](/credit-rating/), [credit spread](/credit-spread/) level, [duration](/duration/), [leverage ratio](/leverage-ratio-forex/) (debt relative to assets), or historical [default rate](/default-rate/). Indexes that tilt toward high-credit-quality bonds or those with lower leverage historically outperform broad-market [bond indices](//) during crises and in full-cycle returns.
+Quality can be measured many ways: [credit ratings](/credit-rating/), [credit spread](/credit-spread/) level, [duration](/duration/), [leverage ratio](/leverage-ratio-forex/) (debt relative to assets), or historical [default rate](/default-rate/). Indexes that tilt toward high-credit-quality bonds or those with lower leverage historically outperform broad-market bond indices during crises and in full-cycle returns.
 
 Like carry, quality is not costless. In a booming economy with low [interest rates](/interest-rate/), investors "reach for yield" and junk bonds outperform [investment-grade](/investment-grade-bond/) bonds. The quality premium evaporates or reverses. It's a cyclical factor.
 

@@ -72,13 +72,13 @@ A fund manager might:
 
 **[Income funds](/wiki/income-fund/):** Actively managed, focused on maximizing current yield while managing [default risk](/wiki/default-rate/). Common in retirement contexts.
 
-**[Multisector bond funds](/wiki/multisector-bond-implicitly/):** Blend of government, corporate, mortgage-backed, and emerging-market bonds, giving managers flexibility to rotate across sectors.
+**Multisector bond funds:** Blend of government, corporate, mortgage-backed, and emerging-market bonds, giving managers flexibility to rotate across sectors.
 
 **[TIPS (Treasury Inflation-Protected Securities)](/wiki/tips/) funds:** Own inflation-protected bonds, appropriate for investors fearing inflation erosion.
 
 **[Municipal bond](/wiki/municipal-bond/) funds:** Own tax-exempt bonds, appealing to high-income earners in high-tax states.
 
-**[Emerging market debt](/wiki/emerging-market-debt-implicitly/) funds:** higher-yielding but higher-risk debt from developing-economy issuers.
+**Emerging market debt funds:** higher-yielding but higher-risk debt from developing-economy issuers.
 
 ## Distribution and reinvestment
 

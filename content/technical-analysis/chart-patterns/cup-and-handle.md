@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For continuation patterns and broader technical analysis, see [candlestick pattern](/technical-analysis/candlestick-pattern). Related patterns include [rounding-bottom](/technical-analysis/rounding-bottom).
+For continuation patterns and broader technical analysis, see [candlestick pattern](/candlestick-pattern/). Related patterns include [rounding-bottom](/rounding-bottom/).
 
 </div>
 
@@ -95,7 +95,7 @@ A cup and handle within a strong, multi-month uptrend is more significant than o
 
 ## Comparison to rounding-bottom
 
-A [rounding-bottom](/technical-analysis/rounding-bottom) is also U-shaped but typically represents a reversal at the bottom of a downtrend, not a continuation within an uptrend. The context differs, though the shape is similar.
+A [rounding-bottom](/rounding-bottom/) is also U-shaped but typically represents a reversal at the bottom of a downtrend, not a continuation within an uptrend. The context differs, though the shape is similar.
 
 ## Real-world example
 
@@ -111,15 +111,15 @@ The cup and handle pattern is better-supported by academic research than many ca
 
 ### Related patterns
 
-- [Rounding-bottom](/technical-analysis/rounding-bottom) — U-shaped reversal at downtrend bottom
-- [Rounding-top](/technical-analysis/rounding-top) — U-inverted pattern at uptrend top
-- [Channel pattern](/technical-analysis/channel-pattern) — parallel support/resistance
-- [Flag pattern](/technical-analysis/flag-pattern) — tight continuation pattern
+- [Rounding-bottom](/rounding-bottom/) — U-shaped reversal at downtrend bottom
+- [Rounding-top](/rounding-top/) — U-inverted pattern at uptrend top
+- [Channel pattern](/channel-pattern/) — parallel support/resistance
+- [Flag pattern](/flag-pattern/) — tight continuation pattern
 
 ### Context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — cup bottom as support
-- [Trendline](/technical-analysis/trendline) — prior uptrend
-- [Volume](/technical-analysis/on-balance-volume) — confirming breakout
+- [Support and resistance](/support-and-resistance/) — cup bottom as support
+- [Trendline](/trendline/) — prior uptrend
+- [Volume](/on-balance-volume/) — confirming breakout
 
 </div>

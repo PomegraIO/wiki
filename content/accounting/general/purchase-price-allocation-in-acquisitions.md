@@ -82,7 +82,7 @@ If the earnout is later revised (because actual results differ from expectations
 
 ## Deferred Taxes and Other Liabilities
 
-The fair-value measurement includes assumptions about future tax liability. If the target owns assets with a stepped-up fair value but no equivalent tax step-up (because a Section 338(h)(10) election was not made), the acquirer recognizes a deferred [tax liability](/taxes/general/) for the future tax on the inherent gain. This deferred tax liability is part of the measured liabilities and reduces the goodwill that would otherwise be recognized.
+The fair-value measurement includes assumptions about future tax liability. If the target owns assets with a stepped-up fair value but no equivalent tax step-up (because a Section 338(h)(10) election was not made), the acquirer recognizes a deferred tax liability for the future tax on the inherent gain. This deferred tax liability is part of the measured liabilities and reduces the goodwill that would otherwise be recognized.
 
 Conversely, if the target has a loss carryforward or other tax attribute, the valuation of that attribute (discounted for uncertainty) becomes part of the identifiable assets, reducing goodwill.
 
@@ -112,7 +112,7 @@ Goodwill is not amortized under US GAAP and IFRS 3, but it must be tested annual
 - [Merger](/merger/) — the legal combination of two entities
 - [Divestiture](/divestiture/) — the reverse: selling off a division or subsidiary
 - [ASC 606](/asc-606/) — revenue recognition, relevant when valuing customer contracts in PPA
-- [Deferred taxes](/taxes/general/) — future tax impact of fair-value step-ups
+- Deferred taxes — future tax impact of fair-value step-ups
 
 ### Wider context
 

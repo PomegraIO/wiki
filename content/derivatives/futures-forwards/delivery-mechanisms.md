@@ -61,6 +61,6 @@ A contract that pretends to be physical but rarely gets delivered (because deliv
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — overview of the broader asset class.</li>
+<li>Derivatives — overview of the broader asset class.</li>
 </ul>
 </div>

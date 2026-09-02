@@ -59,7 +59,7 @@ Fund supermarkets amplified the pressure on [fund expenses](/wiki/expense-ratio/
 
 ## Account custody and regulation
 
-The supermarket holds custody of the assets, meaning it is responsible for safeguarding them. In the US, supermarkets are regulated as brokers under [FINRA](/wiki/finra/) and must meet [SEC](/wiki/securities-and-exchange-commission/) capital requirements. Assets are usually segregated and insured under [SIPC](/wiki/sipc/), so if the supermarket fails, customer accounts are protected up to the statutory limit.
+The supermarket holds custody of the assets, meaning it is responsible for safeguarding them. In the US, supermarkets are regulated as brokers under [FINRA](/wiki/finra/) and must meet [SEC](/wiki/securities-and-exchange-commission/) capital requirements. Assets are usually segregated and insured under SIPC, so if the supermarket fails, customer accounts are protected up to the statutory limit.
 
 This custody model is different from a [robo-advisor](/wiki/quantitative-investing/) or asset manager that manages money on behalf of clients. The supermarket is not managing the money; it is warehousing it and executing instructions.
 
@@ -76,6 +76,6 @@ This custody model is different from a [robo-advisor](/wiki/quantitative-investi
 - [Broker](/wiki/broker/) — Supermarkets are a subtype of retail broker
 - [Asset allocation](/wiki/asset-allocation/) — The strategic goal of diversifying across fund types
 - [Finra](/wiki/finra/) — Regulates supermarket brokers
-- [SIPC](/wiki/sipc/) — Insures customer assets held in custody
+- SIPC — Insures customer assets held in custody
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A follow-on offering (also called a seasoned equity offering or FPO) is an offering of newly issued [shares](/stock/) by a [public company](/public-company/) after its [IPO](/initial-public-offering/). Unlike a [secondary offering](/equity/secondary-offering/) (where existing shareholders sell), a follow-on offering issues new shares, dilutes existing shareholders' ownership, and raises capital for the company. Follow-on offerings are used to fund growth, acquisitions, debt repayment, or general corporate purposes.*
+*A follow-on offering (also called a seasoned equity offering or FPO) is an offering of newly issued [shares](/stock/) by a [public company](/public-company/) after its [IPO](/initial-public-offering/). Unlike a [secondary offering](/secondary-offering/) (where existing shareholders sell), a follow-on offering issues new shares, dilutes existing shareholders' ownership, and raises capital for the company. Follow-on offerings are used to fund growth, acquisitions, debt repayment, or general corporate purposes.*
 
 <aside class="wiki-infobox">
 
@@ -42,7 +42,7 @@ image: "/svg/equity.svg"
 - Ownership of existing shareholders is diluted.
 - Share count increases.
 
-**[Secondary offering](/equity/secondary-offering/)**:
+**[Secondary offering](/secondary-offering/)**:
 - Existing shareholders sell shares they own.
 - Company receives no proceeds.
 - No dilution (shares are just transferred between shareholders).
@@ -123,7 +123,7 @@ Existing shareholders experience dilution because their ownership percentage dec
 
 Your percentage ownership declined by 17% (1% to 0.83%).
 
-Some investors hold [preferred stock](/equity/preferred-stock/) with anti-dilution provisions that adjust the conversion ratio if new shares are issued below a certain price, protecting preferred investors from dilution.
+Some investors hold [preferred stock](/preferred-stock/) with anti-dilution provisions that adjust the conversion ratio if new shares are issued below a certain price, protecting preferred investors from dilution.
 
 ## Underwriting process
 
@@ -143,7 +143,7 @@ The underwriters earn a fee (typically 3–5% for large offerings, lower for ver
 
 ## Lock-up implications
 
-If a follow-on offering is conducted alongside a [lock-up expiration](/equity/lock-up-period/), the company might negotiate with insiders to extend their lock-up in exchange for company participation in the offering (to reduce dilution) or to time the secondary sales after the follow-on.
+If a follow-on offering is conducted alongside a [lock-up expiration](/lock-up-period/), the company might negotiate with insiders to extend their lock-up in exchange for company participation in the offering (to reduce dilution) or to time the secondary sales after the follow-on.
 
 ## Registration and disclosure
 
@@ -154,17 +154,17 @@ Follow-on offerings must be registered with the SEC via an S-1 Form (for larger 
 ### Closely related
 
 - [Initial public offering](/initial-public-offering/) — first public offering
-- [Secondary offering](/equity/secondary-offering/) — shareholder sale, not company issuance
-- [At-the-market offering](/equity/at-the-market-offering/) — continuous follow-on
-- [PIPE offering](/equity/pipe-offering/) — private follow-on
-- [Share dilution](/equity/restricted-stock-units/) — effect of offering
+- [Secondary offering](/secondary-offering/) — shareholder sale, not company issuance
+- [At-the-market offering](/at-the-market-offering/) — continuous follow-on
+- [PIPE offering](/pipe-offering/) — private follow-on
+- [Share dilution](/restricted-stock-units/) — effect of offering
 
 ### Wider context
 
 - [Public company](/public-company/) — issues follow-ons
 - [Capital markets](/stock-market/) — venue for offerings
 - [Stock market](/stock-market/) — where shares trade post-offering
-- [Shareholder value](/equity/share-buyback/) — dilution vs. growth
-- [Financial leverage](/equity/follow-on-offering/) — debt vs. equity capital
+- [Shareholder value](/share-buyback/) — dilution vs. growth
+- [Financial leverage](/follow-on-offering/) — debt vs. equity capital
 
 </div>

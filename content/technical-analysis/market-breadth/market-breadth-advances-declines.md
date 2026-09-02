@@ -27,7 +27,7 @@ keywords:
 
 A stock market index like the [S&P 500](/wiki/sp-500-index/) is a weighted average—if the 10 largest stocks rally but 490 others fall, the index can still close higher. This creates a dangerous illusion: the headline index is green, but most investors and traders are underwater. Breadth tracks this risk. If 60% of stocks advance, that is healthy participation. If 40% advance while the index rises, it is a *breadth divergence*—the market is getting narrow, concentrated, and vulnerable to correction.
 
-Breadth is one of the few [technical analysis](/wiki/technical-analysis/) indicators with predictive power for intermediate-term direction. When breadth is broad on rallies (70%+ stocks advancing), momentum often continues. When breadth narrows while the index climbs (only 40–50% stocks advancing), reversals often follow within weeks. This is why professional traders watch the [NYSE A-D Line](/wiki/accumulation-distribution-line/) and [McClellan Oscillator](/wiki/mcclellan-oscillator/) as warning systems.
+Breadth is one of the few technical analysis indicators with predictive power for intermediate-term direction. When breadth is broad on rallies (70%+ stocks advancing), momentum often continues. When breadth narrows while the index climbs (only 40–50% stocks advancing), reversals often follow within weeks. This is why professional traders watch the [NYSE A-D Line](/wiki/accumulation-distribution-line/) and [McClellan Oscillator](/wiki/mcclellan-oscillator/) as warning systems.
 
 ## Calculating and interpreting advance-decline data
 
@@ -75,7 +75,7 @@ Some contrarian traders short when breadth is extremely broad (everyone is long,
 - [Breadth Thrust Indicator](/wiki/breadth-thrust-indicator/) — Signal of broad market participation surge
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — Price and volume-based market timing tools
+- Technical Analysis — Price and volume-based market timing tools
 - [New Highs/New Lows](/wiki/new-highs-new-lows/) — Count of stocks reaching 52-week extremes
 - [Volume Profile Support](/wiki/volume-profile-support/) — Support and resistance based on trading volume
 

@@ -80,6 +80,6 @@ For [hedgers](/wiki/hedging-with-futures/) and investors, volume and open intere
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broader category encompassing all standardized and custom risk-transfer instruments.</li>
+<li>Derivatives — the broader category encompassing all standardized and custom risk-transfer instruments.</li>
 </ul>
 </div>

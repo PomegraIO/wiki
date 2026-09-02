@@ -29,7 +29,7 @@ keywords:
 
 From the mid-1990s onward, US housing demand surged as interest rates fell, lending standards eased, and banks competed aggressively for mortgage market share. The Federal Reserve kept [federal funds rates](/wiki/federal-funds-rate/) at 1% for 2003–2004, encouraging borrowing. Traditional lending standards required 20% down payments and documented income; these eroded as lenders pursued volume and brokers were incentivized by origination fees. By 2005–2006, 10% down (or less) and stated-income loans were routine. The rationale was that home prices had risen for decades without a national decline, implying defaults were unlikely.
 
-Credit flowed to all comers. Subprime borrowers (credit scores below 620, spotty employment) were approved for \$400,000 mortgages. Adjustable-rate [mortgages](/wiki/mortgage-personal/) (ARMs) with teaser rates (2–3% for two years, then 6–8%) promised affordability initially but reset sharply. [Stated-income](/wiki/stated-income-mortgage/) loans required no proof of income. Stated-asset loans had no verification of claimed savings. Liar's loans were rampant. A dishwasher claiming \$150,000 annual income was approved for a \$500,000 house.
+Credit flowed to all comers. Subprime borrowers (credit scores below 620, spotty employment) were approved for \$400,000 mortgages. Adjustable-rate [mortgages](/wiki/mortgage-personal/) (ARMs) with teaser rates (2–3% for two years, then 6–8%) promised affordability initially but reset sharply. Stated-income loans required no proof of income. Stated-asset loans had no verification of claimed savings. Liar's loans were rampant. A dishwasher claiming \$150,000 annual income was approved for a \$500,000 house.
 
 ## Securitization and originate-to-distribute model
 

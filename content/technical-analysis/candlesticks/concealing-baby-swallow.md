@@ -52,7 +52,7 @@ This pattern is significant because it reveals a shift in market psychology desp
 
 The confinement within the second black candle's body is key. This means buyers have not yet overcome the full extent of the selling; they are still working off the lows. But they are *making progress*, and the repetition over two candles signals that the selling pressure has genuinely exhausted itself.
 
-In [technical analysis](/technical-analysis.md), when a long candle is followed by small-bodied candles opening and closing within its range, it often marks an inversion of momentum. A long-range candle is a spike of conviction. Small candles following it suggest that the spike has lost its driving force; new participants are entering the opposite direction.
+In technical analysis, when a long candle is followed by small-bodied candles opening and closing within its range, it often marks an inversion of momentum. A long-range candle is a spike of conviction. Small candles following it suggest that the spike has lost its driving force; new participants are entering the opposite direction.
 
 ## Identifying Concealing Baby Swallow: The Strict Rules
 
@@ -85,7 +85,7 @@ Most traders wait for a *confirmation candle*—a fifth candle that closes above
 
 Some aggressive traders enter on the close of the fourth white candle, accepting that a final confirmation candle would strengthen the setup. This entry comes earlier but risks being whipsawed if sellers return.
 
-The profit target is typically the next level of resistance or a retracement of the entire downtrend. Because the pattern is rare and high-confidence, traders often let profits run or use a [trailing stop](/trailing-stop.md) to capture larger moves.
+The profit target is typically the next level of resistance or a retracement of the entire downtrend. Because the pattern is rare and high-confidence, traders often let profits run or use a trailing stop to capture larger moves.
 
 **Volume** context matters too. Ideally, the two black candles show climactic selling—very high volume on the second black candle. The two white candles should show emerging volume, with the fourth white candle closing on decent volume to confirm that buyers are stepping in with conviction.
 
@@ -99,7 +99,7 @@ Conversely, patterns that appear on every chart (like many two-candle patterns) 
 
 Concealing baby swallow does not always lead to reversals. If the downtrend is very steep or driven by fundamental bad news, buyers may take the pattern as a relief bounce and then sell again. The pattern also requires a certain price level or support zone to work: a reversal near a strong support level is more likely to hold than one in open air.
 
-Illiquid assets or those with wide spreads make the pattern harder to trade reliably because wicks and closes can be distorted. The pattern works best in liquid [stocks](/stock.md), [indices](/index.md), and currency pairs.
+Illiquid assets or those with wide spreads make the pattern harder to trade reliably because wicks and closes can be distorted. The pattern works best in liquid [stocks](/stock/), indices, and currency pairs.
 
 ## See also
 
@@ -108,16 +108,16 @@ Illiquid assets or those with wide spreads make the pattern harder to trade reli
 ### Closely related
 
 - [Deliberation Pattern Candlestick](/deliberation-pattern-candlestick/) — Three white candles signaling exhaustion; the inverse mindset.
-- [Candlestick Reversal Patterns](/candlestick-reversal-patterns.md) — Two-, three-, and four-candle reversals in uptrends and downtrends.
-- [Morning Star](/morning-star.md) — Three-candle reversal with a gap; contrasts with concealing baby swallow.
-- [Piercing Line](/piercing-line.md) — Two-candle reversal; simpler than concealing baby swallow.
-- [Support and Resistance](/support-resistance.md) — Why reversals near prior lows are more reliable.
+- Candlestick Reversal Patterns — Two-, three-, and four-candle reversals in uptrends and downtrends.
+- [Morning Star](/morning-star/) — Three-candle reversal with a gap; contrasts with concealing baby swallow.
+- Piercing Line — Two-candle reversal; simpler than concealing baby swallow.
+- Support and Resistance — Why reversals near prior lows are more reliable.
 
 ### Wider context
 
-- [Technical Analysis](/technical-analysis.md) — Candlestick patterns and price action as a foundation for trading.
-- [Price Action Trading](/price-action-trading.md) — Reading candle structure without oscillators or indicators.
-- [Risk Management](/risk-management.md) — Placing stops and managing position size on rare, high-confidence signals.
-- [Trend Following](/trend-following.md) — Reversals in the context of longer-term trend systems.
+- Technical Analysis — Candlestick patterns and price action as a foundation for trading.
+- Price Action Trading — Reading candle structure without oscillators or indicators.
+- Risk Management — Placing stops and managing position size on rare, high-confidence signals.
+- [Trend Following](/trend-following/) — Reversals in the context of longer-term trend systems.
 
 </div>

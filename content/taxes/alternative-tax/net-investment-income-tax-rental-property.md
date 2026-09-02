@@ -10,7 +10,7 @@ keywords:
 image: /svg/taxes.svg
 ---
 
-*The **net investment income tax** (NIIT) is a 3.8% surtax on certain investment income, including rental property income, when a taxpayer's [modified adjusted gross income](/taxes/income/) exceeds a threshold ($200,000 single, $250,000 married). Crucially, rental income is **not** automatically subject to NIIT; it escapes the tax if you meet the **material participation** test or elect to group the rental activity with other businesses you actively manage.*
+*The **net investment income tax** (NIIT) is a 3.8% surtax on certain investment income, including rental property income, when a taxpayer's modified adjusted gross income exceeds a threshold ($200,000 single, $250,000 married). Crucially, rental income is **not** automatically subject to NIIT; it escapes the tax if you meet the **material participation** test or elect to group the rental activity with other businesses you actively manage.*
 
 <aside class="wiki-infobox">
 
@@ -53,7 +53,7 @@ Conversely, if a taxpayer does **not** materially participate, rental income bec
 
 ## Material Participation Standard
 
-**Material participation** is a technical term defined in the [passive activity loss](/taxes/deductions/passive-activity-losses/) regulations. A taxpayer materially participates in a rental activity if:
+**Material participation** is a technical term defined in the passive activity loss regulations. A taxpayer materially participates in a rental activity if:
 
 - The taxpayer participated in the activity for more than **100 hours** during the tax year, **and** the taxpayer's participation was not less than anyone else's; or
 - The taxpayer participated for more than **500 hours** in the activity during the year (the safe harbor—no comparison needed); or
@@ -88,7 +88,7 @@ Single filer, MAGI of $240,000 (includes $60,000 net rental income from two apar
 - NIIT applies to: lesser of $60,000 or $40,000 = $40,000
 - NIIT tax: $40,000 × 3.8% = $1,520
 
-Had she materially participated, the rental income would have been excluded from the NIIT calculation, and no 3.8% tax would apply (though she'd still owe regular [income tax](/taxes/individual-income-tax/) on the rental income).
+Had she materially participated, the rental income would have been excluded from the NIIT calculation, and no 3.8% tax would apply (though she'd still owe regular income tax on the rental income).
 
 ## The Grouping Election
 
@@ -131,7 +131,7 @@ Married couple, MAGI of $320,000. Their income includes:
 
 NIIT applies to "net investment income," defined as:
 
-- Net [capital gains](/finance/equity/capital-gains/) (excess of long-term and short-term gains over losses)
+- Net capital gains (excess of long-term and short-term gains over losses)
 - Dividends and interest
 - **Passive rental real estate income** (the relevant category for this discussion)
 - Net gain from dispositions of investment property
@@ -163,11 +163,11 @@ High-income landlords considering NIIT should:
 
 2. **Evaluate grouping**: If you operate an active business and own rental real estate, a grouping election can eliminate NIIT on the rental income without requiring material participation in the rental itself.
 
-3. **Monitor MAGI**: NIIT only applies if MAGI exceeds the threshold. Some taxpayers use [traditional IRA](/retirement/traditional-ira/) contributions or [charitable](/taxes/deductions/charitable-deduction/) gifts to lower AGI and MAGI.
+3. **Monitor MAGI**: NIIT only applies if MAGI exceeds the threshold. Some taxpayers use [traditional IRA](/traditional-ira/) contributions or charitable gifts to lower AGI and MAGI.
 
 4. **Consider entity structure**: Rental income from a C-corporation is not subject to NIIT at the corporate level (though dividend distributions are); this is rarely a tax-efficient route for most filers but occasionally makes sense for larger portfolios.
 
-5. **Timing of dispositions**: [Capital gains](/finance/equity/capital-gains/) from sale of investment property count as net investment income. Timing the sale (deferring it to a lower-MAGI year) can reduce or eliminate NIIT.
+5. **Timing of dispositions**: Capital gains from sale of investment property count as net investment income. Timing the sale (deferring it to a lower-MAGI year) can reduce or eliminate NIIT.
 
 ## Reporting NIIT
 
@@ -179,16 +179,16 @@ NIIT is calculated on Form 8960 and reported on the taxpayer's Form 1040. The ta
 
 ### Closely related
 
-- [Additional Medicare Tax for Self-Employed Individuals](/taxes/alternative-tax/additional-medicare-tax-self-employed/) — Another high-income surtax; different base and threshold
-- [Passive Activity Losses](/taxes/deductions/passive-activity-losses/) — Framework that NIIT uses to classify rental income
-- [Capital Gains Tax](/finance/equity/capital-gains/) — Another component of NIIT base
-- [AMT vs Regular Tax: Which One You Actually Pay](/taxes/alternative-tax/amt-vs-regular-tax-which-applies/) — Alternative tax system that can interact with NIIT liability
+- [Additional Medicare Tax for Self-Employed Individuals](/additional-medicare-tax-self-employed/) — Another high-income surtax; different base and threshold
+- Passive Activity Losses — Framework that NIIT uses to classify rental income
+- Capital Gains Tax — Another component of NIIT base
+- [AMT vs Regular Tax: Which One You Actually Pay](/amt-vs-regular-tax-which-applies/) — Alternative tax system that can interact with NIIT liability
 
 ### Wider context
 
-- [Dividend](/finance/equity/dividend/) — Investment income subject to NIIT
-- [Rental Income](/taxes/income/rental-income/) — Primary subject of NIIT for real estate investors
-- [S-Corporation](/business-entities/s-corporation/) — Entity frequently grouped with rental activities
-- [Modified Adjusted Gross Income](/taxes/income/) — The threshold test for NIIT applicability
+- [Dividend](/dividend/) — Investment income subject to NIIT
+- Rental Income — Primary subject of NIIT for real estate investors
+- S-Corporation — Entity frequently grouped with rental activities
+- Modified Adjusted Gross Income — The threshold test for NIIT applicability
 
 </div>

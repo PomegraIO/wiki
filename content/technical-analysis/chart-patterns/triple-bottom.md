@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **triple bottom** is a bullish reversal pattern consisting of three lows at approximately the same price level, separated by two rallies. The pattern shows that price has tested a support level three times and bounced all three times, revealing mounting strength among buyers. Each failed decline below support represents another failed attempt by bears. When price finally breaks decisively above both rally highs, the pattern is complete, and a sustained uptrend often follows. Triple bottoms are rarer and more significant than [double bottoms](/technical-analysis/double-bottom) because the triple bounce at the same level signals support strength more definitively.*
+*A **triple bottom** is a bullish reversal pattern consisting of three lows at approximately the same price level, separated by two rallies. The pattern shows that price has tested a support level three times and bounced all three times, revealing mounting strength among buyers. Each failed decline below support represents another failed attempt by bears. When price finally breaks decisively above both rally highs, the pattern is complete, and a sustained uptrend often follows. Triple bottoms are rarer and more significant than [double bottoms](/double-bottom/) because the triple bounce at the same level signals support strength more definitively.*
 
 <div class="wiki-hatnote">
 
-For reversal patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). The bearish equivalent is [triple-top](/technical-analysis/triple-top).
+For reversal patterns broadly, see [candlestick pattern](/candlestick-pattern/). The bearish equivalent is [triple-top](/triple-top/).
 
 </div>
 
@@ -86,14 +86,14 @@ Academic research on triple bottoms is sparse, limited by the pattern's rarity.
 
 ### Related patterns
 
-- [Triple-top](/technical-analysis/triple-top) — bearish equivalent
-- [Double-bottom](/technical-analysis/double-bottom) — two-trough version
-- [Inverse head and shoulders](/technical-analysis/inverse-head-and-shoulders) — three-trough variant
+- [Triple-top](/triple-top/) — bearish equivalent
+- [Double-bottom](/double-bottom/) — two-trough version
+- [Inverse head and shoulders](/inverse-head-and-shoulders/) — three-trough variant
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — key support level
-- [Volume](/technical-analysis/on-balance-volume) — increasing conviction
-- [Trendline](/technical-analysis/trendline) — prior downtrend
+- [Support and resistance](/support-and-resistance/) — key support level
+- [Volume](/on-balance-volume/) — increasing conviction
+- [Trendline](/trendline/) — prior downtrend
 
 </div>

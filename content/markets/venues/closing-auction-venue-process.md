@@ -36,7 +36,7 @@ image: /svg/markets.svg
 
 At 4 p.m. ET, the traditional stock market "close" occurs on the [NYSE](/new-york-stock-exchange/) and [NASDAQ](/nasdaq/). This moment is not arbitrary; it is the reference point for daily settlement, official reporting, and fund pricing.
 
-During the final minutes of continuous trading, participants accumulate orders they want to execute at the close. Index funds, in particular, rebalance their portfolios according to the market-close [index](https://example.com) value, and they want to execute large block trades at a fair closing price rather than moving the market individually.
+During the final minutes of continuous trading, participants accumulate orders they want to execute at the close. Index funds, in particular, rebalance their portfolios according to the market-close index value, and they want to execute large block trades at a fair closing price rather than moving the market individually.
 
 A closing auction works like the [opening auction](/opening-auction-mechanism-explained/): the exchange aggregates all unexecuted orders and matches them at a single uncross price, ensuring every participant—whether a retail trader or a multi-billion-dollar index fund—gets fair execution at the same price.
 
@@ -52,9 +52,9 @@ A closing auction works like the [opening auction](/opening-auction-mechanism-ex
 
 ## How the Closing Price Is Calculated
 
-The closing uncross price is determined using the same principle as the [opening auction](/opening-auction-mechanism-explained/): the exchange finds the price at which the maximum volume of shares can execute, subject to the constraint that all [limit orders](https://example.com) are honored (buys at or below their limit, sells at or above theirs).
+The closing uncross price is determined using the same principle as the [opening auction](/opening-auction-mechanism-explained/): the exchange finds the price at which the maximum volume of shares can execute, subject to the constraint that all limit orders are honored (buys at or below their limit, sells at or above theirs).
 
-The algorithm accounts for [reference pricing](https://example.com) rules, which typically anchor the uncross price to the last sale price during continuous trading if that price results in better balance between buy and sell interest.
+The algorithm accounts for reference pricing rules, which typically anchor the uncross price to the last sale price during continuous trading if that price results in better balance between buy and sell interest.
 
 **Example**: 
 - Buy orders: 2 million shares at various prices, with 1.5 million willing to pay $80 or more.

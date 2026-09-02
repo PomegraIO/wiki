@@ -75,7 +75,7 @@ Large traders and sophisticated investors have negotiated exemptions. Block trad
 - [Dodd-Frank Act](/wiki/dodd-frank-act/) — mandated OTC derivatives reporting.
 
 ### Wider context
-- [Regulation (Securities Laws)](/wiki/regulation-securities-laws/) — the broader regulatory framework.
+- Regulation (Securities Laws) — the broader regulatory framework.
 - [FINRA](/wiki/finra/) — administrator of US equity trade reporting.
 - [OTC Derivatives](/wiki/over-the-counter-market/) — the asset class with complex reporting.
 

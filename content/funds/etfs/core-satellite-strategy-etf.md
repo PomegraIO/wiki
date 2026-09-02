@@ -100,7 +100,7 @@ The key is discipline: pick satellites with low [expense ratios](/wiki/expense-r
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/diversification/">Diversification</a> — the principle underlying the strategy.</li>
-<li><a href="/wiki/rebalancing/">Asset Rebalancing</a> — maintaining allocations.</li>
+<li>Asset Rebalancing — maintaining allocations.</li>
 <li><a href="/wiki/active-etf/">Active ETF</a> — alternative to satellite factors.</li>
 </ul>
 </div>

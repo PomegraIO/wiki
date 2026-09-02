@@ -9,7 +9,7 @@ keywords:
   - growth fund strategy
 ---
 
-*A **growth fund** allocates capital to equities of companies expected to expand earnings and revenue faster than the overall economy. Growth funds prioritize [capital appreciation](/wiki/capital-appreciation/) over current [dividend income](/wiki/dividend/), betting that stock price increases will deliver superior long-term returns.*
+*A **growth fund** allocates capital to equities of companies expected to expand earnings and revenue faster than the overall economy. Growth funds prioritize capital appreciation over current [dividend income](/wiki/dividend/), betting that stock price increases will deliver superior long-term returns.*
 
 <aside class="wiki-infobox">
 
@@ -52,7 +52,7 @@ Success depends on whether rapid earnings growth translates to returns exceeding
 
 ### Closely related
 - [Growth Investing](/wiki/growth-investing/) — Longer-term buy-and-hold philosophy
-- [Capital Appreciation](/wiki/capital-appreciation/) — The core objective
+- Capital Appreciation — The core objective
 - [Active ETF](/wiki/active-etf/) — Growth delivered through ETF structure
 - [Quality Growth Fund](/wiki/quality-growth-fund/) — Growth with profitability screens
 

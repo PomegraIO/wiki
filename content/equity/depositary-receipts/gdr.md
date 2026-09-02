@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A global depositary receipt (GDR) is a security similar to an [ADR](/equity/adr/) but issued in international markets (London, Luxembourg, etc.) and denominated in currencies other than USD. GDRs allow global investors (outside the US) to hold shares of foreign companies. A company can issue both [ADRs](/equity/adr/) (for the US market) and GDRs (for international markets) simultaneously, broadening its shareholder base across regions.*
+*A global depositary receipt (GDR) is a security similar to an [ADR](/adr/) but issued in international markets (London, Luxembourg, etc.) and denominated in currencies other than USD. GDRs allow global investors (outside the US) to hold shares of foreign companies. A company can issue both [ADRs](/adr/) (for the US market) and GDRs (for international markets) simultaneously, broadening its shareholder base across regions.*
 
 <aside class="wiki-infobox">
 
@@ -45,7 +45,7 @@ Both ADRs and GDRs are depositary receipts representing foreign shares. The diff
 | **Regulatory oversight** | SEC (if exchange-listed) | Local regulators (e.g., FCA for LSE) |
 | **Common use** | Foreign companies accessing US market | Companies accessing multiple international markets |
 
-A company might issue [ADRs](/equity/adr/) for US investors and GDRs for European and Asian investors, broadening the shareholder base globally.
+A company might issue [ADRs](/adr/) for US investors and GDRs for European and Asian investors, broadening the shareholder base globally.
 
 ## GDR structure
 
@@ -73,7 +73,7 @@ A Russian mining company wants to access global capital:
 
 ## GDR levels and regulatory requirements
 
-Similar to [ADRs](/equity/adr/), GDRs have different levels:
+Similar to [ADRs](/adr/), GDRs have different levels:
 
 **Level I (OTC-equivalent)**: Minimal disclosure; limited international trading.
 
@@ -145,18 +145,18 @@ Like ADRs, GDRs can be converted to underlying shares, creating arbitrage opport
 
 ### Closely related
 
-- [ADR](/equity/adr/) — US equivalent
-- [Sponsored ADR](/equity/sponsored-adr/) — similar structure for US
-- [Cross-listing](/equity/adr/) — strategy for global companies
+- [ADR](/adr/) — US equivalent
+- [Sponsored ADR](/sponsored-adr/) — similar structure for US
+- [Cross-listing](/adr/) — strategy for global companies
 - [Stock](/stock/) — underlying security
-- [Currency exchange](/equity/adr/) — affects GDR pricing
+- [Currency exchange](/adr/) — affects GDR pricing
 
 ### Wider context
 
 - [Public company](/public-company/) — foreign issuer
 - [Capital markets](/stock-market/) — international venues for trading
-- [Emerging markets](/equity/gdr/) — primary users
-- [International investing](/equity/adr/) — global access
-- [London Stock Exchange](/equity/gdr/) — common GDR venue
+- [Emerging markets](/gdr/) — primary users
+- [International investing](/adr/) — global access
+- [London Stock Exchange](/gdr/) — common GDR venue
 
 </div>

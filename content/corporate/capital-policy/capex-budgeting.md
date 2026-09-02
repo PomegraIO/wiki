@@ -35,7 +35,7 @@ Most large companies follow a systematic process:
 
 1. **Identification and development**: Business units propose projects. A manufacturing division might propose a new production line; a tech company might propose a data center.
 
-2. **Screening and evaluation**: Finance assesses each project using [Net Present Value](/wiki/discounted-cash-flow-valuation/) (NPV), [Internal Rate of Return](/wiki/irr/) (IRR), or other metrics.
+2. **Screening and evaluation**: Finance assesses each project using [Net Present Value](/wiki/discounted-cash-flow-valuation/) (NPV), Internal Rate of Return (IRR), or other metrics.
 
 3. **Ranking and selection**: Projects are ranked by financial return, strategic fit, and risk. Finance recommends which projects to approve.
 
@@ -47,7 +47,7 @@ Most large companies follow a systematic process:
 
 ## Key evaluation metrics
 
-**Net Present Value (NPV)**: Calculate the present value of all future cash flows from the project, discounted at the [cost of capital](/wiki/cost-of-capital/). Subtract the initial investment. If NPV > 0, the project creates value; if NPV < 0, it destroys value.
+**Net Present Value (NPV)**: Calculate the present value of all future cash flows from the project, discounted at the cost of capital. Subtract the initial investment. If NPV > 0, the project creates value; if NPV < 0, it destroys value.
 
 For example, a $100 million factory investment is expected to generate $30 million annually for 5 years. Using a 10% [discount rate](/wiki/discount-rate/):
 
@@ -55,7 +55,7 @@ NPV = $30M/(1.10) + $30M/(1.10)^2 + ... + $30M/(1.10)^5 - $100M
     = $113.7M - $100M
     = $13.7M (positive, so approve)
 
-**Internal Rate of Return (IRR)**: The discount rate at which NPV = 0. It's the project's "effective return rate." If IRR exceeds the company's [cost of capital](/wiki/cost-of-capital/), the project is acceptable. A factory with an IRR of 12% is attractive if the company's cost of capital is 10% (the company earns 200 basis points extra).
+**Internal Rate of Return (IRR)**: The discount rate at which NPV = 0. It's the project's "effective return rate." If IRR exceeds the company's cost of capital, the project is acceptable. A factory with an IRR of 12% is attractive if the company's cost of capital is 10% (the company earns 200 basis points extra).
 
 **Profitability Index**: NPV divided by initial investment. It measures "bang for the buck." A project with NPV of $10M and initial cost of $50M has a profitability index of 0.2; a project with NPV of $10M and initial cost of $20M has a profitability index of 0.5. When capital is scarce, companies favor high-index projects.
 
@@ -85,12 +85,12 @@ Traditional capital budgeting assumes a static "now or never" decision: invest $
 
 ### Closely related
 - [Discounted Cash Flow Valuation](/wiki/discounted-cash-flow-valuation/) — The NPV methodology for capital projects
-- [Internal Rate of Return](/wiki/irr/) — The return rate metric used in capital budgeting
-- [Cost of Capital](/wiki/cost-of-capital/) — The hurdle rate for project approval
-- [Profitability Index](/wiki/profitability-index/) — A metric for ranking capital projects
+- Internal Rate of Return — The return rate metric used in capital budgeting
+- Cost of Capital — The hurdle rate for project approval
+- Profitability Index — A metric for ranking capital projects
 
 ### Wider context
-- [Capital Structure](/wiki/capital-structure/) — How companies finance CapEx (debt vs. equity)
+- Capital Structure — How companies finance CapEx (debt vs. equity)
 - [Depreciation](/wiki/depreciation/) — How CapEx is expensed over its useful life
 - [Asset Impairment](/wiki/asset-impairment/) — When a capital asset loses value
 - [Real Options Valuation](/wiki/real-options-valuation/) — The value of flexibility in capital projects

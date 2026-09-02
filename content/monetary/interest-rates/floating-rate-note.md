@@ -59,7 +59,7 @@ Because FRNs reset their coupons to market, they are priced very close to par (t
 
 ## FRNs in portfolios
 
-[Fixed-income investors](/wiki/fixed-income-investing/) use FRNs to:
+Fixed-income investors use FRNs to:
 
 - **Hedge [interest-rate risk](/wiki/interest-rate-risk/)**: Balance long-duration fixed-rate bonds with short-duration FRNs.
 - **Maintain yield in rising-rate environments**: FRNs outperform when rates rise.

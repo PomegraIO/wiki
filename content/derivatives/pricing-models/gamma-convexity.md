@@ -70,7 +70,7 @@ Gamma quantifies this curvature. The [option](/wiki/option/) price curve is not 
 
 **In-the-money (ITM) [options](/wiki/option/)**: Lower gamma. The [option](/wiki/option/) behaves more like the underlying stock; [delta](/wiki/delta-option-greeks/) is already close to 1.0 and does not change much with further price moves.
 
-This is why ATM options are more sensitive to realized [volatility](/wiki/volatility-index-futures//) and why traders use ATM straddles (long [call](/wiki/call-option/) + long [put](/wiki/put-option/)) to express a view on [volatility](/wiki/volatility-index-futures/).
+This is why ATM options are more sensitive to realized [volatility](/volatility-index-futures/) and why traders use ATM straddles (long [call](/wiki/call-option/) + long [put](/wiki/put-option/)) to express a view on [volatility](/wiki/volatility-index-futures/).
 
 ## Gamma and time decay: the trader's dilemma
 

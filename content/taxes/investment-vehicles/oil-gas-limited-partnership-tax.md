@@ -41,9 +41,9 @@ A limited partner investing $100,000 in a new well might receive K-1 allocations
 
 ## How intangible drilling costs create the deduction surge
 
-The [Internal Revenue Code](//) defines intangible drilling costs (IDCs) as all expenditures for labour, fuel, hauling, and repairs incident to and necessary for the drilling of an oil or gas well. Crucially, these are *ordinary business expenses*—not capital investments—so the partnership deducts them in the year incurred, not over a depreciation schedule. A well costing $500,000 to drill might allocate $350,000 to IDC (deductible immediately) and $150,000 to tangible costs like equipment (depreciated over five to seven years).
+The Internal Revenue Code defines intangible drilling costs (IDCs) as all expenditures for labour, fuel, hauling, and repairs incident to and necessary for the drilling of an oil or gas well. Crucially, these are *ordinary business expenses*—not capital investments—so the partnership deducts them in the year incurred, not over a depreciation schedule. A well costing $500,000 to drill might allocate $350,000 to IDC (deductible immediately) and $150,000 to tangible costs like equipment (depreciated over five to seven years).
 
-This accelerated deduction mirrors [bonus depreciation](/accumulated-depreciation/) in real estate but operates faster because IDCs are not subject to a [useful life](//). The statute deliberately front-loads deductions to encourage capital formation in an extractive industry dependent on high upfront exploration costs.
+This accelerated deduction mirrors [bonus depreciation](/accumulated-depreciation/) in real estate but operates faster because IDCs are not subject to a useful life. The statute deliberately front-loads deductions to encourage capital formation in an extractive industry dependent on high upfront exploration costs.
 
 ## Percentage depletion as a second-order shelter
 
@@ -53,7 +53,7 @@ The policy rationale—compensating investors for the depleting resource—means
 
 ## Passive activity loss limitations and their effect
 
-Partnership losses from oil and gas wells are [passive activity losses](//)—not active business losses—so they offset only passive activity income (rental property, other partnerships, publicly traded partnership distributions). A surgeon with $300,000 of W-2 income and $80,000 of oil partnership losses cannot use the losses to offset wage income; the losses carry forward to years with passive gains or until the partnership is disposed of.
+Partnership losses from oil and gas wells are passive activity losses—not active business losses—so they offset only passive activity income (rental property, other partnerships, publicly traded partnership distributions). A surgeon with $300,000 of W-2 income and $80,000 of oil partnership losses cannot use the losses to offset wage income; the losses carry forward to years with passive gains or until the partnership is disposed of.
 
 However, there is a narrow exception: if the partner "materially participates" in oil and gas operations, the loss becomes non-passive. This is rare for limited partners, who by definition are passive. The IRC also permits real-estate professionals and a small class of oil-and-gas professionals to treat these losses as active, but the definitions are narrow.
 
@@ -78,15 +78,15 @@ The partnership agreement typically sets the general partner's [fee](/management
 ### Closely related
 
 - [Spousal Lifetime Access Trust](/spousal-lifetime-access-trust/) — another high-wealth tax structure for deferring and transferring income
-- [Passive loss deduction](//) — the limitation that restricts use of oil partnership losses to passive income
+- Passive loss deduction — the limitation that restricts use of oil partnership losses to passive income
 - [Depreciation-Recapture (Investor)](/depreciation-recapture-investor/) — taxing of previously deducted amounts when assets are sold
 - [Real Estate Investment Trust](/real-estate-investment-trust/) — a comparable pass-through structure for real property income
 - [Pooled Income Fund](/pooled-income-fund/) — a charitable alternative that also offers deduction acceleration
-- [Entity taxed as partnership](//) — how partnerships achieve flow-through treatment avoiding entity-level tax
+- Entity taxed as partnership — how partnerships achieve flow-through treatment avoiding entity-level tax
 
 ### Wider context
 
-- [Passive activity loss](//) — the broader tax regime limiting deductions based on investor status
+- Passive activity loss — the broader tax regime limiting deductions based on investor status
 - [Leverage Ratio (Forex)](/leverage-ratio-forex/) — how partnerships use leverage to amplify return on capital
 - [Cost Basis](/cost-basis/) — the foundational calculation for measuring gain and loss at sale
 - [Intangible Assets](/intangible-assets/) — accounting and tax treatment of non-physical investments

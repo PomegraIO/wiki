@@ -59,7 +59,7 @@ When the founder transfers Class B shares (either during lifetime or in a will),
 
 While voting rights differ across classes, economic rights are typically identical: all classes share in dividends at the same rate per share, and in liquidation all common shares (across all classes) are equal per share. The separation is purely about votes, not money.
 
-In some structures, Class A is [convertible](/equity/convertible-preferred/) to Class B (one-for-one) at the holder's option. This is rare. More commonly, Class B converts to Class A upon transfer (e.g., if the founder sells or gifts Class B shares to a non-affiliate, they convert to Class A). This is a mechanism to keep voting control within the family or founders.
+In some structures, Class A is [convertible](/convertible-preferred/) to Class B (one-for-one) at the holder's option. This is rare. More commonly, Class B converts to Class A upon transfer (e.g., if the founder sells or gifts Class B shares to a non-affiliate, they convert to Class A). This is a mechanism to keep voting control within the family or founders.
 
 ## Criticism and regulatory scrutiny
 
@@ -69,7 +69,7 @@ Advocates argue that founder control enables long-term thinking: the founder doe
 
 ## Comparing to other ways to retain control
 
-[Dual-class shares](/equity/dual-class-shares/) (a subset of multi-class) are the most common form. Alternatively, a founder can retain a majority voting stake in a single-class public company without going public, or can go public but issue a minority of shares. The downside of those approaches is reduced liquidity and a smaller public float.
+[Dual-class shares](/dual-class-shares/) (a subset of multi-class) are the most common form. Alternatively, a founder can retain a majority voting stake in a single-class public company without going public, or can go public but issue a minority of shares. The downside of those approaches is reduced liquidity and a smaller public float.
 
 ## Practical considerations for investors
 
@@ -79,18 +79,18 @@ Most retail investors own Class A (low-vote) shares and have no voting power in 
 
 ### Closely related
 
-- [Dual-class shares](/equity/dual-class-shares/) — the most common two-class structure
-- [Non-voting shares](/equity/non-voting-shares/) — shares with no voting rights
-- [Founder shares](/equity/founder-shares/) — high-vote shares held by founders
-- [Common stock](/equity/common-stock/) — the default single-class equity
-- [Preferred stock](/equity/preferred-stock/) — another way to create different investor classes
+- [Dual-class shares](/dual-class-shares/) — the most common two-class structure
+- [Non-voting shares](/non-voting-shares/) — shares with no voting rights
+- [Founder shares](/founder-shares/) — high-vote shares held by founders
+- [Common stock](/common-stock/) — the default single-class equity
+- [Preferred stock](/preferred-stock/) — another way to create different investor classes
 
 ### Wider context
 
 - [Public company](/public-company/) — issues and manages share classes
 - [Stock market](/stock-market/) — where classes trade
-- [Voting](/equity/dual-class-shares/) — the distinguishing feature
-- [Governance](/equity/founder-shares/) — issues of control and accountability
+- [Voting](/dual-class-shares/) — the distinguishing feature
+- [Governance](/founder-shares/) — issues of control and accountability
 - [Initial public offering](/initial-public-offering/) — where share class structure is determined
 
 </div>

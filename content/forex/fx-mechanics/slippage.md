@@ -11,7 +11,7 @@ keywords:
 *[**Slippage**](/wiki/slippage-management/) is the gap between the price a trader intends to enter or exit a trade and the actual price at which an order executes. It arises from three sources: [bid-ask spreads](/wiki/bid-ask-spread/), market impact of the order itself, and adverse price moves during the execution window.*
 
 <div class="wiki-hatnote">
-Distinct from [commission](/wiki/trading-commissions/) (explicit broker fees) or [market impact](/wiki/market-impact-cost/), slippage measures the quality of price discovery and execution timing.
+Distinct from commission (explicit broker fees) or [market impact](/wiki/market-impact-cost/), slippage measures the quality of price discovery and execution timing.
 </div>
 
 <aside class="wiki-infobox">

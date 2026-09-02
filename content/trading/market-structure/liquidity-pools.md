@@ -88,7 +88,7 @@ This is why [high-frequency traders](/wiki/high-frequency-trading/) and [market 
 <h2>See also</h2>
 <h3>Closely related</h3>
 <ul>
-  <li><a href="/wiki/order-book/">Order book</a> — displays liquidity pools at each price level.</li>
+  <li>Order book — displays liquidity pools at each price level.</li>
   <li><a href="/wiki/bid-ask-spread/">Bid-ask spread</a> — width of the liquidity pool.</li>
   <li><a href="/wiki/dark-pools/">Dark pools</a> — advertise liquidity pools away from exchanges.</li>
 </ul>

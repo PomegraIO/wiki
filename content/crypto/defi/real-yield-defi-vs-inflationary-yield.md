@@ -144,13 +144,13 @@ The DeFi protocols that survive the next bear market will be those where you can
 - [DeFi liquidation penalty explained](/defi-liquidation-penalty-explained/) — one source of real protocol revenue
 - [Health factor in DeFi borrowing](/health-factor-defi-borrowing/) — collateral metrics that underpin lending protocol economics
 - [Cryptocurrency exchange](/cryptocurrency-exchange/) — decentralized exchange mechanisms and fee structures
-- [Yield](/—/) — the general concept of returns on capital
+- Yield — the general concept of returns on capital
 
 ### Wider context
 
 - [Blockchain fundamentals](/blockchain-fundamentals/) — underlying token mechanics
 - [Proof of stake](/proof-of-stake/) — another inflation context (staking rewards)
 - [Inflation](/inflation/) — broader economic concept of money/token supply growth
-- [Token economics](/—/) — governance and incentive design
+- Token economics — governance and incentive design
 
 </div>

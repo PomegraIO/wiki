@@ -11,7 +11,7 @@ keywords:
 *[**Service sector output**](/wiki/service-sector-output/) encompasses production and delivery of intangible goods and activities: healthcare, financial services, hospitality, transportation, entertainment, education, telecommunications, and professional services (consulting, legal, accounting). In developed economies, the service sector represents 60–80% of GDP, making it the dominant component of output and employment.*
 
 <div class="wiki-hatnote">
-Distinct from [manufacturing](/wiki/production/) (secondary sector) and [agriculture](/wiki/agricultural-futures-basis/) (primary sector); services are sometimes called the "tertiary" or "quaternary" economy.
+Distinct from manufacturing (secondary sector) and [agriculture](/wiki/agricultural-futures-basis/) (primary sector); services are sometimes called the "tertiary" or "quaternary" economy.
 </div>
 
 <aside class="wiki-infobox">
@@ -63,7 +63,7 @@ In the 2021-2023 inflation episode, service-sector wage growth and prices proved
 
 Financial services output is particularly ambiguous. How much output does a bank produce? Is it the volume of loans made, the spread between lending and borrowing rates, the value of advisory fees? Or should output be measured by the risk-management and intermediation value provided?
 
-Before the 2008 financial crisis, [NIPA](/wiki/national-income-and-product-accounts/) accounting measured financial-services output using the spread method: the difference between lending rates and funding costs. When credit [spreads](/wiki/credit-spread/) widened during booms (low-risk lending easy, banks charge fat spreads), measured financial-services output soared. This created an illusion of productivity during the credit bubble—financial services were growing rapidly as a sector, but much of the "growth" was compensation for risk-taking, not genuine productivity.
+Before the 2008 financial crisis, NIPA accounting measured financial-services output using the spread method: the difference between lending rates and funding costs. When credit [spreads](/wiki/credit-spread/) widened during booms (low-risk lending easy, banks charge fat spreads), measured financial-services output soared. This created an illusion of productivity during the credit bubble—financial services were growing rapidly as a sector, but much of the "growth" was compensation for risk-taking, not genuine productivity.
 
 After the crisis, measurement methodologies were revised, showing that financial services output had been overstated. This had spillover effects on [GDP](/wiki/gross-domestic-product/) estimates for that era.
 
@@ -79,7 +79,7 @@ Furthermore, much healthcare spending goes to end-of-life care with limited qual
 
 Tourism and hospitality are major service-sector components in many economies. A country's output from tourism is the spending of foreign visitors minus the cost of delivering that service. During the COVID-19 pandemic, tourism-dependent economies (Spain, Greece, Jamaica) saw service-sector output collapse sharply as international travel stopped. The recovery has been gradual and incomplete in many cases.
 
-This sector exhibits high cyclicality: tourism is discretionary spending, highly sensitive to [confidence](/wiki/fear-and-greed-cycles/) and [exchange rates](/wiki/real-exchange-rate/). [Currency appreciation](/wiki/currency-appreciation/) makes a destination more expensive for foreign visitors, reducing service-sector output. During [recessions](/wiki/recession/), domestic travel declines sharply.
+This sector exhibits high cyclicality: tourism is discretionary spending, highly sensitive to [confidence](/wiki/fear-and-greed-cycles/) and [exchange rates](/wiki/real-exchange-rate/). Currency appreciation makes a destination more expensive for foreign visitors, reducing service-sector output. During [recessions](/wiki/recession/), domestic travel declines sharply.
 
 ## Professional and business services
 
@@ -106,7 +106,7 @@ Additionally, the service sector's high employment concentration means service-s
 ### Wider context
 - [Inflation](/wiki/inflation/) — Service inflation persistence
 - [Healthcare Reit](/wiki/healthcare-reit/) — Real estate supporting healthcare services
-- [Tourism](/wiki/hospitality-reit/) — Travel and hospitality output
+- Tourism — Travel and hospitality output
 - [Monetary Policy Transmission](/wiki/monetary-transmission-mechanism/) — How policy affects service demand
 
 </div>

@@ -40,7 +40,7 @@ For the comparable measure on asset values rather than income, see [Overcollater
 
 ## Why income coverage matters separately from asset value
 
-A CLO's [cash waterfall](//) has two distinct pillars: **assets** (the collateral pool's total value) and **income** (the interest and principal flowing in each period). The [overcollateralization test](/over-collateralization-test/) guards the first; the interest coverage test guards the second.
+A CLO's cash waterfall has two distinct pillars: **assets** (the collateral pool's total value) and **income** (the interest and principal flowing in each period). The [overcollateralization test](/over-collateralization-test/) guards the first; the interest coverage test guards the second.
 
 The distinction is crucial. A portfolio can be adequately overcollateralized on par value—the loans are still worth enough to cover senior debt—yet produce insufficient interest income to pay senior coupons on time. This happens when borrowers downgrade, [credit spreads](/credit-spread/) spike, or [floating-rate loans](/interest-rate/) reset downward in a lower-[interest-rate](/interest-rate/) environment. The underlying assets haven't defaulted, but the cash they generate has thinned.
 
@@ -76,7 +76,7 @@ A [collateral manager](/collateral-manager/) monitoring the IC ratio constantly 
 
 3. **Manage [floating-rate](/interest-rate/) exposure**. Many CLO loans have [floating-rate](/interest-rate/) coupons tied to [SOFR](/sofr/) or other benchmarks. In a falling-rate environment, the manager may hedge or shorten duration to preserve income. Conversely, in a rising-rate environment, floating-rate collateral becomes more valuable.
 
-4. **Monitor [credit quality](/credit-rating/)**. If the collateral's [credit ratings](/credit-rating/) slip, [default rates](/default-rate/) may rise and interest collections may shrink. Proactive position-trimming and early [distressed selling](//) can prevent wholesale portfolio deterioration.
+4. **Monitor [credit quality](/credit-rating/)**. If the collateral's [credit ratings](/credit-rating/) slip, [default rates](/default-rate/) may rise and interest collections may shrink. Proactive position-trimming and early distressed selling can prevent wholesale portfolio deterioration.
 
 The [collateral manager](/collateral-manager/)'s fee is often tied to fund [net asset value](/net-asset-value/) or performance, so breaches hurt the manager's bottom line. This aligns incentives: the manager is motivated to keep the IC and OC ratios healthy.
 
@@ -107,7 +107,7 @@ For [collateral managers](/collateral-manager/), the IC test is an ever-present 
 - [Reinvestment Period](/reinvestment-period/) — window when manager can swap positions to improve income generation
 - [Coupon Payment](/coupon-payment/) — senior obligations that the IC test measures against
 - [Credit Rating](/credit-rating/) — portfolio credit quality drives interest collections and default rates
-- [Cash Waterfall](//) — payment sequence through tranches; IC breach redirects flows to senior notes
+- Cash Waterfall — payment sequence through tranches; IC breach redirects flows to senior notes
 - [Floating-Rate Loan](/interest-rate/) — collateral exposure that managers hedge to protect interest income
 
 ### Wider context

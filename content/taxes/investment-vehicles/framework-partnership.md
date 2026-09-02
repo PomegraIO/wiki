@@ -63,14 +63,14 @@ Partnerships can terminate when the partnership term ends or when a partner dies
 
 ### Closely related
 - [Partnership Agreement](/wiki/going-private-transaction/) — The governing document
-- [Pass-Through Taxation](/wiki/partnerships-tax-treatment/) — The tax structure
+- Pass-Through Taxation — The tax structure
 - [Accredited Investor](/wiki/accredited-investor/) — Typical requirement for limited partners
-- [Limited Partnership](/wiki/limited-partnership-structure/) — The most common investment partnership form
+- Limited Partnership — The most common investment partnership form
 
 ### Wider context
 - [Investment Structure](/wiki/private-equity-fund/) — Broader category of investment entities
 - [Tax Planning](/wiki/effective-tax-rate-investor/) — The tax efficiency benefit
-- [Entity Selection](/wiki/business-structure-choice/) — Choosing among partnership, LLC, corporation
+- Entity Selection — Choosing among partnership, LLC, corporation
 - [Joint Investment](/wiki/joint-cost-allocation/) — The economics of co-investing
 
 </div>

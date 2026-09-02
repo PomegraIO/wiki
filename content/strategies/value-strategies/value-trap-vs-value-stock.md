@@ -9,7 +9,7 @@ keywords:
 image: /svg/strategies.svg
 ---
 
-*A **value trap** is a stock that trades at a low [price-to-earnings ratio](/link/price-to-earnings-ratio/), a depressed book value, or a high dividend yield—and appears cheap—but is actually expensive because the business is shrinking or broken. A genuine **value stock** is cheap because the market is temporarily pessimistic about a fundamentally sound company. The distinction is crucial: investing in the former destroys capital; investing in the latter builds it.*
+*A **value trap** is a stock that trades at a low [price-to-earnings ratio](/price-to-earnings-ratio/), a depressed book value, or a high dividend yield—and appears cheap—but is actually expensive because the business is shrinking or broken. A genuine **value stock** is cheap because the market is temporarily pessimistic about a fundamentally sound company. The distinction is crucial: investing in the former destroys capital; investing in the latter builds it.*
 
 <aside class="wiki-infobox">
 
@@ -25,14 +25,14 @@ image: /svg/strategies.svg
 | **Value stock** | A cheap stock with stable/improving fundamentals; likely to recover or pay dividends |
 | **Valuation metric confusion** | Low P/E alone is not enough to confirm either diagnosis |
 | **Key warning signs** | Falling revenue, margin compression, excess debt, management turnover, competitive loss |
-| **Confirmatory signals** | Stable [free cash flow](/link/free-cash-flow/), [return on equity](/link/return-on-equity/), customer retention, pricing power |
+| **Confirmatory signals** | Stable [free cash flow](/free-cash-flow/), [return on equity](/return-on-equity/), customer retention, pricing power |
 | **Time horizon** | A value trap can take years to resolve; patience is dangerous |
 
 </aside>
 
 ## The Seductive Nature of Low Multiples
 
-A stock trading at 6× [earnings](/link/earnings-per-share/) while the market averages 18× looks obviously cheap. A company with a dividend yield of 8% when [Treasury bonds](/link/treasury-bond/) yield 4% seems like an obvious buy. A [price-to-book ratio](/link/price-to-book-ratio/) of 0.6 suggests the market is giving away assets for half their accounting value.
+A stock trading at 6× [earnings](/earnings-per-share/) while the market averages 18× looks obviously cheap. A company with a dividend yield of 8% when [Treasury bonds](/treasury-bond/) yield 4% seems like an obvious buy. A [price-to-book ratio](/price-to-book-ratio/) of 0.6 suggests the market is giving away assets for half their accounting value.
 
 These metrics draw value investors like moths to flame. The logic is straightforward: if you buy $1 of assets or earnings for 50 cents, you have a margin of safety. Over time, the market will correct the mispricing and the stock will recover.
 
@@ -60,15 +60,15 @@ If a stock once paid a 2% yield and now yields 6%, one of three things is true:
 2. The stock price fell and the company raised the dividend to prop up the stock price or support a strategic narrative (a sign of denial; often precedes a dividend cut).
 3. The stock price fell because the market doubts the dividend is sustainable (a value trap).
 
-Distinguishing these requires looking beyond the yield to the **dividend payout ratio** and [free cash flow](/link/free-cash-flow/). If the company is paying out 120% of earnings as dividends, or if [free cash flow](/link/free-cash-flow/) is negative, the dividend is not sustainable. A cut or suspension is likely, and the stock will likely fall further on the news.
+Distinguishing these requires looking beyond the yield to the **dividend payout ratio** and [free cash flow](/free-cash-flow/). If the company is paying out 120% of earnings as dividends, or if [free cash flow](/free-cash-flow/) is negative, the dividend is not sustainable. A cut or suspension is likely, and the stock will likely fall further on the news.
 
-A genuine value stock with a high yield is one where the payout ratio is historically normal or even below normal (meaning the dividend is secure), and [free cash flow](/link/free-cash-flow/) covers the distribution comfortably. The high yield is simply the market's temporary despair, not a warning of unsustainability.
+A genuine value stock with a high yield is one where the payout ratio is historically normal or even below normal (meaning the dividend is secure), and [free cash flow](/free-cash-flow/) covers the distribution comfortably. The high yield is simply the market's temporary despair, not a warning of unsustainability.
 
 ## Balance Sheet and Debt Burden
 
 A value trap often wears its broken balance sheet plainly: rising debt, declining interest coverage, and eroding equity.
 
-A company in true financial distress has likely been burning cash to fund operations or pay dividends. Its [debt-to-equity ratio](/link/debt-to-equity-ratio/) has crept upward, and its [interest coverage ratio](/link/interest-coverage-ratio/) (earnings divided by interest expense) has fallen. When a downturn hits, refinancing becomes difficult, and the company may face a debt restructuring or bankruptcy.
+A company in true financial distress has likely been burning cash to fund operations or pay dividends. Its [debt-to-equity ratio](/debt-to-equity-ratio/) has crept upward, and its [interest coverage ratio](/interest-coverage-ratio/) (earnings divided by interest expense) has fallen. When a downturn hits, refinancing becomes difficult, and the company may face a debt restructuring or bankruptcy.
 
 Conversely, a genuine value stock has a fortress balance sheet: low debt, strong liquidity, and the ability to weather downturns. Even if earnings are depressed, the company has the financial muscle to survive, pivot, and eventually return to growth.
 
@@ -115,9 +115,9 @@ This is why **opportunity cost** matters. Even if you are confident a value trap
 
 Consider two retailers, each trading at 5× earnings after a poor earnings season.
 
-**Company A**: Revenue has fallen from $5 billion five years ago to $3 billion today. [Operating margins](/link/operating-margin/) have contracted from 8% to 3%. Debt has tripled. The CEO announced a "strategic review." Comparable-store sales have fallen for eight consecutive quarters. Dividend payout ratio is 80% and climbing. This is a value trap.
+**Company A**: Revenue has fallen from $5 billion five years ago to $3 billion today. [Operating margins](/operating-margin/) have contracted from 8% to 3%. Debt has tripled. The CEO announced a "strategic review." Comparable-store sales have fallen for eight consecutive quarters. Dividend payout ratio is 80% and climbing. This is a value trap.
 
-**Company B**: Revenue is flat at $2 billion, down from a peak of $2.2 billion three years ago. But cost-cutting has restored [operating margins](/link/operating-margin/) to 6% (from a low of 4%). Debt is declining. New management hired an innovative merchant. Customer surveys show improving satisfaction. Comp sales turned positive last quarter. Dividend payout ratio is 40%. This is a value stock.
+**Company B**: Revenue is flat at $2 billion, down from a peak of $2.2 billion three years ago. But cost-cutting has restored [operating margins](/operating-margin/) to 6% (from a low of 4%). Debt is declining. New management hired an innovative merchant. Customer surveys show improving satisfaction. Comp sales turned positive last quarter. Dividend payout ratio is 40%. This is a value stock.
 
 Both trade at 5× earnings. Both have fallen sharply. But Company B has the fundamentals to recover; Company A is a slow-motion train wreck.
 
@@ -127,20 +127,20 @@ Both trade at 5× earnings. Both have fallen sharply. But Company B has the fund
 
 ### Closely related
 
-- [Value Investing](/link/value-investing/) — the strategy of buying undervalued stocks
-- [Price-to-Earnings Ratio](/link/price-to-earnings-ratio/) — a key valuation metric, easily misinterpreted
-- [Return on Equity](/link/return-on-equity/) — a measure of profitability that distinguishes sound businesses from broken ones
-- [Free Cash Flow](/link/free-cash-flow/) — reveals whether a company can sustain dividends and investments
-- [Price-to-Book Ratio](/link/price-to-book-ratio/) — another valuation metric vulnerable to value trap illusions
-- [Dividend Yield](/link/dividend-yield/) — an alluring metric that can mask danger
-- [Debt-to-Equity Ratio](/link/debt-to-equity-ratio/) — a key balance sheet signal
+- [Value Investing](/value-investing/) — the strategy of buying undervalued stocks
+- [Price-to-Earnings Ratio](/price-to-earnings-ratio/) — a key valuation metric, easily misinterpreted
+- [Return on Equity](/return-on-equity/) — a measure of profitability that distinguishes sound businesses from broken ones
+- [Free Cash Flow](/free-cash-flow/) — reveals whether a company can sustain dividends and investments
+- [Price-to-Book Ratio](/price-to-book-ratio/) — another valuation metric vulnerable to value trap illusions
+- [Dividend Yield](/dividend-yield/) — an alluring metric that can mask danger
+- [Debt-to-Equity Ratio](/debt-to-equity-ratio/) — a key balance sheet signal
 
 ### Wider context
 
-- [Intrinsic Value](/link/intrinsic-value/) — the true value a company should trade at
-- [Relative Valuation](/link/relative-valuation/) — comparing valuations across companies
-- [Market Timing](/link/market-timing/) — the pitfall of buying into falling markets
-- [Overconfidence Bias](/link/overconfidence-bias/) — the psychological trap of assuming you spot opportunity others miss
-- [Recession](/link/recession/) — when value traps and value stocks are often confused
+- [Intrinsic Value](/intrinsic-value/) — the true value a company should trade at
+- [Relative Valuation](/relative-valuation/) — comparing valuations across companies
+- [Market Timing](/market-timing/) — the pitfall of buying into falling markets
+- [Overconfidence Bias](/overconfidence-bias/) — the psychological trap of assuming you spot opportunity others miss
+- [Recession](/recession/) — when value traps and value stocks are often confused
 
 </div>

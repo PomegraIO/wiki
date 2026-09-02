@@ -11,7 +11,7 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*The **audit risk model** is the mathematical relationship auditors use to express how [inherent risk](/audit-risk-model/#inherent-risk), control risk, and detection risk combine to create overall audit risk. It formalizes the logic: the worse the client's business and controls, the harder an auditor must work to catch misstatements.*
+*The **audit risk model** is the mathematical relationship auditors use to express how inherent risk, control risk, and detection risk combine to create overall audit risk. It formalizes the logic: the worse the client's business and controls, the harder an auditor must work to catch misstatements.*
 
 ## What the model says
 

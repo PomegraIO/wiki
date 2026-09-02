@@ -82,7 +82,7 @@ Remove any of these conditions—add opacity, add friction, concentrate power in
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — overview of the entire asset class, of which price discovery is a core function.</li>
+<li>Derivatives — overview of the entire asset class, of which price discovery is a core function.</li>
 <li><a href="/wiki/market-capitalization/">Market capitalization</a> — similar price-discovery role in equity markets.</li>
 </ul>
 </div>

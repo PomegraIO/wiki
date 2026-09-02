@@ -99,14 +99,14 @@ A [US-registered mutual fund](/wiki/mutual-fund/) is a **registered investment c
 ### Tax-opaque funds (offshore model)
 A Luxembourg or Irish fund typically does not file tax returns itself (in those jurisdictions). The fund structure is "tax transparent" in the domicile—meaning the domicile doesn't tax it—but non-residents investing in the fund face **withholding taxes** on dividend and interest income.
 
-Example: A US investor in a Luxembourg bond fund receives distributions. Luxembourg withholds 15% on interest under [treaty](/wiki/tariff/) rules, sending the remainder to the investor. The investor reports the net distribution on their US return (or claims a foreign tax credit for the withheld amount).
+Example: A US investor in a Luxembourg bond fund receives distributions. Luxembourg withholds 15% on interest under treaty rules, sending the remainder to the investor. The investor reports the net distribution on their US return (or claims a foreign tax credit for the withheld amount).
 
 **Benefit:** Lower domicile-level friction for global capital pools.
 
 **Drawback:** Multiple withholding jurisdictions and complex tax return filings for US investors.
 
 ### UCITS tax pass-through
-[UCITS funds](/wiki/ucits/) marketed in Europe often include equalization mechanisms: dividends and interest are taxed at domicile level but investors receive adjustments based on their purchase date. This avoids the **dividend surprise** (buying into a fund just before a large distribution).
+UCITS funds marketed in Europe often include equalization mechanisms: dividends and interest are taxed at domicile level but investors receive adjustments based on their purchase date. This avoids the **dividend surprise** (buying into a fund just before a large distribution).
 
 ## Fund structure and domicile interaction
 
@@ -149,7 +149,7 @@ When it happens, it's usually because a fund is being consolidated into a larger
 ## Practical impacts for investors
 
 ### Witholding taxes
-Investors in overseas funds face withholding taxes on distributions. The effective rate depends on domicile and [treaty](/wiki/tariff/) status. A US investor in a Luxembourg fund holding US stocks sees 15% withholding on US dividend income (US-Luxembourg treaty); in an Ireland fund, also 15% (US-Ireland treaty).
+Investors in overseas funds face withholding taxes on distributions. The effective rate depends on domicile and treaty status. A US investor in a Luxembourg fund holding US stocks sees 15% withholding on US dividend income (US-Luxembourg treaty); in an Ireland fund, also 15% (US-Ireland treaty).
 
 ### Reporting complexity
 UCITS funds marketed in the EU provide standardized KIID (Key Investor Information Document) and may avoid local fund registration, simplifying disclosures. US-registered funds must file with the SEC, creating US tax reporting complexity even for non-US investors.
@@ -159,7 +159,7 @@ Some offshore funds require high minimums ($100k+); US-registered retail funds o
 
 ## The role of tax treaties
 
-[Tax treaties](/wiki/tariff/) between countries determine withholding rates on dividends, interest, and capital gains. Domicile affects which treaty applies.
+Tax treaties between countries determine withholding rates on dividends, interest, and capital gains. Domicile affects which treaty applies.
 
 Example: A fund domiciled in Ireland (vs. Luxembourg) holding Japanese stocks benefits from the Ireland-Japan treaty's dividend withholding rate. If the rates differ, the choice of domicile materially affects net returns.
 
@@ -168,12 +168,12 @@ Example: A fund domiciled in Ireland (vs. Luxembourg) holding Japanese stocks be
 ### Closely related
 - [Fund structure](/wiki/collective-investment-scheme/) — domicile's role in legal setup
 - [Actively managed fund](/wiki/actively-managed-fund/) — fund type, independent of domicile
-- [UCITS](/wiki/ucits/) — regulatory framework for domiciles
+- UCITS — regulatory framework for domiciles
 - [Mutual fund](/wiki/mutual-fund/) — US-specific domicile example
 
 ### Wider context
 - [Fund accounting](/wiki/fund-accounting/) — domicile affects accounting rules
-- [Tax treaties](/wiki/tariff/) — withholding implications
+- Tax treaties — withholding implications
 - [Regulatory frameworks](/wiki/financial-regulation-and-supervision/) — domicile's governance
 - [Custodian](/wiki/custodian/) — distinct from domicile
 

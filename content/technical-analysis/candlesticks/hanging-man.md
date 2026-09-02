@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **hanging man** is a single-candle pattern that is identical in shape to the [hammer](/technical-analysis/hammer-candle) — a small body with a long lower wick — but occurs in a completely different context: at the top of an uptrend rather than at the bottom of a downtrend. The interpretation is bearish: even though the price bounced off the lower wick, it is now at the end of an upward move, and that bounce in an overbought market signals weakness, not strength. The name evokes the disturbing image of a body hanging from a rope, symbolizing a downtrend to come.*
+*A **hanging man** is a single-candle pattern that is identical in shape to the [hammer](/hammer-candle/) — a small body with a long lower wick — but occurs in a completely different context: at the top of an uptrend rather than at the bottom of a downtrend. The interpretation is bearish: even though the price bounced off the lower wick, it is now at the end of an upward move, and that bounce in an overbought market signals weakness, not strength. The name evokes the disturbing image of a body hanging from a rope, symbolizing a downtrend to come.*
 
 <div class="wiki-hatnote">
 
-The hanging man and hammer are the same shape; only context differs. For the bullish version, see [hammer](/technical-analysis/hammer-candle). For single-candle patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern).
+The hanging man and hammer are the same shape; only context differs. For the bullish version, see [hammer](/hammer-candle/). For single-candle patterns broadly, see [candlestick pattern](/candlestick-pattern/).
 
 </div>
 
@@ -80,7 +80,7 @@ The pattern remains popular in trading education and practitioner literature, li
 
 A common approach is to wait for the hanging man to be confirmed by a subsequent close below the hanging man's open or body. Some traders use it as a warning signal to exit long positions or reduce exposure rather than as an immediate short signal. Others place a short entry above the hanging man (betting on a breakout from resistance) and use a stop-loss above the high of the hanging man.
 
-As with most candlestick patterns, the key is avoiding overconfidence. The hanging man is one signal among many; it should be corroborated by [support and resistance](/technical-analysis/support-and-resistance) levels, volume analysis, [moving averages](/technical-analysis/simple-moving-average), and broader trend assessment.
+As with most candlestick patterns, the key is avoiding overconfidence. The hanging man is one signal among many; it should be corroborated by [support and resistance](/support-and-resistance/) levels, volume analysis, [moving averages](/simple-moving-average/), and broader trend assessment.
 
 ## See also
 
@@ -88,21 +88,21 @@ As with most candlestick patterns, the key is avoiding overconfidence. The hangi
 
 ### Related reversals
 
-- [Hammer](/technical-analysis/hammer-candle) — bullish version, same shape different context
-- [Shooting star](/technical-analysis/shooting-star) — upper wick bearish reversal
-- [Doji](/technical-analysis/doji) — indecision with balanced wicks
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader pattern framework
+- [Hammer](/hammer-candle/) — bullish version, same shape different context
+- [Shooting star](/shooting-star/) — upper wick bearish reversal
+- [Doji](/doji/) — indecision with balanced wicks
+- [Candlestick pattern](/candlestick-pattern/) — broader pattern framework
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — key levels for confirmation
-- [Trendline](/technical-analysis/trendline) — identifying uptrend exhaustion
-- [Candlestick chart](/technical-analysis/candlestick-chart) — the display format
+- [Support and resistance](/support-and-resistance/) — key levels for confirmation
+- [Trendline](/trendline/) — identifying uptrend exhaustion
+- [Candlestick chart](/candlestick-chart/) — the display format
 
 ### Confirmation signals
 
-- [Moving average](/technical-analysis/simple-moving-average) — resistance levels to break
-- [Volume](/technical-analysis/on-balance-volume) — strength of the reversal
-- [Relative strength index](/technical-analysis/relative-strength-index) — overbought confirmation
+- [Moving average](/simple-moving-average/) — resistance levels to break
+- [Volume](/on-balance-volume/) — strength of the reversal
+- Relative strength index — overbought confirmation
 
 </div>

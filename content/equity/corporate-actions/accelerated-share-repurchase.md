@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*An accelerated share repurchase (ASR) is a structured transaction between a company and an investment bank in which the bank buys a large block of the company's shares in the open market or borrows shares, and immediately delivers them to the company for its [treasury](/equity/treasury-stock/). The company then pays the bank over time or the bank hedges its position. ASRs allow companies to execute large [buyback](/equity/share-buyback/) programs quickly without moving the market price as much as gradual open-market repurchases would.*
+*An accelerated share repurchase (ASR) is a structured transaction between a company and an investment bank in which the bank buys a large block of the company's shares in the open market or borrows shares, and immediately delivers them to the company for its [treasury](/treasury-stock/). The company then pays the bank over time or the bank hedges its position. ASRs allow companies to execute large [buyback](/share-buyback/) programs quickly without moving the market price as much as gradual open-market repurchases would.*
 
 <aside class="wiki-infobox">
 
@@ -35,13 +35,13 @@ image: "/svg/equity.svg"
 
 ## How an ASR works
 
-A company with a $5 billion [share buyback](/equity/share-buyback/) program wants to execute $1 billion of the repurchase quickly. Rather than buying gradually over months (which might move the market), the company engages an investment bank:
+A company with a $5 billion [share buyback](/share-buyback/) program wants to execute $1 billion of the repurchase quickly. Rather than buying gradually over months (which might move the market), the company engages an investment bank:
 
 1. **Bank buys or borrows shares**: The bank buys 100 million shares in the open market (or borrows them if a short ASR) at an average price of $100.
 
 2. **Immediate delivery**: The bank delivers 100 million shares to the company immediately.
 
-3. **Company records [treasury stock](/equity/treasury-stock/)**: The company records 100 million shares as treasury stock on its balance sheet.
+3. **Company records [treasury stock](/treasury-stock/)**: The company records 100 million shares as treasury stock on its balance sheet.
 
 4. **Deferred settlement**: The company agrees to pay the bank over the next 30–90 days. Alternatively, the bank may hedge the position by shorting stock or using derivatives, and the company pays a fixed or variable price later.
 
@@ -114,18 +114,18 @@ ASRs became less common after the 2008 financial crisis but have resurged as lar
 
 ### Closely related
 
-- [Share buyback](/equity/share-buyback/) — the buyback program being accelerated
-- [Treasury stock](/equity/treasury-stock/) — the result of ASR
-- [Dutch auction tender](/equity/dutch-auction-tender/) — alternative tender structure
+- [Share buyback](/share-buyback/) — the buyback program being accelerated
+- [Treasury stock](/treasury-stock/) — the result of ASR
+- [Dutch auction tender](/dutch-auction-tender/) — alternative tender structure
 - [Earnings per share](/earnings-per-share/) — boosted on day one of ASR
-- [Tender offer](/equity/dutch-auction-tender/) — formal buyback alternative
+- [Tender offer](/dutch-auction-tender/) — formal buyback alternative
 
 ### Wider context
 
 - [Public company](/public-company/) — executes ASRs
 - [Stock market](/stock-market/) — market impact managed via ASR
-- [Shareholder returns](/equity/share-buyback/) — capital returned via ASR
-- [Capital allocation](/equity/share-buyback/) — strategic choice
-- [Investment bank](/equity/accelerated-share-repurchase/) — executes ASR
+- [Shareholder returns](/share-buyback/) — capital returned via ASR
+- [Capital allocation](/share-buyback/) — strategic choice
+- [Investment bank](/accelerated-share-repurchase/) — executes ASR
 
 </div>

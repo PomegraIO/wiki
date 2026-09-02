@@ -8,7 +8,7 @@ keywords:
   - reverse acquisition attempt
 ---
 
-*The **PAC-Man strategy** is a [takeover defense](/wiki/takeover-defenses/) in which a target company threatened with a hostile acquisition responds by launching a competing bid to acquire the hostile bidder. The target becomes the aggressor, "eating" the bidder in a reversal of roles. The strategy is named after the arcade game Pac-Man, in which the protagonist pursues and consumes ghosts. Success requires the target to have sufficient financial capacity and is rare because most targets are smaller than their bidders.*
+*The **PAC-Man strategy** is a takeover defense in which a target company threatened with a hostile acquisition responds by launching a competing bid to acquire the hostile bidder. The target becomes the aggressor, "eating" the bidder in a reversal of roles. The strategy is named after the arcade game Pac-Man, in which the protagonist pursues and consumes ghosts. Success requires the target to have sufficient financial capacity and is rare because most targets are smaller than their bidders.*
 
 <aside class="wiki-infobox">
 
@@ -89,7 +89,7 @@ That said, the strategic principle—that a target can flip the script and threa
 - [Tender Offer](/wiki/tender-offer/) — Mechanism used in both bid and counter-bid
 
 ### Wider context
-- [Takeover Defenses](/wiki/takeover-defenses/) — Broader category of anti-acquisition strategies
+- Takeover Defenses — Broader category of anti-acquisition strategies
 - [Merger and Acquisition](/wiki/merger/) — The transaction type PAC-Man affects
 - [Corporate Governance](/wiki/board-of-directors/) — Board role in responding to bids
 - [Change of Control](/wiki/change-of-control/) — Contractual implications of takeover

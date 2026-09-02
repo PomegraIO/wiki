@@ -75,13 +75,13 @@ Penalties range from fines to restitution to customers. In recent years, the SEC
 <h3>Closely related</h3>
 <ul>
   <li><a href="/wiki/payment-for-order-flow/">Payment for order flow</a> — the main conflict with best execution.</li>
-  <li><a href="/wiki/national-best-bid-and-offer/">National best bid and offer</a> — the benchmark for best execution.</li>
+  <li>National best bid and offer — the benchmark for best execution.</li>
   <li><a href="/wiki/smart-order-router/">Smart order router</a> — technology for achieving best execution.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/broker/">Broker</a> — subject to best-execution duties.</li>
   <li><a href="/wiki/dark-pools/">Dark pools</a> — alternative venue for best-execution routing.</li>
-  <li><a href="/wiki/sec/">SEC</a> — enforcer of best execution rules.</li>
+  <li>SEC — enforcer of best execution rules.</li>
 </ul>
 </div>

@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For time-based charts, see [candlestick chart](/technical-analysis/candlestick-chart). Other price-based alternatives include [kagi charts](/technical-analysis/kagi-chart) and [point-and-figure charts](/technical-analysis/point-and-figure-chart).
+For time-based charts, see [candlestick chart](/candlestick-chart/). Other price-based alternatives include [kagi charts](/kagi-chart/) and [point-and-figure charts](/point-and-figure-chart/).
 
 </div>
 
@@ -115,15 +115,15 @@ Renko charts are rarely studied in academic literature. They are a practitioner 
 
 ### Price-based charts
 
-- [Point-and-figure chart](/technical-analysis/point-and-figure-chart) — X's and O's, price-based
-- [Kagi chart](/technical-analysis/kagi-chart) — thin/thick lines based on reversals
-- [Candlestick chart](/technical-analysis/candlestick-chart) — time-based alternative
-- [Line chart](/technical-analysis/line-chart) — closes only
+- [Point-and-figure chart](/point-and-figure-chart/) — X's and O's, price-based
+- [Kagi chart](/kagi-chart/) — thin/thick lines based on reversals
+- [Candlestick chart](/candlestick-chart/) — time-based alternative
+- [Line chart](/line-chart/) — closes only
 
 ### Analysis concepts
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — key levels visible on renko
-- [Trendline](/technical-analysis/trendline) — trends easier to identify
-- [Volume](/technical-analysis/on-balance-volume) — not directly shown on renko
+- [Support and resistance](/support-and-resistance/) — key levels visible on renko
+- [Trendline](/trendline/) — trends easier to identify
+- [Volume](/on-balance-volume/) — not directly shown on renko
 
 </div>

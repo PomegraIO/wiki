@@ -42,7 +42,7 @@ In a typical dual-class setup:
 
 Because voting power is concentrated in Class B, the founder controls every shareholder vote, regardless of public ownership. If the founder owns 10% of the Class B shares, they control the company as long as Class B shares remain at their original voting ratio.
 
-The economic interest is identical across classes: both pay the same dividend per share, and in liquidation both rank equally (ahead of debt, behind any [preferred stock](/equity/preferred-stock/)). The separation is purely about votes, not money.
+The economic interest is identical across classes: both pay the same dividend per share, and in liquidation both rank equally (ahead of debt, behind any [preferred stock](/preferred-stock/)). The separation is purely about votes, not money.
 
 ## Why founders adopt dual-class structure
 
@@ -93,18 +93,18 @@ Founders who need full control but want to avoid public markets entirely can kee
 
 ### Closely related
 
-- [Share class](/equity/share-class/) — the general taxonomy
-- [Non-voting shares](/equity/non-voting-shares/) — shares with zero votes
-- [Founder shares](/equity/founder-shares/) — founder-held equity
-- [Golden share](/equity/golden-share/) — a single share with blocking power
-- [Common stock](/equity/common-stock/) — single-class default
+- [Share class](/share-class/) — the general taxonomy
+- [Non-voting shares](/non-voting-shares/) — shares with zero votes
+- [Founder shares](/founder-shares/) — founder-held equity
+- [Golden share](/golden-share/) — a single share with blocking power
+- [Common stock](/common-stock/) — single-class default
 
 ### Wider context
 
 - [Public company](/public-company/) — issues dual-class shares
 - [Initial public offering](/initial-public-offering/) — where structure is determined
-- [Governance](/equity/founder-shares/) — control and accountability
-- [Shareholder activism](/equity/dual-class-shares/) — pressure that dual-class avoids
+- [Governance](/founder-shares/) — control and accountability
+- [Shareholder activism](/dual-class-shares/) — pressure that dual-class avoids
 - [Stock market](/stock-market/) — where Class A shares trade
 
 </div>

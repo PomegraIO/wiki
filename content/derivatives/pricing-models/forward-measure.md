@@ -85,7 +85,7 @@ Additionally, while the forward measure simplifies [interest-rate](/interest-rat
 - [Bond](/bond/) — fixed-income security whose options demand forward-measure pricing
 - [Option](/option/) — contingent claims on [bond](/bond/) and swap rates
 - [Volatility Smile](/volatility-smile/) — empirical deviation in [interest-rate](/interest-rate/) option markets
-- [Affine Term Structure](//) — models in which forward rates have closed-form solutions under numeraire changes
+- Affine Term Structure — models in which forward rates have closed-form solutions under numeraire changes
 
 ### Wider context
 

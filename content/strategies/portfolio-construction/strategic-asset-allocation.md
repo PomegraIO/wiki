@@ -126,13 +126,13 @@ Adjusting SAA due to market conditions (sell stocks after a crash) is a common m
 - [Asset allocation](/wiki/asset-allocation/) — Broader concept including tactical overlays
 - [Tactical asset allocation](/wiki/tactical-asset-allocation/) — Short-term tilts around SAA
 - [Rebalancing discipline](/wiki/rebalancing-discipline/) — Maintaining target weights
-- [Modern Portfolio Theory](/wiki//) — Academic foundation for SAA
+- Modern Portfolio Theory — Academic foundation for SAA
 
 ### Wider context
 
 - [Capital asset pricing model](/wiki/capital-asset-pricing-model/) — Framework for expected returns
-- [Efficient frontier](/wiki//) — Optimal risk-return tradeoff
+- Efficient frontier — Optimal risk-return tradeoff
 - [Target-date fund](/wiki/target-date-fund/) — Automated SAA glide path
-- [Risk tolerance](/wiki/// ) — Input for SAA design
+- Risk tolerance — Input for SAA design
 
 </div>

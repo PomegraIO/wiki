@@ -130,7 +130,7 @@ When the United Kingdom left the EU (January 31, 2020), U.K. banks were no longe
 
 ### Wider context
 - [Financial Regulation](/wiki/financial-regulation-and-supervision/) — Broader regulatory landscape
-- [Bank Resolution](/wiki/bank-recovery-resolution/) — Crisis management frameworks
+- Bank Resolution — Crisis management frameworks
 - [Banking Crisis](/wiki/banking-crisis-of-1933/) — Historical context for regulation
 - [Prudential Oversight](/wiki/federal-reserve-supervision/) — Supervisory approaches
 

@@ -104,12 +104,12 @@ Given globalization, IPI is increasingly cross-border: a surge in Chinese manufa
 - [Capacity Utilization Rate](/wiki/capacity-utilization-rate/) — Measure of how hard factories are running
 - [Business Cycle](/wiki/business-cycle/) — Cyclical pattern IPI reflects
 - [Gross Domestic Product](/wiki/gross-domestic-product/) — Overall economic output
-- [Economic Indicators](/wiki/economic-indicators/) — Broader category of leading and lagging indicators
+- Economic Indicators — Broader category of leading and lagging indicators
 
 ### Wider context
-- [Manufacturing Sector](/wiki/manufacturing-sector/) — The industry group IPI measures
+- Manufacturing Sector — The industry group IPI measures
 - [Recession](/wiki/recession/) — IPI is an early warning sign
-- [Commodity Prices](/wiki/commodity-price/) — Correlated with mining and manufacturing demand
+- Commodity Prices — Correlated with mining and manufacturing demand
 - [Employment Reports](/wiki/nonfarm-payrolls/) — Lags IPI by 1–3 months
 
 </div>

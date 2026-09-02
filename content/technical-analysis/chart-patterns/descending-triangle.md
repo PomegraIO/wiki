@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For converging patterns broadly, see [symmetrical triangle](/technical-analysis/symmetrical-triangle). The bullish equivalent is the [ascending triangle](/technical-analysis/ascending-triangle).
+For converging patterns broadly, see [symmetrical triangle](/symmetrical-triangle/). The bullish equivalent is the [ascending triangle](/ascending-triangle/).
 
 </div>
 
@@ -80,7 +80,7 @@ When a descending triangle appears within an established downtrend, it is often 
 
 ## Ascending triangle: the bullish inverse
 
-An [ascending triangle](/technical-analysis/ascending-triangle) is the bullish opposite: a rising lower line and flat upper line, converging toward an upward breakout. The logic inverts: buyers are gaining strength (rising lows) while sellers defend a flat level.
+An [ascending triangle](/ascending-triangle/) is the bullish opposite: a rising lower line and flat upper line, converging toward an upward breakout. The logic inverts: buyers are gaining strength (rising lows) while sellers defend a flat level.
 
 ## Comparison to other triangles
 
@@ -110,16 +110,16 @@ Academic research on descending triangles (and triangles generally) finds mixed 
 
 ### Related patterns
 
-- [Ascending triangle](/technical-analysis/ascending-triangle) — bullish inverse
-- [Symmetrical triangle](/technical-analysis/symmetrical-triangle) — both lines converge equally
-- [Channel pattern](/technical-analysis/channel-pattern) — parallel lines instead of converging
-- [Flag pattern](/technical-analysis/flag-pattern) — tight consolidation after sharp move
-- [Pennant pattern](/technical-analysis/pennant-pattern) — similar to triangle
+- [Ascending triangle](/ascending-triangle/) — bullish inverse
+- [Symmetrical triangle](/symmetrical-triangle/) — both lines converge equally
+- [Channel pattern](/channel-pattern/) — parallel lines instead of converging
+- [Flag pattern](/flag-pattern/) — tight consolidation after sharp move
+- [Pennant pattern](/pennant-pattern/) — similar to triangle
 
 ### Trend context
 
-- [Trendline](/technical-analysis/trendline) — the triangle's boundaries
-- [Support and resistance](/technical-analysis/support-and-resistance) — horizontal levels
-- [Volume](/technical-analysis/on-balance-volume) — confirming the breakout
+- [Trendline](/trendline/) — the triangle's boundaries
+- [Support and resistance](/support-and-resistance/) — horizontal levels
+- [Volume](/on-balance-volume/) — confirming the breakout
 
 </div>

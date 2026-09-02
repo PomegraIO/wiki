@@ -105,7 +105,7 @@ Suppose a copper mine needs $200 million in capex. Two offers:
 
 - [Leveraged Buyout](/leveraged-buyout/) — similar capital structure and repayment obligation
 - [Forward Contract](/forward-contract/) — streaming agreements are forward purchases of metal
-- [Commodity Price Risk](//) — the core risk split between operator and counterparty
+- Commodity Price Risk — the core risk split between operator and counterparty
 - [Spot Rate](/spot-rate/) — the market price against which streaming prices are compared
 - [Revenue Recognition](/revenue-recognition/) — how streaming and royalty income is recorded
 

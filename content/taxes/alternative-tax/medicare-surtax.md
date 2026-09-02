@@ -39,13 +39,13 @@ For an investor earning $400k in [capital gains](/wiki/capital-gains-tax-investo
 
 The surtax applies to "net investment income" (NII), not gross investment income. The IRS defines NII to include:
 
-- [Capital gains](/wiki/capital-gains-tax-investor/) (long-term and short-term, net of [capital losses](/wiki/capital-losses-tax/))
+- [Capital gains](/wiki/capital-gains-tax-investor/) (long-term and short-term, net of capital losses)
 - [Dividends](/wiki/dividend-tax/) and [qualified dividends](/wiki/qualified-dividend/)
 - [Interest income](/wiki/accrued-interest/)
 - Rents and [royalties](/wiki/commodity-storage-costs/)
 - [Trading](/wiki/trading-halts/) income (if passive, not business-related)
 
-Critically, net *losses* from investments offset gains. A [portfolio](/wiki/portfolio-mental-accounting/) with $500k in [gains](/wiki/capital-gains-tax-investor/) and $150k in [losses](/wiki/capital-losses-tax/) reports $350k NII subject to the surtax.
+Critically, net *losses* from investments offset gains. A [portfolio](/wiki/portfolio-mental-accounting/) with $500k in [gains](/wiki/capital-gains-tax-investor/) and $150k in losses reports $350k NII subject to the surtax.
 
 ## Who actually pays it?
 

@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For three-candle patterns and broader candlestick analysis, see [candlestick pattern](/technical-analysis/candlestick-pattern). The opposite pattern is the [evening star](/technical-analysis/evening-star).
+For three-candle patterns and broader candlestick analysis, see [candlestick pattern](/candlestick-pattern/). The opposite pattern is the [evening star](/evening-star/).
 
 </div>
 
@@ -54,7 +54,7 @@ This narrative is intuitive and emotionally resonant, which explains the pattern
 
 ## Context and strength
 
-A morning star at the bottom of a steep, multi-week downtrend is more meaningful than one appearing in mild consolidation. After a sharp sell-off (especially on heavy volume), a morning star suggests capitulation has occurred and buyers are stepping in. The pattern gains further credibility if it forms at a known [support level](/technical-analysis/support-and-resistance), a key moving average, or a Fibonacci retracement level.
+A morning star at the bottom of a steep, multi-week downtrend is more meaningful than one appearing in mild consolidation. After a sharp sell-off (especially on heavy volume), a morning star suggests capitulation has occurred and buyers are stepping in. The pattern gains further credibility if it forms at a known [support level](/support-and-resistance/), a key moving average, or a Fibonacci retracement level.
 
 A morning star at the beginning of a downtrend, or in the middle of a gentle decline, is less meaningful and more likely to be just a bounce.
 
@@ -78,7 +78,7 @@ Not all three-candle patterns that resemble a morning star lead to reversals. A 
 
 ## The evening star: opposite signal
 
-The [evening star](/technical-analysis/evening-star) is the bearish mirror image of the morning star. It appears after an uptrend and signals a bearish reversal. The structure is identical but inverted: large green candle, gap up with small candle, large red candle closing down. The psychology is the reverse: buyers are exhausted, and sellers are taking control.
+The [evening star](/evening-star/) is the bearish mirror image of the morning star. It appears after an uptrend and signals a bearish reversal. The structure is identical but inverted: large green candle, gap up with small candle, large red candle closing down. The psychology is the reverse: buyers are exhausted, and sellers are taking control.
 
 ## Trading with morning stars
 
@@ -96,21 +96,21 @@ Empirical research on morning star patterns is limited and mixed. Most studies f
 
 ### Related patterns
 
-- [Evening star](/technical-analysis/evening-star) — bearish reversal, opposite pattern
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework
-- [Engulfing pattern](/technical-analysis/engulfing-pattern) — two-candle reversal
-- [Harami](/technical-analysis/harami) — two-candle indecision
+- [Evening star](/evening-star/) — bearish reversal, opposite pattern
+- [Candlestick pattern](/candlestick-pattern/) — broader framework
+- [Engulfing pattern](/engulfing-pattern/) — two-candle reversal
+- [Harami](/harami/) — two-candle indecision
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — key levels for confirmation
-- [Trendline](/technical-analysis/trendline) — identifying downtrend exhaustion
-- [Candlestick chart](/technical-analysis/candlestick-chart) — the display format
+- [Support and resistance](/support-and-resistance/) — key levels for confirmation
+- [Trendline](/trendline/) — identifying downtrend exhaustion
+- [Candlestick chart](/candlestick-chart/) — the display format
 
 ### Confirmation signals
 
-- [Moving average](/technical-analysis/simple-moving-average) — key price levels
-- [Volume](/technical-analysis/on-balance-volume) — strength of the reversal
-- [Relative strength index](/technical-analysis/relative-strength-index) — momentum extremes
+- [Moving average](/simple-moving-average/) — key price levels
+- [Volume](/on-balance-volume/) — strength of the reversal
+- Relative strength index — momentum extremes
 
 </div>

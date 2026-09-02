@@ -44,17 +44,17 @@ A dynamic hedging algorithm prevents this. Every time the stock moves, the algor
 
 Here is the subtle point: rebalancing is not free. When a [market maker](/wiki/market-makers/) rebalances by selling 100 shares at $102 and then buys them back at $103 (because the stock moved again), they realize a loss. This loss is the *realized [gamma](/wiki/gamma-convexity/) loss*. Over time, if the stock moves around a lot, the [market maker](/wiki/market-makers/) pays to rebalance repeatedly—like buying and selling a stock at a loss over and over.
 
-But [option](/wiki/option-adjusted-spread/) sellers earn [vega](/wiki/vega-option-greeks/) and [theta](/wiki/theta-option-greeks/) income: [volatility](/wiki/implied-volatility/) decays, [options](/wiki/option-adjusted-spread/) become less valuable, and short [option](/wiki/option-adjusted-spread/) positions profit. In calm markets, where [volatility](/wiki/implied-volatility/) is low and [realized](/wiki/realized-volatility/) volatility (actual price swings) is less than [implied](/wiki/implied-volatility/) volatility (the market's expectation), [theta](/wiki/theta-option-greeks/) profit exceeds [gamma](/wiki/gamma-convexity/) loss. In volatile markets, [gamma](/wiki/gamma-convexity/) losses exceed [theta](/wiki/theta-option-greeks/) profit, and the [market maker](/wiki/market-makers/) loses money.
+But [option](/wiki/option-adjusted-spread/) sellers earn [vega](/wiki/vega-option-greeks/) and [theta](/wiki/theta-option-greeks/) income: [volatility](/wiki/implied-volatility/) decays, [options](/wiki/option-adjusted-spread/) become less valuable, and short [option](/wiki/option-adjusted-spread/) positions profit. In calm markets, where [volatility](/wiki/implied-volatility/) is low and realized volatility (actual price swings) is less than [implied](/wiki/implied-volatility/) volatility (the market's expectation), [theta](/wiki/theta-option-greeks/) profit exceeds [gamma](/wiki/gamma-convexity/) loss. In volatile markets, [gamma](/wiki/gamma-convexity/) losses exceed [theta](/wiki/theta-option-greeks/) profit, and the [market maker](/wiki/market-makers/) loses money.
 
 The dynamic hedging algorithm crystallizes this tradeoff. It ensures the [market maker](/wiki/market-makers/) stays [delta](/wiki/delta/) neutral and realizes the [gamma](/wiki/gamma-convexity/) losses implicit in [option](/wiki/option-adjusted-spread/) [short](/wiki/short-selling/) positions, allowing them to pocket [theta](/wiki/theta-option-greeks/) and [vega](/wiki/vega-option-greeks/) profit when [volatility](/wiki/implied-volatility/) is overpriced relative to realized [volatility](/wiki/historical-volatility/).
 
 ## Portfolio insurance: the other use case
 
-A mutual fund or pension plan holding $1B in equities wants [downside](/wiki/downside-protection/) insurance. Buying $1B in [put](/wiki/put-option/) [options](/wiki/option-adjusted-spread/) is expensive. Instead, they deploy a dynamic hedging algorithm that mimics a [put](/wiki/put-option/) [option](/wiki/option-adjusted-spread/) structure using only the underlying stocks and cash.
+A mutual fund or pension plan holding $1B in equities wants downside insurance. Buying $1B in [put](/wiki/put-option/) [options](/wiki/option-adjusted-spread/) is expensive. Instead, they deploy a dynamic hedging algorithm that mimics a [put](/wiki/put-option/) [option](/wiki/option-adjusted-spread/) structure using only the underlying stocks and cash.
 
-The algorithm monitors the [portfolio](/wiki/portfolio-mental-accounting/) [delta](/wiki/delta/) and dynamically adjusts the stock/cash mix. In a rising market, it moves to 100% stocks (high [delta](/wiki/delta/)), capturing upside. In a falling market, it moves toward 0% stocks, 100% cash (low [delta](/wiki/delta/]), defending against losses. The mechanics are complex (it uses [replication](/wiki/etf-replication-method/), [put-call parity](/wiki/put-call-parity/), and [algorithmic rebalancing](/wiki/calendar-rebalancing/)), but the outcome is a synthetic [put](/wiki/put-option/)-like [hedge](/wiki/hedge-fund/).
+The algorithm monitors the [portfolio](/wiki/portfolio-mental-accounting/) [delta](/wiki/delta/) and dynamically adjusts the stock/cash mix. In a rising market, it moves to 100% stocks (high [delta](/wiki/delta/)), capturing upside. In a falling market, it moves toward 0% stocks, 100% cash (low [delta](/delta/), defending against losses. The mechanics are complex (it uses [replication](/wiki/etf-replication-method/), [put-call parity](/wiki/put-call-parity/), and [algorithmic rebalancing](/wiki/calendar-rebalancing/)), but the outcome is a synthetic [put](/wiki/put-option/)-like [hedge](/wiki/hedge-fund/).
 
-The catch: this [dynamic strategy](/wiki/tactical-asset-allocation/) rebalances *after* the market has moved. By the time the algorithm sees the [market](/wiki/stock-market/) is crashing and moves to cash, the crash is already underway. In a [flash crash](/wiki/flash-crash-2010/) or [gap](/wiki/overnight-gap/) opening, the algorithm is too slow. A true [put](/wiki/put-option/) [option](/wiki/option-adjusted-spread/) [hedge](/wiki/hedge-fund/) is instantaneous (the [option](/wiki/option-adjusted-spread/) holder can exercise immediately), but a synthetic hedge is not. This is why [portfolio insurance](/wiki/portfolio-insurance/) failed spectacularly in the 1987 crash: hedging algorithms all tried to sell at the same time, driving markets down further, and no one was buying.
+The catch: this [dynamic strategy](/wiki/tactical-asset-allocation/) rebalances *after* the market has moved. By the time the algorithm sees the [market](/wiki/stock-market/) is crashing and moves to cash, the crash is already underway. In a [flash crash](/wiki/flash-crash-2010/) or [gap](/wiki/overnight-gap/) opening, the algorithm is too slow. A true [put](/wiki/put-option/) [option](/wiki/option-adjusted-spread/) [hedge](/wiki/hedge-fund/) is instantaneous (the [option](/wiki/option-adjusted-spread/) holder can exercise immediately), but a synthetic hedge is not. This is why portfolio insurance failed spectacularly in the 1987 crash: hedging algorithms all tried to sell at the same time, driving markets down further, and no one was buying.
 
 ## Technical implementation: the systems side
 
@@ -76,7 +76,7 @@ This is where human expertise remains valuable. Predicting how the [volatility s
 
 ## Failure modes and lessons from crashes
 
-Dynamic hedging algorithms have contributed to flash crashes and liquidity crises. In 2010, the [Flash Crash](/wiki/flash-crash-2010/), a sudden 9% drop and recovery in minutes, was partly attributed to [portfolio insurance](/wiki/portfolio-insurance/) and [dynamic hedging](/wiki/dynamic-support-resistance/) algorithms trying to rebalance simultaneously in falling markets. Everyone tried to sell, no one was buying, and [bid-ask spreads](/wiki/bid-ask-spread/) blew out.
+Dynamic hedging algorithms have contributed to flash crashes and liquidity crises. In 2010, the [Flash Crash](/wiki/flash-crash-2010/), a sudden 9% drop and recovery in minutes, was partly attributed to portfolio insurance and [dynamic hedging](/wiki/dynamic-support-resistance/) algorithms trying to rebalance simultaneously in falling markets. Everyone tried to sell, no one was buying, and [bid-ask spreads](/wiki/bid-ask-spread/) blew out.
 
 In 2020, during the COVID crash, [volatility](/wiki/implied-volatility/) spiked sharply, [delta](/wiki/delta/) changed faster than algorithms could rebalance, and [gamma](/wiki/gamma-convexity/) losses on short [option](/wiki/option-adjusted-spread/) positions were severe. Some [market makers](/wiki/market-makers/) faced emergency capital infusions to cover losses.
 
@@ -84,7 +84,7 @@ The lesson: dynamic hedging algorithms are powerful but not infallible. They ass
 
 ## Conclusion: the pillar of modern derivatives trading
 
-Dynamic hedging algorithms are invisible to retail investors but fundamental to how [derivatives](/wiki/derivatives-exchange-crypto/) markets function. They allow [market makers](/wiki/market-makers/) to offer [options](/wiki/option-adjusted-spread/) and manage risk. They enable [portfolio insurance](/wiki/portfolio-insurance/) strategies. But they are also a source of systemic fragility: when many algorithms try to rebalance simultaneously in a crisis, markets can spiral. Regulators and large market participants now pay close attention to algorithm behavior and market microstructure to prevent this.
+Dynamic hedging algorithms are invisible to retail investors but fundamental to how [derivatives](/wiki/derivatives-exchange-crypto/) markets function. They allow [market makers](/wiki/market-makers/) to offer [options](/wiki/option-adjusted-spread/) and manage risk. They enable portfolio insurance strategies. But they are also a source of systemic fragility: when many algorithms try to rebalance simultaneously in a crisis, markets can spiral. Regulators and large market participants now pay close attention to algorithm behavior and market microstructure to prevent this.
 
 <div class="wiki-seealso">
 
@@ -99,7 +99,7 @@ Dynamic hedging algorithms are invisible to retail investors but fundamental to 
 - [Option](/wiki/option-adjusted-spread/) — underlying instrument
 - [Market maker](/wiki/market-makers/) — operator of hedging systems
 - [Algorithmic trading](/wiki/algorithmic-trading/) — broader automation category
-- [Portfolio insurance](/wiki/portfolio-insurance/) — synthetic downside hedge
+- Portfolio insurance — synthetic downside hedge
 - [Flash crash 2010](/wiki/flash-crash-2010/) — failure mode event
 
 </div>

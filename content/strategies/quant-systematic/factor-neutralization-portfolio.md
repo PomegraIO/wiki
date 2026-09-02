@@ -9,7 +9,7 @@ keywords:
 image: /svg/strategies.svg
 ---
 
-*In quantitative portfolio management, **factor neutralization** is the art of stripping out unwanted systematic exposures—[market beta](/link/beta/), size, sector, momentum—so that the portfolio's returns depend only on the signal the manager intended to capture. Without neutralization, a stock picker cannot tell whether returns came from skill or from taking unintended bets.*
+*In quantitative portfolio management, **factor neutralization** is the art of stripping out unwanted systematic exposures—[market beta](/beta/), size, sector, momentum—so that the portfolio's returns depend only on the signal the manager intended to capture. Without neutralization, a stock picker cannot tell whether returns came from skill or from taking unintended bets.*
 
 <aside class="wiki-infobox">
 
@@ -22,7 +22,7 @@ image: /svg/strategies.svg
 |   |   |
 |---|---|
 | **Core goal** | Isolate intended alpha from unintended factor bets |
-| **Nuisance factors** | [Beta](/link/beta/), size, sector, country, momentum, value, growth, volatility |
+| **Nuisance factors** | [Beta](/beta/), size, sector, country, momentum, value, growth, volatility |
 | **Neutralization method** | Mathematical constraint: portfolio has zero (or low) sensitivity to the unwanted factor |
 | **Hedge mechanism** | Long positions in intended signal, short positions in nuisance factors |
 | **Result** | Returns driven purely by the chosen signal, not by broad market or style movement |
@@ -52,17 +52,17 @@ But neutrality can be applied to any factor, not just the market:
 
 **Style neutralization**: Constrain exposure to value, growth, momentum, or volatility factors. A value-signal portfolio might inadvertently load up on high-volatility stocks; constraining this ensures the signal is pure.
 
-**Country/currency neutralization**: In international portfolios, strip out [currency risk](/link/currency-risk/) and geographic concentration so the returns reflect the stock-picking model, not forex bets.
+**Country/currency neutralization**: In international portfolios, strip out [currency risk](/currency-risk/) and geographic concentration so the returns reflect the stock-picking model, not forex bets.
 
 ## Constructing a Neutral Portfolio: A Simplified Example
 
-Suppose a quant manager has ranked 100 large-cap stocks by a quality metric (high [return on equity](/link/return-on-equity/), low debt, stable [earnings](/link/earnings-per-share/)). She wants a portfolio that captures this quality signal without taking unintended size or sector bets.
+Suppose a quant manager has ranked 100 large-cap stocks by a quality metric (high [return on equity](/return-on-equity/), low debt, stable [earnings](/earnings-per-share/)). She wants a portfolio that captures this quality signal without taking unintended size or sector bets.
 
 She could simply go long the top 10 quality stocks and short the bottom 10. But if the top 10 happen to be five tech stocks and five healthcare stocks, while the bottom 10 are eight financials and two industrials, she has taken a massive sector tilt. If tech and healthcare rally, her portfolio wins regardless of whether her quality signal is real.
 
 Instead, she uses **sector-neutral constraints**: she ensures that her long portfolio has 20% tech, 20% healthcare, 20% financials, 20% industrials, 10% energy, and 10% other—mirroring the benchmark. She does the same for her short portfolio. Now, both her long and short portfolios have identical sector exposure. Any excess return must come from the quality metric, not from sector bets.
 
-She might go further with **size constraints**: ensuring that the average [market cap](/link/market-capitalization/) of her long stocks equals the average [market cap](/link/market-capitalization/) of her short stocks. This prevents the signal from being contaminated by a systematic bias toward larger or smaller names.
+She might go further with **size constraints**: ensuring that the average [market cap](/market-capitalization/) of her long stocks equals the average [market cap](/market-capitalization/) of her short stocks. This prevents the signal from being contaminated by a systematic bias toward larger or smaller names.
 
 The result is a **factor-neutral** portfolio: returns depend entirely on whether stocks ranked high in the quality metric outperform those ranked low, independent of sector, size, or other macro influences.
 
@@ -127,21 +127,21 @@ Conversely, over-constraining can leave the portfolio so rigid that it cannot re
 
 ### Closely related
 
-- [Factor Investing](/link/factor-investing/) — the broader discipline of targeting specific return drivers
-- [Beta](/link/beta/) — the market sensitivity that neutral portfolios aim to eliminate
-- [Alpha](/link/alpha/) — the excess return that factor neutralization isolates
+- [Factor Investing](/factor-investing/) — the broader discipline of targeting specific return drivers
+- [Beta](/beta/) — the market sensitivity that neutral portfolios aim to eliminate
+- [Alpha](/alpha/) — the excess return that factor neutralization isolates
 - Market-Neutral Strategy — a hedge fund strategy built entirely on factor neutralization
-- [Hedge Fund](/link/hedge-fund/) — a vehicle commonly using factor neutralization
+- [Hedge Fund](/hedge-fund/) — a vehicle commonly using factor neutralization
 - Long-Short Portfolio — the structure that enables neutralization through shorting
-- [Volatility](/link/currency-volatility/) — a factor often overlooked in neutralization schemes
+- [Volatility](/currency-volatility/) — a factor often overlooked in neutralization schemes
 
 ### Wider context
 
-- [Diversification](/link/diversification/) — the principle that neutralization enforces across multiple dimensions
-- [Risk Decomposition](/link/sensitivity-analysis-valuation/) — tools for monitoring factor exposures
+- [Diversification](/diversification/) — the principle that neutralization enforces across multiple dimensions
+- [Risk Decomposition](/sensitivity-analysis-valuation/) — tools for monitoring factor exposures
 - Turnover — the cost of maintaining neutral constraints
 - Transaction Costs — fees that erode returns from frequent rebalancing
-- [Value at Risk](/link/value-at-risk/) — measures of the tail risk that constraints sometimes increase
-- [Concentration Risk](/link/concentration-risk/) — an unintended consequence of over-constraining
+- [Value at Risk](/value-at-risk/) — measures of the tail risk that constraints sometimes increase
+- [Concentration Risk](/concentration-risk/) — an unintended consequence of over-constraining
 
 </div>

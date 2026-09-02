@@ -49,7 +49,7 @@ Covista is typically valued between pure-software multiples (high growth, high m
 
 ## Research and Due Diligence Framework
 
-Students of Covista should examine its [10-K](/10-K/) for the revenue mix between software and services, the growth rates for each component, gross margins by revenue type, customer concentration metrics, and customer retention/renewal rates. The company's competitive position relative to pure-software platforms and large consulting firms depends on demonstrating that vertical specialization and hybrid delivery justify pricing and durability. The honest analyst recognizes that Covista occupies an in-between position—neither as scalable as pure software nor as entrenched as large outsourcing—and that this positioning requires flawless execution to remain defensible as competitive pressure from both directions intensifies.
+Students of Covista should examine its [10-K](/10-k/) for the revenue mix between software and services, the growth rates for each component, gross margins by revenue type, customer concentration metrics, and customer retention/renewal rates. The company's competitive position relative to pure-software platforms and large consulting firms depends on demonstrating that vertical specialization and hybrid delivery justify pricing and durability. The honest analyst recognizes that Covista occupies an in-between position—neither as scalable as pure software nor as entrenched as large outsourcing—and that this positioning requires flawless execution to remain defensible as competitive pressure from both directions intensifies.
 
 <div class="wiki-seealso">
 ### Closely related

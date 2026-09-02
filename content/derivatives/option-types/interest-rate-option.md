@@ -98,7 +98,7 @@ They're also sensitive to the yield curve's shape. A cap priced when the curve i
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational concept.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/interest-rate/">Interest rate</a> — the underlying driver.</li>
 </ul>
 </div>

@@ -65,7 +65,7 @@ Popular pools (Lido on Ethereum, Marinade on Solana) now control 30–40% of sta
 
 When a validator exits the network, their collateral is not immediately released. Instead, it enters an **unbonding period**—typically 27–32 days on Ethereum, 3 days on Solana. During this time, the validator forfeits rewards and remains exposed to [slashing](/wiki/slashing/) penalties.
 
-The unbonding delay creates [opportunity-cost](/wiki/capital-allocation/) for validators and reduces liquidity for token holders. To mitigate this, projects have developed [liquid-staking](/wiki/liquid-staking/) derivatives: pools issue liquid tokens (e.g., stETH for Ethereum) that represent staked positions but are instantly tradeable.
+The unbonding delay creates opportunity-cost for validators and reduces liquidity for token holders. To mitigate this, projects have developed [liquid-staking](/wiki/liquid-staking/) derivatives: pools issue liquid tokens (e.g., stETH for Ethereum) that represent staked positions but are instantly tradeable.
 
 Liquid staking derivatives are a double-edged sword: they increase capital efficiency but concentrate custody risk and introduce additional layers of systemic fragility.
 

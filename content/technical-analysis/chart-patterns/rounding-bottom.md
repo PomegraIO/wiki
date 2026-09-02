@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For reversal patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). The opposite pattern is [rounding-top](/technical-analysis/rounding-top). Related is [cup-and-handle](/technical-analysis/cup-and-handle), though that is continuation, not reversal.
+For reversal patterns broadly, see [candlestick pattern](/candlestick-pattern/). The opposite pattern is [rounding-top](/rounding-top/). Related is [cup-and-handle](/cup-and-handle/), though that is continuation, not reversal.
 
 </div>
 
@@ -70,7 +70,7 @@ Because rounding bottoms develop slowly, false reversals are less common than in
 
 ## Rounding top: the inverse
 
-A [rounding-top](/technical-analysis/rounding-top) is the bearish mirror of a rounding bottom: a smooth, inverted U-shape at the top of an uptrend, showing gradual shift from buying to selling pressure.
+A [rounding-top](/rounding-top/) is the bearish mirror of a rounding bottom: a smooth, inverted U-shape at the top of an uptrend, showing gradual shift from buying to selling pressure.
 
 ## Trading rounding bottoms
 
@@ -84,7 +84,7 @@ A [rounding-top](/technical-analysis/rounding-top) is the bearish mirror of a ro
 
 ## Rounding bottom versus double-bottom
 
-A [double-bottom](/technical-analysis/double-bottom) is sharper and occurs over shorter timeframes. A rounding bottom is smoother and longer. Both are bullish, but the rounding bottom's gradual formation is considered more sustainable.
+A [double-bottom](/double-bottom/) is sharper and occurs over shorter timeframes. A rounding bottom is smoother and longer. Both are bullish, but the rounding bottom's gradual formation is considered more sustainable.
 
 ## Real-world example
 
@@ -100,15 +100,15 @@ Rounding bottoms have modest support in academic literature. Some research finds
 
 ### Related reversals
 
-- [Rounding-top](/technical-analysis/rounding-top) — bearish inverse
-- [Double-bottom](/technical-analysis/double-bottom) — sharper, two-trough version
-- [Inverse head and shoulders](/technical-analysis/inverse-head-and-shoulders) — three-trough reversal
-- [Cup-and-handle](/technical-analysis/cup-and-handle) — similar shape, continuation not reversal
+- [Rounding-top](/rounding-top/) — bearish inverse
+- [Double-bottom](/double-bottom/) — sharper, two-trough version
+- [Inverse head and shoulders](/inverse-head-and-shoulders/) — three-trough reversal
+- [Cup-and-handle](/cup-and-handle/) — similar shape, continuation not reversal
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — breakout above prior resistance
-- [Trendline](/technical-analysis/trendline) — prior downtrend
-- [Volume](/technical-analysis/on-balance-volume) — increasing on recovery
+- [Support and resistance](/support-and-resistance/) — breakout above prior resistance
+- [Trendline](/trendline/) — prior downtrend
+- [Volume](/on-balance-volume/) — increasing on recovery
 
 </div>

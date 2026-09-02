@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*Callable preferred stock is a variant of [preferred stock](/equity/preferred-stock/) that includes a call provision allowing the company to repurchase (redeem) the shares at a pre-set price, typically par value plus accrued dividends. Callable preferred is useful for companies that expect to refinance at lower rates; they can call in the old preferred and issue new preferred at lower dividend rates, saving on dividend payments.*
+*Callable preferred stock is a variant of [preferred stock](/preferred-stock/) that includes a call provision allowing the company to repurchase (redeem) the shares at a pre-set price, typically par value plus accrued dividends. Callable preferred is useful for companies that expect to refinance at lower rates; they can call in the old preferred and issue new preferred at lower dividend rates, saving on dividend payments.*
 
 <aside class="wiki-infobox">
 
@@ -103,7 +103,7 @@ Some callable preferred includes a "forced conversion" feature: if the stock pri
 
 ## Comparison to non-callable preferred
 
-[Non-callable preferred](/equity/preferred-stock/) cannot be called; shareholders retain the preferred status indefinitely. Non-callable preferred usually pays lower dividends because the investor's capital gain is not capped.
+[Non-callable preferred](/preferred-stock/) cannot be called; shareholders retain the preferred status indefinitely. Non-callable preferred usually pays lower dividends because the investor's capital gain is not capped.
 
 In falling interest rate environments, non-callable preferred gains value; in rising rate environments, non-callable preferred declines but the investor is stuck (like callable preferred, but without the call price cap).
 
@@ -138,18 +138,18 @@ Callable preferred is favorable to the issuer (they can call it). Some preferred
 
 ### Closely related
 
-- [Preferred stock](/equity/preferred-stock/) — general category
-- [Perpetual preferred](/equity/callable-preferred/) — often callable
-- [Call option](/equity/warrant/) — embedded call mechanism
+- [Preferred stock](/preferred-stock/) — general category
+- [Perpetual preferred](/callable-preferred/) — often callable
+- [Call option](/warrant/) — embedded call mechanism
 - [Dividend](/dividend/) — paid until call date
-- [Convertible preferred](/equity/convertible-preferred/) — alternative structure
+- [Convertible preferred](/convertible-preferred/) — alternative structure
 
 ### Wider context
 
 - [Interest rates](/interest-rate/) — drive call decisions
-- [Financial institutions](/equity/callable-preferred/) — primary issuers
+- [Financial institutions](/callable-preferred/) — primary issuers
 - [Capital markets](/stock-market/) — where callables trade
-- [Refinancing](/equity/callable-preferred/) — motivation for calls
-- [Option-adjusted spread](/equity/callable-preferred/) — pricing mechanism
+- [Refinancing](/callable-preferred/) — motivation for calls
+- [Option-adjusted spread](/callable-preferred/) — pricing mechanism
 
 </div>

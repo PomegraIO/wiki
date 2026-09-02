@@ -49,7 +49,7 @@ This is the real constraint in leverage trading. A [broker](/broker/) does not l
 
 A [broker](/broker/) enforces free margin rules because its own [risk](/operational-risk/) depends on it. If a trader deposits $10,000 and receives 50:1 leverage, the [broker](/broker/) can in theory accommodate up to $500,000 in notional exposure. But if the market moves against the trader, that $10,000 equity will erode.
 
-The free margin requirement is the [broker](/broker/'s) guard rail. Most brokers require at least 2% used margin, meaning free margin must stay above 2% of all open positions. On a $100,000 position with 50:1 leverage, that is $2,000 used margin. If a trader deposits only $10,000 and wants a $500,000 position, $10,000 used margin is needed, leaving zero free margin and no buffer for losses.
+The free margin requirement is the [broker](/broker/)'s guard rail. Most brokers require at least 2% used margin, meaning free margin must stay above 2% of all open positions. On a $100,000 position with 50:1 leverage, that is $2,000 used margin. If a trader deposits only $10,000 and wants a $500,000 position, $10,000 used margin is needed, leaving zero free margin and no buffer for losses.
 
 If market moves cause unrealised losses to exceed free margin, the [broker](/broker/) either issues a [margin call](/margin-call-forex/) (demanding more deposit) or automatically liquidates positions to restore free margin. The goal is to prevent the trader's losses from exceeding the deposit, which would leave the [broker](/broker/) exposed.
 

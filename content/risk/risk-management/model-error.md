@@ -109,7 +109,7 @@ This is concerning in finance because you cannot validate the underlying logic. 
 
 ### Closely related
 - [Model Risk](/wiki/model-risk/) — the broader category of risks from incorrect models
-- [Backtesting](/wiki/backtesting/) — the primary method for detecting model error
+- Backtesting — the primary method for detecting model error
 - [Stress Testing](/wiki/stress-testing/) — another validation tool
 - [Parametric VAR](/wiki/parametric-var/) — a risk model prone to parameter and assumption errors
 

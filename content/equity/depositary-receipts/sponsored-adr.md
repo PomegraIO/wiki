@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A sponsored ADR is an [ADR](/equity/adr/) program created and maintained by the foreign company itself, as opposed to an unsponsored ADR created by a bank without the company's involvement. In a sponsored ADR, the company appoints a depositary bank, sets the terms of the ADR, controls the exchange listing (Level I, II, or III), handles regulatory filings, and manages investor relations. Sponsored ADRs provide better governance and transparency and are preferred by institutional investors.*
+*A sponsored ADR is an [ADR](/adr/) program created and maintained by the foreign company itself, as opposed to an unsponsored ADR created by a bank without the company's involvement. In a sponsored ADR, the company appoints a depositary bank, sets the terms of the ADR, controls the exchange listing (Level I, II, or III), handles regulatory filings, and manages investor relations. Sponsored ADRs provide better governance and transparency and are preferred by institutional investors.*
 
 <aside class="wiki-infobox">
 
@@ -164,18 +164,18 @@ Most institutional investors only hold sponsored ADRs.
 
 ### Closely related
 
-- [ADR](/equity/adr/) — general ADR concept
-- [Unsponsored ADR](/equity/adr/) — bank-initiated alternative
-- [GDR](/equity/gdr/) — international equivalent
-- [Cross-listing](/equity/adr/) — strategy for global companies
-- [Level II ADR](/equity/sponsored-adr/) — exchange-listed version
+- [ADR](/adr/) — general ADR concept
+- [Unsponsored ADR](/adr/) — bank-initiated alternative
+- [GDR](/gdr/) — international equivalent
+- [Cross-listing](/adr/) — strategy for global companies
+- [Level II ADR](/sponsored-adr/) — exchange-listed version
 
 ### Wider context
 
 - [Public company](/public-company/) — foreign issuer
 - [Stock market](/stock-market/) — US market access
 - **SEC compliance** — regulatory burden
-- [International investing](/equity/adr/) — global capital access
-- [Depositary bank](/equity/sponsored-adr/) — infrastructure partner
+- [International investing](/adr/) — global capital access
+- [Depositary bank](/sponsored-adr/) — infrastructure partner
 
 </div>

@@ -34,7 +34,7 @@ The outcome: the exchange rate moves as intended, but [core inflation](/wiki/cor
 
 ## Why sterilization matters
 
-Without sterilization, currency purchases or sales automatically change the money supply, forcing a corresponding shift in [interest rates](/wiki/interest-rate-policy/). A central bank buying foreign currency and wanting *not* to lower rates must then mop up that new liquidity—the cost and complexity of sterilization explain why it remains a deliberate, occasionally controversial tool.
+Without sterilization, currency purchases or sales automatically change the money supply, forcing a corresponding shift in interest rates. A central bank buying foreign currency and wanting *not* to lower rates must then mop up that new liquidity—the cost and complexity of sterilization explain why it remains a deliberate, occasionally controversial tool.
 
 Sterilization is most effective when a country has [capital controls](/wiki/capital-control-policy/) or strong demand for its bonds. If foreign investors lose confidence in a central bank's solvency, they won't absorb the securities issued as part of the sterilization. In that case, [forex reserves](/wiki/foreign-exchange-reserve/) can erode quickly, and the operation fails.
 

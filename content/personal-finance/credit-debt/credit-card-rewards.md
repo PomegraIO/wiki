@@ -40,7 +40,7 @@ From a merchant's perspective, rewards are costly. A merchant accepting a credit
 
 ## Tax and regulatory considerations
 
-Rewards are taxable as income in the US tax code, though as a practical matter the [IRS](/wiki/estimated-income-tax-credit/) does not aggressively police cashback redemptions on personal spending. Large sign-up bonuses or rewards on business spending are more likely to be reported to the IRS. Some cardholders mistakenly assume rewards offset [taxes](/wiki/capital-gains-tax/), but they do not—rewards are treated as rebates on the purchase price, not tax deductions. Additionally, rewards programs carry terms that issuers can change unilaterally: a card offering 2% everywhere might shift to 1.5% next year, or add an annual fee. Regulators have begun scrutinizing these practice changes, and some states have proposed caps on fees and guardrails on program changes.
+Rewards are taxable as income in the US tax code, though as a practical matter the IRS does not aggressively police cashback redemptions on personal spending. Large sign-up bonuses or rewards on business spending are more likely to be reported to the IRS. Some cardholders mistakenly assume rewards offset [taxes](/wiki/capital-gains-tax/), but they do not—rewards are treated as rebates on the purchase price, not tax deductions. Additionally, rewards programs carry terms that issuers can change unilaterally: a card offering 2% everywhere might shift to 1.5% next year, or add an annual fee. Regulators have begun scrutinizing these practice changes, and some states have proposed caps on fees and guardrails on program changes.
 
 <div class="wiki-seealso">
 

@@ -110,7 +110,7 @@ Each approach has its merits and limitations. Value-trap avoidance is a middle g
 
 ### Wider context
 - [Dividend Aristocrats](/wiki/dividend-aristocrats/) — alternative quality-value approach using dividend-raising track record
-- [Competitive Advantage](/wiki/competitive-advantage/) — what makes a cheap stock not a trap
+- Competitive Advantage — what makes a cheap stock not a trap
 - [Mean Reversion Investing](/wiki/mean-reversion-investing/) — related contrarian philosophy
 - [Actively Managed Fund](/wiki/actively-managed-fund/) — fund category that most value-trap-avoidance funds fall under
 

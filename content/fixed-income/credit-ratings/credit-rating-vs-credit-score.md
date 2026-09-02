@@ -34,7 +34,7 @@ keywords:
 
 ## What a credit rating measures
 
-A [credit rating](/credit-rating/) is a professional opinion, issued by [Moody's](/moody's/), S&P, or Fitch, of whether a borrower (corporation, municipality, or sovereign state) will repay its debt on time and in full. The rating is attached to a specific bond or debt instrument, or sometimes to an issuer's entire debt portfolio.
+A [credit rating](/credit-rating/) is a professional opinion, issued by Moody's, S&P, or Fitch, of whether a borrower (corporation, municipality, or sovereign state) will repay its debt on time and in full. The rating is attached to a specific bond or debt instrument, or sometimes to an issuer's entire debt portfolio.
 
 Agencies analyze financial statements, industry position, competitive dynamics, management quality, and macroeconomic exposure. A company rated AAA by S&P is judged to have minimal risk of default; one rated BB has substantial risk. The rating is published in prospectuses, research reports, and regulatory filings; it directly influences the [coupon rate](/coupon-rate/) a bond must pay to attract investors.
 

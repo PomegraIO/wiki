@@ -8,7 +8,7 @@ keywords:
   - operating lease accounting
 ---
 
-*A **lease liability** is the accounting liability to make future lease payments under a lease contract. Under **ASC 842** (the 2019 U.S. accounting standard for leases), almost all leases—operating leases and capital leases—are recorded on the [balance sheet](/wiki/balance-sheet/) as a liability paired with a [right-of-use (ROU) asset](/wiki/right-of-use-asset/). The liability is measured at the present value of future lease payments, discounted at the [implicit rate](/wiki/interest-rate/) in the lease or the lessee's incremental borrowing rate.*
+*A **lease liability** is the accounting liability to make future lease payments under a lease contract. Under **ASC 842** (the 2019 U.S. accounting standard for leases), almost all leases—operating leases and capital leases—are recorded on the [balance sheet](/wiki/balance-sheet/) as a liability paired with a right-of-use (ROU) asset. The liability is measured at the present value of future lease payments, discounted at the [implicit rate](/wiki/interest-rate/) in the lease or the lessee's incremental borrowing rate.*
 
 <div class="wiki-hatnote">
 For the asset side of the transaction, see right-of-use asset. For lease classification, see operating lease and finance lease.
@@ -118,7 +118,7 @@ Analysts use the maturity schedule to recalculate the liability using alternativ
 <div class="wiki-seealso">
 
 ### Closely related
-- [Right-of-Use Asset](/wiki/right-of-use-asset/) — The complementary asset side of ASC 842 leases
+- Right-of-Use Asset — The complementary asset side of ASC 842 leases
 - [Operating Lease](/wiki/operating-lease/) — A lease recognized on the balance sheet under ASC 842
 - [Finance Lease](/wiki/finance-lease/) — A lease that transfers substantially all benefits and risks of ownership
 - [ASC 606](/wiki/asc-606/) — The revenue recognition standard (sister standard to ASC 842)

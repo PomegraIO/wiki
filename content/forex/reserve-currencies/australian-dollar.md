@@ -34,7 +34,7 @@ The correlation is strong and immediate. During China's 2008 stimulus (post-fina
 
 ## Interest rates and the carry trade
 
-The [Reserve Bank of Australia](/wiki/reserve-bank-australia/) (RBA) has historically maintained higher interest rates than the Federal Reserve and other major central banks. This interest-rate differential made the AUD attractive for [carry trade](/wiki/carry-trade/) investors: borrow in low-interest currencies (JPY, CHF) and invest in AUD-denominated assets ([bonds](/wiki/bond/), [deposits](/wiki/certificate-of-deposit/)). The carry return (interest-rate differential) plus potential AUD appreciation could yield 5–8% annually for little apparent risk.
+The Reserve Bank of Australia (RBA) has historically maintained higher interest rates than the Federal Reserve and other major central banks. This interest-rate differential made the AUD attractive for [carry trade](/wiki/carry-trade/) investors: borrow in low-interest currencies (JPY, CHF) and invest in AUD-denominated assets ([bonds](/wiki/bond/), [deposits](/wiki/certificate-of-deposit/)). The carry return (interest-rate differential) plus potential AUD appreciation could yield 5–8% annually for little apparent risk.
 
 Carry-trade positioning in AUD is substantial. Hedge funds and systematic traders load up on AUD during periods of low volatility and easy monetary policy. When the Fed or other central banks raise rates faster than the RBA, the carry differential narrows, and AUD is sold. In 2022–2023, the Fed raised rates aggressively while the RBA lagged, narrowing the differential; AUD weakened. When the RBA catches up and rates rise faster, AUD can reappraise upward as the differential reverses.
 
@@ -78,7 +78,7 @@ Private investors using AUD for carry trades should monitor [interest-rate](/wik
 
 ### Wider context
 - [Foreign Exchange Reserve](/wiki/foreign-exchange-reserve/) — Central-bank holdings
-- [Reserve Bank of Australia](/wiki/reserve-bank-australia/) — RBA policy and operations
+- Reserve Bank of Australia — RBA policy and operations
 - [Commodity Prices](/wiki/commodity-price-hedging/) — Commodity-market drivers
 - [Risk-On Risk-Off](/wiki/risk-on-risk-off/) — Market sentiment dynamics
 

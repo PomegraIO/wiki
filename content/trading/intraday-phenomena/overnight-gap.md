@@ -8,7 +8,7 @@ keywords:
   - gap trading
 ---
 
-*An **overnight gap** is a discontinuity in a stock's price between the close of one trading day and the open of the next. The opening price is materially higher or lower than the previous close, reflecting information released after hours or market sentiment shifts overnight. Gaps are driven by earnings announcements, [news](/wiki/news-sentiment/), geopolitical events, or [after-hours trading](/wiki/after-hours-trading/).*
+*An **overnight gap** is a discontinuity in a stock's price between the close of one trading day and the open of the next. The opening price is materially higher or lower than the previous close, reflecting information released after hours or market sentiment shifts overnight. Gaps are driven by earnings announcements, news, geopolitical events, or [after-hours trading](/wiki/after-hours-trading/).*
 
 <aside class="wiki-infobox">
 

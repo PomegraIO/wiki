@@ -13,7 +13,7 @@ handwritten: true
 
 A company in the business of drug discovery faces one fundamental gamble: it invests years and hundreds of millions of dollars into a single molecule, only to learn — at the end of a lengthy clinical trial — whether the drug actually works. Serina Therapeutics, Inc. sits squarely in that position.
 
-Serina is a clinical-stage [biopharmaceutical](/wiki/biopharmaceutical-company/) company developing treatments for serious musculoskeletal and neurological disorders. The company's pipeline is built around proprietary small-molecule therapeutics designed to address pain, inflammation, and neurological dysfunction. Like most firms in the development stage, Serina has no approved products generating revenue and no path to profitability until — and only if — its lead candidates successfully navigate regulatory approval.
+Serina is a clinical-stage biopharmaceutical company developing treatments for serious musculoskeletal and neurological disorders. The company's pipeline is built around proprietary small-molecule therapeutics designed to address pain, inflammation, and neurological dysfunction. Like most firms in the development stage, Serina has no approved products generating revenue and no path to profitability until — and only if — its lead candidates successfully navigate regulatory approval.
 
 > The entire value of the company rests on molecules that have not yet proven themselves to be medicine.
 

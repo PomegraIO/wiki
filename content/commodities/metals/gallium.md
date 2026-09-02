@@ -43,7 +43,7 @@ Gallium Nitride and Gallium Arsenide are essential to light-emitting diodes (LED
 
 ## Supply concentration and geopolitical risk
 
-Gallium production is concentrated in a small number of countries. China is the largest primary producer (extracting from bauxite), followed by Russia, Germany, and Ukraine. Secondary production (recycling scrap) occurs in a few facilities worldwide. This geographic concentration creates [supply risk](/wiki/supply-chain-disruption/): disruptions to mining or refining in one region can constrain global supply. Ukraine's gallium production was disrupted by the 2022 Russian invasion, tightening global supplies. Similarly, any disruption to Chinese bauxite refineries or to the handful of primary refining facilities in Europe would ripple across semiconductor and LED industries globally.
+Gallium production is concentrated in a small number of countries. China is the largest primary producer (extracting from bauxite), followed by Russia, Germany, and Ukraine. Secondary production (recycling scrap) occurs in a few facilities worldwide. This geographic concentration creates supply risk: disruptions to mining or refining in one region can constrain global supply. Ukraine's gallium production was disrupted by the 2022 Russian invasion, tightening global supplies. Similarly, any disruption to Chinese bauxite refineries or to the handful of primary refining facilities in Europe would ripple across semiconductor and LED industries globally.
 
 ## Price dynamics and demand spikes
 
@@ -71,7 +71,7 @@ Gallium demand is expected to grow steadily, driven by three factors: (1) contin
 
 ### Wider context
 - [Commodity Futures Trading Commission](/wiki/commodity-futures-trading-commission/) — regulatory oversight
-- [Supply Chain Disruption](/wiki/supply-chain-disruption/) — geopolitical risk
+- Supply Chain Disruption — geopolitical risk
 - [Commodity Hedging](/wiki/commodity-price-hedging/) — risk management tools
 - [Strategic Materials](/wiki/zinc/) — inventory and policy concerns
 

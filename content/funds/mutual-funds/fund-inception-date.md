@@ -42,7 +42,7 @@ Paradoxically, newer funds often charge lower fees to attract assets from scratc
 <h3>Closely related</h3>
 <ul>
 <li><a href="/wiki/fund-performance-evaluation/">Fund performance evaluation</a> — inception date affects meaningfulness of results.</li>
-<li><a href="/wiki/survivorship-bias/">Survivorship bias</a> — funds disappear; inception dates mask this.</li>
+<li>Survivorship bias — funds disappear; inception dates mask this.</li>
 <li><a href="/wiki/fund-prospectus/">Fund prospectus</a> — where inception date is disclosed.</li>
 <li><a href="/wiki/actively-managed-fund/">Actively managed fund</a> — where track-record length matters most for skill assessment.</li>
 <li><a href="/wiki/index-fund/">Index fund</a> — inception date is less relevant for passive strategies.</li>
@@ -50,7 +50,7 @@ Paradoxically, newer funds often charge lower fees to attract assets from scratc
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/mutual-fund/">Mutual fund</a> — the vehicles with inception dates.</li>
-<li><a href="/wiki/performance-chasing/">Performance chasing</a> — investors attracted to recently strong funds.</li>
+<li>Performance chasing — investors attracted to recently strong funds.</li>
 <li><a href="/wiki/market-cycle/">Market cycle</a> — inception timing relative to cycle stage affects early returns.</li>
 </ul>
 </div>

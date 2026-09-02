@@ -110,7 +110,7 @@ Ignoring strategic option value leads to:
 ### Wider context
 - [Discounted Cash Flow Valuation](/wiki/discounted-cash-flow-valuation/) — traditional framework enhanced by option value
 - [Option](/wiki/option/) — financial derivative providing the conceptual foundation
-- [Capital Allocation](/wiki/capital-allocation/) — strategic decision-making framework
+- Capital Allocation — strategic decision-making framework
 - [NPV with Real Options](/wiki/npv-with-real-options/) — formal integration of options into capital budgeting
 
 </div>

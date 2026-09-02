@@ -55,7 +55,7 @@ The company's technology team must handle enormous transaction volumes during pe
 
 ## Reading the 10-K
 
-To understand MakeMyTrip, examine its [10-K](/10-K/) filing. Look for:
+To understand MakeMyTrip, examine its [10-K](/10-k/) filing. Look for:
 
 - Gross bookings (total transaction volume) and gross profit (commission revenue)
 - Customer acquisition cost and repeat customer rates

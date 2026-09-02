@@ -44,7 +44,7 @@ The key insight: A includes B's earnings in its own profit, even though A has no
 
 ## Why not just use cost or fair value?
 
-Under [IFRS](/wiki/ifrs/) and US [GAAP](/wiki/gaap/), cost accounting would show the investment as $100 million indefinitely unless A receives a dividend (which is recorded as income) or the investment is written down for impairment. Fair-value accounting (mark-to-market) would revalue the investment to current market price each period, with gains and losses flowing to the income statement.
+Under IFRS and US GAAP, cost accounting would show the investment as $100 million indefinitely unless A receives a dividend (which is recorded as income) or the investment is written down for impairment. Fair-value accounting (mark-to-market) would revalue the investment to current market price each period, with gains and losses flowing to the income statement.
 
 The equity method lies between these: it captures the investor's share of the investee's fundamental performance without marking to market or waiting passively for dividends. This is appropriate for investments where the investor is economically tied to the investee's success but does not control it.
 
@@ -54,7 +54,7 @@ When the investee's accounting methods differ from the investor's, the investor 
 
 ## Goodwill and amortization
 
-If the purchase price exceeds the fair value of the investee's identifiable net assets, the excess is [goodwill](/wiki/goodwill/). Under current [IFRS](/wiki/ifrs/) and US [GAAP](/wiki/gaap/), goodwill is not amortized but is tested for impairment annually. If B's net assets are worth $80 million and A pays $100 million for 30%, A records $6 million goodwill [(100 − 80) × 30%]. If B's fortunes deteriorate, A may write down the goodwill.
+If the purchase price exceeds the fair value of the investee's identifiable net assets, the excess is [goodwill](/wiki/goodwill/). Under current IFRS and US GAAP, goodwill is not amortized but is tested for impairment annually. If B's net assets are worth $80 million and A pays $100 million for 30%, A records $6 million goodwill [(100 − 80) × 30%]. If B's fortunes deteriorate, A may write down the goodwill.
 
 ## Intercompany transactions and profit elimination
 
@@ -64,7 +64,7 @@ If the investor (A) sells goods to the investee (B) at a profit, A's income incl
 
 The equity method fails if:
 
-- **Loss of significant influence:** The investor's ownership drops below 20%, or the investor loses board representation and involvement. The investment is then reclassified to [fair value](/wiki/fair-value/) accounting ([AFS](/wiki/available-for-sale/) or [FVTPL](/wiki/held-for-trading/)), and the difference is recorded as a gain or loss.
+- **Loss of significant influence:** The investor's ownership drops below 20%, or the investor loses board representation and involvement. The investment is then reclassified to [fair value](/wiki/fair-value/) accounting (AFS or FVTPL), and the difference is recorded as a gain or loss.
 - **Investee is in severe distress:** If the investee's losses exceed the investor's carrying value, the investment reaches zero and additional losses are not recognized (no negative equity). The investor stops picking up losses once the carrying value hits zero.
 - **Related-party transactions dominate:** If the investor and investee have so many related-party transactions that the investee's reported results are distorted, the equity method may not reflect economic reality. Careful analysis is required.
 

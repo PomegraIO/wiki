@@ -12,7 +12,7 @@ keywords:
 *The **High Volatility Capture** strategy is a [tactical asset allocation](/wiki/tactical-asset-allocation/) approach that dynamically increases exposure to risky assets — equities, commodities, or credit — when realized or implied [volatility](/wiki/volatility-smile/) rises, on the premise that elevated volatility often coincides with market dislocations and subsequent mean reversion. Unlike passive [buy-and-hold](/wiki/buy-and-hold-strategy/) portfolios that maintain static [asset allocation](/wiki/asset-allocation/), high-volatility-capture systems mechanically shift toward risk assets when price swings peak, capturing mean-reversion gains and [volatility risk premium](/wiki/volatility-swap/) exploitation.*
 
 <div class="wiki-hatnote">
-For the complementary strategy, see <a href="/wiki/low-volatility-factor/">Low Volatility Factor</a>. For volatility measurement, see <a href="/wiki/volatility-index/">Volatility Index</a>.
+For the complementary strategy, see <a href="/wiki/low-volatility-factor/">Low Volatility Factor</a>. For volatility measurement, see Volatility Index.
 </div>
 
 <aside class="wiki-infobox">

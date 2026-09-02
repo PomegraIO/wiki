@@ -69,6 +69,6 @@ Some investors have pushed for say-on-pay votes to be held *every other year* in
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/dodd-frank-act/">Dodd-Frank Act</a> — the law mandating say-on-pay votes.</li>
-  <li><a href="/wiki/corporate-governance/">Corporate Governance</a> — the broader framework of shareholder oversight.</li>
+  <li>Corporate Governance — the broader framework of shareholder oversight.</li>
 </ul>
 </div>

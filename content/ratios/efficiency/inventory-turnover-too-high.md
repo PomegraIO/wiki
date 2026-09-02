@@ -33,7 +33,7 @@ image: /svg/ratios.svg
 
 ## The Paradox: Why High Turnover Can Be Bad
 
-Conventional wisdom says high inventory turnover is good—it means you're not sitting on dead stock, you're moving goods fast, and you're holding minimal [cash](//) tied up in unsold inventory. A retailer that turns inventory 10 times per year beats one that turns it 3 times per year.
+Conventional wisdom says high inventory turnover is good—it means you're not sitting on dead stock, you're moving goods fast, and you're holding minimal cash tied up in unsold inventory. A retailer that turns inventory 10 times per year beats one that turns it 3 times per year.
 
 But there's a ceiling. When inventory turns over 20, 30, or 50 times per year, the math shifts. Instead of efficiency, you're often seeing **understocking**—a situation where the company is so aggressive about keeping inventory lean that it runs out of stock, disappoints customers, and loses sales.
 
@@ -120,14 +120,14 @@ The goal is **optimal turnover for your industry and demand pattern**, not maxim
 
 - [Inventory Turnover](/inventory-turnover/) — the core efficiency metric and how to calculate it
 - [Cash Conversion Cycle](/cash-conversion-cycle/) — broader working capital metric that incorporates inventory, receivables, and payables
-- [Working Capital Management](//) — strategic balance of current assets and liabilities
+- Working Capital Management — strategic balance of current assets and liabilities
 - [Accounts Payable](/accounts-payable/) — how payment terms to suppliers affect inventory holding
 - [Gross Profit Margin](/gross-profit-margin/) — shows whether high turnover is eroding profitability
 
 ### Wider context
 
 - [Operating Lease](/operating-lease/) — alternative to purchasing inventory; relevant for capital-intensive businesses
-- [Supply Chain Risk](//) — operational resilience and dependency mapping
+- Supply Chain Risk — operational resilience and dependency mapping
 - [Business Cycle](/business-cycle/) — how economic cycles affect demand forecasting and inventory management
 - [Return on Assets](/return-on-assets/) — ultimate test of whether high turnover translates to overall business health
 

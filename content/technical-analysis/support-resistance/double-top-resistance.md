@@ -91,7 +91,7 @@ In [high-volatility](/wiki/volatility-index-futures/) regimes (VIX > 25), false 
 - [Resistance Zone Ceiling](/wiki/resistance-zone-ceiling/) — How resistance levels constrain upside moves
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — Overview of chart-based trading and pattern recognition
+- Technical Analysis — Overview of chart-based trading and pattern recognition
 - [Reversal Patterns](/wiki/inverse-head-and-shoulders/) — Candlestick and charting patterns signaling trend changes
 - [Breakout Trading](/wiki/breakout-trading/) — Strategies that capitalize on breaks above resistance
 - [Momentum Investing](/wiki/momentum-investing/) — Counterpoint: following trends rather than betting on reversals

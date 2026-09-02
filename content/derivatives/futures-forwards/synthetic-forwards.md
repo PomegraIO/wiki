@@ -112,6 +112,6 @@ A synthetic forward is a powerful tool for customizing hedges, but it is not a f
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/option/">Option</a> — overview of the broader option market that provides the building blocks for synthetics.</li>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the category encompassing all hedging and risk-transfer tools.</li>
+<li>Derivatives — the category encompassing all hedging and risk-transfer tools.</li>
 </ul>
 </div>

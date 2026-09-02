@@ -10,7 +10,7 @@ keywords:
 
 *An **inverse commodity ETF** is a fund that profits when commodity prices fall, using short selling or derivatives to reverse the directional bet of traditional commodity exposure.*
 
-An inverse commodity ETF allows investors to bet against commodity price movements without executing short sales or [derivatives](/wiki/derivatives/) trades directly. By holding short [futures contracts](/wiki/futures-contract/), [put options](/wiki/put-option/), or other inverse derivative structures, the fund's price moves opposite to the underlying commodity index or spot prices.
+An inverse commodity ETF allows investors to bet against commodity price movements without executing short sales or derivatives trades directly. By holding short [futures contracts](/wiki/futures-contract/), [put options](/wiki/put-option/), or other inverse derivative structures, the fund's price moves opposite to the underlying commodity index or spot prices.
 
 <aside class="wiki-infobox">
 

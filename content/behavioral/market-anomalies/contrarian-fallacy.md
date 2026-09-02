@@ -35,7 +35,7 @@ The fallacy rests on a false premise: that market consensus is randomly distribu
 
 **Pets.com (1999–2000)**: During the dot-com boom, Pets.com went public and its stock soared. The market was extremely bullish—it was the era when any internet company seemed like a sure bet. A contrarian fallacy investor would have assumed "the market is crazy; sell Pets.com." And they would have been right—but for the right reasons: the company had a terrible business model (shipping heavy, low-margin pet food), not because "the market was greedy."
 
-**Tesla (2012–2015)**: After Tesla went public in 2010, the market was deeply skeptical. Traditional automakers and short-sellers argued Tesla would never be profitable. A contrarian fallacy investor would have concluded, "Everyone hates Tesla, therefore buy." And they would have made a fortune. But not because the fallacy was sound. Tesla succeeded because [Elon Musk](/wiki/elon-musk/) executed brilliantly and the long-term fundamentals (EV adoption, technology) were favorable. A contrarian fallacy investor got lucky; they would have done equally well buying any unpopular stock in 2013 (most would have disappointed).
+**Tesla (2012–2015)**: After Tesla went public in 2010, the market was deeply skeptical. Traditional automakers and short-sellers argued Tesla would never be profitable. A contrarian fallacy investor would have concluded, "Everyone hates Tesla, therefore buy." And they would have made a fortune. But not because the fallacy was sound. Tesla succeeded because Elon Musk executed brilliantly and the long-term fundamentals (EV adoption, technology) were favorable. A contrarian fallacy investor got lucky; they would have done equally well buying any unpopular stock in 2013 (most would have disappointed).
 
 **Cryptocurrency (2017–2018 and 2021–2022)**: In late 2017, crypto was euphoric. The market was very bullish on [Bitcoin](/wiki/bitcoin/) at $20,000, [Ethereum](/wiki/ethereum/) at $1,300. A contrarian fallacy investor would reflexively sell, reasoning "the crowd is manic; this will crash." And it did crash—from Jan 2018 to Dec 2018, Bitcoin fell to $3,700. But was the crash due to clear fundamentals, or just mean reversion of a bubble? The contrarian fallacy investor would struggle to articulate this without deep knowledge of blockchain technology, adoption curves, or regulatory risk.
 
@@ -80,8 +80,8 @@ This process sometimes results in a bet against the crowd (because good values o
 
 ### Wider context
 - [Value Investing](/wiki/value-investing/) — The disciplined approach to finding discounted assets
-- [Behavioral Finance](/wiki/behavior/) — The study of how psychology distorts financial decision-making
-- [Market Efficiency](/wiki/efficient-market-hypothesis/) — The debate over whether markets are systematically wrong
+- Behavioral Finance — The study of how psychology distorts financial decision-making
+- Market Efficiency — The debate over whether markets are systematically wrong
 - [Sentiment Reversal](/wiki/sentiment-reversal/) — How sentiment shifts (for valid or invalid reasons)
 
 </div>

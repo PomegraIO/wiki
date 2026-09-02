@@ -57,7 +57,7 @@ An institutional investor with a $100 million stock portfolio might hedge by sho
 
 Futures hedges are most useful for temporary protection (a few months) when you are uncertain about selling the underlying stocks.
 
-## Dynamic hedging and [volatility](/wiki/volatility-index/)
+## Dynamic hedging and volatility
 
 **Dynamic hedging** continuously adjusts the hedge as the market moves. As your portfolio falls in value, you buy more put protection; as it rises, you scale back. This rebalancing locks in gains and minimizes premium waste.
 

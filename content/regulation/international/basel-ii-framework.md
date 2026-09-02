@@ -25,7 +25,7 @@ keywords:
 
 ## Three-pillar structure for bank safety
 
-Basel II introduced a more sophisticated approach to bank regulation than its predecessor, [Basel I](/wiki/basel-i-capital-accord/), by moving from a one-size-fits-all [capital requirement](/wiki/capital-adequacy/) to a risk-sensitive framework. The accord is structured around three pillars: Pillar 1 sets minimum [capital](/wiki/capital-structure-arbitrage/) requirements using detailed risk weights for different asset classes; Pillar 2 establishes supervisory review processes by which national [regulators](/wiki/federal-reserve-regulation/) assess whether banks are holding adequate capital above the floor; and Pillar 3 mandates market discipline through public disclosure of capital positions and [risk](/wiki/risk-management/) exposures.
+Basel II introduced a more sophisticated approach to bank regulation than its predecessor, [Basel I](/wiki/basel-i-capital-accord/), by moving from a one-size-fits-all [capital requirement](/wiki/capital-adequacy/) to a risk-sensitive framework. The accord is structured around three pillars: Pillar 1 sets minimum [capital](/wiki/capital-structure-arbitrage/) requirements using detailed risk weights for different asset classes; Pillar 2 establishes supervisory review processes by which national [regulators](/wiki/federal-reserve-regulation/) assess whether banks are holding adequate capital above the floor; and Pillar 3 mandates market discipline through public disclosure of capital positions and risk exposures.
 
 ## Risk-weighted assets and capital ratios
 
@@ -45,7 +45,7 @@ Pillar 2's supervisory review process gave national [regulators](/wiki/federal-r
 
 ## Market discipline and disclosure
 
-Pillar 3 required banks to publicly disclose their capital structure, the composition of their RWA, their major risk concentrations, and the results of their stress tests. The theory was that [market participants](/wiki/market-maker/) would penalize banks that took on excessive [leverage](/wiki/leveraged-buyout/) or [concentration](/wiki/concentration-risk/), creating a form of self-regulation. In practice, this disclosure proved voluminous and technical, understood mainly by specialists; retail depositors and small investors rarely acted on it.
+Pillar 3 required banks to publicly disclose their capital structure, the composition of their RWA, their major risk concentrations, and the results of their stress tests. The theory was that market participants would penalize banks that took on excessive [leverage](/wiki/leveraged-buyout/) or [concentration](/wiki/concentration-risk/), creating a form of self-regulation. In practice, this disclosure proved voluminous and technical, understood mainly by specialists; retail depositors and small investors rarely acted on it.
 
 ## Criticisms and limitations
 

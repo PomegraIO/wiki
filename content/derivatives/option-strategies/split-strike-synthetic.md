@@ -14,7 +14,7 @@ image: "/svg/derivatives.svg"
 
 ## How the mechanics work
 
-The split-strike synthetic begins with buying a call option and selling a put option. The key distinction from a standard [synthetic long](/wiki/synthetic-long/) is that the two legs sit at different strike prices rather than the same strike.
+The split-strike synthetic begins with buying a call option and selling a put option. The key distinction from a standard synthetic long is that the two legs sit at different strike prices rather than the same strike.
 
 In a typical textbook synthetic, you'd buy an at-the-money call and sell an at-the-money put at the same strike, creating a synthetic long that replicates stock ownership. The split-strike version buys an out-of-the-money call at a higher strike and sells an out-of-the-money put at a lower strike. This misalignment of strikes creates the cost savings—the premium you collect from selling the put at a lower level offsets more of (or may fully subsidize) the call premium you pay.
 
@@ -58,7 +58,7 @@ Split-strike synthetics also assume you will actually exit or roll the position.
 
 - [Option](/wiki/option/) — a contract granting the right to buy or sell an underlying asset at a set price
 - [Strike price](/wiki/strike-price/) — the fixed price at which an option can be exercised
-- [Synthetic long](/wiki/synthetic-long/) — a call bought and put sold at the same strike to replicate stock ownership
+- Synthetic long — a call bought and put sold at the same strike to replicate stock ownership
 - [Zero-cost collar](/wiki/zero-cost-collar/) — selling an upside call to finance downside put protection on owned stock
 - [Call option](/wiki/call-option/) — the right to buy an underlying asset at a fixed price before expiration
 - [Put option](/wiki/put-option/) — the right to sell an underlying asset at a fixed price before expiration
@@ -68,7 +68,7 @@ Split-strike synthetics also assume you will actually exit or roll the position.
 
 - [Leverage ratio (forex)](/wiki/leverage-ratio-forex/) — using borrowed capital to amplify position size and returns
 - [Risk management](/wiki/value-at-risk/) — quantifying and limiting downside exposure
-- [Derivative](/wiki/derivatives/) — financial instruments whose value is derived from an underlying asset
+- Derivative — financial instruments whose value is derived from an underlying asset
 - [Volatility smile](/wiki/volatility-smile/) — the observed pattern that implied volatility varies across strike prices
 
 </div>

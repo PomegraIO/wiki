@@ -65,7 +65,7 @@ Sales tax law assumes retail transactions in physical locations. Digital goods (
 ### Closely related
 - [Value-Added Tax](/wiki/value-added-tax/) — alternative consumption tax with rebating mechanism
 - [Tax Incidence](/wiki/tax-incidence/) — economic burden distribution
-- [Regressive Tax](/wiki/regressivity/) — disproportionate burden on low-income households
+- Regressive Tax — disproportionate burden on low-income households
 - [Corporate Income Tax](/wiki/corporate-income-tax/) — alternative revenue source
 
 ### Wider context

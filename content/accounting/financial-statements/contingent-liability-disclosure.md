@@ -9,7 +9,7 @@ keywords:
   - accounting standards
 ---
 
-*A **contingent liability** is a potential obligation that may or may not become a real debt, depending on the outcome of a future event (typically a legal or regulatory matter). Because these obligations are not yet certain, they are not recorded as liabilities on the [balance sheet](/wiki/balance-sheet/). Instead, they are disclosed in footnotes to the [financial statements](/wiki/financial-statements/), alerting investors to risks that could materially impact the company's financial position.*
+*A **contingent liability** is a potential obligation that may or may not become a real debt, depending on the outcome of a future event (typically a legal or regulatory matter). Because these obligations are not yet certain, they are not recorded as liabilities on the [balance sheet](/wiki/balance-sheet/). Instead, they are disclosed in footnotes to the financial statements, alerting investors to risks that could materially impact the company's financial position.*
 
 <aside class="wiki-infobox">
 
@@ -91,7 +91,7 @@ These different standards can lead to different accruals for the same fact patte
 
 ## Subsequent events and restatements
 
-If a contingency is disclosed as "reasonably possible" but later a court rules unfavorably before the financial statements are even issued, the company may restate to accrue the now-probable liability. If a settlement occurs after the balance sheet date but before issuance, it's disclosed as a [subsequent event](/wiki/financial-statements/) in the notes.
+If a contingency is disclosed as "reasonably possible" but later a court rules unfavorably before the financial statements are even issued, the company may restate to accrue the now-probable liability. If a settlement occurs after the balance sheet date but before issuance, it's disclosed as a subsequent event in the notes.
 
 If a settlement occurs after the financial statements are issued, the company discloses it in the next quarter's 10-Q, explaining the settlement amount and any tax implications.
 
@@ -113,14 +113,14 @@ Activist investors and short-sellers sometimes scrutinize contingency disclosure
 
 ### Closely related
 - [Balance Sheet](/wiki/balance-sheet/) — Where accrued liabilities are recorded
-- [Financial Statements](/wiki/financial-statements/) — Contains both balance sheet and notes
+- Financial Statements — Contains both balance sheet and notes
 - [Accounting Standards](/wiki/generally-accepted-accounting-principles/) — GAAP and IFRS rules governing accruals
-- [Litigation Reserve](/wiki/corporate-governance/) — Accruals for pending lawsuits
+- Litigation Reserve — Accruals for pending lawsuits
 
 ### Wider context
 - [10-K](/wiki/10-k/) — Annual filing containing contingency disclosures
 - [Management Certification](/wiki/management-certification/) — CEO/CFO attestation of disclosure accuracy
-- [Risk Disclosure](/wiki/financial-statements/) — General category of risk information
+- Risk Disclosure — General category of risk information
 - [Internal Control Assessment](/wiki/internal-control-assessment/) — Ensures contingencies are identified and disclosed
 
 </div>

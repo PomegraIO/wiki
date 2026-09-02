@@ -84,7 +84,7 @@ A portfolio manager might maintain a core of long-term holdings (investor discip
 ### Closely related
 - [Jesse Livermore](/wiki/jesse-livermore/) — The legendary speculator and his methods.
 - [Bernard Baruch](/wiki/bernard-baruch/) — The legendary investor and his philosophy.
-- [Technical Analysis](/wiki/technical-analysis/) — Methods speculators use to time trades.
+- Technical Analysis — Methods speculators use to time trades.
 - [Fundamental Investing](/wiki/fundamental-investing/) — Analysis methods investors use.
 - [Momentum Investing](/wiki/momentum-investing/) — Speculator-style pursuit of trends.
 

@@ -33,7 +33,7 @@ Cohen began trading for himself in 1986, making markets in stocks and later spec
 
 SAC Capital (Stamford Arbitrage Capital), founded in 1992 with $25 million, grew to $15 billion in AUM by 2013 through consistent high returns (~20% annualized even after fees). The fund employed a **multi-strategy** model: [merger arbs](/wiki/merger-arbitrage/), [statistical arbitrage](/wiki/statistical-arbitrage/), [convertible](/wiki/convertible-bond/) arbs, [options strategies](/wiki/option/), and stock picking across sectors. Cohen empowered talented traders to run their own "pods" with dedicated capital. SAC compensated performance extremely generously — a trader generating $100 million in profits might pocket $30 million in bonus, an arrangement rare outside prop trading.
 
-The model was aggressive and information-intensive. SAC traders hunted for information edges: they cultivated relationships with corporate insiders, attended investor days, and analyzed filings with surgical precision. In a market where [edge](/wiki/edge-advantage/) degrades quickly, SAC's advantage was volume and intelligence density.
+The model was aggressive and information-intensive. SAC traders hunted for information edges: they cultivated relationships with corporate insiders, attended investor days, and analyzed filings with surgical precision. In a market where edge degrades quickly, SAC's advantage was volume and intelligence density.
 
 ## The insider trading scandal and wind-down
 

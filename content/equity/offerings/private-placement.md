@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A private placement is the sale of securities to a limited group of accredited or institutional investors without a public offering. Private placements are used by both private and [public companies](/public-company/) to raise capital more quickly and cheaply than public offerings. They are governed by Regulation D under US securities law, which exempts certain private offerings from the requirement to register with the SEC. [PIPE offerings](/equity/pipe-offering/) are a subset of private placements (sales by public companies) while most private placements are by private companies.*
+*A private placement is the sale of securities to a limited group of accredited or institutional investors without a public offering. Private placements are used by both private and [public companies](/public-company/) to raise capital more quickly and cheaply than public offerings. They are governed by Regulation D under US securities law, which exempts certain private offerings from the requirement to register with the SEC. [PIPE offerings](/pipe-offering/) are a subset of private placements (sales by public companies) while most private placements are by private companies.*
 
 <aside class="wiki-infobox">
 
@@ -61,7 +61,7 @@ This is the primary way startups raise capital in Series A, B, C rounds.
 
 ## Public company private placements
 
-A [public company](/public-company/) can also conduct a private placement (a [PIPE offering](/equity/pipe-offering/)):
+A [public company](/public-company/) can also conduct a private placement (a [PIPE offering](/pipe-offering/)):
 
 - Company sells shares to institutional investors at a discount.
 - Transaction closes quickly.
@@ -141,18 +141,18 @@ Large investors in private placements sometimes negotiate strategic arrangements
 
 ### Closely related
 
-- [PIPE offering](/equity/pipe-offering/) — private placement by public company
-- [Warrant](/equity/warrant/) — often issued with private placements
-- [Anti-dilution provision](/equity/private-placement/) — negotiated in placements
-- [Liquidation preference](/equity/convertible-preferred/) — used in preferred placements
-- [Rule 144](/equity/private-placement/) — restrictions on resale
+- [PIPE offering](/pipe-offering/) — private placement by public company
+- [Warrant](/warrant/) — often issued with private placements
+- [Anti-dilution provision](/private-placement/) — negotiated in placements
+- [Liquidation preference](/convertible-preferred/) — used in preferred placements
+- [Rule 144](/private-placement/) — restrictions on resale
 
 ### Wider context
 
-- [Venture capital](/equity/founder-shares/) — main user of private placements
+- [Venture capital](/founder-shares/) — main user of private placements
 - [Public company](/public-company/) — sometimes conducts placements
-- [Accredited investor](/equity/private-placement/) — primary buyer
-- [Securities law](/equity/private-placement/) — Regulation D framework
-- [Startup](/equity/founder-shares/) — primary vehicle for funding
+- [Accredited investor](/private-placement/) — primary buyer
+- [Securities law](/private-placement/) — Regulation D framework
+- [Startup](/founder-shares/) — primary vehicle for funding
 
 </div>

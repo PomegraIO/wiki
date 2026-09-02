@@ -56,7 +56,7 @@ Activist Nelson Peltz and the Trian Fund have excelled at this. Separations and 
 
 ## The financial engineer
 
-Some activists focus on financial structure rather than operations. They push for increased leverage, accelerated share buybacks, special dividends, or debt-financed acquisitions. The goal is to boost stock price through [financial-engineering](/wiki/financial-engineering/), not operational improvement.
+Some activists focus on financial structure rather than operations. They push for increased leverage, accelerated share buybacks, special dividends, or debt-financed acquisitions. The goal is to boost stock price through financial-engineering, not operational improvement.
 
 Example: A company trades at 8x EBITDA and has minimal leverage. An activist pushes the CFO to borrow $2B (taking leverage to 2.5x EBITDA) and deploy the proceeds to a accelerated share buyback. The share count falls; [earnings-per-share](/wiki/earnings-per-share/) rises purely from the buyback, even if total earnings are flat. Stock price rises due to the lower share count and increased [return-on-equity](/wiki/return-on-equity/) (due to debt leverage). The activist exits at the higher price.
 
@@ -112,6 +112,6 @@ The typology is not discrete; many campaigns blend elements. An activist might d
 - [corporate-governance](/wiki/board-of-directors/) — Target for reform
 - [operating-margin](/wiki/operating-margin/) — Typical metric pressure
 - [conglomerate-discount](/wiki/conglomerate-discount/) — Value unlock rationale
-- [financial-engineering](/wiki/financial-engineering/) — Strategy lever
+- financial-engineering — Strategy lever
 
 </div>

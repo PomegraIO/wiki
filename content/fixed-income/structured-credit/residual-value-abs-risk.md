@@ -11,7 +11,7 @@ keywords:
 image: /svg/fixed-income.svg
 ---
 
-*[**Residual value risk**](//) in auto and equipment-backed [asset-backed securities](//) (ABS) is the risk that leased vehicles, equipment, or machinery will be worth less at the end of the lease than the originator forecast, leaving a gap between the residual value guarantee and the market price. Unlike [credit risk](/credit-risk/), which is the tenant or obligor defaulting on lease payments, residual value risk is about the collateral being worth less—and when realized, it erodes the [subordination](//) layers that protect senior bondholders.*
+***Residual value risk** in auto and equipment-backed asset-backed securities (ABS) is the risk that leased vehicles, equipment, or machinery will be worth less at the end of the lease than the originator forecast, leaving a gap between the residual value guarantee and the market price. Unlike [credit risk](/credit-risk/), which is the tenant or obligor defaulting on lease payments, residual value risk is about the collateral being worth less—and when realized, it erodes the subordination layers that protect senior bondholders.*
 
 <aside class="wiki-infobox">
 
@@ -117,9 +117,9 @@ Originators also publish residual value methodology and assumptions in the prosp
 
 ### Closely related
 
-- [Asset-Backed Security](//) — the instrument in which residual value risk is embedded
+- Asset-Backed Security — the instrument in which residual value risk is embedded
 - [Credit Risk](/credit-risk/) — the complementary risk of obligor default
-- [Subordination](//) — the tranching mechanism that allocates residual risk
+- Subordination — the tranching mechanism that allocates residual risk
 - [Tranche](/tranche/) — the individual bonds in an ABS bearing different levels of residual exposure
 - [Securitization](/securitization/) — the process that converts leases into ABS and surfaces residual risk
 - [Mortgage-Backed Security](/mortgage-backed-security/) — an ABS variant with its own residual dynamics (home prices)

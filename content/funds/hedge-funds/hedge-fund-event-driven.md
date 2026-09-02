@@ -37,7 +37,7 @@ Event-driven investing rests on the premise that events have probable outcomes, 
 
 Event-driven investing is not risk-free. Deal failure is a real possibility. A $50 deal at $48 can collapse if the buyer's board changes its mind, if a larger bidder emerges, or if financing falls through. When deals fail, the stock often falls sharply, and the arbitrageur absorbs the loss. Regulatory changes—such as antitrust challenges from the FTC—can kill mergers entirely.
 
-Timing is also critical. Some events resolve quickly (within weeks), others take years. A fund betting on a deal closure in 6 months faces [opportunity cost](/wiki/opportunity-cost/) if the deal is delayed. Worse, a delayed deal may eventually close at a lower price due to changed circumstances. The 2022 Elon Musk-Twitter deal, for example, was announced at $54 in April but faced extreme uncertainty for months before closing in October at the original price—arbitrageurs who bought the target had to wait many months for a deal that looked like it might not happen.
+Timing is also critical. Some events resolve quickly (within weeks), others take years. A fund betting on a deal closure in 6 months faces opportunity cost if the deal is delayed. Worse, a delayed deal may eventually close at a lower price due to changed circumstances. The 2022 Elon Musk-Twitter deal, for example, was announced at $54 in April but faced extreme uncertainty for months before closing in October at the original price—arbitrageurs who bought the target had to wait many months for a deal that looked like it might not happen.
 
 ## Leverage and portfolio construction
 
@@ -71,7 +71,7 @@ The strategy is particularly attractive to institutional investors seeking retur
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/merger/">Merger</a> — the main event type the fund trades.</li>
-  <li><a href="/wiki/bankruptcy/">Bankruptcy</a> — the legal framework for some event-driven trades.</li>
+  <li>Bankruptcy — the legal framework for some event-driven trades.</li>
   <li><a href="/wiki/insider-trading-law/">Insider trading law</a> — the regulatory constraint on event-driven strategies.</li>
 </ul>
 </div>

@@ -92,7 +92,7 @@ In response, some exchanges and regulators have created "alternative" listing ti
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/stock-exchange/">Stock exchange</a> — sets and enforces requirements.</li>
-  <li><a href="/wiki/sec/">SEC</a> — regulates exchanges and their standards.</li>
+  <li>SEC — regulates exchanges and their standards.</li>
   <li><a href="/wiki/public-company/">Public company</a> — subject to listing requirements.</li>
 </ul>
 </div>

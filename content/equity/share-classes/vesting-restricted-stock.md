@@ -154,6 +154,6 @@ Companies sometimes offer:
 <ul>
   <li><a href="/wiki/employee-shares/">Employee Shares</a> — broader category of equity issued to employees.</li>
   <li><a href="/wiki/common-stock/">Common Stock</a> — the underlying shares that become fully owned after vesting.</li>
-  <li><a href="/wiki/stock-based-compensation/">Stock-Based Compensation</a> — the company's accounting treatment of vesting restricted stock grants.</li>
+  <li>Stock-Based Compensation — the company's accounting treatment of vesting restricted stock grants.</li>
 </ul>
 </div>

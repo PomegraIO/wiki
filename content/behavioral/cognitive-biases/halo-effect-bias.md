@@ -90,7 +90,7 @@ Academic research documents halo effect patterns:
 
 ## Related biases and compounding
 
-The halo effect often combines with other [cognitive biases](/wiki/cognitive-biases/):
+The halo effect often combines with other cognitive biases:
 
 - **[Confirmation bias](/wiki/confirmation-bias/).** Investors interpreting all news about a high-halo company as confirmatory, ignoring contradictions.
 - **[Availability heuristic](/wiki/availability-heuristic/).** Recent successes are vivid in memory, biasing expectations.
@@ -105,12 +105,12 @@ Taken together, these biases create a dangerous cocktail: overvalued high-flyers
 - [Confirmation Bias](/wiki/confirmation-bias/) — Interpreting evidence to support existing belief
 - [Availability Heuristic](/wiki/availability-heuristic/) — Overweighting memorable information
 - [Overconfidence Bias](/wiki/overconfidence-bias/) — Overestimating one's abilities
-- [Horns Effect](/wiki/cognitive-biases/) — Reverse halo; one negative trait taints overall perception
+- Horns Effect — Reverse halo; one negative trait taints overall perception
 
 ### Wider context
 - [Momentum Investing](/wiki/momentum-investing/) — Strategy that can be amplified by halo effects
 - [Deep Moat Investing](/wiki/deep-moat-investing/) — Distinguishing real competitive advantages from halo effects
 - [Value Investing](/wiki/value-investing/) — Approach that exploits halo-driven mispricings
-- [Behavioral Investing](/wiki/cognitive-biases/) — Framework for understanding investor psychology
+- Behavioral Investing — Framework for understanding investor psychology
 
 </div>

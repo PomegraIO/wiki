@@ -32,7 +32,7 @@ The conventional expectation was a second [Great Depression](/wiki/great-depress
 
 U.S. Secretary of State George Marshall unveiled his eponymous plan in June 1948. The U.S. would transfer $12 billion (roughly $150 billion in 2020s dollars) to rebuild Western Europe. The conditions: recipients had to:
 - Agree to free trade and currency convertibility.
-- Join Western anti-communist alliance ([NATO](/wiki/nato/) formed 1949).
+- Join Western anti-communist alliance (NATO formed 1949).
 - Abandon [capital-control-policy](/wiki/capital-control-policy/) and adopt [fixed-exchange-rate](/wiki/fixed-exchange-rate/) discipline under the new [Bretton-Woods](/wiki/bretton-woods-agreement/) system.
 
 The Marshall Plan was simultaneously an economic investment and a geopolitical move: block Soviet expansion, keep Western Europe capitalist and democratic, and create a market for U.S. goods.
@@ -49,7 +49,7 @@ By the 1960s, Japan was the world's second-largest economy after the U.S. and le
 
 The [Bretton-Woods](/wiki/bretton-woods-agreement/) conference (1944) created the [International-Monetary-Fund](/wiki/imf-bailout/) and World Bank, plus a dollar-centered fixed-exchange-rate system. The dollar was pegged to gold; other currencies pegged to the dollar at fixed rates.
 
-This system was ideal for reconstruction: stable exchange rates reduced risk for cross-border [capital-flows](/wiki/capital-flows/), and U.S. dollar reserves (held by foreign central banks) provided the [liquidity](/wiki/liquidity-risk/) to finance growth without inflation spirals. Nations knew the rules and could plan long-term [investment](/wiki/capital-allocation/).
+This system was ideal for reconstruction: stable exchange rates reduced risk for cross-border [capital-flows](/wiki/capital-flows/), and U.S. dollar reserves (held by foreign central banks) provided the [liquidity](/wiki/liquidity-risk/) to finance growth without inflation spirals. Nations knew the rules and could plan long-term investment.
 
 The system lasted until 1971, when U.S. gold reserves depleted and [Nixon-shock](/wiki/nixon-shock/) ended convertibility. But for 25 years, it was the bedrock of the post-war boom.
 
@@ -57,7 +57,7 @@ The system lasted until 1971, when U.S. gold reserves depleted and [Nixon-shock]
 
 Post-war reconstruction coincided with the rise of the welfare state. Governments expanded [social-security](/wiki/social-security-personal/), healthcare, education, and [unemployment](/wiki/unemployment-rate/) insurance. Trade unions negotiated generous [wage-growth](/wiki/wage-growth-expectations/) contracts backed by steady [inflation](/wiki/inflation/) and [output-gap](/wiki/output-gap/) slack.
 
-This was not planned by Marshall; it emerged organically as democratic governments responded to voter demands for security after decades of war and depression. The result: rising living standards, declining [income-inequality](/wiki/income-distribution/) (at least in the West), and political stability. The Soviet bloc, lacking this decentralized dynamism, relied on command-and-control and fell further behind.
+This was not planned by Marshall; it emerged organically as democratic governments responded to voter demands for security after decades of war and depression. The result: rising living standards, declining income-inequality (at least in the West), and political stability. The Soviet bloc, lacking this decentralized dynamism, relied on command-and-control and fell further behind.
 
 ## Growth from 1950 to 1973
 

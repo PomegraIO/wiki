@@ -11,7 +11,7 @@ keywords:
 image: /svg/markets.svg
 ---
 
-*The difference between exchange and OTC markets hinges on structure and transparency: **exchanges** pool orders on one platform with published prices and [central counterparties](https://example.com), while **OTC markets** are bilateral dealer networks where prices are negotiated privately and counterparty risk sits with the trading partner.*
+*The difference between exchange and OTC markets hinges on structure and transparency: **exchanges** pool orders on one platform with published prices and central counterparties, while **OTC markets** are bilateral dealer networks where prices are negotiated privately and counterparty risk sits with the trading partner.*
 
 <aside class="wiki-infobox">
 
@@ -37,7 +37,7 @@ image: /svg/markets.svg
 
 An exchange is a formal, regulated marketplace where standardized contracts trade under a unified set of rules. Buyers and sellers submit orders to a central matching engine, which pairs them automatically at the best available price. The [New York Stock Exchange](/new-york-stock-exchange/), [NASDAQ](/nasdaq/), the Chicago Board of Trade (CBOT), and most derivatives exchanges worldwide function this way.
 
-The exchange itself does not take the other side of your trade. Instead, a [central counterparty clearinghouse](https://example.com)—often a separate legal entity run by the exchange operator—interposes itself between every buyer and seller. When you buy 100 shares on the NYSE, you technically trade with the clearinghouse, not with the person who sold those shares. This design eliminates the risk that your trading partner will default.
+The exchange itself does not take the other side of your trade. Instead, a central counterparty clearinghouse—often a separate legal entity run by the exchange operator—interposes itself between every buyer and seller. When you buy 100 shares on the NYSE, you technically trade with the clearinghouse, not with the person who sold those shares. This design eliminates the risk that your trading partner will default.
 
 Prices are transparent and continuously visible. Every trader sees the same [bid-ask spread](/bid-ask-spread/) and can monitor real-time price movement. Published trade data flows to market data vendors within seconds, ensuring that regulators, researchers, and participants have a shared view of recent transactions.
 
@@ -65,7 +65,7 @@ On an exchange, [counterparty risk](/counterparty-risk/) is centralized in the c
 
 Counterparty risk is measurable: a trader on an exchange knows precisely who the ultimate counterparty is (the clearinghouse) and can assess its safety.
 
-In OTC markets, your counterparty is the dealer you trade with. If the dealer fails, you lose money (or at minimum, your position is frozen pending resolution). Large institutional traders manage this risk by demanding collateral—they post [margin](https://example.com) to the dealer, who posts margin back. But the risk asymmetry can be stark: a small firm trading with a big bank has limited leverage to demand equal protections.
+In OTC markets, your counterparty is the dealer you trade with. If the dealer fails, you lose money (or at minimum, your position is frozen pending resolution). Large institutional traders manage this risk by demanding collateral—they post margin to the dealer, who posts margin back. But the risk asymmetry can be stark: a small firm trading with a big bank has limited leverage to demand equal protections.
 
 During the 2008 financial crisis, this difference mattered enormously. Lehman Brothers' bankruptcy created cascading OTC counterparty defaults; exchange-cleared positions were largely protected by clearinghouses that stood good on Lehman's obligations.
 
@@ -79,7 +79,7 @@ During the 2008 financial crisis, this difference mattered enormously. Lehman Br
 
 **OTC markets are necessary for**:
 - Bespoke derivatives (exotic options, complex swaps) where standardization is impossible.
-- Large block trades where the size exceeds typical exchange [order](https://example.com) sizes.
+- Large block trades where the size exceeds typical exchange order sizes.
 - Less liquid products (most corporate bonds, emerging-market debt, specialized currencies).
 - Products requiring credit negotiation or collateral customization.
 
@@ -97,9 +97,9 @@ Exchanges remain the most heavily regulated trading venues. Listing standards, t
 
 **Stock trading**: You want to buy 1,000 shares of Apple. The best approach is the NYSE or NASDAQ, where the [bid-ask spread](/bid-ask-spread/) is typically a penny or less, and your order is guaranteed to clear through the clearinghouse within one trading day.
 
-**Corporate bond trading**: You want to buy $5 million of a 5-year bond issued by a mid-cap company. The bond might list on the [NYSE Bonds](https://example.com) platform, but most traders do not shop on the exchange—they call a dealer, get a quote, and trade OTC. Spreads are wider than stocks (perhaps 25 to 50 cents per $100 par), and you bear counterparty risk with the dealer.
+**Corporate bond trading**: You want to buy $5 million of a 5-year bond issued by a mid-cap company. The bond might list on the NYSE Bonds platform, but most traders do not shop on the exchange—they call a dealer, get a quote, and trade OTC. Spreads are wider than stocks (perhaps 25 to 50 cents per $100 par), and you bear counterparty risk with the dealer.
 
-**Interest-rate swaps**: You want to hedge floating-rate debt with a fixed-rate swap. This contract is bespoke (maturity, notional, basis, credit support annex clauses, etc.) and trades only OTC, but under Dodd-Frank, you likely must clear it through a [DTCC](https://example.com)-affiliated clearinghouse and may be required to report it to a trade repository.
+**Interest-rate swaps**: You want to hedge floating-rate debt with a fixed-rate swap. This contract is bespoke (maturity, notional, basis, credit support annex clauses, etc.) and trades only OTC, but under Dodd-Frank, you likely must clear it through a DTCC-affiliated clearinghouse and may be required to report it to a trade repository.
 
 **Spot foreign exchange**: A multinational corporation needs to convert euros to dollars. This trade happens OTC over the spot FX market, which is highly liquid and operates 24/5 with tight spreads. There is no exchange; instead, currency dealers (banks) quote continuously, and the corporation accepts the best available bid or offer.
 

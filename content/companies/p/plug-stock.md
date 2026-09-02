@@ -62,7 +62,7 @@ There is also an [execution risk](/execution-risk/): Plug has historically strug
 
 ## How Plug shows up in the 10-K
 
-Plug's annual 10-K filing (SEC CIK 0001093691) will show a company that is growing revenue and expanding into new markets but still not profitable on a [cash basis](/wiki/operating-cash-flow/). The metrics that matter most are the number of fuel-cell systems deployed (installed base) and the hydrogen supply contracts signed. Those figures indicate whether the company is gaining true customer traction or simply burning cash on subsidized deployments that would not happen without government support.
+Plug's annual 10-K filing (SEC CIK 0001093691) will show a company that is growing revenue and expanding into new markets but still not profitable on a cash basis. The metrics that matter most are the number of fuel-cell systems deployed (installed base) and the hydrogen supply contracts signed. Those figures indicate whether the company is gaining true customer traction or simply burning cash on subsidized deployments that would not happen without government support.
 
 The earnings calls reveal management's view on when hydrogen adoption will accelerate, which markets are gaining traction, and what regulatory or subsidy changes are on the horizon. A reader should pay attention to how much of Plug's revenue depends on subsidy versus pure customer economics, and whether large customers are expanding or contracting their hydrogen deployments.
 

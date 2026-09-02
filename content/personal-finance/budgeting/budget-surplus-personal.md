@@ -53,7 +53,7 @@ For [employees with year-end bonuses](/wiki/401k-employer-match/), a common trap
 
 ## Surplus and household structure
 
-Multi-income households often develop larger surpluses because fixed expenses (rent, mortgage, utilities) don't scale linearly with household size. A couple earning $120k combined with $60k expenses has 50% surplus potential, whereas dual-income earners with more lifestyle inflation may achieve only 15%. This is why [household budgeting](/wiki/budgeting-methods/) and [financial communication](/wiki/household-budget/) matter in relationships—one partner's spending discipline can undermine the other's savings goals.
+Multi-income households often develop larger surpluses because fixed expenses (rent, mortgage, utilities) don't scale linearly with household size. A couple earning $120k combined with $60k expenses has 50% surplus potential, whereas dual-income earners with more lifestyle inflation may achieve only 15%. This is why [household budgeting](/wiki/budgeting-methods/) and financial communication matter in relationships—one partner's spending discipline can undermine the other's savings goals.
 
 Single-income households and those supporting dependents face tighter margins. Surplus becomes a function of [cost control](/wiki/discretionary-spending-personal/), not just income size.
 

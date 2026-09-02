@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A stock dividend is a [dividend](/dividend/) paid in additional shares rather than cash. Instead of sending shareholders $1 per share, a company sends 0.1 new shares per share held (a 10% stock dividend). The total value of a shareholder's position is unchanged, but the number of shares increases and the per-share price declines proportionally. Stock dividends are economically equivalent to [stock splits](/equity/stock-split/) but are sometimes used when a [cash dividend](/dividend/) is not sustainable.*
+*A stock dividend is a [dividend](/dividend/) paid in additional shares rather than cash. Instead of sending shareholders $1 per share, a company sends 0.1 new shares per share held (a 10% stock dividend). The total value of a shareholder's position is unchanged, but the number of shares increases and the per-share price declines proportionally. Stock dividends are economically equivalent to [stock splits](/stock-split/) but are sometimes used when a [cash dividend](/dividend/) is not sustainable.*
 
 <aside class="wiki-infobox">
 
@@ -128,17 +128,17 @@ Some companies offer **dividend reinvestment plans (DRIPs)** that automatically 
 
 ### Closely related
 
-- [Stock split](/equity/stock-split/) — economically equivalent but technically a split
-- [Reverse stock split](/equity/reverse-stock-split/) — opposite direction
+- [Stock split](/stock-split/) — economically equivalent but technically a split
+- [Reverse stock split](/reverse-stock-split/) — opposite direction
 - [Dividend](/dividend/) — the cash alternative
-- [Dividend reinvestment plan](/equity/dividend-reinvestment/) — automates stock reinvestment
+- Dividend reinvestment plan — automates stock reinvestment
 - [Earnings per share](/earnings-per-share/) — adjusted for stock dividends
 
 ### Wider context
 
-- [Common stock](/equity/common-stock/) — what is distributed
+- [Common stock](/common-stock/) — what is distributed
 - [Stock market](/stock-market/) — prices adjusted for dividends
-- [Shareholder value](/equity/share-buyback/) — how dividends return value
+- [Shareholder value](/share-buyback/) — how dividends return value
 - [Public company](/public-company/) — issues stock dividends
 - [Market capitalization](/market-capitalization/) — unchanged by stock dividend
 

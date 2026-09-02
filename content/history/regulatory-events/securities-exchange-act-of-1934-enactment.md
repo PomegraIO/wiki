@@ -87,7 +87,7 @@ Market integrity rules also eventually covered things the 1934 Act did not expli
 
 ## The feedback loop: 1934 to Sarbanes-Oxley
 
-The 1934 Act was remarkably durable, but it was amended. After the [Enron scandal](/wiki/enron/) in 2001, Congress passed the Sarbanes-Oxley Act, which tightened auditor independence rules, required CEO certification of financial statements, and created the Public Company Accounting Oversight Board.
+The 1934 Act was remarkably durable, but it was amended. After the Enron scandal in 2001, Congress passed the Sarbanes-Oxley Act, which tightened auditor independence rules, required CEO certification of financial statements, and created the Public Company Accounting Oversight Board.
 
 Sarbanes-Oxley did not replace the 1934 Act—it reinforced it. The SEC continued to enforce 1934 rules while also implementing Sarbanes-Oxley's new requirements. Even after the 2008 financial crisis, the SEC's foundation remained the 1934 Act, with the [Dodd-Frank Act](/wiki/dodd-frank-act/) layering new rules on top.
 
@@ -117,6 +117,6 @@ Yet despite its limits, the 1934 Act remains the skeleton key to American securi
 - [Dodd-Frank Act](/wiki/dodd-frank-act/) — the 2010 law extending regulation to derivatives and systemically important financial institutions
 - [Stock exchange](/wiki/stock-exchange/) — the venue regulated under the 1934 Act
 - [Broker](/wiki/broker/) — intermediaries regulated and supervised by the SEC
-- [Corporate governance](/wiki/corporate-governance/) — the rules and practices governing how companies are managed, rooted in 1934
+- Corporate governance — the rules and practices governing how companies are managed, rooted in 1934
 
 </div>

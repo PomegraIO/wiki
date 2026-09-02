@@ -74,7 +74,7 @@ The optimal growth rate is not the fastest growth rate. It's the growth rate tha
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/discounted-cash-flow-valuation/">Discounted Cash Flow Valuation</a> — uses ROIC and WACC to estimate terminal value.</li>
-<li><a href="/wiki/economic-profit/">Economic Value Added</a> — excess return above WACC, a measure of value creation.</li>
-<li><a href="/wiki/competitive-moat/">Moat</a> — sustainable advantage that maintains ROIC above WACC.</li>
+<li>Economic Value Added — excess return above WACC, a measure of value creation.</li>
+<li>Moat — sustainable advantage that maintains ROIC above WACC.</li>
 </ul>
 </div>

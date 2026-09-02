@@ -102,7 +102,7 @@ Most investors are better served with a core large-cap holding (70–80% of equi
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/etf/">ETF</a> — the broader structure.</li>
-<li><a href="/wiki/volatility/">Volatility</a> — the risk characteristic of small-caps.</li>
+<li>Volatility — the risk characteristic of small-caps.</li>
 <li><a href="/wiki/diversification/">Diversification</a> — small-caps as a diversifier.</li>
 </ul>
 </div>

@@ -28,11 +28,11 @@ keywords:
 
 ## The intuition behind inverse correlation weighting
 
-Consider two assets: a technology stock and a utility stock. If they are perfectly uncorrelated (correlation = 0), both contribute equally to [diversification](/wiki/diversification/). If they are highly correlated (correlation = 0.9), holding both is nearly redundant—buying more of the correlated asset does not reduce [portfolio volatility](/wiki/portfolio-volatility/) as much.
+Consider two assets: a technology stock and a utility stock. If they are perfectly uncorrelated (correlation = 0), both contribute equally to [diversification](/wiki/diversification/). If they are highly correlated (correlation = 0.9), holding both is nearly redundant—buying more of the correlated asset does not reduce portfolio volatility as much.
 
 Inverse correlation weighting formalizes this trade-off. An asset with low average correlation to the rest of the portfolio earns a higher weight because it provides more diversification per unit of volatility. An asset with high average correlation earns a lower weight because it is already largely represented by other holdings.
 
-The appeal is simplicity: the method requires only a [correlation matrix](/wiki/correlation-coefficient/), not forecasts of future returns or [volatility](/wiki/volatility/). It is a *risk-based* allocation rule, not a return-based one.
+The appeal is simplicity: the method requires only a [correlation matrix](/wiki/correlation-coefficient/), not forecasts of future returns or volatility. It is a *risk-based* allocation rule, not a return-based one.
 
 ## Computing weights from the inverse correlation matrix
 
@@ -58,11 +58,11 @@ Assets with higher row sums (lower average correlations) receive heavier allocat
 
 ## Why inverse correlation weighting reduces volatility
 
-The method exploits a fundamental principle: [portfolio volatility](/wiki/portfolio-variance/) depends on both individual [volatilities](/wiki/volatility/) and correlations. A portfolio of perfectly correlated assets has volatility equal to the weighted average of constituent volatilities. A portfolio of uncorrelated assets has lower volatility because diversification reduces the "effective risk."
+The method exploits a fundamental principle: portfolio volatility depends on both individual volatilities and correlations. A portfolio of perfectly correlated assets has volatility equal to the weighted average of constituent volatilities. A portfolio of uncorrelated assets has lower volatility because diversification reduces the "effective risk."
 
 By over-weighting uncorrelated positions, inverse correlation weighting lowers the portfolio's sensitivity to any single asset or risk factor. If asset A is uncorrelated with the rest, increasing its weight does not increase overall risk much. If asset B is highly correlated, reducing its weight removes redundant risk without sacrificing diversification.
 
-The method is similar in spirit to [minimum-variance portfolio](/wiki/minimum-variance-portfolio/) construction but avoids the need to forecast future [volatility](/wiki/volatility/). Minimum-variance solves a quadratic optimization problem to find the lowest-volatility portfolio; inverse correlation weighting uses a simpler rule that often delivers comparable results.
+The method is similar in spirit to [minimum-variance portfolio](/wiki/minimum-variance-portfolio/) construction but avoids the need to forecast future volatility. Minimum-variance solves a quadratic optimization problem to find the lowest-volatility portfolio; inverse correlation weighting uses a simpler rule that often delivers comparable results.
 
 ## Comparison to equal-weight and market-cap weighting
 
@@ -85,7 +85,7 @@ To implement inverse correlation weighting:
 
 The approach scales well: even a 100-asset portfolio requires only a 100×100 matrix inversion, which modern computers execute in milliseconds.
 
-A key decision is the rebalancing frequency. Correlations are not stationary—they shift as market regimes change ([volatility clustering](/wiki/volatility-clustering/), crisis contagion). Quarterly rebalancing is common for institutional portfolios; monthly is more responsive but incurs higher [transaction costs](/wiki/transaction-cost/).
+A key decision is the rebalancing frequency. Correlations are not stationary—they shift as market regimes change ([volatility clustering](/wiki/volatility-clustering/), crisis contagion). Quarterly rebalancing is common for institutional portfolios; monthly is more responsive but incurs higher transaction costs.
 
 ## When inverse correlation weighting shines
 
@@ -100,7 +100,7 @@ In high-correlation environments (crisis periods, narrow market rallies), the be
 
 ## Limitations and practical considerations
 
-**Matrix inversion stability**: If the correlation matrix is nearly singular (e.g., two assets are almost perfectly correlated), the inverse becomes unstable and can produce extreme weights. Practitioners often add a small amount of [regularization](/wiki/regularization/) (shrinkage toward the identity matrix) to improve numerical stability.
+**Matrix inversion stability**: If the correlation matrix is nearly singular (e.g., two assets are almost perfectly correlated), the inverse becomes unstable and can produce extreme weights. Practitioners often add a small amount of regularization (shrinkage toward the identity matrix) to improve numerical stability.
 
 **Correlation estimation error**: Historical correlations are estimates. A 252-day window may not reflect future behavior, especially if the portfolio composition or market regime changes. Extended periods of high or low correlation can skew the estimated matrix.
 
@@ -112,7 +112,7 @@ In high-correlation environments (crisis periods, narrow market rallies), the be
 
 Inverse correlation weighting is one of several [risk-based portfolio](/wiki/risk-parity-strategy/) construction approaches:
 
-- **Inverse volatility**: Weight inversely to [standard deviation](/wiki/volatility/); ignores correlations.
+- **Inverse volatility**: Weight inversely to standard deviation; ignores correlations.
 - **Risk parity**: Weight so that each asset contributes equal [risk](/wiki/risk-parity-strategy/) (variance × volatility); requires volatility and correlation estimates.
 - **Minimum variance**: Optimize to minimize portfolio variance; forward-looking, depends on volatility *and* return forecasts.
 
@@ -128,7 +128,7 @@ Inverse correlation weighting is simpler than risk parity or minimum variance bu
 
 ### Wider context
 - [Asset allocation](/wiki/asset-allocation/) — overall portfolio construction and weighting
-- [Portfolio volatility](/wiki/portfolio-variance/) — standard deviation of portfolio returns
+- Portfolio volatility — standard deviation of portfolio returns
 - [Volatility clustering](/wiki/volatility-clustering/) — tendency for high and low volatility to persist
 - [Factor investing](/wiki/factor-investing/) — strategies targeting specific return sources or risk drivers
 

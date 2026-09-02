@@ -69,7 +69,7 @@ Comparing EV/FCF within a peer group is essential. If a software company trades 
 
 **Industry differences**: Utilities have stable, predictable FCF and trade at consistent 10–12x multiples. Biotech companies might have zero FCF for years while in R&D, then suddenly positive. Comparing a utility to a biotech on EV/FCF is nonsensical.
 
-**Accounting choices**: [Depreciation](/wiki/depreciation/) assumptions, [capitalization](/wiki/capitalization/) of software development, and pension-related cash flows all affect reported FCF. Adjustments may be needed for apples-to-apples comparison.
+**Accounting choices**: [Depreciation](/wiki/depreciation/) assumptions, capitalization of software development, and pension-related cash flows all affect reported FCF. Adjustments may be needed for apples-to-apples comparison.
 
 ## Relationship to [FCF yield](/wiki/fcf-yield/)
 

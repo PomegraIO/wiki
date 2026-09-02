@@ -37,7 +37,7 @@ Many investors pair covered calls with [dividend](/wiki/dividend/)-paying stocks
 
 ## Tax treatment
 
-Gain or loss on the shares is realized when they're called away or sold separately. The premium is ordinary income if the call expires worthless, or is rolled into the cost basis of the shares if assigned. The [IRS](/wiki/s-and-p-500-index/) and most brokers track cost basis automatically, but it's worth understanding how this affects your [capital gains](/wiki/capital-gains-tax-investor/) calculation at year-end.
+Gain or loss on the shares is realized when they're called away or sold separately. The premium is ordinary income if the call expires worthless, or is rolled into the cost basis of the shares if assigned. The IRS and most brokers track cost basis automatically, but it's worth understanding how this affects your [capital gains](/wiki/capital-gains-tax-investor/) calculation at year-end.
 
 <div class="wiki-seealso">
 <h2>See also</h2>

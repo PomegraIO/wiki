@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*An **inverse head and shoulders** pattern is a bullish reversal formation consisting of three distinct lows (troughs): a shoulder (lower left), a head (deeper center), and a shoulder (lower right), with two peaks between them forming an approximately flat neckline. The pattern reveals that a downtrend has exhausted—the middle trough (head) reaches a lower low than the prior trough, but the subsequent trough (right shoulder) is higher than the head, showing strengthening buying. When price breaks above the neckline, the reversal is confirmed. It is the bullish mirror of the [head and shoulders](/technical-analysis/head-and-shoulders) and is similarly regarded as one of the more reliable reversal patterns.*
+*An **inverse head and shoulders** pattern is a bullish reversal formation consisting of three distinct lows (troughs): a shoulder (lower left), a head (deeper center), and a shoulder (lower right), with two peaks between them forming an approximately flat neckline. The pattern reveals that a downtrend has exhausted—the middle trough (head) reaches a lower low than the prior trough, but the subsequent trough (right shoulder) is higher than the head, showing strengthening buying. When price breaks above the neckline, the reversal is confirmed. It is the bullish mirror of the [head and shoulders](/head-and-shoulders/) and is similarly regarded as one of the more reliable reversal patterns.*
 
 <div class="wiki-hatnote">
 
-For reversal patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). The bearish equivalent is [head and shoulders](/technical-analysis/head-and-shoulders).
+For reversal patterns broadly, see [candlestick pattern](/candlestick-pattern/). The bearish equivalent is [head and shoulders](/head-and-shoulders/).
 
 </div>
 
@@ -106,15 +106,15 @@ Academic research on inverse head and shoulders finds mixed results, similar to 
 
 ### Related reversals
 
-- [Head and shoulders](/technical-analysis/head-and-shoulders) — bearish equivalent
-- [Double-bottom](/technical-analysis/double-bottom) — two-trough reversal
-- [Morning star](/technical-analysis/morning-star) — three-candle reversal
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework
+- [Head and shoulders](/head-and-shoulders/) — bearish equivalent
+- [Double-bottom](/double-bottom/) — two-trough reversal
+- [Morning star](/morning-star/) — three-candle reversal
+- [Candlestick pattern](/candlestick-pattern/) — broader framework
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — neckline as support/resistance
-- [Trendline](/technical-analysis/trendline) — prior downtrend
-- [Volume](/technical-analysis/on-balance-volume) — confirming the breakout
+- [Support and resistance](/support-and-resistance/) — neckline as support/resistance
+- [Trendline](/trendline/) — prior downtrend
+- [Volume](/on-balance-volume/) — confirming the breakout
 
 </div>

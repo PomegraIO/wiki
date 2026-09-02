@@ -37,15 +37,15 @@ Every trading day ends at 4:00 p.m. ET on US equity exchanges. The last price at
 
 Because the closing price carries such weight, it becomes a target for manipulation. A trader holding a large position in a stock—say, 1 million shares bought at $50—can push the close higher by flooding the final minutes with buy orders, even at inflated prices. This artificial bump raises the [closing price](/), making the trader's position more valuable on paper. If the trader plans to sell in the next day's [opening](/), the inflated close flows into tomorrow's benchmark prices, potentially drawing in unsuspecting buyers.
 
-Alternatively, a short seller betting that a stock will fall can execute a flurry of sell orders in the final seconds to depress the close, triggering [stop-loss](//) orders on long positions and sowing pessimism before the next day. The closing price, once moved, becomes an anchor that influences how other investors view the stock for hours.
+Alternatively, a short seller betting that a stock will fall can execute a flurry of sell orders in the final seconds to depress the close, triggering stop-loss orders on long positions and sowing pessimism before the next day. The closing price, once moved, becomes an anchor that influences how other investors view the stock for hours.
 
 ## The rule and its scope
 
 The SEC prohibition on marking the close does not ban trading near the close outright. Legitimate traders execute billions of dollars in equity transactions in the final hour every day. The rule targets trades executed *with the intent* to move the closing price. The regulator need not prove that the trade actually moved the price—only that the trader intended to move it.
 
-The rule applies across all venues: stock exchanges, [alternative trading systems](/alternative-trading-system/), and [over-the-counter](/over-the-counter-market/) markets. It covers the regular [market close](/), [after-hours](/), and [pre-market](//) trading windows. It catches traders buying or selling for their own account, traders executing on behalf of clients (if the client conspires with the trader), and [broker-dealers](/broker/) that facilitate such trades while aware of the intent.
+The rule applies across all venues: stock exchanges, [alternative trading systems](/alternative-trading-system/), and [over-the-counter](/over-the-counter-market/) markets. It covers the regular [market close](/), [after-hours](/), and pre-market trading windows. It catches traders buying or selling for their own account, traders executing on behalf of clients (if the client conspires with the trader), and [broker-dealers](/broker/) that facilitate such trades while aware of the intent.
 
-Enforcement cases have named proprietary traders, hedge funds, and even major financial institutions. In 2012, the SEC charged [Barclays](//) with manipulative trading in the final seconds of days when major stock indices were rebalancing. In 2015, [Deutsche Bank](//) admitted to a smaller variant of the scheme. The cumulative effect is to deter most obvious marking-the-close schemes, though regulators continue to investigate traders and algorithms suspected of doing it subtly.
+Enforcement cases have named proprietary traders, hedge funds, and even major financial institutions. In 2012, the SEC charged Barclays with manipulative trading in the final seconds of days when major stock indices were rebalancing. In 2015, Deutsche Bank admitted to a smaller variant of the scheme. The cumulative effect is to deter most obvious marking-the-close schemes, though regulators continue to investigate traders and algorithms suspected of doing it subtly.
 
 ## How traders attempt to mark the close
 
@@ -53,11 +53,11 @@ The mechanics vary. A trader might accumulate a large position during the day at
 
 Alternatively, a trader might layer orders on one side of the book (buying), then cancel them if they don't execute, replicating the tactic a few times until a few orders finally transact in the closing moments. The sequence of cancellations and fills mimics natural market activity but with the intent to move price.
 
-Some traders use affiliated entities: a trader parks a position in one account, then has another account execute the marking-the-close trade, making it harder for regulators to connect the intent. Others exploit the fact that index [rebalancing](//) occurs at the close; if a trader knows that a major index will add a stock at the close, the trader can buy ahead of the algorithmic demand and exit on the rebalancing wave, pocketing the mark-up.
+Some traders use affiliated entities: a trader parks a position in one account, then has another account execute the marking-the-close trade, making it harder for regulators to connect the intent. Others exploit the fact that index rebalancing occurs at the close; if a trader knows that a major index will add a stock at the close, the trader can buy ahead of the algorithmic demand and exit on the rebalancing wave, pocketing the mark-up.
 
 ## Detecting marking the close: data and burden
 
-The SEC and [FINRA](//) rely on post-trade data and surveillance algorithms to catch marking the close. They examine order timestamps, execution prices, order sizes, and cancellation patterns in the final minutes. An algorithm might flag a trader who executes 50,000 shares on every trading day at 3:59:55 p.m., always in the same direction, always pushing price. Investigators then examine blotters and emails to establish intent.
+The SEC and FINRA rely on post-trade data and surveillance algorithms to catch marking the close. They examine order timestamps, execution prices, order sizes, and cancellation patterns in the final minutes. An algorithm might flag a trader who executes 50,000 shares on every trading day at 3:59:55 p.m., always in the same direction, always pushing price. Investigators then examine blotters and emails to establish intent.
 
 The challenge is distinguishing genuine market activity from manipulation. A hedge fund with a large equity position that wants to rebalance before month-end may legitimately execute in the final hour. A mutual fund tracking an index must execute close to the close to minimize tracking error. The rule requires that intent be shown, and intent often lives in email or verbal communication. Successful enforcement cases typically involve written records ("front the close," "paint the tape," "mark up the book") or testimony from co-conspirators.
 
@@ -69,7 +69,7 @@ Market fragmentation has also complicated enforcement. With [alternative trading
 
 ## Penalties and deterrence
 
-SEC enforcement actions against marking the close typically result in disgorgement (return of ill-gotten gains), civil penalties, and, in egregious cases, criminal referrals to the Department of Justice. Individuals have faced prison sentences. The SEC also pursues [cease-and-desist](//) orders, suspensions of trading privileges, and bars from the industry.
+SEC enforcement actions against marking the close typically result in disgorgement (return of ill-gotten gains), civil penalties, and, in egregious cases, criminal referrals to the Department of Justice. Individuals have faced prison sentences. The SEC also pursues cease-and-desist orders, suspensions of trading privileges, and bars from the industry.
 
 Despite penalties, marking the close persists because the reward can be large and the risk of detection remains modest if the trader is careful. Regulators audit a small fraction of all trades. The most sophisticated marking-the-close schemes are subtle, embedding the manipulation in ordinary-looking order flow. As algorithms grow faster and more complex, the cat-and-mouse game between traders and regulators intensifies.
 
@@ -87,9 +87,9 @@ Despite penalties, marking the close persists because the reward can be large an
 
 ### Wider context
 
-- [Securities Exchange Act](//) — foundational law granting the SEC antifraud authority
+- Securities Exchange Act — foundational law granting the SEC antifraud authority
 - [Price Discovery](/price-discovery/) — mechanism that marking the close distorts
 - [Stock Exchange](/stock-exchange/) — institution whose closing auction the rule protects
-- [Market Manipulation](//) — broader category of illegal trading practices of which marking the close is one type
+- Market Manipulation — broader category of illegal trading practices of which marking the close is one type
 
 </div>

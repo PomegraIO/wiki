@@ -25,11 +25,11 @@ keywords:
 
 ## Why standard correlation fails in tail events
 
-Traditional portfolio theory (Markowitz, [CAPM](/wiki/capital-asset-pricing-model/)) assumes that asset returns are jointly normal. Under normality, correlation is constant and fully describes dependence. But empirically, [equity](/wiki/equity-investment-trust/) returns exhibit fat tails and asymmetric dependence: in crashes, correlations spike and all risky assets move together downward.
+Traditional portfolio theory (Markowitz, [CAPM](/wiki/capital-asset-pricing-model/)) assumes that asset returns are jointly normal. Under normality, correlation is constant and fully describes dependence. But empirically, equity returns exhibit fat tails and asymmetric dependence: in crashes, correlations spike and all risky assets move together downward.
 
 During the 2008 [financial crisis](/wiki/lehman-brothers-bankruptcy/), correlations between stocks, bonds, and [commodities](/wiki/commodity-etf/) approached 1.0—they had been 0.3–0.5 in normal times. A portfolio "diversified" at 0.3 correlation became concentrated risk at 0.9 correlation once the crisis hit. Standard [value-at-risk](/wiki/value-at-risk/) models catastrophically underestimated tail risk.
 
-Copulas address this failure by separating the marginal distributions (how each asset moves in isolation) from the dependence structure (how they move together). A [Student-t copula](/wiki/student-t-distribution/), for example, explicitly models fat tails and tail dependence—high probability of joint extreme moves.
+Copulas address this failure by separating the marginal distributions (how each asset moves in isolation) from the dependence structure (how they move together). A Student-t copula, for example, explicitly models fat tails and tail dependence—high probability of joint extreme moves.
 
 ## Copula mechanics: separating margins from dependence
 
@@ -43,7 +43,7 @@ Example: A 2-asset Clayton copula with Student-t marginals models two stocks whe
 
 ## Implementing a copula hedge
 
-A portfolio manager with long exposure to [equities](/wiki/equity/) and [credit](/wiki/credit-risk/) aims to hedge tail dependence. She estimates a [Gaussian copula](/wiki/correlation-coefficient/) and a [Student-t copula](/wiki/student-t-distribution/) on daily returns, comparing their tail dependence estimates. The Student-t copula shows that when equities fall by > 2 standard deviations (5% of the time), credit spreads widen by > 1% (an event with only 10% unconditional probability)—tail dependence of 0.3 or higher.
+A portfolio manager with long exposure to equities and [credit](/wiki/credit-risk/) aims to hedge tail dependence. She estimates a [Gaussian copula](/wiki/correlation-coefficient/) and a Student-t copula on daily returns, comparing their tail dependence estimates. The Student-t copula shows that when equities fall by > 2 standard deviations (5% of the time), credit spreads widen by > 1% (an event with only 10% unconditional probability)—tail dependence of 0.3 or higher.
 
 She then purchases [out-of-the-money](/wiki/out-of-the-money/) [put options](/wiki/put-option/) on the [S&P 500](/wiki/sp-500-index/) and [out-of-the-money](/wiki/out-of-the-money/) [credit-default swaps](/wiki/credit-default-swap/) (CDS) to hedge the tail. The puts protect against equities; the CDS protection against credit. The copula analysis showed these move together in tails, so hedging both simultaneously is more efficient than hedging equities alone.
 
@@ -66,7 +66,7 @@ Additionally, copula estimation requires large samples for tail events. A portfo
 
 ## Regime-switching and stress-test extensions
 
-Advanced implementations use regime-switching copulas: parameters change when volatility or market conditions cross a threshold. A [Student-t copula](/wiki/student-t-distribution/) is fitted to normal-market data; a different (more concentrated) Student-t copula to crisis periods. A filter (e.g., realized volatility > 2 historical standard deviations) switches between regimes.
+Advanced implementations use regime-switching copulas: parameters change when volatility or market conditions cross a threshold. A Student-t copula is fitted to normal-market data; a different (more concentrated) Student-t copula to crisis periods. A filter (e.g., realized volatility > 2 historical standard deviations) switches between regimes.
 
 Alternatively, scenario analysis and [stress testing](/wiki/stress-testing/) complement copula models. A manager stress-tests the portfolio against a 2008-like crisis (simultaneously falling equities, rising credit spreads, falling commodities) and sizes hedges to survive that scenario, rather than relying solely on estimated tail dependence.
 
@@ -76,7 +76,7 @@ Alternatively, scenario analysis and [stress testing](/wiki/stress-testing/) com
 - [Tail risk](/wiki/tail-risk/) — The tail-dependence risk being hedged
 - [Value at risk](/wiki/value-at-risk/) — Standard risk metric; copulas enhance VaR models
 - [Correlation coefficient](/wiki/correlation-coefficient/) — Pairwise dependence measure
-- [Student-t distribution](/wiki/student-t-distribution/) — Fat-tailed marginal for modeling crashes
+- Student-t distribution — Fat-tailed marginal for modeling crashes
 
 ### Wider context
 - [Capital asset pricing model](/wiki/capital-asset-pricing-model/) — Baseline (Gaussian) model

@@ -81,7 +81,7 @@ A sophisticated hedger calculates the optimal hedge ratio: how much [futures](/w
 
 If a company expects to buy 100,000 barrels of oil but wants to hedge 70% of the downside (accepting 30% unhedged), they short 70,000 barrels of crude [futures](/wiki/futures-contract/).
 
-Or if the company has cross-hedge risk (hedging oil purchases with natural gas [futures](/wiki/futures-contract/]), they estimate correlation: if oil and gas correlate 0.8, they short 80,000 barrels of gas [futures](/wiki/futures-contract/) for every 100,000 barrels of oil exposure.
+Or if the company has cross-hedge risk (hedging oil purchases with natural gas [futures](/futures-contract/), they estimate correlation: if oil and gas correlate 0.8, they short 80,000 barrels of gas [futures](/wiki/futures-contract/) for every 100,000 barrels of oil exposure.
 
 These calculations are statistical, not prophetic. But they guide better decisions than unhedged guesses.
 
@@ -91,11 +91,11 @@ Hedges break down when:
 
 1. **Correlations shift:** A cross-hedge (e.g., oil vs. natural gas) assumes a stable correlation. During crises, correlations often spike to 1.0 or even shift. A hedge that worked for 20 years can fail overnight.
 
-2. **Liquidity disappears:** A hedger might short 10,000 [futures](/wiki/futures-contract/]) contracts, but if the market freezes and no one is buying, the hedger cannot close the position without moving the price drastically. They are stuck with the [futures](/wiki/futures-contract/) exposure while spot positions shift.
+2. **Liquidity disappears:** A hedger might short 10,000 [futures](/futures-contract/) contracts, but if the market freezes and no one is buying, the hedger cannot close the position without moving the price drastically. They are stuck with the [futures](/wiki/futures-contract/) exposure while spot positions shift.
 
 3. **Funding risk:** A leveraged hedger must post [variation margin](/wiki/variation-margin/) daily. A sharp adverse move in the hedged asset can force variation margin calls, depleting cash and forcing early liquidation even though the long-term hedge is sound.
 
-4. **Basis risk becomes too large:** If the [basis](/wiki/basis/) widens unexpectedly, the hedge backfires. A farmer locking in $5.00 per bushel via [futures](/wiki/futures-contract/]) at spot $4.80 expects the [basis](/wiki/basis/) to be -$0.20 at harvest. If the [basis](/wiki/basis/) widens to -$0.50 at harvest, the effective locked-in price is $4.50, worse than the original spot.
+4. **Basis risk becomes too large:** If the [basis](/wiki/basis/) widens unexpectedly, the hedge backfires. A farmer locking in $5.00 per bushel via [futures](/futures-contract/) at spot $4.80 expects the [basis](/wiki/basis/) to be -$0.20 at harvest. If the [basis](/wiki/basis/) widens to -$0.50 at harvest, the effective locked-in price is $4.50, worse than the original spot.
 
 The 2008 financial crisis saw multiple hedge failures as correlations shifted and liquidity dried up simultaneously. Companies that were "hedged" found themselves underwater as hedges stopped working.
 
@@ -105,8 +105,8 @@ The line between hedging and speculation blurs in practice:
 
 - A farmer hedging a future harvest is hedging.
 - A farmer speculating on future wheat prices by holding unhedged short positions is speculating.
-- A company hedging its cost of debt by selling Treasury [futures](/wiki/futures-contract/]) is hedging.
-- A fund buying Treasury [futures](/wiki/futures-contract/]) betting on falling rates is speculating.
+- A company hedging its cost of debt by selling Treasury [futures](/futures-contract/) is hedging.
+- A fund buying Treasury [futures](/futures-contract/) betting on falling rates is speculating.
 
 The CFTC and exchanges track hedging positions separately from speculative ones, enforcing position limits more leniently on hedgers (who have real exposure) than speculators (who do not). But this distinction depends on honest reporting and is not always waterproof.
 
@@ -133,7 +133,7 @@ The benefit is not a profit but a **reduction in uncertainty**, which translates
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broader category of risk-transfer instruments.</li>
-<li><a href="/wiki/risk-management/">Risk management</a> — the strategic practice of hedging specific exposures.</li>
+<li>Derivatives — the broader category of risk-transfer instruments.</li>
+<li>Risk management — the strategic practice of hedging specific exposures.</li>
 </ul>
 </div>

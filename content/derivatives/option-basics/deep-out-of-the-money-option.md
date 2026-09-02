@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **deep out-of-the-money option** is an [option](/derivatives/option-basics/) whose [strike price](/strike-price/) is so far from the current market price that the contract has virtually no [intrinsic value](/intrinsic-value/) and trades almost entirely on [time value](/option-premium/). These options are cheap—often pennies per contract—but require a massive move in the underlying asset to become profitable. They are the speculator's tool: low cost, high leverage, extreme odds.*
+*A **deep out-of-the-money option** is an option whose [strike price](/strike-price/) is so far from the current market price that the contract has virtually no [intrinsic value](/intrinsic-value/) and trades almost entirely on [time value](/option-premium/). These options are cheap—often pennies per contract—but require a massive move in the underlying asset to become profitable. They are the speculator's tool: low cost, high leverage, extreme odds.*
 
 <aside class="wiki-infobox">
 
@@ -22,7 +22,7 @@ image: "/svg/derivatives.svg"
 
 |   |   |
 |---|---|
-| **What it is** | An [option](/derivatives/option-basics/) with strike far above (call) or below (put) the stock price |
+| **What it is** | An option with strike far above (call) or below (put) the stock price |
 | **Also called** | Far OTM, lottery ticket, speculative option |
 | **Delta range** | 0.01–0.20 for calls; −0.20 to −0.01 for puts |
 | **Probability of profit** | 5–20%, depending on time to [expiration](/expiration-date/) and implied [volatility](/volatility-smile/) |
@@ -92,7 +92,7 @@ Successful speculators treat deep OTM options like insurance: a small, budgeted 
 
 ### Closely related
 
-- [Option](/derivatives/option-basics/) — foundational contract types and core mechanics
+- Option — foundational contract types and core mechanics
 - [Delta](/delta/) — the probability-weighted sensitivity of out-of-the-money options
 - [Theta](/theta/) — time decay and why OTM options vanish into worthlessness
 - [Volatility smile](/volatility-smile/) — how implied [volatility](/volatility-smile/) inflates and deflates OTM prices

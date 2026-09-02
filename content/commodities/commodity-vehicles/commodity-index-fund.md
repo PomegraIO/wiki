@@ -109,7 +109,7 @@ They underperform during deflation, when a strong dollar appreciates, or when gr
 
 ## Tax treatment
 
-Commodity index fund gains are typically taxed as **ordinary income** (for futures contracts) or **long-term capital gains** (for physical or certain ETF structures), depending on fund structure. The CFTC's [Section 1256](/wiki/section-1256-contracts/) treatment provides favorable blended rates (60% long-term, 40% short-term) for certain instruments. However, the **K-1 reporting** required for commodity pools makes tax filing more complex than equity ETFs, which report via 1099s.
+Commodity index fund gains are typically taxed as **ordinary income** (for futures contracts) or **long-term capital gains** (for physical or certain ETF structures), depending on fund structure. The CFTC's Section 1256 treatment provides favorable blended rates (60% long-term, 40% short-term) for certain instruments. However, the **K-1 reporting** required for commodity pools makes tax filing more complex than equity ETFs, which report via 1099s.
 
 ## Critiques and limitations
 

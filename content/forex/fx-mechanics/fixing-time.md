@@ -43,13 +43,13 @@ Why London 4 p.m.? Because it is roughly the midpoint of the global trading day.
 
 Fixing rates are not a single transaction; they are computed as the median (or mean) of spot rates contributed by major banks during a 1-minute window around the fixing time. The window (typically 30 seconds before to 30 seconds after the official time) avoids being distorted by a single block trade or outlier.
 
-However, this methodology creates a vulnerability: if enough banks collude or if a large [position holder](/wiki/positioning-limit/) can move the spot rate in their favor during the fixing window, they can influence the fixing and profit. This actually happened: in 2013–2015, major banks (Deutsche Bank, Barclays, Citigroup, UBS, RBS) were found to have manipulated FX fixings by coordinating trades to move rates in their favor at fixing time. The scandal, known as the **FX fixing scandal**, resulted in billions in regulatory fines and criminal charges.
+However, this methodology creates a vulnerability: if enough banks collude or if a large position holder can move the spot rate in their favor during the fixing window, they can influence the fixing and profit. This actually happened: in 2013–2015, major banks (Deutsche Bank, Barclays, Citigroup, UBS, RBS) were found to have manipulated FX fixings by coordinating trades to move rates in their favor at fixing time. The scandal, known as the **FX fixing scandal**, resulted in billions in regulatory fines and criminal charges.
 
 Post-scandal, fixing methodologies were tightened: more banks contribute, larger observation windows are used, outliers are excluded, and surveillance for coordination has increased.
 
 ## Fixing and derivative strikes
 
-For [options](/wiki/option-greeks/), the fixing time determines whether an option is in-the-money, out-of-the-money, or at-the-money. An exporter with a [put option](/wiki/put-option/) protecting against euro weakness is keenly interested in what the fixing rate is at expiration. If the fixing is 1.10 USD/EUR, an option with strike 1.10 expires worthless. If it is 1.09, the put is in-the-money by 1 cent.
+For options, the fixing time determines whether an option is in-the-money, out-of-the-money, or at-the-money. An exporter with a [put option](/wiki/put-option/) protecting against euro weakness is keenly interested in what the fixing rate is at expiration. If the fixing is 1.10 USD/EUR, an option with strike 1.10 expires worthless. If it is 1.09, the put is in-the-money by 1 cent.
 
 Large options positions create incentive for fixing manipulation: a trader with a billion-euro short position profits if the fixing falls 1 cent. This is why regulators now closely monitor fixings for suspicious activity—spikes in volume, orders entered moments before fixing time, or coordinated activity across multiple banks.
 

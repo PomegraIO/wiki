@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **harami** is a two-candle pattern in which the second candle's high and low both sit entirely within the first candle's high and low—the second candle is "inside" the first. The Japanese term means "pregnant" or "in the womb," evoking the image of one candle inside another. The pattern signals indecision: after a strong move (the first candle), the second candle shows the market has lost momentum and is consolidating. While it does not predict direction as directly as the [engulfing pattern](/technical-analysis/engulfing-pattern), the harami often precedes a reversal, especially when formed at key price levels or after sustained moves.*
+*A **harami** is a two-candle pattern in which the second candle's high and low both sit entirely within the first candle's high and low—the second candle is "inside" the first. The Japanese term means "pregnant" or "in the womb," evoking the image of one candle inside another. The pattern signals indecision: after a strong move (the first candle), the second candle shows the market has lost momentum and is consolidating. While it does not predict direction as directly as the [engulfing pattern](/engulfing-pattern/), the harami often precedes a reversal, especially when formed at key price levels or after sustained moves.*
 
 <div class="wiki-hatnote">
 
-For two-candle patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). The opposite pattern is the [engulfing](/technical-analysis/engulfing-pattern).
+For two-candle patterns broadly, see [candlestick pattern](/candlestick-pattern/). The opposite pattern is the [engulfing](/engulfing-pattern/).
 
 </div>
 
@@ -44,7 +44,7 @@ For two-candle patterns broadly, see [candlestick pattern](/technical-analysis/c
 
 The harami requires exact geometric positioning: the second candle's entire range (high and low) must fit within the first candle's range. This means the second candle's high is lower than the first candle's high, and the second candle's low is higher than the first candle's low.
 
-The first candle is typically large (a strong move in one direction). The second candle is smaller (a move that does not extend the range). The colour of the second candle is less important than its size and position: it can be green or red. A **harami cross** is a specific variant where the second candle is a [doji](/technical-analysis/doji) or near-doji (very small body with wicks).
+The first candle is typically large (a strong move in one direction). The second candle is smaller (a move that does not extend the range). The colour of the second candle is less important than its size and position: it can be green or red. A **harami cross** is a specific variant where the second candle is a [doji](/doji/) or near-doji (very small body with wicks).
 
 ## What the pattern signals
 
@@ -113,21 +113,21 @@ Academic research finds that harami patterns, like most candlestick patterns, oc
 
 ### Related patterns
 
-- [Engulfing pattern](/technical-analysis/engulfing-pattern) — inverse pattern, decisive reversal
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework
-- [Doji](/technical-analysis/doji) — indecision candle; harami cross uses one
-- [Spinning top](/technical-analysis/spinning-top) — indecision with balanced wicks
+- [Engulfing pattern](/engulfing-pattern/) — inverse pattern, decisive reversal
+- [Candlestick pattern](/candlestick-pattern/) — broader framework
+- [Doji](/doji/) — indecision candle; harami cross uses one
+- [Spinning top](/spinning-top/) — indecision with balanced wicks
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — key levels for confirmation
-- [Trendline](/technical-analysis/trendline) — identifying exhaustion
-- [Candlestick chart](/technical-analysis/candlestick-chart) — the display format
+- [Support and resistance](/support-and-resistance/) — key levels for confirmation
+- [Trendline](/trendline/) — identifying exhaustion
+- [Candlestick chart](/candlestick-chart/) — the display format
 
 ### Confirmation signals
 
-- [Moving average](/technical-analysis/simple-moving-average) — additional context
-- [Volume](/technical-analysis/on-balance-volume) — strength of moves
-- [Relative strength index](/technical-analysis/relative-strength-index) — momentum extremes
+- [Moving average](/simple-moving-average/) — additional context
+- [Volume](/on-balance-volume/) — strength of moves
+- Relative strength index — momentum extremes
 
 </div>

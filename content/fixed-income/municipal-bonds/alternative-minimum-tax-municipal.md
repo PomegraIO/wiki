@@ -62,10 +62,10 @@ The AMT affects roughly 4–5 million U.S. taxpayers per year—typically high-i
 - [Municipal bond](/wiki/municipal-bond/) — Tax-exempt debt issued by state and local governments
 - [Alternative minimum tax (investor)](/wiki/alternative-minimum-tax-investor/) — Broader overview of AMT mechanics
 - [Tax-exempt bond](/wiki/tax-exempt-bond/) — Bonds with federal income-tax-exempt interest
-- [Private activity bonds](/wiki/private-activity-bonds-tax/) — Munis financing private ventures
+- Private activity bonds — Munis financing private ventures
 
 ### Wider context
-- [Federal income tax](/wiki/federal-income-tax/) — U.S. income tax system and rates
+- Federal income tax — U.S. income tax system and rates
 - [Tax deduction](/wiki/itemized-deduction-investor/) — Reduction in taxable income
 - [Tax planning](/wiki/tax-loss-harvesting/) — Strategy to minimize lifetime tax burden
 

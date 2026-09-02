@@ -96,7 +96,7 @@ Professional traders overtrader less frequently because:
 - Their fees and commissions are explicit and visible.
 - Systematic rebalancing is rules-based, not emotional.
 
-However, **active mutual funds** exhibit overtrading: median turnover is 50%+ annually (many churn the entire portfolio each year). This drag contributes to widespread [underperformance](/wiki/underperformance-of-active-funds/) relative to passive indexes.
+However, **active mutual funds** exhibit overtrading: median turnover is 50%+ annually (many churn the entire portfolio each year). This drag contributes to widespread underperformance relative to passive indexes.
 
 ### Index funds and ETFs
 Passive investors undertrader by definition. They trade only to:
@@ -172,7 +172,7 @@ The trend is now cyclical: as more capital flows to passive indexes, active mana
 - [Market impact cost](/wiki/market-impact-cost/) — cost of frequent trading
 
 ### Wider context
-- [Behavioral finance](/wiki/behavioral-investing/) — broader field
+- Behavioral finance — broader field
 - [Active vs. passive investing](/wiki/actively-managed-fund/) — strategic choice
 - [Portfolio rebalancing](/wiki/asset-rebalancing/) — legitimate trading activity
 - [Day trading](/wiki/day-trading/) — extreme manifestation of overtrading

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **trendline** is a straight line drawn across a chart connecting two or more price points. In an uptrend, the line connects rising lows (supports); in a downtrend, it connects falling highs (resistances). Trendlines reveal the slope and direction of a price move and provide dynamic [support and resistance](/technical-analysis/support-and-resistance). When price bounces off a trendline, it reinforces the trend; when price breaks through, the trend may be ending. Trendlines are one of the oldest and simplest tools in technical analysis, yet they are remarkably useful for identifying trends and potential reversals.*
+*A **trendline** is a straight line drawn across a chart connecting two or more price points. In an uptrend, the line connects rising lows (supports); in a downtrend, it connects falling highs (resistances). Trendlines reveal the slope and direction of a price move and provide dynamic [support and resistance](/support-and-resistance/). When price bounces off a trendline, it reinforces the trend; when price breaks through, the trend may be ending. Trendlines are one of the oldest and simplest tools in technical analysis, yet they are remarkably useful for identifying trends and potential reversals.*
 
 <div class="wiki-hatnote">
 
-For support and resistance levels broadly, see [support and resistance](/technical-analysis/support-and-resistance). Trendlines are also the foundation of [Dow theory](/technical-analysis/dow-theory).
+For support and resistance levels broadly, see [support and resistance](/support-and-resistance/). Trendlines are also the foundation of [Dow theory](/dow-theory/).
 
 </div>
 
@@ -81,11 +81,11 @@ An uptrend on the daily chart might break, but the weekly chart might show the l
 
 ## Channel trendlines
 
-A [channel](/technical-analysis/channel-pattern) is formed by two parallel trendlines: one connecting lows (support) and one connecting highs (resistance). The price oscillates between the two. When price breaks out of the channel (above the resistance line or below the support line), it often signals the beginning of a new trend.
+A [channel](/channel-pattern/) is formed by two parallel trendlines: one connecting lows (support) and one connecting highs (resistance). The price oscillates between the two. When price breaks out of the channel (above the resistance line or below the support line), it often signals the beginning of a new trend.
 
 ## Dynamic support and resistance
 
-Unlike static [support and resistance](/technical-analysis/support-and-resistance) levels at fixed prices (e.g., $50), trendlines are dynamic. As time progresses and price moves, the level changes. This makes trendlines useful for longer-term trends where the absolute price level is less meaningful than the trend's direction.
+Unlike static [support and resistance](/support-and-resistance/) levels at fixed prices (e.g., $50), trendlines are dynamic. As time progresses and price moves, the level changes. This makes trendlines useful for longer-term trends where the absolute price level is less meaningful than the trend's direction.
 
 ## Anchor points
 
@@ -101,7 +101,7 @@ A trader in an uptrend might:
 
 ## Comparison to moving averages
 
-[Moving averages](/technical-analysis/simple-moving-average) also act as dynamic support and resistance, but they are mathematical and objective. A 50-day moving average is the same for every trader. A trendline is visual and subjective, but it can better adapt to significant shifts in momentum (a moving average lags in a trend change).
+[Moving averages](/simple-moving-average/) also act as dynamic support and resistance, but they are mathematical and objective. A 50-day moving average is the same for every trader. A trendline is visual and subjective, but it can better adapt to significant shifts in momentum (a moving average lags in a trend change).
 
 ## Academic perspective
 
@@ -113,15 +113,15 @@ Academic research on trendlines is scarce. Trendlines are a visual, subjective t
 
 ### Related concepts
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — static levels; trendlines are dynamic
-- [Channel pattern](/technical-analysis/channel-pattern) — two parallel trendlines
-- [Dow theory](/technical-analysis/dow-theory) — trendlines are foundational
-- [Candlestick chart](/technical-analysis/candlestick-chart) — where trendlines are drawn
+- [Support and resistance](/support-and-resistance/) — static levels; trendlines are dynamic
+- [Channel pattern](/channel-pattern/) — two parallel trendlines
+- [Dow theory](/dow-theory/) — trendlines are foundational
+- [Candlestick chart](/candlestick-chart/) — where trendlines are drawn
 
 ### Trend-following indicators
 
-- [Moving average](/technical-analysis/simple-moving-average) — objective dynamic level
-- [Parabolic SAR](/technical-analysis/parabolic-sar) — automated stop-and-reverse level
-- [Ichimoku cloud](/technical-analysis/ichimoku-cloud) — multi-line trend framework
+- [Moving average](/simple-moving-average/) — objective dynamic level
+- [Parabolic SAR](/parabolic-sar/) — automated stop-and-reverse level
+- [Ichimoku cloud](/ichimoku-cloud/) — multi-line trend framework
 
 </div>

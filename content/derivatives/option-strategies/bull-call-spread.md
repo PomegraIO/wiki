@@ -58,7 +58,7 @@ An outright long call offers unlimited upside and requires no secondary manageme
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/option/">Option</a> — the contract type underlying all spreads.</li>
-<li><a href="/wiki/derivatives/">Derivatives</a> — broader asset class.</li>
+<li>Derivatives — broader asset class.</li>
 <li><a href="/wiki/options-greeks/">Options Greeks</a> — tools for measuring spread sensitivity.</li>
 </ul>
 </div>

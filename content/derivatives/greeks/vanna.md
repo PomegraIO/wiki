@@ -10,7 +10,7 @@ keywords:
   - options risk
 ---
 
-*The **vanna** (or "volga delta") is an options Greek that measures how an [option](/option/)'s [delta](//) changes in response to shifts in [implied volatility](/implied-volatility/). It captures a second-order effect: volatility moves, delta adjusts, and the hedge ratio must be rebalanced. For traders managing [volatility skew](/volatility-smile/) and large multi-leg positions, vanna is as essential as delta itself.*
+*The **vanna** (or "volga delta") is an options Greek that measures how an [option](/option/)'s delta changes in response to shifts in [implied volatility](/implied-volatility/). It captures a second-order effect: volatility moves, delta adjusts, and the hedge ratio must be rebalanced. For traders managing [volatility skew](/volatility-smile/) and large multi-leg positions, vanna is as essential as delta itself.*
 
 <aside class="wiki-infobox">
 
@@ -34,7 +34,7 @@ keywords:
 
 ## Why delta hedges fail during volatility regime shifts
 
-A trader buying a [call option](/call-option/) and [delta-hedging](//) it expects the hedge to neutralize directional risk: if the stock rises, the call gains and the short stock position loses by roughly the same amount. But this works only if delta is constant. In reality, delta drifts. A stock rally often coincides with rising confidence and falling implied volatility, which reduces delta. The hedge unwinds, and the trader finds herself unintentionally short volatility.
+A trader buying a [call option](/call-option/) and delta-hedging it expects the hedge to neutralize directional risk: if the stock rises, the call gains and the short stock position loses by roughly the same amount. But this works only if delta is constant. In reality, delta drifts. A stock rally often coincides with rising confidence and falling implied volatility, which reduces delta. The hedge unwinds, and the trader finds herself unintentionally short volatility.
 
 Vanna quantifies this drift. When implied volatility rises, out-of-the-money calls become more valuable relative to at-the-money calls, so their deltas climb. A call trader who was delta-neutral suddenly becomes long delta and must sell stock to re-hedge. If volatility is rising fast, the trader is forced to sell into a rally, booking a loss. Conversely, when volatility falls, deltas of out-of-the-money calls shrink, and the trader must buy stock to re-hedge, this time buying into a sell-off.
 
@@ -80,9 +80,9 @@ Some traders accept vanna risk as a cost of their strategy. A [covered call](/co
 
 ### Closely related
 
-- [Delta](//) — the primary sensitivity; vanna measures delta's drift
+- Delta — the primary sensitivity; vanna measures delta's drift
 - [Gamma](/gamma/) — convexity; vanna is gamma's sensitivity to volatility
-- [Vega](//) — overall volatility sensitivity; vanna is a component of the full volatility risk
+- Vega — overall volatility sensitivity; vanna is a component of the full volatility risk
 - [Implied Volatility](/implied-volatility/) — the volatility input that vanna reacts to
 - [Volatility Smile](/volatility-smile/) — the context in which vanna matters most
 - [Option](/option/) — the instrument whose vanna is being measured
@@ -90,10 +90,10 @@ Some traders accept vanna risk as a cost of their strategy. A [covered call](/co
 
 ### Wider context
 
-- [Theta](//) — time decay that often offsets vanna gains
+- Theta — time decay that often offsets vanna gains
 - [Covered Call](/covered-call/) — a strategy with negative vanna exposure
 - [Protective Put](/protective-put/) — a strategy where vanna interacts with skew
 - [Hedge Fund](/hedge-fund/) — professional vehicles that actively trade volatility and vanna
-- [Options Greeks](//) — broader category of sensitivity measures
+- Options Greeks — broader category of sensitivity measures
 
 </div>

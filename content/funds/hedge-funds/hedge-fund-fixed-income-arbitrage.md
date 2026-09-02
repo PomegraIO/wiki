@@ -66,6 +66,6 @@ As a result, fixed-income arbitrage funds typically show lower but more stable r
 <ul>
   <li><a href="/wiki/hedge-fund-market-neutral/">Market-neutral hedge fund</a> — a related strategy seeking zero correlation to markets.</li>
   <li><a href="/wiki/long-term-capital-management/">Long-Term Capital Management</a> — historic fixed-income arbitrage fund and cautionary tale.</li>
-  <li><a href="/wiki/repo/">Repurchase agreement</a> — financing instrument critical to leverage in bond markets.</li>
+  <li>Repurchase agreement — financing instrument critical to leverage in bond markets.</li>
 </ul>
 </div>

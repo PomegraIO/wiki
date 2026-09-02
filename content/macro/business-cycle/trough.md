@@ -29,7 +29,7 @@ keywords:
 
 At a trough, real [GDP](/wiki/gross-domestic-product/) stops contracting and begins to expand. [Unemployment](/wiki/unemployment-rate/) reaches its highest level and begins to decline. Industrial production bottoms. Consumer and business confidence stabilizes and begins to recover.
 
-The trough is not a single moment but a period—sometimes a few months—during which economic indicators cluster around their lows. Identifying the exact date is difficult in real time. The [National Bureau of Economic Research](/wiki/nber/) (NBER), which officially dates U.S. business cycles, often identifies a trough only months or years after it occurs, when sufficient data has accumulated.
+The trough is not a single moment but a period—sometimes a few months—during which economic indicators cluster around their lows. Identifying the exact date is difficult in real time. The National Bureau of Economic Research (NBER), which officially dates U.S. business cycles, often identifies a trough only months or years after it occurs, when sufficient data has accumulated.
 
 ## Trough characteristics
 

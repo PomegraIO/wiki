@@ -32,7 +32,7 @@ image: /svg/institutions.svg
 
 ## The market for index licenses
 
-When [Vanguard](/wiki/investor-profiles/) launches an S&P 500 index fund, it does not simply download a list of 500 stocks and call it done. Vanguard must license the right to use the "S&P 500" name and methodology from [S&P Dow Jones Indices](/wiki/index-provider-revenue-model/). The license covers rebalancing methodology, constituent selection rules, and the data feed that tells Vanguard which stocks are in and out and at what weight.
+When Vanguard launches an S&P 500 index fund, it does not simply download a list of 500 stocks and call it done. Vanguard must license the right to use the "S&P 500" name and methodology from [S&P Dow Jones Indices](/wiki/index-provider-revenue-model/). The license covers rebalancing methodology, constituent selection rules, and the data feed that tells Vanguard which stocks are in and out and at what weight.
 
 This is a marketplace. Index providers (S&P, MSCI, FTSE Russell, Nasdaq, ICE) compete to license their indexes to as many funds and institutions as possible. A successful index—one that is widely tracked—generates predictable, recurring licensing revenue.
 
@@ -99,7 +99,7 @@ This has attracted private equity and strategic buyers. S&P Dow Jones was spun o
 
 ## Negotiating power and pricing pressure
 
-Large asset managers have significant negotiating leverage. If [Vanguard](/wiki/investor-profiles/) or BlackRock demands a lower licensing fee, index providers often comply because losing a $500 billion client is worse than a small rate cut. Smaller funds or niche players have less bargaining power.
+Large asset managers have significant negotiating leverage. If Vanguard or BlackRock demands a lower licensing fee, index providers often comply because losing a $500 billion client is worse than a small rate cut. Smaller funds or niche players have less bargaining power.
 
 This has created a tiered market: mega-cap asset managers pay dramatically lower per-basis-point fees than boutique managers.
 

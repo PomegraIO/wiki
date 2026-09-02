@@ -87,7 +87,7 @@ They're less ideal when implied volatility is high (you'd prefer to sell options
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational contract.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/strike-price/">Strike price</a> — defines the spread width.</li>
 </ul>
 </div>

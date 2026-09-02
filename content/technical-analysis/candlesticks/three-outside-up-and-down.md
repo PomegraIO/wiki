@@ -10,7 +10,7 @@ keywords:
 image: /svg/technical-analysis.svg
 ---
 
-*The **three outside up and down** is a three-candle pattern in which the second candle [engulfs](/technical-analysis/candlesticks/engulfing-pattern/) the first candle entirely, and the third candle closes even further in the direction of the engulfing candle. It strengthens an already-strong two-candle reversal signal into a more decisive continuation setup.*
+*The **three outside up and down** is a three-candle pattern in which the second candle [engulfs](/engulfing-pattern/) the first candle entirely, and the third candle closes even further in the direction of the engulfing candle. It strengthens an already-strong two-candle reversal signal into a more decisive continuation setup.*
 
 <aside class="wiki-infobox">
 
@@ -33,9 +33,9 @@ image: /svg/technical-analysis.svg
 
 ## The structure: engulfing plus push forward
 
-The pattern unfolds in three clear stages. The first candle is a single bar that sets a direction—typically smaller in range, representing either a decline or a rise. The second candle then engulfs it completely: its open is beyond the first candle's open in one direction, and its close is beyond the first candle's close in the same direction. For the bullish version, the second candle opens below the first candle's open and closes above the first candle's close. This [engulfing](/technical-analysis/candlesticks/engulfing-pattern/) action shows a reversal in buying pressure. The third candle then extends the move: it closes higher than the second candle's close (in the bullish case) or lower (in the bearish case).
+The pattern unfolds in three clear stages. The first candle is a single bar that sets a direction—typically smaller in range, representing either a decline or a rise. The second candle then engulfs it completely: its open is beyond the first candle's open in one direction, and its close is beyond the first candle's close in the same direction. For the bullish version, the second candle opens below the first candle's open and closes above the first candle's close. This [engulfing](/engulfing-pattern/) action shows a reversal in buying pressure. The third candle then extends the move: it closes higher than the second candle's close (in the bullish case) or lower (in the bearish case).
 
-The key visual difference from [three inside up and down](/technical-analysis/candlesticks/three-inside-up-and-down/) is that the second candle *surrounds* the first candle, not sits inside it. That surrounding action is more aggressive. It suggests that sellers (in the bullish case) stepped in decisively, overwhelmed the buyers, and the resulting pressure continues.
+The key visual difference from [three inside up and down](/three-inside-up-and-down/) is that the second candle *surrounds* the first candle, not sits inside it. That surrounding action is more aggressive. It suggests that sellers (in the bullish case) stepped in decisively, overwhelmed the buyers, and the resulting pressure continues.
 
 ## Why it signals momentum
 
@@ -63,13 +63,13 @@ One subtlety: the pattern must have the correct structure. A second candle that 
 
 Many traders take the pattern as a signal to enter in the direction of the third candle's close, with a stop placed above (for bearish setups) or below (for bullish setups) the second candle's extreme. That stop placement is logical: if the reversal fails and the second candle is breached, the pattern has not delivered its message.
 
-Position sizing and risk management are crucial. While the pattern is more reliable than a single engulfing candle, it is not guaranteed. Treating it as part of a systematic approach—combined with other confirmations like [volume](/technical-analysis/volume/) spike, a break above a [trendline](/technical-analysis/trendline/), or a test of [support](/technical-analysis/support-and-resistance/)—yields better results than relying on the pattern in isolation.
+Position sizing and risk management are crucial. While the pattern is more reliable than a single engulfing candle, it is not guaranteed. Treating it as part of a systematic approach—combined with other confirmations like volume spike, a break above a [trendline](/trendline/), or a test of [support](/support-and-resistance/)—yields better results than relying on the pattern in isolation.
 
-The pattern also works well as a swing-trading entry point. If you are already biased toward a reversal based on [moving averages](/technical-analysis/moving-average/) or [support and resistance](/technical-analysis/support-and-resistance/), a three outside can act as a precise timing tool to enter that bias.
+The pattern also works well as a swing-trading entry point. If you are already biased toward a reversal based on [moving averages](/moving-average/) or [support and resistance](/support-and-resistance/), a three outside can act as a precise timing tool to enter that bias.
 
 ## Comparison to similar patterns
 
-The three outside up and down is distinct from the three inside because the second candle engulfs rather than sits inside. The three outside is also more aggressive in its signal. An [engulfing pattern](/technical-analysis/candlesticks/engulfing-pattern/) on a two-day chart is already strong; adding a third day of follow-through makes it stronger. The three inside, by contrast, is built on a harami—a gentler pattern—and the third candle merely confirms what the harami suggested.
+The three outside up and down is distinct from the three inside because the second candle engulfs rather than sits inside. The three outside is also more aggressive in its signal. An [engulfing pattern](/engulfing-pattern/) on a two-day chart is already strong; adding a third day of follow-through makes it stronger. The three inside, by contrast, is built on a harami—a gentler pattern—and the third candle merely confirms what the harami suggested.
 
 ## See also
 
@@ -77,16 +77,16 @@ The three outside up and down is distinct from the three inside because the seco
 
 ### Closely related
 
-- [Engulfing Pattern](/technical-analysis/candlesticks/engulfing-pattern/) — the two-candle reversal that forms the foundation of this three-candle setup
-- [Three Inside Up and Down](/technical-analysis/candlesticks/three-inside-up-and-down/) — a related pattern where the second candle is contained within the first instead of engulfing it
-- [Harami](/technical-analysis/candlesticks/harami/) — the two-candle indecision pattern underlying three inside
-- [Bullish Belt Hold](/technical-analysis/candlesticks/bullish-belt-hold/) — another strong directional shift signal
+- [Engulfing Pattern](/engulfing-pattern/) — the two-candle reversal that forms the foundation of this three-candle setup
+- [Three Inside Up and Down](/three-inside-up-and-down/) — a related pattern where the second candle is contained within the first instead of engulfing it
+- [Harami](/harami/) — the two-candle indecision pattern underlying three inside
+- [Bullish Belt Hold](/bullish-belt-hold/) — another strong directional shift signal
 
 ### Wider context
 
-- [Candlestick Patterns](/technical-analysis/candlesticks/) — the guide to all candle formations and their meanings
+- Candlestick Patterns — the guide to all candle formations and their meanings
 - Technical Analysis — the discipline of reading price charts for trade signals
-- [Trendline](/technical-analysis/trendline/) — how to confirm reversal patterns with trend breaks
-- [Volume](/technical-analysis/volume/) — using volume to validate candlestick signals
+- [Trendline](/trendline/) — how to confirm reversal patterns with trend breaks
+- Volume — using volume to validate candlestick signals
 
 </div>

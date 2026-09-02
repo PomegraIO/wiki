@@ -98,7 +98,7 @@ Transparency and governance quality are now explicit rating factors. Issuers tha
 
 ...receive ratings 1–2 notches higher than functionally similar issuers with opaque, inconsistent governance.
 
-This reflects decades of experience. The [Detroit bankruptcy](/wiki/detroit-bankruptcy/) (2013) and many smaller municipal defaults stem partly from years of governance failure—understating liabilities, delaying required funding, ignoring structural deficits.
+This reflects decades of experience. The Detroit bankruptcy (2013) and many smaller municipal defaults stem partly from years of governance failure—understating liabilities, delaying required funding, ignoring structural deficits.
 
 ## The rating outlook and watch
 

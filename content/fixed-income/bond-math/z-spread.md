@@ -134,6 +134,6 @@ For most uses in credit analysis, the Z-spread is the standard opening move. Onc
 - [Credit Risk](/credit-risk/) — the primary driver of Z-spread width
 - [Interest Rate](/interest-rate/) — the foundation of the spot curve
 - [Liquidity Risk](/liquidity-risk/) — bundled into spreads but distinct from credit risk
-- [Yield-to-Maturity](/fixed-income/bond-math/yield-spread-measures/) — the single-point yield measure that nominal spread uses
+- [Yield-to-Maturity](/yield-spread-measures/) — the single-point yield measure that nominal spread uses
 
 </div>

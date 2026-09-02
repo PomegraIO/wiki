@@ -52,7 +52,7 @@ This can create a trap: switching late in the year locks you into the higher lim
 
 ## Catch-up contributions for age 55+
 
-Starting in the year you turn 55, you can contribute an extra $1,000 per year above the standard limit. This is the [HSA](/personal-finance/savings/hsa-contribution-limits-by-year/) catch-up provision, similar to [401k](/401k-plan/) and IRA catch-up rules.
+Starting in the year you turn 55, you can contribute an extra $1,000 per year above the standard limit. This is the [HSA](/hsa-contribution-limits-by-year/) catch-up provision, similar to [401k](/401k-plan/) and IRA catch-up rules.
 
 If you are 56 and have self-only coverage, you can contribute $4,300 + $1,000 = $5,300 for that year. For family coverage, it would be $8,600 + $1,000 = $9,600.
 

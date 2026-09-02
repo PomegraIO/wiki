@@ -71,7 +71,7 @@ All three approaches require patience and discipline. The factor generates retur
 
 ## Relationship to other factors
 
-The liquidity factor is largely independent of [value](/wiki/value-investing/), [momentum](/wiki/momentum/), and [size](/wiki/size-factor/) effects, though it can overlap with small-cap value. A liquid small-cap value stock and an illiquid small-cap value stock may both be cheap and on a downtrend, but the illiquid one should deliver a return premium over the liquid one.
+The liquidity factor is largely independent of [value](/wiki/value-investing/), momentum, and [size](/wiki/size-factor/) effects, though it can overlap with small-cap value. A liquid small-cap value stock and an illiquid small-cap value stock may both be cheap and on a downtrend, but the illiquid one should deliver a return premium over the liquid one.
 
 The liquidity factor also complements [carry](/wiki/carry-factor-equities/) and [accruals anomaly](/wiki/accruals-anomaly/). The highest-return baskets often combine high yield with illiquidity and low accruals—a trifecta of overlooked characteristics.
 
@@ -95,7 +95,7 @@ As liquidity-factor research has proliferated and liquidity-focused products hav
 ### Wider context
 
 - [Market capitalization](/wiki/market-capitalization/) — related but distinct from liquidity; large-cap stocks are usually liquid
-- [Trading volume](/wiki/trading-volume/) — raw measure feeding liquidity metrics
+- Trading volume — raw measure feeding liquidity metrics
 - [Value investing](/wiki/value-investing/) — philosophy compatible with liquidity-factor strategies
 - [Short selling](/wiki/short-selling/) — activity that highlights illiquidity costs
 - [Margin call](/wiki/margin-call-forex/) — forced exit scenario that exposes illiquidity risk

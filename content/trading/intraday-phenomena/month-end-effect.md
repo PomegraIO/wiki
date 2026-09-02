@@ -59,7 +59,7 @@ December 31 is often the most volatile month-end of the year. Equities that rall
 
 ## Empirical evidence and academic debate
 
-The month-end effect is one of the most documented [calendar anomalies](/wiki/seasonal-patterns/), with evidence dating to the 1980s. Studies show:
+The month-end effect is one of the most documented calendar anomalies, with evidence dating to the 1980s. Studies show:
 
 - Positive returns on last 3–5 days of month, negative on first few days (the "Turn of the Month" effect).
 - Higher [volatility](/wiki/volatility-swap/) and trading volume on month-end.
@@ -106,7 +106,7 @@ Sophisticated traders may use month-end volatility for [options](/wiki/option/) 
 
 ### Closely related
 - [Quarter-End Effect](/wiki/quarter-end-effect/) — The more pronounced version at quarter-end
-- [Calendar Anomalies](/wiki/seasonal-patterns/) — Broader category of date-driven trading patterns
+- Calendar Anomalies — Broader category of date-driven trading patterns
 - [Intraday Liquidity](/wiki/intraday-liquidity/) — The mechanics of order flow during the day
 - [Algorithmic Execution](/wiki/algorithmic-execution-benchmark/) — How large orders are split and timed
 

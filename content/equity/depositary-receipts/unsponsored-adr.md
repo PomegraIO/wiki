@@ -151,6 +151,6 @@ The SEC does not approve unsponsored ADRs; banks simply issue them. However, the
 - [Cross-listing](/wiki/cross-listing/) — alternative for direct listing
 - [Global Depositary Receipt (GDR)](/wiki/gdr/) — international equivalent
 - [OTC markets](/wiki/over-the-counter-market/) — trading venue for Level 1s
-- [Equity trading](/wiki/equity-trading/) — broader context
+- Equity trading — broader context
 
 </div>

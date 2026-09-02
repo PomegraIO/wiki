@@ -68,7 +68,7 @@ Regulations have tightened rehypothecation rules to reduce this risk, but the pr
 <h3>Closely related</h3>
 <ul>
   <li><a href="/wiki/hedge-fund/">Hedge fund</a> — the primary user of leverage via prime brokers.</li>
-  <li><a href="/wiki/leverage/">Leverage</a> — the debt amplification strategy.</li>
+  <li>Leverage — the debt amplification strategy.</li>
   <li><a href="/wiki/repurchase-agreement/">Repurchase agreement</a> — the primary financing mechanism.</li>
   <li><a href="/wiki/prime-broker/">Prime broker</a> — the financial institution providing services.</li>
 </ul>
@@ -76,6 +76,6 @@ Regulations have tightened rehypothecation rules to reduce this risk, but the pr
 <ul>
   <li><a href="/wiki/counterparty-risk/">Counterparty risk</a> — the risk that a prime broker fails.</li>
   <li><a href="/wiki/lehman-brothers-collapse/">Lehman Brothers collapse</a> — a cautionary tale of prime broker interdependence.</li>
-  <li><a href="/wiki/margin/">Margin</a> — how leverage is implemented operationally.</li>
+  <li>Margin — how leverage is implemented operationally.</li>
 </ul>
 </div>

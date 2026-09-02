@@ -82,6 +82,6 @@ The optimal capital allocation depends on the company's financial position, grow
 <ul>
 <li><a href="/wiki/earnings-per-share/">Earnings per share</a> — the metric most directly affected by repurchase programs.</li>
 <li><a href="/wiki/dividend/">Dividend</a> — the alternative to buybacks for returning capital.</li>
-<li><a href="/wiki/capital-allocation/">Capital allocation</a> — the strategic question underlying buyback decisions.</li>
+<li>Capital allocation — the strategic question underlying buyback decisions.</li>
 </ul>
 </div>

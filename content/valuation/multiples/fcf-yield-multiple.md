@@ -112,7 +112,7 @@ FCF yield is one of the most informative valuation metrics because it is tied to
 - [Price-to-FCF ratio](/wiki/price-to-free-cash-flow-ratio/) — inverse multiple
 - [Dividend yield](/wiki/dividend-yield/) — payout component
 - [Earnings yield](/wiki/earnings-yield/) — alternative metric
-- [Enterprise value to FCF](/wiki/enterprise-value-to-fcf/) — broader valuation measure
+- Enterprise value to FCF — broader valuation measure
 
 ### Wider context
 - [Discounted cash flow valuation](/wiki/discounted-cash-flow-valuation/) — DCF framework

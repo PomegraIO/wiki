@@ -154,7 +154,7 @@ Higher assumed severity requires higher credit support (more tranches, higher OC
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/credit-risk/">Credit Risk</a> — severity is a component of credit risk.</li>
-<li><a href="/wiki/recovery-rate/">Recovery Rate</a> — the inverse of severity.</li>
+<li>Recovery Rate — the inverse of severity.</li>
 <li><a href="/wiki/structured-finance/">Structured Finance</a> — severity assumptions underpin structures.</li>
 </ul>
 </div>

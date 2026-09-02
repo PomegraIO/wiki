@@ -57,14 +57,14 @@ A selling climax at a stock's low on Tuesday, followed by immediate sharp gains 
 The strongest confirmations include:
 - A gap reversal the following session (the stock gaps up after a selling climax, showing overnight buying pressure).
 - A return to historical average volume within 1–3 days, signaling that the panic or euphoria has passed.
-- Rising [oscillators](//) (RSI, stochastic) that have dropped to deeply oversold levels at selling climaxes, now rebounding.
+- Rising oscillators (RSI, stochastic) that have dropped to deeply oversold levels at selling climaxes, now rebounding.
 - [Support and resistance](/support-and-resistance/) becoming visible: a climax often marks the low (or high) that holds on any pullback.
 
 ## Why Climaxes Reverse
 
 The intuition is straightforward: extreme volume reflects extreme emotion, and emotions do not sustain indefinitely. Sellers who dumped shares at a bottom have no more shares to sell. Buyers who chased the top have depleted their capital. Once the emotional impulse is spent, price discovery returns to a more rational basis, and the move reverses.
 
-A deeper structural reason relates to [order flow](//) and market-maker behavior. When volume is normal, market makers are neutral; they provide liquidity at equilibrium spreads. When volume spikes, they have absorbed a massive one-sided order flow. To rebalance their risk, they move prices in the opposite direction, which attracts contrarian traders and creates the reversal.
+A deeper structural reason relates to order flow and market-maker behavior. When volume is normal, market makers are neutral; they provide liquidity at equilibrium spreads. When volume spikes, they have absorbed a massive one-sided order flow. To rebalance their risk, they move prices in the opposite direction, which attracts contrarian traders and creates the reversal.
 
 Additionally, from a [momentum](/momentum-investing/) perspective, extreme volume is often a sign that the momentum trade is *crowded*. Everyone who wanted to buy the breakout has bought; now there are no more momentum buyers. Price reverts.
 
@@ -81,9 +81,9 @@ Finally, the timing problem persists. A volume climax often reverses within days
 Professional traders incorporate volume climax signals into a broader analytical framework:
 
 - **As a warning flag**: A buying climax on extreme volume at a new high is a reason to reduce long positions or take profits, not to add.
-- **Combined with [technical patterns](//)**: A climax at a chart pattern (a double top, a broken trendline) reinforces the reversal signal.
-- **In conjunction with [oscillators](//)**: A selling climax accompanied by deeply oversold RSI (below 30) is more reliable than climax alone.
-- **With [market breadth](//)**: A climax accompanied by negative breadth (fewer stocks rising than falling) at a market top is a stronger signal.
+- **Combined with technical patterns**: A climax at a chart pattern (a double top, a broken trendline) reinforces the reversal signal.
+- **In conjunction with oscillators**: A selling climax accompanied by deeply oversold RSI (below 30) is more reliable than climax alone.
+- **With market breadth**: A climax accompanied by negative breadth (fewer stocks rising than falling) at a market top is a stronger signal.
 
 Retail traders often use climax setups as a reason to avoid breakout trades immediately after an extreme volume spike; the reversal risk is too high. Some actively fade climaxes—betting that the price will reverse within days—as a contrarian play.
 

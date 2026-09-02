@@ -47,7 +47,7 @@ The South has led new-home price growth in recent years, with median prices up 3
 
 ## Demographic tailwinds and headwinds
 
-U.S. new-home prices are ultimately set by [demographic](/wiki/population-growth/) flows and economic migration. The 2010s saw young millennials aging into first-time home purchase years, lifting demand. The 2020s have seen gen-Z entering the market, but at lower homeownership rates due to affordability. An aging gen-X and Baby Boomer population driving [downsizing](/wiki/downsizing/) (empty nesters selling large homes) can depress demand for new construction. New-home price cycles often run 5–10 years and align with generational housing demand waves.
+U.S. new-home prices are ultimately set by demographic flows and economic migration. The 2010s saw young millennials aging into first-time home purchase years, lifting demand. The 2020s have seen gen-Z entering the market, but at lower homeownership rates due to affordability. An aging gen-X and Baby Boomer population driving downsizing (empty nesters selling large homes) can depress demand for new construction. New-home price cycles often run 5–10 years and align with generational housing demand waves.
 
 ## How builders respond to price signals
 

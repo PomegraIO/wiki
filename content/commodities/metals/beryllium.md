@@ -91,13 +91,13 @@ However, sustained high prices and supply constraints may drive development of b
 - <a href="/wiki/rare-earth-metals/">/wiki/rare-earth-metals/</a> — Other critical materials with limited supply
 - <a href="/wiki/aluminum/">/wiki/aluminum/</a> — Competing lightweight metal
 - <a href="/wiki/titanium/">/wiki/titanium/</a> — Another aerospace-critical metal
-- <a href="/wiki/strategic-metals/">/wiki/strategic-metals/</a> — Critical materials in global supply chains
+- /wiki/strategic-metals/ — Critical materials in global supply chains
 
 ### Wider context
 - <a href="/wiki/commodity-price-hedging/">/wiki/commodity-price-hedging/</a> — Managing price risk for industrial materials
-- <a href="/wiki/supply-chain-risk/">/wiki/supply-chain-risk/</a> — Mitigating sourcing vulnerability
+- /wiki/supply-chain-risk/ — Mitigating sourcing vulnerability
 - <a href="/wiki/geopolitical-energy/">/wiki/geopolitical-energy/</a> — Intersection of politics and raw materials
 - <a href="/wiki/commodity-contract-specifications/">/wiki/commodity-contract-specifications/</a> — Trading and delivery standards
-- <a href="/wiki/aerospace-industry-materials/">/wiki/aerospace-industry-materials/</a> — End-use demand drivers
+- /wiki/aerospace-industry-materials/ — End-use demand drivers
 
 </div>

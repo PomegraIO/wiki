@@ -62,7 +62,7 @@ A follow-on project with high volatility (uncertain outcomes) has higher option 
 
 **Volatility**: Higher uncertainty in follow-on project outcomes increases option value. A biotech stock with a binary drug-approval outcome has high volatility and high growth-option value. A utility with predictable earnings has low volatility and low growth-option value.
 
-**Time window**: Options that expire soon are less valuable. A company with a 2-year window to exercise a follow-on investment has less option value than one with a 10-year window (assuming the same underlying value and volatility). This is why [patent](/wiki/intellectual-property-rights/) and regulatory exclusivity are valuable—they extend the time window.
+**Time window**: Options that expire soon are less valuable. A company with a 2-year window to exercise a follow-on investment has less option value than one with a 10-year window (assuming the same underlying value and volatility). This is why patent and regulatory exclusivity are valuable—they extend the time window.
 
 **Investment cost**: Higher costs to exercise the option reduce its value (higher strike price). A growth option requiring $100M in follow-on investment is less valuable than one requiring $10M, all else equal.
 
@@ -90,6 +90,6 @@ Growth options are closely related to [expansion options](/wiki/expansion-option
 - [Discounted Cash Flow](/wiki/discounted-cash-flow-valuation/) — the traditional method that often misses growth options
 - [Strategic Investment](/wiki/capital-allocation-activism/) — how companies value future opportunities
 - [Venture Capital](/wiki/venture-capital-fund/) — structured to exploit growth options through staged funding
-- [Patent Value](/wiki/intellectual-property-rights/) — patents extend the time window for growth options
+- Patent Value — patents extend the time window for growth options
 
 </div>

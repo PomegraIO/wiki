@@ -41,7 +41,7 @@ The cost of synthetic stock depends on the call and put premiums:
 - If the put credit exceeds the call cost, you collect a net credit. This occurs when the call is in-the-money and the put is out-of-the-money (stock is above the strike).
 - If both are at-the-money, the call and put cost roughly the same, and net cost is near zero (plus commissions).
 
-<div class="wiki-hatnote">For owning stock directly, see <a href="/wiki/stock/">stocks</a>. For leveraged positions, see <a href="/wiki/margin/">margin buying</a>.</div>
+<div class="wiki-hatnote">For owning stock directly, see <a href="/wiki/stock/">stocks</a>. For leveraged positions, see margin buying.</div>
 
 ## Synthetic stock vs. owning stock
 
@@ -84,7 +84,7 @@ Convertible bond traders use synthetics to hedge. A convertible bond is similar 
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational contract.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/put-call-parity/">Put-call parity</a> — the principle underlying synthetic stock.</li>
 </ul>
 </div>

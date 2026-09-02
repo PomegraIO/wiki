@@ -23,9 +23,9 @@ image: /svg/taxes.svg
 |   |   |
 |---|---|
 | **Threshold (2024)** | $1,400 of unearned income per year |
-| **Tax rate** | Parent's marginal [tax bracket](/taxes/individual-income-tax/tax-bracket/) (not child's) |
+| **Tax rate** | Parent's marginal tax bracket (not child's) |
 | **Applies to ages** | Under 18; also 18–23 if full-time student with earned income below $13,850 |
-| **Types of income** | Interest, [dividends](/finance/equity/dividend/), [capital gains](/finance/equity/capital-gains/), rental income, royalties |
+| **Types of income** | Interest, [dividends](/dividend/), capital gains, rental income, royalties |
 | **Indexing** | Threshold adjusted annually for inflation |
 | **Exclusion** | First $1,400 taxed at child's rate (or not at all if no tax owed) |
 
@@ -89,8 +89,8 @@ At **age 24**, the kiddie tax rule never applies, regardless of earned or unearn
 Unearned income includes all investment returns and passive streams:
 
 - **Interest** on savings accounts, CDs, bonds
-- **[Dividends](/finance/equity/dividend/)** from stock holdings
-- **[Capital gains](/finance/equity/capital-gains/)** from sales of securities or real estate
+- **[Dividends](/dividend/)** from stock holdings
+- **Capital gains** from sales of securities or real estate
 - **Rental income** and royalties
 - **Passive partnership or S-corporation distributions**
 - **Annuity income** and certain trust distributions
@@ -99,7 +99,7 @@ Notably, **W-2 wages** and **net self-employment income** from the child's own w
 
 ## Interaction with Standard Deduction
 
-A child's [standard deduction](/taxes/deductions/standard-deduction/) is the greater of $1,350 (for 2024) or their earned income plus $450, up to the adult standard deduction ($14,600 single, for 2024).
+A child's standard deduction is the greater of $1,350 (for 2024) or their earned income plus $450, up to the adult standard deduction ($14,600 single, for 2024).
 
 If a child has $1,700 of unearned income and no earned income:
 
@@ -126,7 +126,7 @@ Note: The kiddie tax rate is based on the **child's parent**, not the gift-giver
 
 Parents can **elect** to report the child's unearned income on the parent's own return, rather than filing a separate return for the child. This option applies when:
 
-- The child's gross income is from interest and [dividends](/finance/equity/dividend/) only (not capital gains or other unearned income)
+- The child's gross income is from interest and [dividends](/dividend/) only (not capital gains or other unearned income)
 - Gross income is under $12,200 (for 2024)
 - No estimated tax payments were made and no estimated tax is required
 
@@ -137,9 +137,9 @@ The parental election simplifies filing if the child has only modest interest or
 Families with children who hold significant investment portfolios face strategic choices:
 
 - **Timing distributions**: Delaying distributions of unearned income until the child is older (outside the kiddie tax window) can reduce the parent's tax impact. However, this must be weighed against the time-value of money.
-- **Asset location**: Earning investment income in a [retirement account](/retirement/401k-plan/) or 529 plan (both of which defer or shield growth) avoids the kiddie tax entirely.
-- **Income-producing assets**: Gifts of appreciating securities (where growth will be realized as a long-term [capital gain](/finance/equity/capital-gains/) in the future) are more tax-efficient than bonds or dividend payers that generate current unearned income.
-- **Qualified dividends**: Long-term [capital gains](/finance/equity/capital-gains/) and qualified dividends can be taxed at 0%, 15%, or 20% rates. The parent's bracket still applies, but these preferential rates may still favor the child's own (lower) bracket for income below the threshold.
+- **Asset location**: Earning investment income in a [retirement account](/401k-plan/) or 529 plan (both of which defer or shield growth) avoids the kiddie tax entirely.
+- **Income-producing assets**: Gifts of appreciating securities (where growth will be realized as a long-term capital gain in the future) are more tax-efficient than bonds or dividend payers that generate current unearned income.
+- **Qualified dividends**: Long-term capital gains and qualified dividends can be taxed at 0%, 15%, or 20% rates. The parent's bracket still applies, but these preferential rates may still favor the child's own (lower) bracket for income below the threshold.
 
 ## State and Local Tax Considerations
 
@@ -151,16 +151,16 @@ Some states conform to federal kiddie tax rules; others have their own threshold
 
 ### Closely related
 
-- [AMT vs Regular Tax: Which One You Actually Pay](/taxes/alternative-tax/amt-vs-regular-tax-which-applies/) — Parallel tax systems that can affect high-income parents
-- [Standard Deduction](/taxes/deductions/standard-deduction/) — How the floor shields child's income from tax
-- [Qualified Dividend](/finance/equity/qualified-dividend/) — Preferential rates that may still apply under kiddie tax
-- [Capital Gains Tax](/finance/equity/capital-gains/) — Long-term gains subject to kiddie tax rules
+- [AMT vs Regular Tax: Which One You Actually Pay](/amt-vs-regular-tax-which-applies/) — Parallel tax systems that can affect high-income parents
+- Standard Deduction — How the floor shields child's income from tax
+- [Qualified Dividend](/qualified-dividend/) — Preferential rates that may still apply under kiddie tax
+- Capital Gains Tax — Long-term gains subject to kiddie tax rules
 
 ### Wider context
 
-- [Dividend](/finance/equity/dividend/) — What counts as unearned income
-- [Tax Bracket](/taxes/individual-income-tax/tax-bracket/) — Parent's marginal rate applied to excess income
-- [Dependent](/taxes/individual-income-tax/dependent/) — Qualification rules for the kiddie tax to apply
-- [Form 1040](/taxes/forms/form-1040/) — Child's return includes kiddie tax calculation
+- [Dividend](/dividend/) — What counts as unearned income
+- Tax Bracket — Parent's marginal rate applied to excess income
+- Dependent — Qualification rules for the kiddie tax to apply
+- Form 1040 — Child's return includes kiddie tax calculation
 
 </div>

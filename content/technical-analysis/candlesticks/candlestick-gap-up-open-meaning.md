@@ -39,13 +39,13 @@ A gap-up open is purely a *timing* phenomenon. The prior trading session closes 
 
 The first candle of the gap-up day opens at or near $102 (or higher). If the session then closes in the upper part of that candle's range, the candle is white (bullish). If it closes in the lower part or below the open, the candle is black (bearish), but the gap itself—the void between the prior high and the current open—remains.
 
-Graphically, when you look at the chart, you see a clean space, a missing price level where no trades occurred. This gap is visually distinctive and has become a focal point in [technical analysis](/technical-analysis.md).
+Graphically, when you look at the chart, you see a clean space, a missing price level where no trades occurred. This gap is visually distinctive and has become a focal point in technical analysis.
 
 Gap-ups are not unique to candlestick charts; they appear on any time-series chart where sessions or bars are shown. But in candlestick analysis, the gap is particularly clear because the wick and body structure highlight the opening price relative to the prior candle.
 
 ## Why Gaps Occur and What They Signal
 
-Gaps are rare in continuous (24-hour) markets like crypto or forex, where price moves seamlessly around the clock. They are common in markets that close—equities during off-hours, index [futures](/futures-contract.md) between sessions, international [stocks](/stock.md) on overnight news.
+Gaps are rare in continuous (24-hour) markets like crypto or forex, where price moves seamlessly around the clock. They are common in markets that close—equities during off-hours, index [futures](/futures-contract/) between sessions, international [stocks](/stock/) on overnight news.
 
 A gap-up open signals *overnight enthusiasm*. News broke or perceptions shifted after the regular session ended. By the time the market reopened, buyers were willing to pay higher prices immediately, before any negotiation or drift.
 
@@ -105,7 +105,7 @@ Occasionally, a gap-up open appears in the middle of a downtrend. If it is a one
 
 **The gap-up trap**: A stock gaps up on news that traders misinterpret. The real driver of the move is not what the market thinks. As clarity emerges, the gap fills quickly, and traders who bought the open are left underwater.
 
-**Overconfidence from a gap**: Not all gap-ups are created equal. A gap of 0.5% in a liquid large-cap [index](/index.md) is different from a 10% gap in a low-liquidity micro-cap stock. Liquidity, the underlying asset's volatility, and the magnitude of the gap all influence reliability.
+**Overconfidence from a gap**: Not all gap-ups are created equal. A gap of 0.5% in a liquid large-cap index is different from a 10% gap in a low-liquidity micro-cap stock. Liquidity, the underlying asset's volatility, and the magnitude of the gap all influence reliability.
 
 **Ignoring volume**: A gap-up on light volume (market closed, thin trading at the open) is weaker than a gap-up on heavy volume. Heavy volume suggests conviction; light volume suggests few buyers and many sellers waiting at the open.
 
@@ -115,17 +115,17 @@ Occasionally, a gap-up open appears in the middle of a downtrend. If it is a one
 
 ### Closely related
 
-- [Price Gap Analysis](/price-gaps.md) — Gaps in general and gap-filling behavior across chart types.
-- [Gap-and-Crap Pattern](/gap-and-crap.md) — Bearish pattern where a gap is filled by a large black candle.
-- [Tasuki Gap](/tasuki-gap.md) — Three-candle gap pattern indicating continuation despite a pullback.
-- [Volume](/volume.md) — Why volume on a gap-up open affects its strength and likelihood of filling.
-- [Opening Bell Trading](/opening-bell-trading.md) — Strategies and risks in the first hour after a gap.
+- Price Gap Analysis — Gaps in general and gap-filling behavior across chart types.
+- Gap-and-Crap Pattern — Bearish pattern where a gap is filled by a large black candle.
+- [Tasuki Gap](/tasuki-gap/) — Three-candle gap pattern indicating continuation despite a pullback.
+- Volume — Why volume on a gap-up open affects its strength and likelihood of filling.
+- Opening Bell Trading — Strategies and risks in the first hour after a gap.
 
 ### Wider context
 
-- [Technical Analysis](/technical-analysis.md) — Candlestick gaps and price action as a foundation for trading.
-- [Price Action Trading](/price-action-trading.md) — Reading candles, wicks, and gaps without relying on indicators.
-- [News and Events](/news-driven-trading.md) — How earnings, economic data, and announcements drive overnight gaps.
-- [Risk Management](/risk-management.md) — Placing stops around gap levels and managing overnight exposure.
+- Technical Analysis — Candlestick gaps and price action as a foundation for trading.
+- Price Action Trading — Reading candles, wicks, and gaps without relying on indicators.
+- News and Events — How earnings, economic data, and announcements drive overnight gaps.
+- Risk Management — Placing stops around gap levels and managing overnight exposure.
 
 </div>

@@ -8,7 +8,7 @@ keywords:
   - tax-free reorganization
 ---
 
-*A **spin-off transaction** is a corporate action in which a parent company distributes shares of a [subsidiary](/wiki/subsidiary/) to its existing shareholders, creating a new independent publicly-traded company without requiring shareholders to sell or exchange shares.*
+*A **spin-off transaction** is a corporate action in which a parent company distributes shares of a subsidiary to its existing shareholders, creating a new independent publicly-traded company without requiring shareholders to sell or exchange shares.*
 
 In a typical spin-off, shareholders of Parent Corp receive shares of NewCo (the spun-off business) proportionally—a shareholder owning 1% of Parent receives 1% of NewCo. After the spin, Parent and NewCo are separate entities with independent boards, management, and stock tickers. The spin-off is usually tax-free under [Section 355](/wiki/capital-gains-tax/) of the Internal Revenue Code, provided the subsidiary's business was active for five years and the distribution is not a disguised [dividend](/wiki/dividend/).
 
@@ -57,7 +57,7 @@ Spin-offs often create shareholder value. A study by Kemper Financial (2019) fou
 - **Operational focus** — NewCo's management focuses exclusively on its business, potentially raising [ROE](/wiki/return-on-equity/) and [ROIC](/wiki/return-on-invested-capital/).
 - **Independent financing** — NewCo accesses its own debt and equity markets, optimizing its [capital structure](/wiki/corporate-debt-structure/).
 
-However, not all spins create value. Spun-off units that are too small to operate efficiently ([minimum viable scale](/wiki/business-cycle/)) may struggle. NewCo must rebuild [investor relations](/wiki/disclosure/), credit facilities, and corporate infrastructure independently.
+However, not all spins create value. Spun-off units that are too small to operate efficiently ([minimum viable scale](/wiki/business-cycle/)) may struggle. NewCo must rebuild investor relations, credit facilities, and corporate infrastructure independently.
 
 ## Tracking stocks vs. spin-offs
 
@@ -83,7 +83,7 @@ The 2010s and 2020s saw a decline in spin-offs (down from ~50–60 annually in t
 ### Wider context
 - [Conglomerate Discount](/wiki/conglomerate-discount/) — value destroyed by bundling
 - [Cost of Capital](/wiki/cost-of-equity/) — NewCo's independent cost of equity
-- [Corporate Governance](/wiki/corporate-governance/) — management structure post-spin
+- Corporate Governance — management structure post-spin
 - [M&A](/wiki/acquisition/) — strategic context for separation
 
 </div>

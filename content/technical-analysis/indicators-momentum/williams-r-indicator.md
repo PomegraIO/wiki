@@ -79,11 +79,11 @@ When price makes a new high but %R fails to reach −20 (or new low but %R stays
 ### Closely related
 - [Stochastic Oscillator](/wiki/stochastic-oscillator/) — Nearly identical mechanic with smoothing applied
 - [Relative Strength Index (RSI)](/wiki/rsi-relative-strength/) — Alternative momentum gauge using price changes vs. range
-- [Overbought](/wiki/overbought-oversold/) — Theoretical basis for reversal signals
+- Overbought — Theoretical basis for reversal signals
 
 ### Wider context
 - [Momentum Investing](/wiki/momentum-investing/) — Trend-following strategy contrasting mean-reversion trades
-- [Technical Analysis](/wiki/technical-analysis/) — Framework encompassing all oscillator-based methods
+- Technical Analysis — Framework encompassing all oscillator-based methods
 - [Support and Resistance](/wiki/support-and-resistance/) — Price levels where reversals cluster
 - [Divergence](/wiki/momentum-investing/) — Divergence patterns in price vs. indicator
 - [Mean Reversion](/wiki/mean-reversion-investing/) — Assumption underlying overbought-oversold logic

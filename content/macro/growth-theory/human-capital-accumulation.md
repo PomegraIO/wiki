@@ -34,7 +34,7 @@ Beyond individual productivity, human capital creates [positive externalities](/
 
 In the classical [Solow growth model](/wiki/solow-growth-model/), capital accumulation and labor growth alone are not enough to sustain long-term growth. Eventually, returns on capital diminish and growth flattens toward a steady state. This model predicted that poor countries should converge to the living standards of rich countries simply by accumulating capital, yet convergence has been slow and uneven — a puzzle called the "convergence paradox."
 
-The resolution came from [endogenous growth theory](/wiki/endogenous-growth-theory/), pioneered by Romer, Lucas, and others. If investment in human capital is treated not as a finite resource but as an engine that generates new knowledge and ideas, then growth can sustain indefinitely. A country that invests continuously in education and training builds human capital that raises productivity forever. This explains why wealthy nations with high education levels continue to grow faster than poor ones, even after controlling for physical [capital stock](/wiki/capital-allocation/).
+The resolution came from [endogenous growth theory](/wiki/endogenous-growth-theory/), pioneered by Romer, Lucas, and others. If investment in human capital is treated not as a finite resource but as an engine that generates new knowledge and ideas, then growth can sustain indefinitely. A country that invests continuously in education and training builds human capital that raises productivity forever. This explains why wealthy nations with high education levels continue to grow faster than poor ones, even after controlling for physical capital stock.
 
 ## Forms of human capital investment
 

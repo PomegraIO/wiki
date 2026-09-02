@@ -26,7 +26,7 @@ keywords:
 
 ## Why term funding matters
 
-Banks fund themselves in the interbank lending market—borrowing overnight or for short terms and rolling the loans daily. This is cheap in normal times but risky. If the [credit-market](/wiki/credit-market/) seizes (as in 2008 or March 2020), overnight lending evaporates and banks face acute [liquidity](/wiki/liquidity-risk/) crises. They cannot roll their loans and have no cash to meet withdrawals.
+Banks fund themselves in the interbank lending market—borrowing overnight or for short terms and rolling the loans daily. This is cheap in normal times but risky. If the credit-market seizes (as in 2008 or March 2020), overnight lending evaporates and banks face acute [liquidity](/wiki/liquidity-risk/) crises. They cannot roll their loans and have no cash to meet withdrawals.
 
 A term funding facility allows a bank to borrow directly from the central bank for, say, 30 days at a fixed rate of 2.5%. Now the bank has 30 days of stable funding, reducing the panic that drives overnight rates to extreme levels. By providing term liquidity, the central bank breaks the doom loop: banks are less desperate for overnight cash, overnight rates stabilize, and confidence returns to money markets.
 

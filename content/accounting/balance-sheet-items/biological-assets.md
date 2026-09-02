@@ -11,7 +11,7 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*A **biological asset** is any living plant or animal held by a business for agricultural activity, measured at fair value less estimated costs to sell under [IAS 41](/glossary/ias-41). Unlike ordinary [fixed assets](/glossary/fixed-asset) that use [historical cost](/glossary/historical-cost), biological assets are revalued every reporting period, with unrealised gains and losses flowing directly to the [income statement](/glossary/income-statement) rather than equity.*
+*A **biological asset** is any living plant or animal held by a business for agricultural activity, measured at fair value less estimated costs to sell under IAS 41. Unlike ordinary fixed assets that use [historical cost](/historical-cost/), biological assets are revalued every reporting period, with unrealised gains and losses flowing directly to the [income statement](/income-statement/) rather than equity.*
 
 <aside class="wiki-infobox">
 
@@ -24,9 +24,9 @@ image: "/svg/accounting.svg"
 |   |   |
 |---|---|
 | **What they are** | Crops, livestock, trees, and aquatic life held for sale or harvest in agricultural operations |
-| **Standard** | [IAS 41](/glossary/ias-41) (IFRS; mandatory for entities with agricultural activity) |
-| **Measurement** | Fair value less costs to sell; remeasured every [balance sheet](/glossary/balance-sheet) date |
-| **Gain/loss treatment** | Unrealised gains and losses flow to the [income statement](/glossary/income-statement) immediately |
+| **Standard** | IAS 41 (IFRS; mandatory for entities with agricultural activity) |
+| **Measurement** | Fair value less costs to sell; remeasured every [balance sheet](/balance-sheet/) date |
+| **Gain/loss treatment** | Unrealised gains and losses flow to the [income statement](/income-statement/) immediately |
 | **US GAAP** | Limited guidance; historically cost-based with lower-of-cost-or-market adjustments |
 | **Key tension** | Biological growth creates profit before harvest; farmers must recognise this mark-to-market gain |
 
@@ -34,17 +34,17 @@ image: "/svg/accounting.svg"
 
 ## Why biological assets demand fair-value accounting
 
-Standard accounting assumes assets remain static until sold or consumed. But a herd of cattle, a forest plantation, or a vineyard generates value passively—through growth and maturation—before any sale occurs. A dairy cow purchased at market price will be worth more in six months simply because it has matured and proven its productivity. Treating it at cost would freeze an economically false value onto the [balance sheet](/glossary/balance-sheet).
+Standard accounting assumes assets remain static until sold or consumed. But a herd of cattle, a forest plantation, or a vineyard generates value passively—through growth and maturation—before any sale occurs. A dairy cow purchased at market price will be worth more in six months simply because it has matured and proven its productivity. Treating it at cost would freeze an economically false value onto the [balance sheet](/balance-sheet/).
 
 IAS 41 resolves this by requiring fair-value revaluation every reporting period. The rationale is faithful representation: the assets' real economic worth—what they could fetch on an active market—should reflect current conditions. A mature wine vintage in a cellar is worth far more than its historical harvest cost; a fattened beef steer is worth more than a lean calf purchased months earlier.
 
-Unrealised gains from growth do not merely sit in an equity reserve (as [revaluation surplus](/glossary/revaluation-surplus) does for buildings). They flow to the income statement as realised profit. A farmer can thus report a profitable year even without selling a single animal, purely from the mark-to-market appreciation of the breeding herd—a reality foreign to US GAAP, where such gains would not be recognised until harvest or sale.
+Unrealised gains from growth do not merely sit in an equity reserve (as [revaluation surplus](/revaluation-surplus/) does for buildings). They flow to the income statement as realised profit. A farmer can thus report a profitable year even without selling a single animal, purely from the mark-to-market appreciation of the breeding herd—a reality foreign to US GAAP, where such gains would not be recognised until harvest or sale.
 
 ## How biological assets appear on the balance sheet
 
-Biological assets are classified as [current assets](/glossary/current-asset) or [non-current assets](/glossary/non-current-asset) depending on the expected holding period. A wheat crop planted in spring and harvested in autumn is typically current. A breeding sow, expected to produce litters over several years, is non-current.
+Biological assets are classified as current assets or non-current assets depending on the expected holding period. A wheat crop planted in spring and harvested in autumn is typically current. A breeding sow, expected to produce litters over several years, is non-current.
 
-On the balance sheet, they sit separately from [inventory](/glossary/inventory). This distinction matters: inventory (grain in storage, canned fruit) is valued at the lower of cost or net realisable value under standard rules. Biological assets (the standing crop, the live animal) are marked to fair value. The moment wheat is harvested, it shifts from a biological asset to agricultural produce—and from fair-value measurement to cost-based accounting.
+On the balance sheet, they sit separately from [inventory](/inventory/). This distinction matters: inventory (grain in storage, canned fruit) is valued at the lower of cost or net realisable value under standard rules. Biological assets (the standing crop, the live animal) are marked to fair value. The moment wheat is harvested, it shifts from a biological asset to agricultural produce—and from fair-value measurement to cost-based accounting.
 
 Consider a poultry farm:
 
@@ -63,7 +63,7 @@ Seasoned analysts often adjust back these unrealised biological gains when compa
 
 ## Agricultural produce versus biological assets
 
-The moment a biological asset is harvested, cut, or slaughtered, it becomes agricultural produce—subject to immediate fair-value recognition on the date of harvest, then expensed or inventoried under normal [cost accounting](/glossary/cost-accounting) rules.
+The moment a biological asset is harvested, cut, or slaughtered, it becomes agricultural produce—subject to immediate fair-value recognition on the date of harvest, then expensed or inventoried under normal cost accounting rules.
 
 Example:
 
@@ -75,7 +75,7 @@ The system thus captures value creation at three decision points: growth (mark-t
 
 ## Why IAS 41 matters to analysts and investors
 
-For companies with significant agricultural operations—agribusiness conglomerates, plantation companies, wine producers—IAS 41 can swing reported profit dramatically. A bumper coffee harvest or a strong genetic gain in livestock can create a multi-million-dollar non-cash profit, inflating earnings per share and [return on equity](/glossary/return-on-equity) without a corresponding increase in cash flow.
+For companies with significant agricultural operations—agribusiness conglomerates, plantation companies, wine producers—IAS 41 can swing reported profit dramatically. A bumper coffee harvest or a strong genetic gain in livestock can create a multi-million-dollar non-cash profit, inflating earnings per share and [return on equity](/return-on-equity/) without a corresponding increase in cash flow.
 
 Conversely, a pest outbreak or disease outbreak can trigger massive unrealised losses that depress reported profit but might be temporary. Sophisticated analysts build detailed harvest-cycle models to strip out these biological gains and losses, focusing on cash realised from actual harvests and sales.
 
@@ -87,19 +87,19 @@ Smaller farmers or family agricultural businesses often use IFRS except IAS 41, 
 
 ### Closely related
 
-- [IAS 41](/glossary/ias-41) — the IFRS standard governing biological asset recognition and measurement
-- [Agricultural Produce](/glossary/agricultural-produce) — goods harvested or extracted from biological assets
-- [Fair Value](/glossary/fair-value) — the current market price used to remeasure biological assets
-- [Current Assets](/glossary/current-asset) — the balance-sheet category for crops with near-term harvest
-- [Inventory](/glossary/inventory) — the category for harvested agricultural products
-- [Unrealised Gain](/glossary/unrealised-gain) — the profit recognised when a biological asset increases in value before sale
+- IAS 41 — the IFRS standard governing biological asset recognition and measurement
+- Agricultural Produce — goods harvested or extracted from biological assets
+- [Fair Value](/fair-value/) — the current market price used to remeasure biological assets
+- Current Assets — the balance-sheet category for crops with near-term harvest
+- [Inventory](/inventory/) — the category for harvested agricultural products
+- Unrealised Gain — the profit recognised when a biological asset increases in value before sale
 
 ### Wider context
 
-- [IFRS](/glossary/ifrs) — the accounting standards requiring fair-value measurement of biological assets
-- [Balance Sheet](/glossary/balance-sheet) — the statement where biological assets are separately disclosed
-- [Income Statement](/glossary/income-statement) — where unrealised biological gains and losses appear
-- [Agricultural Economics](/glossary/agricultural-economics) — the broader context of farming as a profit-generating business
-- [Revaluation Surplus](/glossary/revaluation-surplus) — the equity reserve used for non-biological asset revaluations under IFRS
+- IFRS — the accounting standards requiring fair-value measurement of biological assets
+- [Balance Sheet](/balance-sheet/) — the statement where biological assets are separately disclosed
+- [Income Statement](/income-statement/) — where unrealised biological gains and losses appear
+- Agricultural Economics — the broader context of farming as a profit-generating business
+- [Revaluation Surplus](/revaluation-surplus/) — the equity reserve used for non-biological asset revaluations under IFRS
 
 </div>

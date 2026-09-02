@@ -37,7 +37,7 @@ A positive earnings surprise often triggers a cascade of upward revisions. Analy
 
 ## Risks and mean reversion dynamics
 
-The primary risk is [mean reversion](/wiki/mean-reversion-investing/). A large earnings surprise may reflect a one-time windfall (favorable tax settlement, a large customer win, favorable currency move) rather than a permanent improvement in profitability. Once investors recognize the surprise as temporary, the stock can reverse sharply. Similarly, an earnings surprise that reflects accelerating growth may already be baked into an elevated [valuation](/wiki/valuation/), so even as estimates are revised upward, the stock's [price-to-earnings](/wiki/price-to-earnings-ratio/) multiple may compress, leaving little upside. A strategy that buys every surprise without checking whether valuations are already rich exposes itself to overpaying for growth.
+The primary risk is [mean reversion](/wiki/mean-reversion-investing/). A large earnings surprise may reflect a one-time windfall (favorable tax settlement, a large customer win, favorable currency move) rather than a permanent improvement in profitability. Once investors recognize the surprise as temporary, the stock can reverse sharply. Similarly, an earnings surprise that reflects accelerating growth may already be baked into an elevated valuation, so even as estimates are revised upward, the stock's [price-to-earnings](/wiki/price-to-earnings-ratio/) multiple may compress, leaving little upside. A strategy that buys every surprise without checking whether valuations are already rich exposes itself to overpaying for growth.
 
 ## Sector and market-regime effects
 

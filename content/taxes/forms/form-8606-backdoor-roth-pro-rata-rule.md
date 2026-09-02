@@ -170,15 +170,15 @@ Part III is used only if you take distributions from a Roth IRA before age 59½.
 
 - [Roth IRA](/roth-ira/) — the destination account; tax-free growth and withdrawals
 - [Traditional IRA](/traditional-ira/) — the source account for backdoor conversions; pre-tax contributions
-- [Backdoor Roth](//) — the technique using nondeductible contributions and conversions
+- Backdoor Roth — the technique using nondeductible contributions and conversions
 - [Marginal Tax Rate](/marginal-tax-rate-investor/) — determines the cost of the taxable conversion
-- [SEP-IRA](//) — Simplified Employee Pension; counts toward pro-rata
+- SEP-IRA — Simplified Employee Pension; counts toward pro-rata
 - [401(k) Plan](/401k-plan/) — rollovers to IRA trigger pro-rata if executed before year-end
 
 ### Wider context
 
 - [Tax Bracket](/tax-bracket-investor/) — income from conversions can push you into higher brackets
-- [Ordinary Income](//) — conversions are taxed as ordinary income, not capital gains
+- Ordinary Income — conversions are taxed as ordinary income, not capital gains
 - [Cost Basis](/cost-basis/) — Form 8606 tracks the tax-free portion of IRA distributions
 - [Qualified Dividend](/qualified-dividend/) — unlike conversion income, some portfolio income gets favorable rates
 - [Tax-Loss Harvesting](/tax-loss-harvesting/) — a different strategy to manage tax liability

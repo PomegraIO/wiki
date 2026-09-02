@@ -55,7 +55,7 @@ Cargotec's revenue is split across ports, trucking, construction, and industrial
 
 ## Research path
 
-Examine the [10-K](/10-K/) for order backlog, gross margin by segment, and project pipeline. Backlog is critical: it signals whether demand will sustain revenue in coming quarters. Gross margin trends reveal whether the firm is holding pricing or losing to competition. The [[free-cash-flow](/free-cash-flow/) should be tracked carefully; project-based manufacturing can tie up significant working capital if large customer advances are slow to arrive. Compare Cargotec's gross and operating margins to Konecranes and other peers; competitive advantage should show in margin superiority or stability.
+Examine the [10-K](/10-k/) for order backlog, gross margin by segment, and project pipeline. Backlog is critical: it signals whether demand will sustain revenue in coming quarters. Gross margin trends reveal whether the firm is holding pricing or losing to competition. The [[free-cash-flow](/free-cash-flow/) should be tracked carefully; project-based manufacturing can tie up significant working capital if large customer advances are slow to arrive. Compare Cargotec's gross and operating margins to Konecranes and other peers; competitive advantage should show in margin superiority or stability.
 
 <div class="wiki-seealso">
 ### Closely related

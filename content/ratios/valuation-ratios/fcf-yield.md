@@ -22,7 +22,7 @@ FCF stands for free cash flow. See [free cash flow](/wiki/free-cash-flow/) for t
 
 ## Why cash matters more than earnings
 
-A company's [earnings](/wiki/earnings-per-share/) are heavily shaped by accounting choices—[depreciation](/wiki/depreciation/) methods, [goodwill](/wiki/goodwill/) write-downs, stock-based compensation treatment. Reported earnings can be high while the company burns cash. [Free cash flow](/wiki/free-cash-flow/) is the cash the business throws off after paying for [capital expenditures](/wiki/capital-expenditures/)—the money the company can legally distribute to shareholders.
+A company's [earnings](/wiki/earnings-per-share/) are heavily shaped by accounting choices—[depreciation](/wiki/depreciation/) methods, [goodwill](/wiki/goodwill/) write-downs, stock-based compensation treatment. Reported earnings can be high while the company burns cash. [Free cash flow](/wiki/free-cash-flow/) is the cash the business throws off after paying for capital expenditures—the money the company can legally distribute to shareholders.
 
 FCF yield is therefore more honest than [earnings yield](/wiki/earnings-yield/) for a simple reason: you cannot spend reported earnings, only cash.
 
@@ -40,17 +40,17 @@ Earnings yield can obscure it. A rapidly depreciating tech company might show hi
 
 ## FCF yield is less useful for growth companies
 
-A company with high [capital intensity](/wiki/capital-expenditures/)—factories, equipment, infrastructure—will have lower FCF relative to earnings because capex is high. [Asset-turnover ratio](/wiki/asset-turnover-ratio/) and [return-on-capital-employed](/wiki/return-on-capital-employed/) become more important than FCF yield for judging whether that capex is earning a good return.
+A company with high capital intensity—factories, equipment, infrastructure—will have lower FCF relative to earnings because capex is high. [Asset-turnover ratio](/wiki/asset-turnover-ratio/) and [return-on-capital-employed](/wiki/return-on-capital-employed/) become more important than FCF yield for judging whether that capex is earning a good return.
 
 Growth companies often have zero FCF yield or negative FCF yield because they are reinvesting furiously. Don't dismiss them as unvalued by FCF yield alone. Instead, use [discounted-cash-flow-valuation](/wiki/discounted-cash-flow-valuation/) and assume that future years will have higher FCF as the company matures.
 
 ## The sustainability test
 
-A stock yielding 8% on FCF is worth investigating. If the company has held FCF stable for five years and the balance sheet is healthy, that yield is likely sustainable. If FCF is volatile or the company is taking on [debt](/wiki/debt-to-equity-ratio/) to fund operations, the high yield might not last. Use FCF yield as a starting point, then dig into [cash-conversion-cycle](/wiki/cash-conversion-cycle/) and [debt](/wiki/debt/) trends.
+A stock yielding 8% on FCF is worth investigating. If the company has held FCF stable for five years and the balance sheet is healthy, that yield is likely sustainable. If FCF is volatile or the company is taking on [debt](/wiki/debt-to-equity-ratio/) to fund operations, the high yield might not last. Use FCF yield as a starting point, then dig into [cash-conversion-cycle](/wiki/cash-conversion-cycle/) and debt trends.
 
 ## FCF yield in action: comparing industries
 
-Two retailers: One has FCF yield of 6% and a stable [capex](/wiki/capital-expenditures/) program. The other has FCF yield of 3% but is investing heavily in automation. The second might be building competitive advantage; the first might be harvesting a mature business. FCF yield itself does not tell you the outcome—but it flags the difference and forces you to investigate.
+Two retailers: One has FCF yield of 6% and a stable capex program. The other has FCF yield of 3% but is investing heavily in automation. The second might be building competitive advantage; the first might be harvesting a mature business. FCF yield itself does not tell you the outcome—but it flags the difference and forces you to investigate.
 
 ## Negative FCF yield is not always bad
 
@@ -67,7 +67,7 @@ A company in a major [acquisition](/wiki/acquisition/) phase or building new fac
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/capital-expenditures/">Capital expenditures</a> — the spending deducted from operating cash flow.</li>
+  <li>Capital expenditures — the spending deducted from operating cash flow.</li>
   <li><a href="/wiki/discounted-cash-flow-valuation/">Discounted cash flow valuation</a> — the framework that projects future FCF.</li>
   <li><a href="/wiki/fundamental-investing/">Fundamental investing</a> — the discipline that often leans on FCF metrics.</li>
 </ul>

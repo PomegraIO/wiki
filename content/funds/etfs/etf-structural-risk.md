@@ -29,9 +29,9 @@ An ETF is supposed to track its benchmark. But structural issues can cause [trac
 
 More subtle is the risk that the underlying index changes without the fund being aware. An ETF tracking an index of US small-cap stocks might find that the index provider redefines small-cap or reconstitutes the index in a way that significantly changes the fund's composition and risk profile. The fund is legally required to follow the index, but the lag in implementation can cause surprise deviations.
 
-## Counterparty risk in [derivatives](/wiki/derivative/) and securities lending
+## Counterparty risk in derivatives and securities lending
 
-Many ETFs use [derivatives](/wiki/derivatives/) to enhance returns or reduce costs. A [leveraged ETF](/wiki/leveraged-etf/) might use [swap](/wiki/swap/) agreements to gain 2x or 3x exposure to an index. If the [counterparty](/wiki/counterparty-risk/)—a large bank—fails, the swap can blow up. The ETF investor is exposed to the bank's credit quality, not just the underlying index.
+Many ETFs use derivatives to enhance returns or reduce costs. A [leveraged ETF](/wiki/leveraged-etf/) might use [swap](/wiki/swap/) agreements to gain 2x or 3x exposure to an index. If the [counterparty](/wiki/counterparty-risk/)—a large bank—fails, the swap can blow up. The ETF investor is exposed to the bank's credit quality, not just the underlying index.
 
 Securities lending is another risk. Some ETFs loan out their holdings (e.g., lend stock to [short-sellers](/wiki/short-selling/)) and earn a fee. If the borrower defaults and the stock price rises sharply, the ETF may not be able to reacquire the stock or receive adequate compensation. This risk is real but usually well-managed; most ETF sponsors maintain adequate collateral.
 
@@ -53,7 +53,7 @@ During the 2020 corporate bond panic, even though the Fed eventually guaranteed 
 
 ## Rebalancing and momentum effects
 
-[Leveraged ETFs](/wiki/leveraged-etf/) and other derivatives-heavy ETFs rebalance daily to maintain their stated multiple. During a period of high volatility, this rebalancing can be a tax drag and a performance drag. A 3x [leveraged ETF](/wiki/leveraged-etf/) that rises 10% one day and falls 8% the next doesn't simply lose money on the day returns; it incurs a loss from the [leverage](/wiki/leverage/) reset itself.
+[Leveraged ETFs](/wiki/leveraged-etf/) and other derivatives-heavy ETFs rebalance daily to maintain their stated multiple. During a period of high volatility, this rebalancing can be a tax drag and a performance drag. A 3x [leveraged ETF](/wiki/leveraged-etf/) that rises 10% one day and falls 8% the next doesn't simply lose money on the day returns; it incurs a loss from the leverage reset itself.
 
 This is a structural feature of leveraged products—they decay in value during periods of high volatility, not just when the underlying index declines. Many retail investors don't understand this and are surprised by persistent underperformance.
 
@@ -77,7 +77,7 @@ These risks are low-probability but high-impact. A long-term ETF investor should
 <ul>
 <li><a href="/wiki/liquidity-risk/">Liquidity Risk</a> — the risk of being unable to sell quickly.</li>
 <li><a href="/wiki/etf-premium-discount/">ETF Premium/Discount</a> — divergence from NAV.</li>
-<li><a href="/wiki/counterparty-risk/">Counterparty Risk</a> — risk from [derivatives](/wiki/derivatives/) and lending.</li>
+<li><a href="/wiki/counterparty-risk/">Counterparty Risk</a> — risk from derivatives and lending.</li>
 <li><a href="/wiki/etf-creation-redemption/">ETF Creation and Redemption</a> — the mechanism that provides structural support.</li>
 <li><a href="/wiki/etf-tracking-error/">ETF Tracking Error</a> — unexpected divergence from the benchmark.</li>
 </ul>

@@ -134,7 +134,7 @@ Traders often pair ATR with:
 - [Support and Resistance](/wiki/support-and-resistance/) — level placement
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — discipline
+- Technical Analysis — discipline
 - [Trend Following](/wiki/trend-following/) — strategy type
 - [Mean Reversion Investing](/wiki/mean-reversion-investing/) — opposing strategy
 - [Risk Management](/wiki/position-limit-regulations/) — position sizing

@@ -98,8 +98,8 @@ As a result, the feeder cattle basis remains somewhat inefficient, and understan
 ### Closely related
 - [Basis](/wiki/basis/) — the general concept of spot-futures price difference
 - [Feeder Cattle Futures](/wiki/feeder-cattle-futures/) — the CME futures contract that defines the basis
-- [Commodity Futures](/wiki/commodity-futures/) — the broader market category
-- [Hedging](/wiki/hedging/) — the primary use case for basis knowledge
+- Commodity Futures — the broader market category
+- Hedging — the primary use case for basis knowledge
 
 ### Wider context
 - [Livestock Hedging Strategies](/wiki/livestock-hedging-strategies/) — comprehensive approach using basis and spreads

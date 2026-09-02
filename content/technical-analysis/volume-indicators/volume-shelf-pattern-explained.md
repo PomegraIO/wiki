@@ -117,10 +117,10 @@ Shelves also work best on **longer time horizons** (daily, weekly charts) where 
 
 ## Shelves in a Broader Technical Framework
 
-Volume shelves are most useful when combined with other [technical analysis](/https://example.com/) tools:
+Volume shelves are most useful when combined with other technical analysis tools:
 
 - **[Support and resistance](/support-and-resistance/):** Shelves are one lens on these levels; add price structure (prior highs/lows) and moving averages for confirmation.
-- **[Trend lines](/https://example.com/):** A shelf near a trend line is more significant.
+- **Trend lines:** A shelf near a trend line is more significant.
 - **[Moving averages](/moving-average/):** If a shelf coincides with the 50-day or 200-day moving average, it's a stronger obstacle.
 - **Oscillators:** If price nears a shelf and the RSI is overbought (in an uptrend), the shelf is more likely to resist. Conversely, an oversold RSI near a shelf suggests support will hold.
 
@@ -131,9 +131,9 @@ Volume shelves are most useful when combined with other [technical analysis](/ht
 ### Closely related
 
 - [Support and resistance](/support-and-resistance/) — the conceptual foundation; shelves are one implementation
-- [Volume profile](/https://example.com/) — the analysis tool that displays shelves visually
+- Volume profile — the analysis tool that displays shelves visually
 - [Moving average](/moving-average/) — another key level that often aligns with shelves
-- [Technical analysis](/https://example.com/) — the broader discipline within which shelves operate
+- Technical analysis — the broader discipline within which shelves operate
 - [Momentum investing](/momentum-investing/) — a strategy that uses reversion to shelves as entry/exit points
 - [Price discovery](/price-discovery/) — the market mechanism that creates and honors shelves
 
@@ -142,7 +142,7 @@ Volume shelves are most useful when combined with other [technical analysis](/ht
 - [Stock](/stock/) — the primary asset analyzed via volume shelves
 - [Market maker trading](/market-maker-trading/) — the institutional perspective on volume concentration
 - [Liquidity risk](/liquidity-risk/) — why some shelves (high-volume zones) feel safer to trade
-- [Sentiment](/https://example.com/) — the behavioral psychology driving shelf behavior
-- [Trading strategy](/https://example.com/) — the practical application of shelf analysis
+- Sentiment — the behavioral psychology driving shelf behavior
+- Trading strategy — the practical application of shelf analysis
 
 </div>

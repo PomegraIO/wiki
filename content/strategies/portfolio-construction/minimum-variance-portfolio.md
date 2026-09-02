@@ -8,7 +8,7 @@ keywords:
   - efficient frontier
 ---
 
-*A **minimum variance portfolio** is a portfolio of assets selected and weighted to minimize [standard deviation](/wiki/volatility/) (volatility) for a target return level. It is the lowest-risk point on the [efficient frontier](/wiki/portfolio-construction/), representing the best risk-adjusted opportunity if you are indifferent between different expected returns.*
+*A **minimum variance portfolio** is a portfolio of assets selected and weighted to minimize standard deviation (volatility) for a target return level. It is the lowest-risk point on the efficient frontier, representing the best risk-adjusted opportunity if you are indifferent between different expected returns.*
 
 <aside class="wiki-infobox">
 
@@ -104,14 +104,14 @@ This is why many practitioners use:
 
 ### Closely related
 - [Capital Asset Pricing Model (CAPM)](/wiki/capital-asset-pricing-model/) — theoretical foundation for expected returns
-- [Efficient frontier](/wiki/portfolio-construction/) — the set of optimal portfolios
+- Efficient frontier — the set of optimal portfolios
 - [Risk parity](/wiki/risk-parity-strategy/) — alternative risk allocation approach
 - [Correlation coefficient](/wiki/correlation-coefficient/) — input to optimization
 
 ### Wider context
-- [Portfolio construction](/wiki/portfolio-construction/)
+- Portfolio construction
 - [Asset allocation](/wiki/asset-allocation/)
-- [Standard deviation](/wiki/volatility/)
+- Standard deviation
 - [Factor investing](/wiki/factor-investing/)
 
 </div>

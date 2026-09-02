@@ -66,8 +66,8 @@ As a result, many funds now offer more favorable redemption terms. Annual lock-u
 <h3>Closely related</h3>
 <ul>
   <li><a href="/wiki/hedge-fund/">Hedge fund</a> — the overarching category.</li>
-  <li><a href="/wiki/liquidity/">Liquidity</a> — the key variable in lock-up tradeoffs.</li>
-  <li><a href="/wiki/leverage/">Leverage</a> — enabled by longer lock-ups.</li>
+  <li>Liquidity — the key variable in lock-up tradeoffs.</li>
+  <li>Leverage — enabled by longer lock-ups.</li>
   <li><a href="/wiki/mutual-fund/">Mutual fund</a> — offers daily redemption, allowing less leverage.</li>
 </ul>
 <h3>Wider context</h3>

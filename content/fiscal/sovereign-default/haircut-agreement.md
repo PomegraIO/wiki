@@ -29,7 +29,7 @@ When a sovereign becomes unable to meet its [obligations](/wiki/sovereign-debt/)
 
 The mechanics are straightforward. If a nation owes $100 billion and offers a 50% haircut, creditors receive bonds (often longer-dated, lower-coupon instruments) worth $50 billion at face value, plus possibly some [cash](/wiki/cash-flow-statement/) upfront. The creditor's loss is the difference: $50 billion written off. The debtor's debt burden halves, improving its [debt-to-GDP](/wiki/debt-to-gdp-ratio/) ratio and freeing up foreign exchange for imports, investment, and essential services.
 
-Haircut agreements typically include [collateral](/wiki/collateral/) or guarantees. The debtor might pledge future commodity exports, grant a lien on central bank reserves, or secure new bonds with future fiscal revenues. Some agreements bundle the haircut with [IMF](/wiki/imf-bailout/) conditionality: the debtor commits to fiscal austerity, structural reforms, and privatizations in exchange for the IMF's implicit "seal of approval" and continued access to capital markets.
+Haircut agreements typically include collateral or guarantees. The debtor might pledge future commodity exports, grant a lien on central bank reserves, or secure new bonds with future fiscal revenues. Some agreements bundle the haircut with [IMF](/wiki/imf-bailout/) conditionality: the debtor commits to fiscal austerity, structural reforms, and privatizations in exchange for the IMF's implicit "seal of approval" and continued access to capital markets.
 
 ## Historical examples and outcomes
 

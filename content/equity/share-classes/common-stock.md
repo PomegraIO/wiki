@@ -24,7 +24,7 @@ image: "/svg/equity.svg"
 |---|---|
 | **What it is** | Standard class of equity with voting rights |
 | **Voting strength** | One share, one vote (unless multi-class structure) |
-| **Dividend priority** | After [preferred stock](/equity/preferred-stock/) |
+| **Dividend priority** | After [preferred stock](/preferred-stock/) |
 | **Liquidation priority** | Last (residual claimant) |
 | **Typical dividend yield** | 0–4% annually (varies widely) |
 | **Historical return** | ~9–10% annually (US market, 1926–present) |
@@ -34,7 +34,7 @@ image: "/svg/equity.svg"
 
 ## Why common stock is the default
 
-Nearly every reference to "the stock" of a company means common stock. It is the simplest and most widely traded equity instrument, and it is what [index funds](/index-fund/) and [ETFs](/etf/) own when they track the overall market. [Preferred stock](/equity/preferred-stock/) and other variants exist to solve specific financing problems for the issuer; common stock is the instrument that does the job for the vast majority of use cases.
+Nearly every reference to "the stock" of a company means common stock. It is the simplest and most widely traded equity instrument, and it is what [index funds](/index-fund/) and [ETFs](/etf/) own when they track the overall market. [Preferred stock](/preferred-stock/) and other variants exist to solve specific financing problems for the issuer; common stock is the instrument that does the job for the vast majority of use cases.
 
 The reason is straightforward: common stock aligns the interests of shareholders with the long-term success of the firm. Because holders stand at the back of the queue in liquidation, they have a strong incentive to demand that the company invest in growth, manage risk prudently, and avoid leverage that threatens solvency. Preferred shareholders and creditors have no such incentive — they get paid regardless. Common stock therefore carries both the highest risk and (historically) the highest long-term return.
 
@@ -48,7 +48,7 @@ One share of common stock, as a practical matter, confers almost no direct contr
 
 ## Common stock in a multi-class structure
 
-Not all companies issue a single class of common stock. To preserve control of the founder or founding family while taking the company public, many use a [dual-class share](/equity/dual-class-shares/) structure:
+Not all companies issue a single class of common stock. To preserve control of the founder or founding family while taking the company public, many use a [dual-class share](/dual-class-shares/) structure:
 
 - **Class A shares** (often the "public" class) carry one vote each and trade on an exchange.
 - **Class B shares** (often the "founder" class) carry 10 votes each (the multiple varies) and are held by the founder or a trust. They may not trade publicly or trade only with founder consent.
@@ -61,11 +61,11 @@ The tradeoff for public shareholders is real: they have no mechanism to replace 
 
 Several corporate actions change the number of shares outstanding:
 
-- **[Stock splits](/equity/stock-split/) and [reverse splits](/equity/reverse-stock-split/)** multiply or divide all shares by a fixed ratio without changing the company's value or ownership percentages. A 2-for-1 split turns 1,000 shares into 2,000 shares, each worth half as much.
-- **[Stock dividends](/equity/stock-dividend/)** distribute new shares to existing shareholders in proportion to their holdings, similarly dilutive but sometimes used for tax reasons.
-- **[Buybacks](/equity/share-buyback/)** retire shares from the market, reducing the count and boosting [earnings per share](/earnings-per-share/) mechanically (though not necessarily the company's economic value).
-- **Equity compensation** (stock options, [RSUs](/equity/restricted-stock-units/), [restricted stock](/equity/restricted-stock/)) increases the count when employees exercise options or vesting occurs.
-- **Secondary [offerings](/equity/secondary-offering/)** and [private placements](/equity/private-placement/) issue new shares, diluting ownership of existing shareholders unless they buy pro-rata in a [rights offering](/equity/rights-offering/).
+- **[Stock splits](/stock-split/) and [reverse splits](/reverse-stock-split/)** multiply or divide all shares by a fixed ratio without changing the company's value or ownership percentages. A 2-for-1 split turns 1,000 shares into 2,000 shares, each worth half as much.
+- **[Stock dividends](/stock-dividend/)** distribute new shares to existing shareholders in proportion to their holdings, similarly dilutive but sometimes used for tax reasons.
+- **[Buybacks](/share-buyback/)** retire shares from the market, reducing the count and boosting [earnings per share](/earnings-per-share/) mechanically (though not necessarily the company's economic value).
+- **Equity compensation** (stock options, [RSUs](/restricted-stock-units/), [restricted stock](/restricted-stock/)) increases the count when employees exercise options or vesting occurs.
+- **Secondary [offerings](/secondary-offering/)** and [private placements](/private-placement/) issue new shares, diluting ownership of existing shareholders unless they buy pro-rata in a [rights offering](/rights-offering/).
 
 The most important figure to watch is the **fully diluted share count**, which includes all in-the-money options and unvested RSUs. A company that reports 100 million shares outstanding but has 30 million in-the-money options is actually 130 million shares diluted. [Earnings per share](/earnings-per-share/) calculations always adjust for this dilution.
 
@@ -80,9 +80,9 @@ The choice to buy common stock is an accept of fundamental volatility. Over any 
 ### Closely related
 
 - [Stock](/stock/) — the general concept and what it entitles you to
-- [Preferred stock](/equity/preferred-stock/) — senior alternative with fixed dividend
-- [Dual-class shares](/equity/dual-class-shares/) — founder-controlled variant
-- [Share class](/equity/share-class/) — the taxonomy of different share types
+- [Preferred stock](/preferred-stock/) — senior alternative with fixed dividend
+- [Dual-class shares](/dual-class-shares/) — founder-controlled variant
+- [Share class](/share-class/) — the taxonomy of different share types
 - [Earnings per share](/earnings-per-share/) — profit divided by share count
 - [Dividend](/dividend/) — cash distributions to shareholders
 

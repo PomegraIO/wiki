@@ -31,7 +31,7 @@ The bias is reinforced by pattern-seeking. The human brain evolved to spot causa
 
 ## How it manifests in markets
 
-In [equity trading](/wiki/equity-trading/), the fallacy drives:
+In equity trading, the fallacy drives:
 
 - **Loss-chasing**: A trader down 5% expects a snapback. Markets don't work on cosmic scorecards; the probability of recovery depends on fundamentals and sentiment, not on how much money was already lost.
 - **Momentum dismissal**: After a stock rallies for months, traders assume it "must" pull back soon. [Mean reversion](/wiki/mean-reversion-investing/) *does* occur, but it has economic roots (valuation extremes, profit-taking cycles), not mechanical balancing.
@@ -47,7 +47,7 @@ Not all mean-reverting analysis is fallacious. Three categories exist:
 
 2. **Fundamental extremes** (legitimate): A stock trading at ten times [book value](/wiki/price-to-book-ratio/) while peers trade at two times may rationally revert if valuation compression occurs—driven by multiple contraction, not cosmic balance.
 
-3. **Pure independence gambit** (fallacy): Betting that a coin must land tails after five heads, or that crude oil "must" reverse after a five-day drop, with no reference to [supply](/wiki/commodity-supply-costs/) or [inventory](/wiki/inventory-turnover/).
+3. **Pure independence gambit** (fallacy): Betting that a coin must land tails after five heads, or that crude oil "must" reverse after a five-day drop, with no reference to supply or [inventory](/wiki/inventory-turnover/).
 
 The key test: Can you articulate a *causal mechanism* for reversion? If your answer is "the market has been up too long" or "it's statistically due," you're in the fallacy zone. If your answer is "valuation is extreme, earnings are stalling, and similar periods historically saw compression," you have a legitimate thesis.
 
@@ -83,8 +83,8 @@ The Gambler's Fallacy is among the most persistent biases in markets because it 
 - [Confirmation bias](/wiki/confirmation-bias/) — reinforcing fallacious beliefs with selective data
 
 ### Wider context
-- [Behavioral biases in trading](/wiki/behavioral-biases/) — broader category of cognitive errors
-- [Cognitive biases](/wiki/cognitive-biases/) — systematic distortions in reasoning
+- Behavioral biases in trading — broader category of cognitive errors
+- Cognitive biases — systematic distortions in reasoning
 - [Prospect theory](/wiki/prospect-theory/) — theoretical framework for decision-making under uncertainty
 - [Momentum investing](/wiki/momentum-investing/) — systematic response to price trends
 

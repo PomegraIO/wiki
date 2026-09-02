@@ -43,7 +43,7 @@ This dynamic affects [tax efficiency](/wiki/etf-tax-efficiency/). A fund with hi
 
 For ETFs holding illiquid securities—emerging market bonds, distressed corporate debt, or private credit—the replication method is critical. You cannot use full replication if you can't buy all the bonds; some may not trade for weeks. Instead, the fund manager must use optimization and sampling, selecting the most liquid subset of the index.
 
-This is why emerging-market [bond ETFs](/wiki/bond-etf/) typically have higher [tracking error](/wiki/etf-tracking-error/) than developed-market bond ETFs. The underlying market is less liquid, and the manager has fewer choices in replication method. The fund might target 30 basis points of acceptable [tracking error](/wiki/etf-tracking-error//) because that's the practical limit.
+This is why emerging-market [bond ETFs](/wiki/bond-etf/) typically have higher [tracking error](/wiki/etf-tracking-error/) than developed-market bond ETFs. The underlying market is less liquid, and the manager has fewer choices in replication method. The fund might target 30 basis points of acceptable [tracking error](/etf-tracking-error/) because that's the practical limit.
 
 ## Index reconstitution and optimization drift
 
@@ -76,7 +76,7 @@ Over time, a well-designed replication method, combined with [in-kind redemption
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/index-a-z/">Index</a> — the benchmark being tracked.</li>
-<li><a href="/wiki/passive-investing/">Passive Investing</a> — the strategy underlying replication.</li>
+<li>Passive Investing — the strategy underlying replication.</li>
 <li><a href="/wiki/factor-investing/">Factor Investing</a> — an alternative to pure index replication.</li>
 </ul>
 </div>

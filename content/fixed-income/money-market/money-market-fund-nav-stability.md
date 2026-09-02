@@ -52,9 +52,9 @@ The 2008 financial crisis exposed a dangerous side effect: when [credit risk](/c
 
 To keep a stable $1.00 NAV credible, the [SEC](/securities-and-exchange-commission/) imposes strict rules on what money market funds can buy:
 
-**Maturity limits:** No single security can have a maturity longer than 397 days (roughly 13 months); the fund's portfolio [weighted-average maturity](https://example.com) cannot exceed 60 days. This discipline ensures that interest-rate movements have minimal impact on NAV — if all holdings mature within 60 days, a 1% change in yields moves the overall value only a few basis points.
+**Maturity limits:** No single security can have a maturity longer than 397 days (roughly 13 months); the fund's portfolio weighted-average maturity cannot exceed 60 days. This discipline ensures that interest-rate movements have minimal impact on NAV — if all holdings mature within 60 days, a 1% change in yields moves the overall value only a few basis points.
 
-**Credit quality:** Funds must invest primarily in [investment-grade](/investment-grade-bond/) securities — Treasury bills, highly rated [commercial paper](https://example.com), [repurchase agreements](/repurchase-agreement/), and agency [debt](/debt-financing/). [Default risk](https://example.com) is minimal.
+**Credit quality:** Funds must invest primarily in [investment-grade](/investment-grade-bond/) securities — Treasury bills, highly rated commercial paper, [repurchase agreements](/repurchase-agreement/), and agency [debt](/debt-financing/). Default risk is minimal.
 
 **Concentration limits:** No single issuer can account for more than 5% of assets (with narrow exceptions), limiting idiosyncratic risk.
 

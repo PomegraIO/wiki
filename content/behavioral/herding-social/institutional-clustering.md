@@ -36,7 +36,7 @@ The mechanism is mechanical. A [mutual fund](/wiki/mutual-fund/) or [pension fun
 
 When the fund is forced to sell illiquid bonds, it must accept whatever price the [market maker](/wiki/market-makers/) offers. If multiple funds hit this constraint at once, the market maker absorbs tens of millions of dollars of bonds at once. His risk limits are breached. He widens his [spread](/wiki/spread/) to compensate, and refinancing costs for issuers spike. New issuance dries up. Secondary [market trading](/wiki/secondary-market-trading/) halts as bid-ask gaps widen from 2 basis points to 20.
 
-The [liquidity crisis](/wiki/liquidity-crisis/) of March 2020 exemplified this. Corporate bond funds experienced historic outflows. Clustered institutional holders rushed to sell. The [Fed had to intervene](/wiki/federal-reserve-policy-tools/) with direct purchases to restore functioning. Without that intervention, the crisis would have forced rating downgrades, broader contagion, and potentially systemic failure.
+The [liquidity crisis](/wiki/liquidity-crisis/) of March 2020 exemplified this. Corporate bond funds experienced historic outflows. Clustered institutional holders rushed to sell. The Fed had to intervene with direct purchases to restore functioning. Without that intervention, the crisis would have forced rating downgrades, broader contagion, and potentially systemic failure.
 
 ## Herding and clustering feedback loops
 

@@ -24,7 +24,7 @@ These terms are related but distinct:
 
 **Yield spread** is any difference in yield between two bonds. Company A's 5-year bond yields 4%, Company B's 5-year bond yields 4.3%—the spread is 30 basis points.
 
-**Credit spread** is specifically the yield difference between a [corporate bond](/wiki/corporate-bonds/) and a Treasury of matching maturity. The 5-year Treasury yields 2.8%, Company A's bond yields 4%, so the credit spread is 120 basis points.
+**Credit spread** is specifically the yield difference between a corporate bond and a Treasury of matching maturity. The 5-year Treasury yields 2.8%, Company A's bond yields 4%, so the credit spread is 120 basis points.
 
 Yield spreads are used for relative value. Credit spreads are used to measure credit risk premium.
 

@@ -98,6 +98,6 @@ Conversely, during boom times with high inflation expectations, menu costs shrin
 
 - [Business Cycle](/business-cycle/) — the broader economic oscillations shaped in part by pricing frictions
 - [Cost of Debt](/cost-of-debt/) — one source of cost pressure that firms encounter and must choose how to reprrice
-- [Federal Reserve](/federal-reserve.md) — the institution navigating inflation control in an economy with menu costs
+- [Federal Reserve](/federal-reserve/) — the institution navigating inflation control in an economy with menu costs
 
 </div>

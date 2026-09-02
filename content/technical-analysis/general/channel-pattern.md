@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **channel pattern** consists of two parallel [trendlines](/technical-analysis/trendline)—one connecting swing lows (the lower line, or support) and one connecting swing highs (the upper line, or resistance). Price oscillates between the two lines, bouncing off support and turning down at resistance repeatedly. Channels can be ascending (higher lows and higher highs = uptrend), descending (lower lows and lower highs = downtrend), or horizontal (flat highs and flat lows = ranging market). When price breaks out of a channel decisively, it often signals the end of the sideways move and the beginning of a new trend in the breakout direction.*
+*A **channel pattern** consists of two parallel [trendlines](/trendline/)—one connecting swing lows (the lower line, or support) and one connecting swing highs (the upper line, or resistance). Price oscillates between the two lines, bouncing off support and turning down at resistance repeatedly. Channels can be ascending (higher lows and higher highs = uptrend), descending (lower lows and lower highs = downtrend), or horizontal (flat highs and flat lows = ranging market). When price breaks out of a channel decisively, it often signals the end of the sideways move and the beginning of a new trend in the breakout direction.*
 
 <div class="wiki-hatnote">
 
-For single trendlines, see [trendline](/technical-analysis/trendline). For support and resistance, see [support and resistance](/technical-analysis/support-and-resistance).
+For single trendlines, see [trendline](/trendline/). For support and resistance, see [support and resistance](/support-and-resistance/).
 
 </div>
 
@@ -60,7 +60,7 @@ A **horizontal channel** (or **rectangular consolidation**) has a flat upper tre
 
 **Three or more bounces:** A channel requires at least two bounces off the lower trendline and two bounces off the upper trendline to be confirmed. One bounce off each could be coincidence; multiple bounces reveal a pattern.
 
-**Parallel lines:** The two trendlines should be approximately parallel (same slope). If they are converging, the pattern may be a [triangle](/technical-analysis/symmetrical-triangle) rather than a channel.
+**Parallel lines:** The two trendlines should be approximately parallel (same slope). If they are converging, the pattern may be a [triangle](/symmetrical-triangle/) rather than a channel.
 
 **Consistency of slope:** Over the time period in view, both lines should maintain the same slope. If one is steepening while the other flattens, the pattern is weakening.
 
@@ -82,7 +82,7 @@ Wider channels (large distance between upper and lower lines) provide more room 
 
 **Prepare for breakout:** As a channel persists and remains tight, traders anticipate an eventual breakout and prepare to enter in the breakout direction (long above upper line, short below lower line).
 
-## Channels and [Fibonacci](/technical-analysis/fibonacci-retracement)
+## Channels and [Fibonacci](/fibonacci-retracement/)
 
 Some traders use Fibonacci ratios to measure channel width and predict where price should turn. A channel that is 100 units wide might expect a bounce at the 50% level (halfway up). This adds a layer of precision to channel trading, though the mathematical validity is debated.
 
@@ -96,7 +96,7 @@ A horizontal channel is sometimes called a **rectangle** pattern when emphasized
 
 ## Channels versus other patterns
 
-- **Triangle:** Lines converge; [support and resistance](/technical-analysis/support-and-resistance) narrow toward a point.
+- **Triangle:** Lines converge; [support and resistance](/support-and-resistance/) narrow toward a point.
 - **Channel:** Lines are parallel; support and resistance maintain fixed distance.
 - **Flag:** Very narrow, tight channel after a sharp move; continuation pattern.
 
@@ -110,20 +110,20 @@ Academic research on channels is sparse. The visual identification of parallel t
 
 ### Related patterns
 
-- [Trendline](/technical-analysis/trendline) — individual support/resistance lines
-- [Triangle patterns](/technical-analysis/symmetrical-triangle) — converging lines
-- [Rectangle pattern](/technical-analysis/rectangle-pattern) — horizontal channel
-- [Flag pattern](/technical-analysis/flag-pattern) — very narrow channel
-- [Pennant pattern](/technical-analysis/pennant-pattern) — triangle channel
+- [Trendline](/trendline/) — individual support/resistance lines
+- [Triangle patterns](/symmetrical-triangle/) — converging lines
+- [Rectangle pattern](/rectangle-pattern/) — horizontal channel
+- [Flag pattern](/flag-pattern/) — very narrow channel
+- [Pennant pattern](/pennant-pattern/) — triangle channel
 
 ### Support and resistance
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — the channel's boundaries
+- [Support and resistance](/support-and-resistance/) — the channel's boundaries
 
 ### Indicators for channels
 
-- [Bollinger bands](/technical-analysis/bollinger-bands) — dynamic upper/lower bands
-- [Moving average](/technical-analysis/simple-moving-average) — middle of channel
-- [Fibonacci retracement](/technical-analysis/fibonacci-retracement) — predicting bounce levels
+- [Bollinger bands](/bollinger-bands/) — dynamic upper/lower bands
+- [Moving average](/simple-moving-average/) — middle of channel
+- [Fibonacci retracement](/fibonacci-retracement/) — predicting bounce levels
 
 </div>

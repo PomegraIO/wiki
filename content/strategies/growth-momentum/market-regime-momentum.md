@@ -60,7 +60,7 @@ A primary motivation for regime-aware momentum is tail-risk reduction. Static mo
 
 ### Closely related
 - [Momentum Investing](/wiki/momentum-investing/) — base strategy being adapted
-- [Regime Switching](/wiki/regime-switching-model/) — theoretical framework
+- Regime Switching — theoretical framework
 - [Volatility Hedging](/wiki/volatility-hedging/) — complementary tail-risk management
 - [Mean Reversion](/wiki/mean-reversion-investing/) — competing signal in high-volatility regimes
 

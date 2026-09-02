@@ -37,7 +37,7 @@ The most common amortization method is the straight-line method, under which the
 
 Straight-line amortization assumes the asset generates equal value in each period—a reasonable assumption for many intangibles. However, some assets provide more value in early years, justifying an accelerated method. Under the declining-balance method, amortization is higher in early years and declines over time, mirroring the typical pattern of technology or software performance deterioration. Some companies also use unit-of-production methods for assets like music catalogs, where amortization is tied to the number of plays or downloads.
 
-The choice of method must be defensible and disclosed in the footnotes to the [financial statements](/wiki/financial-statements/). Changing the method is possible but requires justification and is flagged as an accounting change that investors should note.
+The choice of method must be defensible and disclosed in the footnotes to the financial statements. Changing the method is possible but requires justification and is flagged as an accounting change that investors should note.
 
 ## Amortization and cash flow implications
 

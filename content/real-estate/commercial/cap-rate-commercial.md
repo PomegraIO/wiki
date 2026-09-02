@@ -98,7 +98,7 @@ Cap rates are a snapshot of year-one yield; they ignore:
 - [Real Estate Investment Trust](/wiki/real-estate-investment-trust/) — public company ownership of properties
 
 ### Wider context
-- [Capitalization and Valuation](/wiki/capitalization-rate/) — pricing methodology
+- Capitalization and Valuation — pricing methodology
 - [Triple-Net Lease](/wiki/triple-net-lease/) — tenant pays operating costs
 - [Property Management](/wiki/property-management-costs/) — maintenance and operations
 - [Real Estate Factor Investing](/wiki/value-factor/) — systematic property selection

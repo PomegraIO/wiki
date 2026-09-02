@@ -23,7 +23,7 @@ keywords:
 |   |   |
 |---|---|
 | **Core idea** | Only invest in or make decisions about areas you deeply understand |
-| **Why it matters** | Mistakes happen when ego overrides expertise; staying disciplined preserves [capital](https://example.com) |
+| **Why it matters** | Mistakes happen when ego overrides expertise; staying disciplined preserves capital |
 | **The risk** | Overconfidence bias pushes people beyond their actual knowledge |
 | **The discipline** | Saying "I don't know" avoids catastrophic bets on incomprehensible businesses |
 | **Real cost** | Opportunity cost of passing up deals you don't understand is low; cost of being wrong is high |
@@ -32,15 +32,15 @@ keywords:
 
 ## What Buffett Means by "Circle of Competence"
 
-Buffett has articulated this principle across decades of annual letters and interviews: he will not invest in a business unless he understands how it makes money, what threatens that model, and how durable its [competitive advantage](https://example.com) is. For much of his career, he famously avoided technology stocks—not because they were bad, but because he didn't have the depth of knowledge to predict winners in an industry where product cycles, competitive dynamics, and regulatory risk move fast.
+Buffett has articulated this principle across decades of annual letters and interviews: he will not invest in a business unless he understands how it makes money, what threatens that model, and how durable its competitive advantage is. For much of his career, he famously avoided technology stocks—not because they were bad, but because he didn't have the depth of knowledge to predict winners in an industry where product cycles, competitive dynamics, and regulatory risk move fast.
 
 This wasn't false modesty. Buffett's returns came from staying in industries where he could reason from first principles: insurance, railroads, banking, consumer staples. He could walk into a See's Candies store, understand what customers paid, what the product cost, and why people came back. He could evaluate a railroad by thinking through the fundamental economics of moving freight. He could read an insurance balance sheet and spot underwriting risk or reserve adequacy in ways most investors could not.
 
-The circle of competence is not fixed. It grows as you learn and shrinks if you stop paying attention. Buffett expanded his circle to include insurance float dynamics, [capital allocation](https://example.com), and the durability of brands. What he did not do was pretend to understand cryptocurrency or the profitability drivers of social-media platforms just because everyone else was investing in them.
+The circle of competence is not fixed. It grows as you learn and shrinks if you stop paying attention. Buffett expanded his circle to include insurance float dynamics, capital allocation, and the durability of brands. What he did not do was pretend to understand cryptocurrency or the profitability drivers of social-media platforms just because everyone else was investing in them.
 
 ## The Cost of Overconfidence Bias
 
-Most investors fail at the circle-of-competence discipline because of [overconfidence bias](https://example.com)—the psychological quirk that makes people believe they understand something better than they actually do. A casual reader of technology news does not understand why one semiconductor design will win market share over another. A person who has owned a few rental properties does not understand real-estate market timing or zoning risk in unfamiliar cities.
+Most investors fail at the circle-of-competence discipline because of overconfidence bias—the psychological quirk that makes people believe they understand something better than they actually do. A casual reader of technology news does not understand why one semiconductor design will win market share over another. A person who has owned a few rental properties does not understand real-estate market timing or zoning risk in unfamiliar cities.
 
 Buffett's insight is that the gap between perceived knowledge and actual knowledge is widest in unfamiliar territory. An investor might read a few articles on artificial intelligence, hear a convincing pitch from a startup founder, and feel knowledgeable enough to bet capital. In reality, they lack the years of technical depth, the ability to spot false claims in a technical white paper, the experience of seeing failed AI pivots before, or the judgment to weigh regulatory risk in a nascent field.
 
@@ -58,7 +58,7 @@ The hardest part is defending the circle against ego and FOMO. Surrounding inves
 
 ## The Permanent Competitive Advantage
 
-The circle of competence is itself a source of [competitive advantage](https://example.com). If your circle is wider and deeper than your competitors', you will see opportunities and risks they miss. You will also make fewer Type II errors—rejecting good ideas because you don't understand them yet. A patient investor with a genuinely deep circle in a narrow domain often beats a generalist trading across dozens of unfamiliar sectors.
+The circle of competence is itself a source of competitive advantage. If your circle is wider and deeper than your competitors', you will see opportunities and risks they miss. You will also make fewer Type II errors—rejecting good ideas because you don't understand them yet. A patient investor with a genuinely deep circle in a narrow domain often beats a generalist trading across dozens of unfamiliar sectors.
 
 This matters less for a casual investor with a modest portfolio and a day job than it does for a professional allocating billions. For the casual investor, the main payoff is simply avoiding disasters. For the professional, the edge comes from depth.
 

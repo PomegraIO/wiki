@@ -45,7 +45,7 @@ Special assessments are contentious because:
 3. **Unequal burden**: Owners with identical properties in the same community may face different assessments if the association has variable reserve policies.
 4. **Foreclosure risk**: Owners unable to pay assessments face liens and potential foreclosure, despite having a mortgage paid in full.
 
-Prudent associations follow [reserve-study](/wiki/reserve-study/) frameworks, conducting regular inspections and maintaining reserves at 70%+ of fully funded levels to minimize surprise assessments.
+Prudent associations follow reserve-study frameworks, conducting regular inspections and maintaining reserves at 70%+ of fully funded levels to minimize surprise assessments.
 
 ## Tax treatment: generally not deductible
 
@@ -131,7 +131,7 @@ Rent appears cheaper. This calculation is why many high-cost-of-living cities wi
 - [Condominium](/wiki/condominium/) — Ownership type with HOA
 - [Residential real estate](/wiki/residential-real-estate/) — Broader homeownership context
 - [Home equity loan](/wiki/home-equity-loan/) — Alternative financing for HOA-unable owners
-- [Lien](/wiki/tax-lien-foreclosure/) — HOA enforcement mechanism
-- [Special assessment](/wiki/special-assessment/) — One-time HOA charges
+- Lien — HOA enforcement mechanism
+- Special assessment — One-time HOA charges
 
 </div>

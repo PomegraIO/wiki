@@ -25,7 +25,7 @@ keywords:
 
 ## The core insight
 
-Traditional [discounted cash flow](/wiki/discounted-cash-flow-valuation/) (DCF) [valuation](/wiki/valuation/) assumes a manager commits to a single strategy: invest now, operate for N years, exit. But in reality, managers have choices. If a restaurant concept proves successful, the franchisee can open additional locations (expansion option). If a biotech drug candidate fails Phase 2 trials, the company can shut down that program and redeploy capital (abandonment option). These choices have value—they are real options, analogous to financial [options](/wiki/call-option/).
+Traditional [discounted cash flow](/wiki/discounted-cash-flow-valuation/) (DCF) valuation assumes a manager commits to a single strategy: invest now, operate for N years, exit. But in reality, managers have choices. If a restaurant concept proves successful, the franchisee can open additional locations (expansion option). If a biotech drug candidate fails Phase 2 trials, the company can shut down that program and redeploy capital (abandonment option). These choices have value—they are real options, analogous to financial [options](/wiki/call-option/).
 
 A textbook DCF might value a new product launch at negative NPV because early revenues are uncertain and capital costs are high. But if the launch also gives the company the right to pivot into adjacent markets or scale rapidly if the first year succeeds, that optionality adds value. Ignoring it produces an underestimate.
 

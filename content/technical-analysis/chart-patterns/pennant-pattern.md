@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For continuation patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). Related patterns include [flag](/technical-analysis/flag-pattern) and [symmetrical-triangle](/technical-analysis/symmetrical-triangle).
+For continuation patterns broadly, see [candlestick pattern](/candlestick-pattern/). Related patterns include [flag](/flag-pattern/) and [symmetrical-triangle](/symmetrical-triangle/).
 
 </div>
 
@@ -55,7 +55,7 @@ The pole must be a real, substantial move—at least 10-15% on heavy volume. A w
 
 ## The pennant's geometry
 
-The pennant is a small, converging triangle. Unlike a [symmetrical-triangle](/technical-analysis/symmetrical-triangle) (which may be neutral regarding direction), a pennant is always a continuation pattern—it forms after a decisive pole and breaks out in that direction.
+The pennant is a small, converging triangle. Unlike a [symmetrical-triangle](/symmetrical-triangle/) (which may be neutral regarding direction), a pennant is always a continuation pattern—it forms after a decisive pole and breaks out in that direction.
 
 The pennant is much smaller than the pole (typically 4-8% of pole height) and forms more quickly (5-15 days) than larger triangles.
 
@@ -125,15 +125,15 @@ Pennant patterns have solid support in academic research for continuation behavi
 
 ### Related patterns
 
-- [Flag-pattern](/technical-analysis/flag-pattern) — rectangular version of pennant
-- [Symmetrical-triangle](/technical-analysis/symmetrical-triangle) — similar geometry, neutral direction
-- [Triangle-patterns](/technical-analysis/ascending-triangle) — converging lines
-- [Cup-and-handle](/technical-analysis/cup-and-handle) — continuation pattern, different shape
+- [Flag-pattern](/flag-pattern/) — rectangular version of pennant
+- [Symmetrical-triangle](/symmetrical-triangle/) — similar geometry, neutral direction
+- [Triangle-patterns](/ascending-triangle/) — converging lines
+- [Cup-and-handle](/cup-and-handle/) — continuation pattern, different shape
 
 ### Trend context
 
-- [Trendline](/technical-analysis/trendline) — prior momentum
-- [Volume](/technical-analysis/on-balance-volume) — pole and breakout confirmation
-- [Support and resistance](/technical-analysis/support-and-resistance) — pennant boundaries
+- [Trendline](/trendline/) — prior momentum
+- [Volume](/on-balance-volume/) — pole and breakout confirmation
+- [Support and resistance](/support-and-resistance/) — pennant boundaries
 
 </div>

@@ -43,10 +43,10 @@ CleanSpark's revenue is tied to the continued existence and use of bitcoin and t
 ### Closely related
 - [clst-stock](/clst-stock/)
 - [clsdq-stock](/clsdq-stock/)
-- [Cryptocurrency](/Cryptocurrency/)
+- Cryptocurrency
 
 ### Wider context
-- [Blockchain technology](/Blockchain/)
-- [Energy economics](/Energy-Economics/)
-- [Capital-intensive industries](/Capital-Intensive-Industries/)
+- Blockchain technology
+- Energy economics
+- Capital-intensive industries
 </div>

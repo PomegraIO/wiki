@@ -52,7 +52,7 @@ Retail traders, by contrast, often run hot, leveraging 50:1 and risking 10% or m
 
 Leverage mechanically increases [volatility](/wiki/historical-volatility/) of returns. A 20% daily move in account value on a 50:1 ratio corresponds to a 1% daily move in the underlying currency pair—plausible in emerging-market currencies, rare in majors. This high volatility reduces the odds of long-term survival even if the trader is right directionally; the sequence of draws matters, and a losing streak will blow out the account before a recovery.
 
-[Value at risk](/wiki/value-at-risk/) scales with leverage. A 50:1 ratio implies a [max loss](/wiki/maximum-loss/) of 2% per 1% move in the pair. Across a typical 5-day week with 1% intraday swings, an unhedged position has a compound [drawdown](/wiki/drawdown-analysis/) of roughly 10% in scenarios not favored by luck. Bad luck strings are common in forex; accounts do not survive them.
+[Value at risk](/wiki/value-at-risk/) scales with leverage. A 50:1 ratio implies a max loss of 2% per 1% move in the pair. Across a typical 5-day week with 1% intraday swings, an unhedged position has a compound [drawdown](/wiki/drawdown-analysis/) of roughly 10% in scenarios not favored by luck. Bad luck strings are common in forex; accounts do not survive them.
 
 ## Offshore leverage and the fraud trap
 

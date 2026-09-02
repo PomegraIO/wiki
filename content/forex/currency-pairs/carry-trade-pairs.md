@@ -67,7 +67,7 @@ Professional hedge funds use lower leverage (3–5x) and more sophisticated hedg
 
 Emerging-market currencies (BRL, MXN, ZAR, INR) often offer attractive 4–7% interest-rate differentials against JPY or CHF. However, these pairs carry higher political and [sovereign default](/wiki/sovereign-default/) risk. A Turkish lira carry trade with a 10% nominal differential can reverse violently if a currency crisis hits.
 
-The [Brazilian real](/wiki/brazil-exchange/) is a popular carry trade currency. Brazilian interest rates have ranged from 6–13%, and the currency is relatively liquid. However, political instability and commodity price sensitivity create drawdown risks. Similarly, the Mexican peso offers decent carry but faces U.S. interest-rate risk and trade-policy uncertainty.
+The Brazilian real is a popular carry trade currency. Brazilian interest rates have ranged from 6–13%, and the currency is relatively liquid. However, political instability and commodity price sensitivity create drawdown risks. Similarly, the Mexican peso offers decent carry but faces U.S. interest-rate risk and trade-policy uncertainty.
 
 ## Interaction with monetary policy
 

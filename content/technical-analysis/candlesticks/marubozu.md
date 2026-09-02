@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For the basic structure of candlesticks, see [candlestick chart](/technical-analysis/candlestick-chart). For patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern).
+For the basic structure of candlesticks, see [candlestick chart](/candlestick-chart/). For patterns broadly, see [candlestick pattern](/candlestick-pattern/).
 
 </div>
 
@@ -78,7 +78,7 @@ Unlike most candlestick patterns, the marubozu has some support in academic lite
 
 ## Trading with marubozus
 
-Traders often use marubozus as confirmation signals for positions already supported by other analysis. A trader who is bullish based on a [support level](/technical-analysis/support-and-resistance) and a [bullish divergence](/technical-analysis/relative-strength-index) on the indicator gains additional confidence if a bullish marubozu forms. Conversely, a marubozu in the opposite direction of the position is a warning signal.
+Traders often use marubozus as confirmation signals for positions already supported by other analysis. A trader who is bullish based on a [support level](/support-and-resistance/) and a bullish divergence on the indicator gains additional confidence if a bullish marubozu forms. Conversely, a marubozu in the opposite direction of the position is a warning signal.
 
 Some traders also look for a marubozu as a potential exhaustion signal for a trend that has become too one-sided. A series of marubozus in one direction can reflect a climax move, where buyers or sellers have exhausted themselves, and a reversal may follow.
 
@@ -88,21 +88,21 @@ Some traders also look for a marubozu as a potential exhaustion signal for a tre
 
 ### Related candlestick patterns
 
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework
-- [Doji](/technical-analysis/doji) — opposite pattern, balanced wicks
-- [Spinning top](/technical-analysis/spinning-top) — small body with balanced wicks
-- [Hammer](/technical-analysis/hammer-candle) — long lower wick, strong close
-- [Shooting star](/technical-analysis/shooting-star) — long upper wick, weak close
+- [Candlestick pattern](/candlestick-pattern/) — broader framework
+- [Doji](/doji/) — opposite pattern, balanced wicks
+- [Spinning top](/spinning-top/) — small body with balanced wicks
+- [Hammer](/hammer-candle/) — long lower wick, strong close
+- [Shooting star](/shooting-star/) — long upper wick, weak close
 
 ### Trend and momentum
 
-- [Trendline](/technical-analysis/trendline) — confirming the direction
-- [Moving average](/technical-analysis/simple-moving-average) — alignment with trend
-- [Volume](/technical-analysis/on-balance-volume) — confirming the conviction
+- [Trendline](/trendline/) — confirming the direction
+- [Moving average](/simple-moving-average/) — alignment with trend
+- [Volume](/on-balance-volume/) — confirming the conviction
 
 ### Related concepts
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — context for reversals
-- [Relative strength index](/technical-analysis/relative-strength-index) — momentum divergence
+- [Support and resistance](/support-and-resistance/) — context for reversals
+- Relative strength index — momentum divergence
 
 </div>

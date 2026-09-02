@@ -41,7 +41,7 @@ This sector concentration creates style characteristics. A dividend-aristocrats 
 
 Passive dividend-aristocrats funds track the S&P 500 Dividend Aristocrats Index with minimal deviations, holding all 60+ qualifying stocks in index weights. [Expense ratios](/wiki/expense-ratio/) are typically 0.35–0.55%. Examples include the SPDR S&P 500 Dividend Aristocrats ETF (NOBL) and the Vanguard Dividend Appreciation ETF (VIG), the latter of which includes dividend growers (10+ year streaks) in addition to aristocrats.
 
-Actively managed dividend-aristocrats funds are less common but exist. A manager might screen for dividend aristocrats with low [valuations](/wiki/valuation/), expected accelerating growth, or strong [free cash flow](/wiki/free-cash-flow/). The manager also has flexibility to overweight or underweight sectors, hold cash, or use [options strategies](/wiki/covered-call/) to enhance income. [Expense ratios](/wiki/expense-ratio/) run 0.5%–1.5%, making active management more costly unless the manager can materially outperform.
+Actively managed dividend-aristocrats funds are less common but exist. A manager might screen for dividend aristocrats with low valuations, expected accelerating growth, or strong [free cash flow](/wiki/free-cash-flow/). The manager also has flexibility to overweight or underweight sectors, hold cash, or use [options strategies](/wiki/covered-call/) to enhance income. [Expense ratios](/wiki/expense-ratio/) run 0.5%–1.5%, making active management more costly unless the manager can materially outperform.
 
 ## Performance in different market regimes
 

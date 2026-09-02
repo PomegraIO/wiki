@@ -27,7 +27,7 @@ keywords:
 
 ## The golden age context
 
-The Dutch Golden Age of the 1600s saw Amsterdam become the wealthiest city in Europe. Merchant wealth, colonial trade, and the rise of the joint-stock company created a new merchant class with disposable income and appetite for status goods. Tulips, imported from the Ottoman Empire, were exotic and beautiful—and in 1593, a virus called tulip breaking virus created unpredictable striped and flamed petal patterns. These "broken" bulbs were prized by horticulturists and wealthy collectors as objects of rare natural beauty, much like [fine art](/wiki/art-market/) or rare wine today.
+The Dutch Golden Age of the 1600s saw Amsterdam become the wealthiest city in Europe. Merchant wealth, colonial trade, and the rise of the joint-stock company created a new merchant class with disposable income and appetite for status goods. Tulips, imported from the Ottoman Empire, were exotic and beautiful—and in 1593, a virus called tulip breaking virus created unpredictable striped and flamed petal patterns. These "broken" bulbs were prized by horticulturists and wealthy collectors as objects of rare natural beauty, much like fine art or rare wine today.
 
 ## The market mechanism
 

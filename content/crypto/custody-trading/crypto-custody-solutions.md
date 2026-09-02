@@ -30,7 +30,7 @@ When you control private keys directly, no issuer or custodian can freeze or sei
 
 ## Institutional custody trades control for security
 
-Exchanges like Coinbase, Kraken, and Gemini function as [custodians](/wiki/custodian/), holding customer coins in segregated cold-storage vaults. Regulated custodians maintain insurance, perform key-splitting across multiple signers, and employ audit trails that (theoretically) prevent both theft and internal fraud. [Custody](/wiki/custody/) at regulated firms also simplifies tax reporting and [record-keeping](/wiki/form-w-2g/) for large holders. The drawback: you trust a for-profit entity with your capital, and [counterparty risk](/wiki/counterparty-credit-risk/) is real. Exchange hacks have cost billions; bankruptcy (see Celsius, FTX) wipes out unsecured deposits.
+Exchanges like Coinbase, Kraken, and Gemini function as [custodians](/wiki/custodian/), holding customer coins in segregated cold-storage vaults. Regulated custodians maintain insurance, perform key-splitting across multiple signers, and employ audit trails that (theoretically) prevent both theft and internal fraud. Custody at regulated firms also simplifies tax reporting and [record-keeping](/wiki/form-w-2g/) for large holders. The drawback: you trust a for-profit entity with your capital, and [counterparty risk](/wiki/counterparty-credit-risk/) is real. Exchange hacks have cost billions; bankruptcy (see Celsius, FTX) wipes out unsecured deposits.
 
 ## Cold storage vs. hot wallets
 
@@ -42,7 +42,7 @@ Enterprise custody relies on multi-signature security: withdrawals require signa
 
 ## Regulatory frameworks and insurance
 
-In the U.S., [custodians](/wiki/custodian/) are typically registered with the SEC or state regulators. Some hold [custody](/wiki/custody/) licenses under the Investment Advisers Act; others operate under money-transmitter rules. Professional custodians often carry insurance covering theft and fraud, usually underwritten by Lloyd's syndicates or specialist crypto insurers. Self-custody has no insurer—you absorb all loss.
+In the U.S., [custodians](/wiki/custodian/) are typically registered with the SEC or state regulators. Some hold custody licenses under the Investment Advisers Act; others operate under money-transmitter rules. Professional custodians often carry insurance covering theft and fraud, usually underwritten by Lloyd's syndicates or specialist crypto insurers. Self-custody has no insurer—you absorb all loss.
 
 ## Choosing between custody models
 

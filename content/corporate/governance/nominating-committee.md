@@ -121,7 +121,7 @@ The nominating committee faces persistent challenges:
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-governance/">Corporate Governance</a> — the broader framework.</li>
+  <li>Corporate Governance — the broader framework.</li>
   <li><a href="/wiki/diversification/">Diversification</a> — the push for director diversity in recent years.</li>
 </ul>
 </div>

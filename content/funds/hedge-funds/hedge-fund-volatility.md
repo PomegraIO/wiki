@@ -51,7 +51,7 @@ An important empirical fact is that implied volatility tends to be higher than s
 
 However, the risk premium is not linear. It is especially large when markets are calm and implied volatility is low. Conversely, in high-volatility environments, implied volatility is often still too low, and realized volatility exceeds implied—the shorts get crushed.
 
-## [VIX](/wiki/vix/) and volatility indices
+## VIX and volatility indices
 
 The VIX is the "fear index"—the implied volatility of the S&P 500 extracted from a basket of index options. A high VIX (above 25) signals fear and expectation of large moves; a low VIX (below 12) signals calm. Volatility funds often trade VIX derivatives, betting that the VIX is mispriced relative to what it will be in the future.
 

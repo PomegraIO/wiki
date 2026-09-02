@@ -20,7 +20,7 @@ Implementation continued beyond 2016, but the foundational architecture—capita
 |---|---|
 | [Financial Stability Oversight Council (FSOC)](/wiki/financial-stability-oversight-council/) established | July 2010 |
 | [Volcker Rule](/wiki/volcker-rule/) final rule | December 2013 |
-| [Dodd-Frank section 165](/wiki/regulatory-events/) stress testing | April 2013 |
+| Dodd-Frank section 165 stress testing | April 2013 |
 | [Derivatives clearing](/wiki/central-counterparty-clearing/) mandate | October 2012 |
 | [Swaps Execution Facility (SEF)](/wiki/swap-execution-facility/) rules | May 2013 |
 | [Consumer Financial Protection Bureau](/wiki/consumer-financial-protection-bureau/) operations | October 2011 |
@@ -71,7 +71,7 @@ The [Volcker Rule](/wiki/volcker-rule/) was politically symbolic: restrict banks
 
 - Which trades count as proprietary (self-dealing) vs. [market making](/wiki/market-makers/) (client-serving)
 - How much a bank can trade in a security before it crosses the proprietary line
-- Exceptions for [hedging](/wiki/hedge-fund/), [underwriting](/wiki/underwriting/), and client facilitation
+- Exceptions for [hedging](/wiki/hedge-fund/), underwriting, and client facilitation
 
 Banks argued (plausibly) that the rule was ambiguous and would chill beneficial market making. Regulators argued that pre-2008, "market making" was a convenient cover for risky proprietary bets. The rule never achieved its full intended impact because defining proprietary trading proved genuinely difficult—a trade that looks like market making (the bank buys bonds to facilitate a client sale) can easily be rebranded as proprietary if it later moves against the bank.
 
@@ -81,7 +81,7 @@ The CFPB, established in October 2011 under the leadership of Elizabeth Warren (
 
 - **Ability-to-repay standards**: Lenders must ensure borrowers can actually afford loans, not issue [subprime](/wiki/subprime-mortgage-crisis/) mortgages to anyone who walks in.
 - **Qualified mortgages (QM)**: Lenders issuing loans meeting QM standards get legal safe harbor; loans outside QM carry liability risk.
-- **TRID disclosure rules**: [Truth in Lending](/wiki/disclosure/) and Real Estate Settlement Procedures Act were streamlined into unified disclosure documents.
+- **TRID disclosure rules**: Truth in Lending and Real Estate Settlement Procedures Act were streamlined into unified disclosure documents.
 
 These rules effectively ended the subprime machine that had fueled the prior crisis. No more stated-income (liar's loans), no more [option ARMs](/wiki/adjustable-rate-mortgage-personal/) with 2% starter rates ballooning to 8%, no more [neg-am](/wiki/amortizing-swap/) mortgages. Lending standards tightened dramatically.
 
@@ -101,7 +101,7 @@ Political resistance to implementation mounted quickly. Republicans, backed by f
 
 By 2016, the core machinery was in place: systemically important banks held much higher capital, derivatives were centrally cleared and transparently reported, mortgage underwriting standards had tightened, and the CFPB was writing rules on consumer lending. The system was materially more resilient.
 
-However, critics noted gaps: large asset managers (like BlackRock or Vanguard) remained largely unregulated, [shadow banking](/wiki/alternative-trading-system/) continued to grow, and new risks (like [cybersecurity](/wiki/operation-risk/)) emerged. The Volcker Rule proved difficult to enforce and interpret. Some regulations were written so broadly they stifled beneficial market making.
+However, critics noted gaps: large asset managers (like BlackRock or Vanguard) remained largely unregulated, [shadow banking](/wiki/alternative-trading-system/) continued to grow, and new risks (like cybersecurity) emerged. The Volcker Rule proved difficult to enforce and interpret. Some regulations were written so broadly they stifled beneficial market making.
 
 The true test came in March 2020 when COVID-19 triggered a market shock. Dodd-Frank's architecture—central clearing, adequate capital, enhanced supervision—held. No major bank failed; systemic risk spiraled to 2008-like levels only briefly before Fed intervention stabilized markets. Regulators could rightfully claim the framework worked.
 

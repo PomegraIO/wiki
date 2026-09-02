@@ -37,7 +37,7 @@ Sectors differ sharply. Manufacturing has high output-per-worker (factories are 
 
 ## Capital deepening and technology as drivers
 
-Output per worker rises when workers use better tools, technology, or skills. A warehouse worker with a barcode scanner outpicks one with a clipboard. A software engineer with modern development frameworks and cloud infrastructure ships code faster than one working with legacy systems. This is *capital deepening*—more capital (equipment, buildings, software) per worker—and it explains why [capital investment](/wiki/capital-allocation/) matters so much for productivity.
+Output per worker rises when workers use better tools, technology, or skills. A warehouse worker with a barcode scanner outpicks one with a clipboard. A software engineer with modern development frameworks and cloud infrastructure ships code faster than one working with legacy systems. This is *capital deepening*—more capital (equipment, buildings, software) per worker—and it explains why capital investment matters so much for productivity.
 
 Periods of rapid [productivity](/wiki/labor-productivity/) growth often follow waves of [technological spillover](/wiki/technological-spillover/). The post-WWII era saw electrification, highway networks, and factory automation—workers suddenly had vastly more capital to work with. The 1990s saw the PC and internet boom; output per worker surged. Periods of weak productivity (the 2010s in many developed economies) often reflect aging capital stock, delayed investment, or industries where capital intensity is low and marginal innovation is small.
 

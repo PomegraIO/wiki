@@ -70,7 +70,7 @@ Resistance exists across all timeframes:
 
 **Swing (1-day to 1-week):** Resistance at prior swing highs, moving averages, and Fibonacci levels. Swing traders use these for multi-day position entry/exit.
 
-**Intermediate (1-week to 3-month):** Resistance at multi-week highs, 200-day moving averages, [bollinger band](/wiki/bollinger-band/) upper limit (if applicable), and technical structures (double tops, downtrend trendlines). Position traders monitor this.
+**Intermediate (1-week to 3-month):** Resistance at multi-week highs, 200-day moving averages, bollinger band upper limit (if applicable), and technical structures (double tops, downtrend trendlines). Position traders monitor this.
 
 **Long-term (multi-month to multi-year):** All-time highs, multi-year highs, historical peaks. A stock at $100 all-time high faces psychological resistance; breaking through signals structural bullishness.
 
@@ -111,7 +111,7 @@ In **uptrends**, resistance zones are hurdles to overcome. A stock rises from $5
 Resistance is most powerful when validated by:
 
 - **[Moving averages](/wiki/moving-average/):** The 50-day, 200-day, or other moving averages act as dynamic resistance. Price above = uptrend; price below = downtrend.
-- **[Bollinger Bands](/wiki/bollinger-band/):** The upper band represents statistical resistance (price >2 standard deviations above the mean). Mean reversion often occurs here.
+- **Bollinger Bands:** The upper band represents statistical resistance (price >2 standard deviations above the mean). Mean reversion often occurs here.
 - **[Fibonacci levels](/wiki/fibonacci-levels/):** 38.2%, 50%, and 61.8% retracements often act as resistance/support zones, especially after strong moves.
 - **[Trend lines](/wiki/trendline/):** Downtrend trendlines act as resistance; breaking above signals trend reversal.
 - **[Volume profile](/wiki/volume-profile-support/):** Price levels with high historical volume often show resistance (many trades at that price = psychological anchor).
@@ -127,7 +127,7 @@ A confluence of multiple tools (price at 200-day MA, Fibonacci 61.8% retracement
 - [Price Patterns](/wiki/head-and-shoulders/) — reversal and continuation patterns at resistance
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — price and volume pattern analysis
+- Technical Analysis — price and volume pattern analysis
 - [Chart Types](/wiki/candlestick-chart/) — visual representation of price action
 - [Momentum](/wiki/momentum-investing/) — trend-following approaches
 - [Market Timing](/wiki/market-timing/) — entry and exit tactics

@@ -11,7 +11,7 @@ Most equity ETFs hold stocks—the actual common shares of public companies. An 
 
 For most stock ETFs, the underlying assets are straightforward: the fund owns the stocks directly. You get all the economic benefit and risk of those stocks.
 
-However, some equity ETFs use [derivatives](/wiki/derivatives/) to replicate stock performance. A [leverage](/wiki/leverage/) ETF might hold index futures or swaps instead of actual stocks, achieving leverage more efficiently than by buying stocks on margin. This creates [counterparty risk](/wiki/counterparty-risk/) if the derivatives counterparty fails, but the performance is typically similar to holding stocks directly.
+However, some equity ETFs use derivatives to replicate stock performance. A leverage ETF might hold index futures or swaps instead of actual stocks, achieving leverage more efficiently than by buying stocks on margin. This creates [counterparty risk](/wiki/counterparty-risk/) if the derivatives counterparty fails, but the performance is typically similar to holding stocks directly.
 
 ## Bonds and fixed-income as underlying assets
 
@@ -19,7 +19,7 @@ A [bond ETF](/wiki/bond-etf/) holds the actual bonds: [Treasury bonds](/wiki/tre
 
 For large [bond ETFs](/wiki/bond-etf/), the fund is likely to hold a representative sample of the index's bonds rather than all bonds, due to the sheer number of unique securities. The sampling strategy affects [tracking error](/wiki/etf-tracking-error/).
 
-Some [bond ETFs](/wiki/bond-etf/) hold structured products like [collateralized debt obligations](/wiki/collateralized-debt-obligation/) or [mortgage-backed securities](/wiki/mortgage-backed-security/). These have embedded [leverage](/wiki/leverage/) or complexity that can make pricing difficult and [tracking error](/wiki/etf-tracking-error/) larger.
+Some [bond ETFs](/wiki/bond-etf/) hold structured products like [collateralized debt obligations](/wiki/collateralized-debt-obligation/) or [mortgage-backed securities](/wiki/mortgage-backed-security/). These have embedded leverage or complexity that can make pricing difficult and [tracking error](/wiki/etf-tracking-error/) larger.
 
 ## Commodities and physical assets
 
@@ -43,7 +43,7 @@ This is simpler than physical real estate but creates a layers of risk. You're e
 3. [Interest rate](/wiki/interest-rate/) risk (REITs are sensitive to borrowing costs).
 4. [Counterparty risk](/wiki/counterparty-risk/) from the REIT's lenders and operating partners.
 
-Some ETFs hold actual physical property through [master limited partnerships](/wiki/mip/) or specialized structures, but this is rare and complex.
+Some ETFs hold actual physical property through master limited partnerships or specialized structures, but this is rare and complex.
 
 ## Cryptocurrencies and digital assets
 
@@ -53,13 +53,13 @@ Cryptocurrency ETFs hold varying underlying assets:
 
 **Ethereum and other digital assets**: Similar structure, though custody varies.
 
-**Blockchain index ETFs**: Might hold cryptocurrency tokens themselves or use [derivatives](/wiki/derivatives/) to gain exposure.
+**Blockchain index ETFs**: Might hold cryptocurrency tokens themselves or use derivatives to gain exposure.
 
 The key distinction is custody. If the ETF holds the actual Bitcoin, your risk is the custodian's operational security. If the ETF holds Bitcoin futures, your risk is the futures exchange and counterparty default.
 
 ## Leveraged and inverse derivatives
 
-[Leveraged ETFs](/wiki/leveraged-etf/) and [inverse ETFs](/wiki/inverse-etf/) use [swaps](/wiki/swap/), futures, or other [derivatives](/wiki/derivatives/) to provide multiplied or inverse exposure. The underlying assets are these derivatives, not the actual stocks or bonds.
+[Leveraged ETFs](/wiki/leveraged-etf/) and [inverse ETFs](/wiki/inverse-etf/) use [swaps](/wiki/swap/), futures, or other derivatives to provide multiplied or inverse exposure. The underlying assets are these derivatives, not the actual stocks or bonds.
 
 The most important distinction: [leveraged ETFs](/wiki/leveraged-etf/) reset daily. A 2x [leveraged ETF](/wiki/leveraged-etf/) that tracks the S&P 500 doesn't hold double-weight stocks; it holds index futures, [swaps](/wiki/swap/), or [options](/wiki/option/) that are adjusted daily to provide 2x daily returns. Over longer periods, this compounds differently than actually holding double the stocks.
 
@@ -74,13 +74,13 @@ The performance is determined by both the underlying asset mix and how those ass
 An [international ETF](/wiki/international-etf/) might hold:
 - Foreign stocks directly (listed on foreign exchanges).
 - [American Depositary Receipts](/wiki/adr/) (ADRs), which are US-listed receipts representing foreign stocks.
-- Foreign currency [derivatives](/wiki/derivatives/) to hedge or express currency exposure.
+- Foreign currency derivatives to hedge or express currency exposure.
 
 The most straightforward [international ETF](/wiki/international-etf/) holds foreign stocks directly, but some use ADRs for liquidity and tax efficiency. The underlying assets might also include [currency forwards](/wiki/currency-future/) if the fund is currency-hedged.
 
 ## Structural complexity and valuation
 
-As underlying assets become more complex—[derivatives](/wiki/derivatives/), illiquid securities, structured products—the ETF itself becomes harder to value. A simple stock ETF is easy: multiply the share count by the NAV per share. A [commodity ETF](/wiki/commodity-etf/) using futures with contango is harder to value; a [leveraged ETF](/wiki/leveraged-etf/) using [swaps](/wiki/swap/) is harder still.
+As underlying assets become more complex—derivatives, illiquid securities, structured products—the ETF itself becomes harder to value. A simple stock ETF is easy: multiply the share count by the NAV per share. A [commodity ETF](/wiki/commodity-etf/) using futures with contango is harder to value; a [leveraged ETF](/wiki/leveraged-etf/) using [swaps](/wiki/swap/) is harder still.
 
 This complexity can lead to larger bid-ask spreads and [tracking error](/wiki/etf-tracking-error/). Always understand what's underneath the hood before buying an ETF.
 

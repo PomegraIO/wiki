@@ -36,7 +36,7 @@ The company itself identifies who falls into these categories and notifies them 
 
 ## Form 4: the standard filing
 
-When a Section 16 person buys or sells company stock, they must file a [Form 4](/wiki/form-4/) with the SEC within two business days of the transaction. The Form 4 includes:
+When a Section 16 person buys or sells company stock, they must file a Form 4 with the SEC within two business days of the transaction. The Form 4 includes:
 - **Ownership before the transaction**
 - **Transaction details** (date, price, quantity, type: purchase, sale, grant of options, exercise of options, etc.)
 - **Ownership after the transaction**

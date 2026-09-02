@@ -26,7 +26,7 @@ Sunset provisions create profound distortions in **budget baseline scoring**—t
 
 This incentivizes legislatures to front-load temporary provisions. A provision scheduled to expire in five years looks cheaper during the initial budget window than a permanent provision with the same annual cost. Lawmakers can thus pass larger packages without breaching a self-imposed deficit cap—even if the true long-term cost is identical or higher.
 
-The **baseline assumption** matters enormously. If the baseline assumes a provision will expire as scheduled, renewal counts as a "tax cut" (a loss of revenue). If the baseline assumes renewal, letting it expire counts as a "tax increase." These competing framings have driven decades of political debate. The [Tax Cuts and Jobs Act of 2017](https://example.com) relied heavily on this mechanism: individual income tax provisions were set to sunset after 2025, allowing the bill to appear cheaper in 10-year scoring than it would as permanent law.
+The **baseline assumption** matters enormously. If the baseline assumes a provision will expire as scheduled, renewal counts as a "tax cut" (a loss of revenue). If the baseline assumes renewal, letting it expire counts as a "tax increase." These competing framings have driven decades of political debate. The Tax Cuts and Jobs Act of 2017 relied heavily on this mechanism: individual income tax provisions were set to sunset after 2025, allowing the bill to appear cheaper in 10-year scoring than it would as permanent law.
 
 ## Reauthorization Cycles and Uncertainty
 

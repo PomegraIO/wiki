@@ -27,11 +27,11 @@ keywords:
 
 Traditional banking relies on credit assessment—lenders evaluate a borrower's income, credit history, and ability to repay. DeFi protocols cannot assess creditworthiness (users are pseudonymous), so they enforce a different model: **overcollateralization**. You must put up more collateral than the value of the debt you incur, guaranteeing that if you default, the collateral can be seized and sold to repay the lender.
 
-A borrower on [Aave](/wiki/aave/), a major lending protocol, might deposit 3 [Ethereum](/wiki/ethereum/) worth $9,000 and borrow 5,000 [USD Coin](/wiki/stablecoin/) (USDC). The collateral ratio is 180% (9000 / 5000). If the borrower defaults (simply never repays), Aave keeps the 3 ETH, sells it, and covers the loss. The overcollateralization ensures that even if ETH price falls 20%, Aave still breaks even.
+A borrower on Aave, a major lending protocol, might deposit 3 [Ethereum](/wiki/ethereum/) worth $9,000 and borrow 5,000 [USD Coin](/wiki/stablecoin/) (USDC). The collateral ratio is 180% (9000 / 5000). If the borrower defaults (simply never repays), Aave keeps the 3 ETH, sells it, and covers the loss. The overcollateralization ensures that even if ETH price falls 20%, Aave still breaks even.
 
 ## Why collateral ratios vary by asset
 
-Not all collateral carries the same risk. [Bitcoin](/wiki/bitcoin/), with its long history and large market cap, is less volatile than an obscure [altcoin](/wiki/altcoin/). A protocol might accept a 110% collateral ratio for BTC but require 200% for a newer token. This is similar to traditional lending: a bank will lend 80% of the value of a home (a relatively stable asset) but only 50% of the value of a used car (more volatile).
+Not all collateral carries the same risk. [Bitcoin](/wiki/bitcoin/), with its long history and large market cap, is less volatile than an obscure altcoin. A protocol might accept a 110% collateral ratio for BTC but require 200% for a newer token. This is similar to traditional lending: a bank will lend 80% of the value of a home (a relatively stable asset) but only 50% of the value of a used car (more volatile).
 
 The DeFi protocol's price oracle is crucial. If the oracle incorrectly reports the collateral's price—say, marking ETH as $100 when it is really $3,000—the protocol will incorrectly calculate the collateral ratio and allow unsafe borrowing. Several DeFi hacks have exploited oracle price errors.
 
@@ -47,7 +47,7 @@ This mechanism creates a profit opportunity: liquidators compete to identify pos
 
 When [Ethereum](/wiki/ethereum/) price crashed from $3,000 to $1,300 in May 2021, DeFi protocols experienced a cascade of liquidations. Borrowers who had a 150% ratio at $3,000 suddenly found their ratio at ~65% as the collateral price halved. Within hours, billions of dollars of collateral was seized and liquidated, further depressing prices.
 
-Another famous event was the collapse of [FTX](/wiki/ftx/) and Alameda in 2022. Alameda had borrowed heavily using illiquid FTX exchange tokens as collateral, miscalculating the collateral ratio (the oracle was probably out of date or manipulated). When FTX imploded, the collateral value went to zero, and Alameda's DeFi positions were liquidated.
+Another famous event was the collapse of FTX and Alameda in 2022. Alameda had borrowed heavily using illiquid FTX exchange tokens as collateral, miscalculating the collateral ratio (the oracle was probably out of date or manipulated). When FTX imploded, the collateral value went to zero, and Alameda's DeFi positions were liquidated.
 
 ## The borrower's trade-off: capital efficiency vs. safety
 

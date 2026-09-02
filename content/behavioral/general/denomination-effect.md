@@ -32,7 +32,7 @@ Third, **transaction friction** changes. Splitting a fifty-dollar bill at a caf�
 
 The denomination effect creates inefficiencies in spending discipline. Someone intending to save a $500 windfall might succeed if it arrives as a single note or cheque, but fail if paid in fifty ten-dollar bills. The difference is pure psychology, yet the outcome—saved versus spent—is real.
 
-This effect also complicates personal budgeting and [loss aversion](/behavioral/general/loss-aversion/). People often cling to large-denomination cash longer than small, creating a false sense of security; they feel wealthier than they are, because the visible bulk of larger notes obscures the true total. A wallet with one one-hundred-dollar note feels fatter than one with fifty two-dollar notes, despite the latter being twice as much.
+This effect also complicates personal budgeting and [loss aversion](/loss-aversion/). People often cling to large-denomination cash longer than small, creating a false sense of security; they feel wealthier than they are, because the visible bulk of larger notes obscures the true total. A wallet with one one-hundred-dollar note feels fatter than one with fifty two-dollar notes, despite the latter being twice as much.
 
 Financial institutions exploit this implicitly. Credit-card transactions—no denomination, no visible depletion—strip away the psychological brakes that denomination provides. Swiping a card for $200 feels less consequential than handing over two hundred-dollar notes, even when the debt is identical. The absence of denomination feedback creates a spending acceleration.
 

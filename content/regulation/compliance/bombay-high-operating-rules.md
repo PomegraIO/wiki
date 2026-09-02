@@ -31,7 +31,7 @@ Rules are grounded in the Petroleum Act, 1934 and the Petroleum Rules, 2002. The
 
 ## Drilling and well integrity requirements
 
-The Bombay High Operating Rules mandate rigorous well-design and drilling procedures. Before drilling, operators must submit a well program for DGH approval, including casing design, drilling fluid specifications, and blowout prevention systems. Surface [pressure](/wiki/pressure/) equipment must meet API (American Petroleum Institute) standards; critical components require third-party inspection.
+The Bombay High Operating Rules mandate rigorous well-design and drilling procedures. Before drilling, operators must submit a well program for DGH approval, including casing design, drilling fluid specifications, and blowout prevention systems. Surface pressure equipment must meet API (American Petroleum Institute) standards; critical components require third-party inspection.
 
 Well integrity is paramount in shallow-water sandstone formations prone to lost circulation and gas kicks. Rules specify:
 - Minimum casing sizes and cement bond quality

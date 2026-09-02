@@ -90,7 +90,7 @@ Blue Moon must navigate this landscape. Mines that are viewed as environmentally
 
 ## Understanding Blue Moon's Production and Reserves
 
-The [10-K](/10-K/) discloses which metals Blue Moon produces, production volumes, and reserves (ore in the ground but not yet mined). These are key metrics. A mine with declining reserves is winding down. One discovering major new reserves is positioning for growth.
+The [10-K](/10-k/) discloses which metals Blue Moon produces, production volumes, and reserves (ore in the ground but not yet mined). These are key metrics. A mine with declining reserves is winding down. One discovering major new reserves is positioning for growth.
 
 Production costs are critical. If Blue Moon produces one ounce of gold at a $600 cost and the market price is $1,800, the margin is $1,200 per ounce—excellent. If the cost is $1,600 per ounce and price is $1,700, margin is thin. Price swings matter hugely.
 

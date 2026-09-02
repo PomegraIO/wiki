@@ -8,7 +8,7 @@ keywords:
   - suspicious activity reporting
 ---
 
-*The **gatekeeping role in anti-money laundering** assigns to financial institutions—banks, brokers, investment advisors, money-transfer services—the responsibility to screen transactions, verify customer identities, and report suspicious activity to government authorities. Banks and brokers are the front-line defenders against money laundering, terrorist financing, and sanctions evasion. This role is implemented through [Know Your Customer (KYC)](/wiki/know-your-customer/) requirements, [Customer Due Diligence (CDD)](/wiki/customer-due-diligence/), and [Suspicious Activity Reporting (SAR)](/wiki/suspicious-activity-reporting/) obligations.*
+*The **gatekeeping role in anti-money laundering** assigns to financial institutions—banks, brokers, investment advisors, money-transfer services—the responsibility to screen transactions, verify customer identities, and report suspicious activity to government authorities. Banks and brokers are the front-line defenders against money laundering, terrorist financing, and sanctions evasion. This role is implemented through [Know Your Customer (KYC)](/wiki/know-your-customer/) requirements, [Customer Due Diligence (CDD)](/wiki/customer-due-diligence/), and Suspicious Activity Reporting (SAR) obligations.*
 
 <div class="wiki-hatnote">
 For the broader AML framework, see anti-money laundering. For transaction reporting, see suspicious activity reporting and currency transaction reporting.
@@ -95,7 +95,7 @@ Harmonization is ongoing but incomplete: some jurisdictions offer strong gatekee
 - [Anti-Money Laundering](/wiki/anti-money-laundering/) — The broader regulatory framework
 - [Know Your Customer (KYC)](/wiki/know-your-customer/) — Customer identity verification
 - [Customer Due Diligence](/wiki/customer-due-diligence/) — Understanding customer risk
-- [Suspicious Activity Reporting](/wiki/suspicious-activity-reporting/) — Reporting suspected financial crime
+- Suspicious Activity Reporting — Reporting suspected financial crime
 
 ### Wider context
 - [AML Compliance](/wiki/aml-compliance/) — Compliance programs and governance

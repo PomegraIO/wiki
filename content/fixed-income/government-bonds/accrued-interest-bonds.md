@@ -50,6 +50,6 @@ This is an important consideration for bond traders in taxable accounts, as accr
 <ul>
 <li><a href="/wiki/bond/">Bond</a> — debt securities where accrued interest applies.</li>
 <li><a href="/wiki/treasury-note/">Treasury Note</a> — common bonds traded with accrued interest considerations.</li>
-<li><a href="/wiki/fixed-income/">Fixed Income</a> — the asset class involving bond trading and accrued interest.</li>
+<li>Fixed Income — the asset class involving bond trading and accrued interest.</li>
 </ul>
 </div>

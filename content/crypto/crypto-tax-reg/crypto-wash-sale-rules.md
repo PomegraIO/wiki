@@ -38,7 +38,7 @@ The IRS [Notice 2014-21](/wiki/form-1099-misc/) states that cryptocurrency is [p
 
 ## Practitioner interpretations and divergent risk profiles
 
-Most tax professionals assume the wash-sale rule applies to crypto as a [precaution](/wiki/precautionary-motive/), even in the absence of explicit IRS ruling. The reasoning is that crypto assets are property, and losses on property sales are subject to limitations in the tax code. If the IRS were to challenge a claimed loss on a crypto sale followed by a 15-day repurchase, it could invoke the wash-sale rule (or similar substance-over-form arguments) to disallow the loss. The burden would then be on the taxpayer to litigate, incurring legal costs.
+Most tax professionals assume the wash-sale rule applies to crypto as a precaution, even in the absence of explicit IRS ruling. The reasoning is that crypto assets are property, and losses on property sales are subject to limitations in the tax code. If the IRS were to challenge a claimed loss on a crypto sale followed by a 15-day repurchase, it could invoke the wash-sale rule (or similar substance-over-form arguments) to disallow the loss. The burden would then be on the taxpayer to litigate, incurring legal costs.
 
 A minority of practitioners argue that wash-sale rules do not apply to crypto because Section 1091 specifies "securities," and crypto is property, not a security. Under this view, a trader could sell Bitcoin at a loss and immediately buy it back to harvest the loss deduction. This interpretation is more aggressive and carries audit risk; the IRS could challenge it and the practitioner views it as uncertain at best.
 

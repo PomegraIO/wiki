@@ -51,7 +51,7 @@ Many brokers now randomize routing decisions slightly, or route large orders to 
 
 Exchanges pay brokers cash rebates to send order flow, typically $0.0001 to $0.0005 per share. A routing algorithm might be "gamed" to overweight venues offering the highest rebate, even if a different venue is cheaper for the client overall. Regulation forbids this under [SEC best-execution rules](/wiki/best-execution/), but enforcement is uneven.
 
-The economic tension is real: a broker's [trading desk](/wiki/trading-desk/) may route retail orders to venues paying rebates, while institutional clients get routed to different venues with better [price improvement](/wiki/price-improvement/) but no rebates. Both are technically compliant if the outcomes are demonstrably best for each client type, but the appearance of routing bias persists.
+The economic tension is real: a broker's trading desk may route retail orders to venues paying rebates, while institutional clients get routed to different venues with better [price improvement](/wiki/price-improvement/) but no rebates. Both are technically compliant if the outcomes are demonstrably best for each client type, but the appearance of routing bias persists.
 
 ## Regulatory oversight and [Reg NMS](/wiki/reg-nms-detail/)
 

@@ -67,17 +67,17 @@ One pitfall is mistaking a gap-and-reverse candle for a belt hold. If a candle o
 
 Traders often treat the bullish belt hold as a reversal entry signal, with a stop placed below the session's low. If the low is breached, the pattern has failed and the reversal signal is invalidated. This stop placement is logical and keeps risk defined.
 
-The pattern is also used as a swing-trading signal. If a trader is already watching a downtrend for signs of bottom, the bullish belt hold can act as a precise entry point to initiate a long position. Pairing the pattern with [support and resistance](/technical-analysis/support-and-resistance/) levels, [moving averages](/technical-analysis/moving-average/), or [volume](/technical-analysis/volume/) confirmation increases the odds of success.
+The pattern is also used as a swing-trading signal. If a trader is already watching a downtrend for signs of bottom, the bullish belt hold can act as a precise entry point to initiate a long position. Pairing the pattern with [support and resistance](/support-and-resistance/) levels, [moving averages](/moving-average/), or volume confirmation increases the odds of success.
 
-Position sizing should be conservative initially. The belt hold is a single candle and one candle alone is not a complete trading system. Many traders use it as one confirmation signal among several—a confluence of belt hold, oversold [RSI](/technical-analysis/relative-strength-index/), and a bounce off support is more compelling than a belt hold in isolation.
+Position sizing should be conservative initially. The belt hold is a single candle and one candle alone is not a complete trading system. Many traders use it as one confirmation signal among several—a confluence of belt hold, oversold RSI, and a bounce off support is more compelling than a belt hold in isolation.
 
 The pattern also works well for timing exits. If you are short a stock after an uptrend and the stock forms a bearish belt hold, it may be a signal to cover the short and lock in profits, expecting the rally to resume.
 
 ## Comparison to similar patterns
 
-The belt hold is a single-candle pattern, which makes it fundamentally different from multi-candle patterns like [harami](/technical-analysis/candlesticks/harami/) or [engulfing](/technical-analysis/candlesticks/engulfing-pattern/). It is more about the relationship between the open and close within a single session than about the relationship between multiple candles. A [three inside up and down](/technical-analysis/candlesticks/three-inside-up-and-down/) or [three outside up and down](/technical-analysis/candlesticks/three-outside-up-and-down/) requires multiple candles to build its signal; the belt hold delivers its message in one.
+The belt hold is a single-candle pattern, which makes it fundamentally different from multi-candle patterns like [harami](/harami/) or [engulfing](/engulfing-pattern/). It is more about the relationship between the open and close within a single session than about the relationship between multiple candles. A [three inside up and down](/three-inside-up-and-down/) or [three outside up and down](/three-outside-up-and-down/) requires multiple candles to build its signal; the belt hold delivers its message in one.
 
-The belt hold is also distinct from a [gap](/technical-analysis/gap/) pattern, though the two often appear together. A gap is about the relationship between one candle's close and the next candle's open; a belt hold is about the relationship between a single candle's open and its close.
+The belt hold is also distinct from a gap pattern, though the two often appear together. A gap is about the relationship between one candle's close and the next candle's open; a belt hold is about the relationship between a single candle's open and its close.
 
 ## See also
 
@@ -85,17 +85,17 @@ The belt hold is also distinct from a [gap](/technical-analysis/gap/) pattern, t
 
 ### Closely related
 
-- [Three Inside Up and Down](/technical-analysis/candlesticks/three-inside-up-and-down/) — a three-candle continuation pattern
-- [Three Outside Up and Down](/technical-analysis/candlesticks/three-outside-up-and-down/) — another three-candle confirmation pattern
-- [Harami](/technical-analysis/candlesticks/harami/) — a two-candle reversal showing indecision
-- [Engulfing Pattern](/technical-analysis/candlesticks/engulfing-pattern/) — a two-candle reversal showing decisive directional shift
+- [Three Inside Up and Down](/three-inside-up-and-down/) — a three-candle continuation pattern
+- [Three Outside Up and Down](/three-outside-up-and-down/) — another three-candle confirmation pattern
+- [Harami](/harami/) — a two-candle reversal showing indecision
+- [Engulfing Pattern](/engulfing-pattern/) — a two-candle reversal showing decisive directional shift
 
 ### Wider context
 
-- [Candlestick Patterns](/technical-analysis/candlesticks/) — the complete guide to candle formations
+- Candlestick Patterns — the complete guide to candle formations
 - Technical Analysis — the discipline of reading charts for trade signals
-- [Support and Resistance](/technical-analysis/support-and-resistance/) — price levels that confirm reversal patterns
-- [Moving Average](/technical-analysis/moving-average/) — trend confirmation tools to pair with candle patterns
-- [Volume](/technical-analysis/volume/) — how to validate single-candle signals with activity data
+- [Support and Resistance](/support-and-resistance/) — price levels that confirm reversal patterns
+- [Moving Average](/moving-average/) — trend confirmation tools to pair with candle patterns
+- Volume — how to validate single-candle signals with activity data
 
 </div>

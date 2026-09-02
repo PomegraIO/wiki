@@ -10,7 +10,7 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Prudential Regulation Authority** (PRA) is a subsidiary of the [Bank of England](/regulators/#boe) responsible for the safety and soundness of major financial institutions in the United Kingdom. Established after the 2008 crisis as part of a regulatory overhaul, the PRA sets [capital](/capital-adequacy/) and [liquidity](/liquidity-risk/) standards, conducts supervisory examinations, and enforces prudential rules for banks, insurers, investment firms, and other systemically important entities. It operates alongside the Financial Conduct Authority (FCA), which handles conduct and consumer protection.*
+*The **Prudential Regulation Authority** (PRA) is a subsidiary of the Bank of England responsible for the safety and soundness of major financial institutions in the United Kingdom. Established after the 2008 crisis as part of a regulatory overhaul, the PRA sets [capital](/capital-adequacy/) and [liquidity](/liquidity-risk/) standards, conducts supervisory examinations, and enforces prudential rules for banks, insurers, investment firms, and other systemically important entities. It operates alongside the Financial Conduct Authority (FCA), which handles conduct and consumer protection.*
 
 <aside class="wiki-infobox">
 
@@ -87,15 +87,15 @@ The PRA has also taken on climate and resilience priorities, publishing expectat
 
 ### Closely related
 
-- [Bank of England](/regulators/#boe) — the central bank that owns and operates the PRA
+- Bank of England — the central bank that owns and operates the PRA
 - [Capital adequacy](/capital-adequacy/) — the core standard the PRA enforces
 - [Liquidity risk](/liquidity-risk/) — monitored through PRA rules and stress tests
 - [Stress testing](/stress-testing/) — the PRA's primary supervisory tool
-- [Basel standards](/regulators/#basel) — international framework the PRA implements and extends
+- Basel standards — international framework the PRA implements and extends
 
 ### Wider context
 
-- [Financial Conduct Authority](/regulators/#fca) — the FCA, the PRA's sister regulator for conduct and markets
+- Financial Conduct Authority — the FCA, the PRA's sister regulator for conduct and markets
 - [Federal Reserve](/federal-reserve/) — US central bank with prudential authority, though less unified than the PRA model
 - [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) — US prudential regulator of national banks
 - [Counterparty risk](/counterparty-risk/) — systemic concern the PRA addresses through capital rules

@@ -51,7 +51,7 @@ The 1933 Act's genius was structural simplicity. Before any security could be of
 
 The FTC reviewed the filing for completeness and accuracy, then published it so that any investor could read it before buying. The law did not require the government to approve the investment as "good" or "safe"—that was and remains the investor's judgment. The law's only promise was that the facts presented were truthful, or that the investor had a right to sue if they were not.
 
-This was revolutionary. Prior to 1933, there was no obligation to tell the public anything. Founders could sell stock on rumour, insider gossip, and outright lies. With the registration requirement in place, the balance shifted: issuers had to document reality or face [civil liability](/wiki/civil-liability/) and criminal prosecution.
+This was revolutionary. Prior to 1933, there was no obligation to tell the public anything. Founders could sell stock on rumour, insider gossip, and outright lies. With the registration requirement in place, the balance shifted: issuers had to document reality or face civil liability and criminal prosecution.
 
 ## Liability and enforcement teeth
 
@@ -81,7 +81,7 @@ Congress recognized these holes and, a year later, passed the [Securities Exchan
 
 ## Legacy and limits
 
-The 1933 Act remains in force and is still the legal foundation for all [initial public offerings](/wiki/initial-public-offering/). Every [S-1 registration statement](/wiki/form-s1/) filed today with the SEC traces its authority back to the 1933 Act. The law has been amended many times—notably by the Sarbanes-Oxley Act of 2002 after the Enron scandal, which tightened auditor oversight and executive certification rules.
+The 1933 Act remains in force and is still the legal foundation for all [initial public offerings](/wiki/initial-public-offering/). Every S-1 registration statement filed today with the SEC traces its authority back to the 1933 Act. The law has been amended many times—notably by the Sarbanes-Oxley Act of 2002 after the Enron scandal, which tightened auditor oversight and executive certification rules.
 
 Yet the Act is not a complete shield against fraud. Sophisticated schemes—stock manipulation by insiders, pump-and-dump campaigns, accounting fraud hidden in plain sight—still occur. The law deters the most brazen forms of lying and gives victims a legal path to recovery, but it assumes good-faith disclosure and reasonable investor scepticism. In moments of euphoria or panic, both assumptions break down.
 
@@ -96,7 +96,7 @@ The Act's real power lies not in its penalties but in its principle: the public 
 - [Securities and Exchange Commission](/wiki/securities-and-exchange-commission/) — the independent federal agency created in 1934 to enforce securities laws
 - [Securities Exchange Act of 1934 Enactment](/wiki/securities-exchange-act-of-1934-enactment/) — the companion law establishing continuous reporting and oversight
 - [Initial public offering](/wiki/initial-public-offering/) — the first sale of stock by a company to the public, governed by the 1933 Act
-- [Registration statement](/wiki/registration-statement/) — the disclosure document required before any public securities offering
+- Registration statement — the disclosure document required before any public securities offering
 - [Investment Company Act of 1940 Enactment](/wiki/investment-company-act-of-1940-enactment/) — the law governing mutual funds and other investment companies
 - [Private placement](/wiki/private-placement/) — sale of securities to a limited number of investors, largely exempt from the 1933 Act
 

@@ -27,7 +27,7 @@ This asymmetry—sharing upside with competent operators while having no say in 
 
 Kimbell's revenues fluctuate with oil and [natural gas](/natural-gas/) prices. When [crude oil](/crude-oil/) prices spike, Kimbell's cash flow from oil-producing wells surges; when prices collapse, so does cash flow. Natural gas price swings are even more volatile than oil, as natural gas markets are smaller and more sensitive to storage levels, weather, and LNG export dynamics. Kimbell faces this price exposure frontally: it cannot control whether commodity prices rise or fall.
 
-Some royalty partners use commodity hedges—[futures contracts](/futures-contract/), swaps, and [put options](/put-option/) on oil and gas prices—to reduce near-term price volatility and stabilize cash flows available for distribution. Hedging is not cost-free (it requires paying for insurance-like instruments), and it forgoes upside when prices rise. Kimbell's hedging strategy is disclosed in its [10-K](/10-K/) and changes based on management's view of commodity outlook and the need to protect distributions to unit holders.
+Some royalty partners use commodity hedges—[futures contracts](/futures-contract/), swaps, and [put options](/put-option/) on oil and gas prices—to reduce near-term price volatility and stabilize cash flows available for distribution. Hedging is not cost-free (it requires paying for insurance-like instruments), and it forgoes upside when prices rise. Kimbell's hedging strategy is disclosed in its [10-K](/10-k/) and changes based on management's view of commodity outlook and the need to protect distributions to unit holders.
 
 ## Portfolio Composition and Geographic Diversification
 
@@ -53,7 +53,7 @@ This risk is partially offset by acquisition: Kimbell can use cash from operatio
 
 If Kimbell's royalties are concentrated among a few large operators (say, three operators accounting for 50%+ of production), the credit quality and operational competence of those operators materially affects Kimbell's cash flows. A major operator filing for bankruptcy or suspending drilling due to financial distress would immediately reduce Kimbell's revenues. Diversification across multiple operators (ten or twenty, each with single-digit percentage shares) reduces this risk.
 
-The [10-K](/10-K/) discloses operator concentration. Investors should examine whether the portfolio is well-diversified or whether a few operators represent material revenue risks. Large independent operators (Pioneer, Continental, EOG, etc.) are generally reliable; smaller private operators or those with weak [balance sheets](/balance-sheet/) carry higher risk.
+The [10-K](/10-k/) discloses operator concentration. Investors should examine whether the portfolio is well-diversified or whether a few operators represent material revenue risks. Large independent operators (Pioneer, Continental, EOG, etc.) are generally reliable; smaller private operators or those with weak [balance sheets](/balance-sheet/) carry higher risk.
 
 ## Drilling Activity Trends and Basin Dynamics
 
@@ -69,7 +69,7 @@ The balance between distributions and reinvestment is a key strategic choice. A 
 
 ## Interest Rate Sensitivity and Leverage
 
-If Kimbell carries debt to fund operations or acquisitions, its financing costs are sensitive to [interest rates](/interest-rate/). Rising rates increase borrowing costs, reducing cash available for distribution; falling rates ease the burden. The [10-K](/10-K/) discloses debt levels, interest rates, and debt covenants. Investors should assess whether Kimbell is highly leveraged ([debt-to-assets ratio](/debt-to-assets-ratio/) high) or lightly leveraged, as high leverage amplifies both the upside in strong commodity cycles and the downside in weak cycles.
+If Kimbell carries debt to fund operations or acquisitions, its financing costs are sensitive to [interest rates](/interest-rate/). Rising rates increase borrowing costs, reducing cash available for distribution; falling rates ease the burden. The [10-K](/10-k/) discloses debt levels, interest rates, and debt covenants. Investors should assess whether Kimbell is highly leveraged ([debt-to-assets ratio](/debt-to-assets-ratio/) high) or lightly leveraged, as high leverage amplifies both the upside in strong commodity cycles and the downside in weak cycles.
 
 <div class="wiki-seealso">
 ### Closely related

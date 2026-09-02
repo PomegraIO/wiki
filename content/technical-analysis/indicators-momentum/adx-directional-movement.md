@@ -9,7 +9,7 @@ keywords:
   - directional movement
 ---
 
-*The **Average Directional Index (ADX)** is a [technical indicator](/wiki/technical-analysis/) that quantifies how strong a price trend is, regardless of whether the trend is up or down. Unlike many [momentum indicators](/wiki/momentum-factor/) that signal direction, the ADX isolates pure trend strength on a 0–100 scale, making it a powerful filter for distinguishing genuine trends from noise.*
+*The **Average Directional Index (ADX)** is a technical indicator that quantifies how strong a price trend is, regardless of whether the trend is up or down. Unlike many [momentum indicators](/wiki/momentum-factor/) that signal direction, the ADX isolates pure trend strength on a 0–100 scale, making it a powerful filter for distinguishing genuine trends from noise.*
 
 <aside class="wiki-infobox">
 
@@ -64,7 +64,7 @@ This is why ADX is best used as a **filter** rather than a standalone trading si
 
 **In mean-reversion systems.** Some traders look for **high ADX with price near [resistance](/wiki/support-and-resistance/) or [support](/wiki/support-zone-floor/)**, betting the strong trend has exhausted itself at a technical level and will reverse.
 
-**Combined with [moving averages](/wiki/moving-averages/).** A trader might use a rising [50-day moving average](/wiki/moving-averages/) (trend direction) and ADX > 30 (trend strength) together, trading only when both align.
+**Combined with moving averages.** A trader might use a rising 50-day moving average (trend direction) and ADX > 30 (trend strength) together, trading only when both align.
 
 ## Practical examples
 
@@ -96,7 +96,7 @@ Combining ADX with [leading indicators](/wiki/leading-indicator/) (e.g., [RSI](/
 
 **[ATR (Average True Range)](/wiki/atr-true-range/).** Measures volatility, not trend strength. High ATR means large moves; ADX tells you if those moves have directional intent.
 
-**[Bollinger Bands](/wiki/moving-averages/).** Mark price ranges; don't directly measure trend strength.
+**Bollinger Bands.** Mark price ranges; don't directly measure trend strength.
 
 **[MACD](/wiki/macd-indicator/).** Shows momentum and trend direction; ADX adds a pure strength dimension.
 
@@ -127,11 +127,11 @@ This approach reduces losses in choppy markets and amplifies gains in strong tre
 ### Closely related
 - [Momentum Factor](/wiki/momentum-factor/) — Market acceleration and directional strength
 - [Trend Following](/wiki/trend-following/) — Strategy based on directional price movement
-- [Moving Averages](/wiki/moving-averages/) — Price trend direction indicator
+- Moving Averages — Price trend direction indicator
 - [RSI (Relative Strength Index)](/wiki/rsi-relative-strength/) — Momentum and overbought/oversold conditions
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — Price and volume patterns
+- Technical Analysis — Price and volume patterns
 - [Support and Resistance](/wiki/support-and-resistance/) — Technical levels ADX helps confirm
 - [Algorithmic Trading](/wiki/algorithmic-trading/) — Systems that employ ADX as a filter
 - [Volatility](/wiki/volatility-factor-performance/) — Market movement amplitude

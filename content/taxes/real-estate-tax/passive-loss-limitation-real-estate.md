@@ -19,7 +19,7 @@ Unlike rental losses for a "real estate professional" (special status allowing f
 | Element | Rule |
 |---------|------|
 | **Annual limit** | $25,000 deduction for passive real estate losses |
-| **Income phase-out** | Begins at $100,000 [MAGI](/wiki/modified-adjusted-gross-income/); fully phased out at $150,000 MAGI |
+| **Income phase-out** | Begins at $100,000 MAGI; fully phased out at $150,000 MAGI |
 | **Who qualifies** | Individuals with <$150,000 MAGI who actively participate in real estate |
 | **Real estate professional exception** | If you qualify, losses are NOT passive; all losses are deductible |
 | **Suspended losses** | Carried forward indefinitely; used when property is sold |
@@ -39,7 +39,7 @@ A landlord who screens tenants, approves repairs, and negotiates leases typicall
 
 ## Income Phase-Out
 
-The $25,000 deduction is available to individuals with [Modified Adjusted Gross Income (MAGI)](/wiki/modified-adjusted-gross-income/) below $100,000. For every $1 of MAGI above $100,000, the deduction reduces by $0.50. The deduction is fully eliminated (phased out) at $150,000 MAGI.
+The $25,000 deduction is available to individuals with Modified Adjusted Gross Income (MAGI) below $100,000. For every $1 of MAGI above $100,000, the deduction reduces by $0.50. The deduction is fully eliminated (phased out) at $150,000 MAGI.
 
 Example: If MAGI is $120,000, the deductible amount is $25,000 - (($120,000 - $100,000) × 0.50) = $25,000 - $10,000 = $15,000. At $150,000 MAGI, the deduction is $0.
 
@@ -107,7 +107,7 @@ High-income investors use several strategies to navigate passive-loss limitation
 - [Passive activity loss limits](/wiki/passive-activity-loss-limits/) — the broader framework for passive loss rules
 - [Depreciation recapture](/wiki/depreciation-recapture-investor/) — tax consequence of real estate sales
 - [Cost segregation study](/wiki/cost-segregation-study/) — accelerating depreciation deductions
-- [Modified adjusted gross income](/wiki/modified-adjusted-gross-income/) — used for phase-out calculations
+- Modified adjusted gross income — used for phase-out calculations
 
 ### Wider context
 - [Real estate taxation](/wiki/property-tax/) — broader real estate tax rules

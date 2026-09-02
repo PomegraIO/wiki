@@ -65,5 +65,5 @@ Keisei should be compared to other regional rail operators in the Kanto region a
 ### Wider context
 - [securities-and-exchange-commission](/securities-and-exchange-commission/)
 - [10-k](/10-k/)
-- [Japan](/Japan/)
+- Japan
 </div>

@@ -8,7 +8,7 @@ keywords:
   - innovation
 ---
 
-*[Endogenous growth theory](/wiki/growth-theory/) explains long-term economic growth as driven by **internal factors** within the economy—human capital accumulation, research and development, and technological spillovers—rather than exogenous shocks or labor/capital constraints. Growth is self-sustaining and policy-sensitive.*
+*Endogenous growth theory explains long-term economic growth as driven by **internal factors** within the economy—human capital accumulation, research and development, and technological spillovers—rather than exogenous shocks or labor/capital constraints. Growth is self-sustaining and policy-sensitive.*
 
 <aside class="wiki-infobox">
 
@@ -59,7 +59,7 @@ Endogenous growth theory overturned the view that growth is passive and unstoppa
 
 ## Empirical evidence and growth regressions
 
-Researchers run **growth regressions**—cross-country or time-series models regressing growth on R&D, education, and institutions. A typical finding: each additional percent of GDP spent on R&D correlates with 0.1–0.3% higher growth. Each additional year of average education correlates with 0.2–0.4% higher growth. Weak causality vs. correlation is debated (high-growth countries may afford more R&D, not the reverse), but [natural experiments](/wiki/matching-estimator/) (e.g., Vietnam's education expansion in the 1960s) confirm causality.
+Researchers run **growth regressions**—cross-country or time-series models regressing growth on R&D, education, and institutions. A typical finding: each additional percent of GDP spent on R&D correlates with 0.1–0.3% higher growth. Each additional year of average education correlates with 0.2–0.4% higher growth. Weak causality vs. correlation is debated (high-growth countries may afford more R&D, not the reverse), but natural experiments (e.g., Vietnam's education expansion in the 1960s) confirm causality.
 
 Growth accounting decomposes output growth into contributions from labor, capital, and **total factor productivity (TFP)**. In developed nations, TFP growth (residual, proxy for technology) accounts for 40–60% of output growth. In developing nations, TFP is negative or flat—growth comes from capital/labor utilization. This reflects a lack of innovation; poorer nations import technology but don't create it, so they hit diminishing returns. Endogenous growth theory predicts this: catch-up growth (adopting frontier technology) is temporary; sustaining growth requires innovating at the frontier.
 
@@ -87,6 +87,6 @@ Additionally, endogenous growth theory has struggled to explain **growth slowdow
 - [Gross Domestic Product](/wiki/gross-domestic-product/) — Measure of economic output and growth
 - [Labor Productivity](/wiki/labor-productivity/) — Output per worker
 - [Technological Spillover](/wiki/technological-spillover/) — Knowledge diffusion across firms
-- [Economic Development](/wiki/poverty-trap-growth/) — Growth in low-income nations
+- Economic Development — Growth in low-income nations
 
 </div>

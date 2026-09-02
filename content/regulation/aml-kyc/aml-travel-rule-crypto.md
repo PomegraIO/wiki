@@ -9,7 +9,7 @@ keywords:
 image: /svg/regulation.svg
 ---
 
-*The FATF Travel Rule requires virtual asset service providers (VASPs) to exchange originator and beneficiary information when customers transfer cryptocurrency above certain thresholds — replicating the wire-transfer reporting mandate for traditional banking. Unlike bank wires, which move through standardized SWIFT rails, crypto transfers happen on public [blockchains](/blockchain-fundamentals/)), so compliance requires new infrastructure and coordination.*
+*The FATF Travel Rule requires virtual asset service providers (VASPs) to exchange originator and beneficiary information when customers transfer cryptocurrency above certain thresholds — replicating the wire-transfer reporting mandate for traditional banking. Unlike bank wires, which move through standardized SWIFT rails, crypto transfers happen on public [blockchains](/blockchain-fundamentals/), so compliance requires new infrastructure and coordination.*
 
 <aside class="wiki-infobox">
 
@@ -34,7 +34,7 @@ image: /svg/regulation.svg
 
 The "Travel Rule" originated in 1989 in U.S. banking regulation (31 CFR 1020.210). When a bank sends a wire transfer, it must include the sender's name, account, and the recipient's information — so the receiving bank knows who sent the money. The rule combats money laundering) and terrorist financing by preserving a clear chain of identity.
 
-In 2015, the Financial Action Task Force (FATF) — an intergovernmental body focused on combating financial crime — updated its recommendations to include virtual assets and [cryptocurrency exchanges](/cryptocurrency-exchange/)). Recommendation 16 requires countries to ensure virtual asset service providers apply the same originator and beneficiary information requirements as traditional financial institutions.
+In 2015, the Financial Action Task Force (FATF) — an intergovernmental body focused on combating financial crime — updated its recommendations to include virtual assets and [cryptocurrency exchanges](/cryptocurrency-exchange/). Recommendation 16 requires countries to ensure virtual asset service providers apply the same originator and beneficiary information requirements as traditional financial institutions.
 
 By 2023, most major jurisdictions had adopted the Travel Rule in law or regulation. The U.S. implemented it through FinCEN guidance (May 2023) for money transmitters. The EU embedded it in MiCA (Markets in Crypto-Assets). Hong Kong, Singapore, Japan, and others followed suit. Compliance is now a material operational and legal requirement for any VASP handling significant transaction volume.
 

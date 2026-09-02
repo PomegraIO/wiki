@@ -36,7 +36,7 @@ The yuan operates under dual regimes: the **onshore CNY** (traded domestically a
 
 ## International reserve status and the SDR
 
-The yuan was added to the [International Monetary Fund's](/wiki/imf-bailout/) [Special Drawing Rights (SDR) basket](/wiki/sdr/) in October 2016, a symbolic milestone in its recognition as a reserve currency. However, uptake remains limited compared to the dollar and euro. The yuan accounts for roughly 2–3% of global foreign-exchange reserves, a fraction of its economic weight, reflecting both [capital account restrictions](/wiki/capital-control-policy/) and geopolitical risk premia. Corporates and central banks hold yuan for trade financing ([invoice commodities](/wiki/commodity-currency-pairs/) and regional infrastructure projects) rather than as a stable long-term store of value.
+The yuan was added to the [International Monetary Fund's](/wiki/imf-bailout/) Special Drawing Rights (SDR) basket in October 2016, a symbolic milestone in its recognition as a reserve currency. However, uptake remains limited compared to the dollar and euro. The yuan accounts for roughly 2–3% of global foreign-exchange reserves, a fraction of its economic weight, reflecting both [capital account restrictions](/wiki/capital-control-policy/) and geopolitical risk premia. Corporates and central banks hold yuan for trade financing ([invoice commodities](/wiki/commodity-currency-pairs/) and regional infrastructure projects) rather than as a stable long-term store of value.
 
 ## Trade settlement and the Belt and Road Initiative
 

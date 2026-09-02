@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **double top** is a bearish reversal pattern consisting of two peaks at approximately the same price level separated by a dip (the valley). The pattern reveals that price has tested a resistance level twice and failed both times to break above it, showing waning buying pressure. The first peak exhausts buyers; the price retraces. Buyers try again, pushing price to roughly the same level as the first peak, but selling intensity halts the rally. When price then dips below the valley's low, the pattern is complete, and a sustained downtrend often follows. The double top is simpler and more common than the [head and shoulders](/technical-analysis/head-and-shoulders) but is considered less reliable.*
+*A **double top** is a bearish reversal pattern consisting of two peaks at approximately the same price level separated by a dip (the valley). The pattern reveals that price has tested a resistance level twice and failed both times to break above it, showing waning buying pressure. The first peak exhausts buyers; the price retraces. Buyers try again, pushing price to roughly the same level as the first peak, but selling intensity halts the rally. When price then dips below the valley's low, the pattern is complete, and a sustained downtrend often follows. The double top is simpler and more common than the [head and shoulders](/head-and-shoulders/) but is considered less reliable.*
 
 <div class="wiki-hatnote">
 
-For reversal patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). The bullish equivalent is [double-bottom](/technical-analysis/double-bottom).
+For reversal patterns broadly, see [candlestick pattern](/candlestick-pattern/). The bullish equivalent is [double-bottom](/double-bottom/).
 
 </div>
 
@@ -104,15 +104,15 @@ Academic research on double tops finds mixed results. Some studies suggest modes
 
 ### Related reversals
 
-- [Double-bottom](/technical-analysis/double-bottom) — bullish equivalent
-- [Head and shoulders](/technical-analysis/head-and-shoulders) — three-peak version
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework
-- [Evening star](/technical-analysis/evening-star) — three-candle reversal
+- [Double-bottom](/double-bottom/) — bullish equivalent
+- [Head and shoulders](/head-and-shoulders/) — three-peak version
+- [Candlestick pattern](/candlestick-pattern/) — broader framework
+- [Evening star](/evening-star/) — three-candle reversal
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — peaks and valley
-- [Trendline](/technical-analysis/trendline) — prior uptrend context
-- [Volume](/technical-analysis/on-balance-volume) — confirming reversal
+- [Support and resistance](/support-and-resistance/) — peaks and valley
+- [Trendline](/trendline/) — prior uptrend context
+- [Volume](/on-balance-volume/) — confirming reversal
 
 </div>

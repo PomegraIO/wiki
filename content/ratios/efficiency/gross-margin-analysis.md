@@ -38,7 +38,7 @@ Gross margin often compresses first when input costs rise (raw materials, labor)
 
 The reverse happens when commodity prices fall. In 2015–2016, oil plummeted, and energy-intensive manufacturers and shipping companies saw gross margins expand because their fuel and materials costs dropped faster than they could lower prices. A year later, as prices stabilized, margins settled at new equilibrium levels.
 
-This dynamic is critical in fundamental analysis. A company with shrinking gross margins is losing pricing power—a sign of increasing competition, commoditization, or weak demand. A company with expanding margins is either benefiting from operational improvements ([automation](/wiki/automation-production/), better supply chains) or gaining pricing power (brand strength, monopoly position, shifts in customer demand toward higher-value products).
+This dynamic is critical in fundamental analysis. A company with shrinking gross margins is losing pricing power—a sign of increasing competition, commoditization, or weak demand. A company with expanding margins is either benefiting from operational improvements (automation, better supply chains) or gaining pricing power (brand strength, monopoly position, shifts in customer demand toward higher-value products).
 
 ## Mix effects and product shifts
 

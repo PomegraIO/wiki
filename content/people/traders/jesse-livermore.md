@@ -9,7 +9,7 @@ keywords:
   - technical analysis
 ---
 
-*A **Jesse Livermore** (1877–1940) was a legendary early-20th-century trader and short-seller who accumulated and lost massive fortunes through tape-reading, [technical analysis](/wiki/technical-analysis/), and bold short positions. His autobiography, *Reminiscences of a Stock Operator*, remains the most-cited trading memoir in finance.*
+*A **Jesse Livermore** (1877–1940) was a legendary early-20th-century trader and short-seller who accumulated and lost massive fortunes through tape-reading, technical analysis, and bold short positions. His autobiography, *Reminiscences of a Stock Operator*, remains the most-cited trading memoir in finance.*
 
 <aside class="wiki-infobox">
 
@@ -53,7 +53,7 @@ Livermore's lasting contribution is *Reminiscences of a Stock Operator* (1923, g
 
 ## Influence on modern trading theory
 
-Livermore's tape-reading concepts evolved into modern [technical analysis](/wiki/technical-analysis/). His observation that price patterns repeat is foundational to [candlestick charts](/wiki/candlestick-chart/), [breakout trading](/wiki/breakout-trading/), and momentum indicators. His short-selling expertise informed the understanding of [short squeezes](/wiki/short-squeeze/), price discovery, and corrective moves.
+Livermore's tape-reading concepts evolved into modern technical analysis. His observation that price patterns repeat is foundational to [candlestick charts](/wiki/candlestick-chart/), [breakout trading](/wiki/breakout-trading/), and momentum indicators. His short-selling expertise informed the understanding of [short squeezes](/wiki/short-squeeze/), price discovery, and corrective moves.
 
 Modern traders cite him constantly. [Hedge fund](/wiki/hedge-fund/) managers, [algorithmic traders](/wiki/algorithmic-trading/), and [momentum investors](/wiki/momentum-investing/) all echo his principles—don't fight the trend, position size carefully, let winners run, and cut losses. Books like *Market Wizards* (Jack Schwager) and *Fooled by Randomness* (Nassim Taleb) reference Livermore's psychology insights directly.
 
@@ -80,7 +80,7 @@ These remain the core of sound trading psychology a century later.
 <div class="wiki-seealso">
 
 ### Closely related
-- [Technical Analysis](/wiki/technical-analysis/) — Tape reading and price pattern recognition
+- Technical Analysis — Tape reading and price pattern recognition
 - [Momentum Investing](/wiki/momentum-investing/) — Following trends; letting winners run
 - [Short Selling](/wiki/short-selling/) — Betting on price declines; Livermore's signature strategy
 

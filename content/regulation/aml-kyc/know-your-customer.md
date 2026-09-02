@@ -106,7 +106,7 @@ Crypto has illuminated KYC's challenge: decentralized finance (DeFi) has no KYC 
 
 ## Privacy and data protection
 
-KYC collects vast amounts of personal data. Data breaches expose customers to identity theft. The EU's [GDPR](/wiki/gdpr/) constrains how long banks can retain PII; the U.S. has no equivalent. Balancing AML compliance (need data) and privacy (minimize data collection) is an ongoing tension.
+KYC collects vast amounts of personal data. Data breaches expose customers to identity theft. The EU's GDPR constrains how long banks can retain PII; the U.S. has no equivalent. Balancing AML compliance (need data) and privacy (minimize data collection) is an ongoing tension.
 
 ## Gatekeeping role
 

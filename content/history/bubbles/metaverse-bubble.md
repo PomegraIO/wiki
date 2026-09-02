@@ -33,7 +33,7 @@ The gap between hype and usage exploded. Metaverse tokens rallied on narrative m
 
 ## The user adoption problem
 
-Consumer adoption never approached projections. [VR headset](/wiki/virtual-reality-hardware/) penetration remained low. Most users accessed these worlds through 2D web browsers, removing the immersive experience that justified premium valuations. Usable graphics, lag, and social network effects lagged far behind centralized gaming platforms. Enterprise adoption (corporate meetings in virtual worlds, training) proved niche. By mid-2022, daily active users had stalled or declined, revealing that the [speculative excess](/wiki/bubbles-and-manias/) had priced in adoption scenarios that were never plausible.
+Consumer adoption never approached projections. VR headset penetration remained low. Most users accessed these worlds through 2D web browsers, removing the immersive experience that justified premium valuations. Usable graphics, lag, and social network effects lagged far behind centralized gaming platforms. Enterprise adoption (corporate meetings in virtual worlds, training) proved niche. By mid-2022, daily active users had stalled or declined, revealing that the [speculative excess](/wiki/bubbles-and-manias/) had priced in adoption scenarios that were never plausible.
 
 ## The funding cliff and cascade collapse
 

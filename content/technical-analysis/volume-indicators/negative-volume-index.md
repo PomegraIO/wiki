@@ -8,7 +8,7 @@ keywords:
   - technical analysis
 ---
 
-*The **Negative Volume Index** (NVI) is a [technical indicator](/wiki/technical-analysis/) tracking cumulative price changes *on days of falling [volume](/wiki/volume-profile-support/)*. The premise: when [volume](/wiki/volume-profile-support/) drops, smart money is active; informed traders sell into weak volume. Rising prices on low volume are suspect; falling prices on low volume signal hidden strength. The NVI isolates "smart money" behavior from crowd noise.*
+*The **Negative Volume Index** (NVI) is a technical indicator tracking cumulative price changes *on days of falling [volume](/wiki/volume-profile-support/)*. The premise: when [volume](/wiki/volume-profile-support/) drops, smart money is active; informed traders sell into weak volume. Rising prices on low volume are suspect; falling prices on low volume signal hidden strength. The NVI isolates "smart money" behavior from crowd noise.*
 
 <aside class="wiki-infobox">
 
@@ -73,7 +73,7 @@ Why the gap between anecdotal success and academic finding? Selection bias: trad
 
 ## Practical limitations
 
-1. **Lookback sensitivity**: The choice of 255-day average is arbitrary. Different smoothing windows yield different signals. Backtesting across windows introduces [look-ahead bias](/wiki/backtesting-bias/).
+1. **Lookback sensitivity**: The choice of 255-day average is arbitrary. Different smoothing windows yield different signals. Backtesting across windows introduces look-ahead bias.
 
 2. **Definition of "low volume"**: What counts as down volume? Is yesterday's volume the right benchmark? How do you handle seasonal volume changes? The indicator is sensitive to these choices.
 
@@ -85,7 +85,7 @@ Why the gap between anecdotal success and academic finding? Selection bias: trad
 
 ## Modern usage and variants
 
-Modern [technical analysts](/wiki/technical-analysis/) rarely rely on NVI as a primary indicator. It's mentioned in some trading education materials but is overshadowed by [momentum indicators](/wiki/momentum-investing/) like [RSI](/wiki/rsi-relative-strength/), [MACD](/wiki/macd-indicator/), and [stochastic oscillators](/wiki/stochastic-oscillator/).
+Modern technical analysts rarely rely on NVI as a primary indicator. It's mentioned in some trading education materials but is overshadowed by [momentum indicators](/wiki/momentum-investing/) like [RSI](/wiki/rsi-relative-strength/), [MACD](/wiki/macd-indicator/), and [stochastic oscillators](/wiki/stochastic-oscillator/).
 
 Some quantitative funds have experimented with variants:
 - **Volume-weighted price changes**: Instead of equal weighting, scaling price changes by volume magnitude.
@@ -108,7 +108,7 @@ But these edges are narrow and require rigorous [backtesting](/wiki/model-risk/)
 - [Positive volume index](/wiki/positive-volume-index/) — The complementary indicator
 - [On-balance volume](/wiki/obv-on-balance-volume/) — Alternative volume-price indicator
 - [Volume profile](/wiki/volume-profile-support/) — Volume distribution by price level
-- [Technical analysis](/wiki/technical-analysis/) — Broader framework for NVI
+- Technical analysis — Broader framework for NVI
 - [Momentum investing](/wiki/momentum-investing/) — Strategy sometimes enhanced by NVI
 
 ### Wider context

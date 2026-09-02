@@ -28,7 +28,7 @@ keywords:
 
 ## Why visibility precedes control
 
-The foundation of any [personal budget](/wiki/personal-finance/budgeting/budgeting-methods/) rests on accurate spending data. Many households operate blind—estimating how much they spend on groceries, transport, or dining out—and find their guesses wildly off reality. Expense tracking tools force a reckoning. By tagging each transaction, you build a historical ledger that reveals the true cost of lifestyle choices. Without this visibility, budget targets remain theoretical.
+The foundation of any [personal budget](/budgeting-methods/) rests on accurate spending data. Many households operate blind—estimating how much they spend on groceries, transport, or dining out—and find their guesses wildly off reality. Expense tracking tools force a reckoning. By tagging each transaction, you build a historical ledger that reveals the true cost of lifestyle choices. Without this visibility, budget targets remain theoretical.
 
 ## How tracking integrates with category discipline
 
@@ -60,7 +60,7 @@ Not everyone benefits equally from detailed tracking. For high-earners with stab
 
 ### Wider context
 - [Personal Finance](/wiki/about/) — The broader landscape of household financial management
-- [Financial Literacy](/wiki/account-based-fund/) — Foundation for understanding what tracking reveals
+- Financial Literacy — Foundation for understanding what tracking reveals
 - [Debt Consolidation](/wiki/debt-consolidation/) — Tracking often reveals the true cost of interest
 - [Budget Deficit](/wiki/budget-deficit/) — The parallel concept at government scale
 

@@ -70,7 +70,7 @@ The staggered board is an effective delay mechanism because of four features:
 
 **First, it is built into the bylaws**, so a single shareholder vote cannot abolish it. Terminating classified board structure typically requires a shareholder vote over multiple years. Some states (e.g., Delaware) allow a supermajority (often 66%) to adopt a staggered board via charter amendment, and dismantling it requires the same vote.
 
-**Second, the incumbent board controls the agenda.** In the interregnum—while you are winning the first class and waiting for the second—the incumbent board can negotiate a [merger](/merger/), erect other defenses, or search for a [white knight](//) (a friendlier buyer who will preserve management). The company is not inert while you're gaining seats.
+**Second, the incumbent board controls the agenda.** In the interregnum—while you are winning the first class and waiting for the second—the incumbent board can negotiate a [merger](/merger/), erect other defenses, or search for a white knight (a friendlier buyer who will preserve management). The company is not inert while you're gaining seats.
 
 **Third, market conditions can change.** If you announced a hostile offer at $30 per share and by Year 2 the stock trades at $25 due to a sector downturn, shareholders may vote against your slate, halting your board takeover. You might need to raise your offer to regain support, eroding the economics of the deal.
 
@@ -132,7 +132,7 @@ Mega Fund announces a [hostile offer](/hostile-takeover/) at $60 per share (20% 
 
 ### Wider context
 
-- [Takeover defenses](//) — the broader arsenal
+- Takeover defenses — the broader arsenal
 - [Corporate governance](/board-of-directors/) — the board's role and accountability
 - [Shareholder rights](/voting-rights/) — what investors can actually change via ballot
 - [Special purpose acquisition company](/special-purpose-acquisition-company/) — an alternative acquisition vehicle that sidesteps board defenses

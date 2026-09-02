@@ -59,7 +59,7 @@ A [structured product](/structured-product/) designed to be [investment grade](/
 
 ## Real-World Examples
 
-**LIBOR discontinuation:** For decades, the [LIBOR](/libor/) rate anchored trillions of dollars in loans and [derivatives](/derivatives-hedging/). When regulators shut it down (2021–2023), thousands of contracts had to be rewritten or reinterpreted. Contracts that referenced "LIBOR or a successor rate" were litigated over what rate to substitute. Borrowers and lenders disagreed on [fallback](//) rates, and some old contracts had no fallback clause at all. Regulatory fiat created legal uncertainty and economic loss.
+**LIBOR discontinuation:** For decades, the [LIBOR](/libor/) rate anchored trillions of dollars in loans and [derivatives](/derivatives-hedging/). When regulators shut it down (2021–2023), thousands of contracts had to be rewritten or reinterpreted. Contracts that referenced "LIBOR or a successor rate" were litigated over what rate to substitute. Borrowers and lenders disagreed on fallback rates, and some old contracts had no fallback clause at all. Regulatory fiat created legal uncertainty and economic loss.
 
 **Mortgage-backed securities (2008):** Many mortgage bonds were sold with warranties that mortgages met stated criteria. When defaults surged, it emerged that many mortgages were misrepresented. Investors sued to force repurchases. The legal question—did the issuer knowingly sell flawed securities?—determined whether billions would be recovered or lost. Years of litigation hinged on legal interpretation and evidence of intent.
 

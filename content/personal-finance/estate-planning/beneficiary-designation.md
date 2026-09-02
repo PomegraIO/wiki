@@ -149,7 +149,7 @@ Coordinating beneficiary designations with will provisions, trust structures, an
 
 ### Wider context
 - [Estate tax](/wiki/estate-tax-investor/) — may apply to large accounts
-- [Estate planning](/wiki/estate-planning/) — broader strategy
+- Estate planning — broader strategy
 - [Life insurance](/wiki/term-life-insurance/) — common beneficiary instrument
 - [Inherited IRA](/wiki/beneficiary-designation/) — post-death management
 

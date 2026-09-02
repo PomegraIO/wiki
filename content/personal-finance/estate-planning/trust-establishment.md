@@ -43,7 +43,7 @@ A **testamentary trust** is created within a will and comes into existence only 
 
 A **special-needs trust** (or supplemental trust) holds assets for a beneficiary with a disability, allowing them to receive investment income and principal distributions without disqualifying them from means-tested public benefits like SSI (Supplemental Security Income) or Medicaid. Unlike a personal trust, a special-needs trust prioritizes the beneficiary's preservation of government support, limiting distributions to support specific needs (education, medical, housing) rather than replacing government assistance. A **spendthrift trust** restricts a beneficiary's right to alienate (transfer or sell) their interest, protecting trust principal from the beneficiary's creditors or poor financial judgment.
 
-## Charitable trusts and [tax deductions](/wiki/tax-deduction-investor/)
+## Charitable trusts and tax deductions
 
 A **charitable remainder trust** (CRT) allows a settlor to fund a trust with appreciated assets, receive an income stream for life, and eventually pass the remainder to a charity, generating a tax deduction for the charitable portion. A donor who funds a $1 million CRT paying 5% per year receives a $50,000 annual income stream plus a deduction for the estimated remainder value (typically 40–60% of the contribution). The asset, often a concentrated stock position or illiquid real estate, is sold inside the trust without triggering capital gains (the trust is tax-exempt), and proceeds are reinvested. Conversely, a **charitable lead trust** directs income to charity first, then remainder to family heirs, often used to pass appreciating assets to the next generation with minimal gift tax.
 

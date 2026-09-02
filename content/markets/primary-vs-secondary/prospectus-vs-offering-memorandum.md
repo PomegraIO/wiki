@@ -157,14 +157,14 @@ Choose an **offering memorandum** if you:
 - [Initial Public Offering](/initial-public-offering/) — the public debut documented by prospectus
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) — the regulator
 - [Regulation D](/regulation-a/) — the exemption framework for private placements
-- [Accredited Investor](//) — the investor base for offering memoranda
+- Accredited Investor — the investor base for offering memoranda
 
 ### Wider context
 
-- [Securities Act of 1933](//) — establishes prospectus and exemption framework
+- Securities Act of 1933 — establishes prospectus and exemption framework
 - [Due Diligence](/due-diligence/) — the process of vetting before offering
-- [Underwriter](//) — the intermediary in prospectus offerings
+- Underwriter — the intermediary in prospectus offerings
 - [Fund Prospectus](/fund-prospectus/) — specific prospectus variant for mutual funds and ETFs
-- [Liability](//) — the legal risk borne by issuers and underwriters
+- Liability — the legal risk borne by issuers and underwriters
 
 </div>

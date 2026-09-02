@@ -19,7 +19,7 @@ keywords:
 | **Facility Size** | Typically $50 million to $500+ million |
 | **Maturity** | Individual notes 2–12 months (facility perpetual unless terminated) |
 | **Coupon** | Floating, reset weekly/monthly + fixed spread |
-| **Lender** | Usually a large bank or group of banks via [syndicate](/wiki/syndicated-loan/) |
+| **Lender** | Usually a large bank or group of banks via syndicate |
 | **Alternative Names** | Floating-rate note facility, revolving note facility |
 | **Cost** | Below [commercial paper](/wiki/commercial-paper/) spreads; above regular [loans](/wiki/credit-rating/) |
 

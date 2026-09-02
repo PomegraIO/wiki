@@ -8,7 +8,7 @@ keywords:
   - curve trading
 ---
 
-*The **roll yield** is the return earned (or loss incurred) when an investor rolls a maturing [commodity futures](/wiki/commodity-futures/) contract forward into a later-dated contract. If the later contract is priced lower (backwardation), rolling is profitable; if priced higher (contango), rolling is costly. Roll yield is a critical return component for commodity futures investors and reflects the shape of the [commodity term structure](/wiki/commodity-term-structure/).*
+*The **roll yield** is the return earned (or loss incurred) when an investor rolls a maturing commodity futures contract forward into a later-dated contract. If the later contract is priced lower (backwardation), rolling is profitable; if priced higher (contango), rolling is costly. Roll yield is a critical return component for commodity futures investors and reflects the shape of the [commodity term structure](/wiki/commodity-term-structure/).*
 
 <aside class="wiki-infobox">
 
@@ -89,7 +89,7 @@ The annualization is illustrative because curve shapes change; the 3% backwardat
 <div class="wiki-seealso">
 
 ### Closely related
-- [Commodity Futures](/wiki/commodity-futures/) — The contracts being rolled
+- Commodity Futures — The contracts being rolled
 - [Contango](/wiki/contango/) — Upward-sloping term structure (negative roll yield)
 - [Backwardation](/wiki/backwardation/) — Downward-sloping term structure (positive roll yield)
 - [Cost of Carry](/wiki/cost-of-carry/) — Economic driver of term structure shape

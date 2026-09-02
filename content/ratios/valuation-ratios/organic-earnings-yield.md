@@ -6,7 +6,7 @@ description: "Earnings adjusted to exclude contributions from acquisitions (orga
 *Organic earnings yield measures what percentage return you would earn from the business the company owned at the start of the period, excluding earnings from companies it acquired during the year. It isolates real operational growth from acquisitive growth.*
 
 <div class="wiki-hatnote">
-See [earnings-yield](/wiki/earnings-yield/) for the standard version and [organic-growth](/wiki/organic-growth/) for the concept underlying this metric.
+See [earnings-yield](/wiki/earnings-yield/) for the standard version and organic-growth for the concept underlying this metric.
 </div>
 
 <aside class="wiki-infobox">
@@ -34,7 +34,7 @@ The calculation is mechanical, but identifying what portion is "acquisition" req
 
 ## Acquisition dilution and accretion
 
-When a company buys another company, it often issues stock to pay for the [acquisition](/wiki/acquisition/). This dilutes [shares outstanding](/wiki/shares-outstanding/), which can reduce EPS even if total earnings rise. Conversely, if the acquisition is accretive (the acquired earnings exceed the interest cost on debt used to buy it), EPS rises immediately.
+When a company buys another company, it often issues stock to pay for the [acquisition](/wiki/acquisition/). This dilutes shares outstanding, which can reduce EPS even if total earnings rise. Conversely, if the acquisition is accretive (the acquired earnings exceed the interest cost on debt used to buy it), EPS rises immediately.
 
 Organic earnings yield adjusts for this by showing what the original shareholders' yield is from the core business, untouched by M&A.
 
@@ -81,7 +81,7 @@ Software and services companies often report high organic growth (low 10s percen
 <h3>Closely related</h3>
 <ul>
   <li><a href="/wiki/earnings-yield/">Earnings yield</a> — the standard reported version.</li>
-  <li><a href="/wiki/organic-growth/">Organic growth</a> — the underlying concept.</li>
+  <li>Organic growth — the underlying concept.</li>
   <li><a href="/wiki/acquisition/">Acquisition</a> — the M&A events that create non-organic earnings.</li>
   <li><a href="/wiki/earnings-per-share/">Earnings per share</a> — the numerator in this ratio.</li>
 </ul>

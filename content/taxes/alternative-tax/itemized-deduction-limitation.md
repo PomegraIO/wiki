@@ -27,7 +27,7 @@ keywords:
 
 ## Why the SALT cap matters
 
-Under prior law, high-income earners in high-tax states (California, New York, Massachusetts, New Jersey) could deduct unlimited amounts of state and local taxes, effectively federalizing a portion of state tax burdens. A millionaire paying $100,000 in state income tax could deduct the full amount, lowering federal [taxable income](/wiki/taxable-income-personal/). The federal government implicitly subsidized state spending.
+Under prior law, high-income earners in high-tax states (California, New York, Massachusetts, New Jersey) could deduct unlimited amounts of state and local taxes, effectively federalizing a portion of state tax burdens. A millionaire paying $100,000 in state income tax could deduct the full amount, lowering federal taxable income. The federal government implicitly subsidized state spending.
 
 The Tax Cuts and Jobs Act of 2017 capped this deduction at $10,000 per tax return for joint filers beginning in 2018. This floor bites hard for wealthy households in high-tax jurisdictions. A New York executive earning $500,000 in salary plus $200,000 in bonuses, living in a high-property-value neighborhood, might owe $80,000 in combined state income and local property taxes. Under the cap, only $10,000 is deductible; the remaining $70,000 is lost entirely for federal purposes, raising effective federal tax rates.
 

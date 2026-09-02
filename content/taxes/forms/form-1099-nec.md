@@ -22,7 +22,7 @@ For self-employment income from pass-through entities like S corporations or par
 | **Full Name** | Miscellaneous Income or Nonemployee Compensation |
 | **Box 1a** | Nonemployee compensation paid |
 | **Box 1b** | Merchant card / third-party network transactions |
-| **Box 2** | [State income tax](/wiki/state-income-tax/) withheld |
+| **Box 2** | State income tax withheld |
 | **Filing Deadline** | January 31 (payee), February 28 (IRS) |
 | **Threshold** | $600 or more in payments during the year |
 | **Copies** | One to payee, one to IRS, one retained by payer |

@@ -83,7 +83,7 @@ None of these indicators are mechanically predictive; they all require interpret
 ### Wider context
 - [Momentum Investing](/wiki/momentum-investing/) — The broader trading approach
 - [Volume Indicators](/wiki/money-flow-index/) — Related tools
-- [Technical Analysis](/wiki/technical-analysis/) — Broader field
+- Technical Analysis — Broader field
 - [Divergence](/wiki/momentum-rotation-strategy/) — The pattern being detected
 
 </div>

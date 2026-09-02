@@ -117,9 +117,9 @@ Segment disclosure is critical for [comparable company analysis](/wiki/comparabl
 <div class="wiki-seealso">
 
 ### Closely related
-- [Financial statements](/wiki/financial-statements/) — parent context for all disclosures
+- Financial statements — parent context for all disclosures
 - [Revenue recognition](/wiki/revenue-recognition/) — principles underlying revenue disclosure
-- [Operating segments](/wiki/operating-segments/) — the concept being reported
+- Operating segments — the concept being reported
 - [Consolidated statements](/wiki/consolidated-statements/) — combining segment financials
 
 ### Wider context

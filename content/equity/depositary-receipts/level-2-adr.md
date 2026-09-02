@@ -30,7 +30,7 @@ Foreign companies often want US capital market access without the cost and burde
 
 [Level 1 ADRs](/wiki/level-1-adr/) trade over-the-counter, are unsponsored, require minimal disclosure, and have no formal SEC oversight. They are the cheapest entry for a foreign company but reach a limited investor base.
 
-Level 2 ADRs are sponsored (the foreign company participates) and live on an exchange. The company must file annual reports on [Form 20-F](/wiki/form-20-f-10-k/) with the SEC, comply with [Rule 13d reporting](/wiki/section-13d/) for insider share transactions, and meet the exchange's corporate governance rules. In practice, Level 2 ADRs attract serious investors — mutual funds, hedge funds, and public pension funds that require SEC filings and regulatory oversight.
+Level 2 ADRs are sponsored (the foreign company participates) and live on an exchange. The company must file annual reports on Form 20-F with the SEC, comply with [Rule 13d reporting](/wiki/section-13d/) for insider share transactions, and meet the exchange's corporate governance rules. In practice, Level 2 ADRs attract serious investors — mutual funds, hedge funds, and public pension funds that require SEC filings and regulatory oversight.
 
 [Level 3 ADRs](/wiki/level-3-adr/) are fully registered, meaning the company can issue new ADRs to raise capital in the US, just as if it were doing a US equity IPO. They have the heaviest disclosure burden and the deepest investor reach.
 
@@ -45,7 +45,7 @@ Once the ADRs trade on Nasdaq or NYSE, the liquidity often exceeds the liquidity
 
 ## Disclosure obligations: the Form 20-F
 
-The core regulatory requirement is the [Form 20-F](/wiki/form-20-f-10-k/) annual report, filed instead of [Form 10-K](/wiki/10-k/). It includes audited financial statements prepared under either US GAAP or [IFRS](/wiki/international-financial-reporting-standards/), a detailed business description, risk factors, and executive compensation. Unlike a domestic US company, the foreign issuer also files [Form 40-F](/wiki/form-40-f-20-f/) or equivalent if it has a primary listing elsewhere.
+The core regulatory requirement is the Form 20-F annual report, filed instead of [Form 10-K](/wiki/10-k/). It includes audited financial statements prepared under either US GAAP or [IFRS](/wiki/international-financial-reporting-standards/), a detailed business description, risk factors, and executive compensation. Unlike a domestic US company, the foreign issuer also files Form 40-F or equivalent if it has a primary listing elsewhere.
 
 The foreign company must also disclose material corporate governance differences. If its home country rules allow [dual-class shares](/wiki/dual-class-shares/) or permit a controlling shareholder to have fewer voting rights per share, the Level 2 company must explain that. This transparency allows US investors to compare their protections to domestic holdings.
 
@@ -73,7 +73,7 @@ Level 2 ADRs combine the transparency of an exchange listing with the internatio
 - [American Depositary Receipt (ADR)](/wiki/american-depository-receipt-adr/) — The security type; Level 2 is one variant
 - [Level 1 ADR](/wiki/level-1-adr/) — OTC, unsponsored, minimal regulation
 - [Level 3 ADR](/wiki/level-3-adr/) — Fully registered, capital-raising capable
-- [Form 20-F](/wiki/form-20-f-10-k/) — Annual disclosure document for foreign private issuers
+- Form 20-F — Annual disclosure document for foreign private issuers
 - [Rule 13d](/wiki/section-13d/) — Beneficial ownership reporting required of Level 2 insiders
 
 ### Wider context

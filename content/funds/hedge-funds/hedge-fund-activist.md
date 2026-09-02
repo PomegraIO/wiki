@@ -56,7 +56,7 @@ This debate has become more salient as activist funds have grown larger and thei
   <li><a href="/wiki/hedge-fund/">[Hedge fund</a> — the broader category of private investment vehicles.</li>
   <li><a href="/wiki/hedge-fund-long-short-equity/">Long-short equity hedge fund</a> — combines bets on up and down moves, with less emphasis on operational change.</li>
   <li><a href="/wiki/proxy-fight/">Proxy fight</a> — the contested election mechanism activists use to seize control.</li>
-  <li><a href="/wiki/shareholder-activism/">Shareholder activism</a> — the broader practice of shareholders influencing corporate behavior.</li>
+  <li>Shareholder activism — the broader practice of shareholders influencing corporate behavior.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>

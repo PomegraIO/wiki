@@ -82,7 +82,7 @@ Institutional investors and professional managers are less susceptible to segreg
 ### Wider context
 - [Tax-loss harvesting](/wiki/tax-loss-harvesting/) — A tool to counteract segregation
 - [Portfolio rebalancing](/wiki/asset-rebalancing/) — The right response to losses
-- [Behavioral finance](/wiki/behavioral-finance/) — The field studying these biases
+- Behavioral finance — The field studying these biases
 - [Tracking error](/wiki/etf-tracking-error/) — The result of biased portfolio decisions
 
 </div>

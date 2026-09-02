@@ -31,7 +31,7 @@ The cartel relies on member governments to enforce quotas domestically through u
 
 ## Why OPEC cuts are controversial among economists
 
-Most economists view OPEC production cuts as **explicit monopolistic behavior**—a cartel using supply restriction to raise prices above competitive levels, extracting "monopoly rents" from consuming nations. Under [antitrust](/wiki/antitrust/) law in the United States or Europe, such coordination would be illegal; OPEC escapes prosecution because members are sovereign states, shielded by the [Foreign Sovereign Immunities Act](/wiki/foreign-sovereign-immunities-act/).
+Most economists view OPEC production cuts as **explicit monopolistic behavior**—a cartel using supply restriction to raise prices above competitive levels, extracting "monopoly rents" from consuming nations. Under antitrust law in the United States or Europe, such coordination would be illegal; OPEC escapes prosecution because members are sovereign states, shielded by the Foreign Sovereign Immunities Act.
 
 Some argue that production cuts are welfare-enhancing for producer nations but impose costs on global consumers and energy-dependent industries. Others counter that OPEC's share of global output has declined (from ~50% in the 1970s to ~30% today) and that U.S. [shale oil](/wiki/shale-revolution/) and Canadian tar sands limit OPEC's pricing power. Empirically, sustained OPEC cuts have supported crude prices in the $40–$90 range during periods of demand weakness, but price spikes often reflect supply shocks (war, hurricane) rather than cartel action.
 
@@ -49,22 +49,22 @@ The cohesion of OPEC+ has frayed in 2023–2024 as crude prices softened and som
 
 ## Market impact and energy policy responses
 
-A successful OPEC cut typically lifts crude by 5–20% over weeks to months, depending on elasticity of [supply](/wiki/commodity-supply/) and demand. Importing nations absorb the cost through higher [gasoline prices](/wiki/gasoline/), inflation, and reduced growth. Consuming nations have explored counters: the U.S. [Strategic Petroleum Reserve](/wiki/strategic-petroleum-reserve/) (SPR), international coordination of emergency releases, and longer-term investments in renewable energy and [energy efficiency](/wiki/energy-efficiency/). The 2022 SPR release (coordinated with allies) dampened crude for months but was temporary.
+A successful OPEC cut typically lifts crude by 5–20% over weeks to months, depending on elasticity of supply and demand. Importing nations absorb the cost through higher [gasoline prices](/wiki/gasoline/), inflation, and reduced growth. Consuming nations have explored counters: the U.S. [Strategic Petroleum Reserve](/wiki/strategic-petroleum-reserve/) (SPR), international coordination of emergency releases, and longer-term investments in renewable energy and energy efficiency. The 2022 SPR release (coordinated with allies) dampened crude for months but was temporary.
 
-Small oil-dependent economies and poor importing nations bear disproportionate costs. OPEC members are acutely aware of this and periodically face diplomatic pressure; however, revenue maximization typically prevails. OPEC's power is ultimately bounded by elasticity: high prices incentivize alternatives ([electric vehicles](/wiki/electric-vehicles/), nuclear, renewables, conservation) and encourage non-OPEC supply expansion, gradually eroding the cartel's leverage.
+Small oil-dependent economies and poor importing nations bear disproportionate costs. OPEC members are acutely aware of this and periodically face diplomatic pressure; however, revenue maximization typically prevails. OPEC's power is ultimately bounded by elasticity: high prices incentivize alternatives (electric vehicles, nuclear, renewables, conservation) and encourage non-OPEC supply expansion, gradually eroding the cartel's leverage.
 
 <div class="wiki-seealso">
 
 ### Closely related
 - [Crude Oil](/wiki/crude-oil/) — The primary commodity OPEC controls
-- [OPEC (Organization of Petroleum Exporting Countries)](/wiki/opec/) — The cartel itself
-- [Supply and Demand](/wiki/supply-and-demand/) — Economic basis for production management
+- OPEC (Organization of Petroleum Exporting Countries) — The cartel itself
+- Supply and Demand — Economic basis for production management
 - [Oil Crisis 1973](/wiki/oil-crisis-1973/) — Seminal embargo and price shock
 
 ### Wider context
-- [Commodity Futures](/wiki/commodity-futures/) — How OPEC cuts flow through derivatives markets
-- [Energy Commodities](/wiki/commodities-energy/) — Broader energy market dynamics
-- [Cartel and Monopoly](/wiki/monopoly/) — Economic framework for OPEC behaviour
+- Commodity Futures — How OPEC cuts flow through derivatives markets
+- Energy Commodities — Broader energy market dynamics
+- Cartel and Monopoly — Economic framework for OPEC behaviour
 - [Geopolitical Risk](/wiki/geopolitical-energy/) — Political economy of oil supply shocks
 
 </div>

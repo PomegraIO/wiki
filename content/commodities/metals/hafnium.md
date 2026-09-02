@@ -30,7 +30,7 @@ For the study of other refractory metals, see <a href="/wiki/tungsten/">Tungsten
 
 ## Why hafnium absorbs neutrons so effectively
 
-Hafnium's [neutron absorption](/wiki/neutron-activation/) cross-section is extraordinarily high — roughly 600 times greater than zirconium, despite their chemical similarity. This property stems from its nuclear structure; the nucleus has a remarkably efficient capacity to capture slow neutrons. Control rods in [nuclear reactors](/wiki/nuclear-power-economics/) typically contain hafnium, boron, or gadolinium, but hafnium's thermal stability under extreme flux conditions gives it distinct advantages in light-water reactor designs where thousands of control rods must operate reliably for decades.
+Hafnium's neutron absorption cross-section is extraordinarily high — roughly 600 times greater than zirconium, despite their chemical similarity. This property stems from its nuclear structure; the nucleus has a remarkably efficient capacity to capture slow neutrons. Control rods in [nuclear reactors](/wiki/nuclear-power-economics/) typically contain hafnium, boron, or gadolinium, but hafnium's thermal stability under extreme flux conditions gives it distinct advantages in light-water reactor designs where thousands of control rods must operate reliably for decades.
 
 ## Separation from zirconium creates the supply bottleneck
 
@@ -38,11 +38,11 @@ Hafnium and zirconium are chemically inseparable in nature — they always occur
 
 ## Aerospace and ultra-high-temperature applications
 
-Beyond reactor control, hafnium enters [superalloy](/wiki/superalloy/) formulations for turbine blades in military jet engines and hypersonic vehicle heat shields, where temperatures exceed 2,000°C. Its high melting point and excellent resistance to oxidation allow engines to achieve higher thrust-to-weight ratios. A typical military fighter jet consumes kilograms of hafnium in engine alloys; advanced hypersonic platforms consume substantially more. Defense procurement therefore creates steady structural demand independent of civilian nuclear builds.
+Beyond reactor control, hafnium enters superalloy formulations for turbine blades in military jet engines and hypersonic vehicle heat shields, where temperatures exceed 2,000°C. Its high melting point and excellent resistance to oxidation allow engines to achieve higher thrust-to-weight ratios. A typical military fighter jet consumes kilograms of hafnium in engine alloys; advanced hypersonic platforms consume substantially more. Defense procurement therefore creates steady structural demand independent of civilian nuclear builds.
 
 ## Geopolitical concentration and strategic stockpiling
 
-The United States, Canada, and a handful of Southeast Asian nations control most primary zircon reserves; when zircon is processed, hafnium supply follows. The U.S. National Defense Stockpile historically held multi-year reserves of hafnium metal and compounds to insulate military-aerospace programs from supply disruptions. The [Department of Defense](/wiki/department-of-defense/) treats hafnium as a strategic mineral, and periods of tight supply (such as after extended global shutdowns) trigger urgent restocking efforts, driving spot prices upward.
+The United States, Canada, and a handful of Southeast Asian nations control most primary zircon reserves; when zircon is processed, hafnium supply follows. The U.S. National Defense Stockpile historically held multi-year reserves of hafnium metal and compounds to insulate military-aerospace programs from supply disruptions. The Department of Defense treats hafnium as a strategic mineral, and periods of tight supply (such as after extended global shutdowns) trigger urgent restocking efforts, driving spot prices upward.
 
 ## Processing stages and investment exposure
 
@@ -57,13 +57,13 @@ The supply chain runs from zircon mining → ore concentration → chemical extr
 
 ### Closely related
 - [Nuclear power economics](/wiki/nuclear-power-economics/) — Fuel cycle and reactor economics
-- [Superalloy](/wiki/superalloy/) — High-temperature alloy metallurgy
+- Superalloy — High-temperature alloy metallurgy
 - [Tungsten](/wiki/tungsten/) — Another extreme-temperature refractory metal
-- [Strategic materials](/wiki/strategic-materials/) — Defense-critical minerals and supply chains
+- Strategic materials — Defense-critical minerals and supply chains
 
 ### Wider context
-- [Commodity futures](/wiki/commodity-futures/) — Trading mechanisms for metals
+- Commodity futures — Trading mechanisms for metals
 - [Commodity storage costs](/wiki/commodity-storage-costs/) — Carrying charges on physical metals
-- [Zirconium](/wiki/zirconium/) — The chemically bonded sibling element
+- Zirconium — The chemically bonded sibling element
 
 </div>

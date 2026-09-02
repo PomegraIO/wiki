@@ -9,7 +9,7 @@ keywords:
   - technical indicator
 ---
 
-*The McClellan Oscillator is a [technical indicator](/wiki/technical-analysis/) derived from market breadth data—the difference between the number of advancing and declining stocks. It applies exponential moving averages to this difference to smooth noise and signal market momentum. Divergences between the oscillator and price indices (e.g., S&P 500 rising while oscillator falls) warn of weakening market participation and potential reversals.*
+*The McClellan Oscillator is a technical indicator derived from market breadth data—the difference between the number of advancing and declining stocks. It applies exponential moving averages to this difference to smooth noise and signal market momentum. Divergences between the oscillator and price indices (e.g., S&P 500 rising while oscillator falls) warn of weakening market participation and potential reversals.*
 
 <aside class="wiki-infobox">
 
@@ -87,7 +87,7 @@ The McClellan Oscillator is most powerful when used alongside other indicators. 
 - [New Highs/New Lows](/wiki/new-highs-new-lows/) — Participation signal
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — Price and volume-based analysis
+- Technical Analysis — Price and volume-based analysis
 - [Momentum Investing](/wiki/momentum-investing/) — Trend-following approach
 - [Market Regime](/wiki/market-regime-momentum/) — Shifts in market character
 - [Volatility Index](/wiki/fear-index/) — Fear and sentiment gauge

@@ -63,6 +63,6 @@ Dutch auctions were popular from the 1980s through early 2000s as a novel mechan
 <ul>
 <li><a href="/wiki/earnings-per-share/">Earnings per share</a> — the metric most directly affected by share count reduction.</li>
 <li><a href="/wiki/treasury-stock/">Treasury stock</a> — the accounting treatment of repurchased shares.</li>
-<li><a href="/wiki/rule-10b5-1/">Rule 10b5-1</a> — the compliance framework governing buyback mechanics.</li>
+<li>Rule 10b5-1 — the compliance framework governing buyback mechanics.</li>
 </ul>
 </div>

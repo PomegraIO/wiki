@@ -8,7 +8,7 @@ keywords:
   - bullish pattern
 ---
 
-*An **ascending triangle** is a [chart pattern](/wiki/technical-analysis/) formed by converging trend lines: a flat upper boundary (horizontal resistance) and a rising lower boundary (upward-sloping support). The pattern is classically bullish, suggesting eventual breakout above the resistance and a continuation higher.*
+*An **ascending triangle** is a chart pattern formed by converging trend lines: a flat upper boundary (horizontal resistance) and a rising lower boundary (upward-sloping support). The pattern is classically bullish, suggesting eventual breakout above the resistance and a continuation higher.*
 
 <aside class="wiki-infobox">
 
@@ -77,7 +77,7 @@ Visual example: Over 4 weeks, a stock rises from $50 to $52, then dips to $51.50
 
 **Confluence with other signals.** Ascending triangles are more reliable when paired with:
 - A [moving average](/wiki/trendline/) acting as support just below the lower trend line.
-- Positive [technical indicators](/wiki/technical-analysis/) ([RSI](/wiki/rsi-relative-strength/), [MACD](/wiki/macd-indicator/)).
+- Positive technical indicators ([RSI](/wiki/rsi-relative-strength/), [MACD](/wiki/macd-indicator/)).
 - Breakout of a larger pattern (e.g., the triangle is the final leg of a cup-and-handle).
 
 ## See also
@@ -85,13 +85,13 @@ Visual example: Over 4 weeks, a stock rises from $50 to $52, then dips to $51.50
 <div class="wiki-seealso">
 
 ### Closely related
-- [Chart patterns](/wiki/technical-analysis/) — broader category
+- Chart patterns — broader category
 - [Converging triangle patterns](/wiki/symmetrical-triangle/)
 - [Support and resistance](/wiki/support-zone-floor/) — the boundaries
 - [Breakout trading](/wiki/breakout-trading/) — the setup
 
 ### Wider context
-- [Technical analysis](/wiki/technical-analysis/)
+- Technical analysis
 - [Candlestick patterns](/wiki/candlestick-pattern/)
 - [Trendlines](/wiki/trendline/)
 - [Volume analysis](/wiki/volume-profile-support/)

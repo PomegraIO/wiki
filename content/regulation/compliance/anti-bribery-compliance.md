@@ -82,7 +82,7 @@ Criminal FCPA convictions carry fines up to $250,000 per individual and $2 milli
 <div class="wiki-seealso">
 
 ### Closely related
-- [Foreign Corrupt Practices Act](/wiki/fcpa/) — foundational statute (if entry exists)
+- Foreign Corrupt Practices Act — foundational statute (if entry exists)
 - [Enhanced Due Diligence](/wiki/enhanced-due-diligence/) — standard for counterparty vetting
 - [AML Compliance](/wiki/aml-compliance/) — overlapping regulatory regime
 - [Sanctions Screening](/wiki/sanctions-screening/) — related screening obligation

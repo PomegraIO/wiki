@@ -87,12 +87,12 @@ These thresholds are rules of thumb, not rules. Adjust based on your confidence 
   <li><a href="/wiki/intrinsic-value/">Intrinsic value</a> — the concept.</li>
   <li><a href="/wiki/discounted-cash-flow-valuation/">Discounted cash flow valuation</a> — the primary method of estimation.</li>
   <li><a href="/wiki/comparable-company-analysis/">Comparable company analysis</a> — an alternative valuation method.</li>
-  <li><a href="/wiki/margin-of-safety/">Margin of safety</a> — the buffer sought by value investors.</li>
+  <li>Margin of safety — the buffer sought by value investors.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/value-investing/">Value investing</a> — the discipline built on intrinsic value.</li>
   <li><a href="/wiki/relative-valuation/">Relative valuation</a> — using market multiples instead.</li>
-  <li><a href="/wiki/behavioral-finance/">Behavioral finance</a> — why markets diverge from intrinsic value.</li>
+  <li>Behavioral finance — why markets diverge from intrinsic value.</li>
 </ul>
 </div>

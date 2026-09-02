@@ -30,7 +30,7 @@ For the most recent US lease standard, see [ASC 842 Lease Standard](/asc-842-lea
 
 |   |   |
 |---|---|
-| **What it is** | The push to align [GAAP](/generally-accepted-accounting-principles/) and [IFRS](https://example.com) standards |
+| **What it is** | The push to align [GAAP](/generally-accepted-accounting-principles/) and IFRS standards |
 | **Key players** | FASB (US), IASB (global), SEC |
 | **Major milestone** | 2002 Norwalk Agreement; 2008 global financial crisis; 2014 revenue recognition alignment |
 | **Current status** | Partial convergence on revenue, leases, and credit losses; significant gaps remain |

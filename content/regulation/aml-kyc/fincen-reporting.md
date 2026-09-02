@@ -81,7 +81,7 @@ One downside of broad FinCEN reporting is false-positive risk. A legitimate busi
 ### Wider context
 - [Gatekeeping Role in AML](/wiki/gatekeeping-role-aml/) — bank responsibility
 - [Beneficial Ownership Reporting](/wiki/beneficial-ownership-reporting/) — related disclosure
-- [FATCA](/wiki/fatca/) — international AML framework
+- FATCA — international AML framework
 - [Office of the Comptroller of the Currency](/wiki/office-of-the-comptroller-of-the-currency/) — regulator
 
 </div>

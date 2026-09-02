@@ -42,7 +42,7 @@ Central bank asset purchases and near-zero [interest rates](/wiki/interest-rate/
 
 Financialization enables [systemic risk](/wiki/systemic-risk/). When [leverage](/wiki/leveraged-buyout/) concentrates in financial institutions and [counterparty risk](/wiki/counterparty-risk/) is opaque, a shock in one market (U.S. [housing](/wiki/residential-real-estate/), [credit](/wiki/credit-risk/), or [derivatives](/wiki/derivatives-exchange-crypto/)) can freeze lending system-wide. The 2008 crisis, when [lehman brothers](/wiki/lehman-brothers-collapse/) failed and [bank reserve injection](/wiki/bank-reserve-injection/) became necessary, illustrates how debt and financial interconnectedness can trigger [recession](/wiki/recession/).
 
-Inequality also widens. Asset owners accrue capital gains tax-free (if they die before realization, via [basis step-up](/wiki/basis-step-up-inheritance/)), while workers pay [ordinary dividend tax](/wiki/ordinary-dividend/) and [income tax](/wiki/corporate-income-tax/) on wages. [Wealth concentration](/wiki/wealth-concentration-metrics/) follows.
+Inequality also widens. Asset owners accrue capital gains tax-free (if they die before realization, via [basis step-up](/wiki/basis-step-up-inheritance/)), while workers pay [ordinary dividend tax](/wiki/ordinary-dividend/) and [income tax](/wiki/corporate-income-tax/) on wages. Wealth concentration follows.
 
 ## The political economy angle
 

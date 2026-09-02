@@ -10,7 +10,7 @@ keywords:
 image: /svg/strategies.svg
 ---
 
-*In long-short equity strategies, **dollar-neutral** portfolios equalize the notional long and short positions, while **beta-neutral** portfolios offset systematic market exposure. The choice determines how much residual [beta](/equity/beta/) remains and how performance is driven—a critical distinction in strategy design and performance attribution.*
+*In long-short equity strategies, **dollar-neutral** portfolios equalize the notional long and short positions, while **beta-neutral** portfolios offset systematic market exposure. The choice determines how much residual [beta](/beta/) remains and how performance is driven—a critical distinction in strategy design and performance attribution.*
 
 <aside class="wiki-infobox">
 
@@ -36,23 +36,23 @@ A dollar-neutral portfolio allocates equal notional capital to long and short po
 
 The appeal is simplicity. Dollar-neutral portfolios are intuitive to stakeholders and straightforward to construct and rebalance. A signal that ranks stocks—from most attractive to least—can be cleanly split: top 50% go long, bottom 50% go short, with equal notional sizes. No complex optimization is needed.
 
-However, dollar-neutrality says nothing about [beta](/equity/beta/) exposure. If the top 50% happen to be high-beta stocks (tech, growth names) and the bottom 50% are low-beta stocks (utilities, staples), the long side has more systematic market exposure than the short side. The portfolio will have a positive residual beta. When markets rise, the portfolio tends to rise, even if the picking is neutral on quality. When markets fall, the portfolio tends to fall, despite holding the "best" stocks.
+However, dollar-neutrality says nothing about [beta](/beta/) exposure. If the top 50% happen to be high-beta stocks (tech, growth names) and the bottom 50% are low-beta stocks (utilities, staples), the long side has more systematic market exposure than the short side. The portfolio will have a positive residual beta. When markets rise, the portfolio tends to rise, even if the picking is neutral on quality. When markets fall, the portfolio tends to fall, despite holding the "best" stocks.
 
 This residual beta is not always a bug. In the right market regime, dollar-neutral portfolios with long-bias beta exposure outperform. But if the goal is true market neutrality—a return stream uncorrelated from the broad market—dollar-neutral construction is insufficient.
 
 ## Beta-neutral construction
 
-Beta-neutral portfolios ensure that the [beta](/equity/beta/) contribution of long positions equals the beta contribution of short positions. This requires calculating the beta of each holding and scaling position sizes so that total long beta and total short beta cancel.
+Beta-neutral portfolios ensure that the [beta](/beta/) contribution of long positions equals the beta contribution of short positions. This requires calculating the beta of each holding and scaling position sizes so that total long beta and total short beta cancel.
 
 Example: A manager identifies 20 attractive stocks (average beta 1.2) and 20 unattractive stocks (average beta 0.9). To be beta-neutral, the manager shorts more dollars of the low-beta names than the high-beta names, offsetting the systematic exposure. Long positions might represent $40 million (20 names × $2M each, 1.2 beta), requiring $53.3 million in shorts (to get $40M × 1.2 beta = $53.3M × 0.9 beta). Total notional may be $93.3 million, but beta exposure is zero.
 
-The result is a portfolio with minimal systematic market risk. Returns are driven purely by [alpha](/equity/alpha/)—the manager's ability to pick winners and losers. In bull markets and bear markets, the portfolio's returns should be similar, independent of broad market direction.
+The result is a portfolio with minimal systematic market risk. Returns are driven purely by [alpha](/alpha/)—the manager's ability to pick winners and losers. In bull markets and bear markets, the portfolio's returns should be similar, independent of broad market direction.
 
 ## Calculation and beta sources
 
-The beta for each stock is typically estimated using historical returns versus the market index (usually the [S&P 500](/equity/sp-500-index/)) over a 1–5 year window. A stock with a beta of 1.5 is 50% more volatile than the market; beta 0.7 is 30% less volatile. These estimates change over time, so beta-neutral portfolios require periodic rebalancing as beta estimates shift.
+The beta for each stock is typically estimated using historical returns versus the market index (usually the [S&P 500](/sp-500-index/)) over a 1–5 year window. A stock with a beta of 1.5 is 50% more volatile than the market; beta 0.7 is 30% less volatile. These estimates change over time, so beta-neutral portfolios require periodic rebalancing as beta estimates shift.
 
-In practice, fund managers use factor models—usually [CAPM](/equity/capital-asset-pricing-model/) or multi-factor models—to decompose expected returns into market and non-market components. Beta neutrality is a specific case of factor neutrality; a portfolio can be neutral to multiple factors (market, size, value, momentum, quality) simultaneously.
+In practice, fund managers use factor models—usually [CAPM](/capital-asset-pricing-model/) or multi-factor models—to decompose expected returns into market and non-market components. Beta neutrality is a specific case of factor neutrality; a portfolio can be neutral to multiple factors (market, size, value, momentum, quality) simultaneously.
 
 ## Tradeoffs: residual beta vs. flexibility
 
@@ -96,17 +96,17 @@ Dollar-neutral portfolios are simply tracked by notional long/short balance. A v
 
 ### Closely related
 
-- [Beta](/equity/beta/) — Systematic risk measure that underlies both neutralization strategies.
-- [Alpha](/equity/alpha/) — Excess return independent of market risk; the target of true market-neutral funds.
-- [Capital Asset Pricing Model (CAPM)](/equity/capital-asset-pricing-model/) — Framework for calculating beta and decomposing returns into alpha and beta.
-- [Hedge Fund](/funds/hedge-fund/) — Common vehicle for dollar-neutral and beta-neutral strategies.
-- [Factor Investing](/equity/factor-investing/) — Multi-factor extension of market-neutrality to other risk dimensions.
+- [Beta](/beta/) — Systematic risk measure that underlies both neutralization strategies.
+- [Alpha](/alpha/) — Excess return independent of market risk; the target of true market-neutral funds.
+- [Capital Asset Pricing Model (CAPM)](/capital-asset-pricing-model/) — Framework for calculating beta and decomposing returns into alpha and beta.
+- [Hedge Fund](/hedge-fund/) — Common vehicle for dollar-neutral and beta-neutral strategies.
+- [Factor Investing](/factor-investing/) — Multi-factor extension of market-neutrality to other risk dimensions.
 
 ### Wider context
 
-- [Market Timing](/equity/market-timing/) — Related challenge of predicting residual beta and market exposure timing.
-- [Leverage Ratio](/equity/leverage-ratio/) — How leverage amplifies alpha and beta in long-short strategies.
-- [Volatility Smile](/equity/volatility-smile/) — Risk considerations in non-normal market environments.
-- [S&P 500 Index](/equity/sp-500-index/) — Benchmark for beta calculation and systematic market exposure.
+- [Market Timing](/market-timing/) — Related challenge of predicting residual beta and market exposure timing.
+- Leverage Ratio — How leverage amplifies alpha and beta in long-short strategies.
+- [Volatility Smile](/volatility-smile/) — Risk considerations in non-normal market environments.
+- [S&P 500 Index](/sp-500-index/) — Benchmark for beta calculation and systematic market exposure.
 
 </div>

@@ -64,7 +64,7 @@ If a counterparty defaults, you want to minimize loss. Netting and close-out pro
 
 **Close-out rights:** Upon counterparty default, you can immediately close-out (terminate) all contracts and calculate a single net settlement. You do not have to wait for each contract to expire; you liquidate at market rates immediately, minimizing loss.
 
-**Novation to a clearing house:** In some cases, [derivatives](/wiki/derivatives/) can be moved to a clearing house if the counterparty fails. This is rare and expensive but available for standardized contracts.
+**Novation to a clearing house:** In some cases, derivatives can be moved to a clearing house if the counterparty fails. This is rare and expensive but available for standardized contracts.
 
 ## Credit rating and counterparty selection
 
@@ -80,21 +80,21 @@ Before entering a [forward contract](/wiki/forward-contract/), traders assess co
 
 When a major financial institution fails, counterparty credit risk can cascade:
 
-**Lehman Brothers collapse, 2008:** Lehman had billions in [derivatives](/wiki/derivatives/) positions with counterparties. When Lehman failed, counterparties faced sudden exposure: their hedges were now counterparty risk rather than protection. Credit spreads spiked, and counterparties with exposure to other banks became worried, cascading fear through the system.
+**Lehman Brothers collapse, 2008:** Lehman had billions in derivatives positions with counterparties. When Lehman failed, counterparties faced sudden exposure: their hedges were now counterparty risk rather than protection. Credit spreads spiked, and counterparties with exposure to other banks became worried, cascading fear through the system.
 
 **AIG near-collapse, 2008:** AIG had sold billions in [credit default swaps](/wiki/credit-default-swap/) to banks, effectively insuring bank portfolios. When AIG's credit rating fell, it faced margin calls to post collateral it did not have. The US government intervened with a bailout.
 
-Systemic risk occurs when counterparty defaults create cascading failures. Central clearing (where [futures](/wiki/futures-contract/) settle) insulates against this because the clearing house is the counterparty to all. Bank failures do not propagate through the [futures](/wiki/futures-contract/) system; they propagate through OTC [derivatives](/wiki/derivatives/).
+Systemic risk occurs when counterparty defaults create cascading failures. Central clearing (where [futures](/wiki/futures-contract/) settle) insulates against this because the clearing house is the counterparty to all. Bank failures do not propagate through the [futures](/wiki/futures-contract/) system; they propagate through OTC derivatives.
 
 ## Clearing mandates
 
-Post-2008 regulations (Dodd-Frank in the US, EMIR in Europe) mandate that standardized [derivatives](/wiki/derivatives/) be cleared through central clearing houses, reducing counterparty credit risk. This includes:
+Post-2008 regulations (Dodd-Frank in the US, EMIR in Europe) mandate that standardized derivatives be cleared through central clearing houses, reducing counterparty credit risk. This includes:
 
 - **Standardized [interest rate swaps](/wiki/interest-rate-swap/):** Must clear through a swap clearing organization.
 - **Standardized [credit default swaps](/wiki/credit-default-swap/):** Must clear.
 - **Exchange-traded [futures](/wiki/futures-contract/):** Already cleared.
 
-**Non-standardized [derivatives](/wiki/derivatives/)** (exotic [options](/wiki/option/), bespoke [swaps](/wiki/swap/)) can remain bilateral, but face regulatory capital charges for clearing members that carry counterparty risk. This creates incentives to push toward clearing or to demand collateral.
+**Non-standardized derivatives** (exotic [options](/wiki/option/), bespoke [swaps](/wiki/swap/)) can remain bilateral, but face regulatory capital charges for clearing members that carry counterparty risk. This creates incentives to push toward clearing or to demand collateral.
 
 ## Counterparty vs. operational risk
 
@@ -114,7 +114,7 @@ Sophisticated traders and institutions manage counterparty credit risk through:
 2. **Collateral:** Demand collateral for any sizable exposure.
 3. **Netting agreements:** Ensure bilateral netting rights in case of default.
 4. **Regular monitoring:** Track counterparty credit ratings and CDS spreads. Exit positions if credit deteriorates.
-5. **Clearing when possible:** Use cleared [derivatives](/wiki/derivatives/) for standardized products.
+5. **Clearing when possible:** Use cleared derivatives for standardized products.
 6. **Stress testing:** Model what happens if the counterparty defaults in stressed market scenarios.
 
 For retail traders, the simplest approach is to use [futures](/wiki/futures-contract/) (cleared, minimal counterparty risk) rather than OTC [forwards](/wiki/forward-contract/) (bilateral, high counterparty risk).
@@ -127,12 +127,12 @@ For retail traders, the simplest approach is to use [futures](/wiki/futures-cont
 <li><a href="/wiki/futures-contract/">Futures contract</a> — cleared through a central clearing house, eliminating counterparty risk.</li>
 <li><a href="/wiki/credit-default-swap/">Credit default swap</a> — an instrument for hedging counterparty credit risk.</li>
 <li><a href="/wiki/variation-margin/">Variation margin</a> — daily margin collection that reduces counterparty exposure in OTC markets.</li>
-<li><a href="/wiki/swap/">Swap</a> — a category of [derivatives](/wiki/derivatives/) often used bilaterally with counterparty risk.</li>
+<li><a href="/wiki/swap/">Swap</a> — a category of derivatives often used bilaterally with counterparty risk.</li>
 <li><a href="/wiki/counterparty-risk/">Counterparty risk</a> — the broad risk that any counterparty to a trade defaults.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broader asset class of risk-transfer instruments.</li>
-<li><a href="/wiki/dodd-frank-act/">Dodd-Frank Act</a> — regulatory framework mandating clearing of standardized [derivatives](/wiki/derivatives/).</li>
+<li>Derivatives — the broader asset class of risk-transfer instruments.</li>
+<li><a href="/wiki/dodd-frank-act/">Dodd-Frank Act</a> — regulatory framework mandating clearing of standardized derivatives.</li>
 </ul>
 </div>

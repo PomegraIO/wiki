@@ -54,7 +54,7 @@ The SEC permits funds to deliver prospectuses electronically, and most do. Inves
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/securities-and-exchange-commission/">Securities and Exchange Commission</a> — the regulator enforcing prospectus standards.</li>
-<li><a href="/wiki/disclosure/">Disclosure</a> — general concept of required information for investors.</li>
+<li>Disclosure — general concept of required information for investors.</li>
 <li><a href="/wiki/due-diligence/">Due diligence</a> — prospectus reading as part of fund evaluation.</li>
 </ul>
 </div>

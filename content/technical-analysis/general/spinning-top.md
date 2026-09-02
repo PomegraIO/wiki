@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For single-candle patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). A spinning top with balanced wicks is similar to a [doji](/technical-analysis/doji), but with a small body rather than an absent one.
+For single-candle patterns broadly, see [candlestick pattern](/candlestick-pattern/). A spinning top with balanced wicks is similar to a [doji](/doji/), but with a small body rather than an absent one.
 
 </div>
 
@@ -48,25 +48,25 @@ The shape literally depicts what happened: prices moved up and down but returned
 
 ## Indecision as a signal
 
-A spinning top indicates that the market is uncertain about direction. During the session, there was interest in moving prices higher (the upper wick) and interest in moving prices lower (the lower wick), but neither side prevailed. This is the opposite of a [marubozu](/technical-analysis/marubozu), where one side has complete control, or a [hammer](/technical-analysis/hammer-candle), where a specific level is defended.
+A spinning top indicates that the market is uncertain about direction. During the session, there was interest in moving prices higher (the upper wick) and interest in moving prices lower (the lower wick), but neither side prevailed. This is the opposite of a [marubozu](/marubozu/), where one side has complete control, or a [hammer](/hammer-candle/), where a specific level is defended.
 
 In the context of a trend, a spinning top signals a pause or consolidation. After a strong uptrend, a spinning top might indicate buyers are exhausted; after a downtrend, it might indicate sellers are tiring. The spinning top is essentially saying, "I don't know what comes next."
 
 ## Spinning top versus doji
 
-The spinning top and [doji](/technical-analysis/doji) are closely related but distinct. Both signal indecision, but a doji has an open and close that are nearly identical (the body is nearly absent), while a spinning top has a slightly larger body. A doji is the purest form of indecision (open = close exactly); a spinning top is indecision with a small directional bias. In practice, many traders use the terms interchangeably, especially when the body is extremely small.
+The spinning top and [doji](/doji/) are closely related but distinct. Both signal indecision, but a doji has an open and close that are nearly identical (the body is nearly absent), while a spinning top has a slightly larger body. A doji is the purest form of indecision (open = close exactly); a spinning top is indecision with a small directional bias. In practice, many traders use the terms interchangeably, especially when the body is extremely small.
 
 A **long-legged doji** (balanced long wicks) resembles a spinning top (small body with balanced wicks), and the distinction between them is more semantic than practical.
 
 ## Context and reliability
 
-A spinning top in the middle of a strong trending move is often just noise—a minor pause before the trend resumes. The market is too focused on one direction to care about a single session's indecision. However, a spinning top after a sharp move or at a key price level (a [support or resistance](/technical-analysis/support-and-resistance) zone, a moving average, a round number) gains credibility as a turning point.
+A spinning top in the middle of a strong trending move is often just noise—a minor pause before the trend resumes. The market is too focused on one direction to care about a single session's indecision. However, a spinning top after a sharp move or at a key price level (a [support or resistance](/support-and-resistance/) zone, a moving average, a round number) gains credibility as a turning point.
 
 A spinning top in a choppy or flat market is ambiguous; it reflects the underlying choppiness and does not predict whether the chop will persist or resolve.
 
 ## Spinning top as an exhaustion signal
 
-When a series of strong candles ([marubozu](/technical-analysis/marubozu) or large bodies) suddenly gives way to spinning tops, it can signal that the move is losing momentum. The market has no more buyers or sellers willing to push in the original direction. A trader who sees a long rally followed by a spinning top might interpret it as a warning that a pullback or reversal is coming.
+When a series of strong candles ([marubozu](/marubozu/) or large bodies) suddenly gives way to spinning tops, it can signal that the move is losing momentum. The market has no more buyers or sellers willing to push in the original direction. A trader who sees a long rally followed by a spinning top might interpret it as a warning that a pullback or reversal is coming.
 
 Conversely, a spinning top in an established downtrend followed by more red candles is merely a pause, not a bottom.
 
@@ -96,17 +96,17 @@ Academic research on spinning tops, like most candlestick patterns, finds little
 
 ### Related patterns
 
-- [Doji](/technical-analysis/doji) — pure indecision, near-absent body
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework
-- [Marubozu](/technical-analysis/marubozu) — opposite pattern, no wicks
-- [Hammer](/technical-analysis/hammer-candle) — long lower wick
-- [Shooting star](/technical-analysis/shooting-star) — long upper wick
+- [Doji](/doji/) — pure indecision, near-absent body
+- [Candlestick pattern](/candlestick-pattern/) — broader framework
+- [Marubozu](/marubozu/) — opposite pattern, no wicks
+- [Hammer](/hammer-candle/) — long lower wick
+- [Shooting star](/shooting-star/) — long upper wick
 
 ### Context and confirmation
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — where spinning tops gain meaning
-- [Trendline](/technical-analysis/trendline) — detecting exhaustion
-- [Moving average](/technical-analysis/simple-moving-average) — key price levels
-- [Volume](/technical-analysis/on-balance-volume) — intensity of the indecision
+- [Support and resistance](/support-and-resistance/) — where spinning tops gain meaning
+- [Trendline](/trendline/) — detecting exhaustion
+- [Moving average](/simple-moving-average/) — key price levels
+- [Volume](/on-balance-volume/) — intensity of the indecision
 
 </div>

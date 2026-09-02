@@ -48,7 +48,7 @@ AHE masks wide differences across sectors. Professional services workers often e
 
 ## The relationship to labor productivity and COLA
 
-Economists benchmark AHE against [labor productivity](/wiki/labor-productivity/) to assess whether wage growth is sustainable. If AHE outpaces productivity for years, firms face margin pressure; if it lags, workers lose ground. Union contracts and Social Security [cost-of-living adjustments](/wiki/cost-of-living/) often reference or correlate with AHE trends, amplifying its policy impact.
+Economists benchmark AHE against [labor productivity](/wiki/labor-productivity/) to assess whether wage growth is sustainable. If AHE outpaces productivity for years, firms face margin pressure; if it lags, workers lose ground. Union contracts and Social Security cost-of-living adjustments often reference or correlate with AHE trends, amplifying its policy impact.
 
 ## Watching AHE for recession signals
 

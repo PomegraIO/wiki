@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*An at-the-market offering (ATM) is a program through which a [public company](/public-company/) sells shares into the open market at the current market price, continuously or periodically, without a fixed price or a specific end date. The company authorizes an investment bank agent to sell shares on its behalf when market conditions are favorable. ATM offerings allow companies to raise capital gradually while minimizing market disruption and underwriter fees, but they provide less certainty and control than traditional [follow-on offerings](/equity/follow-on-offering/).*
+*An at-the-market offering (ATM) is a program through which a [public company](/public-company/) sells shares into the open market at the current market price, continuously or periodically, without a fixed price or a specific end date. The company authorizes an investment bank agent to sell shares on its behalf when market conditions are favorable. ATM offerings allow companies to raise capital gradually while minimizing market disruption and underwriter fees, but they provide less certainty and control than traditional [follow-on offerings](/follow-on-offering/).*
 
 <aside class="wiki-infobox">
 
@@ -74,7 +74,7 @@ For example:
 
 **Market perception**: Some investors view ATM programs negatively, as a sign that the company is constantly diluting shareholders.
 
-**Gradual capital**: The company cannot raise capital quickly for an urgent need (unlike a traditional [follow-on offering](/equity/follow-on-offering/) that closes in weeks).
+**Gradual capital**: The company cannot raise capital quickly for an urgent need (unlike a traditional [follow-on offering](/follow-on-offering/) that closes in weeks).
 
 **Overhang**: The mere existence of an ATM program can pressure the stock price if investors worry about dilution.
 
@@ -127,11 +127,11 @@ Market reaction is typically neutral to slightly negative, depending on the auth
 
 ## Comparison to other equity offerings
 
-- **[Follow-on offering](/equity/follow-on-offering/)**: Large block offering, immediate capital raise, higher underwriter fees, specific pricing.
+- **[Follow-on offering](/follow-on-offering/)**: Large block offering, immediate capital raise, higher underwriter fees, specific pricing.
 
-- **[PIPE offering](/equity/pipe-offering/)**: Private investors commit to buy shares at a fixed price, outside the market.
+- **[PIPE offering](/pipe-offering/)**: Private investors commit to buy shares at a fixed price, outside the market.
 
-- **[Rights offering](/equity/rights-offering/)**: Existing shareholders are given the right to buy new shares at a discount.
+- **[Rights offering](/rights-offering/)**: Existing shareholders are given the right to buy new shares at a discount.
 
 - **ATM offering**: Gradual, at-market sales, lower fees, flexible.
 
@@ -143,18 +143,18 @@ Some ATM programs include acceleration provisions. If the company experiences a 
 
 ### Closely related
 
-- [Follow-on offering](/equity/follow-on-offering/) — bulk alternative to ATM
+- [Follow-on offering](/follow-on-offering/) — bulk alternative to ATM
 - [Initial public offering](/initial-public-offering/) — first offering
-- [PIPE offering](/equity/pipe-offering/) — private alternative
-- [Rights offering](/equity/rights-offering/) — shareholder alternative
-- [Share dilution](/equity/restricted-stock-units/) — effect of ATM
+- [PIPE offering](/pipe-offering/) — private alternative
+- [Rights offering](/rights-offering/) — shareholder alternative
+- [Share dilution](/restricted-stock-units/) — effect of ATM
 
 ### Wider context
 
 - [Public company](/public-company/) — issues ATM shares
 - [Capital markets](/stock-market/) — venue for sales
 - [Stock market](/stock-market/) — prices determine sales
-- [Continuous disclosure](/equity/at-the-market-offering/) — SEC requirements
-- [Shareholder value](/equity/share-buyback/) — dilution vs. capital needs
+- [Continuous disclosure](/at-the-market-offering/) — SEC requirements
+- [Shareholder value](/share-buyback/) — dilution vs. capital needs
 
 </div>

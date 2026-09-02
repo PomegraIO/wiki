@@ -46,7 +46,7 @@ Many financial holding companies have geographic or product concentrations that 
 
 ## Regulatory Capital and Stress Testing
 
-Lionheart operates under regulatory oversight from federal banking authorities, which impose minimum capital ratio requirements, conduct stress tests, and restrict [dividend](/dividend/) payouts and [share buybacks](/share-buyback/) if capital is insufficient. These constraints limit the company's ability to return capital to shareholders and can force capital raises in adverse conditions. The company's regulatory capital ratios are disclosed in its [10-K](/10-K/) and quarterly filings, and investors should monitor them. A company approaching minimum regulatory capital thresholds faces limited flexibility for growth or shareholder returns.
+Lionheart operates under regulatory oversight from federal banking authorities, which impose minimum capital ratio requirements, conduct stress tests, and restrict [dividend](/dividend/) payouts and [share buybacks](/share-buyback/) if capital is insufficient. These constraints limit the company's ability to return capital to shareholders and can force capital raises in adverse conditions. The company's regulatory capital ratios are disclosed in its [10-K](/10-k/) and quarterly filings, and investors should monitor them. A company approaching minimum regulatory capital thresholds faces limited flexibility for growth or shareholder returns.
 
 ## Evaluating Lionheart: Key Metrics
 

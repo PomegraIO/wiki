@@ -54,7 +54,7 @@ A reversal is the inverse: long stock, short call, long put at the same strikes.
 <h2>See also</h2>
 <h3>Closely related</h3>
 <ul>
-<li><a href="/wiki/reversal-merger/">Reversal Merger</a> — the inverse arbitrage strategy.</li>
+<li>Reversal Merger — the inverse arbitrage strategy.</li>
 <li><a href="/wiki/short-selling/">Short Selling</a> — the short stock component.</li>
 <li><a href="/wiki/call-option/">Call Option</a> — the long leg of a conversion.</li>
 <li><a href="/wiki/put-option/">Put Option</a> — the short leg of a conversion.</li>
@@ -63,7 +63,7 @@ A reversal is the inverse: long stock, short call, long put at the same strikes.
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/option/">Option</a> — contract type underlying conversions.</li>
-<li><a href="/wiki/arbitrage/">Arbitrage</a> — the principle underlying conversions.</li>
+<li>Arbitrage — the principle underlying conversions.</li>
 <li><a href="/wiki/dividend/">Dividend</a> — complicates conversion payoff.</li>
 </ul>
 </div>

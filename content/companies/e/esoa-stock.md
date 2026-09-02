@@ -45,7 +45,7 @@ ESOA differs from ESMC (medical devices, truly secular) in that construction alw
 
 ## Researching ESOA
 
-Start with the [10-K](/10-K/) and [10-Q](/10-K/) filings to understand contract backlog, major customers, gross margins by service line, and debt levels. Pay attention to commentary on utility spending trends, customer concentration, and bid pipeline. Compare ESOA's margins to larger utility contractors to gauge competitive position. Monitor regional electricity and gas industry publications for utility capital spending trends. Track labor market indicators in ESOA's operating regions, as wage pressure is a material risk. Finally, review the company's ability to land and retain major multi-year maintenance contracts, as these are the ballast of stable revenue.
+Start with the [10-K](/10-k/) and [10-Q](/10-k/) filings to understand contract backlog, major customers, gross margins by service line, and debt levels. Pay attention to commentary on utility spending trends, customer concentration, and bid pipeline. Compare ESOA's margins to larger utility contractors to gauge competitive position. Monitor regional electricity and gas industry publications for utility capital spending trends. Track labor market indicators in ESOA's operating regions, as wage pressure is a material risk. Finally, review the company's ability to land and retain major multi-year maintenance contracts, as these are the ballast of stable revenue.
 
 <div class="wiki-seealso">
 ### Closely related
@@ -54,6 +54,6 @@ Start with the [10-K](/10-K/) and [10-Q](/10-K/) filings to understand contract 
 
 ### Wider context
 - [Stock](/stock/) and [public-company](/public-company/) valuation
-- [10-K](/10-K/) and [earnings-per-share](/earnings-per-share/) framework
+- [10-K](/10-k/) and [earnings-per-share](/earnings-per-share/) framework
 - Utility sector and infrastructure investment trends
 </div>

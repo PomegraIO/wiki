@@ -26,7 +26,7 @@ keywords:
 
 ## The 5% bright-line and activist triggers
 
-The 5% threshold marks when a shareholder's influence becomes material enough to warrant public notice. A hedge fund accumulating shares for an activist campaign must disclose once 5% is reached; the market learns immediately, often triggering stock move. Management is alerted and may adopt defensive tactics—[poison pills](/wiki/poison-pill/), accelerated [board elections](/wiki/election-of-directors/), or strategic initiatives to stall activist demands. Early disclosure (crossing 5%) sometimes provides [activist investors](/wiki/activist-investor-typology/) competitive advantage; stealth accumulation below 5% allows larger positions before announced campaigns.
+The 5% threshold marks when a shareholder's influence becomes material enough to warrant public notice. A hedge fund accumulating shares for an activist campaign must disclose once 5% is reached; the market learns immediately, often triggering stock move. Management is alerted and may adopt defensive tactics—[poison pills](/wiki/poison-pill/), accelerated board elections, or strategic initiatives to stall activist demands. Early disclosure (crossing 5%) sometimes provides [activist investors](/wiki/activist-investor-typology/) competitive advantage; stealth accumulation below 5% allows larger positions before announced campaigns.
 
 ## Schedule 13D disclosure requirements and strategic signaling
 

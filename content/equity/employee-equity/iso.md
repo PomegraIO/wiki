@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*An incentive stock option (ISO) is a type of [employee stock option](/equity/employee-stock-options/) that qualifies for favorable tax treatment under the US Internal Revenue Code. If the employee meets certain holding periods (2+ years from grant, 1+ year from exercise), the gain on exercise is taxed as long-term capital gain (15–20% top rate) rather than ordinary income (37% top rate). This tax advantage makes ISOs attractive to employees but subject to strict rules and limitations.*
+*An incentive stock option (ISO) is a type of [employee stock option](/employee-stock-options/) that qualifies for favorable tax treatment under the US Internal Revenue Code. If the employee meets certain holding periods (2+ years from grant, 1+ year from exercise), the gain on exercise is taxed as long-term capital gain (15–20% top rate) rather than ordinary income (37% top rate). This tax advantage makes ISOs attractive to employees but subject to strict rules and limitations.*
 
 <aside class="wiki-infobox">
 
@@ -66,7 +66,7 @@ If the employee sells before meeting these periods (disqualifying disposition), 
 
 **Alternative Minimum Tax (AMT).** Upon exercise, the exercise gain (FMV at exercise minus strike) is included in AMT income. This can trigger the AMT for high-income employees, resulting in unexpected tax liability. An employee exercising $500,000 of ISOs might owe AMT even with no other income. They can offset this against future year regular taxes (AMT credit), but it is a complex planning issue.
 
-## ISO versus [NQSO](/equity/nqso/)
+## ISO versus [NQSO](/nqso/)
 
 Non-qualified stock options (NQSOs) have no strike-price restriction and no annual grant limit. Upon exercise, the exercise gain is taxed as ordinary income. NQSOs are simpler but less tax-efficient than ISOs.
 
@@ -80,7 +80,7 @@ This strategy is useful if the employee believes the stock will appreciate subst
 
 ## ISOs and startup founders
 
-In startups, founders often grant themselves ISOs subject to a [vesting schedule](/equity/vesting-schedule/). Because the founders granted shares to themselves at incorporation (when the strike price is nominal, say $0.001), an 83(b) election locks in this tiny value for capital gains purposes. Later appreciation is all capital gains.
+In startups, founders often grant themselves ISOs subject to a [vesting schedule](/vesting-schedule/). Because the founders granted shares to themselves at incorporation (when the strike price is nominal, say $0.001), an 83(b) election locks in this tiny value for capital gains purposes. Later appreciation is all capital gains.
 
 For non-founder employees, ISOs are granted at the current FMV (as determined by the board). If the company later appreciates significantly before IPO, the employee's ISO gains are substantial.
 
@@ -104,7 +104,7 @@ For high-income employees, the ordinary income tax on the exercise gain can be s
 
 ## ISOs in mature companies
 
-Large mature public companies rarely grant ISOs because the $100,000 annual cap is too restrictive. It is difficult to grant enough equity to competitive executive compensation. These companies rely on NQSOs and [RSUs](/equity/restricted-stock-units/) instead.
+Large mature public companies rarely grant ISOs because the $100,000 annual cap is too restrictive. It is difficult to grant enough equity to competitive executive compensation. These companies rely on NQSOs and [RSUs](/restricted-stock-units/) instead.
 
 ISOs remain popular in startups and early-stage private companies, where grants are smaller and the $100,000 cap is less binding.
 
@@ -112,18 +112,18 @@ ISOs remain popular in startups and early-stage private companies, where grants 
 
 ### Closely related
 
-- [NQSO](/equity/nqso/) — non-qualified version with ordinary income taxes
-- [Employee stock options](/equity/employee-stock-options/) — general category
-- [Restricted stock](/equity/restricted-stock/) — alternative equity vehicle
-- [Vesting schedule](/equity/vesting-schedule/) — the time lock on ISOs
-- [83(b) election](/equity/iso/) — unlocks early holding period
+- [NQSO](/nqso/) — non-qualified version with ordinary income taxes
+- [Employee stock options](/employee-stock-options/) — general category
+- [Restricted stock](/restricted-stock/) — alternative equity vehicle
+- [Vesting schedule](/vesting-schedule/) — the time lock on ISOs
+- [83(b) election](/iso/) — unlocks early holding period
 
 ### Wider context
 
-- [Equity compensation](/equity/iso/) — broader category
-- [Startup](/equity/founder-shares/) — heavy ISO user
+- [Equity compensation](/iso/) — broader category
+- [Startup](/founder-shares/) — heavy ISO user
 - [Public company](/public-company/) — can grant ISOs post-IPO
-- [Capital gains](/equity/iso/) — favorable tax treatment
-- [Alternative minimum tax](/equity/iso/) — potential liability
+- [Capital gains](/iso/) — favorable tax treatment
+- [Alternative minimum tax](/iso/) — potential liability
 
 </div>

@@ -30,15 +30,15 @@ Company A might have high operating income but be heavily leveraged, so its net 
 
 This is the primary use case. Two companies with identical operating income but different debt levels will have very different net incomes. Operating income-to-price lets you ask: *which core business am I getting?* The financing structure is a separate decision.
 
-This matters a lot in M&A. When an acquirer buys a company, the [leverage](/wiki/leverage/) is often changed post-acquisition. Operating income-to-price is therefore more relevant than net income-based metrics for valuing the business itself.
+This matters a lot in M&A. When an acquirer buys a company, the leverage is often changed post-acquisition. Operating income-to-price is therefore more relevant than net income-based metrics for valuing the business itself.
 
 ## Isolating tax effects
 
-A company in a low-tax jurisdiction might report higher net income than an identical company in a high-tax jurisdiction, even if operating income is the same. Operating income-to-price removes this distortion. If you are comparing companies across countries or comparing to a period before/after a [tax reform](/wiki/tax-reform/), this metric is useful.
+A company in a low-tax jurisdiction might report higher net income than an identical company in a high-tax jurisdiction, even if operating income is the same. Operating income-to-price removes this distortion. If you are comparing companies across countries or comparing to a period before/after a tax reform, this metric is useful.
 
 ## The missing piece: interest expense
 
-Operating income-to-price ignores the cost of [debt](/wiki/debt-to-equity-ratio/). A highly leveraged company might look attractive on operating yield, but if it pays hefty interest, shareholders are left with little. Do not use operating income-to-price in isolation; always check [debt levels](/wiki/debt/) and [interest coverage](/wiki/interest-coverage-ratio/).
+Operating income-to-price ignores the cost of [debt](/wiki/debt-to-equity-ratio/). A highly leveraged company might look attractive on operating yield, but if it pays hefty interest, shareholders are left with little. Do not use operating income-to-price in isolation; always check debt levels and [interest coverage](/wiki/interest-coverage-ratio/).
 
 Similarly, operating income-to-price ignores taxes, which are a real cost. A company with 8% operating yield and 25% tax rate actually yields closer to 6% pre-interest.
 
@@ -48,7 +48,7 @@ Similarly, operating income-to-price ignores taxes, which are a real cost. A com
 
 ## When operating income is not representative
 
-If a company has a major [one-time loss](/wiki/one-time-item/) outside of operations—say, a $500 million legal settlement—it would be in operating income and depress the operating yield. In this case, use [normalized](/wiki/normalized-earnings/) or adjusted operating income to see the normalized yield.
+If a company has a major one-time loss outside of operations—say, a $500 million legal settlement—it would be in operating income and depress the operating yield. In this case, use [normalized](/wiki/normalized-earnings/) or adjusted operating income to see the normalized yield.
 
 Conversely, if a company has a large [asset sale](/wiki/fixed-asset-turnover/) profit (which lands below operating income, in other income), operating income-to-price misses this source of profitability.
 
@@ -66,13 +66,13 @@ A company might have high ROA (efficient operations) but low operating yield (ex
 
 ## The practical workflow
 
-Start with operating income-to-price to understand core profitability. Then check [debt levels](/wiki/debt-to-equity-ratio/) and [interest expense](/wiki/interest-coverage-ratio/) to understand the drag on shareholders. Then check taxes. Finally, check [capex](/wiki/capital-expenditures/) and [free cash flow](/wiki/free-cash-flow/) to see if operating income translates to cash.
+Start with operating income-to-price to understand core profitability. Then check [debt levels](/wiki/debt-to-equity-ratio/) and [interest expense](/wiki/interest-coverage-ratio/) to understand the drag on shareholders. Then check taxes. Finally, check capex and [free cash flow](/wiki/free-cash-flow/) to see if operating income translates to cash.
 
 <div class="wiki-seealso">
 <h2>See also</h2>
 <h3>Closely related</h3>
 <ul>
-  <li><a href="/wiki/operating-income/">Operating income</a> — the numerator in this ratio.</li>
+  <li>Operating income — the numerator in this ratio.</li>
   <li><a href="/wiki/earnings-yield/">Earnings yield</a> — net income divided by price.</li>
   <li><a href="/wiki/price-to-ebitda/">Price-to-EBITDA</a> — a related multiple.</li>
   <li><a href="/wiki/operating-margin/">Operating margin</a> — operating income as a percentage of revenue.</li>

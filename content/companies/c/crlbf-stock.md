@@ -36,7 +36,7 @@ Cresco vertically integrates—owning cultivation facilities, processing labs, a
 
 A less-integrated company (licensing its brands to others for production, focusing on retail) would have lower capex and higher cash conversion, but would sacrifice margin and control. Cresco's choice to integrate reflects confidence in its operational execution and belief that the margin capture justifies the capital commitment.
 
-The [10-K](/10-K/) will disclose capex by category (cultivation facilities, retail stores, processing) and asset base (property, equipment) on the balance sheet. A company with rapidly expanding retail headcount and cultivation acreage is deploying significant capital; one in maintenance mode is harvesting cash.
+The [10-K](/10-k/) will disclose capex by category (cultivation facilities, retail stores, processing) and asset base (property, equipment) on the balance sheet. A company with rapidly expanding retail headcount and cultivation acreage is deploying significant capital; one in maintenance mode is harvesting cash.
 
 ## State Taxes and Regulatory Costs
 

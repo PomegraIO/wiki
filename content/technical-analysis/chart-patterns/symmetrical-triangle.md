@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **symmetrical triangle** is formed by two trendlines converging at the same rate—a falling upper line (connecting lower highs) and a rising lower line (connecting higher lows)—creating a symmetrical wedge. As the triangle develops, price oscillates within an ever-narrowing range with no directional bias. Unlike the [ascending triangle](/technical-analysis/ascending-triangle) (bullish) or [descending triangle](/technical-analysis/descending-triangle) (bearish), the symmetrical triangle does not signal which direction the breakout will occur. The breakout can be up or down; the pattern is neutral until the break happens. Once it does, the move is often sharp and moves in the breakout direction.*
+*A **symmetrical triangle** is formed by two trendlines converging at the same rate—a falling upper line (connecting lower highs) and a rising lower line (connecting higher lows)—creating a symmetrical wedge. As the triangle develops, price oscillates within an ever-narrowing range with no directional bias. Unlike the [ascending triangle](/ascending-triangle/) (bullish) or [descending triangle](/descending-triangle/) (bearish), the symmetrical triangle does not signal which direction the breakout will occur. The breakout can be up or down; the pattern is neutral until the break happens. Once it does, the move is often sharp and moves in the breakout direction.*
 
 <div class="wiki-hatnote">
 
-For converging patterns, see [ascending triangle](/technical-analysis/ascending-triangle) and [descending triangle](/technical-analysis/descending-triangle). For parallel patterns, see [channel pattern](/technical-analysis/channel-pattern).
+For converging patterns, see [ascending triangle](/ascending-triangle/) and [descending triangle](/descending-triangle/). For parallel patterns, see [channel pattern](/channel-pattern/).
 
 </div>
 
@@ -111,16 +111,16 @@ Academic research on symmetrical triangles is sparse. The pattern's effectivenes
 
 ### Related patterns
 
-- [Ascending triangle](/technical-analysis/ascending-triangle) — bullish bias
-- [Descending triangle](/technical-analysis/descending-triangle) — bearish bias
-- [Wedge pattern](/technical-analysis/wedge-pattern) — lines converge; often directional
-- [Channel pattern](/technical-analysis/channel-pattern) — parallel instead of converging
-- [Pennant pattern](/technical-analysis/pennant-pattern) — triangle after sharp move
+- [Ascending triangle](/ascending-triangle/) — bullish bias
+- [Descending triangle](/descending-triangle/) — bearish bias
+- [Wedge pattern](/wedge-pattern/) — lines converge; often directional
+- [Channel pattern](/channel-pattern/) — parallel instead of converging
+- [Pennant pattern](/pennant-pattern/) — triangle after sharp move
 
 ### Trend context
 
-- [Trendline](/technical-analysis/trendline) — the triangle's boundaries
-- [Support and resistance](/technical-analysis/support-and-resistance) — key levels
-- [Volume](/technical-analysis/on-balance-volume) — confirming breakouts
+- [Trendline](/trendline/) — the triangle's boundaries
+- [Support and resistance](/support-and-resistance/) — key levels
+- [Volume](/on-balance-volume/) — confirming breakouts
 
 </div>

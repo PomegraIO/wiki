@@ -81,7 +81,7 @@ Many hedge funds run such strategies as part of broader momentum or tactical ass
 - [Relative Strength Index](/wiki/rsi-relative-strength/) — momentum confirmation tool
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — broader charting discipline (if entry exists)
+- Technical Analysis — broader charting discipline (if entry exists)
 - [Volume Analysis](/wiki/volume-profile-support/) — reading order book imbalances
 - [Mean Reversion](/wiki/mean-reversion-investing/) — opposing strategy
 - [Contrarian Investing](/wiki/contrarian-investing/) — opposite conviction

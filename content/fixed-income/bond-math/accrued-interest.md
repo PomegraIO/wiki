@@ -93,7 +93,7 @@ For [floating-rate bonds](/wiki/floating-rate-bond/), the coupon is reset on eac
 ### Wider context
 - [Bond Basics](/wiki/bond-basics/) — Core bond concepts
 - [Settlement Procedures](/wiki/settlement-procedures/) — How accrued interest is handled at trade settlement
-- [Fixed-Income Fund](/wiki/fixed-income-fund/) — Funds managing accrued interest on large portfolios
+- Fixed-Income Fund — Funds managing accrued interest on large portfolios
 - [Cost Basis](/wiki/cost-basis/) — Importance of accrued interest for tax calculation
 - [Tax-Loss Harvesting](/wiki/tax-loss-harvesting/) — Strategy using accrued interest in accounting
 

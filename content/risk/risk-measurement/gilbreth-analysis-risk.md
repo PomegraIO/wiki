@@ -111,7 +111,7 @@ This blending has pushed institutions to invest heavily in compliance systems, d
 - [Operational Risk](/wiki/operational-risk/) — Core concept of process and system failures
 - [Value at Risk](/wiki/value-at-risk/) — Probability of loss exceeding a threshold
 - [Expected Loss Model](/wiki/expected-loss-model/) — Probability × severity framework
-- [Risk Measurement](/wiki/risk-measurement/) — Broader framework for quantifying risk
+- Risk Measurement — Broader framework for quantifying risk
 - [Stress Testing](/wiki/stress-testing/) — Scenario analysis under extreme conditions
 
 ### Wider context

@@ -9,7 +9,7 @@ keywords:
   - tax-deferred account
 ---
 
-*The **Required Minimum Distribution** (RMD) is an IRS requirement that owners of [tax-deferred retirement accounts](/wiki/traditional-ira/) — such as [traditional IRAs](/wiki/ira-traditional/), [401(k)s](/wiki/401k-plan/), [403(b)s](/wiki/403b-plan/), and [SEP IRAs](/wiki/sep-ira/) — must withdraw a calculated minimum amount annually beginning at age 73 (as of 2023, raised from 72 under the SECURE Act 2.0). Failure to withdraw the RMD incurs a **25% excise tax** on the shortfall (reduced from 50% in prior years), making RMD planning essential for retirement savers navigating the intersection of [tax planning](/wiki/tax-planning/) and [required minimum distribution](/wiki/required-minimum-distribution-personal/) mechanics.*
+*The **Required Minimum Distribution** (RMD) is an IRS requirement that owners of [tax-deferred retirement accounts](/wiki/traditional-ira/) — such as [traditional IRAs](/wiki/ira-traditional/), [401(k)s](/wiki/401k-plan/), [403(b)s](/wiki/403b-plan/), and [SEP IRAs](/wiki/sep-ira/) — must withdraw a calculated minimum amount annually beginning at age 73 (as of 2023, raised from 72 under the SECURE Act 2.0). Failure to withdraw the RMD incurs a **25% excise tax** on the shortfall (reduced from 50% in prior years), making RMD planning essential for retirement savers navigating the intersection of tax planning and [required minimum distribution](/wiki/required-minimum-distribution-personal/) mechanics.*
 
 <div class="wiki-hatnote">
 For the detailed personal-planning version, see <a href="/wiki/required-minimum-distribution-personal/">Required Minimum Distribution (personal)</a>. For account types subject to RMDs, see <a href="/wiki/ira-traditional/">Traditional IRA</a> and <a href="/wiki/401k-plan/">401(k) Plan</a>.
@@ -122,9 +122,9 @@ Strategic [Roth conversions](/wiki/roth-conversion-personal/) in earlier retirem
 - [Roth conversion](/wiki/roth-conversion-personal/) — Strategy to avoid RMDs
 
 ### Wider context
-- [Tax planning](/wiki/tax-planning/) — RMD optimization strategies
+- Tax planning — RMD optimization strategies
 - [Estate tax](/wiki/estate-tax/) — Interactions with estate planning
 - [Tax bracket](/wiki/tax-bracket-investor/) — Impact on effective tax rate
-- [Retirement tax](/wiki/retirement-tax/) — The broader framework
+- Retirement tax — The broader framework
 
 </div>

@@ -9,7 +9,7 @@ keywords:
   - book building
 ---
 
-*A **roadshow** is a series of presentations where a company's management team pitches to institutional investors, [asset managers](/wiki/actively-managed-fund/), and pension funds during the [IPO](/wiki/initial-public-offering/) process. The roadshow tests investor appetite, refines the [valuation](/wiki/valuation/), and builds demand for the shares to be priced and sold.*
+*A **roadshow** is a series of presentations where a company's management team pitches to institutional investors, [asset managers](/wiki/actively-managed-fund/), and pension funds during the [IPO](/wiki/initial-public-offering/) process. The roadshow tests investor appetite, refines the valuation, and builds demand for the shares to be priced and sold.*
 
 <aside class="wiki-infobox">
 
@@ -30,7 +30,7 @@ keywords:
 
 An [IPO](/wiki/initial-public-offering/) process unfolds roughly as follows:
 
-1. **Pre-registration** (3–6 months prior) — company hires [underwriters](/wiki/underwriter/) ([investment banks](/wiki/investment-company-act-of-1940/)) and prepares financial statements.
+1. **Pre-registration** (3–6 months prior) — company hires underwriters ([investment banks](/wiki/investment-company-act-of-1940/)) and prepares financial statements.
 2. **SEC filing** — company files S-1 registration statement; SEC reviews and issues comments.
 3. **Roadshow** — management meets investors; book is built; demand signal emerges.
 4. **Pricing and allocation** — company and underwriters decide final price based on feedback; shares are allocated to institutional buyers.
@@ -81,7 +81,7 @@ As the roadshow progresses, the underwriters take notes:
 - **Weak demand** — few investors interested; underwriters hear concerns about valuation or growth; suggests a lower price range is needed.
 - **Regional variation** — West Coast investors might be bullish on a tech company while East Coast sees it as overvalued; underwriters note this for allocation strategy.
 
-By the end of the roadshow, the underwriters have a [non-binding](/wiki/binding-commitment/) sense of demand ("at $20/share, we can sell 50M shares; at $25, we can sell 30M"). This informs the final pricing.
+By the end of the roadshow, the underwriters have a non-binding sense of demand ("at $20/share, we can sell 50M shares; at $25, we can sell 30M"). This informs the final pricing.
 
 ## Governance and control
 
@@ -147,13 +147,13 @@ A company that projects 50% revenue growth for 5 years better be prepared to del
 - [Book building process](/wiki/book-building-process/) — how underwriters collect investor demand
 - [Seasoned equity offering](/wiki/seasoned-equity-offering/) — secondary offerings (no roadshow typically)
 - [Qualified institutional buyer](/wiki/qualified-institutional-buyer/) — primary roadshow audience
-- [Underwriter](/wiki/underwriter/) — leads the IPO and roadshow process
+- Underwriter — leads the IPO and roadshow process
 
 ### Wider context
-- [Valuation](/wiki/valuation/) — how IPO price is determined post-roadshow
+- Valuation — how IPO price is determined post-roadshow
 - [Multiples valuation](/wiki/multiples-valuation/) — how investors evaluate IPO companies
 - [Management certification](/wiki/management-certification/) — credibility factors in roadshow
 - [Regulation FD](/wiki/regulation-fd/) — fair disclosure during roadshow
-- [Investment banker](/wiki/investment-banker/) — underwriter who orchestrates roadshow
+- Investment banker — underwriter who orchestrates roadshow
 
 </div>

@@ -42,7 +42,7 @@ Practical bridges often combine both approaches. Stargate, for example, uses an 
 
 ## Cross-chain messaging and data bridges
 
-Asset bridges move tokens; messaging bridges move data. A protocol like [Axelar](/wiki/axelar/) or the Interoperability Protocol allow smart contracts on one chain to trigger actions on another. This enables cross-chain [liquidity](/wiki/liquidity-pool/) aggregation, where a [decentralized exchange](/wiki/decentralized-exchange/) on Ethereum can route orders through bridges to tap liquidity pools on Arbitrum or Optimism. Messaging is more flexible than simple locking—it can handle complex logic—but also more prone to bugs in the message encoding and contract interaction layer.
+Asset bridges move tokens; messaging bridges move data. A protocol like Axelar or the Interoperability Protocol allow smart contracts on one chain to trigger actions on another. This enables cross-chain [liquidity](/wiki/liquidity-pool/) aggregation, where a [decentralized exchange](/wiki/decentralized-exchange/) on Ethereum can route orders through bridges to tap liquidity pools on Arbitrum or Optimism. Messaging is more flexible than simple locking—it can handle complex logic—but also more prone to bugs in the message encoding and contract interaction layer.
 
 ## Risks and the trust model
 

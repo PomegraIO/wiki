@@ -132,7 +132,7 @@ Both CDs and HYSAs are covered by [FDIC insurance](/federal-deposit-insurance-co
 ### Closely related
 
 - [Emergency Fund](/emergency-fund/) — where liquid savings belong before locking money in CDs
-- [High-Yield Savings Account](//) — detailed coverage of floating-rate savings vehicles
+- High-Yield Savings Account — detailed coverage of floating-rate savings vehicles
 - [Interest Rate](/interest-rate/) — fundamental concept driving CD and savings rates
 - [Federal Reserve](/federal-reserve/) — institution that influences all short-term savings rates
 - [Treasury Bill](/treasury-bill/) — alternative very-short-term vehicle for larger amounts
@@ -140,8 +140,8 @@ Both CDs and HYSAs are covered by [FDIC insurance](/federal-deposit-insurance-co
 ### Wider context
 
 - [Inflation](/inflation/) — erodes purchasing power; compare real (inflation-adjusted) returns on CDs vs. HYSAs
-- [Opportunity Cost](//) — concept underlying the rate-premium trade-off
-- [Financial Planning](//) — where CDs and savings fit into a broader strategy
+- Opportunity Cost — concept underlying the rate-premium trade-off
+- Financial Planning — where CDs and savings fit into a broader strategy
 - [Money Market Fund](/money-market-fund/) — another short-term safe vehicle, though less commonly used today
 
 </div>

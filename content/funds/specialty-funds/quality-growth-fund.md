@@ -30,7 +30,7 @@ Quality growth funds reject the classic choice between [value](/wiki/value-fund/
 
 - Durable [competitive advantages](/wiki/deep-moat-investing/) (network effects, brand, switching costs)
 - Consistently high [returns on equity](/wiki/return-on-equity/) and capital ([ROIC](/wiki/return-on-invested-capital/))
-- Strong [free cash flow](/wiki/free-cash-flow-yield/) generation relative to [earnings](/wiki/earnings-yield/)
+- Strong free cash flow generation relative to [earnings](/wiki/earnings-yield/)
 - Conservative balance sheets with moderate [debt-to-equity](/wiki/debt-to-equity-ratio/) ratios
 
 Unlike pure-growth funds that chase any company expanding fast, quality growth discipline means rejecting firms with unsustainable margins, shoddy [cash conversion](/wiki/cash-conversion-cycle/), or leverage that threatens stability. Unlike deep-value funds that hunt cheap stocks, quality growth accepts [paying a premium](/wiki/price-to-earnings-ratio/) for durable competitive position and proven management.

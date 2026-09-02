@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **shooting star** is a single-candle pattern consisting of a small body in the lower part of the candle's range and a long upper wick. The shape resembles a star streaking across the sky with a bright tail—hence the name. The interpretation is bearish: during the period, buyers pushed the price higher, but sellers stepped in and drove it back down, closing well below the intraday high. When a shooting star forms after an uptrend or at a [resistance level](/technical-analysis/support-and-resistance), it signals that the rally is weakening and reversal may follow.*
+*A **shooting star** is a single-candle pattern consisting of a small body in the lower part of the candle's range and a long upper wick. The shape resembles a star streaking across the sky with a bright tail—hence the name. The interpretation is bearish: during the period, buyers pushed the price higher, but sellers stepped in and drove it back down, closing well below the intraday high. When a shooting star forms after an uptrend or at a [resistance level](/support-and-resistance/), it signals that the rally is weakening and reversal may follow.*
 
 <div class="wiki-hatnote">
 
-For single-candle patterns more broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). The opposite pattern is the [hammer](/technical-analysis/hammer-candle).
+For single-candle patterns more broadly, see [candlestick pattern](/candlestick-pattern/). The opposite pattern is the [hammer](/hammer-candle/).
 
 </div>
 
@@ -36,7 +36,7 @@ For single-candle patterns more broadly, see [candlestick pattern](/technical-an
 | **Reliability** | Higher after uptrend, at resistance |
 | **Context** | Forms after rally, at resistance or round numbers |
 | **False signals** | Can occur in consolidation; requires confirmation |
-| **Mirror pattern** | [Hammer](/technical-analysis/hammer-candle) — long lower wick |
+| **Mirror pattern** | [Hammer](/hammer-candle/) — long lower wick |
 
 </aside>
 
@@ -50,7 +50,7 @@ The interpretation is clear: buyers arrived and pushed the price higher, but ent
 
 A shooting star forming at the top of an uptrend is far more meaningful than one appearing in the middle of an uptrend. After weeks or months of rising prices, a shooting star that coincides with resistance—a prior swing high, a round-number level, a key moving average—signals that buyers have arrived at a level where sellers previously defended. The fact that buyers could not overcome that level suggests the rally is exhausted.
 
-A shooting star at a [resistance level](/technical-analysis/support-and-resistance) is more tradeable than one in isolation. Resistance itself acts as a magnet and a stopping point for rallies; a shooting star at that level confirms that buyers could not break through, and sellers held the line.
+A shooting star at a [resistance level](/support-and-resistance/) is more tradeable than one in isolation. Resistance itself acts as a magnet and a stopping point for rallies; a shooting star at that level confirms that buyers could not break through, and sellers held the line.
 
 Conversely, a shooting star in the middle of a steady uptrend, with no obvious resistance level above, may merely represent a brief pullback. It could precede further upside as buyers pause and reload.
 
@@ -94,21 +94,21 @@ Empirical research on shooting star patterns is mixed. Some studies find that sh
 
 ### Related reversals
 
-- [Hammer](/technical-analysis/hammer-candle) — long lower wick, bullish version
-- [Hanging man](/technical-analysis/hanging-man) — long lower wick at uptrend top
-- [Doji](/technical-analysis/doji) — indecision with balanced wicks
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader pattern framework
+- [Hammer](/hammer-candle/) — long lower wick, bullish version
+- [Hanging man](/hanging-man/) — long lower wick at uptrend top
+- [Doji](/doji/) — indecision with balanced wicks
+- [Candlestick pattern](/candlestick-pattern/) — broader pattern framework
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — where shooting stars gain meaning
-- [Trendline](/technical-analysis/trendline) — identifying uptrend exhaustion
-- [Candlestick chart](/technical-analysis/candlestick-chart) — the display format
+- [Support and resistance](/support-and-resistance/) — where shooting stars gain meaning
+- [Trendline](/trendline/) — identifying uptrend exhaustion
+- [Candlestick chart](/candlestick-chart/) — the display format
 
 ### Confirmation signals
 
-- [Moving average](/technical-analysis/simple-moving-average) — key resistance levels
-- [Volume](/technical-analysis/on-balance-volume) — strength of the rejection
-- [Relative strength index](/technical-analysis/relative-strength-index) — overbought confirmation
+- [Moving average](/simple-moving-average/) — key resistance levels
+- [Volume](/on-balance-volume/) — strength of the rejection
+- Relative strength index — overbought confirmation
 
 </div>

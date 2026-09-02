@@ -52,11 +52,11 @@ Crossing from BBB- to BB often triggers a 2–5% price drop, reflecting both inc
 
 **[High-yield bond](/wiki/high-yield-bond/) funds**: Mutual funds and ETFs investing in [BB](/wiki/high-yield-investing/) through [CCC](/wiki/junk-bond/) rated bonds. Offer [yield](/wiki/yield-to-maturity/) premium (4–8% above risk-free rates) for [default](/wiki/default-rate/) risk. [Expense ratios](/wiki/expense-ratio/) typically 0.5–1.5% for active funds, 0.3–0.7% for [ETFs](/wiki/etf/).
 
-**Distressed debt funds**: Specialized funds buying bonds trading far below par—often already-distressed or near-default issuers. Target is [recovery](/wiki/recovery-rate/) on restructuring or exit. Require deeper due diligence.
+**Distressed debt funds**: Specialized funds buying bonds trading far below par—often already-distressed or near-default issuers. Target is recovery on restructuring or exit. Require deeper due diligence.
 
 **Risks**:
 - **[Default risk](/wiki/default-rate/)**: 3–10% annual [default rate](/wiki/default-rate/) in economic downturns.
-- **[Liquidity risk](/wiki/liquidity-risk/)**: Lower trading volume; wider [bid-ask spreads](/wiki/bid-ask-spread-corporate/). Selling large positions pushes prices down.
+- **[Liquidity risk](/wiki/liquidity-risk/)**: Lower trading volume; wider bid-ask spreads. Selling large positions pushes prices down.
 - **[Downgrade contagion](/wiki/rating-migration/)**: One [downgrade](/wiki/bond-rating-downgrade/) can trigger others in the same [cohort](/wiki/sector-fund/). Sell-offs cascade.
 - **[Recovery risk](/wiki/loss-severity/)**: In [bankruptcy](/wiki/liquidation/), [senior](/wiki/senior-bond/) secured bonds recover 70–90% of par; junior bonds 10–40%.
 
@@ -76,7 +76,7 @@ Modern lesson: speculative-grade is not a buy-and-hold category. Investors need:
 - **Cyclical awareness**: Reduce exposure late-cycle when [spreads](/wiki/credit-spread-corporate/) are compressed.
 - **[Fundamental analysis](/wiki/fundamental-investing/)**: Study [leverage](/wiki/debt-to-equity-ratio/), [coverage](/wiki/interest-coverage-ratio/), [covenants](/wiki/bond-covenants/), competitive position.
 - **Diversification**: Hold many issuers; don't concentrate in one sector.
-- **Liquidity management**: Invest in bonds you can sell at bid (not names with 5% [bid-ask](/wiki/bid-ask-spread-corporate/) spreads).
+- **Liquidity management**: Invest in bonds you can sell at bid (not names with 5% bid-ask spreads).
 
 ## Rating agencies and conflicts
 

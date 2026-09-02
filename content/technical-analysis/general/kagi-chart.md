@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For time-based charts, see [candlestick chart](/technical-analysis/candlestick-chart). Other price-based alternatives include [renko](/technical-analysis/renko-chart) and [point-and-figure](/technical-analysis/point-and-figure-chart) charts.
+For time-based charts, see [candlestick chart](/candlestick-chart/). Other price-based alternatives include [renko](/renko-chart/) and [point-and-figure](/point-and-figure-chart/) charts.
 
 </div>
 
@@ -79,7 +79,7 @@ The choice of reversal amount profoundly affects the chart's appearance and the 
 
 **Reversal amount selection:** Like renko's brick size, the reversal amount is subjective. Different amounts produce different charts.
 
-**Limited pattern recognition:** While candlesticks have established patterns ([hammers](/technical-analysis/hammer-candle), [engulfings](/technical-analysis/engulfing-pattern), etc.), kagi charts do not have a standard library of named patterns.
+**Limited pattern recognition:** While candlesticks have established patterns ([hammers](/hammer-candle/), [engulfings](/engulfing-pattern/), etc.), kagi charts do not have a standard library of named patterns.
 
 **Hidden volatility:** Thin lines show price went up or down but not the magnitude of individual price swings within the line.
 
@@ -94,7 +94,7 @@ Renko is "mechanical"; kagi is "responsive to reversals."
 
 ## Kagi versus point-and-figure
 
-[Point-and-figure](/technical-analysis/point-and-figure-chart) charts also display reversals in a grid format using X's and O's. Kagi is more like a line chart with varying thickness; point-and-figure is more like a two-dimensional grid. Both eliminate time, but the visual presentation is very different.
+[Point-and-figure](/point-and-figure-chart/) charts also display reversals in a grid format using X's and O's. Kagi is more like a line chart with varying thickness; point-and-figure is more like a two-dimensional grid. Both eliminate time, but the visual presentation is very different.
 
 ## Common uses for kagi charts
 
@@ -132,15 +132,15 @@ Kagi charts, like renko charts, are rarely studied in academic literature. They 
 
 ### Price-based charts
 
-- [Renko chart](/technical-analysis/renko-chart) — fixed-size bricks, price-based
-- [Point-and-figure chart](/technical-analysis/point-and-figure-chart) — X's and O's grid
-- [Candlestick chart](/technical-analysis/candlestick-chart) — time-based alternative
-- [Line chart](/technical-analysis/line-chart) — closes only
+- [Renko chart](/renko-chart/) — fixed-size bricks, price-based
+- [Point-and-figure chart](/point-and-figure-chart/) — X's and O's grid
+- [Candlestick chart](/candlestick-chart/) — time-based alternative
+- [Line chart](/line-chart/) — closes only
 
 ### Analysis concepts
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — key levels visible on kagi
-- [Trendline](/technical-analysis/trendline) — reversals easier to identify
-- [Volume](/technical-analysis/on-balance-volume) — not directly shown on kagi
+- [Support and resistance](/support-and-resistance/) — key levels visible on kagi
+- [Trendline](/trendline/) — reversals easier to identify
+- [Volume](/on-balance-volume/) — not directly shown on kagi
 
 </div>

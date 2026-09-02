@@ -29,7 +29,7 @@ Third, if the parent owns less than 100% of the subsidiary, a **[noncontrolling 
 
 ## Purchase accounting and goodwill
 
-When Parent acquires Subsidiary, the purchase price often exceeds the subsidiary's [book value](/wiki/book-value/)—the difference is recorded as [goodwill](/wiki/goodwill/). 
+When Parent acquires Subsidiary, the purchase price often exceeds the subsidiary's book value—the difference is recorded as [goodwill](/wiki/goodwill/). 
 
 If Parent pays $120 million for a subsidiary whose identifiable assets net to $80 million, the $40 million difference is goodwill. On the consolidated balance sheet, that $40 million sits as an intangible asset. Year after year, accountants test whether that goodwill has been **impaired**—whether the actual earning power of the subsidiary has fallen below what was paid for it. If so, they write it down, expensing the loss immediately.
 
@@ -43,7 +43,7 @@ To prevent double-margin counting, consolidation reverses the intercompany sale.
 
 ## Equity accounting as an alternative
 
-Not every ownership stake triggers consolidation. If Parent owns 20–50% of an investee without control, it usually uses the **[equity method](/wiki/equity-method-accounting/)**. Parent records its proportional share of the investee's net income but does not consolidate the subsidiary's detailed accounts into its own. This is a middle ground between consolidation (full inclusion) and [available-for-sale](/wiki/available-for-sale-security/) treatment (no proportional income recognition).
+Not every ownership stake triggers consolidation. If Parent owns 20–50% of an investee without control, it usually uses the **[equity method](/wiki/equity-method-accounting/)**. Parent records its proportional share of the investee's net income but does not consolidate the subsidiary's detailed accounts into its own. This is a middle ground between consolidation (full inclusion) and available-for-sale treatment (no proportional income recognition).
 
 The equity method is common for joint ventures and large minority stakes in competitors where the investor has influence but not control.
 

@@ -100,12 +100,12 @@ There's no objectively correct answer. The decision is personal. But be honest a
 <li><a href="/wiki/factor-etf/">Factor ETF</a> — ESG can be viewed as a factor.</li>
 <li><a href="/wiki/active-etf/">Active ETF</a> — sustainable funds can be active or passive.</li>
 <li><a href="/wiki/index-fund/">Index Fund</a> — the passive alternative.</li>
-<li><a href="/wiki/socially-responsible-investing/">Socially Responsible Investing</a> — the broader movement.</li>
+<li>Socially Responsible Investing — the broader movement.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/diversification/">Diversification</a> — ESG screening affects diversification.</li>
 <li><a href="/wiki/expense-ratio/">Expense Ratio</a> — additional costs for active sustainable funds.</li>
-<li><a href="/wiki/values-based-investing/">Values-Based Investing</a> — the philosophy underlying sustainable ETFs.</li>
+<li>Values-Based Investing — the philosophy underlying sustainable ETFs.</li>
 </ul>
 </div>

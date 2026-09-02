@@ -41,7 +41,7 @@ When a company in the index pays a dividend, the stock price typically falls by 
 
 ## Relationship to market returns and reinvestment assumptions
 
-In academic studies of long-term market returns—such as those by [Ibbotson](/wiki/valuation/), Shiller, or Damodaran—the choice between price and total return significantly affects the historical story. The [S&P 500](/wiki/sp-500-index/) price return index rose approximately 40% from 2000 to 2020, whereas the total return index (with dividends reinvested) rose roughly 300%, a massive gap reflecting the power of dividend reinvestment over two decades. Investors who reference "the stock market has returned 10% per year on average" are implicitly assuming total returns; a pure price return assertion would be closer to 7–8% on historical averages.
+In academic studies of long-term market returns—such as those by Ibbotson, Shiller, or Damodaran—the choice between price and total return significantly affects the historical story. The [S&P 500](/wiki/sp-500-index/) price return index rose approximately 40% from 2000 to 2020, whereas the total return index (with dividends reinvested) rose roughly 300%, a massive gap reflecting the power of dividend reinvestment over two decades. Investors who reference "the stock market has returned 10% per year on average" are implicitly assuming total returns; a pure price return assertion would be closer to 7–8% on historical averages.
 
 <div class="wiki-seealso">
 

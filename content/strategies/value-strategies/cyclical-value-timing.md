@@ -48,7 +48,7 @@ A foundational calculation in cyclical-value timing uses [price-to-earnings-rati
 
 For example, if a cyclical auto supplier trades at $20/share with trough earnings of $0.50 (P/E = 40x), it looks expensive. But if historical gross margins suggest normalized earnings of $4 per share once production recovers to 90% of capacity, then the real P/E is 5x normalized earnings—deeply cheap. [Discounted-cash-flow-valuation](/wiki/discounted-cash-flow-valuation/) provides another lens: discount normalized cash flows back at an appropriate [cost-of-equity](/wiki/cost-of-equity/), then compare to current price.
 
-[Value-investing](/wiki/value-investing/) advocates like [benjamin-graham](/wiki/benjamin-graham/) and later practitioners apply a [margin-of-safety](/wiki/margin-of-safety/) filter: they demand that recovery to normalized earnings be priced in already, or require 50%+ upside to normalized intrinsic value before buying.
+[Value-investing](/wiki/value-investing/) advocates like [benjamin-graham](/wiki/benjamin-graham/) and later practitioners apply a margin-of-safety filter: they demand that recovery to normalized earnings be priced in already, or require 50%+ upside to normalized intrinsic value before buying.
 
 ## Cyclical vs. defensive sectors: rotation mechanics
 

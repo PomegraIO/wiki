@@ -168,6 +168,6 @@ Rotating (concentrating in one cap bucket) reduces diversification. A static 60/
 - [Tactical asset allocation](/wiki/tactical-asset-allocation/) — broader strategy class
 - [Factor investing](/wiki/factor-investing/) — size as a factor
 - [Relative valuation](/wiki/relative-valuation/) — tools for rotation
-- [Seasonality](/wiki/seasonal-adjustment-cpi/) — potential overlay to cap rotation
+- Seasonality — potential overlay to cap rotation
 
 </div>

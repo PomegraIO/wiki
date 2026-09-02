@@ -34,7 +34,7 @@ Internationally, similar frameworks exist: the [EU's Prospectus Directive](/wiki
 
 ## Core disclosure documents
 
-**Annual Report (10-K).** The most comprehensive document. Filed within 60–90 days of fiscal year end, it includes [financial statements](/wiki/financial-statements/) (balance sheet, income statement, [cash flow statement](/wiki/cash-flow-statement/)), [management's discussion and analysis](/wiki/financial-statements/) (MD&A), risk factors, executive compensation, and forward-looking guidance. A shareholder reading the 10-K learns the company's strategy, competitive position, regulatory environment, and financial health.
+**Annual Report (10-K).** The most comprehensive document. Filed within 60–90 days of fiscal year end, it includes financial statements (balance sheet, income statement, [cash flow statement](/wiki/cash-flow-statement/)), management's discussion and analysis (MD&A), risk factors, executive compensation, and forward-looking guidance. A shareholder reading the 10-K learns the company's strategy, competitive position, regulatory environment, and financial health.
 
 **Quarterly Reports (10-Q).** Filed within 40–50 days of quarter end, these are shorter versions of the 10-K, updated quarterly. They include unaudited financial statements and are the primary vehicle for tracking performance between annual reports. A 10-Q miss (e.g., earnings falling short of guidance) often triggers stock-price swings.
 
@@ -76,9 +76,9 @@ Disclosure rules have limits:
 
 ## Information rights and corporate governance
 
-Access to information is the prerequisite for effective shareholder oversight. A shareholder who understands the company's financial leverage, R&D spending, and litigation exposure can vote more wisely on director elections and [say-on-pay](/wiki/say-on-pay/) proposals. Information rights are thus intertwined with [governance](/wiki/corporate-governance/) quality.
+Access to information is the prerequisite for effective shareholder oversight. A shareholder who understands the company's financial leverage, R&D spending, and litigation exposure can vote more wisely on director elections and [say-on-pay](/wiki/say-on-pay/) proposals. Information rights are thus intertwined with governance quality.
 
-Companies that disclose more and provide better [management presentations](/wiki/financial-statements/) tend to attract more investor interest and often trade at higher valuations (lower [P/E multiples](/wiki/price-to-earnings-ratio/) for equivalent risk). Conversely, opaque companies face [information risk](/wiki/information-rights/) — investor uncertainty about what they don't know.
+Companies that disclose more and provide better management presentations tend to attract more investor interest and often trade at higher valuations (lower [P/E multiples](/wiki/price-to-earnings-ratio/) for equivalent risk). Conversely, opaque companies face [information risk](/wiki/information-rights/) — investor uncertainty about what they don't know.
 
 ## Regulation and enforcement
 
@@ -91,9 +91,9 @@ Disclosure standards vary internationally. The [IFRS](/wiki/international-financ
 <div class="wiki-seealso">
 
 ### Closely related
-- [Corporate Governance](/wiki/corporate-governance/) — Oversight structures that depend on information
+- Corporate Governance — Oversight structures that depend on information
 - [Insider Trading](/wiki/insider-trading-definition/) — Illegal trading on nonpublic information
-- [Financial Statements](/wiki/financial-statements/) — Core periodic disclosures
+- Financial Statements — Core periodic disclosures
 - [Section 16 Reporting](/wiki/section-16-reporting/) — Insider trade reporting requirement
 - [Say-on-Pay](/wiki/say-on-pay/) — Shareholder votes on compensation disclosure
 

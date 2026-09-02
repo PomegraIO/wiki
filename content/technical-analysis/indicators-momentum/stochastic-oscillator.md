@@ -67,10 +67,10 @@ A trader is swing-trading Apple stock in a range of $150–$160 (mid-range, $155
 - [RSI Relative Strength](/wiki/rsi-relative-strength/) — momentum oscillator using price changes
 - [MACD Indicator](/wiki/macd-indicator/) — momentum using moving average divergence
 - [Momentum Investing](/wiki/momentum-investing/) — price-trend following strategy
-- [Overbought Oversold](/wiki/overbought-oversold/) — condition the oscillator flags
+- Overbought Oversold — condition the oscillator flags
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — broader framework for price patterns
+- Technical Analysis — broader framework for price patterns
 - [Swing Trading](/wiki/swing-trading/) — primary use case for stochastic
 - [Mean Reversion](/wiki/mean-reversion-investing/) — theoretical driver of reversals
 - [Volume Rate of Change](/wiki/volume-rate-of-change/) — complementary volume-based indicator

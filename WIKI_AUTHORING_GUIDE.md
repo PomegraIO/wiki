@@ -194,8 +194,13 @@ Always use root-absolute paths with a trailing slash:
 
 - ✅ `[stock exchange](/stock-exchange/)`
 - ❌ `[stock exchange](/stock-exchange)` (Hugo serves with trailing slash; this form works but is inconsistent)
-- ❌ `[stock exchange](stock-exchange.md)` (Hugo can resolve `.md` paths but it ties the prose to the file layout)
+- ❌ `[stock exchange](stock-exchange)` / `[stock exchange](stock-exchange/)` (no leading slash: the browser resolves it *under the current article*, producing a crawlable 404 like `/wiki/ipo/stock-exchange/` — the single largest 404 source in Search Console)
+- ❌ `[stock exchange](/equity/stock-exchange/)` / `[stock exchange](/markets/exchanges/stock-exchange/)` (the on-disk `content/` sub-directory is **not** part of the URL; `hugo.toml` flattens every entry to `/<slug>/`)
+- ❌ `[stock exchange](/link/stock-exchange/)` (there is no `/link/` route; this was an authoring-tool artifact)
+- ❌ `[stock exchange](stock-exchange.md)` / `[stock exchange](/stock-exchange.md)` (`.md` is a filename, not a URL — Hugo does not resolve it at this site's permalink settings)
 - ❌ `[stock exchange](https://wiki.pomegra.io/stock-exchange/)` (breaks local dev)
+
+`python3 scripts/check_links.py --strict` rejects every ❌ form above and runs in the Docker build, so a page with one of them cannot ship.
 
 ### 4.3 Density
 

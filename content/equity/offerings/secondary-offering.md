@@ -27,7 +27,7 @@ image: "/svg/equity.svg"
 | **Share count** | No change if existing shares sold |
 | **Dilution** | None (no new shares issued) |
 | **Market impact** | Can pressure share price short-term |
-| **Lock-up release** | Often triggered after [lock-up period](/equity/lock-up-period/) expires |
+| **Lock-up release** | Often triggered after [lock-up period](/lock-up-period/) expires |
 | **Underwriters** | Same as primary offering (for large deals) |
 | **Registration** | Requires SEC registration or S-3 Form |
 
@@ -35,7 +35,7 @@ image: "/svg/equity.svg"
 
 ## Primary versus secondary offering
 
-A **primary offering** ([IPO](/initial-public-offering/), [follow-on offering](/equity/follow-on-offering/)):
+A **primary offering** ([IPO](/initial-public-offering/), [follow-on offering](/follow-on-offering/)):
 - Company issues new shares.
 - Company receives proceeds.
 - Share count increases.
@@ -55,7 +55,7 @@ Example:
 
 ## When secondary offerings occur
 
-**Post-IPO lock-up expiration**: After an IPO, insiders and early employees are subject to a [lock-up period](/equity/lock-up-period/) (typically 6 months) during which they cannot sell shares. At lock-up expiration, secondary offerings often occur as insiders seek to diversify or achieve liquidity.
+**Post-IPO lock-up expiration**: After an IPO, insiders and early employees are subject to a [lock-up period](/lock-up-period/) (typically 6 months) during which they cannot sell shares. At lock-up expiration, secondary offerings often occur as insiders seek to diversify or achieve liquidity.
 
 **Employee equity vesting and exercise**: When employees exercise options or vest RSUs and the company is public, they often sell shares via secondary offering to raise cash and pay taxes.
 
@@ -129,18 +129,18 @@ In mature, publicly traded companies, secondary offerings are less common becaus
 
 ### Closely related
 
-- [Follow-on offering](/equity/follow-on-offering/) — primary offering by company
+- [Follow-on offering](/follow-on-offering/) — primary offering by company
 - [Initial public offering](/initial-public-offering/) — first public offering (primary)
-- [Lock-up period](/equity/lock-up-period/) — period before secondary can occur
-- [Block sale](/equity/secondary-offering/) — another form of insider sale
-- [Insider transaction](/equity/secondary-offering/) — Form 4 disclosure required
+- [Lock-up period](/lock-up-period/) — period before secondary can occur
+- [Block sale](/secondary-offering/) — another form of insider sale
+- [Insider transaction](/secondary-offering/) — Form 4 disclosure required
 
 ### Wider context
 
 - [Public company](/public-company/) — where secondaries occur
 - [Stock market](/stock-market/) — venue for trading
-- [Founder liquidity](/equity/founder-shares/) — motivation for secondary
+- [Founder liquidity](/founder-shares/) — motivation for secondary
 - [Capital markets](/stock-market/) — role of secondaries
-- [Dilution](/equity/share-buyback/) — does not occur with secondary
+- [Dilution](/share-buyback/) — does not occur with secondary
 
 </div>

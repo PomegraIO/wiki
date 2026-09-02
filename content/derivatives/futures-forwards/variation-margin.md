@@ -96,10 +96,10 @@ The 2008 financial crisis and 2020 COVID crisis both created variation margin st
 <li><a href="/wiki/maintenance-margin/">Maintenance margin</a> — the minimum account balance required to keep a position open.</li>
 <li><a href="/wiki/futures-contract/">Futures contract</a> — the primary vehicle using variation margin as its daily settlement mechanism.</li>
 <li><a href="/wiki/forward-contract/">Forward contract</a> — the OTC alternative, settled once at expiration (no daily variation margin).</li>
-<li><a href="/wiki/leverage/">Leverage</a> — related to how variation margin creates funding risk for amplified positions.</li>
+<li>Leverage — related to how variation margin creates funding risk for amplified positions.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broader category of hedging and risk-transfer instruments.</li>
+<li>Derivatives — the broader category of hedging and risk-transfer instruments.</li>
 </ul>
 </div>

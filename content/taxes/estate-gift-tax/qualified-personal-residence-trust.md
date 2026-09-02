@@ -65,7 +65,7 @@ The value of QPRTs has historically depended on favorable IRS Section 7520 [inte
 - [Grantor-Retained Annuity Trust](/wiki/grantor-retained-annuity-trust/) — the broader GRAT framework
 
 ### Wider context
-- [Estate Planning](/wiki/estate-planning/) — overall wealth transfer strategy
+- Estate Planning — overall wealth transfer strategy
 - [Dynasty Trust Planning](/wiki/dynasty-trust-planning/) — multi-generational structures
 - [Step-Up in Basis](/wiki/basis-step-up-inheritance/) — alternative tax benefit (not available in QPRT)
 - [Marital Deduction](/wiki/marital-deduction-estate/) — unlimited [estate tax](/wiki/estate-tax/) deferral for spouses

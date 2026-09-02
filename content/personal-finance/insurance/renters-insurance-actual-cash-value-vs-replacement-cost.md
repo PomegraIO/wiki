@@ -96,15 +96,15 @@ If you have very little of value and minimal concern about loss, ACV is an accep
 
 - [Auto Insurance](/auto-insurance/) — another policy where ACV vs replacement cost matters in vehicle claims
 - [Emergency Fund](/emergency-fund/) — cash reserves that help bridge the gap if ACV underpays
-- [Insurance Claim](/), [Insurance Coverage](/), [Deductible](//) — general insurance mechanics
+- [Insurance Claim](/), [Insurance Coverage](/), Deductible — general insurance mechanics
 - [Inflation](/inflation/) — why replacement costs diverge from original purchase prices
-- [Risk Management](/), [Asset Protection](//) — broader strategies for insuring belongings
+- [Risk Management](/), Asset Protection — broader strategies for insuring belongings
 
 ### Wider context
 
 - [Personal Finance Planning](/), [Budgeting](/budgeting-methods/) — how insurance fits into a household budget
-- [Liability Insurance](/), [Homeowners Insurance](//) — related property insurance products
+- [Liability Insurance](/), Homeowners Insurance — related property insurance products
 - Loss Aversion — why people underestimate how much a loss would hurt
-- [Financial Resilience](/), [Recovery and Contingency Planning](//) — preparing for unexpected losses
+- [Financial Resilience](/), Recovery and Contingency Planning — preparing for unexpected losses
 
 </div>

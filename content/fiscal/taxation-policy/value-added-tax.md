@@ -142,11 +142,11 @@ Some economists and politicians propose VAT as a replacement for income tax (shi
 ### Closely related
 - [Sales tax](/wiki/sales-tax/) — US consumption tax alternative
 - [Corporate income tax](/wiki/corporate-income-tax/) — complements VAT in most economies
-- [Tariff](/wiki/tariff/) — often combined with VAT at borders
+- Tariff — often combined with VAT at borders
 - [Tax bracket](/wiki/tax-bracket-investor/) — VAT fits into the broader tax code
 
 ### Wider context
-- [Taxation policy](/wiki/taxation-policy/) — broader fiscal context
+- Taxation policy — broader fiscal context
 - [Government revenue](/wiki/about/) — role in public finance
 - [Trade policy](/wiki/free-trade-agreement/) — export incentives under VAT
 - [Fiscal multiplier](/wiki/fiscal-multiplier/) — macroeconomic impact

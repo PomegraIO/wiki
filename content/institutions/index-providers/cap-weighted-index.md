@@ -26,7 +26,7 @@ keywords:
 
 ## Why market cap is the default weighting
 
-Cap weighting is intuitive and operationally simple. A company with $1 trillion market cap has twice the influence of a $500 billion company, so it should occupy twice the portfolio weight. The method avoids arbitrary judgments: the market price is the agreed-upon valuation, so cap weighting is "letting the market decide." It also minimizes rebalancing burden: as stocks rise, their weight automatically increases; no manual rebalancing is needed until drift becomes large. This low-turnover characteristic reduces [trading costs](/wiki/transaction-cost/) in an [index fund](/wiki/index-fund/), a major reason [cap weighted index](/wiki/cap-weighted-index/) funds are so cheap to operate.
+Cap weighting is intuitive and operationally simple. A company with $1 trillion market cap has twice the influence of a $500 billion company, so it should occupy twice the portfolio weight. The method avoids arbitrary judgments: the market price is the agreed-upon valuation, so cap weighting is "letting the market decide." It also minimizes rebalancing burden: as stocks rise, their weight automatically increases; no manual rebalancing is needed until drift becomes large. This low-turnover characteristic reduces trading costs in an [index fund](/wiki/index-fund/), a major reason [cap weighted index](/wiki/cap-weighted-index/) funds are so cheap to operate.
 
 ## The mega-cap concentration problem
 
@@ -46,7 +46,7 @@ Cap weighting embeds a view on market efficiency. If prices reflect all availabl
 
 ## Dominance in passive vehicles
 
-The vast majority of [passive mutual funds](/wiki/passively-managed-fund/) and [ETFs](/wiki/etf/) use cap weighting: the [Vanguard 500 Index Fund](/wiki/vanguard-500-index/), the Invesco [QQQ](/wiki/nasdaq-composite/), and countless others. This dominance is self-reinforcing: because cap-weighted indices are the cheapest to replicate and most liquid, they attract the most assets; because they have the most assets, transaction costs and [tracking error](/wiki/etf-tracking-error/) are lowest; because costs are lowest, they attract more assets. The index provider (MSCI, S&P Dow Jones Indices, FTSE Russell) faces little incentive to change the weighting scheme unless competition forces it.
+The vast majority of [passive mutual funds](/wiki/passively-managed-fund/) and [ETFs](/wiki/etf/) use cap weighting: the Vanguard 500 Index Fund, the Invesco [QQQ](/wiki/nasdaq-composite/), and countless others. This dominance is self-reinforcing: because cap-weighted indices are the cheapest to replicate and most liquid, they attract the most assets; because they have the most assets, transaction costs and [tracking error](/wiki/etf-tracking-error/) are lowest; because costs are lowest, they attract more assets. The index provider (MSCI, S&P Dow Jones Indices, FTSE Russell) faces little incentive to change the weighting scheme unless competition forces it.
 
 ## The size-bias consequence
 

@@ -52,7 +52,7 @@ This is why [fund managers](/wiki/actively-managed-fund/) care about OAS for bon
 
 ## Effective duration of mortgage-backed securities
 
-[Mortgage-backed securities](/wiki/mortgage-backed-security/) (MBS) embed a borrower's [prepayment option](/wiki/prepayment-risk/). When rates fall, homeowners refinance, and the MBS is repaid early at par. The effective duration of an MBS is typically 0.5–3 years despite a stated maturity of 15–30 years. When rates rise, prepayments slow and effective duration extends (called [extension risk](/wiki/extension-risk//)). When rates fall, prepayments accelerate and effective duration shortens (called [negative-convexity](/wiki/negative-convexity/)). This dynamic confuses investors who assume MBS behave like fixed-rate bonds.
+[Mortgage-backed securities](/wiki/mortgage-backed-security/) (MBS) embed a borrower's [prepayment option](/wiki/prepayment-risk/). When rates fall, homeowners refinance, and the MBS is repaid early at par. The effective duration of an MBS is typically 0.5–3 years despite a stated maturity of 15–30 years. When rates rise, prepayments slow and effective duration extends (called [extension risk](/extension-risk/)). When rates fall, prepayments accelerate and effective duration shortens (called [negative-convexity](/wiki/negative-convexity/)). This dynamic confuses investors who assume MBS behave like fixed-rate bonds.
 
 A portfolio manager hedging an MBS position needs to use effective duration, not stated maturity. If the portfolio has $100M of MBS with an effective duration of 2.5, buying $2.5M of long-term Treasury futures (assuming a Treasury effective duration of 10) hedges the interest-rate risk. Using stated maturity (assume MBS at 30 years) would over-hedge and create basis risk.
 

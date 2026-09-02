@@ -136,6 +136,6 @@ Companies sometimes offer:
 <ul>
   <li><a href="/wiki/esop/">Employee Stock Ownership Plan</a> — broader structure for employee equity ownership.</li>
   <li><a href="/wiki/equity-risk-premium/">Equity Risk Premium</a> — the additional return expected from owning equity rather than debt.</li>
-  <li><a href="/wiki/stock-based-compensation/">Stock-Based Compensation</a> — the company's accounting and tax treatment of equity grants.</li>
+  <li>Stock-Based Compensation — the company's accounting and tax treatment of equity grants.</li>
 </ul>
 </div>

@@ -39,7 +39,7 @@ Temporal mental accounting explains several empirical phenomena:
 
 **Year-end effects**: Similar but stronger near calendar year-end. [Tax-loss harvesting](/wiki/tax-loss-harvesting/) also drives year-end trading.
 
-**Excessive rebalancing**: Investors rebalance frequently to bring each asset class "back into line" as if each period is a new slate. A target-date fund investor might rebalance quarterly from a 70/30 stock/bond split to 69/31 because the quarter moved allocations slightly. Over many rebalances, trading costs and [taxes](/wiki/taxes/) compound.
+**Excessive rebalancing**: Investors rebalance frequently to bring each asset class "back into line" as if each period is a new slate. A target-date fund investor might rebalance quarterly from a 70/30 stock/bond split to 69/31 because the quarter moved allocations slightly. Over many rebalances, trading costs and taxes compound.
 
 **Avoidance of [long-term capital gains](/wiki/long-term-capital-gain-tax/)**: Some investors avoid holding positions long enough to qualify for favorable long-term tax treatment because they mentally account for returns on a short-term cycle. A 1-year-and-1-day holding period feels arbitrary to them, so they might sell at 11 months to capture a gain they mentally "need" for this year's performance.
 
@@ -72,7 +72,7 @@ Breaking free requires conscious effort: setting a long-term target, ignoring sh
 - [Herd Behavior](/wiki/herd-behavior/) — temporal pressure amplifies when peers' short-term performance is visible
 
 ### Wider context
-- [Behavioral Finance](/wiki/behavioral-bias/) — the field studying how psychology distorts financial decisions
+- Behavioral Finance — the field studying how psychology distorts financial decisions
 - [Dollar-Cost Averaging](/wiki/dollar-cost-averaging/) — a strategy that sidesteps temporal mental accounting
 - [Buy and Hold](/wiki/buy-and-hold-strategy/) — the long-term strategy that minimizes temporal compartmentalization
 - [Performance Attribution](/wiki/fund-performance-evaluation/) — how funds are evaluated, often on temporal bases that reinforce the bias

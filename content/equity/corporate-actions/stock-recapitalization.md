@@ -116,7 +116,7 @@ However, if a company announces a sunset provision (conversion to single-class a
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events altering company structure or shareholder rights.</li>
-  <li><a href="/wiki/corporate-governance/">Corporate governance</a> — systems governing decision-making in companies.</li>
+  <li>Corporate actions — events altering company structure or shareholder rights.</li>
+  <li>Corporate governance — systems governing decision-making in companies.</li>
 </ul>
 </div>

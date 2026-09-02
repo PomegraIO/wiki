@@ -65,7 +65,7 @@ The pattern is also more reliable on longer time frames. A daily rising three me
 
 One pitfall is confusing this pattern with a pullback that is genuinely reversing the trend. If the three small candles gradually extend lower, breaking the first candle's low, the pattern has broken down and a reversal may be in progress instead. The three methods requires the three middle candles to be truly contained, not a progressive breakdown.
 
-Another pitfall is trading the pattern in isolation. The pattern is most reliable when it confirms an existing [support and resistance](/technical-analysis/support-and-resistance/) level, aligns with a [moving average](/technical-analysis/moving-average/), or shows increased [volume](/technical-analysis/volume/) on the fifth candle's breakout.
+Another pitfall is trading the pattern in isolation. The pattern is most reliable when it confirms an existing [support and resistance](/support-and-resistance/) level, aligns with a [moving average](/moving-average/), or shows increased volume on the fifth candle's breakout.
 
 ## Using it in a trading plan
 
@@ -75,13 +75,13 @@ Position sizing should reflect the fact that this is a confirmed continuation pa
 
 The pattern also works well as a signal to hold through consolidation. If you are long an uptrend and you see a rising three methods form, it is a reason to stay long rather than exit prematurely. The pattern is telling you that the consolidation is normal and the trend is intact.
 
-Combining the pattern with [RSI](/technical-analysis/relative-strength-index/) or [moving average convergence divergence](/technical-analysis/macd/) can help filter false signals. If the fifth candle's breakout occurs on increasing [volume](/technical-analysis/volume/), the signal is stronger. If the third candle (the most bearish of the middle three) bounces off a key [moving average](/technical-analysis/moving-average/), that adds confidence.
+Combining the pattern with RSI or moving average convergence divergence can help filter false signals. If the fifth candle's breakout occurs on increasing volume, the signal is stronger. If the third candle (the most bearish of the middle three) bounces off a key [moving average](/moving-average/), that adds confidence.
 
 ## Comparison to other continuation patterns
 
-The rising and falling three methods is distinct from other continuation patterns because it explicitly shows consolidation within a trend. A [flag](/technical-analysis/flag/) pattern has a similar function but is defined by [support and resistance](/technical-analysis/support-and-resistance/) lines rather than specific candle sizes. A [pennant](/technical-analysis/pennant/) is similar but more geometrically precise.
+The rising and falling three methods is distinct from other continuation patterns because it explicitly shows consolidation within a trend. A flag pattern has a similar function but is defined by [support and resistance](/support-and-resistance/) lines rather than specific candle sizes. A pennant is similar but more geometrically precise.
 
-The three methods is also different from [three inside](/technical-analysis/candlesticks/three-inside-up-and-down/) or [three outside](/technical-analysis/candlesticks/three-outside-up-and-down/) patterns, which are reversal-based and use only three candles. The five-candle structure and the explicit bracketing of the three middle candles by the first and fifth candles make the methods pattern more about continuation than reversal.
+The three methods is also different from [three inside](/three-inside-up-and-down/) or [three outside](/three-outside-up-and-down/) patterns, which are reversal-based and use only three candles. The five-candle structure and the explicit bracketing of the three middle candles by the first and fifth candles make the methods pattern more about continuation than reversal.
 
 ## See also
 
@@ -89,18 +89,18 @@ The three methods is also different from [three inside](/technical-analysis/cand
 
 ### Closely related
 
-- [Three Inside Up and Down](/technical-analysis/candlesticks/three-inside-up-and-down/) — a three-candle reversal pattern based on harami
-- [Three Outside Up and Down](/technical-analysis/candlesticks/three-outside-up-and-down/) — a three-candle reversal pattern based on engulfing
-- [Bullish Belt Hold](/technical-analysis/candlesticks/bullish-belt-hold/) — a single-candle reversal signal
-- [Engulfing Pattern](/technical-analysis/candlesticks/engulfing-pattern/) — a two-candle reversal showing momentum shift
+- [Three Inside Up and Down](/three-inside-up-and-down/) — a three-candle reversal pattern based on harami
+- [Three Outside Up and Down](/three-outside-up-and-down/) — a three-candle reversal pattern based on engulfing
+- [Bullish Belt Hold](/bullish-belt-hold/) — a single-candle reversal signal
+- [Engulfing Pattern](/engulfing-pattern/) — a two-candle reversal showing momentum shift
 
 ### Wider context
 
-- [Candlestick Patterns](/technical-analysis/candlesticks/) — the complete guide to candle formations
+- Candlestick Patterns — the complete guide to candle formations
 - Technical Analysis — reading charts for trade signals
-- [Support and Resistance](/technical-analysis/support-and-resistance/) — price levels that validate patterns
-- [Moving Average](/technical-analysis/moving-average/) — trend confirmation and consolidation tools
-- [Volume](/technical-analysis/volume/) — validating breakouts and continuations with activity data
-- [Flag](/technical-analysis/flag/) — a similar consolidation pattern formed by support and resistance lines
+- [Support and Resistance](/support-and-resistance/) — price levels that validate patterns
+- [Moving Average](/moving-average/) — trend confirmation and consolidation tools
+- Volume — validating breakouts and continuations with activity data
+- Flag — a similar consolidation pattern formed by support and resistance lines
 
 </div>

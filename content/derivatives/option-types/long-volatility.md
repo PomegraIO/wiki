@@ -95,7 +95,7 @@ Long volatility also fails if you're early. You buy a straddle expecting a spike
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational contract.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/vega/">Vega</a> — sensitivity to volatility changes.</li>
 </ul>
 </div>

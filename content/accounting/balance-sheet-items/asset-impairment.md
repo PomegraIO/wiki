@@ -43,7 +43,7 @@ An [asset impairment](/wiki/asset-impairment/) charge flows through the income s
 
 ## Goodwill impairment and M&A accountability
 
-[Goodwill impairment](/wiki/goodwill-impairment/) is the most visible form of impairment, particularly for large acquirers. When a company acquires another for $5 billion and the acquired company's identifiable assets are worth $3 billion, the $2 billion difference is recorded as [goodwill](/wiki/goodwill/). If the acquired business underperforms, goodwill must be impaired. Large impairment charges signal that the acquisition was overpriced or that the integration failed. Investors watch goodwill impairments closely as a measure of management's capital allocation discipline. Serial large impairments at a company suggest a pattern of poor [M&A](/wiki/mergers-acquisitions/) strategy.
+[Goodwill impairment](/wiki/goodwill-impairment/) is the most visible form of impairment, particularly for large acquirers. When a company acquires another for $5 billion and the acquired company's identifiable assets are worth $3 billion, the $2 billion difference is recorded as [goodwill](/wiki/goodwill/). If the acquired business underperforms, goodwill must be impaired. Large impairment charges signal that the acquisition was overpriced or that the integration failed. Investors watch goodwill impairments closely as a measure of management's capital allocation discipline. Serial large impairments at a company suggest a pattern of poor M&A strategy.
 
 ## Reversals and international differences
 
@@ -59,7 +59,7 @@ Under [US GAAP](/wiki/generally-accepted-accounting-principles/), once an asset 
 - [Earnings quality](/wiki/earnings-quality/) — How analysts assess true earning power after excluding impairments
 
 ### Wider context
-- [Mergers and acquisitions](/wiki/mergers-acquisitions/) — Context in which goodwill (and later impairments) arise
+- Mergers and acquisitions — Context in which goodwill (and later impairments) arise
 - [Generally accepted accounting principles](/wiki/generally-accepted-accounting-principles/) — The US framework governing impairment rules
 - [International financial reporting standards](/wiki/international-financial-reporting-standards/) — IFRS approach to impairment
 - [Balance sheet](/wiki/balance-sheet/) — The statement on which asset values and impairments appear

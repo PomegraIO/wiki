@@ -87,7 +87,7 @@ If the stock price has doubled since vesting, the executive will resist. The com
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-governance/">Corporate Governance</a> — the broader framework of accountability.</li>
+  <li>Corporate Governance — the broader framework of accountability.</li>
   <li><a href="/wiki/fiduciary-duty/">Fiduciary Duty</a> — the legal obligation underlying clawbacks.</li>
 </ul>
 </div>

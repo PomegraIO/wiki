@@ -8,7 +8,7 @@ keywords:
   - first trade
 ---
 
-*The **opening print** is the price and volume of the first transaction executed for a security when the market opens for the day. It establishes the official opening price and is a key reference point for [technical analysts](/wiki/technical-analysis/) and traders monitoring [intraday momentum](/wiki/intraday-liquidity/).*
+*The **opening print** is the price and volume of the first transaction executed for a security when the market opens for the day. It establishes the official opening price and is a key reference point for technical analysts and traders monitoring [intraday momentum](/wiki/intraday-liquidity/).*
 
 <aside class="wiki-infobox">
 
@@ -87,7 +87,7 @@ The opening print often differs from the [previous day's close](/wiki/closing-pr
 
 **[Gap and go](/wiki/breakout-trading/).** A stock gaps up 5%+ at open. Traders bet it continues higher (momentum), or that it reverses (fade). High variance, high reward.
 
-**[Reversal at open.](/wiki/reversal/) A stock opens down 3%, traders quickly buy it (anticipating a bounce), and it reverses within 10 minutes. Requires fast execution and tight stops.
+**Reversal at open. A stock opens down 3%, traders quickly buy it (anticipating a bounce), and it reverses within 10 minutes. Requires fast execution and tight stops.
 
 **[Earnings play.](/wiki/earnings-surprise-strategy/) A company reports earnings after-market. Traders anticipate the overnight surprise and place orders before the opening auction. If their forecast is correct, they profit from the opening gap.
 
@@ -104,7 +104,7 @@ The opening print often differs from the [previous day's close](/wiki/closing-pr
 ### Wider context
 - [Market open and order flow](/wiki/order-execution-speed/)
 - [Algorithmic trading](/wiki/algorithmic-trading/)
-- [Technical analysis](/wiki/technical-analysis/)
+- Technical analysis
 - [Day trading](/wiki/day-trading/)
 
 </div>

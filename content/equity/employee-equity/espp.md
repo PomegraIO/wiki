@@ -66,7 +66,7 @@ Large public companies universally offer ESPPs because they are:
 4. **Alignment.** Employees become shareholders and benefit from stock price appreciation.
 5. **Psychological benefit.** Employees feel like owners, reducing turnover.
 
-## ESPP versus [RSUs](/equity/restricted-stock-units/) or [options](/equity/employee-stock-options/)
+## ESPP versus [RSUs](/restricted-stock-units/) or [options](/employee-stock-options/)
 
 - **ESPP**: Voluntary purchase at discount. Employee's choice, limited by IRS ($25,000 per year maximum purchase). Immediate gain on discount, plus future capital gains.
 - **RSUs**: Granted for free; vest over time; ordinary income tax at vesting.
@@ -82,7 +82,7 @@ Conversely, if the stock rises sharply, the employee buys at the (higher) openin
 
 ## Private company ESPPs
 
-Some private companies offer ESPPs, but the mechanics are harder because there is no public market price. The company must obtain a valuation to establish the "fair market value" at each purchase point. This is expensive, so many private companies skip ESPPs and rely on [restricted stock](/equity/restricted-stock/) or [options](/equity/employee-stock-options/) instead.
+Some private companies offer ESPPs, but the mechanics are harder because there is no public market price. The company must obtain a valuation to establish the "fair market value" at each purchase point. This is expensive, so many private companies skip ESPPs and rely on [restricted stock](/restricted-stock/) or [options](/employee-stock-options/) instead.
 
 ## IRS Section 423 requirements
 
@@ -103,18 +103,18 @@ Public companies subject to SEC rules often have trading blackout periods around
 
 ### Closely related
 
-- [Restricted stock](/equity/restricted-stock/) — alternative employee equity
-- [Employee stock options](/equity/employee-stock-options/) — grant-based alternative
-- [Restricted stock units](/equity/restricted-stock-units/) — modern grant alternative
-- [ESOP](/equity/esop/) — employee stock ownership plan (broader)
-- [Common stock](/equity/common-stock/) — what employees purchase
+- [Restricted stock](/restricted-stock/) — alternative employee equity
+- [Employee stock options](/employee-stock-options/) — grant-based alternative
+- [Restricted stock units](/restricted-stock-units/) — modern grant alternative
+- [ESOP](/esop/) — employee stock ownership plan (broader)
+- [Common stock](/common-stock/) — what employees purchase
 
 ### Wider context
 
 - [Public company](/public-company/) — primary issuer of ESPPs
-- [Equity compensation](/equity/iso/) — broader category
+- [Equity compensation](/iso/) — broader category
 - [Stock market](/stock-market/) — determines ESPP purchase price
-- [Employee ownership](/equity/esop/) — theme
-- [Tax-advantaged investing](/equity/iso/) — favorable tax treatment
+- [Employee ownership](/esop/) — theme
+- [Tax-advantaged investing](/iso/) — favorable tax treatment
 
 </div>

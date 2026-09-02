@@ -73,6 +73,6 @@ Bond indices often have minimum issue-size requirements (e.g., $100–300 millio
 <ul>
   <li><a href="/wiki/corporate-bond/">Corporate bond</a> — the underlying security being issued.</li>
   <li><a href="/wiki/bond-refunding/">Bond refunding</a> — refinancing often involves sizing decisions.</li>
-  <li><a href="/wiki/benchmark/">Benchmark</a> — larger issues become benchmarks for their maturity/sector.</li>
+  <li>Benchmark — larger issues become benchmarks for their maturity/sector.</li>
 </ul>
 </div>

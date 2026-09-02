@@ -81,7 +81,7 @@ Some companies report consolidated results in primary statements and then provid
 - [Asset impairment](/wiki/asset-impairment/) — related testing of fair values
 
 ### Wider context
-- [Financial statements](/wiki/financial-statements/) — documents being consolidated
+- Financial statements — documents being consolidated
 - [Income statement](/wiki/income-statement/) — where consolidated earnings appear
 - [Acquisition](/wiki/acquisition/) — transaction triggering consolidation
 - [Financial reporting](/wiki/revenue-recognition/) — standards governing consolidation (ASC 810 in US)

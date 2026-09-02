@@ -96,7 +96,7 @@ The index declined 30–40% in 2008 (global financial crisis), 10–15% in the 2
 ### Wider context
 
 - [Euronext](/wiki/euronext/) — The exchange on which the CAC trades
-- [European equity](/wiki//) — Broader category of European stock exposure
+- European equity — Broader category of European stock exposure
 - [Currency risk](/wiki/currency-risk/) — Exposure for non-euro investors
 - [Dividend yield](/wiki/dividend-yield/) — Income component of CAC 40 returns
 

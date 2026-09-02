@@ -97,7 +97,7 @@ The Fed also watches "trimmed mean" inflation measures (from the Federal Reserve
 
 ## The 2% target over time and debate
 
-The Fed's 2% inflation target has been consistent since the 2010s, but it is not universally accepted. Some economists argue 2% is too high and causes unnecessary [price instability](/wiki/inflation-volatility/). Others argue the Fed should target a higher rate (3–4%) to provide more buffer against deflation, especially if [productivity](/wiki/productivity/) growth slows.
+The Fed's 2% inflation target has been consistent since the 2010s, but it is not universally accepted. Some economists argue 2% is too high and causes unnecessary price instability. Others argue the Fed should target a higher rate (3–4%) to provide more buffer against deflation, especially if [productivity](/wiki/productivity/) growth slows.
 
 The "flexible average inflation targeting" framework adopted in 2020 allows the Fed to average its inflation misses: if it undershoots 2% for a year, it aims for slightly above 2% the next year, balancing out. This recognizes that 2% is a medium-run target, not a point target hit exactly every month.
 

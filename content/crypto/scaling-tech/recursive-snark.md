@@ -22,12 +22,12 @@ image: "/svg/crypto.svg"
 
 |   |   |
 |---|---|
-| **What it is** | A [zero-knowledge proof](/crypto/zero-knowledge-proof/) that takes another proof as input, verifies it, and outputs a new proof of correctness |
+| **What it is** | A zero-knowledge proof that takes another proof as input, verifies it, and outputs a new proof of correctness |
 | **Key property** | Composability: proofs can be nested indefinitely without growing in size |
 | **Primary use** | Batch aggregation of transactions, computations, or other proofs across many rounds |
 | **Proof size** | Constant, regardless of the computation verified (typically a few hundred bytes) |
 | **Verification cost** | Logarithmic in the depth of recursion, or constant with amortisation |
-| **Also called** | Proof composition, proof aggregation, [SNARK](/crypto/snark/) folding |
+| **Also called** | Proof composition, proof aggregation, SNARK folding |
 
 </aside>
 
@@ -43,7 +43,7 @@ This is why recursion is exponential: one level of recursion can halve the numbe
 
 The most practical recursive SNARK construction uses **folding**. Instead of verifying a previous proof cryptographically (which is expensive), folding allows you to verify it *algebraically* by producing a new constraint that represents both the old proof's validity and the new computation in a single fold.
 
-[IVC (Incremental Verifiable Computation)](/crypto/ivc/) and [Nova](/crypto/nova-folding/) are the canonical implementations. They reduce the verifier's work to a few cryptographic checks, regardless of how many times you've folded proofs together. The cost doesn't compound; it stays linear in the number of folds, not exponential.
+IVC (Incremental Verifiable Computation) and Nova are the canonical implementations. They reduce the verifier's work to a few cryptographic checks, regardless of how many times you've folded proofs together. The cost doesn't compound; it stays linear in the number of folds, not exponential.
 
 ## Why size doesn't grow
 
@@ -53,9 +53,9 @@ This asymmetry means you can afford to nest proofs dozens or hundreds of times a
 
 ## Applications in scaling
 
-Rollups and other [layer 2](/crypto/layer-2/) systems use recursive SNARks to batch thousands of transactions into a single proof. Instead of posting 1,000 transaction proofs onchain, you post one recursive proof that says "I have verified all 1,000 proofs." The Ethereum [mainnet](/crypto/ethereum/) still performs one proof verification, not 1,000.
+Rollups and other layer 2 systems use recursive SNARks to batch thousands of transactions into a single proof. Instead of posting 1,000 transaction proofs onchain, you post one recursive proof that says "I have verified all 1,000 proofs." The Ethereum [mainnet](/ethereum/) still performs one proof verification, not 1,000.
 
-This compression extends beyond transactions. Recursive proofs can verify entire blocks, state transitions, or even other blockchains. Some designs layer recursion across multiple chains: a [rollup](/crypto/rollup/) proves its state, another rollup's proof verifies that proof, and so on.
+This compression extends beyond transactions. Recursive proofs can verify entire blocks, state transitions, or even other blockchains. Some designs layer recursion across multiple chains: a rollup proves its state, another rollup's proof verifies that proof, and so on.
 
 ## Practical limitations and tradeoffs
 
@@ -65,7 +65,7 @@ The verifier gains the most: verification time is cheap and constant. But the pr
 
 ## Recursion meets other scaling techniques
 
-Recursive SNARks work alongside other compression methods. [Danksharding](/crypto/scaling-tech/danksharding/) decouples data from computation; [proto-Danksharding](/crypto/scaling-tech/proto-danksharding/) stages the transition. Recursive proofs handle the *proof* layer. A full scaling stack might use data sharding for throughput and recursive proof folding for settlement assurance.
+Recursive SNARks work alongside other compression methods. [Danksharding](/danksharding/) decouples data from computation; [proto-Danksharding](/proto-danksharding/) stages the transition. Recursive proofs handle the *proof* layer. A full scaling stack might use data sharding for throughput and recursive proof folding for settlement assurance.
 
 The two are complementary. Sharding pushes data availability in parallel; recursion compresses the proof of correct execution.
 
@@ -75,16 +75,16 @@ The two are complementary. Sharding pushes data availability in parallel; recurs
 
 ### Closely related
 
-- [Zero-Knowledge Proof](/crypto/zero-knowledge-proof/) — the cryptographic primitive underlying all SNARks
-- [SNARK](/crypto/snark/) — succinct non-interactive arguments of knowledge
-- [Rollup](/crypto/rollup/) — layer 2 solution that batches transactions and proves them recursively
-- [Proto-Danksharding](/crypto/scaling-tech/proto-danksharding/) — EIP-4844 blob mechanism for proof and data availability
-- [Danksharding](/crypto/scaling-tech/danksharding/) — full sharding design orthogonal to proof recursion
+- Zero-Knowledge Proof — the cryptographic primitive underlying all SNARks
+- SNARK — succinct non-interactive arguments of knowledge
+- Rollup — layer 2 solution that batches transactions and proves them recursively
+- [Proto-Danksharding](/proto-danksharding/) — EIP-4844 blob mechanism for proof and data availability
+- [Danksharding](/danksharding/) — full sharding design orthogonal to proof recursion
 
 ### Wider context
 
-- [Layer 2](/crypto/layer-2/) — scaling solutions built on top of layer 1 blockchains
-- [Proof of Work](/crypto/proof-of-work/) — consensus mechanism that benefits from compact proofs
-- [Blockchain Fundamentals](/crypto/blockchain-fundamentals/) — the settlement layer that recursive proofs serve
+- Layer 2 — scaling solutions built on top of layer 1 blockchains
+- [Proof of Work](/proof-of-work/) — consensus mechanism that benefits from compact proofs
+- [Blockchain Fundamentals](/blockchain-fundamentals/) — the settlement layer that recursive proofs serve
 
 </div>

@@ -23,7 +23,7 @@ This problem became acute with technology. The original iPhone cost $599 in 2007
 
 The standard adjustment technique is **hedonic pricing**. Statisticians run regressions that decompose a product's price into its characteristics: processor speed, RAM, screen size, battery life, etc. Each characteristic is assigned a marginal price. If RAM increased by 2 GB between two observations, the hedonic model estimates the price change attributable to that RAM boost, then strips it out to isolate the "pure" price change.
 
-For a car, hedonic models regress price on engine displacement, weight, safety features, fuel economy, and warranty length. For a refrigerator, they use capacity, energy efficiency, and features like ice-makers. The [Bureau of Labor Statistics](/wiki/bls/) (BLS) employs this method for technology, appliances, and vehicles, which account for a significant chunk of CPI weighting.
+For a car, hedonic models regress price on engine displacement, weight, safety features, fuel economy, and warranty length. For a refrigerator, they use capacity, energy efficiency, and features like ice-makers. The Bureau of Labor Statistics (BLS) employs this method for technology, appliances, and vehicles, which account for a significant chunk of CPI weighting.
 
 The advantage is precision: each feature gets a price. The disadvantage is that the regression coefficients are estimates—they vary with the sample and time period—and new features (smartphone cameras in 2007) or disappearing features (cassette decks in cars) are hard to value because there's no historical price data.
 

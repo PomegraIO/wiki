@@ -144,7 +144,7 @@ Most tools generate year-end reports with spending summaries by category, allowi
 - [Cash Flow Management](/wiki/cash-flow-management-personal/) — Tracking income and outflows
 
 ### Wider context
-- [Personal Finance](/wiki/personal-finance/) — Broader individual financial management
+- Personal Finance — Broader individual financial management
 - [Savings Rate](/wiki/savings-rate/) — Target percentage to save annually
 - [Debt Consolidation](/wiki/debt-consolidation/) — Strategy for managing multiple debts
 - [The 50-30-20 Budget](/wiki/the-50-30-20-budget/) — Popular budget allocation rule

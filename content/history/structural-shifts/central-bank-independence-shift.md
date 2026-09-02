@@ -18,7 +18,7 @@ The result was chronic [inflation](/wiki/inflation/). By 1980, the U.S. [inflati
 
 ## The independence shift
 
-The pivotal moment came in the early 1980s. [Paul Volcker](/wiki/paul-volcker/), Federal Reserve chair from 1979 to 1987, raised the [federal funds rate](/wiki/federal-funds-rate/) to over 20% to break inflation psychology, accepting severe [recession](/wiki/recession/) and unemployment above 10%. He had political cover—[Ronald Reagan](/wiki/ronald-reagan/) endorsed the pain, and by 1985, [inflation](/wiki/inflation/) had plummeted to 3%.
+The pivotal moment came in the early 1980s. [Paul Volcker](/wiki/paul-volcker/), Federal Reserve chair from 1979 to 1987, raised the [federal funds rate](/wiki/federal-funds-rate/) to over 20% to break inflation psychology, accepting severe [recession](/wiki/recession/) and unemployment above 10%. He had political cover—Ronald Reagan endorsed the pain, and by 1985, [inflation](/wiki/inflation/) had plummeted to 3%.
 
 Other nations observed Volcker's success and drew a lesson: central banks insulated from political pressure could achieve lower inflation without sacrificing long-run growth. The Bundesbank—operationally independent under West German law—had maintained low [inflation](/wiki/inflation/) and strong growth throughout the 1970s, further validating the model.
 
@@ -32,7 +32,7 @@ A formal **[inflation](/wiki/inflation/) target**—typically 2% in most major d
 
 ## Empirical consequences
 
-Academic research by economists including [Alesina and Summers](/wiki/macroeconomics/) (1993) found a strong cross-country correlation: nations with independent central banks had lower average [inflation](/wiki/inflation/) and no higher long-run unemployment. The intuition is straightforward: an independent central bank can commit to ignoring short-term political pressure for easy money, and that credible commitment lowers the sacrifice ratio—the unemployment cost of reducing [inflation](/wiki/inflation/) by 1 percentage point.
+Academic research by economists including Alesina and Summers (1993) found a strong cross-country correlation: nations with independent central banks had lower average [inflation](/wiki/inflation/) and no higher long-run unemployment. The intuition is straightforward: an independent central bank can commit to ignoring short-term political pressure for easy money, and that credible commitment lowers the sacrifice ratio—the unemployment cost of reducing [inflation](/wiki/inflation/) by 1 percentage point.
 
 From the 1980s through 2007, the **Great Moderation**—a period of low and stable [inflation](/wiki/inflation/), declining [business cycle](/wiki/business-cycle/) volatility, and strong growth—coincided with the spread of central bank independence. While many factors drove the Great Moderation (globalization, technology, stable expectations), independent central banks played a material role.
 
@@ -60,7 +60,7 @@ The consensus view—that independent central banks are superior to politicized 
 
 ### Wider context
 - [Stagflation](/wiki/stagflation/) — The 1970s crisis that motivated independence reforms
-- [Great Moderation](/wiki/macroeconomics/) — The period of low volatility that followed
+- Great Moderation — The period of low volatility that followed
 - [European Central Bank](/wiki/european-central-bank/) — A major example of independent central banking
 - [Financial Regulation and Supervision](/wiki/financial-regulation-and-supervision/) — The broader policy framework
 

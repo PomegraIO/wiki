@@ -75,7 +75,7 @@ To manage this volatility, many countries use:
 
 ## The role of capital flows in development
 
-For developing countries, capital inflows are often essential to growth. Poor countries with [capital-scarce](/wiki/capital-allocation/) economies cannot generate enough domestic savings to fund investment. FDI (a factory, infrastructure project) and portfolio inflows (equity and bond purchases) bridge the gap, providing capital that would not otherwise be available.
+For developing countries, capital inflows are often essential to growth. Poor countries with capital-scarce economies cannot generate enough domestic savings to fund investment. FDI (a factory, infrastructure project) and portfolio inflows (equity and bond purchases) bridge the gap, providing capital that would not otherwise be available.
 
 However, this dependence creates vulnerability. A sudden stop—reversal of capital inflows—can be catastrophic. The country must either [default](/wiki/sovereign-default/) on debt, impose painful [capital controls](/wiki/capital-control-policy/), or accept a severe [recession](/wiki/recession/) and currency crash as adjustment mechanisms. Numerous developing-country crises have unfolded along these lines.
 

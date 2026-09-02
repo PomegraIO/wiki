@@ -28,7 +28,7 @@ If the stock trades at $12, the value-to-book ratio is 2.0x. Investors are payin
 
 ## When value-to-book is above 1.0
 
-A value-to-book ratio above 1.0 means the market values the company above its book value. This is normal for profitable companies with strong competitive advantages. A [software company](/wiki/software-as-a-service/) might trade at 5x book value because its assets (talent, software, customer relationships) generate high returns that book value does not capture.
+A value-to-book ratio above 1.0 means the market values the company above its book value. This is normal for profitable companies with strong competitive advantages. A software company might trade at 5x book value because its assets (talent, software, customer relationships) generate high returns that book value does not capture.
 
 A high ratio does not mean the stock is overvalued—it reflects market expectations of future profitability and growth.
 
@@ -40,7 +40,7 @@ However, a low ratio does not automatically signal a bargain. If a company is un
 
 ## Sector patterns are pronounced
 
-Banks and [insurance companies](/wiki/insurance/) often trade near book value (0.8x to 1.5x) because most of their "assets" are financial claims (loans, investments) that are regularly marked to market. There is not much hidden value.
+Banks and insurance companies often trade near book value (0.8x to 1.5x) because most of their "assets" are financial claims (loans, investments) that are regularly marked to market. There is not much hidden value.
 
 Tech and healthcare companies often trade at 3x–10x book value because most value is in [intangible assets](/wiki/intangible-assets/)—brand, patents, talent—that do not appear on the balance sheet. Utilities often trade at 1.0x–1.5x because they are mature and low-growth.
 
@@ -92,6 +92,6 @@ This approach is rarely used today because competitive markets and information t
 <ul>
   <li><a href="/wiki/value-investing/">Value investing</a> — the discipline often using book value multiples.</li>
   <li><a href="/wiki/deep-value-investing/">Deep value investing</a> — extreme value-to-book screening.</li>
-  <li><a href="/wiki/market-cap/">Market capitalization</a> — the numerator in this ratio.</li>
+  <li>Market capitalization — the numerator in this ratio.</li>
 </ul>
 </div>

@@ -95,14 +95,14 @@ Finally, monitor: as new information arrives, update your estimate. Competitor f
 
 - [Option](/option/) — foundational concepts of calls, puts, and exercise decisions
 - [Discounted Cash Flow Valuation](/discounted-cash-flow-valuation/) — baseline NPV method that real options extends
-- [Patent Protection](//) — the statutory basis for many pharmaceutical and tech real options
+- Patent Protection — the statutory basis for many pharmaceutical and tech real options
 - [Intrinsic Value](/intrinsic-value/) — what an option is worth at expiration
 - [Call Option](/call-option/) — the financial analogue that anchors real options logic
-- [Valuation](//) — the broader discipline that embeds real options thinking
+- Valuation — the broader discipline that embeds real options thinking
 
 ### Wider context
 
-- [Investment Decision](//) — when and why firms invest in capital projects
+- Investment Decision — when and why firms invest in capital projects
 - [Market Timing](/market-timing/) — the flip side: retail investor behavior trying to time stock entry
 - [Leveraged Buyout](/leveraged-buyout/) — deals often embed real options (divide, scale, exit timelines)
 - [Business Combination, Purchase](/business-combination-purchase/) — acquisitions can be framed as exercising an option to own upside

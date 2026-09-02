@@ -40,7 +40,7 @@ This dynamic makes AUD/USD a useful proxy for gauging **market perception of glo
 
 ## Reserve Bank of Australia policy and interest-rate differentials
 
-The [Reserve Bank of Australia](/wiki/reserve-bank-australia/) (RBA) has historically maintained higher [interest rates](/wiki/interest-rate/) than the U.S. Federal Reserve, creating a positive [carry-trade](/wiki/carry-trade/) opportunity. When the Fed funds rate was near zero (2009–2015, 2020–2021) and the RBA was 2–3%, the AUD was a popular funding currency for [carry trades](/wiki/carry-trade-pairs/): borrow AUD, invest in higher-yielding assets globally, pocket the interest-rate differential.
+The Reserve Bank of Australia (RBA) has historically maintained higher [interest rates](/wiki/interest-rate/) than the U.S. Federal Reserve, creating a positive [carry-trade](/wiki/carry-trade/) opportunity. When the Fed funds rate was near zero (2009–2015, 2020–2021) and the RBA was 2–3%, the AUD was a popular funding currency for [carry trades](/wiki/carry-trade-pairs/): borrow AUD, invest in higher-yielding assets globally, pocket the interest-rate differential.
 
 The RBA began tightening in May 2022, but not as aggressively as the Fed, narrowing the spread. As of 2024, the differential has compressed but remains positive in many periods. Traders monitor [interest-rate expectations](/wiki/interest-rate-parity/) and RBA communications closely; a dovish hold or rate cut by the RBA while the Fed remains hawkish can push AUD/USD lower rapidly.
 
@@ -61,7 +61,7 @@ AUD/USD historically trades in multi-year ranges, with structural support and re
 - **Long-term resistance**: 1.10–1.20 USD (highs reached in 2008–2011 commodity boom).
 - **Recent range (2020–2024)**: 0.65–0.85 USD, with the pair consolidating in the 0.70–0.80 band.
 
-The pair is heavily traded on [technical analysis](/wiki/technical-analysis/); [moving averages](/wiki/moving-average-convergence-divergence/), [Fibonacci levels](/wiki/fibonacci-levels/), and [support/resistance](/wiki/support-and-resistance/) zones are watched closely. Breaks above 0.80 often trigger momentum buying; breaks below 0.70 trigger momentum selling.
+The pair is heavily traded on technical analysis; moving averages, [Fibonacci levels](/wiki/fibonacci-levels/), and [support/resistance](/wiki/support-and-resistance/) zones are watched closely. Breaks above 0.80 often trigger momentum buying; breaks below 0.70 trigger momentum selling.
 
 ## Carry trade dynamics and leverage
 
@@ -106,7 +106,7 @@ These patterns are typically dwarfed by macro themes (RBA policy, Fed policy, co
 - [Commodity currency pairs](/wiki/commodity-currency-pairs/) — The broader category
 - [Carry trade](/wiki/carry-trade/) — The financing mechanism
 - [Carry trade pairs](/wiki/carry-trade-pairs/) — Common pairings (AUD/JPY, etc.)
-- [Reserve Bank of Australia](/wiki/reserve-bank-australia/) — The conducting institution
+- Reserve Bank of Australia — The conducting institution
 
 ### Wider context
 - [Currency pair](/wiki/currency-pair/) — The trading mechanics

@@ -10,7 +10,7 @@ keywords:
   - speculative demand
 ---
 
-*[Liquidity preference theory](https://example.com) is John Maynard Keynes's framework for explaining how the supply and demand for money determine the rate of interest. Rather than viewing interest as the price that balances investment with savings—the classical view—Keynes argued that interest is fundamentally the reward for surrendering liquidity, and emerges from the interplay of money supply controlled by the central bank and money demand driven by three distinct motives.*
+*Liquidity preference theory is John Maynard Keynes's framework for explaining how the supply and demand for money determine the rate of interest. Rather than viewing interest as the price that balances investment with savings—the classical view—Keynes argued that interest is fundamentally the reward for surrendering liquidity, and emerges from the interplay of money supply controlled by the central bank and money demand driven by three distinct motives.*
 
 <aside class="wiki-infobox">
 

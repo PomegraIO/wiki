@@ -68,9 +68,9 @@ The **WTO Dispute Settlement Understanding** handles disputes between WTO member
 - [Trade Deficit](/wiki/trade-deficit-era/) — National trade patterns that FTAs affect
 
 ### Wider context
-- [World Trade Organization](/wiki/wtc-wto/) — The global trading framework
+- World Trade Organization — The global trading framework
 - [Protectionism](/wiki/protectionism/) — The alternative to trade liberalization
-- [NAFTA and Regional Trade Blocs](/wiki/nafta/) — Major multilateral FTAs
+- NAFTA and Regional Trade Blocs — Major multilateral FTAs
 - [Capital Flows and Trade](/wiki/capital-flows/) — The relationship between trade and investment
 
 </div>

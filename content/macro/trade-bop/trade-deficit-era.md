@@ -42,11 +42,11 @@ Persistent deficits also shift income distribution. Workers in import-competing 
 
 Since the 2008 financial crisis, the deficit has widened again. Americans have rebuilt wealth through equity and real estate gains, so consumption stays high. China [maintained a peg](/wiki/currency-peg/) to the dollar until 2005, then a crawling peg, flooding the market with cheap goods. The deficit with China alone exceeded $380 billion in 2023.
 
-Policy responses vary by administration. The [Trump](/wiki/tariff/) era imposed [tariffs](/wiki/tariff/) on Chinese imports (2018–2019) in an attempt to narrow the deficit. The Biden administration maintained most tariffs and added others on electric vehicles and semiconductors, framing them as [industrial policy](/wiki/capital-allocation-activism/) rather than pure retaliation. Economists remain divided: some argue tariffs reduce deficits by raising import prices; others warn they trigger [retaliation](/wiki/trade-war/) and distort [capital allocation](/wiki/capital-allocation-activism/).
+Policy responses vary by administration. The Trump era imposed tariffs on Chinese imports (2018–2019) in an attempt to narrow the deficit. The Biden administration maintained most tariffs and added others on electric vehicles and semiconductors, framing them as [industrial policy](/wiki/capital-allocation-activism/) rather than pure retaliation. Economists remain divided: some argue tariffs reduce deficits by raising import prices; others warn they trigger [retaliation](/wiki/trade-war/) and distort [capital allocation](/wiki/capital-allocation-activism/).
 
 ## Why deficits persist despite policy
 
-Three structural reasons explain why trade deficits haven't closed despite decades of concern. First, the dollar's [status as a reserve currency](/wiki/currency-reserve/) means foreign governments and companies must hold dollars for trade settlement and reserves. That demand supports the dollar and makes imports cheap. Second, American [asset markets](/wiki/market-capitalization/) are the largest and deepest in the world, so capital flows in regardless of the trade deficit—foreigners invest in U.S. stocks and bonds, accumulate dollars, and spend them on imports. Third, global supply chains are deeply integrated; many "imports" from Asia contain American intellectual property and intermediate goods, so the headline deficit overstates the loss of domestic value.
+Three structural reasons explain why trade deficits haven't closed despite decades of concern. First, the dollar's status as a reserve currency means foreign governments and companies must hold dollars for trade settlement and reserves. That demand supports the dollar and makes imports cheap. Second, American [asset markets](/wiki/market-capitalization/) are the largest and deepest in the world, so capital flows in regardless of the trade deficit—foreigners invest in U.S. stocks and bonds, accumulate dollars, and spend them on imports. Third, global supply chains are deeply integrated; many "imports" from Asia contain American intellectual property and intermediate goods, so the headline deficit overstates the loss of domestic value.
 
 The [current account deficit](/wiki/current-account-deficit/) is the flip side of the trade deficit. When the United States runs a trade deficit, it must balance the current account by attracting net capital inflows—foreign [direct investment](/wiki/foreign-direct-investment/), equity purchases, and bond buying. That capital surplus funds American deficits but also means the United States is a net debtor to the rest of the world, a reversal of its 1980s position.
 
@@ -66,7 +66,7 @@ Whether the trade deficit era ends depends on whether American [competitiveness]
 ### Wider context
 - [Wage Growth Expectations](/wiki/wage-growth-expectations/) — Wage stagnation in import-competing sectors
 - [Industrial Production Index](/wiki/industrial-production-index/) — The decline in U.S. manufacturing output
-- [Tariff](/wiki/tariff/) — Import duties used to narrow deficits
+- Tariff — Import duties used to narrow deficits
 - [Trade War](/wiki/trade-war/) — Retaliation and escalation in trade disputes
 - [Carry Trade](/wiki/carry-trade/) — The currency arbitrage that amplifies deficits
 

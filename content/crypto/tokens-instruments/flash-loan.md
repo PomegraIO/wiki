@@ -77,6 +77,6 @@ Flash loans are useful only for opportunities that can be exploited in a single 
 <ul>
 <li><a href="/wiki/decentralized-exchange/">Decentralized Exchange</a> — a common target of flash-loan attacks.</li>
 <li><a href="/wiki/ethereum/">Ethereum</a> — the blockchain where most flash loans originate.</li>
-<li><a href="/wiki/oracle/">Proof of Work</a> — improving oracle design is key to flash-loan defense.</li>
+<li>Proof of Work — improving oracle design is key to flash-loan defense.</li>
 </ul>
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **line chart** plots only the closing price for each time period, connecting them with a continuous line. It is the simplest and oldest form of price visualization—a trader can quickly see whether price has moved up or down—but it sacrifices detail. Open, high, and low prices are not shown; only the close matters. Line charts are useful for identifying long-term trends, removing intraday noise, and creating an uncluttered view of price direction. They are less useful for pattern recognition, which typically requires the high and low prices that [candlestick](/technical-analysis/candlestick-chart) and [OHLC bar](/technical-analysis/ohlc-bar-chart) charts display.*
+*A **line chart** plots only the closing price for each time period, connecting them with a continuous line. It is the simplest and oldest form of price visualization—a trader can quickly see whether price has moved up or down—but it sacrifices detail. Open, high, and low prices are not shown; only the close matters. Line charts are useful for identifying long-term trends, removing intraday noise, and creating an uncluttered view of price direction. They are less useful for pattern recognition, which typically requires the high and low prices that [candlestick](/candlestick-chart/) and [OHLC bar](/ohlc-bar-chart/) charts display.*
 
 <div class="wiki-hatnote">
 
-For more detail, see [candlestick chart](/technical-analysis/candlestick-chart) (four prices) and [OHLC bar chart](/technical-analysis/ohlc-bar-chart) (four prices, different format).
+For more detail, see [candlestick chart](/candlestick-chart/) (four prices) and [OHLC bar chart](/ohlc-bar-chart/) (four prices, different format).
 
 </div>
 
@@ -66,7 +66,7 @@ A trader looking at a daily line chart immediately sees whether the price has ge
 
 **No gap visibility:** When a security opens with a gap relative to the prior close, that gap is lost in a line chart. The line simply connects the closes, ignoring the opening price.
 
-**Pattern recognition is limited:** Candlestick patterns, chart patterns, and most technical analysis frameworks depend on knowing the high and low. A line chart cannot display patterns like [hammers](/technical-analysis/hammer-candle), [engulfings](/technical-analysis/engulfing-pattern), or [head-and-shoulders](/technical-analysis/head-and-shoulders).
+**Pattern recognition is limited:** Candlestick patterns, chart patterns, and most technical analysis frameworks depend on knowing the high and low. A line chart cannot display patterns like [hammers](/hammer-candle/), [engulfings](/engulfing-pattern/), or [head-and-shoulders](/head-and-shoulders/).
 
 **False sense of smoothness:** A line chart, by connecting closes directly, can create an illusion of smooth continuous movement. In reality, there might be sharp intraday spikes or holes that the closes obscure.
 
@@ -86,7 +86,7 @@ Candlestick charts show four prices: open, high, low, close. A line chart shows 
 
 ## Comparison to OHLC bars
 
-[OHLC bar charts](/technical-analysis/ohlc-bar-chart) show the same four prices as candlesticks but in a different visual format. They are richer in information than line charts and equally uncluttered. For most traders, an OHLC bar is preferable to a line chart because it preserves the high and low.
+[OHLC bar charts](/ohlc-bar-chart/) show the same four prices as candlesticks but in a different visual format. They are richer in information than line charts and equally uncluttered. For most traders, an OHLC bar is preferable to a line chart because it preserves the high and low.
 
 ## Common mistakes with line charts
 
@@ -104,15 +104,15 @@ For swing trading or intraday work, these oversights can be costly.
 
 ### Chart types
 
-- [Candlestick chart](/technical-analysis/candlestick-chart) — shows four prices
-- [OHLC bar chart](/technical-analysis/ohlc-bar-chart) — shows four prices, different format
-- [Renko chart](/technical-analysis/renko-chart) — price-based, no time axis
-- [Kagi chart](/technical-analysis/kagi-chart) — thin/thick lines based on reversals
-- [Point-and-figure chart](/technical-analysis/point-and-figure-chart) — X's and O's
+- [Candlestick chart](/candlestick-chart/) — shows four prices
+- [OHLC bar chart](/ohlc-bar-chart/) — shows four prices, different format
+- [Renko chart](/renko-chart/) — price-based, no time axis
+- [Kagi chart](/kagi-chart/) — thin/thick lines based on reversals
+- [Point-and-figure chart](/point-and-figure-chart/) — X's and O's
 
 ### Analysis using closes
 
-- [Moving average](/technical-analysis/simple-moving-average) — typically plotted on closes
-- [Support and resistance](/technical-analysis/support-and-resistance) — visible at closing price levels
+- [Moving average](/simple-moving-average/) — typically plotted on closes
+- [Support and resistance](/support-and-resistance/) — visible at closing price levels
 
 </div>

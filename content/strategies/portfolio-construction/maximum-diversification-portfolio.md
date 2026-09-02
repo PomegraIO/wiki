@@ -30,7 +30,7 @@ image: "/svg/strategies.svg"
 | **Correlation insight** | Low-correlation assets amplify the diversification ratio |
 | **Computing** | Non-linear optimization; converges quickly |
 | **Limiting case** | With zero correlation, all assets weighted equally |
-| **Relationship** | More extreme than [equal-weight](/.), more diversified than [volatility-weighted](/.) |
+| **Relationship** | More extreme than equal-weight, more diversified than volatility-weighted |
 
 </aside>
 
@@ -105,8 +105,8 @@ There is also a subtle issue of interpretation. A very high diversification rati
 - [Mean-variance optimization](/mean-variance-optimization/) — the competing framework that uses return forecasts
 - [Black-Litterman model](/black-litterman-model/) — blending market views with portfolio constraints
 - [Volatility](/currency-volatility/) — the input measure of individual asset risk
-- [Correlation](/.) — the input measure of joint movement among assets
-- [Risk-parity allocation](/.) — assigning equal risk contribution across assets
+- Correlation — the input measure of joint movement among assets
+- Risk-parity allocation — assigning equal risk contribution across assets
 
 ### Wider context
 

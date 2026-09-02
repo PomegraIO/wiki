@@ -28,7 +28,7 @@ keywords:
 
 When a company grants 10 million [stock options](/wiki/employee-stock-options/) to employees at a $50 exercise price and the stock later trades at $100, those options will almost certainly be exercised. The employee gets the spread ($50 per share). But that spread comes from *existing shareholders*, who now own a smaller percentage of total equity. If a company had 100 million basic shares and 110 million fully diluted shares, each 1% owner in the basic count actually owns only 0.91% on a fully diluted basis. Over years of large option grants, this dilution can reduce a founding shareholder's ownership stake by 10–20% even without any new capital being raised.
 
-Conversely, when a founder or early investor buys a $50 million stake in a private company and later holds board seats, they are acutely aware of *how many* fully diluted shares exist because that number determines how much they own of the eventual [exit](/wiki/liquidity-event/). Venture investors explicitly negotiate the dilution budget—how many shares are reserved for future option grants—as part of their funding terms.
+Conversely, when a founder or early investor buys a $50 million stake in a private company and later holds board seats, they are acutely aware of *how many* fully diluted shares exist because that number determines how much they own of the eventual exit. Venture investors explicitly negotiate the dilution budget—how many shares are reserved for future option grants—as part of their funding terms.
 
 ## The treasury stock method: how dilution is computed
 

@@ -95,12 +95,12 @@ The best distressed value investors (Joel Greenblatt, Marty Whitman) excel at th
 - [Value Trap Avoidance Fund](/wiki/value-trap-avoidance-fund/) — Distinguishing cheap from value traps
 - [Activist Investor Typology](/wiki/activist-investor-typology/) — How activists push for change
 - [Debt Restructuring](/wiki/debt-restructuring/) — Institutional process for distressed firms
-- [Turnaround Strategy](/wiki/turnaround-strategy/) — Operational recovery playbook
+- Turnaround Strategy — Operational recovery playbook
 
 ### Wider context
 - [Value Investing](/wiki/value-investing/) — Core discipline and philosophy
 - [Mergers](/wiki/merger/) — Why M&A can create distress
-- [Margin of Safety](/wiki/margin-of-safety/) — Buying with buffer to intrinsic value
+- Margin of Safety — Buying with buffer to intrinsic value
 - [Mean Reversion Investing](/wiki/mean-reversion-investing/) — Betting on regression to average
 - [Cyclical Value Timing](/wiki/cyclical-value-timing/) — Timing value rotations in economic cycles
 

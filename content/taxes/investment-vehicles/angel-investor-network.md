@@ -45,11 +45,11 @@ Founders benefit from a network's reach. Rather than cold-pitch 50 individual an
 
 ## Valuation and pricing discipline
 
-Early-stage companies have little [financial history](/wiki/financial-regulation-and-supervision/); networks rely on comparable [pre-money valuations](/wiki/valuation/), team track record, and market size. Some networks adopt a **standard template**—say, a simple agreement for future equity (SAFE) or convertible note—to reduce negotiation friction. This standardization can work for or against founders: it streamlines deals but may reduce founder leverage on valuation and terms versus an individual angel with less capital.
+Early-stage companies have little [financial history](/wiki/financial-regulation-and-supervision/); networks rely on comparable pre-money valuations, team track record, and market size. Some networks adopt a **standard template**—say, a simple agreement for future equity (SAFE) or convertible note—to reduce negotiation friction. This standardization can work for or against founders: it streamlines deals but may reduce founder leverage on valuation and terms versus an individual angel with less capital.
 
 ## Portfolio concentration and follow-on rounds
 
-An angel's typical portfolio contains 15–30 companies; each post-seed startup fails or stalls with some probability. Networks reduce [idiosyncratic risk](/wiki/idiosyncratic-risk/) by diversifying across sectors and founders. However, members must commit to follow-on rounds if a company shows traction, else early bets get [diluted](/wiki/share-dilution/). Many networks include a "pro-rata rights" clause so existing investors can maintain their ownership [percentage](/wiki/concentration-limits/) in [Series A](/wiki/series-financing/) and beyond.
+An angel's typical portfolio contains 15–30 companies; each post-seed startup fails or stalls with some probability. Networks reduce [idiosyncratic risk](/wiki/idiosyncratic-risk/) by diversifying across sectors and founders. However, members must commit to follow-on rounds if a company shows traction, else early bets get [diluted](/wiki/share-dilution/). Many networks include a "pro-rata rights" clause so existing investors can maintain their ownership [percentage](/wiki/concentration-limits/) in Series A and beyond.
 
 ## The network's own economics and sustainability
 

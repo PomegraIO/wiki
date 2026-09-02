@@ -32,7 +32,7 @@ In a blockchain network, transactions are collected in a mempool, and a validato
 2. Place their own transaction after it to capture the new equilibrium price
 3. Exclude the transaction entirely if it is unprofitable or competitive
 
-This ability to see and reorder pending transactions is called [mempools](/wiki/pool/) visibility, and the value extracted is MEV.
+This ability to see and reorder pending transactions is called mempools visibility, and the value extracted is MEV.
 
 ## Front-running and sandwich attacks
 

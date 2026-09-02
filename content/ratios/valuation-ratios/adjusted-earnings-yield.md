@@ -95,7 +95,7 @@ Do not accept adjusted earnings at face value, even from trusted sources. Read t
   <li><a href="/wiki/normalized-earnings-yield/">Normalized earnings yield</a> — a broader version adjusting for cyclical effects.</li>
   <li><a href="/wiki/earnings-yield/">Earnings yield</a> — reported earnings version.</li>
   <li><a href="/wiki/earnings-per-share/">Earnings per share</a> — the basis for this ratio.</li>
-  <li><a href="/wiki/one-time-item/">One-time items</a> — what gets adjusted out.</li>
+  <li>One-time items — what gets adjusted out.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>

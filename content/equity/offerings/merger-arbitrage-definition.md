@@ -67,12 +67,12 @@ The prevalence of merger arbitrage can also affect corporate behavior. Acquirers
 <ul>
 <li><a href="/wiki/acquisition/">Acquisition</a> — the corporate action underlying merger arbitrage.</li>
 <li><a href="/wiki/hostile-takeover/">Hostile takeover</a> — a contested acquisition with higher deal risk and wider spreads.</li>
-<li><a href="/wiki/risk-arbitrage/">Risk arbitrage</a> — the general term for merger arbitrage strategies.</li>
+<li>Risk arbitrage — the general term for merger arbitrage strategies.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/hedge-fund/">Hedge fund</a> — the primary practitioners of merger arbitrage.</li>
 <li><a href="/wiki/statistical-arbitrage/">Statistical arbitrage</a> — related quantitative trading strategies.</li>
-<li><a href="/wiki/regulatory-risk/">Regulatory risk</a> — the primary risk in merger arbitrage.</li>
+<li>Regulatory risk — the primary risk in merger arbitrage.</li>
 </ul>
 </div>

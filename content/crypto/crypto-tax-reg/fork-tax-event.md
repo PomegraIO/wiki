@@ -103,14 +103,14 @@ More likely: track the fork, determine the FMV on the fork date, and report the 
 
 ### Closely related
 - [Crypto Wallet Tax](/wiki/crypto-wallet-tax/) — tax treatment of holding crypto in wallets
-- [Cryptocurrency Taxation](/wiki/cryptocurrency-taxation/) — broader category covering all crypto tax issues
+- Cryptocurrency Taxation — broader category covering all crypto tax issues
 - [Token Airdrop](/wiki/token-airdrop/) — similar event, tokens received without purchase
 - [Cost Basis](/wiki/cost-basis/) — how basis of new tokens is determined
 
 ### Wider context
-- [Ordinary Income](/wiki/ordinary-income/) — the IRS classification of fork income
+- Ordinary Income — the IRS classification of fork income
 - [Capital Gains Tax](/wiki/capital-gains-tax/) — applies to subsequent sale of forked tokens
-- [Form 1040](/wiki/form-1040/) — where fork income is reported
+- Form 1040 — where fork income is reported
 - [Cryptocurrency Exchange](/wiki/cryptocurrency-exchange/) — exchanges determine whether forked tokens are credited
 
 </div>

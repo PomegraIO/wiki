@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A restricted stock unit (RSU) is a promise to issue [shares](/stock/) to an employee or executive upon vesting. Unlike [restricted stock](/equity/restricted-stock/), the holder owns nothing until vesting; they receive no [dividends](/dividend/), no votes, and no legal claim until the company settles shares. Upon vesting, shares are issued, and the holder recognizes income tax on the grant-date fair market value.*
+*A restricted stock unit (RSU) is a promise to issue [shares](/stock/) to an employee or executive upon vesting. Unlike [restricted stock](/restricted-stock/), the holder owns nothing until vesting; they receive no [dividends](/dividend/), no votes, and no legal claim until the company settles shares. Upon vesting, shares are issued, and the holder recognizes income tax on the grant-date fair market value.*
 
 <aside class="wiki-infobox">
 
@@ -52,7 +52,7 @@ The crucial difference is timing of ownership and tax treatment:
 - You vote and receive dividends on unvested shares.
 - If you leave before vesting, you forfeit the shares (lose both the shares and any dividends or capital appreciation).
 - Taxes owed at vesting on the FMV at vesting.
-- Can file an [83(b) election](/equity/iso/) to accelerate tax and lock in the grant-date value.
+- Can file an [83(b) election](/iso/) to accelerate tax and lock in the grant-date value.
 
 **RSUs**:
 - You own nothing until settlement.
@@ -69,7 +69,7 @@ Large public companies heavily adopted RSUs in the 1990s-2000s because:
 
 1. **Administrative simplicity.** RSUs are essentially a future obligation (a liability on the balance sheet) until vested. The company can issue shares to satisfy the obligation, or buy shares in the open market. No need to track restricted share voting, dividend withholding, or 83(b) elections.
 
-2. **Cleaner accounting.** RSUs are marked-to-market over the vesting period; the accounting expense adjusts each quarter as the stock price moves. [Restricted stock](/equity/restricted-stock/) has the same accounting but with voting complications.
+2. **Cleaner accounting.** RSUs are marked-to-market over the vesting period; the accounting expense adjusts each quarter as the stock price moves. [Restricted stock](/restricted-stock/) has the same accounting but with voting complications.
 
 3. **Tax predictability.** Employees know they will owe income tax at vesting on the vesting-date value. With restricted stock, an 83(b) election complicates the picture and can surprise employees.
 
@@ -79,7 +79,7 @@ Large public companies heavily adopted RSUs in the 1990s-2000s because:
 
 **Public companies** use RSUs extensively. Microsoft, Apple, Google, Meta, and Tesla all rely heavily on RSUs for employee compensation. The advantage is that vesting-date value is easy to determine (stock price is public).
 
-**Private companies** use RSUs less frequently because the FMV at vesting is harder to establish. Private companies more commonly use restricted stock or [options](/equity/employee-stock-options/).
+**Private companies** use RSUs less frequently because the FMV at vesting is harder to establish. Private companies more commonly use restricted stock or [options](/employee-stock-options/).
 
 ## Dividend equivalents
 
@@ -105,18 +105,18 @@ Some RSU grants include performance vesting — the units vest only if the compa
 
 ### Closely related
 
-- [Restricted stock](/equity/restricted-stock/) — the predecessor mechanism
-- [Vesting schedule](/equity/vesting-schedule/) — the time lock
-- [Cliff vesting](/equity/cliff-vesting/) — common vesting structure for RSUs
-- [Employee stock options](/equity/employee-stock-options/) — alternative compensation vehicle
-- [ESPP](/equity/espp/) — employee stock purchase plans
+- [Restricted stock](/restricted-stock/) — the predecessor mechanism
+- [Vesting schedule](/vesting-schedule/) — the time lock
+- [Cliff vesting](/cliff-vesting/) — common vesting structure for RSUs
+- [Employee stock options](/employee-stock-options/) — alternative compensation vehicle
+- [ESPP](/espp/) — employee stock purchase plans
 
 ### Wider context
 
-- [Equity compensation](/equity/iso/) — broader category
-- [Stock-based compensation expense](/equity/iso/) — accounting treatment
-- [Common stock](/equity/common-stock/) — what RSUs settle into
+- [Equity compensation](/iso/) — broader category
+- [Stock-based compensation expense](/iso/) — accounting treatment
+- [Common stock](/common-stock/) — what RSUs settle into
 - [Public company](/public-company/) — primary issuer
-- [Startup](/equity/founder-shares/) — use restricted stock more often
+- [Startup](/founder-shares/) — use restricted stock more often
 
 </div>

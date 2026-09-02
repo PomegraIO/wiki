@@ -58,7 +58,7 @@ Municipal bond yields are quoted relative to **U.S. Treasuries** in terms of **s
 
 ## [Bond ladder](/wiki/bond-ladder/) and maturity structure: municipal funds for income
 
-Retirees often build municipal bond ladders: buy 10 individual bonds, each maturing in 1–10 years, providing annual redemptions ($100k annually) to cover living expenses. This is tax-efficient (no capital gains tax if held to maturity) and avoids [interest rate risk](/wiki/interest-rate-risk/) (as each bond matures, it is replaced with a new one). A $1 million municipal ladder yields 3–4% annually ($30–40k), all tax-exempt for high-bracket retirees. Municipal [bond funds](/wiki/fixed-income-fund/) and [ETFs](/wiki/etf/) offer similar convenience without the labor of managing individual bonds.
+Retirees often build municipal bond ladders: buy 10 individual bonds, each maturing in 1–10 years, providing annual redemptions ($100k annually) to cover living expenses. This is tax-efficient (no capital gains tax if held to maturity) and avoids [interest rate risk](/wiki/interest-rate-risk/) (as each bond matures, it is replaced with a new one). A $1 million municipal ladder yields 3–4% annually ($30–40k), all tax-exempt for high-bracket retirees. Municipal bond funds and [ETFs](/wiki/etf/) offer similar convenience without the labor of managing individual bonds.
 
 ## Refundings and the "advance refunding" opportunity
 

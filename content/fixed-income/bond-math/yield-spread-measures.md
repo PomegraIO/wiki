@@ -46,7 +46,7 @@ Three spread measures have emerged to answer these questions.
 
 ## Nominal spread: the quick comparison
 
-The [nominal spread](/nominal-spread/)—sometimes called the **static spread**—is the simplest: subtract the Treasury's [yield-to-maturity](/fixed-income/bond-math/yield-spread-measures/) from the corporate bond's YTM, same maturity, same point in time.
+The [nominal spread](/nominal-spread/)—sometimes called the **static spread**—is the simplest: subtract the Treasury's [yield-to-maturity](/yield-spread-measures/) from the corporate bond's YTM, same maturity, same point in time.
 
 **Nominal Spread = Corporate Bond Yield − Treasury Yield**
 
@@ -110,7 +110,7 @@ Most financial terminals (Bloomberg, Refinitiv, others) compute all three in rea
 - [Callable Bond](/callable-bond/) — bonds with embedded call options; the principal reason OAS exists
 - [Call Risk](/call-risk/) — the bondholder's risk that the issuer redeems early
 - [Credit Risk](/credit-risk/) — the spread's core compensation source
-- [Yield-to-Maturity](/fixed-income/bond-math/yield-spread-measures/) — the metric both corporate and Treasury yields use
+- [Yield-to-Maturity](/yield-spread-measures/) — the metric both corporate and Treasury yields use
 
 ### Wider context
 

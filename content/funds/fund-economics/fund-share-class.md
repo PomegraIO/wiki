@@ -125,7 +125,7 @@ Always compare the all-in cost (front-load + annual expense ratio + any back-loa
 - [Load vs. No-Load](/wiki/load-vs-no-load/) — Broader fee distinction
 - [Fund Performance Evaluation](/wiki/fund-performance-evaluation/) — Returns net of fees
 - [Cost of Equity](/wiki/cost-of-equity/) — Fee structure impacts cost of capital
-- [SEC Regulation](/wiki/sec-regulator/) — Governance of share class complexity
+- SEC Regulation — Governance of share class complexity
 - [Investment Advisory](/wiki/investment-advisers-act-of-1940/) — Advisor incentives in class selection
 
 </div>

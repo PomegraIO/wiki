@@ -32,7 +32,7 @@ A coin flipped ten times shows heads eight times. A naive observer concludes the
 
 ## Trading and hot hand
 
-In [technical analysis](/wiki/technical-analysis/), a stock that has risen five days in a row "has momentum" — a statement mixing observation with causal claim. Many traders extrapolate: if it rose five days, it will rise a sixth. They increase position size, relying on the hot hand to continue. Statistically, yesterday's move has near-zero correlation with today's move in efficient markets. The [mean reversion](/wiki/mean-reversion-investing/) bias (the opposite hot hand) is equally common: "it's up too much; must reverse soon."
+In technical analysis, a stock that has risen five days in a row "has momentum" — a statement mixing observation with causal claim. Many traders extrapolate: if it rose five days, it will rise a sixth. They increase position size, relying on the hot hand to continue. Statistically, yesterday's move has near-zero correlation with today's move in efficient markets. The [mean reversion](/wiki/mean-reversion-investing/) bias (the opposite hot hand) is equally common: "it's up too much; must reverse soon."
 
 A trader who has been profitable for three months feels invincible and takes [leverage](/wiki/leverage-ratio-forex/) they previously shunned. A month of loss follows, and they are unprepared for it. The hot hand bias caused them to extrapolate success as permanent rather than probabilistic.
 
@@ -54,7 +54,7 @@ In markets, both biases exist. A momentum chaser commits the hot hand bias; a co
 
 ## Survivorship in skill assessment
 
-A fund manager with a 20-year track record of outperformance *might* have skill, or might be one of the few lucky survivors of a large cohort of managers who were equally skilled on average. This is the [survivorship bias](/wiki/survivorship-bias/) component of the hot hand bias. The fund's past success is partly signal (manager skill) and partly noise (luck). Investors often assume it's all signal.
+A fund manager with a 20-year track record of outperformance *might* have skill, or might be one of the few lucky survivors of a large cohort of managers who were equally skilled on average. This is the survivorship bias component of the hot hand bias. The fund's past success is partly signal (manager skill) and partly noise (luck). Investors often assume it's all signal.
 
 ## Empirical findings
 
@@ -85,10 +85,10 @@ When a trader says, "My friend made millions on this stock last year, so I'm in,
 - [Availability Heuristic](/wiki/availability-heuristic/) — memorable examples = likely
 
 ### Wider context
-- [Behavioral Finance](/wiki/behavioral-investing/) — study of bias and irrationality
+- Behavioral Finance — study of bias and irrationality
 - [Mean Reversion](/wiki/mean-reversion-investing/) — strategies banking on reversion
 - [Momentum Investing](/wiki/momentum-investing/) — systematic trend-following
 - [Position Sizing](/wiki/position-limit-regulations/) — risk management
-- [Backtesting](/wiki/backtesting/) — validating strategy rules
+- Backtesting — validating strategy rules
 
 </div>

@@ -70,7 +70,7 @@ This assumption is fragile for several reasons.
 
 **Cyclicality and mean reversion.** A cyclical firm (construction, semiconductors, automotive) will see residual income spike in boom years and evaporate in downturns. If you forecast from a peak-earnings year, assuming that residual income persists, you'll overvalue the company. Conversely, if you forecast from a trough, you'll undervalue it. The model implicitly assumes you're at a "normalized" earnings level, but identifying normalization is judgment-heavy.
 
-**Competitive advantage decay.** A firm earning abnormal returns (residual income > 0) attracts competitors. Over time, the [moat](/—) narrows, and excess returns compress toward the cost of capital. The model must explicitly model how long the advantage lasts; use a "fade rate" that slowly drives residual income to zero. Many analysts skip this, projecting excess returns indefinitely, which is economically unrealistic.
+**Competitive advantage decay.** A firm earning abnormal returns (residual income > 0) attracts competitors. Over time, the moat narrows, and excess returns compress toward the cost of capital. The model must explicitly model how long the advantage lasts; use a "fade rate" that slowly drives residual income to zero. Many analysts skip this, projecting excess returns indefinitely, which is economically unrealistic.
 
 **Scale and reinvestment drag.** As a firm reinvests retained earnings to grow, the base of residual income grows—but the *rate* of return on new capital may fall. A tech company earning 30% [return on equity](/return-on-equity/) may see that return compress to 15% as it scales. The model must capture this, but it's hard to forecast accurately.
 
@@ -116,13 +116,13 @@ The residual income model's elegance is also its trap. It makes the invisible (c
 - [Beta](/beta/) — the systematic risk parameter that determines cost of equity
 - [Return on equity](/return-on-equity/) — the metric that drives residual income calculation
 - [Earnings per share](/earnings-per-share/) — the income figure that feeds the model
-- [Terminal value](/—/) — the perpetuity or long-term estimate that dominates valuation
+- Terminal value — the perpetuity or long-term estimate that dominates valuation
 
 ### Wider context
 
-- [Valuation](/—/) — broad overview of intrinsic-value frameworks
+- Valuation — broad overview of intrinsic-value frameworks
 - [Capital structure](/debt-to-equity-ratio/) — leverage and cost of capital drivers
 - [Accrual accounting](/accrual-accounting/) — the accounting foundation underlying the model
-- [Competitive advantage](/—/) — the economic moat that sustains excess returns
+- Competitive advantage — the economic moat that sustains excess returns
 
 </div>

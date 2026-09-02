@@ -43,6 +43,6 @@ Active funds make most sense when (1) the fee is low enough that the hurdle is s
 <ul>
 <li><a href="/wiki/mutual-fund/">Mutual fund</a> — the general category of pooled investment vehicles.</li>
 <li><a href="/wiki/open-end-fund/">Open-end fund</a> — the standard form where shares are issued and redeemed daily.</li>
-<li><a href="/wiki/market-efficiency/">Market efficiency</a> — whether prices reflect all available information.</li>
+<li>Market efficiency — whether prices reflect all available information.</li>
 </ul>
 </div>

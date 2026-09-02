@@ -97,7 +97,7 @@ To avoid the house money effect:
 - [Disposition Effect](/wiki/disposition-effect/) — irrational holding of losers and selling of winners
 
 ### Wider context
-- [Behavioral Bias](/wiki/behavioral-bias/) — family of psychological distortions in finance
+- Behavioral Bias — family of psychological distortions in finance
 - [Asset Allocation](/wiki/asset-allocation/) — rational framework overridden by house money thinking
 - [Portfolio Rebalancing](/wiki/asset-rebalancing/) — disciplined process that counteracts house money drift
 - [Endowment Effect](/wiki/endowment-effect/) — related bias about ownership and loss

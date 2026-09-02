@@ -52,7 +52,7 @@ Managers can influence profitability by locating the split-off point strategical
 
 ## Regulatory and tax implications
 
-Tax authorities scrutinize joint-cost allocation because allocation choices affect taxable income across products. A refinery that overallocates costs to a tax-exempt export product understates taxable income on domestic sales. Transfer-pricing rules for [multinational corporations](/wiki/multinational-corporation/) extend the principle: if one subsidiary produces joint inputs and separate subsidiaries take distinct products to market, tax authorities examine the allocation method to ensure it is arm's-length. [ASC 330](/wiki/inventory-valuation/) governs [absorption costing](/wiki/absorption-costing/) under US GAAP, requiring systematic, consistent allocation, but permits multiple methods.
+Tax authorities scrutinize joint-cost allocation because allocation choices affect taxable income across products. A refinery that overallocates costs to a tax-exempt export product understates taxable income on domestic sales. Transfer-pricing rules for multinational corporations extend the principle: if one subsidiary produces joint inputs and separate subsidiaries take distinct products to market, tax authorities examine the allocation method to ensure it is arm's-length. ASC 330 governs [absorption costing](/wiki/absorption-costing/) under US GAAP, requiring systematic, consistent allocation, but permits multiple methods.
 
 ## Split-off and outsourcing decisions
 
@@ -68,7 +68,7 @@ The split-off point becomes critical in outsourcing and vertical-integration dec
 ### Wider context
 - [Cost Allocation](/wiki/cost-pool-allocation/) — broader cost-assignment techniques
 - [Transfer Pricing](/wiki/transfer-pricing/) — allocation between divisions
-- [Inventory Valuation](/wiki/inventory-valuation/) — impact on balance sheet
-- [COGS](/wiki/cost-of-goods-sold/) — role in income statement
+- Inventory Valuation — impact on balance sheet
+- COGS — role in income statement
 
 </div>

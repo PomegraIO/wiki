@@ -86,7 +86,7 @@ For most investors, minimums are a non-issue. By the time someone has $10,000 to
 - [Index Fund](/index-fund/) — low-cost passive funds with minimal barriers to entry
 - [Mutual Fund](/mutual-fund/) — foundational definition and mechanics
 - [ETF](/etf/) — competing vehicle with often lower minimums or none
-- [Dollar-Cost Averaging](/—/) — systematic investing to smooth the entry barrier
+- Dollar-Cost Averaging — systematic investing to smooth the entry barrier
 
 ### Wider context
 

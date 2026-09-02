@@ -67,6 +67,6 @@ A company does not always have the freedom to abandon. Environmental regulations
 ### Wider context
 - [NPV and decision making](/wiki/discounted-cash-flow-valuation/) — Capital budgeting principles
 - [Decision trees](/wiki/scenario-valuation/) — Modeling alternative futures
-- [Valuation](/wiki/valuation/) — Asset pricing and firm value
+- Valuation — Asset pricing and firm value
 
 </div>

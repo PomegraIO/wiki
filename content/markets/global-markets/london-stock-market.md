@@ -31,7 +31,7 @@ keywords:
 The London Stock Market operates through multiple segments:
 
 ### Main Market (LSE Main)
-The flagship venue for established, large-cap companies. Listings on the Main Market must meet stringent disclosure, [audit](/wiki/audit-opinion/), and [governance](/wiki/board-of-directors/) standards. Most [FTSE 100](/wiki/ftse-100-index/) and [FTSE 250](/wiki/ftse-250/) stocks trade here.
+The flagship venue for established, large-cap companies. Listings on the Main Market must meet stringent disclosure, [audit](/wiki/audit-opinion/), and [governance](/wiki/board-of-directors/) standards. Most [FTSE 100](/wiki/ftse-100-index/) and FTSE 250 stocks trade here.
 
 **Advantages for companies:**
 - Access to UK, European, and global institutional capital.
@@ -160,7 +160,7 @@ Inclusion in the [FTSE 100](/wiki/ftse-100-index/) or FTSE 250 triggers passive 
 
 ### Closely related
 - [FTSE 100 Index](/wiki/ftse-100-index/) — primary benchmark
-- [FTSE 250](/wiki/ftse-250/) — mid-cap index
+- FTSE 250 — mid-cap index
 - [Euronext](/wiki/euronext/) — competing European exchange
 - [London Stock Exchange](/wiki/london-stock-exchange/) — parent operator
 

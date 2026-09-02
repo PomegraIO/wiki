@@ -52,6 +52,6 @@ When comparing government bonds to other assets, converting to real yields provi
 <ul>
 <li><a href="/wiki/treasury-bond/">Treasury Bond</a> — long-term U.S. government debt.</li>
 <li><a href="/wiki/purchasing-power-parity/">Purchasing Power Parity</a> — the theory relating exchange rates to price levels across countries.</li>
-<li><a href="/wiki/fixed-income/">Fixed Income</a> — the asset class of bonds and fixed-rate securities.</li>
+<li>Fixed Income — the asset class of bonds and fixed-rate securities.</li>
 </ul>
 </div>

@@ -50,7 +50,7 @@ Consider a business growing 20% per year. If DSO is 50 days and DPO is 40 days, 
 
 Conversely, if DPO is 50 days and DSO is 40 days, growth releases cash. Each new dollar of revenue frees up cash because suppliers finance the extra 10 days. Many tech and retail companies exploit this: Amazon, Walmart, and Netflix all collect from customers before (or shortly after) they pay suppliers, meaning growth itself generates cash.
 
-This is one reason why [working capital management](https://example.com/working-capital) varies so much by industry. Grocery chains can demand 30-day or longer payment windows from suppliers while moving inventory in days. Software companies might have negative DSO (subscriptions paid upfront) and high DPO. Manufacturers often face the opposite: long production cycles, extended customer terms, and competitive supplier relationships that force shorter payment windows.
+This is one reason why working capital management varies so much by industry. Grocery chains can demand 30-day or longer payment windows from suppliers while moving inventory in days. Software companies might have negative DSO (subscriptions paid upfront) and high DPO. Manufacturers often face the opposite: long production cycles, extended customer terms, and competitive supplier relationships that force shorter payment windows.
 
 ## Calculating Both Ratios
 
@@ -79,7 +79,7 @@ This company is being financed by suppliers: it collects cash 170 days before it
 
 ## DSO vs DPO and the Cash Conversion Cycle
 
-The relationship between DSO and DPO feeds directly into the [cash conversion cycle](https://example.com/cash-conversion-cycle) (CCC), which also includes **days inventory outstanding** (DIO)—how long inventory sits before sale.
+The relationship between DSO and DPO feeds directly into the cash conversion cycle (CCC), which also includes **days inventory outstanding** (DIO)—how long inventory sits before sale.
 
 CCC = DSO + DIO − DPO
 

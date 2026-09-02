@@ -90,7 +90,7 @@ A refiner might buy a crude-to-gasoline spread put expecting margin compression.
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational concept.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/monte-carlo-options-pricing/">Monte Carlo options pricing</a> — common valuation method.</li>
 </ul>
 </div>

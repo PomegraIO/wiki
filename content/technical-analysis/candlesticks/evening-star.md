@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*An **evening star** is a three-candle reversal pattern that often appears at the top of uptrends. The first candle is a large bullish candle (green), showing buying pressure. The second candle gaps up and is small, showing indecision. The third candle is a large bearish candle (red) that closes well into the first candle's body. The pattern visually mirrors the [morning star](/technical-analysis/morning-star), except inverted: the evening star marks the end of a rally and the arrival of selling pressure. In traditional technical analysis, it is regarded as a bearish reversal signal, though empirical support is disputed.*
+*An **evening star** is a three-candle reversal pattern that often appears at the top of uptrends. The first candle is a large bullish candle (green), showing buying pressure. The second candle gaps up and is small, showing indecision. The third candle is a large bearish candle (red) that closes well into the first candle's body. The pattern visually mirrors the [morning star](/morning-star/), except inverted: the evening star marks the end of a rally and the arrival of selling pressure. In traditional technical analysis, it is regarded as a bearish reversal signal, though empirical support is disputed.*
 
 <div class="wiki-hatnote">
 
-For three-candle patterns and broader candlestick analysis, see [candlestick pattern](/technical-analysis/candlestick-pattern). The opposite pattern is the [morning star](/technical-analysis/morning-star).
+For three-candle patterns and broader candlestick analysis, see [candlestick pattern](/candlestick-pattern/). The opposite pattern is the [morning star](/morning-star/).
 
 </div>
 
@@ -54,7 +54,7 @@ This narrative mirrors the morning star but at the opposite turning point: inste
 
 ## Context and strength
 
-An evening star at the top of a steep, multi-week uptrend is more meaningful than one appearing in mild consolidation. After a parabolic rally (especially on heavy volume), an evening star suggests that buyers have exhausted themselves and sellers are stepping in. The pattern gains further credibility if it forms at a known [resistance level](/technical-analysis/support-and-resistance), a key moving average, or a Fibonacci retracement level.
+An evening star at the top of a steep, multi-week uptrend is more meaningful than one appearing in mild consolidation. After a parabolic rally (especially on heavy volume), an evening star suggests that buyers have exhausted themselves and sellers are stepping in. The pattern gains further credibility if it forms at a known [resistance level](/support-and-resistance/), a key moving average, or a Fibonacci retracement level.
 
 An evening star at the beginning of an uptrend, or in the middle of a gentle climb, is less meaningful and more likely to be just a pullback.
 
@@ -84,7 +84,7 @@ An aggressive trader might short at the close of the third candle, trusting the 
 
 ## Morning star: the inverse
 
-The [morning star](/technical-analysis/morning-star) is the bullish mirror of the evening star. It appears at the bottom of downtrends and signals a bullish reversal. The structure is identical but inverted: large red candle, gap down with small candle, large green candle closing up. The psychology is the reverse: sellers are exhausted, and buyers are taking control.
+The [morning star](/morning-star/) is the bullish mirror of the evening star. It appears at the bottom of downtrends and signals a bullish reversal. The structure is identical but inverted: large red candle, gap down with small candle, large green candle closing up. The psychology is the reverse: sellers are exhausted, and buyers are taking control.
 
 ## Academic perspective
 
@@ -96,21 +96,21 @@ Empirical research on evening star patterns is limited. Most studies find that t
 
 ### Related patterns
 
-- [Morning star](/technical-analysis/morning-star) — bullish reversal, opposite pattern
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework
-- [Engulfing pattern](/technical-analysis/engulfing-pattern) — two-candle reversal
-- [Harami](/technical-analysis/harami) — two-candle indecision
+- [Morning star](/morning-star/) — bullish reversal, opposite pattern
+- [Candlestick pattern](/candlestick-pattern/) — broader framework
+- [Engulfing pattern](/engulfing-pattern/) — two-candle reversal
+- [Harami](/harami/) — two-candle indecision
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — key levels for confirmation
-- [Trendline](/technical-analysis/trendline) — identifying uptrend exhaustion
-- [Candlestick chart](/technical-analysis/candlestick-chart) — the display format
+- [Support and resistance](/support-and-resistance/) — key levels for confirmation
+- [Trendline](/trendline/) — identifying uptrend exhaustion
+- [Candlestick chart](/candlestick-chart/) — the display format
 
 ### Confirmation signals
 
-- [Moving average](/technical-analysis/simple-moving-average) — key price levels
-- [Volume](/technical-analysis/on-balance-volume) — strength of the reversal
-- [Relative strength index](/technical-analysis/relative-strength-index) — overbought confirmation
+- [Moving average](/simple-moving-average/) — key price levels
+- [Volume](/on-balance-volume/) — strength of the reversal
+- Relative strength index — overbought confirmation
 
 </div>

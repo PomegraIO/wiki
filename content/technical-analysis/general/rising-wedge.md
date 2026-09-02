@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For wedges broadly, see [wedge-pattern](/technical-analysis/wedge-pattern). The opposite pattern is [falling-wedge](/technical-analysis/falling-wedge).
+For wedges broadly, see [wedge-pattern](/wedge-pattern/). The opposite pattern is [falling-wedge](/falling-wedge/).
 
 </div>
 
@@ -103,7 +103,7 @@ The measuring objective is the height of the wedge (the distance between the upp
 
 ## Falling wedge: the opposite
 
-A [falling-wedge](/technical-analysis/falling-wedge) is the opposite pattern: both lines slope downward but converge. A falling wedge at the bottom of a downtrend often signals a bullish reversal.
+A [falling-wedge](/falling-wedge/) is the opposite pattern: both lines slope downward but converge. A falling wedge at the bottom of a downtrend often signals a bullish reversal.
 
 ## Real-world example
 
@@ -131,16 +131,16 @@ Academic research on rising wedges is sparse. The pattern is popular among techn
 
 ### Related patterns
 
-- [Falling-wedge](/technical-analysis/falling-wedge) — downward-sloping converging lines
-- [Wedge-pattern](/technical-analysis/wedge-pattern) — broader framework
-- [Symmetrical-triangle](/technical-analysis/symmetrical-triangle) — converging, neutral direction
-- [Pennant-pattern](/technical-analysis/pennant-pattern) — small converging triangle
-- [Double-top](/technical-analysis/double-top) — bearish reversal alternative
+- [Falling-wedge](/falling-wedge/) — downward-sloping converging lines
+- [Wedge-pattern](/wedge-pattern/) — broader framework
+- [Symmetrical-triangle](/symmetrical-triangle/) — converging, neutral direction
+- [Pennant-pattern](/pennant-pattern/) — small converging triangle
+- [Double-top](/double-top/) — bearish reversal alternative
 
 ### Context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — wedge boundaries
-- [Trendline](/technical-analysis/trendline) — identifying uptrend
-- [Volume](/technical-analysis/on-balance-volume) — confirming breakdowns
+- [Support and resistance](/support-and-resistance/) — wedge boundaries
+- [Trendline](/trendline/) — identifying uptrend
+- [Volume](/on-balance-volume/) — confirming breakdowns
 
 </div>

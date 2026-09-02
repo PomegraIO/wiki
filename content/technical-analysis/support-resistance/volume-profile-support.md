@@ -157,7 +157,7 @@ Traders typically:
 
 ## Volume profile and modern technical analysis
 
-Volume profile is a bridge between traditional [technical analysis](/wiki/technical-analysis/) and market microstructure. It incorporates both price action (support/resistance) and actual trading activity (volume) without requiring order flow analysis or [Level 2](/wiki/bid-ask-spread/) data.
+Volume profile is a bridge between traditional technical analysis and market microstructure. It incorporates both price action (support/resistance) and actual trading activity (volume) without requiring order flow analysis or [Level 2](/wiki/bid-ask-spread/) data.
 
 Modern algorithmic traders use volume profile as input for order placement algorithms: placing bids/asks at volume nodes to find counterparty interest.
 
@@ -170,7 +170,7 @@ Modern algorithmic traders use volume profile as input for order placement algor
 - [Consolidation pattern](/wiki/consolidation-accounting/) — sideways trading range; volume profile is useful here
 
 ### Wider context
-- [Technical analysis](/wiki/technical-analysis/) — price and volume-based trading
+- Technical analysis — price and volume-based trading
 - [Market microstructure](/wiki/market-maker-obligations/) — how markets process orders and price
 - [Range trading](/wiki/range-trading/) — trading within support/resistance bands
 - [Breakout trading](/wiki/breakout-trading/) — trading when price breaks support/resistance

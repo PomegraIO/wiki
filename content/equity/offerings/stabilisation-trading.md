@@ -11,7 +11,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*Stabilisation trading is a controlled form of [market-maker](/market-maker-trading/) intervention in which the underwriter (or underwriter syndicate) purchases shares in the open market immediately after an [IPO](/initial-public-offering/), propping up the price if it falls below the [offer price](/wiki/slug/). Regulators permit this as an exception to anti-manipulation rules because it serves a legitimate purpose: anchoring a fragile new listing and allowing early [secondary market](/secondary-market/) trading to stabilise organically.*
+*Stabilisation trading is a controlled form of [market-maker](/market-maker-trading/) intervention in which the underwriter (or underwriter syndicate) purchases shares in the open market immediately after an [IPO](/initial-public-offering/), propping up the price if it falls below the offer price. Regulators permit this as an exception to anti-manipulation rules because it serves a legitimate purpose: anchoring a fragile new listing and allowing early [secondary market](/secondary-market/) trading to stabilise organically.*
 
 <aside class="wiki-infobox">
 
@@ -26,7 +26,7 @@ image: "/svg/equity.svg"
 | **What it is** | Open-market purchases by the lead underwriter to support the offer price in the aftermarket |
 | **Also called** | Price stabilisation, stabilisation bidding, green-shoe support |
 | **Time window** | Typically 30–60 days after the IPO |
-| **Tools** | [Greenshoe option](/wiki/slug/), naked stabilisation bids, penalty bids |
+| **Tools** | Greenshoe option, naked stabilisation bids, penalty bids |
 | **Legal framework** | SEC Rule 10b-7 (US); similar rules in other jurisdictions |
 | **Outcome** | Smoother aftermarket trading; underwriter absorbs losses if shares fall significantly |
 
@@ -34,7 +34,7 @@ image: "/svg/equity.svg"
 
 ## The post-IPO price pressure problem
 
-On the first day of trading, an IPO rarely settles smoothly at the [offer price](/wiki/slug/). Typically, there is a "pop"—the share price rises 5–20% as euphoric retail investors and short-term traders buy, creating a frenzied aftermarket. This looks healthy until day two or three, when some of the early buyers take profits and selling pressure emerges.
+On the first day of trading, an IPO rarely settles smoothly at the offer price. Typically, there is a "pop"—the share price rises 5–20% as euphoric retail investors and short-term traders buy, creating a frenzied aftermarket. This looks healthy until day two or three, when some of the early buyers take profits and selling pressure emerges.
 
 For a newly public company, this volatility is uncomfortable. A large first-week decline makes the IPO look like a flop, damages investor confidence, and hurts the company's brand. The [underwriter](/broker/) has an incentive to prevent a catastrophic decline because it harms its reputation and makes future underwriting mandates harder to win.
 
@@ -92,7 +92,7 @@ In very restricted markets, companies have tried informal stabilisation (asking 
 
 ### Closely related
 
-- [Greenshoe option](/wiki/slug/) — the overallotment mechanism underwriters use to stabilise and profit
+- Greenshoe option — the overallotment mechanism underwriters use to stabilise and profit
 - [IPO pricing mechanism](/ipo-pricing-mechanism/) — the process that sets the offer price that stabilisation supports
 - [Market maker trading](/market-maker-trading/) — the broader practice of facilitating buy-sell equilibrium
 - [Initial public offering](/initial-public-offering/) — the corporate event in which stabilisation trading occurs

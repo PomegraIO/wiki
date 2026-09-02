@@ -114,7 +114,7 @@ Some OTC [forwards](/wiki/forward-contract/) are even more customized: a large p
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broader category including all commodity and financial contracts.</li>
+<li>Derivatives — the broader category including all commodity and financial contracts.</li>
 <li><a href="/wiki/commodity-etf/">Commodity ETF</a> — funds that track commodity [futures](/wiki/futures-contract/) and must navigate specification logistics.</li>
 </ul>
 </div>

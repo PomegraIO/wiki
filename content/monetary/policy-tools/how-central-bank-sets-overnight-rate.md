@@ -33,7 +33,7 @@ keywords:
 
 ## The Overnight Rate and Reserve Demand
 
-Banks are required to hold a minimum amount of reserves relative to their deposits—a [reserve requirement](//) set by the central bank. At the end of each business day, banks balance their reserve accounts. A bank short of reserves will borrow from a bank with excess cash, and the interest rate they negotiate is the overnight rate.
+Banks are required to hold a minimum amount of reserves relative to their deposits—a reserve requirement set by the central bank. At the end of each business day, banks balance their reserve accounts. A bank short of reserves will borrow from a bank with excess cash, and the interest rate they negotiate is the overnight rate.
 
 Individual negotiations would be inefficient, so most overnight lending occurs in the **federal funds market** (in the US) or similar interbank lending pools. Thousands of transactions happen daily at slightly different rates, so statisticians compute an overnight index—the Fed publishes the effective federal funds rate, a weighted average of all overnight transactions.
 
@@ -90,7 +90,7 @@ This is powerful because inflation and spending decisions depend partly on expec
 - [Federal Funds Rate](/federal-funds-rate/) — The US overnight interbank lending rate targeted by the Federal Reserve
 - [Federal Reserve](/federal-reserve/) — The US central bank that controls reserve supply and the overnight rate
 - [Monetary Policy](/monetary-policy/) — The broader strategy of which overnight rate targeting is one tool
-- [Open Market Operations](//) — The securities transactions used to adjust reserve supply
+- Open Market Operations — The securities transactions used to adjust reserve supply
 - [Interest Rate Risk](/interest-rate-risk/) — The risk borrowers and savers face from overnight rate changes
 
 ### Wider context

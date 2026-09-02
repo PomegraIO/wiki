@@ -50,7 +50,7 @@ These ranges vary by industry and growth profile. A mature utility at 12x is rea
 
 ## The FCF challenge: volatility and seasonality
 
-Free cash flow is often lumpier than earnings because it includes [capex](/wiki/capital-expenditures/) in full, in the year incurred. A company with a $2 billion capex project this year might have FCF of −$500 million, while operating cash flow is $1.5 billion. One year later, FCF might be $2 billion.
+Free cash flow is often lumpier than earnings because it includes capex in full, in the year incurred. A company with a $2 billion capex project this year might have FCF of −$500 million, while operating cash flow is $1.5 billion. One year later, FCF might be $2 billion.
 
 For this reason, use EV/FCF with caution in lumpy years. Look at three-year average FCF to smooth one-time capex effects.
 
@@ -76,7 +76,7 @@ Always check the [return on invested capital](/wiki/return-on-invested-capital/)
 
 ## Working capital swings can distort FCF
 
-A growing company might need more inventory and receivables, reducing FCF temporarily even as the business improves. A company in decline might reduce inventory, boosting FCF artificially. Check [operating cash flow](/wiki/operating-cash-flow/) and capex separately to understand the quality of FCF.
+A growing company might need more inventory and receivables, reducing FCF temporarily even as the business improves. A company in decline might reduce inventory, boosting FCF artificially. Check operating cash flow and capex separately to understand the quality of FCF.
 
 ## Leverage matters in the denominator
 
@@ -101,6 +101,6 @@ In [discounted-cash-flow](/wiki/discounted-cash-flow-valuation/) models, EV/FCF 
 <ul>
   <li><a href="/wiki/discounted-cash-flow-valuation/">Discounted cash flow valuation</a> — the framework using FCF multiples.</li>
   <li><a href="/wiki/return-on-invested-capital/">Return on invested capital</a> — quality of capex spending.</li>
-  <li><a href="/wiki/capital-expenditures/">Capital expenditures</a> — the spending that reduces FCF.</li>
+  <li>Capital expenditures — the spending that reduces FCF.</li>
 </ul>
 </div>

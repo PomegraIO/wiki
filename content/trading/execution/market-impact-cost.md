@@ -191,7 +191,7 @@ This is non-trivial and varies by methodology.
 
 ### Wider context
 - [Market liquidity](/wiki/bond-market-liquidity/) — determines impact magnitude
-- [Trading execution](/wiki/trading-execution/) — broader context
+- Trading execution — broader context
 - [Order types](/wiki/order-types/) — strategies to minimize impact
 - [Execution quality](/wiki/execution-quality-analysis/) — monitoring and improvement
 

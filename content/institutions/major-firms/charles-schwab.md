@@ -57,7 +57,7 @@ Modern Schwab offers:
 
 **Banking services**: FDIC-insured deposit accounts, mortgages, and lines of credit.
 
-**Wealth advisory**: Registered investment advisors (RIAs) and financial consultants offering [portfolio-management](/wiki/portfolio/) and comprehensive financial planning.
+**Wealth advisory**: Registered investment advisors (RIAs) and financial consultants offering portfolio-management and comprehensive financial planning.
 
 **Research and tools**: Schwab publishes market research, provides stock screeners, and offers educational content—all differentiation against pure-execution competitors like Interactive Brokers.
 
@@ -111,13 +111,13 @@ In practice, Schwab caters to middle-class and affluent retail investors, those 
 - [Commission-free trading](/wiki/order-execution-speed/) — Schwab's competitive advantage
 - [Robinhood](/wiki/stock-market/) — Modern fintech competitor
 - [E-TRADE](/wiki/stock-market/) — Legacy discount broker competitor
-- [Interactive Brokers](/wiki/alternatives-trading-system/) — Execution-focused competitor
+- Interactive Brokers — Execution-focused competitor
 
 ### Wider context
 - [Index fund](/wiki/index-fund/) — Product class popularized by low-cost brokers
 - [Dollar cost averaging](/wiki/dollar-cost-averaging/) — Strategy enabled by commission-free trading
 - [Robo-advisor](/wiki/passively-managed-fund/) — Competitive threat to traditional brokers
-- [Wealth management](/wiki/wealth-management/) — High-margin service Schwab offers
+- Wealth management — High-margin service Schwab offers
 - [Financial regulation](/wiki/financial-regulation-and-supervision/) — Oversight Schwab navigates
 
 </div>

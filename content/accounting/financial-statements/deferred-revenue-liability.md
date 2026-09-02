@@ -130,7 +130,7 @@ Deferred revenue is cash paid but not yet earned. The liability shrinks as reven
 - [Balance Sheet](/wiki/balance-sheet/) — Where deferred revenue appears
 - [Income Statement](/wiki/income-statement/) — Where revenue is recognized
 - [Cash Flow Statement](/wiki/cash-flow-statement/) — Divergence between cash and accrual revenue
-- [Financial Statements](/wiki/financial-statements/) — All three statements affected
-- [SaaS Business Model](/wiki/software-as-a-service/) — Industry where deferred revenue dominates
+- Financial Statements — All three statements affected
+- SaaS Business Model — Industry where deferred revenue dominates
 
 </div>

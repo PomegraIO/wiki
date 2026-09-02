@@ -99,11 +99,11 @@ However, quantifying the value remains difficult. Most companies do not explicit
 - [Real Options Valuation](/wiki/real-options-valuation/) — the broader framework encompassing switching and other real options
 - [Expansion Option](/wiki/expansion-option/) — the right to scale up production
 - [Abandonment Option](/wiki/abandonment-option/) — the right to exit a project
-- [Option Value](/wiki/option-value/) — the economic value of flexibility
+- Option Value — the economic value of flexibility
 
 ### Wider context
 - [Monte Carlo Valuation](/wiki/monte-carlo-valuation/) — simulation method commonly used to value real options
-- [Volatility](/wiki/volatility/) — drives real option value; higher volatility → higher option worth
+- Volatility — drives real option value; higher volatility → higher option worth
 - [Strategic Asset Allocation](/wiki/strategic-asset-allocation/) — decision-making framework that can incorporate real options
 - [Contingent Liabilities](/wiki/contingent-liability/) — the inverse: downside options (worst-case scenarios) that reduce value
 

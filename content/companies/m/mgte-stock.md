@@ -52,7 +52,7 @@ The company's "customer"—a private company seeking public-market access—will
 
 ## The 10-K and Investor Due Diligence
 
-Investors reading Marblegate's [10-K](/10-K/) or proxy filings will find information about the SPAC's trust account balance, the amount of cash available for a merger, fees and expenses, and details of any proposed merger target. The filing must disclose the sponsor's compensation, including the founder equity stake, and any potential conflicts of interest. The merger agreement will show what terms Marblegate negotiated with the target company.
+Investors reading Marblegate's [10-K](/10-k/) or proxy filings will find information about the SPAC's trust account balance, the amount of cash available for a merger, fees and expenses, and details of any proposed merger target. The filing must disclose the sponsor's compensation, including the founder equity stake, and any potential conflicts of interest. The merger agreement will show what terms Marblegate negotiated with the target company.
 
 For private company founders evaluating a SPAC merger, these filings reveal the quality of the sponsor team, the likelihood that adequate capital will be available post-merger, and the governance rights of public shareholders. A well-documented, transparent SPAC attracts better merger targets; a poorly-governed one struggles to find credible targets.
 

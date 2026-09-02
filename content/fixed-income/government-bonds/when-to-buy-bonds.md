@@ -58,6 +58,6 @@ In taxable accounts, the timing of bond purchases affects tax efficiency. Buying
 <ul>
 <li><a href="/wiki/market-timing/">Market Timing</a> — attempting to predict market peaks and troughs.</li>
 <li><a href="/wiki/asset-allocation/">Asset Allocation</a> — determining how much to allocate to bonds.</li>
-<li><a href="/wiki/fixed-income/">Fixed Income</a> — the broader asset class.</li>
+<li>Fixed Income — the broader asset class.</li>
 </ul>
 </div>

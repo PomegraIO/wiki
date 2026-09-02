@@ -114,7 +114,7 @@ As a G-SIB, HSBC is also subject to heightened scrutiny and resolution planning 
 - [Financial institutions](/wiki/bank-of-england/) — HSBC as systemically important
 - [Emerging markets](/wiki/emerging-markets-equity-fund/) — key growth market for HSBC
 - [Syndicated lending](/wiki/corporate-bond/) — major business line
-- [Shareholder returns](/wiki/dividend-policy/) — HSBC's dividend strategy
+- Shareholder returns — HSBC's dividend strategy
 - [Geopolitical risk](/wiki/country-risk/) — exposure to Hong Kong and China
 
 </div>

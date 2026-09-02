@@ -86,7 +86,7 @@ The [Chaikin oscillator](/wiki/chaikin-oscillator/) and [money flow index](/wiki
 - [Volume Participation Order](/wiki/volume-participation-order/) — execution algorithm adjusting to market volume
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — price and volume pattern analysis
+- Technical Analysis — price and volume pattern analysis
 - [Momentum Investing](/wiki/momentum-investing/) — buying recent winners based on price trends
 - [Candlestick Pattern](/wiki/candlestick-pattern/) — price action charts showing open, high, low, close
 - [Moving Average](/wiki/moving-average/) — smoothed price trend

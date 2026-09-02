@@ -42,7 +42,7 @@ Many firms release [earnings](/wiki/earnings-per-share/) at 4:01 PM, after the r
 
 ## Volatility and gap risk for swing traders
 
-A [swing trader](/wiki/swing-trading/) holding a position overnight faces [gap risk](/wiki/overnight-gap/)—the after-hours market may move significantly, opening the next morning far from the previous close. If bad news emerges at 6 PM, the next morning's [opening price](/wiki/opening-auction/) may gap down sharply. Some traders use after-hours orders to [hedge](/wiki/hedge-fund/) overnight risk or to [scale](/wiki/scaling/) into or out of positions ahead of major announcements. Others avoid the session entirely, accepting the risk to get better [execution](/wiki/best-execution/) during liquid, centralized hours.
+A [swing trader](/wiki/swing-trading/) holding a position overnight faces [gap risk](/wiki/overnight-gap/)—the after-hours market may move significantly, opening the next morning far from the previous close. If bad news emerges at 6 PM, the next morning's [opening price](/wiki/opening-auction/) may gap down sharply. Some traders use after-hours orders to [hedge](/wiki/hedge-fund/) overnight risk or to scale into or out of positions ahead of major announcements. Others avoid the session entirely, accepting the risk to get better [execution](/wiki/best-execution/) during liquid, centralized hours.
 
 ## Institutional trading and [dark pools](/wiki/dark-pool/)
 
@@ -54,7 +54,7 @@ The SEC allows retail brokers to offer after-hours trading, but order types are 
 
 ## Information asymmetry and predatory patterns
 
-Because after-hours trading is less transparent than [consolidated tape](/wiki/consolidated-tape/) data during the day, sophisticated players with direct feeds have information edges. Some [high-frequency traders](/wiki/high-frequency-trading/) use after-hours to frontrun tomorrow's [opening auction](/wiki/opening-auction/), detecting overnight order imbalances. Retail investors who trade after hours often face wider spreads and less protection—prices quoted may be [theoretical](/wiki/theoretical-price/) rather than firm, and [fill](/wiki/partial-fill/) times can be slow.
+Because after-hours trading is less transparent than [consolidated tape](/wiki/consolidated-tape/) data during the day, sophisticated players with direct feeds have information edges. Some [high-frequency traders](/wiki/high-frequency-trading/) use after-hours to frontrun tomorrow's [opening auction](/wiki/opening-auction/), detecting overnight order imbalances. Retail investors who trade after hours often face wider spreads and less protection—prices quoted may be theoretical rather than firm, and [fill](/wiki/partial-fill/) times can be slow.
 
 ## The global connection and 24-hour markets
 

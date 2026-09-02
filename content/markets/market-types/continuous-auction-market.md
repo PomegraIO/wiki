@@ -12,7 +12,7 @@ keywords:
 *A **continuous auction market** is a trading venue that matches buy and sell orders throughout the entire trading session, updating prices continuously as new orders arrive and old orders are filled. The New York Stock Exchange, Nasdaq, and most modern stock exchanges operate as continuous auction markets, in contrast to periodic batch auctions that match orders only at specified times.*
 
 <div class="wiki-hatnote">
-For the opposite mechanism, see <a href="/wiki/call-auction-market/">/wiki/call-auction-market/</a>. For the structure of modern exchanges, see <a href="/wiki/stock-exchange/">/wiki/stock-exchange/</a>.
+For the opposite mechanism, see /wiki/call-auction-market/. For the structure of modern exchanges, see <a href="/wiki/stock-exchange/">/wiki/stock-exchange/</a>.
 </div>
 
 <aside class="wiki-infobox">

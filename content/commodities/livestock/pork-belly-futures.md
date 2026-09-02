@@ -51,7 +51,7 @@ Storage arbitrage is related but different. A trader might buy physical bellies 
 
 ## Price drivers and risk factors
 
-Pork belly prices are sensitive to several systematic shocks. Hog disease (particularly African swine fever) tightens supply and spikes prices; China's 2019 ASF outbreak sent global pork prices into a sustained rally. Feed costs (primarily [corn](/wiki/corn/)) drive hog production economics; when corn is cheap, hog expansion is profitable, eventually suppressing belly prices. Consumer spending on discretionary food (bacon, ham) is cyclical; recessions reduce demand. [Exchange rates](/wiki/exchange-rate/) matter for export-competing producers; a weak dollar boosts US export demand.
+Pork belly prices are sensitive to several systematic shocks. Hog disease (particularly African swine fever) tightens supply and spikes prices; China's 2019 ASF outbreak sent global pork prices into a sustained rally. Feed costs (primarily [corn](/wiki/corn/)) drive hog production economics; when corn is cheap, hog expansion is profitable, eventually suppressing belly prices. Consumer spending on discretionary food (bacon, ham) is cyclical; recessions reduce demand. Exchange rates matter for export-competing producers; a weak dollar boosts US export demand.
 
 Weather is a secondary driver. Extreme heat stresses hogs, reducing feed conversion efficiency and raising deaths, tightening supply. Drought increases feed prices, raising the cost of production. Flooding disrupts slaughter capacity and cold-storage operations. Unlike [grain commodities](/wiki/commodity-etf/), where weather is the primary driver, pork is driven more by structural production cycles and global disease risk.
 

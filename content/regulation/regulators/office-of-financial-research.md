@@ -10,7 +10,7 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Office of Financial Research** (OFR) is a data-gathering and research bureau within the US Department of the Treasury, created by the [Dodd-Frank Act](/dodd-frank-act/) to feed information to the [Financial Stability Oversight Council](/regulators/#fsoc). Rather than write rules or punish firms, the OFR assembles granular data on interconnections between banks, asset managers, and counterparties, then publishes research on emerging vulnerabilities that might threaten the financial system as a whole.*
+*The **Office of Financial Research** (OFR) is a data-gathering and research bureau within the US Department of the Treasury, created by the [Dodd-Frank Act](/dodd-frank-act/) to feed information to the Financial Stability Oversight Council. Rather than write rules or punish firms, the OFR assembles granular data on interconnections between banks, asset managers, and counterparties, then publishes research on emerging vulnerabilities that might threaten the financial system as a whole.*
 
 <aside class="wiki-infobox">
 
@@ -33,9 +33,9 @@ image: "/svg/regulation.svg"
 
 ## Origins and mandate
 
-The financial crisis of 2008 exposed a critical blind spot: no single institution had a complete picture of who owed what to whom, which major firms were interconnected, or where leverage was concentrated. Bank regulators kept silo'd views of their own charges; the [Federal Reserve](/federal-reserve/) knew some things; the [SEC](/securities-and-exchange-commission/) and [CFTC](/regulators/#cftc) watched equities and derivatives respectively. But there was no bird's-eye view of the system. When [Lehman Brothers](/regulators/#lehman) collapsed and AIG nearly followed, the interconnection shocks propagated in directions regulators hadn't anticipated.
+The financial crisis of 2008 exposed a critical blind spot: no single institution had a complete picture of who owed what to whom, which major firms were interconnected, or where leverage was concentrated. Bank regulators kept silo'd views of their own charges; the [Federal Reserve](/federal-reserve/) knew some things; the [SEC](/securities-and-exchange-commission/) and CFTC watched equities and derivatives respectively. But there was no bird's-eye view of the system. When Lehman Brothers collapsed and AIG nearly followed, the interconnection shocks propagated in directions regulators hadn't anticipated.
 
-Dodd-Frank created the [Financial Stability Oversight Council](/regulators/#fsoc/) to coordinate across regulators and, crucially, gave it the OFR as a research and data arm. The OFR's charge was to collect information on [systemic risk](/systemic-risk/), analyse it, and report back to the FSOC and Treasury Secretary. It was not a regulator itself—it has no enforcement power, cannot declare firms systemically important, cannot order firms to reduce leverage—but it was meant to be the system's data hub.
+Dodd-Frank created the Financial Stability Oversight Council to coordinate across regulators and, crucially, gave it the OFR as a research and data arm. The OFR's charge was to collect information on [systemic risk](/systemic-risk/), analyse it, and report back to the FSOC and Treasury Secretary. It was not a regulator itself—it has no enforcement power, cannot declare firms systemically important, cannot order firms to reduce leverage—but it was meant to be the system's data hub.
 
 ## Data collection and authority
 
@@ -57,7 +57,7 @@ The OFR has genuine value. Its work on systemic interconnectedness, shadow banki
 
 But it has clear limits. First, it is severely understaffed for the scope of the task. A bureau of ~100 people is expected to monitor a financial system worth many trillions of dollars, with thousands of complex firms and opaque markets. The OFR's data lags by months—it cannot spot a crisis in real time, only after the fact. Second, the OFR has no enforcement tool and depends on the FSOC for action. The FSOC is a coordinating body of regulators with competing mandates and constituencies; getting agreement on a systemic risk response is glacially slow. Third, the OFR's research, while solid, is not predictive. It can identify risks but cannot easily forecast which ones will blow up and when.
 
-Finally, the OFR's reliance on Congress for annual appropriations makes it politically vulnerable. In lean budget years, it has been starved of funding. The [Trump administration](/regulators/#trump) considered shuttering it entirely, viewing it as a redundant bureaucracy.
+Finally, the OFR's reliance on Congress for annual appropriations makes it politically vulnerable. In lean budget years, it has been starved of funding. The Trump administration considered shuttering it entirely, viewing it as a redundant bureaucracy.
 
 ## Data gaps and the cryptocurrency question
 
@@ -65,7 +65,7 @@ The OFR's historical focus has been on traditional banking and derivatives. As [
 
 ## International and peer institutions
 
-The OFR's model of a unified data hub and systemic-risk researcher is paralleled internationally. The [Bank for International Settlements](/regulators/#bis) plays a similar role for the global system, though with less enforcement power even than the OFR. The European Systemic Risk Board (ESRB) has a comparable mandate in the EU, with similar trade-offs between broad visibility and narrow enforcement reach.
+The OFR's model of a unified data hub and systemic-risk researcher is paralleled internationally. The Bank for International Settlements plays a similar role for the global system, though with less enforcement power even than the OFR. The European Systemic Risk Board (ESRB) has a comparable mandate in the EU, with similar trade-offs between broad visibility and narrow enforcement reach.
 
 ## See also
 
@@ -73,7 +73,7 @@ The OFR's model of a unified data hub and systemic-risk researcher is paralleled
 
 ### Closely related
 
-- [Financial Stability Oversight Council](/regulators/#fsoc) — the interagency body the OFR serves with data and research
+- Financial Stability Oversight Council — the interagency body the OFR serves with data and research
 - [Dodd-Frank Act](/dodd-frank-act/) — legislation that created the OFR
 - [Systemic risk](/systemic-risk/) — the phenomenon the OFR monitors
 - [Stress testing](/stress-testing/) — a methodology the OFR develops and applies
@@ -82,8 +82,8 @@ The OFR's model of a unified data hub and systemic-risk researcher is paralleled
 ### Wider context
 
 - [Federal Reserve](/federal-reserve/) — primary supervisor of large banks whose data the OFR collects
-- [Consumer Financial Protection Bureau](/regulators/#cfpb) — another post-Dodd-Frank regulator, focused on consumers rather than systemic stability
+- Consumer Financial Protection Bureau — another post-Dodd-Frank regulator, focused on consumers rather than systemic stability
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) — securities regulator that feeds data to the OFR
-- [Bank for International Settlements](/regulators/#bis) — international counterpart for global financial stability research
+- Bank for International Settlements — international counterpart for global financial stability research
 
 </div>

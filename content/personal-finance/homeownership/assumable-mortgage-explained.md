@@ -81,7 +81,7 @@ Assumption and "subject-to" transactions are not the same. In a true assumption,
 - [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation/) — Insures deposits at lenders who service mortgages and assumption transactions
 - [Refinancing Risk](/refinancing-risk/) — The risk an assuming buyer avoids by locking in the original rate
 - [Interest Rate](/interest-rate/) — The rate inherited in assumption, central to its financial appeal
-- [Due-on-Sale Clause](//) — The contractual right that typically prevents conventional mortgage assumption
+- Due-on-Sale Clause — The contractual right that typically prevents conventional mortgage assumption
 
 ### Wider context
 

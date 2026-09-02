@@ -65,7 +65,7 @@ Conversely, a seller who refuses to close after accepting an offer with earnest 
 
 ## Earnest money and purchase agreements
 
-The [purchase agreement](/wiki/buying-contingency/) or "sales contract" specifies all EMD terms: amount, due date, escrow agent, conditions for release or refund, and consequences of breach. A buyer and seller can negotiate EMD amount and terms just as they negotiate price. In a buyer's market (oversupply), a buyer might offer lower EMD (0.5%) and the seller might accept to attract offers; in a seller's market (scarcity), sellers demand higher EMD (3–5%) to filter serious buyers.
+The purchase agreement or "sales contract" specifies all EMD terms: amount, due date, escrow agent, conditions for release or refund, and consequences of breach. A buyer and seller can negotiate EMD amount and terms just as they negotiate price. In a buyer's market (oversupply), a buyer might offer lower EMD (0.5%) and the seller might accept to attract offers; in a seller's market (scarcity), sellers demand higher EMD (3–5%) to filter serious buyers.
 
 ## After earnest money is forfeited
 

@@ -89,7 +89,7 @@ Bank loan funds are mature, liquid, and cost-effective for core exposure to leve
 - [Leveraged Buyout](/leveraged-buyout/) — the transaction private credit often finances
 - [Credit Rating](/credit-rating/) — how bank loan borrowers are scored; private credit borrowers typically lack ratings
 - [Hedge Fund](/hedge-fund/) — some private credit strategies run as hedge funds; others as interval funds
-- [Distressed Debt](//) — when private credit goes wrong; recovery investing
+- Distressed Debt — when private credit goes wrong; recovery investing
 - [Loan-to-Value Ratio](/loan-to-value-ratio/) — key metric in loan underwriting
 - [Counterparty Risk](/counterparty-risk/) — concentration in a few credits is a core private credit risk
 

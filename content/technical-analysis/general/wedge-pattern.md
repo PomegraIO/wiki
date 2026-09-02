@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **wedge pattern** is a chart formation with two converging trendlines, similar in shape to a [symmetrical-triangle](/technical-analysis/symmetrical-triangle) or [pennant](/technical-analysis/pennant-pattern), but with a clear directional bias. Unlike symmetrical triangles (which are neutral), wedges are either rising (bullish) or falling (bearish) in appearance. A **rising wedge** shows both lines sloping upward, though converging. A **falling wedge** shows both lines sloping downward, though converging. Wedges can act as either reversal or continuation patterns depending on their context in the larger trend. A rising wedge within an uptrend may precede a downward reversal; the same shape appearing within a downtrend may signal continuation lower.*
+*A **wedge pattern** is a chart formation with two converging trendlines, similar in shape to a [symmetrical-triangle](/symmetrical-triangle/) or [pennant](/pennant-pattern/), but with a clear directional bias. Unlike symmetrical triangles (which are neutral), wedges are either rising (bullish) or falling (bearish) in appearance. A **rising wedge** shows both lines sloping upward, though converging. A **falling wedge** shows both lines sloping downward, though converging. Wedges can act as either reversal or continuation patterns depending on their context in the larger trend. A rising wedge within an uptrend may precede a downward reversal; the same shape appearing within a downtrend may signal continuation lower.*
 
 <div class="wiki-hatnote">
 
-For other converging patterns, see [pennant](/technical-analysis/pennant-pattern) and [symmetrical-triangle](/technical-analysis/symmetrical-triangle). For rising and falling wedge specifics, see [rising-wedge](/technical-analysis/rising-wedge) and [falling-wedge](/technical-analysis/falling-wedge).
+For other converging patterns, see [pennant](/pennant-pattern/) and [symmetrical-triangle](/symmetrical-triangle/). For rising and falling wedge specifics, see [rising-wedge](/rising-wedge/) and [falling-wedge](/falling-wedge/).
 
 </div>
 
@@ -110,16 +110,16 @@ Academic research on wedges is sparse. The pattern's dual interpretation (revers
 
 ### Related patterns
 
-- [Rising-wedge](/technical-analysis/rising-wedge) — both lines upward, bearish in uptrend
-- [Falling-wedge](/technical-analysis/falling-wedge) — both lines downward, bullish in downtrend
-- [Symmetrical-triangle](/technical-analysis/symmetrical-triangle) — converging, neutral direction
-- [Pennant-pattern](/technical-analysis/pennant-pattern) — small converging triangle
-- [Channel-pattern](/technical-analysis/channel-pattern) — parallel, not converging
+- [Rising-wedge](/rising-wedge/) — both lines upward, bearish in uptrend
+- [Falling-wedge](/falling-wedge/) — both lines downward, bullish in downtrend
+- [Symmetrical-triangle](/symmetrical-triangle/) — converging, neutral direction
+- [Pennant-pattern](/pennant-pattern/) — small converging triangle
+- [Channel-pattern](/channel-pattern/) — parallel, not converging
 
 ### Trend context
 
-- [Trendline](/technical-analysis/trendline) — identifying trend before wedge
-- [Support and resistance](/technical-analysis/support-and-resistance) — wedge boundaries
-- [Volume](/technical-analysis/on-balance-volume) — confirming breakouts
+- [Trendline](/trendline/) — identifying trend before wedge
+- [Support and resistance](/support-and-resistance/) — wedge boundaries
+- [Volume](/on-balance-volume/) — confirming breakouts
 
 </div>

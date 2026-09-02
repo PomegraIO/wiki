@@ -47,7 +47,7 @@ Customers buying Mangoceuticals are making a bet that the company has conducted 
 
 ## The 10-K Tells a Story of Scale and Speed
 
-Investors reading the [10-K](/10-K/) will find revenue by product line, customer [acquisition](/acquisition/) cost, retention rates, and margins by channel. Geographic revenue matters: are sales concentrated in one region or diversified? The filing discloses manufacturing and supply chain partners, which reveals whether the company controls key steps or depends on a few vendors. R&D spend and published studies indicate how aggressively the company is building credibility. Most importantly, the cash-burn rate shows whether the company has a path to profitability or is a perpetual cash consumer.
+Investors reading the [10-K](/10-k/) will find revenue by product line, customer [acquisition](/acquisition/) cost, retention rates, and margins by channel. Geographic revenue matters: are sales concentrated in one region or diversified? The filing discloses manufacturing and supply chain partners, which reveals whether the company controls key steps or depends on a few vendors. R&D spend and published studies indicate how aggressively the company is building credibility. Most importantly, the cash-burn rate shows whether the company has a path to profitability or is a perpetual cash consumer.
 
 ## Why Customers Keep Coming Back
 

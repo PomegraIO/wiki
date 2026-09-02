@@ -28,7 +28,7 @@ image: "/svg/trading.svg"
 | **Typical use** | Evaluating execution algorithms; routing decisions; [order book impact model](/order-book-impact-model/) |
 | **Inputs needed** | Order size, direction (buy/sell), market state, historical volatility |
 | **Limitations** | Doesn't account for hidden liquidity; assumes visible book is representative |
-| **Related concept** | [Market impact](/https://example.com/), [price discovery](/price-discovery/), [bid-ask spread](/bid-ask-spread/) |
+| **Related concept** | Market impact, [price discovery](/price-discovery/), [bid-ask spread](/bid-ask-spread/) |
 
 </aside>
 
@@ -126,7 +126,7 @@ Professional traders recalibrate their models frequently, often daily or in resp
 ### Wider context
 
 - [Price discovery](/price-discovery/) — the mechanism through which orders move prices
-- [Market impact](/https://example.com/) — the broader concept this model quantifies
+- Market impact — the broader concept this model quantifies
 - [Limit order book](/order-book-impact-model/) — the data structure the model analyzes
 - [Over-the-counter market](/over-the-counter-market/) — alternative venue with different impact dynamics
 - [Stock market](/stock-market/) — primary context for impact models in equities

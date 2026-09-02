@@ -153,7 +153,7 @@ Tag-along rights are contractual provisions, typically enforceable if:
 <h3>Closely related</h3>
 <ul>
   <li><a href="/wiki/drag-along-rights/">Drag-Along Rights</a> — complementary provision allowing majorities to force minorities to participate in a sale.</li>
-  <li><a href="/wiki/shareholders-agreement/">Shareholders Agreement</a> — contract governing tag-along, drag-along, and other protections.</li>
+  <li>Shareholders Agreement — contract governing tag-along, drag-along, and other protections.</li>
   <li><a href="/wiki/preferred-stock/">Preferred Stock</a> — often includes tag-along rights as protective provision.</li>
   <li><a href="/wiki/common-stock/">Common Stock</a> — founder and employee shares often have tag-along rights.</li>
 </ul>

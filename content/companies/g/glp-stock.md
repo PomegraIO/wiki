@@ -39,7 +39,7 @@ Pricing power is limited in propane distribution; customers can switch providers
 
 ## Acquisition Activity and Build-Out Strategy
 
-GLP grows partly through internal volume growth and partly through acquisitions of smaller regional propane and fuel distributors. The [10-K](/10-K/) will disclose material acquisitions and any [goodwill](/goodwill/) or [intangible assets](/intangible-assets/) created. If GLP is making frequent acquisitions, the analyst should assess whether those acquisitions are accretive to earnings and whether they are being integrated effectively. Large goodwill write-downs in subsequent years would indicate overpaid acquisitions or integration failures.
+GLP grows partly through internal volume growth and partly through acquisitions of smaller regional propane and fuel distributors. The [10-K](/10-k/) will disclose material acquisitions and any [goodwill](/goodwill/) or [intangible assets](/intangible-assets/) created. If GLP is making frequent acquisitions, the analyst should assess whether those acquisitions are accretive to earnings and whether they are being integrated effectively. Large goodwill write-downs in subsequent years would indicate overpaid acquisitions or integration failures.
 
 ## Capital Expenditure Requirements
 

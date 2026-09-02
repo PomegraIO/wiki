@@ -104,7 +104,7 @@ Defenders counter that preventing dominant positions is crucial for market integ
 - [Futures contract](/wiki/futures-contract/) — The underlying instrument subject to limits.
 - [Position limit regulations](/wiki/position-limit-regulations/) — The broader policy framework.
 - [Commodity futures trading commission](/wiki/commodity-futures-trading-commission/) — The regulator.
-- [Corner](/wiki/corner-squeeze/) — Market manipulation via position dominance.
+- Corner — Market manipulation via position dominance.
 - [Hedging with futures](/wiki/hedging-with-futures/) — Why farmers and processors need exemptions.
 
 ### Wider context

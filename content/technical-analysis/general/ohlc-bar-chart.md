@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*An **OHLC bar chart** (open, high, low, close) shows the same four prices as a [candlestick chart](/technical-analysis/candlestick-chart) but uses a different visual representation. Instead of a rectangular body with wicks, each period is displayed as a simple vertical line with two short horizontal ticks: the left tick marks the open, the right tick marks the close. The top of the line is the high; the bottom is the low. OHLC bars are less widely used than candlesticks in modern technical analysis, but they remain popular in some communities and offer a clean, uncluttered alternative view of price action.*
+*An **OHLC bar chart** (open, high, low, close) shows the same four prices as a [candlestick chart](/candlestick-chart/) but uses a different visual representation. Instead of a rectangular body with wicks, each period is displayed as a simple vertical line with two short horizontal ticks: the left tick marks the open, the right tick marks the close. The top of the line is the high; the bottom is the low. OHLC bars are less widely used than candlesticks in modern technical analysis, but they remain popular in some communities and offer a clean, uncluttered alternative view of price action.*
 
 <div class="wiki-hatnote">
 
-For candlesticks, the dominant chart type, see [candlestick chart](/technical-analysis/candlestick-chart). Other alternatives include [line charts](/technical-analysis/line-chart) and [renko charts](/technical-analysis/renko-chart).
+For candlesticks, the dominant chart type, see [candlestick chart](/candlestick-chart/). Other alternatives include [line charts](/line-chart/) and [renko charts](/renko-chart/).
 
 </div>
 
@@ -96,7 +96,7 @@ Traders who analyze price action (the movement of prices without indicators) mig
 
 ## Comparison to line charts
 
-A [line chart](/technical-analysis/line-chart) shows only closing prices, connected by a line. An OHLC bar shows the full range (high and low) plus opens, making it far richer in information. For serious technical analysis, OHLC bars are superior to line charts.
+A [line chart](/line-chart/) shows only closing prices, connected by a line. An OHLC bar shows the full range (high and low) plus opens, making it far richer in information. For serious technical analysis, OHLC bars are superior to line charts.
 
 ## See also
 
@@ -104,15 +104,15 @@ A [line chart](/technical-analysis/line-chart) shows only closing prices, connec
 
 ### Chart types
 
-- [Candlestick chart](/technical-analysis/candlestick-chart) — the dominant modern format
-- [Line chart](/technical-analysis/line-chart) — closes only
-- [Renko chart](/technical-analysis/renko-chart) — price-based, no time axis
-- [Kagi chart](/technical-analysis/kagi-chart) — thin/thick lines based on reversals
-- [Point-and-figure chart](/technical-analysis/point-and-figure-chart) — X's and O's
+- [Candlestick chart](/candlestick-chart/) — the dominant modern format
+- [Line chart](/line-chart/) — closes only
+- [Renko chart](/renko-chart/) — price-based, no time axis
+- [Kagi chart](/kagi-chart/) — thin/thick lines based on reversals
+- [Point-and-figure chart](/point-and-figure-chart/) — X's and O's
 
 ### Pattern analysis
 
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — most patterns use candlestick terms
-- [Support and resistance](/technical-analysis/support-and-resistance) — highs/lows form levels
+- [Candlestick pattern](/candlestick-pattern/) — most patterns use candlestick terms
+- [Support and resistance](/support-and-resistance/) — highs/lows form levels
 
 </div>

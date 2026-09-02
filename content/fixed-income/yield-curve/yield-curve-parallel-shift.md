@@ -47,7 +47,7 @@ A parallel shift is distinct because the slope of the curve — the difference b
 
 ## Measuring and modeling parallel shifts
 
-Statisticians and risk managers often use [principal component analysis](//) (or similar techniques) to decompose yield curve moves into independent components. The first component typically explains parallel shifts — accounting for 80–90% of the variance in daily curve movements. The second and third components capture steepening, flattening, and higher-order twists.
+Statisticians and risk managers often use principal component analysis (or similar techniques) to decompose yield curve moves into independent components. The first component typically explains parallel shifts — accounting for 80–90% of the variance in daily curve movements. The second and third components capture steepening, flattening, and higher-order twists.
 
 This decomposition is useful for [value-at-risk](/value-at-risk/) calculations and stress testing. A portfolio manager can ask: "What happens to my portfolio if the curve shifts 100 basis points in parallel?" The answer comes directly from duration.
 
@@ -73,7 +73,7 @@ For this reason, sophisticated bond managers monitor the entire yield curve — 
 
 - [Interest Rate Swap](/interest-rate-swap/) — tool for hedging duration risk
 - [Futures Contract](/futures-contract/) — another vehicle for adjusting curve exposure
-- [Convexity](//) — the nonlinear component of bond price-yield sensitivity
+- Convexity — the nonlinear component of bond price-yield sensitivity
 - [Federal Reserve](/federal-reserve/) — the main driver of short-rate parallel shifts
 
 </div>

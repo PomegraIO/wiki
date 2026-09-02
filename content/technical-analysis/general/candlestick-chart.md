@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For discussion of interpretable patterns that form across multiple candles, see [candlestick pattern](/technical-analysis/candlestick-pattern).
+For discussion of interpretable patterns that form across multiple candles, see [candlestick pattern](/candlestick-pattern/).
 
 </div>
 
@@ -45,7 +45,7 @@ For discussion of interpretable patterns that form across multiple candles, see 
 
 Every candlestick encodes four prices in a single vertical bar. The **body** (rectangular part) spans from the session's open price to its close price. If the close is above the open, the candle is typically drawn in green (or white) and called bullish; if the close is below the open, it is red (or black) and called bearish. The thin vertical lines extending above and below the body are the **wicks** (or **shadows**): the upper wick reaches the session's high price, and the lower wick reaches the session's low.
 
-This four-value encoding means a candlestick chart packs twice as much information into a single bar as a traditional [line chart](/technical-analysis/line-chart), which shows only the closing price. That density is why candlesticks became standard for serious technical analysts.
+This four-value encoding means a candlestick chart packs twice as much information into a single bar as a traditional [line chart](/line-chart/), which shows only the closing price. That density is why candlesticks became standard for serious technical analysts.
 
 ## Why four prices matter
 
@@ -69,7 +69,7 @@ The choice of timeframe shapes what the chart reveals. A stock might look like a
 
 The wicks (shadows) extending above and below the body deserve close attention. A long upper wick suggests that buyers pushed the price high but sellers ultimately won the session, driving the close back down. This indicates **rejection of higher prices** and is often bearish. Conversely, a long lower wick shows buyers stepping in to defend a lower level, with the close well above the session's low — often bullish, as it suggests **support held**.
 
-A candle with virtually no wicks (a [marubozu](/technical-analysis/marubozu)) suggests strong conviction: prices opened and closed near the extremes with little to no rejection. A candle with long wicks in both directions (a [spinning top](/technical-analysis/spinning-top)) suggests indecision and weakness.
+A candle with virtually no wicks (a [marubozu](/marubozu/)) suggests strong conviction: prices opened and closed near the extremes with little to no rejection. A candle with long wicks in both directions (a [spinning top](/spinning-top/)) suggests indecision and weakness.
 
 ## Candlestick patterns and traders' psychology
 
@@ -83,7 +83,7 @@ A well-formed candlestick chart requires clean data: accurate open, high, low, a
 
 ## Candlesticks versus other chart types
 
-Candlesticks are now the de facto standard for serious technical analysis, but they are not the only option. A [line chart](/technical-analysis/line-chart) is simpler and cleaner but shows only closing prices. An [OHLC bar chart](/technical-analysis/ohlc-bar-chart) also shows all four prices but uses vertical bars instead of the body-and-wick layout. [Renko](/technical-analysis/renko-chart) and [point-and-figure](/technical-analysis/point-and-figure-chart) charts discard time entirely and focus on price moves of fixed magnitude, useful for removing noise. For most modern traders, however, candlesticks remain the lingua franca of technical analysis.
+Candlesticks are now the de facto standard for serious technical analysis, but they are not the only option. A [line chart](/line-chart/) is simpler and cleaner but shows only closing prices. An [OHLC bar chart](/ohlc-bar-chart/) also shows all four prices but uses vertical bars instead of the body-and-wick layout. [Renko](/renko-chart/) and [point-and-figure](/point-and-figure-chart/) charts discard time entirely and focus on price moves of fixed magnitude, useful for removing noise. For most modern traders, however, candlesticks remain the lingua franca of technical analysis.
 
 ## See also
 
@@ -91,22 +91,22 @@ Candlesticks are now the de facto standard for serious technical analysis, but t
 
 ### Closely related
 
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — recognizable shapes that form across multiple candles
-- [OHLC bar chart](/technical-analysis/ohlc-bar-chart) — alternative display of the same four prices
-- [Line chart](/technical-analysis/line-chart) — simpler chart showing close prices only
-- [Renko chart](/technical-analysis/renko-chart) — price-based chart that ignores time
-- [Point-and-figure chart](/technical-analysis/point-and-figure-chart) — grid-based chart of X's and O's
+- [Candlestick pattern](/candlestick-pattern/) — recognizable shapes that form across multiple candles
+- [OHLC bar chart](/ohlc-bar-chart/) — alternative display of the same four prices
+- [Line chart](/line-chart/) — simpler chart showing close prices only
+- [Renko chart](/renko-chart/) — price-based chart that ignores time
+- [Point-and-figure chart](/point-and-figure-chart/) — grid-based chart of X's and O's
 
 ### Chart patterns and interpretation
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — key price levels visible on any chart
-- [Trendline](/technical-analysis/trendline) — connecting candles to identify direction
-- [Channel pattern](/technical-analysis/channel-pattern) — parallel support and resistance
+- [Support and resistance](/support-and-resistance/) — key price levels visible on any chart
+- [Trendline](/trendline/) — connecting candles to identify direction
+- [Channel pattern](/channel-pattern/) — parallel support and resistance
 
 ### Widely used indicators
 
-- [Moving averages](/technical-analysis/simple-moving-average) — trend confirmation overlaid on candles
-- [Relative strength index](/technical-analysis/relative-strength-index) — momentum oscillator
-- [Volume](/technical-analysis/on-balance-volume) — trading activity alongside price
+- [Moving averages](/simple-moving-average/) — trend confirmation overlaid on candles
+- Relative strength index — momentum oscillator
+- [Volume](/on-balance-volume/) — trading activity alongside price
 
 </div>

@@ -83,7 +83,7 @@ Transaction costs matter too. Buying the long option and selling the short optio
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational contract.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/expiration-date/">Expiration date</a> — defines the spread expirations.</li>
 </ul>
 </div>

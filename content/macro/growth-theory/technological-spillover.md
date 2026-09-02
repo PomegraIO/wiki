@@ -10,7 +10,7 @@ keywords:
 
 *A **technological spillover** (or knowledge spillover) is the transfer of innovation, research findings, or production techniques from their source—typically a leading firm or nation—to competitors and other sectors, raising economy-wide [productivity](/wiki/productivity/) without the original innovator being fully compensated.*
 
-Spillovers are central to long-run [growth theory](/wiki/romer-growth-model/). A pharmaceutical firm invests billions in drug discovery and receives a patent monopoly. But its research creates spillovers: competitors learn from published clinical trials, hire away key scientists, reverse-engineer techniques, or build on foundational discoveries that become part of the scientific commons. Over time, the original firm's [competitive advantage](/wiki/competitive-advantage/) erodes—yet the industry and society have benefited enormously. This uncompensated benefit is the spillover.
+Spillovers are central to long-run [growth theory](/wiki/romer-growth-model/). A pharmaceutical firm invests billions in drug discovery and receives a patent monopoly. But its research creates spillovers: competitors learn from published clinical trials, hire away key scientists, reverse-engineer techniques, or build on foundational discoveries that become part of the scientific commons. Over time, the original firm's competitive advantage erodes—yet the industry and society have benefited enormously. This uncompensated benefit is the spillover.
 
 <aside class="wiki-infobox">
 

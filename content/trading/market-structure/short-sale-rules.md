@@ -74,7 +74,7 @@ The evidence is mixed. Studies find that short-sale restrictions do reduce volat
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/sec/">SEC</a> — primary regulator of short sales.</li>
+  <li>SEC — primary regulator of short sales.</li>
   <li><a href="/wiki/circuit-breakers/">Circuit breakers</a> — other protective mechanism for falling markets.</li>
   <li><a href="/wiki/market-makers/">Market makers</a> — can short to provide liquidity.</li>
 </ul>

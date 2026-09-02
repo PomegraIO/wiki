@@ -61,7 +61,7 @@ These partnerships are economically rational but show that Goldgroup, as an inde
 
 Assessing Goldgroup requires understanding: (1) the status and confidence level of its feasibility study — is it bankable (lenders and equity investors confident), or preliminary and dependent on favorable assumptions; (2) the permitting and approval timeline — how many hurdles remain before construction can begin; (3) the capital requirement and funding plan — where will the construction capital come from, and how will it be raised without catastrophic dilution; (4) the deposit geology and mining method — is it open-pit or underground, and how does that affect costs; and (5) the gold price assumption embedded in the study and Goldgroup's breakeven price.
 
-The [10-K](/10-K/) will disclose the feasibility study results and permitting status. Listen to management calls for language about funding: confidence indicates a partnership or financing path is likely; vagueness suggests uncertainty and higher risk of delay or stalls.
+The [10-K](/10-k/) will disclose the feasibility study results and permitting status. Listen to management calls for language about funding: confidence indicates a partnership or financing path is likely; vagueness suggests uncertainty and higher risk of delay or stalls.
 
 ## The Viability Threshold
 

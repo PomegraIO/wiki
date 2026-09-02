@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **LEAPS option** (Long-term Equity Anticipation Security) is an [option](/derivatives/option-basics/) contract with an [expiration date](/expiration-date/) extending up to three years into the future. Unlike standard monthly or quarterly [options](/derivatives/option-basics/), which measure risk and decay over weeks or months, LEAPS give traders and investors a long runway to be right about a directional bet. They behave partly like options—offering [leverage](/leverage-ratio-forex/) and [time decay](/time-decay-theta/)—and partly like equity positions, since three years is a meaningful holding period for fundamental conviction.*
+*A **LEAPS option** (Long-term Equity Anticipation Security) is an option contract with an [expiration date](/expiration-date/) extending up to three years into the future. Unlike standard monthly or quarterly options, which measure risk and decay over weeks or months, LEAPS give traders and investors a long runway to be right about a directional bet. They behave partly like options—offering [leverage](/leverage-ratio-forex/) and [time decay](/time-decay-theta/)—and partly like equity positions, since three years is a meaningful holding period for fundamental conviction.*
 
 <aside class="wiki-infobox">
 
@@ -22,11 +22,11 @@ image: "/svg/derivatives.svg"
 
 |   |   |
 |---|---|
-| **What it is** | An [option](/derivatives/option-basics/) contract with [expiration](/expiration-date/) 6 months to 3 years away |
-| **Also called** | Long-term [option](/derivatives/option-basics/), extended [expiration](/expiration-date/) |
+| **What it is** | An option contract with [expiration](/expiration-date/) 6 months to 3 years away |
+| **Also called** | Long-term option, extended [expiration](/expiration-date/) |
 | **Typical expiration** | January expirations 1–3 years forward; sometimes LEAPS in June or later |
 | **Leverage** | Moderate to high, depending on [strike price](/strike-price/) and time decay |
-| **Time decay** | Slower than short-term [options](/derivatives/option-basics/) per day, but absolute decay grows with time to expiration |
+| **Time decay** | Slower than short-term options per day, but absolute decay grows with time to expiration |
 | **Primary use** | Long-term directional bets, [hedging](/protective-put/) multi-year positions, [volatility](/volatility-smile/) arbitrage |
 | **Liquidity** | Good for large-cap stocks; thin or nonexistent for small-cap securities |
 
@@ -34,9 +34,9 @@ image: "/svg/derivatives.svg"
 
 ## The three-year window: when [time decay](/time-decay-theta/) matters less
 
-Short-term [options](/derivatives/option-basics/) expire in weeks. [Time decay](/theta/) devours them: a one-month out-of-the-money call loses 10–20% of its value per week in the final weeks before [expiration](/expiration-date/). This means the underlying stock must move sharply and soon for a short-term position to profit.
+Short-term options expire in weeks. [Time decay](/theta/) devours them: a one-month out-of-the-money call loses 10–20% of its value per week in the final weeks before [expiration](/expiration-date/). This means the underlying stock must move sharply and soon for a short-term position to profit.
 
-LEAPS flip this calculus. With three years to [expiration](/expiration-date/), the daily [time decay](/theta/) is small enough to be manageable. A LEAPS call loses perhaps 0.1% per day rather than 1% per day. Over a year, this adds up—the [option](/derivatives/option-basics/) will erode—but it is gradual. The holder has time for the underlying thesis to play out.
+LEAPS flip this calculus. With three years to [expiration](/expiration-date/), the daily [time decay](/theta/) is small enough to be manageable. A LEAPS call loses perhaps 0.1% per day rather than 1% per day. Over a year, this adds up—the option will erode—but it is gradual. The holder has time for the underlying thesis to play out.
 
 This changes the psychology and strategy. A trader who buys a one-month call is placing a bet on immediate direction. A trader who buys a LEAPS call is expressing a view on where the stock will be in 12, 18, or 24 months. The bet does not need to be right this quarter; it needs to be right within the multi-year window.
 
@@ -62,9 +62,9 @@ This is especially useful for founders or insiders with concentrated holdings. Y
 
 ## The role of implied volatility in LEAPS pricing
 
-LEAPS are more sensitive to shifts in implied [volatility](/volatility-smile/) than short-term [options](/derivatives/option-basics/). A short-term call already embeds a rough estimate of the stock's likely move over the next month. A LEAPS call must estimate moves over three years—a much longer and more uncertain horizon.
+LEAPS are more sensitive to shifts in implied [volatility](/volatility-smile/) than short-term options. A short-term call already embeds a rough estimate of the stock's likely move over the next month. A LEAPS call must estimate moves over three years—a much longer and more uncertain horizon.
 
-When [volatility](/volatility-smile/) rises (perhaps due to market-wide fear), LEAPS [options](/derivatives/option-basics/) become more expensive, because the market is estimating larger moves. Conversely, when [volatility](/volatility-smile/) contracts, LEAPS [options](/derivatives/option-basics/) fall even if the stock price is unchanged.
+When [volatility](/volatility-smile/) rises (perhaps due to market-wide fear), LEAPS options become more expensive, because the market is estimating larger moves. Conversely, when [volatility](/volatility-smile/) contracts, LEAPS options fall even if the stock price is unchanged.
 
 Smart traders exploit this. If you buy LEAPS when [volatility](/volatility-smile/) is low and sell them months later when [volatility](/volatility-smile/) spikes, you can profit from the [volatility](/volatility-smile/) expansion alone, regardless of the stock's direction. This is known as [volatility](/volatility-smile/) arbitrage or "short [volatility](/volatility-smile/) risk"—collecting the premium paid by fearful investors for downside protection they may never use.
 
@@ -72,19 +72,19 @@ Smart traders exploit this. If you buy LEAPS when [volatility](/volatility-smile
 
 LEAPS are not always better than owning stock, despite the leverage. Consider the economics:
 
-**LEAPS advantages**: Leverage (control more shares for less capital); no dividend drag (you own an [option](/derivatives/option-basics/), not a share, so you do not receive [dividends](/dividend/)); potential for [volatility](/volatility-smile/) gains if implied [volatility](/volatility-smile/) rises.
+**LEAPS advantages**: Leverage (control more shares for less capital); no dividend drag (you own an option, not a share, so you do not receive [dividends](/dividend/)); potential for [volatility](/volatility-smile/) gains if implied [volatility](/volatility-smile/) rises.
 
 **Stock advantages**: No [time decay](/time-decay-theta/) (the stock does not expire); collect [dividends](/dividend/); voting rights and status as a shareholder; unlimited holding period (no forced [expiration](/expiration-date/)).
 
 For a two-year conviction bet, LEAPS often make sense if you lack capital or want to preserve dry powder for other opportunities. For a long-term position where you want [dividend](/dividend/) income, stock ownership is simpler and avoids the drag of [time decay](/time-decay-theta/).
 
-The tax treatment differs as well. A long-term stock [gain](/dividend/) (held over one year) qualifies for favorable [capital gains tax](/capital-gains-tax-investor/) treatment in most jurisdictions. [Options](/derivatives/option-basics/), even if held for years, are often treated as short-term for tax purposes, meaning ordinary [income](/income-statement/) rates apply. Check your local tax code.
+The tax treatment differs as well. A long-term stock [gain](/dividend/) (held over one year) qualifies for favorable [capital gains tax](/capital-gains-tax-investor/) treatment in most jurisdictions. Options, even if held for years, are often treated as short-term for tax purposes, meaning ordinary [income](/income-statement/) rates apply. Check your local tax code.
 
 ## Liquidity and practical execution
 
 LEAPS are liquid for large-cap stocks. Apple, Microsoft, Tesla, and other mega-cap names trade robust LEAPS volume. But for smaller companies, LEAPS can be nearly impossible to find or exit. The [bid-ask spread](/bid-ask-spread/) widens, and exiting a profitable LEAPS position may mean accepting a price worse than the midpoint.
 
-This is critical: before buying a LEAPS, check that you can exit it. Buy LEAPS on stocks where monthly [options](/derivatives/option-basics/) are heavily traded; LEAPS will also be liquid. Avoid LEAPS on illiquid stocks or micro-cap companies where you might be stuck holding until [expiration](/expiration-date/).
+This is critical: before buying a LEAPS, check that you can exit it. Buy LEAPS on stocks where monthly options are heavily traded; LEAPS will also be liquid. Avoid LEAPS on illiquid stocks or micro-cap companies where you might be stuck holding until [expiration](/expiration-date/).
 
 ## The long [theta](/theta/) bleed: realistic expectations
 
@@ -92,7 +92,7 @@ Even though daily [time decay](/time-decay-theta/) is small on a LEAPS, the cumu
 
 If you buy a LEAPS call at $15 [premium](/option-premium/) (including $10 of [time value](/option-premium/)), and the stock does not move, that $10 of [time value](/option-premium/) will erode to nearly zero by [expiration](/expiration-date/). You will be left with only the intrinsic value. For your leverage to pay off, the stock must move enough to overcome this decay. The longer you hold without a directional move, the more that decay compounds.
 
-Successful LEAPS traders accept that decay as the cost of patience and factor it into their target prices. If you need the stock to rally 50% to break even (rather than 30%), you are breaking even on the [option](/derivatives/option-basics/) despite the leverage. The leverage is real only if the stock moves far enough, fast enough.
+Successful LEAPS traders accept that decay as the cost of patience and factor it into their target prices. If you need the stock to rally 50% to break even (rather than 30%), you are breaking even on the option despite the leverage. The leverage is real only if the stock moves far enough, fast enough.
 
 ## See also
 
@@ -100,7 +100,7 @@ Successful LEAPS traders accept that decay as the cost of patience and factor it
 
 ### Closely related
 
-- [Option](/derivatives/option-basics/) — foundational structures and how [options](/derivatives/option-basics/) differ from stocks
+- Option — foundational structures and how options differ from stocks
 - [Expiration date](/expiration-date/) — how the runway changes the risk profile
 - [Theta](/theta/) — time decay and the long erosion of [time value](/option-premium/)
 - [Delta](/delta/) — how LEAPS behave like fractional stock ownership
@@ -111,11 +111,11 @@ Successful LEAPS traders accept that decay as the cost of patience and factor it
 
 ### Wider context
 
-- [Option premium](/option-premium/) — why LEAPS cost more than short-term [options](/derivatives/option-basics/)
-- [Capital gains tax](/capital-gains-tax-investor/) — tax treatment of [options](/derivatives/option-basics/) versus stock
+- [Option premium](/option-premium/) — why LEAPS cost more than short-term options
+- [Capital gains tax](/capital-gains-tax-investor/) — tax treatment of options versus stock
 - [Dividend](/dividend/) — [dividends](/dividend/) lost when using calls instead of stock
 - [Stock](/stock/) — the underlying asset and the alternative to owning via LEAPS
-- [Volatility smile](/volatility-smile/) — how [volatility](/volatility-smile/) uncertainty affects long-dated [option](/derivatives/option-basics/) pricing
+- [Volatility smile](/volatility-smile/) — how [volatility](/volatility-smile/) uncertainty affects long-dated option pricing
 - [Time value](/time-value/) — the component of [premium](/option-premium/) that erodes over the three-year life
 
 </div>

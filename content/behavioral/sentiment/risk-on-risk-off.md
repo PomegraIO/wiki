@@ -15,8 +15,8 @@ keywords:
 | Phase | Investor Behavior | Asset Flows |
 |---|---|---|
 | **Risk-On** | Chasing returns, buying [equities](/wiki/equity-etf/) and [junk bonds](/wiki/high-yield-bond/) | Out of [Treasuries](/wiki/treasury-bill/), into stocks and [emerging markets](/wiki/emerging-markets-fund/) |
-| **Risk-Off** | [Flight-to-quality](/wiki/flight-to-quality/), buying safety | Out of [equities](/wiki/equity-etf/) and [commodities](/wiki/commodity-swap/), into [safe havens](/wiki/safe-havens/) |
-| **Trigger** | Fed surprise, geopolitical shock, earnings miss, [contagion](/wiki/financial-crisis/) | Often sudden and violent |
+| **Risk-Off** | [Flight-to-quality](/wiki/flight-to-quality/), buying safety | Out of [equities](/wiki/equity-etf/) and [commodities](/wiki/commodity-swap/), into safe havens |
+| **Trigger** | Fed surprise, geopolitical shock, earnings miss, contagion | Often sudden and violent |
 | **Duration** | Hours to weeks typically; major shocks can persist for months | |
 | **Correlation impact** | Normally uncorrelated assets move in lockstep during RORO | [Diversification](/wiki/diversification/) breaks down |
 
@@ -28,11 +28,11 @@ During a risk-off episode, investors are indifferent to [valuations](/wiki/price
 
 [Gold](/wiki/gold/), the [Swiss franc](/wiki/swiss-franc/), and [Japanese yen](/wiki/japanese-yen/) are also traditional [safe havens](/wiki/gold-standard/). Investors flock to them during risk-off episodes despite no change in [fundamentals](/wiki/fundamental-investing/). [Volatility](/wiki/volatility-smile/) itself becomes desirable: [VIX](/wiki/fear-index/) index options that pay out when [stock market](/wiki/stock-market/) [volatility](/wiki/volatility-smile/) spikes attract bids. The [correlation](/wiki/correlation-coefficient/) structure of global markets also inverts: [equities](/wiki/common-stock/), [commodities](/wiki/commodity-swap/), [emerging market currencies](/wiki/emerging-market-currency-pairs/), and [high-yield bonds](/wiki/high-yield-bond/)—normally uncorrelated—all sell off together.
 
-## Triggers: macro surprise, [contagion](/wiki/financial-crisis/), geopolitical shock
+## Triggers: macro surprise, contagion, geopolitical shock
 
 Risk-off episodes are typically triggered by **macro surprise**—data that contradicts expectations so severely it changes the [Fed](/wiki/federal-reserve/) outlook. A disappointing [jobless claims](/wiki/continuing-jobless-claims/) report suggesting recession, a [central bank](/wiki/central-bank/) pivot toward [tightening](/wiki/quantitative-tightening/), an unexpectedly large [trade deficit](/wiki/trade-deficit-era/), or a sharp drop in consumer spending can all flip the switch.
 
-**[Financial contagion](/wiki/financial-crisis/)** is another driver. When a major firm or country enters crisis—like [Lehman Brothers](/wiki/lehman-brothers-collapse/) in 2008 or the [Cyprus banking crisis](/wiki/cyprus-banking-crisis/) in 2013—investors lose confidence in the entire financial system. [Counterparty risk](/wiki/counterparty-risk/) suddenly matters; even healthy firms struggle to raise capital as [credit](/wiki/credit-spread/) markets seize up. Risk-off spirals self-reinforce: falling [stock prices](/wiki/stock-market/) scare investors, prompting more selling, which scares more investors.
+**Financial contagion** is another driver. When a major firm or country enters crisis—like [Lehman Brothers](/wiki/lehman-brothers-collapse/) in 2008 or the [Cyprus banking crisis](/wiki/cyprus-banking-crisis/) in 2013—investors lose confidence in the entire financial system. [Counterparty risk](/wiki/counterparty-risk/) suddenly matters; even healthy firms struggle to raise capital as [credit](/wiki/credit-spread/) markets seize up. Risk-off spirals self-reinforce: falling [stock prices](/wiki/stock-market/) scare investors, prompting more selling, which scares more investors.
 
 **Geopolitical shocks** like war, [sanctions](/wiki/sanctions-screening/), or election surprises create uncertainty too severe to [price](/wiki/pricing-committee/) rationally. The [2022 Russian invasion of Ukraine](/wiki/geopolitical-energy/), for example, triggered a risk-off spike: [equities](/wiki/equity-etf/) sold off, [commodity](/wiki/crude-oil/) prices surged (energy risk premium), and [Treasury](/wiki/treasury-bill/) yields fell despite inflation rising.
 

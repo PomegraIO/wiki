@@ -45,7 +45,7 @@ Many small and mid-sized regional telecom operators have exited the market or co
 
 ## Research Entry Point: 10-K Fundamentals
 
-Understanding Fullnet requires reading its annual [10-K](/10-K/) (CIK 1092570) and tracking the following metrics:
+Understanding Fullnet requires reading its annual [10-K](/10-k/) (CIK 1092570) and tracking the following metrics:
 - Revenue by service type (voice, broadband, other), and year-over-year trends
 - Customer counts and churn rates
 - Average revenue per user (ARPU) and customer-acquisition costs

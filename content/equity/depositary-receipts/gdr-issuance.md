@@ -84,7 +84,7 @@ GDR issuers must comply with the regulations of each exchange where the GDRs tra
 - [American Depositary Receipt (ADR)](/wiki/american-depository-receipt-adr/) — US-specific version for trading foreign shares
 - [ADR Issuance](/wiki/adr-issuance/) — process of creating ADRs for US trading
 - [Cross-Listing](/wiki/cross-listing/) — listing the same company's shares on multiple exchanges
-- [Capital Access](/wiki/capital-allocation/) — ability to raise funds from investors
+- Capital Access — ability to raise funds from investors
 
 ### Wider context
 - [Direct Listing](/wiki/direct-listing/) — alternative to IPO for public flotation

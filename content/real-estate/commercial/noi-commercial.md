@@ -48,7 +48,7 @@ The numerator is rent minus costs of operating the asset. Inclusion is strict:
 - Income taxes.
 - Capital expenditures for major renovations or structural upgrades.
 
-This discipline is why NOI is the universal language between equity sponsors, debt providers, and buyers. A buyer financed 40% or 80% sees the same NOI; the difference lives in [debt service](/wiki/debt-service/) and cash-on-cash returns, not in the property's fundamental earning power.
+This discipline is why NOI is the universal language between equity sponsors, debt providers, and buyers. A buyer financed 40% or 80% sees the same NOI; the difference lives in debt service and cash-on-cash returns, not in the property's fundamental earning power.
 
 ## The cap rate, and why NOI matters more than price alone
 
@@ -60,7 +60,7 @@ In a low-yield environment, cap rates compress; in a recessionary market, they w
 
 ## Why NOI is cleaner than EBITDA for commercial real estate
 
-Real estate differs from companies in one crucial way: the [asset](/wiki/asset/) itself is the business. You cannot separate the property from operations; there is no widget factory that could move to Mexico. This makes NOI more stable than [EBITDA](/wiki/ebitda/) for operating companies, where one-time charges, restructuring, and accounting discretion cloud the picture.
+Real estate differs from companies in one crucial way: the asset itself is the business. You cannot separate the property from operations; there is no widget factory that could move to Mexico. This makes NOI more stable than [EBITDA](/wiki/ebitda/) for operating companies, where one-time charges, restructuring, and accounting discretion cloud the picture.
 
 However, NOI still depends on management discipline—how aggressively you reserve for vacancies, whether you defer maintenance, how you allocate shared costs across multiple buildings. Two investors buying the same property at the same price can report different NOI if one is more or less conservative in expense accruals.
 
@@ -68,7 +68,7 @@ However, NOI still depends on management discipline—how aggressively you reser
 
 NOI is not cash flow to the equity owner. The path looks like this:
 
-NOI → (less [debt service](/wiki/debt-service/)) → Net Cash Flow → (less taxes and CapEx reserves) → Distributable Cash
+NOI → (less debt service) → Net Cash Flow → (less taxes and CapEx reserves) → Distributable Cash
 
 If a property generates $2M in NOI and debt service is $1.2M, cash after debt is $800K. That $800K then covers property-level taxes, reserves for major repairs, and finally dividends. The further you move down this chain, the more variability enters—debt structures and equity requirements differ across deals, tax situations differ across investors.
 
@@ -96,12 +96,12 @@ A sponsor buying a $50M office tower at 6% cap ($3M NOI) betting the cap stays a
 - [Cap Rate Commercial](/wiki/cap-rate-commercial/) — NOI divided by property value, the yield metric for deal comparison.
 - [Triple-Net Lease](/wiki/triple-net-lease/) — Lease structure where tenants pay property taxes, insurance, maintenance; landlord collects NOI inclusive of these.
 - [Operating Lease](/wiki/operating-lease/) — Asset-level operating metrics; relevant when consolidating multi-unit buildings.
-- [Debt Service](/wiki/debt-service/) — Mortgage principal and interest; the first deduction from NOI to get cash flow to equity.
+- Debt Service — Mortgage principal and interest; the first deduction from NOI to get cash flow to equity.
 
 ### Wider context
 - [Commercial Real Estate](/wiki/commercial-real-estate/) — The asset class; NOI is the central metric.
 - [Real Estate Investment Trust](/wiki/real-estate-investment-trust/) — Public companies buying large commercial property portfolios; earnings are reported as NOI-derived metrics.
-- [Net Operating Loss](/wiki/net-operating-loss/) — Tax concept; different from real estate NOI, but related in some tax scenarios.
+- Net Operating Loss — Tax concept; different from real estate NOI, but related in some tax scenarios.
 - [Ebitda](/wiki/ebitda/) — Operating earnings in corporate context; analogous to NOI in real estate.
 
 </div>

@@ -83,7 +83,7 @@ Conditions are contentious. They often force deep [recession](/wiki/recession/) 
 
 **Defenses:**
 - **No alternative**: Without IMF rescue, full [default](/wiki/sovereign-default/) and financial collapse occur. Bailouts are the lesser evil.
-- **Conditions work**: Studies show countries with IMF programs recover faster than those that don't (though [selection bias](/wiki/selection-bias-inflation/) clouds interpretation).
+- **Conditions work**: Studies show countries with IMF programs recover faster than those that don't (though selection bias clouds interpretation).
 - **Necessary discipline**: Without IMF conditions, governments would spend recklessly again, recreating crises.
 - **Learning**: IMF has evolved conditionality over decades, moving away from rigid austerity and toward more flexible, growth-friendly approaches.
 

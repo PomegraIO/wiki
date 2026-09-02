@@ -10,7 +10,7 @@ keywords:
 image: /svg/valuation.svg
 ---
 
-*An **illiquidity discount** (also called a lack-of-marketability discount or minority-discount) is a percentage reduction applied to the [discounted cash flow](/valuation/discounted-cash-flow-valuation/) value of a private company to reflect the owner's inability to sell the stake quickly at fair value. Because a private equity stake cannot be instantly converted to cash without finding a buyer and negotiating a transaction, valuators typically apply a discount of 10–40% to compensate for this illiquidity, though the precise rate depends on company maturity, industry, and the owner's expected holding period.*
+*An **illiquidity discount** (also called a lack-of-marketability discount or minority-discount) is a percentage reduction applied to the [discounted cash flow](/discounted-cash-flow-valuation/) value of a private company to reflect the owner's inability to sell the stake quickly at fair value. Because a private equity stake cannot be instantly converted to cash without finding a buyer and negotiating a transaction, valuators typically apply a discount of 10–40% to compensate for this illiquidity, though the precise rate depends on company maturity, industry, and the owner's expected holding period.*
 
 <aside class="wiki-infobox">
 
@@ -24,17 +24,17 @@ image: /svg/valuation.svg
 |---|---|
 | **Definition** | Percentage reduction to fair value to account for selling friction and time to exit |
 | **Typical range** | 10–40% for mature private companies; 30–60% for startups or minority stakes |
-| **Rationale** | Buyer illiquidity increases [cost of equity](/valuation/cost-of-equity/) and extends cash realization period |
+| **Rationale** | Buyer illiquidity increases [cost of equity](/cost-of-equity/) and extends cash realization period |
 | **Key drivers** | Company size, industry, governance, buyer pool, expected holding period, exit strategy |
 | **Applied to** | Discounted cash flow value AFTER calculating the intrinsic (liquid-market) value |
-| **Not the same as** | [Control premium](/valuation/control-premium/) (applies to control vs. non-control); tax or regulatory discounts |
+| **Not the same as** | [Control premium](/control-premium/) (applies to control vs. non-control); tax or regulatory discounts |
 | **Regulatory use** | Estate tax, gift tax, and fairness opinion valuations in the U.S. |
 
 </aside>
 
 ## Why Illiquidity Deserves Its Own Discount
 
-The standard [discounted cash flow](/valuation/discounted-cash-flow-valuation/) model produces a "fair value"—the present value of all future cash flows using a [cost of equity](/valuation/cost-of-equity/) or [WACC](/valuation/weighted-average-cost-of-capital/) derived from comparable public companies or market data. This fair value assumes an investor can own the cash flows and exit whenever he wishes, perhaps by selling to another investor or through a liquid public market.
+The standard [discounted cash flow](/discounted-cash-flow-valuation/) model produces a "fair value"—the present value of all future cash flows using a [cost of equity](/cost-of-equity/) or [WACC](/weighted-average-cost-of-capital/) derived from comparable public companies or market data. This fair value assumes an investor can own the cash flows and exit whenever he wishes, perhaps by selling to another investor or through a liquid public market.
 
 But private company ownership is not liquid. If you own 20% of a private software company, you cannot convert that stake to cash in one phone call. You must find a buyer (narrower pool than public markets), negotiate a price (often takes months), and wait for the transaction to close (another 30–90 days). During this period, the business could deteriorate, management could quit, or market conditions could shift. And you have no interim liquidity to redeploy capital if a better opportunity appears.
 
@@ -42,7 +42,7 @@ This illiquidity risk is real and material. An investor who must wait 3–5 year
 
 ## The Distinction from Other Discounts
 
-**Illiquidity discount vs. control premium:** A [control premium](/valuation/control-premium/) or lack-of-control (minority) discount reflects the value of operational control—the ability to set strategy, hire/fire, declare dividends, or force a sale. A minority shareholder in a private company may not have control. So a 5% stake in a $10M company is worth less than 5% of the full enterprise value, *both* because it lacks control *and* because it is illiquid. The illiquidity discount is separate from (and usually larger than) the control discount.
+**Illiquidity discount vs. control premium:** A [control premium](/control-premium/) or lack-of-control (minority) discount reflects the value of operational control—the ability to set strategy, hire/fire, declare dividends, or force a sale. A minority shareholder in a private company may not have control. So a 5% stake in a $10M company is worth less than 5% of the full enterprise value, *both* because it lacks control *and* because it is illiquid. The illiquidity discount is separate from (and usually larger than) the control discount.
 
 **Illiquidity discount vs. key-person risk or small-firm discount:** Some valuators apply ad-hoc discounts for small size, concentration in one customer, dependence on a key employee, or weak governance. These are not illiquidity discounts; they are adjustments for business-specific risk that would exist even in a public company with identical cash flows and risk profile. The illiquidity discount is purely about the marketability of the ownership stake, not the riskiness of the business.
 
@@ -50,7 +50,7 @@ This illiquidity risk is real and material. An investor who must wait 3–5 year
 
 Academic and practitioner research has produced wide-ranging estimates:
 
-**Mature, mid-market private companies (revenue $10M–$100M):** 15–30% discount. These firms have established cash flows, diversified customer bases, and a reasonable buyer pool (other PE firms, strategic acquirers, growth equity investors). Exit in 3–5 years at a known [EBITDA multiple](/valuation/ebitda-multiple/) is plausible.
+**Mature, mid-market private companies (revenue $10M–$100M):** 15–30% discount. These firms have established cash flows, diversified customer bases, and a reasonable buyer pool (other PE firms, strategic acquirers, growth equity investors). Exit in 3–5 years at a known EBITDA multiple is plausible.
 
 **Smaller or early-revenue private companies (revenue under $10M):** 25–45% discount. Buyer pool is narrower, profitability may be uncertain, and many potential acquirers are themselves private and cash-constrained. The holding period might stretch to 7–10 years.
 
@@ -72,9 +72,9 @@ These ranges overlap significantly. There is no universal formula; the discount 
 
 The standard sequence is:
 
-1. Build a DCF model for the private company, projecting 5–10 years of [free cash flow](/finance/free-cash-flow/).
-2. Estimate the [terminal value](/valuation/terminal-value/) using a perpetuity growth assumption or exit multiple.
-3. Discount all cash flows and terminal value at the [weighted-average cost of capital](/valuation/weighted-average-cost-of-capital/) (or cost of equity) to get enterprise value (EV).
+1. Build a DCF model for the private company, projecting 5–10 years of [free cash flow](/free-cash-flow/).
+2. Estimate the [terminal value](/terminal-value/) using a perpetuity growth assumption or exit multiple.
+3. Discount all cash flows and terminal value at the [weighted-average cost of capital](/weighted-average-cost-of-capital/) (or cost of equity) to get enterprise value (EV).
 4. Subtract net debt to get **equity value** (the liquid-owner price).
 5. Apply the illiquidity discount: multiply equity value by (1 – discount rate). If discount is 20%, equity value of $100M becomes $80M.
 6. Allocate this discounted value to the specific stake you are valuing (e.g., 5% stake gets 5% of the discounted EV).
@@ -117,20 +117,20 @@ Fair-value opinions in legal contexts (divorce, litigation, regulatory proceedin
 
 ### Closely related
 
-- [Discounted cash flow valuation](/valuation/discounted-cash-flow-valuation/) — the base model to which illiquidity is applied
-- [Cost of equity](/valuation/cost-of-equity/) — the discount rate that reflects some illiquidity risk
-- [Relative valuation](/valuation/relative-valuation/) — alternative approach using multiples
-- [Private placement](/securities/private-placement/) — how illiquid stakes are often sold
-- [Sensitivity analysis valuation](/valuation/sensitivity-analysis-valuation/) — testing discount rate changes
-- [Intrinsic value](/valuation/intrinsic-value/) — the reference value before applying discounts
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — the base model to which illiquidity is applied
+- [Cost of equity](/cost-of-equity/) — the discount rate that reflects some illiquidity risk
+- [Relative valuation](/relative-valuation/) — alternative approach using multiples
+- [Private placement](/private-placement/) — how illiquid stakes are often sold
+- [Sensitivity analysis valuation](/sensitivity-analysis-valuation/) — testing discount rate changes
+- [Intrinsic value](/intrinsic-value/) — the reference value before applying discounts
 
 ### Wider context
 
-- [Liquidity risk](/risk/liquidity-risk/) — the underlying economic principle
-- [Holding period](/investments/holding-period/) — a key driver of illiquidity discounts
-- [Bid-ask spread](/securities/bid-ask-spread/) — the market-liquidity analog in public markets
-- [Merger](/acquisitions/merger/) — an exit path for illiquid stakes
-- [Secondary market](/securities/secondary-market/) — where illiquid secondary shares trade
-- [Counterparty risk](/risk/counterparty-risk/) — heightened when buyer pool is small
+- [Liquidity risk](/liquidity-risk/) — the underlying economic principle
+- [Holding period](/holding-period/) — a key driver of illiquidity discounts
+- [Bid-ask spread](/bid-ask-spread/) — the market-liquidity analog in public markets
+- [Merger](/merger/) — an exit path for illiquid stakes
+- [Secondary market](/secondary-market/) — where illiquid secondary shares trade
+- [Counterparty risk](/counterparty-risk/) — heightened when buyer pool is small
 
 </div>

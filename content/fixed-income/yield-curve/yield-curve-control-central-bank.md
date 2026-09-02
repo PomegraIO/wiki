@@ -16,7 +16,7 @@ image: "/svg/fixed-income.svg"
 
 Under YCC, a central bank announces that it will target a yield at, say, the 10-year maturity — perhaps 0.25% per annum. Market participants know the bank will buy as many bonds as necessary to defend that ceiling. If a trader tries to sell 10-year bonds and drive the yield above the target, the central bank steps in and buys, bringing the yield back down.
 
-The critical difference from conventional [quantitative easing](//) (QE) is intent. In QE, the central bank buys a fixed amount of bonds to expand the money supply and lower rates overall. Under YCC, the central bank does not precommit to a quantity — it instead fixes the target yield and lets quantity adjust. If bond markets are selling aggressively, YCC demands unlimited buying to hold the line.
+The critical difference from conventional quantitative easing (QE) is intent. In QE, the central bank buys a fixed amount of bonds to expand the money supply and lower rates overall. Under YCC, the central bank does not precommit to a quantity — it instead fixes the target yield and lets quantity adjust. If bond markets are selling aggressively, YCC demands unlimited buying to hold the line.
 
 This commitment is powerful. Market participants know the central bank has deeper pockets than any private investor, so they eventually stop testing the bid. The target yield becomes an anchored expectation.
 
@@ -71,7 +71,7 @@ The central bank's balance sheet also becomes a target. If government deficits a
 ### Closely related
 
 - [Monetary Policy](/monetary-policy/) — the broader framework within which YCC operates
-- [Quantitative Easing](//) — alternative tool for lowering long-term rates
+- Quantitative Easing — alternative tool for lowering long-term rates
 - [Yield Curve](/yield-curve/) — the structure that YCC seeks to control
 - [Federal Reserve](/federal-reserve/) — central bank that briefly considered YCC-like tools
 - [Interest Rate](/interest-rate/) — the target variable in YCC

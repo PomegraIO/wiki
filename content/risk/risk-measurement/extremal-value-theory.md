@@ -55,7 +55,7 @@ In practice, a portfolio manager using extremal theory might find that [historic
 
 Real portfolios contain multiple assets. A single asset's tail risk is complex; joint tail risk across assets (correlation during crashes) is harder to model. **Copulas**—functions that describe the joint distribution of multiple random variables—allow extremal theory to model tail dependence. A standard [correlation-coefficient](/wiki/correlation-coefficient/) (Pearson) measures linear association for typical outcomes; a tail-dependence copula measures how assets move together in the extreme tail.
 
-Many assets exhibit **lower tail dependence**, meaning they tend to crash together (e.g., equities and commodities in a systemic crisis). An extremal copula captures this by assigning a coefficient λ that says, "If asset A hits its 1% tail, asset B has a λ% chance of also hitting its tail." This is crucial for understanding [portfolio](/wiki/portfolio/) [tail-risk](/wiki/tail-risk/) and [tail-risk-hedging](/wiki/tail-risk-hedging/).
+Many assets exhibit **lower tail dependence**, meaning they tend to crash together (e.g., equities and commodities in a systemic crisis). An extremal copula captures this by assigning a coefficient λ that says, "If asset A hits its 1% tail, asset B has a λ% chance of also hitting its tail." This is crucial for understanding portfolio [tail-risk](/wiki/tail-risk/) and [tail-risk-hedging](/wiki/tail-risk-hedging/).
 
 ## Applications: risk measurement and hedge design
 

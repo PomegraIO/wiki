@@ -11,7 +11,7 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Tracking error volatility measures how much a portfolio's returns deviate from its [benchmark](/wiki/slug/) in statistical terms—the standard deviation of the excess returns. It quantifies the consistency of [active management](/wiki/slug/) or the tightness of an [index fund](/wiki/slug/) replication. A low tracking error suggests the fund closely follows its benchmark; a high one signals either deliberate active bets or poor implementation.*
+*Tracking error volatility measures how much a portfolio's returns deviate from its benchmark in statistical terms—the standard deviation of the excess returns. It quantifies the consistency of active management or the tightness of an index fund replication. A low tracking error suggests the fund closely follows its benchmark; a high one signals either deliberate active bets or poor implementation.*
 
 <aside class="wiki-infobox">
 
@@ -42,7 +42,7 @@ A [mutual fund](/mutual-fund/) tracking the S&P 500 might deliver 9.8% in a year
 
 An [actively managed fund](/actively-managed-fund/) deliberately holds different positions than its benchmark to exploit perceived mispricing. Deviating from the benchmark is the entire strategy. A fund manager might overweight technology stocks, underweight energy, and hold cash—all bets that the index gets wrong. The tracking error, measured ex-post, reflects the magnitude of these bets.
 
-Higher tracking error is not inherently bad; it is the price of the attempt to outperform. The [information ratio](/wiki/slug/)—excess return divided by tracking error—penalizes funds that deviate from the benchmark without producing enough additional return. A fund with 3% tracking error and 2% outperformance has an information ratio of 0.67; one with the same 2% outperformance but only 1% tracking error achieves a ratio of 2.0—same excess return, but at lower "volatility cost."
+Higher tracking error is not inherently bad; it is the price of the attempt to outperform. The information ratio—excess return divided by tracking error—penalizes funds that deviate from the benchmark without producing enough additional return. A fund with 3% tracking error and 2% outperformance has an information ratio of 0.67; one with the same 2% outperformance but only 1% tracking error achieves a ratio of 2.0—same excess return, but at lower "volatility cost."
 
 ## Why passive funds still show non-zero tracking error
 
@@ -59,7 +59,7 @@ A low-cost S&P 500 index ETF might achieve annual tracking error of 0.05%, while
 
 Institutional investors often set a maximum acceptable tracking error when hiring a manager. A pension fund might hire an equity manager with a mandate like "outperform the Russell 2000 by 1% per year, with tracking error no more than 2%." This constraint forces the manager to make high-conviction bets without straying too far from the benchmark in terms of statistical risk.
 
-Conversely, a [hedge fund](/hedge-fund/) or concentrated portfolio—where the objective is absolute return, not relative performance—may have no formal tracking error constraint. The fund's risk is measured in [value at risk](/value-at-risk/) or [volatility](/wiki/slug/), not relative to an index.
+Conversely, a [hedge fund](/hedge-fund/) or concentrated portfolio—where the objective is absolute return, not relative performance—may have no formal tracking error constraint. The fund's risk is measured in [value at risk](/value-at-risk/) or volatility, not relative to an index.
 
 ## The tail risk blind spot
 
@@ -67,7 +67,7 @@ Tracking error, as a standard deviation, can underestimate [tail risk](/tail-ris
 
 ## Tracking error and market efficiency
 
-In an [efficient market](/wiki/slug/), the average [actively managed fund](/actively-managed-fund/) underperforms its benchmark by roughly the expense ratio, with tracking error inversely correlated to skill. High tracking error with negative excess return suggests bad timing or poor security selection. High tracking error with positive excess return suggests genuine alpha generation—or, more cynically, exposure to a risk factor ([factor investing](/factor-investing/)) that has recently outperformed.
+In an efficient market, the average [actively managed fund](/actively-managed-fund/) underperforms its benchmark by roughly the expense ratio, with tracking error inversely correlated to skill. High tracking error with negative excess return suggests bad timing or poor security selection. High tracking error with positive excess return suggests genuine alpha generation—or, more cynically, exposure to a risk factor ([factor investing](/factor-investing/)) that has recently outperformed.
 
 The rise of factor-aware indices has complicated interpretation: a fund might have high tracking error to the broad index but low tracking error to a [thematic ETF](/thematic-etf/) or style index that better captures its holdings.
 
@@ -77,10 +77,10 @@ The rise of factor-aware indices has complicated interpretation: a fund might ha
 
 ### Closely related
 
-- [Information ratio](/wiki/slug/) — excess return divided by tracking error; a scorecard for active manager efficiency
+- Information ratio — excess return divided by tracking error; a scorecard for active manager efficiency
 - [Active ETF](/active-etf/) — a fund that reports tracking error to a disclosed benchmark while exercising discretionary bets
 - [Index fund](/index-fund/) — the benchmark-hugging alternative; tracks with minimal error by design
-- [Volatility](/wiki/slug/) — the broader measure of return fluctuation; tracking error isolates relative drift
+- Volatility — the broader measure of return fluctuation; tracking error isolates relative drift
 - [Value-at-risk](/value-at-risk/) — a complementary risk metric that captures tail loss probability
 
 ### Wider context

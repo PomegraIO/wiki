@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **support level** is a price floor where buying interest historically emerges, preventing prices from falling further. A **resistance level** is a price ceiling where selling interest emerges, capping rallies. These levels form wherever price has repeatedly bounced (support) or turned back down (resistance), revealing the balance of supply and demand at that level. Support and resistance are the foundational concepts of technical analysis—once identified, they provide context for [trendlines](/technical-analysis/trendline), [chart patterns](/technical-analysis/channel-pattern), and reversal signals. The efficacy of support and resistance in predicting future price action is debated, but their presence is undeniable in historical price data.*
+*A **support level** is a price floor where buying interest historically emerges, preventing prices from falling further. A **resistance level** is a price ceiling where selling interest emerges, capping rallies. These levels form wherever price has repeatedly bounced (support) or turned back down (resistance), revealing the balance of supply and demand at that level. Support and resistance are the foundational concepts of technical analysis—once identified, they provide context for [trendlines](/trendline/), [chart patterns](/channel-pattern/), and reversal signals. The efficacy of support and resistance in predicting future price action is debated, but their presence is undeniable in historical price data.*
 
 <div class="wiki-hatnote">
 
-Support and resistance are visible on any chart type: [candlesticks](/technical-analysis/candlestick-chart), [line charts](/technical-analysis/line-chart), [renko charts](/technical-analysis/renko-chart), or [point-and-figure](/technical-analysis/point-and-figure-chart).
+Support and resistance are visible on any chart type: [candlesticks](/candlestick-chart/), [line charts](/line-chart/), [renko charts](/renko-chart/), or [point-and-figure](/point-and-figure-chart/).
 
 </div>
 
@@ -95,7 +95,7 @@ The more decisive the break (larger volume, larger move, close far above/below t
 
 **Profit target:** Use the next level of support or resistance as a profit target.
 
-**Context for patterns:** A [hammer](/technical-analysis/hammer-candle) at support is more convincing than one in the middle of a move.
+**Context for patterns:** A [hammer](/hammer-candle/) at support is more convincing than one in the middle of a move.
 
 **Breakout trading:** When price closes decisively above resistance on high volume, traders buy, expecting a breakout to new highs.
 
@@ -117,22 +117,22 @@ Support and resistance may work partly because traders collectively believe in t
 
 ### Related frameworks
 
-- [Trendline](/technical-analysis/trendline) — connecting support/resistance points
-- [Channel pattern](/technical-analysis/channel-pattern) — parallel support and resistance
-- [Candlestick chart](/technical-analysis/candlestick-chart) — identifying support/resistance visually
-- [Point-and-figure chart](/technical-analysis/point-and-figure-chart) — support/resistance especially clear
+- [Trendline](/trendline/) — connecting support/resistance points
+- [Channel pattern](/channel-pattern/) — parallel support and resistance
+- [Candlestick chart](/candlestick-chart/) — identifying support/resistance visually
+- [Point-and-figure chart](/point-and-figure-chart/) — support/resistance especially clear
 
 ### Patterns at levels
 
-- [Hammer](/technical-analysis/hammer-candle) — reversal at support
-- [Shooting star](/technical-analysis/shooting-star) — reversal at resistance
-- [Double-bottom](/technical-analysis/double-bottom) — support bounced twice
-- [Double-top](/technical-analysis/double-top) — resistance tested twice
+- [Hammer](/hammer-candle/) — reversal at support
+- [Shooting star](/shooting-star/) — reversal at resistance
+- [Double-bottom](/double-bottom/) — support bounced twice
+- [Double-top](/double-top/) — resistance tested twice
 
 ### Dynamic levels
 
-- [Moving average](/technical-analysis/simple-moving-average) — acts as dynamic support/resistance
-- [Bollinger bands](/technical-analysis/bollinger-bands) — upper/lower bands as resistance/support
-- [Fibonacci retracement](/technical-analysis/fibonacci-retracement) — predicted support/resistance levels
+- [Moving average](/simple-moving-average/) — acts as dynamic support/resistance
+- [Bollinger bands](/bollinger-bands/) — upper/lower bands as resistance/support
+- [Fibonacci retracement](/fibonacci-retracement/) — predicted support/resistance levels
 
 </div>

@@ -9,7 +9,7 @@ keywords:
   - interest rate differential
 ---
 
-*The **NZD/USD pair** (the "Kiwi") is the [currency exchange rate](/wiki/currency-exchange-rate/) between the New Zealand dollar and the US dollar, expressed as how many US dollars one NZD can buy. As a [commodity currency pair](/wiki/commodity-currency-pairs/), the Kiwi is heavily influenced by dairy prices, agricultural commodity cycles, and divergence in [interest rates](/wiki/interest-rate/) between the Reserve Bank of New Zealand (RBNZ) and the U.S. Federal Reserve.*
+*The **NZD/USD pair** (the "Kiwi") is the currency exchange rate between the New Zealand dollar and the US dollar, expressed as how many US dollars one NZD can buy. As a [commodity currency pair](/wiki/commodity-currency-pairs/), the Kiwi is heavily influenced by dairy prices, agricultural commodity cycles, and divergence in [interest rates](/wiki/interest-rate/) between the Reserve Bank of New Zealand (RBNZ) and the U.S. Federal Reserve.*
 
 <aside class="wiki-infobox">
 
@@ -115,7 +115,7 @@ The Kiwi is less prone to sudden central bank interventions (unlike JPY or CHF) 
 <div class="wiki-seealso">
 
 ### Closely related
-- [Currency exchange rate](/wiki/currency-exchange-rate/) — price of one currency in terms of another
+- Currency exchange rate — price of one currency in terms of another
 - [Commodity currency pairs](/wiki/commodity-currency-pairs/) — forex pairs driven by commodity prices
 - [Interest rate parity](/wiki/interest-rate-parity/) — relationship between interest rates and exchange rates
 - [Carry trade](/wiki/carry-trade/) — borrowing in low-rate currency to invest in high-rate currency

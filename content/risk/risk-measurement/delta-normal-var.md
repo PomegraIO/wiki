@@ -84,7 +84,7 @@ Agencies distinguish between the **standard approach** (prescribed risk weights,
 - [Expected Shortfall](/wiki/expected-shortfall/) — Regulatory alternative that measures loss severity beyond VaR
 
 ### Wider context
-- [Risk measurement](/wiki/risk-measurement/) — Portfolio risk quantification
+- Risk measurement — Portfolio risk quantification
 - [Capital adequacy](/wiki/capital-adequacy/) — Regulatory capital requirements for risk
 - [Stress testing](/wiki/stress-testing/) — Scenario-based risk assessment complementing VaR
 - [Correlation coefficient](/wiki/correlation-coefficient/) — Covariance between asset pairs

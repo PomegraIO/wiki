@@ -53,7 +53,7 @@ Getty operates under REIT tax rules, which require the company to distribute a m
 
 ### Closely related
 - [Realty Income Corp](/o-stock/) (larger [net-lease REIT](/net-lease-reit/))
-- [Spirit Realty Capital](/sRC-stock/) (comparable net-lease competitor)
+- Spirit Realty Capital (comparable net-lease competitor)
 
 ### Wider context
 - [Real estate investment trusts](/real-estate-investment-trust/) and REIT tax rules

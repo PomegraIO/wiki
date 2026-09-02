@@ -59,7 +59,7 @@ Finally, principal trading creates **inventory risk**. A market maker that has a
 
 ## Principal trading in derivatives and foreign exchange
 
-In [derivatives](/wiki/derivatives-exchange-crypto/) markets, principal trading is ubiquitous. [Investment banks](/wiki/investment-banking/) act as [market makers](/wiki/market-makers/) in [interest-rate swaps](/wiki/interest-rate-swap/), [credit default swaps](/wiki/credit-default-swap/), and [equity options](/wiki/call-option-equity/). They quote prices to clients (principal quotes) and earn spreads. They also hedge their principal positions by trading with other dealers.
+In [derivatives](/wiki/derivatives-exchange-crypto/) markets, principal trading is ubiquitous. Investment banks act as [market makers](/wiki/market-makers/) in [interest-rate swaps](/wiki/interest-rate-swap/), [credit default swaps](/wiki/credit-default-swap/), and [equity options](/wiki/call-option-equity/). They quote prices to clients (principal quotes) and earn spreads. They also hedge their principal positions by trading with other dealers.
 
 In **[foreign exchange](/wiki/forex-leverage/)**, principal trading is the norm. Dealers buy and sell [currency pairs](/wiki/currency-pair/) continuously, earning tiny spreads (0.0001 on EUR/USD). Success depends on high volume, tight [spreads](/wiki/bid-ask-spread/), and low financing costs. During the 2015 Swiss franc shock, principal traders in [forex](/wiki/forex-leverage/) faced catastrophic losses when the [Swiss National Bank](/wiki/central-bank/) suddenly appreciated the franc by 20% in one day. Many dealers had shorted the franc (betting it would weaken), and losses exceeded their capital.
 
@@ -77,7 +77,7 @@ In recent years, principal trading has been rebranded. Many large banks now use 
 
 ## Conclusion: principal trading's paradox
 
-Principal trading is essential for [market liquidity](/wiki/market-liquidity/) and the functioning of [financial markets](/wiki/financial-markets/). Without [market makers](/wiki/market-makers/) who principal trade, [spreads](/wiki/bid-ask-spread/) would widen, and transactions would become costly. Yet principal trading also creates [systemic risk](/wiki/systemic-risk/): large principal traders can amplify volatility and trigger crises if they abruptly withdraw [liquidity](/wiki/liquidity-risk/) (as happened on Flash Crash day, May 6, 2010, and during the March 2020 pandemic panic).
+Principal trading is essential for market liquidity and the functioning of financial markets. Without [market makers](/wiki/market-makers/) who principal trade, [spreads](/wiki/bid-ask-spread/) would widen, and transactions would become costly. Yet principal trading also creates [systemic risk](/wiki/systemic-risk/): large principal traders can amplify volatility and trigger crises if they abruptly withdraw [liquidity](/wiki/liquidity-risk/) (as happened on Flash Crash day, May 6, 2010, and during the March 2020 pandemic panic).
 
 Regulators balance this by requiring [capital reserves](/wiki/capital-adequacy/), position limits, [stress testing](/wiki/stress-testing/), and [market surveillance](/wiki/market-surveillance/). As [algorithmic trading](/wiki/algorithmic-trading/) and [high-frequency trading](/wiki/high-frequency-trading/) accelerate principal trading speed and scale, the balance between efficiency and risk becomes ever more precarious.
 

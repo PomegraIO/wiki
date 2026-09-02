@@ -53,12 +53,12 @@ Most people do not track every transaction against 50/30/20 from day one. Instea
 - **Simple to remember.** The 50/30/20 ratio is a mental model that sticks. You can explain it to a teenager or a spouse in 30 seconds.
 - **Category clarity.** By grouping by rigidity, not type, it avoids the false accounting of "food" vs. "groceries"—it puts both essential and indulgent food into appropriate buckets.
 - **Automates discipline.** Separate accounts prevent the common trap of raiding savings for ad-hoc wants.
-- **Built-in [wealth-building](/wiki/wealth-accumulation/)** The 20% savings target is aggressive enough to compound over time and build a real [emergency fund](/wiki/emergency-fund/) and [retirement fund](/wiki/traditional-ira/).
+- **Built-in wealth-building** The 20% savings target is aggressive enough to compound over time and build a real [emergency fund](/wiki/emergency-fund/) and [retirement fund](/wiki/traditional-ira/).
 
 **Limitations:**
 - **Fixed percentages do not fit all geographies.** Housing in San Francisco or London may eat 60% of income; in a lower-cost city, 30%. The rule is descriptive of middle-income patterns, not normative for all.
 - **Inflation and debt blind spots.** A household paying 40% of income toward [student loan](/wiki/debt-consolidation/) repayment may not be able to hit 50% Needs + 30% Wants until loans are cleared. The rule assumes some baseline debt-free status.
-- **Ignores major life expenses.** A big car repair, a wedding, or a medical [deductible](/wiki/deductible/) can blow the budget. The rule works best paired with a [rainy-day fund](/wiki/emergency-fund/) (typically 3–6 months of expenses).
+- **Ignores major life expenses.** A big car repair, a wedding, or a medical deductible can blow the budget. The rule works best paired with a [rainy-day fund](/wiki/emergency-fund/) (typically 3–6 months of expenses).
 
 ## Comparison to other budgeting methods
 

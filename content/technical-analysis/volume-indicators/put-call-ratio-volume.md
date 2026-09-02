@@ -75,7 +75,7 @@ The ratio also conflates **hedging** (demand for put downside protection) with *
 - [Implied Volatility](/wiki/implied-volatility/) — What puts and calls are pricing
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — Broader category of sentiment metrics
+- Technical Analysis — Broader category of sentiment metrics
 - [Fear Index (VIX)](/wiki/fear-index/) — Related volatility sentiment gauge
 - [Market Sentiment](/wiki/sentiment-reversal/) — Broader investor psychology
 - [Options Greeks](/wiki/options-greeks/) — Greeks affected by put-call shifts

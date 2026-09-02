@@ -64,7 +64,7 @@ Lobo's scaling challenge is sales efficiency. A $10 million revenue goal require
 
 ## Researching Lobo from the Customer's Perspective
 
-A customer or investor evaluating Lobo should review its [10-K](/10-K/) (SEC CIK 1932072) to understand:
+A customer or investor evaluating Lobo should review its [10-K](/10-k/) (SEC CIK 1932072) to understand:
 
 - Customer acquisition cost vs. lifetime value: is the company acquiring customers profitably?
 - Retention and churn rates: are customers staying or leaving after implementation?
@@ -84,7 +84,7 @@ Watch for: Is the company's net revenue retention above 120% (indicating expansi
 
 ### Wider context
 - [Stock](/stock/) — LOBO trades on [NASDAQ](/nasdaq/) OTC; liquidity may be limited
-- [10-K](/10-K/) — review SEC filings for customer acquisition, retention, and revenue composition
+- [10-K](/10-k/) — review SEC filings for customer acquisition, retention, and revenue composition
 - [SaaS metrics](/public-company/) — track ARR growth, customer retention, and net revenue retention
 - [Enterprise value](/enterprise-value/) — assess Lobo's valuation relative to ARR and growth rate
 - [Return on equity](/return-on-equity/) — understand how efficiently Lobo deploys capital to acquire customers

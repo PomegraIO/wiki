@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For the broader framework of candlestick interpretation, see [candlestick pattern](/technical-analysis/candlestick-pattern); for the basic structure of a candle, see [candlestick chart](/technical-analysis/candlestick-chart).
+For the broader framework of candlestick interpretation, see [candlestick pattern](/candlestick-pattern/); for the basic structure of a candle, see [candlestick chart](/candlestick-chart/).
 
 </div>
 
@@ -63,13 +63,13 @@ A **long-legged doji** reveals extreme volatility. The price swung far in both d
 
 ## The role of context
 
-A doji's usefulness depends critically on where it appears. A doji at a previously tested [support or resistance level](/technical-analysis/support-and-resistance) is more meaningful than a doji in the middle of a smooth trend. A doji after a climactic sell-off (sharp decline on heavy volume) often precedes a bounce. A doji after a parabolic rally often precedes a reversal.
+A doji's usefulness depends critically on where it appears. A doji at a previously tested [support or resistance level](/support-and-resistance/) is more meaningful than a doji in the middle of a smooth trend. A doji after a climactic sell-off (sharp decline on heavy volume) often precedes a bounce. A doji after a parabolic rally often precedes a reversal.
 
 Many technical analysts combine the doji with volume information: a doji on very low volume may indicate apathy rather than meaningful indecision. A doji on high volume suggests intense struggle and thus carries more weight.
 
 ## Historical frequency and academic view
 
-Academic studies of doji patterns generally find that they occur at frequencies consistent with random noise and have no predictive power beyond chance. Some research suggests that dojis are more likely to appear near [support and resistance](/technical-analysis/support-and-resistance) levels, but this could be circular: traders watch for dojis near these levels and trade accordingly, rather than the doji itself being predictive.
+Academic studies of doji patterns generally find that they occur at frequencies consistent with random noise and have no predictive power beyond chance. Some research suggests that dojis are more likely to appear near [support and resistance](/support-and-resistance/) levels, but this could be circular: traders watch for dojis near these levels and trade accordingly, rather than the doji itself being predictive.
 
 Despite the academic skepticism, dojis remain ubiquitous in technical analysis. Every chart platform highlights them; traders worldwide watch for them and discuss them on trading forums. The doji's intuitive appeal—a visual symbol of indecision—keeps it embedded in trading culture.
 
@@ -77,7 +77,7 @@ Despite the academic skepticism, dojis remain ubiquitous in technical analysis. 
 
 Most traders do not trade on a doji alone. Instead, they use it as a signal that a decision point is approaching. A doji at the top of a rally might encourage a trader to exit long positions or prepare for a reversal. A doji at support might encourage waiting for a follow-up candle to confirm the reversal. Some traders use dojis as entries for counter-trend trades, betting that the indecision will break in the opposite direction; others use them as warnings to avoid entries, fearing whipsaw.
 
-The key discipline is waiting for confirmation. A doji followed by a move in the opposite direction of the prior trend is more convincing than a doji followed by a flat or ambiguous candle. A doji that forms at a key level (e.g., a 50-day [moving average](/technical-analysis/simple-moving-average), a Fibonacci retracement, a prior swing high) is more tradeable than one in the noise.
+The key discipline is waiting for confirmation. A doji followed by a move in the opposite direction of the prior trend is more convincing than a doji followed by a flat or ambiguous candle. A doji that forms at a key level (e.g., a 50-day [moving average](/simple-moving-average/), a Fibonacci retracement, a prior swing high) is more tradeable than one in the noise.
 
 ## See also
 
@@ -85,22 +85,22 @@ The key discipline is waiting for confirmation. A doji followed by a move in the
 
 ### Related candlestick patterns
 
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework for shape interpretation
-- [Spinning top](/technical-analysis/spinning-top) — another indecision pattern, smaller wicks
-- [Hammer](/technical-analysis/hammer-candle) — bullish reversal, long lower wick
-- [Hanging man](/technical-analysis/hanging-man) — bearish reversal, long lower wick
-- [Shooting star](/technical-analysis/shooting-star) — bearish reversal, long upper wick
+- [Candlestick pattern](/candlestick-pattern/) — broader framework for shape interpretation
+- [Spinning top](/spinning-top/) — another indecision pattern, smaller wicks
+- [Hammer](/hammer-candle/) — bullish reversal, long lower wick
+- [Hanging man](/hanging-man/) — bearish reversal, long lower wick
+- [Shooting star](/shooting-star/) — bearish reversal, long upper wick
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — where dojis gain meaning
-- [Trendline](/technical-analysis/trendline) — detecting exhaustion in uptrends or downtrends
-- [Candlestick chart](/technical-analysis/candlestick-chart) — how candles are constructed
+- [Support and resistance](/support-and-resistance/) — where dojis gain meaning
+- [Trendline](/trendline/) — detecting exhaustion in uptrends or downtrends
+- [Candlestick chart](/candlestick-chart/) — how candles are constructed
 
 ### Confirmation tools
 
-- [Moving average](/technical-analysis/simple-moving-average) — price zones for context
-- [Volume](/technical-analysis/on-balance-volume) — measuring the strength of the indecision
-- [Relative strength index](/technical-analysis/relative-strength-index) — momentum divergence confirmation
+- [Moving average](/simple-moving-average/) — price zones for context
+- [Volume](/on-balance-volume/) — measuring the strength of the indecision
+- Relative strength index — momentum divergence confirmation
 
 </div>

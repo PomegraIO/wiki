@@ -155,6 +155,6 @@ During the SPAC boom and COVID-era financing frenzy, millions of warrants were i
 <ul>
   <li><a href="/wiki/special-purpose-acquisition-company/">Special Purpose Acquisition Company</a> — SPAC structure, common issuer of public warrants.</li>
   <li><a href="/wiki/leveraged-buyout/">Leveraged Buyout</a> — often uses warrants as part of the deal structure.</li>
-  <li><a href="/wiki/dilution/">Dilution</a> — the impact of warrant exercise on existing shareholders' ownership and EPS.</li>
+  <li>Dilution — the impact of warrant exercise on existing shareholders' ownership and EPS.</li>
 </ul>
 </div>

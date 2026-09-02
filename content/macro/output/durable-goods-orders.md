@@ -56,7 +56,7 @@ Conversely, a strong backlog of orders (accumulated orders not yet delivered) si
 
 ## Sector-specific insights
 
-Within durable goods, subsectors carry different implications. Machinery orders reflect general [business confidence](/wiki/confidence-in-markets/). Electronics orders reflect tech sector strength. Transportation orders reflect airline profitability and trucking [freight demand](/wiki/transportation-revenue-bonds/). Defense orders (included in the broadest total) reflect geopolitical spending and not pure business-cycle dynamics.
+Within durable goods, subsectors carry different implications. Machinery orders reflect general business confidence. Electronics orders reflect tech sector strength. Transportation orders reflect airline profitability and trucking [freight demand](/wiki/transportation-revenue-bonds/). Defense orders (included in the broadest total) reflect geopolitical spending and not pure business-cycle dynamics.
 
 A declining overall index but rising machinery orders might indicate weakness in transportation but strength in manufacturing automation—a divergence worth noting for sector-specific investors.
 

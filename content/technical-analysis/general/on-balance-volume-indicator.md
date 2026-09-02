@@ -43,7 +43,7 @@ OBV is elegantly crude. It ignores the *magnitude* of the price move—a $0.01 g
 
 The primary use of OBV is **trend confirmation**. When price and OBV both rise, the uptrend is healthy; volume is flowing to buyers, which suggests the trend has legs. Conversely, if price rises but OBV falls, buyers are losing interest and volume is drying up despite the price gain—a warning sign that the uptrend may stall.
 
-This is particularly useful in the early stages of a breakout from a [chart pattern](//) or from a key support or resistance level. If price breaks out on light OBV, the move may be false or short-lived. A breakout accompanied by rising OBV and heavy volume is much more likely to persist. Many traders use OBV as a secondary confirmation filter: they don't act on a price signal unless OBV backs it up.
+This is particularly useful in the early stages of a breakout from a chart pattern or from a key support or resistance level. If price breaks out on light OBV, the move may be false or short-lived. A breakout accompanied by rising OBV and heavy volume is much more likely to persist. Many traders use OBV as a secondary confirmation filter: they don't act on a price signal unless OBV backs it up.
 
 The same logic applies to downtrends. A falling price paired with falling OBV (rising negative volume) confirms that sellers are in control. A falling price with rising OBV is incongruent and hints that the downside move lacks conviction.
 
@@ -53,7 +53,7 @@ The most powerful use of OBV is spotting **divergence**—when price and OBV mov
 
 Bullish divergence occurs when price falls to a new low but OBV does not; this suggests selling pressure is waning and a reversal upward could be near. Bearish divergence occurs when price rises to a new high but OBV does not; this warns that the upside move lacks follow-through.
 
-Divergence is not a guaranteed reversal signal—the trend can persist for a long time despite divergence. But it does raise the probability that a trend change is coming, making it a valuable warning to tighten [stop-loss](//) orders or reduce exposure.
+Divergence is not a guaranteed reversal signal—the trend can persist for a long time despite divergence. But it does raise the probability that a trend change is coming, making it a valuable warning to tighten stop-loss orders or reduce exposure.
 
 ## OBV and accumulation/distribution phases
 
@@ -81,18 +81,18 @@ The choice of timeframe depends on the holding period and the noise tolerance. L
 
 ### Closely related
 
-- [Volume](//) — the raw data underlying on-balance volume
-- [Accumulation distribution](//) — a related volume indicator that weights price within the bar
-- [Price volume confirmation](//) — the principle that trends need volume backing
-- [Momentum](//) — price-based indicators that OBV complements
-- [Divergence](//) — when price and indicator move opposite directions
+- Volume — the raw data underlying on-balance volume
+- Accumulation distribution — a related volume indicator that weights price within the bar
+- Price volume confirmation — the principle that trends need volume backing
+- Momentum — price-based indicators that OBV complements
+- Divergence — when price and indicator move opposite directions
 
 ### Wider context
 
 - [Bollinger Band Squeeze: What It Signals](/bollinger-band-squeeze/) — volatility and breakout signals
 - [Head and Shoulders Pattern: The Neckline Explained](/head-and-shoulders-neckline/) — pattern confirmation with volume
 - [Measured Move in Chart Patterns](/measured-move-chart-pattern/) — projecting breakout targets
-- [Technical analysis](//) — the broader framework for price and volume interpretation
+- Technical analysis — the broader framework for price and volume interpretation
 - [Market maker trading](/market-maker-trading/) — how institutional volume flows through markets
 
 </div>

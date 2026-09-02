@@ -26,7 +26,7 @@ keywords:
 
 ## Market structure and listing tiers
 
-The TSX operates as an electronic exchange, with trading conducted through a central limit order book accessible to all participants. Companies seeking to list on the TSX must meet disclosure, governance, and financial standards set by the exchange and enforced by Canadian securities regulators. The TSX accommodates large-cap and mid-cap companies; a separate market, the TSX Venture Exchange, serves smaller or early-stage enterprises. This tiered structure allows capital formation across the entire spectrum of company maturity. The exchange is regulated by the Ontario Securities Commission and governed by TMX Group's rules, which align with [IIROC](/wiki/fca-regulator/) (Investment Industry Regulatory Organization of Canada) and other Canadian regulatory bodies.
+The TSX operates as an electronic exchange, with trading conducted through a central limit order book accessible to all participants. Companies seeking to list on the TSX must meet disclosure, governance, and financial standards set by the exchange and enforced by Canadian securities regulators. The TSX accommodates large-cap and mid-cap companies; a separate market, the TSX Venture Exchange, serves smaller or early-stage enterprises. This tiered structure allows capital formation across the entire spectrum of company maturity. The exchange is regulated by the Ontario Securities Commission and governed by TMX Group's rules, which align with IIROC (Investment Industry Regulatory Organization of Canada) and other Canadian regulatory bodies.
 
 ## Sectoral composition and resource-heavy nature
 
@@ -34,7 +34,7 @@ A defining characteristic of the TSX is its concentration in energy and mining c
 
 ## Integration with North American trading and cross-listing
 
-Many large Canadian companies, especially those with North American operations, maintain dual listings—trading on both the TSX and the [New York Stock Exchange](/wiki/new-york-stock-exchange/) or [NASDAQ](/wiki/nasdaq/). This dual-listing structure is common for Canadian banks ([Royal Bank of Canada](/wiki/bank-of-canada/), [Bank of Nova Scotia](/wiki/bank-of-scotland/)) and mining companies, providing visibility and liquidity to US investors. The TSX is closely linked to US equities, and movements in the [S&P 500](/wiki/sp-500-index/) or US interest rates typically drive broad-market movements in Toronto. The [Canadian dollar](/wiki/canadian-dollar/) exchange rate also plays a role—a weaker dollar can boost TSX energy and mining stocks (as their commodity revenues are priced in US dollars) while hurting importers and domestic-focused companies.
+Many large Canadian companies, especially those with North American operations, maintain dual listings—trading on both the TSX and the [New York Stock Exchange](/wiki/new-york-stock-exchange/) or [NASDAQ](/wiki/nasdaq/). This dual-listing structure is common for Canadian banks (Royal Bank of Canada, [Bank of Nova Scotia](/wiki/bank-of-scotland/)) and mining companies, providing visibility and liquidity to US investors. The TSX is closely linked to US equities, and movements in the [S&P 500](/wiki/sp-500-index/) or US interest rates typically drive broad-market movements in Toronto. The [Canadian dollar](/wiki/canadian-dollar/) exchange rate also plays a role—a weaker dollar can boost TSX energy and mining stocks (as their commodity revenues are priced in US dollars) while hurting importers and domestic-focused companies.
 
 ## Key indices and investment benchmarks
 

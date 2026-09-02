@@ -8,7 +8,7 @@ keywords:
   - revolving credit
 ---
 
-*A home equity line of credit (HELOC) is a variable-rate [revolving credit facility](/wiki/credit-utilization-ratio/) secured by [equity](/wiki/equity-financing/) in a residential property. The borrower can draw, repay, and redraw funds up to a credit limit, paying interest only on the outstanding balance. HELOCs typically offer lower rates than [credit cards](/wiki/credit-utilization-ratio/) or unsecured [personal loans](/wiki/personal-loan/) because the lender holds a [second mortgage](/wiki/mortgage-personal/) on the property.*
+*A home equity line of credit (HELOC) is a variable-rate [revolving credit facility](/wiki/credit-utilization-ratio/) secured by [equity](/wiki/equity-financing/) in a residential property. The borrower can draw, repay, and redraw funds up to a credit limit, paying interest only on the outstanding balance. HELOCs typically offer lower rates than [credit cards](/wiki/credit-utilization-ratio/) or unsecured personal loans because the lender holds a [second mortgage](/wiki/mortgage-personal/) on the property.*
 
 <div class="wiki-hatnote">For a fixed-rate alternative, see [home equity loan](/wiki/home-equity-loan/). For borrowing against home equity in a lump sum, see [cash-out refinance](/wiki/mortgage-personal/).</div>
 
@@ -36,7 +36,7 @@ The HELOC is more flexible if you need intermittent access to capital (home reno
 
 ## Why HELOC rates are lower than credit cards
 
-A HELOC carries lower [interest rate](/wiki/interest-rate/) risk for the lender because it is backed by a tangible asset (the home) worth far more than the credit line. If you default, the lender can foreclose and recover funds from the home's sale. An unsecured [credit card](/wiki/credit-card-rewards/) or [personal loan](/wiki/personal-loan/) has no collateral, so issuers charge 15–25% to compensate for [default risk](/wiki/default-rate/).
+A HELOC carries lower [interest rate](/wiki/interest-rate/) risk for the lender because it is backed by a tangible asset (the home) worth far more than the credit line. If you default, the lender can foreclose and recover funds from the home's sale. An unsecured [credit card](/wiki/credit-card-rewards/) or personal loan has no collateral, so issuers charge 15–25% to compensate for [default risk](/wiki/default-rate/).
 
 This [collateral](/wiki/collateral-ratio/) advantage is why HELOCs typically cost 2–5% less than [credit cards](/wiki/credit-card-rewards/). A household with a 760+ [credit score](/wiki/personal-credit-report/) might secure a HELOC at 6.5% but face 18% on a credit card. The savings on a $30,000 balance over 5 years is substantial—roughly $15,000 in interest.
 

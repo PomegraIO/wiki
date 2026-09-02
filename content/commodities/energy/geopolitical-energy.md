@@ -60,7 +60,7 @@ Sanctions are often coordinated internationally (by the U.S., EU, G7) and their 
 
 ## Offset from demand weakness
 
-Geopolitical premiums are compressed when global growth is weak or energy demand is falling. The 2020 COVID crash saw crude fall to negative $37/bbl despite geopolitical tensions (U.S.-Iran escalation, OPEC+ coordination), because [demand destruction](/wiki/demand-destruction/) overwhelmed supply concerns. Conversely, tight global spare capacity amplifies premiums; when the market expects little room for supply loss to be absorbed by other producers, premiums spike.
+Geopolitical premiums are compressed when global growth is weak or energy demand is falling. The 2020 COVID crash saw crude fall to negative $37/bbl despite geopolitical tensions (U.S.-Iran escalation, OPEC+ coordination), because demand destruction overwhelmed supply concerns. Conversely, tight global spare capacity amplifies premiums; when the market expects little room for supply loss to be absorbed by other producers, premiums spike.
 
 The interplay between geopolitical risk and [demand cycles](/wiki/business-cycle/) makes energy prices highly conditional. A $20/bbl premium in a tight market is worth less in economic terms when demand is soft, because absolute prices are lower and the risk of further demand loss offsets supply fears.
 

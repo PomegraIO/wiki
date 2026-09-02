@@ -11,7 +11,7 @@ keywords:
 image: /svg/fixed-income.svg
 ---
 
-*The **nominal spread** is the raw percentage-point difference between a [corporate bond](/corporate-bond/)'s [yield-to-maturity](/fixed-income/bond-math/yield-spread-measures/) and a Treasury bond or note of matching maturity. It is the simplest spread measure, calculated by subtraction: corporate yield minus Treasury yield. Though easy to compute, it ignores the shape of the [yield curve](/yield-curve/) and the bond's duration structure, making it a starting point for credit analysis rather than a complete picture of [credit risk](/credit-risk/) compensation.*
+*The **nominal spread** is the raw percentage-point difference between a [corporate bond](/corporate-bond/)'s [yield-to-maturity](/yield-spread-measures/) and a Treasury bond or note of matching maturity. It is the simplest spread measure, calculated by subtraction: corporate yield minus Treasury yield. Though easy to compute, it ignores the shape of the [yield curve](/yield-curve/) and the bond's duration structure, making it a starting point for credit analysis rather than a complete picture of [credit risk](/credit-risk/) compensation.*
 
 <div class="wiki-hatnote">
 
@@ -110,7 +110,7 @@ As computing power improved, Z-spread and OAS were added as refinements. But nom
 
 - [Z-Spread](/z-spread/) — the nominal spread improved to account for curve shape
 - [Yield Spread Measures](/yield-spread-measures/) — the full menu of spread calculations
-- [Yield-to-Maturity](/fixed-income/bond-math/yield-spread-measures/) — the yield metric both corporate and Treasury use
+- [Yield-to-Maturity](/yield-spread-measures/) — the yield metric both corporate and Treasury use
 - [Credit Risk](/credit-risk/) — the primary driver of nominal spread width
 - [Callable Bond](/callable-bond/) — complicates simple spread analysis; requires OAS
 

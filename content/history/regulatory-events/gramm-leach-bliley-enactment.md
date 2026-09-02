@@ -85,9 +85,9 @@ The debate remains live in 2024–25: critics note that mega-banks control $12+ 
 - [Lehman Brothers Collapse](/wiki/lehman-brothers-collapse/) — Crisis partly blamed on GLBA deregulation
 
 ### Wider context
-- [Universal Banking](/wiki/universal-banking/) — The business model GLBA enabled
-- [2008 Financial Crisis](/wiki/2008-financial-crisis/) — Aftermath and reckoning
-- [Too Big to Fail](/wiki/too-big-to-fail/) — Systemic risk concern post-GLBA
-- [Regulatory History](/wiki/regulatory-history/) — Larger arc of financial deregulation and re-regulation
+- Universal Banking — The business model GLBA enabled
+- 2008 Financial Crisis — Aftermath and reckoning
+- Too Big to Fail — Systemic risk concern post-GLBA
+- Regulatory History — Larger arc of financial deregulation and re-regulation
 
 </div>

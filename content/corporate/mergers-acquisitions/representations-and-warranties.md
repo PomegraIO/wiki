@@ -79,7 +79,7 @@ Tax reps often survive 4–6 years and have unlimited caps due to the material i
 
 **Environmental:** Latent hazards (underground storage tanks, soil contamination) may not be apparent for years. Environmental reps are broad and often survive 6+ years.
 
-**Intellectual property:** IP ownership disputes, patent challenges, or [trade secret](/wiki/trade-secret-implicitly/) claims can emerge long after closing. IP reps typically survive 3–4 years, sometimes longer for patent disputes.
+**Intellectual property:** IP ownership disputes, patent challenges, or trade secret claims can emerge long after closing. IP reps typically survive 3–4 years, sometimes longer for patent disputes.
 
 ## Fraud carve-out
 

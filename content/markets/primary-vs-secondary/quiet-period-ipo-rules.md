@@ -107,18 +107,18 @@ Other jurisdictions have their own quiet period rules. In the UK and EU, the pre
 
 ### Closely related
 
-- [Initial Public Offering](/link/initial-public-offering/) — the primary market transaction that triggers the quiet period
-- [Prospectus](/link/fund-prospectus/) — the formal disclosure document issuers file during the registration process
+- [Initial Public Offering](/initial-public-offering/) — the primary market transaction that triggers the quiet period
+- [Prospectus](/fund-prospectus/) — the formal disclosure document issuers file during the registration process
 - Underwriter — the bank managing the IPO and bound by quiet period restrictions
-- [Roadshow](/link/primary-market/) — investor presentations conducted during the pre-listing quiet period
-- [Primary Market](/link/primary-market/) — the market for newly issued securities where IPOs take place
-- [Securities and Exchange Commission](/link/securities-and-exchange-commission/) — the regulator enforcing quiet period rules
+- [Roadshow](/primary-market/) — investor presentations conducted during the pre-listing quiet period
+- [Primary Market](/primary-market/) — the market for newly issued securities where IPOs take place
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — the regulator enforcing quiet period rules
 
 ### Wider context
 
-- [Price Discovery](/link/price-discovery/) — the market mechanism that determines fair value
-- [Capital Markets](/link/capital-flows/) — the system within which IPOs operate
-- [Regulation A](/link/regulation-a/) — an alternative to traditional IPOs with different quiet period rules
-- [Secondary Offering](/link/secondary-offering/) — a later public offering subject to similar restrictions
+- [Price Discovery](/price-discovery/) — the market mechanism that determines fair value
+- [Capital Markets](/capital-flows/) — the system within which IPOs operate
+- [Regulation A](/regulation-a/) — an alternative to traditional IPOs with different quiet period rules
+- [Secondary Offering](/secondary-offering/) — a later public offering subject to similar restrictions
 
 </div>

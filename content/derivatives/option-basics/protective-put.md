@@ -52,6 +52,6 @@ The put premium you pay is an opportunity cost. On a stock that drifts sideways 
 <ul>
 <li><a href="/wiki/option/">Option</a> — the general contract class.</li>
 <li><a href="/wiki/option-premium/">Option premium</a> — the cost of buying the put.</li>
-<li><a href="/wiki/hedging/">Hedging</a> — using options to reduce risk.</li>
+<li>Hedging — using options to reduce risk.</li>
 </ul>
 </div>

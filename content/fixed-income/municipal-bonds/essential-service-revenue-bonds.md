@@ -62,7 +62,7 @@ Investors compare the utility's debt service coverage ratio, reserve levels, rat
 
 A strong water utility in a growing region, with healthy reserves and a track record of timely rate increases, might trade at yields only slightly above [general obligation bonds](/wiki/general-obligation-bond/). A mature utility in a declining area, with aging infrastructure and political resistance to rate hikes, will carry much wider spreads—reflecting the risk that revenues cannot keep pace with costs and debt service.
 
-The [bond rating](/wiki/bond-rating/) agencies (S&P, Moody's, Fitch) apply category-specific criteria. For water: source reliability, treatment capability, customer concentration, pension obligations. For electric: generation mix, fuel contracts, regulatory environment, demand trends. These methodologies have been stress-tested by decades of defaults and credit improvements.
+The bond rating agencies (S&P, Moody's, Fitch) apply category-specific criteria. For water: source reliability, treatment capability, customer concentration, pension obligations. For electric: generation mix, fuel contracts, regulatory environment, demand trends. These methodologies have been stress-tested by decades of defaults and credit improvements.
 
 ## Tax treatment and municipal equivalency
 

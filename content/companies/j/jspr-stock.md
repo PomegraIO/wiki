@@ -45,7 +45,7 @@ Cell therapy and regenerative medicine are crowded spaces with numerous public a
 
 ## Looking to SEC Filings
 
-Investors should examine JSPR's [10-K](/10-K/) for a clear description of its therapeutic programs, stage of development, clinical trial status, regulatory interactions, manufacturing plan, and cash runway. The company should disclose material partnerships, license agreements, and any intellectual property litigation. Comparisons to [public-company](/public-company/) peers and disclosure of stock-based compensation (which dilutes existing shareholders) are essential context.
+Investors should examine JSPR's [10-K](/10-k/) for a clear description of its therapeutic programs, stage of development, clinical trial status, regulatory interactions, manufacturing plan, and cash runway. The company should disclose material partnerships, license agreements, and any intellectual property litigation. Comparisons to [public-company](/public-company/) peers and disclosure of stock-based compensation (which dilutes existing shareholders) are essential context.
 
 <div class="wiki-seealso">
 ### Closely related

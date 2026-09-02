@@ -76,6 +76,6 @@ This creates a two-layer rotation system: macro-driven cyclic shifts (mid-cycle 
 - [Relative Strength](/wiki/relative-strength-investing/) — comparing asset performance
 - [Factor Investing](/wiki/factor-investing/) — systematic tilts toward market factors
 - [Contrarian Investing](/wiki/contrarian-investing/) — betting against crowd consensus
-- [Technical Analysis](/wiki/technical-analysis/) — pattern recognition in price data
+- Technical Analysis — pattern recognition in price data
 
 </div>

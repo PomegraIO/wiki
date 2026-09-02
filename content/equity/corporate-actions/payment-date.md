@@ -109,7 +109,7 @@ However, for shareholders reinvesting dividends, the payment date is important b
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events altering company structure or shareholder rights.</li>
+  <li>Corporate actions — events altering company structure or shareholder rights.</li>
   <li><a href="/wiki/dtcc/">DTCC</a> — central registry for U.S. securities ownership and transfers.</li>
 </ul>
 </div>

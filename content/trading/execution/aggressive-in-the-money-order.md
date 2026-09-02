@@ -41,7 +41,7 @@ Not to be confused with an [in-the-money](/in-the-money/) derivative. This term 
 
 ## When certainty beats patience
 
-A [market order](/market-order/) gives absolute certainty of speed: hit the [bid](/bid-ask-spread/) or [ask](/bid-ask-spread/), and the order fills instantly. But the price is whatever the market offers at that moment, which could be worse than expected if volatility spikes or [slippage](/https://example.com/) occurs between order submission and execution.
+A [market order](/market-order/) gives absolute certainty of speed: hit the [bid](/bid-ask-spread/) or [ask](/bid-ask-spread/), and the order fills instantly. But the price is whatever the market offers at that moment, which could be worse than expected if volatility spikes or slippage occurs between order submission and execution.
 
 A passive [limit order](/limit-order/) lets the trader set the maximum price they'll accept (on a buy) or the minimum they'll accept (on a sell). But there's no guarantee of fill—the order sits in the [limit order book](/order-book-impact-model/) and only executes if the market trades through that price. On a stable day, the limit order might not fill at all.
 
@@ -69,7 +69,7 @@ This is especially valuable in less liquid stocks or around news events, when [b
 
 The trader is still paying the [spread](/bid-ask-spread/). An aggressive-in-the-money order is not getting a better price than the best available passive liquidity; it's hitting that liquidity and paying full asking price (or bidding price) for speed.
 
-For very large orders, the aggressive-in-the-money approach can be self-defeating. A 10 million share buy order placed aggressively will consume all the depth at the current asking price and higher, moving the market significantly. The later portions of the order might fill at much worse prices than the first tranche. In this scenario, a [schedule-driven execution](/schedule-driven-execution/) or [liquidity-seeking algorithm](/liquidity-seeking-algorithm/) might minimize overall [market impact](/https://example.com/).
+For very large orders, the aggressive-in-the-money approach can be self-defeating. A 10 million share buy order placed aggressively will consume all the depth at the current asking price and higher, moving the market significantly. The later portions of the order might fill at much worse prices than the first tranche. In this scenario, a [schedule-driven execution](/schedule-driven-execution/) or [liquidity-seeking algorithm](/liquidity-seeking-algorithm/) might minimize overall market impact.
 
 There's also a false certainty trap. An aggressive order placed at 99.60 appears guaranteed to fill, but if the market gaps away—if news hits and the stock opens 2% lower the next morning—the order might never fill, and the trader is left waiting and exposed.
 
@@ -105,7 +105,7 @@ Modern brokers and algo platforms let traders tune this. "I want to buy 5,000 sh
 
 - [Stock market](/stock-market/) — where most aggressive-in-the-money orders are placed
 - [Algorithmic trading](/algorithmic-trading/) — the broader field of execution tactics
-- [Execution](/https://example.com/) — the fundamental challenge these orders address
+- Execution — the fundamental challenge these orders address
 - [Price discovery](/price-discovery/) — the mechanism these orders participate in
 
 </div>

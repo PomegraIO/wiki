@@ -41,7 +41,7 @@ Not all order book depth is genuine. A trader can place large orders with the in
 
 ## Iceberg orders and hidden liquidity
 
-The opposite problem is hidden liquidity. Large institutional traders often use **iceberg orders**: they display only a small "visible" quantity (say, 1,000 shares) but an invisible reserve (say, 100,000 shares). Every time the visible 1,000 fills, 1,000 more emerges from the reserve. From the order book depth perspective, you see only the iceberg's tip. This is legitimate and legal — it's a [risk management](/wiki/risk-management/) tactic to avoid signaling your full intent and suffering massive [price impact](/wiki/market-impact-cost/). But it means that the published order book depth always understates the true liquidity available for large trades.
+The opposite problem is hidden liquidity. Large institutional traders often use **iceberg orders**: they display only a small "visible" quantity (say, 1,000 shares) but an invisible reserve (say, 100,000 shares). Every time the visible 1,000 fills, 1,000 more emerges from the reserve. From the order book depth perspective, you see only the iceberg's tip. This is legitimate and legal — it's a risk management tactic to avoid signaling your full intent and suffering massive [price impact](/wiki/market-impact-cost/). But it means that the published order book depth always understates the true liquidity available for large trades.
 
 ## Resilience and fleeting liquidity
 

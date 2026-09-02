@@ -28,11 +28,11 @@ keywords:
 
 ## Why landlords use professional managers
 
-A [single-family rental](/wiki/single-family-rental/) or small [multi-family property](/wiki/multi-family-property/) can be self-managed by the owner, but this requires time, expertise, and availability. Tenant disputes, maintenance emergencies, and regulatory changes do not respect business hours. A professional manager absorbs these burdens—screening tenants, collecting rent, handling [lease agreements](/wiki/finance-lease/), coordinating repairs, and managing evictions. For landlords with multiple properties, jobs demanding travel, or those simply unwilling to be on-call, this outsourcing justifies the fee. The cost of a missed eviction or a broken pipe left unrepaired can exceed a year of management fees.
+A [single-family rental](/wiki/single-family-rental/) or small multi-family property can be self-managed by the owner, but this requires time, expertise, and availability. Tenant disputes, maintenance emergencies, and regulatory changes do not respect business hours. A professional manager absorbs these burdens—screening tenants, collecting rent, handling [lease agreements](/wiki/finance-lease/), coordinating repairs, and managing evictions. For landlords with multiple properties, jobs demanding travel, or those simply unwilling to be on-call, this outsourcing justifies the fee. The cost of a missed eviction or a broken pipe left unrepaired can exceed a year of management fees.
 
 ## Understanding the fee structure
 
-Property management is not a single flat cost. Most firms charge a base percentage of rent (typically 8–10%) plus additional fees for specific services. Placing a new tenant might cost 50–100% of the first month's rent—a significant upfront charge when turnover occurs. Maintenance coordination often includes a markup: the manager pays vendors $1,000 to fix a roof and bills the landlord $1,200, keeping the spread. [Vacancy](/wiki/days-vacancy-outstanding/) risk is particularly important: if the manager takes two months to fill a unit, the landlord absorbs that lost rent. Some agreements cap vacancy losses; others do not. A property generating $2,000 a month rented at a 10% base fee costs $200. Add a two-month vacancy, and the year's cost jumps materially.
+Property management is not a single flat cost. Most firms charge a base percentage of rent (typically 8–10%) plus additional fees for specific services. Placing a new tenant might cost 50–100% of the first month's rent—a significant upfront charge when turnover occurs. Maintenance coordination often includes a markup: the manager pays vendors $1,000 to fix a roof and bills the landlord $1,200, keeping the spread. Vacancy risk is particularly important: if the manager takes two months to fill a unit, the landlord absorbs that lost rent. Some agreements cap vacancy losses; others do not. A property generating $2,000 a month rented at a 10% base fee costs $200. Add a two-month vacancy, and the year's cost jumps materially.
 
 ## The trade-off between cost and control
 
@@ -57,7 +57,7 @@ To decide, calculate the true opportunity cost of self-managing. If it absorbs 1
 <div class="wiki-seealso">
 
 ### Closely related
-- [Multi-family Property](/wiki/multi-family-property/) — Larger portfolios where management economies of scale apply
+- Multi-family Property — Larger portfolios where management economies of scale apply
 - [Single-Family Rental](/wiki/single-family-rental/) — Properties often self-managed or with smaller management firms
 - [Residential Real Estate](/wiki/residential-real-estate/) — The broader category of housing investments
 - [Net Operating Income](/wiki/net-operating-income/) — How management fees reduce rental property profitability

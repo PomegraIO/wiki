@@ -61,6 +61,6 @@ A bull call spread is safer; a ratio call spread generates more income but with 
 <ul>
 <li><a href="/wiki/option/">Option</a> — contract type underlying spreads.</li>
 <li><a href="/wiki/options-greeks/">Options Greeks</a> — tools for measuring spread risk.</li>
-<li><a href="/wiki/naked-short/">Naked Short</a> — the risk component above the short strike.</li>
+<li>Naked Short — the risk component above the short strike.</li>
 </ul>
 </div>

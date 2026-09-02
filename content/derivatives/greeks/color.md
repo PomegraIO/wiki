@@ -117,10 +117,10 @@ In real markets, color is less stable than delta or gamma because it depends on 
 - <a href="/wiki/options-greeks/">/wiki/options-greeks/</a> — Complete Greek taxonomy
 
 ### Wider context
-- <a href="/wiki/option-pricing/">/wiki/black-scholes-model/</a> — The model that computes color
+- /wiki/black-scholes-model/ — The model that computes color
 - <a href="/wiki/gamma-scalping/">/wiki/gamma-scalping/">/wiki/gamma-scalping/</a> — Strategy most affected by color
 - <a href="/wiki/dynamic-hedging-algorithm/">/wiki/dynamic-hedging-algorithm/</a> — Rehedging approach where color matters
 - <a href="/wiki/volatility-smile/">/wiki/volatility-smile/</a> — Price-dependent volatility that affects color
-- <a href="/wiki/exotic-option/">/wiki/exotic-option/</a> — Complex instruments where color is material
+- /wiki/exotic-option/ — Complex instruments where color is material
 
 </div>

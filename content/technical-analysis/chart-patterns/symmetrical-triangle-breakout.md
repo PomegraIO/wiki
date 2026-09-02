@@ -109,7 +109,7 @@ Critics argue that symmetrical triangle breakouts are essentially random-walk br
 - [Descending Triangle](/wiki/descending-triangle/) — Bearish variant
 - [Support and Resistance](/wiki/support-and-resistance/) — Trendline foundations
 - [Breakout Trading](/wiki/breakout-trading/) — Strategy framework
-- [Technical Analysis](/wiki/technical-analysis/) — Methodology
+- Technical Analysis — Methodology
 
 ### Wider context
 - [Chart Pattern](/wiki/candlestick-pattern/) — Broader pattern category

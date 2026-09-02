@@ -79,7 +79,7 @@ The strategy assumes stable income and a consistent withdrawal plan. Life events
 
 ## Criticisms and alternatives
 
-Some advisors view the Roth conversion ladder as more trouble than it is worth. The [pro-rata rule](/wiki/pro-rata-rule-conversions/) and need to track multiple conversion tranches add complexity. For some early retirees, [rule of 55](/wiki/rule-10b-5/) withdrawals from a [401(k)](/wiki/401k-plan/) or substantially equal periodic payments (SEPPs) under [IRC 72(t)](/wiki/rule-10b-5/) offer simpler, lower-tax alternatives.
+Some advisors view the Roth conversion ladder as more trouble than it is worth. The pro-rata rule and need to track multiple conversion tranches add complexity. For some early retirees, [rule of 55](/wiki/rule-10b-5/) withdrawals from a [401(k)](/wiki/401k-plan/) or substantially equal periodic payments (SEPPs) under [IRC 72(t)](/wiki/rule-10b-5/) offer simpler, lower-tax alternatives.
 
 However, for someone with a sizable [traditional IRA](/wiki/ira-traditional/) and a predictable income-gap year, the ladder remains the cleanest legal way to access retirement savings penalty-free before 59½.
 

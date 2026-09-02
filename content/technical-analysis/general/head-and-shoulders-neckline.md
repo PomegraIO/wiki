@@ -37,7 +37,7 @@ The neckline is drawn by connecting the *low* of the left shoulder (the first pu
 
 The two shoulder lows are often at or very close to the same price level, producing a nearly flat neckline—the textbook version most traders learn. However, the neckline can slope upward (where the right shoulder low is higher than the left) or downward (where the right shoulder low is lower). The slope of the neckline influences the reliability and aggressiveness of the pattern.
 
-Traders sometimes disagree on which exact low to use if the shoulder area contains multiple minor lows within a few cents. In practice, connecting the most obvious lows—the ones that form the clearest shoulders—works best. If in doubt, multiple valid necklines can be drawn; the lowest of them is often used for [stop-loss](//) placement, while the highest is used for a more conservative entry.
+Traders sometimes disagree on which exact low to use if the shoulder area contains multiple minor lows within a few cents. In practice, connecting the most obvious lows—the ones that form the clearest shoulders—works best. If in doubt, multiple valid necklines can be drawn; the lowest of them is often used for stop-loss placement, while the highest is used for a more conservative entry.
 
 ## How neckline slope affects the pattern
 
@@ -59,7 +59,7 @@ A failed retest—where price bounces back, re-enters above the neckline, and st
 
 A neckline break on heavy volume is far more reliable than a break on light participation. High volume shows that selling pressure is genuine and sustained. A neckline break on low volume, particularly if it occurs late in the trading day or near a close, may be a false signal—a trap that reverses the next session.
 
-Many traders also look at momentum indicators such as RSI or [MACD](//) during the neckline break. A price break accompanied by momentum (e.g., RSI diving below 40 or MACD turning negative) provides additional conviction. Conversely, a neckline break that fails to move momentum indicators can be a weak signal.
+Many traders also look at momentum indicators such as RSI or MACD during the neckline break. A price break accompanied by momentum (e.g., RSI diving below 40 or MACD turning negative) provides additional conviction. Conversely, a neckline break that fails to move momentum indicators can be a weak signal.
 
 ## Measuring the downside target
 
@@ -90,15 +90,15 @@ Finally, traders sometimes confuse a neckline break with a reversal. A break of 
 - [Bollinger Band Squeeze: What It Signals](/bollinger-band-squeeze/) — volatility compression before breakouts
 - [Measured Move in Chart Patterns](/measured-move-chart-pattern/) — projecting downside targets from neckline breaks
 - [On-Balance Volume (OBV) Indicator](/on-balance-volume-indicator/) — volume confirmation for neckline breakouts
-- [Support and resistance](//) — the role reversal of neckline from support to resistance
-- [Volume](//) — essential confirmation for neckline breaks
+- Support and resistance — the role reversal of neckline from support to resistance
+- Volume — essential confirmation for neckline breaks
 
 ### Wider context
 
-- [Technical analysis](//) — the broader discipline of chart pattern recognition
-- [Reversal patterns](//) — category of patterns signaling trend changes
+- Technical analysis — the broader discipline of chart pattern recognition
+- Reversal patterns — category of patterns signaling trend changes
 - [Price discovery](/price-discovery/) — how reversals contribute to market price discovery
 - [Trend-following](/trend-following/) — strategy that uses reversal patterns to change positions
-- [Momentum](//) — indicators that confirm or diverge from pattern signals
+- Momentum — indicators that confirm or diverge from pattern signals
 
 </div>

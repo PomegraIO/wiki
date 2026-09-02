@@ -61,7 +61,7 @@ There is no hard maximum. A company facing serious allegations—like Wirecard, 
 <ul>
   <li><a href="/wiki/circuit-breakers/">Circuit breakers</a> — systemwide trading halts on large market declines.</li>
   <li><a href="/wiki/opening-auction/">Opening auction</a> — repricing mechanism after a halt.</li>
-  <li><a href="/wiki/sec/">SEC</a> — regulator that can initiate halts for investor protection.</li>
+  <li>SEC — regulator that can initiate halts for investor protection.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>

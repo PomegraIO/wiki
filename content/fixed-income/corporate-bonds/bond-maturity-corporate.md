@@ -26,7 +26,7 @@ Issuers typically pay higher [yields](/wiki/yield-to-maturity/) on longer-dated 
 
 ## Corporate maturity conventions
 
-Most [corporate bonds](/wiki/corporate-bonds/) are issued with maturities of 3 to 10 years. Longer-dated corporates (20+ years) are rarer because companies face higher [refinancing risk](/wiki/bond-refunding/)—the possibility that when the bond matures, they'll have to roll over debt at much higher rates. [Perpetual bonds](/wiki/perpetual-bond/)—bonds with no maturity date—exist but are unusual; investors are wary of lending indefinitely.
+Most corporate bonds are issued with maturities of 3 to 10 years. Longer-dated corporates (20+ years) are rarer because companies face higher [refinancing risk](/wiki/bond-refunding/)—the possibility that when the bond matures, they'll have to roll over debt at much higher rates. [Perpetual bonds](/wiki/perpetual-bond/)—bonds with no maturity date—exist but are unusual; investors are wary of lending indefinitely.
 
 The [bond indenture](/wiki/bond-indenture/) specifies the exact maturity date. Bonds are often referred to by maturity in shorthand: "2030 bonds" are due in 2030, "10-year bonds" mature 10 years from issuance. As the bond ages, it "rolls down the [yield curve](/wiki/yield-curve/)," meaning its yield and price change as it approaches maturity.
 

@@ -146,7 +146,7 @@ Understanding these drivers is critical for long-term policy and investment stra
 ### Closely related
 - [Endogenous Growth Theory](/wiki/endogenous-growth-theory/) — Extension of Solow allowing innovation to be endogenous.
 - [Potential GDP](/wiki/potential-gdp/) — The steady-state output concept; Solow provides the framework.
-- [Capital Labor](/wiki/capital-formation/) — The two inputs in the Solow production function.
+- Capital Labor — The two inputs in the Solow production function.
 - [Productivity](/wiki/labor-productivity/) — The "A" term in Solow; long-run growth depends on it.
 
 ### Wider context

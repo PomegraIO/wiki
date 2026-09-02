@@ -132,7 +132,7 @@ Traditional appraisals remain the gold standard and are required for most conven
 
 ### Wider context
 - [Residential Real Estate](/wiki/residential-real-estate/) — Housing market fundamentals
-- [Loan-to-Value Ratio](/wiki/loan/) — Metric combining appraisal and loan amount
+- Loan-to-Value Ratio — Metric combining appraisal and loan amount
 - [Housing Bubble](/wiki/housing-bubble-2008/) — Context for appraisal inflation risks
 - [Homeowners Insurance](/wiki/homeowners-insurance/) — Another lender-required protection
 

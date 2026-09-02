@@ -66,7 +66,7 @@ When the [sp-500-index](/wiki/sp-500-index/) rallies but breadth stalls, the mar
 - [McClellan Oscillator](/wiki/mcclellan-oscillator/) — Another breadth-based oscillator.
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — The discipline of reading price and volume patterns.
+- Technical Analysis — The discipline of reading price and volume patterns.
 - [Volume Breadth Divergence](/wiki/volume-breadth-divergence/) — When price and breadth tell different stories.
 - [Momentum Investing](/wiki/momentum-investing/) — Following trends and internal strength.
 

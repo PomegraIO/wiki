@@ -56,7 +56,7 @@ During a rotation, large asset allocators—[pension funds](/), insurance compan
 
 The rotation often plays out in [sector rotation](/sector-rotation/) strategies explicitly designed to capture these shifts. A fund manager tracking [business cycle](/business-cycle/) indicators watches for late-cycle signals: inverted [yield curve](/yield-curve/), rising unemployment claims, declining manufacturing activity alongside sticky inflation. When those signals appear, the strategy underweights tech and overweights industrials.
 
-Capital flows reinforce the move. As money rotates from tech into industrials, tech share prices fall (supply exceeds demand) and industrial share prices rise (demand exceeds supply). The sector [performance](//) divergence becomes self-fulfilling until a new equilibrium price is reached.
+Capital flows reinforce the move. As money rotates from tech into industrials, tech share prices fall (supply exceeds demand) and industrial share prices rise (demand exceeds supply). The sector performance divergence becomes self-fulfilling until a new equilibrium price is reached.
 
 ## Historical precedent
 
@@ -72,7 +72,7 @@ The challenge in sector rotation is identifying the inflection point. Early rota
 
 Rotations can reverse. If a recession becomes severe and growth collapses, central banks eventually ease and cut rates. In recovery phases, tech re-outperforms as growth expectations and discount rates both improve. A trader or allocator holding industrials too long into the recovery phase—missing the re-acceleration of tech—sacrifices returns.
 
-Professional traders use [leading indicators](/leading-indicator/) to gauge cycle phase: real [interest rates](/interest-rate/), [unemployment rate](/unemployment-rate/), [consumer price index](/consumer-price-index/) momentum, [manufacturing](//) PMI. When these turn, they reposition. The best rotators act 2–4 weeks before the most obvious participants; the worst rotate after the move is done and prices have already shifted.
+Professional traders use [leading indicators](/leading-indicator/) to gauge cycle phase: real [interest rates](/interest-rate/), [unemployment rate](/unemployment-rate/), [consumer price index](/consumer-price-index/) momentum, manufacturing PMI. When these turn, they reposition. The best rotators act 2–4 weeks before the most obvious participants; the worst rotate after the move is done and prices have already shifted.
 
 ## See also
 

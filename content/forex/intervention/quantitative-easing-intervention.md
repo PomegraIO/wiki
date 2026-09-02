@@ -29,7 +29,7 @@ keywords:
 
 When the [federal funds rate](/wiki/federal-funds-rate/) (the rate banks charge each other overnight) is already at zero, a central bank cannot cut rates further using conventional policy. Enter QE: the central bank creates money electronically and uses it to purchase long-term government bonds and other assets directly from banks, [asset managers](/wiki/asset-allocation-fund/), and the public.
 
-These purchases do two things. First, they inject cash into the financial system. Banks and [bond funds](/wiki/fixed-income-etf/) that sell bonds to the central bank receive fresh money, which they can lend or invest elsewhere. Second, the purchases reduce the [supply](/wiki/supply-and-demand/) of long-term bonds in the market, pushing [yields](/wiki/yield-to-maturity/) down. Lower [yields](/wiki/yield-to-maturity/) on government bonds make [mortgages](/wiki/mortgage-personal/), corporate loans, and other borrowing cheaper.
+These purchases do two things. First, they inject cash into the financial system. Banks and [bond funds](/wiki/fixed-income-etf/) that sell bonds to the central bank receive fresh money, which they can lend or invest elsewhere. Second, the purchases reduce the supply of long-term bonds in the market, pushing [yields](/wiki/yield-to-maturity/) down. Lower [yields](/wiki/yield-to-maturity/) on government bonds make [mortgages](/wiki/mortgage-personal/), corporate loans, and other borrowing cheaper.
 
 Cheaper [borrowing](/wiki/debt-financing/) is supposed to encourage businesses to invest and consumers to spend, restarting economic growth.
 
@@ -41,15 +41,15 @@ During the COVID-19 pandemic (2020), the Fed expanded its QE even faster, purcha
 
 ## The [money multiplier](/wiki/money-multiplier/) and the liquidity trap
 
-QE's effectiveness depends on whether newly created money circulates through the economy. In normal times, when banks lend out their [deposits](/wiki/deposits/), each dollar multiplies into several dollars of economic activity. This is the [money multiplier](/wiki/money-multiplier/) effect.
+QE's effectiveness depends on whether newly created money circulates through the economy. In normal times, when banks lend out their deposits, each dollar multiplies into several dollars of economic activity. This is the [money multiplier](/wiki/money-multiplier/) effect.
 
 However, during a [liquidity crisis](/wiki/liquidity-crisis/), banks hoard cash and borrowers avoid debt, so the [money multiplier](/wiki/money-multiplier/) collapses. QE can inject money, but if banks refuse to lend and consumers refuse to borrow, the money sits idle. This is called the **liquidity trap**—monetary stimulus becomes ineffective because increased [money supply](/wiki/m2/) fails to raise spending or employment.
 
 ## QE and asset price inflation
 
-Critics argue that QE inflates [asset prices](/wiki/asset-allocation-fund/) without proportionally boosting real economic output. By flooding markets with cash and buying [bonds](/wiki/bond/), the central bank pushes investors into riskier assets like [stocks](/wiki/stock/) and [real estate](/wiki/real-estate-investment-trust/) to chase [returns](/wiki/return-on-assets/). Asset prices rise, but [productive investment](/wiki/capital-expenditure/) and wages may not.
+Critics argue that QE inflates [asset prices](/wiki/asset-allocation-fund/) without proportionally boosting real economic output. By flooding markets with cash and buying [bonds](/wiki/bond/), the central bank pushes investors into riskier assets like [stocks](/wiki/stock/) and [real estate](/wiki/real-estate-investment-trust/) to chase [returns](/wiki/return-on-assets/). Asset prices rise, but productive investment and wages may not.
 
-The rich, who own most financial assets, benefit disproportionately from asset price [appreciation](/wiki/capital-appreciation/). Meanwhile, savers with cash accounts earn near-zero [interest rates](/wiki/interest-rate/), effectively penalizing them for caution.
+The rich, who own most financial assets, benefit disproportionately from asset price appreciation. Meanwhile, savers with cash accounts earn near-zero [interest rates](/wiki/interest-rate/), effectively penalizing them for caution.
 
 ## [Quantitative tightening](/wiki/quantitative-tightening/) and balance sheet runoff
 

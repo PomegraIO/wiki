@@ -60,7 +60,7 @@ The lender-of-last-resort function is powerful but has limits. It works well for
   <li><a href="/wiki/central-bank/">Central bank</a> — the institution that plays this role.</li>
   <li><a href="/wiki/discount-rate/">Discount rate</a> — the rate charged for emergency lending.</li>
   <li><a href="/wiki/federal-reserve/">Federal Reserve</a> — the U.S. lender of last resort.</li>
-  <li><a href="/wiki/financial-stability/">Financial stability</a> — the broader goal.</li>
+  <li>Financial stability — the broader goal.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>

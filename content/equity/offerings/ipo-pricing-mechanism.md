@@ -11,7 +11,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*The IPO pricing mechanism is the process by which [underwriters](/broker/) narrow a preliminary price range into a single [offer price](/wiki/slug/) on the eve of a public company's debut. During the [bookbuild](/wiki/slug/), institutional investors submit bids at various prices; the underwriter uses that demand curve to set the final price, balancing the company's desire for capital-raising proceeds against the need to anchor a stable aftermarket.*
+*The IPO pricing mechanism is the process by which [underwriters](/broker/) narrow a preliminary price range into a single offer price on the eve of a public company's debut. During the bookbuild, institutional investors submit bids at various prices; the underwriter uses that demand curve to set the final price, balancing the company's desire for capital-raising proceeds against the need to anchor a stable aftermarket.*
 
 <aside class="wiki-infobox">
 
@@ -27,7 +27,7 @@ image: "/svg/equity.svg"
 | **Also called** | Price determination, offer price setting, pricing day |
 | **Typical sequence** | Roadshow → preliminary range → bookbuild → final price announcement |
 | **Key players** | Lead underwriter, company management, institutional investors, regulators |
-| **Outcome** | Public [offer price](/wiki/slug/) at which [authorized participants](/authorized-participant/) commit to sell shares |
+| **Outcome** | Public offer price at which [authorized participants](/authorized-participant/) commit to sell shares |
 | **Follow-on step** | [Stabilisation trading](/stabilisation-trading/) in the aftermarket |
 
 </aside>
@@ -36,7 +36,7 @@ image: "/svg/equity.svg"
 
 Weeks before the IPO, company executives and the lead underwriter visit major institutional investors to pitch the business and gauge appetite. This roadshow is part theatre, part [price discovery](/price-discovery/). Investors ask probing questions; underwriters take note of which institutions are seriously interested and at what valuation.
 
-By the end of the roadshow, the lead underwriter—usually a bank like [Goldman Sachs](/goldman-sachs/), [JPMorgan Chase](/jpmorgan-chase/), or [Morgan Stanley](/morgan-stanley/)—issues a preliminary price range. A typical range might be $16–$19 per share. This range is not arbitrary; it reflects a [discounted cash flow](/discounted-cash-flow-valuation/) analysis, peer [multiples](/wiki/slug/), market comps, and feedback from key investors. The range is deliberately wide—$3 in this example—to leave room for the market to signal demand without appearing uncertain.
+By the end of the roadshow, the lead underwriter—usually a bank like [Goldman Sachs](/goldman-sachs/), [JPMorgan Chase](/jpmorgan-chase/), or [Morgan Stanley](/morgan-stanley/)—issues a preliminary price range. A typical range might be $16–$19 per share. This range is not arbitrary; it reflects a [discounted cash flow](/discounted-cash-flow-valuation/) analysis, peer multiples, market comps, and feedback from key investors. The range is deliberately wide—$3 in this example—to leave room for the market to signal demand without appearing uncertain.
 
 ## The bookbuild: collecting the demand curve
 
@@ -66,7 +66,7 @@ Once the final price is set, the [authorized participants](/authorized-participa
 
 The lead underwriter has significant discretion in final pricing and allocation. If two investors indicated equal demand at $18, the underwriter might give preference to long-term holders over traders, or to investors with deeper relationships. This is called "bookrunner discretion," and it is legal but can breed resentment.
 
-Some issuers and underwriters use [auction mechanisms](/wiki/slug/) (used in Dutch auctions or in some international IPOs) to remove discretion: each investor submits a single bid price and quantity, and shares are allocated to the highest bidders until the offering is fully subscribed. This approach is transparent but can produce volatile aftermarket trading if the auction-clearing price is far from consensus fair value.
+Some issuers and underwriters use auction mechanisms (used in Dutch auctions or in some international IPOs) to remove discretion: each investor submits a single bid price and quantity, and shares are allocated to the highest bidders until the offering is fully subscribed. This approach is transparent but can produce volatile aftermarket trading if the auction-clearing price is far from consensus fair value.
 
 ## Regulatory constraints and international variation
 
@@ -86,7 +86,7 @@ The "IPO pop" debate continues: a 10% first-day pop is seen as a sign of wise un
 
 ### Closely related
 
-- [Bookbuilding](/wiki/slug/) — the investor bidding process that feeds the pricing mechanism
+- Bookbuilding — the investor bidding process that feeds the pricing mechanism
 - [Stabilisation trading](/stabilisation-trading/) — underwriter purchases that smooth the share price after the IPO
 - [Authorized participant](/authorized-participant/) — the syndicate members who commit capital to the offering
 - [Initial public offering](/initial-public-offering/) — the broader process of which pricing is one critical step

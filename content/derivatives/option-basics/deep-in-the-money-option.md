@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **deep in-the-money option** is an [option](/derivatives/option-basics/) whose [strike price](/strike-price/) is so far from the current market price that the option behaves almost like the underlying stock itself. These options carry high [delta](/delta/)—typically 0.90 or closer to 1.0—meaning they move nearly dollar-for-dollar with the stock, and their value consists almost entirely of [intrinsic value](/intrinsic-value/) with minimal [time decay](/time-decay-theta/).*
+*A **deep in-the-money option** is an option whose [strike price](/strike-price/) is so far from the current market price that the option behaves almost like the underlying stock itself. These options carry high [delta](/delta/)—typically 0.90 or closer to 1.0—meaning they move nearly dollar-for-dollar with the stock, and their value consists almost entirely of [intrinsic value](/intrinsic-value/) with minimal [time decay](/time-decay-theta/).*
 
 <aside class="wiki-infobox">
 
@@ -22,7 +22,7 @@ image: "/svg/derivatives.svg"
 
 |   |   |
 |---|---|
-| **What it is** | An [option](/derivatives/option-basics/) with strike far below (call) or above (put) the stock price |
+| **What it is** | An option with strike far below (call) or above (put) the stock price |
 | **Also called** | Far in-the-money, heavily in-the-money |
 | **Delta range** | 0.90–1.0 for calls; −1.0 to −0.90 for puts |
 | **Time value** | Near zero; almost all value is intrinsic |
@@ -34,7 +34,7 @@ image: "/svg/derivatives.svg"
 
 ## How delta turns extreme in-the-money options into stock proxies
 
-The deeper an [option](/derivatives/option-basics/) slides into intrinsic value, the more its [delta](/delta/) approaches 1.0 (for calls) or −1.0 (for puts). Delta measures the sensitivity of the option price to moves in the underlying stock. When you own a call option with delta 0.95, a $1 move in the stock typically changes the option's value by $0.95—nearly the same as owning the stock directly.
+The deeper an option slides into intrinsic value, the more its [delta](/delta/) approaches 1.0 (for calls) or −1.0 (for puts). Delta measures the sensitivity of the option price to moves in the underlying stock. When you own a call option with delta 0.95, a $1 move in the stock typically changes the option's value by $0.95—nearly the same as owning the stock directly.
 
 This happens because the option is so deeply in-the-money that the market prices in an extremely high probability it will be exercised. There is no question whether the holder will profit; the only question is how much. This certainty collapses the [time value](/option-premium/) and concentrates all value into the intrinsic cushion.
 
@@ -86,7 +86,7 @@ Deep in-the-money puts serve as tail-risk hedges—investors who fear a sharp dr
 
 ### Closely related
 
-- [Option](/derivatives/option-basics/) — foundational contract types and terminology
+- Option — foundational contract types and terminology
 - [Delta](/delta/) — directional sensitivity and the mechanics of leverage
 - [Intrinsic value](/intrinsic-value/) — value embedded in the strike relationship
 - [Time decay](/time-decay-theta/) — why near-term options resist erosion

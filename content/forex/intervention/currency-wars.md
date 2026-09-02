@@ -50,11 +50,11 @@ Each country denied intentional devaluation; they claimed to be fighting deflati
 
 **Central bank intervention.** Direct [currency intervention](/wiki/currency-intervention/) — the central bank buys foreign currencies and sells domestic currency to devalue the exchange rate. [Sterilized intervention](/wiki/sterilized-intervention/) offsets this with monetary tightening elsewhere to avoid inflation.
 
-**Quantitative easing and rate cuts.** By [lowering interest rates](/wiki/central-bank-interest-rates/) and expanding the [monetary base](/wiki/monetary-base/), central banks increase [money supply](/wiki/m2-money-supply/), which depreciates the currency and boosts exports.
+**Quantitative easing and rate cuts.** By [lowering interest rates](/wiki/central-bank-interest-rates/) and expanding the [monetary base](/wiki/monetary-base/), central banks increase money supply, which depreciates the currency and boosts exports.
 
 **Capital controls.** Some countries restrict inflows of foreign investment or "hot money" to prevent the currency from appreciating and to force investment into domestically and productive assets. This is less transparent than overt intervention but achieves similar goals.
 
-**Trade protectionism.** [Tariffs](/wiki/tariff/), quotas, and subsidies to exporters (e.g., agricultural subsidies) protect domestic producers and indirectly devalue by reducing import competition.
+**Trade protectionism.** Tariffs, quotas, and subsidies to exporters (e.g., agricultural subsidies) protect domestic producers and indirectly devalue by reducing import competition.
 
 ## Why it's called a "war"
 
@@ -64,7 +64,7 @@ The result is a **race to the bottom**: all countries devalue simultaneously, nu
 
 ## The collective action problem
 
-No country wants a global currency war, but each country incentives the next country to devalue. This is the classic [prisoner's dilemma](/wiki/competitive-equilibrium-problem/): individually rational devaluation leads to collectively worse outcomes.
+No country wants a global currency war, but each country incentives the next country to devalue. This is the classic prisoner's dilemma: individually rational devaluation leads to collectively worse outcomes.
 
 International institutions like the IMF try to coordinate to prevent this. The IMF Articles of Agreement (Article IV) commitments oblige members not to engage in competitive devaluation, but enforcement is weak.
 
@@ -78,7 +78,7 @@ International institutions like the IMF try to coordinate to prevent this. The I
 
 Economists debate whether currency wars are effective. Some argue devaluation's benefits are temporary—competitors retaliate, the boost to exports fades, and global demand doesn't rise, just shifts between countries. Others argue devaluation transfers wealth from savers and creditors (who hold depreciating currency) to workers and exporters, a redistribution the democratic process may not support.
 
-There's also disagreement on the prevalence. Some economists argue the 2010s currency wars were mild compared to the 1930s, limited by floating [exchange rates](/wiki/exchange-rate/) and capital mobility. Others argue competitive devaluation is ongoing whenever central banks tighten monetary policy (raising interest rates) relative to other countries, which should normally strengthen the currency—but instead remains stable, suggesting deliberate or passive devaluation.
+There's also disagreement on the prevalence. Some economists argue the 2010s currency wars were mild compared to the 1930s, limited by floating exchange rates and capital mobility. Others argue competitive devaluation is ongoing whenever central banks tighten monetary policy (raising interest rates) relative to other countries, which should normally strengthen the currency—but instead remains stable, suggesting deliberate or passive devaluation.
 
 <div class="wiki-seealso">
 
@@ -90,10 +90,10 @@ There's also disagreement on the prevalence. Some economists argue the 2010s cur
 - [Capital Control Policy](/wiki/capital-control-policy/) — government restrictions on capital flows
 
 ### Wider context
-- [Exchange Rate](/wiki/exchange-rate/) — the price of one currency in terms of another
+- Exchange Rate — the price of one currency in terms of another
 - [Monetary Policy](/wiki/monetary-policy/) — central bank management of money supply and interest rates
 - [Trade War](/wiki/trade-war/) — escalating tariffs and trade barriers between countries
 - [Competitive Devaluation](/wiki/currency-peg-maintenance/) — systematic devaluation attempts by multiple countries
-- [Mercantilism](/wiki/comparative-advantage-theory-and-mercantilism/) — economic philosophy prioritizing exports and trade surplus
+- Mercantilism — economic philosophy prioritizing exports and trade surplus
 
 </div>

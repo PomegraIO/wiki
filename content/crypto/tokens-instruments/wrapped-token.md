@@ -41,7 +41,7 @@ The tax treatment of wrapped tokens is unsettled in most jurisdictions. Wrapping
 <h2>See also</h2>
 <h3>Closely related</h3>
 <ul>
-<li><a href="/wiki/bridge/">Distributed Ledger</a> — the underlying blockchain systems that wrapped tokens must span.</li>
+<li>Distributed Ledger — the underlying blockchain systems that wrapped tokens must span.</li>
 <li><a href="/wiki/liquidity-pool/">Liquidity Pool</a> — a common use case for wrapped tokens in decentralized finance.</li>
 <li><a href="/wiki/automated-market-maker/">Automated Market Maker</a> — protocols that trade wrapped tokens between chains.</li>
 </ul>

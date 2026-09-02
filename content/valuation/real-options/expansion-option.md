@@ -26,7 +26,7 @@ keywords:
 
 ## Why static NPV misses expansion value
 
-A traditional [net present value](/wiki/net-present-value/) calculation values a business based on current operations and forecasted cash flows. But if a company builds a factory with 50% excess capacity, standard DCF may not explicitly price the option to ramp up later if demand spikes. Real [options](/wiki/option/) analysis recognizes that excess capacity, land banks, or platform investments carry hidden value: the right to expand without major additional infrastructure investment. A factory operating at 50% capacity might be worth more than one at 95% utilization, because the slack gives you an expansion option.
+A traditional net present value calculation values a business based on current operations and forecasted cash flows. But if a company builds a factory with 50% excess capacity, standard DCF may not explicitly price the option to ramp up later if demand spikes. Real [options](/wiki/option/) analysis recognizes that excess capacity, land banks, or platform investments carry hidden value: the right to expand without major additional infrastructure investment. A factory operating at 50% capacity might be worth more than one at 95% utilization, because the slack gives you an expansion option.
 
 ## Expansion into new geographic markets
 
@@ -68,6 +68,6 @@ Expansion options have value only if conditions make expansion rational. If a ma
 - [Discounted cash flow valuation](/wiki/discounted-cash-flow-valuation/) — traditional valuation method that often misses option value
 - [Strategic option value](/wiki/strategic-option-value/) — broader role of optionality in business strategy
 - [Call option](/wiki/call-option/) — financial instrument that the expansion option mimics
-- [Capital allocation](/wiki/capital-allocation/) — how firms deploy capital to maximize option value
+- Capital allocation — how firms deploy capital to maximize option value
 
 </div>

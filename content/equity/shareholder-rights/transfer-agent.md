@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A transfer agent is a specialized financial institution that maintains the official record of a company's shareholders, processes share transactions, and handles administrative tasks related to share ownership. Transfer agents maintain the shareholder registry (who owns how many shares), facilitate transfers when shares are bought or sold, distribute [dividends](/dividend/) and other shareholder payments, issue share certificates, and process [stock options](/equity/employee-stock-options/) and [RSU](/equity/restricted-stock-units/) grants. Every [public company](/public-company/) must appoint at least one transfer agent.*
+*A transfer agent is a specialized financial institution that maintains the official record of a company's shareholders, processes share transactions, and handles administrative tasks related to share ownership. Transfer agents maintain the shareholder registry (who owns how many shares), facilitate transfers when shares are bought or sold, distribute [dividends](/dividend/) and other shareholder payments, issue share certificates, and process [stock options](/employee-stock-options/) and [RSU](/restricted-stock-units/) grants. Every [public company](/public-company/) must appoint at least one transfer agent.*
 
 <aside class="wiki-infobox">
 
@@ -45,9 +45,9 @@ image: "/svg/equity.svg"
 
 **Issue certificates**: For shareholders requesting physical share certificates, the transfer agent prints and mails them. Today, most shares are held in electronic (book-entry) form.
 
-**Handle stock options and RSUs**: For companies granting [employee stock options](/equity/employee-stock-options/) or [RSUs](/equity/restricted-stock-units/), the transfer agent manages the grant records, vesting, and settlement.
+**Handle stock options and RSUs**: For companies granting [employee stock options](/employee-stock-options/) or [RSUs](/restricted-stock-units/), the transfer agent manages the grant records, vesting, and settlement.
 
-**Process corporate actions**: When a company executes a [stock split](/equity/stock-split/), [stock dividend](/equity/stock-dividend/), [stock buyback](/equity/share-buyback/), or [tender offer](/equity/dutch-auction-tender/), the transfer agent implements the mechanical changes to the shareholder registry.
+**Process corporate actions**: When a company executes a [stock split](/stock-split/), [stock dividend](/stock-dividend/), [stock buyback](/share-buyback/), or [tender offer](/dutch-auction-tender/), the transfer agent implements the mechanical changes to the shareholder registry.
 
 ## How transfers work
 
@@ -156,18 +156,18 @@ Blockchain and digital assets are beginning to disrupt traditional transfer agen
 
 ### Closely related
 
-- [Shareholder registry](/equity/transfer-agent/) — what the agent maintains
+- [Shareholder registry](/transfer-agent/) — what the agent maintains
 - [Dividend](/dividend/) — distributed by agent
-- [Proxy voting](/equity/transfer-agent/) — facilitated by agent
-- [Stock certificate](/equity/transfer-agent/) — issued by agent
-- [Share transfer](/equity/transfer-agent/) — processed by agent
+- [Proxy voting](/transfer-agent/) — facilitated by agent
+- [Stock certificate](/transfer-agent/) — issued by agent
+- [Share transfer](/transfer-agent/) — processed by agent
 
 ### Wider context
 
 - [Public company](/public-company/) — employs transfer agents
 - [Shareholders](/stock/) — served by transfer agents
 - [Stock exchange](/stock-exchange/) — works with transfer agents
-- [SEC](/equity/transfer-agent/) — regulates transfer agents
-- [DTC](/equity/transfer-agent/) — central clearing for shares
+- [SEC](/transfer-agent/) — regulates transfer agents
+- [DTC](/transfer-agent/) — central clearing for shares
 
 </div>

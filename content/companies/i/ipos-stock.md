@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Renaissance Capital Greenwich Fund** (IPOS on [NASDAQ](/nasdaq/)) is a [closed-end fund](/wiki/closed-end-fund/) that focuses on newly public companies, using active management to select which recent [IPOs](/wiki/initial-public-offering/) to own. Unlike an [exchange-traded fund](/wiki/exchange-traded-fund/) that holds all recent IPOs mechanically, IPOS employs a portfolio manager who researches IPO-stage businesses and chooses the ones he believes will outperform, attempting to add value through stock-picking skill.*
+*The **Renaissance Capital Greenwich Fund** (IPOS on [NASDAQ](/nasdaq/)) is a [closed-end fund](/wiki/closed-end-fund/) that focuses on newly public companies, using active management to select which recent [IPOs](/wiki/initial-public-offering/) to own. Unlike an exchange-traded fund that holds all recent IPOs mechanically, IPOS employs a portfolio manager who researches IPO-stage businesses and chooses the ones he believes will outperform, attempting to add value through stock-picking skill.*
 
 ## Closed-end structure and the IPOS mechanism
 
@@ -46,7 +46,7 @@ As a closed-end fund, IPOS trades on an exchange, so you can sell shares anytime
 
 ## Tax efficiency and account suitability
 
-The active trading and realizations inherent in a managed fund, combined with the potential for distributed capital gains, can create tax drag in taxable accounts. Holding IPOS in a [tax-advantaged account](/wiki/ira/) like a traditional or [Roth IRA](/roth-ira/) is often more efficient. In taxable accounts, monitor the distributions (which may include ordinary income, short-term gains, and long-term gains) and plan for tax consequences.
+The active trading and realizations inherent in a managed fund, combined with the potential for distributed capital gains, can create tax drag in taxable accounts. Holding IPOS in a tax-advantaged account like a traditional or [Roth IRA](/roth-ira/) is often more efficient. In taxable accounts, monitor the distributions (which may include ordinary income, short-term gains, and long-term gains) and plan for tax consequences.
 
 ## How to research IPOS
 

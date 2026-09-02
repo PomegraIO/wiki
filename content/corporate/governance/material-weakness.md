@@ -40,7 +40,7 @@ A [significant deficiency](/wiki/significant-deficiency/) is a lesser finding �
 
 **Segregation of duties:** An employee with the ability to authorize payments, execute transactions, and reconcile accounts can commit fraud without detection. This is textbook material weakness.
 
-**[Journal entry](/wiki/journal-entry/) controls:** If management can post unsupported or unusual journal entries without review or approval, the ledger can be manipulated. This is a frequent finding in fraud investigations.
+**Journal entry controls:** If management can post unsupported or unusual journal entries without review or approval, the ledger can be manipulated. This is a frequent finding in fraud investigations.
 
 ## SOX 404 and auditor attestation
 
@@ -96,7 +96,7 @@ Smaller and distressed firms often face endemic material weaknesses due to resou
 - [Audit Committee](/wiki/audit-committee/) — board body responsible for controls
 
 ### Wider context
-- [Financial Statement](/wiki/financial-statements/) — statements subject to misstatement
+- Financial Statement — statements subject to misstatement
 - [Going Concern](/wiki/going-concern/) — related audit opinion modification
 - [Restatement](/wiki/restatement/) — consequence of control failure
 - [Fraud Risk](/wiki/internal-strength-index/) — motivation for controls

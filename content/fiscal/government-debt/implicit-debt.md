@@ -9,7 +9,7 @@ keywords:
   - fiscal risk
 ---
 
-*An **implicit debt** is the present value of future government spending obligations that are not recorded as formal [debt](/wiki/debt/). A government that has committed to paying Medicare to everyone over 65 for life has an enormous implicit liability—the expected cost of all future benefits. Unlike a Treasury bond, this liability does not appear on the government's balance sheet, yet it is real and eventually must be funded through taxes, benefit cuts, or borrowing.*
+*An **implicit debt** is the present value of future government spending obligations that are not recorded as formal debt. A government that has committed to paying Medicare to everyone over 65 for life has an enormous implicit liability—the expected cost of all future benefits. Unlike a Treasury bond, this liability does not appear on the government's balance sheet, yet it is real and eventually must be funded through taxes, benefit cuts, or borrowing.*
 
 <aside class="wiki-infobox">
 
@@ -116,13 +116,13 @@ Most governments, however, operate on a pay-as-you-go basis with limited prefund
 <div class="wiki-seealso">
 
 ### Closely related
-- [Unfunded Liabilities](/wiki/unfunded-liabilities/) — the broader term for implicit debt in government and pensions
+- Unfunded Liabilities — the broader term for implicit debt in government and pensions
 - [Social Security](/wiki/social-security-personal/) — the largest source of implicit US government debt
 - [Medicare](/wiki/medicare-personal/) — the second-largest source
 - [Fiscal Sustainability](/wiki/fiscal-sustainability/) — whether government finances are sustainable long-term
 
 ### Wider context
-- [Government Debt](/wiki/government-debt/) — explicit borrowing; implicit debt is not included here
+- Government Debt — explicit borrowing; implicit debt is not included here
 - [Entitlement Spending](/wiki/entitlement-spending/) — the budget category that contains implicit liabilities
 - [Debt-to-GDP Ratio](/wiki/debt-to-gdp-ratio/) — metric of fiscal leverage; does not capture implicit debt
 - [Present Value](/wiki/discounted-cash-flow-valuation/) — the valuation method used to calculate implicit debt

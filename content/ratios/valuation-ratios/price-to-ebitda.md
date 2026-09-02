@@ -34,7 +34,7 @@ Price-to-EBITDA ratio lets you compare A and B on an apples-to-apples basis. If 
 
 ## The catch: depreciation and amortization matter
 
-EBITDA ignores [capex](/wiki/capital-expenditures/). A capital-intensive business—a railroad, a factory, a pipeline—depreciates assets heavily. Stripping out depreciation might make a struggling business look better than it is. An [airline](/wiki/airline/) with $200 million in EBITDA but $300 million in annual depreciation and capex is not as healthy as the EBITDA number suggests.
+EBITDA ignores capex. A capital-intensive business—a railroad, a factory, a pipeline—depreciates assets heavily. Stripping out depreciation might make a struggling business look better than it is. An airline with $200 million in EBITDA but $300 million in annual depreciation and capex is not as healthy as the EBITDA number suggests.
 
 Always cross-check with [free cash flow](/wiki/free-cash-flow/), which accounts for capex and gives you cash *after* reinvestment.
 

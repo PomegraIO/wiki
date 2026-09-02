@@ -75,7 +75,7 @@ However, if the consolidation successfully prevents delisting, it may stabilize 
 
 ## Distinction from going private or delisting
 
-A share consolidation is a [corporate action](/wiki/corporate-actions/) that changes the share structure while the company remains public. It does not involve going private or delisting. However, a consolidation may be used to improve a company's position if it is approaching delisting.
+A share consolidation is a corporate action that changes the share structure while the company remains public. It does not involve going private or delisting. However, a consolidation may be used to improve a company's position if it is approaching delisting.
 
 <div class="wiki-seealso">
 <h2>See also</h2>
@@ -87,7 +87,7 @@ A share consolidation is a [corporate action](/wiki/corporate-actions/) that cha
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events altering share structure or shareholder rights.</li>
+  <li>Corporate actions — events altering share structure or shareholder rights.</li>
   <li><a href="/wiki/stock/">Stock</a> — unit of equity ownership in a company.</li>
 </ul>
 </div>

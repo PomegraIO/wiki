@@ -9,7 +9,7 @@ keywords:
   - entitlement spending
 ---
 
-*A **pension liability** is the present value of retirement benefits a government or employer has promised to its employees, measured as the liability on its [balance sheet](/wiki/balance-sheet/). It is a major and often-underestimated component of public [debt](/wiki/government-debt/) in many developed nations.*
+*A **pension liability** is the present value of retirement benefits a government or employer has promised to its employees, measured as the liability on its [balance sheet](/wiki/balance-sheet/). It is a major and often-underestimated component of public debt in many developed nations.*
 
 <aside class="wiki-infobox">
 
@@ -47,7 +47,7 @@ Most developed-world pension plans face demographic headwinds. Japan's public pe
 
 A government's [pension liability](/wiki/pension-obligation/) is often larger than its explicit debt. The US federal government's explicit debt (Treasuries outstanding) exceeds \$30 trillion, but its unfunded liability for [Social Security](/wiki/social-security-personal/) and federal employee pensions exceeds \$100 trillion in present value. Most governments account for explicit debt on their balance sheets but fail to capitalize pension liabilities, misleading creditors and voters about true fiscal burden.
 
-The distinction matters because pension liabilities are not easily reneged. [Social Security](/wiki/social-security-personal/) is a legal entitlement; cutting benefits requires legislation. Private pension liabilities are protected by federal law (ERISA) and insured via the PBGC ([Pension Benefit Guaranty Corporation](/wiki/pbgc/)). A government cannot unilaterally default on pensions the way it can delay a debt payment. This makes pension liabilities a deeper structural obligation than recorded debt.
+The distinction matters because pension liabilities are not easily reneged. [Social Security](/wiki/social-security-personal/) is a legal entitlement; cutting benefits requires legislation. Private pension liabilities are protected by federal law (ERISA) and insured via the PBGC (Pension Benefit Guaranty Corporation). A government cannot unilaterally default on pensions the way it can delay a debt payment. This makes pension liabilities a deeper structural obligation than recorded debt.
 
 ## Private-sector pension burdens
 
@@ -74,7 +74,7 @@ Credit rating agencies (Moody's, S&P, Fitch) now adjust ratings for pension liab
 ### Closely related
 - [Pension Obligation](/wiki/pension-obligation/) — Broader obligation accounting
 - [Entitlement Spending](/wiki/entitlement-spending/) — Mandatory government outlays
-- [Government Debt](/wiki/government-debt/) — Total fiscal liabilities
+- Government Debt — Total fiscal liabilities
 - [Unfunded Liability](/wiki/implicit-debt/) — Obligations not yet capitalized
 
 ### Wider context

@@ -37,7 +37,7 @@ Some central banks (Sweden, Denmark, Eurozone) have experimented with small nega
 
 When rates hit zero, the [interest rate channel](/wiki/monetary-transmission-mechanism/) of monetary policy breaks. The [Fed Funds rate](/wiki/federal-funds-rate/) is the foundation for all other short-term rates: mortgages, auto loans, corporate bonds. If the Fed Funds rate is zero, banks have little incentive to cut lending rates further, and the [transmission mechanism](/wiki/monetary-policy-transmission/) stalls.
 
-The consequence is a **liquidity trap**: additional money injected into the economy does not stimulate borrowing or spending because the [opportunity cost](/wiki/opportunity-cost/) of holding cash is already zero. Households and firms choose not to borrow even at zero rates if economic sentiment is pessimistic.
+The consequence is a **liquidity trap**: additional money injected into the economy does not stimulate borrowing or spending because the opportunity cost of holding cash is already zero. Households and firms choose not to borrow even at zero rates if economic sentiment is pessimistic.
 
 Japan entered this trap in 1999 when the [Bank of Japan](/wiki/bank-of-japan/) (BoJ) cut the policy rate to zero. Despite zero rates for over two decades, Japan struggled with [deflation](/wiki/deflation/) and slow growth. The BoJ's further expansion—[quantitative easing](/wiki/quantitative-easing/), [negative rates](/wiki/negative-interest-rates/)—failed to break the trap until inflation finally returned in 2021.
 
@@ -73,7 +73,7 @@ With monetary policy constrained, governments increase spending or cut taxes to 
 
 **2008–2009 Financial Crisis**: The Federal Funds rate fell to 0.16% (effectively zero) in December 2008. The Fed then deployed QE ($1.75 trillion in asset purchases over 2 years) to combat deflation and support credit markets. Long rates fell sharply despite zero short rates.
 
-**2010–2015 Eurozone Crisis**: The [ECB](/wiki/european-central-bank/) kept policy rates at zero but remained reluctant to do QE, fearing [moral hazard](/wiki/moral-hazard/). Peripheral countries (Greece, Portugal, Ireland) faced high [unemployment](/wiki/unemployment-rate/) and deflation, but monetary stimulus was insufficient. Only after 2015 did the ECB embrace QE.
+**2010–2015 Eurozone Crisis**: The [ECB](/wiki/european-central-bank/) kept policy rates at zero but remained reluctant to do QE, fearing moral hazard. Peripheral countries (Greece, Portugal, Ireland) faced high [unemployment](/wiki/unemployment-rate/) and deflation, but monetary stimulus was insufficient. Only after 2015 did the ECB embrace QE.
 
 **2020–2021 COVID-19 Pandemic**: The Fed cut to zero in March 2020 and immediately deployed unlimited QE. Fiscal stimulus ($3 trillion+) complemented monetary easing. The combination lifted growth faster than in 2008, but also triggered inflation by 2021, forcing the Fed to hike rates aggressively in 2022.
 

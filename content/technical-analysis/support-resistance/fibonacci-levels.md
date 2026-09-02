@@ -8,9 +8,9 @@ keywords:
   - price targets technical analysis
 ---
 
-*A **Fibonacci level** is a [support or resistance](/wiki/support-and-resistance/) price derived from the Fibonacci sequence, used by [technical analysts](/wiki/technical-analysis/) to predict where a [price](/wiki/price-to-earnings-ratio/) may reverse or find a [support](/wiki/support-zone-floor/) or [resistance](/wiki/resistance-zone-ceiling/) zone after a trending move.*
+*A **Fibonacci level** is a [support or resistance](/wiki/support-and-resistance/) price derived from the Fibonacci sequence, used by technical analysts to predict where a [price](/wiki/price-to-earnings-ratio/) may reverse or find a [support](/wiki/support-zone-floor/) or [resistance](/wiki/resistance-zone-ceiling/) zone after a trending move.*
 
-The tool applies ratios from the Fibonacci sequence—specifically 0.236, 0.382, 0.500, 0.618, 0.786, and extensions at 1.618, 2.618—to the height and depth of recent [price](/wiki/price-to-earnings-ratio/) swings. A stock that rises from $100 to $200 may find [support](/wiki/support-zone-floor/) at the 61.8% retracement level ($138.20). An extension might project the next [resistance](/wiki/resistance-zone-ceiling/) at 161.8% of the prior move ($161.80 above the breakout point). While [technical analysis](/wiki/technical-analysis/) using Fibonacci levels is controversial—critics rightly note that price responds to supply and demand, not mathematical ratios—the levels enjoy widespread use among retail and professional traders, making them a self-fulfilling source of [support](/wiki/support-zone-floor/) and [resistance](/wiki/resistance-zone-ceiling/).
+The tool applies ratios from the Fibonacci sequence—specifically 0.236, 0.382, 0.500, 0.618, 0.786, and extensions at 1.618, 2.618—to the height and depth of recent [price](/wiki/price-to-earnings-ratio/) swings. A stock that rises from $100 to $200 may find [support](/wiki/support-zone-floor/) at the 61.8% retracement level ($138.20). An extension might project the next [resistance](/wiki/resistance-zone-ceiling/) at 161.8% of the prior move ($161.80 above the breakout point). While technical analysis using Fibonacci levels is controversial—critics rightly note that price responds to supply and demand, not mathematical ratios—the levels enjoy widespread use among retail and professional traders, making them a self-fulfilling source of [support](/wiki/support-zone-floor/) and [resistance](/wiki/resistance-zone-ceiling/).
 
 <aside class="wiki-infobox">
 
@@ -18,7 +18,7 @@ The tool applies ratios from the Fibonacci sequence—specifically 0.236, 0.382,
 |---|---|
 | **Primary ratios** | 0.236, 0.382, 0.500, 0.618, 0.786 |
 | **Extension ratios** | 1.618, 2.618, 4.236 |
-| **Common use case** | Identifying [profit targets](/wiki/price-target/) and [support](/wiki/support-zone-floor/)/[resistance](/wiki/resistance-zone-ceiling/) after a trend break |
+| **Common use case** | Identifying profit targets and [support](/wiki/support-zone-floor/)/[resistance](/wiki/resistance-zone-ceiling/) after a trend break |
 | **Time period** | Any timeframe: 5-minute bars, hourly, daily, weekly |
 | **Reliability** | Mixed; popular because traders watch them, not because of intrinsic predictive power |
 | **Risk** | Over-reliance on mathematical pattern; real price action driven by [supply](/wiki/support-and-resistance/) and demand |
@@ -58,7 +58,7 @@ The 61.8% and 38.2% levels are the most watched because they appear most frequen
 
 ## Fibonacci extensions
 
-An **extension** projects how far a [price](/wiki/price-to-earnings-ratio/) may travel *beyond* a previous high or low, typically used to set [profit targets](/wiki/price-target/).
+An **extension** projects how far a [price](/wiki/price-to-earnings-ratio/) may travel *beyond* a previous high or low, typically used to set profit targets.
 
 **Example**: A stock breaks above $200 (the previous high from our example). An extension calculates:
 - **161.8% extension**: $100 (the base) + (1.618 × $100 move) = $261.80
@@ -74,7 +74,7 @@ Traders might place sell orders at the 161.8% extension, expecting the price to 
 
 **Placing orders**: A trader might place a buy order just above the 61.8% retracement level ($161.80), expecting the stock to bounce there if the pullback is "healthy" (i.e., not a reversal of the original trend). A stop-loss order might sit just below the 78.6% retracement ($178.60), protecting against a deeper pullback that signals the trend is breaking.
 
-**Combining with other indicators**: Fibonacci levels gain credibility when they align with other [technical indicators](/wiki/indicators-momentum/) ([moving averages](/wiki/support-and-resistance/), [RSI](/wiki/rsi-relative-strength/), [volume](/wiki/volume-breadth-divergence/)) or fundamental events (earnings dates, [news](/wiki/information-cascade/)).
+**Combining with other indicators**: Fibonacci levels gain credibility when they align with other technical indicators ([moving averages](/wiki/support-and-resistance/), [RSI](/wiki/rsi-relative-strength/), [volume](/wiki/volume-breadth-divergence/)) or fundamental events (earnings dates, [news](/wiki/information-cascade/)).
 
 ## Why Fibonacci levels work (or appear to)
 
@@ -114,11 +114,11 @@ Despite these flaws, Fibonacci levels remain standard in retail trading platform
 ### Closely related
 - [Support and Resistance](/wiki/support-and-resistance/) — Price zones where buying or selling pressure emerges
 - [Retracement and Extension](/wiki/support-zone-floor/) — Pullback and continuation moves measured from price swings
-- [Technical Analysis](/wiki/technical-analysis/) — Study of price and volume patterns to predict future price movement
+- Technical Analysis — Study of price and volume patterns to predict future price movement
 - [Candlestick Chart](/wiki/candlestick-chart/) — OHLC chart form used to identify price patterns
 
 ### Wider context
-- [Price Targets](/wiki/price-target/) — Projected price levels set by analysts or traders
+- Price Targets — Projected price levels set by analysts or traders
 - [Profit Taking](/wiki/capitulation-selling/) — Selling at predetermined levels to lock in gains
 - [Charting](/wiki/point-and-figure-chart/) — Visual representation of price and volume data
 - [Trader Psychology](/wiki/anchoring-bias/) — Behavioral patterns affecting order placement and entry/exit decisions

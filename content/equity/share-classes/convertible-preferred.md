@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*Convertible preferred stock is a security that shares characteristics of both [preferred stock](/equity/preferred-stock/) and [common stock](/equity/common-stock/). The holder receives a fixed [dividend](/dividend/) (like preferred stock) and retains the priority in liquidation (senior to common), but also has the option to convert shares into [common stock](/equity/common-stock/) at a pre-set ratio, allowing the holder to capture upside if the company does well.*
+*Convertible preferred stock is a security that shares characteristics of both [preferred stock](/preferred-stock/) and [common stock](/common-stock/). The holder receives a fixed [dividend](/dividend/) (like preferred stock) and retains the priority in liquidation (senior to common), but also has the option to convert shares into [common stock](/common-stock/) at a pre-set ratio, allowing the holder to capture upside if the company does well.*
 
 <aside class="wiki-infobox">
 
@@ -94,7 +94,7 @@ These provisions protect preferred investors if the company's valuation declines
 
 ## Comparison to non-convertible preferred
 
-[Non-convertible preferred](/equity/preferred-stock/) stock has a fixed dividend and liquidation preference but no conversion right:
+[Non-convertible preferred](/preferred-stock/) stock has a fixed dividend and liquidation preference but no conversion right:
 
 - Higher dividend (to compensate for no upside).
 - No upside if stock appreciates.
@@ -147,18 +147,18 @@ When a startup goes public (IPO), convertible preferred typically converts autom
 
 ### Closely related
 
-- [Preferred stock](/equity/preferred-stock/) — the non-convertible version
-- [Common stock](/equity/common-stock/) — what preferred converts into
-- [Cumulative preferred](/equity/cumulative-preferred/) — cumulative dividend preference
-- [Participating preferred](/equity/participating-preferred/) — upside participation
-- [Warrant](/equity/warrant/) — similar upside mechanism
+- [Preferred stock](/preferred-stock/) — the non-convertible version
+- [Common stock](/common-stock/) — what preferred converts into
+- [Cumulative preferred](/cumulative-preferred/) — cumulative dividend preference
+- [Participating preferred](/participating-preferred/) — upside participation
+- [Warrant](/warrant/) — similar upside mechanism
 
 ### Wider context
 
-- [Venture capital](/equity/founder-shares/) — primary user
-- [Startup](/equity/founder-shares/) — typical issuer
+- [Venture capital](/founder-shares/) — primary user
+- [Startup](/founder-shares/) — typical issuer
 - [Initial public offering](/initial-public-offering/) — trigger for auto-conversion
-- [Anti-dilution provision](/equity/private-placement/) — protects conversion
-- [Liquidation preference](/equity/convertible-preferred/) — senior rights
+- [Anti-dilution provision](/private-placement/) — protects conversion
+- [Liquidation preference](/convertible-preferred/) — senior rights
 
 </div>

@@ -62,9 +62,9 @@ An ESOP must obtain an independent annual appraisal of the company's stock to de
 
 The ESOP is governed by a trustee, who is a fiduciary and must act in the best interest of plan participants. The trustee can vote shares or defer to the company's board on voting decisions.
 
-## ESOP versus [401(k) with company stock](/equity/espp/)
+## ESOP versus [401(k) with company stock](/espp/)
 
-A traditional [401(k)](/equity/espp/) allows employees to invest in a diversified portfolio, including company stock if offered. An ESOP is concentrated in company stock. This concentration is a risk (if the company fails, employees lose both their jobs and their retirement), but it aligns incentives powerfully.
+A traditional [401(k)](/espp/) allows employees to invest in a diversified portfolio, including company stock if offered. An ESOP is concentrated in company stock. This concentration is a risk (if the company fails, employees lose both their jobs and their retirement), but it aligns incentives powerfully.
 
 Many companies maintain both: a 401(k) for diversified retirement savings and an ESOP for equity ownership and cash matching.
 
@@ -90,18 +90,18 @@ However, leveraged ESOPs are complex and require careful legal and tax structuri
 
 ### Closely related
 
-- [ESPP](/equity/espp/) — employee stock purchase plans
-- [Restricted stock](/equity/restricted-stock/) — alternative employee equity vehicle
-- [Employee stock options](/equity/employee-stock-options/) — alternative equity compensation
-- [Common stock](/equity/common-stock/) — what ESOPs hold
-- [Vesting schedule](/equity/vesting-schedule/) — how ESOP shares are allocated
+- [ESPP](/espp/) — employee stock purchase plans
+- [Restricted stock](/restricted-stock/) — alternative employee equity vehicle
+- [Employee stock options](/employee-stock-options/) — alternative equity compensation
+- [Common stock](/common-stock/) — what ESOPs hold
+- [Vesting schedule](/vesting-schedule/) — how ESOP shares are allocated
 
 ### Wider context
 
 - [Public company](/public-company/) — often sponsors ESOPs
-- [Equity compensation](/equity/iso/) — broader category
-- [Retirement plan](/equity/espp/) — ESOP is a qualified retirement plan
-- [Stock ownership](/equity/common-stock/) — core concept
-- [Founder liquidity](/equity/founder-shares/) — ESOPs facilitate founder exits
+- [Equity compensation](/iso/) — broader category
+- [Retirement plan](/espp/) — ESOP is a qualified retirement plan
+- [Stock ownership](/common-stock/) — core concept
+- [Founder liquidity](/founder-shares/) — ESOPs facilitate founder exits
 
 </div>

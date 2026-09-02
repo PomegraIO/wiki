@@ -26,7 +26,7 @@ keywords:
 
 ## How a put spread reduces risk
 
-A naked [long put](/wiki/put-option/) exposes you to unlimited theoretical loss if the stock rallies past the strike — you stay short the downside forever. A put spread closes that risk window by selling a put further down the chain. The proceeds from the short put shrink your net outlay; you trade away unlimited upside leverage for a defined, quantifiable cost. This is [capital discipline](/wiki/capital-allocation/) in action: you decide in advance exactly how much downside you're willing to fund.
+A naked [long put](/wiki/put-option/) exposes you to unlimited theoretical loss if the stock rallies past the strike — you stay short the downside forever. A put spread closes that risk window by selling a put further down the chain. The proceeds from the short put shrink your net outlay; you trade away unlimited upside leverage for a defined, quantifiable cost. This is capital discipline in action: you decide in advance exactly how much downside you're willing to fund.
 
 ## Construction and payoff
 
@@ -55,7 +55,7 @@ Compare a single long put on XYZ at 100 strike costing 3 points (300 per contrac
 
 ## Rolling and adjustment
 
-Put spreads invite [calendar management](/wiki/rolling-options/). If the stock stabilizes above *S₁*, you can roll the short put down and out to lock in premium or reduce decay drag on the long put. If the stock crashes, you can roll the long put up to widen your range and collect more premium from the short put. These trades require active monitoring and broker coordination; [passive holders](/wiki/buy-and-hold-strategy/) who can't execute roll orders should avoid spreads entirely.
+Put spreads invite calendar management. If the stock stabilizes above *S₁*, you can roll the short put down and out to lock in premium or reduce decay drag on the long put. If the stock crashes, you can roll the long put up to widen your range and collect more premium from the short put. These trades require active monitoring and broker coordination; [passive holders](/wiki/buy-and-hold-strategy/) who can't execute roll orders should avoid spreads entirely.
 
 ## Spread width and Greeks
 
@@ -78,13 +78,13 @@ A [bear call spread](/wiki/bear-call-spread/) (long call, short call, upside cap
 - [Debit Spread](/wiki/debit-spread/) — cost-structure category for all spreads paid upfront
 - [Bear Put Spread](/wiki/bear-put-spread/) — opposite cash flow, same strikes
 - [Call Spread](/wiki/call-spread/) — long call equivalent
-- [Defined Risk](/wiki/defined-risk-options/) — core principle
+- Defined Risk — core principle
 
 ### Wider context
 - [Options Greeks](/wiki/options-greeks/) — delta, gamma, theta, vega behavior
 - [Option Expiration](/wiki/option-expiration/) — settlement mechanics
-- [Capital Allocation](/wiki/capital-allocation/) — budgeting downside bets
+- Capital Allocation — budgeting downside bets
 - [Interest Rate Risk](/wiki/interest-rate-risk/) — spreads on fixed income
-- [Risk Management](/wiki/risk-management/) — broader portfolio discipline
+- Risk Management — broader portfolio discipline
 
 </div>

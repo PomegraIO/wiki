@@ -92,7 +92,7 @@ Both serve the same purpose: confirm whether volume is accumulating or distribut
 
 ## Use in [trend](/wiki/trendline/) confirmation
 
-A rising A/D Line during an uptrend confirms the trend is healthy. A declining A/D during an uptrend warns the trend may be weakening. Many [technical traders](/wiki/technical-analysis/) use A/D as a secondary filter:
+A rising A/D Line during an uptrend confirms the trend is healthy. A declining A/D during an uptrend warns the trend may be weakening. Many technical traders use A/D as a secondary filter:
 
 - **Entry** — buy a [breakout](/wiki/breakout-trading/) only if A/D Line is rising (not falling)
 - **Exit** — if A/D turns down while price is still up, exit the position (take profit)
@@ -129,7 +129,7 @@ These divergences often precede significant reversals, giving traders a 3–7 da
 Most traders use A/D alongside:
 
 - **[Price action](/wiki/price-discovery/)** — is the stock making higher highs and higher lows (uptrend)?
-- **[Moving averages](/wiki/moving-averages/)** — is price above or below key MAs?
+- **Moving averages** — is price above or below key MAs?
 - **[Momentum indicators](/wiki/momentum-factor/)** ([RSI](/wiki/rsi-relative-strength/), [MACD](/wiki/macd-indicator/)) — is momentum diverging too?
 - **[Volume profile](/wiki/volume-profile-support/)** — where is most volume historically?
 
@@ -146,7 +146,7 @@ For broader indices (S&P 500, Russell 2000), the A/D Line (summed across all sto
 - [On-balance volume (OBV)](/wiki/obv-on-balance-volume/) — similar volume indicator
 - [Volume rate of change](/wiki/volume-rate-of-change/) — pure volume momentum
 - [Chaikin oscillator](/wiki/chaikin-oscillator/) — derivative of A/D Line
-- [Technical analysis](/wiki/technical-analysis/) — broader framework
+- Technical analysis — broader framework
 
 ### Wider context
 - [Momentum indicator](/wiki/momentum-factor/) — category of indicators

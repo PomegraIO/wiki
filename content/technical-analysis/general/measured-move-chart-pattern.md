@@ -51,7 +51,7 @@ The principle is consistent: the distance price traveled to form the pattern bec
 
 ## Why measured moves are useful (and imperfect)
 
-Measured moves give traders a specific, actionable target without needing to forecast sentiment or interpret vague levels. They also help with [position sizing](//)—a trader can size a trade so that the projected move yields a target reward that justifies the risk at the stop-loss level.
+Measured moves give traders a specific, actionable target without needing to forecast sentiment or interpret vague levels. They also help with position sizing—a trader can size a trade so that the projected move yields a target reward that justifies the risk at the stop-loss level.
 
 However, measured moves are *minimum* targets, not guarantees. Many breakouts fall short; others vastly exceed the projection. A measured move of $5 on a small-cap stock is far less reliable than the same projection on a large-cap with deep liquidity. Market conditions (trending or ranging), the strength of the breakout (high or low volume), and broader market momentum all influence whether the projection is met.
 
@@ -85,15 +85,15 @@ The key is recognizing that measured move is a proportion-based framework. It as
 
 - [Head and Shoulders Pattern: The Neckline Explained](/head-and-shoulders-neckline/) — a reversal pattern where measured move projects target from neckline break
 - [Bollinger Band Squeeze: What It Signals](/bollinger-band-squeeze/) — volatility patterns and breakout signals
-- [Support and resistance](//) — price levels that influence measured move reliability
-- [Volume](//) — confirmation signal for pattern breakouts
-- [Pattern breakout](//) — when price decisively exits a consolidation zone
+- Support and resistance — price levels that influence measured move reliability
+- Volume — confirmation signal for pattern breakouts
+- Pattern breakout — when price decisively exits a consolidation zone
 
 ### Wider context
 
 - [On-Balance Volume (OBV) Indicator](/on-balance-volume-indicator/) — volume trend indicator supporting breakout confirmation
 - [Price discovery](/price-discovery/) — how markets find fair value through breakouts
-- [Technical analysis](//) — the broader discipline of pattern and chart interpretation
+- Technical analysis — the broader discipline of pattern and chart interpretation
 - [Trend-following](/trend-following/) — strategy that relies on breakouts and measured moves
 
 </div>

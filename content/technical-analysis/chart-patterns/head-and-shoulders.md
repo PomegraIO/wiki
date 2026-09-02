@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For reversal patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). The bullish equivalent is [inverse head and shoulders](/technical-analysis/inverse-head-and-shoulders).
+For reversal patterns broadly, see [candlestick pattern](/candlestick-pattern/). The bullish equivalent is [inverse head and shoulders](/inverse-head-and-shoulders/).
 
 </div>
 
@@ -90,7 +90,7 @@ A head and shoulders at the top of a major uptrend (after weeks of rising) is mo
 
 ## Inverse head and shoulders
 
-The [inverse head and shoulders](/technical-analysis/inverse-head-and-shoulders) is the bullish equivalent: three lows (left shoulder, deeper head, right shoulder) above a neckline. It signals a bullish reversal at the bottom of downtrends.
+The [inverse head and shoulders](/inverse-head-and-shoulders/) is the bullish equivalent: three lows (left shoulder, deeper head, right shoulder) above a neckline. It signals a bullish reversal at the bottom of downtrends.
 
 ## Comparison to other reversal patterns
 
@@ -112,15 +112,15 @@ Academic research on head and shoulders patterns yields mixed results. Some stud
 
 ### Related reversals
 
-- [Inverse head and shoulders](/technical-analysis/inverse-head-and-shoulders) — bullish equivalent
-- [Double-top](/technical-analysis/double-top) — two-peak reversal
-- [Evening star](/technical-analysis/evening-star) — three-candle reversal
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework
+- [Inverse head and shoulders](/inverse-head-and-shoulders/) — bullish equivalent
+- [Double-top](/double-top/) — two-peak reversal
+- [Evening star](/evening-star/) — three-candle reversal
+- [Candlestick pattern](/candlestick-pattern/) — broader framework
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — neckline as support/resistance
-- [Trendline](/technical-analysis/trendline) — prior uptrend
-- [Volume](/technical-analysis/on-balance-volume) — confirming the breakout
+- [Support and resistance](/support-and-resistance/) — neckline as support/resistance
+- [Trendline](/trendline/) — prior uptrend
+- [Volume](/on-balance-volume/) — confirming the breakout
 
 </div>

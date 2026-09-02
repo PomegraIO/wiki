@@ -27,7 +27,7 @@ In a dealer-less market, a buyer waiting to purchase 10,000 shares must wait for
 
 Market makers profit from the [bid-ask spread](/wiki/bid-ask-spread/), the difference between the price they pay for a stock and the price they charge when they sell it. On a highly liquid stock like Apple, the spread might be a penny per share. On a less-traded security, it can be 10 or 20 cents. A market maker buying at $150.00 and selling at $150.01 earns that spread on volume.
 
-The catch: market makers often take losses too. If they buy 5,000 shares expecting to sell them quickly, but the price drops before they find a buyer, they lose on the inventory. Over time, market makers control this risk by setting their spread wide enough to cover expected losses from [adverse selection](/wiki/adverse-selection/)—the cost of trading against better-informed traders.
+The catch: market makers often take losses too. If they buy 5,000 shares expecting to sell them quickly, but the price drops before they find a buyer, they lose on the inventory. Over time, market makers control this risk by setting their spread wide enough to cover expected losses from adverse selection—the cost of trading against better-informed traders.
 
 ## Competing market-making models
 

@@ -86,7 +86,7 @@ Married couples must coordinate their filing. Each spouse can file separate retu
 - [Charitable Contribution Deduction](/wiki/charitable-contribution-deduction/) — Tax benefit for charitable gifts
 
 ### Wider context
-- [Estate Planning](/wiki/estate-planning/) — Structuring transfers to minimize taxes
+- Estate Planning — Structuring transfers to minimize taxes
 - [Probate Process](/wiki/probate-process/) — Legal proceedings to distribute estates
 - [Trust Establishment](/wiki/trust-establishment/) — Creating legal entities to manage assets
 - [Wealth Transfer](/wiki/capital-flows/) — Moving assets across generations

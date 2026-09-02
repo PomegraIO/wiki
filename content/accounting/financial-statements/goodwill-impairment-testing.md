@@ -77,7 +77,7 @@ Under [IFRS](/wiki/international-financial-reporting-standards/), goodwill impai
 
 ## Strategic and earnings implications
 
-A goodwill impairment charge is a [one-time expense](/wiki/extraordinary-item/) that reduces net income but not operating cash flow. Analysts often adjust for impairments when assessing "normalized" [earnings](/wiki/earnings-per-share/). However, a large charge signals that management overpaid for an acquisition or that the target's performance has deteriorated materially—both flags for investors.
+A goodwill impairment charge is a one-time expense that reduces net income but not operating cash flow. Analysts often adjust for impairments when assessing "normalized" [earnings](/wiki/earnings-per-share/). However, a large charge signals that management overpaid for an acquisition or that the target's performance has deteriorated materially—both flags for investors.
 
 Companies sometimes manage the timing of impairment charges. Recognizing a write-down in a quarter with other bad news (restructuring, guidance cut) can "clean up the balance sheet" and reset expectations. Delaying recognition until the next fiscal year is also tempting but can trigger auditor challenges.
 

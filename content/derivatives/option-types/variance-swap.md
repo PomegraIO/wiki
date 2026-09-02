@@ -102,7 +102,7 @@ Hedge funds also run systematic variance trading strategies: buying variance whe
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/option/">Option</a> — related vanilla contract.</li>
   <li><a href="/wiki/swap/">Swap</a> — the broader swap framework.</li>
 </ul>

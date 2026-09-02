@@ -39,7 +39,7 @@ Worse, the forced hold on losers often means investors end up riding them all th
 
 The disposition effect appears across market segments. Retail [day-trading](/wiki/day-trading/) accounts show it sharply—traders close winning positions by mid-afternoon but hold losers through close, hoping for reversals. [Options](/wiki/option/) investors with short calls exhibit the effect, often buying back winners early to lock in profit while letting losing positions linger toward expiration. Some [hedge-fund](/wiki/hedge-fund/) managers, particularly those running [long-short-equity](/wiki/hedge-fund-long-short-equity/) strategies, observe it in their portfolio companies' employee stock purchase behavior.
 
-Even [mutual-fund](/wiki/mutual-fund/) managers and [actively-managed-fund](/wiki/actively-managed-fund/) teams, despite professional training, show traces of the effect in their rebalancing and trimming decisions. The bias is strongest when [volatility](/wiki/volatility/) is low and positions feel "safe," creating a false sense that losers will recover.
+Even [mutual-fund](/wiki/mutual-fund/) managers and [actively-managed-fund](/wiki/actively-managed-fund/) teams, despite professional training, show traces of the effect in their rebalancing and trimming decisions. The bias is strongest when volatility is low and positions feel "safe," creating a false sense that losers will recover.
 
 ## Interaction with [momentum-investing](/wiki/momentum-investing/) and [contrarian-investing](/wiki/contrarian-investing/)
 
@@ -61,7 +61,7 @@ Some advisors use "mental accounting" in reverse: explicitly tracking winners an
 - [Anchoring bias](/wiki/anchoring-bias/) — Using purchase price as a reference point
 
 ### Wider context
-- [Behavioral investing](/wiki/behavioral-investing/) — Applying psychology insights to portfolio management
+- Behavioral investing — Applying psychology insights to portfolio management
 - [Capital gains tax](/wiki/capital-gains-tax/) — Tax rules that interact with disposition effect decisions
 - [Rebalancing discipline](/wiki/rebalancing-discipline/) — Structured approach to override emotional selling patterns
 - [Momentum investing](/wiki/momentum-investing/) — Strategy that may benefit from disposition effect-driven mispricing

@@ -48,7 +48,7 @@ Institutional investors—pension funds, university endowments, insurance compan
 
 ## Blended benchmarks versus tactical tilts
 
-A blended benchmark fixes weights by policy. But markets move: equities rally and become overweight, or bonds fall and become underweight. When actual portfolio weights drift too far from the benchmark (often a 5% threshold), [rebalancing](/wiki/rebalancing/) brings them back in line. This mechanical rebalancing is often called "buy low, sell high"—it systematically profits from [mean reversion](/wiki/trading/) when markets oscillate.
+A blended benchmark fixes weights by policy. But markets move: equities rally and become overweight, or bonds fall and become underweight. When actual portfolio weights drift too far from the benchmark (often a 5% threshold), rebalancing brings them back in line. This mechanical rebalancing is often called "buy low, sell high"—it systematically profits from mean reversion when markets oscillate.
 
 This differs from [tactical allocation](/wiki/asset-allocation/), where a manager deliberately tilts away from the benchmark—underweighting equities they believe are overvalued, overweighting bonds when yields spike—trying to outperform through market timing. A blended benchmark is a strategic, long-term statement; tactical tilts are short-term bets against it.
 
@@ -56,7 +56,7 @@ This differs from [tactical allocation](/wiki/asset-allocation/), where a manage
 
 **Index gaps:** A blended benchmark is only as good as its component indexes. If you blend a US equity index with an international bond index, you have a gap: US bonds and international equities are missing entirely. A naive investor might think the blend provides "total market exposure" when it actually has blind spots.
 
-**Correlation changes:** The blended benchmark's risk profile depends partly on how its components move together. In normal times, stocks and bonds are negatively correlated—when equities fall, bonds often rise—which makes a 60/40 blend relatively stable. During [financial crises](/wiki/financial-crisis/), correlations often spike, and the blend becomes much more volatile than historical [volatility](/wiki/historical-volatility/) suggested. Index providers disclose this; investors often overlook it.
+**Correlation changes:** The blended benchmark's risk profile depends partly on how its components move together. In normal times, stocks and bonds are negatively correlated—when equities fall, bonds often rise—which makes a 60/40 blend relatively stable. During financial crises, correlations often spike, and the blend becomes much more volatile than historical [volatility](/wiki/historical-volatility/) suggested. Index providers disclose this; investors often overlook it.
 
 **Rebalancing drag:** Constant rebalancing to maintain the blend generates [trading costs](/wiki/bid-ask-spread/) and potential [capital gains tax](/wiki/capital-gains-tax-investor/) in taxable accounts. Very frequent rebalancing can hurt net returns, especially in sideways markets where the portfolio crosses thresholds repeatedly without making meaningful gains.
 
@@ -84,7 +84,7 @@ Clients pay close attention to this measurement. Institutional investors and fid
 
 - [ETF](/wiki/etf/) — exchange-traded fund often structured to track a blended benchmark
 - [Diversification](/wiki/diversification/) — spreading capital across uncorrelated securities to reduce risk
-- [Rebalancing](/wiki/rebalancing/) — periodic adjustment of portfolio weights back to target allocation
+- Rebalancing — periodic adjustment of portfolio weights back to target allocation
 - [Actively Managed Fund](/wiki/actively-managed-fund/) — fund measured against a blended benchmark; manager seeks outperformance
 
 </div>

@@ -91,11 +91,11 @@ The servicing fee (typically 0.25–0.5%) is built into the coupon spread. If a 
 <li><a href="/wiki/prepayment-risk/">Prepayment Risk</a> — the defining risk of pass-throughs.</li>
 <li><a href="/wiki/securitization/">Securitization</a> — the process that creates pass-throughs.</li>
 <li><a href="/wiki/asset-backed-security/">Asset-Backed Security</a> — non-mortgage pass-throughs.</li>
-<li><a href="/wiki/weighted-average-coupon/">Weighted Average Coupon</a> — a key characteristic of pass-through pools.</li>
+<li>Weighted Average Coupon — a key characteristic of pass-through pools.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/fixed-income/">Fixed Income</a> — the asset class pass-throughs belong to.</li>
+<li>Fixed Income — the asset class pass-throughs belong to.</li>
 <li><a href="/wiki/interest-only-strip/">Interest-Only Strip</a> — a derivative of pass-throughs.</li>
 <li><a href="/wiki/principal-only-strip/">Principal-Only Strip</a> — another pass-through derivative.</li>
 </ul>

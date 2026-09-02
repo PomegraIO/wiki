@@ -9,7 +9,7 @@ keywords:
   - currency peg break
 ---
 
-*Black Wednesday refers to September 16, 1992, when sterling crashed out of the European Exchange Rate Mechanism (ERM), forced into devaluation by massive [currency-speculation](/wiki/currency-speculation/) and an unsustainable [currency-peg](/wiki/currency-peg/). It was a pivotal moment in European monetary history and a watershed for [currency-intervention](/wiki/currency-intervention/) policy.*
+*Black Wednesday refers to September 16, 1992, when sterling crashed out of the European Exchange Rate Mechanism (ERM), forced into devaluation by massive currency-speculation and an unsustainable [currency-peg](/wiki/currency-peg/). It was a pivotal moment in European monetary history and a watershed for [currency-intervention](/wiki/currency-intervention/) policy.*
 
 The UK had pegged sterling to the Deutsche Mark (DM) within the ERM in October 1990, with a band of 6% upside and 3% downside. The peg was meant to combat inflation and prepare the UK for entry into a European monetary union—ultimately the [euro](/wiki/euro/). But the timing was disastrous. Sterling entered at what many economists, including George Soros, considered an overvalued rate. The German economy was tightening due to reunification costs, pushing interest rates higher. The UK, in recession, needed lower rates to stimulate growth. The peg locked both rates together, forcing contradictory policy.
 

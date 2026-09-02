@@ -8,7 +8,7 @@ keywords:
   - credit rating upgrade
 ---
 
-*A **Fitch revision** is a change in [Fitch Ratings](/wiki/fitch-ratings/)' assessment of a borrower's ability and willingness to repay [debt](/wiki/bond/). Revisions take two forms: an **[outlook](/wiki/rating-outlook/)** change (from Stable to Negative, signaling potential downgrade within 2 years) or a **[rating](/wiki/credit-rating/)** change itself (e.g., from A to A+, representing an immediate upgrade or downgrade). Unlike [outlook](/wiki/rating-outlook/) changes, which are forward-looking warnings, [rating](/wiki/credit-rating/) changes are immediate and trigger [covenant](/wiki/debt-covenant-type/) effects and [repricing](/wiki/repricing/) in [bond](/wiki/bond/) and [loan](/wiki/loan-origination-fees/) markets.*
+*A **Fitch revision** is a change in [Fitch Ratings](/wiki/fitch-ratings/)' assessment of a borrower's ability and willingness to repay [debt](/wiki/bond/). Revisions take two forms: an **[outlook](/wiki/rating-outlook/)** change (from Stable to Negative, signaling potential downgrade within 2 years) or a **[rating](/wiki/credit-rating/)** change itself (e.g., from A to A+, representing an immediate upgrade or downgrade). Unlike [outlook](/wiki/rating-outlook/) changes, which are forward-looking warnings, [rating](/wiki/credit-rating/) changes are immediate and trigger [covenant](/wiki/debt-covenant-type/) effects and repricing in [bond](/wiki/bond/) and [loan](/wiki/loan-origination-fees/) markets.*
 
 <aside class="wiki-infobox">
 
@@ -19,7 +19,7 @@ keywords:
 | **Revision timing** | Typical review every 3–6 months |
 | **Market impact** | [Rating](/wiki/credit-rating/) downgrade → yields rise 50–200 bps; upgrade → yields fall |
 | **Coverage** | ~8,000 [companies](/wiki/public-company/) and sovereigns globally |
-| **Competitors** | [S&P](/wiki/s-p-rating-action/), Moody's Analytics, [DBRS](/wiki/dbrs-rating/), [Scope](/wiki/scope-rating/) |
+| **Competitors** | S&P, Moody's Analytics, DBRS, Scope |
 | **Regulatory role** | [NRSRO](/wiki/nrsro/); ratings used for [capital requirements](/wiki/capital-adequacy/) and [investment restrictions](/wiki/investment-grade-bond/) |
 
 </aside>
@@ -30,13 +30,13 @@ Fitch's [credit rating](/wiki/credit-rating/) methodology starts with **quantita
 
 Then comes **qualitative factors**: market position, competitive moat, [management](/wiki/compensation-committee/) quality, industry tailwinds or headwinds. A [utility](/wiki/utility-token/) with stable [revenues](/wiki/revenue-recognition/) earns a higher [rating](/wiki/credit-rating/) than a [cyclical](/wiki/cyclical-unemployment/) manufacturer with identical leverage, because utilities' [cash flows](/wiki/cash-flow-statement/) are more predictable.
 
-When material changes occur—earnings collapse, [acquisition](/wiki/acquisition/), [leverage expansion](/wiki/financial-leverage/) through [share buyback](/wiki/share-repurchase-program/), or [management](/wiki/compensation-committee/) change—Fitch reassesses. If the change is modest or near the edge of a [rating](/wiki/credit-rating/) boundary, Fitch may adjust the [outlook](/wiki/rating-outlook/) from Stable to Negative, warning of potential downgrade. If the change is severe, Fitch will revise the [rating](/wiki/credit-rating/) immediately.
+When material changes occur—earnings collapse, [acquisition](/wiki/acquisition/), leverage expansion through [share buyback](/wiki/share-repurchase-program/), or [management](/wiki/compensation-committee/) change—Fitch reassesses. If the change is modest or near the edge of a [rating](/wiki/credit-rating/) boundary, Fitch may adjust the [outlook](/wiki/rating-outlook/) from Stable to Negative, warning of potential downgrade. If the change is severe, Fitch will revise the [rating](/wiki/credit-rating/) immediately.
 
 ## Outlook vs. rating revision
 
 The distinction matters for market impact:
 
-**[Outlook](/wiki/rating-outlook/) revision** (e.g., A stable → A negative): Fitch says "we're concerned; expect a possible downgrade within 24 months." This is a yellow card. [Bond](/wiki/bond/) prices fall modestly (usually 20–40 basis points) and [investors](/wiki/investor-activism/) start positioning for downgrade risk. Conversely, an upgrade to Positive [outlook](/wiki/rating-outlook/) signals "we're optimistic; upgrade within 24 months" and [bond](/wiki/bond/) prices rise.
+**[Outlook](/wiki/rating-outlook/) revision** (e.g., A stable → A negative): Fitch says "we're concerned; expect a possible downgrade within 24 months." This is a yellow card. [Bond](/wiki/bond/) prices fall modestly (usually 20–40 basis points) and investors start positioning for downgrade risk. Conversely, an upgrade to Positive [outlook](/wiki/rating-outlook/) signals "we're optimistic; upgrade within 24 months" and [bond](/wiki/bond/) prices rise.
 
 **[Rating](/wiki/credit-rating/) revision** (e.g., A → BBB+): Fitch changes the [rating](/wiki/credit-rating/) itself. This has immediate consequences. Many [institutional investors](/wiki/qualified-institutional-buyer/) have mandates to hold only [investment-grade](/wiki/investment-grade-bond/) [securities](/wiki/securities-exchange-act-of-1934/). A downgrade to speculative grade (BB or below) forces [sell-offs](/wiki/liquidation/). [Yield spreads](/wiki/yield-curve-shape/) widen sharply (50–300 bps depending on the [rating](/wiki/credit-rating/)), [covenant](/wiki/debt-covenant-type/) provisions may trigger, and borrowing costs rise.
 
@@ -44,25 +44,25 @@ The distinction matters for market impact:
 
 Fitch's scale is divided into two tiers:
 
-**Investment-grade** (AAA to BBB-): Considered safe; [default risk](/wiki/default-risk/) is low. Most [government bonds](/wiki/government-bond-auction/), [corporate bonds](/wiki/corporate-bond/) from blue-chip [companies](/wiki/public-company/), and some [emerging market](/wiki/emerging-market-type/) sovereigns trade at investment-grade. [Institutions](/wiki/qualified-institutional-buyer/) favor these.
+**Investment-grade** (AAA to BBB-): Considered safe; default risk is low. Most [government bonds](/wiki/government-bond-auction/), [corporate bonds](/wiki/corporate-bond/) from blue-chip [companies](/wiki/public-company/), and some [emerging market](/wiki/emerging-market-type/) sovereigns trade at investment-grade. [Institutions](/wiki/qualified-institutional-buyer/) favor these.
 
-**Speculative-grade or junk** (BB+ and below): Higher [default risk](/wiki/default-risk/). Many [private equity](/wiki/private-equity-fund/) [leveraged buyouts](/wiki/leveraged-buyout/) come to market with BB [ratings](/wiki/credit-rating/). [Distressed debt](/wiki/distressed-debt-fund/) [hedge funds](/wiki/hedge-fund/) specialize in CCC and below.
+**Speculative-grade or junk** (BB+ and below): Higher default risk. Many [private equity](/wiki/private-equity-fund/) [leveraged buyouts](/wiki/leveraged-buyout/) come to market with BB [ratings](/wiki/credit-rating/). [Distressed debt](/wiki/distressed-debt-fund/) [hedge funds](/wiki/hedge-fund/) specialize in CCC and below.
 
-The boundary (BBB-/BB+) is psychologically important. A downgrade from BBB to BB triggers forced [selling](/wiki/liquidation/) and a sharp [repricing](/wiki/repricing/). A downgrade within investment-grade (A to BBB) is less traumatic.
+The boundary (BBB-/BB+) is psychologically important. A downgrade from BBB to BB triggers forced [selling](/wiki/liquidation/) and a sharp repricing. A downgrade within investment-grade (A to BBB) is less traumatic.
 
 ## Historical examples of Fitch revisions
 
-In **2011**, Fitch and other [raters](/wiki/credit-rating/) downgraded sovereign [debt](/wiki/sovereign-debt/) of Greece, Ireland, and Portugal as the [European sovereign debt crisis](/wiki/european-sovereign-debt-crisis/) deepened. The Greek downgrade to speculative-grade (BB+) triggered [contagion](/wiki/financial-crisis/) fears and widened [spreads](/wiki/credit-spread/) across Southern Europe.
+In **2011**, Fitch and other [raters](/wiki/credit-rating/) downgraded sovereign [debt](/wiki/sovereign-debt/) of Greece, Ireland, and Portugal as the [European sovereign debt crisis](/wiki/european-sovereign-debt-crisis/) deepened. The Greek downgrade to speculative-grade (BB+) triggered contagion fears and widened [spreads](/wiki/credit-spread/) across Southern Europe.
 
 In **2013**, Fitch upgraded the **US** back to AAA (from AA+ after the [2011 debt ceiling](/wiki/debt-ceiling/) crisis), signaling confidence in [fiscal sustainability](/wiki/fiscal-sustainability/).
 
-In **2020–2021**, Fitch revised [outlooks](/wiki/rating-outlook/) of many sovereigns and [corporates](/wiki/corporate-bond/) to Negative due to COVID-19 impact, but avoided mass downgrades, allowing time for [fiscal stimulus](/wiki/stimulus-package/) and [monetary policy](/wiki/monetary-policy/) to stabilize [economies](/wiki/macroeconomic-analysis/).
+In **2020–2021**, Fitch revised [outlooks](/wiki/rating-outlook/) of many sovereigns and [corporates](/wiki/corporate-bond/) to Negative due to COVID-19 impact, but avoided mass downgrades, allowing time for [fiscal stimulus](/wiki/stimulus-package/) and [monetary policy](/wiki/monetary-policy/) to stabilize economies.
 
 ## The criticisms and concerns
 
 **Pro-cyclicality**: [Ratings](/wiki/credit-rating/) agencies are accused of revising ratings too slowly on the way down. During booms, [ratings](/wiki/credit-rating/) remain inflated; during crashes, downgrades cascade all at once, amplifying panic. The 2008 crisis saw massive post-facto downgrades of [mortgage-backed securities](/wiki/mortgage-backed-security/) that were rated AAA before the crash.
 
-**[Conflict of interest](/wiki/conflicts-of-interest/)**: Fitch (like S&P and Moody's) operates on an "issuer-pays" model—borrowers hire raters to rate their [debt](/wiki/sovereign-debt/). This creates an incentive to rate favorably to retain business. Competitors use [investor-pays](/wiki/investor-activism/) models to reduce bias.
+**Conflict of interest**: Fitch (like S&P and Moody's) operates on an "issuer-pays" model—borrowers hire raters to rate their [debt](/wiki/sovereign-debt/). This creates an incentive to rate favorably to retain business. Competitors use investor-pays models to reduce bias.
 
 **Complexity**: [Structured products](/wiki/structured-finance-ratings/) and [CDOs](/wiki/collateralized-debt-obligation/) are harder to rate than plain vanilla [bonds](/wiki/bond/). Fitch and others struggled to model the [tail risk](/wiki/tail-risk/) in mortgage pools during 2008–2009.
 
@@ -70,7 +70,7 @@ In **2020–2021**, Fitch revised [outlooks](/wiki/rating-outlook/) of many sove
 
 ## Fitch vs. competitors
 
-Fitch is the third-largest [rating](/wiki/credit-rating/) agency (behind [S&P](/wiki/s-p-rating-action/) and Moody's) but competes actively. Fitch's [sovereign](/wiki/sovereign-rating/) analysis is respected; its corporate ratings are comparable to [S&P](/wiki/s-p-rating-action/) and Moody's. Each agency has idiosyncratic [methodologies](/wiki/rating-methodology/)—S&P might rate a [company](/wiki/public-company/) AA while Fitch rates it A+—creating arbitrage and [rating shopping](/wiki/rating-arbitrage/).
+Fitch is the third-largest [rating](/wiki/credit-rating/) agency (behind S&P and Moody's) but competes actively. Fitch's [sovereign](/wiki/sovereign-rating/) analysis is respected; its corporate ratings are comparable to S&P and Moody's. Each agency has idiosyncratic [methodologies](/wiki/rating-methodology/)—S&P might rate a [company](/wiki/public-company/) AA while Fitch rates it A+—creating arbitrage and rating shopping.
 
 In 2023, SEC [regulations](/wiki/regulation-best-interest/) tightened [NRSRO](/wiki/nrsro/) oversight, requiring more transparency in [methodologies](/wiki/rating-methodology/) and historical [accuracy](/wiki/audit-opinion/).
 

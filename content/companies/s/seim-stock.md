@@ -23,7 +23,7 @@ SEIM builds its portfolio by selecting the largest U.S. companies (generally the
 
 The intuitive appeal of momentum is that it feels like catching trends, riding winners. The academic case is more subtle: investors underreact to information (so prices drift slowly toward their true value, producing continued upside), and they also overreact (becoming overconfident after strong runs, pushing prices too high before they mean-revert). Which effect dominates determines whether momentum strategies profit or lose. In typical market environments, the underreaction effect wins out, and momentum portfolios outperform. But when the market reverses sharply or when the narrative around a company changes suddenly, recent winners can become tomorrow's losers very quickly.
 
-This is the core risk of factor-based investing. SEIM's momentum tilt works best in trending or stable markets and worst in reversals. A portfolio holding only the best-performing large-cap stocks will suffer during the exact periods when value stocks (those that have fallen out of favour) stage a rebound, and it carries higher [volatility](/wiki/volatility/) than the broad market as a result.
+This is the core risk of factor-based investing. SEIM's momentum tilt works best in trending or stable markets and worst in reversals. A portfolio holding only the best-performing large-cap stocks will suffer during the exact periods when value stocks (those that have fallen out of favour) stage a rebound, and it carries higher volatility than the broad market as a result.
 
 ## How SEIM fits into a factor strategy
 
@@ -33,7 +33,7 @@ SEIM's [expense ratio](/expense-ratio/) is modest, typical for smart-beta funds,
 
 ## Who this fund is and isn't for
 
-SEIM is not a buy-and-forget broad market fund. It is a deliberate bet that momentum will work over your [holding period](/holding-period/), and it carries the risk that it will not. It is also not a value or [dividend](/dividend/) strategy — if you are looking for cheap stocks or high income, this fund points in the opposite direction. It is best suited for investors who understand factor investing, are comfortable with above-average [drawdowns](/wiki/drawdown/) during reversals, and want to express a tactical or strategic tilt toward growth and recent outperformance without trying to time individual trades.
+SEIM is not a buy-and-forget broad market fund. It is a deliberate bet that momentum will work over your [holding period](/holding-period/), and it carries the risk that it will not. It is also not a value or [dividend](/dividend/) strategy — if you are looking for cheap stocks or high income, this fund points in the opposite direction. It is best suited for investors who understand factor investing, are comfortable with above-average drawdowns during reversals, and want to express a tactical or strategic tilt toward growth and recent outperformance without trying to time individual trades.
 
 The fund is also a sensible building block for diversified factor portfolios where other tilts (value, quality, low volatility) balance out the momentum concentration. When paired with a fund tilted toward neglected or undervalued stocks, a momentum tilt can create a more resilient overall approach than either alone.
 

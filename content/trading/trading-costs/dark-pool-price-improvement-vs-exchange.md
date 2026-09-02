@@ -40,7 +40,7 @@ Dark pools make money by charging [brokers](/broker/) per share or a monthly sub
 
 The dark pool advantage varies sharply by stock. A mega-cap FAANG name commands enormous off-exchange liquidity; dark pools for Apple or Microsoft often have thousands of shares available at competitive prices. A mid-cap or small-cap stock may have only a few hundred shares in any dark venue, making dark routing a false economy.
 
-Large [institutional investors](//) can negotiate dedicated dark pools or use sponsored dark venues with pre-agreed counterparties. Retail traders and smaller funds typically get algorithmic routing that is optimized for the broker's economics (fill rate, spread capture) rather than the trader's true [execution risk](/execution-risk/). Brokers using "smart order routing" advertise best execution but may route to dark pools that serve the broker's interests first.
+Large institutional investors can negotiate dedicated dark pools or use sponsored dark venues with pre-agreed counterparties. Retail traders and smaller funds typically get algorithmic routing that is optimized for the broker's economics (fill rate, spread capture) rather than the trader's true [execution risk](/execution-risk/). Brokers using "smart order routing" advertise best execution but may route to dark pools that serve the broker's interests first.
 
 ## The Hidden Costs of Spillover
 

@@ -43,7 +43,7 @@ The retail platform boasts millions of active accounts, with assets across stock
 
 The retail mutual funds (Fidelity Spartan funds, Puritan Fund) compete with Vanguard, T. Rowe Price, and others. Fidelity's institutional asset management serves [pension funds](/wiki/pension-obligation/), [endowments](/wiki/endowment-fund-structure/), and other large investors. While Fidelity is a massive [actively managed](/wiki/actively-managed-fund/) player, it has steadily grown its [ETF](/wiki/etf/) and [passive](/wiki/passively-managed-fund/) offerings to compete with Vanguard.
 
-**Workplace and [retirement](/wiki/retirement-planning/) services (~25% of revenue):** Fidelity is the dominant [401k](/wiki/401k-plan/) plan administrator globally. Employers delegate [401k](/wiki/401k-plan/) administration—plan design, employee education, compliance, investment options—to Fidelity. As of 2024, Fidelity administers plans for millions of employees.
+**Workplace and retirement services (~25% of revenue):** Fidelity is the dominant [401k](/wiki/401k-plan/) plan administrator globally. Employers delegate [401k](/wiki/401k-plan/) administration—plan design, employee education, compliance, investment options—to Fidelity. As of 2024, Fidelity administers plans for millions of employees.
 
 This business is extraordinarily profitable because it's recurring, sticky (switching [401k](/wiki/401k-plan/) administrators is costly and disruptive), and relatively uncompetitive. Only Vanguard, Charles Schwab, and Merrill Lynch compete at scale. Beyond [401k](/wiki/401k-plan/), Fidelity administers [403b](/wiki/403b-plan/) plans, HSAs, and brokerage retirement accounts.
 
@@ -125,7 +125,7 @@ Fidelity faces secular shifts:
 ### Wider context
 - [Charles Schwab](/wiki/charles-schwab/) — Major retail brokerage competitor
 - [Blackrock Investments](/wiki/blackrock-investments/) — Largest asset manager globally
-- [Vanguard](/wiki/vanguard/) — Second-largest asset manager, Fidelity's key competitor
+- Vanguard — Second-largest asset manager, Fidelity's key competitor
 - [Mutual Fund](/wiki/mutual-fund/) — Product form Fidelity pioneered
 - [Brokerage](/wiki/broker/) — Retail investment execution service
 

@@ -37,7 +37,7 @@ image: "/svg/equity.svg"
 
 A company announces a $1 billion share repurchase authorization. Over the following quarters or years, the company buys its own shares in the open market. If the average purchase price is $100 per share, the company buys 10 million shares with the $1 billion.
 
-The shares are held as [treasury stock](/equity/treasury-stock/) (the company's own shares in its treasury) and can later be retired, reissued for employee compensation, or held indefinitely.
+The shares are held as [treasury stock](/treasury-stock/) (the company's own shares in its treasury) and can later be retired, reissued for employee compensation, or held indefinitely.
 
 **Mechanics**:
 - Company has 100 million shares and $1 billion cash.
@@ -52,7 +52,7 @@ The market cap is unchanged (the company just converted cash to shares). However
 
 2. **Boost EPS**: Fewer shares means higher EPS, all else equal. Many executive compensation contracts tie bonuses to EPS targets. Buybacks artificially boost EPS and help executives hit targets (a controversial motivation).
 
-3. **Offset dilution**: When [employee stock options](/equity/employee-stock-options/) and [RSUs](/equity/restricted-stock-units/) vest, new shares are issued and ownership is diluted. Buybacks can offset this dilution.
+3. **Offset dilution**: When [employee stock options](/employee-stock-options/) and [RSUs](/restricted-stock-units/) vest, new shares are issued and ownership is diluted. Buybacks can offset this dilution.
 
 4. **Signal confidence**: A large buyback can signal that management believes the stock is undervalued and the company has excess capital.
 
@@ -83,9 +83,9 @@ The key is the **buyback price**:
 
 **Open market repurchases**: The company buys shares in the regular market, usually through a broker, at whatever price prevails. This is the most common method.
 
-**[Tender offers](/equity/dutch-auction-tender/)**: The company makes a formal offer to all shareholders to buy back shares at a specific price (usually higher than market). The offer is open for a set period. This is less common but useful for large one-time buybacks.
+**[Tender offers](/dutch-auction-tender/)**: The company makes a formal offer to all shareholders to buy back shares at a specific price (usually higher than market). The offer is open for a set period. This is less common but useful for large one-time buybacks.
 
-**[Accelerated share repurchases](/equity/accelerated-share-repurchase/)**: The company pays an investment bank to buy a large block of shares immediately and deliver them; the company then reimburses the bank over time. This lets the company execute a large buyback quickly.
+**[Accelerated share repurchases](/accelerated-share-repurchase/)**: The company pays an investment bank to buy a large block of shares immediately and deliver them; the company then reimburses the bank over time. This lets the company execute a large buyback quickly.
 
 **Derivative-based**: The company uses put options or other derivatives to hedge buyback price risk (advanced technique).
 
@@ -117,24 +117,24 @@ Some proposals have emerged to restrict or tax buybacks (e.g., US legislation in
 
 ## Buyback yield
 
-[Buyback yield](/equity/share-buyback-yield/) is the percentage of market cap spent on buybacks in a year. If a company with $1 trillion market cap buys back $40 billion of shares, the buyback yield is 4%. This is often compared to the [dividend yield](/dividend/) to assess the total capital return to shareholders.
+Buyback yield is the percentage of market cap spent on buybacks in a year. If a company with $1 trillion market cap buys back $40 billion of shares, the buyback yield is 4%. This is often compared to the [dividend yield](/dividend/) to assess the total capital return to shareholders.
 
 <div class="wiki-seealso">
 
 ### Closely related
 
-- [Treasury stock](/equity/treasury-stock/) — the result of buyback
+- [Treasury stock](/treasury-stock/) — the result of buyback
 - [Dividend](/dividend/) — alternative cash return method
 - [Earnings per share](/earnings-per-share/) — mechanically boosted by buyback
-- [Accelerated share repurchase](/equity/accelerated-share-repurchase/) — fast buyback execution
-- [Tender offer](/equity/dutch-auction-tender/) — formal buyback structure
+- [Accelerated share repurchase](/accelerated-share-repurchase/) — fast buyback execution
+- [Tender offer](/dutch-auction-tender/) — formal buyback structure
 
 ### Wider context
 
 - [Public company](/public-company/) — executes buybacks
 - [Stock market](/stock-market/) — where buybacks occur
-- [Capital allocation](/equity/share-buyback/) — strategic choice
-- [Shareholder value](/equity/share-buyback/) — how returns are distributed
-- [Share count](/equity/common-stock/) — reduced by buybacks
+- [Capital allocation](/share-buyback/) — strategic choice
+- [Shareholder value](/share-buyback/) — how returns are distributed
+- [Share count](/common-stock/) — reduced by buybacks
 
 </div>

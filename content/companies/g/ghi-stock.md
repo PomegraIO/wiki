@@ -45,7 +45,7 @@ Unlike a REIT, units in GHI are not freely redeemable. Unitholders relying on di
 
 Greystone's returns rely on sustained affordable-housing demand (which is evergreen), continued availability of LIHTC (a political variable), and stable property operations in economically fragile neighborhoods (subject to local shocks). The partnership model requires disciplined acquisition underwriting: if Greystone overpays for properties or acquires in deteriorating markets, residual distributions to unitholders will compress. A material decline in LIHTC policy, or a series of economic downturns affecting resident employment, would reduce the partnership's ability to acquire or sustain high-quality properties.
 
-Reading Greystone's [10-K](/10-K/) requires understanding the current carrying value of the portfolio, the expected cash flows from maturing properties, and the company's pipeline of new acquisitions. These data reveal whether distributions are sustainable or whether the partnership is gradually consuming equity.
+Reading Greystone's [10-K](/10-k/) requires understanding the current carrying value of the portfolio, the expected cash flows from maturing properties, and the company's pipeline of new acquisitions. These data reveal whether distributions are sustainable or whether the partnership is gradually consuming equity.
 
 <div class="wiki-seealso">
 ### Closely related

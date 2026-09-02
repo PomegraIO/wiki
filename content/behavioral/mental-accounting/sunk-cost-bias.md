@@ -59,11 +59,11 @@ Sunk cost bias often compounds with [confirmation bias](/wiki/confirmation-bias/
 ### Closely related
 - [Loss aversion](/wiki/loss-aversion/) — the psychological tendency to fear losses more than equivalent gains
 - [Confirmation bias](/wiki/confirmation-bias/) — selective seeking of supporting evidence
-- [Anchoring bias](/wiki/anchoring-bias-trading/) — overweighting the first price seen
+- Anchoring bias — overweighting the first price seen
 - [Disposition effect](/wiki/disposition-effect/) — tendency to sell winners and hold losers
 
 ### Wider context
-- [Behavioral finance](/wiki/behavioral-finance/) — study of how psychology shapes financial decisions
+- Behavioral finance — study of how psychology shapes financial decisions
 - [Mental accounting](/wiki/mental-accounting/) — how people group and evaluate financial decisions emotionally
 - [Underwater option](/wiki/underwater-option/) — options trading where sunk costs cloud decisions
 - [Portfolio mental accounting](/wiki/portfolio-mental-accounting/) — frame-dependent evaluation of portfolio risk

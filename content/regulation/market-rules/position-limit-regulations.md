@@ -40,7 +40,7 @@ For example, crude-oil limits on the [CME](/wiki/cme-group/) might be:
 - Spot month: 20,000 contracts (2 million barrels).
 - Non-spot month: 35,000 contracts.
 
-A [proprietary-trader](/wiki/prop-trading/) cannot exceed these caps without exemption. Violations trigger CFTC enforcement, fines, and forced liquidation.
+A proprietary-trader cannot exceed these caps without exemption. Violations trigger CFTC enforcement, fines, and forced liquidation.
 
 ## Hedge exemptions and bona fide hedgers
 

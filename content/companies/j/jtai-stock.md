@@ -48,7 +48,7 @@ JTAI's success depends on engineers, data scientists, and product leaders. If ke
 
 ## Looking to SEC Filings
 
-Investors evaluating JTAI should examine its [10-K](/10-K/) for revenue growth trends, gross margin, customer concentration, monthly or annual churn rates, [free cash flow](/free-cash-flow/) and burn rate, and headcount trends. The company should disclose any material customer losses, competitive threats, or technical incidents. Stock-based compensation as a percentage of operating expense indicates the dilution trajectory. Any pending regulatory investigations or lawsuits related to data security or privacy should be flagged.
+Investors evaluating JTAI should examine its [10-K](/10-k/) for revenue growth trends, gross margin, customer concentration, monthly or annual churn rates, [free cash flow](/free-cash-flow/) and burn rate, and headcount trends. The company should disclose any material customer losses, competitive threats, or technical incidents. Stock-based compensation as a percentage of operating expense indicates the dilution trajectory. Any pending regulatory investigations or lawsuits related to data security or privacy should be flagged.
 
 <div class="wiki-seealso">
 ### Closely related

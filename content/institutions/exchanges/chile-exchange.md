@@ -19,13 +19,13 @@ The exchange operates multiple market segments:
 - **Main Market:** Large-cap companies with listing requirements comparable to major global exchanges.
 - **Emerging Company Market:** SMEs with lighter disclosure and [capital adequacy](/wiki/capital-adequacy/) requirements.
 - **Derivatives Market:** [Futures contracts](/wiki/futures-contract/) and [options](/wiki/option/) on equities, indexes, currencies, and commodities.
-- **Fixed-Income Market:** Trading of government and corporate [bonds](/wiki/bond/), [debentures](/wiki/debenture-implicitly/), and [preferred shares](/wiki/preferred-stock/).
+- **Fixed-Income Market:** Trading of government and corporate [bonds](/wiki/bond/), debentures, and [preferred shares](/wiki/preferred-stock/).
 
 ## Market characteristics
 
 The Bolsa is part of Latin America's investment universe, attracting both domestic savers and international institutional investors seeking [emerging markets](/wiki/emerging-markets-fund/) exposure. Sectors dominate:
 
-- **Mining:** Copper is Chile's largest export; mining companies ([BHP](/wiki/bhp-implicitly/), Codelco) are major listings.
+- **Mining:** Copper is Chile's largest export; mining companies (BHP, Codelco) are major listings.
 - **Financials:** Banks, insurance, pension funds (AFP — pension administrators).
 - **Utilities:** Electricity, water, telecom companies.
 - **Consumer:** Retail, consumer staples, hospitality.
@@ -36,7 +36,7 @@ The exchange's [market capitalization](/wiki/market-capitalization/) has fluctua
 
 Trading is electronic (via the Rueda system) and operates in Chilean pesos (CLP). Most trading hours are 9:30 AM–4:00 PM Santiago time. Settlement is T+2 (two business days), standard for Latin American exchanges.
 
-[Liquidity](/wiki/liquidity-risk/) in large-cap stocks is reasonable; mid-cap and small-cap stocks can be less liquid. Foreign investors can trade directly (many use local brokers or custodians like [BNY Mellon](/wiki/bny-mellon-custodian-implicitly/) or [State Street](/wiki/state-street-custodian-implicitly/)) but must manage currency [conversion](/wiki/currency-conversion-implicitly/) and [withholding taxes](/wiki/withholding-tax-implicitly/).
+[Liquidity](/wiki/liquidity-risk/) in large-cap stocks is reasonable; mid-cap and small-cap stocks can be less liquid. Foreign investors can trade directly (many use local brokers or custodians like BNY Mellon or State Street) but must manage currency conversion and withholding taxes.
 
 ## Index and performance
 
@@ -46,7 +46,7 @@ The IPSA is [cap-weighted](/wiki/cap-weighted-index/) and includes constituents 
 
 ## Regulatory framework
 
-The SVS enforces securities laws, similar to the U.S. [SEC](/wiki/securities-and-exchange-commission/). Chilean securities law requires corporate [disclosure](/wiki/disclosure-requirements-implicitly/), [audit](/wiki/audit-opinion/) committees, and board independence — broadly aligned with international standards though enforcement varies.
+The SVS enforces securities laws, similar to the U.S. [SEC](/wiki/securities-and-exchange-commission/). Chilean securities law requires corporate disclosure, [audit](/wiki/audit-opinion/) committees, and board independence — broadly aligned with international standards though enforcement varies.
 
 Chile is part of the IOSCO (International Organization of Securities Commissions), committing to consistent [market surveillance](/wiki/market-surveillance/) and investor-protection standards.
 
@@ -54,7 +54,7 @@ Chile is part of the IOSCO (International Organization of Securities Commissions
 
 Foreign investors can buy Chilean stocks and [bonds](/wiki/bond/) directly; no formal restrictions on ownership. However:
 
-- **Currency risk:** Returns are subject to USD/CLP [exchange rate](/wiki/exchange-rate-determination-implicitly/) moves. Over decades, the Chilean peso has depreciated against the USD.
+- **Currency risk:** Returns are subject to USD/CLP exchange rate moves. Over decades, the Chilean peso has depreciated against the USD.
 - **Withholding taxes:** Dividends and interest are subject to Chilean withholding taxes (~35% for most foreign investors unless treaty rates apply).
 - **Liquidity:** Exiting large positions in mid-cap stocks may require patience.
 - **Geopolitical risk:** Chile has experienced social unrest (2019–2020 protests, constitutional reform disruptions) affecting market stability.
@@ -91,7 +91,7 @@ During commodity booms, the Bolsa and Chilean currency appreciate; during downtu
 - [American depository receipt](/wiki/american-depository-receipt-adr/) — mechanism for trading Chilean stocks on U.S. exchanges
 
 ### Wider context
-- [IPSA Index](/wiki/ipsa-index-implicitly/) — the exchange's benchmark
+- IPSA Index — the exchange's benchmark
 - [Latin American economy](/wiki/latin-american-debt-crisis/) — regional context
 - [Commodity currency pairs](/wiki/commodity-currency-pairs/) — peso-copper relationship
 

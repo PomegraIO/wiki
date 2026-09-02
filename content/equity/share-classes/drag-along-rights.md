@@ -164,7 +164,7 @@ Public company drag-along is rare and formal:
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/shareholders-agreement/">Shareholders Agreement</a> — contract governing drag-along, tag-along, and other rights.</li>
+  <li>Shareholders Agreement — contract governing drag-along, tag-along, and other rights.</li>
   <li><a href="/wiki/fiduciary-duty/">Fiduciary Duty</a> — obligation of majority shareholders toward minorities, limiting drag-along abuses.</li>
   <li><a href="/wiki/venture-capital-fund/">Venture Capital Fund</a> — primary negotiator of drag-along rights.</li>
 </ul>

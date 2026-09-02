@@ -120,9 +120,9 @@ Ramp failure is rare in high-quality mortgage securitizations (originated loans 
 <ul>
 <li><a href="/wiki/securitization/">Securitization</a> — ramp is a phase in securitization issuance.</li>
 <li><a href="/wiki/collateralized-loan-obligation/">Collateralized Loan Obligation</a> — CLOs often have extended ramp periods.</li>
-<li><a href="/wiki/warehouse-lending/">Warehouse Lending</a> — warehouses are used during ramp.</li>
-<li><a href="/wiki/revolving-period/">Revolving Period</a> — related concept in revolving-structure deals.</li>
-<li><a href="/wiki/early-amortization/">Early Amortization</a> — triggered if ramp fails.</li>
+<li>Warehouse Lending — warehouses are used during ramp.</li>
+<li>Revolving Period — related concept in revolving-structure deals.</li>
+<li>Early Amortization — triggered if ramp fails.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>

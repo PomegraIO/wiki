@@ -59,7 +59,7 @@ Covenant's earnings and stock price swing with economic cycles. A weakening econ
 
 ## Reviewing Covenant's Position
 
-In its [10-K](/10-K/), Covenant reports fleet size, average rates per mile or per load, driver count, utilization, and fuel costs. Key metrics are revenue per truck per day (or per mile), [operating margin](/operating-margin/), and [return on assets](/return-on-assets/). Compare year-over-year to see if the company is gaining share and raising margins or losing share and compressing margins. Look for customer concentration—if one or two customers are 20%+ of revenue, the company is exposed to their loss.
+In its [10-K](/10-k/), Covenant reports fleet size, average rates per mile or per load, driver count, utilization, and fuel costs. Key metrics are revenue per truck per day (or per mile), [operating margin](/operating-margin/), and [return on assets](/return-on-assets/). Compare year-over-year to see if the company is gaining share and raising margins or losing share and compressing margins. Look for customer concentration—if one or two customers are 20%+ of revenue, the company is exposed to their loss.
 
 <div class="wiki-seealso">
 ### Closely related

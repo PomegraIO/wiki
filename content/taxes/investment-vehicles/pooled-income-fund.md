@@ -11,7 +11,7 @@ keywords:
 image: "/svg/taxes.svg"
 ---
 
-*A **Pooled Income Fund** (PIF) is a statutory charitable vehicle allowing donors to contribute capital to a commingled fund managed by a public charity, receive variable annual income for life (or a term of years), and obtain an immediate [federal income-tax deduction](//) on the actuarial value of the remainder interest passing to the charity. Unlike a direct [stock gift](/stock/) or [bond donation](/bond/), a PIF separates the economic benefits: the donor receives income tied to the pool's actual performance, whilst the charity receives a future remainder, and the donor claims a deduction today for an asset the charity will receive tomorrow.*
+*A **Pooled Income Fund** (PIF) is a statutory charitable vehicle allowing donors to contribute capital to a commingled fund managed by a public charity, receive variable annual income for life (or a term of years), and obtain an immediate federal income-tax deduction on the actuarial value of the remainder interest passing to the charity. Unlike a direct [stock gift](/stock/) or [bond donation](/bond/), a PIF separates the economic benefits: the donor receives income tied to the pool's actual performance, whilst the charity receives a future remainder, and the donor claims a deduction today for an asset the charity will receive tomorrow.*
 
 <aside class="wiki-infobox">
 
@@ -44,7 +44,7 @@ This shared structure is the defining distinction from a [charitable remainder t
 
 The power of a PIF lies in its two-part tax outcome. First, the donor receives annual income. If the fund generates $15,000 of dividend income and the pool totals $1 million, each donor with a $50,000 contribution receives $750 annually (5 per cent of $15,000). This income is taxable as ordinary income to the donor, but it is real cash flow.
 
-Second, the donor claims an immediate charitable deduction for the actuarial present value of the remainder interest. If the donor is age 65 and the IRS [life expectancy tables](//) estimate 17 years remaining, and the fund's yield is 4 per cent, the remainder fraction is calculated using a present-value formula. A $100,000 contribution might yield a $35,000 deduction and a $65,000 remainder interest (the charity's future share). The donor deducts $35,000 immediately, reducing their taxable income in the contribution year.
+Second, the donor claims an immediate charitable deduction for the actuarial present value of the remainder interest. If the donor is age 65 and the IRS life expectancy tables estimate 17 years remaining, and the fund's yield is 4 per cent, the remainder fraction is calculated using a present-value formula. A $100,000 contribution might yield a $35,000 deduction and a $65,000 remainder interest (the charity's future share). The donor deducts $35,000 immediately, reducing their taxable income in the contribution year.
 
 ## Taxation of the income stream
 
@@ -64,7 +64,7 @@ By contributing to a shared pool, donors surrender direct control over the fund'
 
 Some charities offer multiple PIF portfolios at different risk levels (conservative, moderate, aggressive), allowing donors limited choice at contribution time. Once chosen, reallocation is rare.
 
-## Comparison to [charitable remainder trusts](//) and [spousal lifetime access trusts](/spousal-lifetime-access-trust/)
+## Comparison to charitable remainder trusts and [spousal lifetime access trusts](/spousal-lifetime-access-trust/)
 
 The PIF sits between a simple charitable donation and a [charitable remainder trust](/). A charitable remainder trust (CRT) is an individual trust, fully customisable, with fixed or variable payouts and remainder to the donor's chosen charity. A CRT permits the donor to name co-trustees, specify investment policy, and retain greater control. But a CRT requires a separate legal document, trustee, and accounting, costing $3,000–$10,000 to establish.
 
@@ -98,7 +98,7 @@ Some charities use remainder balances to fund restricted scholarships, research,
 
 ### Wider context
 
-- [Charitable remainder trust](//) — the individual-trust alternative with greater control and customisation
+- Charitable remainder trust — the individual-trust alternative with greater control and customisation
 - Capital Gains Tax (Investor) — the tax avoided by contributing appreciated securities directly
 - [Present value and discount rates](/discount-rate/) — the actuarial mechanics underlying the deduction calculation
 - [Treasury Bill](/treasury-bill/) — a comparison benchmark for low-risk yield alternatives

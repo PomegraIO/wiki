@@ -55,7 +55,7 @@ A property with an 8% cap rate purchased all-equity (no debt) yields 8% on capit
 
 ## Floating-rate exposure and hedge strategies
 
-Many commercial real estate loans reset annually or every three years. A property bought at a 2% spread on a 3-year fixed rate faces immediate refinancing risk: if rates rise 2% during the hold, the spread becomes negative, and the owner must either find [higher-cap-rate buyers](/wiki/capitalization-rate/), restructure the debt, or accept a return-destroying refi. Conservative investors [hedge](/wiki/hedging-with-futures/) their floating-rate exposure with [interest-rate swaps](/wiki/interest-rate-swap/) or require spreads of at least 2.0% to absorb a rate shock.
+Many commercial real estate loans reset annually or every three years. A property bought at a 2% spread on a 3-year fixed rate faces immediate refinancing risk: if rates rise 2% during the hold, the spread becomes negative, and the owner must either find higher-cap-rate buyers, restructure the debt, or accept a return-destroying refi. Conservative investors [hedge](/wiki/hedging-with-futures/) their floating-rate exposure with [interest-rate swaps](/wiki/interest-rate-swap/) or require spreads of at least 2.0% to absorb a rate shock.
 
 Some deals come with [prepayment penalties](/wiki/prepayment-risk/) or [yield maintenance](/wiki/bond-yield-curve-risk/) clauses that make refinancing expensive. In a 2% spread environment, a 1% prepayment penalty can wipe out the entire spread advantage, making the leveraged investment no better than an all-equity purchase.
 

@@ -60,7 +60,7 @@ Stock offers unlimited holding period and dividend income. A poor man's covered 
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/option/">Option</a> — contract type underlying this strategy.</li>
-<li><a href="/wiki/leverage/">Leverage</a> — the key advantage vs. stock ownership.</li>
+<li>Leverage — the key advantage vs. stock ownership.</li>
 <li><a href="/wiki/stock/">Stock</a> — the underlying asset.</li>
 </ul>
 </div>

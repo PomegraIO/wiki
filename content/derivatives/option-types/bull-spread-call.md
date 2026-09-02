@@ -31,7 +31,7 @@ The bull call spread addresses a key problem: long calls are expensive. If an [a
 
 ## The defined-risk profile
 
-Unlike a naked long call, which has theoretically unlimited loss (the premium paid) and unlimited upside, the bull spread is completely hedged. Your maximum loss is the net debit paid, and your maximum gain is the difference between the strikes minus the debit. This two-dimensional bounded outcome makes the bull spread popular with traders who want directional bullish exposure but with known, manageable risk. For a trader with a $10,000 account, knowing that a single position can lose, say, $300 maximum (the net debit), allows for precise [position sizing](/wiki/position-limit-regulations/) and [portfolio risk management](/wiki/risk-management/).
+Unlike a naked long call, which has theoretically unlimited loss (the premium paid) and unlimited upside, the bull spread is completely hedged. Your maximum loss is the net debit paid, and your maximum gain is the difference between the strikes minus the debit. This two-dimensional bounded outcome makes the bull spread popular with traders who want directional bullish exposure but with known, manageable risk. For a trader with a $10,000 account, knowing that a single position can lose, say, $300 maximum (the net debit), allows for precise [position sizing](/wiki/position-limit-regulations/) and portfolio risk management.
 
 ## Implied volatility and vega effects
 

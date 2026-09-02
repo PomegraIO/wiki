@@ -85,6 +85,6 @@ Additionally, activist investors have begun scrutinizing change-of-control provi
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/acquisition/">Acquisition</a> — the broader concept of buying another company.</li>
-  <li><a href="/wiki/corporate-governance/">Corporate Governance</a> — governance implications of change of control.</li>
+  <li>Corporate Governance — governance implications of change of control.</li>
 </ul>
 </div>

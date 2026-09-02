@@ -148,7 +148,7 @@ Critics argue this encourages circumventing internal compliance procedures. Defe
 - [SEC Enforcement](/wiki/sec-enforcement/) — regulatory action
 
 ### Wider context
-- [Corporate Governance](/wiki/corporate-governance/) — broader system
+- Corporate Governance — broader system
 - [Dodd-Frank](/wiki/dodd-frank-act/) — regulatory framework
 - [Internal Control Assessment](/wiki/internal-control-assessment/) — control framework
 - [Anti-Money Laundering](/wiki/anti-money-laundering/) — related compliance

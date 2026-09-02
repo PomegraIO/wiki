@@ -101,7 +101,7 @@ For long-dated or complex TRS, dealers use collateral management ([repo](/wiki/r
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/leverage/">Leverage</a> — the main benefit of total return swaps.</li>
+<li>Leverage — the main benefit of total return swaps.</li>
 <li><a href="/wiki/counterparty-risk/">Counterparty risk</a> — the primary risk in OTC swaps.</li>
 <li><a href="/wiki/cost-of-carry/">Cost of carry</a> — determines the financing cost in TRS on equities.</li>
 <li><a href="/wiki/mark-to-market/">Mark-to-market</a> — used for periodic cash settlement.</li>

@@ -8,7 +8,7 @@ keywords:
   - price levels
 ---
 
-*[Support](/wiki/support-zone-floor/) and [resistance](/wiki/resistance-zone-ceiling/) are price levels where repeated buying (support) or selling (resistance) occurs, creating zones where price stalls, bounces, or reverses. They are the foundation of [technical analysis](/wiki/technical-analysis/) and help traders identify entry and exit points.*
+*[Support](/wiki/support-zone-floor/) and [resistance](/wiki/resistance-zone-ceiling/) are price levels where repeated buying (support) or selling (resistance) occurs, creating zones where price stalls, bounces, or reverses. They are the foundation of technical analysis and help traders identify entry and exit points.*
 
 <aside class="wiki-infobox">
 
@@ -46,7 +46,7 @@ When price approaches support and bounces *without breaking it*, support is "con
 
 **Static** levels (previous highs, round numbers) hold until penetrated; then they flip. If a stock breaks above $80 resistance, $80 often becomes new support—traders who sold at $80 and are now underwater become buyers at $80 to cut losses. **Dynamic** resistance (a falling trendline) adjusts as price evolves. A stock making lower highs creates a falling trendline of resistance; when the stock finally bounces and penetrates the trendline, it signals a [trend change](/wiki/trendline/).
 
-The tighter the price action around a level, the more explosive the eventual break. A stock that consolidates between $45 and $55 for months, wiggling around support ($45) 10 times without breaking it, stores energy. When it finally breaks below $45, the pent-up selling pressure often drives a sharp decline ($45 → $30 quickly). This is the principle of **tension and release** in [technical analysis](/wiki/technical-analysis/).
+The tighter the price action around a level, the more explosive the eventual break. A stock that consolidates between $45 and $55 for months, wiggling around support ($45) 10 times without breaking it, stores energy. When it finally breaks below $45, the pent-up selling pressure often drives a sharp decline ($45 → $30 quickly). This is the principle of **tension and release** in technical analysis.
 
 ## Volume confirmation and false breaks
 
@@ -58,7 +58,7 @@ A level that's support on a weekly chart might be resistance on an intraday char
 
 ## Support and resistance in stocks vs. [forex](/wiki/forex-margin/) vs. [commodities](/wiki/commodity-swap/)
 
-In liquid, 24-hour markets like forex, support and resistance levels hold more consistently because thousands of traders worldwide respond to them simultaneously. In stocks (trading 6.5 hours daily), support and resistance can shift on overnight news or gaps. In [commodities](/wiki/commodity-price-hedging/), [supply shocks](/wiki/supply-chain-disruption/) can obliterate support and resistance—a hurricane vaporizing oil inventories can break resistance in crude oil that had held for years. Technical levels matter most in liquid, lower-volatility asset classes where human order behavior dominates.
+In liquid, 24-hour markets like forex, support and resistance levels hold more consistently because thousands of traders worldwide respond to them simultaneously. In stocks (trading 6.5 hours daily), support and resistance can shift on overnight news or gaps. In [commodities](/wiki/commodity-price-hedging/), supply shocks can obliterate support and resistance—a hurricane vaporizing oil inventories can break resistance in crude oil that had held for years. Technical levels matter most in liquid, lower-volatility asset classes where human order behavior dominates.
 
 ## Limitations: when support/resistance fails
 
@@ -75,7 +75,7 @@ Support and resistance are probabilistic, not deterministic. A stock can penetra
 - [Trendline](/wiki/trendline/) — Dynamic support/resistance formed by connecting price highs or lows
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — Analysis of price patterns and indicators
+- Technical Analysis — Analysis of price patterns and indicators
 - [Candlestick Patterns](/wiki/candlestick-pattern/) — Price action patterns that form at support/resistance
 - [Moving Averages](/wiki/trend-following/) — Smoothed price trends that often act as dynamic support
 - [Momentum Investing](/wiki/momentum-investing/) — Buying breakouts and selling breakdowns of support/resistance

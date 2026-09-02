@@ -137,10 +137,10 @@ A sharp drop in excess spread (collateral coupons falling as mortgages prepay, o
 <h3>Closely related</h3>
 <ul>
 <li><a href="/wiki/securitization/">Securitization</a> — excess spread is the mechanism driving securitization economics.</li>
-<li><a href="/wiki/weighted-average-coupon/">Weighted Average Coupon</a> — the numerator of excess spread.</li>
+<li>Weighted Average Coupon — the numerator of excess spread.</li>
 <li><a href="/wiki/overcollateralization/">Overcollateralization</a> — often funded by excess spread.</li>
 <li><a href="/wiki/tranche/">Tranche</a> — equity tranches are compensated via excess spread.</li>
-<li><a href="/wiki/servicing-fee/">Servicing Fee</a> — a component subtracted from collateral yield.</li>
+<li>Servicing Fee — a component subtracted from collateral yield.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>

@@ -82,15 +82,15 @@ His investment record—30% annual returns for decades—remains unmatched by mo
 <div class="wiki-seealso">
 
 ### Closely related
-- [Reflexivity theory](/wiki/reflexivity-effect/) — Soros's concept of market feedback loops
+- Reflexivity theory — Soros's concept of market feedback loops
 - [Macroeconomic trading](/wiki/monetary-policy-signal-trading/) — His primary investing domain
 - [Quantum Fund](/wiki/hedge-fund/) — His flagship investment vehicle
-- [Currency speculation](/wiki/currency-trading/) — Core to his sterling bet and macro approach
+- Currency speculation — Core to his sterling bet and macro approach
 
 ### Wider context
 - [Hedge funds](/wiki/hedge-fund/) — The vehicle Soros pioneered for concentrated macro bets
 - [Financial bubbles](/wiki/bubbles-and-manias/) — Manifestations of reflexivity
 - [Currency intervention](/wiki/currency-intervention/) — The Bank of England's failed defense of sterling
-- [Open society](/wiki/social-investment/) — Soros's philosophy extended to philanthropy
+- Open society — Soros's philosophy extended to philanthropy
 
 </div>

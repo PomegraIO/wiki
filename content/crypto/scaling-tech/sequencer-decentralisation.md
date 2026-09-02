@@ -32,7 +32,7 @@ image: "/svg/crypto.svg"
 
 ## The centralised sequencer problem
 
-[Rollups](/crypto/rollup/) process transactions faster than Ethereum because they do not require full consensus. A single **sequencer** orders transactions, executes them, and posts the result onchain. This is fast and cheap but introduces a trusted party.
+Rollups process transactions faster than Ethereum because they do not require full consensus. A single **sequencer** orders transactions, executes them, and posts the result onchain. This is fast and cheap but introduces a trusted party.
 
 A malicious or negligent sequencer can:
 
@@ -106,9 +106,9 @@ This is a key reason many rollups keep sequencers centralised early, planning de
 
 ## Interaction with proof systems
 
-Decentralised sequencing interacts with [rollup](/crypto/rollup/) proof types. An [Optimistic Rollup](/crypto/optimistic-rollup/) relies on transaction data availability for fraud proofs. A decentralised sequencer must still post all data onchain, preserving auditability.
+Decentralised sequencing interacts with rollup proof types. An [Optimistic Rollup](/optimistic-rollup/) relies on transaction data availability for fraud proofs. A decentralised sequencer must still post all data onchain, preserving auditability.
 
-A [ZK Rollup](/crypto/zk-rollup/) proves correctness cryptographically; sequencer decentralisation is independent. However, ZK Rollups often use private sequencers (to hide internal state during proof generation), making decentralisation harder.
+A ZK Rollup proves correctness cryptographically; sequencer decentralisation is independent. However, ZK Rollups often use private sequencers (to hide internal state during proof generation), making decentralisation harder.
 
 ## Industry direction
 
@@ -122,16 +122,16 @@ The preferred near-term path is **restricted decentralisation**: a fixed set of 
 
 ### Closely related
 
-- [Rollup](/crypto/rollup/) — the layer 2 architecture that requires sequencers
-- [Optimistic Rollup](/crypto/optimistic-rollup/) — fraud-proof based rollup dependent on data availability
-- [ZK Rollup](/crypto/zk-rollup/) — proof-based rollup with different sequencer dynamics
-- [MEV (Maximal Extractable Value)](/crypto/mev/) — the ordering power sequencers exploit
-- [Threshold Encryption](/crypto/threshold-encryption/) — cryptographic primitive enabling blind ordering
+- Rollup — the layer 2 architecture that requires sequencers
+- [Optimistic Rollup](/optimistic-rollup/) — fraud-proof based rollup dependent on data availability
+- ZK Rollup — proof-based rollup with different sequencer dynamics
+- MEV (Maximal Extractable Value) — the ordering power sequencers exploit
+- Threshold Encryption — cryptographic primitive enabling blind ordering
 
 ### Wider context
 
-- [Layer 2](/crypto/layer-2/) — scaling solutions managing sequencer risk
-- [Censorship Resistance](/crypto/censorship-resistance/) — the principle decentralisation serves
-- [Ethereum](/crypto/ethereum/) — the base layer for rollups and sequencers
+- Layer 2 — scaling solutions managing sequencer risk
+- Censorship Resistance — the principle decentralisation serves
+- [Ethereum](/ethereum/) — the base layer for rollups and sequencers
 
 </div>

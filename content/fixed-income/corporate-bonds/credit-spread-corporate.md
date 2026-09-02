@@ -20,7 +20,7 @@ For the overall bond mechanism, see <a href="/wiki/corporate-bond/">Corporate bo
 
 ## How spreads work
 
-A [corporate bond](/wiki/corporate-bonds/) yield is composed of two parts:
+A corporate bond yield is composed of two parts:
 
 **Risk-free rate.** The yield on a U.S. Treasury of matching maturity. This reflects the time value of money and expected inflation, but no default risk.
 

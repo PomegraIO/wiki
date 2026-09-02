@@ -84,16 +84,16 @@ The EITC costs roughly $70–$80 billion annually (2024), making it one of the l
 
 ### Closely related
 - [Earned Income Tax Credit](/wiki/earned-income-tax-credit/) — foundational entry
-- [Child Tax Credit](/wiki/child-tax-credit/) — complementary credit (if entry exists)
+- Child Tax Credit — complementary credit (if entry exists)
 - [Marginal Tax Rate](/wiki/marginal-tax-rate-investor/) — effective rates with phase-out
 - [Alternative Minimum Tax](/wiki/alternative-minimum-tax-investor/) — parallel tax system
-- [Refundable Credit](/wiki/tax-refund/) — mechanism for returning money (if entry exists)
+- Refundable Credit — mechanism for returning money (if entry exists)
 
 ### Wider context
 - [Tax Bracket](/wiki/tax-bracket-investor/) — income-based tax structure
 - [Welfare Benefits](/wiki/unemployment-rate/) — related antipoverty programs
 - [Fiscal Multiplier](/wiki/fiscal-multiplier/) — macro impact of tax credits
-- [Income Inequality](/wiki/gini-coefficient/) — motivation for EITC policy
-- [Poverty Reduction](/wiki/poverty-rate/) — policy goal (if entry exists)
+- Income Inequality — motivation for EITC policy
+- Poverty Reduction — policy goal (if entry exists)
 
 </div>

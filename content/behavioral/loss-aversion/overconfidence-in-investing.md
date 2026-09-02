@@ -62,7 +62,7 @@ The psychological mechanism is clear: recent returns create an illusion of safet
 
 ## The cost of overtrading
 
-Overconfident investors trade more frequently—buying and selling on perceived edges that often don't exist. Each [transaction](/wiki/transaction-costs/) costs (in bid-ask spreads, taxes, and commissions), and frequent trading nearly always underperforms [buy-and-hold](/wiki/buy-and-hold-strategy/) over any meaningful horizon. A study of retail brokerage accounts found that the most active traders had the worst returns—a direct cost of overconfidence in their timing and selection ability.
+Overconfident investors trade more frequently—buying and selling on perceived edges that often don't exist. Each transaction costs (in bid-ask spreads, taxes, and commissions), and frequent trading nearly always underperforms [buy-and-hold](/wiki/buy-and-hold-strategy/) over any meaningful horizon. A study of retail brokerage accounts found that the most active traders had the worst returns—a direct cost of overconfidence in their timing and selection ability.
 
 ## Combating overconfidence
 
@@ -87,7 +87,7 @@ For most investors, the solution is to accept that beating the market is hard an
 ### Wider context
 
 - [Disposition effect](/wiki/disposition-effect-bias/) — How overconfidence shapes buy/sell timing.
-- [Behavioral finance](/wiki/behavioral-loss-aversion/) — Broader category of investor psychology.
+- Behavioral finance — Broader category of investor psychology.
 - [Active management](/wiki/actively-managed-fund/) vs [passive investing](/wiki/passively-managed-fund/) — The empirical case against overconfidence.
 
 </div>

@@ -79,7 +79,7 @@ Institutional investors often favor large multi-strategy funds for their stabili
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/diversification/">Diversification</a> — the risk-management principle underlying the strategy.</li>
-  <li><a href="/wiki/capital-allocation/">Capital allocation</a> — how resources are distributed among strategy pods.</li>
+  <li>Capital allocation — how resources are distributed among strategy pods.</li>
   <li><a href="/wiki/style-rotation/">Style rotation</a> — the dynamic market-regime shifts that affect different strategies.</li>
 </ul>
 </div>

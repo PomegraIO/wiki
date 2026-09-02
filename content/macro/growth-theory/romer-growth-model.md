@@ -54,7 +54,7 @@ This reasoning underpins 21st-century industrial policy: government subsidies fo
 
 Romer's model predicts a *scale effect*: larger populations should yield more innovation, higher growth. Yet empirically, the richest countries (large populations, massive R&D budgets) do not grow faster than smaller rich countries. The U.S., with 330M people, grows at ~2% annually; Switzerland, with 8M, also grows near 2%. This has motivated refinements: perhaps the scale of *world* innovation matters (globalizing R&D), or population size matters for *sustained* growth only if institutions are strong enough to convert ideas into productivity gains (a governance effect).
 
-A second puzzle is that patents and IP protection have not clearly risen in step with growth, questioning the feedback loop. Some researchers argue Romer's model works best in manufacturing-heavy economies and underweights the role of [institutional quality](/wiki/corporate-governance/), rule of law, and [financial market development](/wiki/financial-regulation-and-supervision/).
+A second puzzle is that patents and IP protection have not clearly risen in step with growth, questioning the feedback loop. Some researchers argue Romer's model works best in manufacturing-heavy economies and underweights the role of institutional quality, rule of law, and [financial market development](/wiki/financial-regulation-and-supervision/).
 
 ## Distinction from other endogenous models
 

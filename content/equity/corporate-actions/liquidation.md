@@ -5,7 +5,7 @@ description: "The process of dissolving a company by selling its assets, paying 
 
 *A liquidation is the dissolution and wind-down of a company. The company sells its assets, uses the proceeds to pay creditors and taxes, and distributes any remaining value to shareholders. After liquidation, the company ceases to exist as a legal entity.*
 
-<div class="wiki-hatnote">Distinguished from <a href="/wiki/bankruptcy/">bankruptcy</a>, which is the legal process triggered when a company cannot pay its debts. Liquidation is the mechanism used to resolve bankruptcy.</div>
+<div class="wiki-hatnote">Distinguished from bankruptcy, which is the legal process triggered when a company cannot pay its debts. Liquidation is the mechanism used to resolve bankruptcy.</div>
 
 <aside class="wiki-infobox">
   <div class="wiki-infobox-title">Liquidation — key facts</div>
@@ -61,9 +61,9 @@ In a solvent liquidation, shareholders typically receive a meaningful distributi
 
 ## Involuntary liquidation in bankruptcy
 
-When a company cannot pay its debts, creditors can force liquidation through bankruptcy court. The [bankruptcy](/wiki/bankruptcy/) process determines the order of distribution and ensures all creditors are treated fairly. In liquidation bankruptcy, the company is wound down and assets are sold.
+When a company cannot pay its debts, creditors can force liquidation through bankruptcy court. The bankruptcy process determines the order of distribution and ensures all creditors are treated fairly. In liquidation bankruptcy, the company is wound down and assets are sold.
 
-Some companies instead file for [Chapter 11 bankruptcy](/wiki/bankruptcy/), which allows them to reorganize and emerge as a going concern, rather than liquidate.
+Some companies instead file for Chapter 11 bankruptcy, which allows them to reorganize and emerge as a going concern, rather than liquidate.
 
 ## Tax implications of liquidation
 
@@ -98,14 +98,14 @@ Shareholders have limited rights in a liquidation. Once the process begins, shar
 <h2>See also</h2>
 <h3>Closely related</h3>
 <ul>
-  <li><a href="/wiki/bankruptcy/">Bankruptcy</a> — legal process when a company cannot pay its debts.</li>
+  <li>Bankruptcy — legal process when a company cannot pay its debts.</li>
   <li><a href="/wiki/going-private/">Going private</a> — acquisition to take a company off public markets.</li>
   <li><a href="/wiki/merger/">Merger</a> — combination of two companies into one.</li>
   <li><a href="/wiki/divestiture/">Divestiture</a> — sale of a business division or subsidiary.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events altering company structure or shareholder rights.</li>
+  <li>Corporate actions — events altering company structure or shareholder rights.</li>
   <li><a href="/wiki/preferred-stock/">Preferred stock</a> — equity class with priority over common stock in liquidation.</li>
 </ul>
 </div>

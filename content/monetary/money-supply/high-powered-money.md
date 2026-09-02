@@ -21,7 +21,7 @@ keywords:
 | **Created by** | [Central bank](/wiki/federal-reserve/) open-market operations and [lending](/wiki/interest-on-reserves/) |
 | **Size (US, 2024)** | ~$2.3 trillion (M0) |
 | **Multiple name** | Monetary base, M0, base money, central bank money |
-| **Distinction** | M0 vs. [M1](/wiki/m1/) (adds [checkable deposits](/wiki/deposit-insurance/)) |
+| **Distinction** | M0 vs. [M1](/wiki/m1/) (adds checkable deposits) |
 | **Key function** | Foundation for [credit](/wiki/credit-risk/) expansion |
 | **Control tool** | [Open-market operations](/wiki/open-market-operations/), [discount window](/wiki/discount-window/), [reserve requirements](/wiki/reserve-requirements/) |
 | **Stability** | Determined by central bank policy, not market forces |
@@ -32,15 +32,15 @@ keywords:
 
 The [money supply](/wiki/m1/) is often visualized as layers. At the bottom—the most fundamental—is high-powered money: coins, [bills](/wiki/treasury-bill/), and the [central bank](/wiki/federal-reserve/) entries for bank [reserves](/wiki/reserve-requirements/). This layer is created by the [central bank](/wiki/central-bank/) and is under its direct control.
 
-On top of high-powered money sits [commercial bank](/wiki/federal-reserve/) [deposits](/wiki/deposit-insurance/)—the dollars in a checking or [savings](/wiki/savings-rate/) account. When a bank [lends](/wiki/interest-on-reserves/) out $100 to a borrower, who deposits it with another bank, that $100 is still part of the [money supply](/wiki/m1/). The [commercial banks](/wiki/federal-reserve/) are not creating money from thin air; they are transforming high-powered money (the customer's initial deposit) into a new [deposit](/wiki/deposit-insurance/) at a different bank. But the [money supply](/wiki/m1/) expands because both the lender and the borrower count as money holders.
+On top of high-powered money sits [commercial bank](/wiki/federal-reserve/) deposits—the dollars in a checking or [savings](/wiki/savings-rate/) account. When a bank [lends](/wiki/interest-on-reserves/) out $100 to a borrower, who deposits it with another bank, that $100 is still part of the [money supply](/wiki/m1/). The [commercial banks](/wiki/federal-reserve/) are not creating money from thin air; they are transforming high-powered money (the customer's initial deposit) into a new deposit at a different bank. But the [money supply](/wiki/m1/) expands because both the lender and the borrower count as money holders.
 
-This process is the [credit-creation mechanism](/wiki/credit-creation-mechanism/). [Commercial banks](/wiki/federal-reserve/), armed with some quantity of high-powered money (reserve [deposits](/wiki/deposit-insurance/) at the [central bank](/wiki/federal-reserve/)), can [lend](/wiki/loan-origination-fees/) out a multiple of that amount by relying on [reserve requirements](/wiki/reserve-requirements/) and the assumption that not all depositors will withdraw cash at once.
+This process is the [credit-creation mechanism](/wiki/credit-creation-mechanism/). [Commercial banks](/wiki/federal-reserve/), armed with some quantity of high-powered money (reserve deposits at the [central bank](/wiki/federal-reserve/)), can [lend](/wiki/loan-origination-fees/) out a multiple of that amount by relying on [reserve requirements](/wiki/reserve-requirements/) and the assumption that not all depositors will withdraw cash at once.
 
 ## How central banks create high-powered money
 
 The [Federal Reserve](/wiki/federal-reserve/) creates high-powered money through:
 
-1. **[Open-market operations](/wiki/open-market-operations/)**: The Fed buys [Treasury](/wiki/treasury-bond/) [securities](/wiki/securities-and-exchange-commission/) or other [assets](/wiki/asset-backed-security/) from banks, crediting their reserve [accounts](/wiki/accounts-receivable/) at the Fed. The Fed has "printed" money in the form of reserve [deposits](/wiki/deposit-insurance/). The bank now has more base money to lend out.
+1. **[Open-market operations](/wiki/open-market-operations/)**: The Fed buys [Treasury](/wiki/treasury-bond/) [securities](/wiki/securities-and-exchange-commission/) or other [assets](/wiki/asset-backed-security/) from banks, crediting their reserve [accounts](/wiki/accounts-receivable/) at the Fed. The Fed has "printed" money in the form of reserve deposits. The bank now has more base money to lend out.
 
 2. **[Discount window lending](/wiki/discount-window/)**: [Commercial banks](/wiki/federal-reserve/) can borrow directly from the Fed at the [discount rate](/wiki/discount-rate-fed/). The Fed credits the bank's reserve [account](/wiki/accounts-receivable/), expanding the [monetary base](/wiki/monetary-base/).
 
@@ -50,19 +50,19 @@ In all three cases, the [central bank](/wiki/central-bank/) is expanding the [mo
 
 ## The relationship to M1, M2, and broader money supply aggregates
 
-High-powered money (M0) is only a fraction of the total [money supply](/wiki/m1/). In the US, M0 is roughly $2.3T (as of 2024), but [M1](/wiki/m1/) (currency plus [checkable deposits](/wiki/deposit-insurance/)) is ~$18T, and [M2](/wiki/m2/) (M1 plus [savings accounts](/wiki/savings-rate/) and [money market funds](/wiki/money-market-fund/)) is ~$21T.
+High-powered money (M0) is only a fraction of the total [money supply](/wiki/m1/). In the US, M0 is roughly $2.3T (as of 2024), but [M1](/wiki/m1/) (currency plus checkable deposits) is ~$18T, and [M2](/wiki/m2/) (M1 plus [savings accounts](/wiki/savings-rate/) and [money market funds](/wiki/money-market-fund/)) is ~$21T.
 
-This multiplication reflects the [money multiplier](/wiki/money-multiplier/): the factor by which the [monetary base](/wiki/monetary-base/) expands into a larger [money supply](/wiki/m1/). If [reserve requirements](/wiki/reserve-requirements/) are 10%, the [money multiplier](/wiki/money-multiplier/) is ~10 (each $1 of base money enables $10 of [deposits](/wiki/deposit-insurance/), assuming the reserve ratio holds). In practice, the multiplier is lower—banks hold excess [reserves](/wiki/reserve-requirements/), not all high-powered money is deployed, and the public holds some cash outside the [banking](/wiki/federal-reserve/) system.
+This multiplication reflects the [money multiplier](/wiki/money-multiplier/): the factor by which the [monetary base](/wiki/monetary-base/) expands into a larger [money supply](/wiki/m1/). If [reserve requirements](/wiki/reserve-requirements/) are 10%, the [money multiplier](/wiki/money-multiplier/) is ~10 (each $1 of base money enables $10 of deposits, assuming the reserve ratio holds). In practice, the multiplier is lower—banks hold excess [reserves](/wiki/reserve-requirements/), not all high-powered money is deployed, and the public holds some cash outside the [banking](/wiki/federal-reserve/) system.
 
 ## Why "high-powered"?
 
-The term reflects the [central bank's](/wiki/central-bank/) power. The [Federal Reserve](/wiki/federal-reserve/) can increase the [monetary base](/wiki/monetary-base/) by $1 trillion by decree—buying [securities](/wiki/securities-and-exchange-commission/) and crediting bank [reserves](/wiki/reserve-requirements/). [Commercial banks](/wiki/federal-reserve/) cannot do this; they must attract [deposits](/wiki/deposit-insurance/) or [borrow](/wiki/interest-on-reserves/) from other banks (which does not increase the [monetary base](/wiki/monetary-base/), only redistributes it). The [central bank](/wiki/central-bank/) alone has the power to create base money.
+The term reflects the [central bank's](/wiki/central-bank/) power. The [Federal Reserve](/wiki/federal-reserve/) can increase the [monetary base](/wiki/monetary-base/) by $1 trillion by decree—buying [securities](/wiki/securities-and-exchange-commission/) and crediting bank [reserves](/wiki/reserve-requirements/). [Commercial banks](/wiki/federal-reserve/) cannot do this; they must attract deposits or [borrow](/wiki/interest-on-reserves/) from other banks (which does not increase the [monetary base](/wiki/monetary-base/), only redistributes it). The [central bank](/wiki/central-bank/) alone has the power to create base money.
 
 This power is not unlimited. Expanding the [monetary base](/wiki/monetary-base/) too aggressively causes [inflation](/wiki/inflation/). The [central bank](/wiki/federal-reserve/) must balance using this power to stimulate [employment](/wiki/employment-population-ratio/) and growth with the risk of [inflation](/wiki/inflation/) and [asset](/wiki/asset-backed-security/) bubbles. This is the core tension of [monetary policy](/wiki/monetary-policy/).
 
 ## The [Federal Reserve](/wiki/federal-reserve/) balance sheet and base money
 
-The [Federal Reserve's](/wiki/federal-reserve/) balance sheet is the key mechanism through which high-powered money is created. The assets of the [Federal Reserve](/wiki/federal-reserve/) (mostly [Treasury](/wiki/treasury-bond/) [bonds](/wiki/bond/) and [mortgage](/wiki/mortgage-backed-security/)-backed [securities](/wiki/securities-and-exchange-commission/)) are financed by the [liabilities](/wiki/contingent-liability/) that form the [monetary base](/wiki/monetary-base/): [currency in circulation](/wiki/currency-in-circulation/) and bank [reserve](/wiki/reserve-requirements/) [deposits](/wiki/deposit-insurance/).
+The [Federal Reserve's](/wiki/federal-reserve/) balance sheet is the key mechanism through which high-powered money is created. The assets of the [Federal Reserve](/wiki/federal-reserve/) (mostly [Treasury](/wiki/treasury-bond/) [bonds](/wiki/bond/) and [mortgage](/wiki/mortgage-backed-security/)-backed [securities](/wiki/securities-and-exchange-commission/)) are financed by the [liabilities](/wiki/contingent-liability/) that form the [monetary base](/wiki/monetary-base/): [currency in circulation](/wiki/currency-in-circulation/) and bank [reserve](/wiki/reserve-requirements/) deposits.
 
 When the [Fed](/wiki/federal-reserve/) expands its balance sheet (buying [assets](/wiki/asset-backed-security/)), it is expanding the [monetary base](/wiki/monetary-base/). When it contracts (selling [assets](/wiki/asset-backed-security/) or letting [securities](/wiki/securities-and-exchange-commission/) mature), the [monetary base](/wiki/monetary-base/) shrinks. This is why [quantitative easing](/wiki/quantitative-easing/) (expanding the [Fed's](/wiki/federal-reserve/) balance sheet) is stimulus, and [quantitative tightening](/wiki/quantitative-tightening/) (contraction) is [contractionary](/wiki/contractionary-monetary-policy/).
 
@@ -94,7 +94,7 @@ High-powered money is the foundation of the modern [money supply](/wiki/m1/). [C
 - [Monetary base](/wiki/monetary-base/) — synonymous term
 - [Base money creation](/wiki/base-money-creation/) — the mechanism
 - [Money multiplier](/wiki/money-multiplier/) — expansion factor to broader aggregates
-- [M1](/wiki/m1/) — money supply including [deposits](/wiki/deposit-insurance/)
+- [M1](/wiki/m1/) — money supply including deposits
 - [M2](/wiki/m2/) — broader money supply including [savings](/wiki/savings-rate/)
 
 ### Wider context

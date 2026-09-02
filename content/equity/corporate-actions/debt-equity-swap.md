@@ -14,7 +14,7 @@ keywords:
 
 | Aspect | Detail |
 |---|---|
-| **Purpose** | Debt restructuring, avoiding [bankruptcy](/wiki/bankruptcy/), equity recapitalization |
+| **Purpose** | Debt restructuring, avoiding bankruptcy, equity recapitalization |
 | **Parties** | Debtor company + creditors (bondholders, banks) |
 | **Form** | Exchange of principal, or principal + accrued interest, for new equity |
 | **Trigger** | Insolvency risk, [covenant](/wiki/bond-covenants/) default, distress |
@@ -27,7 +27,7 @@ keywords:
 
 ## Why companies and creditors agree to swaps
 
-A distressed company faces two choices: [liquidate](/wiki/liquidation/) (sell assets, distribute proceeds, file [bankruptcy](/wiki/bankruptcy/)) or [restructure](/wiki/debt-restructuring/) (reduce [debt burden](/wiki/debt-to-equity-ratio/), extend maturity, convert to equity). A debt-equity swap is a restructuring tool.
+A distressed company faces two choices: [liquidate](/wiki/liquidation/) (sell assets, distribute proceeds, file bankruptcy) or [restructure](/wiki/debt-restructuring/) (reduce [debt burden](/wiki/debt-to-equity-ratio/), extend maturity, convert to equity). A debt-equity swap is a restructuring tool.
 
 From the debtor's perspective: the company is cash-strapped and cannot service [debt](/wiki/corporate-debt-structure/). Rather than breach [covenants](/wiki/bond-covenants/) and trigger [acceleration](/wiki/acceleration-clause/), management negotiates with creditors to swap [debt](/wiki/corporate-debt-structure/) for equity. This eliminates cash outflows (no more [coupon](/wiki/coupon-payment/) or principal payments) and preserves the company as a going concern.
 
@@ -80,9 +80,9 @@ Debt-equity swaps are one of several [restructuring](/wiki/debt-restructuring/) 
 
 2. **[Debt-for-equity](/wiki/debt-equity-swap/)** (the subject here): Convert [debt](/wiki/corporate-debt-structure/) to equity.
 
-3. **[Chapter 11 bankruptcy](/wiki/bankruptcy/)**: Use court-supervised reorganization to impose a [plan](/wiki/bankruptcy/) on dissenting [creditors](/wiki/counterparty-credit-risk/). This is more adversarial and costly but binding.
+3. **Chapter 11 bankruptcy**: Use court-supervised reorganization to impose a plan on dissenting [creditors](/wiki/counterparty-credit-risk/). This is more adversarial and costly but binding.
 
-4. **[Cram-down](/wiki/bankruptcy/)**: Courts approve a reorganization plan even if a [creditor](/wiki/counterparty-credit-risk/) class votes against it, if the plan is "fair and equitable."
+4. **Cram-down**: Courts approve a reorganization plan even if a [creditor](/wiki/counterparty-credit-risk/) class votes against it, if the plan is "fair and equitable."
 
 5. **Out-of-court [workouts](/wiki/distressed-market/)**: The debtor and creditors negotiate directly without court involvement, typically faster and cheaper.
 
@@ -107,13 +107,13 @@ To protect equity stakes, former creditors often demand board seats and detailed
 
 ## Conclusion: swaps as a middle path
 
-Debt-equity swaps occupy a middle ground between two extremes: [bankruptcy](/wiki/bankruptcy/) (which destroys enterprise value and creditor relationships) and [forbearance](/wiki/forbearance/) (which delays the day of reckoning). By converting claims into equity stakes, creditors align incentives with management and shareholders to execute a turnaround, while the company gains breathing room. The trade-off is that existing shareholders suffer massive dilution.
+Debt-equity swaps occupy a middle ground between two extremes: bankruptcy (which destroys enterprise value and creditor relationships) and forbearance (which delays the day of reckoning). By converting claims into equity stakes, creditors align incentives with management and shareholders to execute a turnaround, while the company gains breathing room. The trade-off is that existing shareholders suffer massive dilution.
 
 <div class="wiki-seealso">
 
 ### Closely related
 - [Debt restructuring](/wiki/debt-restructuring/) — Broader mechanisms for addressing distressed debt
-- [Bankruptcy](/wiki/bankruptcy/) — Legal process for resolving insolvency
+- Bankruptcy — Legal process for resolving insolvency
 - [Distressed market](/wiki/distressed-market/) — Trading in distressed [debt](/wiki/corporate-debt-structure/) and equity
 - [Bond covenants](/wiki/bond-covenants/) — Terms protecting creditors and triggering default
 

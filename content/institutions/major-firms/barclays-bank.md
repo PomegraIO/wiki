@@ -110,7 +110,7 @@ Post-crisis, Barclays has been more heavily regulated and capitalized than befor
 
 ### Closely related
 - [Universal Bank](/wiki/bank-of-america/) — Multi-line banking model Barclays operates
-- [Investment Banking](/wiki/mergers-acquisitions/) — Major revenue driver
+- Investment Banking — Major revenue driver
 - [Prime Brokerage](/wiki/prime-broker/) — Service to hedge funds
 - [LIBOR](/wiki/libor/) — Benchmark manipulation scandal
 

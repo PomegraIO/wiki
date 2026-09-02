@@ -107,7 +107,7 @@ Without clear assignment, destruction becomes ad-hoc and untrackable.
 
 **Email in particular**: Email has become litigation death rows. A casual company email calling a customer "worthless" or a board member suggesting accounting manipulation can haunt a company for decades. Many companies now retain *all* executive and legal department email indefinitely, accepting storage costs rather than gambling on when an old email might be needed.
 
-**Government investigations**: A [DOJ](/wiki/securities-and-exchange-commission/) investigation, SEC inquiry, or [OSHA](/wiki/occupational-safety-health-administration/) audit can arrive with no warning. A document retention policy must be robust enough that *random* old documents are still available. Many companies now default to longer retention periods and only shred after explicit sign-off.
+**Government investigations**: A [DOJ](/wiki/securities-and-exchange-commission/) investigation, SEC inquiry, or OSHA audit can arrive with no warning. A document retention policy must be robust enough that *random* old documents are still available. Many companies now default to longer retention periods and only shred after explicit sign-off.
 
 ## Data protection and privacy: the retention-minimization tension
 
@@ -155,7 +155,7 @@ A company's policy must be **at least as stringent** as the strictest applicable
 - [SEC](/wiki/securities-and-exchange-commission/) — Regulator with document retention requirements for public companies
 
 ### Wider context
-- [Corporate Governance](/wiki/corporate-governance/) — System of rules and processes directing company operations
+- Corporate Governance — System of rules and processes directing company operations
 - [Compliance Testing Regime](/wiki/compliance-testing-regime/) — Audit and testing of compliance with policies
 - [Whistleblower Protection](/wiki/whistleblower-protection/) — Legal protections for employees reporting violations
 - [Fiduciary Duty](/wiki/fiduciary-duty/) — Legal obligation of directors and officers to act in company/shareholder interest

@@ -9,7 +9,7 @@ keywords:
   - shareholder engagement
 ---
 
-*[Catastrophe bonds](/wiki/catastrophe-bonds-restructure/) (cat bonds) are insurance-linked securities that transfer natural disaster risk from insurers to capital markets investors. **Catastrophe bond activism** is a campaign tactic where environmental groups and safety advocates target insurance and reinsurance firms by pressuring them not to issue cat bonds that finance climate-vulnerable business activities—or to issue them only on condition that proceeds fund climate adaptation or fossil-fuel divestment. The activism reflects a belief that cat bonds enable moral hazard by letting high-risk fossil fuel and coastal development projects shift their disaster insurance costs to the broader capital market.*
+*Catastrophe bonds (cat bonds) are insurance-linked securities that transfer natural disaster risk from insurers to capital markets investors. **Catastrophe bond activism** is a campaign tactic where environmental groups and safety advocates target insurance and reinsurance firms by pressuring them not to issue cat bonds that finance climate-vulnerable business activities—or to issue them only on condition that proceeds fund climate adaptation or fossil-fuel divestment. The activism reflects a belief that cat bonds enable moral hazard by letting high-risk fossil fuel and coastal development projects shift their disaster insurance costs to the broader capital market.*
 
 <aside class="wiki-infobox">
 
@@ -88,13 +88,13 @@ Some analysts view cat bond activism as a signaling tool rather than a market-mo
 <div class="wiki-seealso">
 
 ### Closely related
-- [Catastrophe Bonds](/wiki/catastrophe-bonds-restructure/) — Insurance-linked securities transferring tail risk
+- Catastrophe Bonds — Insurance-linked securities transferring tail risk
 - [Activist Investor Typology](/wiki/activist-investor-typology/) — Forms of shareholder activism
 - [Insurance Activists](/wiki/activist-investor-typology/) — Environmental groups targeting insurers
 - [ESG Divestment Activism](/wiki/esg-divestment-activism/) — Broader climate and environmental shareholder campaigns
 
 ### Wider context
-- [Reinsurance](/wiki/insurance/) — Risk transfer mechanisms in insurance
+- Reinsurance — Risk transfer mechanisms in insurance
 - [Climate Risk](/wiki/inflation-risk/) — Systemic exposure to climate change
 - [Shareholder Activism](/wiki/activist-investor-typology/) — Investor pressure on corporate governance
 - [Financial Stability](/wiki/financial-stability-oversight-council/) — Risk of climate-driven financial crises

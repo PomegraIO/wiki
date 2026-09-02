@@ -65,7 +65,7 @@ In a flat market, ESPPs are a low-cost retention tool. In a rising market, they 
 
 ## Holding and diversification
 
-The key risk with an ESPP is concentration. Employees already have [employment risk](/wiki/concentrated-stock/) (if the company fails, they lose both job and equity). Buying additional stock through ESPP deepens that dependency.
+The key risk with an ESPP is concentration. Employees already have employment risk (if the company fails, they lose both job and equity). Buying additional stock through ESPP deepens that dependency.
 
 Tax-efficient advisors often recommend selling ESPP shares shortly after purchase—often the same day—to lock in the discount and reallocate proceeds into diversified [index funds](/wiki/index-fund/) or [ETFs](/wiki/etf/). The short-term [capital gains tax](/wiki/capital-gains-tax/) is still low compared to the immediate discount.
 

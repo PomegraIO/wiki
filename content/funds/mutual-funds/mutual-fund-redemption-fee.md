@@ -15,7 +15,7 @@ keywords:
 
 <div class="wiki-hatnote">
 
-Do not confuse redemption fees with back-end sales loads ([deferred sales charges](/—/)). A back-end load is a commission paid to an intermediary when you sell; a redemption fee goes to the fund itself and is meant to protect long-term shareholders from the cost of rapid trading.
+Do not confuse redemption fees with back-end sales loads (deferred sales charges). A back-end load is a commission paid to an intermediary when you sell; a redemption fee goes to the fund itself and is meant to protect long-term shareholders from the cost of rapid trading.
 
 </div>
 
@@ -88,7 +88,7 @@ If you have a multi-year or multi-decade holding period, a redemption fee is irr
 
 This is why redemption fees are often ignored by patient investors. They read the fee schedule, see "2.0% redemption fee, 90-day window," and rightly conclude that it has no bearing on their plan. The fee is a tax on trading, not on holding.
 
-For a buy-and-hold [index-fund](/index-fund/) investor in a taxable account, the real costs are the [expense-ratio](/expense-ratio/) and any unexpected [capital-gains distributions](/—/), not redemption fees. Redemption fees matter if you:
+For a buy-and-hold [index-fund](/index-fund/) investor in a taxable account, the real costs are the [expense-ratio](/expense-ratio/) and any unexpected capital-gains distributions, not redemption fees. Redemption fees matter if you:
 
 - Trade frequently within the fund (rare for buy-and-hold).
 - Expect to redeem within months due to a major life event.

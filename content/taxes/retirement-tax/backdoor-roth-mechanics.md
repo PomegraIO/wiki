@@ -30,7 +30,7 @@ keywords:
 
 [Roth IRAs](/wiki/roth-ira/) are limited to earners below certain income thresholds: $146,000–$161,000 for single filers and $230,000–$240,000 for married filers (2024). Above those thresholds, direct contributions are prohibited.
 
-Yet the [tax code](/wiki/internal-revenue-code/) permits unlimited conversions of [traditional IRA](/wiki/ira-traditional/) balances to Roth IRAs, regardless of income. The backdoor Roth exploits this asymmetry: a high earner can contribute to a traditional IRA (which has no income limit on contributions), then convert to a Roth (which has no income limit on conversions).
+Yet the tax code permits unlimited conversions of [traditional IRA](/wiki/ira-traditional/) balances to Roth IRAs, regardless of income. The backdoor Roth exploits this asymmetry: a high earner can contribute to a traditional IRA (which has no income limit on contributions), then convert to a Roth (which has no income limit on conversions).
 
 The government taxes the conversion based on the [cost basis](/wiki/cost-basis/) of the IRA, so the strategy is tax-neutral if the traditional IRA has no pre-tax balance. But if an IRA holds pre-tax funds, the conversion triggers the **pro-rata rule**, which can create unexpected tax liability.
 
@@ -149,7 +149,7 @@ The strategy is worth the effort for serious savers above the income limits.
 - [Roth IRA](/wiki/roth-ira/) — tax-free retirement account; direct contributions capped by income
 - [Traditional IRA](/wiki/ira-traditional/) — tax-deferred retirement account; contributions may be deductible
 - [Roth conversion](/wiki/roth-conversion-personal/) — moving money from traditional to Roth account
-- [Pro-rata rule](/wiki/pro-rata-rule/) — pro-rated taxation of mixed basis conversions
+- Pro-rata rule — pro-rated taxation of mixed basis conversions
 
 ### Wider context
 - [Retirement accounts](/wiki/401k-plan/) — tax-advantaged savings for retirement

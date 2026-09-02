@@ -167,6 +167,6 @@ Most rollup wallets and explorers hide this complexity and simply show a single 
 
 - [Bitcoin](/bitcoin/) — Comparison: Bitcoin has single-chain fees, no rollups
 - [Ethereum](/ethereum/) — Layer 1 that rollups post to
-- [Scalability trade-offs](//) — Rollups sacrifice decentralization/security slightly for throughput
+- Scalability trade-offs — Rollups sacrifice decentralization/security slightly for throughput
 
 </div>

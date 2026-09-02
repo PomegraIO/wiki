@@ -115,7 +115,7 @@ Don't trade the breakout on technicals alone. Wait for earnings, FDA approval, e
 
 If you do trade a breakout in a sideways market, put your stop-loss close to the level (e.g., $104.90 if you're long above $105). This cuts losses fast if it's a fakeout. The reward-to-risk may not be favorable, but at least you're not holding a false breakout for a big loss.
 
-### Use [Relative Strength Index (RSI)](//) or Momentum Filters
+### Use Relative Strength Index (RSI) or Momentum Filters
 
 Overbought/oversold extremes (RSI > 70 or RSI < 30) in a sideways market often precede reversals. If price nears resistance but RSI is already at 70, a fakeout is more likely than a sustainable breakout. Wait for RSI to cool before trading the range edge.
 
@@ -142,9 +142,9 @@ The trader's job in a sideways market is not to force a breakout trade. It's to:
 
 ### Wider context
 
-- [Technical Analysis](//) — broad discipline that support and resistance serves
+- Technical Analysis — broad discipline that support and resistance serves
 - [Momentum Investing](/momentum-investing/) — why momentum trades fail in sideways markets
-- [Volume Indicators](//) — using volume to validate breakouts
-- [Behavioral Bias](//) — mean reversion bias and overconfidence in range-bound patterns
+- Volume Indicators — using volume to validate breakouts
+- Behavioral Bias — mean reversion bias and overconfidence in range-bound patterns
 
 </div>

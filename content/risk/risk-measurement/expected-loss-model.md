@@ -29,11 +29,11 @@ keywords:
 
 **Exposure at Default (EAD)**: The total value of the lender's claim on the borrower at the moment of default. For a term loan, it's the outstanding balance. For a [credit line](/wiki/credit-utilization-ratio/), it's the drawn amount plus an estimate of additional amounts the borrower will draw before defaulting (called the "credit conversion factor"). For a bond, it's the face value of the outstanding issue.
 
-**Loss Given Default (LGD)**: The percentage of EAD that the lender loses after the borrower defaults. If a lender has a $10 million loan to a company secured by $8 million in collateral, and the collateral is sold for $7 million, the LGD is ($10M - $7M) / $10M = 30%. LGD depends on seniority (senior [unsecured](/wiki/unsecured-debt/) claims recover more than junior ones), collateral quality, and recovery costs.
+**Loss Given Default (LGD)**: The percentage of EAD that the lender loses after the borrower defaults. If a lender has a $10 million loan to a company secured by $8 million in collateral, and the collateral is sold for $7 million, the LGD is ($10M - $7M) / $10M = 30%. LGD depends on seniority (senior unsecured claims recover more than junior ones), collateral quality, and recovery costs.
 
 ## A simple example
 
-A bank originates a $5 million [term loan](/wiki/term-loan/) to a manufacturing company. The loan is backed by inventory and equipment worth $3 million. Based on industry data, the bank estimates:
+A bank originates a $5 million term loan to a manufacturing company. The loan is backed by inventory and equipment worth $3 million. Based on industry data, the bank estimates:
 
 - PD: 3% (1 in 33 chance of default in the next year)
 - EAD: $5 million (the full outstanding balance)

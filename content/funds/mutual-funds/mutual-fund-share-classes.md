@@ -58,7 +58,7 @@ The proliferation of share classes creates confusion. Fund families continue add
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/mutual-fund/">Mutual fund</a> — the vehicles offering share classes.</li>
-<li><a href="/wiki/price-discrimination/">Price discrimination</a> — economic concept behind share classes.</li>
+<li>Price discrimination — economic concept behind share classes.</li>
 <li><a href="/wiki/401k-plan/">401k plan</a> — typical holder of R-class shares.</li>
 </ul>
 </div>

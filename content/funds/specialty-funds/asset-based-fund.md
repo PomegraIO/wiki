@@ -73,7 +73,7 @@ They are less suitable for investors needing liquidity, those with low [tax effi
 
 ### Closely related
 - [Real estate investment trust](/wiki/real-estate-investment-trust/) — Publicly traded vehicle for owning real estate
-- [Commodity fund](/wiki/commodity-fund/) — Fund focused on commodity investments
+- Commodity fund — Fund focused on commodity investments
 - [Infrastructure fund](/wiki/infrastructure-fund/) — Fund investing in infrastructure assets
 - [Mutual fund](/wiki/mutual-fund/) — Vehicle for pooling investor capital
 

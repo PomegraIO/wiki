@@ -52,7 +52,7 @@ As defaults rise, [credit spreads](/wiki/credit-spread/) widen. Banks tighten le
 
 ### Phase 4: Second-round effects
 
-Falling home prices trigger [mortgage defaults](/wiki/mortgage-backed-security/). [Auto sales](/wiki/business-cycle/) collapse, forcing layoffs in manufacturing. [Bankruptcies](/wiki/insolvency/) spike. The Fed, now seeing deflation risk, reverses course and cuts rates aggressively.
+Falling home prices trigger [mortgage defaults](/wiki/mortgage-backed-security/). [Auto sales](/wiki/business-cycle/) collapse, forcing layoffs in manufacturing. Bankruptcies spike. The Fed, now seeing deflation risk, reverses course and cuts rates aggressively.
 
 ## Hard vs. soft landing: the policy contest
 

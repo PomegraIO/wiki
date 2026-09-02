@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For parallel patterns, see [channel-pattern](/technical-analysis/channel-pattern). For converging patterns, see [symmetrical-triangle](/technical-analysis/symmetrical-triangle).
+For parallel patterns, see [channel-pattern](/channel-pattern/). For converging patterns, see [symmetrical-triangle](/symmetrical-triangle/).
 
 </div>
 
@@ -114,16 +114,16 @@ Rectangle patterns receive minimal academic study. Their usefulness depends on i
 
 ### Related patterns
 
-- [Channel-pattern](/technical-analysis/channel-pattern) — parallel lines, extended duration
-- [Symmetrical-triangle](/technical-analysis/symmetrical-triangle) — converging lines
-- [Ascending-triangle](/technical-analysis/ascending-triangle) — bullish bias
-- [Descending-triangle](/technical-analysis/descending-triangle) — bearish bias
-- [Flag-pattern](/technical-analysis/flag-pattern) — very narrow rectangle
+- [Channel-pattern](/channel-pattern/) — parallel lines, extended duration
+- [Symmetrical-triangle](/symmetrical-triangle/) — converging lines
+- [Ascending-triangle](/ascending-triangle/) — bullish bias
+- [Descending-triangle](/descending-triangle/) — bearish bias
+- [Flag-pattern](/flag-pattern/) — very narrow rectangle
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — ceiling and floor
-- [Volume](/technical-analysis/on-balance-volume) — confirming breakouts
-- [Trendline](/technical-analysis/trendline) — prior trend context
+- [Support and resistance](/support-and-resistance/) — ceiling and floor
+- [Volume](/on-balance-volume/) — confirming breakouts
+- [Trendline](/trendline/) — prior trend context
 
 </div>

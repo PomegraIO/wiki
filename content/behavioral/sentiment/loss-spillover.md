@@ -30,13 +30,13 @@ Loss spillover differs from [correlation-driven contagion](/wiki/correlation-ris
 
 ## How losses propagate through mental accounting
 
-Behavioral finance explains loss spillover through [mental accounting](/wiki/mental-accounting/) and [loss aversion](/wiki/loss-aversion/). Investors do not evaluate each asset in isolation; they maintain a mental portfolio and experience gains and losses holistically. A major loss in one corner (e.g., a cryptocurrency crash) damages the entire portfolio's perceived safety and increases [risk aversion](/wiki/risk-aversion/) across all holdings. This is heightened when investors are at their [loss-aversion peak](/wiki/loss-aversion/)—meaning they feel losses more acutely than equivalent gains.
+Behavioral finance explains loss spillover through [mental accounting](/wiki/mental-accounting/) and [loss aversion](/wiki/loss-aversion/). Investors do not evaluate each asset in isolation; they maintain a mental portfolio and experience gains and losses holistically. A major loss in one corner (e.g., a cryptocurrency crash) damages the entire portfolio's perceived safety and increases risk aversion across all holdings. This is heightened when investors are at their [loss-aversion peak](/wiki/loss-aversion/)—meaning they feel losses more acutely than equivalent gains.
 
 The mechanism also involves [herding](/wiki/herding-in-markets/). Once some investors begin derisking, their sell orders appear as liquidity stress to others, who interpret it as a signal to derisked themselves. Within hours, [momentum](/wiki/momentum-investing/) carries spillover across regions and asset classes.
 
 ## Real-world evidence: 2020 and 2022 episodes
 
-The March 2020 COVID crash saw all risk assets crater together—equities, [high-yield credit](/wiki/junk-bond/), emerging-market debt, and commodities—despite radically different underlying risks. The spillover was so severe that even [Treasury bonds](/wiki/treasury-bond/), normally [safe havens](/wiki/flight-to-safety/), temporarily sold off due to [forced selling](/wiki/capitulation-selling/) and [margin calls](/wiki/margin-call-forex/). 
+The March 2020 COVID crash saw all risk assets crater together—equities, [high-yield credit](/wiki/junk-bond/), emerging-market debt, and commodities—despite radically different underlying risks. The spillover was so severe that even [Treasury bonds](/wiki/treasury-bond/), normally safe havens, temporarily sold off due to [forced selling](/wiki/capitulation-selling/) and [margin calls](/wiki/margin-call-forex/). 
 
 In 2022, losses in the equity market due to [quantitative tightening](/wiki/quantitative-tightening/) and rate hikes triggered spillover into [credit spreads](/wiki/credit-spread/), [real-estate investment trusts](/wiki/real-estate-investment-trust/), and emerging markets. Again, the spillover was disproportionate to each asset's exposure to the underlying Fed policy shock.
 

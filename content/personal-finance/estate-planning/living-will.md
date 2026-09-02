@@ -10,7 +10,7 @@ keywords:
 
 *A **living will** is a legal document in which you state what medical treatments you do or do not want if you become critically ill or injured and cannot speak for yourself.*
 
-A living will is distinct from a traditional last will, which governs the distribution of property after death. A living will addresses the period when you are still alive but incapacitated — unable to communicate your wishes. It instructs doctors and hospitals whether to pursue aggressive life support (ventilators, feeding tubes, CPR) or pursue comfort care instead. It is one part of an [advance-directive](/wiki/advance-directive/) framework, which may also include a [healthcare proxy](/wiki/healthcare-proxy/) (someone empowered to make decisions on your behalf) and organ donation preferences.
+A living will is distinct from a traditional last will, which governs the distribution of property after death. A living will addresses the period when you are still alive but incapacitated — unable to communicate your wishes. It instructs doctors and hospitals whether to pursue aggressive life support (ventilators, feeding tubes, CPR) or pursue comfort care instead. It is one part of an advance-directive framework, which may also include a [healthcare proxy](/wiki/healthcare-proxy/) (someone empowered to make decisions on your behalf) and organ donation preferences.
 
 <aside class="wiki-infobox">
 
@@ -96,7 +96,7 @@ In an [estate plan](/wiki/estate-tax/), all three documents (living will, health
 - [Estate tax](/wiki/estate-tax/) — Tax implications of your estate planning
 
 ### Wider context
-- [Estate planning](/wiki/estate-planning/) — Overall framework for managing your affairs after death or incapacity
+- Estate planning — Overall framework for managing your affairs after death or incapacity
 - [Will creation](/wiki/will-creation/) — How to write a traditional will for property distribution
 - [Trust establishment](/wiki/trust-establishment/) — Alternative to will-based estate planning
 - [Probate process](/wiki/probate-process/) — How courts settle estates

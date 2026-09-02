@@ -95,7 +95,7 @@ There is no worldwide standard, creating arbitrage opportunities for traders who
 - [Short Selling Tactics and Manipulation](/wiki/short-squeeze/) — How shorts interact with price and supply.
 
 ### Wider context
-- [Market Manipulation](/wiki/market-manipulation/) — Illegal practices to distort prices.
+- Market Manipulation — Illegal practices to distort prices.
 - [Regulation SHO](/wiki/regulation-sho/) — SEC rule governing short sales.
 - [Securities and Exchange Commission](/wiki/securities-and-exchange-commission/) — U.S. securities regulator.
 - [Stock Lending Market](/wiki/stock-lending-market/) — Supply and demand for borrowed shares.

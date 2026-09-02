@@ -45,7 +45,7 @@ Beverages are subject to food safety regulation, labeling requirements, and ingr
 
 ## Looking to SEC Filings
 
-Investors should examine JSDA's [10-K](/10-K/) for trend data on product sales, gross margin, customer concentration (which retail chains represent the largest percentage of sales), and capital expenditure plans. The company's debt load relative to [cash flow](/free-cash-flow/) indicates financial flexibility. Any supply chain disruptions, regulatory investigations, or product recalls should be disclosed.
+Investors should examine JSDA's [10-K](/10-k/) for trend data on product sales, gross margin, customer concentration (which retail chains represent the largest percentage of sales), and capital expenditure plans. The company's debt load relative to [cash flow](/free-cash-flow/) indicates financial flexibility. Any supply chain disruptions, regulatory investigations, or product recalls should be disclosed.
 
 <div class="wiki-seealso">
 ### Closely related

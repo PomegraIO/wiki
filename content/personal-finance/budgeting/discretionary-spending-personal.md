@@ -99,7 +99,7 @@ Optimal discretionary spending varies by life stage:
 
 Ultimately, discretionary spending decisions reflect values and priorities. A household allocating 40% of income to discretionary spending is making a statement: enjoyment and lifestyle now are worth more than future purchasing power or financial security. This is not inherently wrong, but it has consequences for wealth accumulation, [retirement-readiness](/wiki/safe-withdrawal-rate/), and financial resilience.
 
-Conversely, a household allocating only 10% to discretionary spending (prioritizing 40%+ savings) is deferring lifestyle enjoyment. The [trade-off](/wiki/present-value/) between spending and saving is deeply personal and reflects risk tolerance, time horizons, and life goals. Financial planning frameworks help households consciously make this trade-off rather than defaulting to high spending due to [lifestyle-creep](/wiki/lifestyle-creep/).
+Conversely, a household allocating only 10% to discretionary spending (prioritizing 40%+ savings) is deferring lifestyle enjoyment. The trade-off between spending and saving is deeply personal and reflects risk tolerance, time horizons, and life goals. Financial planning frameworks help households consciously make this trade-off rather than defaulting to high spending due to [lifestyle-creep](/wiki/lifestyle-creep/).
 
 <div class="wiki-seealso">
 

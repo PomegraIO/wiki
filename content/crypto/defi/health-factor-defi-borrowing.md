@@ -176,13 +176,13 @@ The protocol's liquidation threshold and your health factor are the guardrails o
 
 - [DeFi liquidation penalty explained](/defi-liquidation-penalty-explained/) — the cost you pay when HF drops to 1.0
 - [Real yield DeFi vs inflationary yield](/real-yield-defi-vs-inflationary-yield/) — understanding protocol incentives and borrowing sustainability
-- [Collateral](/—/) — the assets securing your debt
+- Collateral — the assets securing your debt
 - [Leverage](/leverage-ratio-forex/) — general concept of borrowing for amplified returns
 
 ### Wider context
 
 - [Blockchain fundamentals](/blockchain-fundamentals/) — how DeFi protocols execute liquidations on-chain
-- [Risk management](/—/) — broader borrowing and margin discipline
+- Risk management — broader borrowing and margin discipline
 - [Cryptocurrency exchange](/cryptocurrency-exchange/) — where liquidators dump collateral
 - [Volatility](/currency-volatility/) — the force that moves health factors
 

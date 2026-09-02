@@ -101,13 +101,13 @@ Most traders don't rely on pivots alone. Common additions:
 
 - **[Momentum indicators](/wiki/momentum-factor/)** ([RSI](/wiki/rsi-relative-strength/), [MACD](/wiki/macd-indicator/)) — confirm whether price is overbought or oversold near pivot levels.
 - **Volume profile** — heavy volume near pivot points strengthens the level; light volume weakens it.
-- **[Moving averages](/wiki/moving-averages/)** — use daily 50-MA or 200-MA as a macro filter. Don't fade the major trend near pivots.
+- **Moving averages** — use daily 50-MA or 200-MA as a macro filter. Don't fade the major trend near pivots.
 - **[Volatility measures](/wiki/implied-volatility/)** — on high-volatility days, pivot levels widen and become less reliable.
 
 ## Pitfalls and overfitting
 
 - **Assuming yesterday's range persists** — pivot levels are *derived* from yesterday but tell you nothing about today's range. A volatile opening gap often negates the calculation.
-- **Overreliance on one level** — traders often fixate on R1 or S1 and ignore the bigger [technical context](/wiki/technical-analysis/).
+- **Overreliance on one level** — traders often fixate on R1 or S1 and ignore the bigger technical context.
 - **Backtesting bias** — pivot point systems backtest well on past data (because the formula is fixed) but may underperform in real time due to changing correlations and trading participation.
 
 <div class="wiki-seealso">
@@ -116,7 +116,7 @@ Most traders don't rely on pivots alone. Common additions:
 - [Support and resistance](/wiki/support-and-resistance/) — the foundational concept
 - [Support zone (floor)](/wiki/support-zone-floor/) — how price clusters at key levels
 - [Resistance zone (ceiling)](/wiki/resistance-zone-ceiling/) — upper bound of traded price ranges
-- [Technical analysis](/wiki/technical-analysis/) — broader framework
+- Technical analysis — broader framework
 - [Day trading](/wiki/day-trading/) — primary use case for pivot points
 
 ### Wider context

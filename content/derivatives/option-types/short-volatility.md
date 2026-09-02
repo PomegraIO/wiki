@@ -95,7 +95,7 @@ Systematic short volatility traders exit or reduce positions when volatility is 
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational contract.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/theta/">Theta</a> — daily profit from time decay.</li>
 </ul>
 </div>

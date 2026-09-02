@@ -31,7 +31,7 @@ For the traditional approach, see <a href="/wiki/federal-funds-rate/">Federal Fu
 
 ## How the corridor contains overnight rates
 
-An overnight interest rate (such as [SOFR](/wiki/sofr/), [SONIA](/wiki/sonia/), [EONIA](/wiki/eonia/)) is the rate at which banks lend and borrow reserves in the [federal funds market](/wiki/federal-funds-market/) (or equivalent inter-bank markets). Left unmanaged, overnight rates would fluctuate wildly based on daily supply and demand for reserves.
+An overnight interest rate (such as [SOFR](/wiki/sofr/), [SONIA](/wiki/sonia/), EONIA) is the rate at which banks lend and borrow reserves in the [federal funds market](/wiki/federal-funds-market/) (or equivalent inter-bank markets). Left unmanaged, overnight rates would fluctuate wildly based on daily supply and demand for reserves.
 
 The corridor system creates **automatic stabilizers**:
 
@@ -105,7 +105,7 @@ Most developed central banks now use corridor systems:
 
 - **[European Central Bank](/wiki/european-central-bank/)**: 50 bps corridor, deposit facility at -50 bps (below zero during 2014–2022), lending facility at +50 bps.
 - **[Bank of England](/wiki/bank-of-england/)**: Similar 50 bps structure.
-- **[Swiss National Bank](/wiki/swiss-national-bank/)**: Wider corridor, adapted for Swiss franc dynamics.
+- **Swiss National Bank**: Wider corridor, adapted for Swiss franc dynamics.
 
 The shift to negative [interest rates](/wiki/interest-rate/) in the eurozone and Japan required widening corridors to accommodate negative deposit rates (paying banks to hold excess reserves) while keeping the lending ceiling at or above zero.
 

@@ -36,7 +36,7 @@ A ratio above 1.0 signals the company can meet obligations. A ratio between 1.5 
 
 ## Industry variation and context
 
-The "healthy" ratio depends entirely on business model. A [retailer](/wiki/retail-property-challenges/) with rapid inventory turnover and immediate cash collection might operate at 1.2–1.5 because inventory converts to cash quickly. A [manufacturing](/wiki/manufacturing/) company with long production cycles and seasonal demand might need 2.0–2.5 to absorb timing mismatches. A [utility](/wiki/utility-token/) with stable revenues and regulated rates might operate at 1.0–1.3 because cash flow is predictable.
+The "healthy" ratio depends entirely on business model. A [retailer](/wiki/retail-property-challenges/) with rapid inventory turnover and immediate cash collection might operate at 1.2–1.5 because inventory converts to cash quickly. A manufacturing company with long production cycles and seasonal demand might need 2.0–2.5 to absorb timing mismatches. A [utility](/wiki/utility-token/) with stable revenues and regulated rates might operate at 1.0–1.3 because cash flow is predictable.
 
 Comparing a retailer's working capital ratio to a manufacturer's is meaningless; the comparison must be within peer groups or trends over time.
 

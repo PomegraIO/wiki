@@ -37,7 +37,7 @@ The constant buying and selling required to keep weights equal generates two fri
 
 ## Performance in different market regimes
 
-Equal weight shines when small stocks outperform large ones—a rotation that favors [value](/wiki/value-factor/) and "buy the dip" behavior. During market rallies led by the [Magnificent Seven](/wiki/concentrated-portfolio/) technology giants, equal weight drags. The S&P 500 equal weight has alternated between crushing the cap-weighted version (2003–2006, 2016–2017) and trailing it sharply (2019–2021, 2023–2024). This regime dependence makes equal weight a tactical tool for investors with a specific bet on small-cap or value rotation, not a static core holding.
+Equal weight shines when small stocks outperform large ones—a rotation that favors [value](/wiki/value-factor/) and "buy the dip" behavior. During market rallies led by the Magnificent Seven technology giants, equal weight drags. The S&P 500 equal weight has alternated between crushing the cap-weighted version (2003–2006, 2016–2017) and trailing it sharply (2019–2021, 2023–2024). This regime dependence makes equal weight a tactical tool for investors with a specific bet on small-cap or value rotation, not a static core holding.
 
 ## How to trade equal weight
 

@@ -51,7 +51,7 @@ A contango's width is determined largely by storage economics. The formula is ro
 
 **Contango spread ≈ storage rent + insurance + financing cost (interest) − convenience yield**
 
-[Storage](/commodities.svg) rent is straightforward: tank costs per barrel per month. Insurance covers the inventory. Financing cost is the interest paid to fund the purchase and holding. The "convenience yield" is the benefit of having oil on hand right now—not a cash cost, but a convenience to producers and refiners who need immediate supply.
+Storage rent is straightforward: tank costs per barrel per month. Insurance covers the inventory. Financing cost is the interest paid to fund the purchase and holding. The "convenience yield" is the benefit of having oil on hand right now—not a cash cost, but a convenience to producers and refiners who need immediate supply.
 
 When US crude stockpiles are high and tank space is plentiful, storage rent falls and contango tightens. When tanks run lean and space becomes scarce, rent rises and contango can widen. Similarly, high [interest rates](/interest-rate/) expand the financing cost component, widening contango; falling rates compress it.
 

@@ -14,7 +14,7 @@ keywords:
 
 <div class="wiki-hatnote">
 
-Do not confuse contra assets with [liabilities](//) or expense accounts. A contra asset is still an asset account; it simply has a negative balance that offsets another asset.
+Do not confuse contra assets with liabilities or expense accounts. A contra asset is still an asset account; it simply has a negative balance that offsets another asset.
 
 </div>
 
@@ -132,8 +132,8 @@ Investors and analysts pay close attention to contra accounts for clues about as
 
 - [Generally Accepted Accounting Principles](/generally-accepted-accounting-principles/) — the framework governing contra accounts
 - [International Financial Reporting Standards](/international-financial-reporting-standards/) — IFRS treatment of contra accounts
-- [Asset Valuation](//) — how assets are measured on financial statements
+- Asset Valuation — how assets are measured on financial statements
 - [Income Statement](/income-statement/) — where contra account adjustments (depreciation, bad debt) flow through
-- [Financial Analysis](//) — interpreting asset quality from contra account ratios
+- Financial Analysis — interpreting asset quality from contra account ratios
 
 </div>

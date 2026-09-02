@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **point-and-figure chart** (or **P&F chart**) displays price movement as a two-dimensional grid where X's represent upward price moves and O's represent downward moves. Each column of X's or O's represents a single up or down movement; a new column starts only when price reverses by a specified amount. Time is irrelevant; the chart focuses entirely on price levels and reversals. Point-and-figure charts are prized for identifying support, resistance, [breakouts](/technical-analysis/channel-pattern), and clean chart patterns. They are one of the oldest technical analysis tools, dating back to the 1800s.*
+*A **point-and-figure chart** (or **P&F chart**) displays price movement as a two-dimensional grid where X's represent upward price moves and O's represent downward moves. Each column of X's or O's represents a single up or down movement; a new column starts only when price reverses by a specified amount. Time is irrelevant; the chart focuses entirely on price levels and reversals. Point-and-figure charts are prized for identifying support, resistance, [breakouts](/channel-pattern/), and clean chart patterns. They are one of the oldest technical analysis tools, dating back to the 1800s.*
 
 <div class="wiki-hatnote">
 
-For time-based charts, see [candlestick chart](/technical-analysis/candlestick-chart). Other price-based alternatives include [renko](/technical-analysis/renko-chart) and [kagi](/technical-analysis/kagi-chart) charts.
+For time-based charts, see [candlestick chart](/candlestick-chart/). Other price-based alternatives include [renko](/renko-chart/) and [kagi](/kagi-chart/) charts.
 
 </div>
 
@@ -127,7 +127,7 @@ Point-and-figure charts were standard before candlesticks became popular. Profes
 
 A trader might:
 1. Use a P&F chart (with $1 box, 3-box reversal) to identify major support at $95 and resistance at $110.
-2. Switch to a daily candlestick chart to wait for price to approach $95, then look for a bullish pattern ([hammer](/technical-analysis/hammer-candle), [doji](/technical-analysis/doji), etc.) to enter long.
+2. Switch to a daily candlestick chart to wait for price to approach $95, then look for a bullish pattern ([hammer](/hammer-candle/), [doji](/doji/), etc.) to enter long.
 3. Use the P&F chart to identify the $110 resistance level as a profit target.
 
 ## Academic perspective
@@ -140,15 +140,15 @@ Point-and-figure charts have minimal academic study. While some early research r
 
 ### Price-based charts
 
-- [Renko chart](/technical-analysis/renko-chart) — fixed-size bricks, similar philosophy
-- [Kagi chart](/technical-analysis/kagi-chart) — thin/thick lines based on reversals
-- [Candlestick chart](/technical-analysis/candlestick-chart) — time-based alternative
-- [Line chart](/technical-analysis/line-chart) — closes only
+- [Renko chart](/renko-chart/) — fixed-size bricks, similar philosophy
+- [Kagi chart](/kagi-chart/) — thin/thick lines based on reversals
+- [Candlestick chart](/candlestick-chart/) — time-based alternative
+- [Line chart](/line-chart/) — closes only
 
 ### Analysis concepts
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — especially clear on P&F
-- [Head-and-shoulders](/technical-analysis/head-and-shoulders) — classic pattern visible on P&F
-- [Double-top](/technical-analysis/double-top) and [double-bottom](/technical-analysis/double-bottom) — geometric patterns on P&F
+- [Support and resistance](/support-and-resistance/) — especially clear on P&F
+- [Head-and-shoulders](/head-and-shoulders/) — classic pattern visible on P&F
+- [Double-top](/double-top/) and [double-bottom](/double-bottom/) — geometric patterns on P&F
 
 </div>

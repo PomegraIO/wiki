@@ -34,11 +34,11 @@ The [basis](/wiki/basis/) reflects [cost of carry](/wiki/cost-of-carry/): storag
 
 **Convenience yields shift:** In tight supply years, holding physical inventory has high value (you can sell high-quality inventory at a premium). Convenience yield widens the [basis](/wiki/basis/). In abundant supply years, inventory is worthless; convenience yield falls, [basis](/wiki/basis/) tightens.
 
-**Supply and demand expectations shift:** A crop report showing abundance will compress the [basis](/wiki/basis/]) (the market expects more supply, making physical less valuable). A geopolitical shock that threatens supplies will widen the [basis](/wiki/basis/) (physical becomes more precious).
+**Supply and demand expectations shift:** A crop report showing abundance will compress the [basis](/basis/) (the market expects more supply, making physical less valuable). A geopolitical shock that threatens supplies will widen the [basis](/wiki/basis/) (physical becomes more precious).
 
 ## Location and grade basis risk
 
-Farmers do not all face the same [basis](/wiki/basis/]). A farmer in Nebraska shipping to an Illinois elevator faces different logistics costs than a farmer in Iowa shipping locally.
+Farmers do not all face the same [basis](/basis/). A farmer in Nebraska shipping to an Illinois elevator faces different logistics costs than a farmer in Iowa shipping locally.
 
 The [futures](/wiki/futures-contract/) contract specifies delivery location(s). If the farmer is 500 miles from the nearest approved delivery point, they must transport their corn to deliver [futures](/wiki/futures-contract/), creating a location-specific [basis](/wiki/basis/].
 
@@ -92,7 +92,7 @@ But if [basis](/wiki/basis/) behaves unexpectedly (correlation breaks down, logi
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broader category of risk-transfer tools.</li>
-<li><a href="/wiki/risk-management/">Risk management</a> — the strategic context for accepting [basis](/wiki/basis/) risk as a trade-off for eliminating directional risk.</li>
+<li>Derivatives — the broader category of risk-transfer tools.</li>
+<li>Risk management — the strategic context for accepting [basis](/wiki/basis/) risk as a trade-off for eliminating directional risk.</li>
 </ul>
 </div>

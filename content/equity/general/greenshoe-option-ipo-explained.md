@@ -96,13 +96,13 @@ In some markets or for some issuers, the underwriter may negotiate a call option
 - [Underwriter](/broker/) — the lead bank executing the greenshoe
 - [Market Maker, Trading](/market-maker-trading/) — stabilization is akin to market making
 - [Bid-Ask Spread](/bid-ask-spread/) — tightens when underwriter credibly bids support
-- [Lock-up Period](//) — the IPO restriction period related to greenshoe stabilization window
+- Lock-up Period — the IPO restriction period related to greenshoe stabilization window
 
 ### Wider context
 
 - [Equity Financing](/equity-financing/) — the capital-raising context in which IPOs occur
 - [Primary Market](/primary-market/) — where IPOs are priced and sold to first buyers
 - [Secondary Market](/secondary-market/) — where the stock trades after listing and greenshoe expires
-- [Dilution](//) — the ownership impact of greenshoe exercise on existing shareholders
+- Dilution — the ownership impact of greenshoe exercise on existing shareholders
 
 </div>

@@ -9,7 +9,7 @@ keywords:
   - economic cycles
 ---
 
-***Creative destruction**, coined by economist Joseph Schumpeter, describes how [capitalism](/wiki/capital-allocation/) progresses: new innovations displace incumbent firms and industries, destroying old structures while creating new ones. A railroad company doesn't slowly evolve into an airline; it fails and is replaced. This process is the engine of [economic growth](/wiki/gross-domestic-product/) and why [monopolies](/wiki/market-maker-obligations/) are temporary.*
+***Creative destruction**, coined by economist Joseph Schumpeter, describes how capitalism progresses: new innovations displace incumbent firms and industries, destroying old structures while creating new ones. A railroad company doesn't slowly evolve into an airline; it fails and is replaced. This process is the engine of [economic growth](/wiki/gross-domestic-product/) and why [monopolies](/wiki/market-maker-obligations/) are temporary.*
 
 <aside class="wiki-infobox">
 
@@ -45,7 +45,7 @@ Schumpeter's insight flipped the classical economic narrative:
 
 **Schumpeter's view** — entrepreneurs capture temporary monopoly profits (supernormal rents) by introducing innovations that competitors can't immediately copy. These monopoly rents fuel investment in the next wave of innovation. As competitors eventually copy, profits erode, but the entrepreneur has already moved to the next disruption. Growth is perpetual because the profit motive *forces* continuous innovation.
 
-This explains why [capitalist economies](/wiki/capitalism/) grow faster than planned economies in the long run—profit incentives align with innovation, while central planning optimizes for stability and predictability.
+This explains why capitalist economies grow faster than planned economies in the long run—profit incentives align with innovation, while central planning optimizes for stability and predictability.
 
 ## Entrepreneurship and the [entrepreneur investor](/wiki/venture-capital-fund/)
 
@@ -55,7 +55,7 @@ The entrepreneur is the mechanism of creative destruction. Unlike a manager who 
 - **Netflix** — not a movie studio, but a distribution technology that destroyed Blockbuster Video's franchise model.
 - **Uber** — not a taxi company, but a software platform that forced taxi medallion values to crater in many cities.
 
-Entrepreneurs are compensated with temporary [monopoly](/wiki/monopoly/) rents, which align incentives. An entrepreneur who captures 10% of a new market earns far more than a manager optimizing a declining industry at 5% margins.
+Entrepreneurs are compensated with temporary monopoly rents, which align incentives. An entrepreneur who captures 10% of a new market earns far more than a manager optimizing a declining industry at 5% margins.
 
 ## The dark side: disruption and displacement
 
@@ -68,7 +68,7 @@ Schumpeter acknowledged that creative destruction is painful for those who lose.
 
 This lag between destruction and creation explains political resistance to innovation and [regulation](/wiki/regulation-cf/). Voters from displaced industries demand tariffs, subsidies, or restrictions on imports/competitors. [Protectionism](/wiki/protectionism/) slows creative destruction by propping up the old.
 
-## Creative destruction and [valuations](/wiki/valuation/)
+## Creative destruction and valuations
 
 Schumpeter's framework explains why [valuation multiples](/wiki/multiples-valuation/) are highest for disruptors and lowest for declining industries:
 
@@ -93,9 +93,9 @@ Each wave creates wealth for early movers and destroys wealth for those tied to 
 
 A question: if creative destruction is so powerful, why do [monopolies](/wiki/market-capitalization/) exist?
 
-Schumpeter's answer: monopolies are temporary. A [monopoly](/wiki/monopoly/) arises when an entrepreneur captures a large market share with a genuinely superior product. But competitors eventually copy or improve, eroding the monopoly. The monopoly profits the incumbent earned fund investment in the next innovation, but the monopoly itself is doomed.
+Schumpeter's answer: monopolies are temporary. A monopoly arises when an entrepreneur captures a large market share with a genuinely superior product. But competitors eventually copy or improve, eroding the monopoly. The monopoly profits the incumbent earned fund investment in the next innovation, but the monopoly itself is doomed.
 
-This explains why [antitrust](/wiki/antitrust/) regulation can be counterproductive if too aggressive—breaking up a monopoly too early can suppress the innovation that would have unseated it anyway. The monopoly profits are the engine of the next disruption.
+This explains why antitrust regulation can be counterproductive if too aggressive—breaking up a monopoly too early can suppress the innovation that would have unseated it anyway. The monopoly profits are the engine of the next disruption.
 
 ## Modern examples and debates
 
@@ -119,15 +119,15 @@ Not all economists accept Schumpeter's framework uncritically:
 <div class="wiki-seealso">
 
 ### Closely related
-- [Innovation](/wiki/innovation/) — the engine of creative destruction
-- [Monopoly](/wiki/monopoly/) — the temporary structure created by disruption
+- Innovation — the engine of creative destruction
+- Monopoly — the temporary structure created by disruption
 - [Competitive advantage](/wiki/deep-moat-investing/) — how disruptors gain edge
 - [Entrepreneurship](/wiki/venture-capital-fund/) — the mechanism of creative destruction
 - [Economic growth](/wiki/gross-domestic-product/) — the outcome of creative destruction
 
 ### Wider context
 - [Business cycle](/wiki/business-cycle/) — the rhythm of expansion and contraction
-- [Capitalism](/wiki/capital-allocation/) — the system within which creative destruction operates
+- Capitalism — the system within which creative destruction operates
 - [Technological spillover](/wiki/technological-spillover/) — how innovation spreads
 - [Disrupted market](/wiki/distressed-market/) — industries undergoing creative destruction
 - [Value trap avoidance](/wiki/value-trap-avoidance-fund/) — the risk of buying declining industries

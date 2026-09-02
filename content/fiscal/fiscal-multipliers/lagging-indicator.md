@@ -9,10 +9,10 @@ keywords:
   - gdp growth
 ---
 
-*A **Lagging Indicator** is any economic statistic that systematically confirms [business cycle](/wiki/business-cycle/) turning points *after* they have already occurred, moving in the same direction as the overall economy but with a consistent delay of weeks to months. Unlike [leading indicators](/wiki/leading-indicators/) that foreshadow recessions and expansions, lagging indicators are backward-looking; they are most useful for historians and policy-makers verifying that a cycle phase has definitively begun, and for [algorithmic trading](/wiki/algorithmic-trading/) systems that combine them with real-time price data to confirm already-suspected inflection points.*
+*A **Lagging Indicator** is any economic statistic that systematically confirms [business cycle](/wiki/business-cycle/) turning points *after* they have already occurred, moving in the same direction as the overall economy but with a consistent delay of weeks to months. Unlike leading indicators that foreshadow recessions and expansions, lagging indicators are backward-looking; they are most useful for historians and policy-makers verifying that a cycle phase has definitively begun, and for [algorithmic trading](/wiki/algorithmic-trading/) systems that combine them with real-time price data to confirm already-suspected inflection points.*
 
 <div class="wiki-hatnote">
-For forward-looking alternatives, see <a href="/wiki/leading-indicators/">Leading Indicators</a>. For the full business-cycle framework, see <a href="/wiki/business-cycle/">Business Cycle</a>.
+For forward-looking alternatives, see Leading Indicators. For the full business-cycle framework, see <a href="/wiki/business-cycle/">Business Cycle</a>.
 </div>
 
 <aside class="wiki-infobox">
@@ -37,11 +37,11 @@ The most reliable lagging indicators involve employment and business credit, bec
 
 ## The money and credit aggregates as lagging measures
 
-[Monetary policy](/wiki/monetary-policy/) operates with a lag; [the Federal Reserve](/wiki/federal-reserve/) raises rates expecting to cool growth months later, but credit spreads, [money supply](/wiki/money-supply/) measures (M1, M2, M3), and loan-loss provisions lag the policy shift by 1–4 months. Commercial and industrial lending, a bellwether of business borrowing to fund expansion, typically contracts only after a [recession](/wiki/recession/) is well underway. This makes credit data a classic lagging confirmation tool: the data tells the story *after* the market has already priced the cycle shift.
+[Monetary policy](/wiki/monetary-policy/) operates with a lag; [the Federal Reserve](/wiki/federal-reserve/) raises rates expecting to cool growth months later, but credit spreads, money supply measures (M1, M2, M3), and loan-loss provisions lag the policy shift by 1–4 months. Commercial and industrial lending, a bellwether of business borrowing to fund expansion, typically contracts only after a [recession](/wiki/recession/) is well underway. This makes credit data a classic lagging confirmation tool: the data tells the story *after* the market has already priced the cycle shift.
 
 ## Why peak and trough confirmation matters
 
-The official date of a recession is determined retrospectively by the National Bureau of Economic Research (NBER), which relies heavily on lagging indicators like [GDP](/wiki/gross-domestic-product/), employment, and industrial production. The NBER typically declares a recession 6–12 months *after* it has begun, once sufficient lagging data has accumulated to rule out false signals. This lag is not a weakness — it is a strength for certainty. By the time the [National Bureau of Economic Research](/wiki/nber-recession-dating/) formally declares a recession, the stock market (a leading indicator) has often already recovered 20–30% from its trough.
+The official date of a recession is determined retrospectively by the National Bureau of Economic Research (NBER), which relies heavily on lagging indicators like [GDP](/wiki/gross-domestic-product/), employment, and industrial production. The NBER typically declares a recession 6–12 months *after* it has begun, once sufficient lagging data has accumulated to rule out false signals. This lag is not a weakness — it is a strength for certainty. By the time the National Bureau of Economic Research formally declares a recession, the stock market (a leading indicator) has often already recovered 20–30% from its trough.
 
 ## Constructing lagging-indicator indexes
 
@@ -70,20 +70,20 @@ In the NBER's framework, there are three types of cycle indicators:
 - **Coincident** (peak and trough at the same time as overall cycle).
 - **Lagging** (peak and trough after the overall cycle has already turned).
 
-[Coincident indicators](/wiki/coincident-indicators/) — [industrial production](/wiki/industrial-production-index/), employment level, [income](/wiki/income-statement/), sales — are less useful for calling turns because they confirm the cycle in real-time but with minimal advance notice. Lagging indicators extend the confirmation into the already-past, which seems less useful, but they are valuable precisely *because* they are unambiguous and move reliably, reducing the false-signal risk that plagues leading indicators.
+Coincident indicators — [industrial production](/wiki/industrial-production-index/), employment level, [income](/wiki/income-statement/), sales — are less useful for calling turns because they confirm the cycle in real-time but with minimal advance notice. Lagging indicators extend the confirmation into the already-past, which seems less useful, but they are valuable precisely *because* they are unambiguous and move reliably, reducing the false-signal risk that plagues leading indicators.
 
 <div class="wiki-seealso">
 
 ### Closely related
 - [Business cycle](/wiki/business-cycle/) — The underlying economic framework
-- [Leading indicators](/wiki/leading-indicators/) — Forward-looking cycle signals
+- Leading indicators — Forward-looking cycle signals
 - [Unemployment rate](/wiki/unemployment-rate/) — Key lagging employment statistic
 - [Continuing jobless claims](/wiki/continuing-jobless-claims/) — Weekly lagging labor data
 - [Recession](/wiki/recession/) — Formal declaration of contraction phases
 
 ### Wider context
-- [Economic indicators](/wiki/economic-indicators/) — The full taxonomy of statistics
-- [Coincident indicators](/wiki/coincident-indicators/) — Real-time cycle confirmations
+- Economic indicators — The full taxonomy of statistics
+- Coincident indicators — Real-time cycle confirmations
 - [GDP](/wiki/gross-domestic-product/) — The anchor measure of economic activity
 - [Monetary policy](/wiki/monetary-policy/) — The policy framework that cycles affect
 

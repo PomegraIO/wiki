@@ -161,6 +161,6 @@ Private company employees often face a liquidity gap: their equity is valuable b
 <ul>
   <li><a href="/wiki/common-stock/">Common Stock</a> — the underlying equity that employee shares typically are or convert to.</li>
   <li><a href="/wiki/vesting-schedule/">Vesting Schedule</a> — the timeline for employee shares becoming fully earned.</li>
-  <li><a href="/wiki/stock-based-compensation/">Stock-Based Compensation</a> — the company's accounting and expense recognition of employee equity.</li>
+  <li>Stock-Based Compensation — the company's accounting and expense recognition of employee equity.</li>
 </ul>
 </div>

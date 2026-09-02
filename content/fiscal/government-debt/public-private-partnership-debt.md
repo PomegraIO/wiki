@@ -38,7 +38,7 @@ The accounting for PPP debt is murky. If the government has not technically borr
 
 ## The United Kingdom example
 
-The UK used PFI (Private Finance Initiative, a form of PPP) extensively in the 1990s and 2000s to finance hospitals, schools, and prisons without explicit government borrowing. The private sectors built and operated the facilities; the UK government paid long-term service fees. By the 2010s, the PFI stock was estimated at £215 billion in long-term obligations, but these did not appear in traditional [government debt](/wiki/government-debt/) figures. Critics argued this had concealed the true scale of public-sector liabilities. Recent UK PPPs have faced renegotiations due to cost overruns and poor value for money.
+The UK used PFI (Private Finance Initiative, a form of PPP) extensively in the 1990s and 2000s to finance hospitals, schools, and prisons without explicit government borrowing. The private sectors built and operated the facilities; the UK government paid long-term service fees. By the 2010s, the PFI stock was estimated at £215 billion in long-term obligations, but these did not appear in traditional government debt figures. Critics argued this had concealed the true scale of public-sector liabilities. Recent UK PPPs have faced renegotiations due to cost overruns and poor value for money.
 
 ## Risk transfer and moral hazard
 
@@ -64,9 +64,9 @@ Rating agencies and sovereign-debt analysts now explicitly factor PPP obligation
 
 ### Closely related
 - [Sovereign debt](/wiki/sovereign-debt/) — explicit government borrowing and obligations
-- [Government debt](/wiki/government-debt/) — broader stock of public-sector liabilities
+- Government debt — broader stock of public-sector liabilities
 - [Off-balance-sheet](/wiki/off-balance-sheet/) — obligations not shown in formal accounts
-- [Project finance](/wiki/project-finance/) — financing infrastructure through cash-flow-based lending
+- Project finance — financing infrastructure through cash-flow-based lending
 
 ### Wider context
 - [Fiscal sustainability](/wiki/fiscal-sustainability/) — whether government debt can be serviced indefinitely

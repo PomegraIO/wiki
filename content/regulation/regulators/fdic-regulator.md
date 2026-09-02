@@ -77,7 +77,7 @@ The FDIC's examination process includes:
 
 **Asset quality**: Examiners review the bank's loan portfolio, marking loans as "pass," "special mention," "substandard," "doubtful," or "loss." High ratios of substandard loans indicate deteriorating credit quality.
 
-**Liquidity and funding**: Examiners assess whether the bank has sufficient liquid assets to meet [deposit](/wiki/deposit/) withdrawals and funding needs. Mismatches (long-term assets, short-term liabilities) are flagged.
+**Liquidity and funding**: Examiners assess whether the bank has sufficient liquid assets to meet deposit withdrawals and funding needs. Mismatches (long-term assets, short-term liabilities) are flagged.
 
 **Operational risk**: Examiners examine the bank's internal controls, compliance with regulations, and management quality. Weak controls or compliance failures result in enforcement actions.
 

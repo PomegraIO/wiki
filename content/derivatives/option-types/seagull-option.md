@@ -93,7 +93,7 @@ They're rare in equity markets, where simpler spreads are more liquid. Most equi
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational contract.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/currency-option/">Currency option</a> — where seagulls commonly appear.</li>
 </ul>
 </div>

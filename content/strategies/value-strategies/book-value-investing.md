@@ -54,7 +54,7 @@ Some discounts to book value are temporary. A cyclical manufacturer in a downtur
 
 ## Modern practitioners and limitations
 
-Modern value investors use book value as one tool among many. Joel Greenblatt's "[magic formula](/wiki/magic-formula/)" combines low price-to-book and high [return on invested capital](/wiki/return-on-invested-capital/). Systematic investors screen for book value discounts, then layer on profitability and growth filters. Pure book value investing—buying solely because price-to-book is low—has underperformed in recent decades, partly because the best businesses (those with high intangible value) trade at premiums to book value, and this gap has widened. The strategy remains effective in undervalued, capital-intensive sectors, but investors should not expect it to outperform across all markets indefinitely.
+Modern value investors use book value as one tool among many. Joel Greenblatt's "magic formula" combines low price-to-book and high [return on invested capital](/wiki/return-on-invested-capital/). Systematic investors screen for book value discounts, then layer on profitability and growth filters. Pure book value investing—buying solely because price-to-book is low—has underperformed in recent decades, partly because the best businesses (those with high intangible value) trade at premiums to book value, and this gap has widened. The strategy remains effective in undervalued, capital-intensive sectors, but investors should not expect it to outperform across all markets indefinitely.
 
 <div class="wiki-seealso">
 
@@ -65,7 +65,7 @@ Modern value investors use book value as one tool among many. Joel Greenblatt's 
 
 ### Wider context
 - [Benjamin Graham](/wiki/benjamin-graham/) — Founder of the approach
-- [Tangible Assets](/wiki/tangible-assets/) — Balance-sheet components
+- Tangible Assets — Balance-sheet components
 - [Value Trap](/wiki/value-trap-avoidance-fund/) — Risk when discount persists
 
 </div>

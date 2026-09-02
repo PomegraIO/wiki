@@ -57,7 +57,7 @@ From the buyer's perspective, theta is the enemy. Every day that passes, the pos
 
 From the seller's perspective (the writer of the option), theta is the friend. A short [call](/wiki/call-option/) or short [put](/wiki/put-option/) generates a daily profit from time decay, independent of stock price movement. Sellers of [covered calls](/wiki/covered-call/) and cash-secured [puts](/wiki/cash-secured-put/) can be net profiting from theta while the stock price barely moves.
 
-This is why [option selling strategies](/wiki/put-selling-strategies/) often work best in calm, range-bound markets: theta compounds daily, but the stock is not moving enough to trigger large losses on the short side.
+This is why option selling strategies often work best in calm, range-bound markets: theta compounds daily, but the stock is not moving enough to trigger large losses on the short side.
 
 ## Relationship to other Greeks
 
@@ -71,7 +71,7 @@ This is why professional options traders manage Greeks in combination. They migh
 
 Implied volatility and theta are linked. In high-volatility environments, options have more time value (more chance of a large move), and theta is larger in absolute dollars. When volatility collapses, time value shrinks, and theta is smaller.
 
-A trader holding an option position in a low-volatility market suffers less from daily theta decay than the same position held in a high-volatility market. This is why [volatility crush](/wiki/volatility-crush/) can be devastating for long-premium strategies: not only does the stock fail to move, but implied volatility collapses, eroding time value and accelerating theta decay.
+A trader holding an option position in a low-volatility market suffers less from daily theta decay than the same position held in a high-volatility market. This is why volatility crush can be devastating for long-premium strategies: not only does the stock fail to move, but implied volatility collapses, eroding time value and accelerating theta decay.
 
 ## Practical strategies exploiting theta
 

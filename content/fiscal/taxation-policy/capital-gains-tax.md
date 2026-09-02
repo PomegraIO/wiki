@@ -26,7 +26,7 @@ keywords:
 
 When you buy a [stock](/wiki/stock/) for $100 and sell it for $150, the $50 gain is a capital gain. If you held the stock for more than one year, it qualifies for **long-term capital gain** treatment and is taxed at a lower rate. If you held it for one year or less, it is a **short-term capital gain** and is taxed as ordinary [income](/wiki/income-statement/)—potentially at a much higher marginal rate.
 
-This rate asymmetry is intentional: governments want to encourage investors to hold assets longer, stabilizing markets and generating government revenue from long-term wealth creation rather than short-term trading churn. It also reduces [portfolio turnover](/wiki/turnover-ratio/) and associated [trading costs](/wiki/transaction/), which benefits savers overall.
+This rate asymmetry is intentional: governments want to encourage investors to hold assets longer, stabilizing markets and generating government revenue from long-term wealth creation rather than short-term trading churn. It also reduces [portfolio turnover](/wiki/turnover-ratio/) and associated trading costs, which benefits savers overall.
 
 ## Long-term capital gains rates and income brackets
 

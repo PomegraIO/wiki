@@ -60,7 +60,7 @@ Similarly, if consensus requires coordination (e.g., a few large exchanges decid
 
 ## Attacks on weaker chains
 
-Smaller blockchains are vulnerable. A chain with $1 billion in staked value can be attacked by acquiring $510 million worth of stake—expensive but possible for well-funded actors. This is why **[51% attacks](/wiki/51-attack/)** have occurred on smaller proof-of-work chains: an attacker rented mining power, attacked the chain, reversed transactions for profit, and vanished.
+Smaller blockchains are vulnerable. A chain with $1 billion in staked value can be attacked by acquiring $510 million worth of stake—expensive but possible for well-funded actors. This is why **51% attacks** have occurred on smaller proof-of-work chains: an attacker rented mining power, attacked the chain, reversed transactions for profit, and vanished.
 
 The defense is economic growth: if the chain's market cap and security budget grow large enough, attacks become uneconomical.
 

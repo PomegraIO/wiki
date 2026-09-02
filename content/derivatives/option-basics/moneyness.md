@@ -31,7 +31,7 @@ Constructing [vertical spreads](/wiki/vertical-spread/), [straddles](/wiki/strad
 
 ## Spot-strike ratio vs. percentage difference
 
-Some traders use spot ÷ strike (the moneyness ratio); others use (spot − strike) ÷ strike (the percentage difference). Both are useful. A ratio of 1.10 means 10% in-the-money; a percentage of 10% means the same. The ratio approach is cleaner for [lognormal](/wiki/probability-distributions/) models used in pricing; the percentage approach is more intuitive for casual traders.
+Some traders use spot ÷ strike (the moneyness ratio); others use (spot − strike) ÷ strike (the percentage difference). Both are useful. A ratio of 1.10 means 10% in-the-money; a percentage of 10% means the same. The ratio approach is cleaner for lognormal models used in pricing; the percentage approach is more intuitive for casual traders.
 
 <div class="wiki-seealso">
 <h2>See also</h2>

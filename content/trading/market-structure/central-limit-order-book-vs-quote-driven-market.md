@@ -77,7 +77,7 @@ In a quote-driven market, the spread is a dealers' revenue. Dealers can widen sp
 
 ## Regulation and transparency
 
-CLOBs are typically heavily regulated. Exchanges must publish bid-ask quotes and order books in real time, and trading rules are public. The SEC mandates real-time public reporting of stock trades and the [Reg SHO](http://example.com) framework governs short sales. This transparency reduces insider advantage and market manipulation.
+CLOBs are typically heavily regulated. Exchanges must publish bid-ask quotes and order books in real time, and trading rules are public. The SEC mandates real-time public reporting of stock trades and the Reg SHO framework governs short sales. This transparency reduces insider advantage and market manipulation.
 
 Quote-driven markets have lighter transparency rules, especially in OTC instruments. A bond dealer can quote a client without publishing that quote broadly; only the immediate trade may be reported (and often with a time delay). This opacity can protect market makers' inventory strategies but also allows information asymmetries to persist.
 

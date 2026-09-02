@@ -76,7 +76,7 @@ Volume is another critical cross-check. A bounce off a moving average on light v
 - [MACD Indicator](/wiki/macd-indicator/) — trend-following tool
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — discipline overview
+- Technical Analysis — discipline overview
 - [Trend Following](/wiki/trend-following/) — philosophical approach
 - [Mean Reversion Investing](/wiki/mean-reversion-investing/) — opposing strategy
 - [Market Regime Momentum](/wiki/market-regime-momentum/) — regime detection

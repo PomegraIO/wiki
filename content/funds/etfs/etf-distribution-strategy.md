@@ -91,6 +91,6 @@ This is a risky comparison because a higher distribution might indicate higher [
 <ul>
 <li><a href="/wiki/etf/">ETF</a> — the broader structure.</li>
 <li><a href="/wiki/income-etf/">Income ETF</a> — distribution-focused funds.</li>
-<li><a href="/wiki/dividend-reinvestment/">Dividend Reinvestment</a> — the decision on distributions.</li>
+<li>Dividend Reinvestment — the decision on distributions.</li>
 </ul>
 </div>

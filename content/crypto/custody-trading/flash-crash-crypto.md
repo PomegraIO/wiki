@@ -60,7 +60,7 @@ The extreme case is when a [liquidation](/wiki/liquidation/) on one exchange cas
 
 On May 12, 2021, [Bitcoin](/wiki/bitcoin/) flash-crashed from $50,000 to $43,000 in minutes. The trigger was unclear (possibly margin calls on Lendingclub, large block trades, or coordinated selling). The crash triggered 8+ billion dollars in liquidations across all exchanges in 24 hours.
 
-Leveraged long positions in [altcoins](/wiki/altcoins/) were wiped out wholesale. Traders who were betting on continued upside lost everything. By May 13, the market had recovered most of the loss, but the intraday violence was extreme.
+Leveraged long positions in altcoins were wiped out wholesale. Traders who were betting on continued upside lost everything. By May 13, the market had recovered most of the loss, but the intraday violence was extreme.
 
 ## Unique risks in crypto vs traditional flash crashes
 

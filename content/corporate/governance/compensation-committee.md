@@ -65,6 +65,6 @@ While the CEO's pay gets the most attention (and the most transparency), the com
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/board-of-directors/">Board of Directors</a> — the parent body overseeing all committees.</li>
-  <li><a href="/wiki/corporate-governance/">Corporate Governance</a> — the broader framework of rules and practices.</li>
+  <li>Corporate Governance — the broader framework of rules and practices.</li>
 </ul>
 </div>

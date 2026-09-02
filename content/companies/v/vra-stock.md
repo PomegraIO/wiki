@@ -16,7 +16,7 @@ handwritten: true
 <dt>Ticker</dt>
 <dd>VRA</dd>
 <dt>Exchange</dt>
-<dd><a href="/wiki/nasdaq-stock-market/">NASDAQ</a></dd>
+<dd>NASDAQ</dd>
 <dt>SEC CIK</dt>
 <dd>1495320</dd>
 <dt>Sector</dt>

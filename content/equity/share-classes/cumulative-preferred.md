@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*Cumulative preferred stock is a variant of [preferred stock](/equity/preferred-stock/) in which unpaid dividends accumulate and must be paid to preferred shareholders before any dividends go to [common shareholders](/equity/common-stock/). If a company skips its preferred dividend for three years, all three years of dividends accrue (cumulate) and must be paid in full before the company can pay common dividends. Cumulative preferred is the market standard; non-cumulative preferred is rare.*
+*Cumulative preferred stock is a variant of [preferred stock](/preferred-stock/) in which unpaid dividends accumulate and must be paid to preferred shareholders before any dividends go to [common shareholders](/common-stock/). If a company skips its preferred dividend for three years, all three years of dividends accrue (cumulate) and must be paid in full before the company can pay common dividends. Cumulative preferred is the market standard; non-cumulative preferred is rare.*
 
 <aside class="wiki-infobox">
 
@@ -122,7 +122,7 @@ If preferred has zero arrears and the company is well-capitalized, the preferred
 
 **Non-cumulative preferred**: Unpaid dividends are forfeited; no accumulation.
 
-**[Participating preferred](/equity/participating-preferred/)**: Preferred receives its fixed dividend PLUS a share of additional profits beyond the preferred dividend level. Participating preferred is almost always cumulative.
+**[Participating preferred](/participating-preferred/)**: Preferred receives its fixed dividend PLUS a share of additional profits beyond the preferred dividend level. Participating preferred is almost always cumulative.
 
 ## Dividend arrears and restructurings
 
@@ -138,18 +138,18 @@ This allows the company to reset and move forward without an impossible dividend
 
 ### Closely related
 
-- [Preferred stock](/equity/preferred-stock/) — the general category
-- [Participating preferred](/equity/participating-preferred/) — often also cumulative
-- [Callable preferred](/equity/callable-preferred/) — can interact with cumulative terms
+- [Preferred stock](/preferred-stock/) — the general category
+- [Participating preferred](/participating-preferred/) — often also cumulative
+- [Callable preferred](/callable-preferred/) — can interact with cumulative terms
 - [Dividend](/dividend/) — the income being accumulated
-- [Common stock](/equity/common-stock/) — subordinate to cumulative preferred
+- [Common stock](/common-stock/) — subordinate to cumulative preferred
 
 ### Wider context
 
 - [Public company](/public-company/) — issues cumulative preferred
-- [Capital structure](/equity/cumulative-preferred/) — where preferred sits
-- [Leverage buyout](/equity/cumulative-preferred/) — heavy user of cumulative preferred
-- [Financial distress](/equity/cumulative-preferred/) — often indicated by arrears
-- [Restructuring](/equity/cumulative-preferred/) — may negotiate dividend forgiveness
+- [Capital structure](/cumulative-preferred/) — where preferred sits
+- [Leverage buyout](/cumulative-preferred/) — heavy user of cumulative preferred
+- [Financial distress](/cumulative-preferred/) — often indicated by arrears
+- [Restructuring](/cumulative-preferred/) — may negotiate dividend forgiveness
 
 </div>

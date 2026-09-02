@@ -88,7 +88,7 @@ Some employees feel the match is "not enough" and avoid 401k contributions becau
 
 ### Wider context
 - [Equity Compensation](/wiki/equity-compensation/) — How employers also provide stock options and RSUs
-- [Deferred Compensation](/wiki/deferred-compensation/) — Strategies for deferring income and taxes
+- Deferred Compensation — Strategies for deferring income and taxes
 - [Roth IRA](/wiki/roth-ira/) — Individual retirement account with tax-free growth
 - [Retirement Investing](/wiki/ira-traditional/) — Overview of pre-tax and post-tax retirement accounts
 

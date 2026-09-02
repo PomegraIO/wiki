@@ -32,7 +32,7 @@ Recapitalization takes many forms depending on the company's objectives:
 
 **Optimize the capital structure.** Every company has a target capital structure (mix of debt and equity) that minimizes its weighted average cost of capital. If the company's actual structure deviates from the target, recapitalization can align them.
 
-**Address financial distress.** A company drowning in debt can recapitalize by exchanging debt for equity. Creditors accept lower priority and reduced interest in exchange for equity upside. This is common in [debt restructuring](/wiki/debt-restructuring/) or [bankruptcy](/wiki/bankruptcy/) situations.
+**Address financial distress.** A company drowning in debt can recapitalize by exchanging debt for equity. Creditors accept lower priority and reduced interest in exchange for equity upside. This is common in [debt restructuring](/wiki/debt-restructuring/) or bankruptcy situations.
 
 **Refinance maturing debt.** A company with significant debt due can recapitalize by issuing new debt with longer maturity, pushing the obligation further into the future.
 
@@ -89,13 +89,13 @@ A recapitalization is not a [merger](/wiki/merger/) or [acquisition](/wiki/acqui
 <h3>Closely related</h3>
 <ul>
   <li><a href="/wiki/debt-restructuring/">Debt restructuring</a> — renegotiation of debt terms to ease obligations.</li>
-  <li><a href="/wiki/leverage/">Leverage</a> — use of debt to increase returns on equity.</li>
+  <li>Leverage — use of debt to increase returns on equity.</li>
   <li><a href="/wiki/preferred-stock/">Preferred stock</a> — equity class with priority dividend and claim on assets.</li>
-  <li><a href="/wiki/capital-structure/">Capital structure</a> — mix of debt and equity financing a company uses.</li>
+  <li>Capital structure — mix of debt and equity financing a company uses.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events altering company structure or shareholder rights.</li>
-  <li><a href="/wiki/bankruptcy/">Bankruptcy</a> — legal process for handling insolvency.</li>
+  <li>Corporate actions — events altering company structure or shareholder rights.</li>
+  <li>Bankruptcy — legal process for handling insolvency.</li>
 </ul>
 </div>

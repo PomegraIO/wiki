@@ -91,18 +91,18 @@ Public R&D and education can boost frontier productivity, but they do not solve 
 
 ### Closely related
 
-- [Unemployment rate](/macro/unemployment-rate/) — labor market tightness and wage dynamics in aging societies
-- [Labor productivity](/macro/labor/) — the metric that aging directly affects
-- [Recession](/macro/recession/) — aging can flatten cyclical upswings
-- [Return on equity](/finance/return-on-equity/) — aging workforce correlates with lower firm ROE
-- [Discretionary spending](/macro/discretionary-spending/) — shifts from investment to entitlement
-- [Inflation](/macro/inflation/) — aging societies face lower demand-push price pressure
+- [Unemployment rate](/unemployment-rate/) — labor market tightness and wage dynamics in aging societies
+- Labor productivity — the metric that aging directly affects
+- [Recession](/recession/) — aging can flatten cyclical upswings
+- [Return on equity](/return-on-equity/) — aging workforce correlates with lower firm ROE
+- [Discretionary spending](/discretionary-spending/) — shifts from investment to entitlement
+- [Inflation](/inflation/) — aging societies face lower demand-push price pressure
 
 ### Wider context
 
-- [Gross domestic product](/macro/gross-domestic-product/) — long-run growth slows with aging
-- [Interest rate](/macro/interest-rate/) — central banks react to persistent low growth
-- [Capital flows](/macro/capital-flows/) — aging shifts savings patterns globally
-- [Reserve requirements](/institutions/reserve-requirements/) — regulatory responses to changing demographics
+- [Gross domestic product](/gross-domestic-product/) — long-run growth slows with aging
+- [Interest rate](/interest-rate/) — central banks react to persistent low growth
+- [Capital flows](/capital-flows/) — aging shifts savings patterns globally
+- [Reserve requirements](/reserve-requirements/) — regulatory responses to changing demographics
 
 </div>

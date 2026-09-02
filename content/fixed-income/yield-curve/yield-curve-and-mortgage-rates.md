@@ -10,7 +10,7 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*The **yield curve affects mortgage rates** because lenders fund mortgages in the [bond](/bond/) market and price them based on Treasury yields at the relevant maturity, plus a credit and risk premium. A shift in the 10-year Treasury yield — the primary benchmark for 30-year fixed-rate mortgages — ripples directly to borrowers' monthly payments, while [adjustable-rate mortgages](//) track shorter rates and respond to different parts of the curve.*
+*The **yield curve affects mortgage rates** because lenders fund mortgages in the [bond](/bond/) market and price them based on Treasury yields at the relevant maturity, plus a credit and risk premium. A shift in the 10-year Treasury yield — the primary benchmark for 30-year fixed-rate mortgages — ripples directly to borrowers' monthly payments, while adjustable-rate mortgages track shorter rates and respond to different parts of the curve.*
 
 ## The mechanics of mortgage pricing
 
@@ -41,7 +41,7 @@ A flat or inverted curve signals economic stress or a [recession](/recession/) a
 
 ## Adjustable-rate mortgages and floating rates
 
-An [adjustable-rate mortgage](//) (ARM) is typically pegged to a short-term rate, often the [SOFR](/sofr/) (Secured Overnight Financing Rate) or prime rate, which track the Fed's [federal funds rate](/federal-funds-rate/). ARMs are sensitive to the short end of the [yield curve](/yield-curve/).
+An adjustable-rate mortgage (ARM) is typically pegged to a short-term rate, often the [SOFR](/sofr/) (Secured Overnight Financing Rate) or prime rate, which track the Fed's [federal funds rate](/federal-funds-rate/). ARMs are sensitive to the short end of the [yield curve](/yield-curve/).
 
 When the Fed raises short-term rates, ARM borrowers see their monthly payments rise after the initial fixed period expires (usually 3, 5, 7, or 10 years). The 2-year or 5-year Treasury yield has historically been a rough benchmark for ARM pricing. During periods of [Fed tightening](/), the short end of the yield curve rises steeply, and ARM rates climb ahead of fixed rates.
 
@@ -84,7 +84,7 @@ This transmission mechanism — from Fed policy to Treasury yields to mortgage r
 - [Yield Curve](/yield-curve/) — the rate environment that underlies mortgage pricing
 - [Treasury Bond](/treasury-bond/) — the benchmark asset for mortgage rates
 - [Fixed-Rate Mortgage](/fixed-rate-mortgage-personal/) — the primary mortgage product tied to long-term yields
-- [Adjustable-Rate Mortgage](//) — the ARM alternative tied to short-term rates
+- Adjustable-Rate Mortgage — the ARM alternative tied to short-term rates
 - [Mortgage-Backed Security](/mortgage-backed-security/) — the secondary market for mortgages
 
 ### Wider context
@@ -93,6 +93,6 @@ This transmission mechanism — from Fed policy to Treasury yields to mortgage r
 - [Federal Reserve](/federal-reserve/) — the policy driver behind curve movements
 - [Interest Rate Risk](/interest-rate-risk/) — the risk to both borrowers and investors
 - [Parallel Shift in the Yield Curve](/yield-curve-parallel-shift/) — how broad curve moves impact mortgages
-- [Quantitative Easing](//) — the Fed tool that directly targets long-term Treasury yields
+- Quantitative Easing — the Fed tool that directly targets long-term Treasury yields
 
 </div>

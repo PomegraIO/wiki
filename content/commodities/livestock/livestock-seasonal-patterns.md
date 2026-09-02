@@ -24,7 +24,7 @@ keywords:
 
 ## Cattle: breeding to slaughter
 
-The cattle cycle lasts roughly three years from breeding to a finished steer on the auction block. In spring, ranchers breed cows (a long-term commitment). Calves arrive in winter and spring of the following year. Those calves spend a year on [pasture](/wiki/livestock-feed-conversion/), then transition to feedlots where they gain final weight on grain and hay. This natural timeline creates predictable [price seasonality](/wiki/seasonality/). Spring calves mean supply dips in summer and autumn—exactly when grass becomes abundant and ranchers can feed larger herds cheaply. Conversely, winter brings tight supply because herds are culled, slaughter capacity maxes out, and feed costs spike. [Live cattle futures](/wiki/live-cattle/) prices typically peak in winter and valley in late summer or early fall when grass-fed cattle flood the market.
+The cattle cycle lasts roughly three years from breeding to a finished steer on the auction block. In spring, ranchers breed cows (a long-term commitment). Calves arrive in winter and spring of the following year. Those calves spend a year on [pasture](/wiki/livestock-feed-conversion/), then transition to feedlots where they gain final weight on grain and hay. This natural timeline creates predictable price seasonality. Spring calves mean supply dips in summer and autumn—exactly when grass becomes abundant and ranchers can feed larger herds cheaply. Conversely, winter brings tight supply because herds are culled, slaughter capacity maxes out, and feed costs spike. [Live cattle futures](/wiki/live-cattle/) prices typically peak in winter and valley in late summer or early fall when grass-fed cattle flood the market.
 
 ## Feed costs and the hog cycle
 

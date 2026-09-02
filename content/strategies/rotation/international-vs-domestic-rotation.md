@@ -28,7 +28,7 @@ keywords:
 
 Equity markets in different regions move on different economic cycles, [interest rates](/wiki/interest-rate/), and valuations. The US [stock market](/wiki/stock-market/) might trade at a 18× [price-to-earnings multiple](/wiki/price-to-earnings-ratio/) while [European](/wiki/frankfurt-stock-market/) stocks trade at 14×, or vice versa. A rotation strategy attempts to buy the cheaper region and sell the more expensive one.
 
-This is distinct from [strategic asset allocation](/wiki/strategic-asset-allocation/), which fixes your long-term weight to, say, 60% US equities and 40% international. A tactical rotation says: "60/40 is our baseline, but we will tactically move to 70% US and 30% international if the US looks especially cheap, or 50% US and 50% international if the international region has better [earnings growth](/wiki/earnings-per-share/) and lower [valuations](/wiki/valuation-real-options/)."
+This is distinct from [strategic asset allocation](/wiki/strategic-asset-allocation/), which fixes your long-term weight to, say, 60% US equities and 40% international. A tactical rotation says: "60/40 is our baseline, but we will tactically move to 70% US and 30% international if the US looks especially cheap, or 50% US and 50% international if the international region has better [earnings growth](/wiki/earnings-per-share/) and lower valuations."
 
 ## Key drivers: valuation and earnings momentum
 
@@ -95,7 +95,7 @@ This is straightforward but requires discipline to follow even when the strategy
 
 - **Timing risk**: A rotation out of the US and into international just before a US market surge forfeits the gains.
 - **[Currency](/wiki/currency-pair/) whipsaw**: You rotate into Japan just as the [yen](/wiki/japanese-yen/) begins depreciating, offsetting equity gains.
-- **Convergence of valuations**: You buy international because it is cheap, but the [valuation gap](/wiki/valuation-real-options/) closes via the international market falling, not rising.
+- **Convergence of valuations**: You buy international because it is cheap, but the valuation gap closes via the international market falling, not rising.
 - **Overconfidence in forecasts**: [Earnings growth](/wiki/earnings-per-share/) and [interest rate](/wiki/interest-rate/) forecasts are notoriously inaccurate, especially beyond 6-12 months.
 
 ## Cross-links and further reading

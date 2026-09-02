@@ -109,6 +109,6 @@ For target shareholders, hostile bids are beneficial because they force a higher
 - [Merger and acquisition](/wiki/acquisition/) — The broader M&A context
 - [Board of directors](/wiki/board-of-directors/) — Target governance that resists hostile bids
 - [Proxy fight](/wiki/proxy-fight/) — Alternative or complementary route to control
-- [Corporate governance](/wiki/corporate-governance/) — The tension between board and shareholder power
+- Corporate governance — The tension between board and shareholder power
 
 </div>

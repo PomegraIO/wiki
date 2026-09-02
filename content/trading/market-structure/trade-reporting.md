@@ -62,7 +62,7 @@ Full real-time transparency can create problems. If a large [dark pool](/wiki/da
 
 ## Tick data and archiving
 
-The [consolidated tape](/wiki/consolidated-tape/) publishes all trade data in real-time and archives it for historical analysis. Researchers and traders can download the entire day's trading data for any security and analyze price movements, [volume](/wiki/volume/), and execution quality. This archive is critical for academic research on market behavior and for post-trade compliance review.
+The [consolidated tape](/wiki/consolidated-tape/) publishes all trade data in real-time and archives it for historical analysis. Researchers and traders can download the entire day's trading data for any security and analyze price movements, volume, and execution quality. This archive is critical for academic research on market behavior and for post-trade compliance review.
 
 <div class="wiki-seealso">
 <h2>See also</h2>
@@ -74,7 +74,7 @@ The [consolidated tape](/wiki/consolidated-tape/) publishes all trade data in re
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/sec/">SEC</a> — regulator requiring trade reporting.</li>
+  <li>SEC — regulator requiring trade reporting.</li>
   <li><a href="/wiki/insider-trading-law/">Insider trading</a> — enforcement relies on trade reporting data.</li>
   <li><a href="/wiki/stock-exchange/">Stock exchange</a> — venues that report trades.</li>
 </ul>

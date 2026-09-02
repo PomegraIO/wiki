@@ -43,7 +43,7 @@ This changed with the 2014 Shanghai-Hong Kong Stock Connect program, which allow
 
 The Shanghai Composite includes roughly 1,500 state-owned enterprises (SOEs), many with implicit government backing. This creates a structural difference from Western indices: the Chinese government actively manages stock prices during crises via state-owned investment vehicles, circuit breakers, trading halts, and capital controls. During the 2015 stock-market panic, the government ordered state-owned funds to buy equities, circuit breakers halted trading, and [short selling](/wiki/short-selling/) was banned. This intervention calms panic in real-time but undermines market-price discovery and erodes [efficient market](/wiki/market-risk/) assumptions.
 
-Many large Shanghai Composite constituents are [monopolies](/wiki/monopoly/) or oligopolies with implicit government guarantees (State Grid, China National Petroleum, China Mobile). This reduces [bankruptcy risk](/wiki/bankruptcy/) but also means their valuations are political decisions as much as economic ones.
+Many large Shanghai Composite constituents are monopolies or oligopolies with implicit government guarantees (State Grid, China National Petroleum, China Mobile). This reduces bankruptcy risk but also means their valuations are political decisions as much as economic ones.
 
 ## Valuation and momentum cycles
 
@@ -65,7 +65,7 @@ Foreign investors holding Shanghai Composite-listed shares face [currency risk](
 
 Direct investment in Shanghai Composite stocks is possible via Stock Connect programs (if you have access through Hong Kong brokers) or via [emerging-market ETFs](/wiki/emerging-markets-fund/) that hold A-shares. Dedicated China equity ETFs (e.g., iShares MSCI China ETF) provide exposure but are themselves subject to geopolitical risk (US-China tensions, delisting threats) and currency translation.
 
-The Shanghai Composite is not in many Western portfolios because [emerging-markets funds](/wiki/emerging-markets-fund/) often cap Chinese exposure at 20–30% (due to [concentration risk](/wiki/concentration-risk/)) and because many international investors remain wary of [regulatory risk](/wiki/regulation-international/), capital controls, and political uncertainty.
+The Shanghai Composite is not in many Western portfolios because [emerging-markets funds](/wiki/emerging-markets-fund/) often cap Chinese exposure at 20–30% (due to [concentration risk](/wiki/concentration-risk/)) and because many international investors remain wary of regulatory risk, capital controls, and political uncertainty.
 
 ## Long-term outlook and structural challenges
 

@@ -18,11 +18,11 @@ keywords:
 | Aspect | Detail |
 |--------|--------|
 | **Typical right** | One vote per share, per ballot item |
-| **Common ballots** | [Board](/wiki/board-of-directors/) elections, [executive compensation](/wiki/equity-compensation/), [auditor](/wiki/audit-committee/) ratification, [charter](/wiki/incorporation/) amendments |
+| **Common ballots** | [Board](/wiki/board-of-directors/) elections, [executive compensation](/wiki/equity-compensation/), [auditor](/wiki/audit-committee/) ratification, charter amendments |
 | **Voting mechanism** | [Proxy voting](/wiki/proxy-voting/) (absentee), in-person, electronic |
 | **Record date** | Cutoff for who is registered to vote |
 | **Meeting** | Annual meeting of [shareholders](/wiki/shares-of-stock/) |
-| **Supermajority threshold** | Often 2/3 for [charter amendments](/wiki/incorporation/), [merger](/wiki/merger/) approval |
+| **Supermajority threshold** | Often 2/3 for charter amendments, [merger](/wiki/merger/) approval |
 | **Dual-class structures** | Different vote-per-share ratios (founder shares get 10×) |
 | **Activist campaigns** | [Hedge funds](/wiki/hedge-fund/) and activists use voting to pressure change |
 
@@ -32,7 +32,7 @@ keywords:
 
 Voting rights embody the principle that [shareholders](/wiki/shares-of-stock/) own the corporation and elect its stewards. Without voting rights, [shareholders](/wiki/shares-of-stock/) would be purely passive: they own a [claim](/wiki/contingent-liability/) on [earnings](/wiki/earnings-per-share/) and [assets](/wiki/asset-backed-security/), but have no say in how the corporation is run. [Management](/wiki/management-fee/) could waste capital, overpay executives, enter disastrous [mergers](/wiki/merger/), or strip [assets](/wiki/asset-backed-security/), and [shareholders](/wiki/shares-of-stock/) could only sell.
 
-Voting rights flip this. If [management](/wiki/management-fee/) fails, [shareholders](/wiki/shares-of-stock/) vote in new [board](/wiki/board-of-directors/) members, who hire a new [CEO](/wiki/executive-succession-planning/). If the [board](/wiki/board-of-directors/) approves an unwise [acquisition](/wiki/acquisition/), [shareholders](/wiki/shares-of-stock/) can vote it down. This accountability mechanism is the foundation of [shareholder governance](/wiki/corporate-governance/).
+Voting rights flip this. If [management](/wiki/management-fee/) fails, [shareholders](/wiki/shares-of-stock/) vote in new [board](/wiki/board-of-directors/) members, who hire a new [CEO](/wiki/executive-succession-planning/). If the [board](/wiki/board-of-directors/) approves an unwise [acquisition](/wiki/acquisition/), [shareholders](/wiki/shares-of-stock/) can vote it down. This accountability mechanism is the foundation of shareholder governance.
 
 ## How voting works: one share, one vote (usually)
 
@@ -42,21 +42,21 @@ Large institutional investors (pension funds, mutual funds, [hedge funds](/wiki/
 
 ## Common ballot items: what shareholders vote on
 
-**Board elections:** [Shareholders](/wiki/shares-of-stock/) vote on each [board](/wiki/board-of-directors/) candidate individually (or as a slate, depending on [corporate governance](/wiki/corporate-governance/) rules). Most candidates win with >90% support, but controversial directors (with [conflict-of-interest](/wiki/conflicts-of-interest/) allegations or poor performance) may face withhold campaigns.
+**Board elections:** [Shareholders](/wiki/shares-of-stock/) vote on each [board](/wiki/board-of-directors/) candidate individually (or as a slate, depending on corporate governance rules). Most candidates win with >90% support, but controversial directors (with conflict-of-interest allegations or poor performance) may face withhold campaigns.
 
 **Executive [compensation](/wiki/equity-compensation/):** "Say-on-pay" votes let [shareholders](/wiki/shares-of-stock/) approve or reject the [CEO's](/wiki/executive-succession-planning/) [salary](/wiki/average-hourly-earnings/), bonus, and [equity](/wiki/equity-compensation/) package. These votes are non-binding (the [board](/wiki/board-of-directors/) can ignore them), but repeated "no" votes embarrass management and often lead to [compensation](/wiki/equity-compensation/) revision.
 
 **[Mergers](/wiki/merger/) and acquisitions:** If the company is being acquired or is acquiring another major company in a stock-for-stock [merger](/wiki/merger/), [shareholders](/wiki/shares-of-stock/) vote. They are essentially deciding whether to [swap](/wiki/swap/) their ownership stake in the current company for ownership in the combined entity.
 
-**[Charter](/wiki/incorporation/) and bylaw amendments:** Changes to the corporate [charter](/wiki/incorporation/) (e.g., increasing authorized [shares](/wiki/shares-of-stock/), implementing a [poison pill](/wiki/poison-pill/), changing the annual meeting date) require [shareholder](/wiki/shares-of-stock/) approval. These are often technical but can have strategic implications.
+**Charter and bylaw amendments:** Changes to the corporate charter (e.g., increasing authorized [shares](/wiki/shares-of-stock/), implementing a [poison pill](/wiki/poison-pill/), changing the annual meeting date) require [shareholder](/wiki/shares-of-stock/) approval. These are often technical but can have strategic implications.
 
 **[Auditor](/wiki/audit-committee/) ratification:** [Shareholders](/wiki/shares-of-stock/) vote to approve the [external auditor](/wiki/audit-committee/). If the [auditor](/wiki/audit-committee/) is in conflict (related to management), [shareholders](/wiki/shares-of-stock/) can push for a change.
 
-**[Shareholder proposals](/wiki/shareholder-proposal/):** Institutional [shareholders](/wiki/shares-of-stock/) can propose ballot items (within SEC rules) on [ESG](/wiki/esg-divestment-activism/), executive [compensation](/wiki/equity-compensation/), and [corporate governance](/wiki/corporate-governance/) reforms. These are often non-binding but signal institutional sentiment.
+**[Shareholder proposals](/wiki/shareholder-proposal/):** Institutional [shareholders](/wiki/shares-of-stock/) can propose ballot items (within SEC rules) on [ESG](/wiki/esg-divestment-activism/), executive [compensation](/wiki/equity-compensation/), and corporate governance reforms. These are often non-binding but signal institutional sentiment.
 
 ## Dual-class shares and voting inequality
 
-Many [publicly traded](/wiki/public-company/) companies, especially tech giants (Facebook, Google, Berkshire Hathaway), have dual-class [share](/wiki/shares-of-stock/) structures: Class A shares (founder or insider held) get 10 votes per share, while Class B shares (public) get 1 vote per share. This allows founders to maintain [control](/wiki/board-of-directors/) while raising [capital](/wiki/capital-allocation/).
+Many [publicly traded](/wiki/public-company/) companies, especially tech giants (Facebook, Google, Berkshire Hathaway), have dual-class [share](/wiki/shares-of-stock/) structures: Class A shares (founder or insider held) get 10 votes per share, while Class B shares (public) get 1 vote per share. This allows founders to maintain [control](/wiki/board-of-directors/) while raising capital.
 
 Critics argue this is [anti-democratic](/wiki/shareholder-proposal/) and harms public [shareholders](/wiki/shares-of-stock/) who hold Class B shares but have minimal voting power. Supporters argue it protects founder vision from short-term market pressure and activist interference. The debate is ongoing; some major index providers have penalized dual-class companies in recent years.
 
@@ -78,7 +78,7 @@ Only [shareholders](/wiki/shares-of-stock/) who own shares as of the "record dat
 
 ## Voting restrictions and governance rules
 
-Most companies operate under SEC rules and state [incorporation](/wiki/incorporation/) laws that govern voting:
+Most companies operate under SEC rules and state incorporation laws that govern voting:
 
 - **Majority voting:** Directors need to receive a majority of votes cast to be elected (not just a plurality). If a director fails to get 50%+, they do not take office.
 - **Cumulative voting:** Some states allow [shareholders](/wiki/shares-of-stock/) to cumulate all their votes and cast them for a single [board](/wiki/board-of-directors/) member—a tool for [minority shareholders](/wiki/contingent-liability/) to win a seat.
@@ -86,7 +86,7 @@ Most companies operate under SEC rules and state [incorporation](/wiki/incorpora
 
 ## Supermajority voting for certain actions
 
-[Mergers](/wiki/merger/), [charter](/wiki/incorporation/) amendments, and some other actions require a supermajority (2/3 or 3/4) [shareholder](/wiki/shares-of-stock/) approval, not a simple majority. This protects minority [shareholders](/wiki/shares-of-stock/) by making it harder for a controlling [shareholder](/wiki/shares-of-stock/) to push through self-dealing transactions.
+[Mergers](/wiki/merger/), charter amendments, and some other actions require a supermajority (2/3 or 3/4) [shareholder](/wiki/shares-of-stock/) approval, not a simple majority. This protects minority [shareholders](/wiki/shares-of-stock/) by making it harder for a controlling [shareholder](/wiki/shares-of-stock/) to push through self-dealing transactions.
 
 ## The separation of ownership and control
 
@@ -94,7 +94,7 @@ Voting rights highlight a fundamental tension: the [shareholders](/wiki/shares-o
 
 ## Conclusion: voting rights are the backbone of shareholder power
 
-Voting rights are the mechanism through which [shareholders](/wiki/shares-of-stock/) hold [management](/wiki/management-fee/) accountable and make strategic decisions. They are not always wielded (many [shareholders](/wiki/shares-of-stock/) fail to vote), and they can be diluted (dual-class structures), but they remain the foundation of [shareholder governance](/wiki/corporate-governance/). In well-governed companies, voting rights translate to real accountability. In poorly governed companies, voting rights are nominal. Understanding what [shareholders](/wiki/shares-of-stock/) can actually vote on—and whether they do—is central to assessing a company's governance quality.
+Voting rights are the mechanism through which [shareholders](/wiki/shares-of-stock/) hold [management](/wiki/management-fee/) accountable and make strategic decisions. They are not always wielded (many [shareholders](/wiki/shares-of-stock/) fail to vote), and they can be diluted (dual-class structures), but they remain the foundation of shareholder governance. In well-governed companies, voting rights translate to real accountability. In poorly governed companies, voting rights are nominal. Understanding what [shareholders](/wiki/shares-of-stock/) can actually vote on—and whether they do—is central to assessing a company's governance quality.
 
 <div class="wiki-seealso">
 
@@ -102,7 +102,7 @@ Voting rights are the mechanism through which [shareholders](/wiki/shares-of-sto
 - [Board of directors](/wiki/board-of-directors/) — elected via voting
 - [Proxy voting](/wiki/proxy-voting/) — mechanism for remote voting
 - [Shareholder proposal](/wiki/shareholder-proposal/) — ballot items initiated by [shareholders](/wiki/shares-of-stock/)
-- [Corporate governance](/wiki/corporate-governance/) — broader governance framework
+- Corporate governance — broader governance framework
 - [Non-voting shares](/wiki/non-voting-shares/) — shares without voting rights
 
 ### Wider context

@@ -82,9 +82,9 @@ A complete deliberation trade setup might include:
 3. **Pattern completion**: All three candles are white, bodies shrink, opens are within the prior body.
 4. **Confirmation**: The next day's candle closes below the deliberation range or gaps down.
 5. **Stop-loss**: Above the high of the pattern, or slightly above the third candle's close.
-6. **Target**: The next [support level](/support-level.md) or a retracement of the prior rally (often 50% or 61.8% via Fibonacci).
+6. **Target**: The next support level or a retracement of the prior rally (often 50% or 61.8% via Fibonacci).
 
-Because deliberation is a relatively rare formation, many traders combine it with other technical analysis tools—[volume](/volume.md) profile, moving averages, [relative strength index](/rsi.md) readings—to build confidence.
+Because deliberation is a relatively rare formation, many traders combine it with other technical analysis tools—volume profile, moving averages, relative strength index readings—to build confidence.
 
 ## See also
 
@@ -93,16 +93,16 @@ Because deliberation is a relatively rare formation, many traders combine it wit
 ### Closely related
 
 - [Identical Three Crows](/identical-three-crows/) — Three black candles with equal opens; the bearish parallel.
-- [Three White Soldiers](/three-white-soldiers.md) — Three white candles with expanding bodies; signals strength, not exhaustion.
-- [Candlestick Patterns](/candlestick-patterns.md) — Overview of two- and three-candle reversal and continuation formations.
-- [Support and Resistance](/support-resistance.md) — Why price clustering near prior highs matters for pattern strength.
-- [Gaps in Candlesticks](/candlestick-gaps.md) — How the absence of overnight gaps reinforces the deliberation signal.
+- [Three White Soldiers](/three-white-soldiers/) — Three white candles with expanding bodies; signals strength, not exhaustion.
+- Candlestick Patterns — Overview of two- and three-candle reversal and continuation formations.
+- Support and Resistance — Why price clustering near prior highs matters for pattern strength.
+- Gaps in Candlesticks — How the absence of overnight gaps reinforces the deliberation signal.
 
 ### Wider context
 
-- [Technical Analysis](/technical-analysis.md) — Foundation for chart pattern recognition and candlestick reading.
-- [Trend Following](/trend-following.md) — How exhaustion patterns fit into momentum-based strategies.
-- [Price Action Trading](/price-action-trading.md) — Interpreting candlestick wicks, bodies, and ranges without indicators.
-- [Risk Management](/risk-management.md) — Placing stops and sizing positions around pattern setups.
+- Technical Analysis — Foundation for chart pattern recognition and candlestick reading.
+- [Trend Following](/trend-following/) — How exhaustion patterns fit into momentum-based strategies.
+- Price Action Trading — Interpreting candlestick wicks, bodies, and ranges without indicators.
+- Risk Management — Placing stops and sizing positions around pattern setups.
 
 </div>

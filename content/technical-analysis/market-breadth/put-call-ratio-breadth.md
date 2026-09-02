@@ -8,7 +8,7 @@ keywords:
   - fear gauge
 ---
 
-*The **Put-Call Ratio** in [technical analysis](/wiki/technical-analysis/) tracks the flow of [put](/wiki/put-option/) and [call](/wiki/call-option/) volume (or open interest) to gauge fear and greed in the broader market—a contrarian signal that often peaks at emotional extremes.*
+*The **Put-Call Ratio** in technical analysis tracks the flow of [put](/wiki/put-option/) and [call](/wiki/call-option/) volume (or open interest) to gauge fear and greed in the broader market—a contrarian signal that often peaks at emotional extremes.*
 
 <div class="wiki-hatnote">
 Not to be confused with the put-call ratio used in single-option [put-call parity](/wiki/put-call-parity/) calculations; this is a market breadth tool.
@@ -40,7 +40,7 @@ Institutional investors often build [put hedges](/wiki/protective-put/) in tranc
 
 ## Breadth interpretation and market regimes
 
-In a [bull market](/wiki/bull-market/), put-call ratios trend lower—maybe 0.5 to 0.8—reflecting general confidence. When that ratio climbs to 1.1 for the first time, it is a warning that some big holders are hedging, even though the trend remains up. When it spikes to 1.4 or higher, it often marks a local bottom. The ratio is not a timing tool by itself; it works best in tandem with [price momentum](/wiki/momentum-investing/), [breadth indicators](/wiki/market-breadth-advances-declines/), and [moving averages](/wiki/moving-averages/).
+In a [bull market](/wiki/bull-market/), put-call ratios trend lower—maybe 0.5 to 0.8—reflecting general confidence. When that ratio climbs to 1.1 for the first time, it is a warning that some big holders are hedging, even though the trend remains up. When it spikes to 1.4 or higher, it often marks a local bottom. The ratio is not a timing tool by itself; it works best in tandem with [price momentum](/wiki/momentum-investing/), [breadth indicators](/wiki/market-breadth-advances-declines/), and moving averages.
 
 In a [bear market](/wiki/bear-market/), the ratio stays elevated (0.9 to 1.2), reflecting constant hedging. An eventual *drop* in the ratio—from 1.0 to 0.7—can signal a local bounce or trend reversal, not a durable rally.
 
@@ -70,7 +70,7 @@ The ratio also helps diagnose weak rallies. A rally that happens while the put-c
 - [Put Option](/wiki/put-option/) — the instrument driving the ratio.
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — the broader toolkit.
+- Technical Analysis — the broader toolkit.
 - [Contrarian Investing](/wiki/contrarian-investing/) — the philosophy behind using the ratio.
 - [Capitulation Selling](/wiki/capitulation-selling/) — the extreme fear state the ratio signals.
 

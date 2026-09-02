@@ -91,7 +91,7 @@ The honest truth is that micro-cap investing is a specialty and a bet. If you do
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/etf/">ETF</a> — the broader structure.</li>
-<li><a href="/wiki/volatility/">Volatility</a> — the risk characteristic of micro-caps.</li>
+<li>Volatility — the risk characteristic of micro-caps.</li>
 <li><a href="/wiki/diversification/">Diversification</a> — the principle that micro-cap ETFs rely on.</li>
 </ul>
 </div>

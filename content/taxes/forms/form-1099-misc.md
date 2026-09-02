@@ -38,7 +38,7 @@ Prior to 2020, Form 1099-MISC was the standard form for reporting nonemployee co
 
 A business or individual who pays another person $600+ (or $10+ for royalties) in a calendar year must issue a 1099-MISC by January 31. The payer sends copies to the recipient and to the IRS. The IRS uses this data to cross-check reported income: if you claim $50,000 in self-employment income but received a 1099-MISC for $70,000, the discrepancy triggers scrutiny.
 
-Some payments are exempt: wages paid to employees (use [W-2](/wiki/w-2/)), payments for food and beverage purchases, payments to corporations in most cases (unless for legal services, etc.). The rules are complex, and a business that fails to issue required 1099-MISC forms risks IRS penalties.
+Some payments are exempt: wages paid to employees (use W-2), payments for food and beverage purchases, payments to corporations in most cases (unless for legal services, etc.). The rules are complex, and a business that fails to issue required 1099-MISC forms risks IRS penalties.
 
 ## Self-employment tax implications
 
@@ -77,7 +77,7 @@ Some independent workers operate "under the radar" and expect cash payments with
 - [Self-employment tax](/wiki/sep-ira-self-employed/) — Payroll tax paid by self-employed individuals
 
 ### Wider context
-- [W-2](/wiki/w-2/) — Form for employee wages and withholding
+- W-2 — Form for employee wages and withholding
 - [Federal income tax](/wiki/federal-funds-rate/) — Tax on earnings
 - [Tax loss harvesting](/wiki/tax-loss-harvesting/) — Strategy for deducting investment losses
 - [Estate tax](/wiki/estate-tax/) — Tax on large inheritances and lifetime gifts

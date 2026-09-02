@@ -45,12 +45,12 @@ Smaller fund families and specialists (Dimensional Fund Advisors, Vanguard's aff
 <li><a href="/wiki/mutual-fund/">Mutual fund</a> — the products offered by fund families.</li>
 <li><a href="/wiki/index-fund/">Index fund</a> — the most commoditized fund family offerings.</li>
 <li><a href="/wiki/fund-of-funds/">Fund of funds</a> — sometimes offered within families.</li>
-<li><a href="/wiki/asset-management/">Asset management</a> — the business behind fund families.</li>
+<li>Asset management — the business behind fund families.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/brokerage-account/">Brokerage account</a> — where fund family assets are held.</li>
-<li><a href="/wiki/financial-advisor/">Financial advisor</a> — often affiliated with or selling specific fund families.</li>
+<li>Brokerage account — where fund family assets are held.</li>
+<li>Financial advisor — often affiliated with or selling specific fund families.</li>
 <li><a href="/wiki/custodian/">Custodian</a> — firm holding fund assets safely.</li>
 </ul>
 </div>

@@ -64,7 +64,7 @@ Insurance funds (maintained by the exchange) can partially protect remaining tra
 
 Crypto derivatives exchanges do not directly custody most users' funds. Instead, users deposit collateral (Bitcoin, Ethereum, stablecoins) into the exchange wallet, and the exchange tracks accounts internally. If the exchange is hacked or mismanages funds, users are not insured. The exchange becomes a counterparty.
 
-This is in sharp contrast to regulated US equity brokers, which hold client assets separately and are insured by the SEC's [SIPC](/wiki/sipc/). A hacked crypto exchange can, and has, vaporized customer funds overnight.
+This is in sharp contrast to regulated US equity brokers, which hold client assets separately and are insured by the SEC's SIPC. A hacked crypto exchange can, and has, vaporized customer funds overnight.
 
 Some exchanges like Deribit and Bybit maintain insurance funds and have higher transparency. Others have proven fraudulent or negligent (FTX's derivatives arm was essentially a casino operator betting against its own users' positions).
 
@@ -85,15 +85,15 @@ Exchanges benefit enormously from volume—they capture trading fees and, on man
 <div class="wiki-seealso">
 
 ### Closely related
-- [Perpetual Contract](/wiki/perpetual-contract/) — the primary instrument, contracts with no expiration
-- [Funding Rate](/wiki/funding-rate/) — the mechanism that ties perpetuals to spot price
-- [Leverage](/wiki/leverage/) — multiplied exposure that enables and risks liquidation
+- Perpetual Contract — the primary instrument, contracts with no expiration
+- Funding Rate — the mechanism that ties perpetuals to spot price
+- Leverage — multiplied exposure that enables and risks liquidation
 - [Liquidation](/wiki/liquidation/) — automated position closure when margin falls below threshold
 
 ### Wider context
 - [Cryptocurrency Exchange](/wiki/cryptocurrency-exchange/) — the broader category of crypto trading venues
 - [Bitcoin](/wiki/bitcoin/) — the most actively traded asset on derivatives exchanges
-- [Cryptocurrency Volatility](/wiki/cryptocurrency-volatility/) — what leverage amplifies
+- Cryptocurrency Volatility — what leverage amplifies
 - [Counterparty Risk](/wiki/counterparty-risk/) — the hazard of exchange insolvency
 
 </div>

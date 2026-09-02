@@ -11,7 +11,7 @@ keywords:
 image: /svg/strategies.svg
 ---
 
-*The **accruals anomaly** describes a persistent pattern in which stocks with high accounting accruals—non-cash additions to reported earnings—deliver lower returns than stocks with high cash flows relative to reported profits. This effect sits at the intersection of [accounting](/wiki/accounting/), market psychology, and [factor investing](/wiki/factor-investing/), revealing how investors systematically misprice earnings quality.*
+*The **accruals anomaly** describes a persistent pattern in which stocks with high accounting accruals—non-cash additions to reported earnings—deliver lower returns than stocks with high cash flows relative to reported profits. This effect sits at the intersection of accounting, market psychology, and [factor investing](/wiki/factor-investing/), revealing how investors systematically misprice earnings quality.*
 
 ## What accruals are and why they matter
 

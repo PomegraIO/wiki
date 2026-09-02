@@ -9,7 +9,7 @@ keywords:
   - balance of payments
 ---
 
-*A **Foreign Exchange Reserve** is a holding of foreign currency and other liquid assets (gold, SDRs, foreign bonds) maintained by a country's central bank. These reserves serve as a buffer for currency [intervention](/wiki/currency-intervention/), balance-of-payments support, and a backstop for the country's creditworthiness. They enable a central bank to stabilize the currency and defend against [speculative attacks](/wiki/attack-currency/).*
+*A **Foreign Exchange Reserve** is a holding of foreign currency and other liquid assets (gold, SDRs, foreign bonds) maintained by a country's central bank. These reserves serve as a buffer for currency [intervention](/wiki/currency-intervention/), balance-of-payments support, and a backstop for the country's creditworthiness. They enable a central bank to stabilize the currency and defend against speculative attacks.*
 
 <aside class="wiki-infobox">
 

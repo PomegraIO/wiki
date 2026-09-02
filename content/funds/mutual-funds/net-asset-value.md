@@ -49,7 +49,7 @@ When investors see a fund's ten-year return is 7% annually, that means NAV grew 
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/asset-valuation/">Asset valuation</a> — the general process of determining what assets are worth.</li>
+<li>Asset valuation — the general process of determining what assets are worth.</li>
 <li><a href="/wiki/fair-value/">Fair value</a> — the concept underlying NAV pricing.</li>
 <li><a href="/wiki/share-class/">Share class</a> — different share classes can have different NAVs.</li>
 </ul>

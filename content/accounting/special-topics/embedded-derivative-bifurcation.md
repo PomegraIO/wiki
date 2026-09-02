@@ -24,7 +24,7 @@ image: "/svg/accounting.svg"
 
 |   |   |
 |---|---|
-| **What it is** | Separating a [hybrid instrument](/equity/offerings/) into a [host contract](/bond/) and an embedded [derivative](/derivatives-hedging/) for accounting measurement |
+| **What it is** | Separating a hybrid instrument into a [host contract](/bond/) and an embedded [derivative](/derivatives-hedging/) for accounting measurement |
 | **Rule set** | [ASC 815](https://www.fasb.org/) (US GAAP) and IFRS 9 |
 | **When required** | When an embedded derivative is not clearly linked to the host and creates a different risk profile |
 | **Measurement** | Host at amortized cost; derivative at fair value, mark-to-market each period |

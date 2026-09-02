@@ -9,7 +9,7 @@ keywords:
   - equity valuation models
 ---
 
-*A **price-to-book** (P/B) multiple divides a company's stock price by its [book value](//) per share—a crude but quick way to assess whether equity is cheap or expensive. A **residual income model** (RIM) does deeper work: it projects how much profit the company will earn above its cost of equity capital, then discounts those "excess returns" to a present value and adds them to book value. The P/B ratio is a useful screen, but it hides a company's competitive advantage or disadvantage; RIM reveals whether high P/B reflects justified long-term outperformance or mere momentum, and whether low P/B is a bargain or a value trap.*
+*A **price-to-book** (P/B) multiple divides a company's stock price by its book value per share—a crude but quick way to assess whether equity is cheap or expensive. A **residual income model** (RIM) does deeper work: it projects how much profit the company will earn above its cost of equity capital, then discounts those "excess returns" to a present value and adds them to book value. The P/B ratio is a useful screen, but it hides a company's competitive advantage or disadvantage; RIM reveals whether high P/B reflects justified long-term outperformance or mere momentum, and whether low P/B is a bargain or a value trap.*
 
 <aside class="wiki-infobox">
 
@@ -34,7 +34,7 @@ keywords:
 
 ## The Price-to-Book Shortcut
 
-The [price-to-book ratio](/price-to-book-ratio/) is simple: divide market value of equity by [book value](//) of equity (or equivalently, per-share price by book value per share).
+The [price-to-book ratio](/price-to-book-ratio/) is simple: divide market value of equity by book value of equity (or equivalently, per-share price by book value per share).
 
 A P/B of 1.0 means the market values the company exactly at its accounting net worth. A P/B of 0.5 suggests the stock is trading at a 50% discount to book, potentially a bargain. A P/B of 3.0 suggests investors are willing to pay three dollars for every one dollar of equity invested, implying high growth expectations or superior returns.
 
@@ -110,7 +110,7 @@ RIM forces an analyst to be explicit about moat durability; P/B lets an investor
 - [Price-to-Book Ratio](/price-to-book-ratio/) — The P/B multiple that serves as a fast valuation screen
 - [Return on Equity](/return-on-equity/) — The profitability metric that drives residual income
 - [Cost of Equity](/cost-of-equity/) — The discount rate and benchmark for excess returns
-- [Intrinsic Value](//) — The true fair value that both P/B and RIM aim to estimate
+- Intrinsic Value — The true fair value that both P/B and RIM aim to estimate
 - [Discounted Cash Flow Valuation](/discounted-cash-flow-valuation/) — An alternative valuation framework using free cash flow
 
 ### Wider context

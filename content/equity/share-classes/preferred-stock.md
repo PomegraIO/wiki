@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*Preferred stock is a senior form of [equity](/stock/) that sits structurally between [bonds](/bond/) and [common stock](/equity/common-stock/), paying a fixed dividend ahead of common shareholders and claiming priority in liquidation, but typically offering no voting rights and limited upside.*
+*Preferred stock is a senior form of [equity](/stock/) that sits structurally between [bonds](/bond/) and [common stock](/common-stock/), paying a fixed dividend ahead of common shareholders and claiming priority in liquidation, but typically offering no voting rights and limited upside.*
 
 <aside class="wiki-infobox">
 
@@ -24,10 +24,10 @@ image: "/svg/equity.svg"
 |---|---|
 | **What it is** | Senior equity with fixed dividend |
 | **Dividend rate** | Fixed percentage of par value, set at issuance |
-| **Dividend priority** | Before [common stock](/equity/common-stock/) |
+| **Dividend priority** | Before [common stock](/common-stock/) |
 | **Liquidation priority** | Before common, after creditors |
 | **Voting rights** | Usually none (unless dividends omitted) |
-| **Callability** | Often [callable](/equity/callable-preferred/) at issuer's option |
+| **Callability** | Often [callable](/callable-preferred/) at issuer's option |
 | **Typical yield** | 4–8% at issuance |
 
 </aside>
@@ -38,7 +38,7 @@ Preferred stock exists because companies sometimes need capital but want it to s
 
 But it is equity, not debt, because:
 
-- There is no maturity date (though many preferred issues are [callable](/equity/callable-preferred/)).
+- There is no maturity date (though many preferred issues are [callable](/callable-preferred/)).
 - The company is never legally required to pay the dividend — it is discretionary, like a common dividend.
 - If the company is liquidated and there is nothing left after creditors, preferred shareholders typically get nothing, just like common shareholders.
 
@@ -48,13 +48,13 @@ For the investor, preferred stock is less risky than common (you get paid before
 
 The universe of preferred structures is large, but a few key variants are most common:
 
-**Cumulative vs. non-cumulative.** A [cumulative preferred](/equity/cumulative-preferred/) accrues any skipped dividends and must be paid in full (with all arrears) before the company can pay anything to common shareholders. A non-cumulative preferred loses any skipped dividend permanently. Cumulative is far more common because investors demand the protection.
+**Cumulative vs. non-cumulative.** A [cumulative preferred](/cumulative-preferred/) accrues any skipped dividends and must be paid in full (with all arrears) before the company can pay anything to common shareholders. A non-cumulative preferred loses any skipped dividend permanently. Cumulative is far more common because investors demand the protection.
 
-**Participating vs. non-participating.** A [participating preferred](/equity/participating-preferred/) gets its fixed dividend plus a share of any excess profits beyond the preferred dividend level — a rare but valuable sweetener. Most preferred is non-participating.
+**Participating vs. non-participating.** A [participating preferred](/participating-preferred/) gets its fixed dividend plus a share of any excess profits beyond the preferred dividend level — a rare but valuable sweetener. Most preferred is non-participating.
 
-**Callable vs. non-callable.** A [callable preferred](/equity/callable-preferred/) can be repurchased by the issuer at a pre-set price, usually par plus accrued dividends. This lets the issuer refinance if interest rates drop, but it caps the upside for preferred holders.
+**Callable vs. non-callable.** A [callable preferred](/callable-preferred/) can be repurchased by the issuer at a pre-set price, usually par plus accrued dividends. This lets the issuer refinance if interest rates drop, but it caps the upside for preferred holders.
 
-**[Convertible preferred](/equity/convertible-preferred/).** A convertible gives the holder the right to exchange it for a fixed number of common shares, letting the holder capture upside if the company does well, at the cost of accepting lower dividend income upfront.
+**[Convertible preferred](/convertible-preferred/).** A convertible gives the holder the right to exchange it for a fixed number of common shares, letting the holder capture upside if the company does well, at the cost of accepting lower dividend income upfront.
 
 ## Preferred stock in practice
 
@@ -68,7 +68,7 @@ Pricing of preferred stock is sensitive to interest rates. When the Federal Rese
 
 Preferred stock is most frequently in the news when the company omits or suspends its preferred dividend — a grave signal that the company is in serious financial distress. Unlike common dividends, which are cut and restored constantly, preferred dividends are rarely touched except in crisis. The moment a preferred dividend is omitted, preferred holders gain voting rights (in most cases), turning preferred shareholders into an organized force in the boardroom.
 
-Another moment of drama is when a preferred issue is [called](/equity/callable-preferred/). If the company calls your preferred at par (say, $100) while it is trading at $110 because interest rates have fallen and new preferred only yields 4%, you lose the capital gain and are forced to reinvest the proceeds at a lower rate.
+Another moment of drama is when a preferred issue is [called](/callable-preferred/). If the company calls your preferred at par (say, $100) while it is trading at $110 because interest rates have fallen and new preferred only yields 4%, you lose the capital gain and are forced to reinvest the proceeds at a lower rate.
 
 ## Preferred stock versus bonds
 
@@ -78,10 +78,10 @@ Why buy preferred stock instead of a bond? The dividend is typically slightly hi
 
 ### Closely related
 
-- [Common stock](/equity/common-stock/) — the junior equity class
-- [Convertible preferred](/equity/convertible-preferred/) — preferred with an upside option
-- [Cumulative preferred](/equity/cumulative-preferred/) — preferred with dividend arrears protection
-- [Callable preferred](/equity/callable-preferred/) — preferred that issuer can repurchase
+- [Common stock](/common-stock/) — the junior equity class
+- [Convertible preferred](/convertible-preferred/) — preferred with an upside option
+- [Cumulative preferred](/cumulative-preferred/) — preferred with dividend arrears protection
+- [Callable preferred](/callable-preferred/) — preferred that issuer can repurchase
 - [Dividend](/dividend/) — the income stream preferred stock pays
 
 ### Wider context

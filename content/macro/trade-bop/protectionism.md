@@ -48,7 +48,7 @@ During the [Asian financial crisis](/wiki/asian-financial-crisis/) and the [Mexi
 
 The World Trade Organization (WTO) rules are meant to cap [tariff](/wiki/smoot-hawley-tariff/) rates and prevent quota creep, but enforcement is weak when large countries defy it. The U.S.–China [trade war](/wiki/trade-war/) saw successive rounds of 10–25% tariffs on hundreds of goods. Economists disagree on whether targeted protectionism (e.g., protecting semiconductor capacity) is justified; all agree that blanket tariffs across entire sectors harm overall living standards.
 
-[Brexit](/wiki/united-kingdom-trade-impact/) raised trade barriers between the U.K. and EU, increasing friction and logistics costs. Some viewed it as necessary (regaining sovereignty over trade rules); others as self-imposed protectionism that raised consumer prices.
+Brexit raised trade barriers between the U.K. and EU, increasing friction and logistics costs. Some viewed it as necessary (regaining sovereignty over trade rules); others as self-imposed protectionism that raised consumer prices.
 
 ## The political economy
 
@@ -65,7 +65,7 @@ Labor unions often support protectionism when facing import competition; [activi
 
 ### Wider context
 - [Free trade agreement](/wiki/free-trade-agreement/) — international frameworks meant to reduce barriers
-- [Comparative advantage](/wiki/comparative-advantage-simple/) — economic theory underlying free-trade arguments
+- Comparative advantage — economic theory underlying free-trade arguments
 - [Capital flows](/wiki/capital-flows/) — how protectionism affects foreign investment
 
 </div>

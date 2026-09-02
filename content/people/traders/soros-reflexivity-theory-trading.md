@@ -22,9 +22,9 @@ image: "/svg/people.svg"
 |   |   |
 |---|---|
 | **Core idea** | Feedback loop between perception and reality; prices move fundamentals, not vice versa alone |
-| **Founder** | [George Soros](/people/traders/george-soros/), Hungarian-born investor and philosopher |
+| **Founder** | [George Soros](/george-soros/), Hungarian-born investor and philosopher |
 | **Key trades** | Pound sterling short (1992); Thai baht, Asian crisis (1997) |
-| **Opposite of** | [Market efficiency](/concepts/market-efficiency/), rational expectations |
+| **Opposite of** | Market efficiency, rational expectations |
 | **Application** | Identifying unsustainable trends and reversal points in currency, equity, and commodity bubbles |
 | **Mechanism** | Self-reinforcing boom phases; sudden crash when bias reverses or fundamentals reassert |
 

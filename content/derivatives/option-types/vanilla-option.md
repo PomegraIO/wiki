@@ -90,7 +90,7 @@ Expirations matter too. Weekly options and monthly options close to expiration a
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — the broader asset class.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/black-scholes-model/">Black-Scholes model</a> — foundational pricing model.</li>
 </ul>
 </div>

@@ -85,10 +85,10 @@ The tension between efficiency and values remains: divestment may be economicall
 - [Capital allocation activism](/wiki/capital-allocation-activism/) — Investor pressure on capital deployment
 
 ### Wider context
-- [ESG investing](/wiki/esg-investing/) — Broader ESG framework beyond divestment
+- ESG investing — Broader ESG framework beyond divestment
 - [Proxy fight](/wiki/proxy-fight/) — Activist campaigns for board control
 - [Cost of debt](/wiki/cost-of-debt/) — Effect of divestment on capital access
-- [Stranded assets](/wiki/stranded-assets/) — Long-term impact on fossil fuel valuations
-- [Institutional investor](/wiki/institutional-investor/) — Primary actor in divestment campaigns
+- Stranded assets — Long-term impact on fossil fuel valuations
+- Institutional investor — Primary actor in divestment campaigns
 
 </div>

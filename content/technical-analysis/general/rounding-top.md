@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **rounding top** is a bearish reversal pattern characterized by a smooth, inverted U-shaped price formation. Unlike sharp reversals, a rounding top develops gradually over weeks or months. Price rises in an uptrend, reaches a high, then gradually declines in a rounded arc back to the level where the rally began, signalling a complete reversal of direction. The pattern is the bearish mirror of the [rounding-bottom](/technical-analysis/rounding-bottom). The gradual, rounded shape shows that buying pressure is exhausting gradually and selling interest is building methodically. Rounding tops are considered relatively reliable reversal patterns because they reflect fundamental shifts in sentiment rather than technical overshoots.*
+*A **rounding top** is a bearish reversal pattern characterized by a smooth, inverted U-shaped price formation. Unlike sharp reversals, a rounding top develops gradually over weeks or months. Price rises in an uptrend, reaches a high, then gradually declines in a rounded arc back to the level where the rally began, signalling a complete reversal of direction. The pattern is the bearish mirror of the [rounding-bottom](/rounding-bottom/). The gradual, rounded shape shows that buying pressure is exhausting gradually and selling interest is building methodically. Rounding tops are considered relatively reliable reversal patterns because they reflect fundamental shifts in sentiment rather than technical overshoots.*
 
 <div class="wiki-hatnote">
 
-For reversal patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). The opposite pattern is [rounding-bottom](/technical-analysis/rounding-bottom).
+For reversal patterns broadly, see [candlestick pattern](/candlestick-pattern/). The opposite pattern is [rounding-bottom](/rounding-bottom/).
 
 </div>
 
@@ -70,7 +70,7 @@ Because rounding tops develop slowly, false reversals (followed by rebounds) are
 
 ## Rounding bottom: the inverse
 
-A [rounding-bottom](/technical-analysis/rounding-bottom) is the bullish mirror: a smooth U-shape at the bottom of a downtrend.
+A [rounding-bottom](/rounding-bottom/) is the bullish mirror: a smooth U-shape at the bottom of a downtrend.
 
 ## Trading rounding tops
 
@@ -84,7 +84,7 @@ A [rounding-bottom](/technical-analysis/rounding-bottom) is the bullish mirror: 
 
 ## Rounding top versus double-top
 
-A [double-top](/technical-analysis/double-top) is sharper and occurs over shorter timeframes. A rounding top is smoother and longer. Both are bearish, but the rounding top's gradual formation is considered more fundamental.
+A [double-top](/double-top/) is sharper and occurs over shorter timeframes. A rounding top is smoother and longer. Both are bearish, but the rounding top's gradual formation is considered more fundamental.
 
 ## Real-world example
 
@@ -100,15 +100,15 @@ Rounding tops have modest support in academic literature. Some research finds th
 
 ### Related reversals
 
-- [Rounding-bottom](/technical-analysis/rounding-bottom) — bullish inverse
-- [Double-top](/technical-analysis/double-top) — sharper, two-peak version
-- [Head and shoulders](/technical-analysis/head-and-shoulders) — three-peak reversal
-- [Cup-and-handle](/technical-analysis/cup-and-handle) — similar inverted shape, continuation
+- [Rounding-bottom](/rounding-bottom/) — bullish inverse
+- [Double-top](/double-top/) — sharper, two-peak version
+- [Head and shoulders](/head-and-shoulders/) — three-peak reversal
+- [Cup-and-handle](/cup-and-handle/) — similar inverted shape, continuation
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — breakout below prior support
-- [Trendline](/technical-analysis/trendline) — prior uptrend
-- [Volume](/technical-analysis/on-balance-volume) — increasing on decline
+- [Support and resistance](/support-and-resistance/) — breakout below prior support
+- [Trendline](/trendline/) — prior uptrend
+- [Volume](/on-balance-volume/) — increasing on decline
 
 </div>

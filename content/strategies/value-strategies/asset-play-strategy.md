@@ -54,7 +54,7 @@ A critical failure mode: the market has sound reasons to ignore the calculated a
 
 ## Sector examples and historical patterns
 
-Conglomerates like [Berkshire Hathaway](/wiki/warren-buffett/) contain dozens of subsidiaries; the market often trades it at a 10–15% discount to sum-of-the-parts, reflecting investor distrust of [capital allocation](/wiki/capital-allocation/). Retail REITs with store portfolios are perpetual asset play candidates. Specialty finance companies owning captive [insurance](/wiki/insurance/) or financing units similarly trade at discounts. The strategy works best in inefficient markets or with activist pressure forcing recognition.
+Conglomerates like [Berkshire Hathaway](/wiki/warren-buffett/) contain dozens of subsidiaries; the market often trades it at a 10–15% discount to sum-of-the-parts, reflecting investor distrust of capital allocation. Retail REITs with store portfolios are perpetual asset play candidates. Specialty finance companies owning captive insurance or financing units similarly trade at discounts. The strategy works best in inefficient markets or with activist pressure forcing recognition.
 
 <div class="wiki-seealso">
 

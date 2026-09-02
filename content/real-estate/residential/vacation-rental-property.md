@@ -51,7 +51,7 @@ These restrictions create property-value volatility: an Airbnb investment in a c
 
 The IRS distinguishes short-term rental income as either "passive" or "active" business:
 
-**Passive activity classification**: If the owner does not materially participate (spends <100 hours/year, fewer than 50% of total business activities), [passive-activity-loss-limits](/wiki/passive-activity-loss-limits/) apply. Losses from passive activities can only offset passive income, not [ordinary-income](/wiki/ordinary-income/). This classification is unfavorable for owners with negative cash flow.
+**Passive activity classification**: If the owner does not materially participate (spends <100 hours/year, fewer than 50% of total business activities), [passive-activity-loss-limits](/wiki/passive-activity-loss-limits/) apply. Losses from passive activities can only offset passive income, not ordinary-income. This classification is unfavorable for owners with negative cash flow.
 
 **Active business classification**: If the owner logs 100+ hours/year or is substantially involved (e.g., self-managing, handling all operations), [depreciation](/wiki/depreciation/) and operating losses can offset ordinary income, generating valuable tax deductions.
 

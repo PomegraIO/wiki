@@ -39,7 +39,7 @@ Shareholders vote to elect directors, usually once per year, at the annual meeti
 
 ## Legal liability
 
-Directors owe a [fiduciary duty](/wiki/fiduciary-duty/) to the company and its shareholders. They can be sued for gross negligence or self-dealing. In practice, most boards are protected by [directors and officers liability insurance](/wiki/directors-and-officers-liability-insurance/), which covers legal defense costs and damages (within policy limits). Many companies also indemnify directors—promise to cover their legal bills if sued—as an incentive to attract outside talent.
+Directors owe a [fiduciary duty](/wiki/fiduciary-duty/) to the company and its shareholders. They can be sued for gross negligence or self-dealing. In practice, most boards are protected by directors and officers liability insurance, which covers legal defense costs and damages (within policy limits). Many companies also indemnify directors—promise to cover their legal bills if sued—as an incentive to attract outside talent.
 
 ## Board compensation
 
@@ -61,7 +61,7 @@ When a shareholder group or activist investor is unhappy with board performance,
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-governance/">Corporate Governance</a> — the broader framework of rules and practices.</li>
+  <li>Corporate Governance — the broader framework of rules and practices.</li>
   <li><a href="/wiki/proxy-voting/">Proxy Voting</a> — how shareholders elect directors remotely.</li>
 </ul>
 </div>

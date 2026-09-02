@@ -8,7 +8,7 @@ keywords:
   - commodity correlation
 ---
 
-*A **commodity currency pair** is a [foreign exchange](/wiki/forex/) pair where one currency's underlying economy is heavily dependent on commodity exports—oil, metals, agricultural products. The Australian dollar, Norwegian krone, Canadian dollar, and South African rand are classic examples. These currencies exhibit strong correlation with spot commodity prices because export earnings drive trade surpluses, capital flows, and central bank reserve accumulation.*
+*A **commodity currency pair** is a foreign exchange pair where one currency's underlying economy is heavily dependent on commodity exports—oil, metals, agricultural products. The Australian dollar, Norwegian krone, Canadian dollar, and South African rand are classic examples. These currencies exhibit strong correlation with spot commodity prices because export earnings drive trade surpluses, capital flows, and central bank reserve accumulation.*
 
 <div class="wiki-hatnote">
 For the mechanics of how exchange rates adjust to commodity shocks, see [Currency Peg Maintenance](/wiki/currency-peg-maintenance/). For correlations between commodities and currency movements, see [Currency Correlation](/wiki/currency-correlation/).
@@ -87,7 +87,7 @@ The best framework is to view commodity currency pairs as a *partial* exposure t
 - [Commodity Futures Rolling](/wiki/commodity-futures-rolling/) — The mechanics of how commodity positions are managed; informative for currency hedging too.
 
 ### Wider context
-- [Forex](/wiki/forex/) — Foreign exchange markets; commodity currencies are major traded pairs.
+- Forex — Foreign exchange markets; commodity currencies are major traded pairs.
 - [Emerging Market Currency Pairs](/wiki/emerging-market-currency-pairs/) — Broader category; commodity currencies are a subset.
 - [Terms of Trade](/wiki/currency-intervention/) — How changes in commodity and non-commodity prices reshape a nation's trade balance.
 - [Commodity Swap](/wiki/commodity-swap/) — Financial instruments linking commodity prices and currencies.

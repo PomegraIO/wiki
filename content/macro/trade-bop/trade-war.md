@@ -8,7 +8,7 @@ keywords:
   - international relations
 ---
 
-*A **Trade War** erupts when one country imposes [tariffs](/wiki/tariffs-trade/) or other trade barriers, prompting retaliatory tariffs from its trading partners, setting off a cycle that can harm growth, raise prices, and disrupt supply chains worldwide.*
+*A **Trade War** erupts when one country imposes tariffs or other trade barriers, prompting retaliatory tariffs from its trading partners, setting off a cycle that can harm growth, raise prices, and disrupt supply chains worldwide.*
 
 <aside class="wiki-infobox">
 
@@ -25,7 +25,7 @@ keywords:
 
 ## How tariffs become wars
 
-A trade war typically starts with one country imposing tariffs on another's goods, citing either [dumping](/wiki/dumping-trade/) (selling below cost), intellectual property theft, or simply a large [trade deficit](/wiki/trade-deficit-era/). The importing country argues these tariffs protect domestic producers and workers. The exporting country views them as illegal barriers and retaliates with its own tariffs on the importer's goods. Back-and-forth escalation ensues.
+A trade war typically starts with one country imposing tariffs on another's goods, citing either dumping (selling below cost), intellectual property theft, or simply a large [trade deficit](/wiki/trade-deficit-era/). The importing country argues these tariffs protect domestic producers and workers. The exporting country views them as illegal barriers and retaliates with its own tariffs on the importer's goods. Back-and-forth escalation ensues.
 
 The escalation logic is simple. A 10% US tariff on steel imports raises costs for US automakers and construction firms, dampening their profitability and employment. But it protects US steelmakers. If those steelmakers lobby Congress, tariffs stay or rise. Meanwhile, the exporting country (say, Canada or Germany) loses steel sales. It retaliates by imposing tariffs on US cars or agricultural goods, harming US exporters. The cycle accelerates.
 
@@ -33,7 +33,7 @@ The escalation logic is simple. A 10% US tariff on steel imports raises costs fo
 
 The [Smoot-Hawley Tariff](/wiki/smoot-hawley-tariff/) of 1930 remains the textbook example of catastrophic trade-war escalation. The US imposed tariffs on over 900 imported goods, ostensibly to protect US farmers and manufacturers. Trading partners immediately retaliated. US exports collapsed; global trade fell ~66% over the next few years; the Great Depression worsened. Most economists view Smoot-Hawley as a policy disaster that deepened the crisis. Yet the political logic was defensible at the time: protect domestic producers amid a downturn.
 
-The lesson was to establish post-WW2 institutions (the GATT, now [WTO](/wiki/world-trade-organization/)) that constrain tariff escalation and mandate negotiation. For decades, this worked: tariff rates fell, and tit-for-tat trade wars were rare.
+The lesson was to establish post-WW2 institutions (the GATT, now WTO) that constrain tariff escalation and mandate negotiation. For decades, this worked: tariff rates fell, and tit-for-tat trade wars were rare.
 
 ## The 2018–2020 US-China tariffs
 
@@ -72,7 +72,7 @@ Since 2020, talk of protectionism and "reshoring" has risen, driven by COVID sup
 <div class="wiki-seealso">
 
 ### Closely related
-- [Tariffs](/wiki/tariffs-trade/) — the primary tool of trade wars.
+- Tariffs — the primary tool of trade wars.
 - [Smoot-Hawley Tariff](/wiki/smoot-hawley-tariff/) — the historical cautionary tale.
 - [Protectionism](/wiki/protectionism/) — the political economy driver.
 

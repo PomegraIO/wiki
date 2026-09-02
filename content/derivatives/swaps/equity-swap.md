@@ -106,7 +106,7 @@ The spread embedded in the financing cost depends on:
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/leverage/">Leverage</a> — the main advantage of equity swaps.</li>
+<li>Leverage — the main advantage of equity swaps.</li>
 <li><a href="/wiki/counterparty-risk/">Counterparty risk</a> — the primary risk in equity swaps.</li>
 <li><a href="/wiki/cost-of-carry/">Cost of carry</a> — determines the financing cost in the swap.</li>
 <li><a href="/wiki/dividend/">Dividend</a> — included in the equity return the swap payer delivers.</li>

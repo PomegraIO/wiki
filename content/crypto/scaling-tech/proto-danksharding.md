@@ -10,7 +10,7 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*[Proto-Danksharding](/crypto/scaling-tech/proto-danksharding/) (EIP-4844) is Ethereum's 2024 upgrade that introduced blob-carrying transactions, decoupling data fees from execution and laying groundwork for full [Danksharding](/crypto/scaling-tech/danksharding/). Blobs are temporary, data-only storage; they prove that data existed without requiring it to stay available forever.*
+*[Proto-Danksharding](/proto-danksharding/) (EIP-4844) is Ethereum's 2024 upgrade that introduced blob-carrying transactions, decoupling data fees from execution and laying groundwork for full [Danksharding](/danksharding/). Blobs are temporary, data-only storage; they prove that data existed without requiring it to stay available forever.*
 
 <aside class="wiki-infobox">
 
@@ -25,15 +25,15 @@ image: "/svg/crypto.svg"
 | **What it is** | EIP-4844; transaction type carrying up to 4–6 MB of temporary data per block |
 | **Lifespan** | Data kept by validators for ~18 days, then discarded (data availability window) |
 | **Fee mechanism** | Separate fee market for blob space; independent of gas |
-| **Primary user** | [Rollups](/crypto/rollup/) and other layer 2 systems aggregating transactions |
+| **Primary user** | Rollups and other layer 2 systems aggregating transactions |
 | **Throughput gain** | ~3–5× reduction in settlement costs for rollups |
-| **Next stage** | Full [Danksharding](/crypto/scaling-tech/danksharding/) with attester sampling |
+| **Next stage** | Full [Danksharding](/danksharding/) with attester sampling |
 
 </aside>
 
 ## Why blobs fill the gap
 
-Before EIP-4844, [rollups](/crypto/rollup/) had to compress transactions and post them as calldata—the ordinary transaction data field. Calldata is stored forever, which is wasteful: a rollup needs data only long enough for users to verify and reconstruct the state. After that, the data can be safely deleted.
+Before EIP-4844, rollups had to compress transactions and post them as calldata—the ordinary transaction data field. Calldata is stored forever, which is wasteful: a rollup needs data only long enough for users to verify and reconstruct the state. After that, the data can be safely deleted.
 
 Proto-Danksharding introduces **blobs**: temporary data fields designed exactly for this use case. A blob is committed to the chain (so rollups can prove they posted it), but validators automatically discard it after ~18 days. This two-tier model—commitment without permanence—is the architectural innovation that makes scaling possible.
 
@@ -43,7 +43,7 @@ The fee is separate too. Gas fees pay for computation and storage. Blob fees pay
 
 A blob transaction includes up to four blobs, each up to 131,072 bytes. Validators store blobs in memory during the validity window, then garbage-collect them. The blobs are committed using **KZG commitments**, a cryptographic scheme that lets anyone prove a blob's contents without transmitting the whole blob.
 
-When a [rollup](/crypto/rollup/) sequencer posts a batch, it includes blob commitments onchain. Users download blobs from gossip peers (or from archival nodes) to verify the rollup state. After 18 days, they're gone—no longer anyone's burden.
+When a rollup sequencer posts a batch, it includes blob commitments onchain. Users download blobs from gossip peers (or from archival nodes) to verify the rollup state. After 18 days, they're gone—no longer anyone's burden.
 
 This simplicity is the strength. Blobs do not require new consensus rules beyond KZG polynomial commitments. No random sampling, no new staking, no complex fairness protocols. Every validator still handles all blobs; the difference is they do not keep them forever.
 
@@ -57,7 +57,7 @@ This fee model is temporary. Full Danksharding will use attester sampling instea
 
 ## The bridge to full Danksharding
 
-Proto-Danksharding is intentionally incomplete. It is the staging post on the path to [full Danksharding](/crypto/scaling-tech/danksharding/).
+Proto-Danksharding is intentionally incomplete. It is the staging post on the path to [full Danksharding](/danksharding/).
 
 Full Danksharding removes the "all validators download all blobs" constraint. Only a random sample of validators attests to each data chunk. This allows Ethereum to commit to far more data—potentially hundreds of MB per slot—without overloading individual validators.
 
@@ -65,7 +65,7 @@ Proto-Danksharding does all the hard work of decoupling data from execution. Ful
 
 ## Impact on rollups
 
-[Rollups](/crypto/rollup/) are the main beneficiary. A [Optimistic Rollup](/crypto/optimistic-rollup/) must post transaction data onchain so anyone can reconstruct the state and validate proofs. A [ZK Rollup](/crypto/zk-rollup/) needs to post commitments proving its state is correct.
+Rollups are the main beneficiary. A [Optimistic Rollup](/optimistic-rollup/) must post transaction data onchain so anyone can reconstruct the state and validate proofs. A ZK Rollup needs to post commitments proving its state is correct.
 
 Proto-Danksharding made both cheaper by an order of magnitude. A ZK Rollup that once paid 90% of its fees for data now pays 10–20%. An Optimistic Rollup that cost users $1 per transaction now costs $0.10–0.30. The network's throughput, as seen by end users, rose immediately.
 
@@ -81,7 +81,7 @@ The 18-day retention window is also tuneable but chosen to balance security (tim
 
 Proto-Danksharding solves data availability for layer 2, not throughput directly. It does not increase Ethereum's own transaction capacity. Instead, it makes layer 2s cheaper and more viable.
 
-Alternatives like [sidechains](/crypto/sidechain/) or [state channels](/crypto/state-channel/) avoid publishing data onchain altogether. But they trade off security: a sidechain is only as safe as its validators, not Ethereum's. Blobs preserve security while reducing cost.
+Alternatives like sidechains or [state channels](/state-channel/) avoid publishing data onchain altogether. But they trade off security: a sidechain is only as safe as its validators, not Ethereum's. Blobs preserve security while reducing cost.
 
 ## See also
 
@@ -89,16 +89,16 @@ Alternatives like [sidechains](/crypto/sidechain/) or [state channels](/crypto/s
 
 ### Closely related
 
-- [Danksharding](/crypto/scaling-tech/danksharding/) — the full sharding design Proto-Danksharding leads toward
-- [Recursive SNARK](/crypto/scaling-tech/recursive-snark/) — proof compression used alongside blob data
-- [Rollup](/crypto/rollup/) — layer 2 system that pays for blob space
-- [Optimistic Rollup](/crypto/optimistic-rollup/) — rollup using data availability for fraud proofs
-- [ZK Rollup](/crypto/zk-rollup/) — rollup using blobs for proof commitments and state roots
+- [Danksharding](/danksharding/) — the full sharding design Proto-Danksharding leads toward
+- [Recursive SNARK](/recursive-snark/) — proof compression used alongside blob data
+- Rollup — layer 2 system that pays for blob space
+- [Optimistic Rollup](/optimistic-rollup/) — rollup using data availability for fraud proofs
+- ZK Rollup — rollup using blobs for proof commitments and state roots
 
 ### Wider context
 
-- [Layer 2](/crypto/layer-2/) — scaling solutions relying on Proto-Danksharding economics
-- [Ethereum](/crypto/ethereum/) — blockchain implementing EIP-4844
-- [Blockchain Fundamentals](/crypto/blockchain-fundamentals/) — the scalability constraints Proto-Danksharding addresses
+- Layer 2 — scaling solutions relying on Proto-Danksharding economics
+- [Ethereum](/ethereum/) — blockchain implementing EIP-4844
+- [Blockchain Fundamentals](/blockchain-fundamentals/) — the scalability constraints Proto-Danksharding addresses
 
 </div>

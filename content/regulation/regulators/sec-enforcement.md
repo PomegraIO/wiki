@@ -45,7 +45,7 @@ The [SEC Enforcement Division](/wiki/insider-trading-restrictions/) pursues most
 
 ### Accounting fraud and financial statement misstatement
 
-Auditors, CFOs, and outside advisors who knowingly issue false financial statements face enforcement action. A company that overstates revenue, hides expenses in off-balance-sheet entities, or manipulates estimates violates [GAAP](/wiki/generally-accepted-accounting-principles/) and securities laws. The SEC demands restatement, applies penalties, and may bar individuals from serving as officers or auditors. High-profile cases: [Enron](/wiki/enron-scandal/) (2002), [Worldcom](/wiki/worldcom-scandal/) (2002), and [Theranos](/wiki/startup-fraud/) (2018).
+Auditors, CFOs, and outside advisors who knowingly issue false financial statements face enforcement action. A company that overstates revenue, hides expenses in off-balance-sheet entities, or manipulates estimates violates [GAAP](/wiki/generally-accepted-accounting-principles/) and securities laws. The SEC demands restatement, applies penalties, and may bar individuals from serving as officers or auditors. High-profile cases: [Enron](/wiki/enron-scandal/) (2002), [Worldcom](/wiki/worldcom-scandal/) (2002), and Theranos (2018).
 
 ### Market manipulation
 
@@ -113,13 +113,13 @@ Many enforcement cases settle before trial. A defendant might consent to disgorg
 ### Closely related
 - [Insider Trading Restrictions](/wiki/insider-trading-restrictions/) — The rules the SEC enforces most actively
 - [Rule 10(b)(5)](/wiki/rule-10b-5/) — The antifraud rule at the heart of SEC enforcement
-- [Suspicious Activity Reporting](/wiki/suspicious-activity-reporting/) — Referrals from brokers that trigger SEC investigations
+- Suspicious Activity Reporting — Referrals from brokers that trigger SEC investigations
 - [Securities Exchange Commission](/wiki/securities-and-exchange-commission/) — The SEC's broader mandate
 
 ### Wider context
 - [Financial Regulation and Supervision](/wiki/financial-regulation-and-supervision/) — The regulatory framework
 - [Sarbanes-Oxley Act](/wiki/sarbanes-oxley-act/) — A major source of SEC enforcement authority post-2002
 - [Dodd-Frank Act](/wiki/dodd-frank-act/) — Another major source of authority
-- [Department of Justice](/wiki/doj/) — Criminal enforcement partner of the SEC
+- Department of Justice — Criminal enforcement partner of the SEC
 
 </div>

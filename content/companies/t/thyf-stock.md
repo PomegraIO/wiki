@@ -15,7 +15,7 @@ handwritten: true
 
 > "High yield is not junk; junk is mismanaged leverage."
 
-THYF sits at the higher-risk, higher-reward end of fixed income, where bond investors migrate when seeking returns far above what investment-grade corporate bonds or Treasuries can offer. The fund trades on the [stock exchange](/wiki/stock-exchange/) and aims to replicate a broad high-yield index rather than bet on specific credits, yet it benefits from T. Rowe Price's research and engagement on the underlying issuers. That combination — index-like transparency with active stewardship — is the fund's core appeal to investors who want [diversification](/diversification/) without the expense of a pure [active fund](/wiki/active-fund/) but want someone watching the underlying credits.
+THYF sits at the higher-risk, higher-reward end of fixed income, where bond investors migrate when seeking returns far above what investment-grade corporate bonds or Treasuries can offer. The fund trades on the [stock exchange](/wiki/stock-exchange/) and aims to replicate a broad high-yield index rather than bet on specific credits, yet it benefits from T. Rowe Price's research and engagement on the underlying issuers. That combination — index-like transparency with active stewardship — is the fund's core appeal to investors who want [diversification](/diversification/) without the expense of a pure active fund but want someone watching the underlying credits.
 
 ## What high-yield bonds are and why they exist
 

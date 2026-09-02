@@ -55,7 +55,7 @@ Investors gain emerging market exposure through [ETFs](/wiki/etf/), mutual funds
 
 ## Cycle, contagion, and crisis dynamics
 
-Emerging markets are cyclical. Strong growth and capital inflows can lead to overinvestment, credit bubbles, and currency bubbles. Sudden reversals—a financial crisis in a major economy, a spike in US interest rates, a commodity crash—trigger capital flight and default cascades. The 1997 Asian financial crisis, 2008 global crisis, and 2013 "taper tantrum" (when the Fed signaled interest rate hikes) all saw emerging market stress. [Contagion](/wiki/crisis-contagion/) is real: a crisis in one emerging market can spread to others if they share similar vulnerabilities. However, correlation is not perfect; some emerging markets decouple. The ability to identify which economies will withstand shocks and which will crumble is a key source of alpha for active emerging market managers.
+Emerging markets are cyclical. Strong growth and capital inflows can lead to overinvestment, credit bubbles, and currency bubbles. Sudden reversals—a financial crisis in a major economy, a spike in US interest rates, a commodity crash—trigger capital flight and default cascades. The 1997 Asian financial crisis, 2008 global crisis, and 2013 "taper tantrum" (when the Fed signaled interest rate hikes) all saw emerging market stress. Contagion is real: a crisis in one emerging market can spread to others if they share similar vulnerabilities. However, correlation is not perfect; some emerging markets decouple. The ability to identify which economies will withstand shocks and which will crumble is a key source of alpha for active emerging market managers.
 
 <div class="wiki-seealso">
 
@@ -66,7 +66,7 @@ Emerging markets are cyclical. Strong growth and capital inflows can lead to ove
 - [Currency Risk](/wiki/currency-risk/) — The additional risk of emerging market exposure
 
 ### Wider context
-- [Market Classification](/wiki/market-types/) — Emerging markets are one classification
+- Market Classification — Emerging markets are one classification
 - [Capital Flight](/wiki/capital-flight-sovereign/) — Risk in emerging markets
 - [Commodity Exposure](/wiki/commodity-etf/) — Emerging economies' dependence
 - [Geopolitical Risk](/wiki/geopolitical-energy/) — Source of emerging market shocks

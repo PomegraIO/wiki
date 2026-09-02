@@ -28,7 +28,7 @@ The **euro / U.S. dollar** is the single most-traded currency pair, accounting f
 
 ## GBP/USD—cable's volatility edge
 
-The **British pound / U.S. dollar** pair, nicknamed "cable" (after the transatlantic telegraph cable), is the third-most-traded pair. It's notably more volatile than EUR/USD. Bank of England policy, [Brexit](/wiki/brexit/) Brexit saga aftermath, and UK fiscal policy dominate moves. Cable spikes sharply on UK [inflation](/wiki/inflation-targeting/) surprises or [unemployment](/wiki/unemployment-rate/) data; the pair is beloved by [carry traders](/wiki/carry-trade/) seeking volatility premium and by macro [hedge funds](/wiki/hedge-fund-global-macro/) betting on UK recession. The pound has been weak versus the dollar for years, reflecting higher U.S. [interest rates](/wiki/interest-rate/) and energy crisis pressures on Europe.
+The **British pound / U.S. dollar** pair, nicknamed "cable" (after the transatlantic telegraph cable), is the third-most-traded pair. It's notably more volatile than EUR/USD. Bank of England policy, Brexit Brexit saga aftermath, and UK fiscal policy dominate moves. Cable spikes sharply on UK [inflation](/wiki/inflation-targeting/) surprises or [unemployment](/wiki/unemployment-rate/) data; the pair is beloved by [carry traders](/wiki/carry-trade/) seeking volatility premium and by macro [hedge funds](/wiki/hedge-fund-global-macro/) betting on UK recession. The pound has been weak versus the dollar for years, reflecting higher U.S. [interest rates](/wiki/interest-rate/) and energy crisis pressures on Europe.
 
 ## USD/JPY—the carry-trade currency
 
@@ -40,7 +40,7 @@ The **Swiss franc** is the world's safest currency haven. When [geopolitical ris
 
 ## AUD/USD—the commodity currency
 
-The **Australian dollar** is the most commodity-sensitive major pair. Australia exports iron ore, coal, and agricultural products; the AUD rallies when [commodity prices](/wiki/commodity-swap/) rise (China demand) and falls when they collapse. AUD/USD moves with the [terms of trade](/wiki/trade-deficit-era/), making it a proxy for global growth and [emerging markets](/wiki/emerging-markets-equity-fund/) appetite. It's liquid but less central to global markets than EUR/USD or GBP/USD. Range traders love the AUD because it's volatile enough to trigger [technical analysis](/wiki/technical-analysis/) signals but liquid enough to exit without slippage.
+The **Australian dollar** is the most commodity-sensitive major pair. Australia exports iron ore, coal, and agricultural products; the AUD rallies when [commodity prices](/wiki/commodity-swap/) rise (China demand) and falls when they collapse. AUD/USD moves with the [terms of trade](/wiki/trade-deficit-era/), making it a proxy for global growth and [emerging markets](/wiki/emerging-markets-equity-fund/) appetite. It's liquid but less central to global markets than EUR/USD or GBP/USD. Range traders love the AUD because it's volatile enough to trigger technical analysis signals but liquid enough to exit without slippage.
 
 ## Liquidity and [bid-ask spreads](/wiki/bid-ask-spread-forex/)
 

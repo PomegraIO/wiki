@@ -14,9 +14,9 @@ image: "/svg/valuation.svg"
 
 ## What CFROI measures
 
-CFROI begins with a deceptively simple question: if you invested $100 in this company's assets today, what real return would you earn? The metric answers by dividing a firm's [cash flow](/content/valuation/cash-flow-statement/) available to all investors (debt and equity holders) by the gross amount of capital invested in those assets, then adjusting for inflation to yield a percentage.
+CFROI begins with a deceptively simple question: if you invested $100 in this company's assets today, what real return would you earn? The metric answers by dividing a firm's [cash flow](/cash-flow-statement/) available to all investors (debt and equity holders) by the gross amount of capital invested in those assets, then adjusting for inflation to yield a percentage.
 
-Unlike [earnings per share](/content/earnings-per-share/) or accounting [return on equity](/return-on-equity/), CFROI ignores depreciation schedules, [goodwill](/goodwill/), and other balance-sheet cosmetics. It treats the business as a collection of physical and intangible capital that generates cash. A firm earning a CFROI of 15% on $1 billion of gross assets is delivering a 15% real return — before deducting its [cost of capital](/cost-of-debt/). If that cost of capital is 8%, the firm is creating economic profit at a 7-percentage-point spread.
+Unlike [earnings per share](/earnings-per-share/) or accounting [return on equity](/return-on-equity/), CFROI ignores depreciation schedules, [goodwill](/goodwill/), and other balance-sheet cosmetics. It treats the business as a collection of physical and intangible capital that generates cash. A firm earning a CFROI of 15% on $1 billion of gross assets is delivering a 15% real return — before deducting its [cost of capital](/cost-of-debt/). If that cost of capital is 8%, the firm is creating economic profit at a 7-percentage-point spread.
 
 CFROI is most intuitive in capital-intensive industries — energy, mining, telecommunications, infrastructure — where assets are large, long-lived, and easily valued at replacement cost. It works less smoothly in software or financial services, where [intangible assets](/intangible-assets/) dominate and gross investment is harder to pin down.
 

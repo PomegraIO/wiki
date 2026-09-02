@@ -62,7 +62,7 @@ The moment the OC ratio falls below the threshold—say, to 104% in a 105% deal�
 
 Cash that would have flowed to equity holders (the **bottom tranche**) instead routes to paying off senior principal. Once OC is restored, distributions resume. This mechanic protects senior investors without requiring a vote or a restructuring; it is automatic and contractual.
 
-If the breach persists and collateral continues to erode, the diversion can climb the waterfall: equity stops receiving cash first, then [subordinated noteholders](/junk-bond/) see their distributions curtailed or suspended. In a severe downturn, the entire [cash waterfall](//) may be redirected to pay down senior notes until the OC ratio recovers.
+If the breach persists and collateral continues to erode, the diversion can climb the waterfall: equity stops receiving cash first, then [subordinated noteholders](/junk-bond/) see their distributions curtailed or suspended. In a severe downturn, the entire cash waterfall may be redirected to pay down senior notes until the OC ratio recovers.
 
 ## How collateral managers live with it
 
@@ -92,7 +92,7 @@ The test is also a permanent reminder that [securitization](/securitization/) wo
 - [Securitization](/securitization/) — the broader mechanism that makes subordinated tranches and coverage tests possible
 - [Subordinated Tranche](/junk-bond/) — junior noteholders absorb losses first and distributions last
 - [Credit Rating](/credit-rating/) — OC thresholds are set based on expected credit losses in the portfolio
-- [Cash Waterfall](//) — payment order through the tranches; OC test redirects flows up the priority stack
+- Cash Waterfall — payment order through the tranches; OC test redirects flows up the priority stack
 
 ### Wider context
 

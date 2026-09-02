@@ -52,7 +52,7 @@ The wider the spread, the longer the algorithm must work to avoid moving the mar
 
 ## Spread compression over 30 years
 
-Since the 1990s, spreads have compressed dramatically. Electronic markets, [decimal pricing](/wiki/decimal-pricing/) (moving from 1/8-inch increments to pennies), and competition from [high-frequency traders](/wiki/high-frequency-trading/) have all contributed. On major stocks, the spread is rarely more than a few cents. For exchange-traded funds ([ETFs](/wiki/etf/)), spreads on the largest, most liquid funds are often under a penny.
+Since the 1990s, spreads have compressed dramatically. Electronic markets, decimal pricing (moving from 1/8-inch increments to pennies), and competition from [high-frequency traders](/wiki/high-frequency-trading/) have all contributed. On major stocks, the spread is rarely more than a few cents. For exchange-traded funds ([ETFs](/wiki/etf/)), spreads on the largest, most liquid funds are often under a penny.
 
 This compression has benefited retail traders enormously. But it has also tightened profit margins for traditional [market makers](/wiki/market-makers/), who now compete with [algorithmic traders](/wiki/algorithmic-trading/) and must process orders at higher speeds and lower costs to survive.
 

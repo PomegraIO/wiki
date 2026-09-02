@@ -18,7 +18,7 @@ keywords:
 | **Financing** | Commercial mortgages (Fannie Mae, agency loans, DSCR) |
 | **Key Metric** | [Cap rate](/wiki/cap-rate-commercial/), cash-on-cash return, cash flow |
 | **Tax Advantages** | [Depreciation](/wiki/depreciation-recapture-investor/) deductions, [1031 exchange](/wiki/1031-like-kind-exchange/) |
-| **Exit Strategies** | Sell, refinance, [1031 into larger property](/wiki/1031-exchange-detail/) |
+| **Exit Strategies** | Sell, refinance, 1031 into larger property |
 
 </aside>
 
@@ -58,7 +58,7 @@ Multi-family investors obsess over three numbers:
 
 Multi-family property owners get a powerful tax shelter via [depreciation recapture](/wiki/depreciation-recapture-investor/). The IRS allows you to deduct the "cost" of the building (not the land) over 27.5 years. On a $10 million apartment building with 80% allocated to the structure ($8 million), you can deduct $290,909 per year. This paper loss offsets operational income, reducing taxable income—and often sheltering all your rental income from tax.
 
-The caveat: when you sell, the IRS reclaims 25% of cumulative depreciation as "recapture tax" (taxed at 25%, not the capital gains rate). The [1031 exchange](/wiki/1031-like-kind-exchange/) defers this recapture indefinitely if you keep buying larger (or equal) multi-family properties. This is why experienced multi-family investors never *actually* exit real estate—they trade up endlessly via [1031](/wiki/1031-exchange-detail/).
+The caveat: when you sell, the IRS reclaims 25% of cumulative depreciation as "recapture tax" (taxed at 25%, not the capital gains rate). The [1031 exchange](/wiki/1031-like-kind-exchange/) defers this recapture indefinitely if you keep buying larger (or equal) multi-family properties. This is why experienced multi-family investors never *actually* exit real estate—they trade up endlessly via 1031.
 
 ## Market factors and risk
 

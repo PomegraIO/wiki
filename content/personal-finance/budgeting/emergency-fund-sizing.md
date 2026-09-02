@@ -8,9 +8,9 @@ keywords:
   - budget cushion
 ---
 
-*An emergency fund is a pool of liquid [cash](/wiki/cash/) or [money-market](/wiki/money-market-fund/) assets held outside regular [budgeting](/wiki/budgeting-methods/) to cover unexpected major expenses or income loss. The standard sizing guidance is 3 to 6 months of essential living expenses, though the optimal amount depends on employment stability, household dependents, and health status.*
+*An emergency fund is a pool of liquid cash or [money-market](/wiki/money-market-fund/) assets held outside regular [budgeting](/wiki/budgeting-methods/) to cover unexpected major expenses or income loss. The standard sizing guidance is 3 to 6 months of essential living expenses, though the optimal amount depends on employment stability, household dependents, and health status.*
 
-<div class="wiki-hatnote">For income-protection measures, see [disability insurance](/wiki/disability-insurance-personal/). For broader wealth strategies, see [financial planning](/wiki/financial-planning/).</div>
+<div class="wiki-hatnote">For income-protection measures, see [disability insurance](/wiki/disability-insurance-personal/). For broader wealth strategies, see financial planning.</div>
 
 <aside class="wiki-infobox">
 
@@ -34,7 +34,7 @@ Once essential monthly expenses are known, multiply by the target month count. A
 
 ## Why 3 to 6 months is the consensus target
 
-Three months is the minimum for stable, salaried professionals with one income stream and low dependents. It covers most job searches and handles temporary income disruptions. Six months applies to self-employed individuals, [freelancers](/wiki/freelancer/), households with dependent children, or those in volatile industries (tech, media, finance). The upper bound—six to twelve months—suits those with [mortgage](/wiki/home-equity-line-of-credit/) debt, high property taxes, or chronic health risks requiring frequent medical expense.
+Three months is the minimum for stable, salaried professionals with one income stream and low dependents. It covers most job searches and handles temporary income disruptions. Six months applies to self-employed individuals, freelancers, households with dependent children, or those in volatile industries (tech, media, finance). The upper bound—six to twelve months—suits those with [mortgage](/wiki/home-equity-line-of-credit/) debt, high property taxes, or chronic health risks requiring frequent medical expense.
 
 The 3–6 month range is not arbitrary. It reflects empirical frequency of job-transition windows (median 2–4 months for skilled workers) and insurance deductibles. Beyond six months, the emergency fund ties up capital that could earn higher returns in [equities](/wiki/equity-etf/) or [bonds](/wiki/bond-etf/), creating an opportunity cost.
 
@@ -42,7 +42,7 @@ The 3–6 month range is not arbitrary. It reflects empirical frequency of job-t
 
 Most households cannot accumulate 6 months of expenses overnight. A practical approach: set an initial target of 1 month, then $2,000, then one full month, then escalate by $1,000–$2,000 per month. This phased approach provides psychological wins and builds discipline without derailing other [savings goals](/wiki/savings-rate/) (retirement, [education](/wiki/education-bonds/), [housing](/wiki/real-estate-investment-trust/)).
 
-Automate the process via [direct deposit](/wiki/direct-deposit/) or recurring transfers to a [money-market fund](/wiki/money-market-fund/). Most people who set manual savings goals fail; automation removes willpower from the equation. Allocate a raise or [tax refund](/wiki/refund-tax-planning/) to the emergency fund first, then adjust spending.
+Automate the process via direct deposit or recurring transfers to a [money-market fund](/wiki/money-market-fund/). Most people who set manual savings goals fail; automation removes willpower from the equation. Allocate a raise or tax refund to the emergency fund first, then adjust spending.
 
 ## Where to hold the emergency fund
 
@@ -52,15 +52,15 @@ Do not hold the emergency fund in [stocks](/wiki/stock/), [stock ETFs](/wiki/equ
 
 ## When to dip into the emergency fund
 
-A true emergency is unexpected, urgent, and material: job loss, car breakdown, medical bill, home repair. It is not: a vacation, a clothing purchase, or funding a [side business](/wiki/entrepreneurship/). The fund loses its power if depleted on discretionary choices.
+A true emergency is unexpected, urgent, and material: job loss, car breakdown, medical bill, home repair. It is not: a vacation, a clothing purchase, or funding a side business. The fund loses its power if depleted on discretionary choices.
 
 Once an emergency fund withdrawal is made, prioritize rebuilding it before resuming other savings goals. This creates a mental boundary: the emergency fund is sacred.
 
 ## Interaction with other financial buffers
 
-An emergency fund complements but does not replace [disability insurance](/wiki/disability-insurance-personal/) or [life insurance](/wiki/life-insurance/). Disability insurance replaces 50–70% of income if you cannot work; the emergency fund fills the gap and covers non-income disruptions (medical bills, car repair). [Health insurance](/wiki/auto-insurance/) reduces catastrophic medical costs but leaves you exposed to deductibles and out-of-pocket maxima—another reason an emergency fund matters.
+An emergency fund complements but does not replace [disability insurance](/wiki/disability-insurance-personal/) or life insurance. Disability insurance replaces 50–70% of income if you cannot work; the emergency fund fills the gap and covers non-income disruptions (medical bills, car repair). [Health insurance](/wiki/auto-insurance/) reduces catastrophic medical costs but leaves you exposed to deductibles and out-of-pocket maxima—another reason an emergency fund matters.
 
-For households with [401(k)](/wiki/401k-plan/) or [IRA](/wiki/ira-traditional/) plans, an emergency fund allows you to avoid early withdrawal penalties (typically 10% plus taxes on [retirement accounts](/wiki/retirement-account/)). This tax-efficiency alone justifies maintaining liquid reserves.
+For households with [401(k)](/wiki/401k-plan/) or [IRA](/wiki/ira-traditional/) plans, an emergency fund allows you to avoid early withdrawal penalties (typically 10% plus taxes on retirement accounts). This tax-efficiency alone justifies maintaining liquid reserves.
 
 ## Psychological and behavioral dimensions
 
@@ -77,9 +77,9 @@ An emergency fund also prevents ["lifestyle creep"](/wiki/lifestyle-creep/) by c
 - [Debt consolidation](/wiki/debt-consolidation/) — Managing multiple debts
 
 ### Wider context
-- [Personal financial planning](/wiki/financial-planning/) — Long-term wealth strategy
+- Personal financial planning — Long-term wealth strategy
 - [Savings rate](/wiki/savings-rate/) — Proportion of income saved monthly
 - [Credit utilization](/wiki/credit-utilization-ratio/) — Debt burden as percentage of available credit
-- [Life insurance](/wiki/life-insurance/) — Income protection for dependents
+- Life insurance — Income protection for dependents
 
 </div>

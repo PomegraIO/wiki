@@ -61,7 +61,7 @@ Triangular arbitrage applies to any three linked markets. Equity traders exploit
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/high-frequency-trading/">High Frequency Trading</a> — the domain of profitable triangular arbitrage.</li>
-<li><a href="/wiki/market-efficiency/">Market Efficiency</a> — triangular arbitrage is evidence of efficiency.</li>
+<li>Market Efficiency — triangular arbitrage is evidence of efficiency.</li>
 <li><a href="/wiki/algorithmic-trading/">Algorithmic Trading</a> — the method used to exploit these opportunities.</li>
 </ul>
 </div>

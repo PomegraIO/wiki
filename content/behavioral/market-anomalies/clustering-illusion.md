@@ -54,9 +54,9 @@ Clustering illusions can become self-fulfilling if enough traders believe them. 
 
 ## Defense and discipline
 
-The primary defense is statistical rigor. Before committing capital to a perceived pattern, test it on out-of-sample data or use [backtesting](/wiki/backtesting/) with proper controls for [survivorship bias](/wiki/bias/) and data snooping. If you can't articulate a *causal mechanism* for why the pattern should persist—not just that it was observed—skepticism is warranted.
+The primary defense is statistical rigor. Before committing capital to a perceived pattern, test it on out-of-sample data or use backtesting with proper controls for survivorship bias and data snooping. If you can't articulate a *causal mechanism* for why the pattern should persist—not just that it was observed—skepticism is warranted.
 
-Longer time horizons also reduce the influence of clustering. A trader focused on price action over days is vulnerable to illusion. An investor tracking [fundamentals](/wiki/fundamental-investing/) over years is less likely to misinterpret random noise as signal. Diversification, position sizing, and [risk management](/wiki/risk-measurement/) discipline ensure that even if you do mistake a cluster for a trend, the position is small enough that you survive the inevitable reversal.
+Longer time horizons also reduce the influence of clustering. A trader focused on price action over days is vulnerable to illusion. An investor tracking [fundamentals](/wiki/fundamental-investing/) over years is less likely to misinterpret random noise as signal. Diversification, position sizing, and risk management discipline ensure that even if you do mistake a cluster for a trend, the position is small enough that you survive the inevitable reversal.
 
 <div class="wiki-seealso">
 
@@ -67,7 +67,7 @@ Longer time horizons also reduce the influence of clustering. A trader focused o
 
 ### Wider context
 - [Momentum Investing](/wiki/momentum-investing/) — Strategy exploiting real, not illusory, patterns
-- [Behavioral Finance](/wiki/behavioral-finance/) — Study of cognitive biases in markets
-- [Backtesting](/wiki/backtesting/) — Method to test pattern validity rigorously
+- Behavioral Finance — Study of cognitive biases in markets
+- Backtesting — Method to test pattern validity rigorously
 
 </div>

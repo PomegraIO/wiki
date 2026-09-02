@@ -82,7 +82,7 @@ The record date is the company's formal accounting cutoff for distributions. For
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events altering shareholder rights or company structure.</li>
+  <li>Corporate actions — events altering shareholder rights or company structure.</li>
   <li><a href="/wiki/dtcc/">DTCC</a> — central registry for U.S. securities ownership.</li>
 </ul>
 </div>

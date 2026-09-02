@@ -8,7 +8,7 @@ keywords:
   - fico score
 ---
 
-*A **Personal Credit Report** is a detailed record of an individual's credit behavior compiled by credit reporting agencies (bureaus). It documents all borrowing, payment history, defaults, bankruptcies, and credit inquiries. Lenders use the report and associated [FICO score](/wiki/fico-score/) to assess credit risk and decide whether to extend credit and at what rate.*
+*A **Personal Credit Report** is a detailed record of an individual's credit behavior compiled by credit reporting agencies (bureaus). It documents all borrowing, payment history, defaults, bankruptcies, and credit inquiries. Lenders use the report and associated FICO score to assess credit risk and decide whether to extend credit and at what rate.*
 
 <aside class="wiki-infobox">
 
@@ -77,15 +77,15 @@ Credit-report errors are surprisingly common. A data-entry mistake can link you 
 <div class="wiki-seealso">
 
 ### Closely related
-- [FICO Score](/wiki/fico-score/) — credit-scoring standard
+- FICO Score — credit-scoring standard
 - [Credit Rating](/wiki/credit-rating/) — risk assessment
 - [Credit Utilization Ratio](/wiki/credit-utilization-ratio/) — key metric
 - [Credit Counseling](/wiki/credit-counseling/) — help for distressed borrowers
 
 ### Wider context
 - [Consumer Financial Protection Bureau](/wiki/consumer-financial-protection-bureau/) — regulator
-- [Fair Credit Reporting Act](/wiki/fair-credit-reporting-act/) — governing statute
-- [Identity Theft](/wiki/identity-theft/) — fraud risk
+- Fair Credit Reporting Act — governing statute
+- Identity Theft — fraud risk
 - [Charge Off](/wiki/charge-off/) — negative item
 
 </div>

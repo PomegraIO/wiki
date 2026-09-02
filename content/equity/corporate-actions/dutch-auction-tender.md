@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A Dutch auction tender offer is a structured [share buyback](/equity/share-buyback/) mechanism in which a company specifies the number of shares it wants to repurchase and shareholders submit bids indicating the price at which they are willing to sell and the number of shares offered. The company then sets a clearing price — the lowest price at which it can acquire the desired quantity — and repurchases all tendered shares at or below that price. This mechanism allows the company to repurchase shares at an efficient price while giving shareholders a choice of sale prices.*
+*A Dutch auction tender offer is a structured [share buyback](/share-buyback/) mechanism in which a company specifies the number of shares it wants to repurchase and shareholders submit bids indicating the price at which they are willing to sell and the number of shares offered. The company then sets a clearing price — the lowest price at which it can acquire the desired quantity — and repurchases all tendered shares at or below that price. This mechanism allows the company to repurchase shares at an efficient price while giving shareholders a choice of sale prices.*
 
 <aside class="wiki-infobox">
 
@@ -61,7 +61,7 @@ A company wants to repurchase 100 million shares and announces a Dutch auction t
 
 5. **Settlement**:
    - The company pays tendering shareholders at the clearing price.
-   - Shares are transferred to the company and recorded as [treasury stock](/equity/treasury-stock/).
+   - Shares are transferred to the company and recorded as [treasury stock](/treasury-stock/).
 
 ## Economics and efficiency
 
@@ -70,7 +70,7 @@ A Dutch auction is efficient for the company because the clearing price is deter
 - If many shareholders want to sell at low prices, the clearing price is low, benefiting the company.
 - If few shareholders want to sell (they believe stock is undervalued), the clearing price is high, and the company may not acquire 100 million shares.
 
-This is in contrast to an [open-market buyback](/equity/share-buyback/), where the company buys at whatever prices prevail during the buyback period.
+This is in contrast to an [open-market buyback](/share-buyback/), where the company buys at whatever prices prevail during the buyback period.
 
 ## Benefits and drawbacks
 
@@ -84,7 +84,7 @@ This is in contrast to an [open-market buyback](/equity/share-buyback/), where t
 - **Complexity**: Shareholders must understand the auction mechanics and bid strategically.
 - **Timing risk**: Shareholders who don't tender during the offer period cannot change their minds.
 - **Undersubscription risk**: The company might not acquire all desired shares if shareholders are reluctant to sell.
-- **Less common**: Open-market buybacks and [ASRs](/equity/accelerated-share-repurchase/) are more common in modern practice.
+- **Less common**: Open-market buybacks and [ASRs](/accelerated-share-repurchase/) are more common in modern practice.
 
 ## Bidding strategy for shareholders
 
@@ -101,8 +101,8 @@ The strategy is to bid your reservation price (the lowest price you would accept
 Dutch auction tender offers were popular in the 1980s and 1990s as a buyback mechanism. They were championed as more efficient and transparent than open-market buybacks. However, they have declined in popularity in favor of:
 
 - **Open-market buybacks**: Simpler, less disruption.
-- **[ASRs](/equity/accelerated-share-repurchase/)**: Faster execution, negotiated price.
-- **[Stock repurchase programs](/equity/share-buyback/)**: Ongoing; can be executed at any time.
+- **[ASRs](/accelerated-share-repurchase/)**: Faster execution, negotiated price.
+- **[Stock repurchase programs](/share-buyback/)**: Ongoing; can be executed at any time.
 
 The complexity of Dutch auctions deterred many companies and investors. However, they remain a viable option for large, one-time repurchases.
 
@@ -124,25 +124,25 @@ These variations are rare but illustrate the flexibility of the auction concept.
 
 - **Open-market**: Gradual; continuous; less price certainty.
 - **Dutch auction**: Discrete event; efficient pricing; requires shareholder participation.
-- **[ASR](/equity/accelerated-share-repurchase/)**: Large block; immediate; negotiated price with bank.
+- **[ASR](/accelerated-share-repurchase/)**: Large block; immediate; negotiated price with bank.
 - **Fixed tender offer**: Company offers fixed price (e.g., $110 per share); shareholders choose to accept or not (less efficient than Dutch auction).
 
 <div class="wiki-seealso">
 
 ### Closely related
 
-- [Share buyback](/equity/share-buyback/) — the repurchase program
-- [Tender offer](/equity/dutch-auction-tender/) — formal buyback structure
-- [Accelerated share repurchase](/equity/accelerated-share-repurchase/) — fast alternative
-- [Treasury stock](/equity/treasury-stock/) — result of tender offer
+- [Share buyback](/share-buyback/) — the repurchase program
+- [Tender offer](/dutch-auction-tender/) — formal buyback structure
+- [Accelerated share repurchase](/accelerated-share-repurchase/) — fast alternative
+- [Treasury stock](/treasury-stock/) — result of tender offer
 - [Earnings per share](/earnings-per-share/) — boosted by repurchase
 
 ### Wider context
 
 - [Public company](/public-company/) — executes tender offers
 - [Stock market](/stock-market/) — where tenders occur
-- [Shareholder value](/equity/share-buyback/) — how returns are distributed
-- [Capital allocation](/equity/share-buyback/) — strategic choice
-- [Auction mechanisms](/equity/dutch-auction-tender/) — economic principle
+- [Shareholder value](/share-buyback/) — how returns are distributed
+- [Capital allocation](/share-buyback/) — strategic choice
+- [Auction mechanisms](/dutch-auction-tender/) — economic principle
 
 </div>

@@ -55,7 +55,7 @@ The most likely outcome is either a slow decline as capital runs low and growth 
 
 ## Research Pathway
 
-Review TMTG's latest [10-K](/10-K/) filing (CIK 1849635) for user growth metrics, monthly active users, engagement rates (posts per user), revenue per user, and monthly cash burn. Look for the composition of revenue (advertising ÷ subscriptions), [gross-profit-margin](/gross-profit-margin/), and total operating expenses. Compare to historical data for other social startups to assess whether growth and monetization are on a viable path.
+Review TMTG's latest [10-K](/10-k/) filing (CIK 1849635) for user growth metrics, monthly active users, engagement rates (posts per user), revenue per user, and monthly cash burn. Look for the composition of revenue (advertising ÷ subscriptions), [gross-profit-margin](/gross-profit-margin/), and total operating expenses. Compare to historical data for other social startups to assess whether growth and monetization are on a viable path.
 
 <div class="wiki-seealso">
 ### Closely related

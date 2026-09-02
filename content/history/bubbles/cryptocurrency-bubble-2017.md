@@ -37,7 +37,7 @@ This shift triggered [FOMO](/wiki/fomo/) (fear of missing out)—the [behavioral
 
 ## ICOs and altcoin proliferation
 
-The ICO (Initial Coin Offering) market exploded in 2017. Startups launched ICOs instead of raising [venture capital](/wiki/venture-capital-fund/), issuing newly created tokens that promised future utility or dividends. Many ICOs were quasi-[Ponzi schemes](/wiki/boiler-room-fraud/)—vague white papers, non-existent products, and founders who disappeared after raising millions. Yet retail [speculators](/wiki/speculation/) treated every ICO as the next [Bitcoin](/wiki/bitcoin/), piling in blindly.
+The ICO (Initial Coin Offering) market exploded in 2017. Startups launched ICOs instead of raising [venture capital](/wiki/venture-capital-fund/), issuing newly created tokens that promised future utility or dividends. Many ICOs were quasi-[Ponzi schemes](/wiki/boiler-room-fraud/)—vague white papers, non-existent products, and founders who disappeared after raising millions. Yet retail speculators treated every ICO as the next [Bitcoin](/wiki/bitcoin/), piling in blindly.
 
 By peak 2017, a new ICO could raise $10–100 million in hours. One project ([EOS](/wiki/ethereum/)) raised $4 billion over nearly a year. Another ([Tezos](/wiki/blockchain-fundamentals/)) raised $232 million for a product that didn't work. Most delivered nothing of value; many never shipped a working product. [Regulatory](/wiki/regulation-best-interest/) agencies were asleep—the SEC had just begun considering whether ICOs were [securities](/wiki/securities-exchange-act-of-1934/).
 

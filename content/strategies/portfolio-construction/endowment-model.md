@@ -11,7 +11,7 @@ keywords:
 image: "/svg/strategies.svg"
 ---
 
-*The **endowment model** is an asset allocation framework developed and popularized by university endowments, most notably Yale's. It tilts heavily toward [alternatives](/.)—private equity, hedge funds, real estate, natural resources—and away from traditional public equities and [bonds](/bond/), betting that longer time horizons and tolerance for illiquidity justify higher expected returns. Though associated with institutional mega-funds, the logic has spread to foundations, sovereign wealth funds, and wealthy families.*
+*The **endowment model** is an asset allocation framework developed and popularized by university endowments, most notably Yale's. It tilts heavily toward alternatives—private equity, hedge funds, real estate, natural resources—and away from traditional public equities and [bonds](/bond/), betting that longer time horizons and tolerance for illiquidity justify higher expected returns. Though associated with institutional mega-funds, the logic has spread to foundations, sovereign wealth funds, and wealthy families.*
 
 <aside class="wiki-infobox">
 
@@ -63,7 +63,7 @@ The allocation is skewed toward illiquidity, often 55–70 per cent of the fund 
 
 ## Why the model succeeded and then stumbled
 
-In the 2000s and early 2010s, the endowment model was nearly unbeatable. The spread between private equity and public equity returns widened. [Correlations](/.) between alternatives and public markets dipped. Fundraising in alternatives boomed, and top-tier funds posted spectacular returns. Yale and Harvard endowments, along with peer institutions, compounded capital at 8–12 per cent annually, well above inflation and bond yields.
+In the 2000s and early 2010s, the endowment model was nearly unbeatable. The spread between private equity and public equity returns widened. Correlations between alternatives and public markets dipped. Fundraising in alternatives boomed, and top-tier funds posted spectacular returns. Yale and Harvard endowments, along with peer institutions, compounded capital at 8–12 per cent annually, well above inflation and bond yields.
 
 But the model's success bred imitators, and imitators diluted returns. By the mid-2010s, asset managers flooded into private equity and real estate, chasing the illiquidity premium. Valuations in private companies rose; deal multiples inflated. The excess return—the alpha—shrank. Simultaneously, public equity markets (especially US tech) rallied hard, making a 30 per cent public-equity allocation look like missed opportunity in hindsight.
 
@@ -110,7 +110,7 @@ Retail wealth—individuals with millions but not tens of millions—should appr
 
 ### Wider context
 
-- [Illiquidity premium](/.) — the return compensation for holding non-liquid assets
+- Illiquidity premium — the return compensation for holding non-liquid assets
 - [Tail risk](/tail-risk/) — crisis-period correlation and volatility spikes in alternatives
 - [Diversification](/diversification/) — the endowment model's chief risk management lever
 - [Factor investing](/factor-investing/) — low-cost alternative to dedicated alternative managers

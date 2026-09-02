@@ -25,7 +25,7 @@ image: /svg/corporate.svg
 | **What it is** | PE firm controlling a leveraged acquisition through majority or significant minority equity ownership |
 | **Fund size** | Typically $1bn–$25bn per vintage; mega-sponsors operate much larger vehicles |
 | **Hold period** | 3–7 years; exit via sale, IPO, dividend recap, or sale to larger PE firm (secondary) |
-| **Return target** | 20–30% IRR; 2.5–4x [money multiple](//) on invested capital |
+| **Return target** | 20–30% IRR; 2.5–4x money multiple on invested capital |
 | **Debt ratio** | Leverage of 3–6x Entry EBITDA, depending on sector, rate environment, and sponsor thesis |
 | **Portfolio size** | Typically 15–30 companies per fund; larger sponsors may run 50+ simultaneously |
 | **Management structure** | Operating partners (sector experts), financial partners (capital allocation), and deal teams |
@@ -144,8 +144,8 @@ Conversely, sponsors with poor exits (liquidations, write-offs, management depar
 - [Club Deal](/club-deal/) — Multi-sponsor acquisitions where two or more sponsors co-invest as partners
 - [Add-On Acquisition](/portco-add-on-acquisition/) — Bolt-on consolidation strategy led by the LBO sponsor
 - [Management Incentive Plan](/management-incentive-plan/) — Equity pools sponsors grant to align portfolio-company management
-- [Leveraged Buyout](//) — The transaction structure and financing framework
-- [Private Equity Fund](//) — The capital vehicle through which sponsors raise and deploy capital
+- Leveraged Buyout — The transaction structure and financing framework
+- Private Equity Fund — The capital vehicle through which sponsors raise and deploy capital
 
 ### Wider context
 

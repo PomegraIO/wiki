@@ -14,7 +14,7 @@ image: "/svg/regulation.svg"
 
 <div class="wiki-hatnote">
 
-For the CFPB's regulatory mission and jurisdiction, see [CFPB](/regulators/#cfpb). This article focuses on structural independence and funding.
+For the CFPB's regulatory mission and jurisdiction, see CFPB. This article focuses on structural independence and funding.
 
 </div>
 
@@ -71,7 +71,7 @@ The Seila Law decision weakened the CFPB but did not dismantle it. Presidents ca
 
 The CFPB's independence is stronger than that of the [OCC](/office-of-the-comptroller-of-the-currency/) or [OFR](/office-of-financial-research/), which are fully subject to presidential removal and congressional appropriations. But it is weaker than that of the Federal Reserve itself, which has multiple governors and a more insulated structure. The [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation/) has a hybrid model: a board with mixed executive and legislative appointments, and a quasi-independent funding stream from insurance premiums.
 
-Most independent agencies (those with multimember boards and fixed tenures for members) sit somewhere between the CFPB's former model and pure presidential control. The [SEC](/securities-and-exchange-commission/), [CFTC](/regulators/#cftc), and [FTC](/regulators/#ftc) all have five commissioners with staggered five-year terms, limiting any single president's immediate power to reshape them.
+Most independent agencies (those with multimember boards and fixed tenures for members) sit somewhere between the CFPB's former model and pure presidential control. The [SEC](/securities-and-exchange-commission/), CFTC, and FTC all have five commissioners with staggered five-year terms, limiting any single president's immediate power to reshape them.
 
 ## Practical independence in practice
 
@@ -85,7 +85,7 @@ This does not mean the CFPB is untouchable. A determined President with unified 
 
 ### Closely related
 
-- [CFPB](/regulators/#cfpb) — the bureau itself, its jurisdiction and enforcement powers
+- CFPB — the bureau itself, its jurisdiction and enforcement powers
 - [Dodd-Frank Act](/dodd-frank-act/) — legislation that created the CFPB's structure
 - [Federal Reserve](/federal-reserve/) — funds the CFPB and serves as the Bureau's fiscal agent
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) — comparable federal regulator with different (less independent) structure
@@ -93,9 +93,9 @@ This does not mean the CFPB is untouchable. A determined President with unified 
 
 ### Wider context
 
-- [Consumer Financial Protection Bureau](/regulators/#cfpb) — consumer protection mandate and rules
-- [Separation of Powers](/regulators/#separation-powers) — constitutional principle underlying independence debates
-- [Administrative Law](/regulators/#admin-law) — broader framework governing agency structure and removal
-- [Financial Stability Oversight Council](/regulators/#fsoc) — interagency body that oversees financial regulators
+- Consumer Financial Protection Bureau — consumer protection mandate and rules
+- Separation of Powers — constitutional principle underlying independence debates
+- Administrative Law — broader framework governing agency structure and removal
+- Financial Stability Oversight Council — interagency body that oversees financial regulators
 
 </div>

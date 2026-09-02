@@ -39,7 +39,7 @@ Endowments are often prototypical [diversified portfolios](/wiki/diversification
 
 ## The endowment model and institutional investors
 
-The term "endowment model," popularized by Yale's Chief Investment Officer David Swensen, describes an [asset allocation](/wiki/asset-allocation/) strategy with a high equity weighting, diversification into alternatives, and [active management](/wiki/actively-managed-fund/). Swensen's thesis was that endowments, with infinite time horizons, can take on more equity risk than typical institutional investors, reap the [equity risk premium](/wiki/equity-risk-premium/), and enhance returns through [alternative investments](/wiki/alternative-investment/) and active [manager selection](/wiki/comparable-company-analysis/). Many university and foundation endowments adopted versions of this model in the 1990s and 2000s, which proved highly profitable during the strong equity markets of that era. The model suffered, however, during the 2008 financial crisis and the 2022 bear market, when illiquid alternatives and equity heavy allocations suffered steep losses and endowment values fell sharply.
+The term "endowment model," popularized by Yale's Chief Investment Officer David Swensen, describes an [asset allocation](/wiki/asset-allocation/) strategy with a high equity weighting, diversification into alternatives, and [active management](/wiki/actively-managed-fund/). Swensen's thesis was that endowments, with infinite time horizons, can take on more equity risk than typical institutional investors, reap the [equity risk premium](/wiki/equity-risk-premium/), and enhance returns through alternative investments and active [manager selection](/wiki/comparable-company-analysis/). Many university and foundation endowments adopted versions of this model in the 1990s and 2000s, which proved highly profitable during the strong equity markets of that era. The model suffered, however, during the 2008 financial crisis and the 2022 bear market, when illiquid alternatives and equity heavy allocations suffered steep losses and endowment values fell sharply.
 
 ## Donor restrictions and designated funds
 
@@ -47,7 +47,7 @@ Most endowments consist of multiple sub-funds, each with specific donor restrict
 
 ## Liquidity and the alternatives problem
 
-A persistent challenge for large endowments is liquidity. The push to [alternative investments](/wiki/alternative-investment/) — [private equity](/wiki/leveraged-buyout/), infrastructure funds, real estate, hedge funds — generates attractive returns but locks up capital for 7–10+ years. When the endowment must pay out 5% annually but holds 30–40% of assets in illiquid funds, there is a structural liquidity mismatch. During the 2008 crisis, some endowments were forced to delay distributions to institutions because alternatives couldn't be quickly liquidated to meet spending commitments. This prompted many endowments to reassess their [illiquidity risk](/wiki/liquidity-risk/) and shift some allocation back to liquid assets.
+A persistent challenge for large endowments is liquidity. The push to alternative investments — [private equity](/wiki/leveraged-buyout/), infrastructure funds, real estate, hedge funds — generates attractive returns but locks up capital for 7–10+ years. When the endowment must pay out 5% annually but holds 30–40% of assets in illiquid funds, there is a structural liquidity mismatch. During the 2008 crisis, some endowments were forced to delay distributions to institutions because alternatives couldn't be quickly liquidated to meet spending commitments. This prompted many endowments to reassess their [illiquidity risk](/wiki/liquidity-risk/) and shift some allocation back to liquid assets.
 
 ## Spending policy mechanics: smoothing and guardrails
 
@@ -73,6 +73,6 @@ Endowments track their performance against self-selected benchmarks and peer gro
 - [Private Equity Fund](/wiki/private-equity-fund/) — common alternative holding
 - [Real Estate Investment Trust](/wiki/real-estate-investment-trust/) — diversification vehicle
 - [Hedge Fund](/wiki/hedge-fund/) — return-seeking alternative
-- [Foundation](/wiki/foundation/) — related perpetual charitable structure
+- Foundation — related perpetual charitable structure
 
 </div>

@@ -8,7 +8,7 @@ keywords:
   - balance sheet
 ---
 
-*A **pension obligation** is a company's accounting liability for promised [defined-benefit pension](/wiki/pension-obligation/) payments to retired employees. The obligation is measured as the present value of all expected future benefit payouts, based on actuarial assumptions about longevity, salary growth, and discount rates. It appears on the [balance sheet](/wiki/balance-sheet/) as a [liability](/wiki/liabilities-accounting-implicitly/), and changes in the obligation flow through the [income statement](/wiki/income-statement/) as [pension expense](/wiki/pension-expense-implicitly/).*
+*A **pension obligation** is a company's accounting liability for promised [defined-benefit pension](/wiki/pension-obligation/) payments to retired employees. The obligation is measured as the present value of all expected future benefit payouts, based on actuarial assumptions about longevity, salary growth, and discount rates. It appears on the [balance sheet](/wiki/balance-sheet/) as a liability, and changes in the obligation flow through the [income statement](/wiki/income-statement/) as pension expense.*
 
 <div class="wiki-hatnote">
 Distinct from [defined-contribution plans](/wiki/401k-plan/) (where the employer contributes a fixed amount and has no ongoing liability) or [pension income exclusion](/wiki/pension-income-exclusion/) (a tax item for retirees).
@@ -65,7 +65,7 @@ Pension expense has several components:
 4. **Amortization of prior-service costs:** Deferred costs from plan amendments spread over employees' remaining service lives.
 5. **Gains/losses:** Actuarial gains (e.g., retirees living shorter than expected) and losses (e.g., lower discount rates, higher life expectancy) are amortized over time.
 
-Total pension expense can swing significantly year-to-year based on asset returns and actuarial revisions — a source of [earnings volatility](/wiki/earnings-volatility-implicitly/).
+Total pension expense can swing significantly year-to-year based on asset returns and actuarial revisions — a source of earnings volatility.
 
 ## Funding obligations
 
@@ -102,12 +102,12 @@ Public-sector pensions (state and local government employee pensions) face simil
 
 ### Closely related
 - [Defined benefit pension](/wiki/pension-obligation/) — the plan structure
-- [Pension expense](/wiki/pension-expense-implicitly/) — annual cost flowing through income statement
+- Pension expense — annual cost flowing through income statement
 - [401(k) plan](/wiki/401k-plan/) — the defined-contribution alternative
 
 ### Wider context
 - [Balance sheet](/wiki/balance-sheet/) — where the liability is reported
-- [Liability](/wiki/liabilities-accounting-implicitly/) — the liability classification
+- Liability — the liability classification
 - [Earnings quality](/wiki/earnings-quality/) — pension volatility affects reported profit
 
 </div>

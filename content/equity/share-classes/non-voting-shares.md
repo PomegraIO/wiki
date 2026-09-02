@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*Non-voting shares are a [share class](/equity/share-class/) that carries no voting rights but retains full economic interest in the company — all rights to [dividends](/dividend/), capital gains, and claims in liquidation. They are used less frequently than [dual-class shares](/equity/dual-class-shares/) but serve similar purposes: concentrating control while raising capital from public investors.*
+*Non-voting shares are a [share class](/share-class/) that carries no voting rights but retains full economic interest in the company — all rights to [dividends](/dividend/), capital gains, and claims in liquidation. They are used less frequently than [dual-class shares](/dual-class-shares/) but serve similar purposes: concentrating control while raising capital from public investors.*
 
 <aside class="wiki-infobox">
 
@@ -52,7 +52,7 @@ Non-voting shares are most common in:
 - **Family-controlled businesses** transitioning to public ownership. Family members retain voting shares; public shareholders own non-voting shares.
 - **State-owned enterprises** that issue equity to private investors but retain government control through voting shares.
 
-They are less common in the US than elsewhere, partly because US public company culture emphasizes one-share-one-vote as a norm, and because the [dual-class structure](/equity/dual-class-shares/) (where voting shares exist but carry 10x the votes) is seen as more acceptable than outright stripping votes.
+They are less common in the US than elsewhere, partly because US public company culture emphasizes one-share-one-vote as a norm, and because the [dual-class structure](/dual-class-shares/) (where voting shares exist but carry 10x the votes) is seen as more acceptable than outright stripping votes.
 
 ## Regulatory and exchange considerations
 
@@ -72,7 +72,7 @@ The downside is crystalline: you have no recourse if the founder's strategy falt
 
 ## Non-voting versus preferred stock
 
-Non-voting common stock differs from [preferred stock](/equity/preferred-stock/). Preferred stock has different economics (fixed dividend, seniority in liquidation) and sometimes carries votes (especially if dividends are omitted). Non-voting common stock has identical economics to voting common; only the votes are absent.
+Non-voting common stock differs from [preferred stock](/preferred-stock/). Preferred stock has different economics (fixed dividend, seniority in liquidation) and sometimes carries votes (especially if dividends are omitted). Non-voting common stock has identical economics to voting common; only the votes are absent.
 
 ## Conversion provisions
 
@@ -87,18 +87,18 @@ These provisions protect minority holders from being locked out of major decisio
 
 ### Closely related
 
-- [Share class](/equity/share-class/) — the taxonomy
-- [Dual-class shares](/equity/dual-class-shares/) — the more common alternative
-- [Founder shares](/equity/founder-shares/) — what the voting class usually is
-- [Preferred stock](/equity/preferred-stock/) — senior equity, also sometimes non-voting
-- [Common stock](/equity/common-stock/) — the default voting class
+- [Share class](/share-class/) — the taxonomy
+- [Dual-class shares](/dual-class-shares/) — the more common alternative
+- [Founder shares](/founder-shares/) — what the voting class usually is
+- [Preferred stock](/preferred-stock/) — senior equity, also sometimes non-voting
+- [Common stock](/common-stock/) — the default voting class
 
 ### Wider context
 
 - [Public company](/public-company/) — issues non-voting shares
 - [Initial public offering](/initial-public-offering/) — where structure is determined
-- [Governance](/equity/founder-shares/) — implications of no voting power
+- [Governance](/founder-shares/) — implications of no voting power
 - [Stock market](/stock-market/) — where non-voting shares trade
-- [Shareholder rights](/equity/dual-class-shares/) — what non-voting shares lack
+- [Shareholder rights](/dual-class-shares/) — what non-voting shares lack
 
 </div>

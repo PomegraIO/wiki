@@ -82,7 +82,7 @@ Systematic traders monitor drawdown real-time and implement [stop-losses](/wiki/
 - [Volatility](/wiki/historical-volatility/) — Price oscillation, distinct from drawdown
 
 ### Wider context
-- [Risk Management](/wiki/risk-measurement/) — Broader framework
+- Risk Management — Broader framework
 - [Risk Parity](/wiki/risk-parity-strategy/) — Portfolio construction using drawdown concepts
 - [Tail Risk](/wiki/tail-risk/) — Extreme event exposure
 

@@ -21,7 +21,7 @@ keywords:
 | **Typical Issuer** | Micro-cap, development-stage, or shell companies |
 | **Volatility** | Extremely high; 50%+ daily moves common |
 | **Fraud Rate** | ~70% of SEC enforcement against penny stocks |
-| **Short Squeeze Risk** | High; vulnerable to [pump-and-dump](/wiki/pump-and-dump/) schemes |
+| **Short Squeeze Risk** | High; vulnerable to pump-and-dump schemes |
 | **Minimum Broker Requirement** | Many brokers restrict retail access due to risk |
 
 </aside>
@@ -56,7 +56,7 @@ Penny stocks attract speculators for several reasons:
 
 Penny stocks are the epicenter of securities fraud. The SEC estimates that 70% of enforcement actions target penny stocks. The combination of low liquidity, dispersed ownership, and minimal disclosure creates perfect conditions for manipulation:
 
-**[Pump-and-dump](/wiki/pump-and-dump/) schemes:** Insiders or coordinated promoters buy shares at $0.10, then initiate a promotional campaign—phony research reports, social media hype, false news—to drive the price to $1. Retail speculators pile in. The promoters dump their shares at $1, price collapses back to $0.10, and retail investors are left holding losses.
+**Pump-and-dump schemes:** Insiders or coordinated promoters buy shares at $0.10, then initiate a promotional campaign—phony research reports, social media hype, false news—to drive the price to $1. Retail speculators pile in. The promoters dump their shares at $1, price collapses back to $0.10, and retail investors are left holding losses.
 
 **Wash trading:** A promoter executes many small buy-and-sell orders to create an appearance of trading volume and liquidity. Retail investors, seeing high "volume," assume the stock is gaining interest and buy. The volume was fake; the stock wasn't gaining interest.
 

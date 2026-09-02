@@ -38,7 +38,7 @@ Bubbles require credit. The 2008 housing bubble was fueled by cheap mortgages an
 
 ## The "new paradigm" narrative and denial phase
 
-Bubbles are sustained by narratives that feel revolutionary: "The internet changes everything"; "Blockchain will eliminate intermediaries"; "Cryptocurrencies are the future of money." These may contain truth, but the *magnitude* of expected returns is absurd. Believers dismiss warnings as outdated thinking: "You don't understand the technology." [Confirmation bias](/wiki/confirmation-bias/) reinforces the narrative—believers ignore contradictions, focus on supporting evidence. This denial phase lasts longest when new technology makes genuine value hard to assess. [Valuation](/wiki/enterprise-value-to-fcf/) becomes secondary to storytelling.
+Bubbles are sustained by narratives that feel revolutionary: "The internet changes everything"; "Blockchain will eliminate intermediaries"; "Cryptocurrencies are the future of money." These may contain truth, but the *magnitude* of expected returns is absurd. Believers dismiss warnings as outdated thinking: "You don't understand the technology." [Confirmation bias](/wiki/confirmation-bias/) reinforces the narrative—believers ignore contradictions, focus on supporting evidence. This denial phase lasts longest when new technology makes genuine value hard to assess. Valuation becomes secondary to storytelling.
 
 ## [Momentum](/wiki/momentum-investing/) and reflexivity
 

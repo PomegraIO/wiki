@@ -64,7 +64,7 @@ Example: A trader places a large sell order in crude oil futures to depress the 
 **Investigation phase:**
 1. CFTC Office of Enforcement receives a complaint or initiates investigation based on market surveillance.
 2. Investigators subpoena records, communications (emails, chat logs), and interview witnesses.
-3. Parallel investigation may occur with [FBI](/wiki/anti-money-laundering/) or [DOJ](/wiki/criminal-liability/) if criminal conduct is suspected.
+3. Parallel investigation may occur with [FBI](/wiki/anti-money-laundering/) or DOJ if criminal conduct is suspected.
 
 **Charging phase:**
 - CFTC issues a civil complaint or makes a referral to DOJ for criminal prosecution.

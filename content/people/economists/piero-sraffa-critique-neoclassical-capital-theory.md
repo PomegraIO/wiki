@@ -85,7 +85,7 @@ Contemporary debates on secular stagnation, the capital-income ratio, and automa
 - [Marginal productivity](/capital-asset-pricing-model/) — doctrine that factors earn return equal to their edge product
 - Capital theory — economic study of how capital's return is determined
 - [Profit](/ebitda/) — residual return after paying labor and expenses
-- [Production function](//) — relationship between inputs and output in production
+- Production function — relationship between inputs and output in production
 
 ### Wider context
 

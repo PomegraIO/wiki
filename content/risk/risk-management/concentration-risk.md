@@ -63,7 +63,7 @@ The **Herfindahl-Hirschman Index** (HHI) quantifies concentration: HHI = Σ (wei
 
 **Staged selling** of concentrated positions is slow but avoids a single taxable event. An employee vesting in restricted stock over four years spreads the tax impact and diversifies gradually.
 
-**Options strategies** like [covered calls](/wiki/covered-call/) on a concentrated stock position can reduce [downside risk](/wiki/downside-risk/) and generate income while you diversify, though they cap upside.
+**Options strategies** like [covered calls](/wiki/covered-call/) on a concentrated stock position can reduce downside risk and generate income while you diversify, though they cap upside.
 
 **[Direct indexing](/wiki/direct-indexing-vehicle/)** allows taxable account holders to own individual [stocks](/wiki/stock/) in an index rather than an [ETF](/wiki/etf/), enabling targeted [tax loss harvesting](/wiki/tax-loss-harvesting/) on losers without disrupting overall [diversification](/wiki/diversification/).
 

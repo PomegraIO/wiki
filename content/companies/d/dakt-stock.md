@@ -53,7 +53,7 @@ This integrated model also makes it harder to scale exponentially. Doubling reve
 
 ## Reading Daktronics Geographically
 
-The [10-K](/10-K/) should disclose Daktronics' revenue by end market (sports, transportation, commercial) and by geographic region. Investors should examine: Which markets and regions are growing fastest? Is the company investing in new geographic sales or service capacity, or retreating from any regions? Are order backlogs growing or shrinking, and do they vary by region? The geographic disclosure in the 10-K reveals where growth is happening and where the company faces competitive challenges.
+The [10-K](/10-k/) should disclose Daktronics' revenue by end market (sports, transportation, commercial) and by geographic region. Investors should examine: Which markets and regions are growing fastest? Is the company investing in new geographic sales or service capacity, or retreating from any regions? Are order backlogs growing or shrinking, and do they vary by region? The geographic disclosure in the 10-K reveals where growth is happening and where the company faces competitive challenges.
 
 <div class="wiki-seealso">
 

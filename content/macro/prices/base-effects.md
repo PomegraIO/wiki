@@ -54,7 +54,7 @@ When base effects dominate headlines, central banks face a communication problem
 
 ## Seasonal adjustment as another lens
 
-Statistical agencies also adjust inflation data for [seasonal effects](/wiki/seasonal-adjustment/) (e.g., heating oil spikes in winter). Seasonal adjustment can reduce but not eliminate base effects. A year-ago data point might have been an unusual seasonal peak, still affecting the YoY comparison even after seasonal smoothing. Combining seasonal adjustment with YoY analysis and month-on-month trends gives the full picture.
+Statistical agencies also adjust inflation data for seasonal effects (e.g., heating oil spikes in winter). Seasonal adjustment can reduce but not eliminate base effects. A year-ago data point might have been an unusual seasonal peak, still affecting the YoY comparison even after seasonal smoothing. Combining seasonal adjustment with YoY analysis and month-on-month trends gives the full picture.
 
 <div class="wiki-seealso">
 

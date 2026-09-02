@@ -88,7 +88,7 @@ The Sarbanes-Oxley reforms reduced (though did not eliminate) the likelihood of 
 - [Sarbanes-Oxley Act](/wiki/sarbanes-oxley-act/) — The regulatory response to Enron
 - [Special Purpose Acquisition](/wiki/special-purpose-acquisition/) — The SPE concept that Enron exploited
 - [Mark-to-Market](/wiki/mark-to-market/) — The accounting method Enron manipulated
-- [Fraud](/wiki/fraud/) — The category of crime Enron executives committed
+- Fraud — The category of crime Enron executives committed
 
 ### Wider context
 - [Off-Balance-Sheet](/wiki/off-balance-sheet/) — The accounting concept that enabled the fraud

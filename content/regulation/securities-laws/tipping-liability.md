@@ -8,7 +8,7 @@ keywords:
   - securities law
 ---
 
-*A **Tipper** who shares [material nonpublic information](/wiki/material-nonpublic-information/) with a **Tippee** can face civil and criminal liability under securities law, and the tippee may also face liability if the tippee knew the information was confidential and traded on it.*
+*A **Tipper** who shares material nonpublic information with a **Tippee** can face civil and criminal liability under securities law, and the tippee may also face liability if the tippee knew the information was confidential and traded on it.*
 
 <div class="wiki-hatnote">
 Different from the criminal theory of "misappropriation" where a fiduciary breaches a duty to a source and trades for personal gain; tipping addresses breaching duty to the *source* but not trading oneself.
@@ -53,7 +53,7 @@ Courts have also recognized a presumption: if a corporate insider tips a close f
 
 ## Criminal versus civil penalties
 
-The SEC brings civil enforcement actions and can seek [disgorgement](/wiki/insider-trading-enforcement/), [civil penalties](/wiki/insider-trading-enforcement/), and bans from serving as officers or directors. The DOJ brings criminal charges, which carry prison time (up to 20 years for securities fraud involving insider trading). Famously, insider trader **Ivan Boesky** went to prison in the 1980s; more recently, Rajat Gupta (McKinsey) was convicted of tipping trading tips derived from Goldman Sachs board information.
+The SEC brings civil enforcement actions and can seek disgorgement, civil penalties, and bans from serving as officers or directors. The DOJ brings criminal charges, which carry prison time (up to 20 years for securities fraud involving insider trading). Famously, insider trader **Ivan Boesky** went to prison in the 1980s; more recently, Rajat Gupta (McKinsey) was convicted of tipping trading tips derived from Goldman Sachs board information.
 
 Criminal prosecution requires proof beyond a reasonable doubt; civil enforcement uses the "preponderance of evidence" standard, making it easier for the SEC to win.
 

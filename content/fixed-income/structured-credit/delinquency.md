@@ -125,7 +125,7 @@ The practice ensures that credit deterioration is caught early and investors can
 <li><a href="/wiki/probability-of-default/">Probability of Default</a> — modeled using delinquency data.</li>
 <li><a href="/wiki/securitization/">Securitization</a> — delinquency is monitored in all securitizations.</li>
 <li><a href="/wiki/mortgage-backed-security/">Mortgage-Backed Security</a> — MBS delinquency is most closely tracked.</li>
-<li><a href="/wiki/loan-modification/">Loan Modification</a> — servicers use modifications to cure delinquency.</li>
+<li>Loan Modification — servicers use modifications to cure delinquency.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>

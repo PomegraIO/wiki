@@ -46,7 +46,7 @@ The distinction exists because real estate appreciates or depreciates slowly; th
 
 ## Interaction with long-term capital gains rates
 
-Real estate investment benefits from the preferential [long-term-capital-gains-tax](/wiki/long-term-capital-gains-tax/) rate of 15% or 20% (depending on bracket) if held more than one year. However, depreciation recapture is carved out: that portion is taxed at 25%, not the preferential rate.
+Real estate investment benefits from the preferential long-term-capital-gains-tax rate of 15% or 20% (depending on bracket) if held more than one year. However, depreciation recapture is carved out: that portion is taxed at 25%, not the preferential rate.
 
 Example: An investor buys a property for $300,000, claims $100,000 of depreciation, and sells for $500,000.
 - Total gain: $200,000
@@ -80,7 +80,7 @@ Sophisticated real estate investors plan depreciation recapture timing carefully
 
 - **Hold period**: Longer holds accumulate more depreciation, creating larger recapture obligations but allowing more tax deferrals along the way.
 - **Exchange strategy**: Using [1031-like-kind-exchange](/wiki/1031-like-kind-exchange/) repeatedly can defer recapture indefinitely, passing the cost basis to heirs who receive a [step-up-in-basis](/wiki/step-up-in-basis/).
-- **Entity structure**: C corporations are never used for real estate (double taxation); [S-corporation](/wiki/s-corporation/) structures can defer some recapture; partnerships and LLCs offer flexibility.
+- **Entity structure**: C corporations are never used for real estate (double taxation); S-corporation structures can defer some recapture; partnerships and LLCs offer flexibility.
 - **Retirement account housing**: Qualified retirement accounts ([traditional-ira](/wiki/traditional-ira/), [solo-401k](/wiki/solo-401k/)) can avoid depreciation recapture entirely if real estate is held inside, though this is uncommon due to [required-minimum-distribution](/wiki/required-minimum-distribution/) complexity.
 
 The 25% rate ensures that depreciation deductions—a major tax benefit of real estate investing—are recaptured upon sale, but at a rate substantially lower than ordinary income, maintaining the attractiveness of real estate relative to other investments.
@@ -89,7 +89,7 @@ The 25% rate ensures that depreciation deductions—a major tax benefit of real 
 
 ### Closely related
 - [Capital gains tax](/wiki/capital-gains-tax/) — Overall framework; recapture carved out of preferential rate
-- [Long-term capital gains tax](/wiki/long-term-capital-gains-tax/) — 15–20% rate for non-recapture gains
+- Long-term capital gains tax — 15–20% rate for non-recapture gains
 - [1031 like-kind exchange](/wiki/1031-like-kind-exchange/) — Strategy to defer recapture indefinitely
 - [Accumulated depreciation](/wiki/accumulated-depreciation/) — Amount subject to recapture
 - [Real estate investment trust](/wiki/real-estate-investment-trust/) — Alternative structure avoiding recapture

@@ -95,7 +95,7 @@ For very small estates, some states allow **transfer by affidavit**: if the esta
 - [Step Up in Basis](/wiki/step-up-in-basis/) — Tax benefit for inherited property
 
 ### Wider context
-- [Estate Planning](/wiki/estate-planning/) — Structuring transfers to heirs
+- Estate Planning — Structuring transfers to heirs
 - [Gift Tax](/wiki/gift-tax/) — Tax on lifetime transfers
 - [Power of Attorney](/wiki/power-of-attorney/) — Authority to manage affairs
 - [Living Will](/wiki/living-will/) — Advance medical directives

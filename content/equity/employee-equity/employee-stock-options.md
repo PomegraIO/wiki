@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*An employee stock option (ESO) is the right to purchase a fixed number of [company shares](/stock/) at a fixed price (the "strike" or "grant price") after a vesting period. The employee benefits only if the stock price rises above the strike, in which case they can exercise (buy shares) at the fixed strike and capture the difference. Options are the oldest form of equity compensation and remain common in startups, though [RSUs](/equity/restricted-stock-units/) have become more popular in large public companies.*
+*An employee stock option (ESO) is the right to purchase a fixed number of [company shares](/stock/) at a fixed price (the "strike" or "grant price") after a vesting period. The employee benefits only if the stock price rises above the strike, in which case they can exercise (buy shares) at the fixed strike and capture the difference. Options are the oldest form of equity compensation and remain common in startups, though [RSUs](/restricted-stock-units/) have become more popular in large public companies.*
 
 <aside class="wiki-infobox">
 
@@ -88,7 +88,7 @@ For example:
 
 **Startups** heavily rely on options because they have limited cash and want to compensate employees in equity upside. Options are attractive to employees who believe in the company's growth.
 
-**Public companies** have shifted toward [RSUs](/equity/restricted-stock-units/) because the strike price needs to be set at FMV, and for a public company, the stock often appreciates after vesting, making options more valuable than RSUs. RSUs give a guaranteed value regardless of stock price appreciation.
+**Public companies** have shifted toward [RSUs](/restricted-stock-units/) because the strike price needs to be set at FMV, and for a public company, the stock often appreciates after vesting, making options more valuable than RSUs. RSUs give a guaranteed value regardless of stock price appreciation.
 
 ## Tax complexities
 
@@ -102,18 +102,18 @@ Options represent a claim on future shares. A company that grants 1 million opti
 
 ### Closely related
 
-- [ISO](/equity/iso/) — incentive stock options with favorable tax treatment
-- [NQSO](/equity/nqso/) — non-qualified options with ordinary income taxes
-- [Vesting schedule](/equity/vesting-schedule/) — the time lock on exercise rights
-- [Cliff vesting](/equity/cliff-vesting/) — common for options
-- [Restricted stock units](/equity/restricted-stock-units/) — modern alternative to options
-- [ESPP](/equity/espp/) — employee stock purchase plans
+- [ISO](/iso/) — incentive stock options with favorable tax treatment
+- [NQSO](/nqso/) — non-qualified options with ordinary income taxes
+- [Vesting schedule](/vesting-schedule/) — the time lock on exercise rights
+- [Cliff vesting](/cliff-vesting/) — common for options
+- [Restricted stock units](/restricted-stock-units/) — modern alternative to options
+- [ESPP](/espp/) — employee stock purchase plans
 
 ### Wider context
 
-- [Equity compensation](/equity/iso/) — broader category
-- [Founder shares](/equity/founder-shares/) — often subject to similar vesting
-- [Common stock](/equity/common-stock/) — what options settle into
+- [Equity compensation](/iso/) — broader category
+- [Founder shares](/founder-shares/) — often subject to similar vesting
+- [Common stock](/common-stock/) — what options settle into
 - [Public company](/public-company/) — issues options
 - [Stock market](/stock-market/) — determines current stock price for exercise
 

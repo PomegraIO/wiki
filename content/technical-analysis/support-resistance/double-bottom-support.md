@@ -98,7 +98,7 @@ Additionally, a double bottom at a [psychological level](/wiki/price-anchoring/)
 
 ### Wider context
 
-- [Technical analysis](/wiki/technical-analysis/) — The broader discipline.
+- Technical analysis — The broader discipline.
 - [Momentum investing](/wiki/momentum-investing/) — Counterpoint: ignoring price patterns in favor of fundamental strength.
 - [Candlestick pattern](/wiki/candlestick-pattern/) — Related price-action patterns.
 - [Breakout trading](/wiki/breakout-trading/) — Strategies built on pattern breaks.

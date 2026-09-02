@@ -102,7 +102,7 @@ The goal is to align servicer incentives with investor interests: minimize defau
 <li><a href="/wiki/securitization/">Securitization</a> — securitizations depend on servicers.</li>
 <li><a href="/wiki/mortgage-backed-security/">Mortgage-Backed Security</a> — MBS servicing risk is highest.</li>
 <li><a href="/wiki/delinquency/">Delinquency</a> — servicers manage delinquent borrowers.</li>
-<li><a href="/wiki/loan-modification/">Loan Modification</a> — servicers execute modifications.</li>
+<li>Loan Modification — servicers execute modifications.</li>
 <li><a href="/wiki/operational-risk/">Operational Risk</a> — servicer failures are operational risks.</li>
 </ul>
 <h3>Wider context</h3>

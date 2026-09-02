@@ -8,7 +8,7 @@ keywords:
   - trend analysis
 ---
 
-*A **support zone floor** is a price level or narrow band where demand persistently emerges, repeatedly halting or reversing downward price movement. As a [technical analysis](/wiki/technical-analysis/) concept, support is the inverse of resistance—where [resistance](/wiki/resistance-zone-ceiling/) marks a ceiling that sellers defend, support marks a floor where buyers step in. Once a support level is established through repeated price bounces, traders use it as a level to watch and often place buy orders near it, which can become self-fulfilling as the market reprices upward.*
+*A **support zone floor** is a price level or narrow band where demand persistently emerges, repeatedly halting or reversing downward price movement. As a technical analysis concept, support is the inverse of resistance—where [resistance](/wiki/resistance-zone-ceiling/) marks a ceiling that sellers defend, support marks a floor where buyers step in. Once a support level is established through repeated price bounces, traders use it as a level to watch and often place buy orders near it, which can become self-fulfilling as the market reprices upward.*
 
 <div class="wiki-hatnote">
 For the counterpart concept of ceilings, see [Resistance Zone Ceiling](/wiki/resistance-zone-ceiling/). For dynamic support that moves with price, see [Dynamic Support and Resistance](/wiki/dynamic-support-resistance/).
@@ -35,7 +35,7 @@ Support emerges in several ways:
 
 **Psychological levels.** Round numbers ($100, $500, $1,000) and all-time-lows are natural support. Investors remember these levels; they carry emotional weight. A stock that crashed to $50 in 2020 and is now trading at $51–$52 remains psychologically anchored to that $50 low. Even if fundamentals have improved, the low acts as a mental barrier and gathering point for traders.
 
-**Trend lines and moving averages.** A long-term [trendline](/wiki/trendline/) connecting multiple prior lows can act as support as the price approaches it again. Similarly, a 200-day [moving average](/wiki/technical-analysis/) can serve as a support level if it has historically capped downside.
+**Trend lines and moving averages.** A long-term [trendline](/wiki/trendline/) connecting multiple prior lows can act as support as the price approaches it again. Similarly, a 200-day moving average can serve as a support level if it has historically capped downside.
 
 **Previous resistance.** Once a price breaks above a [resistance](/wiki/resistance-zone-ceiling/) level, that former resistance often becomes support on pullbacks. This "role reversal" is a core principle of technical analysis—the level still represents a critical price that large traders have accumulated at; on a dip back to that level, they resist further losses.
 
@@ -110,7 +110,7 @@ Conversely, a break of support on very high volume is a serious warning—there 
 - [Support and Resistance](/wiki/support-and-resistance/) — The foundational concept; support and resistance are the backbone of technical analysis.
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — The broader discipline; support is a core pillar.
+- Technical Analysis — The broader discipline; support is a core pillar.
 - [Candlestick Pattern](/wiki/candlestick-pattern/) — Visual price-action patterns often form at support and resistance zones.
 - [Market Order](/wiki/market-order/) — Orders executed at or near support/resistance levels accumulate volume that reinforces the levels.
 - [Price Discovery](/wiki/price-discovery/) — Support and resistance are how markets continuously discover and test fair value.

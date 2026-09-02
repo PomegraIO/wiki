@@ -15,9 +15,9 @@ keywords:
 
 ## Why companies hedge commodity exposure
 
-Commodity price swings hit [operating margins](/wiki/ebit-margin/) harder than most firms can absorb. An airline that buys 1 billion gallons of fuel annually faces margin swings of hundreds of millions if [crude oil](/wiki/crude-oil/) moves 10%. A brewery buying aluminum for cans, or a farmer selling corn, has the same problem. Unlike financial [hedging](/wiki/financial-risk/), which is a zero-sum transfer between speculators and hedgers, commodity hedging is pure insurance: the hedger pays a premium (the difference between [spot](/wiki/spot-exchange-rate/) and [futures](/wiki/futures-contract/) prices, or an [option](/wiki/option/) premium) to lock in costs and stabilize cash flow.
+Commodity price swings hit [operating margins](/wiki/ebit-margin/) harder than most firms can absorb. An airline that buys 1 billion gallons of fuel annually faces margin swings of hundreds of millions if [crude oil](/wiki/crude-oil/) moves 10%. A brewery buying aluminum for cans, or a farmer selling corn, has the same problem. Unlike financial hedging, which is a zero-sum transfer between speculators and hedgers, commodity hedging is pure insurance: the hedger pays a premium (the difference between [spot](/wiki/spot-exchange-rate/) and [futures](/wiki/futures-contract/) prices, or an [option](/wiki/option/) premium) to lock in costs and stabilize cash flow.
 
-Without hedging, commodity-intensive businesses have earnings that swing unpredictably quarter to quarter, making it hard to guide [investors](/wiki/investor-relations/), plan capital expenditure, or attract lending at competitive [rates](/wiki/cost-of-debt/). A company that hedges demonstrates discipline and reduces [systematic risk](/wiki/systematic-risk/), potentially lowering its [cost of capital](/wiki/capital-asset-pricing-model/).
+Without hedging, commodity-intensive businesses have earnings that swing unpredictably quarter to quarter, making it hard to guide investors, plan capital expenditure, or attract lending at competitive [rates](/wiki/cost-of-debt/). A company that hedges demonstrates discipline and reduces [systematic risk](/wiki/systematic-risk/), potentially lowering its [cost of capital](/wiki/capital-asset-pricing-model/).
 
 ## Common hedging instruments
 
@@ -41,11 +41,11 @@ Hedging duration is a key choice. Lock in price for one month, and you're expose
 
 ## Risks and misuse
 
-Hedging can backfire if prices move in the hedger's favor. A company that hedges wheat prices at $6/bu then watches prices rally to $8 loses the upside—a real economic loss on the [opportunity](/wiki/opportunity-cost/). Some boards have viewed hedging as "leaving money on the table" and cut hedging programs only to be clobbered when prices swing the other way.
+Hedging can backfire if prices move in the hedger's favor. A company that hedges wheat prices at $6/bu then watches prices rally to $8 loses the upside—a real economic loss on the opportunity. Some boards have viewed hedging as "leaving money on the table" and cut hedging programs only to be clobbered when prices swing the other way.
 
 A second risk is that derivatives can be mis-priced or over-leveraged. The [2011 J.P. Morgan copper losses](/wiki/counterparty-risk/) and airline fuel-hedging disasters are cases where hedges became speculative bets because traders overweighted certain price scenarios or held outsized positions. A hedge should match the economic exposure precisely—hedging 2x your fuel usage is speculation.
 
-Finally, hedging is a [fixed cost](/wiki/fixed-costing/) in a low-volatility regime. If commodity prices are stable for years, hedging premiums feel wasted. Many companies reduce hedging in calm periods, then get hit when volatility returns.
+Finally, hedging is a fixed cost in a low-volatility regime. If commodity prices are stable for years, hedging premiums feel wasted. Many companies reduce hedging in calm periods, then get hit when volatility returns.
 
 ## Alternatives and integration
 

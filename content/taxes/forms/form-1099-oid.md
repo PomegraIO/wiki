@@ -59,7 +59,7 @@ The amounts reported on Form 1099-OID must be cross-checked against the bondhold
 <div class="wiki-seealso">
 
 ### Closely related
-- [Original issue discount](/wiki/original-issue-discount/) — Discount from par at issuance
+- Original issue discount — Discount from par at issuance
 - [Zero-coupon bond](/wiki/zero-coupon-bond/) — Bond issued with no coupons, at a deep discount
 - [Form 1099-B](/wiki/1099-b/) — Statement of sales proceeds
 - [Treasury strip](/wiki/treasury-strip/) — Zero-coupon Treasury security

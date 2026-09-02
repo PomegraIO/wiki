@@ -22,7 +22,7 @@ Not to be confused with [amortization](/wiki/amortization/) (periodic deductions
 | Trigger | Fair value of reporting unit falls below carrying value |
 | Test frequency | At least annually (more if triggering events) |
 | Charge impact | Non-cash but reduces net income, EPS, book value |
-| Reversibility | [US GAAP](/wiki/gaap-standard/): irreversible once taken; IFRS: reversible |
+| Reversibility | US GAAP: irreversible once taken; IFRS: reversible |
 | Materiality | Often 5-20% of earnings per impairment |
 | Common acquirers | Tech, pharmaceuticals, financial services |
 
@@ -41,7 +41,7 @@ For accounting purposes, goodwill is not amortized (unlike patents or copyrights
 Testing for impairment involves estimating the fair value of the reporting unit and comparing it to the carrying value (acquisition price plus accumulated adjustments). Methods include:
 
 - **Market approach**: Using comparable company multiples (P/E, EV/EBITDA) to value the unit.
-- **Income approach**: [Discounted cash flow (DCF)](/wiki/discounted-cash-flow-valuation/) projections, where future cash flows are discounted at a [cost of capital](/wiki/cost-of-capital/) rate.
+- **Income approach**: [Discounted cash flow (DCF)](/wiki/discounted-cash-flow-valuation/) projections, where future cash flows are discounted at a cost of capital rate.
 - **Asset approach**: Summing identifiable [assets](/wiki/asset-play-strategy/) and [liabilities](/wiki/contingent-liability/).
 
 If fair value falls below carrying value, goodwill impairment is recorded. The charge reduces [assets](/wiki/asset-play-strategy/) and [earnings](/wiki/earnings-per-share/).
@@ -82,7 +82,7 @@ Analysts use goodwill impairments as a negative signal about management's acquis
 
 Since the financial crisis, interest rates have fallen and [cost of capital](/wiki/weighted-average-cost-of-capital/) has compressed. Lower discount rates in DCF models mechanically support higher fair values, reducing impairment pressure. However, the 2022 interest-rate hiking cycle reversed this dynamic: rising rates increased discount rates, triggering a wave of goodwill impairments in 2023–2024.
 
-Tech companies, which rely heavily on acquisitions of startups (often recorded as goodwill), face elevated impairment risk when [valuations](/wiki/valuation-multiples/) compress. A software company that paid 10x revenue for an acquired tool vendor in 2021 (at peak SaaS valuations) may face impairment in 2024 if comparable SaaS valuations have fallen to 4x revenue.
+Tech companies, which rely heavily on acquisitions of startups (often recorded as goodwill), face elevated impairment risk when valuations compress. A software company that paid 10x revenue for an acquired tool vendor in 2021 (at peak SaaS valuations) may face impairment in 2024 if comparable SaaS valuations have fallen to 4x revenue.
 
 ## Intangible asset accounting changes ahead
 

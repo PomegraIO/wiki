@@ -35,7 +35,7 @@ Many SEO prospectuses include a lock-up agreement requiring insiders and certain
 
 ## Shelf registration and mechanics
 
-In the U.S., a company can file a shelf registration with the SEC, allowing it to raise capital in multiple tranches over a 3-year period without refiling. This lets a company quickly execute an SEO when market conditions are favorable, without waiting for a new prospectus approval. [Automatic shelf registrations](/wiki/automatic-shelf-registration/) (for companies meeting size and other criteria) streamline this further.
+In the U.S., a company can file a shelf registration with the SEC, allowing it to raise capital in multiple tranches over a 3-year period without refiling. This lets a company quickly execute an SEO when market conditions are favorable, without waiting for a new prospectus approval. Automatic shelf registrations (for companies meeting size and other criteria) streamline this further.
 
 ## SEO versus other capital-raising methods
 

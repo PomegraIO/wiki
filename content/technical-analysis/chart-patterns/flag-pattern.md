@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For continuation patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). Related patterns include [pennant](/technical-analysis/pennant-pattern).
+For continuation patterns broadly, see [candlestick pattern](/candlestick-pattern/). Related patterns include [pennant](/pennant-pattern/).
 
 </div>
 
@@ -100,7 +100,7 @@ A flag within a strong, multi-month uptrend or downtrend is more significant tha
 
 ## Pennant versus flag
 
-A [pennant](/technical-analysis/pennant-pattern) is similar to a flag but with converging (not parallel) boundaries, forming a triangle shape. Both are continuation patterns, but the geometries differ.
+A [pennant](/pennant-pattern/) is similar to a flag but with converging (not parallel) boundaries, forming a triangle shape. Both are continuation patterns, but the geometries differ.
 
 ## Real-world example
 
@@ -116,15 +116,15 @@ Flag patterns are among the better-supported continuation patterns in academic l
 
 ### Related patterns
 
-- [Pennant-pattern](/technical-analysis/pennant-pattern) — converging version of flag
-- [Rectangle-pattern](/technical-analysis/rectangle-pattern) — parallel boundaries without prior pole
-- [Channel-pattern](/technical-analysis/channel-pattern) — parallel lines over longer duration
-- [Cup-and-handle](/technical-analysis/cup-and-handle) — continuation pattern, different shape
+- [Pennant-pattern](/pennant-pattern/) — converging version of flag
+- [Rectangle-pattern](/rectangle-pattern/) — parallel boundaries without prior pole
+- [Channel-pattern](/channel-pattern/) — parallel lines over longer duration
+- [Cup-and-handle](/cup-and-handle/) — continuation pattern, different shape
 
 ### Trend context
 
-- [Trendline](/technical-analysis/trendline) — identifying momentum
-- [Volume](/technical-analysis/on-balance-volume) — confirming pole and breakout
-- [Support and resistance](/technical-analysis/support-and-resistance) — flag boundaries
+- [Trendline](/trendline/) — identifying momentum
+- [Volume](/on-balance-volume/) — confirming pole and breakout
+- [Support and resistance](/support-and-resistance/) — flag boundaries
 
 </div>

@@ -59,7 +59,7 @@ CommVault's job is to grow revenue faster than operating expenses grow, improvin
 
 ## Reviewing CommVault
 
-In its [10-K](/10-K/), CommVault reports subscription and license revenue separately, customer count, retention rates, and bookings (contracts signed but not yet recognized as revenue). Look for trends in net expansion rate—are existing customers growing their spending or shrinking? Look for gross margin trends: if gross margin is declining, cloud-delivery costs may be rising faster than prices, a concern. Look for operating margin: is the company investing in growth (higher marketing spend) or harvesting (cutting costs)? A company that is growing and keeping margins stable is in expansion mode. A company that is cutting costs and holding revenue is in harvest mode.
+In its [10-K](/10-k/), CommVault reports subscription and license revenue separately, customer count, retention rates, and bookings (contracts signed but not yet recognized as revenue). Look for trends in net expansion rate—are existing customers growing their spending or shrinking? Look for gross margin trends: if gross margin is declining, cloud-delivery costs may be rising faster than prices, a concern. Look for operating margin: is the company investing in growth (higher marketing spend) or harvesting (cutting costs)? A company that is growing and keeping margins stable is in expansion mode. A company that is cutting costs and holding revenue is in harvest mode.
 
 <div class="wiki-seealso">
 ### Closely related

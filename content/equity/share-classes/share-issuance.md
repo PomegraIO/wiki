@@ -176,7 +176,7 @@ A mature company might issue minimal new shares (only for employee equity, offse
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/anti-dilution-provisions/">Anti-Dilution Provisions</a> — protections against ownership dilution from future share issuances.</li>
-  <li><a href="/wiki/capitalization-table/">Capitalization Table</a> — record of all issued shares and their holders.</li>
+  <li>Capitalization Table — record of all issued shares and their holders.</li>
   <li><a href="/wiki/venture-capital-fund/">Venture Capital Fund</a> — primary investor in private share issuances.</li>
 </ul>
 </div>

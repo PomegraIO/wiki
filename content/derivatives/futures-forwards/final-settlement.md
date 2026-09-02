@@ -85,7 +85,7 @@ Adjusted futures contracts are less liquid, and some traders are forced to flatt
 
 ## Settlement failures and default
 
-Since the [2008 financial crisis](/wiki/lehman-brothers-collapse/) and the [2020 March melt-down](/wiki/march-2020-vix/), exchanges and clearing houses have been hyper-vigilant about settlement risk. The [DTCC](/wiki/dtcc/) and [LCH.Clearnet](/wiki/lch-clearnet/) have watchers monitoring large positions and margin adequacy. If a trader's account falls below minimum margin, the [clearing firm](/wiki/clearing-firm/) (the broker) is forced to liquidate positions immediately, which normally settles within 24 hours.
+Since the [2008 financial crisis](/wiki/lehman-brothers-collapse/) and the 2020 March melt-down, exchanges and clearing houses have been hyper-vigilant about settlement risk. The [DTCC](/wiki/dtcc/) and [LCH.Clearnet](/wiki/lch-clearnet/) have watchers monitoring large positions and margin adequacy. If a trader's account falls below minimum margin, the [clearing firm](/wiki/clearing-firm/) (the broker) is forced to liquidate positions immediately, which normally settles within 24 hours.
 
 Outright default is now rare because central counterparties (the clearing house) step into any default and use the defaulter's collateral to cover losses. This is the main achievement of post-2008 financial regulation: [central counterparty clearing](/wiki/central-counterparty-clearing/) makes settlement nearly risk-free from the perspective of non-defaulting parties.
 

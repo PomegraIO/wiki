@@ -75,7 +75,7 @@ The [NYSE](/wiki/new-york-stock-exchange/) and [NASDAQ](/wiki/nasdaq/) coordinat
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events altering company structure or shareholder rights.</li>
+  <li>Corporate actions — events altering company structure or shareholder rights.</li>
   <li><a href="/wiki/dividend-investing/">Dividend investing</a> — strategy of holding stocks for regular dividend income.</li>
 </ul>
 </div>

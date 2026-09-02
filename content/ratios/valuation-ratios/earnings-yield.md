@@ -28,7 +28,7 @@ Earnings yield invites you to think of stocks as an asset class competing for yo
 
 ## Lower yield ≠ worse stock
 
-A mature tech company might have an earnings yield of 2%, while a declining industrial company yields 8%. The high-yield industrial stock looks cheap until you realize its earnings are collapsing and will halve next year. Earnings yield is only as reliable as the earnings it is based on. Check [normalized earnings](/wiki/normalized-earnings/) or use [forward earnings](/wiki/forward-estimate/) if you suspect current earnings are cyclically depressed or inflated.
+A mature tech company might have an earnings yield of 2%, while a declining industrial company yields 8%. The high-yield industrial stock looks cheap until you realize its earnings are collapsing and will halve next year. Earnings yield is only as reliable as the earnings it is based on. Check [normalized earnings](/wiki/normalized-earnings/) or use forward earnings if you suspect current earnings are cyclically depressed or inflated.
 
 ## Earnings yield beats P/E when comparing across sectors
 

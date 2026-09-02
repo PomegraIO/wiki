@@ -58,6 +58,6 @@ Investors sometimes tilt portfolios toward the highest-yielding stocks in hopes 
 <ul>
   <li><a href="/wiki/dividend-investing/">Dividend investing</a> — the strategy of building a portfolio around high-dividend stocks.</li>
   <li><a href="/wiki/dividend-aristocrats/">Dividend aristocrats</a> — companies with long track records of raising dividends.</li>
-  <li><a href="/wiki/total-return/">Total return</a> — dividend plus price appreciation, the true measure of investment profit.</li>
+  <li>Total return — dividend plus price appreciation, the true measure of investment profit.</li>
 </ul>
 </div>

@@ -28,7 +28,7 @@ keywords:
 
 ## Why Greece accumulated unsustainable debt
 
-Greece entered the eurozone in 2001 with a debt-to-GDP ratio above 100%, but low interest rates and EU membership emboldened spending. Between 2001 and 2008, Greek government spending and wages rose faster than productivity or tax revenue. By 2009, the debt-to-GDP ratio reached 113%; the 2008 financial crisis exposed the structural gaps. Tax evasion, pension overruns, and hidden deficits (later revised from 3.7% to 12.7% of GDP) compounded the problem. Unlike a country with its own currency, Greece could not [devalue](/wiki/exchange-rate/) or inflate away its obligations — it was locked into the euro.
+Greece entered the eurozone in 2001 with a debt-to-GDP ratio above 100%, but low interest rates and EU membership emboldened spending. Between 2001 and 2008, Greek government spending and wages rose faster than productivity or tax revenue. By 2009, the debt-to-GDP ratio reached 113%; the 2008 financial crisis exposed the structural gaps. Tax evasion, pension overruns, and hidden deficits (later revised from 3.7% to 12.7% of GDP) compounded the problem. Unlike a country with its own currency, Greece could not devalue or inflate away its obligations — it was locked into the euro.
 
 ## How the three IMF-ECB-EU programmes pushed restructuring inevitable
 

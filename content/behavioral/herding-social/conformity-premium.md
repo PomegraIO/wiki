@@ -25,19 +25,19 @@ keywords:
 
 ## How consensus creates a premium
 
-The conformity premium emerges from behavioral [positive feedback loops](/wiki/information-cascade/). Suppose a major research house recommends FAANG [stocks](/wiki/common-stock/) as the "must-own" positioning. [Institutional investors](/wiki/qualified-institutional-buyer/) adopt the view; [retail investors](/wiki/retail-investor/) see headlines and buy; [ETF](/wiki/etf/) inflows follow; prices rise. The price rise itself becomes a selling point—"FAANG are outperforming, I need to own them"—triggering more buying. This creates a [conformity premium](/wiki/conformity-premium/): FAANG trades at a valuation premium relative to [fundamentals](/wiki/fundamental-investing/), justified only by the expectation of continued [momentum](/wiki/momentum-investing/).
+The conformity premium emerges from behavioral [positive feedback loops](/wiki/information-cascade/). Suppose a major research house recommends FAANG [stocks](/wiki/common-stock/) as the "must-own" positioning. [Institutional investors](/wiki/qualified-institutional-buyer/) adopt the view; retail investors see headlines and buy; [ETF](/wiki/etf/) inflows follow; prices rise. The price rise itself becomes a selling point—"FAANG are outperforming, I need to own them"—triggering more buying. This creates a [conformity premium](/wiki/conformity-premium/): FAANG trades at a valuation premium relative to [fundamentals](/wiki/fundamental-investing/), justified only by the expectation of continued [momentum](/wiki/momentum-investing/).
 
-This dynamic is not irrational at the micro level. A [momentum investor](/wiki/momentum-investing/) who buys FAANG after the first 20% rally is rational—the trend is up, and [technical analysis](/wiki/technical-analysis/) suggests continuation. But at the macro level, the mechanism is circular: prices rise because investors expect prices to rise, not because earnings accelerated. Historically, such [circular reasoning](/wiki/information-cascade/) has preceded almost every [bubble](/wiki/bubbles-and-manias/).
+This dynamic is not irrational at the micro level. A [momentum investor](/wiki/momentum-investing/) who buys FAANG after the first 20% rally is rational—the trend is up, and technical analysis suggests continuation. But at the macro level, the mechanism is circular: prices rise because investors expect prices to rise, not because earnings accelerated. Historically, such [circular reasoning](/wiki/information-cascade/) has preceded almost every [bubble](/wiki/bubbles-and-manias/).
 
-The conformity premium also reflects **[information cascades](/wiki/information-cascade/)**. Early analysts call a stock a buy; [institutional investors](/wiki/qualified-institutional-buyer/) adopt the call; analysts pile on to avoid being outliers; [retail investors](/wiki/retail-investor/) follow; soon everyone owns the stock. Dissenters face reputational risk—if you're the only [analyst](/wiki/analyst-coverage/) rating a stock a Sell while 15 others rate it a Buy, your credibility is questioned. This suppresses contrarian voices and locks in consensus.
+The conformity premium also reflects **[information cascades](/wiki/information-cascade/)**. Early analysts call a stock a buy; [institutional investors](/wiki/qualified-institutional-buyer/) adopt the call; analysts pile on to avoid being outliers; retail investors follow; soon everyone owns the stock. Dissenters face reputational risk—if you're the only analyst rating a stock a Sell while 15 others rate it a Buy, your credibility is questioned. This suppresses contrarian voices and locks in consensus.
 
 ## Crowded trades and performance
 
-Empirical research by [financial economists](/wiki/behavioral-finance/) shows a striking pattern: **the most-crowded trades often underperform over the medium term**. A study by Jiang, Moskowitz, and Uruyos found that the most crowded long positions underperformed by 1–3% annualized, and the most crowded short positions underperformed (i.e., the shorted [stocks](/wiki/common-stock/) outperformed) by 1–2% annualized. Consensus kills returns.
+Empirical research by financial economists shows a striking pattern: **the most-crowded trades often underperform over the medium term**. A study by Jiang, Moskowitz, and Uruyos found that the most crowded long positions underperformed by 1–3% annualized, and the most crowded short positions underperformed (i.e., the shorted [stocks](/wiki/common-stock/) outperformed) by 1–2% annualized. Consensus kills returns.
 
 However, this does not mean the conformity premium is easily exploitable. Many of these studies look at **lagged returns**—positions that were crowded 6 months ago vs. future performance. In real time, the crowded trade may continue outperforming for additional weeks or months before reversal, and the lag and [volatility](/wiki/volatility-smile/) make it hard for [traders](/wiki/trading-halts/) to profit from the reversal.
 
-The [2017 cryptocurrency](/wiki/cryptocurrency-bubble-2017/) bubble and the **FAANG momentum rally of 2017** are textbook examples. By late 2017, consensus around FAANG was near-total: [Apple](/wiki/apple-inc/), [Amazon](/wiki/amazon-inc/), [Google](/wiki/google-alphabet/), [Facebook](/wiki/facebook-meta/) were the only positions [analysts](/wiki/analyst-coverage/) recommended. Valuations were stretched—some [stocks](/wiki/common-stock/) traded at 25–30x [earnings](/wiki/earnings-per-share/) in a 2% [interest rate](/wiki/interest-rate/) environment. Yet the conformity premium kept them rallying. From October 2016 to September 2017, FAANG rose 50%+ while [value](/wiki/value-investing/) [stocks](/wiki/common-stock/) barely moved.
+The [2017 cryptocurrency](/wiki/cryptocurrency-bubble-2017/) bubble and the **FAANG momentum rally of 2017** are textbook examples. By late 2017, consensus around FAANG was near-total: Apple, Amazon, Google, Facebook were the only positions analysts recommended. Valuations were stretched—some [stocks](/wiki/common-stock/) traded at 25–30x [earnings](/wiki/earnings-per-share/) in a 2% [interest rate](/wiki/interest-rate/) environment. Yet the conformity premium kept them rallying. From October 2016 to September 2017, FAANG rose 50%+ while [value](/wiki/value-investing/) [stocks](/wiki/common-stock/) barely moved.
 
 Then 2018 arrived. [Interest rates](/wiki/federal-funds-rate/) rose; growth disappointed; [momentum](/wiki/momentum-investing/) broke. FAANG fell 20%+, while [value stocks](/wiki/value-investing/) recovered. The conformity premium collapsed.
 
@@ -45,13 +45,13 @@ Then 2018 arrived. [Interest rates](/wiki/federal-funds-rate/) rose; growth disa
 
 Reversal typically occurs via one of three mechanisms:
 
-1. **[Momentum exhaustion](/wiki/momentum-chase/)**: Buying pressure dries up as consensus weakens or latecomers finally capitulate. [Technical indicators](/wiki/technical-analysis/) (e.g., [relative strength](/wiki/rsi-relative-strength/)) approach [overbought](/wiki/overbought/) thresholds; [volume](/wiki/volume-breadth-divergence/) declines. The crowd runs out of buyers.
+1. **[Momentum exhaustion](/wiki/momentum-chase/)**: Buying pressure dries up as consensus weakens or latecomers finally capitulate. Technical indicators (e.g., [relative strength](/wiki/rsi-relative-strength/)) approach overbought thresholds; [volume](/wiki/volume-breadth-divergence/) declines. The crowd runs out of buyers.
 
 2. **Negative [catalyst](/wiki/fundamental-investing/)**: Earnings miss, [guidance](/wiki/forward-guidance/) cut, or [regulatory](/wiki/regulation-best-interest/) shock breaks the spell. Suddenly, the consensus narrative becomes "this [stock](/wiki/common-stock/) is broken" and [selling](/wiki/liquidation/) begins.
 
 3. **Liquidity crisis**: If a consensus trade is highly [leveraged](/wiki/leverage-ratio-forex/) or funded in fragile short-term [funding markets](/wiki/repo-margin-framework/), a liquidity shock can force [liquidations](/wiki/liquidation/). [Crowded trades](/wiki/crowded-trade/) in illiquid [assets](/wiki/asset-allocation/) are especially vulnerable.
 
-The reversal is often **faster and larger than the buildup**. A 6-month, 50% consensus rally can reverse in 4 weeks with a 25% [drawdown](/wiki/drawdown-analysis/). [Volatility](/wiki/volatility-smile/) spikes; [retail investors](/wiki/retail-investor/) panic and sell at the bottom; [institutions](/wiki/qualified-institutional-buyer/) pick up the pieces at fire-sale prices.
+The reversal is often **faster and larger than the buildup**. A 6-month, 50% consensus rally can reverse in 4 weeks with a 25% [drawdown](/wiki/drawdown-analysis/). [Volatility](/wiki/volatility-smile/) spikes; retail investors panic and sell at the bottom; [institutions](/wiki/qualified-institutional-buyer/) pick up the pieces at fire-sale prices.
 
 ## Contrarian investing and the trap
 
@@ -69,9 +69,9 @@ The conformity premium is not "buy contrarian, always win." Rather, it is "when 
 
 [Portfolio managers](/wiki/asset-allocation/) use several tools to measure consensus concentration:
 
-- **Analyst dispersion**: High consensus (all [analysts](/wiki/analyst-coverage/) agree on rating) is a red flag.
+- **Analyst dispersion**: High consensus (all analysts agree on rating) is a red flag.
 - **[Fund flow](/wiki/fund-distribution/) imbalance**: Massive inflows to a [sector](/wiki/sector-rotation/) or [asset class](/wiki/asset-allocation/) suggest consensus crowding.
-- **[Positioning surveys](/wiki/positioning-limits/)**: [Hedge funds](/wiki/hedge-fund/) and [institutional investors](/wiki/qualified-institutional-buyer/) may report record-long or record-short [positions](/wiki/position-trading/) via surveys, signaling saturation.
+- **Positioning surveys**: [Hedge funds](/wiki/hedge-fund/) and [institutional investors](/wiki/qualified-institutional-buyer/) may report record-long or record-short [positions](/wiki/position-trading/) via surveys, signaling saturation.
 - **[Implied volatility](/wiki/implied-volatility/) skew**: Asymmetric [option](/wiki/option/) [pricing](/wiki/pricing-committee/) toward downside protection can indicate crowded long positions.
 
 <div class="wiki-seealso">
@@ -84,6 +84,6 @@ The conformity premium is not "buy contrarian, always win." Rather, it is "when 
 ### Wider context
 - [Information Cascade](/wiki/information-cascade/) — Mechanism by which initial consensus spreads and locks in
 - [Crowded Trade](/wiki/crowded-trade/) — Empirical observations of consensus position concentration
-- [Market Efficiency](/wiki/market-efficiency/) — Whether consensus crowding represents a pricing inefficiency
+- Market Efficiency — Whether consensus crowding represents a pricing inefficiency
 
 </div>

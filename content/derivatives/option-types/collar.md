@@ -76,7 +76,7 @@ Liquidity can be an issue on small or illiquid stocks. Bid-ask spreads on both t
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational contract.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/stock/">Stock</a> — the underlying asset being hedged.</li>
 </ul>
 </div>

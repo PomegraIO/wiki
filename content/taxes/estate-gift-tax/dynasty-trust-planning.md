@@ -8,7 +8,7 @@ keywords:
   - trust planning
 ---
 
-*A dynasty trust is an irrevocable [trust](/wiki/trust-establishment/) structured to pass wealth across multiple generations—typically 100+ years—while minimizing [estate taxes](/wiki/estate-tax/), [gift taxes](/wiki/gift-tax/), and [generation-skipping transfer taxes](/wiki/generation-skipping-transfer-taxes/). The beneficiary list typically spans children, grandchildren, great-grandchildren, and future generations.*
+*A dynasty trust is an irrevocable [trust](/wiki/trust-establishment/) structured to pass wealth across multiple generations—typically 100+ years—while minimizing [estate taxes](/wiki/estate-tax/), [gift taxes](/wiki/gift-tax/), and generation-skipping transfer taxes. The beneficiary list typically spans children, grandchildren, great-grandchildren, and future generations.*
 
 <aside class="wiki-infobox">
 
@@ -22,7 +22,7 @@ keywords:
 | **Distributions** | Discretionary; trustee controls timing and amounts |
 | **Residence** | Must be in "dynasty-friendly" state (Nevada, South Dakota, Delaware, Wyoming, etc.) |
 | **[Federal Estate Tax](/wiki/estate-tax/) Exemption** | $13.6M per person, $27.2M per couple (2024) |
-| **[Generation-Skipping Transfer Tax](/wiki/generation-skipping-transfer-taxes/)** | $13.6M exemption per person, fully consumable by dynasty trust |
+| **Generation-Skipping Transfer Tax** | $13.6M exemption per person, fully consumable by dynasty trust |
 
 </aside>
 
@@ -30,7 +30,7 @@ keywords:
 
 The [federal estate tax](/wiki/estate-tax/) allows a $13.6 million lifetime exemption (2024). When someone dies, amounts above this threshold face 40% tax. Naively, a wealthy person might transfer $13.6M to a child, then $13.6M to a grandchild, paying tax at each generational step. A dynasty trust circumvents this.
 
-A dynasty trust is created with a single [generation-skipping transfer tax (GST)](/wiki/generation-skipping-transfer-taxes/) exemption of $13.6M per grantor. That $13.6M, plus all its appreciation, can pass through the trust to multiple generations *without incurring GST tax at any level*. If the trust grows from $13.6M to $100M over 30 years, the entire $100M can be distributed to great-grandchildren without any GST tax—a massive wealth transfer advantage.
+A dynasty trust is created with a single generation-skipping transfer tax (GST) exemption of $13.6M per grantor. That $13.6M, plus all its appreciation, can pass through the trust to multiple generations *without incurring GST tax at any level*. If the trust grows from $13.6M to $100M over 30 years, the entire $100M can be distributed to great-grandchildren without any GST tax—a massive wealth transfer advantage.
 
 The mechanism: once the $13.6M exemption is "allocated" to the dynasty trust, all future distributions to skip persons (grandchildren, great-grandchildren, etc.) are tax-exempt. This is called "exempt trust" status.
 
@@ -74,7 +74,7 @@ Dynasty trusts lock in the [federal estate tax](/wiki/estate-tax/) exemption in 
 
 ### State and federal tax complexity
 
-Dynasty trusts create complex income-tax consequences. The trust itself is a [separate taxpayer](/wiki/income-tax/) subject to [compressed tax brackets](/wiki/tax-bracket-investor/). Income retained in the trust is taxed at rates that hit the 37% bracket at ~$14,000 of income (2024), compared to $578,000+ for individuals. Distributions to beneficiaries trigger [DNI (distributable net income)](/wiki/deferred-tax-liability/) pass-through, and the beneficiary's state of residence determines [state income tax](/wiki/income-tax/) on distributions.
+Dynasty trusts create complex income-tax consequences. The trust itself is a separate taxpayer subject to [compressed tax brackets](/wiki/tax-bracket-investor/). Income retained in the trust is taxed at rates that hit the 37% bracket at ~$14,000 of income (2024), compared to $578,000+ for individuals. Distributions to beneficiaries trigger [DNI (distributable net income)](/wiki/deferred-tax-liability/) pass-through, and the beneficiary's state of residence determines state income tax on distributions.
 
 Many dynastic families end up paying more in state and federal income tax due to compressed trust brackets than they save in GST taxes.
 
@@ -90,7 +90,7 @@ The IRS has become more aggressive in auditing large dynasty trusts, especially 
 
 Dynasty trusts are not the only multi-generational strategy. Alternatives include:
 
-- **Non-grantor trusts**: The settlor is not treated as the trust's owner for tax purposes, allowing [income taxation](/wiki/income-tax/) at the trust level without beneficiary inclusion.
+- **Non-grantor trusts**: The settlor is not treated as the trust's owner for tax purposes, allowing income taxation at the trust level without beneficiary inclusion.
 - **Spousal Lifetime Access Trusts (SLATs)**: A newer strategy where a spouse creates a trust for the other spouse and descendants, allowing discounting and leveraging the [unlimited marital deduction](/wiki/marital-deduction-estate/).
 - **Grantor Retained Annuity Trusts (GRATs)**: Short-term trusts that return an annuity to the grantor, with remainder to descendants. Growth above IRS rates is exempt from [gift tax](/wiki/gift-tax/).
 
@@ -107,13 +107,13 @@ The most sophisticated families establish "dynasty trust offices"—professional
 ### Closely related
 - [Estate tax](/wiki/estate-tax/) — Tax on wealth at death
 - [Gift tax](/wiki/gift-tax/) — Tax on lifetime transfers
-- [Generation-skipping transfer tax](/wiki/generation-skipping-transfer-taxes/) — Tax on transfers to skip persons
+- Generation-skipping transfer tax — Tax on transfers to skip persons
 - [Trust establishment](/wiki/trust-establishment/) — Creating and funding trusts
 
 ### Wider context
 - [Unlimited marital deduction](/wiki/marital-deduction-estate/) — Tax-free spousal transfers
 - [Grantor-retained annuity trust](/wiki/grantor-retained-annuity-trust/) — Alternative wealth-transfer strategy
 - [Beneficiary designation](/wiki/beneficiary-designation/) — Naming heirs
-- [Wealth transfer](/wiki/wealth-transfer/) — Multi-generational planning
+- Wealth transfer — Multi-generational planning
 
 </div>

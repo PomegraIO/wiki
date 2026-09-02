@@ -95,8 +95,8 @@ The reversion to ~$7 million in 2026 will likely be contentious. Some argue the 
 ### Wider context
 
 - [Grantor retained annuity trust](/wiki/grantor-retained-annuity-trust/) — Strategy for using lifetime exemption
-- [Irrevocable trust](/wiki//) — Vehicle for making tax-efficient gifts
-- [Generation skipping transfer](/wiki//) — Tax on wealth transfers to grandchildren
+- Irrevocable trust — Vehicle for making tax-efficient gifts
+- Generation skipping transfer — Tax on wealth transfers to grandchildren
 - [Marital deduction estate](/wiki/marital-deduction-estate/) — Allows tax-free transfers between spouses
 
 </div>

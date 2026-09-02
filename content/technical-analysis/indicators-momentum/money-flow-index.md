@@ -101,7 +101,7 @@ The MFI is also sensitive to the lookback period. A 14-period MFI is standard, b
 - [Chaikin Oscillator](/wiki/chaikin-oscillator/) — Another volume-momentum hybrid
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — Category of price/volume pattern analysis
+- Technical Analysis — Category of price/volume pattern analysis
 - [Momentum Investing](/wiki/momentum-investing/) — Strategy that uses these signals
 - [Mean Reversion](/wiki/mean-reversion-investing/) — Strategy MFI helps identify extremes for
 - [Trading Signals](/wiki/breakout-trading/) — How indicators become actionable trades

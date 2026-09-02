@@ -136,7 +136,7 @@ In 2020s M&A, escrow structures have evolved:
 - [Representations and Warranties](/wiki/representations-and-warranties/) — The contractual promises indemnification protects against
 - [Acquisition](/wiki/acquisition/) — The transaction context for indemnification escrows
 - [Deal Contingency](/wiki/deal-contingency/) — Conditions and holdbacks in M&A
-- [Purchase Price Adjustment](/wiki/purchase-price-adjustment/) — Post-close true-up of working capital and other metrics
+- Purchase Price Adjustment — Post-close true-up of working capital and other metrics
 
 ### Wider context
 - [Merger](/wiki/merger/) — The M&A context

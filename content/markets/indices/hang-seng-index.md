@@ -63,7 +63,7 @@ For global [portfolio managers](/wiki/asset-allocation/), the Hang Seng Index is
 ### Wider context
 - [Shanghai Stock Exchange](/wiki/shanghai-stock-exchange/) — mainland China's primary equity benchmark
 - [Nikkei 225](/wiki/nikkei-225-index/) — Japan's equivalent index
-- [ASEAN Integration](/wiki/asean-financial-markets/) — regional market trends
+- ASEAN Integration — regional market trends
 - [Currency Risk](/wiki/currency-risk/) — HKD trading dynamics
 
 </div>

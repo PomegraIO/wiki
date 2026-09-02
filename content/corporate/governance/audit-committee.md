@@ -25,9 +25,9 @@ The audit committee's job is to be the first line of defense against two risks: 
 
 ## What an audit committee reviews
 
-The committee meets quarterly (usually right before earnings release) to review the company's [financial statements](/wiki/financial-statements/). This includes the balance sheet, [income statement](/wiki/income-statement/), [cash flow statement](/wiki/cash-flow-statement/), and the footnotes and accounting policies disclosure. The chief financial officer and the external auditor both present to the committee, and the committee challenges assumptions, estimates, and changes in accounting methods that could inflate profits.
+The committee meets quarterly (usually right before earnings release) to review the company's financial statements. This includes the balance sheet, [income statement](/wiki/income-statement/), [cash flow statement](/wiki/cash-flow-statement/), and the footnotes and accounting policies disclosure. The chief financial officer and the external auditor both present to the committee, and the committee challenges assumptions, estimates, and changes in accounting methods that could inflate profits.
 
-The committee also reviews the company's risk management framework—market risk from currency or commodity exposures, credit risk from customer defaults, operational risk from supply chain disruption, and compliance risk from regulatory violations. Increasingly, audit committees oversee [cybersecurity](/wiki/cybersecurity-risk/) risk and the company's data governance.
+The committee also reviews the company's risk management framework—market risk from currency or commodity exposures, credit risk from customer defaults, operational risk from supply chain disruption, and compliance risk from regulatory violations. Increasingly, audit committees oversee cybersecurity risk and the company's data governance.
 
 ## Internal controls and the auditor's report
 
@@ -57,7 +57,7 @@ In recent years, audit committees have expanded their purview beyond financial r
 <ul>
   <li><a href="/wiki/audit-opinion/">Audit Opinion</a> — the auditor's conclusion on the truthfulness of financial statements.</li>
   <li><a href="/wiki/board-of-directors/">Board of Directors</a> — the parent body overseeing all committees.</li>
-  <li><a href="/wiki/internal-controls/">Internal Controls</a> — the processes that prevent financial statement errors.</li>
+  <li>Internal Controls — the processes that prevent financial statement errors.</li>
   <li><a href="/wiki/sarbanes-oxley-act/">Sarbanes-Oxley Act</a> — the law that mandated audit committees.</li>
 </ul>
 <h3>Wider context</h3>

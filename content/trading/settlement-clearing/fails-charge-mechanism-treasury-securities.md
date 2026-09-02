@@ -35,17 +35,17 @@ keywords:
 
 The US Treasury market is the deepest, most liquid market in the world—roughly $27 trillion in outstanding securities. Trillions of dollars move daily through this market. When a seller agrees to deliver Treasuries to a buyer, both parties expect the securities to arrive on the settlement date, usually one business day after the trade (T+1).
 
-A "[fail](https://example.com)" occurs when the seller does not deliver on time. This might happen by accident—a miscommunication, a system glitch, a lost broker confirmation—but it can also be strategic. A sophisticated trader might deliberately fail to deliver if interest rates have risen sharply, making the security more valuable. Failing to deliver and buying back at a lower price later can lock in a profit. Without a penalty, fails would become a form of free optionality: keep the Treasuries if the trade goes your way, deliver them if it does not.
+A "fail" occurs when the seller does not deliver on time. This might happen by accident—a miscommunication, a system glitch, a lost broker confirmation—but it can also be strategic. A sophisticated trader might deliberately fail to deliver if interest rates have risen sharply, making the security more valuable. Failing to deliver and buying back at a lower price later can lock in a profit. Without a penalty, fails would become a form of free optionality: keep the Treasuries if the trade goes your way, deliver them if it does not.
 
 This would break the market. Counterparties would lose trust in delivery commitments. Sellers would demand higher yields to compensate for delivery risk. The Fed could not reliably drain or inject liquidity through repurchase agreements (repos). The entire plumbing of US financial markets depends on Treasury settlement being certain.
 
 ## How the Charge Is Calculated
 
-The fails charge is a daily accrual computed on the principal amount of the failed delivery at an interest rate tied to the [federal funds rate](https://example.com). The precise formula set by the Fed is:
+The fails charge is a daily accrual computed on the principal amount of the failed delivery at an interest rate tied to the federal funds rate. The precise formula set by the Fed is:
 
 **Daily charge = Principal amount × (Federal funds rate or 0.5%, whichever is lower) ÷ 360**
 
-For example, suppose a dealer fails to deliver $10 million of a 10-year Treasury note. The [federal funds rate](https://example.com) is 2.5%. The daily charge is:
+For example, suppose a dealer fails to deliver $10 million of a 10-year Treasury note. The federal funds rate is 2.5%. The daily charge is:
 
 $10,000,000 × 0.5% ÷ 360 = $1,389 per day
 
@@ -55,7 +55,7 @@ The charge accrues daily while the fail is open and is typically applied to the 
 
 ## The "Cheapest to Deliver" Interaction
 
-Fails charges matter most in the context of Treasury [futures contracts](https://example.com), where sellers have a "[cheapest to deliver](https://example.com)" (CTD) option. When a seller delivers against a Treasury futures contract at expiration, they can choose from a basket of eligible Treasury securities. They naturally choose the cheapest eligible security at that moment.
+Fails charges matter most in the context of Treasury futures contracts, where sellers have a "cheapest to deliver" (CTD) option. When a seller delivers against a Treasury futures contract at expiration, they can choose from a basket of eligible Treasury securities. They naturally choose the cheapest eligible security at that moment.
 
 If the cheapest security is in short supply—perhaps because another trader has engineered a squeeze—its price can spike. A short seller might be tempted to deliver a more expensive substitute and pocket the difference, then fail on the supposed delivery and hold out for a better price. The fails charge prevents this. If the profit from the squeeze is less than the accumulated fails charge, the game is not worth playing.
 
@@ -63,7 +63,7 @@ Before the Fed implemented the fails charge regime in 2009, fails were endemic i
 
 ## Relationship to Delivery Mechanics
 
-A fail does not automatically breach a contract or trigger a lawsuit, though it does create legal exposure. The buyer has a claim against the seller but must pursue it through the clearing house or through courts. In the meantime, the buyer does not have the securities and cannot use them in other trades or [repo](https://example.com) transactions.
+A fail does not automatically breach a contract or trigger a lawsuit, though it does create legal exposure. The buyer has a claim against the seller but must pursue it through the clearing house or through courts. In the meantime, the buyer does not have the securities and cannot use them in other trades or repo transactions.
 
 The clearing house (typically the Depository Trust & Clearing Corporation, or DTCC) tracks fails and reports them to the Fed. If a fail is reported at settlement time and the failing party does not cure it, the fails charge kicks in automatically. The failing dealer faces both the daily charge *and* the operational headache of managing a fail on its books.
 
@@ -77,9 +77,9 @@ In March 2020, when COVID-19 caused extreme Treasury market volatility and funct
 
 These suspensions are rare and temporary, intended only for genuine financial stress. They are not a routine relief valve. The default regime—the fails charge always on—is the discipline that keeps fails rare.
 
-## Relationship to [Repo](https://example.com) and Money Markets
+## Relationship to Repo and Money Markets
 
-The fails-charge mechanism indirectly supports the [repurchase agreement](https://example.com) market, where Treasuries are the primary collateral. If fails were chronic and unpunished, repo buyers would face counterparty risk that the securities they are supposedly holding would never arrive. The [cost of repo](https://example.com) would rise (demand for insurance against fails would bid up rates), and the Fed's ability to manage [monetary policy](https://example.com) through repo operations would be compromised.
+The fails-charge mechanism indirectly supports the repurchase agreement market, where Treasuries are the primary collateral. If fails were chronic and unpunished, repo buyers would face counterparty risk that the securities they are supposedly holding would never arrive. The cost of repo would rise (demand for insurance against fails would bid up rates), and the Fed's ability to manage monetary policy through repo operations would be compromised.
 
 By making fails expensive, the mechanism ensures that repo counterparties can rely on settlement and bid-ask spreads stay tight. This benefits the entire fixed-income market, not just Treasuries.
 
@@ -95,8 +95,8 @@ For small, non-dealer participants (e.g., a hedge fund clearing through a prime 
 
 The fails charge is one tool in a suite that keeps the Treasury market functioning. Other tools include:
 
-- [Reserve requirements](https://example.com) on dealer inventories, which encourage dealers to hold adequate buffer stock
-- [Haircuts](https://example.com) on Treasury collateral in repo transactions, which adjust if fails surge
+- Reserve requirements on dealer inventories, which encourage dealers to hold adequate buffer stock
+- Haircuts on Treasury collateral in repo transactions, which adjust if fails surge
 - Real-time gross settlement systems (RTGS), which reduce the window for unintended fails
 - Intraday monitoring by the Fed, which flags emerging fails patterns
 

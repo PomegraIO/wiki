@@ -28,7 +28,7 @@ handwritten: true
 
 ## The mechanics of 3x leverage
 
-PILL is a daily-reset leveraged fund, which means its structure is fundamentally different from a traditional buy-and-hold ETF. It uses derivatives — primarily [swap](/wiki/swap/) agreements and [futures](/wiki/futures/) contracts — to amplify its exposure by a factor of three. Every day, the fund resets its positions to aim for exactly 3x the daily return of the Pharmaceutical Index. If the index rises 1%, PILL targets a 3% gain. If it falls 1%, PILL aims to fall 3%.
+PILL is a daily-reset leveraged fund, which means its structure is fundamentally different from a traditional buy-and-hold ETF. It uses derivatives — primarily [swap](/wiki/swap/) agreements and futures contracts — to amplify its exposure by a factor of three. Every day, the fund resets its positions to aim for exactly 3x the daily return of the Pharmaceutical Index. If the index rises 1%, PILL targets a 3% gain. If it falls 1%, PILL aims to fall 3%.
 
 This reset mechanism is both the tool's power and its peril. Over a single day or a few days, the leverage works as advertised — the bet pays off cleanly. Over weeks and months, especially in a choppy market, the math diverges sharply from a simple 3x multiple of buy-and-hold returns. If a stock is volatile, rising 10% one day and falling 5% the next, a 3x leveraged fund will lose money over that period even if the underlying index breaks even, because losses compound on the larger position. Traders call this **volatility decay** — the fund's returns drift downward relative to what a static 3x position would deliver.
 

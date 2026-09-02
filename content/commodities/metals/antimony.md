@@ -30,7 +30,7 @@ Often grouped with heavy metals in environmental contexts, though its toxicity p
 
 ## Why semiconductors depend on antimony doping
 
-In integrated circuits, pure silicon conducts weakly. Adding minute amounts of antimony (and other dopants) tunes the silicon's electrical properties—a practice called **doping**. Antimony acts as a donor, providing free electrons that enhance n-type conductivity. The semiconductor industry consumes ~6,000 tons annually, a small fraction of total output but critical for phone chips, GPU cores, and power electronics. [Supply disruptions](/wiki/supply-chain-risk/) in antimony ripple through semiconductor supply chains, historically tied to geopolitics (China holds dominant reserves).
+In integrated circuits, pure silicon conducts weakly. Adding minute amounts of antimony (and other dopants) tunes the silicon's electrical properties—a practice called **doping**. Antimony acts as a donor, providing free electrons that enhance n-type conductivity. The semiconductor industry consumes ~6,000 tons annually, a small fraction of total output but critical for phone chips, GPU cores, and power electronics. Supply disruptions in antimony ripple through semiconductor supply chains, historically tied to geopolitics (China holds dominant reserves).
 
 ## Flame retardants: mechanisms and regulations
 
@@ -38,11 +38,11 @@ Antimony trioxide (Sb₂O₃) is the most common flame retardant in textiles, pl
 
 ## Mining and geopolitical concentration
 
-China produces ~60% of global antimony, with reserves concentrated in Hunan and Guangxi provinces. Vietnam, Myanmar, and Russia together account for most of the remainder. This concentration creates [commodity price](/wiki/commodities/)-spike risk similar to [rare earth metals](/wiki/rare-earth-metals/). During trade disputes (e.g., 2010 export quotas), prices tripled in months. Strategic stockpiles exist in the US and other nations, though they cover only weeks of consumption. The [futures market](/wiki/futures-contract/) for antimony is thin, making [hedging](/wiki/hedging-with-futures/) expensive and slippage high.
+China produces ~60% of global antimony, with reserves concentrated in Hunan and Guangxi provinces. Vietnam, Myanmar, and Russia together account for most of the remainder. This concentration creates commodity price-spike risk similar to [rare earth metals](/wiki/rare-earth-metals/). During trade disputes (e.g., 2010 export quotas), prices tripled in months. Strategic stockpiles exist in the US and other nations, though they cover only weeks of consumption. The [futures market](/wiki/futures-contract/) for antimony is thin, making [hedging](/wiki/hedging-with-futures/) expensive and slippage high.
 
 ## Alloy hardening and specialty uses
 
-Lead-acid [batteries](/wiki/battery-chemistry/) use antimony to harden lead plates, increasing durability and lifespan. Military applications exploit antimony in projectiles and armor. Pewter and type metal (historically for printing) rely on antimony for hardness. As [battery](/wiki/battery-chemistry/) chemistries shift toward lithium-ion and solid-state, this traditional application faces decline, though the shift is gradual. Metallurgical demand remains stable at ~30,000 tons annually.
+Lead-acid batteries use antimony to harden lead plates, increasing durability and lifespan. Military applications exploit antimony in projectiles and armor. Pewter and type metal (historically for printing) rely on antimony for hardness. As battery chemistries shift toward lithium-ion and solid-state, this traditional application faces decline, though the shift is gradual. Metallurgical demand remains stable at ~30,000 tons annually.
 
 ## Supply-demand imbalances and price cycles
 
@@ -54,11 +54,11 @@ Antimony is classified as a possible human carcinogen by IARC. Occupational expo
 
 ## Futures trading and [hedging](/wiki/commodity-price-hedging/) constraints
 
-Antimony futures trade thinly on the Shanghai Futures Exchange (primarily). Liquidity is far below copper or zinc [futures](/wiki/commodity-futures-trading-commission/), making it unattractive for [index funds](/wiki/commodity-index-fund/) and algorithmic traders. Most transactions occur via bilateral [forward contracts](/wiki/forward-contract/) between miners and consumers. [Basis risk](/wiki/basis-risk/) is high, and [spreads](/wiki/spread-commodity/) are wide. Investors with antimony exposure prefer to trade [mining stocks](/wiki/mining-bitcoin/) or specialized [ETFs](/wiki/etf/) rather than futures directly.
+Antimony futures trade thinly on the Shanghai Futures Exchange (primarily). Liquidity is far below copper or zinc [futures](/wiki/commodity-futures-trading-commission/), making it unattractive for [index funds](/wiki/commodity-index-fund/) and algorithmic traders. Most transactions occur via bilateral [forward contracts](/wiki/forward-contract/) between miners and consumers. [Basis risk](/wiki/basis-risk/) is high, and spreads are wide. Investors with antimony exposure prefer to trade [mining stocks](/wiki/mining-bitcoin/) or specialized [ETFs](/wiki/etf/) rather than futures directly.
 
 ## Technological substitution and long-term headwinds
 
-Research into antimony-free flame retardants and alternative semiconductor dopants continues. Some plastics makers now use phosphorus-based retardants. If success generalizes, antimony demand could decline 20–30% over a decade. Conversely, if [semiconductor](/wiki/semiconductor/) production accelerates due to AI and autonomous vehicles, demand could rise. The balance between regulatory pressure (favoring alternatives) and technological demand (favoring antimony) will likely determine prices over the next 5–10 years.
+Research into antimony-free flame retardants and alternative semiconductor dopants continues. Some plastics makers now use phosphorus-based retardants. If success generalizes, antimony demand could decline 20–30% over a decade. Conversely, if semiconductor production accelerates due to AI and autonomous vehicles, demand could rise. The balance between regulatory pressure (favoring alternatives) and technological demand (favoring antimony) will likely determine prices over the next 5–10 years.
 
 <div class="wiki-seealso">
 

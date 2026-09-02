@@ -31,7 +31,7 @@ A flash attack unfolds in stages within a single transaction:
 2. Using this capital, they dump the borrowed asset into a [liquidity pool](/wiki/liquidity-pool/), crushing its price temporarily.
 3. A victim protocol that relies on that pool's spot price as a price feed now reports a distorted [valuation](/wiki/multiples-valuation/). The attacker exploits this mispricing—perhaps minting synthetic assets at inflated collateral ratios, swapping at favorable rates, or liquidating positions at artificially low prices.
 4. The attacker unwinds the dump (or executes a counterrade elsewhere to profit).
-5. The loan plus a small [fee](/wiki/transaction-fee-forex/) (0.05–0.09%) is repaid.
+5. The loan plus a small fee (0.05–0.09%) is repaid.
 6. The transaction either succeeds atomically (all steps happen or none do) or fails and reverts.
 
 The genius of this attack is that it requires **no initial capital**. Traditional market manipulation requires you to hold a position through settlement risk; flash attacks eliminate that by completing in a single block.

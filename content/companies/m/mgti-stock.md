@@ -41,7 +41,7 @@ Portfolio companies benefit from MGTI's ability to raise capital on reasonable t
 
 ## Performance Measurement and the 10-K
 
-Investors tracking MGTI's performance will rely on the [10-K](/10-K/) filing for detailed portfolio disclosure. The filing should list major holdings, the size of each stake, and recent fair-value assessments. [Net asset value](/net-asset-value/) (NAV) per share is a key metric: it tells investors whether MGTI's public stock price is trading at a premium or discount to the underlying value of the company's assets. If MGTI trades at a deep discount to NAV, public shareholders are getting a bargain; if it trades at a premium, they may be overpaying.
+Investors tracking MGTI's performance will rely on the [10-K](/10-k/) filing for detailed portfolio disclosure. The filing should list major holdings, the size of each stake, and recent fair-value assessments. [Net asset value](/net-asset-value/) (NAV) per share is a key metric: it tells investors whether MGTI's public stock price is trading at a premium or discount to the underlying value of the company's assets. If MGTI trades at a deep discount to NAV, public shareholders are getting a bargain; if it trades at a premium, they may be overpaying.
 
 The filing also reveals realized gains and losses from exits, which shows whether MGTI is successfully harvesting winners or holding onto losers. Management changes, new investment strategy shifts, and any changes in key personnel will be disclosed and can signal changing prospects.
 

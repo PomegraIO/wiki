@@ -138,20 +138,20 @@ Over time, inflation erodes the value of a fixed minimum rent, but if the breakp
 
 ### Closely related
 
-- [Net operating income](/real-estate/net-operating-income/) — percentage rent is part of NOI calculations
-- [Cap rate](/real-estate/cap-rate/) — affected by percentage rent variability and landlord's share
-- [Commercial real estate](/real-estate/commercial-real-estate/) — the sector context for percentage rent
-- [Revenue bond](/municipal-bond/revenue-bond/) — how commercial real estate financing is structured
-- [Cost of debt](/valuation/cost-of-debt/) — affects landlord's return on percentage rent
-- [Earnout](/acquisitions/earnout/) — similar contingent payment structure
+- [Net operating income](/net-operating-income/) — percentage rent is part of NOI calculations
+- [Cap rate](/cap-rate/) — affected by percentage rent variability and landlord's share
+- [Commercial real estate](/commercial-real-estate/) — the sector context for percentage rent
+- [Revenue bond](/revenue-bond/) — how commercial real estate financing is structured
+- [Cost of debt](/cost-of-debt/) — affects landlord's return on percentage rent
+- [Earnout](/earnout/) — similar contingent payment structure
 
 ### Wider context
 
-- [Cash flow statement](/accounting/cash-flow-statement/) — how percentage rent flows to landlord and tenant
-- [Revenue recognition](/accounting/revenue-recognition/) — how landlords record percentage rent for accounting
-- [Operating lease](/accounting/operating-lease/) — the accounting treatment of percentage rent leases
-- [Securitization](/securities/securitization/) — how percentage rent streams are packaged in real estate securities
-- [Free cash flow](/finance/free-cash-flow/) — percentage rent impacts tenant's FCF calculation
-- [Acquisition](/acquisitions/acquisition/) — percentage rent obligations are assumed in real estate deals
+- [Cash flow statement](/cash-flow-statement/) — how percentage rent flows to landlord and tenant
+- [Revenue recognition](/revenue-recognition/) — how landlords record percentage rent for accounting
+- [Operating lease](/operating-lease/) — the accounting treatment of percentage rent leases
+- [Securitization](/securitization/) — how percentage rent streams are packaged in real estate securities
+- [Free cash flow](/free-cash-flow/) — percentage rent impacts tenant's FCF calculation
+- [Acquisition](/acquisition/) — percentage rent obligations are assumed in real estate deals
 
 </div>

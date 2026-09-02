@@ -38,9 +38,9 @@ Commodity producers (oil, metals, agriculture), real estate developers, and hous
 
 ## One-time items are tricky to identify
 
-Some one-time items are obvious: asset sales, litigation settlements, write-downs of failed projects. Others are ambiguous: is a large [restructuring charge](/wiki/restructuring/) truly one-time, or does it signal management cannot manage expenses? Is a gain on [currency translation](/wiki/currency-risk/) a one-time item or part of regular [FX exposure](/wiki/foreign-exchange-risk/)?
+Some one-time items are obvious: asset sales, litigation settlements, write-downs of failed projects. Others are ambiguous: is a large restructuring charge truly one-time, or does it signal management cannot manage expenses? Is a gain on [currency translation](/wiki/currency-risk/) a one-time item or part of regular FX exposure?
 
-Read the [10-K](/wiki/10-k/) and [management discussion](/wiki/md-a/) carefully. Many companies volunteer what they consider one-time items, but the designation is self-serving.
+Read the [10-K](/wiki/10-k/) and management discussion carefully. Many companies volunteer what they consider one-time items, but the designation is self-serving.
 
 ## Distressed companies and normalization
 

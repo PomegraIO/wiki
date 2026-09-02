@@ -10,7 +10,7 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **National Futures Association** (NFA) is the industry-run regulator of US [futures contract](/futures-contract/) participants, enforcing standards for brokers, commodity trading advisors, and pool operators below the federal [Commodity Futures Trading Commission](/regulators/#cftc). Neither fully private nor fully governmental, the NFA delegates practical compliance work to a body nominated by industry members but subject to CFTC oversight.*
+*The **National Futures Association** (NFA) is the industry-run regulator of US [futures contract](/futures-contract/) participants, enforcing standards for brokers, commodity trading advisors, and pool operators below the federal Commodity Futures Trading Commission. Neither fully private nor fully governmental, the NFA delegates practical compliance work to a body nominated by industry members but subject to CFTC oversight.*
 
 <aside class="wiki-infobox">
 
@@ -33,7 +33,7 @@ image: "/svg/regulation.svg"
 
 ## The self-regulatory model in futures
 
-The NFA is one of a handful of major [self-regulatory organizations](/securities-and-exchange-commission/) (SROs) in US finance—a quirk of delegated oversight that traces to the 1970s futures boom. Rather than creating a massive federal futures police force, Congress delegated the National Futures Association's creation to the [CFTC](/regulators/#cftc), which granted it authority to police its own members. This arrangement saves the government money and leans on the assumption that industry participants themselves are motivated to keep bad actors out and maintain investor confidence. In reality, it means the NFA is a hybrid creature: industry-funded and industry-nominated, but operating under strict CFTC rules and subject to appeals, reversals, and oversight when the CFTC deems the NFA too lenient or corrupt.
+The NFA is one of a handful of major [self-regulatory organizations](/securities-and-exchange-commission/) (SROs) in US finance—a quirk of delegated oversight that traces to the 1970s futures boom. Rather than creating a massive federal futures police force, Congress delegated the National Futures Association's creation to the CFTC, which granted it authority to police its own members. This arrangement saves the government money and leans on the assumption that industry participants themselves are motivated to keep bad actors out and maintain investor confidence. In reality, it means the NFA is a hybrid creature: industry-funded and industry-nominated, but operating under strict CFTC rules and subject to appeals, reversals, and oversight when the CFTC deems the NFA too lenient or corrupt.
 
 ## Membership and jurisdiction
 
@@ -53,7 +53,7 @@ The NFA also runs an arbitration system for customer disputes. A customer who be
 
 The self-regulatory model has long been controversial. The NFA's members are both the regulated and the regulators: futures commission merchants dominate the board and nominating committee, creating an obvious incentive to go easy on larger, well-connected firms. Smaller brokers and independent traders complain that NFA rules are enforced more aggressively against them than against the Too-Big-To-Regulate futures divisions of banks like [JPMorgan Chase](/jpmorgan-chase/) or [Goldman Sachs](/goldman-sachs/).
 
-The 2008 financial crisis exposed another vulnerability: the NFA's capital and liquidity checks, while tighter than they'd been in the 1990s, failed to catch the systemic risks brewing inside large futures merchants. [Lehman Brothers](/regulators/#lehman) operated under NFA jurisdiction until it collapsed, and the NFA's post-mortem was widely criticized as too little too late. More recently, the NFA has been pushed by the CFTC to harden stress-testing and [counterparty-risk](/counterparty-risk/) assessments, especially after the 2022 FTX implosion raised questions about whether self-regulators can monitor crypto derivatives venues in real time.
+The 2008 financial crisis exposed another vulnerability: the NFA's capital and liquidity checks, while tighter than they'd been in the 1990s, failed to catch the systemic risks brewing inside large futures merchants. Lehman Brothers operated under NFA jurisdiction until it collapsed, and the NFA's post-mortem was widely criticized as too little too late. More recently, the NFA has been pushed by the CFTC to harden stress-testing and [counterparty-risk](/counterparty-risk/) assessments, especially after the 2022 FTX implosion raised questions about whether self-regulators can monitor crypto derivatives venues in real time.
 
 ## Relationship to the CFTC
 
@@ -71,7 +71,7 @@ Futures and derivatives markets exist worldwide, and most major jurisdictions no
 
 ### Closely related
 
-- [CFTC](/regulators/#cftc) — the federal agency that oversees the NFA and sets broad derivatives policy
+- CFTC — the federal agency that oversees the NFA and sets broad derivatives policy
 - [Futures contract](/futures-contract/) — the standardized derivative the NFA's members trade and clear
 - [Counterparty risk](/counterparty-risk/) — a concern the NFA's margin and capital rules aim to contain
 - [Commodity Trading Advisors](/futures-contract/) — regulated professionals whose compliance the NFA enforces
@@ -81,7 +81,7 @@ Futures and derivatives markets exist worldwide, and most major jurisdictions no
 
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) — parallel federal regulator for equities and securities
 - [Office of Financial Research](/office-of-financial-research/) — federal bureau that monitors systemic risk across regulators
-- [Consumer Financial Protection Bureau](/regulators/#cfpb) — consumer-focused regulator with some oversight of derivatives disclosure
+- Consumer Financial Protection Bureau — consumer-focused regulator with some oversight of derivatives disclosure
 - [Leverage in finance](/leverage-ratio-forex/) — the multiplication of risk the NFA monitors via capital and margin standards
 
 </div>

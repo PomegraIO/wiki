@@ -9,7 +9,7 @@ keywords:
 image: "/svg/monetary.svg"
 ---
 
-*The **Primary Dealer Credit Facility** (PDCF) is an emergency liquidity window through which the Federal Reserve lends overnight cash directly to primary dealers—the licensed securities firms authorised to trade government bonds—collateralised by a wide range of debt and equity securities. Unlike the [discount window](https://example.com), which serves traditional banks, the PDCF targets the shadow banking system where many credit markets are actually traded, making it a critical tool when securities dealer funding dries up.*
+*The **Primary Dealer Credit Facility** (PDCF) is an emergency liquidity window through which the Federal Reserve lends overnight cash directly to primary dealers—the licensed securities firms authorised to trade government bonds—collateralised by a wide range of debt and equity securities. Unlike the discount window, which serves traditional banks, the PDCF targets the shadow banking system where many credit markets are actually traded, making it a critical tool when securities dealer funding dries up.*
 
 <aside class="wiki-infobox">
 

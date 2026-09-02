@@ -63,6 +63,6 @@ Stock ownership offers unlimited upside and infinite holding period. A buy-write
 <ul>
 <li><a href="/wiki/option/">Option</a> — contract type underlying buy-writes.</li>
 <li><a href="/wiki/dividend/">Dividend</a> — alternative income source to covered calls.</li>
-<li><a href="/wiki/income-investing/">Income Investing</a> — the broader strategy category.</li>
+<li>Income Investing — the broader strategy category.</li>
 </ul>
 </div>

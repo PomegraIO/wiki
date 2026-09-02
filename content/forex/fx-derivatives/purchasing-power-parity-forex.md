@@ -9,7 +9,7 @@ keywords:
   - currency valuation
 ---
 
-*Purchasing Power Parity (PPP) is an economic principle and trading framework that predicts long-run [exchange rates](/wiki/exchange-rates/) based on price-level differences between countries. It holds that if a basket of goods costs $100 in the US and €90 in the Eurozone, the exchange rate should converge to 1 USD = 0.90 EUR, so the basket has equal purchasing power in both currencies.*
+*Purchasing Power Parity (PPP) is an economic principle and trading framework that predicts long-run exchange rates based on price-level differences between countries. It holds that if a basket of goods costs $100 in the US and €90 in the Eurozone, the exchange rate should converge to 1 USD = 0.90 EUR, so the basket has equal purchasing power in both currencies.*
 
 <div class="wiki-hatnote">For related currency concepts, see [Interest Rate Parity](/wiki/interest-rate-parity/) and [Forward Exchange Rate](/wiki/forward-exchange-rate/).</div>
 
@@ -125,7 +125,7 @@ Traders use PPP to distinguish **fundamental undervaluation** (currency is below
 ### Closely related
 - [Interest Rate Parity](/wiki/interest-rate-parity/) — complementary framework
 - [Forward Exchange Rate](/wiki/forward-exchange-rate/) — parity-driven rates
-- [Exchange Rates](/wiki/exchange-rates/) — spot price determination
+- Exchange Rates — spot price determination
 - [Currency Intervention](/wiki/currency-intervention/) — policy resistance
 - [Carry Trade](/wiki/carry-trade/) — profiting from rate differentials
 

@@ -68,7 +68,7 @@ Cohen's legacy is teaching that discipline and process outweigh charisma and gen
 ### Closely related
 - [Quantitative Investing](/wiki/quantitative-investing/) — Cohen's trading approach
 - [Hedge Fund](/wiki/hedge-fund/) — The fund structure
-- [Risk Management](/wiki/risk-measurement/) — Cohen's core discipline
+- Risk Management — Cohen's core discipline
 
 ### Wider context
 - [Algorithmic Trading](/wiki/algorithmic-trading/) — Mechanism of SAC's strategies

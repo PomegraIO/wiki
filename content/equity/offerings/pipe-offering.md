@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A PIPE offering (private investment in public equity) is a transaction in which a [public company](/public-company/) sells shares directly to institutional investors (private equity firms, hedge funds, mutual funds, or family offices) at a negotiated price, typically at a discount to the current market price. PIPEs are faster and cheaper than traditional [follow-on offerings](/equity/follow-on-offering/) but result in greater dilution because of the discount. They are often used to raise capital for acquisitions, debt repayment, or balance sheet strengthening.*
+*A PIPE offering (private investment in public equity) is a transaction in which a [public company](/public-company/) sells shares directly to institutional investors (private equity firms, hedge funds, mutual funds, or family offices) at a negotiated price, typically at a discount to the current market price. PIPEs are faster and cheaper than traditional [follow-on offerings](/follow-on-offering/) but result in greater dilution because of the discount. They are often used to raise capital for acquisitions, debt repayment, or balance sheet strengthening.*
 
 <aside class="wiki-infobox">
 
@@ -65,7 +65,7 @@ A company needs $500 million for an acquisition. Rather than a slow ATM or expen
 
 ## Why investors participate in PIPEs
 
-**Bulk discount**: Investors buy at 10–20% discount to market, providing an immediate gain if they can sell immediately. However, investors are usually subject to a [lock-up period](/equity/lock-up-period/) (Rule 144 restrictions, typically 6 months) before they can sell.
+**Bulk discount**: Investors buy at 10–20% discount to market, providing an immediate gain if they can sell immediately. However, investors are usually subject to a [lock-up period](/lock-up-period/) (Rule 144 restrictions, typically 6 months) before they can sell.
 
 **Access**: Investors may negotiate favorable terms (board seat, conversion features, anti-dilution, participation in future rounds) not available to public shareholders.
 
@@ -137,9 +137,9 @@ PIPEs must comply with securities laws:
 
 - **PIPE**: Private sale to institutions, discounted pricing, fast, cheap.
 
-- **[Follow-on offering](/equity/follow-on-offering/)**: Public, to the entire market, no discount, slow.
+- **[Follow-on offering](/follow-on-offering/)**: Public, to the entire market, no discount, slow.
 
-- **[ATM offering](/equity/at-the-market-offering/)**: Continuous public sales at market price, no discount, gradual.
+- **[ATM offering](/at-the-market-offering/)**: Continuous public sales at market price, no discount, gradual.
 
 PIPEs are best for urgent capital needs and companies with good relationships with institutional investors.
 
@@ -147,18 +147,18 @@ PIPEs are best for urgent capital needs and companies with good relationships wi
 
 ### Closely related
 
-- [Private placement](/equity/private-placement/) — broader term for non-public offerings
-- [Follow-on offering](/equity/follow-on-offering/) — public alternative
-- [At-the-market offering](/equity/at-the-market-offering/) — continuous public alternative
-- [Lock-up period](/equity/lock-up-period/) — restricts PIPE investor sales
-- [Warrant](/equity/warrant/) — often included in PIPE deals
+- [Private placement](/private-placement/) — broader term for non-public offerings
+- [Follow-on offering](/follow-on-offering/) — public alternative
+- [At-the-market offering](/at-the-market-offering/) — continuous public alternative
+- [Lock-up period](/lock-up-period/) — restricts PIPE investor sales
+- [Warrant](/warrant/) — often included in PIPE deals
 
 ### Wider context
 
 - [Public company](/public-company/) — executes PIPE
 - [Capital markets](/stock-market/) — venue for PIPE
-- [Institutional investor](/equity/pipe-offering/) — typical PIPE buyer
-- [Share dilution](/equity/restricted-stock-units/) — effect of discount
-- [SPAC](/equity/pipe-offering/) — common PIPE user
+- [Institutional investor](/pipe-offering/) — typical PIPE buyer
+- [Share dilution](/restricted-stock-units/) — effect of discount
+- [SPAC](/pipe-offering/) — common PIPE user
 
 </div>

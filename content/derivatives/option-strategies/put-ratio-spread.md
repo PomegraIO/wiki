@@ -63,7 +63,7 @@ This strategy carries **naked short-put risk** below the short strike. A sharply
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/option/">Option</a> — contract type underlying spreads.</li>
-<li><a href="/wiki/naked-short/">Naked Short</a> — the risk component below the short puts.</li>
+<li>Naked Short — the risk component below the short puts.</li>
 <li><a href="/wiki/options-greeks/">Options Greeks</a> — tools for measuring ratio spread risk.</li>
 </ul>
 </div>

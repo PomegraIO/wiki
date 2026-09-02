@@ -49,7 +49,7 @@ The noon hour contrasts sharply with the opening and closing periods. The [openi
 
 ## Implications for technical analysis and trading strategies
 
-The noon dip has obvious implications for [technical analysis](/wiki/technical-analysis/chart-patterns/) and intraday trading strategies. A trader using simple [support and resistance](/wiki/support-and-resistance/) levels might be fooled by a noon-hour dip that breaches a support level due to low volume, only to see the level re-established in the afternoon when normal volume returns. Conversely, a breakout that occurs in the early afternoon, when volume is ramping back up, is more likely to be genuine and sustained. Some [day traders](/wiki/day-trading/) deliberately avoid initiating positions during the noon hour because the [volatility](/wiki/intraday-volatility-patterns/) is often false volatility driven by low-liquidity imbalances rather than new information.
+The noon dip has obvious implications for technical analysis and intraday trading strategies. A trader using simple [support and resistance](/wiki/support-and-resistance/) levels might be fooled by a noon-hour dip that breaches a support level due to low volume, only to see the level re-established in the afternoon when normal volume returns. Conversely, a breakout that occurs in the early afternoon, when volume is ramping back up, is more likely to be genuine and sustained. Some [day traders](/wiki/day-trading/) deliberately avoid initiating positions during the noon hour because the [volatility](/wiki/intraday-volatility-patterns/) is often false volatility driven by low-liquidity imbalances rather than new information.
 
 ## Liquidity-seeking algorithms and the lunch-hour advantage
 

@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The **FlexShares International Quality [Dividend](/dividend/) [Index Fund](/index-fund/)** (ticker IQDF, listed on [NASDAQ](/nasdaq/)) is an [exchange-traded fund](/wiki/exchange-traded-fund/) that holds dividend-paying companies in developed and emerging markets outside the United States, selected via a rules-based quality screen. Where a simple international dividend fund might own any company paying a yield, IQDF applies additional filters—profitability, balance-sheet strength, and earnings stability—to focus on firms most likely to sustain and grow their dividends. The result is a bond-like income stream backed by ownership of relatively stable, high-quality businesses abroad.*
+*The **FlexShares International Quality [Dividend](/dividend/) [Index Fund](/index-fund/)** (ticker IQDF, listed on [NASDAQ](/nasdaq/)) is an exchange-traded fund that holds dividend-paying companies in developed and emerging markets outside the United States, selected via a rules-based quality screen. Where a simple international dividend fund might own any company paying a yield, IQDF applies additional filters—profitability, balance-sheet strength, and earnings stability—to focus on firms most likely to sustain and grow their dividends. The result is a bond-like income stream backed by ownership of relatively stable, high-quality businesses abroad.*
 
 ## The fund's origin and the FlexShares approach
 

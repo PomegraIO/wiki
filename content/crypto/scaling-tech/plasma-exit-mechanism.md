@@ -111,6 +111,6 @@ As rollups improve, plasma usage is expected to continue declining.
 - <a href="/wiki/consensus-layer-security/">/wiki/consensus-layer-security/</a> — Root-chain security guarantees
 - <a href="/wiki/zero-knowledge-rollup/">/wiki/zero-knowledge-rollup/</a> — Cryptographic proof-based scaling
 - <a href="/wiki/atomic-swap/">/wiki/atomic-swap/</a> — Cross-chain trading
-- <a href="/wiki/smart-contract-risk/">/wiki/smart-contract-risk/</a> — Protocol implementation risks
+- /wiki/smart-contract-risk/ — Protocol implementation risks
 
 </div>

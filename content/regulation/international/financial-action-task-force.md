@@ -57,7 +57,7 @@ Failure to comply invites regulatory enforcement action, large fines, and reputa
 
 A significant FATF focus is beneficial ownership—identifying the natural persons who ultimately own or control legal entities. Shell companies and opaque trusts historically enabled money laundering; FATF now requires that financial institutions and competent authorities know who truly owns their clients. This has driven the creation of beneficial ownership registries in many countries and increased scrutiny of trusts, partnerships, and layered corporate structures.
 
-The FATF also pushes for automatic exchange of financial information between tax authorities and regulators, eroding traditional [tax secrecy](/wiki/tax-haven/) jurisdictions. Countries like Switzerland and Luxembourg have progressively complied under FATF pressure.
+The FATF also pushes for automatic exchange of financial information between tax authorities and regulators, eroding traditional tax secrecy jurisdictions. Countries like Switzerland and Luxembourg have progressively complied under FATF pressure.
 
 ## Terrorist financing and sanctions screening
 

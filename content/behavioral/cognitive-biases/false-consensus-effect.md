@@ -43,7 +43,7 @@ Third, people tend to **attribute agreement as normal and disagreement as devian
 
 The false consensus effect has profound implications for politics and social movements. During elections, supporters of the eventual loser often report surprise at the outcome, not because polling was wrong but because they had overestimated support for their candidate. In their social circles, their candidate seemed strong. Their media consumption, social media feeds, and conversations all reinforced this illusion. They were blind to the wider reality.
 
-Similarly, people on opposite sides of a [polarized](/wiki/polarization/) issue—climate change, taxation, immigration—often report that "their side" is actually in the majority, even when polling clearly shows otherwise. Liberals may believe most Americans want higher taxes on the wealthy; conservatives may believe most Americans oppose regulation. Both groups overestimate consensus for their position. This misperception hardens polarization: if you believe most people already agree with you, you feel vindicated and see those who disagree as fringe.
+Similarly, people on opposite sides of a polarized issue—climate change, taxation, immigration—often report that "their side" is actually in the majority, even when polling clearly shows otherwise. Liberals may believe most Americans want higher taxes on the wealthy; conservatives may believe most Americans oppose regulation. Both groups overestimate consensus for their position. This misperception hardens polarization: if you believe most people already agree with you, you feel vindicated and see those who disagree as fringe.
 
 Social movements can exploit this bias. Early movements create the *impression* of larger consensus than exists, which attracts fence-sitters who adopt the majority view once they believe it is dominant. This is **false consensus in reverse**—the actual consensus lags the perceived consensus, but the perception drives the reality.
 
@@ -61,7 +61,7 @@ Awareness of the false consensus effect is the first defense. When you find your
 
 Many organizations have instituted **devil's advocate roles** to counteract the effect. Someone is explicitly tasked with opposing the consensus view, forcing the group to articulate its reasoning. [Contrarian investing](/wiki/contrarian-investing/) is another institutional response: it systematically bets against the consensus because the consensus is often overstated. Investors who embrace contrarianism do not fall victim to the false consensus effect; they deliberately assume their instincts are inflated and discount their own confidence.
 
-Prediction markets and [crowd wisdom](/wiki/wisdom-of-crowds/) (not to be confused with crowd bias) can also pierce the false consensus effect. When real money is at stake, people reveal their true beliefs rather than express what they think is socially desirable. Aggregating these bets often yields better forecasts than any individual's consensus estimate.
+Prediction markets and crowd wisdom (not to be confused with crowd bias) can also pierce the false consensus effect. When real money is at stake, people reveal their true beliefs rather than express what they think is socially desirable. Aggregating these bets often yields better forecasts than any individual's consensus estimate.
 
 ## The relationship to confirmation bias and groupthink
 

@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For two-candle patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). A related two-candle pattern is the [harami](/technical-analysis/harami).
+For two-candle patterns broadly, see [candlestick pattern](/candlestick-pattern/). A related two-candle pattern is the [harami](/harami/).
 
 </div>
 
@@ -58,7 +58,7 @@ The bearish engulfing is the mirror image: a large green candle followed by a la
 
 ## Context and reliability
 
-An engulfing pattern at the bottom of a sell-off (a bullish engulfing) or at the top of a rally (a bearish engulfing) is more credible than one in the middle of a trend. After a sharp, multi-day decline, a bullish engulfing signals that buyers are stepping in at what they perceive as a bottom. The pattern gains further credibility if the engulfing forms at a known [support level](/technical-analysis/support-and-resistance), on high volume, or after a climactic sell-off.
+An engulfing pattern at the bottom of a sell-off (a bullish engulfing) or at the top of a rally (a bearish engulfing) is more credible than one in the middle of a trend. After a sharp, multi-day decline, a bullish engulfing signals that buyers are stepping in at what they perceive as a bottom. The pattern gains further credibility if the engulfing forms at a known [support level](/support-and-resistance/), on high volume, or after a climactic sell-off.
 
 An engulfing in the middle of a gentle uptrend, with no obvious exhaustion or reversal signal elsewhere, is more ambiguous and more likely to be a minor pullback than a true reversal.
 
@@ -72,7 +72,7 @@ A bullish engulfing on notably higher volume than the first candle is more convi
 
 ## The harami: inverse relationship
 
-The [harami](/technical-analysis/harami) is the inverse of the engulfing: a large candle followed by a small candle that fits entirely within the first candle's range. Where an engulfing signals a reversal, a harami signals indecision and potential consolidation. The two patterns together illustrate how the relationship between two candles' sizes matters profoundly.
+The [harami](/harami/) is the inverse of the engulfing: a large candle followed by a small candle that fits entirely within the first candle's range. Where an engulfing signals a reversal, a harami signals indecision and potential consolidation. The two patterns together illustrate how the relationship between two candles' sizes matters profoundly.
 
 ## False signals and limitations
 
@@ -94,21 +94,21 @@ Research on engulfing patterns is mixed. Some studies find that engulfings, espe
 
 ### Related patterns
 
-- [Harami](/technical-analysis/harami) — inverse pattern, indecision
-- [Candlestick pattern](/technical-analysis/candlestick-pattern) — broader framework
-- [Morning star](/technical-analysis/morning-star) — three-candle reversal
-- [Evening star](/technical-analysis/evening-star) — three-candle reversal
+- [Harami](/harami/) — inverse pattern, indecision
+- [Candlestick pattern](/candlestick-pattern/) — broader framework
+- [Morning star](/morning-star/) — three-candle reversal
+- [Evening star](/evening-star/) — three-candle reversal
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — key levels for engulfings
-- [Trendline](/technical-analysis/trendline) — identifying trend exhaustion
-- [Candlestick chart](/technical-analysis/candlestick-chart) — the display format
+- [Support and resistance](/support-and-resistance/) — key levels for engulfings
+- [Trendline](/trendline/) — identifying trend exhaustion
+- [Candlestick chart](/candlestick-chart/) — the display format
 
 ### Confirmation signals
 
-- [Moving average](/technical-analysis/simple-moving-average) — additional reversal context
-- [Volume](/technical-analysis/on-balance-volume) — strength of the reversal
-- [Relative strength index](/technical-analysis/relative-strength-index) — momentum extremes
+- [Moving average](/simple-moving-average/) — additional reversal context
+- [Volume](/on-balance-volume/) — strength of the reversal
+- Relative strength index — momentum extremes
 
 </div>

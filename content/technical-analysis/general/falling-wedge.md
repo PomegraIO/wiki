@@ -14,7 +14,7 @@ image: "/svg/technical-analysis.svg"
 
 <div class="wiki-hatnote">
 
-For wedges broadly, see [wedge-pattern](/technical-analysis/wedge-pattern). The opposite pattern is [rising-wedge](/technical-analysis/rising-wedge).
+For wedges broadly, see [wedge-pattern](/wedge-pattern/). The opposite pattern is [rising-wedge](/rising-wedge/).
 
 </div>
 
@@ -101,7 +101,7 @@ The measuring objective is the height of the wedge (the distance between the upp
 
 ## Rising wedge: the opposite
 
-A [rising-wedge](/technical-analysis/rising-wedge) is the opposite pattern: both lines slope upward but converge. A rising wedge in an uptrend often signals exhaustion and reversal downward.
+A [rising-wedge](/rising-wedge/) is the opposite pattern: both lines slope upward but converge. A rising wedge in an uptrend often signals exhaustion and reversal downward.
 
 ## Real-world example
 
@@ -125,16 +125,16 @@ Academic research on falling wedges is sparse. The pattern is popular in practit
 
 ### Related patterns
 
-- [Rising-wedge](/technical-analysis/rising-wedge) — upward-sloping converging lines
-- [Wedge-pattern](/technical-analysis/wedge-pattern) — broader framework
-- [Symmetrical-triangle](/technical-analysis/symmetrical-triangle) — converging, neutral direction
-- [Pennant-pattern](/technical-analysis/pennant-pattern) — small converging triangle
-- [Double-bottom](/technical-analysis/double-bottom) — bullish reversal alternative
+- [Rising-wedge](/rising-wedge/) — upward-sloping converging lines
+- [Wedge-pattern](/wedge-pattern/) — broader framework
+- [Symmetrical-triangle](/symmetrical-triangle/) — converging, neutral direction
+- [Pennant-pattern](/pennant-pattern/) — small converging triangle
+- [Double-bottom](/double-bottom/) — bullish reversal alternative
 
 ### Context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — wedge boundaries
-- [Trendline](/technical-analysis/trendline) — identifying downtrend
-- [Volume](/technical-analysis/on-balance-volume) — confirming breakouts
+- [Support and resistance](/support-and-resistance/) — wedge boundaries
+- [Trendline](/trendline/) — identifying downtrend
+- [Volume](/on-balance-volume/) — confirming breakouts
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*Cliff vesting is a type of [vesting schedule](/equity/vesting-schedule/) in which equity remains completely forfeit until a specified date (the "cliff"), at which point a large tranche vests all at once, after which remaining equity vests gradually. The classic structure is 4 years with a 1-year cliff: nothing vests for 1 year, then 25% vests immediately, then monthly thereafter. The cliff is a key retention mechanism because employees who leave before reaching it forfeit everything.*
+*Cliff vesting is a type of [vesting schedule](/vesting-schedule/) in which equity remains completely forfeit until a specified date (the "cliff"), at which point a large tranche vests all at once, after which remaining equity vests gradually. The classic structure is 4 years with a 1-year cliff: nothing vests for 1 year, then 25% vests immediately, then monthly thereafter. The cliff is a key retention mechanism because employees who leave before reaching it forfeit everything.*
 
 <aside class="wiki-infobox">
 
@@ -53,7 +53,7 @@ The cliff serves a crucial function: **employee retention and company protection
 
 3. **Protects against bad hires**: If an employee is hired but proves incompatible, the company can terminate them before the cliff without triggering vesting. This is especially important in startups where hiring decisions are sometimes hasty.
 
-4. **Founder lock-in**: Founders often grant themselves equity with a cliff or with full vesting but a long post-IPO [lock-up period](/equity/lock-up-period/). The cliff ensures continued commitment during critical early years.
+4. **Founder lock-in**: Founders often grant themselves equity with a cliff or with full vesting but a long post-IPO [lock-up period](/lock-up-period/). The cliff ensures continued commitment during critical early years.
 
 ## Cliff vesting in different contexts
 
@@ -61,7 +61,7 @@ The cliff serves a crucial function: **employee retention and company protection
 
 **Public companies**: Also standard, though the cliff is sometimes shorter (6 months) for mature companies with higher retention rates.
 
-**Executive/founder grants**: Founders might grant themselves fully vested shares at incorporation (no cliff) but accept a [lock-up period](/equity/lock-up-period/) preventing sales for years. Alternatively, founders might be subject to a vesting cliff and [claw-back](/equity/cliff-vesting/) provisions.
+**Executive/founder grants**: Founders might grant themselves fully vested shares at incorporation (no cliff) but accept a [lock-up period](/lock-up-period/) preventing sales for years. Alternatively, founders might be subject to a vesting cliff and [claw-back](/cliff-vesting/) provisions.
 
 ## The cliff and negotiations
 
@@ -75,11 +75,11 @@ Startup founders sometimes grant themselves **full vesting at incorporation** (n
 
 ## Cliff vesting and taxation
 
-For [restricted stock](/equity/restricted-stock/), the cliff date is often when vesting begins and ordinary income tax is triggered. An employee might file an [83(b) election](/equity/iso/) at grant to lock in the grant-date value for tax purposes, so the cliff does not trigger a re-valuation tax event.
+For [restricted stock](/restricted-stock/), the cliff date is often when vesting begins and ordinary income tax is triggered. An employee might file an [83(b) election](/iso/) at grant to lock in the grant-date value for tax purposes, so the cliff does not trigger a re-valuation tax event.
 
-For [RSUs](/equity/restricted-stock-units/), the cliff is when the first batch of units settles into shares, and ordinary income tax is recognized.
+For [RSUs](/restricted-stock-units/), the cliff is when the first batch of units settles into shares, and ordinary income tax is recognized.
 
-For [stock options](/equity/employee-stock-options/), vesting and taxation are separate. Vesting (the cliff) determines when you can exercise; taxation occurs at exercise, not at vesting.
+For [stock options](/employee-stock-options/), vesting and taxation are separate. Vesting (the cliff) determines when you can exercise; taxation occurs at exercise, not at vesting.
 
 ## Cliff and double-trigger acceleration
 
@@ -112,18 +112,18 @@ Founders who do accept vesting sometimes negotiate for acceleration or waiver of
 
 ### Closely related
 
-- [Vesting schedule](/equity/vesting-schedule/) — the broader category
-- [Restricted stock](/equity/restricted-stock/) — often has cliff vesting
-- [Restricted stock units](/equity/restricted-stock-units/) — cliff vesting common
-- [Employee stock options](/equity/employee-stock-options/) — often cliff vesting
-- [Lock-up period](/equity/lock-up-period/) — post-IPO cliff analog
+- [Vesting schedule](/vesting-schedule/) — the broader category
+- [Restricted stock](/restricted-stock/) — often has cliff vesting
+- [Restricted stock units](/restricted-stock-units/) — cliff vesting common
+- [Employee stock options](/employee-stock-options/) — often cliff vesting
+- [Lock-up period](/lock-up-period/) — post-IPO cliff analog
 
 ### Wider context
 
-- [Equity compensation](/equity/iso/) — broader category
-- [Founder shares](/equity/founder-shares/) — subject to cliff vesting
-- [Retention](/equity/vesting-schedule/) — goal of the cliff
-- [Change of control](/equity/vesting-schedule/) — often triggers acceleration
-- [Startup](/equity/founder-shares/) — heavy cliff user
+- [Equity compensation](/iso/) — broader category
+- [Founder shares](/founder-shares/) — subject to cliff vesting
+- [Retention](/vesting-schedule/) — goal of the cliff
+- [Change of control](/vesting-schedule/) — often triggers acceleration
+- [Startup](/founder-shares/) — heavy cliff user
 
 </div>

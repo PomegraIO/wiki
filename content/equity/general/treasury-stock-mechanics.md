@@ -41,7 +41,7 @@ Treasury stock reduction of shares outstanding mechanically boosts [earnings per
 
 ## The controversy: capital allocation vs. financial engineering
 
-Critics argue that excessive share repurchases represent poor [capital allocation](/wiki/capital-allocation/), especially when funded by debt or when cash could be deployed into research, infrastructure, or employee wages. During the 2010s, many large firms used low [interest rates](/wiki/interest-rate/) and tax repatriation to fund massive buybacks rather than [capex](/wiki/capex-budgeting/) or hiring. Some economists blamed this for sluggish productivity growth and stagnant wages.
+Critics argue that excessive share repurchases represent poor capital allocation, especially when funded by debt or when cash could be deployed into research, infrastructure, or employee wages. During the 2010s, many large firms used low [interest rates](/wiki/interest-rate/) and tax repatriation to fund massive buybacks rather than [capex](/wiki/capex-budgeting/) or hiring. Some economists blamed this for sluggish productivity growth and stagnant wages.
 
 Defenders note that buybacks are simply an alternative distribution method to [dividends](/wiki/dividend/). Both return cash to shareholders; buybacks allow tax-efficient withdrawal (shareholders who sell can control the timing and amount of capital gains tax), while dividends force immediate taxation on all shareholders. Buybacks also avoid the behavioral issues of [excessive capital hoarding](/wiki/capital-structure-arbitrage/) by management.
 
@@ -96,7 +96,7 @@ Tax-efficient investors often prefer buybacks; income-dependent investors (retir
 - [Share Repurchase Program](/wiki/share-repurchase-program/) — formal authorization to buy shares
 - [Earnings Per Share](/wiki/earnings-per-share/) — net income divided by shares outstanding
 - [Dividend](/wiki/dividend/) — cash distribution to shareholders
-- [Capital Allocation](/wiki/capital-allocation/) — deployment of company cash
+- Capital Allocation — deployment of company cash
 
 ### Wider context
 - [Equity Compensation](/wiki/equity-compensation/) — share-based employee pay

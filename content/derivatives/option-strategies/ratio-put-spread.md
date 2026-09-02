@@ -61,6 +61,6 @@ A [bull put spread](/wiki/bull-put-spread/) is safer; a ratio put spread generat
 <ul>
 <li><a href="/wiki/option/">Option</a> — contract type underlying spreads.</li>
 <li><a href="/wiki/options-greeks/">Options Greeks</a> — tools for measuring spread risk.</li>
-<li><a href="/wiki/naked-short/">Naked Short</a> — the risk component below the short strike.</li>
+<li>Naked Short — the risk component below the short strike.</li>
 </ul>
 </div>

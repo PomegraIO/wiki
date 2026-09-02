@@ -27,7 +27,7 @@ image: /svg/derivatives.svg
 | **Core insight** | Investor risk aversion doesn't directly affect derivative prices |
 | **Key theorem** | Fundamental Theorem of Asset Pricing: no arbitrage ↔ equivalent martingale measure exists |
 | **Standard application** | [Option](/option/) pricing, [interest-rate](/interest-rate/) derivatives, [futures](/futures-contract/) |
-| **Contrast** | [Real-world pricing](//) uses actual probabilities; risk-neutral pricing uses "synthetic" adjusted probabilities |
+| **Contrast** | Real-world pricing uses actual probabilities; risk-neutral pricing uses "synthetic" adjusted probabilities |
 
 </aside>
 

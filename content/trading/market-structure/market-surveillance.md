@@ -85,7 +85,7 @@ However, oversight has limits. Some trades occur in [dark pools](/wiki/dark-pool
 <h3>Closely related</h3>
 <ul>
   <li><a href="/wiki/insider-trading-law/">Insider trading law</a> — most common violation detected by surveillance.</li>
-  <li><a href="/wiki/sec/">SEC</a> — primary regulator conducting surveillance.</li>
+  <li>SEC — primary regulator conducting surveillance.</li>
   <li><a href="/wiki/finra/">FINRA</a> — broker regulator with surveillance requirements.</li>
 </ul>
 <h3>Wider context</h3>

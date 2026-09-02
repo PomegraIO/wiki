@@ -50,7 +50,7 @@ The shift toward no-load funds has been dramatic. In 2000, roughly 50% of mutual
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/mutual-fund/">Mutual fund</a> — the vehicles with or without loads.</li>
-<li><a href="/wiki/financial-advisor/">Financial advisor</a> — typically sell load funds; commission-free advisors sell no-load.</li>
+<li>Financial advisor — typically sell load funds; commission-free advisors sell no-load.</li>
 <li><a href="/wiki/fiduciary-duty/">Fiduciary duty</a> — whether advisors must prioritize clients over commissions.</li>
 </ul>
 </div>

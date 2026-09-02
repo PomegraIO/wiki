@@ -26,7 +26,7 @@ keywords:
 
 ## How money-market funds work: the stable NAV model
 
-A money-market fund maintains a **stable net asset value (NAV)** of $1.00 per share. Investors buy and redeem shares at $1.00, and the fund's portfolio generates income (interest from holdings) that is paid out to shareholders as dividends. If a fund holds $1 billion in T-bills yielding 5% annually, it earns ~$50 million per year; distributed to 1 billion shares, this yields 5% annually ($0.05 per share). The principal never fluctuates; the entire return is from interest income. This is unlike a [bond fund](/wiki/bond-fund/) or [equity fund](/wiki/stock-exchange/), where NAV fluctuates daily based on market prices. The stable-$1.00 NAV is the defining feature that makes money-market funds a cash equivalent; they are as safe as keeping cash in a savings account (assuming the fund does not default).
+A money-market fund maintains a **stable net asset value (NAV)** of $1.00 per share. Investors buy and redeem shares at $1.00, and the fund's portfolio generates income (interest from holdings) that is paid out to shareholders as dividends. If a fund holds $1 billion in T-bills yielding 5% annually, it earns ~$50 million per year; distributed to 1 billion shares, this yields 5% annually ($0.05 per share). The principal never fluctuates; the entire return is from interest income. This is unlike a bond fund or [equity fund](/wiki/stock-exchange/), where NAV fluctuates daily based on market prices. The stable-$1.00 NAV is the defining feature that makes money-market funds a cash equivalent; they are as safe as keeping cash in a savings account (assuming the fund does not default).
 
 ## Types of money-market funds: government, prime, and tax-exempt
 
@@ -99,7 +99,7 @@ Institutional investors often use money-market funds as vehicles for [repurchase
 - [Treasury Bill](/wiki/treasury-bill/) — Primary government holding
 
 ### Wider context
-- [Fixed-Income Fund](/wiki/fixed-income-fund/) — Broader fund category
+- Fixed-Income Fund — Broader fund category
 - [Federal Funds Rate](/wiki/federal-funds-rate/) — The rate that drives money-market yields
 - [SOFR](/wiki/sofr/) — Modern short-term rate replacing LIBOR
 - [Repurchase Agreement](/wiki/repurchase-agreement/) — Short-term funding instrument

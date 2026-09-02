@@ -56,6 +56,6 @@ While U.S. Treasuries have negligible refinancing risk in normal times, the scen
 <ul>
 <li><a href="/wiki/corporate-bond/">Corporate Bond</a> — bonds issued by companies with refinancing risk.</li>
 <li><a href="/wiki/treasury-bond/">Treasury Bond</a> — government bonds with minimal refinancing risk.</li>
-<li><a href="/wiki/leverage/">Leverage</a> — the use of debt that creates refinancing exposure.</li>
+<li>Leverage — the use of debt that creates refinancing exposure.</li>
 </ul>
 </div>

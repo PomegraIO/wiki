@@ -64,7 +64,7 @@ Owning 100 shares costs $10,000 (at a $100 stock price) and generates dividends.
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/option/">Option</a> — contract type underlying synthetics.</li>
-<li><a href="/wiki/leverage/">Leverage</a> — the key advantage of synthetics.</li>
+<li>Leverage — the key advantage of synthetics.</li>
 <li><a href="/wiki/options-greeks/">Options Greeks</a> — tools for measuring synthetic risk.</li>
 </ul>
 </div>

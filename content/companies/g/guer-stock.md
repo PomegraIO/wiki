@@ -60,9 +60,9 @@ The U.S.–China technology competition also creates uncertainty: if export cont
 <div class="wiki-seealso">
 
 ### Closely related
-- [Broadcom Inc.](/AVGO-stock/) (larger RF and semiconductor competitor)
-- [Skyworks Solutions](/SWKS-stock/) (analog and RF chip design)
-- [Analog Devices](/ADI-stock/) (mixed-signal and RF semiconductor specialist)
+- [Broadcom Inc.](/avgo-stock/) (larger RF and semiconductor competitor)
+- [Skyworks Solutions](/swks-stock/) (analog and RF chip design)
+- [Analog Devices](/adi-stock/) (mixed-signal and RF semiconductor specialist)
 
 ### Wider context
 - Semiconductor industry and design-fabless model

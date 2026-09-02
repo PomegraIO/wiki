@@ -105,7 +105,7 @@ Ranchers track forage indexes (NDVI—Normalized Difference Vegetation Index via
 ### Closely related
 
 - [Futures Contract](/futures-contract/) — How live cattle and feeder cattle futures work
-- [Commodity Markets](/commodities.svg/) — Overview of agricultural and livestock trading
+- Commodity Markets — Overview of agricultural and livestock trading
 - [Supply and Demand](/drought-impact-on-cattle-prices/) — Mechanism driving cattle price cycles
 - [Crude Oil](/crude-oil/) — Another commodity tied to weather and supply shocks
 - [Corn](/corn/) — Competing feed crop impacted by drought

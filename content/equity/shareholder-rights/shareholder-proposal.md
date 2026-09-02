@@ -113,7 +113,7 @@ The U.S. is the jurisdiction most hospitable to shareholder activism via proposa
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/esg-investing/">ESG investing</a> — values underlying many proposals.</li>
-<li><a href="/wiki/activist-investor/">Activist investor</a> — who submits proposals.</li>
+<li>ESG investing — values underlying many proposals.</li>
+<li>Activist investor — who submits proposals.</li>
 </ul>
 </div>

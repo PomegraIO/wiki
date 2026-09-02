@@ -44,7 +44,7 @@ If the repayment fails, the entire transaction reverts—no principal is ever at
 
 Yield farming demonstrates composability at scale. A user deposits stablecoin into:
 
-- A lending pool (e.g., [Aave](/wiki/aave-protocol/)) earning 5% APY
+- A lending pool (e.g., Aave) earning 5% APY
 - The LP tokens are then staked in a yield aggregator, which rebalances across pools
 - The aggregator's output is used as collateral to borrow at another protocol
 - The borrowed tokens are recycled into a different yield farm
@@ -68,7 +68,7 @@ Current composability is primarily within-chain—all contracts on Ethereum, or 
 ### Closely related
 - [Flash loan](/wiki/flash-loan/) — Uncollateralized borrowing enabled by composability within a single transaction
 - [Statistical arbitrage](/wiki/statistical-arbitrage/) — Strategy that exploits price inefficiencies across protocols
-- [Smart contracts](/wiki/smart-contracts/) — The executable code that enables protocol integration
+- Smart contracts — The executable code that enables protocol integration
 - [Liquidity pool](/wiki/liquidity-pool/) — The atomic unit that DeFi protocols compose around
 
 ### Wider context

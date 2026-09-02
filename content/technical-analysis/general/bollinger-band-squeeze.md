@@ -41,13 +41,13 @@ The width of the bands themselves becomes a volatility indicator. Traders measur
 
 Low volatility does not persist forever. Market participants eventually need liquidity, new information arrives, or long-dormant buyers and sellers step back in. The energy built up during a quiet period tends to release all at once, resulting in a directional thrust that can cover significant distance quickly. A squeeze is less a guarantee and more a *setup*—a warning that the market is winding up and about to snap.
 
-Not every squeeze leads to a dramatic move; some end with a modest retracement followed by consolidation. But statistically, significant price swings are more common following squeeze conditions than in normally volatile periods. This makes the squeeze valuable for traders who want to position ahead of potential moves or set [stop-loss](//) levels in anticipation of volatility expansion.
+Not every squeeze leads to a dramatic move; some end with a modest retracement followed by consolidation. But statistically, significant price swings are more common following squeeze conditions than in normally volatile periods. This makes the squeeze valuable for traders who want to position ahead of potential moves or set stop-loss levels in anticipation of volatility expansion.
 
 ## Interpreting the breakout direction
 
 The squeeze itself does not tell you whether the breakout will be up or down. A trader must look to other signals: the trend leading into the squeeze (an uptrend may suggest an upside break), momentum indicators such as RSI or MACD (divergence can hint at reversal), order flow patterns, support and resistance levels, or broader market context. Some traders wait for the price to pierce the band before committing, confirming the direction before entering.
 
-Others use the squeeze as a trigger to tighten [stop-loss](//) orders or prepare trade plans for both scenarios. The key is treating the squeeze as a volatility **signal**, not a directional forecast. Confirmation must come from additional technical or fundamental reasoning.
+Others use the squeeze as a trigger to tighten stop-loss orders or prepare trade plans for both scenarios. The key is treating the squeeze as a volatility **signal**, not a directional forecast. Confirmation must come from additional technical or fundamental reasoning.
 
 ## The retest and follow-through
 
@@ -74,8 +74,8 @@ The Bollinger Band Squeeze is a **volatility** signal, not a price signal. It te
 ### Closely related
 
 - [Bollinger Bands](/bollinger-band-squeeze/) — the core indicator measuring price volatility around a moving average
-- [Moving average](//) — the center line of the Bollinger Band
-- [Standard deviation](//) — the statistical measure that defines band placement
+- Moving average — the center line of the Bollinger Band
+- Standard deviation — the statistical measure that defines band placement
 - [Volatility smile](/volatility-smile/) — how implied volatility changes across strike prices
 - [Historical volatility](/historical-volatility/) — realized price swings measured as a percentage
 
@@ -83,7 +83,7 @@ The Bollinger Band Squeeze is a **volatility** signal, not a price signal. It te
 
 - [Head and Shoulders Pattern: The Neckline Explained](/head-and-shoulders-neckline/) — reversal pattern often confirmed by volatility expansion
 - [On-Balance Volume (OBV) Indicator](/on-balance-volume-indicator/) — volume confirmation for breakouts
-- [Technical analysis](//) — the discipline of interpreting price charts and indicators
+- Technical analysis — the discipline of interpreting price charts and indicators
 - [Market maker trading](/market-maker-trading/) — how liquidity is provided and why volatility compresses
 
 </div>

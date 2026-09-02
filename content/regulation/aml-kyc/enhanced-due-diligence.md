@@ -8,7 +8,7 @@ keywords:
   - customer verification
 ---
 
-*The **enhanced due diligence** (EDD) procedure is a tiered anti-money-laundering safeguard that requires financial institutions to conduct deeper background checks and ongoing monitoring for customers deemed high-risk — particularly [politically exposed persons](/wiki/politically-exposed-persons-pep/) (PEPs), those with connections to sanctioned jurisdictions, or those involved in high-risk industries (casinos, gemstone dealers, cash-intensive businesses).*
+*The **enhanced due diligence** (EDD) procedure is a tiered anti-money-laundering safeguard that requires financial institutions to conduct deeper background checks and ongoing monitoring for customers deemed high-risk — particularly politically exposed persons (PEPs), those with connections to sanctioned jurisdictions, or those involved in high-risk industries (casinos, gemstone dealers, cash-intensive businesses).*
 
 ## The KYC-to-EDD progression
 
@@ -25,7 +25,7 @@ The progression looks like:
 
 A PEP is anyone who currently holds or has recently held a prominent public office — a president, minister, judge, military general, central bank governor, or high-ranking bureaucrat. Family members and close associates are often considered PEPs by extension.
 
-Why are PEPs flagged? They have greater opportunity and motivation to [embezzle](/wiki/embezzlement-risk-implicitly/) or receive [bribes](/wiki/bribery-risk-implicitly/), making them vectors for corruption-sourced money entering the financial system. An [anti-bribery compliance](/wiki/anti-bribery-compliance/) program must treat PEPs as inherently higher-risk.
+Why are PEPs flagged? They have greater opportunity and motivation to embezzle or receive bribes, making them vectors for corruption-sourced money entering the financial system. An [anti-bribery compliance](/wiki/anti-bribery-compliance/) program must treat PEPs as inherently higher-risk.
 
 EDD for a PEP typically requires:
 - **Confirmation of status** via public records, official government websites, media searches.
@@ -35,7 +35,7 @@ EDD for a PEP typically requires:
 
 ## Sanctions and country risk
 
-Financial institutions must screen customers against sanctions lists ([OFAC](/wiki/ofac-compliance-implicitly/), EU sanctions, UN lists). A customer matching a name on a sanctions list cannot be served. EDD also involves country-risk assessment: is the customer from a high-corruption jurisdiction? A jurisdiction under international sanctions? A country with weak [anti-money-laundering](/wiki/anti-money-laundering/) rules?
+Financial institutions must screen customers against sanctions lists (OFAC, EU sanctions, UN lists). A customer matching a name on a sanctions list cannot be served. EDD also involves country-risk assessment: is the customer from a high-corruption jurisdiction? A jurisdiction under international sanctions? A country with weak [anti-money-laundering](/wiki/anti-money-laundering/) rules?
 
 The [Financial Action Task Force](/wiki/financial-action-task-force/) (FATF) identifies "high-risk and non-cooperative jurisdictions" — places where firms must exercise maximum caution, often declining business to avoid compliance risk.
 
@@ -77,11 +77,11 @@ EDD is resource-intensive. Large banks have dedicated [compliance](/wiki/aml-com
 
 False positives are common: a customer with a name similar to a sanctions-list entity triggers a block. Remediation (verifying the customer is *not* the sanctioned person) takes days or weeks, creating friction.
 
-Over-compliance (rejecting legitimate customers or blocking legitimate transactions) is a competitive risk — customers often switch to banks with lighter-touch compliance. This creates a tension between [risk](/wiki/risk-management-implicitly/) mitigation and customer service.
+Over-compliance (rejecting legitimate customers or blocking legitimate transactions) is a competitive risk — customers often switch to banks with lighter-touch compliance. This creates a tension between risk mitigation and customer service.
 
 ## Transition to comprehensive KYC
 
-Modern [fintech](/wiki/fintech-regulation-implicitly/) platforms are integrating KYC and EDD: a customer provides documents during onboarding (passport, proof of address, employment letter, source-of-funds statement), and the platform's algorithms instantly assess risk, triggering automatic EDD workflows for high-risk profiles.
+Modern fintech platforms are integrating KYC and EDD: a customer provides documents during onboarding (passport, proof of address, employment letter, source-of-funds statement), and the platform's algorithms instantly assess risk, triggering automatic EDD workflows for high-risk profiles.
 
 Blockchain and identity-verification startups are exploring decentralized [KYC](/wiki/kyc/) solutions — once a customer is verified on one platform, that verified identity could be reused across institutions, lowering friction.
 

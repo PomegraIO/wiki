@@ -49,7 +49,7 @@ The October 1987 Black Monday crash saw the S&P 500 fall 22% in a single day, on
 
 The 2008 financial crisis featured multiple capitulation events. October 2008 saw severe panic selling as Lehman's bankruptcy and [AIG](/wiki/aig-bailout/) near-failure triggered fears of systemic collapse. Markets fell 20% in a few days on record volume. When the [Federal Reserve](/wiki/federal-reserve/) announced emergency support facilities and the Treasury injected capital into banks, the selling pressure began to ease. March 2009 was another capitulation point; the S&P 500 fell to 666, and sentiment reached historic extremes. Within weeks, the recovery began.
 
-The March 2020 Covid crash was sharp: the S&P 500 fell 34% from peak to trough in 23 days. March 16–18 was the capitulation moment; circuit breakers halted trading twice, volume was off-the-charts, and sentiment was despairing. The [Federal Reserve's](/wiki/federal-reserve-policy-tools/) massive asset purchases and lending facilities calmed panic, and the market began a rapid recovery. By August 2020, new highs were reached, showing that capitulation in March 2020 was a profound bottom.
+The March 2020 Covid crash was sharp: the S&P 500 fell 34% from peak to trough in 23 days. March 16–18 was the capitulation moment; circuit breakers halted trading twice, volume was off-the-charts, and sentiment was despairing. The Federal Reserve's massive asset purchases and lending facilities calmed panic, and the market began a rapid recovery. By August 2020, new highs were reached, showing that capitulation in March 2020 was a profound bottom.
 
 ## Reversals and mean reversion after capitulation
 

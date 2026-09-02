@@ -10,7 +10,7 @@ keywords:
 image: /svg/taxes.svg
 ---
 
-*Self-employed individuals pay **additional Medicare tax**—a 0.9% surtax—on net self-employment earnings above a threshold ($200,000 single, $250,000 married). Unlike the base 2.9% Medicare portion of [self-employment tax](/taxes/self-employment-tax/), which applies to all net earnings regardless of income level, the additional 0.9% is an income-tested surtax enacted under the Affordable Care Act. It stacks on top of the regular Medicare tax and applies only when earnings exceed the high-income threshold.*
+*Self-employed individuals pay **additional Medicare tax**—a 0.9% surtax—on net self-employment earnings above a threshold ($200,000 single, $250,000 married). Unlike the base 2.9% Medicare portion of self-employment tax, which applies to all net earnings regardless of income level, the additional 0.9% is an income-tested surtax enacted under the Affordable Care Act. It stacks on top of the regular Medicare tax and applies only when earnings exceed the high-income threshold.*
 
 <aside class="wiki-infobox">
 
@@ -151,11 +151,11 @@ The additional Medicare tax does **not** count toward the self-employment tax ca
 
 ## Key Differences from Other High-Income Taxes
 
-The **additional Medicare tax** can be confused with the [net investment income tax](/taxes/alternative-tax/net-investment-income-tax-rental-property/) (3.8% NIIT), which applies to passive investment income, or the [alternative minimum tax](/taxes/alternative-tax/amt-vs-regular-tax-which-applies/), which is a separate parallel tax system.
+The **additional Medicare tax** can be confused with the [net investment income tax](/net-investment-income-tax-rental-property/) (3.8% NIIT), which applies to passive investment income, or the [alternative minimum tax](/amt-vs-regular-tax-which-applies/), which is a separate parallel tax system.
 
 - **Additional Medicare tax**: 0.9% on self-employment income (and W-2 wages) above $200,000/$250,000. Applies to active earned income.
 - **Net investment income tax**: 3.8% on passive investment income (dividends, capital gains, rental income) above the same threshold.
-- **[AMT](/taxes/alternative-tax/amt-vs-regular-tax-which-applies/)**: Parallel tax system based on alternative minimum taxable income; rate 26%–28%.
+- **[AMT](/amt-vs-regular-tax-which-applies/)**: Parallel tax system based on alternative minimum taxable income; rate 26%–28%.
 
 A high-income self-employed person could owe all three: AMT (if applicable), 0.9% additional Medicare tax on earnings, and 3.8% NIIT on passive investment income.
 
@@ -167,7 +167,7 @@ Self-employed filers above the threshold should:
 
 2. **Consider entity structure**: Electing S-corporation status allows a self-employed person to split net income into W-2 wages (subject to full self-employment and Medicare tax) and S-corp distributions (not subject to self-employment tax, but subject to additional Medicare tax based on income threshold). This can reduce the total SE and Medicare tax burden, though the W-2 wage floor is set by reasonableness and IRS scrutiny.
 
-3. **Maximize pre-tax deductions**: [SEP-IRA](/retirement/sep-ira/) or [Solo 401(k)](/retirement/solo-401k/) contributions reduce net self-employment income and thus the base for additional Medicare tax.
+3. **Maximize pre-tax deductions**: [SEP-IRA](/sep-ira/) or [Solo 401(k)](/solo-401k/) contributions reduce net self-employment income and thus the base for additional Medicare tax.
 
 4. **Coordinate with other high-income taxes**: High earners should review all surtaxes (additional Medicare, NIIT, AMT) together to understand total tax burden and opportunities for income timing or entity choice.
 
@@ -177,16 +177,16 @@ Self-employed filers above the threshold should:
 
 ### Closely related
 
-- [Self-Employment Tax](/taxes/self-employment-tax/) — The base Medicare and Social Security tax from which additional Medicare tax stacks
-- [Net Investment Income Tax on Rental Property Income](/taxes/alternative-tax/net-investment-income-tax-rental-property/) — Related 3.8% high-income surtax on passive income
-- [AMT vs Regular Tax: Which One You Actually Pay](/taxes/alternative-tax/amt-vs-regular-tax-which-applies/) — Another parallel tax system affecting high earners
-- [Solo 401(k)](/retirement/solo-401k/) — Retirement savings that reduce self-employment income
+- Self-Employment Tax — The base Medicare and Social Security tax from which additional Medicare tax stacks
+- [Net Investment Income Tax on Rental Property Income](/net-investment-income-tax-rental-property/) — Related 3.8% high-income surtax on passive income
+- [AMT vs Regular Tax: Which One You Actually Pay](/amt-vs-regular-tax-which-applies/) — Another parallel tax system affecting high earners
+- [Solo 401(k)](/solo-401k/) — Retirement savings that reduce self-employment income
 
 ### Wider context
 
-- [SEP-IRA](/retirement/sep-ira/) — Deductible retirement contribution that lowers self-employment income
-- [S-Corporation](/business-entities/s-corporation/) — Entity choice that can split income to reduce Medicare tax
-- [Form 1040-ES](/taxes/forms/form-1040-es/) — Quarterly estimated tax includes additional Medicare tax
-- [Estimated Tax](/taxes/estimated-tax/) — How self-employed pay the additional Medicare tax throughout the year
+- [SEP-IRA](/sep-ira/) — Deductible retirement contribution that lowers self-employment income
+- S-Corporation — Entity choice that can split income to reduce Medicare tax
+- Form 1040-ES — Quarterly estimated tax includes additional Medicare tax
+- Estimated Tax — How self-employed pay the additional Medicare tax throughout the year
 
 </div>

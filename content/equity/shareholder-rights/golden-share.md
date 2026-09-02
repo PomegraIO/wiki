@@ -54,7 +54,7 @@ The golden share carries zero voting power in regular shareholder matters (board
 
 ## Use by founders and families
 
-Beyond government, founders sometimes use golden shares (or more commonly, [dual-class](/equity/dual-class-shares/) structures) to retain blocking rights. A founder who owns 5% of shares but holds the golden share can block any merger or sale, providing a control mechanism even after ownership is heavily diluted by dilution or founder share sales.
+Beyond government, founders sometimes use golden shares (or more commonly, [dual-class](/dual-class-shares/) structures) to retain blocking rights. A founder who owns 5% of shares but holds the golden share can block any merger or sale, providing a control mechanism even after ownership is heavily diluted by dilution or founder share sales.
 
 ## Criticism and decline
 
@@ -62,9 +62,9 @@ Golden shares became controversial as EU competition law caught up to the concep
 
 In the US, golden shares are much less common, partly because US securities law and the one-share-one-vote norm make them harder to justify to the SEC or stock exchanges. They also face scrutiny under Delaware corporate law, though they are technically permitted.
 
-## Comparison to [dual-class shares](/equity/dual-class-shares/)
+## Comparison to [dual-class shares](/dual-class-shares/)
 
-A [dual-class](/equity/dual-class-shares/) structure (Class A=1 vote, Class B=10 votes) is economically superior voting power distributed across many shares. A golden share is a pure veto mechanism concentrated in one share. Dual-class is more transparent and aligned with normal voting; golden share is pure blocking power and increasingly seen as archaic.
+A [dual-class](/dual-class-shares/) structure (Class A=1 vote, Class B=10 votes) is economically superior voting power distributed across many shares. A golden share is a pure veto mechanism concentrated in one share. Dual-class is more transparent and aligned with normal voting; golden share is pure blocking power and increasingly seen as archaic.
 
 ## Golden shares in practice today
 
@@ -78,18 +78,18 @@ Golden shares are usually tied to a specific entity (the government or founder) 
 
 ### Closely related
 
-- [Dual-class shares](/equity/dual-class-shares/) — more common voting-control mechanism
-- [Share class](/equity/share-class/) — golden share as a specialized class
-- [Founder shares](/equity/founder-shares/) — often use dual-class instead of golden share
-- [Non-voting shares](/equity/non-voting-shares/) — inverse of golden share concept
-- [Common stock](/equity/common-stock/) — what golden share overrides
+- [Dual-class shares](/dual-class-shares/) — more common voting-control mechanism
+- [Share class](/share-class/) — golden share as a specialized class
+- [Founder shares](/founder-shares/) — often use dual-class instead of golden share
+- [Non-voting shares](/non-voting-shares/) — inverse of golden share concept
+- [Common stock](/common-stock/) — what golden share overrides
 
 ### Wider context
 
-- [Governance](/equity/founder-shares/) — control mechanisms
-- [Shareholder activism](/equity/dual-class-shares/) — what golden share prevents
+- [Governance](/founder-shares/) — control mechanisms
+- [Shareholder activism](/dual-class-shares/) — what golden share prevents
 - [Public company](/public-company/) — issues golden shares
 - [Privatization](/initial-public-offering/) — historical context for golden shares
-- [State-owned enterprise](/equity/dual-class-shares/) — typical issuer
+- [State-owned enterprise](/dual-class-shares/) — typical issuer
 
 </div>

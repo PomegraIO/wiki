@@ -44,7 +44,7 @@ In 2022–2023, companies faced inverted [yield curves](/wiki/yield-curve/), whe
 
 ## Refunding and leverage
 
-A company refunding debt into longer maturity often increases the [debt-to-equity ratio](/wiki/debt-to-equity-ratio/) temporarily, because it's adding longer-term debt while paying off near-term obligations. Over time, the company's [leverage](/wiki/leverage/) depends on free cash flow generation. Aggressive refundings (issuing 30-year bonds to repay 5-year bonds, for example) increase the company's fixed-rate debt burden and interest-rate risk.
+A company refunding debt into longer maturity often increases the [debt-to-equity ratio](/wiki/debt-to-equity-ratio/) temporarily, because it's adding longer-term debt while paying off near-term obligations. Over time, the company's leverage depends on free cash flow generation. Aggressive refundings (issuing 30-year bonds to repay 5-year bonds, for example) increase the company's fixed-rate debt burden and interest-rate risk.
 
 ## Advance refunding
 

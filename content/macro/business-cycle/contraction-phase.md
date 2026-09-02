@@ -53,7 +53,7 @@ Stock prices typically fall during contraction, especially [cyclical](/wiki/cycl
 
 [Bond](/wiki/bond/) yields fall as the [Federal-reserve](/wiki/federal-reserve/) cuts rates. The [yield-curve](/wiki/yield-curve/) may flatten or invert *before* contraction; inverted curves have been a reliable recession predictor. During contraction, the [central-bank](/wiki/central-bank/) typically eases aggressively, pushing long-term yields lower.
 
-Commodity prices often fall during contractions because [demand](/wiki/demand-demand-pull/) falls and inventory builds. [Crude-oil](/wiki/crude-oil/), [copper](/wiki/copper/), and agricultural [futures](/wiki/futures-contract/) tend to weaken.
+Commodity prices often fall during contractions because demand falls and inventory builds. [Crude-oil](/wiki/crude-oil/), [copper](/wiki/copper/), and agricultural [futures](/wiki/futures-contract/) tend to weaken.
 
 ## Policy responses
 
@@ -73,7 +73,7 @@ Most U.S. recessions last 6–18 months. The [great-depression](/wiki/great-depr
 
 Contractions do not last indefinitely. Eventually:
 - Inventory overhang clears (inventory-to-sales ratio normalizes).
-- [Interest-rates](/wiki/interest-rate-risk/) fall enough to reignite [investment](/wiki/capital-allocation/).
+- [Interest-rates](/wiki/interest-rate-risk/) fall enough to reignite investment.
 - Fiscal stimulus provides buying power.
 - Consumer confidence recovers.
 

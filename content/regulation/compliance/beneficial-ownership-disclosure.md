@@ -117,8 +117,8 @@ However, some jurisdictions remain less cooperative or have weak enforcement. Ju
 
 ### Wider context
 - <a href="/wiki/financial-action-task-force/">/wiki/financial-action-task-force/</a> — Global AML standard-setting body
-- <a href="/wiki/corporate-transparency/">/wiki/corporate-transparency/</a> — Broader transparency initiatives
-- <a href="/wiki/offshore-finance/">/wiki/offshore-finance/</a> — International wealth structuring
+- /wiki/corporate-transparency/ — Broader transparency initiatives
+- /wiki/offshore-finance/ — International wealth structuring
 - <a href="/wiki/trust-establishment/">/wiki/trust-establishment/</a> — Beneficial ownership in trusts
 - <a href="/wiki/gatekeeping-role-aml/">/wiki/gatekeeping-role-aml/</a> — Banks' role in AML enforcement
 

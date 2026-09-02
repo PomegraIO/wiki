@@ -10,11 +10,11 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*Treasury stock consists of shares that a company has repurchased from the open market and holds in its own treasury rather than retired or reissued. These shares no longer participate in [dividends](/dividend/) or [earnings per share](/earnings-per-share/) calculations, though the company may reissue them later for [acquisitions](/initial-public-offering/), [employee compensation](/equity/restricted-stock-units/), or other purposes.*
+*Treasury stock consists of shares that a company has repurchased from the open market and holds in its own treasury rather than retired or reissued. These shares no longer participate in [dividends](/dividend/) or [earnings per share](/earnings-per-share/) calculations, though the company may reissue them later for [acquisitions](/initial-public-offering/), [employee compensation](/restricted-stock-units/), or other purposes.*
 
 <div class="wiki-hatnote">
 
-This entry covers treasury stock held as a balance-sheet item. For the economic decision to repurchase shares, see [share buyback](/equity/share-buyback/).
+This entry covers treasury stock held as a balance-sheet item. For the economic decision to repurchase shares, see [share buyback](/share-buyback/).
 
 </div>
 
@@ -42,13 +42,13 @@ This entry covers treasury stock held as a balance-sheet item. For the economic 
 
 A public company repurchases its own stock for four main reasons:
 
-1. **To return cash to shareholders.** A [share buyback](/equity/share-buyback/) is an alternative to a dividend. Instead of sending cash out as dividend, the company spends cash to reduce the share count. This is tax-efficient in many cases because you pay capital-gains tax only if you sell, whereas you pay income tax on dividends immediately.
+1. **To return cash to shareholders.** A [share buyback](/share-buyback/) is an alternative to a dividend. Instead of sending cash out as dividend, the company spends cash to reduce the share count. This is tax-efficient in many cases because you pay capital-gains tax only if you sell, whereas you pay income tax on dividends immediately.
 
-2. **To fund [employee stock compensation](/equity/employee-stock-options/).** Rather than issue entirely new shares when employees exercise options or [RSUs](/equity/restricted-stock-units/) vest, the company can reissue treasury stock, reducing the net dilution to existing shareholders.
+2. **To fund [employee stock compensation](/employee-stock-options/).** Rather than issue entirely new shares when employees exercise options or [RSUs](/restricted-stock-units/) vest, the company can reissue treasury stock, reducing the net dilution to existing shareholders.
 
 3. **To acquire another company.** The repurchased shares can be held in reserve to pay for an acquisition or [merger](/initial-public-offering/) without issuing brand-new shares to outside shareholders.
 
-4. **To offset the [dilutive](/equity/restricted-stock-units/) effect of employee compensation** or to stabilize the share count and [earnings per share](/earnings-per-share/).
+4. **To offset the [dilutive](/restricted-stock-units/) effect of employee compensation** or to stabilize the share count and [earnings per share](/earnings-per-share/).
 
 Once repurchased, the shares are held in the company's treasury as treasury stock. They are no longer considered outstanding and do not participate in earnings or dividends.
 
@@ -62,7 +62,7 @@ The accounting is straightforward:
 - When treasury shares are reissued (for compensation or acquisition), treasury stock decreases.
 - No gain or loss is recognized; the transaction is recorded at cost.
 
-This differs from a [stock split](/equity/stock-split/), which changes the number of shares but does not involve a cash outlay, and from a [stock dividend](/equity/stock-dividend/), which distributes new shares to existing shareholders.
+This differs from a [stock split](/stock-split/), which changes the number of shares but does not involve a cash outlay, and from a [stock dividend](/stock-dividend/), which distributes new shares to existing shareholders.
 
 ## The effect on earnings per share
 
@@ -90,15 +90,15 @@ The distinction is subtle but important. Treasury stock is repurchased but held;
 
 ### Closely related
 
-- [Share buyback](/equity/share-buyback/) — the economic decision to repurchase shares
+- [Share buyback](/share-buyback/) — the economic decision to repurchase shares
 - [Earnings per share](/earnings-per-share/) — metric that buybacks mechanically boost
-- [Shares outstanding](/equity/common-stock/) — reduced by treasury stock
-- [Restricted stock units](/equity/restricted-stock-units/) — often funded with treasury stock
-- [Stock split](/equity/stock-split/) — alternative way to adjust share count
+- [Shares outstanding](/common-stock/) — reduced by treasury stock
+- [Restricted stock units](/restricted-stock-units/) — often funded with treasury stock
+- [Stock split](/stock-split/) — alternative way to adjust share count
 
 ### Wider context
 
-- [Common stock](/equity/common-stock/) — the equity being repurchased
+- [Common stock](/common-stock/) — the equity being repurchased
 - [Stock market](/stock-market/) — where repurchases happen
 - [Dividend](/dividend/) — alternative use of cash
 - [Market capitalization](/market-capitalization/) — not affected by treasury stock

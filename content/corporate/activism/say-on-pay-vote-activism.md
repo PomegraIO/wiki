@@ -42,13 +42,13 @@ First, a failed or near-failed vote draws media attention and public pressure. A
 
 Say-on-pay votes occur at the annual [proxy](/wiki/proxy-statement/) meeting, or at a special meeting if shareholders request it. Investors vote on a resolution to approve or reject the compensation disclosed in the company's proxy statement. The vote tally becomes public within days.
 
-In theory, a vote below 50% is a clear rejection. In practice, support levels of 65% to 80% concern boards most. At 85% and above, management faces little pressure. Below 70%, [proxy advisory firms](/wiki/proxy-advisory-firms/) and large asset managers often recommend voting against pay or publicly signal concern. That threshold—70%—has become an informal floor. Cross it and activists expect a board response or willingness to negotiate.
+In theory, a vote below 50% is a clear rejection. In practice, support levels of 65% to 80% concern boards most. At 85% and above, management faces little pressure. Below 70%, proxy advisory firms and large asset managers often recommend voting against pay or publicly signal concern. That threshold—70%—has become an informal floor. Cross it and activists expect a board response or willingness to negotiate.
 
 Boards typically retain compensation consultants and hold investor roadshows if a say-on-pay vote is at risk. They may adjust pay metrics, clarify clawback policies, link more compensation to [return on equity](/wiki/return-on-equity/) or [stock](/wiki/stock/) performance, or pledge governance improvements. The vote itself does not remove executives or rescind pay; it forces a conversation.
 
 ## Linking Pay to Broader Activism
 
-Say-on-pay votes are most effective when paired with other activist demands. An investor seeking [board](/wiki/board-of-directors/) diversity might also call out compensation skew toward insiders. An activist concerned about research spending might highlight pay as divorced from [operating leverage](/wiki/operating-margin/) and long-term innovation. A fund pushing for [capital allocation](/wiki/capital-allocation/) discipline uses a weak say-on-pay result to argue the board is asleep.
+Say-on-pay votes are most effective when paired with other activist demands. An investor seeking [board](/wiki/board-of-directors/) diversity might also call out compensation skew toward insiders. An activist concerned about research spending might highlight pay as divorced from [operating leverage](/wiki/operating-margin/) and long-term innovation. A fund pushing for capital allocation discipline uses a weak say-on-pay result to argue the board is asleep.
 
 The vote amplifies the activist's narrative. Instead of simply arguing "fire the compensation committee," the activist says "75% of shareholders voted no, and here's what we're fixing." This shifts the burden to the board: accept the activist's slate or explain to shareholders why you're ignoring their vote.
 
@@ -58,13 +58,13 @@ Say-on-pay votes have become far more sophisticated since their introduction und
 
 A vote under 60% is now treated as a crisis. Boards convene emergency compensation committees, often dismiss the lead compensation consultant, and file detailed explanations. A vote between 60% and 70% triggers intensive investor engagement. Above 80%, management feels vindicated, though even 82% support might harbor quiet concern if a major institutional investor publicly abstained.
 
-Activists also monitor peer comparisons. If peers in the same sector maintain 88% say-on-pay support while a target company musters only 73%, the gap itself becomes a rallying point. "Our competitors pay [CEO](/wiki/chief-executive-officer/) performance-linked, you pay fixed. That's a governance failure," activists tell [proxy](/wiki/proxy-statement/) advisory firms.
+Activists also monitor peer comparisons. If peers in the same sector maintain 88% say-on-pay support while a target company musters only 73%, the gap itself becomes a rallying point. "Our competitors pay CEO performance-linked, you pay fixed. That's a governance failure," activists tell [proxy](/wiki/proxy-statement/) advisory firms.
 
 ## Mechanics: From Nonbinding to Real Pressure
 
 The legal nonbinding nature often misleads outsiders. A board is not obligated to follow a rejected say-on-pay vote. What they are obligated to do is explain their response. Under [SEC](/wiki/securities-and-exchange-commission/) rules, if the vote fails or draws less than a disclosed threshold of support, the company must file a detailed response within 120 days: "Here's what we heard. Here's what we're changing. If we're keeping pay as is, here's why."
 
-In practice, this disclosure requirement converts the vote into binding pressure. A board cannot simply reappoint the same [CEO](/wiki/chief-executive-officer/) at the same $25 million [total compensation](/wiki/total-shareholder-return/) and say, "Shareholders voted no, but we're keeping it anyway." That response would be viewed as contempt. Shareholders might vote against director reelection; the [proxy](/wiki/proxy-statement/) advisory firms would recommend voting against the compensation committee's reelection; institutional investors would reduce support for the full slate.
+In practice, this disclosure requirement converts the vote into binding pressure. A board cannot simply reappoint the same CEO at the same $25 million total compensation and say, "Shareholders voted no, but we're keeping it anyway." That response would be viewed as contempt. Shareholders might vote against director reelection; the [proxy](/wiki/proxy-statement/) advisory firms would recommend voting against the compensation committee's reelection; institutional investors would reduce support for the full slate.
 
 The asymmetry is clever: the board avoids the strict legal obligation to follow the vote, but faces severe reputational and proxy-fight risk if it ignores the result outright. This is how nonbinding votes become effective tools.
 
@@ -72,13 +72,13 @@ The asymmetry is clever: the board avoids the strict legal obligation to follow 
 
 Some boards have learned to use say-on-pay votes defensively. They might increase base salary (which employees and markets perceive as safer) and reduce [equity](/wiki/common-stock/) components, dampening activist concern about "excessive" stock awards. Others tie pay explicitly to operational metrics—organic revenue growth, [EBITDA](/wiki/ebitda/) margin, customer retention—that activists find harder to criticize.
 
-Sophisticated boards also load equity awards with vesting schedules that tie to [relative performance](/wiki/relative-valuation/) versus peers. If a [CEO](/wiki/chief-executive-officer/) is underwater against competitors, the [option](/wiki/option/) grants fail. This appeals to value investors and makes activists' "pay-for-failure" narrative harder to sustain.
+Sophisticated boards also load equity awards with vesting schedules that tie to [relative performance](/wiki/relative-valuation/) versus peers. If a CEO is underwater against competitors, the [option](/wiki/option/) grants fail. This appeals to value investors and makes activists' "pay-for-failure" narrative harder to sustain.
 
 Conversely, activists have learned to distinguish between generous pay and misaligned pay. A $20 million package in which $18 million is [equity](/wiki/common-stock/) subject to three-year cliff vesting may draw less activist resistance than $8 million in salary and signing bonuses. The structure matters as much as the total.
 
 ## The 2020s Shift: Climate, Diversity, and Pay
 
-Newer activist campaigns have broadened the say-on-pay lens beyond absolute pay levels. Activists now challenge boards on whether executive compensation includes [ESG](/wiki/esg-investing/) or climate performance metrics. They argue that a [CEO](/wiki/chief-executive-officer/) should not earn a bonus if the company misses emissions targets or fails to hire women in leadership roles.
+Newer activist campaigns have broadened the say-on-pay lens beyond absolute pay levels. Activists now challenge boards on whether executive compensation includes ESG or climate performance metrics. They argue that a CEO should not earn a bonus if the company misses emissions targets or fails to hire women in leadership roles.
 
 This creates a new battlefield: boards defend pay formulas as already including ESG criteria; activists counter that the metrics are window-dressing. A say-on-pay vote becomes a proxy for the entire debate on what "performance" means. The vote tally then signals whether shareholders agree with the board's definition.
 

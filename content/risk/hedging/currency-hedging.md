@@ -59,6 +59,6 @@ Not all currency protection requires derivatives. A firm with euro revenues and 
 ### Wider context
 - [Foreign exchange risk](/wiki/currency-risk/) — Volatility in currency values
 - [Cost of carry](/wiki/cost-of-carry/) — Interest-rate premium in forwards and swaps
-- [Risk management](/wiki/risk-management/) — Systematic approach to hedging exposures
+- Risk management — Systematic approach to hedging exposures
 
 </div>

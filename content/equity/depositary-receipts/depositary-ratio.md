@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A **depositary ratio** is the number of underlying ordinary shares that one [American Depositary Receipt](/adr/) represents. Set by the [depositary bank](/adr/#depositary-bank) at issuance, this ratio determines how many foreign shares ADR holders receive if they [cancel](/adr-cancellation/) their receipts, and it profoundly influences the ADR's dollar price and trading liquidity.*
+*A **depositary ratio** is the number of underlying ordinary shares that one [American Depositary Receipt](/adr/) represents. Set by the depositary bank at issuance, this ratio determines how many foreign shares ADR holders receive if they [cancel](/adr-cancellation/) their receipts, and it profoundly influences the ADR's dollar price and trading liquidity.*
 
 <aside class="wiki-infobox">
 

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A warrant is a security that gives the holder the right to purchase [shares](/stock/) of the underlying company at a fixed price (the "exercise price" or "strike price") on or before a specified expiration date. Warrants are issued by the company and traded publicly or held by investors. They are economically similar to long-dated [stock options](/equity/employee-stock-options/) but are issued by the company as securities (not compensation) and are often more distant from the money.*
+*A warrant is a security that gives the holder the right to purchase [shares](/stock/) of the underlying company at a fixed price (the "exercise price" or "strike price") on or before a specified expiration date. Warrants are issued by the company and traded publicly or held by investors. They are economically similar to long-dated [stock options](/employee-stock-options/) but are issued by the company as securities (not compensation) and are often more distant from the money.*
 
 <aside class="wiki-infobox">
 
@@ -51,7 +51,7 @@ If the stock declines to $20, warrants expire worthless (holder doesn't exercise
 
 ## Warrants versus options
 
-Warrants and [employee stock options](/equity/employee-stock-options/) are similar but differ in origin:
+Warrants and [employee stock options](/employee-stock-options/) are similar but differ in origin:
 
 - **Options**: Issued by the company as employee compensation; typically 4-year vesting with 10-year exercise period; usually at-the-money at grant.
 
@@ -63,7 +63,7 @@ Economically, both give the right to buy shares at a fixed strike price. Warrant
 
 **Debt offerings**: Companies in distress or with poor credit issue bonds with attached warrants to compensate lenders for risk. This is called "sweetener" or "kicker."
 
-**[PIPE offerings](/equity/pipe-offering/)**: Institutional investors sometimes receive warrants as part of a PIPE deal (e.g., 10 million shares of common plus 2 million warrants to buy more shares).
+**[PIPE offerings](/pipe-offering/)**: Institutional investors sometimes receive warrants as part of a PIPE deal (e.g., 10 million shares of common plus 2 million warrants to buy more shares).
 
 **SPAC mergers**: SPACs issuing warrants to investors is common (3 warrants per 10 shares held, exercisable for 5 years).
 
@@ -135,7 +135,7 @@ This is useful for warrant holders who don't have cash to exercise or for warran
 
 ## Anti-dilution and warrant adjustments
 
-Warrants often include anti-dilution provisions: if the company executes a [stock split](/equity/stock-split/), [stock dividend](/equity/stock-dividend/), or [rights offering](/equity/rights-offering/), the warrant strike price and share count are adjusted to maintain the economic value.
+Warrants often include anti-dilution provisions: if the company executes a [stock split](/stock-split/), [stock dividend](/stock-dividend/), or [rights offering](/rights-offering/), the warrant strike price and share count are adjusted to maintain the economic value.
 
 For example, in a 2-for-1 split, a warrant to buy 1 share at $30 becomes a warrant to buy 2 shares at $15.
 
@@ -147,11 +147,11 @@ Large numbers of warrants outstanding can create a "warrant overhang" — concer
 
 ### Closely related
 
-- [Employee stock options](/equity/employee-stock-options/) — similar right, different context
-- [PIPE offering](/equity/pipe-offering/) — often includes warrants
-- [Convertible preferred](/equity/convertible-preferred/) — alternative sweetener
-- [Stock split](/equity/stock-split/) — warrant strikes adjust for splits
-- [Share dilution](/equity/restricted-stock-units/) — caused by warrant exercise
+- [Employee stock options](/employee-stock-options/) — similar right, different context
+- [PIPE offering](/pipe-offering/) — often includes warrants
+- [Convertible preferred](/convertible-preferred/) — alternative sweetener
+- [Stock split](/stock-split/) — warrant strikes adjust for splits
+- [Share dilution](/restricted-stock-units/) — caused by warrant exercise
 
 ### Wider context
 
@@ -159,6 +159,6 @@ Large numbers of warrants outstanding can create a "warrant overhang" — concer
 - [Stock market](/stock-market/) — where warrants trade
 - [Debt](/bond/) — warrants typically issued with
 - **SPAC** — heavy user of warrants
-- [Leverage](/equity/warrant/) — financial leverage from leverage in the warrant itself
+- [Leverage](/warrant/) — financial leverage from leverage in the warrant itself
 
 </div>

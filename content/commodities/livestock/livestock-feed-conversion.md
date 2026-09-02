@@ -25,7 +25,7 @@ Different animals have different FCRs. Poultry have the most efficient ratio—b
 
 **Age and stage**: Young animals are more efficient at converting feed to weight gain than older ones. A calf gaining its first 500 pounds has a better FCR than one gaining the next 500 pounds. This is why producers send animals to market at specific weights.
 
-**Feed quality and nutrition**: Premium feed with balanced protein, energy, and micronutrients improves FCR. Dairy operations optimize rations using [linear programming](/wiki/linear-programming/); beef ranches may use lower-quality forage that results in worse FCR but lower cost. Trade-offs exist between feed cost and FCR efficiency.
+**Feed quality and nutrition**: Premium feed with balanced protein, energy, and micronutrients improves FCR. Dairy operations optimize rations using linear programming; beef ranches may use lower-quality forage that results in worse FCR but lower cost. Trade-offs exist between feed cost and FCR efficiency.
 
 **Environmental stress**: Heat, cold, disease, and management stress worsen FCR. Well-managed facilities with biosecurity reduce illness and improve FCR.
 
@@ -78,7 +78,7 @@ Some consumers prefer grass-fed beef despite worse FCR because they value pastur
 ### Wider context
 - [Livestock Hedging](/wiki/livestock-hedging-strategies/) — strategies to manage livestock price and margin risk
 - [Commodity Cycles](/wiki/commodity-term-structure/) — how feed and meat prices interact over time
-- [Agricultural Production](/wiki/agriculture-basis/) — the supply side of food systems
+- Agricultural Production — the supply side of food systems
 - [Commodity Spreads](/wiki/spread-trading-futures/) — crush and feeding spreads that exploit FCR relationships
 
 </div>

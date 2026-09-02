@@ -134,7 +134,7 @@ Instead, successful tax planning typically involves closing both legs in the sam
 
 ### Wider context
 
-- [Internal Revenue Service](/taxes/general/) — creator and enforcer of Section 1092
+- Internal Revenue Service — creator and enforcer of Section 1092
 - [Option](/option/) — the foundational derivative contract
 - [Derivatives hedging](/derivatives-hedging/) — the economic purpose of many straddles
 - [Tax bracket investor](/tax-bracket-investor/) — the context in which straddle timing matters

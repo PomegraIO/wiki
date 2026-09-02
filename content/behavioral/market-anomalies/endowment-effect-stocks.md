@@ -92,7 +92,7 @@ The endowment effect overlaps with **[status quo bias](/wiki/status-quo-bias/)**
 - [Disposition Effect](/wiki/disposition-effect/) — Selling winners early, holding losers
 - [Status Quo Bias](/wiki/status-quo-bias/) — Preference for current state
 - [Overconfidence Bias](/wiki/overconfidence-bias/) — Related overestimation of position value
-- [Behavioral Finance](/wiki/behavioral-finance/) — Field studying psychological biases in markets
+- Behavioral Finance — Field studying psychological biases in markets
 
 ### Wider context
 - [Asset Allocation](/wiki/asset-allocation/) — Strategic portfolio construction

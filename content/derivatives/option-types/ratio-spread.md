@@ -74,7 +74,7 @@ They also suffer from assignment risk. If one short call is assigned early (on d
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/option/">Option</a> — foundational contract.</li>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — asset class overview.</li>
+  <li>Derivatives — asset class overview.</li>
   <li><a href="/wiki/strike-price/">Strike price</a> — defines the zone of profitability.</li>
 </ul>
 </div>

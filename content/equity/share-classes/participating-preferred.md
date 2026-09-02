@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*Participating preferred stock is a variant of [preferred stock](/equity/preferred-stock/) in which shareholders receive their fixed [dividend](/dividend/) PLUS a pro-rata share of any profits (or proceeds in liquidation) remaining after the preferred dividend is paid. This gives participating preferred holders both downside protection (the fixed dividend) and upside potential (profit participation), making it a hybrid between preferred and common equity.*
+*Participating preferred stock is a variant of [preferred stock](/preferred-stock/) in which shareholders receive their fixed [dividend](/dividend/) PLUS a pro-rata share of any profits (or proceeds in liquidation) remaining after the preferred dividend is paid. This gives participating preferred holders both downside protection (the fixed dividend) and upside potential (profit participation), making it a hybrid between preferred and common equity.*
 
 <aside class="wiki-infobox">
 
@@ -76,7 +76,7 @@ Non-participating preferred is simpler and protects common shareholders, so it i
 
 ## Cumulative and participating
 
-Most participating preferred is also [cumulative](/equity/cumulative-preferred/) — unpaid dividends accumulate and must be paid before participation rights are exercised.
+Most participating preferred is also [cumulative](/cumulative-preferred/) — unpaid dividends accumulate and must be paid before participation rights are exercised.
 
 The combination gives preferred holders:
 1. Fixed dividend income (with arrears if missed).
@@ -118,7 +118,7 @@ In later-stage rounds or growth equity, non-participating preferred is more comm
 
 ## Comparison to convertible preferred
 
-[Convertible preferred](/equity/convertible-preferred/) includes the option to convert into common stock, providing upside. Participating preferred provides upside through the participation right (no conversion needed).
+[Convertible preferred](/convertible-preferred/) includes the option to convert into common stock, providing upside. Participating preferred provides upside through the participation right (no conversion needed).
 
 - **Convertible**: Fixed dividend + right to convert to common and capture common upside.
 
@@ -147,18 +147,18 @@ This is a key negotiating point: founders want lower caps; investors want higher
 
 ### Closely related
 
-- [Preferred stock](/equity/preferred-stock/) — general category
-- [Cumulative preferred](/equity/cumulative-preferred/) — often paired with participating
-- [Non-participating preferred](/equity/preferred-stock/) — the alternative
-- [Convertible preferred](/equity/convertible-preferred/) — alternative upside mechanism
-- [Liquidation preference](/equity/participating-preferred/) — key to understanding waterfall
+- [Preferred stock](/preferred-stock/) — general category
+- [Cumulative preferred](/cumulative-preferred/) — often paired with participating
+- [Non-participating preferred](/preferred-stock/) — the alternative
+- [Convertible preferred](/convertible-preferred/) — alternative upside mechanism
+- [Liquidation preference](/participating-preferred/) — key to understanding waterfall
 
 ### Wider context
 
-- [Venture capital](/equity/founder-shares/) — primary user
-- [Private equity](/equity/participating-preferred/) — also uses participating
-- [Startup](/equity/founder-shares/) — typical issuer
-- [Exit / M&A](/equity/participating-preferred/) — when participation is realized
+- [Venture capital](/founder-shares/) — primary user
+- [Private equity](/participating-preferred/) — also uses participating
+- [Startup](/founder-shares/) — typical issuer
+- [Exit / M&A](/participating-preferred/) — when participation is realized
 - **Waterfall / stacking** — multi-class preferred mechanics
 
 </div>

@@ -124,7 +124,7 @@ The conversion ratio is fixed and rarely changes, but it affects the nominal pri
 
 ## GDRs and other depositary receipts
 
-[Global Depositary Receipts (GDRs)](/equity/gdr/) are similar to ADRs but are issued outside the US and denominated in other currencies. ADRs are US-specific; GDRs are for global issuance.
+[Global Depositary Receipts (GDRs)](/gdr/) are similar to ADRs but are issued outside the US and denominated in other currencies. ADRs are US-specific; GDRs are for global issuance.
 
 ## Regulatory oversight and risks
 
@@ -158,18 +158,18 @@ For institutional investors managing US portfolios, ADRs are simpler than holdin
 
 ### Closely related
 
-- [GDR](/equity/gdr/) — global depositary receipt for non-US markets
-- [Sponsored ADR](/equity/sponsored-adr/) — company-sponsored version
-- [Unsponsored ADR](/equity/adr/) — bank-initiated version
+- [GDR](/gdr/) — global depositary receipt for non-US markets
+- [Sponsored ADR](/sponsored-adr/) — company-sponsored version
+- [Unsponsored ADR](/adr/) — bank-initiated version
 - [Stock](/stock/) — underlying security
-- [Currency exchange](/equity/adr/) — affects ADR pricing
+- [Currency exchange](/adr/) — affects ADR pricing
 
 ### Wider context
 
 - [Public company](/public-company/) — foreign issuer
 - [Stock market](/stock-market/) — US trading of ADRs
-- [Cross-listing](/equity/adr/) — strategy for global companies
-- [International investing](/equity/adr/) — US access to foreign stocks
-- [Depositary bank](/equity/adr/) — infrastructure for ADRs
+- [Cross-listing](/adr/) — strategy for global companies
+- [International investing](/adr/) — US access to foreign stocks
+- [Depositary bank](/adr/) — infrastructure for ADRs
 
 </div>

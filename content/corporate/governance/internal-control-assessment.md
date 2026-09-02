@@ -9,7 +9,7 @@ keywords:
   - risk assessment
 ---
 
-*An **internal control assessment** is a systematic evaluation of a company's policies, procedures, and systems designed to ensure the accuracy and reliability of [financial reporting](/wiki/financial-statements/). Publicly traded US companies are required by the [Sarbanes-Oxley Act](/wiki/sarbanes-oxley-act/) to assess their internal controls annually and to obtain independent auditor attestation, a mandate born from accounting scandals at Enron and WorldCom.*
+*An **internal control assessment** is a systematic evaluation of a company's policies, procedures, and systems designed to ensure the accuracy and reliability of financial reporting. Publicly traded US companies are required by the [Sarbanes-Oxley Act](/wiki/sarbanes-oxley-act/) to assess their internal controls annually and to obtain independent auditor attestation, a mandate born from accounting scandals at Enron and WorldCom.*
 
 <aside class="wiki-infobox">
 
@@ -128,12 +128,12 @@ The auditor's assessment of internal control strength informs audit scope. If co
 - [Sarbanes-Oxley Act](/wiki/sarbanes-oxley-act/) — Primary regulatory driver of internal control assessment
 - [Material Weakness](/wiki/material-weakness/) — Serious control deficiency in reporting
 - [Significant Deficiency](/wiki/significant-deficiency/) — Lesser control gap requiring attention
-- [Financial Statements](/wiki/financial-statements/) — Output that controls ensure is reliable
+- Financial Statements — Output that controls ensure is reliable
 
 ### Wider context
 - [Audit Opinion](/wiki/audit-opinion/) — Auditor's assessment of financial statement accuracy
 - [Management Certification](/wiki/management-certification/) — CEO/CFO attestation in 10-K
-- [Corporate Governance](/wiki/corporate-governance/) — Board oversight of financial reporting
+- Corporate Governance — Board oversight of financial reporting
 - [10-K](/wiki/10-k/) — Annual SEC filing including control assessment disclosure
 
 </div>

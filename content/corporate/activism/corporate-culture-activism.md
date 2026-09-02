@@ -35,7 +35,7 @@ Culture activism emerged as a distinct movement in the 2010s, driven by:
 
 - **Social media and visibility**: Culture issues (workplace harassment, diversity gaps, environmental damage) became visible and viral in ways financial data never do. A single tweet about toxic workplace culture can trigger a stock decline.
 
-- **Regulatory pressure**: Governments in the EU and US began mandating [board diversity](/wiki/board-of-directors/), disclosure of [pay gaps](/wiki/equal-pay-requirements/), and environmental impact reports. Activists amplified regulatory goals.
+- **Regulatory pressure**: Governments in the EU and US began mandating [board diversity](/wiki/board-of-directors/), disclosure of pay gaps, and environmental impact reports. Activists amplified regulatory goals.
 
 ## Major culture activism campaigns
 
@@ -105,7 +105,7 @@ These demands mirror traditional financial reporting rigor, professionalizing cu
 ### Wider context
 - [Shareholder Proposal](/wiki/shareholder-proposal/) — The mechanism for culture activism campaigns
 - [Environmental Liability](/wiki/environmental-liability/) — The financial exposure driving climate activism
-- [Executive Compensation](/wiki/executive-compensation/) — A frequent target of culture activism
+- Executive Compensation — A frequent target of culture activism
 - [Capital Allocation Activism](/wiki/capital-allocation-activism/) — The financial reorientation activism seeks
 
 </div>

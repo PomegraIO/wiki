@@ -95,7 +95,7 @@ The law's cost to taxpayers—roughly $125 billion over ten years when accountin
 ### Closely related
 
 - [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation/) — The agency that absorbed thrift insurance after FSLIC's dissolution
-- [Savings and Loan Crisis](/history/regulatory-events/) — The broader economic collapse of the 1980s
+- Savings and Loan Crisis — The broader economic collapse of the 1980s
 - [Capital Adequacy](/capital-adequacy/) — Regulatory rules on bank equity that FIRREA tightened
 
 ### Wider context

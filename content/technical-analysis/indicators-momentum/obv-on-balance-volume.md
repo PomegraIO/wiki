@@ -8,7 +8,7 @@ keywords:
   - momentum confirmation
 ---
 
-*A **On-Balance Volume (OBV)** is a [momentum indicator](/wiki/indicators-momentum/) that accumulates [volume](/wiki/volume-breadth-divergence/) on an up/down basis: when price closes higher, that day's volume is added to a running total; when price closes lower, volume is subtracted. The resulting cumulative line reveals whether [volume](/wiki/volume-breadth-divergence/) is flowing into or out of a security, confirming or contradicting price trends.*
+*A **On-Balance Volume (OBV)** is a momentum indicator that accumulates [volume](/wiki/volume-breadth-divergence/) on an up/down basis: when price closes higher, that day's volume is added to a running total; when price closes lower, volume is subtracted. The resulting cumulative line reveals whether [volume](/wiki/volume-breadth-divergence/) is flowing into or out of a security, confirming or contradicting price trends.*
 
 OBV is simple in construction but powerful in application. A price uptrend on declining OBV signals weak conviction (price rises, but few shares changing hands = distribution); a price downtrend on rising OBV signals strong selling pressure (price falls, high volume = capitulation). Traders use OBV to validate price moves and detect reversals early.
 
@@ -124,8 +124,8 @@ The logic: OBV confirmation reduces false breakout risk. Without OBV confirmatio
 - [Momentum Investing](/wiki/momentum-investing/) — Strategy based on price trends and continuation
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — Study of price and volume patterns to predict price movements
-- [Indicators Momentum](/wiki/indicators-momentum/) — Oscillators and indicators measuring trend strength
+- Technical Analysis — Study of price and volume patterns to predict price movements
+- Indicators Momentum — Oscillators and indicators measuring trend strength
 - [Support and Resistance](/wiki/support-and-resistance/) — Price zones where buying/selling pressure emerges
 - [Divergence](/wiki/disposition-effect/) — Price and indicator moving in opposite directions
 

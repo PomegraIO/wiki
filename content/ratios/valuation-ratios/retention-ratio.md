@@ -46,7 +46,7 @@ Growth-stage companies (startups, emerging industries) typically have retention 
 
 Some mature companies cut payout ratios from historical levels (say, from 60% to 40%) to fund acquisitions or capex. If those investments earn healthy returns, the trade-off is positive. If the company is retaining cash to fund low-return [M&A](/wiki/merger/) activity or build cash hoards for flexibility, the retention might be destroying value.
 
-[Activist investors](/wiki/activism/) sometimes target companies with high cash balances and low payouts, arguing that the retained cash should go back to shareholders.
+Activist investors sometimes target companies with high cash balances and low payouts, arguing that the retained cash should go back to shareholders.
 
 ## Retention quality varies by industry
 
@@ -71,7 +71,7 @@ If a company's retention ratio has been falling for five years—payout rising, 
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/capital-allocation/">Capital allocation</a> — the strategy behind retention decisions.</li>
+  <li>Capital allocation — the strategy behind retention decisions.</li>
   <li><a href="/wiki/accumulated-depreciation/">Retained earnings</a> — where reinvested profits accumulate on the balance sheet.</li>
   <li><a href="/wiki/value-investing/">Value investing</a> — the discipline that often scrutinizes retention quality.</li>
 </ul>

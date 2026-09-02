@@ -29,7 +29,7 @@ The boundary exists across all three major rating agencies (S&P, Moody's, Fitch)
 
 ## Why the boundary matters for institutional investment
 
-The boundary is both a credit distinction and an institutional constraint. Many pension funds, insurance companies, and conservative mutual funds face [investment policy statements](/wiki/policy-document/) that permit only investment-grade holdings. A fund manager cannot own BB-rated debt even if they believe the credit is sound; their mandate prohibits it. This hard constraint creates demand-side rigidity at the boundary.
+The boundary is both a credit distinction and an institutional constraint. Many pension funds, insurance companies, and conservative mutual funds face investment policy statements that permit only investment-grade holdings. A fund manager cannot own BB-rated debt even if they believe the credit is sound; their mandate prohibits it. This hard constraint creates demand-side rigidity at the boundary.
 
 Similarly, banks must assign higher [risk weights](/wiki/capital-adequacy/) to below-investment-grade debt for [Basel III](/wiki/basel-iii/) capital calculations. A BB-rated bond carries a risk weight of perhaps 150%; a BBB- bond carries 50–100%. The capital cost of owning junk debt is substantially higher than owning investment-grade debt, creating economic incentive to stay above the line.
 

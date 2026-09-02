@@ -72,7 +72,7 @@ Many proprietary trading systems (especially interest-rate derivatives desks) us
 
 ## Speed and computational cost
 
-BAW is a closed-form formula: a few square roots, exponentials, and a root-finding step (often Newton-Raphson for the boundary coefficient). Evaluation takes microseconds per [option](/option/), making it ideal for pricing thousands of [option](/option/)s across a [portfolio](//) or at every [market-tick](/). By contrast, a 100-step binomial tree is 100+ times slower; a finite-difference PDE solver is slower still.
+BAW is a closed-form formula: a few square roots, exponentials, and a root-finding step (often Newton-Raphson for the boundary coefficient). Evaluation takes microseconds per [option](/option/), making it ideal for pricing thousands of [option](/option/)s across a portfolio or at every [market-tick](/). By contrast, a 100-step binomial tree is 100+ times slower; a finite-difference PDE solver is slower still.
 
 This speed advantage has solidified BAW as the industry standard for real-time risk management and trading systems. Quants run BAW during the day and reserve more expensive methods (full recalibration of the [volatility](/historical-volatility/) surface, binomial backtest) for end-of-day and stress-testing.
 

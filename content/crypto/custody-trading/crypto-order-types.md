@@ -15,7 +15,7 @@ keywords:
 
 ## Market orders
 
-A market order is the simplest: "sell 1 Bitcoin now at the best available price." Execution is near-instantaneous, but the price is uncertain—you get whatever the [order book](/wiki/order-book-depth/) offers at that moment. If the order book is thin (low liquidity), your market order might move the price significantly, creating [slippage](/wiki/slippage/). On major exchanges like Coinbase or Kraken with deep order books, slippage on market orders for major cryptocurrencies is minimal (1–10 basis points). On smaller exchanges or for [altcoins](/wiki/altcoin/), slippage can be 1–5%.
+A market order is the simplest: "sell 1 Bitcoin now at the best available price." Execution is near-instantaneous, but the price is uncertain—you get whatever the [order book](/wiki/order-book-depth/) offers at that moment. If the order book is thin (low liquidity), your market order might move the price significantly, creating [slippage](/wiki/slippage/). On major exchanges like Coinbase or Kraken with deep order books, slippage on market orders for major cryptocurrencies is minimal (1–10 basis points). On smaller exchanges or for altcoins, slippage can be 1–5%.
 
 Market orders are preferred when speed is critical (e.g., during volatile moves when you want to exit immediately) and you accept some price uncertainty.
 

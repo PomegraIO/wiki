@@ -21,7 +21,7 @@ From there, the curve extends to 1-week, 1-month, 3-month, 6-month, and 12-month
 
 ## Drivers: Fed policy, credit conditions, and supply
 
-The money market curve is primarily driven by expectations of [Federal Reserve policy](/wiki/federal-reserve-policy/). If markets expect the Fed to hold rates steady for 12 months, the curve is flat. If markets expect cuts, the longer-dated rates fall below overnight, creating an inverted curve. If the Fed is hiking, the curve often slopes upward as traders expect future rates to be higher than current.
+The money market curve is primarily driven by expectations of Federal Reserve policy. If markets expect the Fed to hold rates steady for 12 months, the curve is flat. If markets expect cuts, the longer-dated rates fall below overnight, creating an inverted curve. If the Fed is hiking, the curve often slopes upward as traders expect future rates to be higher than current.
 
 [Credit risk](/wiki/credit-risk/) is the second major driver. During financial stress—bank failures, corporate downgrades, or [systemic risk](/wiki/systemic-risk/) concerns—credit spreads on [commercial paper](/wiki/commercial-paper/), [banker's acceptances](/wiki/banker-acceptance/), and private [CDs](/wiki/certificate-of-deposit/) widen sharply. The 2008 financial crisis saw commercial paper spreads explode as issuers could not roll maturing paper; the [Federal Reserve](/wiki/federal-reserve/) had to backstop the market with the Commercial Paper Funding Facility.
 

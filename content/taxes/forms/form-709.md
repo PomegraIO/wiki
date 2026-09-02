@@ -37,7 +37,7 @@ The form calculates the tax on total gifts for the year, but you can offset that
 
 ## Timing and extension rules
 
-Form 709 is due the same date as your individual income tax return—April 15 following the year in which you made gifts. If you file for an income tax extension using [Form 4868](/wiki/form-4868/), that automatic 6-month extension also covers Form 709.
+Form 709 is due the same date as your individual income tax return—April 15 following the year in which you made gifts. If you file for an income tax extension using Form 4868, that automatic 6-month extension also covers Form 709.
 
 However, filing the return on time is legally safer than relying on the statute of limitations. If you file late without good cause, the IRS can assess penalties starting at 5% of the underpaid tax per month, capping at 25%. More importantly, the statute of limitations for gift tax assessment resets if you don't file; a 10-year audit window can become indefinite, creating a long-tail compliance risk. Filing even without a check due is therefore a sound defensive practice.
 
@@ -51,7 +51,7 @@ If you're separated or divorced mid-year, be careful: the split gift election ap
 
 Gifts that skip one or more generations in your family also file on Form 709. If you gift directly to a grandchild or to a trust with generation-skipping benefits, you trigger the generation-skipping transfer (GST) tax at the same 40% rate as gift tax. Form 709 includes a Schedule B section for reporting GST transfers. You have a separate lifetime exemption for GST tax ($13.61 million in 2024), and that exemption allocation is documented on the form.
 
-Many high-net-worth families use [irrevocable trusts](/wiki/irrevocable-trust/) to make generation-skipping gifts. Each trust contribution requires a Form 709 filing and a GST exemption allocation decision. Failing to allocate GST exemption on the form can result in much higher GST tax at the next generation's taxable event, making the filing compliance work consequential, not merely procedural.
+Many high-net-worth families use irrevocable trusts to make generation-skipping gifts. Each trust contribution requires a Form 709 filing and a GST exemption allocation decision. Failing to allocate GST exemption on the form can result in much higher GST tax at the next generation's taxable event, making the filing compliance work consequential, not merely procedural.
 
 ## Amendments and subsequent corrections
 
@@ -75,7 +75,7 @@ Some high-net-worth individuals file Form 709 for small, non-taxable gifts just 
 
 ### Wider context
 - [Tax Loss Harvesting](/wiki/tax-loss-harvesting/) — an estate planning technique to defer taxes on gains
-- [Irrevocable Trust](/wiki/irrevocable-trust/) — a trust structure often used for generation-skipping transfer gifts
+- Irrevocable Trust — a trust structure often used for generation-skipping transfer gifts
 - [Form 8949](/wiki/form-8949/) — sale or exchange of capital assets, separate from gift reporting
 
 </div>

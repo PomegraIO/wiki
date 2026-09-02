@@ -40,7 +40,7 @@ Benchmark operates manufacturing facilities across the United States and abroad;
 
 ## Customer Concentration and Revenue Stability
 
-Benchmark's customer base is likely dominated by a handful of large defense and aerospace contractors—[Lockheed Martin](/lmt-stock/), Raytheon, [Boeing](/ba-stock/), Northrop Grumman, etc. Revenue concentration poses a risk: if a major customer loses a contract or shifts production in-house, Benchmark loses substantial revenue overnight. Conversely, because Benchmark serves critical-path programs (avionics, communications, weapons systems), customer relationships, once established, tend to be durable. Customers do not lightly abandon a trusted manufacturing partner mid-program. Analyzing Benchmark's [10-K](/10-K/) should reveal the top 3–5 customers and their share of revenue; concentration above 30% in any one customer is a risk flag.
+Benchmark's customer base is likely dominated by a handful of large defense and aerospace contractors—[Lockheed Martin](/lmt-stock/), Raytheon, [Boeing](/ba-stock/), Northrop Grumman, etc. Revenue concentration poses a risk: if a major customer loses a contract or shifts production in-house, Benchmark loses substantial revenue overnight. Conversely, because Benchmark serves critical-path programs (avionics, communications, weapons systems), customer relationships, once established, tend to be durable. Customers do not lightly abandon a trusted manufacturing partner mid-program. Analyzing Benchmark's [10-K](/10-k/) should reveal the top 3–5 customers and their share of revenue; concentration above 30% in any one customer is a risk flag.
 
 ## The Innovation Trap and Technological Capability
 

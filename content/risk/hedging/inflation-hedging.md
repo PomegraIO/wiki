@@ -68,10 +68,10 @@ However, [real estate](/wiki/real-estate-investment-trust/) also faces [interest
 
 ## Equities with pricing power
 
-Not all [stocks](/wiki/stock/) hedge inflation equally. [Equities](/wiki/equity-etf/) of companies with strong [pricing power](/wiki/price-discovery/) — the ability to raise prices without losing customers — are better inflation hedges than those in [competitive markets](/wiki/perfect-competition/) where [margins](/wiki/operating-margin/) are thin.
+Not all [stocks](/wiki/stock/) hedge inflation equally. [Equities](/wiki/equity-etf/) of companies with strong [pricing power](/wiki/price-discovery/) — the ability to raise prices without losing customers — are better inflation hedges than those in competitive markets where [margins](/wiki/operating-margin/) are thin.
 
 Examples:
-- Consumer staples with [brand power](/wiki/brand-awareness/) (Coca-Cola, Nestlé) can raise prices when inflation rises.
+- Consumer staples with brand power (Coca-Cola, Nestlé) can raise prices when inflation rises.
 - Utilities with [regulated pricing](/wiki/rate-setting-mechanism/) can pass inflation to customers.
 - Technology firms with [switching costs](/wiki/switching-option/) can maintain [margins](/wiki/gross-margin-analysis/).
 
@@ -79,7 +79,7 @@ By contrast, [companies](/wiki/business-combination-purchase/) in highly competi
 
 ## The distinction between inflation types
 
-Not all inflation is the same. **Demand-pull inflation** (too much money chasing too few goods) tends to be accompanied by growth and benefits commodities and [hard assets](/wiki/real-assets/). **Cost-push inflation** (supply shocks, wage spirals) can damage growth while raising prices, hurting both [bonds](/wiki/bond/) and [equities](/wiki/stock/).
+Not all inflation is the same. **Demand-pull inflation** (too much money chasing too few goods) tends to be accompanied by growth and benefits commodities and hard assets. **Cost-push inflation** (supply shocks, wage spirals) can damage growth while raising prices, hurting both [bonds](/wiki/bond/) and [equities](/wiki/stock/).
 
 During a stagflation episode like the 1970s, traditional inflation hedges like [commodities](/wiki/commodity-etf/) outperformed, but only marginally; the real winner was being out of financial assets entirely. This distinction matters for portfolio design: a hedge that works during demand-pull inflation may fail during cost-push stagflation.
 

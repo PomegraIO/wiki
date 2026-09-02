@@ -82,12 +82,12 @@ The proliferation of investment accounts (roboadvisors, workplace plans, IRAs, H
 ### Closely related
 - [Mental Accounting](/wiki/mental-accounting/) — the broader cognitive categorization of money
 - [Framing Effect](/wiki/framing-effect/) — how the presentation of options influences choices
-- [Behavioral Finance](/wiki/behavioral-finance/) — the study of psychological biases in financial decisions
-- [Availability Bias](/wiki/availability-bias/) — related tendency to overweight assets that are salient or nearby
+- Behavioral Finance — the study of psychological biases in financial decisions
+- Availability Bias — related tendency to overweight assets that are salient or nearby
 
 ### Wider context
 - [Asset Allocation](/wiki/asset-allocation/) — the optimal starting point that mental accounting can undermine
-- [Rebalancing](/wiki/rebalancing/) — the portfolio maintenance discipline that combats segregation
+- Rebalancing — the portfolio maintenance discipline that combats segregation
 - [Tax Loss Harvesting](/wiki/tax-loss-harvesting/) — a practice that requires integrated thinking across accounts
 - [All-Weather Portfolio](/wiki/all-weather-portfolio/) — a designed portfolio that beats segregated bucket approaches
 

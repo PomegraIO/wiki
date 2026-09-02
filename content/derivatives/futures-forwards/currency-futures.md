@@ -97,6 +97,6 @@ Traders and hedgers choosing between spot transactions, [forwards](/wiki/forward
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/futures-contract/">Futures contract</a> — standardized derivatives with daily [mark-to-market](/wiki/mark-to-market/).</li>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broader category of hedging and risk-transfer instruments.</li>
+<li>Derivatives — the broader category of hedging and risk-transfer instruments.</li>
 </ul>
 </div>

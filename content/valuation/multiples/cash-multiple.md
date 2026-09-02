@@ -110,7 +110,7 @@ A deal entered at a 5x cash multiple is not automatically a bad deal; it depends
 
 ### Wider context
 - [Private equity fund](/wiki/private-equity-fund/) — The investor base
-- [Valuation](/wiki/valuation-multiples/) — The broader framework
+- Valuation — The broader framework
 - [Return on invested capital](/wiki/return-on-invested-capital/) — Competing return metrics
 - [Capital expenditure](/wiki/capex-budgeting/) — Growth investment adjustments
 

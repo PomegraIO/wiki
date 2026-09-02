@@ -33,7 +33,7 @@ image: /svg/taxes.svg
 
 ## The Two-System Mechanics
 
-Filing a federal return means running two separate tax calculations in parallel. The first is straightforward: your income, minus standard or [itemized deductions](/taxes/deductions/), produces taxable income. Apply the regular tax brackets, account for credits, and you have your regular income tax.
+Filing a federal return means running two separate tax calculations in parallel. The first is straightforward: your income, minus standard or itemized deductions, produces taxable income. Apply the regular tax brackets, account for credits, and you have your regular income tax.
 
 The second calculation starts from taxable income but adjusts it upward by adding back certain deductions and accounting for what the Internal Revenue Service calls "tax preferences"—items that Congress wanted to prevent high-income filers from escaping tax entirely. The result is Alternative Minimum Taxable Income (AMTI).
 
@@ -103,7 +103,7 @@ Below $400,000 AGI, most filers with standard income sources never compute AMT.
 
 ## Credits Against AMT Liability
 
-If you owe AMT, certain credits still apply—but with a key constraint. [Credit for child and dependent care](/taxes/credits/), [foreign tax credit](/taxes/credits/), and the [earned income credit](/taxes/credits/) can reduce both regular tax and tentative minimum tax.
+If you owe AMT, certain credits still apply—but with a key constraint. Credit for child and dependent care, foreign tax credit, and the earned income credit can reduce both regular tax and tentative minimum tax.
 
 However, the **AMT foreign tax credit** and other nonrefundable credits against AMT are limited. And some credits—notably the child tax credit and education credits—cannot reduce tentative minimum tax below a floor (26% of AMT income). This means AMT filers sometimes cannot claim all their credits.
 
@@ -115,7 +115,7 @@ Taxpayers who regularly face AMT have limited levers. Deferring income or accele
 
 - **Timing of large one-time deductions**: If you're claiming a major deduction in year one, year two may offer AMT relief.
 - **Charitable giving via donor-advised fund**: Bunching contributions may help manage itemization across years.
-- **Partnership and S-corp elections**: Material participation and grouping elections can shift characterization of passive vs. active income, affecting both AMTI and [net investment income tax](/taxes/alternative-tax/net-investment-income-tax-rental-property/).
+- **Partnership and S-corp elections**: Material participation and grouping elections can shift characterization of passive vs. active income, affecting both AMTI and [net investment income tax](/net-investment-income-tax-rental-property/).
 - **Review of depreciable assets**: Electing out of bonus depreciation or Section 179 expensing can lower AMTI.
 
 In all cases, the baseline truth remains: you pay the higher of regular tax or tentative minimum tax, whichever results in a larger bill to the IRS.
@@ -126,15 +126,15 @@ In all cases, the baseline truth remains: you pay the higher of regular tax or t
 
 ### Closely related
 
-- [Kiddie Tax Unearned Income Threshold](/taxes/alternative-tax/kiddie-tax-unearned-income-threshold/) — How investment income of dependents is taxed at parent's rate above a floor
-- [Net Investment Income Tax on Rental Property Income](/taxes/alternative-tax/net-investment-income-tax-rental-property/) — The 3.8% tax triggered at high income levels
-- [Additional Medicare Tax for Self-Employed Individuals](/taxes/alternative-tax/additional-medicare-tax-self-employed/) — The 0.9% surtax on earned income above a threshold
+- [Kiddie Tax Unearned Income Threshold](/kiddie-tax-unearned-income-threshold/) — How investment income of dependents is taxed at parent's rate above a floor
+- [Net Investment Income Tax on Rental Property Income](/net-investment-income-tax-rental-property/) — The 3.8% tax triggered at high income levels
+- [Additional Medicare Tax for Self-Employed Individuals](/additional-medicare-tax-self-employed/) — The 0.9% surtax on earned income above a threshold
 
 ### Wider context
 
-- [Tax Bracket](/taxes/individual-income-tax/tax-bracket/) — How marginal rates work in the regular system
-- [Credit for Child and Dependent Care](/taxes/credits/) — Nonrefundable credit interaction with AMT
-- [Foreign Tax Credit](/taxes/credits/) — How overseas tax payments interact with AMT liability
-- [Passive Activity Losses](/taxes/deductions/) — A key AMT adjustment and trigger
+- Tax Bracket — How marginal rates work in the regular system
+- Credit for Child and Dependent Care — Nonrefundable credit interaction with AMT
+- Foreign Tax Credit — How overseas tax payments interact with AMT liability
+- Passive Activity Losses — A key AMT adjustment and trigger
 
 </div>

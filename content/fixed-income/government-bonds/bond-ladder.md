@@ -45,7 +45,7 @@ The ladder strategy assumes you can hold to maturity. Selling early, especially 
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/fixed-income/">Fixed Income</a> — the asset class of bonds and debt securities.</li>
+<li>Fixed Income — the asset class of bonds and debt securities.</li>
 <li><a href="/wiki/asset-allocation/">Asset Allocation</a> — the strategy of dividing a portfolio among different assets.</li>
 </ul>
 </div>

@@ -110,12 +110,12 @@ Also, contribution margin ignores capacity constraints. If a company is at full 
 - [Gross Margin](/wiki/gross-profit-margin/) — Revenue minus cost of goods sold
 - [Variable Costing](/wiki/variable-costing/) — Accounting method emphasizing variable costs
 - [Cost of Goods Sold](/wiki/cogs-percentage-sales/) — Component of gross margin
-- [Break-even Analysis](/wiki/break-even-analysis/) — Key application of contribution margin
+- Break-even Analysis — Key application of contribution margin
 
 ### Wider context
 - [Profitability Ratios](/wiki/profit-margin-ratio/) — Category of margin metrics
-- [Operating Leverage](/wiki/operating-leverage/) — Sensitivity of profit to sales changes
+- Operating Leverage — Sensitivity of profit to sales changes
 - [Cost Accounting](/wiki/activity-based-costing/) — Broader field of cost analysis
-- [Pricing Strategy](/wiki/pricing-strategy/) — Decision-making use of contribution margin
+- Pricing Strategy — Decision-making use of contribution margin
 
 </div>

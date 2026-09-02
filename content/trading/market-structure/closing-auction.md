@@ -23,7 +23,7 @@ The closing price is then reported to the [consolidated tape](/wiki/consolidated
 
 The closing price is critical because it is used to calculate daily returns and is used in many financial formulas. If you own a mutual fund that tracks the [S&P 500](/wiki/sp-500-index/), the fund's closing value is calculated using the closing prices of the 500 stocks. If the closing price is set fairly (by the closing auction) rather than by accident (the last trade before 4 p.m.), the fund's daily value is accurate.
 
-Index traders and [algorithmic traders](/wiki/algorithmic-trading/) are aware of this and often submit large closing-auction orders to rebalance their [portfolios](/wiki/portfolio/) to match index weights at exactly 4:00 p.m. The closing auction is often the highest-volume minute of the day, despite lasting just 15–20 seconds.
+Index traders and [algorithmic traders](/wiki/algorithmic-trading/) are aware of this and often submit large closing-auction orders to rebalance their portfolios to match index weights at exactly 4:00 p.m. The closing auction is often the highest-volume minute of the day, despite lasting just 15–20 seconds.
 
 ## Volatility at the close
 

@@ -91,7 +91,7 @@ Most mature companies target a "debt maturity ladder" where 10–20% of debt is 
 
 ## Relationship to other risks
 
-Rollover risk overlaps with [liquidity-risk](/wiki/liquidity-risk/) (inability to access cash quickly) and [credit-risk](/wiki/credit-risk/) (inability to meet obligations). It is distinct from [interest-rate-risk](/wiki/interest-rate-risk/) (which affects bond values) and [credit-spread-risk](/wiki/credit-spread-risk/) (which affects refinancing cost, not availability). Rollover risk is the extreme: not just higher cost, but no availability at any reasonable price.
+Rollover risk overlaps with [liquidity-risk](/wiki/liquidity-risk/) (inability to access cash quickly) and [credit-risk](/wiki/credit-risk/) (inability to meet obligations). It is distinct from [interest-rate-risk](/wiki/interest-rate-risk/) (which affects bond values) and credit-spread-risk (which affects refinancing cost, not availability). Rollover risk is the extreme: not just higher cost, but no availability at any reasonable price.
 
 <div class="wiki-seealso">
 

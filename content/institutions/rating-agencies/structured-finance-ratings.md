@@ -84,7 +84,7 @@ Structured finance ratings are often more volatile than corporate ratings. A cor
 
 ### Wider context
 - [Securitization](/wiki/securitization/) — process creating structured products
-- [Rating Agencies](/wiki/rating-agencies/) — S&P, Moody's, Fitch
+- Rating Agencies — S&P, Moody's, Fitch
 - [2008 Financial Crisis](/wiki/subprime-mortgage-crisis/) — stress test
 - [Rating Methodology](/wiki/rating-methodology/) — technical framework
 

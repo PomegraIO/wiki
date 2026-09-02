@@ -38,7 +38,7 @@ image: "/svg/strategies.svg"
 
 The model's insight is that market prices *already embed* a consensus view of expected returns. If the S&P 500 is priced at a 6 per cent expected return and a small-cap value fund trades at a 9 per cent expected return, the market is expressing a collective judgment about risk and reward. Rather than ignore this embedded information, Black and Litterman said: start here.
 
-To extract equilibrium returns, apply the [Capital Asset Pricing Model](/.) backward. If a market-value-weighted [portfolio](/.) has a certain expected return and [beta](/beta/), you can deduce each asset's implied expected return. This becomes your baseline: the "neutral" forecast that already reflects current supply, demand, and risk pricing.
+To extract equilibrium returns, apply the Capital Asset Pricing Model backward. If a market-value-weighted portfolio has a certain expected return and [beta](/beta/), you can deduce each asset's implied expected return. This becomes your baseline: the "neutral" forecast that already reflects current supply, demand, and risk pricing.
 
 Mathematically, this step is elegant. It sidesteps the need to build an ab initio return forecast. Instead, you accept the market's collective wisdom as a prior and only adjust where you have strong conviction.
 
@@ -62,7 +62,7 @@ The model also formalizes the relationship between your views and the market. If
 
 Black-Litterman requires you to specify several parameters: the risk-free rate, the market's risk aversion coefficient (usually inferred from historical data or market prices), the volatility of your views, and the volatility of the market baseline. Get these wrong and the model's output shifts. Most practitioners use reasonable defaults and then run sensitivity analyses to test robustness.
 
-A common criticism is that the model still depends on a good covariance matrix—the correlations among assets. If your [correlation](/.) estimates are stale or regime-dependent, the optimizer can still misbehave. Many practitioners regularize the covariance matrix using techniques like shrinkage or rolling windows.
+A common criticism is that the model still depends on a good covariance matrix—the correlations among assets. If your correlation estimates are stale or regime-dependent, the optimizer can still misbehave. Many practitioners regularize the covariance matrix using techniques like shrinkage or rolling windows.
 
 Another point: the model assumes you can articulate your views as a clean set of return forecasts or relative outperformance bets. Some investors' conviction is more tactical or thematic—"tech is overvalued" or "commodity super-cycles are ending"—and does not fit neatly into the framework. These require translation into return views, which introduces subjectivity.
 
@@ -90,7 +90,7 @@ For retail investors and smaller allocators, the model is less relevant; its ben
 
 - [Mean-variance optimization](/mean-variance-optimization/) — the portfolio-construction framework that Black-Litterman refines
 - [Maximum diversification portfolio](/maximum-diversification-portfolio/) — an alternative baseline for portfolio weights
-- [Capital asset pricing model](/.) — the CAPM used to extract equilibrium returns
+- Capital asset pricing model — the CAPM used to extract equilibrium returns
 - [Beta](/beta/) — systematic risk relative to the overall market
 - [Factor investing](/factor-investing/) — systematic return sources underlying Black-Litterman tilts
 - [Diversification](/diversification/) — the natural outcome of balanced Bayesian blending

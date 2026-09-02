@@ -15,7 +15,7 @@ description: "A severe, often permanent loss of capital that occurs when a hedge
   </table>
 </aside>
 
-Hedge funds are supposed to be safer than traditional equity investments. The term "hedge" implies protection, and the promised benefits include lower volatility, consistent returns, and diversification. Yet hedge funds are also known for occasionally suffering catastrophic losses that dwarf the losses experienced by a simple stock-market investor. A [long-only investor](/wiki/long-short-equity/) holding an index fund loses, at worst, what the market loses. A hedge fund manager using leverage and concentrated bets can lose all the capital, sometimes exceeding it (owing money to the prime broker).
+Hedge funds are supposed to be safer than traditional equity investments. The term "hedge" implies protection, and the promised benefits include lower volatility, consistent returns, and diversification. Yet hedge funds are also known for occasionally suffering catastrophic losses that dwarf the losses experienced by a simple stock-market investor. A long-only investor holding an index fund loses, at worst, what the market loses. A hedge fund manager using leverage and concentrated bets can lose all the capital, sometimes exceeding it (owing money to the prime broker).
 
 ## The mechanics of catastrophic losses
 
@@ -70,14 +70,14 @@ For investors, the lesson is that hedge funds are not risk-free alternatives to 
 <h3>Closely related</h3>
 <ul>
   <li><a href="/wiki/hedge-fund/">Hedge fund</a> — the category of funds being discussed.</li>
-  <li><a href="/wiki/drawdown/">Drawdown</a> — the metric measuring loss from peak to trough.</li>
-  <li><a href="/wiki/leverage/">Leverage</a> — the primary amplifier of losses.</li>
+  <li>Drawdown — the metric measuring loss from peak to trough.</li>
+  <li>Leverage — the primary amplifier of losses.</li>
   <li><a href="/wiki/value-at-risk/">Value-at-risk</a> — the risk metric that often underestimates tail risk.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/long-term-capital-management/">Long-Term Capital Management</a> — the canonical blowup case study.</li>
-  <li><a href="/wiki/2008-financial-crisis/">2008 financial crisis</a> — saw widespread hedge fund losses.</li>
+  <li>2008 financial crisis — saw widespread hedge fund losses.</li>
   <li><a href="/wiki/tail-risk/">Tail risk</a> — extreme events that crash models.</li>
   <li><a href="/wiki/liquidity-risk/">Liquidity risk</a> — the risk of being unable to exit positions.</li>
 </ul>

@@ -97,7 +97,7 @@ The short-term nature of ABCP makes it a funding tool rather than a long-term in
 ### Wider context
 - [Money Market Fund](/wiki/money-market-fund/) — major holder of ABCP
 - [Credit Rating](/wiki/credit-rating/) — agencies assess ABCP program credit quality
-- [Maturity Risk](/wiki/maturity-risk/) — the refinancing challenge in programs rolling over maturing notes
+- Maturity Risk — the refinancing challenge in programs rolling over maturing notes
 - [Counterparty Risk](/wiki/counterparty-risk/) — credit quality of originator and guarantor
 
 </div>

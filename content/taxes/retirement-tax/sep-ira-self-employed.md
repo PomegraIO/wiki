@@ -63,7 +63,7 @@ A competing vehicle, the [Solo 401(k)](/wiki/solo-401k-mechanics/), also serves 
 | **Employees** | Cannot sponsor if employees exist | Can include employees (with employer matching) |
 | **Employer match** | Employee's contribution to own account | Employer and employee contributions |
 
-For solo operators, the Solo 401(k) actually allows higher contributions because it permits both employee deferrals AND employer contributions. However, the paperwork and potential [annual filing requirement (Form 5500)](/wiki/form-5500/) if balances exceed $250,000 adds complexity.
+For solo operators, the Solo 401(k) actually allows higher contributions because it permits both employee deferrals AND employer contributions. However, the paperwork and potential annual filing requirement (Form 5500) if balances exceed $250,000 adds complexity.
 
 **Strategy:** If contributions <$50,000 annually and simplicity is key, use a SEP IRA. If contributions exceed $50,000 or loan access is valuable, explore a Solo 401(k).
 
@@ -118,7 +118,7 @@ They are **not** ideal for:
 - [Roth Conversion](/wiki/roth-conversion-personal/) — strategy to shift to tax-free growth
 
 ### Wider context
-- [Retirement Tax](/wiki/retirement-tax/) — tax treatment of retirement accounts
+- Retirement Tax — tax treatment of retirement accounts
 - [Self-Employed Deductions](/wiki/tax-loss-harvesting/) — business expense deductions
 - [Required Minimum Distributions](/wiki/required-minimum-distribution-personal/) — mandatory withdrawals at age 73
 - [Tax Planning](/wiki/tax-loss-harvesting/) — strategies for income deferral

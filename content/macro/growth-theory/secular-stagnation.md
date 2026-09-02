@@ -85,7 +85,7 @@ Some economists advocate for increased [fiscal spending](/wiki/fiscal-policy-exp
 
 ### Wider context
 - [Business Cycle](/wiki/business-cycle/) — Cyclical vs. structural slowdowns
-- [Capital Allocation](/wiki/capital-allocation/) — How firms invest and compound
+- Capital Allocation — How firms invest and compound
 - [Monetary Policy](/wiki/monetary-policy/) — Tools that cannot solve structural problems alone
 - [Fiscal Policy](/wiki/fiscal-policy-expansionary/) — Government spending as potential remedy
 - [Recession](/wiki/recession/) — Related but distinct economic contraction

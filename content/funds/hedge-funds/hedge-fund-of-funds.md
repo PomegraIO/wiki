@@ -77,7 +77,7 @@ However, modern alternatives are more attractive for many investors. A low-cost 
 <h3>Closely related</h3>
 <ul>
   <li><a href="/wiki/hedge-fund/">Hedge fund</a> — the underlying investment vehicle.</li>
-  <li><a href="/wiki/fund-selection/">Fund selection</a> — the allocator's core skill.</li>
+  <li>Fund selection — the allocator's core skill.</li>
   <li><a href="/wiki/diversification/">Diversification</a> — the key benefit to investors.</li>
   <li><a href="/wiki/performance-fee/">Performance fee</a> — the cost structure that compounds at multiple levels.</li>
 </ul>

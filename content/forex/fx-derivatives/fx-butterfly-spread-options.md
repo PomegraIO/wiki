@@ -105,7 +105,7 @@ The butterfly is **net short vega**: the body (short calls) has higher vega than
 
 The butterfly is **net long theta**: the decay of the short calls (body) benefits the position daily, while the long wings (which benefit from theta) are outweighed. The butterfly decays favorably as expiration approaches, assuming spot stays near the body strike.
 
-[Delta](//) shifts gradually. Near the body strike, delta is near zero (the position is direction-neutral). Far from the body, delta approaches the wings' delta or becomes negative if spot overshoots.
+Delta shifts gradually. Near the body strike, delta is near zero (the position is direction-neutral). Far from the body, delta approaches the wings' delta or becomes negative if spot overshoots.
 
 Risk management involves monitoring:
 - **Spot move beyond wings.** If spot exits the band, losses begin to accelerate. A stop-loss above the upper wing or below the lower wing is typical.

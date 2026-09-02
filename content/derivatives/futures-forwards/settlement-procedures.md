@@ -55,7 +55,7 @@ Example: An S&P 500 E-mini [futures](/wiki/futures-contract/) trader went long a
 
 ## The clearing house role
 
-The clearing house (often the **Options Clearing Corporation (OCC)** for equities and equity [derivatives](/wiki/derivatives/), or **DTCC** subsidiaries for other asset classes) is the central counterparty:
+The clearing house (often the **Options Clearing Corporation (OCC)** for equities and equity derivatives, or **DTCC** subsidiaries for other asset classes) is the central counterparty:
 
 - **Every trader's counterparty:** When you buy a contract, you buy from the clearing house (not the seller). When you sell, you sell to the clearing house.
 - **Default guarantor:** If a trader defaults, the clearing house absorbs the loss (funded by member fees and capital reserves).
@@ -96,7 +96,7 @@ When settlement fails systematically (multiple fails, cascading defaults), syste
 
 **Long-Term Capital Management (LTCM), 1998:** A massive hedge fund faced margin calls during the Russian financial crisis and had to liquidate enormous positions. Settlement was chaotic; counterparties feared default. The Federal Reserve orchestrated a rescue to prevent cascading settlement failures.
 
-**Lehman Brothers, 2008:** Lehman's bankruptcy created uncertainty about trillions in [derivatives](/wiki/derivatives/) and [futures](/wiki/futures-contract/) positions. The clearing house and regulators had to carefully separate Lehman's positions, assign them to other members, and ensure settlement did not break down.
+**Lehman Brothers, 2008:** Lehman's bankruptcy created uncertainty about trillions in derivatives and [futures](/wiki/futures-contract/) positions. The clearing house and regulators had to carefully separate Lehman's positions, assign them to other members, and ensure settlement did not break down.
 
 **2020 VIX futures volatility:** During the March 2020 crisis, [VIX futures](/wiki/volatility-index-futures/) and related products experienced extreme moves. Retail traders using leveraged VIX ETPs faced margin calls they could not meet, leading to forced liquidations. Settlement was orderly but created significant losses.
 
@@ -122,6 +122,6 @@ But for those holding positions through [expiration](/wiki/expiration-contracts/
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broader category of financial instruments requiring settlement procedures.</li>
+<li>Derivatives — the broader category of financial instruments requiring settlement procedures.</li>
 </ul>
 </div>

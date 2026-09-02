@@ -62,7 +62,7 @@ A standard spread has tighter strikes, easier break-evens, but higher cost. A ju
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/option/">Option</a> — contract type underlying jump spreads.</li>
-<li><a href="/wiki/leverage/">Leverage</a> — the key appeal of jump spreads.</li>
+<li>Leverage — the key appeal of jump spreads.</li>
 <li><a href="/wiki/options-greeks/">Options Greeks</a> — tools for measuring jump spread risk.</li>
 </ul>
 </div>

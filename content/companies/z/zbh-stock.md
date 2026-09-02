@@ -29,7 +29,7 @@ The primary revenue model is high-margin implant sales. A knee or hip replacemen
 
 Recurring revenue comes from consumables — the surgical tools, drapes, and other materials used alongside implants during procedures. This provides a secondary stream and adds stickiness to the relationship. Hospitals that choose Zimmer for the implant often buy the corresponding instruments and supplies from the same vendor for operational simplicity.
 
-The geographic mix is important: reimbursement rates and surgical volumes vary sharply. Advanced markets (US, Western Europe, Japan) offer higher prices and stable volumes. Emerging markets offer volume growth but lower margins and more price pressure. Zimmer, like rivals [Stryker](/wiki/syK-stock/) and [J&J](/wiki/jnj-stock/), pursues a "glocal" strategy — global scale and R&D coupled with local manufacturing and sales presence to navigate reimbursement and regulations.
+The geographic mix is important: reimbursement rates and surgical volumes vary sharply. Advanced markets (US, Western Europe, Japan) offer higher prices and stable volumes. Emerging markets offer volume growth but lower margins and more price pressure. Zimmer, like rivals [Stryker](/syk-stock/) and [J&J](/wiki/jnj-stock/), pursues a "glocal" strategy — global scale and R&D coupled with local manufacturing and sales presence to navigate reimbursement and regulations.
 
 ## What sets it apart and what doesn't
 

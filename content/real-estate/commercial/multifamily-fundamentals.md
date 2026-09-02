@@ -9,7 +9,7 @@ keywords:
   - NOI
 ---
 
-*A **multifamily** property is a residential building housing multiple households—typically apartment complexes with 5, 50, or 500 units. Multifamily is the largest [real estate investment trust (REIT)](/wiki/real-estate-investment-trust/) sector by capitalization and the foundation of many institutional real estate portfolios, offering stable [cash flows](/wiki/cash-flow-statement/) from rent collections and [economies of scale](/wiki/economies-of-scale/) in operations.*
+*A **multifamily** property is a residential building housing multiple households—typically apartment complexes with 5, 50, or 500 units. Multifamily is the largest [real estate investment trust (REIT)](/wiki/real-estate-investment-trust/) sector by capitalization and the foundation of many institutional real estate portfolios, offering stable [cash flows](/wiki/cash-flow-statement/) from rent collections and economies of scale in operations.*
 
 <aside class="wiki-infobox">
 
@@ -84,7 +84,7 @@ Multifamily properties are classified by vintage, condition, location, and tenan
 
 **Class C**: 20+ years old, secondary locations, mixed-credit tenants, 6–7% cap rates, $800–$1,200/month rents.
 
-**Workforce**: Intentionally maintained at affordability for lower-income tenants, often with government subsidies ([HUD](/wiki/hud-housing/) programs, [Low Income Housing Tax Credit](/wiki/low-income-housing-tax-credit/)), 3–5% cap rates due to subsidy security.
+**Workforce**: Intentionally maintained at affordability for lower-income tenants, often with government subsidies (HUD programs, Low Income Housing Tax Credit), 3–5% cap rates due to subsidy security.
 
 Higher cap rates reflect higher [risk](/wiki/risk-parity-strategy/) (Class C vacancy is more volatile) and lower growth. Class A offers lower yields but more stable cash flows.
 
@@ -96,7 +96,7 @@ Multifamily is typically leveraged 65–75%, with [mortgage](/wiki/mortgage-pers
 **NOI**: $800K (from the example above)
 **Cash flow to equity**: $800K − $400K = $400K, or 13% on $3M equity
 
-This [leverage](/wiki/leverage-ratio/) amplifies returns in rising rent environments but also amplifies downside risk if occupancy or rents decline.
+This leverage amplifies returns in rising rent environments but also amplifies downside risk if occupancy or rents decline.
 
 ## Key value-add strategies
 
@@ -136,7 +136,7 @@ Savvy operators lock in vendor contracts, relocate from high-tax jurisdictions (
 Multifamily cycles follow **supply and demand**:
 
 - **Supply driven by construction**: When cap rates are high (7%+) and rents are rising, developers build. New supply eventually saturates the market.
-- **Demand driven by household formation and migration**: Population growth, job creation in a city, and [remote work](/wiki/remote-work/) migration drive demand.
+- **Demand driven by household formation and migration**: Population growth, job creation in a city, and remote work migration drive demand.
 - **Rent cycle**: Tight supply → rising rents → high cap rates attract capital → overbuilding → rents soften → cap rates compress until development stops.
 
 In 2022–2024, many markets had overbuild cycles: abundant supply of new apartments competed for tenants, keeping rent growth flat and compression cap rates down to 4–5%, making new developments uneconomical.

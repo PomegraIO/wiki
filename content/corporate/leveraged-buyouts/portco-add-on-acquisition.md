@@ -105,7 +105,7 @@ Strategic buyers (competitors or larger platforms) often value add-on portfolios
 
 ### Wider context
 
-- [Private Equity Fund](//) — Capital vehicle funding platform and add-on acquisitions
+- Private Equity Fund — Capital vehicle funding platform and add-on acquisitions
 - [Leverage Ratio Forex](/leverage-ratio-forex/) — Financial metrics determining add-on financing capacity
 - [Debt-to-EBITDA Ratio](/debt-to-ebitda-ratio/) — Leverage constraint on add-on acquisition capacity
 - [Return on Invested Capital](/return-on-invested-capital/) — Metric assessing add-on synergy value creation

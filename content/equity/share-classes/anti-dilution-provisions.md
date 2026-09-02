@@ -173,6 +173,6 @@ A company might covenant not to issue below a certain price, eliminating the ant
 <ul>
   <li><a href="/wiki/venture-capital-fund/">Venture Capital Fund</a> — primary negotiator of anti-dilution terms.</li>
   <li><a href="/wiki/capital-structure-arbitrage/">Capital Structure Arbitrage</a> — sometimes exploits asymmetric anti-dilution protections.</li>
-  <li><a href="/wiki/dilution/">Dilution</a> — the phenomenon that anti-dilution provisions address.</li>
+  <li>Dilution — the phenomenon that anti-dilution provisions address.</li>
 </ul>
 </div>

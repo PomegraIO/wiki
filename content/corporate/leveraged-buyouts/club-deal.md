@@ -33,7 +33,7 @@ image: /svg/corporate.svg
 
 ## How a club deal is structured
 
-In a club deal, the acquiring sponsors form a [holding company](//) or partnership that becomes the legal owner of the target. Each sponsor commits capital equal to its ownership stake—typically 40–50% each in a two-sponsor deal, or split among three or more partners. Unlike a traditional syndicate where junior investors tag along on terms set by a lead sponsor, club members are peers: they share the governance board, vote on major decisions jointly (sometimes with veto rights), and contribute expertise proportionally.
+In a club deal, the acquiring sponsors form a holding company or partnership that becomes the legal owner of the target. Each sponsor commits capital equal to its ownership stake—typically 40–50% each in a two-sponsor deal, or split among three or more partners. Unlike a traditional syndicate where junior investors tag along on terms set by a lead sponsor, club members are peers: they share the governance board, vote on major decisions jointly (sometimes with veto rights), and contribute expertise proportionally.
 
 The purchase financing typically comes from a mix of sponsor equity, bank debt, and sometimes mezzanine capital. Because the sponsors are co-equal, lenders negotiate leverage ratios and covenant terms with the partnership as a whole. This can actually lower the cost of debt relative to a single-sponsor deal, since the combined balance sheet and business network of two or three large sponsors is creditworthy.
 
@@ -55,7 +55,7 @@ Exit timing is another flashpoint. If one sponsor wants to sell after three year
 
 ## Club deals versus consortium structures
 
-A club deal differs from a looser [consortium](//) or equity syndicate. In a syndicate, a lead sponsor (say, a $10bn fund) puts down 60–70% of equity and recruits smaller sponsors to fill out the round. The lead sets terms and controls the board; juniors have limited voting rights. In a club, partners are genuinely co-equal and negotiate as peers.
+A club deal differs from a looser consortium or equity syndicate. In a syndicate, a lead sponsor (say, a $10bn fund) puts down 60–70% of equity and recruits smaller sponsors to fill out the round. The lead sets terms and controls the board; juniors have limited voting rights. In a club, partners are genuinely co-equal and negotiate as peers.
 
 Club deals also differ from secondaries or continuation funds, where limited partners in an existing portfolio company bring in fresh capital but remain passive. Club partners are active, co-governing investors who sign the partnership agreement and bear reputational risk together.
 
@@ -80,8 +80,8 @@ Another risk is that one partner's reputation or financial stress can damage the
 - [Leveraged Buyout Sponsor](/lbo-sponsor/) — The PE firm that structures and leads the acquisition
 - [Add-On Acquisition](/portco-add-on-acquisition/) — Bolt-on purchases by a club-deal portfolio company to build scale
 - [Management Incentive Plan](/management-incentive-plan/) — Equity pools for managers in PE-backed companies, including club deals
-- [Leveraged Buyout](//) — The general technique of buying a company with substantial debt and sponsor equity
-- [Private Equity Fund](//) — The main vehicle PE sponsors use to deploy capital and manage deals
+- Leveraged Buyout — The general technique of buying a company with substantial debt and sponsor equity
+- Private Equity Fund — The main vehicle PE sponsors use to deploy capital and manage deals
 
 ### Wider context
 

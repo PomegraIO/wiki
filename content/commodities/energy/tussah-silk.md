@@ -8,7 +8,7 @@ keywords:
   - silk price dynamics
 ---
 
-*A **tussah silk** is a fiber produced by wild silkworms—chiefly *Antheraea mylitta* and *Antheraea assama*—found in forests across India, China, and Southeast Asia. Tussah differs from [mulberry silk](/wiki/silk-commodity/) in color (brown tones), coarseness, and production: it is hand-harvested from cocoons in nature rather than cultivated on domestic silkworm farms. Tussah grades and pricing reflect regional origin, color, and fineness.*
+*A **tussah silk** is a fiber produced by wild silkworms—chiefly *Antheraea mylitta* and *Antheraea assama*—found in forests across India, China, and Southeast Asia. Tussah differs from mulberry silk in color (brown tones), coarseness, and production: it is hand-harvested from cocoons in nature rather than cultivated on domestic silkworm farms. Tussah grades and pricing reflect regional origin, color, and fineness.*
 
 <div class="wiki-hatnote">
 Tussah is sometimes spelled tasar or tussar. The term encompasses fibers from various wild Antheraea species across Asia and Africa.
@@ -30,7 +30,7 @@ Tussah is sometimes spelled tasar or tussar. The term encompasses fibers from va
 
 ## Production and harvest
 
-Tussah cocoons are harvested from wild or semi-managed forest habitats. Collectors climb trees or scout forest floors to locate cocoons before pupae emerge. The cocoons are dried (killed by heat or sun-exposure) and stored. Unlike [mulberry silk](/wiki/silk-commodity/), where sericulturalists unwind cocoons on industrial basins, tussah cocoons are often degummed and combed into staple fiber in loose-fiber workshops or handlooms.
+Tussah cocoons are harvested from wild or semi-managed forest habitats. Collectors climb trees or scout forest floors to locate cocoons before pupae emerge. The cocoons are dried (killed by heat or sun-exposure) and stored. Unlike mulberry silk, where sericulturalists unwind cocoons on industrial basins, tussah cocoons are often degummed and combed into staple fiber in loose-fiber workshops or handlooms.
 
 The harvest is labor-intensive and seasonal. In India, the monsoon (June–September) triggers cocoon emergence; harvests peak July–September. China's tussah season follows similar timing but with larger-scale collection infrastructure.
 
@@ -44,13 +44,13 @@ Tussah grades are assigned by color, fineness, and contamination:
 - **Grade B (good)**: Light brown or gray, acceptable uniformity, minor defects, 3.0–3.3 denier.
 - **Grade C (standard)**: Mixed or dull brown, visible vegetable matter, coarser fineness 3.3–3.8 denier.
 
-Pricing reflects grade and global supply. In recent years, A-grade tussah cocoons have fetched $25–$35 per kilogram (dried), while C-grade trades at $12–$20. Prices spike during tight supply (poor monsoon, disease outbreaks) and soften when competition from [mulberry](/wiki/silk-commodity/) increases or demand weakens.
+Pricing reflects grade and global supply. In recent years, A-grade tussah cocoons have fetched $25–$35 per kilogram (dried), while C-grade trades at $12–$20. Prices spike during tight supply (poor monsoon, disease outbreaks) and soften when competition from mulberry increases or demand weakens.
 
 Regional premiums vary: Indian tussah commands higher prices for mid-range grades due to reputation for consistent quality. Chinese tussah (from *Antheraea pernyi* in Guangxi and Yunnan provinces) is sometimes priced lower but competes on volume.
 
 ## Uses and markets
 
-**Textile blending**: Tussah fiber is often blended with [mulberry silk](/wiki/silk-commodity/) (typically 10–30% tussah) to add texture and reduce cost while maintaining some luster. 100% tussah fabrics are marketed as "wild silk" or "textured silk" in eco-conscious niches.
+**Textile blending**: Tussah fiber is often blended with mulberry silk (typically 10–30% tussah) to add texture and reduce cost while maintaining some luster. 100% tussah fabrics are marketed as "wild silk" or "textured silk" in eco-conscious niches.
 
 **Home textiles**: Tussah is used in blankets, scarves, and throws where a rustic, nubby feel is marketable.
 
@@ -72,11 +72,11 @@ Global tussah supply is volatile due to weather, pests, and government policy. A
 
 Tussah cocoon prices typically trade with a 3–6 month lag to fabric demand. A spike in apparel demand in Q1 translates to cocoon procurement in Q2–Q3, pushing prices 3–6 months later. This lag creates opportunities for [hedging](/wiki/commodity-price-hedging/) but also for mismatches if demand shifts.
 
-Prices also correlate inversely with synthetic-fiber costs. When [polyester](/wiki/synthetic-stablecoins/) prices rise, apparel makers shift to silk blends, pushing tussah demand up. Conversely, cheap synthetic fibers displace tussah in price-sensitive markets.
+Prices also correlate inversely with synthetic-fiber costs. When polyester prices rise, apparel makers shift to silk blends, pushing tussah demand up. Conversely, cheap synthetic fibers displace tussah in price-sensitive markets.
 
 ## Sustainability and certification
 
-Tussah is marketed as "wild" and thus eco-friendly, but certification is limited. The Silk Mark, issued by India's Silk Board, certifies origin and basic quality but does not audit forest sustainability. "Peace silk" (cocoons harvested alive) is often unverified; most commercial tussah still involves stifling (killing pupae) before spinning, the same as [mulberry](/wiki/silk-commodity/).
+Tussah is marketed as "wild" and thus eco-friendly, but certification is limited. The Silk Mark, issued by India's Silk Board, certifies origin and basic quality but does not audit forest sustainability. "Peace silk" (cocoons harvested alive) is often unverified; most commercial tussah still involves stifling (killing pupae) before spinning, the same as mulberry.
 
 The future of tussah as a sustainable commodity rests on stronger certification, traceability, and pricing premiums that justify higher-cost sustainable practices. Currently, price-sensitive markets (blended apparel, home textiles) dominate, limiting tussah's premium positioning.
 
@@ -95,7 +95,7 @@ The future of tussah as a sustainable commodity rests on stronger certification,
 <div class="wiki-seealso">
 
 ### Closely related
-- [Silk commodity](/wiki/silk-commodity/) — Broader category encompassing tussah and mulberry
+- Silk commodity — Broader category encompassing tussah and mulberry
 - [Commodity pricing](/wiki/commodity-price-hedging/) — Dynamics of tussah price moves
 - [Commodity futures](/wiki/commodity-futures-rolling/) — Tussah futures traded in India (not global)
 - [Seasonal commodities](/wiki/livestock-seasonal-patterns/) — Tussah's monsoon harvest cycle

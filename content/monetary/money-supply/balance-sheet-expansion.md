@@ -58,7 +58,7 @@ The Fed's balance sheet peaked at roughly $7.2 trillion in June 2022 (post-pande
 
 The mechanisms by which expanded central bank assets stimulate real spending remain contested:
 
-**1. Portfolio rebalancing:** By removing duration risk from portfolios (the Fed buys long bonds, reducing supply), investors shift into equities and other risk assets, boosting [asset prices](/wiki/market-capitalization/) and [wealth](/wiki/net-asset-value/). Higher stock prices increase household [net worth](/wiki/net-worth-calculation/) and encourage spending.
+**1. Portfolio rebalancing:** By removing duration risk from portfolios (the Fed buys long bonds, reducing supply), investors shift into equities and other risk assets, boosting [asset prices](/wiki/market-capitalization/) and [wealth](/wiki/net-asset-value/). Higher stock prices increase household net worth and encourage spending.
 
 **2. Credit channel:** Lower bond yields reduce [borrowing costs](/wiki/cost-of-debt/) for households and firms. Mortgages, auto loans, and corporate [bond yields](/wiki/bond-yield-spread/) fall. Demand for credit-funded consumption and investment rises.
 

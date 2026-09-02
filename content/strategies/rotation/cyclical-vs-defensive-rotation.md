@@ -29,7 +29,7 @@ Real-world data confirms the pattern. During the 2020 pandemic recession, defens
 
 Practitioners measure cyclicality using [beta](/wiki/beta/) (correlation to the market) and earnings sensitivity to GDP growth. A stock with beta above 1.2 and earnings that swing 3–5 points for every 1 point of GDP movement is decidedly cyclical. Fund flows shift capital from [defensive ETFs](/wiki/defensive-etf/) to [cyclical value](/wiki/cyclical-value-timing/) funds and [growth funds](/wiki/growth-fund/) as the outlook brightens, and vice versa.
 
-Execution can happen at the sector level (rotating into Industrials and Energy, out of Utilities) or via dedicated [factor indices](/wiki/factor-etf/) that tilt toward cyclical or low-volatility defensives. The most mechanical approach is a [momentum](/wiki/momentum-investing/) rule: buy the [sector](/wiki/sector-rotation/) with the highest 6-month return if [relative strength](/wiki/relative-strength-investing/) is rising, then rebalance monthly. Discretionary approaches combine macro signals ([Fed policy](/wiki/monetary-policy/), [inflation](/wiki/inflation/), [sentiment indicators](/wiki/fear-index/)) with technicals ([moving averages](/wiki/moving-averages/), [trendlines](/wiki/trendline/)) to time entry and exit.
+Execution can happen at the sector level (rotating into Industrials and Energy, out of Utilities) or via dedicated [factor indices](/wiki/factor-etf/) that tilt toward cyclical or low-volatility defensives. The most mechanical approach is a [momentum](/wiki/momentum-investing/) rule: buy the [sector](/wiki/sector-rotation/) with the highest 6-month return if [relative strength](/wiki/relative-strength-investing/) is rising, then rebalance monthly. Discretionary approaches combine macro signals ([Fed policy](/wiki/monetary-policy/), [inflation](/wiki/inflation/), [sentiment indicators](/wiki/fear-index/)) with technicals (moving averages, [trendlines](/wiki/trendline/)) to time entry and exit.
 
 ## Pitfalls and frictions
 
@@ -53,8 +53,8 @@ Alternatively, some [all-weather portfolios](/wiki/all-weather-portfolio/) use a
 
 ### Wider context
 - [Factor Investing](/wiki/factor-investing/) — rotating between value, growth, momentum, and low-volatility exposures
-- [Macroeconomic Indicators](/wiki/macro-investing/) — GDP, unemployment, inflation, and yield curve as timing inputs
-- [Federal Reserve Policy](/wiki/federal-reserve-policy/) — interest rate and quantitative easing cycles that drive rotation signals
+- Macroeconomic Indicators — GDP, unemployment, inflation, and yield curve as timing inputs
+- Federal Reserve Policy — interest rate and quantitative easing cycles that drive rotation signals
 - [Economic Forecasting](/wiki/output-gap/) — estimating recession risk and growth momentum
 
 </div>

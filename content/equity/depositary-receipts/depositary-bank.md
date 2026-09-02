@@ -11,7 +11,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A **depositary bank** is the financial institution responsible for issuing and administering [depositary receipts](/equity/adr/) on behalf of a foreign company, sitting between the company and international investors as both custodian and service provider. The bank holds the underlying ordinary shares in the [custodian](/custodian-bank-adr/), issues receipts to investors, manages dividend reinvestment and currency conversion, and handles corporate actions.*
+*A **depositary bank** is the financial institution responsible for issuing and administering [depositary receipts](/adr/) on behalf of a foreign company, sitting between the company and international investors as both custodian and service provider. The bank holds the underlying ordinary shares in the [custodian](/custodian-bank-adr/), issues receipts to investors, manages dividend reinvestment and currency conversion, and handles corporate actions.*
 
 ## The bridge between markets
 

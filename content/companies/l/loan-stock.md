@@ -63,7 +63,7 @@ Additionally, the lender faces competition from hard-money lenders (10–18% rat
 
 ## Researching Manhattan Bridge Capital from a Borrower's Perspective
 
-A borrower or investor analyzing Manhattan Bridge should review its [10-K](/10-K/) (SEC CIK 1080340) to understand:
+A borrower or investor analyzing Manhattan Bridge should review its [10-K](/10-k/) (SEC CIK 1080340) to understand:
 
 - Loan portfolio composition: what types of properties (office, residential, mixed-use, land)? What geographies?
 - Loan loss reserves: does the company reserve enough for expected defaults? Are losses rising or falling?
@@ -82,7 +82,7 @@ Watch for: Are loan losses tracking historical averages, or spiking? Are borrowe
 
 ### Wider context
 - [Stock](/stock/) — LOAN trades on [NASDAQ](/nasdaq/) OTC; liquidity may be limited
-- [10-K](/10-K/) — review SEC filings for loan portfolio, loss reserves, and funding model
+- [10-K](/10-k/) — review SEC filings for loan portfolio, loss reserves, and funding model
 - [Balance sheet](/balance-sheet/) — assess Manhattan Bridge's [capital adequacy](/capital-adequacy/) and funding structure
 - [Real-estate cycles](/public-company/) — understand property-market correlation to lender profitability
 - [Return on equity](/return-on-equity/) — track lender's ROE relative to credit losses and cost of capital

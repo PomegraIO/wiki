@@ -7,7 +7,7 @@ description: "The degree to which two currency pairs move together, driven by sh
 
 ## Positive correlation and common drivers
 
-EUR/USD and GBP/USD are highly positively correlated—historically around +0.70 to +0.90 over rolling windows. Both pairs move on US [interest rates](/wiki/interest-rate/), [US economic data](/wiki/gdp-per-capita/), and risk sentiment. When the Federal Reserve signals tighter policy, both pairs weaken (the dollar strengthens against both). When risk appetite rises, both tend to appreciate. This correlation is not perfect (UK-specific factors like [Brexit](/wiki/brexit/) sentiment can decouple GBP/USD from EUR/USD), but it is strong enough that holding both pairs is partly redundant from a risk perspective.
+EUR/USD and GBP/USD are highly positively correlated—historically around +0.70 to +0.90 over rolling windows. Both pairs move on US [interest rates](/wiki/interest-rate/), [US economic data](/wiki/gdp-per-capita/), and risk sentiment. When the Federal Reserve signals tighter policy, both pairs weaken (the dollar strengthens against both). When risk appetite rises, both tend to appreciate. This correlation is not perfect (UK-specific factors like Brexit sentiment can decouple GBP/USD from EUR/USD), but it is strong enough that holding both pairs is partly redundant from a risk perspective.
 
 ## Negative correlation and risk diversification
 
@@ -29,7 +29,7 @@ Correlations shift over time. During normal periods, EUR/USD and USD/JPY might b
 
 ## Correlation and hedging
 
-A [corporation](/wiki/company/) with exposure to multiple currencies can use correlation to reduce hedging costs. If two currency pairs are highly positively correlated, hedging both might be expensive and redundant; hedging the dominant pair might be sufficient. If pairs are negatively correlated, holding both provides natural diversification (one move up offsets the other). Understanding correlations is key to efficient [currency risk management](/wiki/currency-risk/).
+A corporation with exposure to multiple currencies can use correlation to reduce hedging costs. If two currency pairs are highly positively correlated, hedging both might be expensive and redundant; hedging the dominant pair might be sufficient. If pairs are negatively correlated, holding both provides natural diversification (one move up offsets the other). Understanding correlations is key to efficient [currency risk management](/wiki/currency-risk/).
 
 ## Time-varying correlations and rolling windows
 

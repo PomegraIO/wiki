@@ -7,7 +7,7 @@ description: "A mutual fund that prioritizes dividend and interest income over c
 
 ## Income sources and allocation
 
-An income fund's returns come primarily from [dividend](/wiki/dividend/) payments and bond coupons rather than capital gains. The fund manager allocates assets across dividend-paying stocks (typically large-cap, mature companies), [bond](/wiki/bond/) (treasuries, corporate, or municipal), [preferred-stock](/wiki/preferred-stock/) (which pay fixed dividends), and sometimes [real-estate-investment-trust](/wiki/real-estate-investment-trust/) and [master-limited-partnership](/wiki/master-limited-partnership/) (both high-dividend vehicles). The specific mix depends on the fund's stated objective and risk tolerance.
+An income fund's returns come primarily from [dividend](/wiki/dividend/) payments and bond coupons rather than capital gains. The fund manager allocates assets across dividend-paying stocks (typically large-cap, mature companies), [bond](/wiki/bond/) (treasuries, corporate, or municipal), [preferred-stock](/wiki/preferred-stock/) (which pay fixed dividends), and sometimes [real-estate-investment-trust](/wiki/real-estate-investment-trust/) and master-limited-partnership (both high-dividend vehicles). The specific mix depends on the fund's stated objective and risk tolerance.
 
 ## Yield targeting and sustainability
 
@@ -50,7 +50,7 @@ Some "enhanced income" funds employ covered-call writing to boost yields above p
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/mutual-fund/">Mutual fund</a> — the broad category of pooled vehicles.</li>
-<li><a href="/wiki/retirement-income/">Retirement income</a> — key use case for income funds.</li>
+<li>Retirement income — key use case for income funds.</li>
 <li><a href="/wiki/asset-allocation/">Asset allocation</a> — income funds as a component of overall portfolio.</li>
 </ul>
 </div>

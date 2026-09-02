@@ -65,6 +65,6 @@ One caveat for buy-and-hold: inflation risk remains. A 10-year bond yielding 3% 
 <ul>
 <li><a href="/wiki/treasury-bond/">Treasury Bond</a> — ideal instruments for buy-and-hold.</li>
 <li><a href="/wiki/inflation/">Inflation</a> — the residual risk in buy-and-hold bond portfolios.</li>
-<li><a href="/wiki/fixed-income/">Fixed Income</a> — the asset class where buy-and-hold is most common.</li>
+<li>Fixed Income — the asset class where buy-and-hold is most common.</li>
 </ul>
 </div>

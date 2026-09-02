@@ -55,7 +55,7 @@ Conversely, when the currency is too strong and the CB wants to weaken it (and a
 
 ## Inflation and long-term consequences
 
-The key risk of unsterilized intervention is inflation. By expanding the monetary base without a corresponding increase in goods and services, the CB pushes the economy toward higher [inflation](/wiki/inflation/). The [Phillips curve](/wiki/phillips-curve-unemployment/) trade-off suggests that lower unemployment and stronger growth come with higher inflation. Unsterilized intervention makes that trade-off explicit: faster growth and currency stability, but at the cost of rising prices.
+The key risk of unsterilized intervention is inflation. By expanding the monetary base without a corresponding increase in goods and services, the CB pushes the economy toward higher [inflation](/wiki/inflation/). The Phillips curve trade-off suggests that lower unemployment and stronger growth come with higher inflation. Unsterilized intervention makes that trade-off explicit: faster growth and currency stability, but at the cost of rising prices.
 
 Over time, if the CB continues to loosen via unsterilized FX purchases, the real exchange rate may adjust through inflation rather than nominal currency appreciation. Workers demand higher wages because prices are rising, and competitiveness on global markets erodes. This is why developed-market CBs avoid chronic unsterilized intervention.
 

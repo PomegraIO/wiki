@@ -55,7 +55,7 @@ A fiduciary who violates this duty can face civil lawsuits (for restitution) or,
 - Coma after an accident; family needs to access accounts, continue mortgage payments, manage business.
 - Military deployment or extended travel; you want someone to handle affairs.
 
-Without a POA, courts must appoint a [conservator or guardian](/wiki/guardianship/) through a slow, expensive process. A pre-drafted POA avoids this.
+Without a POA, courts must appoint a conservator or guardian through a slow, expensive process. A pre-drafted POA avoids this.
 
 **Common uses:**
 - Pay bills and manage bank accounts.
@@ -140,8 +140,8 @@ A POA does not override a will. If you die, the POA terminates and the will's ex
 - [Healthcare Proxy](/wiki/living-will/) — Healthcare counterpart to financial POA
 
 ### Wider context
-- [Estate Planning](/wiki/estate-planning/) — Broader planning framework
-- [Guardianship and Conservatorship](/wiki/estate-planning/) — Alternative if no POA exists
+- Estate Planning — Broader planning framework
+- Guardianship and Conservatorship — Alternative if no POA exists
 - [Incapacity Planning](/wiki/living-will/) — Preparing for disability
 - [Probate Process](/wiki/probate-process/) — What happens without planning
 - [Trust Establishment](/wiki/trust-establishment/) — Alternative to POA for asset management

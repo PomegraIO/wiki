@@ -93,7 +93,7 @@ On short timeframes (intraday), wedges form and break in hours. On longer timefr
 - [Pennant Pattern](/wiki/pennant-pattern/) — Small apex triangle
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis-methods/) — Pattern foundation
+- Technical Analysis — Pattern foundation
 - [Breakout Trading](/wiki/breakout-trading/) — Strategy for trading the pattern
 - [Support and Resistance](/wiki/support-and-resistance/) — Trendline basis
 - [Volume](/wiki/obv-on-balance-volume/) — Confirmation signal

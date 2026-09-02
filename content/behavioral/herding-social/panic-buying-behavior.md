@@ -41,7 +41,7 @@ Similarly, GameStop's 2021 squeeze was partly driven by genuine [short-squeeze](
 
 The [cryptocurrency bubble 2017](/wiki/cryptocurrency-bubble-2017/) featured panic buying of [Bitcoin](/wiki/bitcoin/) and [altcoins](/wiki/ethereum/) with no underlying cash flows or utility. Buyers admitted openly they had no investment thesis; they were buying because "others were buying" and feared missing gains. Prices rose 10x in months, then fell 80% when panic reversed to panic selling.
 
-[Meme stocks](/wiki/reddit-traders/) (GameStop, AMC, heavily shorted names) saw coordinated retail buying driven by the "us vs. hedge funds" narrative rather than fundamental analysis. The panic buying was collectively enforced through social media, creating [information cascades](/wiki/information-cascade/). When attention waned and early panic buyers cashed in gains, the remaining cohort was left holding inflated positions.
+Meme stocks (GameStop, AMC, heavily shorted names) saw coordinated retail buying driven by the "us vs. hedge funds" narrative rather than fundamental analysis. The panic buying was collectively enforced through social media, creating [information cascades](/wiki/information-cascade/). When attention waned and early panic buyers cashed in gains, the remaining cohort was left holding inflated positions.
 
 ## The role of information cascades and FOMO
 

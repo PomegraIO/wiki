@@ -31,9 +31,9 @@ For deflation (negative inflation), see [Deflation](/wiki/deflation/). For the b
 
 ## How disinflation unfolds
 
-In the years after 2020, the US experienced rapid [inflation](/wiki/inflation/)—rising from 1% in 2021 to 9% in mid-2022 due to [supply chain disruptions](/wiki/supply-chain/), [fiscal stimulus](/wiki/fiscal-policy-expansionary/), and accommodative [monetary policy](/wiki/monetary-policy-tools/). The Fed responded by raising [interest rates](/wiki/federal-funds-rate/) sharply from near-zero to over 5% in 18 months.
+In the years after 2020, the US experienced rapid [inflation](/wiki/inflation/)—rising from 1% in 2021 to 9% in mid-2022 due to supply chain disruptions, [fiscal stimulus](/wiki/fiscal-policy-expansionary/), and accommodative [monetary policy](/wiki/monetary-policy-tools/). The Fed responded by raising [interest rates](/wiki/federal-funds-rate/) sharply from near-zero to over 5% in 18 months.
 
-As rates rose, growth slowed, employment stayed resilient, and [commodity prices](/wiki/commodity-hedging/) retreated from spikes. Wage growth, which had accelerated, began to moderate. By late 2023, [consumer price inflation](/wiki/consumer-price-index/) had fallen toward 3–4%, still above the Fed's 2% target but trending downward. This is disinflation: prices are rising, but the *pace of rise* is decelerating.
+As rates rose, growth slowed, employment stayed resilient, and commodity prices retreated from spikes. Wage growth, which had accelerated, began to moderate. By late 2023, [consumer price inflation](/wiki/consumer-price-index/) had fallen toward 3–4%, still above the Fed's 2% target but trending downward. This is disinflation: prices are rising, but the *pace of rise* is decelerating.
 
 ## Disinflation vs. deflation vs. inflation
 
@@ -47,7 +47,7 @@ Most developed economies spend most of their time in disinflation or low-inflati
 
 **Bonds outperform**: In disinflation, [yields](/wiki/yield-to-maturity/) tend to fall as central bank confidence grows and inflation expectations recede. A [bond](/wiki/bond/) with 4% coupon becomes more valuable (in mark-to-market terms) as new bonds are issued with 2% coupons. Bond investors capture both coupon returns and price appreciation—the "double whammy" of disinflation.
 
-**Growth stocks rally**: Falling [interest rates](/wiki/interest-rate/) reduce the [discount rate](/wiki/discount-rate/) used in [discounted cash flow](/wiki/discounted-cash-flow-valuation/) models, supporting [growth stocks](/wiki/growth-investing/) and [tech](/wiki/technology-stocks/). A software company with high future cash flows becomes more valuable when those cash flows are discounted at 2% instead of 5%.
+**Growth stocks rally**: Falling [interest rates](/wiki/interest-rate/) reduce the [discount rate](/wiki/discount-rate/) used in [discounted cash flow](/wiki/discounted-cash-flow-valuation/) models, supporting [growth stocks](/wiki/growth-investing/) and tech. A software company with high future cash flows becomes more valuable when those cash flows are discounted at 2% instead of 5%.
 
 **Cyclicals and commodities lag**: Cyclical industries (industrials, energy) depend on economic growth and inflation. If disinflation is driven by slowing demand, cyclicals underperform. If disinflation is driven by falling commodity costs (e.g., oil from $120 to $60), energy stocks suffer especially.
 

@@ -78,6 +78,6 @@ Additionally, the rise of liquid alternatives (hedge fund-like strategies offere
 <ul>
   <li><a href="/wiki/mutual-fund/">Mutual fund</a> — a lower-fee alternative structure.</li>
   <li><a href="/wiki/etf/">ETF</a> — often cheaper than hedge funds.</li>
-  <li><a href="/wiki/incentive-structures/">Incentive structures</a> — the economic model behind hedge fund compensation.</li>
+  <li>Incentive structures — the economic model behind hedge fund compensation.</li>
 </ul>
 </div>

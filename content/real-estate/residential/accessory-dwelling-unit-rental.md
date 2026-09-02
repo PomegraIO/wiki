@@ -100,7 +100,7 @@ Some owners use ADU income to fund primary residence pay-down, creating a hybrid
 
 ### Closely related
 
-- [Rental property](/wiki/real-estate-investment/) — Broader strategy of owning residential property for income
+- Rental property — Broader strategy of owning residential property for income
 - [Home equity line of credit](/wiki/home-equity-line-of-credit/) — Financing mechanism for ADU construction
 - [Depreciation](/wiki/depreciation/) — Tax deduction on ADU portion
 - [Passive loss limitation](/wiki/passive-loss-limitation-real-estate/) — Constraints on using ADU losses

@@ -34,7 +34,7 @@ This creates an implicit bargain with public shareholders: you get economic part
 
 ## Governance implications
 
-Critics argue dual-class structures weaken corporate governance. With insiders holding disproportionate votes, [board of directors](/wiki/board-of-directors/) elections are largely ceremonial—founders pick the board, shareholders can't dislodge it. [Executive compensation](/wiki/executive-compensation/), [related-party transactions](/wiki/related-party-disclosure/), and strategic decisions flow from founders' preferences, not shareholder pressure.
+Critics argue dual-class structures weaken corporate governance. With insiders holding disproportionate votes, [board of directors](/wiki/board-of-directors/) elections are largely ceremonial—founders pick the board, shareholders can't dislodge it. Executive compensation, [related-party transactions](/wiki/related-party-disclosure/), and strategic decisions flow from founders' preferences, not shareholder pressure.
 
 The risk is captured in the saying: "You're not buying a company, you're betting on a person." If the founder makes bad calls, minority shareholders have limited recourse. The founder can dilute shareholder value, sell to a preferred acquirer (perhaps at favorable terms to insiders), or simply make poor strategic bets. Recapitalizations can shift value from Class B to Class A.
 
@@ -76,7 +76,7 @@ On founder death or transition, the structure sometimes explicitly requires suns
 
 ### Wider context
 - [Hostile Takeover](/wiki/hostile-takeover/) — Threat that dual-class prevents
-- [Executive Compensation](/wiki/executive-compensation/) — Unchecked by minority voters in dual-class
+- Executive Compensation — Unchecked by minority voters in dual-class
 - [Related Party Disclosure](/wiki/related-party-disclosure/) — More critical in dual-class
 - [Share Repurchase Program](/wiki/share-repurchase-program/) — Tool that can entrench insiders
 

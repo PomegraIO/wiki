@@ -41,7 +41,7 @@ Resource-extraction companies face textbook timing-option decisions. An oil prod
 
 ## Constraints and trade-offs
 
-Timing options are not free. Competitors may invest first, capturing [market share](/wiki/market-capitalization/). First-mover advantage in technology or branding can dwarf the optionality benefit. A pharmaceutical firm with a patented drug cannot wait forever; the [patent cliff](/wiki/patent-cliff/) is unmovable. Waiting also exposes the firm to [negative carry](/wiki/carry-trade/) costs—rent, interest, or maintenance on an idle asset. A real estate project sitting undeveloped incurs property tax and opportunity cost.
+Timing options are not free. Competitors may invest first, capturing [market share](/wiki/market-capitalization/). First-mover advantage in technology or branding can dwarf the optionality benefit. A pharmaceutical firm with a patented drug cannot wait forever; the patent cliff is unmovable. Waiting also exposes the firm to [negative carry](/wiki/carry-trade/) costs—rent, interest, or maintenance on an idle asset. A real estate project sitting undeveloped incurs property tax and opportunity cost.
 
 Regulatory changes add time limits. A [zoning](/wiki/real-estate-investment-trust/) decision might expire or be revoked. Environmental permitting windows open and close. The timing option is only valuable if the window remains open. Conversely, first-to-market subsidies or [tax credits](/wiki/tax-loss-harvesting/) create hard deadlines that eliminate deferral optionality entirely.
 
@@ -53,7 +53,7 @@ In practice, analysts often build two-stage or three-stage [discounted cash flow
 
 ## Real-world examples across sectors
 
-A biotech firm executing Phase 3 trials on a [drug candidate](/wiki/drug-candidate/) holds a timing option on manufacturing-scale investment. If the trial fails, the option expires worthless. If it succeeds, the firm invests in production capacity. The option value justifies the Phase 2 and Phase 3 spend. A venture capital firm's portfolio of seed-stage startups is a portfolio of timing options; most will fail, but a few will hit inflection points that justify growth capital. A mining company sitting on an ore body while commodity prices are depressed is implicitly holding a real timing option—low prices truncate the option's horizon, but high-variance commodity cycles extend it.
+A biotech firm executing Phase 3 trials on a drug candidate holds a timing option on manufacturing-scale investment. If the trial fails, the option expires worthless. If it succeeds, the firm invests in production capacity. The option value justifies the Phase 2 and Phase 3 spend. A venture capital firm's portfolio of seed-stage startups is a portfolio of timing options; most will fail, but a few will hit inflection points that justify growth capital. A mining company sitting on an ore body while commodity prices are depressed is implicitly holding a real timing option—low prices truncate the option's horizon, but high-variance commodity cycles extend it.
 
 The clearest case is [acquisition](/wiki/acquisition/) timing. A private equity firm evaluates a buyout target and observes that cyclical indicators suggest an earnings trough. Waiting one year—paying carry costs but preserving the option—allows the firm to buy at a lower [EV/EBITDA multiple](/wiki/ev-to-ebitda/) and sell at a higher one, compounding the [realized return](/wiki/exit-multiple-terminal-value/). This is option exercise at its most transparent: defer, observe, and act when the threshold is crossed.
 
@@ -66,7 +66,7 @@ The clearest case is [acquisition](/wiki/acquisition/) timing. A private equity 
 - [Strategic Option Value](/wiki/strategic-option-value/) — Broader concept of strategic deferral rights
 
 ### Wider context
-- [Capital Allocation](/wiki/capital-allocation/) — Strategic deployment of capital across opportunities
+- Capital Allocation — Strategic deployment of capital across opportunities
 - [Discounted Cash Flow Valuation](/wiki/discounted-cash-flow-valuation/) — Static baseline DCF approach
 - [Uncertainty and Decision-Making](/wiki/volatility-smile/) — How uncertainty shapes optimal decisions
 - [Market Timing](/wiki/market-timing/) — Tactical timing of trades versus strategic timing of investment

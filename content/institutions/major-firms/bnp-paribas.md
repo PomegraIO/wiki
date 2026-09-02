@@ -85,7 +85,7 @@ The bank's strategy emphasizes European footprint, deep relationships with multi
 
 ### Wider context
 
-- [Investment banking](/wiki//) — Advisory and capital markets services
+- Investment banking — Advisory and capital markets services
 - [Wealth management](/wiki/endowment-fund-structure/) — Asset management division
 - [Mortgage-backed security](/wiki/mortgage-backed-security/) — Exposure during the 2008 crisis
 - [Lehman Brothers collapse](/wiki/lehman-brothers-collapse/) — The crisis that BNP Paribas weathered

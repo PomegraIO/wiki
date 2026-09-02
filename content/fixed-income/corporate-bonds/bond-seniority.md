@@ -24,7 +24,7 @@ In a company's capital structure, claims on assets stack in a specific order:
 
 1. **Secured senior debt.** Bonds backed by specific assets (machinery, real estate, accounts receivable). In bankruptcy, these bondholders seize the collateral first.
 
-2. **Unsecured senior debt.** General [corporate bonds](/wiki/corporate-bonds/) with no collateral but a senior claim on remaining assets after secured lenders are paid.
+2. **Unsecured senior debt.** General corporate bonds with no collateral but a senior claim on remaining assets after secured lenders are paid.
 
 3. **Subordinated debt.** Bonds explicitly junior to senior debt; they're paid only after senior creditors are satisfied.
 

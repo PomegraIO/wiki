@@ -8,7 +8,7 @@ keywords:
   - investment psychology
 ---
 
-*The **disposition effect** is a [behavioral bias](/wiki/behavioral-finance/) wherein investors sell profitable positions too quickly to lock in gains but hold onto losing positions in hopes of recovery, leading to suboptimal portfolio outcomes and tax inefficiency.*
+*The **disposition effect** is a behavioral bias wherein investors sell profitable positions too quickly to lock in gains but hold onto losing positions in hopes of recovery, leading to suboptimal portfolio outcomes and tax inefficiency.*
 
 <aside class="wiki-infobox">
 
@@ -30,7 +30,7 @@ This asymmetry — eagerness to realize gains, reluctance to realize losses — 
 
 ## Empirical evidence and scale
 
-Academic research by [behavioral finance](/wiki/behavioral-finance/) scholars has documented this pattern extensively. Investors systematically have a **higher probability of selling a winner than a loser** in any given month. On average, stocks sold are outperformed by stocks held by 3–5% annually in the year following sale. Even individual [day traders](/wiki/day-trading/), who lack the self-control constraints of buy-and-hold investors, exhibit the disposition effect, proving it is not merely a side effect of inertia but a deep cognitive bias.
+Academic research by behavioral finance scholars has documented this pattern extensively. Investors systematically have a **higher probability of selling a winner than a loser** in any given month. On average, stocks sold are outperformed by stocks held by 3–5% annually in the year following sale. Even individual [day traders](/wiki/day-trading/), who lack the self-control constraints of buy-and-hold investors, exhibit the disposition effect, proving it is not merely a side effect of inertia but a deep cognitive bias.
 
 ## Tax inefficiency
 
@@ -50,7 +50,7 @@ During [momentum](/wiki/momentum-investing/) rallies, the disposition effect can
 
 ## Strategies to overcome the bias
 
-Institutional investors and [robo-advisors](/wiki/robo-advisors/) mitigate the disposition effect through:
+Institutional investors and robo-advisors mitigate the disposition effect through:
 
 - **Algorithmic rebalancing**: [Calendar-based](/wiki/calendar-rebalancing/) or [threshold-based](/wiki/threshold-rebalancing/) rebalancing removes emotion.
 - **Tax-loss harvesting automation**: Sell losses systematically to generate [tax offsets](/wiki/tax-loss-harvesting/).
@@ -68,7 +68,7 @@ Individual investors can fight the bias by keeping a trading journal, setting pr
 - [Holding Period](/wiki/holding-period/) — duration between purchase and sale
 
 ### Wider context
-- [Behavioral Finance](/wiki/behavioral-finance/) — psychology in financial markets
+- Behavioral Finance — psychology in financial markets
 - [Tax-Loss Harvesting](/wiki/tax-loss-harvesting/) — automated loss realization for tax benefit
 - [Portfolio Rebalancing](/wiki/asset-rebalancing/) — disciplined approach to managing positions
 - [Systematic Investing](/wiki/systematic-investing/) — rules-based discipline

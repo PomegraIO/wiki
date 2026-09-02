@@ -45,7 +45,7 @@ For Western investors, Maitong Sunshine's appeal partly hinges on whether Chines
 
 ## What the 10-K Reveals About Customer Relationships
 
-Investors reading Maitong Sunshine's [10-K](/10-K/) will find information about the company's major broadcast or streaming partners—which networks carry its content and what percentage of revenue comes from each. [Concentration risk](/concentration-risk/) is high: if the company depends on three broadcasters for eighty percent of revenue, disruption in any relationship materially damages the business. The filing will disclose pipeline: how many projects are in development or production, which gives insight into future revenue visibility.
+Investors reading Maitong Sunshine's [10-K](/10-k/) will find information about the company's major broadcast or streaming partners—which networks carry its content and what percentage of revenue comes from each. [Concentration risk](/concentration-risk/) is high: if the company depends on three broadcasters for eighty percent of revenue, disruption in any relationship materially damages the business. The filing will disclose pipeline: how many projects are in development or production, which gives insight into future revenue visibility.
 
 Production costs and profitability by show reveal which content formats work financially. If variety shows are consistently profitable but dramas lose money, the company will tilt toward variety. Cash flow and working capital show whether the company finances production internally or raises capital project by project.
 

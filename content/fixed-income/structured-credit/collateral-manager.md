@@ -10,7 +10,7 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*A **collateral manager** is an [asset management](//) firm tasked with the day-to-day oversight and active management of a collateralised loan obligation's or collateralised debt obligation's loan portfolio. The manager has the authority to buy, sell, and swap loans within the deal's eligibility guidelines and covenants, aiming to maintain [credit quality](/credit-rating/), sustain interest income, and keep the [overcollateralization](/over-collateralization-test/) and [interest coverage](/interest-coverage-test/) tests in compliance. The manager is accountable to the [trustee](/), noteholders, and the fund's other investors.*
+*A **collateral manager** is an asset management firm tasked with the day-to-day oversight and active management of a collateralised loan obligation's or collateralised debt obligation's loan portfolio. The manager has the authority to buy, sell, and swap loans within the deal's eligibility guidelines and covenants, aiming to maintain [credit quality](/credit-rating/), sustain interest income, and keep the [overcollateralization](/over-collateralization-test/) and [interest coverage](/interest-coverage-test/) tests in compliance. The manager is accountable to the [trustee](/), noteholders, and the fund's other investors.*
 
 <div class="wiki-hatnote">
 
@@ -55,7 +55,7 @@ Every CLO indenture includes a detailed **eligibility matrix** that constrains t
 - **Maximum [leverage ratio](/leverage-ratio-forex/)**—a borrower cannot exceed a certain multiple of [EBITDA](/ebitda/), e.g., 6.5x leverage. This caps the riskiness of individual positions.
 - **Industry concentration limits**—no single sector can represent more than 5–10% of the portfolio by par value. This prevents sector bets.
 - **Country and currency exposure**—CLOs often require most loans to be denominated in US dollars and to US (or other developed-market) borrowers, limiting [currency risk](/currency-risk/).
-- **Covenant quality**—the loans must have "adequate" covenants: [change-of-control](//) clauses, financial maintenance covenants, and restrictions on additional [debt](/debt-financing/).
+- **Covenant quality**—the loans must have "adequate" covenants: change-of-control clauses, financial maintenance covenants, and restrictions on additional [debt](/debt-financing/).
 - **Loan type**—some CLOs prefer "first lien" loans (secured by a company's best assets) over "second lien" or "unitranche" loans (lower in the capital structure).
 
 The manager checking these boxes on every potential purchase is tedious but necessary. If the manager buys a non-compliant loan and the [trustee](/)/servicer catches it, the loan may need to be sold immediately or the manager may face a formal breach. The [credit rating](/credit-rating/) agencies and noteholders monitor eligibility closely, because violations signal either negligence or hidden deterioration in the portfolio.
@@ -82,7 +82,7 @@ The manager also must decide **what to buy**: should the manager focus on new-mo
 
 The collateral manager typically earns a **base management fee**—often 0.25% to 0.50% per annum of [net asset value](/net-asset-value/) or assets under management. On a $500 million CLO, that is $1.25 to $2.5 million per year, a substantial revenue stream.
 
-Many CLOs also include a **performance fee** or **incentive fee** tied to the fund's total return or to the [IRR](//) delivered to equity investors. If the fund performs well, the manager earns a bonus. If the fund underperforms, the bonus is reduced or foregone. These incentive fees are crucial in aligning the manager's interests with the equity holders'.
+Many CLOs also include a **performance fee** or **incentive fee** tied to the fund's total return or to the IRR delivered to equity investors. If the fund performs well, the manager earns a bonus. If the fund underperforms, the bonus is reduced or foregone. These incentive fees are crucial in aligning the manager's interests with the equity holders'.
 
 Conversely, some CLOs impose **clawback provisions**: if the manager's fees and incentive income cause the fund to fall out of compliance with its leverage tests, the manager must "claw back" or defer fees until compliance is restored. This is a powerful tool to keep the manager focused on metrics like the [overcollateralization test](/over-collateralization-test/) and [interest coverage test](/interest-coverage-test/).
 
@@ -90,12 +90,12 @@ Conversely, some CLOs impose **clawback provisions**: if the manager's fees and 
 
 When a portfolio weakens—multiple defaults, [spreads](/credit-spread/) blow out, [coverage tests](/interest-coverage-test/) breach—the manager's mandate becomes crisis management. The manager must work with the [trustee](/), the servicer, and sometimes a workout team to:
 
-- **Accelerate collections** from defaulted loans, negotiating with [distressed](//) borrowers for cash recovery or [forbearance](/)/standstill agreements.
+- **Accelerate collections** from defaulted loans, negotiating with distressed borrowers for cash recovery or [forbearance](/)/standstill agreements.
 - **Sell weak credits** in a difficult market, accepting haircuts to raise cash.
 - **Reduce the portfolio's size** in an orderly way, redirecting all principal to noteholders as the [amortization](/amortization/) period begins.
 - **Negotiate restructurings** with the largest borrowers, if their default would trigger a cascade of write-downs.
 
-In severe cases, the [collateral manager](/collateral-manager/) may be replaced by a **successor manager** or an external **workout specialist**. A CBE (Central Bankruptcy Exchange) or a specialized [workout shop](//) might take control of the portfolio to maximize recoveries and minimize losses to noteholders. This is a rare but not unheard-of outcome in old CLOs that have deteriorated severely.
+In severe cases, the [collateral manager](/collateral-manager/) may be replaced by a **successor manager** or an external **workout specialist**. A CBE (Central Bankruptcy Exchange) or a specialized workout shop might take control of the portfolio to maximize recoveries and minimize losses to noteholders. This is a rare but not unheard-of outcome in old CLOs that have deteriorated severely.
 
 ## Accountability and transparency
 
@@ -130,7 +130,7 @@ In the modern era, [collateral managers](/collateral-manager/) are increasingly 
 - Collateralised Loan Obligation — the primary vehicle for collateral manager discretion
 - Collateralised Debt Obligation — similar structure with comparable management roles
 - [Securitization](/securitization/) — the broader framing for CLO management
-- [Asset Management](//) — the discipline and profession of the collateral manager
+- Asset Management — the discipline and profession of the collateral manager
 - [Credit Risk](/credit-risk/) — the primary risk the manager is hired to mitigate
 
 </div>

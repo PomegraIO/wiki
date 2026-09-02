@@ -46,7 +46,7 @@ Modern boiler rooms hide abroad—call centers in India, Israel, Romania. This c
 
 ## Historical cases and prosecutorial success
 
-The 1990s saw endemic boiler room activity; the film "The Wolf of Wall Street" (2013) dramatized a real operator, Jordan Belfort, whose boiler room stole millions before [SEC](/wiki/securities-and-exchange-commission/) arrest. Post-2000s, prosecutions increased; the [FINRA](/wiki/finra/) regulatory crackdown and improved [Internet](/wiki/internet/) transparency reduced boiler rooms' advantage. However, they persist: 2020s saw FBI takedowns of overseas call centers targeting Americans.
+The 1990s saw endemic boiler room activity; the film "The Wolf of Wall Street" (2013) dramatized a real operator, Jordan Belfort, whose boiler room stole millions before [SEC](/wiki/securities-and-exchange-commission/) arrest. Post-2000s, prosecutions increased; the [FINRA](/wiki/finra/) regulatory crackdown and improved Internet transparency reduced boiler rooms' advantage. However, they persist: 2020s saw FBI takedowns of overseas call centers targeting Americans.
 
 ## Victim recovery and red flags
 

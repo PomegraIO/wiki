@@ -46,7 +46,7 @@ A traditional portfolio is "bell curve" — concentrated around middle valuation
 **Example barbell:**
 
 - **80% in short-term Treasury bonds.** Safe, liquid, ~5% yield.
-- **20% in deep-value [stocks](/stock/) or [[options](/option/)).** High risk, potential 100%+ returns if theses work out.
+- **20% in deep-value [stocks](/stock/) or [options](/option/).** High risk, potential 100%+ returns if theses work out.
 
 The portfolio's baseline return is ~6% (80% × 5% + 20% × nothing). But if the 20% risky bet doubles, overall portfolio return is ~16%. If the risky bet loses, the 80% safe assets cushion the loss.
 

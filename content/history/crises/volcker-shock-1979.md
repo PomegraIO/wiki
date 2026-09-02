@@ -41,7 +41,7 @@ Capital investment collapsed. Businesses cancelled plant expansions; utilities d
 
 The economic output fell by 2.7% in 1982, the worst [recession](/recession/) since the Great Depression. Unemployment remained above 9% for nine consecutive months. In some industrial regions—the rust belt cities dependent on auto manufacturing and steel—unemployment exceeded 12%. The social and political damage was substantial: bankruptcies, foreclosures, suicides, and a widespread sense of economic catastrophe.
 
-The distributional effects were bitter. Savers and creditors benefited tremendously; debtors suffered. A pensioner living on fixed income suddenly had higher [purchasing power](/). A homeowner with a fixed-rate [mortgage](/fixed-rate-mortgage-personal/) benefited from the decline in [real](/real-interest-rate/) interest rates. But a young worker losing their job or a farmer carrying debt saw their burden intensify as real [debt](//) burdens rose.
+The distributional effects were bitter. Savers and creditors benefited tremendously; debtors suffered. A pensioner living on fixed income suddenly had higher [purchasing power](/). A homeowner with a fixed-rate [mortgage](/fixed-rate-mortgage-personal/) benefited from the decline in [real](/real-interest-rate/) interest rates. But a young worker losing their job or a farmer carrying debt saw their burden intensify as real debt burdens rose.
 
 The Fed faced intense political pressure. Congress passed resolutions questioning Volcker's authority. Labour unions denounced the policy. Some economists argued that the pain was unnecessary, that a more gradual reduction of [inflation](/inflation/) would have been preferable. But Volcker and the Fed held firm. The thinking was that a sharp, credible shock would break [inflation](/inflation/) expectations faster than a prolonged squeeze, and the evidence eventually supported this.
 
@@ -75,7 +75,7 @@ Volcker's reputation was rehabilitated by the 1980s expansion. He left the Fed i
 
 ### Wider context
 
-- [1970s stagflation](//) — the decade that preceded Volcker
+- 1970s stagflation — the decade that preceded Volcker
 - [Business cycle](/business-cycle/) — Volcker's shock as a cycle turning point
 - [Central bank](/central-bank/) — institutional independence and credibility
 - [Inflation expectations](/inflation/) — the mechanism Volcker broke

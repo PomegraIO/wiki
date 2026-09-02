@@ -10,11 +10,11 @@ keywords:
 image: "/svg/technical-analysis.svg"
 ---
 
-*A **triple top** is a bearish reversal pattern consisting of three peaks at approximately the same price level, separated by two valleys. The pattern shows that price has tested a resistance level three times and failed to break above it all three times, revealing mounting exhaustion among buyers. Each failed rally at the same level represents another failed attempt by bulls to overcome resistance. When price finally breaks decisively below both valley lows, the pattern is complete, and a sustained downtrend often follows. Triple tops are rarer and more significant than [double tops](/technical-analysis/double-top) because the triple failure to break resistance signals exhaustion more definitively.*
+*A **triple top** is a bearish reversal pattern consisting of three peaks at approximately the same price level, separated by two valleys. The pattern shows that price has tested a resistance level three times and failed to break above it all three times, revealing mounting exhaustion among buyers. Each failed rally at the same level represents another failed attempt by bulls to overcome resistance. When price finally breaks decisively below both valley lows, the pattern is complete, and a sustained downtrend often follows. Triple tops are rarer and more significant than [double tops](/double-top/) because the triple failure to break resistance signals exhaustion more definitively.*
 
 <div class="wiki-hatnote">
 
-For reversal patterns broadly, see [candlestick pattern](/technical-analysis/candlestick-pattern). The bullish equivalent is [triple-bottom](/technical-analysis/triple-bottom).
+For reversal patterns broadly, see [candlestick pattern](/candlestick-pattern/). The bullish equivalent is [triple-bottom](/triple-bottom/).
 
 </div>
 
@@ -86,14 +86,14 @@ Academic research on triple tops is sparse. The pattern's rarity limits the samp
 
 ### Related patterns
 
-- [Triple-bottom](/technical-analysis/triple-bottom) — bullish equivalent
-- [Double-top](/technical-analysis/double-top) — two-peak version
-- [Head and shoulders](/technical-analysis/head-and-shoulders) — three-peak variant
+- [Triple-bottom](/triple-bottom/) — bullish equivalent
+- [Double-top](/double-top/) — two-peak version
+- [Head and shoulders](/head-and-shoulders/) — three-peak variant
 
 ### Pattern context
 
-- [Support and resistance](/technical-analysis/support-and-resistance) — key resistance level
-- [Volume](/technical-analysis/on-balance-volume) — declining conviction
-- [Trendline](/technical-analysis/trendline) — prior uptrend
+- [Support and resistance](/support-and-resistance/) — key resistance level
+- [Volume](/on-balance-volume/) — declining conviction
+- [Trendline](/trendline/) — prior uptrend
 
 </div>

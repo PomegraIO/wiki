@@ -41,12 +41,12 @@ Although Clearside's core asset is the suprachoroidal injection method, the comp
 
 <div class="wiki-seealso">
 ### Closely related
-- [Clinical trials](/Clinical-Trials/)
-- [Drug development](/Drug-Development/)
-- [Pharmaceutical licensing](/Pharmaceutical-Licensing/)
+- Clinical trials
+- Drug development
+- Pharmaceutical licensing
 
 ### Wider context
-- [Biotechnology industry](/Biotechnology/)
-- [Ophthalmology](/Ophthalmology/)
-- [Medical device regulation](/Medical-Device-Regulation/)
+- Biotechnology industry
+- Ophthalmology
+- Medical device regulation
 </div>

@@ -56,7 +56,7 @@ These measures have worked. No equivalent event has occurred since 2010, despite
 
 ## Lessons for market microstructure
 
-The Flash Crash demonstrated that [market resilience](/wiki/market-making/) depends not just on participants' willingness to trade, but on the technical and regulatory infrastructure supporting trading. [High-frequency traders](/wiki/high-frequency-trading/) can provide liquidity in normal times but withdraw it instantly in stress. There is no market-making obligation when prices move against the market maker's interest.
+The Flash Crash demonstrated that market resilience depends not just on participants' willingness to trade, but on the technical and regulatory infrastructure supporting trading. [High-frequency traders](/wiki/high-frequency-trading/) can provide liquidity in normal times but withdraw it instantly in stress. There is no market-making obligation when prices move against the market maker's interest.
 
 The event also highlighted the danger of correlated selling across asset classes. Equities, [futures](/wiki/futures-contract/), and [options](/wiki/option/) markets are mechanically linked. A shock in one propagates to others through [arbitrage](/wiki/arbitrage-pricing-theory/) trades. Without proper circuit breakers, a small local disturbance can explode into systemic dislocation.
 

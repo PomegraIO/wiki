@@ -38,7 +38,7 @@ In other markets—London, Asia—trading is quieter too at their respective mid
 
 ## How Thin Order Books Amplify Drift
 
-During midday, the [limit-order book](//) on major exchanges becomes sparse. Ask liquidity at the NBBO (best offer) might represent only 5,000 shares instead of the 50,000 typical at open. When a large institutional trader places a 100,000-share algorithm to sell a mid-cap stock over the next two hours, there is no large opposing order book to absorb it gradually. Instead, the algorithm walk-steps the price down through each level of asks, one by one. Each small fill exhausts a small pocket of supply; the next fill targets a lower ask. The [bid-ask spread](/bid-ask-spread/) widens as [market makers](/market-maker-trading/) retreat.
+During midday, the limit-order book on major exchanges becomes sparse. Ask liquidity at the NBBO (best offer) might represent only 5,000 shares instead of the 50,000 typical at open. When a large institutional trader places a 100,000-share algorithm to sell a mid-cap stock over the next two hours, there is no large opposing order book to absorb it gradually. Instead, the algorithm walk-steps the price down through each level of asks, one by one. Each small fill exhausts a small pocket of supply; the next fill targets a lower ask. The [bid-ask spread](/bid-ask-spread/) widens as [market makers](/market-maker-trading/) retreat.
 
 A buy-side algorithm with modest size (say, 50,000 shares to accumulate) does the same in reverse—buying every incremental ask, pulling the price up. The point is not that a monster order is moving the market; it is that normal institutional flow, meeting thin supply, drifts prices in a methodical direction rather than creating random churn.
 
@@ -72,7 +72,7 @@ Not all drifts reverse. A stock genuinely re-pricing downward on bad news will c
 
 **For algorithms**: Algorithms designed to minimize market impact (VWAP, TWAP) explicitly avoid midday execution windows because of the low liquidity and directionality. An algorithm trying to sell large size will go early (morning momentum-riding) or late (afternoon liquidity boost).
 
-**For volatility traders**: The thin order books during midday often widen [bid-ask spreads](/bid-ask-spread/) and reduce [price discovery](/price-discovery/), which can increase measured [volatility](/). Volatility strategies that are short [straddles](//) or similar positions can struggle in midday drift conditions.
+**For volatility traders**: The thin order books during midday often widen [bid-ask spreads](/bid-ask-spread/) and reduce [price discovery](/price-discovery/), which can increase measured [volatility](/). Volatility strategies that are short straddles or similar positions can struggle in midday drift conditions.
 
 ## Real-World Example
 

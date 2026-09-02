@@ -39,7 +39,7 @@ The data center and fiber-optic market is competitive. Large cloud providers (Am
 
 ## The Research Frame
 
-For investors studying Cogent, the key question is whether secular data growth outpaces the cyclicality of IT spending enough to create a smoothly growing business, or whether utilization rates and pricing power fluctuate visibly with IT spending cycles. The [10-K](/10-K/) should reveal the customer concentration (how much revenue comes from the largest few customers), the contract composition (what percentage of revenue is from long-term fixed contracts vs. month-to-month variable), and the geographic and product mix (what percentage is power-and-cooling vs. fiber vs. facilities).
+For investors studying Cogent, the key question is whether secular data growth outpaces the cyclicality of IT spending enough to create a smoothly growing business, or whether utilization rates and pricing power fluctuate visibly with IT spending cycles. The [10-K](/10-k/) should reveal the customer concentration (how much revenue comes from the largest few customers), the contract composition (what percentage of revenue is from long-term fixed contracts vs. month-to-month variable), and the geographic and product mix (what percentage is power-and-cooling vs. fiber vs. facilities).
 
 Critically, what is the trend in pricing and utilization? If utilization rates are consistently rising and pricing is flat or declining, that indicates the company is in an overbuilt market and must rely on volume growth; margins may compress. If pricing is rising even with steady utilization, that indicates strong demand and pricing power. If the company is experiencing customer churn or declining utilization, that suggests a cyclical slowdown or competitive loss.
 

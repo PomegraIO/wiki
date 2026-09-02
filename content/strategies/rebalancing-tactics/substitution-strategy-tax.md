@@ -103,10 +103,10 @@ The strategy is less valuable in rising markets (fewer losses to harvest) and hi
 - [Tax lot](/wiki/tax-lot/) — Selection of which shares to sell for loss realization
 
 ### Wider context
-- [Taxable account](/wiki/taxable-account/) — Account type where substitution strategy applies
+- Taxable account — Account type where substitution strategy applies
 - [Correlation risk](/wiki/correlation-risk/) — Risk that substitute asset moves differently than original
 - [Sector rotation](/wiki/sector-rotation/) — Use of sector ETFs as substitutes for individual stocks
-- [Margin of safety](/wiki/margin-of-safety/) — Evaluating substitute quality and downside
+- Margin of safety — Evaluating substitute quality and downside
 - [After-tax cost of debt](/wiki/after-tax-cost-of-debt/) — Related tax-optimization concept
 
 </div>

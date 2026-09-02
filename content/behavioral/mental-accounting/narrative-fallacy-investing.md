@@ -58,7 +58,7 @@ The narrative fallacy drives several portfolio mistakes:
 
 ## The difference between narrative and genuine insight
 
-Not all stories are fallacies. A genuine insight is a narrative supported by *novel information* that the market has not yet priced in. For instance, in 2010, an investor who identified that [mobile](/wiki/mobile-cryptocurrency/) devices would displace desktop computing had a real insight—not a narrative fallacy—because the market was still pricing in lingering PC dominance.
+Not all stories are fallacies. A genuine insight is a narrative supported by *novel information* that the market has not yet priced in. For instance, in 2010, an investor who identified that mobile devices would displace desktop computing had a real insight—not a narrative fallacy—because the market was still pricing in lingering PC dominance.
 
 The distinction: does the story rest on information the market doesn't have, or is it retrofitting a publicly available outcome?
 
@@ -93,7 +93,7 @@ This creates a feedback loop: investors read the narrative, become convinced of 
 
 ### Wider context
 
-- [Behavioral finance](/wiki/behavioral-loss-aversion/) — Broader psychological patterns in markets.
+- Behavioral finance — Broader psychological patterns in markets.
 - [Base-rate neglect](/wiki/base-rate-neglect/) — Failing to use historical base rates in reasoning.
 - [Overconfidence in investing](/wiki/overconfidence-in-investing/) — How narrative fallacies boost false confidence.
 

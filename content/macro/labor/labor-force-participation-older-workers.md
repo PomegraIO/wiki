@@ -101,9 +101,9 @@ These differences persist even after controlling for pension rules and health, s
 
 ### Closely related
 
-- [Labor Force Participation](/link/unemployment-rate/) — the overall rate of participation across all ages
-- [Business Cycle](/link/business-cycle/) — the recurring expansions and recessions that shift older worker employment
-- [Unemployment Rate](/link/unemployment-rate/) — the aggregate jobless measure that often masks older-worker challenges
+- [Labor Force Participation](/unemployment-rate/) — the overall rate of participation across all ages
+- [Business Cycle](/business-cycle/) — the recurring expansions and recessions that shift older worker employment
+- [Unemployment Rate](/unemployment-rate/) — the aggregate jobless measure that often masks older-worker challenges
 - Social Security — the primary retirement income source shaping exit decisions in the US
 - Wage Growth — the income dynamic affecting retirement feasibility
 
@@ -111,8 +111,8 @@ These differences persist even after controlling for pension rules and health, s
 
 - Inequality — the disparity in wealth driving divergent retirement outcomes
 - Inflation — eroding savings and pushing older workers to extend working life
-- [Labor Productivity](/link/labor-productivity/) — the economic output per worker that justifies older-worker retention
+- [Labor Productivity](/labor-productivity/) — the economic output per worker that justifies older-worker retention
 - ACA — health policy indirectly affecting older-worker participation
-- [Fiscal Consolidation](/link/fiscal-consolidation/) — austerity measures that may reduce pension generosity and force longer working lives
+- [Fiscal Consolidation](/fiscal-consolidation/) — austerity measures that may reduce pension generosity and force longer working lives
 
 </div>

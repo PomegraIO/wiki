@@ -8,7 +8,7 @@ keywords:
   - industrial electroplating
 ---
 
-*Cadmium (Cd) is a soft, silvery metal with atomic number 48. It is toxic at even low concentrations and has been phased out of many consumer applications, though it remains an industrial material in [battery](/wiki/battery/) manufacturing, electroplating, and specialty coatings. Environmental and occupational health regulation has significantly constrained its use in developed economies.*
+*Cadmium (Cd) is a soft, silvery metal with atomic number 48. It is toxic at even low concentrations and has been phased out of many consumer applications, though it remains an industrial material in battery manufacturing, electroplating, and specialty coatings. Environmental and occupational health regulation has significantly constrained its use in developed economies.*
 
 <aside class="wiki-infobox">
 
@@ -25,13 +25,13 @@ keywords:
 
 ## Historical use in nickel-cadmium batteries
 
-Cadmium's electrochemical properties made it ideal for rechargeable batteries. A nickel-cadmium ([Ni-Cd](/wiki/battery/)) cell combines a nickel oxide cathode with a metallic cadmium anode in an alkaline electrolyte, yielding a voltage of 1.2 V per cell and good cycle life—thousands of charge-discharge cycles without degradation. Ni-Cd batteries powered portable drill motors, emergency lighting, and aircraft avionics for decades.
+Cadmium's electrochemical properties made it ideal for rechargeable batteries. A nickel-cadmium (Ni-Cd) cell combines a nickel oxide cathode with a metallic cadmium anode in an alkaline electrolyte, yielding a voltage of 1.2 V per cell and good cycle life—thousands of charge-discharge cycles without degradation. Ni-Cd batteries powered portable drill motors, emergency lighting, and aircraft avionics for decades.
 
 The chemistry is robust. Ni-Cd cells tolerate overcharge, short-circuits, and deep discharges without violent failure; this reliability made them standard in military and aerospace applications. However, cadmium's toxicity eventually compelled a transition. A discarded Ni-Cd battery releasing cadmium ions into groundwater poses a persistent health risk; accumulation in the food chain concentrates cadmium in bones and kidneys, causing osteomalacia and renal disease.
 
 ## Shift away from cadmium-based technologies
 
-Lithium-ion [batteries](/wiki/battery/) and nickel-metal hydride cells eventually superseded Ni-Cd in consumer products. Lithium-ion offers higher energy density (Wh/kg), longer run times, and—critically—no toxic heavy-metal byproduct. The European Union banned Ni-Cd batteries in 1998 (RoHS directive 2002/95/EC); other jurisdictions followed. Today, Ni-Cd cells are found mainly in industrial backup power, emergency lighting, and legacy aerospace platforms where the upfront cost of recertification exceeds the risk of cadmium exposure.
+Lithium-ion batteries and nickel-metal hydride cells eventually superseded Ni-Cd in consumer products. Lithium-ion offers higher energy density (Wh/kg), longer run times, and—critically—no toxic heavy-metal byproduct. The European Union banned Ni-Cd batteries in 1998 (RoHS directive 2002/95/EC); other jurisdictions followed. Today, Ni-Cd cells are found mainly in industrial backup power, emergency lighting, and legacy aerospace platforms where the upfront cost of recertification exceeds the risk of cadmium exposure.
 
 Regulatory pressure has also constrained cadmium in pigments and coatings. Cadmium sulfide and cadmium selenide produce bright yellows, oranges, and reds—prized in textiles, ceramics, and paints. Yet the same ability to stain tissue means chronic exposure poses a carcinogenic risk. The EU restricted cadmium pigments in toys and textiles (Directive 94/27/EC); the U.S. EPA has tightened acceptable occupational limits.
 
@@ -59,7 +59,7 @@ Price is driven by industrial demand (particularly aerospace and specialty elect
 - [Zinc](/wiki/zinc/) — The primary source ore for cadmium extraction
 - [Copper](/wiki/copper/) — Often mined alongside cadmium
 - [Cobalt](/wiki/cobalt/) — Competing metal in battery chemistry
-- [Battery](/wiki/battery/) — The chief historical use case
+- Battery — The chief historical use case
 
 ### Wider context
 - [Commodity futures trading commission](/wiki/commodity-futures-trading-commission/) — Regulates cadmium trading

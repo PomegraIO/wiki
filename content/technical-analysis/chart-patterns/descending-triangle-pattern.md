@@ -9,7 +9,7 @@ keywords:
   - bearish signal
 ---
 
-*A **descending triangle pattern** is a [technical analysis](/wiki/technical-analysis/) formation in which the stock price repeatedly tests a flat support level while the resistance line slopes downward, creating a visual triangle that narrows as price declines. The pattern typically resolves with a downward breakout, making it a bearish signal.*
+*A **descending triangle pattern** is a technical analysis formation in which the stock price repeatedly tests a flat support level while the resistance line slopes downward, creating a visual triangle that narrows as price declines. The pattern typically resolves with a downward breakout, making it a bearish signal.*
 
 <div class="wiki-hatnote">
 For the mirror image pattern, see <a href="/wiki/ascending-triangle-pattern/">/wiki/ascending-triangle-pattern/</a>. For general chart pattern concepts, see <a href="/wiki/candlestick-pattern/">/wiki/candlestick-pattern/</a>.
@@ -101,7 +101,7 @@ Professional traders combine descending triangles with other signals: [momentum 
 - <a href="/wiki/candlestick-pattern/">/wiki/candlestick-pattern/</a> — General chart pattern classification
 
 ### Wider context
-- <a href="/wiki/technical-analysis/">/wiki/technical-analysis/</a> — Price-pattern-based trading approach
+- /wiki/technical-analysis/ — Price-pattern-based trading approach
 - <a href="/wiki/breakout-trading/">/wiki/breakout-trading/</a> — Strategies based on price breakouts
 - <a href="/wiki/volume-profile-support/">/wiki/volume-profile-support/</a> — Volume analysis alongside patterns
 - <a href="/wiki/momentum-investing/">/wiki/momentum-investing/</a> — Trend-following strategies

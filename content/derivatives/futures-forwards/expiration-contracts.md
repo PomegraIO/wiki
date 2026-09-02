@@ -64,6 +64,6 @@ Without expiration dates, futures would be indistinguishable from forward contra
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broad category encompassing futures, forwards, and options.</li>
+<li>Derivatives — the broad category encompassing futures, forwards, and options.</li>
 </ul>
 </div>

@@ -11,7 +11,7 @@ keywords:
 image: /svg/technical-analysis.svg
 ---
 
-*A **volume node** in [market profile](/technical-analysis.svg) is a price level where unusually high or low trading volume occurred; high-volume nodes (HVNs) often act as barriers to price movement, while low-volume nodes (LVNs) tend to accelerate it, based on the observation that price respects areas of heavy buying and selling.*
+*A **volume node** in market profile is a price level where unusually high or low trading volume occurred; high-volume nodes (HVNs) often act as barriers to price movement, while low-volume nodes (LVNs) tend to accelerate it, based on the observation that price respects areas of heavy buying and selling.*
 
 <aside class="wiki-infobox">
 

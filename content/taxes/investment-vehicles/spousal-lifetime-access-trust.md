@@ -11,7 +11,7 @@ keywords:
 image: "/svg/taxes.svg"
 ---
 
-*A **Spousal Lifetime Access Trust** (SLAT) is an irrevocable gift-tax vehicle that removes assets from the grantor's taxable estate by gifting them into a trust for the benefit of the grantor's spouse, utilising the grantor's unused lifetime gift-tax exemption. Unlike simpler [401k plans](/401k-plan/) or [dividend-paying equities](/dividend/), a SLAT preserves indirect access through a discretionary trust structure: the spouse may receive distributions at an independent trustee's discretion, and if the spouse dies, remainder assets pass to the couple's children tax-free, creating a multi-generational wealth transfer that would otherwise incur [estate taxes](//) at rates up to 40 per cent.*
+*A **Spousal Lifetime Access Trust** (SLAT) is an irrevocable gift-tax vehicle that removes assets from the grantor's taxable estate by gifting them into a trust for the benefit of the grantor's spouse, utilising the grantor's unused lifetime gift-tax exemption. Unlike simpler [401k plans](/401k-plan/) or [dividend-paying equities](/dividend/), a SLAT preserves indirect access through a discretionary trust structure: the spouse may receive distributions at an independent trustee's discretion, and if the spouse dies, remainder assets pass to the couple's children tax-free, creating a multi-generational wealth transfer that would otherwise incur estate taxes at rates up to 40 per cent.*
 
 <aside class="wiki-infobox">
 
@@ -36,7 +36,7 @@ image: "/svg/taxes.svg"
 
 ## How a SLAT differs from conventional gifting
 
-Most estate planners counsel high-net-worth individuals to make [lifetime gifts](//) to children or grandchildren to use the federal lifetime exemption (currently $13+ million per person). A SLAT inversion inverts this logic: instead of gifting directly to descendants, the grantor gifts to an irrevocable trust that benefits the *spouse*. This permits the grantor to remove assets from his or her taxable estate while preserving a realistic pathway to access capital if needed.
+Most estate planners counsel high-net-worth individuals to make lifetime gifts to children or grandchildren to use the federal lifetime exemption (currently $13+ million per person). A SLAT inversion inverts this logic: instead of gifting directly to descendants, the grantor gifts to an irrevocable trust that benefits the *spouse*. This permits the grantor to remove assets from his or her taxable estate while preserving a realistic pathway to access capital if needed.
 
 The mechanism works because gift tax law permits spouses to use the lifetime exemption for gifts to third parties. So the grantor makes a $13 million gift into the SLAT, using the exemption, and the trust holds the capital for the spouse's lifetime. The spouse, as beneficiary, can receive discretionary distributions, which indirectly benefit the grantor if the marriage remains intact and the couple's finances are commingled.
 
@@ -72,7 +72,7 @@ A common SLAT refinement involves a survivorship clause or "return to grantor" c
 
 If the grantor needs liquidity and the spouse is willing, the spouse could personally lend capital back to the grantor (not a distribution, but a separate loan), or the trustee could distribute amounts to the spouse, who then gifts them back. These transactions must be carefully documented to avoid IRS challenge.
 
-## Interaction with [generation-skipping transfer tax](//)
+## Interaction with generation-skipping transfer tax
 
 If the SLAT names grandchildren as remainder beneficiaries, the $13 million gift also consumes the grantor's generation-skipping transfer (GST) tax exemption. Unlike the lifetime exemption, GST exemption is not portable, so careful allocation at funding is required. Most SLATs deliberately allocate exemption to the spouse's life interest (not generation-skipping) and allocate to the remainder (generation-skipping) only to the extent grantor exemption is available.
 
@@ -90,9 +90,9 @@ If the SLAT names grandchildren as remainder beneficiaries, the $13 million gift
 
 ### Wider context
 
-- [Estate Tax](//) — the federal tax motivating multi-generational planning strategies
+- Estate Tax — the federal tax motivating multi-generational planning strategies
 - [Cost Basis](/cost-basis/) — stepped-up basis at death, which complements SLAT planning
 - [Transfer Payment](/transfer-payment/) — the economic mechanism underlying gifts
-- [Gifting and exemption rules](//) — the broader framework governing lifetime and annual exclusion gifts
+- Gifting and exemption rules — the broader framework governing lifetime and annual exclusion gifts
 
 </div>

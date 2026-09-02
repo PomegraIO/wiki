@@ -10,7 +10,7 @@ keywords:
 image: "/svg/equity.svg"
 ---
 
-*A non-qualified stock option (NQSO), also called a non-statutory option, is an [employee stock option](/equity/employee-stock-options/) that does not qualify for the preferential tax treatment of [ISOs](/equity/iso/). Upon exercise, the gain (fair market value at exercise minus strike price) is taxed as ordinary income. NQSOs have no strike-price restriction and no annual grant limit, making them more flexible than ISOs for large compensation packages.*
+*A non-qualified stock option (NQSO), also called a non-statutory option, is an [employee stock option](/employee-stock-options/) that does not qualify for the preferential tax treatment of [ISOs](/iso/). Upon exercise, the gain (fair market value at exercise minus strike price) is taxed as ordinary income. NQSOs have no strike-price restriction and no annual grant limit, making them more flexible than ISOs for large compensation packages.*
 
 <aside class="wiki-infobox">
 
@@ -66,13 +66,13 @@ Without cashless exercise, the employee must pay cash to cover both the exercise
 
 **Startups**: Early-stage startups often use ISOs for rank-and-file employees (to fit under the $100,000 cap) and NQSOs for founders or executives whose grants are larger. As the company grows and multiple founders/executives receive grants, the company eventually exhausts reasonable use of ISOs.
 
-**Public companies**: Large public companies rely almost entirely on NQSOs for executive compensation because the grant sizes (often $1–$10 million per executive) far exceed the ISO limit. Public company employees also receive [RSUs](/equity/restricted-stock-units/), which many consider simpler than options.
+**Public companies**: Large public companies rely almost entirely on NQSOs for executive compensation because the grant sizes (often $1–$10 million per executive) far exceed the ISO limit. Public company employees also receive [RSUs](/restricted-stock-units/), which many consider simpler than options.
 
 **Consultants and contractors**: ISOs are only available to employees. Contractors and outside service providers receive NQSOs. This is a key reason contractors negotiate higher strike prices or greater option quantities — they cannot access the ISO tax advantage.
 
 ## Vesting and incentive alignment
 
-Like ISOs, NQSOs typically vest over 4 years with a 1-year [cliff](/equity/cliff-vesting/). This aligns the employee's incentive to stay and build long-term value. Upon vesting, the employee can exercise at any time before expiration (usually 5–10 years).
+Like ISOs, NQSOs typically vest over 4 years with a 1-year [cliff](/cliff-vesting/). This aligns the employee's incentive to stay and build long-term value. Upon vesting, the employee can exercise at any time before expiration (usually 5–10 years).
 
 An employee who leaves before vesting forfeits unvested options. An employee who vests and then leaves can exercise within the remaining post-employment exercise window, but must do so quickly (often 90 days post-termination) or forfeit the options.
 
@@ -96,18 +96,18 @@ Employees subject to SEC Section 16 (officers, directors, large shareholders in 
 
 ### Closely related
 
-- [ISO](/equity/iso/) — tax-qualified version with capital gains treatment
-- [Employee stock options](/equity/employee-stock-options/) — general category
-- [Restricted stock units](/equity/restricted-stock-units/) — modern alternative
-- [Vesting schedule](/equity/vesting-schedule/) — the time lock
-- [Cliff vesting](/equity/cliff-vesting/) — common NQSO vesting structure
+- [ISO](/iso/) — tax-qualified version with capital gains treatment
+- [Employee stock options](/employee-stock-options/) — general category
+- [Restricted stock units](/restricted-stock-units/) — modern alternative
+- [Vesting schedule](/vesting-schedule/) — the time lock
+- [Cliff vesting](/cliff-vesting/) — common NQSO vesting structure
 
 ### Wider context
 
-- [Equity compensation](/equity/iso/) — broader category
+- [Equity compensation](/iso/) — broader category
 - [Public company](/public-company/) — primary user of NQSOs
-- [Section 409A](/equity/nqso/) — valuation rules for private company NQSOs
-- [Capital gains](/equity/iso/) — future appreciation after exercise
-- [Founder shares](/equity/founder-shares/) — often subject to similar vesting
+- [Section 409A](/nqso/) — valuation rules for private company NQSOs
+- [Capital gains](/iso/) — future appreciation after exercise
+- [Founder shares](/founder-shares/) — often subject to similar vesting
 
 </div>

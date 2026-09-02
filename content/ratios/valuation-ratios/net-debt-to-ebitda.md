@@ -55,7 +55,7 @@ A company with $8 billion in debt at 2% interest rate ($160 million annual inter
 
 ## The capex question
 
-EBITDA is before [capital expenditures](/wiki/capital-expenditures/). A company with 3.0x net debt-to-EBITDA but massive capex needs might not be able to pay down debt as quickly as the ratio suggests. Always check [free cash flow](/wiki/free-cash-flow/) and capex trends alongside.
+EBITDA is before capital expenditures. A company with 3.0x net debt-to-EBITDA but massive capex needs might not be able to pay down debt as quickly as the ratio suggests. Always check [free cash flow](/wiki/free-cash-flow/) and capex trends alongside.
 
 If capex is heavy, use net debt-to-EBITDA-minus-capex, or net debt-to-[FCF](/wiki/free-cash-flow/).
 
@@ -87,7 +87,7 @@ Utilities and [REITs](/wiki/real-estate-investment-trust/) often operate at 3.0x
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/credit-rating/">Credit rating</a> — influenced heavily by leverage ratios.</li>
-  <li><a href="/wiki/financial-covenants/">Financial covenants</a> — often based on leverage ratios.</li>
+  <li>Financial covenants — often based on leverage ratios.</li>
   <li><a href="/wiki/leveraged-buyout/">Leveraged buyout</a> — the context where leverage ratios are critical.</li>
 </ul>
 </div>

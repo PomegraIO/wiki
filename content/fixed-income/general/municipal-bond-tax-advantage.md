@@ -91,7 +91,7 @@ It is unlikely the exemption will be eliminated outright, but it could be curtai
 
 ### Wider context
 - [Capital Gains Tax](/wiki/capital-gains-tax/) — Tax on investment profits.
-- [Taxable Equivalent Yield](/wiki/taxable-equivalent-yield/) — Calculating the tax-adjusted return.
+- Taxable Equivalent Yield — Calculating the tax-adjusted return.
 - [After-Tax Cost of Debt](/wiki/after-tax-cost-of-debt/) — How firms calculate true borrowing costs.
 - [Bond Yield Spread](/wiki/bond-yield-spread/) — Difference in yields between bond types.
 - [Fixed Income Fund Strategy](/wiki/fixed-income-fund-strategy/) — Portfolio construction with bonds.

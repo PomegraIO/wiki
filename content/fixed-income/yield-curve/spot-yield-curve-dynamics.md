@@ -58,7 +58,7 @@ Bond portfolio managers monitor spot curve changes obsessively. If the curve ste
 
 ## Real vs. nominal spot curves
 
-Inflation-protected [TIPS](/wiki/tips/) imply a separate "real" spot curve—the yields stripped of inflation expectations. In 2023, when nominal 10-year [Treasuries](/wiki/treasury-note/) yielded 4.2% and 10-year [TIPS](/wiki/tips/) yielded 2.1%, the implied 10-year inflation expectation was roughly 2.1%. Comparing nominal and real spot curves reveals what the bond market is pricing for long-term inflation—a critical input for [macroeconomic](/wiki/growth-theory/) strategists.
+Inflation-protected [TIPS](/wiki/tips/) imply a separate "real" spot curve—the yields stripped of inflation expectations. In 2023, when nominal 10-year [Treasuries](/wiki/treasury-note/) yielded 4.2% and 10-year [TIPS](/wiki/tips/) yielded 2.1%, the implied 10-year inflation expectation was roughly 2.1%. Comparing nominal and real spot curves reveals what the bond market is pricing for long-term inflation—a critical input for macroeconomic strategists.
 
 <div class="wiki-seealso">
 

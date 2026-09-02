@@ -95,7 +95,7 @@ In [M&A](/wiki/merger/), a common protection for employees is "double-trigger ac
 
 This protects employees from losing their [awards](/wiki/equity-grant-letter/) if the acquiring firm has no use for them post-deal. Without double-trigger language, an employee in a successful exit (company acquired at a high price) could be laid off immediately post-closing and walk away with only their vested equity.
 
-Similarly, in severance packages, employers often agree to full or partial acceleration: if an employee is [laid off](/wiki/separation-agreement/) in a downsizing, some or all unvested [awards](/wiki/equity-grant-letter/) vest. This is a way to honor severance while respecting original vesting intent.
+Similarly, in severance packages, employers often agree to full or partial acceleration: if an employee is laid off in a downsizing, some or all unvested [awards](/wiki/equity-grant-letter/) vest. This is a way to honor severance while respecting original vesting intent.
 
 ## Refresh grants and long-term retention
 

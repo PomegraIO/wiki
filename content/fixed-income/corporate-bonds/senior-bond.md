@@ -3,7 +3,7 @@ title: "Senior Bond"
 description: "A bond that has priority claim on a company's assets and cash flow before subordinated debt in bankruptcy or default."
 ---
 
-*A senior bond is near the top of the credit hierarchy. In bankruptcy, senior bondholders are paid before subordinated bondholders and all equity holders. This seniority means lower risk, lower recovery loss, and—as a result—lower yield. Most [corporate bonds](/wiki/corporate-bonds/) are senior unsecured, and they form the backbone of the investment-grade credit market.*
+*A senior bond is near the top of the credit hierarchy. In bankruptcy, senior bondholders are paid before subordinated bondholders and all equity holders. This seniority means lower risk, lower recovery loss, and—as a result—lower yield. Most corporate bonds are senior unsecured, and they form the backbone of the investment-grade credit market.*
 
 <div class="wiki-hatnote">
 For the hierarchy of claims, see <a href="/wiki/bond-seniority/">Bond seniority</a>. For the opposite category, see <a href="/wiki/subordinated-bond/">Subordinated bond</a>.

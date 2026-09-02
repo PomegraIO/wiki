@@ -22,7 +22,7 @@ See [enterprise-value](/wiki/enterprise-value/) for the numerator and [price-to-
 
 ## Why use revenue instead of profit?
 
-A company losing $100 million annually might seem worthless by P/E ratio (which cannot be calculated). But if it generates $1 billion in revenue and is on a path to profitability, it may have real value. Revenue-based valuations allow you to value (1) unprofitable [startups](/wiki/ipo/) and growth companies, (2) turnarounds where profit is temporarily negative, and (3) cyclical businesses in down years.
+A company losing $100 million annually might seem worthless by P/E ratio (which cannot be calculated). But if it generates $1 billion in revenue and is on a path to profitability, it may have real value. Revenue-based valuations allow you to value (1) unprofitable startups and growth companies, (2) turnarounds where profit is temporarily negative, and (3) cyclical businesses in down years.
 
 Enterprise-value-to-revenue strips out the leverage and cash differences that might cloud [price-to-sales-ratio](/wiki/price-to-sales-ratio/), showing the total value paid per dollar of sales.
 
@@ -50,7 +50,7 @@ In distressed situations, EV/Revenue can estimate liquidation value: a strugglin
 
 ## Revenue recognition issues
 
-[Revenue recognition](/wiki/revenue-recognition/) is the accounting of when to record a sale. Companies can play games with this—recognizing revenue early, in round amounts, with side agreements to reverse later. Check [operating cash flow](/wiki/operating-cash-flow/) against revenue to ensure the reported top line is real cash coming in.
+[Revenue recognition](/wiki/revenue-recognition/) is the accounting of when to record a sale. Companies can play games with this—recognizing revenue early, in round amounts, with side agreements to reverse later. Check operating cash flow against revenue to ensure the reported top line is real cash coming in.
 
 ## Sector norms vary wildly
 
@@ -79,8 +79,8 @@ EV/Revenue assumes all revenue is equally liquid. In reality, a business model w
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/revenue/">Revenue</a> — the denominator in this ratio.</li>
-  <li><a href="/wiki/operating-cash-flow/">Operating cash flow</a> — a check on revenue quality.</li>
+  <li>Revenue — the denominator in this ratio.</li>
+  <li>Operating cash flow — a check on revenue quality.</li>
   <li><a href="/wiki/comparable-company-analysis/">Comparable company analysis</a> — a method often using EV/Revenue multiples.</li>
 </ul>
 </div>

@@ -11,7 +11,7 @@ keywords:
 image: "/svg/taxes.svg"
 ---
 
-*An **Intentionally Defective Grantor Trust** (IDGT) is an irrevocable trust drafted to be intentionally "defective" for federal income-tax purposes—meaning the grantor remains the deemed owner and pays income tax on all trust earnings—whilst remaining excluded from the grantor's taxable estate under estate and gift-tax law. This asymmetry creates a powerful wealth-transfer vehicle: the grantor accelerates tax-free capital appreciation by paying income taxes the grantor would owe anyway, shrinking the taxable estate dollar-for-dollar, whilst heirs receive remainder assets at the grantor's death without incurring estate tax or requiring the grantor to use [lifetime exemption](//).*
+*An **Intentionally Defective Grantor Trust** (IDGT) is an irrevocable trust drafted to be intentionally "defective" for federal income-tax purposes—meaning the grantor remains the deemed owner and pays income tax on all trust earnings—whilst remaining excluded from the grantor's taxable estate under estate and gift-tax law. This asymmetry creates a powerful wealth-transfer vehicle: the grantor accelerates tax-free capital appreciation by paying income taxes the grantor would owe anyway, shrinking the taxable estate dollar-for-dollar, whilst heirs receive remainder assets at the grantor's death without incurring estate tax or requiring the grantor to use lifetime exemption.*
 
 <aside class="wiki-infobox">
 
@@ -24,11 +24,11 @@ image: "/svg/taxes.svg"
 |   |   |
 |---|---|
 | **What it is** | An irrevocable trust designed to be grantor-owned for income tax but estate-tax-excluded |
-| **Gift-tax treatment** | Initial transfer may use [lifetime exemption](//) or be treated as incomplete gift; depends on trustee discretion |
+| **Gift-tax treatment** | Initial transfer may use lifetime exemption or be treated as incomplete gift; depends on trustee discretion |
 | **Grantor's income-tax burden** | Grantor pays tax on all trust income and gains; grantor not reimbursed by trust |
 | **Grantor's estate inclusion** | Trust assets are NOT included in grantor's taxable estate at death |
 | **Common triggers for grantor status** | Trustee distribution discretion, grantor retained powers, or grantor loan status |
-| **Funded through** | Direct gifts, loans at IRS rates, or [grantor retained income trust](//) (GRIT) remainder conversions |
+| **Funded through** | Direct gifts, loans at IRS rates, or grantor retained income trust (GRIT) remainder conversions |
 | **Beneficiaries** | Children, grandchildren, or other heirs receive remainder assets tax-free (subject to [generation-skipping transfer tax](/)) |
 | **Investment strategy** | High-growth assets; the faster the growth, the greater the estate tax savings |
 
@@ -36,9 +36,9 @@ image: "/svg/taxes.svg"
 
 ## The elegance of intentional defect
 
-The IDGT exploits a perceived "defect" in the tax code: the grantor-trust rules and the [estate-tax](//) rules operate independently. A trust can be excluded from the grantor's estate for federal estate and gift-tax purposes (reducing the taxable estate) yet treated as grantor-owned for income-tax purposes (making the grantor the deemed owner for [depreciation](/accumulated-depreciation/), [dividend](/dividend/) income, and capital gains). Most trust planners *accidentally* create this split, then amend the trust to fix it. An IDGT designer *deliberately* creates and preserves the split, harnessing it for wealth transfer.
+The IDGT exploits a perceived "defect" in the tax code: the grantor-trust rules and the estate-tax rules operate independently. A trust can be excluded from the grantor's estate for federal estate and gift-tax purposes (reducing the taxable estate) yet treated as grantor-owned for income-tax purposes (making the grantor the deemed owner for [depreciation](/accumulated-depreciation/), [dividend](/dividend/) income, and capital gains). Most trust planners *accidentally* create this split, then amend the trust to fix it. An IDGT designer *deliberately* creates and preserves the split, harnessing it for wealth transfer.
 
-The mechanism rests on a key rule: **a trust is not included in the grantor's estate if the grantor has no incidents of ownership**. Simultaneously, a trust is treated as grantor-owned for income tax if the grantor has certain powers—notably the right to reacquire trust assets in exchange for a [promissory note](//) or the power to direct distributions to themselves (even if never exercised). By carefully selecting which powers to retain, the drafter achieves grantor-trust status without triggering estate inclusion.
+The mechanism rests on a key rule: **a trust is not included in the grantor's estate if the grantor has no incidents of ownership**. Simultaneously, a trust is treated as grantor-owned for income tax if the grantor has certain powers—notably the right to reacquire trust assets in exchange for a promissory note or the power to direct distributions to themselves (even if never exercised). By carefully selecting which powers to retain, the drafter achieves grantor-trust status without triggering estate inclusion.
 
 ## How grantor-trust status generates income tax benefits
 
@@ -50,11 +50,11 @@ At the grantor's death, the appreciated assets pass to heirs with a stepped-up [
 
 ## Funding strategies: gift, loan, and GRIT conversions
 
-An IDGT is typically funded in one of three ways. First, the grantor makes a direct gift of cash or securities, often using a portion of the [lifetime exemption](//) ($13+ million per person). This reduces the grantor's lifetime exemption but immediately places assets in a tax-sheltered growth vehicle.
+An IDGT is typically funded in one of three ways. First, the grantor makes a direct gift of cash or securities, often using a portion of the lifetime exemption ($13+ million per person). This reduces the grantor's lifetime exemption but immediately places assets in a tax-sheltered growth vehicle.
 
 Second, the grantor loans capital to the trust at a rate set by the IRS (the Applicable Federal Rate, or AFR—currently 4–6 per cent depending on term). The loan is documented with a promissory note bearing interest. Critically, the grantor must collect payments (principal and interest) from the trust. The grantor's willingness to make loans below [market interest rates](/interest-rate/) is the unstated transfer benefit; the difference between the AFR and market rates is an indirect gift. For example, a grantor might loan $1 million at 5 per cent AFR when market [borrowing rates](/cost-of-debt/) are 8 per cent, creating a 3 per cent annual subsidy.
 
-Third, the grantor may convert a [grantor retained income trust](//) (GRIT) or similar life-interest structure into an IDGT, allowing the income interest to expire while remainder assets continue appreciating inside a grantor trust.
+Third, the grantor may convert a grantor retained income trust (GRIT) or similar life-interest structure into an IDGT, allowing the income interest to expire while remainder assets continue appreciating inside a grantor trust.
 
 ## Intentional defect: the discretionary distribution problem solved
 
@@ -82,7 +82,7 @@ A well-drafted IDGT used for family business or real-estate planning can create 
 
 If the IDGT is funded via loan, the grantor must collect payments from the trust. The trust's cash flow (rents, business income, distributions from partnerships) must cover the loan payments. If the trust has insufficient liquidity, the grantor faces a choice: forgive payments (converting the loan to a gift, which triggers gift-tax consequences), or force sale of assets to generate repayment.
 
-For this reason, IDGTs are often funded with income-producing assets (real estate, business interests generating distributions, [partnership](//) allocations) rather than pure growth plays. A $1 million IDGT loan at 5 per cent requires $50,000 annual payments, so the underlying assets must generate adequate distributions.
+For this reason, IDGTs are often funded with income-producing assets (real estate, business interests generating distributions, partnership allocations) rather than pure growth plays. A $1 million IDGT loan at 5 per cent requires $50,000 annual payments, so the underlying assets must generate adequate distributions.
 
 ## Comparison to [spousal lifetime access trusts](/spousal-lifetime-access-trust/) and [charitable remainder structures](/pooled-income-fund/)
 
@@ -99,13 +99,13 @@ A charitable remainder structure ([pooled income fund](/pooled-income-fund/) or 
 - [Spousal Lifetime Access Trust](/spousal-lifetime-access-trust/) — an alternative using spouse as beneficiary; simpler but no grantor-trust income benefit
 - [Oil and Gas Limited Partnership Tax](/oil-gas-limited-partnership-tax/) — another pass-through structure with deferred taxation
 - [Pooled Income Fund](/pooled-income-fund/) — a charitable alternative using donor-retained income
-- [Grantor Retained Income Trust](//) — a life-interest structure that can convert into an IDGT at remainder
+- Grantor Retained Income Trust — a life-interest structure that can convert into an IDGT at remainder
 - [Cost Basis](/cost-basis/) — stepped-up basis at death, which complements IDGT estate planning
 
 ### Wider context
 
-- [Lifetime exemption and gifting rules](//) — the foundation of IDGT mechanics
-- [Generation-Skipping Transfer Tax](//) — the levy governing multi-generational trusts
+- Lifetime exemption and gifting rules — the foundation of IDGT mechanics
+- Generation-Skipping Transfer Tax — the levy governing multi-generational trusts
 - [Depreciation](/accumulated-depreciation/) — how assets depreciate inside a grantor trust
 - [Retained Earnings](/retained-earnings/) — how entities accumulate inside a grantor trust structure
 

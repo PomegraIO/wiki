@@ -31,13 +31,13 @@ By the early 2000s, BlackRock had become the world's largest ETF provider. The f
 
 ## Passive vs. active and the scale advantage
 
-BlackRock manages both passive (index-tracking) and active strategies, but its enormous scale comes from passive. The passive business is high-margin and low-effort once the index is replicated; BlackRock's [economies of scale](/wiki/economies-of-scale/) mean it can charge the lowest fees and still earn high margins. A competitor offering the same index fund at the same price point is likely losing money.
+BlackRock manages both passive (index-tracking) and active strategies, but its enormous scale comes from passive. The passive business is high-margin and low-effort once the index is replicated; BlackRock's economies of scale mean it can charge the lowest fees and still earn high margins. A competitor offering the same index fund at the same price point is likely losing money.
 
 The active business (traditional fund managers making stock picks) is smaller and struggling. Fewer investors choose active strategies as awareness spreads that [active returns](/wiki/actively-managed-fund/) rarely exceed passive benchmarks after fees. BlackRock competes in active but increasingly cedes this space to niche specialists. The future growth is passive, alternatives, and advisory.
 
 ## Aladdin and technology moat
 
-Aladdin is BlackRock's flagship portfolio construction and [risk management](/wiki/risk-measurement/) platform. Launched as an internal tool for risk analysis, Aladdin is now sold to external institutional clients (pension funds, sovereign wealth funds, asset managers). It aggregates market data, executes orders, models portfolios, and measures risk across asset classes.
+Aladdin is BlackRock's flagship portfolio construction and risk management platform. Launched as an internal tool for risk analysis, Aladdin is now sold to external institutional clients (pension funds, sovereign wealth funds, asset managers). It aggregates market data, executes orders, models portfolios, and measures risk across asset classes.
 
 Aladdin's value lies in its data integration and breadth. A large investor holding stocks, bonds, derivatives, and alternatives across multiple jurisdictions needs a unified view of risk and correlation. Aladdin provides this, making it an indispensable utility for large institutions. The platform generates recurring subscription revenue and deepens client lock-in.
 

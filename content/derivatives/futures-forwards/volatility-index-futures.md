@@ -86,6 +86,6 @@ Retail investors often access VIX via [ETFs](/wiki/etf/) and [inverse ETFs](/wik
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/option/">Option</a> — overview of how options market pricing drives the VIX.</li>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broader category of risk-transfer instruments.</li>
+<li>Derivatives — the broader category of risk-transfer instruments.</li>
 </ul>
 </div>

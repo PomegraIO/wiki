@@ -80,9 +80,9 @@ That said, the provision has proven imperfect. The 2008 financial crisis produce
 - [Audit Committee](/wiki/audit-committee/) — Oversees management certification and financial reporting
 
 ### Wider context
-- [Financial Statement](/wiki/financial-statements/) — The documents being certified
+- Financial Statement — The documents being certified
 - [Form 10-K](/wiki/10-k/) — Annual filing with management certification
-- [Form 10-Q](/wiki/form-10-q/) — Quarterly filing with management certification
+- Form 10-Q — Quarterly filing with management certification
 - [Earnings Quality](/wiki/earnings-quality/) — How management certification relates to reporting integrity
 - [Enron Accounting Fraud](/wiki/enron-accounting-fraud/) — Historical context for SOX passage
 

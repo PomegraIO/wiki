@@ -10,13 +10,13 @@ keywords:
 image: /svg/strategies.svg
 ---
 
-*The **factor decay** problem describes a striking pattern: after academics publish research documenting a return anomaly, the anomaly often weakens or disappears as capital flows into the strategy, [arbitrage](/wiki/arbitrage/) tightens pricing, and the signal's half-life compresses. Publication, paradoxically, reduces future returns. This dynamic raises a fundamental question for [factor investing](/wiki/factor-investing/): can a factor premium survive its own discovery?*
+*The **factor decay** problem describes a striking pattern: after academics publish research documenting a return anomaly, the anomaly often weakens or disappears as capital flows into the strategy, arbitrage tightens pricing, and the signal's half-life compresses. Publication, paradoxically, reduces future returns. This dynamic raises a fundamental question for [factor investing](/wiki/factor-investing/): can a factor premium survive its own discovery?*
 
 ## The observation and its pattern
 
 The factor decay story begins with a simple observation. Researchers identify a strategy—say, buying high-quality [accruals](/wiki/accruals-anomaly/) stocks—and test it on historical data, finding a 5% annualized excess return. They publish. Practitioners read the paper, build funds around it, and deploy capital. Ten years later, the realized return has fallen to 1–2% per year. Did the researchers cherry-pick data? Or does discovery itself kill the profit?
 
-Empirical evidence supports the latter. A meta-analysis across dozens of published anomalies reveals a consistent pattern: returns post-publication are typically 20–50% lower than returns pre-publication. Some factors persist at diminished levels; others fade to zero. [Accruals anomaly](/wiki/accruals-anomaly/), [momentum](/wiki/momentum/), and [value](/wiki/value-investing/) factors have all shown measurable decay since their academic codification.
+Empirical evidence supports the latter. A meta-analysis across dozens of published anomalies reveals a consistent pattern: returns post-publication are typically 20–50% lower than returns pre-publication. Some factors persist at diminished levels; others fade to zero. [Accruals anomaly](/wiki/accruals-anomaly/), momentum, and [value](/wiki/value-investing/) factors have all shown measurable decay since their academic codification.
 
 The decay is not universal or immediate. Factors driven by deep transaction costs (e.g., [liquidity factor](/wiki/liquidity-factor/)) or structural market frictions (e.g., [carry factor](/wiki/carry-factor-equities/)) show slower decay than behaviorally-driven anomalies. But decay is visible in most cases, starting within 3–7 years of publication.
 
@@ -40,7 +40,7 @@ However, publication bias alone does not fully explain the decay. Even after adj
 
 Researchers have attempted to quantify decay as a "half-life"—the time in years after publication at which a factor's return premium falls to half its historical level. Estimates vary, but a consensus range is 5–15 years, with wide variation.
 
-Factors with strong theoretical or structural underpinnings decay more slowly. [Carry](/wiki/carry-factor-equities/) and [liquidity](/wiki/liquidity-factor/) premiums persist because they reflect genuine economic frictions—borrowing costs, transaction costs, and agency risks that cannot be arbitraged away entirely. Behavioural factors like [momentum](/wiki/momentum/) or specific valuation anomalies decay faster because the cognitive biases that drive them can be addressed through awareness and discipline.
+Factors with strong theoretical or structural underpinnings decay more slowly. [Carry](/wiki/carry-factor-equities/) and [liquidity](/wiki/liquidity-factor/) premiums persist because they reflect genuine economic frictions—borrowing costs, transaction costs, and agency risks that cannot be arbitraged away entirely. Behavioural factors like momentum or specific valuation anomalies decay faster because the cognitive biases that drive them can be addressed through awareness and discipline.
 
 ## Implications for factor investors
 
@@ -50,7 +50,7 @@ For practitioners, factor decay creates several challenges and opportunities.
 
 **Factor turnover and discovery:** Some managers attempt to stay ahead of decay by continuously hunting for new, unpublished factors. The idea is to identify anomalies before they are arbitraged or published. This is the "factor alpha" game—finding the next [accruals anomaly](/wiki/accruals-anomaly/) before it is commoditised. But it is a hard game, and returns to factor discovery are uncertain.
 
-**Multi-factor diversification:** Rather than betting on a single factor with uncertain future returns, investors combine multiple factors—[value](/wiki/value-investing/), [momentum](/wiki/momentum/), [carry](/wiki/carry-factor-equities/), [quality](/wiki/quality-factor/), and [liquidity](/wiki/liquidity-factor/)—and rebalance regularly. This approach spreads the decay risk and captures newer, smaller factors alongside the decaying incumbents. The realized return is lower than a single pre-decay factor would suggest, but more stable and more reliable.
+**Multi-factor diversification:** Rather than betting on a single factor with uncertain future returns, investors combine multiple factors—[value](/wiki/value-investing/), momentum, [carry](/wiki/carry-factor-equities/), [quality](/wiki/quality-factor/), and [liquidity](/wiki/liquidity-factor/)—and rebalance regularly. This approach spreads the decay risk and captures newer, smaller factors alongside the decaying incumbents. The realized return is lower than a single pre-decay factor would suggest, but more stable and more reliable.
 
 **Timing and capacity awareness:** Practitioners with deep operational capacity may enter factor trades before publication, exit near peak crowding, and redeploy to emerging anomalies. This requires speed, agility, and access to unpublished research—advantages reserved for well-funded firms.
 
@@ -81,16 +81,16 @@ The best-run [factor investing](/wiki/factor-investing/) programs combine:
 - [Accruals anomaly](/wiki/accruals-anomaly/) — a classic case of documented decay post-publication
 - [Carry factor in equities](/wiki/carry-factor-equities/) — a structural factor showing slower decay than behavioural anomalies
 - [Liquidity factor](/wiki/liquidity-factor/) — another structural premium relatively resistant to decay
-- [Arbitrage](/wiki/arbitrage/) — the mechanism by which capital flows compress premiums
+- Arbitrage — the mechanism by which capital flows compress premiums
 - [Index fund](/wiki/index-fund/) — asset growth that can accelerate factor crowding
 
 ### Wider context
 
 - [Value investing](/wiki/value-investing/) — long-published factor showing measurable but persistent decay
-- [Momentum](/wiki/momentum/) — behavioural factor with faster observed decay than structural factors
-- [Market efficiency](/wiki/market-efficiency/) — theoretical framework implying that all published anomalies should decay
-- [Backtest overfitting](/wiki/backtest-overfitting/) — related cause of forward-performance disappointment
-- [Active management](/wiki/active-management/) — field facing pressure from factor commoditisation and decay
-- [Cost of capital](/wiki/cost-of-capital/) — friction that limits how much decay can occur before trades become unprofitable
+- Momentum — behavioural factor with faster observed decay than structural factors
+- Market efficiency — theoretical framework implying that all published anomalies should decay
+- Backtest overfitting — related cause of forward-performance disappointment
+- Active management — field facing pressure from factor commoditisation and decay
+- Cost of capital — friction that limits how much decay can occur before trades become unprofitable
 
 </div>

@@ -56,12 +56,12 @@ Transaction costs matter too. You pay commissions on all four sides (buy the cal
   <li><a href="/wiki/put-spread/">Put spread</a> — the bearish mirror of a call spread.</li>
   <li><a href="/wiki/option/">Option</a> — foundational derivatives contract.</li>
   <li><a href="/wiki/call-option/">Call option</a> — the long leg of a call spread.</li>
-  <li><a href="/wiki/butter-fly-spread/">Butterfly spread</a> — another multi-leg defined-risk strategy.</li>
+  <li>Butterfly spread — another multi-leg defined-risk strategy.</li>
   <li><a href="/wiki/implied-volatility/">Implied volatility</a> — key input to spread premiums.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/derivatives/">Derivatives</a> — category overview.</li>
+  <li>Derivatives — category overview.</li>
   <li><a href="/wiki/option-premium/">Option premium</a> — what you pay and collect on each leg.</li>
   <li><a href="/wiki/strike-price/">Strike price</a> — defines the boundary between profit and loss.</li>
 </ul>

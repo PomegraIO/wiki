@@ -144,16 +144,16 @@ Post-2008 financial crisis and COVID-19, CDFI funding and interest has grown. Go
 <div class="wiki-seealso">
 
 ### Closely related
-- [New Markets Tax Credit (NMTC)](/wiki/new-markets-tax-credit/) — Primary investor incentive
-- [Community Reinvestment Act (CRA)](/wiki/community-reinvestment-act/) — Regulatory framework
-- [Impact Investing](/wiki/impact-investing/) — Broader investment category
+- New Markets Tax Credit (NMTC) — Primary investor incentive
+- Community Reinvestment Act (CRA) — Regulatory framework
+- Impact Investing — Broader investment category
 - [Tax Credit](/wiki/alternative-minimum-tax-investor/) — How credits work
-- [Small Business Lending](/wiki/small-business-lending/) — CDFI loan category
+- Small Business Lending — CDFI loan category
 
 ### Wider context
 - [Affordable Housing](/wiki/mortgage-personal/) — Common CDFI use of capital
-- [Microfinance](/wiki/microfinance-lending/) — International CDFI equivalent
-- [Social Enterprise](/wiki/social-enterprise/) — Borrower type
+- Microfinance — International CDFI equivalent
+- Social Enterprise — Borrower type
 - [Tax Planning (Investor)](/wiki/marginal-tax-rate-investor/) — Integration with overall tax strategy
 - [Private Equity Fund](/wiki/private-equity-fund/) — Investment structure comparison
 

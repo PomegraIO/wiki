@@ -12,7 +12,7 @@ keywords:
 ***The convergence hypothesis** states that poorer nations tend to grow faster than richer ones, gradually narrowing the [income gap](/wiki/gdp-per-capita/). Supported by neoclassical growth models and some empirical evidence, it suggests a natural catch-up dynamic; critics note that divergence has often persisted or widened, especially across the poorest regions.*
 
 <div class="wiki-hatnote">
-For the theoretical framework, see [Solow growth model](/wiki/solow-growth-model/). For evidence on global inequality, see [World Bank](/wiki/world-bank/) and regional development patterns.
+For the theoretical framework, see [Solow growth model](/wiki/solow-growth-model/). For evidence on global inequality, see World Bank and regional development patterns.
 </div>
 
 <aside class="wiki-infobox">
@@ -130,7 +130,7 @@ China's extraordinary convergence (1980–2020) proved the optimists right in on
 ### Wider context
 
 - [Emerging markets](/wiki/emerging-markets-fund/) — Investment vehicles capturing convergence plays.
-- [Development economics](/wiki/world-bank/) — Policy focus for poor nations.
+- Development economics — Policy focus for poor nations.
 - [International finance](/wiki/foreign-direct-investment/) — Capital flows across borders.
 - [Trade surplus and deficit](/wiki/trade-deficit-era/) — How trade affects relative growth rates.
 

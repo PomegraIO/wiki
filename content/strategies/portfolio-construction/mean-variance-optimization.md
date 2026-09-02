@@ -45,7 +45,7 @@ The mathematics requires only linear algebra. With two assets, the formula is ne
 
 For decades, mean-variance optimization *was* portfolio management. Pension funds, insurance companies, and family offices built their entire allocation process around it. The logic appealed to trustees and boards: you feed in reasonable assumptions about returns and risks, the math does the rest, and you get a defensible answer. No gut feel. No bias. Just optimal.
 
-The framework also made risk concrete and measurable. Before Markowitz, risk was vague—something you felt. After him, risk was [volatility](/currency-volatility/): the [standard deviation](/.) of returns. That shift allowed institutions to talk about [asset allocation](/asset-allocation/) in numerical terms and to backtest historical tradeoffs.
+The framework also made risk concrete and measurable. Before Markowitz, risk was vague—something you felt. After him, risk was [volatility](/currency-volatility/): the standard deviation of returns. That shift allowed institutions to talk about [asset allocation](/asset-allocation/) in numerical terms and to backtest historical tradeoffs.
 
 ## The estimation problem
 

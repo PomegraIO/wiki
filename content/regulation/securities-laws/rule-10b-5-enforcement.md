@@ -58,7 +58,7 @@ Two key elements determine liability:
 
 **Materiality**: The information must be substantial enough that a reasonable investor would consider it important in making a decision. Earnings surprises, merger talks, regulatory approvals, and asset discoveries are classic examples. Courts rarely find routine operational details (like a missed deadline) material.
 
-**Scienter** (intent): The defendant must have acted with intent to deceive, manipulate, or defraud—or at least with reckless disregard for the truth. [Negligence](/wiki/negligence/) alone does not trigger civil Rule 10b-5 liability; gross negligence might.
+**Scienter** (intent): The defendant must have acted with intent to deceive, manipulate, or defraud—or at least with reckless disregard for the truth. Negligence alone does not trigger civil Rule 10b-5 liability; gross negligence might.
 
 ## The "disclose or abstain" rule
 
@@ -81,7 +81,7 @@ Algorithmic traders and market-makers must be especially careful. An algorithm t
 Rule 10b-5 does not cover every unfair market practice. Courts have held:
 
 - **Generalized market declines** unconnected to specific false statements are not cognizable.
-- **Losses from ordinary [competition](/wiki/competitive-advantage/)** (a better competitor taking market share) are not fraud.
+- **Losses from ordinary competition** (a better competitor taking market share) are not fraud.
 - **Silence alone** in the absence of a duty to disclose does not violate the rule.
 - **Forward-looking statements** are protected by the Private Securities Litigation Reform Act (if accompanied by meaningful cautionary language).
 

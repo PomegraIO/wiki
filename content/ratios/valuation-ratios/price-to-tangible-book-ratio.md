@@ -22,7 +22,7 @@ See [price-to-book-ratio](/wiki/price-to-book-ratio/) for the standard version, 
 
 ## Why exclude intangibles?
 
-[Goodwill](/wiki/goodwill/) and [intangible assets](/wiki/intangible-assets/) on a [balance sheet](/wiki/balance-sheet/) represent the price paid for an acquisition above its book value, plus any amount the company pays to value [brand](/wiki/brand/) or [patents](/wiki/patents/). These are real assets—a strong brand is worth money—but they are also fragile. A bad product cycle or a lost patent lawsuit can evaporate them. A [tangible book value](/wiki/tangible-book-value-per-share/) strips them out, leaving only the assets you could, in principle, put on a truck and sell.
+[Goodwill](/wiki/goodwill/) and [intangible assets](/wiki/intangible-assets/) on a [balance sheet](/wiki/balance-sheet/) represent the price paid for an acquisition above its book value, plus any amount the company pays to value brand or patents. These are real assets—a strong brand is worth money—but they are also fragile. A bad product cycle or a lost patent lawsuit can evaporate them. A [tangible book value](/wiki/tangible-book-value-per-share/) strips them out, leaving only the assets you could, in principle, put on a truck and sell.
 
 For a bank, tangible-book includes loans and securities; for a factory, it includes the plant and equipment. For an ad agency, intangible assets (client relationships, creative talent, brand) might be 80% of the balance sheet, so tangible-book value is nearly zero. The ratio works best for asset-heavy, "boring" industries.
 
@@ -38,7 +38,7 @@ Two stocks trading at 1.0 price-to-tangible-book are not equally valued if one o
 
 ## When tangible-book value is nearly worthless
 
-In software, consulting, pharmaceuticals, and [financial services](/wiki/financial-services/), tangible assets are a small part of the value. Trying to value Facebook by tangible-book value is nonsensical—the network, data, and brand are the entire business. Tangible-book value shines for capital-intensive businesses: utilities, REITs, railroads, and industrial companies.
+In software, consulting, pharmaceuticals, and financial services, tangible assets are a small part of the value. Trying to value Facebook by tangible-book value is nonsensical—the network, data, and brand are the entire business. Tangible-book value shines for capital-intensive businesses: utilities, REITs, railroads, and industrial companies.
 
 ## Liquidation value is different (but related)
 

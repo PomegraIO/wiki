@@ -52,7 +52,7 @@ A traditional straddle is simple: buy a call and put. A synthetic straddle is co
 <li><a href="/wiki/straddle/">Straddle</a> — the simpler, direct-options version.</li>
 <li><a href="/wiki/synthetic-long-stock/">Synthetic Long Stock</a> — one building block of synthetics.</li>
 <li><a href="/wiki/synthetic-short-stock/">Synthetic Short Stock</a> — another building block.</li>
-<li><a href="/wiki/arbitrage/">Arbitrage</a> — the primary use of synthetic straddles.</li>
+<li>Arbitrage — the primary use of synthetic straddles.</li>
 <li><a href="/wiki/call-option/">Call Option</a> — one leg of the structure.</li>
 </ul>
 <h3>Wider context</h3>

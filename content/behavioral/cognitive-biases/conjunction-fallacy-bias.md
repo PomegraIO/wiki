@@ -99,7 +99,7 @@ Rarely, the fallacy works against overoptimism. A trader might underestimate the
 - [Narrative Fallacy](/wiki/narrative-fallacy/) — Story-driven overconfidence in conjunctions
 
 ### Wider context
-- [Behavioral Economics](/wiki/behavioral-economics/) — Framework for cognitive biases
+- Behavioral Economics — Framework for cognitive biases
 - [Overconfidence Bias](/wiki/overconfidence-bias/) — Related tendency to overestimate forecast accuracy
 - [Anchoring Bias](/wiki/anchoring-bias/) — Similar role of initial information dominating updates
 - [Portfolio Concentration](/wiki/concentration-risk/) — Outcome when high-conviction bets reflect conjunction fallacy

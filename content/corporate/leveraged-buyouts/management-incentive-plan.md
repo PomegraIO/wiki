@@ -10,7 +10,7 @@ keywords:
 image: /svg/corporate.svg
 ---
 
-*A **management incentive plan** (or MIP) is a pool of [equity](//) or [options](/option/) that a [private equity sponsor](/lbo-sponsor/) reserves for the CEO and senior managers of a portfolio company, typically representing 10–25% of total equity value. It aligns management with the sponsor's financial returns, incentivises them to build enterprise value, and reduces turnover of critical talent during the hold period and at exit.*
+*A **management incentive plan** (or MIP) is a pool of equity or [options](/option/) that a [private equity sponsor](/lbo-sponsor/) reserves for the CEO and senior managers of a portfolio company, typically representing 10–25% of total equity value. It aligns management with the sponsor's financial returns, incentivises them to build enterprise value, and reduces turnover of critical talent during the hold period and at exit.*
 
 <aside class="wiki-infobox">
 
@@ -36,7 +36,7 @@ image: /svg/corporate.svg
 
 When a sponsor acquires a company, it needs the existing management team to stay and execute the business plan. Without incentive, the CEO or CFO may leave to join a competitor, retire, or start a new venture. An MIP solves this retention problem by promising management a meaningful share of upside if the sponsor exits successfully.
 
-The sponsor benefits twofold: it keeps critical human capital in place, and it converts management into co-owners with aligned incentives. Instead of the CEO optimizing for salary, bonus, and perks alone, the MIP makes the CEO's personal wealth depend on growing EBITDA, acquiring and integrating [add-on](/portco-add-on-acquisition/) platforms, and preparing the company for a lucrative exit. This is the core principle of [private equity](//)—aligning incentives between operators and investors.
+The sponsor benefits twofold: it keeps critical human capital in place, and it converts management into co-owners with aligned incentives. Instead of the CEO optimizing for salary, bonus, and perks alone, the MIP makes the CEO's personal wealth depend on growing EBITDA, acquiring and integrating [add-on](/portco-add-on-acquisition/) platforms, and preparing the company for a lucrative exit. This is the core principle of private equity—aligning incentives between operators and investors.
 
 An MIP is also cheaper than trying to hire a new CEO post-close. A seasoned operator familiar with the company's processes, customer relationships, and financial performance is worth far more than a search, onboarding, and the inevitable 12-month ramp period.
 
@@ -106,6 +106,6 @@ Another risk: if the executive leaves before exit and forfeits their MIP, resent
 - [Return on Equity](/return-on-equity/) — How MIPs affect sponsor ROE calculations
 - [Merger](/merger/) — Exit scenarios where management equity vests
 - [Acquisition](/acquisition/) — Portfolio acquisitions where new management MIPs are negotiated
-- [Incentive Stock Options](//) — Tax vehicle sometimes used for MIP structuring
+- Incentive Stock Options — Tax vehicle sometimes used for MIP structuring
 
 </div>

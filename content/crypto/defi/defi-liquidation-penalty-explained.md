@@ -75,7 +75,7 @@ The variation reflects protocol design philosophy and risk tolerance:
 
 ## The True Cost of Borrowing
 
-A borrower should think of the liquidation penalty as part of the borrowing cost, not a one-time event. If you're borrowing with a 150% [collateral ratio](/—/) and a 10% liquidation penalty, a 33% drop in collateral price will trigger liquidation and cost you 10% of your outstanding debt. That's expensive insurance against a bad outcome.
+A borrower should think of the liquidation penalty as part of the borrowing cost, not a one-time event. If you're borrowing with a 150% collateral ratio and a 10% liquidation penalty, a 33% drop in collateral price will trigger liquidation and cost you 10% of your outstanding debt. That's expensive insurance against a bad outcome.
 
 Calculating true borrowing cost requires:
 
@@ -135,8 +135,8 @@ Major protocols address this by:
 ### Wider context
 
 - [Blockchain fundamentals](/blockchain-fundamentals/) — how DeFi executes smart contracts
-- [Smart contract risk](/—/) — operational risks in protocol mechanics
-- [Collateral](/—/) — the asset securing the loan
+- Smart contract risk — operational risks in protocol mechanics
+- Collateral — the asset securing the loan
 - [Leverage](/leverage-ratio-forex/) — how collateral ratios create liquidation risk
 
 </div>

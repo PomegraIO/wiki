@@ -77,11 +77,11 @@ The best structured deals acknowledge these risks explicitly and price for them.
 <li><a href="/wiki/collateralized-debt-obligation/">Collateralized Debt Obligation</a> — a securitization whose underlying collateral is bonds or loans rather than mortgages.</li>
 <li><a href="/wiki/mortgage-backed-security/">Mortgage-Backed Security</a> — the most common structured-finance product, backed by pools of mortgages.</li>
 <li><a href="/wiki/credit-rating/">Credit Rating</a> — how rating agencies assess tranches and the instruments within them.</li>
-<li><a href="/wiki/waterfall/">Waterfall</a> — the payment priority structure that defines how cash from collateral is distributed to tranches.</li>
+<li>Waterfall — the payment priority structure that defines how cash from collateral is distributed to tranches.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/fixed-income/">Fixed Income</a> — the asset class to which structured products belong.</li>
+<li>Fixed Income — the asset class to which structured products belong.</li>
 <li><a href="/wiki/securitization/">Securitization</a> — the process by which structured finance is created.</li>
 <li><a href="/wiki/counterparty-risk/">Counterparty Risk</a> — the risk that intermediaries in structured deals fail to perform.</li>
 </ul>

@@ -8,7 +8,7 @@ keywords:
   - corporate action
 ---
 
-*A **bonus share issuance** (or "bonus issue") is a [corporate action](/wiki/equity/) where a company distributes additional [shares](/wiki/shares-of-stock/) to existing shareholders at no cost, funded by accumulated reserves or retained earnings. It increases the number of outstanding shares but does not change the company's economic value or shareholders' proportional ownership.*
+*A **bonus share issuance** (or "bonus issue") is a corporate action where a company distributes additional [shares](/wiki/shares-of-stock/) to existing shareholders at no cost, funded by accumulated reserves or retained earnings. It increases the number of outstanding shares but does not change the company's economic value or shareholders' proportional ownership.*
 
 <aside class="wiki-infobox">
 
@@ -104,7 +104,7 @@ Example timeline:
 ### Closely related
 - [Stock dividend](/wiki/stock-dividend/) — similar corporate action
 - [Stock split](/wiki/stock-split/) — alternative share division mechanism
-- [Corporate actions](/wiki/equity/) — broader category
+- Corporate actions — broader category
 - [Dividend](/wiki/dividend/) — cash alternative
 
 ### Wider context

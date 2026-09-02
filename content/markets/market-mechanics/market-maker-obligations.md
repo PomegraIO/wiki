@@ -111,7 +111,7 @@ Market maker obligations vary internationally:
 
 ### Wider context
 
-- [Market microstructure](/wiki/market-mechanics/) — Broader study of trading mechanics
+- Market microstructure — Broader study of trading mechanics
 - [Flash crash 2010](/wiki/flash-crash-2010/) — Event that exposed liquidity fragility
 - [Regulation SHO](/wiki/regulation-sho/) — Framework governing short selling and market maker conduct
 - [Best execution](/wiki/best-execution/) — Broker obligations that interact with market maker obligations

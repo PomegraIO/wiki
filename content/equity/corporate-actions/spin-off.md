@@ -63,8 +63,8 @@ The SEC requires the company to file detailed disclosure about the subsidiary, i
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events that change the structure or financing of a company.</li>
+  <li>Corporate actions — events that change the structure or financing of a company.</li>
   <li><a href="/wiki/conglomerate-discount/">Conglomerate discount</a> — valuation penalty when a diversified company trades at less than the sum of its parts.</li>
-  <li><a href="/wiki/shareholder/">Shareholder</a> — owner of equity in a company.</li>
+  <li>Shareholder — owner of equity in a company.</li>
 </ul>
 </div>

@@ -15,7 +15,7 @@ image: /svg/history.svg
 
 <div class="wiki-hatnote">
 
-For context on Niederhoffer's broader career and the 1997 event, see [Niederhoffer's overall trading history](/history/niederhoffer-career/). This article focuses specifically on the commodity and currency positions that deepened his losses.
+For context on Niederhoffer's broader career and the 1997 event, see Niederhoffer's overall trading history. This article focuses specifically on the commodity and currency positions that deepened his losses.
 
 </div>
 

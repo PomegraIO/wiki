@@ -28,31 +28,31 @@ keywords:
 ## Why funds use master-feeder structures
 
 The master-feeder structure solves a practical problem: investors with different regulatory, tax, or domicile status cannot always invest in the same fund. A hedge fund manager in the US wants to accept capital from:
-- US domestic investors (who can invest in a US [LLC](/wiki/limited-liability-company/))
-- Foreign investors (who may prefer to invest through an [offshore](/wiki/offshore-fund/) jurisdiction to avoid [PFIC (passive foreign investment company)](/wiki/foreign-investment-tax/) taxation)
-- Pension plans (who have distinct regulatory requirements under [ERISA](/wiki/employee-retirement-income-security-act/))
+- US domestic investors (who can invest in a US LLC)
+- Foreign investors (who may prefer to invest through an offshore jurisdiction to avoid PFIC (passive foreign investment company) taxation)
+- Pension plans (who have distinct regulatory requirements under ERISA)
 
 Rather than operating three separate funds with three separate portfolios, the manager creates:
-- One **master fund** (often an offshore [LLC](/wiki/limited-liability-company/) or Cayman Islands fund) holding the actual portfolio
+- One **master fund** (often an offshore LLC or Cayman Islands fund) holding the actual portfolio
 - Multiple **feeders** (one domestic US LLC, one offshore fund, one ERISA-compliant fund) collecting capital from different investor classes
 
 All feeders invest in the master, which simplifies operations: there is only one portfolio, one set of trades, one [prime broker](/wiki/prime-broker/), and one set of operational risks.
 
 ## Tax efficiency for foreign investors
 
-The primary tax motivation for master-feeder structures is avoiding [PFIC](/wiki/foreign-investment-tax/) status.
+The primary tax motivation for master-feeder structures is avoiding PFIC status.
 
-Under US tax law, a "Passive Foreign Investment Company" is a foreign corporation earning >75% of income from passive sources ([dividends](/wiki/dividend/), [interest](/wiki/interest-coverage-ratio/), [capital gains](/wiki/capital-gains-tax/)). US shareholders in [PFICs](/wiki/foreign-investment-tax/) must either:
+Under US tax law, a "Passive Foreign Investment Company" is a foreign corporation earning >75% of income from passive sources ([dividends](/wiki/dividend/), [interest](/wiki/interest-coverage-ratio/), [capital gains](/wiki/capital-gains-tax/)). US shareholders in PFICs must either:
 1. Mark-to-market gains annually (recognizing gains whether or not realized), or
 2. Defer gains but pay [ordinary income tax](/wiki/marginal-tax-rate-investor/) rates (not [capital gains](/wiki/capital-gains-tax/) rates) when gains are eventually realized, plus interest penalties.
 
-A foreign [hedge fund](/wiki/hedge-fund/) is almost always a [PFIC](/wiki/foreign-investment-tax/). If it accepts US investors directly, those investors face harsh [PFIC](/wiki/foreign-investment-tax/) taxation.
+A foreign [hedge fund](/wiki/hedge-fund/) is almost always a PFIC. If it accepts US investors directly, those investors face harsh PFIC taxation.
 
 Solution: use a master-feeder structure where:
-- The **offshore master fund** accepts foreign investors (non-US persons) without [PFIC](/wiki/foreign-investment-tax/) concern.
-- A **US domestic feeder** (typically an LLC) accepts US investors. Since the feeder is a US corporation, it is not a [PFIC](/wiki/foreign-investment-tax//).
+- The **offshore master fund** accepts foreign investors (non-US persons) without PFIC concern.
+- A **US domestic feeder** (typically an LLC) accepts US investors. Since the feeder is a US corporation, it is not a PFIC.
 
-The US investors invest in the domestic feeder, which invests all capital in the offshore master. The feeder is transparent for tax purposes (each investor's share of master-fund income is [passed through](/wiki/pass-through-security/)) so the feeder itself pays no tax; the investors pay tax on the actual master-fund income at [capital gains](/wiki/capital-gains-tax/) rates. This is far more efficient than [PFIC](/wiki/foreign-investment-tax/) taxation.
+The US investors invest in the domestic feeder, which invests all capital in the offshore master. The feeder is transparent for tax purposes (each investor's share of master-fund income is [passed through](/wiki/pass-through-security/)) so the feeder itself pays no tax; the investors pay tax on the actual master-fund income at [capital gains](/wiki/capital-gains-tax/) rates. This is far more efficient than PFIC taxation.
 
 ## Operational benefits: single portfolio, multiple fund structures
 
@@ -71,20 +71,20 @@ The feeders:
 - Report to investors
 - Handle compliance for their investor base
 
-This division of labor reduces redundancy. Suppose the manager holds a 100-stock [portfolio](/wiki/portfolio-construction/). If there were three separate funds, the portfolio would be replicated three times (100 stocks × 3 = 300 positions). With a master-feeder, there is one 100-stock portfolio, and all capital benefits from it.
+This division of labor reduces redundancy. Suppose the manager holds a 100-stock portfolio. If there were three separate funds, the portfolio would be replicated three times (100 stocks × 3 = 300 positions). With a master-feeder, there is one 100-stock portfolio, and all capital benefits from it.
 
 The master fund's [expense ratio](/wiki/expense-ratio/) is "charged through" to the feeders. If the master expenses are 1%, and the feeder adds 0.5%, the investor pays 1.5% all-in. This is more efficient than running three entirely separate funds (each with its own [prime broker](/wiki/prime-broker/), back office, compliance) at 2% each.
 
 ## Regulatory and compliance benefits
 
 Different investor classes have different rules:
-- **Pension plans** (endowments, pension funds) must comply with [ERISA](/wiki/employee-retirement-income-security-act/) regulations and often require "separately managed accounts" for accounting and governance.
-- **Foreign institutional investors** may need to comply with their home-country regulations and often prefer [offshore](/wiki/offshore-fund/) vehicles.
-- **Retail / high-net-worth US investors** often prefer [onshore](/wiki/onshore-fund/) structures to avoid foreign tax reporting (FBAR, FATCA).
+- **Pension plans** (endowments, pension funds) must comply with ERISA regulations and often require "separately managed accounts" for accounting and governance.
+- **Foreign institutional investors** may need to comply with their home-country regulations and often prefer offshore vehicles.
+- **Retail / high-net-worth US investors** often prefer onshore structures to avoid foreign tax reporting (FBAR, FATCA).
 
 A single master fund cannot easily satisfy all these constraints. A feeder structure allows the manager to offer compliant vehicles to each investor class while running a single investment strategy.
 
-For example: A pension plan might invest in a US-domiciled feeder fund that is structured as a separate account; the feeder invests all capital in the master fund. The pension plan's accounting and [ERISA](/wiki/employee-retirement-income-security-act/) compliance are satisfied at the feeder level, while the master fund handles the actual investing.
+For example: A pension plan might invest in a US-domiciled feeder fund that is structured as a separate account; the feeder invests all capital in the master fund. The pension plan's accounting and ERISA compliance are satisfied at the feeder level, while the master fund handles the actual investing.
 
 ## Fee mechanics and double-fee structures
 
@@ -135,11 +135,11 @@ Master-feeder structures are not ideal (extra fees, reduced transparency), but t
 - [Fund of funds](/wiki/fund-of-funds/) — Alternative structure investing in multiple underlying funds
 - [Hedge fund](/wiki/hedge-fund/) — Private investment fund using feeder structures
 - [Private equity fund](/wiki/private-equity-fund/) — Uses master-feeder for diverse capital sources
-- [PFIC](/wiki/foreign-investment-tax/) — Passive foreign investment company tax status
+- PFIC — Passive foreign investment company tax status
 
 ### Wider context
-- [Offshore fund](/wiki/offshore-fund/) — Fund domiciled outside investor's home jurisdiction
-- [ERISA](/wiki/employee-retirement-income-security-act/) — US pension and retirement plan rules
+- Offshore fund — Fund domiciled outside investor's home jurisdiction
+- ERISA — US pension and retirement plan rules
 - [Pass-through security](/wiki/pass-through-security/) — Tax-transparent vehicles
 - [Fund structure](/wiki/fund-family/) — Different vehicle types and organization
 

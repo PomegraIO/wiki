@@ -47,7 +47,7 @@ Several interlocking mechanisms sustain equity carry returns.
 
 **Behavioral underweighting.** Growth stocks attract attention and optimism; dividend-paying stocks are often dismissed as "boring" or "value traps." Retail and momentum-chasing investors underbuy high-yield stocks, creating a structural demand imbalance that keeps yields elevated relative to risk.
 
-**Carry dynamics across markets.** If US dividend yields are 2% and emerging market yields are 5%, global capital gradually reallocates toward emerging markets, pushing valuations higher. This dynamic is distinct from [momentum](/wiki/momentum/) and plays out on different timescales.
+**Carry dynamics across markets.** If US dividend yields are 2% and emerging market yields are 5%, global capital gradually reallocates toward emerging markets, pushing valuations higher. This dynamic is distinct from momentum and plays out on different timescales.
 
 ## Challenges and reversals
 
@@ -65,13 +65,13 @@ Practical implementation typically involves one of three approaches:
 
 2. **Active screening:** Combine yield with [earnings quality](/wiki/earnings-quality/), balance-sheet strength, and cash flow metrics to filter out dividend traps.
 
-3. **Multi-factor blend:** Combine equity carry with [value](/wiki/value-investing/), [momentum](/wiki/momentum/), and quality signals to diversify sources of return.
+3. **Multi-factor blend:** Combine equity carry with [value](/wiki/value-investing/), momentum, and quality signals to diversify sources of return.
 
 As with all factors, carry exposure is increasingly mainstream. Dividend-focused funds and ETFs have grown, bringing capital inflows that may compress future premiums. [Factor decay](/wiki/factor-decay/) is a real consideration: past returns do not guarantee future performance, particularly as the strategy becomes crowded.
 
 ## Relationship to other factors
 
-Equity carry is distinct from but overlaps with value, quality, and [momentum](/wiki/momentum/). A high-yield stock may also be a value stock (cheap) but could also be a value trap (genuinely distressed). Combining carry with [accruals anomaly](/wiki/accruals-anomaly/) (preferring cash-generating businesses) and [liquidity factor](/wiki/liquidity-factor/) (favoring liquid, actively traded stocks) can improve risk-adjusted returns by filtering out distressed cases.
+Equity carry is distinct from but overlaps with value, quality, and momentum. A high-yield stock may also be a value stock (cheap) but could also be a value trap (genuinely distressed). Combining carry with [accruals anomaly](/wiki/accruals-anomaly/) (preferring cash-generating businesses) and [liquidity factor](/wiki/liquidity-factor/) (favoring liquid, actively traded stocks) can improve risk-adjusted returns by filtering out distressed cases.
 
 ## See also
 
@@ -89,7 +89,7 @@ Equity carry is distinct from but overlaps with value, quality, and [momentum](/
 ### Wider context
 
 - [Value investing](/wiki/value-investing/) — philosophy overlapping with equity-carry strategies
-- [Momentum](/wiki/momentum/) — contrasting return driver often out of sync with carry
+- Momentum — contrasting return driver often out of sync with carry
 - [Interest rate](/wiki/interest-rate/) — cost-of-carry benchmark affecting profitability
 - [Price-to-earnings ratio](/wiki/price-to-earnings-ratio/) — valuation metric related to earnings yield
 - [Earnings quality](/wiki/earnings-quality/) — due-diligence complement to yield screening

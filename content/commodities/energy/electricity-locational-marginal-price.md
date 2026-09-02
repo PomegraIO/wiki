@@ -104,17 +104,17 @@ Not all markets use nodal pricing. The United States has both:
 
 ### Closely related
 
-- [Spot rate](/commodities/spot-rate/) — real-time pricing principle underlying LMP
-- [Price discovery](/commodities/price-discovery/) — how LMP reveals the true cost of power
-- [Market order](/commodities/market-order/) — the dispatch decision in real-time electricity
-- [Secondary market](/securities/secondary-market/) — where energy traders buy and sell LMP exposure
-- [Settlement](/commodities/settlement/) — how operators reconcile real-time trades
-- [Natural gas](/commodities/natural-gas/) — the marginal fuel in most LMP calculations
+- [Spot rate](/spot-rate/) — real-time pricing principle underlying LMP
+- [Price discovery](/price-discovery/) — how LMP reveals the true cost of power
+- [Market order](/market-order/) — the dispatch decision in real-time electricity
+- [Secondary market](/secondary-market/) — where energy traders buy and sell LMP exposure
+- Settlement — how operators reconcile real-time trades
+- [Natural gas](/natural-gas/) — the marginal fuel in most LMP calculations
 
 ### Wider context
 
-- [Commodity pricing](/commodities/commodity-pricing/) — LMP as a real-time commodity price
-- [Futures contract](/derivatives/futures-contract/) — how markets hedge LMP exposure
-- [Risk management](/risk-management/risk-management/) — using LMP derivatives
+- Commodity pricing — LMP as a real-time commodity price
+- [Futures contract](/futures-contract/) — how markets hedge LMP exposure
+- Risk management — using LMP derivatives
 
 </div>

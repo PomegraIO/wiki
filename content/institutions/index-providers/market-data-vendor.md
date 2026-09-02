@@ -42,11 +42,11 @@ For high-frequency trading (HFT) and algorithmic trading, vendors like **Exegy**
 
 ## Real-time vs. historical data
 
-Real-time feeds carry the most recent bid-ask quotes and trade prints. A trader routing an order wants to know the best price available *now*, not five minutes ago. Real-time data also supports [technical analysis](/wiki/technical-analysis/), [algorithmic trading](/wiki/algorithmic-trading/), and [risk management](/wiki/value-at-risk/).
+Real-time feeds carry the most recent bid-ask quotes and trade prints. A trader routing an order wants to know the best price available *now*, not five minutes ago. Real-time data also supports technical analysis, [algorithmic trading](/wiki/algorithmic-trading/), and [risk management](/wiki/value-at-risk/).
 
-Historical data serves [backtesting](/wiki/backtesting/), [correlation analysis](/wiki/correlation-coefficient/), and regulatory compliance. A [value-at-risk](/wiki/value-at-risk/) model needs years of return history to estimate tail [volatility](/wiki/implied-volatility/). A fund manager reporting to investors needs performance data for the exact period the fund has been operating.
+Historical data serves backtesting, [correlation analysis](/wiki/correlation-coefficient/), and regulatory compliance. A [value-at-risk](/wiki/value-at-risk/) model needs years of return history to estimate tail [volatility](/wiki/implied-volatility/). A fund manager reporting to investors needs performance data for the exact period the fund has been operating.
 
-Vendors offer both. Bloomberg and Refinitiv keep 20–30 years of daily and intraday data. Specialized vendors like **Quandl** and **Intrinio** focus on historical OHLC (open-high-low-close) and time-series data for [backtesting](/wiki/backtesting/) and machine learning.
+Vendors offer both. Bloomberg and Refinitiv keep 20–30 years of daily and intraday data. Specialized vendors like **Quandl** and **Intrinio** focus on historical OHLC (open-high-low-close) and time-series data for backtesting and machine learning.
 
 ## Derived products and analytics
 

@@ -20,7 +20,7 @@ keywords:
 | **Synonym** | Potential GDP, full-capacity output, trend GDP |
 | **Definition** | GDP when unemployment ≈ NAIRU, labor participation stable |
 | **Key components** | Labor force size, productivity, capital stock |
-| **Stability** | Shifts over years due to demographics, tech, [capital](/wiki/capital-allocation/) investment |
+| **Stability** | Shifts over years due to demographics, tech, capital investment |
 | **Measurement** | Estimated by central banks; not directly observable |
 | **Key regulators** | [Federal Reserve](/wiki/federal-reserve/), Congressional Budget Office |
 | **Policy implication** | Output below full employment = room for stimulus |

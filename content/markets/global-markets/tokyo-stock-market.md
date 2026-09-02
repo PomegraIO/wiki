@@ -78,7 +78,7 @@ As a result, large Japanese companies have become more dividend-focused and less
 
 The Tokyo Stock Market is heavily weighted toward large, multinational corporations: automotive (Toyota, Honda, Nissan), electronics (Sony, Panasonic, Nintendo), banking (Mizuho, MUFG, Sumitomo), and chemicals. These firms generate substantial revenue abroad and are sensitive to [currency](/wiki/currency-risk/) and commodity prices.
 
-The market also includes many smaller domestic-focused firms—retailers, utilities, local banks—that have lower international visibility and less [liquidity](/wiki/market-liquidity/). The [Nikkei 225](/wiki/nikkei-225-index/) is dominated by the large exporters, so it can be a poor proxy for the health of the Japanese domestic economy.
+The market also includes many smaller domestic-focused firms—retailers, utilities, local banks—that have lower international visibility and less liquidity. The [Nikkei 225](/wiki/nikkei-225-index/) is dominated by the large exporters, so it can be a poor proxy for the health of the Japanese domestic economy.
 
 ## International access and ADRs
 

@@ -50,7 +50,7 @@ The **basis** is the difference between a futures price and the spot price of th
 
 ## Risk management and hedging via spreads
 
-While spreads are often viewed as trading, they serve a hedging purpose. A cattle feeder who buys physical feeders and wants to lock in profit can use the [crush spread](/wiki/crush-spread/); the feeder is not speculating on the average price of cattle and feed, only on the margin between them. This reduces overall risk. Similarly, a cow-calf producer who is raising cattle for eventual sale can use calendar spreads to hedge forward output prices without betting on the direction.
+While spreads are often viewed as trading, they serve a hedging purpose. A cattle feeder who buys physical feeders and wants to lock in profit can use the crush spread; the feeder is not speculating on the average price of cattle and feed, only on the margin between them. This reduces overall risk. Similarly, a cow-calf producer who is raising cattle for eventual sale can use calendar spreads to hedge forward output prices without betting on the direction.
 
 ## Volatility and leverage in livestock spreads
 
@@ -66,7 +66,7 @@ Livestock futures are leveraged instruments; a contract controls thousands of po
 
 ### Wider context
 - [Commodity futures](/wiki/futures-contract/) — Standardized commodity contracts
-- [Crush spread](/wiki/crush-spread-commodity/) — Feed-to-output margin trading
+- Crush spread — Feed-to-output margin trading
 - [Hedging with futures](/wiki/hedging-with-futures/) — Risk management via derivatives
 
 </div>

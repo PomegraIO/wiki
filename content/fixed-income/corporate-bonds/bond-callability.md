@@ -52,7 +52,7 @@ The OAS is closer to the "true" yield you'd realize, because it factors in the c
 
 ## Refinancing risk
 
-Callable bonds have refinancing risk: the company can refinance the debt at your expense. In the past, call provisions were nearly universal on [corporate bonds](/wiki/corporate-bonds/)—issuers refused to borrow without the call option. In recent years, issuers have been willing to issue non-callable bonds if the market demands it, though callable remains standard.
+Callable bonds have refinancing risk: the company can refinance the debt at your expense. In the past, call provisions were nearly universal on corporate bonds—issuers refused to borrow without the call option. In recent years, issuers have been willing to issue non-callable bonds if the market demands it, though callable remains standard.
 
 [High-yield](/wiki/high-yield-bond/) bonds are almost always callable. [Investment-grade](/wiki/investment-grade-bond/) bonds are often non-callable or have long protection periods (call-protected for 10 years, for example).
 

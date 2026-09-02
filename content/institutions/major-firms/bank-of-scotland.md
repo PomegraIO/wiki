@@ -24,7 +24,7 @@ keywords:
 
 ## A three-century lineage in Scottish finance
 
-The Bank of Scotland was chartered by the Scottish Parliament in 1695, making it one of Europe's oldest banks and the first bank of issue in Scotland. Its founding coincided with the Act of Union debates, and the bank became a symbol of Scottish economic independence even as political union approached. For over 300 years, BOS was Scotland's dominant [bank](/wiki/bank/) and financial anchor — issuing currency, financing industry, and managing the wealth of Scottish landowners and merchants.
+The Bank of Scotland was chartered by the Scottish Parliament in 1695, making it one of Europe's oldest banks and the first bank of issue in Scotland. Its founding coincided with the Act of Union debates, and the bank became a symbol of Scottish economic independence even as political union approached. For over 300 years, BOS was Scotland's dominant bank and financial anchor — issuing currency, financing industry, and managing the wealth of Scottish landowners and merchants.
 
 Through the 18th and 19th centuries, the bank's reputation for prudent lending and reserve management made it a model for [commercial banking](/wiki/commercial-paper/) across Britain. The famous £1 million loan to the British government during the Napoleonic Wars, extended without collateral, cemented its standing as a source of stability during national crises.
 

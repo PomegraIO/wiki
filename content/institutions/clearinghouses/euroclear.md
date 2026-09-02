@@ -53,7 +53,7 @@ Beyond settlement, Euroclear provides **custody services**—safekeeping of secu
 
 - Holds the securities in immobilized form.
 - Collects dividends and [coupon payments](/wiki/coupon-payment/).
-- Manages [corporate actions](/wiki/corporate-actions/) (splits, mergers, spin-offs).
+- Manages corporate actions (splits, mergers, spin-offs).
 - Provides daily statements and reporting.
 
 Custody fees typically run 1–3 basis points annually of assets under custody, generating significant revenue.
@@ -110,7 +110,7 @@ With ~€30 trillion in assets under custody and billions of daily transactions,
 - [Custodian](/wiki/custodian/) — The role Euroclear plays for investors
 
 ### Wider context
-- [Clearstream](/wiki/clearstream/) — A competitor in European settlement
+- Clearstream — A competitor in European settlement
 - [Herstatt Risk](/wiki/herstatt-risk/) — The settlement risk Euroclear eliminates
 - [European Central Bank](/wiki/european-central-bank/) — The regulator
 - [Repo](/wiki/repurchase-agreement/) — A major use case for Euroclear infrastructure

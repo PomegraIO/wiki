@@ -10,7 +10,7 @@ keywords:
   - household behavior
 ---
 
-*The **consumption function** is a mathematical relationship that describes how household spending varies with changes in disposable income, a foundational concept in [macroeconomic](/wiki/macroeconomic/) theory that underpins [fiscal policy](/wiki/fiscal-policy-expansionary/) analysis and [multiplier](/wiki/fiscal-multiplier/) calculations.*
+*The **consumption function** is a mathematical relationship that describes how household spending varies with changes in disposable income, a foundational concept in macroeconomic theory that underpins [fiscal policy](/wiki/fiscal-policy-expansionary/) analysis and [multiplier](/wiki/fiscal-multiplier/) calculations.*
 
 <aside class="wiki-infobox">
 
@@ -27,7 +27,7 @@ keywords:
 
 ## Why the relationship exists at a household level
 
-Households face a fundamental choice: spend disposable income now or save it. When income increases, households typically raise both consumption and saving, but not in equal measure. The **consumption function** formalizes this trade-off. At very low incomes, households must spend everything just to survive; additional income gets divided between new consumption and saving. This observation, first articulated systematically by John Maynard Keynes, became one of the pillars of modern [macroeconomics](/wiki/macroeconomic/).
+Households face a fundamental choice: spend disposable income now or save it. When income increases, households typically raise both consumption and saving, but not in equal measure. The **consumption function** formalizes this trade-off. At very low incomes, households must spend everything just to survive; additional income gets divided between new consumption and saving. This observation, first articulated systematically by John Maynard Keynes, became one of the pillars of modern macroeconomics.
 
 The reason the relationship holds is behavioral: household spending depends on current purchasing power and expectations about future income stability. A permanent raise generates larger consumption increases than a temporary bonus, a phenomenon explored by [Milton Friedman's](/wiki/milton-friedman/) permanent income hypothesis. Even so, the short-run response is predictable enough to estimate from historical data.
 
@@ -43,7 +43,7 @@ The cumulative effect creates the [fiscal multiplier](/wiki/fiscal-multiplier/),
 
 In the short run, empirical estimates place the MPC between 0.6 and 0.85 for developed economies. Over decades, however, the relationship becomes flatter. A household earning $50,000 one year might have an MPC of 0.8, spending $40,000 of each marginal dollar. But if a cohort's income rises steadily from $40,000 to $80,000 over years, the consumption-to-income ratio stabilizes around the original proportion rather than rising with it—a puzzle called the **Kuznets paradox**.
 
-Modern explanations include [habit formation](/wiki/habit-formation-consumption/), wealth effects, and the reality that consumption depends on permanent income expectations, not temporary spikes. During recessions, households maintain spending by drawing on [accumulated savings](/wiki/savings-rate/) rather than cutting consumption proportionally to income loss. Conversely, temporary tax cuts often generate smaller consumption responses than permanent tax changes.
+Modern explanations include habit formation, wealth effects, and the reality that consumption depends on permanent income expectations, not temporary spikes. During recessions, households maintain spending by drawing on [accumulated savings](/wiki/savings-rate/) rather than cutting consumption proportionally to income loss. Conversely, temporary tax cuts often generate smaller consumption responses than permanent tax changes.
 
 ## Policy implications and limits to the model
 
@@ -73,6 +73,6 @@ Economists debate whether the MPC is stable enough for reliable policy targeting
 - [Fiscal Policy](/wiki/fiscal-policy-expansionary/) — government use of spending and taxes
 - [Output Gap](/wiki/output-gap/) — difference between potential and actual GDP
 - [Aggregate Demand](/wiki/aggregate-hours-worked/) — total spending in the economy
-- [Macroeconomics](/wiki/macroeconomic/) — study of economy-wide behavior
+- Macroeconomics — study of economy-wide behavior
 
 </div>

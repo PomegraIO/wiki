@@ -41,7 +41,7 @@ Variable costing is not permitted for external financial reporting under [US GAA
 
 ## Variable costing in break-even and sensitivity analysis
 
-The variable costing framework is also the foundation for [break-even analysis](/wiki/cost-allocation/). The break-even point (in units) is calculated as [fixed costs](/wiki/fixed-charge-coverage-ratio/) divided by [contribution margin](/wiki/contribution-margin/) per unit. This formula is so natural under variable costing that it highlights why the method is preferred for planning. Similarly, sensitivity analysis on price changes, volume changes, or cost changes all pivot on the [contribution margin](/wiki/contribution-margin/), which variable costing isolates clearly. A firm considering a 10% price cut can immediately see how many additional units it must sell to hold profit constant.
+The variable costing framework is also the foundation for break-even analysis. The break-even point (in units) is calculated as [fixed costs](/wiki/fixed-charge-coverage-ratio/) divided by [contribution margin](/wiki/contribution-margin/) per unit. This formula is so natural under variable costing that it highlights why the method is preferred for planning. Similarly, sensitivity analysis on price changes, volume changes, or cost changes all pivot on the [contribution margin](/wiki/contribution-margin/), which variable costing isolates clearly. A firm considering a 10% price cut can immediately see how many additional units it must sell to hold profit constant.
 
 <div class="wiki-seealso">
 
@@ -53,7 +53,7 @@ The variable costing framework is also the foundation for [break-even analysis](
 
 ### Wider context
 - [Cost of goods sold](/wiki/cogs-percentage-sales/) — The numerator in gross margin, structured differently under variable vs. absorption costing
-- [Break-even analysis](/wiki/cost-allocation/) — Depends on the contribution margin concept central to variable costing
+- Break-even analysis — Depends on the contribution margin concept central to variable costing
 - [Generally accepted accounting principles](/wiki/generally-accepted-accounting-principles/) — The framework mandating absorption costing for external reports
 - [Revenue recognition](/wiki/revenue-recognition/) — The timing principle that pairs with cost allocation in income measurement
 

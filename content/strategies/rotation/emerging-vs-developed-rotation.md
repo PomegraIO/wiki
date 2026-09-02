@@ -41,7 +41,7 @@ Actual spreads vary by methodology. Some analysts track the [price-to-earnings-r
 
 ## Growth-cycle leadership rotations
 
-A more sophisticated approach ties rotation to [business-cycle](/wiki/business-cycle/) positioning. Early in a global expansion, emerging markets pull ahead — they have spare capacity, cheap labor, and hungry consumer bases. [Commodity](/wiki/commodities/) demand accelerates, lifting EM terms of trade. Mid-cycle, developed markets often stabilize and deliver steady cash returns as margins expand. Late cycle, volatility rises and EM currencies weaken under rate-hike pressure; DM equities become safer. This doesn't work mechanically every cycle, but it frames when to hold each region.
+A more sophisticated approach ties rotation to [business-cycle](/wiki/business-cycle/) positioning. Early in a global expansion, emerging markets pull ahead — they have spare capacity, cheap labor, and hungry consumer bases. Commodity demand accelerates, lifting EM terms of trade. Mid-cycle, developed markets often stabilize and deliver steady cash returns as margins expand. Late cycle, volatility rises and EM currencies weaken under rate-hike pressure; DM equities become safer. This doesn't work mechanically every cycle, but it frames when to hold each region.
 
 Central-bank policy also matters. If the [Federal Reserve](/wiki/federal-reserve/) tightens sharply while [emerging-market central banks](/wiki/central-bank/) remain accommodative, EM currencies depreciate and foreign currency returns suffer. A rotation into DM offsets that headwind. Conversely, if the Fed pauses and the US is viewed as mature and saturated, EM growth becomes more attractive in real terms.
 

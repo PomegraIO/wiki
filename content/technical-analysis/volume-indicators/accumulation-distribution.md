@@ -8,7 +8,7 @@ keywords:
   - institutional buying pressure
 ---
 
-*The **accumulation/distribution** (A/D) line is a [technical analysis](/wiki/technical-analysis/) indicator that combines [price](/wiki/stock-market/) and [volume](/wiki/volume-breadth-divergence/) to assess whether a [security](/wiki/common-stock/) is in an **accumulation phase** (smart money or institutions building [positions](/wiki/position-trading/)) or a **distribution phase** (smart money exiting positions). A divergence between A/D and [price](/wiki/stock-market/)—for example, price rising while A/D falls—suggests the rally lacks conviction and may reverse, providing a warning to [traders](/wiki/trading-halts/) before the crowd realizes.*
+*The **accumulation/distribution** (A/D) line is a technical analysis indicator that combines [price](/wiki/stock-market/) and [volume](/wiki/volume-breadth-divergence/) to assess whether a [security](/wiki/common-stock/) is in an **accumulation phase** (smart money or institutions building [positions](/wiki/position-trading/)) or a **distribution phase** (smart money exiting positions). A divergence between A/D and [price](/wiki/stock-market/)—for example, price rising while A/D falls—suggests the rally lacks conviction and may reverse, providing a warning to [traders](/wiki/trading-halts/) before the crowd realizes.*
 
 <aside class="wiki-infobox">
 
@@ -50,11 +50,11 @@ The A/D line is one of several [volume indicators](/wiki/volume-breadth-divergen
 
 - **[On-Balance Volume](/wiki/obv-on-balance-volume/)** (OBV): A cumulative [volume](/wiki/volume-breadth-divergence/) indicator that adds [volume](/wiki/volume-breadth-divergence/) on up days and subtracts on down days. OBV is simpler than A/D but does not account for where the [close](/wiki/closing-print/) falls within the day's range.
 
-- **[Money Flow Index](/wiki/money-flow-index/)** (MFI): Like [relative strength index](/wiki/rsi-relative-strength/) (RSI) but incorporates [volume](/wiki/volume-breadth-divergence/). MFI ranges from 0–100 and identifies [overbought](/wiki/overbought/) and oversold conditions.
+- **[Money Flow Index](/wiki/money-flow-index/)** (MFI): Like [relative strength index](/wiki/rsi-relative-strength/) (RSI) but incorporates [volume](/wiki/volume-breadth-divergence/). MFI ranges from 0–100 and identifies overbought and oversold conditions.
 
 - **[Chaikin Oscillator](/wiki/chaikin-oscillator/)**: Applies moving averages to the A/D line to generate signals.
 
-The A/D line is less a standalone signal than a **confirmation tool**—use it alongside [price action](/wiki/price-discovery/), [support and resistance](/wiki/support-resistance-basics/), and other [technical indicators](/wiki/technical-analysis/) to increase conviction.
+The A/D line is less a standalone signal than a **confirmation tool**—use it alongside [price action](/wiki/price-discovery/), [support and resistance](/wiki/support-resistance-basics/), and other technical indicators to increase conviction.
 
 ## Limitations and caveats
 
@@ -80,9 +80,9 @@ A/D divergences are not foolproof. Several pitfalls:
 
 Conversely, at [resistance](/wiki/resistance-zone-ceiling/), a bearish divergence (price ↑, A/D ↓) is a short setup. This discipline ensures [trades](/wiki/trade-reporting/) are only taken when volume confirms the move.
 
-## Limitations of [technical analysis](/wiki/technical-analysis/) as a whole
+## Limitations of technical analysis as a whole
 
-A/D is a [technical analysis](/wiki/technical-analysis/) tool, and all such tools operate on the assumption that price history and [volume](/wiki/volume-breadth-divergence/) patterns repeat. This is contested by [efficient market](/wiki/market-efficiency/) advocates who argue [stocks](/wiki/common-stock/) are fairly priced and [technical signals](/wiki/technical-analysis/) are noise. [Fundamental investors](/wiki/fundamental-investing/) dismiss A/D as distraction from [earnings](/wiki/earnings-per-share/) and [cash flow](/wiki/cash-flow-statement/).
+A/D is a technical analysis tool, and all such tools operate on the assumption that price history and [volume](/wiki/volume-breadth-divergence/) patterns repeat. This is contested by efficient market advocates who argue [stocks](/wiki/common-stock/) are fairly priced and technical signals are noise. [Fundamental investors](/wiki/fundamental-investing/) dismiss A/D as distraction from [earnings](/wiki/earnings-per-share/) and [cash flow](/wiki/cash-flow-statement/).
 
 However, A/D has some empirical support. Studies show that [price-volume](/wiki/volume-breadth-divergence/) divergences do predict reversals at above-random rates, particularly at key [support](/wiki/support-resistance-basics/) and [resistance](/wiki/resistance-zone-ceiling/) levels. A/D is most useful as one signal among many, not as a standalone oracle.
 
@@ -94,7 +94,7 @@ However, A/D has some empirical support. Studies show that [price-volume](/wiki/
 - [Chaikin Oscillator](/wiki/chaikin-oscillator/) — Moving average of the A/D line for smoother signals
 
 ### Wider context
-- [Technical Analysis](/wiki/technical-analysis/) — The broader discipline of price and volume pattern recognition
+- Technical Analysis — The broader discipline of price and volume pattern recognition
 - [Support and Resistance](/wiki/support-resistance-basics/) — Price levels where A/D divergences are most meaningful
 - [Swing Trading](/wiki/swing-trading/) — Short-term trading strategy that relies heavily on volume indicators
 

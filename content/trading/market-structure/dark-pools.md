@@ -35,7 +35,7 @@ The [SEC](/wiki/securities-and-exchange-commission/) rule is that [dark pool](/w
 
 ## Liquidity pools within dark pools
 
-Many modern [dark pools](/wiki/dark-pool-detail/) are not truly "dark" in the sense of total anonymity. They publish indicative liquidity pools to attract traders—signals that say, "We have 500,000 shares of Microsoft available to buy or sell," without naming the trader or committing to an exact price. Traders use these signals to decide whether to route orders to that [dark pool](/wiki/dark-pool-detail/]).
+Many modern [dark pools](/wiki/dark-pool-detail/) are not truly "dark" in the sense of total anonymity. They publish indicative liquidity pools to attract traders—signals that say, "We have 500,000 shares of Microsoft available to buy or sell," without naming the trader or committing to an exact price. Traders use these signals to decide whether to route orders to that [dark pool](/dark-pool-detail/).
 
 ## Controversies and concerns
 

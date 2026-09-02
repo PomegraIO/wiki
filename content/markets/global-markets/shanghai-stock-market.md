@@ -29,7 +29,7 @@ The Shanghai Stock Exchange is the centerpiece of China's equity capital markets
 
 ## The dual-board structure: Mainboard and STAR
 
-The Shanghai market operates a two-tier listing regime. The traditional Mainboard focuses on established, profitable manufacturers and state-owned enterprises; listing standards emphasize minimum profitability and maturity. The Science & Technology Innovation Board (STAR Board, launched 2019) caters to high-growth, loss-making tech and biotech firms, operating under lighter [call-option](/wiki/call-option/) restrictions and registration-style approvals reminiscent of NASDAQ. This split mirrors the Shenzhen exchange's ChiNext tier and reflects Beijing's intent to nurture innovation-sector capital formation while maintaining [risk management](/wiki/risk-management/) standards for blue-chip listings.
+The Shanghai market operates a two-tier listing regime. The traditional Mainboard focuses on established, profitable manufacturers and state-owned enterprises; listing standards emphasize minimum profitability and maturity. The Science & Technology Innovation Board (STAR Board, launched 2019) caters to high-growth, loss-making tech and biotech firms, operating under lighter [call-option](/wiki/call-option/) restrictions and registration-style approvals reminiscent of NASDAQ. This split mirrors the Shenzhen exchange's ChiNext tier and reflects Beijing's intent to nurture innovation-sector capital formation while maintaining risk management standards for blue-chip listings.
 
 ## Listing standards and corporate governance
 

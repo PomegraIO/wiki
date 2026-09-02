@@ -73,7 +73,7 @@ Most countries have not explicitly regulated cryptocurrency options. In the US, 
 <ul>
 <li><a href="/wiki/option/">Option</a> — the traditional finance equivalent.</li>
 <li><a href="/wiki/futures-contract/">Futures Contract</a> — another crypto derivative used for hedging and speculation.</li>
-<li><a href="/wiki/forex-option/">FX Option</a> — options on currency pairs, conceptually similar.</li>
+<li>FX Option — options on currency pairs, conceptually similar.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>

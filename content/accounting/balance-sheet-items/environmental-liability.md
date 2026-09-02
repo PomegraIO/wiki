@@ -82,13 +82,13 @@ Some companies face environmental liabilities that rival or exceed their market 
 ### Closely related
 - [Contingent Liabilities](/wiki/contingent-liability/) — disclosure of unrecognized risks
 - [Balance Sheet](/wiki/balance-sheet/) — liability placement
-- [ASC 410](/wiki/asc-410/) — accounting standard
-- [Remediation Costs](/wiki/remediation-obligation/) — basis for liability
+- ASC 410 — accounting standard
+- Remediation Costs — basis for liability
 
 ### Wider context
-- [Pollution Liability](/wiki/pollution-liability/) — insurance coverage
-- [Superfund](/wiki/comprehensive-environmental-response/) — regulatory driver
-- [Environmental Compliance](/wiki/environmental-compliance/) — operational requirements
+- Pollution Liability — insurance coverage
+- Superfund — regulatory driver
+- Environmental Compliance — operational requirements
 - [Impairment Testing](/wiki/asset-impairment/) — related balance-sheet issue
 
 </div>

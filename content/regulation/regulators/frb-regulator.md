@@ -39,7 +39,7 @@ Beyond monetary policy, the FRB is the primary [regulator](/wiki/financial-regul
 - **Liquidity standards** — Rules requiring banks maintain enough liquid assets to survive 30-day funding stresses ([LCR](/wiki/absolute-liquid-assets-ratio/)).
 - **Single counterparty [credit exposure](/wiki/counterparty-credit-risk/) limits** — Capping how much a bank can lend to any one borrower.
 
-These rules aim to prevent [systemic risk](/wiki/systemic-risk/)—the scenario where failure of one large bank triggers a cascade of failures. The FRB learned this lesson painfully in 2008; looser pre-crisis regulation allowed [leverage](/wiki/financial-leverage/) and interconnection to spiral out of control.
+These rules aim to prevent [systemic risk](/wiki/systemic-risk/)—the scenario where failure of one large bank triggers a cascade of failures. The FRB learned this lesson painfully in 2008; looser pre-crisis regulation allowed leverage and interconnection to spiral out of control.
 
 ## Dodd-Frank and beyond
 

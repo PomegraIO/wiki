@@ -95,9 +95,9 @@ For investors building a short-term cash allocation, comparing a 3-month Treasur
 
 - [Treasury Bill](/treasury-bill/) — the canonical money market instrument, priced and traded in money market yield
 - [Discount Rate](/discount-rate/) — the broader concept of pricing instruments below face value
-- [Bond Equivalent Yield](/fixed-income/bond-math/nominal-spread/) — the 365-day convention for bonds and CDs
+- [Bond Equivalent Yield](/nominal-spread/) — the 365-day convention for bonds and CDs
 - [Current Yield](/current-yield/) — annual income as a percentage of price, applied to longer-dated instruments
-- [Yield-to-Maturity](/fixed-income/bond-math/yield-spread-measures/) — the true internal rate of return, accounting for reinvestment
+- [Yield-to-Maturity](/yield-spread-measures/) — the true internal rate of return, accounting for reinvestment
 
 ### Wider context
 

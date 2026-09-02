@@ -57,7 +57,7 @@ Box spreads are a textbook arbitrage only in institutional, liquid markets. Reta
 <li><a href="/wiki/bull-call-spread/">Bull Call Spread</a> — one half of a box spread.</li>
 <li><a href="/wiki/bear-put-spread/">Bear Put Spread</a> — the other half of a box spread.</li>
 <li><a href="/wiki/synthetic-long-stock/">Synthetic Long Stock</a> — economically similar payoff.</li>
-<li><a href="/wiki/arbitrage/">Arbitrage</a> — the pricing principle underlying boxes.</li>
+<li>Arbitrage — the pricing principle underlying boxes.</li>
 <li><a href="/wiki/strike-price/">Strike Price</a> — defines the box boundaries.</li>
 </ul>
 <h3>Wider context</h3>

@@ -96,6 +96,6 @@ Defensive ETFs are less appropriate for:
 <ul>
 <li><a href="/wiki/equity-etf/">Equity ETF</a> — the broader category.</li>
 <li><a href="/wiki/asset-allocation/">Asset Allocation</a> — the portfolio context for defensive positioning.</li>
-<li><a href="/wiki/volatility/">Volatility</a> — the risk metric minimized by defensive strategies.</li>
+<li>Volatility — the risk metric minimized by defensive strategies.</li>
 </ul>
 </div>

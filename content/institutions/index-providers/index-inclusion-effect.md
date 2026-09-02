@@ -11,7 +11,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **index inclusion effect** is the empirical tendency for a stock's price to rise—often sharply—when it is announced as a new addition to a major [index](/wiki/stock-market/), and to fall when it is announced for removal. Because hundreds of [index funds](/wiki/index-fund/) and [ETFs](/wiki/etf/) automatically buy the newly added stock on the rebalance date, the announcement creates a temporary surge in demand that pushes the price up, followed by possible [mean reversion](/wiki/trading/) in the weeks and months after.*
+*The **index inclusion effect** is the empirical tendency for a stock's price to rise—often sharply—when it is announced as a new addition to a major [index](/wiki/stock-market/), and to fall when it is announced for removal. Because hundreds of [index funds](/wiki/index-fund/) and [ETFs](/wiki/etf/) automatically buy the newly added stock on the rebalance date, the announcement creates a temporary surge in demand that pushes the price up, followed by possible mean reversion in the weeks and months after.*
 
 ## Why additions and removals matter
 
@@ -19,7 +19,7 @@ When a company is added to the [S&P 500](/wiki/sp-500-index/) or another major b
 
 This is not a subtle effect. Research shows that an addition to a major index typically generates:
 - A **price jump** of 2–10% over the announcement window (the few days surrounding the announcement)
-- A **volume surge** of 3–5 times normal [trading volume](/wiki/trading/) on the rebalance date itself
+- A **volume surge** of 3–5 times normal trading volume on the rebalance date itself
 - Elevated [volatility](/wiki/historical-volatility/) for days afterward
 
 Removals work in reverse. A stock deleted from the index must be sold by tracking funds, flooding the market with selling pressure and depressing the price.

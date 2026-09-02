@@ -84,7 +84,7 @@ Seeding arrangements are typically documented in detailed side letters and manag
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/venture-capital-fund/">Venture capital fund</a> — a related ecosystem with different structures.</li>
-  <li><a href="/wiki/startup-funding/">Startup funding</a> — parallels to private-company seeding.</li>
+  <li>Startup funding — parallels to private-company seeding.</li>
   <li><a href="/wiki/management-buyout/">Management buyout</a> — another transaction where fund stakes are important.</li>
 </ul>
 </div>

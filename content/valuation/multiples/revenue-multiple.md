@@ -9,7 +9,7 @@ keywords:
   - sales multiple
 ---
 
-*A **revenue multiple**, or price-to-sales (P/S) ratio, expresses a company's market [valuation](/wiki/valuation/) as a multiple of its annual revenue. Where a P/E ratio divides market value by earnings, the revenue multiple divides market value by sales. The metric is especially useful for valuing [high-growth](/wiki/growth-investing/) or unprofitable companies where earnings are volatile or negative.*
+*A **revenue multiple**, or price-to-sales (P/S) ratio, expresses a company's market valuation as a multiple of its annual revenue. Where a P/E ratio divides market value by earnings, the revenue multiple divides market value by sales. The metric is especially useful for valuing [high-growth](/wiki/growth-investing/) or unprofitable companies where earnings are volatile or negative.*
 
 <aside class="wiki-infobox">
 
@@ -18,7 +18,7 @@ keywords:
 | **Formula** | Market capitalization / Annual revenue, or stock price / revenue per share |
 | **Typical range** | 0.5–5× for mature industrials; 5–20× for growth; 50×+ for unprofitable SaaS |
 | **Advantage** | Hard to manipulate; available even for loss-making firms |
-| **Disadvantage** | Ignores [profitability](/wiki/profit-margin/) and [capital efficiency](/wiki/return-on-capital-employed/) differences |
+| **Disadvantage** | Ignores profitability and [capital efficiency](/wiki/return-on-capital-employed/) differences |
 | **Bias** | Favors high-margin businesses; penalizes low-margin, high-volume ones |
 | **Industry variation** | Tech and SaaS trade at higher multiples; utilities and retail at lower ones |
 | **Comparable metric** | [EV/Revenue](/wiki/ev-to-sales/) (enterprise value to revenue); includes debt |
@@ -31,7 +31,7 @@ Revenue is less subject to accounting manipulation than earnings. A company can 
 
 For unprofitable businesses (most venture-backed startups, growth-stage SaaS, biotech in development), [P/E ratios](/wiki/price-to-earnings-ratio/) are meaningless or infinite. A company burning cash but growing 100% annually has negative earnings but measurable revenue. The revenue multiple provides a bridge: investors can compare valuations even when profitability is not yet relevant.
 
-The metric also sidesteps sector-specific [capital intensity](/wiki/asset-turnover-ratio/) differences. A software business with 80% [gross margins](/wiki/gross-margin/) and a retailer with 25% gross margins have very different profit outcomes for the same sales. The revenue multiple forces investors to think explicitly about [operational leverage](/wiki/operating-leverage/) and whether the valuation reflects the company's true [competitive advantage](/wiki/moat/).
+The metric also sidesteps sector-specific [capital intensity](/wiki/asset-turnover-ratio/) differences. A software business with 80% gross margins and a retailer with 25% gross margins have very different profit outcomes for the same sales. The revenue multiple forces investors to think explicitly about operational leverage and whether the valuation reflects the company's true competitive advantage.
 
 ## The relationship between revenue multiple and profitability
 
@@ -45,11 +45,11 @@ A company valued at 5× revenue and a company valued at 2× revenue are implicit
 - If it achieves 20% net margin, it trades at 2 / 0.20 = 10× earnings
 - If it achieves 10% net margin, it trades at 2 / 0.10 = 20× earnings
 
-A high revenue multiple is justified only if the market believes the company will become very profitable. Amazon famously traded at high revenue multiples for years because it reinvested heavily in growth while building [operating leverage](/wiki/operating-leverage/). Once it began [scaling earnings](/wiki/economies-of-scale/), the P/E ratio normalized downward even as the stock rose—because earnings grew faster than the P/E multiple compressed.
+A high revenue multiple is justified only if the market believes the company will become very profitable. Amazon famously traded at high revenue multiples for years because it reinvested heavily in growth while building operating leverage. Once it began scaling earnings, the P/E ratio normalized downward even as the stock rose—because earnings grew faster than the P/E multiple compressed.
 
 ## Comparing revenue multiples across sectors
 
-Technology and SaaS companies typically trade at 5–15× revenue because their [gross margins](/wiki/gross-margin/) are high (70–90%), and investors expect eventual [profitability](/wiki/profitability/) in excess of 30%. A SaaS company growing 40% annually at 3× revenue is implicitly expected to achieve 15–20% net margins at scale.
+Technology and SaaS companies typically trade at 5–15× revenue because their gross margins are high (70–90%), and investors expect eventual profitability in excess of 30%. A SaaS company growing 40% annually at 3× revenue is implicitly expected to achieve 15–20% net margins at scale.
 
 Consumer staples and utilities trade at 0.5–2× revenue because their margins are inherently lower (5–15% net margins). Wal-Mart at 0.6× revenue reflects the math: at ~6% net margin, 0.6× revenue implies a P/E of ~10×, reasonable for a mature, stable business.
 
@@ -112,8 +112,8 @@ A defensive approach: for any company trading above 10× revenue, explicitly for
 - [Enterprise value](/wiki/enterprise-value/) — market cap plus net debt; the denominator for EV metrics
 
 ### Wider context
-- [Valuation](/wiki/valuation/) — assigning a fair value to a company or asset
-- [Profitability](/wiki/profit-margin/) — ability to generate earnings from revenue
+- Valuation — assigning a fair value to a company or asset
+- Profitability — ability to generate earnings from revenue
 - [Operating margin](/wiki/operating-margin/) — earnings from operations as a percentage of sales
 - [Comparable company analysis](/wiki/comparable-company-analysis/) — valuing firms by comparing multiples to peers
 

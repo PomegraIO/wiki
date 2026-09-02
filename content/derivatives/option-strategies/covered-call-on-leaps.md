@@ -36,7 +36,7 @@ In a classic [covered call](/covered-call/), you own 100 shares and sell one cal
 
 With a covered call on LEAPS, you reverse the leverage: instead of owning stock, you own a LEAPS call (often 12–36 months out, struck at or near the current price). You then repeatedly sell shorter-dated calls (30–60 days) against that LEAPS position. Each time the short call expires, you either let it expire worthless (and sell another) or roll it to a new strike and date.
 
-The key difference is collateral. Your LEAPS call—not cash or shares—secures the short call position. Brokers treat the LEAPS as having some or all of its [delta](/option/#greeks) and notional value available for margin, so the buying power requirement is usually lower than selling a naked call or even lower than selling a call against stock. You are essentially using the leverage *within* the LEAPS to fund the premium collection from the short calls.
+The key difference is collateral. Your LEAPS call—not cash or shares—secures the short call position. Brokers treat the LEAPS as having some or all of its delta and notional value available for margin, so the buying power requirement is usually lower than selling a naked call or even lower than selling a call against stock. You are essentially using the leverage *within* the LEAPS to fund the premium collection from the short calls.
 
 ## Margin Treatment and Buying Power
 
@@ -122,7 +122,7 @@ It underperforms if the stock soars beyond your long LEAPS strike (capped upside
 - LEAPS — long-term options fundamentals
 - [Option Wheel Strategy Explained](/options-wheel-strategy-explained/) — repeating put-and-call cycle
 - [Protective Put vs Collar](/protective-put-vs-collar-strategy/) — alternative downside strategies
-- [Delta](/option/#greeks) — how much an option price moves with the stock
+- Delta — how much an option price moves with the stock
 
 ### Wider context
 

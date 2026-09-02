@@ -98,7 +98,7 @@ However, if the market interprets the capital reduction as a sign that the compa
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events altering company structure or shareholder rights.</li>
-  <li><a href="/wiki/equity/">Equity</a> — shareholders' residual claim on a company's assets.</li>
+  <li>Corporate actions — events altering company structure or shareholder rights.</li>
+  <li>Equity — shareholders' residual claim on a company's assets.</li>
 </ul>
 </div>

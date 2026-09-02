@@ -91,7 +91,7 @@ This is the logic behind quality factor investing: "quality" often means high ea
 <h3>Wider context</h3>
 <ul>
 <li><a href="/wiki/cash-flow-statement/">Cash Flow Statement</a> — where operating cash flow reveals earnings quality.</li>
-<li><a href="/wiki/accounting/">Accounting</a> — the principles underlying earnings measurement.</li>
+<li>Accounting — the principles underlying earnings measurement.</li>
 <li><a href="/wiki/quality-factor/">Quality Factor</a> — factor investing strategy that emphasizes earnings quality.</li>
 </ul>
 </div>

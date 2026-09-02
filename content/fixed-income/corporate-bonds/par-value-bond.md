@@ -24,7 +24,7 @@ When a company issues a bond with $1,000 par value and a 5% coupon, it promises:
 - To pay $50 per year in [coupon payments](/wiki/coupon-payment/) (5% × $1,000)
 - To return the full $1,000 at [maturity](/wiki/bond-maturity-corporate/)
 
-Par value is typically $1,000 for institutional [corporate bonds](/wiki/corporate-bonds/), though some older bonds used $500 or $10,000. When a bond is first issued at par, you pay $1,000 and receive $50 per year in interest.
+Par value is typically $1,000 for institutional corporate bonds, though some older bonds used $500 or $10,000. When a bond is first issued at par, you pay $1,000 and receive $50 per year in interest.
 
 ## Par vs. market price
 
@@ -40,7 +40,7 @@ Similarly, [duration](/wiki/bond-duration-risk/) and [convexity](/wiki/convexity
 
 ## Recovery at default
 
-Par value is the amount the company commits to repay. If the company defaults (goes bankrupt), par is the "recovery value" from which any loss is measured. A bond trading at $400 with $1,000 par is worth much less than par because investors expect to recover only a fraction of the principal in [bankruptcy](/wiki/bankruptcy/). This is why [junk bonds](/wiki/junk-bond/) often trade well below par—[credit risk](/wiki/credit-risk/) is priced in.
+Par value is the amount the company commits to repay. If the company defaults (goes bankrupt), par is the "recovery value" from which any loss is measured. A bond trading at $400 with $1,000 par is worth much less than par because investors expect to recover only a fraction of the principal in bankruptcy. This is why [junk bonds](/wiki/junk-bond/) often trade well below par—[credit risk](/wiki/credit-risk/) is priced in.
 
 ## Why par matters for comparison
 

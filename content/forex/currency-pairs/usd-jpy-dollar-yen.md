@@ -98,7 +98,7 @@ USD/JPY is more than a currency pair; it is a real-time indicator of [carry trad
 - [Carry-trade pairs](/wiki/carry-trade-pairs/) — related yen pairs
 - [Federal funds rate](/wiki/federal-funds-rate/) — US policy driver
 - [Bank of Japan](/wiki/bank-of-japan/) — yen policy maker
-- [Safe haven](/wiki/safe-haven/) — yen safe-haven role
+- Safe haven — yen safe-haven role
 
 ### Wider context
 - [Implied volatility](/wiki/implied-volatility/) — [forex](/wiki/forex-leverage/) pricing

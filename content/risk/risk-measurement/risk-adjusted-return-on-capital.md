@@ -11,7 +11,7 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Risk-adjusted return on capital (RAROC) divides a business line's profit by the [economic capital](/wiki/slug/) allocated to it—the cushion of loss-absorbing funds required to meet a target [default probability](/default-rate/). It answers the question: how much profit does this unit earn per dollar of risk it carries? Banks use RAROC to decide whether a loan, trading desk, or product line generates enough return to justify the capital it ties up.*
+*Risk-adjusted return on capital (RAROC) divides a business line's profit by the economic capital allocated to it—the cushion of loss-absorbing funds required to meet a target [default probability](/default-rate/). It answers the question: how much profit does this unit earn per dollar of risk it carries? Banks use RAROC to decide whether a loan, trading desk, or product line generates enough return to justify the capital it ties up.*
 
 <aside class="wiki-infobox">
 
@@ -34,7 +34,7 @@ image: "/svg/risk.svg"
 
 ## The gap between accounting and economic capital
 
-Traditional [return on equity](/return-on-equity/) (net income divided by shareholder equity on the balance sheet) tells an incomplete story in banking. A [commercial bank](/wiki/slug/) might hold $100 million of equity and earn $10 million, yielding a 10% ROE. But if a particular loan—say, a $10 million credit to a stressed borrower—could wipe out 50% of the bank's equity in a stress scenario, the true capital required to absorb that loan's risk is much larger than its nominal size on the balance sheet.
+Traditional [return on equity](/return-on-equity/) (net income divided by shareholder equity on the balance sheet) tells an incomplete story in banking. A commercial bank might hold $100 million of equity and earn $10 million, yielding a 10% ROE. But if a particular loan—say, a $10 million credit to a stressed borrower—could wipe out 50% of the bank's equity in a stress scenario, the true capital required to absorb that loan's risk is much larger than its nominal size on the balance sheet.
 
 Economic capital is a forward-looking estimate of the loss buffer a bank needs to stay solvent if losses hit the projected worst case (typically defined as a 1-in-1,000-year event or a target probability of default). A retail mortgage portfolio and a leveraged buyout portfolio, each producing identical accounting profits, might require vastly different economic capital because of their risk profiles.
 
@@ -48,11 +48,11 @@ In practice, banks rarely reach perfect equilibrium because of regulatory [capit
 
 ## Calculating economic capital: the mechanics
 
-Economic capital is typically computed using [value at risk](/value-at-risk/) or [expected shortfall](/wiki/slug/) models. A bank specifies a confidence level (e.g., 99.9%) and a time horizon (e.g., one year), then asks: what loss level would we exceed with only 0.1% probability?
+Economic capital is typically computed using [value at risk](/value-at-risk/) or expected shortfall models. A bank specifies a confidence level (e.g., 99.9%) and a time horizon (e.g., one year), then asks: what loss level would we exceed with only 0.1% probability?
 
 For a $10 million loan with a 5% probability of default, 60% loss-given-default, and assuming default events are mostly independent, the expected loss is $10M × 5% × 60% = $300,000. But there is volatility around that expectation; in a bad year, losses could spike to $2 million. The economic capital is roughly the difference between the worst-case loss (at the chosen percentile) and the expected loss, sometimes plus a buffer. The exact formula varies by institution and regulatory regime.
 
-Credit [derivatives](/wiki/slug/) and [securitization](/securitization/) markets have made economic capital more explicit: the capital tranche of a [mortgage-backed security](/mortgage-backed-security/) is the first to absorb losses, and its market price reveals what capital costs in that context.
+Credit derivatives and [securitization](/securitization/) markets have made economic capital more explicit: the capital tranche of a [mortgage-backed security](/mortgage-backed-security/) is the first to absorb losses, and its market price reveals what capital costs in that context.
 
 ## Adjusting profit for risk: the numerator
 
@@ -60,7 +60,7 @@ The numerator of RAROC is typically "risk-adjusted" profit, not raw accounting p
 
 > Loan interest income — expected loss — cost of funds — operating expenses = risk-adjusted profit
 
-The expected loss is subtracted *even if no default has occurred yet*, because it is an implicit cost of bearing credit [risk](/wiki/slug/). A loan generating $100,000 in interest but carrying a $30,000 expected loss has risk-adjusted profit of only $70,000—much lower than accounting income.
+The expected loss is subtracted *even if no default has occurred yet*, because it is an implicit cost of bearing credit risk. A loan generating $100,000 in interest but carrying a $30,000 expected loss has risk-adjusted profit of only $70,000—much lower than accounting income.
 
 For a trading desk, risk adjustment might account for [stressed loss estimates](/stress-testing/) or [value at risk](/value-at-risk/) limits breached during extreme moves.
 
@@ -74,7 +74,7 @@ The post-2008 regulatory framework has made RAROC more constraining. A business 
 
 RAROC is as good as the economic capital model underlying it. If the model assumes defaults are independent but they are actually correlated (as they are in recessions), the calculated capital is too low, and RAROC is overstated. A portfolio of loans to real estate developers looked profitable with high RAROC in 2006; the 2008 crisis revealed that the true economic capital was much larger.
 
-Many banks now use [Monte Carlo simulation](/wiki/slug/) and [scenario analysis](/sensitivity-analysis-valuation/) to stress-test RAROC assumptions. A business line must show not only high RAROC under the base-case economic capital estimate but also acceptable RAROC under plausible alternative capital models.
+Many banks now use Monte Carlo simulation and [scenario analysis](/sensitivity-analysis-valuation/) to stress-test RAROC assumptions. A business line must show not only high RAROC under the base-case economic capital estimate but also acceptable RAROC under plausible alternative capital models.
 
 ## See also
 
@@ -82,7 +82,7 @@ Many banks now use [Monte Carlo simulation](/wiki/slug/) and [scenario analysis]
 
 ### Closely related
 
-- [Economic capital](/wiki/slug/) — the loss-absorbing buffer allocated to a business line or [counterparty](/counterparty-risk/)
+- Economic capital — the loss-absorbing buffer allocated to a business line or [counterparty](/counterparty-risk/)
 - [Cost of equity](/cost-of-equity/) — the hurdle rate against which RAROC is benchmarked
 - [Return on equity](/return-on-equity/) — the accounting metric that RAROC refines by incorporating forward-looking risk
 - [Value-at-risk](/value-at-risk/) — a statistical method for estimating worst-case losses that feed into economic capital

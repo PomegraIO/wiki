@@ -32,7 +32,7 @@ The CFPB operates independently within the Federal Reserve's structure but is st
 
 The CFPB was created in response to widespread mortgage fraud and predatory lending that contributed to the [2008 financial crisis](/wiki/subprime-mortgage-crisis/). Its founding statute gave it:
 
-- **Rulemaking authority** over federal consumer-protection laws: [Truth in Lending Act](/wiki/truth-in-lending-implicitly/) (TILA), [Fair Credit Reporting Act](/wiki/fair-credit-reporting-act-implicitly/), [Real Estate Settlement Procedures Act](/wiki/respa-regulation-implicitly/) (RESPA), and others.
+- **Rulemaking authority** over federal consumer-protection laws: Truth in Lending Act (TILA), Fair Credit Reporting Act, Real Estate Settlement Procedures Act (RESPA), and others.
 - **Examination and enforcement** powers over covered institutions (banks, mortgage companies, payday lenders, [credit reporting agencies](/wiki/credit-rating/)).
 - **Independence from industry pressure:** unlike a central bank regulator (Fed, OCC) juggling monetary policy and prudential regulation, the CFPB's sole mandate is consumer protection.
 
@@ -40,11 +40,11 @@ The CFPB is headed by a Director, appointed by the President and Senate-confirme
 
 ## Core regulatory focus areas
 
-**Mortgages:** The CFPB enforces rules on disclosure (Regulation Z, the TILA-RESPA Integrated Disclosure or TRID), [origination fees](/wiki/loan-origination-fees/), [servicing](/wiki/mortgage-servicing-implicitly/) practices, and predatory lending. It investigates firms that misrepresent loan terms or fail to disclose costs clearly.
+**Mortgages:** The CFPB enforces rules on disclosure (Regulation Z, the TILA-RESPA Integrated Disclosure or TRID), [origination fees](/wiki/loan-origination-fees/), servicing practices, and predatory lending. It investigates firms that misrepresent loan terms or fail to disclose costs clearly.
 
-**Credit cards:** Rules on [grace periods](/wiki/grace-period-implicitly/), disclosure of interest rates and fees, [credit limit](/wiki/credit-limit-implicitly/) increases, and penalty fees. The CFPB has fined major issuers for deceptive marketing or unauthorized fee charges.
+**Credit cards:** Rules on grace periods, disclosure of interest rates and fees, credit limit increases, and penalty fees. The CFPB has fined major issuers for deceptive marketing or unauthorized fee charges.
 
-**Student loans:** Oversight of loan servicing, income-driven repayment programs, and predatory lending to borrowers. The CFPB published guidance on [student loan forgiveness](/wiki/student-loan-forgiveness-implicitly/) and challenges borrowers' complaints about servicers.
+**Student loans:** Oversight of loan servicing, income-driven repayment programs, and predatory lending to borrowers. The CFPB published guidance on student loan forgiveness and challenges borrowers' complaints about servicers.
 
 **Payday and short-term lending:** Enforcement against loans with [APR](/wiki/annual-percentage-rate/) rates exceeding 400%, no-credit-check structures that trap borrowers in debt cycles, and deceptive terms.
 
@@ -66,19 +66,19 @@ The CFPB identifies consumer-protection gaps, proposes rules, and after public c
 - **Restitution:** Refunds to harmed consumers.
 - **Public disclosure:** Publicizing violations and penalties to deter others.
 
-Notable actions include fines against [Wells Fargo](/wiki/wells-fargo/) for fake accounts ($3 billion+), [Chase](/wiki/jpmorgan-chase/) for mortgage servicing failures, and [Equifax](/wiki/equifax-breach-implicitly/) for inadequate [data security](/wiki/cybersecurity-finance-implicitly/).
+Notable actions include fines against [Wells Fargo](/wiki/wells-fargo/) for fake accounts ($3 billion+), [Chase](/wiki/jpmorgan-chase/) for mortgage servicing failures, and Equifax for inadequate data security.
 
 ## Controversy and legal challenges
 
 The CFPB has been contentious. Critics argue:
 
-- **Overreach:** The rulemaking authority is broad; rules on [payday lending](/wiki/payday-lending-implicitly/) (capping fees, requiring underwriting) have been challenged as exceeding statutory authority.
+- **Overreach:** The rulemaking authority is broad; rules on payday lending (capping fees, requiring underwriting) have been challenged as exceeding statutory authority.
 - **Capture:** Some argue the CFPB is captured by consumer advocates or fintech disruption narrative, stifling legitimate lending.
 - **Funding structure:** The CFPB's funding via assessments on large banks (not Congressional appropriations) is constitutionally questioned (some argue it violates the Appropriations Clause).
 
 **Legal challenges:**
 - In *Seila Law LLC v. CFPB* (2020), the Supreme Court ruled the CFPB Director's tenure protections were unconstitutional; the Director can now be removed by the President at will.
-- Rules on [payday lending](/wiki/payday-lending-implicitly/) have been vacated or stayed pending legal review.
+- Rules on payday lending have been vacated or stayed pending legal review.
 
 Supporters counter that the CFPB prevents predatory lending (which harms lower-income borrowers disproportionately) and that its enforcement has recovered billions in restitution.
 
@@ -93,20 +93,20 @@ The CFPB works alongside:
 
 ## Impact and outcomes
 
-**Outcomes:** The CFPB has significantly reduced [predatory lending](/wiki/predatory-lending-implicitly/) in mortgages and has issued hundreds of millions in restitution. However, critics note that compliance costs may reduce credit availability for subprime borrowers (a tradeoff between protection and access).
+**Outcomes:** The CFPB has significantly reduced predatory lending in mortgages and has issued hundreds of millions in restitution. However, critics note that compliance costs may reduce credit availability for subprime borrowers (a tradeoff between protection and access).
 
-**Controversy on effectiveness:** Some evidence suggests the CFPB's [mortgage origination](/wiki/mortgage-origination-fees/) rules (TRID) increased costs without improving outcomes. Others argue the agency is too timid and that regulations are frequently litigated and weakened.
+**Controversy on effectiveness:** Some evidence suggests the CFPB's mortgage origination rules (TRID) increased costs without improving outcomes. Others argue the agency is too timid and that regulations are frequently litigated and weakened.
 
 ## Future directions
 
-The CFPB's authority and funding remain subjects of Congressional debate. Recent administrations have taken different stances: some promoting aggressive consumer enforcement, others favoring less-intrusive approaches. The agency's role in emerging areas like [cryptocurrency](/wiki/cryptocurrency-bubble-2017/) and [artificial intelligence](/wiki/ai-lending-implicitly/) in credit decisions is still developing.
+The CFPB's authority and funding remain subjects of Congressional debate. Recent administrations have taken different stances: some promoting aggressive consumer enforcement, others favoring less-intrusive approaches. The agency's role in emerging areas like [cryptocurrency](/wiki/cryptocurrency-bubble-2017/) and artificial intelligence in credit decisions is still developing.
 
 <div class="wiki-seealso">
 
 ### Closely related
 - [Dodd-Frank Act](/wiki/dodd-frank-act/) — the statute creating the CFPB
-- [Truth in Lending](/wiki/truth-in-lending-implicitly/) — core statute the CFPB enforces
-- [Fair Debt Collection Practices Act](/wiki/fdcpa-implicitly/) — debt collection rule
+- Truth in Lending — core statute the CFPB enforces
+- Fair Debt Collection Practices Act — debt collection rule
 
 ### Wider context
 - [Federal Reserve](/wiki/federal-reserve/) — prudential banking regulator

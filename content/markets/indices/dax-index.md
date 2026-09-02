@@ -38,7 +38,7 @@ The index is calculated in German euros (EUR). Cross-border investors buying the
 
 ## DAX as proxy for European growth
 
-The DAX is often used to gauge European economic momentum. German manufacturing is the industrial heart of Europe; when DAX earnings guidance weakens or equity valuations compress, it signals broader European slowdown. Conversely, DAX strength suggests European confidence. This makes the DAX sensitive to [interest rate](/wiki/central-bank-interest-rate/) decisions by the [European Central Bank](/wiki/european-central-bank/), trade policy affecting manufacturing, and China's growth (a key customer for German goods).
+The DAX is often used to gauge European economic momentum. German manufacturing is the industrial heart of Europe; when DAX earnings guidance weakens or equity valuations compress, it signals broader European slowdown. Conversely, DAX strength suggests European confidence. This makes the DAX sensitive to interest rate decisions by the [European Central Bank](/wiki/european-central-bank/), trade policy affecting manufacturing, and China's growth (a key customer for German goods).
 
 During the COVID-19 pandemic, the DAX recovered faster than many indices because German manufacturers benefited from supply chain reshoring and reopening demand. Similarly, post-2022 energy crises hit the DAX harder than indices in energy-abundant countries, reflecting Germany's vulnerability to energy price shocks.
 
@@ -56,7 +56,7 @@ The [dividend yield](/wiki/dividend-yield/) of the DAX has historically been 2.5
 
 ## DAX versus other European indices
 
-The DAX (Germany) focuses on large-cap industrial and manufacturing strength. The [FTSE 100](/wiki/ftse-100-index/) (UK) is banking and energy-heavy. The [CAC 40](/wiki/cac-40-index/) (France) includes telecom, luxury goods, and utilities. The [Eurostoxx 50](/wiki/broader-european-indices/) includes companies from the entire eurozone. A globally diversified [investor](/wiki/international-etf/) might own all four, recognizing that European exposure concentrates differently in each index.
+The DAX (Germany) focuses on large-cap industrial and manufacturing strength. The [FTSE 100](/wiki/ftse-100-index/) (UK) is banking and energy-heavy. The [CAC 40](/wiki/cac-40-index/) (France) includes telecom, luxury goods, and utilities. The Eurostoxx 50 includes companies from the entire eurozone. A globally diversified [investor](/wiki/international-etf/) might own all four, recognizing that European exposure concentrates differently in each index.
 
 ## Currency and geopolitical sensitivity
 

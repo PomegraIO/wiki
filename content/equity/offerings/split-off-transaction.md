@@ -58,7 +58,7 @@ A **spin-off** is simpler administratively: the parent distributes subsidiary sh
 
 ## Tax treatment under Section 355
 
-Both structures can qualify as tax-free under Internal Revenue Code [Section 355](/wiki/section-355/), provided:
+Both structures can qualify as tax-free under Internal Revenue Code Section 355, provided:
 
 1. **Reorganization requirement**: The split-off must be part of a bona fide corporate restructuring, not a disguised dividend or sale.
 2. **Control maintenance**: After the split-off, both parent and subsidiary must be independently controlled by their respective shareholder groups.
@@ -136,7 +136,7 @@ Occasionally, split-offs are used to shift control. If controlling shareholders 
 - [Spin-off transaction](/wiki/spin-off-transaction/) — Detailed mechanics of spin-offs.
 - [Demerger](/wiki/demerger/) — European term for splitting an entity.
 - [Corporate restructuring](/wiki/recapitalization/) — Broader context of capital structure changes.
-- [Section 355](/wiki/section-355/) — Tax code governing tax-free splits.
+- Section 355 — Tax code governing tax-free splits.
 
 ### Wider context
 

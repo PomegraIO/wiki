@@ -31,7 +31,7 @@ For the asset class, see <a href="/wiki/real-estate-investment-trust/">Real Esta
 
 ## The e-commerce shock and the secular shift in consumer behavior
 
-The rise of [Amazon](/wiki/amazon-business-model/) and online retailing accelerated a shift that began in the 1990s, but the pace of acceleration was underestimated by [retail REITs](/wiki/retail-reit/) and property investors. Between 2010 and 2023, e-commerce grew from ~6% of total U.S. retail sales to ~15%, and the [pandemic](/wiki/pandemic-economics/) pushed that penetration jump by 5+ years overnight. Apparel, books, electronics, and home goods — the traditional mall anchor categories — have been hollowed out online.
+The rise of Amazon and online retailing accelerated a shift that began in the 1990s, but the pace of acceleration was underestimated by [retail REITs](/wiki/retail-reit/) and property investors. Between 2010 and 2023, e-commerce grew from ~6% of total U.S. retail sales to ~15%, and the pandemic pushed that penetration jump by 5+ years overnight. Apparel, books, electronics, and home goods — the traditional mall anchor categories — have been hollowed out online.
 
 The problem is not merely that foot traffic fell; it is that the **highest-margin retailers** are the ones that went online. A discount apparel store that drew 5,000 foot traffic per day also drew traffic to complementary shoe stores, restaurants, and niche boutiques. When the anchor apparel store closes, foot traffic collapses across the property, and smaller tenants cannot sustain their leases. This creates a cascading failure: one anchor closure triggers others, accelerating the property's spiral.
 
@@ -102,12 +102,12 @@ These trends are unlikely to reverse, making retail property a structurally chal
 - [Real estate investment trust](/wiki/real-estate-investment-trust/) — REIT framework and types
 - [Commercial real estate](/wiki/commercial-real-estate/) — The broader sector
 - [Office space trends](/wiki/office-space-trends/) — Parallel challenges in office sector
-- [Mixed-use real estate](/wiki/mixed-use-real-estate/) — Evolving property format
+- Mixed-use real estate — Evolving property format
 
 ### Wider context
 - [Cap rate](/wiki/cap-rate/) — Property valuation metric
-- [Occupancy rate](/wiki/occupancy-rate/) — Tenant utilization measure
-- [E-commerce](/wiki/e-commerce/) — The structural disruptor
-- [Real estate valuation](/wiki/real-estate-valuation/) — Repricing mechanics
+- Occupancy rate — Tenant utilization measure
+- E-commerce — The structural disruptor
+- Real estate valuation — Repricing mechanics
 
 </div>

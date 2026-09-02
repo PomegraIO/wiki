@@ -78,14 +78,14 @@ Sophisticated lenders monitor protocol solvency in real time. TVL (total value l
 
 ### Closely related
 - [Counterparty Risk](/wiki/counterparty-risk/) — core risk concept
-- [Smart Contract Risk](/wiki/smart-contract-risk/) — protocol implementation risk
+- Smart Contract Risk — protocol implementation risk
 - [Flash Loan](/wiki/flash-loan/) — exploitation vector
-- [Oracle Risk](/wiki/oracle-risk/) — data integrity
+- Oracle Risk — data integrity
 
 ### Wider context
-- [Decentralized Finance](/wiki/defi/) — broader DeFi ecosystem
+- Decentralized Finance — broader DeFi ecosystem
 - [Liquidation](/wiki/liquidation/) — collateral sale mechanism
-- [Cryptocurrency](/wiki/cryptocurrency/) — underlying assets
+- Cryptocurrency — underlying assets
 - [Stablecoin](/wiki/stablecoin/) — borrowed asset class
 
 </div>

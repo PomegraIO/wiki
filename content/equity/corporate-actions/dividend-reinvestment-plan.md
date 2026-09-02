@@ -114,7 +114,7 @@ Mutual funds and ETFs also offer [dividend](/wiki/dividend/) reinvestment, which
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/corporate-actions/">Corporate actions</a> — events altering company structure or shareholder rights.</li>
+  <li>Corporate actions — events altering company structure or shareholder rights.</li>
   <li><a href="/wiki/qualified-dividend/">Qualified dividend</a> — dividend taxed at preferential rates for long-term holding.</li>
 </ul>
 </div>

@@ -42,7 +42,7 @@ Watch the payout ratio trend as carefully as the absolute number.
 
 ## Earnings quality matters enormously
 
-A company reporting record earnings and paying out 50% might be honest, or it might be booking one-time accounting gains. Check [operating cash flow](/wiki/operating-cash-flow/) against [net income](/wiki/net-profit-margin/). If cash generation is much lower than reported earnings, the payout ratio is effectively overstated, and a cut or miss is more likely.
+A company reporting record earnings and paying out 50% might be honest, or it might be booking one-time accounting gains. Check operating cash flow against [net income](/wiki/net-profit-margin/). If cash generation is much lower than reported earnings, the payout ratio is effectively overstated, and a cut or miss is more likely.
 
 ## Cyclical vs. normalized payout
 
@@ -67,8 +67,8 @@ A payout ratio above 100% is a red flag. Below 20% in a mature, slow-growth comp
 </ul>
 <h3>Wider context</h3>
 <ul>
-  <li><a href="/wiki/capital-allocation/">Capital allocation</a> — the decision of what to do with profits.</li>
+  <li>Capital allocation — the decision of what to do with profits.</li>
   <li><a href="/wiki/dividend-aristocrats/">Dividend aristocrats</a> — companies with long histories of sustainable high payouts.</li>
-  <li><a href="/wiki/operating-cash-flow/">Operating cash flow</a> — a check on the sustainability of reported earnings.</li>
+  <li>Operating cash flow — a check on the sustainability of reported earnings.</li>
 </ul>
 </div>

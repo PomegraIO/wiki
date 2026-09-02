@@ -88,11 +88,11 @@ Leading risk managers augment backward-looking models with forward-looking views
 - [Value at risk](/wiki/value-at-risk/) — The standard tail risk metric in banking
 - [Conditional value at risk](/wiki/conditional-value-at-risk/) — Measures expected loss beyond VaR threshold
 - [Tail risk](/wiki/tail-risk/) — The economic definition of extreme event probability
-- [Kurtosis](/wiki/kurtosis/) — Statistical measure of tail thickness
+- Kurtosis — Statistical measure of tail thickness
 
 ### Wider context
 - [Stress testing](/wiki/stress-testing/) — Scenario analysis of extreme outcomes
-- [Risk management](/wiki/risk-management/) — The practical discipline using tail measurements
+- Risk management — The practical discipline using tail measurements
 - [Black swan](/wiki/black-swan/) — Conceptual framing of extreme, unpredictable events
 - [Portfolio diversification](/wiki/diversification/) — Often fails in tail events due to correlation breakdown
 

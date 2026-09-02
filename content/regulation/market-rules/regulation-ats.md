@@ -27,7 +27,7 @@ keywords:
 | **Key requirement** | File a Form ATS with the SEC and comply with rulebook; no exchange registration needed |
 | **Operator obligations** | Fair access, transparency, order protection, surveillance, supervisory controls |
 | **Order flow** | Captures roughly 25–30% of US equities trading volume |
-| **Regulatory body** | Securities and Exchange Commission (SEC), with [FINRA](//) as delegated SRO |
+| **Regulatory body** | Securities and Exchange Commission (SEC), with FINRA as delegated SRO |
 
 </aside>
 
@@ -39,7 +39,7 @@ An institutional investor holding 1 million shares it wants to sell faces a dile
 
 ## The safe harbor and what it requires
 
-Regulation ATS grants operators a safe harbor: if you comply with the rule, you can operate as an ATS without registering as an exchange and without joining [FINRA](//)—the self-regulatory organization that oversees broker-dealers. Instead, an ATS operator files a Form ATS with the SEC, disclosing its business model, order-handling procedures, surveillance systems, and conflict-of-interest controls. The SEC reviews the filing; if it passes, the ATS begins operations under Regulation ATS.
+Regulation ATS grants operators a safe harbor: if you comply with the rule, you can operate as an ATS without registering as an exchange and without joining FINRA—the self-regulatory organization that oversees broker-dealers. Instead, an ATS operator files a Form ATS with the SEC, disclosing its business model, order-handling procedures, surveillance systems, and conflict-of-interest controls. The SEC reviews the filing; if it passes, the ATS begins operations under Regulation ATS.
 
 The flip side is obligation. An ATS must adopt and enforce rules that meet or exceed exchange standards on fair access. A major [broker-dealer](/broker/) cannot be denied access to the platform on a whim. Order flow must be handled in a way that prevents the operator from trading against clients to the operator's advantage. Transaction data must be reported to the SEC and shared with [market makers](/market-maker-trading/). The ATS must operate surveillance systems that catch disruptive trading and ban repeat offenders.
 
@@ -63,9 +63,9 @@ This rule prevents dark pools from becoming dumping grounds for bad execution. I
 
 An ATS must establish and maintain written supervisory procedures that detect and prevent trading violations. It must monitor orders for signs of [manipulation](/), [layering](/), [spoofing](/), [wash trades](/wash-sale/), and other abuses. It must review access controls to ensure that no participant can trade on the system without proper registration.
 
-The operator must also implement conflict-of-interest controls. If a dark pool operator also owns a [proprietary trading](//) desk, that desk cannot receive preferential treatment in order matching or priority. Operators often address this by firewalling their trading operations from their ATS operations, or by selling the proprietary desk entirely.
+The operator must also implement conflict-of-interest controls. If a dark pool operator also owns a proprietary trading desk, that desk cannot receive preferential treatment in order matching or priority. Operators often address this by firewalling their trading operations from their ATS operations, or by selling the proprietary desk entirely.
 
-The SEC and [FINRA](//) conduct regular audits of ATS operators to verify compliance. These reviews examine order-handling algorithms, audit trails, and surveillance reports. Operators that fail these exams face fines, corrective orders, or suspension of their ATS registration.
+The SEC and FINRA conduct regular audits of ATS operators to verify compliance. These reviews examine order-handling algorithms, audit trails, and surveillance reports. Operators that fail these exams face fines, corrective orders, or suspension of their ATS registration.
 
 ## The operator's incentive problem
 
@@ -97,7 +97,7 @@ Additionally, the SEC has focused on [large trader reporting](/large-trader-repo
 
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) — the regulator that wrote and enforces Regulation ATS
 - [Price Discovery](/price-discovery/) — process fragmented across exchanges and dark pools
-- [Market Manipulation](//) — abuse that Regulation ATS aims to prevent
+- Market Manipulation — abuse that Regulation ATS aims to prevent
 - [Over-the-Counter Market](/over-the-counter-market/) — bilateral market adjacent to ATS operations
 
 </div>

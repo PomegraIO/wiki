@@ -40,7 +40,7 @@ The [Investment Company Act of 1940](/wiki/investment-company-act-of-1940/) mand
 
 **Cash:** Held in the custodian's bank account, segregated from the custodian's own operational capital.
 
-**Alternative assets:** Some custodians hold [commodities](/wiki/commodity-futures/), [real estate](/wiki/real-estate-investment-trust/), [cryptocurrency](/wiki/cryptocurrency-exchange/), or private equity holdings. Custody of alternatives is more complex and requires specialized infrastructure.
+**Alternative assets:** Some custodians hold commodities, [real estate](/wiki/real-estate-investment-trust/), [cryptocurrency](/wiki/cryptocurrency-exchange/), or private equity holdings. Custody of alternatives is more complex and requires specialized infrastructure.
 
 **Foreign assets:** Custodians maintain relationships with sub-custodians in foreign markets to hold local securities and currencies.
 
@@ -90,7 +90,7 @@ Custody is not free. A typical custodian fee ranges from 5 to 20 basis points (0
 
 **Custodian insolvency:** If a custodian bank fails, investor assets should still be protected (they are segregated and not the custodian's property). However, disruption and potential legal delays can occur.
 
-**Operational error:** A custodian might lose records of holdings or execute trades incorrectly. [E&O insurance](/wiki/errors-and-omissions-insurance/) and regulatory capital requirements limit this risk, but it is non-zero.
+**Operational error:** A custodian might lose records of holdings or execute trades incorrectly. E&O insurance and regulatory capital requirements limit this risk, but it is non-zero.
 
 **Sub-custodian risk:** A foreign sub-custodian might face country-specific risks (capital controls, sanctions, political instability). A broad-based custodian mitigates this by using multiple sub-custodian relationships.
 

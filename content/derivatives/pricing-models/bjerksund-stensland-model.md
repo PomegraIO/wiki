@@ -58,7 +58,7 @@ The full formula is a two-piece structure: one approximation for the value itsel
 
 The Bjerksund-Stensland approximation is typically accurate to 1–2 basis points for [option](/option/) prices in the range of 0.5 to 1.5 times the [strike-price](/strike-price/), and less accurate (errors of 5–10 basis points) when deep in or out of the money. The error stems from the approximation of the true boundary: the real boundary is more nuanced than the simplified formula captures, especially near maturity (when the boundary is close to the [strike-price](/strike-price/)).
 
-For portfolios with millions of [option](/option/) positions and tight [margin](/margin-call-forex/) constraints, traders sometimes prefer the [Barone-Adesi Whaley model](/barone-adesi-whaley-model/), which uses a quadratic approximation and can be even faster. For academic research or pricing where accuracy is paramount, a full binomial or finite-difference [lattice](//) is more reliable.
+For portfolios with millions of [option](/option/) positions and tight [margin](/margin-call-forex/) constraints, traders sometimes prefer the [Barone-Adesi Whaley model](/barone-adesi-whaley-model/), which uses a quadratic approximation and can be even faster. For academic research or pricing where accuracy is paramount, a full binomial or finite-difference lattice is more reliable.
 
 ## Dividend yield and adjustments
 

@@ -34,19 +34,19 @@ keywords:
 
 ## How the Recast Mechanics Work
 
-When you take out a mortgage, the lender creates an [amortization schedule](https://example.com)—a month-by-month breakdown showing how much of each payment goes to principal and how much to interest. The total interest paid depends on how much principal remains at the start of each period.
+When you take out a mortgage, the lender creates an amortization schedule—a month-by-month breakdown showing how much of each payment goes to principal and how much to interest. The total interest paid depends on how much principal remains at the start of each period.
 
-A recast changes that schedule. Suppose you have a $300,000, 30-year [fixed-rate mortgage](https://example.com) at 4% with a $1,432 monthly payment. Fifteen years in, you inherit $50,000 and make a lump-sum payment toward principal. Your loan balance drops from, say, $210,000 to $160,000.
+A recast changes that schedule. Suppose you have a $300,000, 30-year fixed-rate mortgage at 4% with a $1,432 monthly payment. Fifteen years in, you inherit $50,000 and make a lump-sum payment toward principal. Your loan balance drops from, say, $210,000 to $160,000.
 
 The lender then recalculates the monthly payment needed to pay off that $160,000 over the remaining 15 years at 4%. The new payment comes out to roughly $1,184 per month—a reduction of about $248 per month for the next 180 months, until the original 30-year mark is reached.
 
-What does *not* change: the 4% interest rate, the 30-year payoff date, the amortization method itself. A recast is purely a redraw of the payment schedule based on a lower starting balance. It is the opposite of a [refinance](https://example.com), where you take out a new loan, pay off the old one, reset the amortization clock, and possibly lock in a different rate.
+What does *not* change: the 4% interest rate, the 30-year payoff date, the amortization method itself. A recast is purely a redraw of the payment schedule based on a lower starting balance. It is the opposite of a refinance, where you take out a new loan, pay off the old one, reset the amortization clock, and possibly lock in a different rate.
 
 ## Recast Fee and Eligibility
 
 Most conventional mortgage servicers charge a recast fee of $200–$500, though some offer it free or waive it for loyal customers. Compare that to a refinance, which typically costs 2–5% of the loan amount in closing costs. For a $160,000 remaining balance, a refinance might run $3,200–$8,000. A $300 recast fee is a bargain if your goal is simply to reduce monthly payments without resetting the loan term.
 
-Eligibility varies by lender and loan type. Conventional mortgages (those not backed by the federal government) are usually recast-friendly. [Fixed-rate mortgage](https://example.com) holders are the best candidates, because the benefit is purely mechanical—lower principal means lower interest, and the rate is stable.
+Eligibility varies by lender and loan type. Conventional mortgages (those not backed by the federal government) are usually recast-friendly. Fixed-rate mortgage holders are the best candidates, because the benefit is purely mechanical—lower principal means lower interest, and the rate is stable.
 
 Government-backed loans are murkier. FHA loans occasionally allow recasts, but it depends on the servicer and loan age. VA loans issued by the Veterans Affairs program are trickier; many VA servicers do not permit recasts at all, pushing borrowers toward refinancing instead. ARM (adjustable-rate mortgage) holders should check their loan docs carefully; if the rate is about to adjust, a recast freezes the old rate, which may or may not be favorable.
 
@@ -72,13 +72,13 @@ Some borrowers do both: make a large principal payment without a formal recast, 
 
 ## The Tax and Accounting Angle
 
-A recast has no tax consequences. You are not refinancing the debt, so there are no deductions for new [loan origination fees](https://example.com). The principal payment you make is simply a reduction of the outstanding balance—no tax event. Interest paid over the remaining life of the loan is still deductible (if your mortgage qualifies under current law), but nothing changes there.
+A recast has no tax consequences. You are not refinancing the debt, so there are no deductions for new loan origination fees. The principal payment you make is simply a reduction of the outstanding balance—no tax event. Interest paid over the remaining life of the loan is still deductible (if your mortgage qualifies under current law), but nothing changes there.
 
 If you are working with an accountant or financial planner, flag the recast to keep records clean. It is a simple change, but it does alter your amortization schedule, which affects how much interest you claim in any given year.
 
 ## The Timing and Process
 
-After you propose a recast to your servicer, expect 2–4 weeks for approval and processing. The servicer will confirm your loan is eligible, verify the lump-sum payment has been received and posted to principal, calculate the new payment, and issue a new [disclosure](https://example.com) showing the revised schedule. Some lenders require the principal payment to be at least $10,000–$15,000; others will recast for less. Check with your servicer on their floor.
+After you propose a recast to your servicer, expect 2–4 weeks for approval and processing. The servicer will confirm your loan is eligible, verify the lump-sum payment has been received and posted to principal, calculate the new payment, and issue a new disclosure showing the revised schedule. Some lenders require the principal payment to be at least $10,000–$15,000; others will recast for less. Check with your servicer on their floor.
 
 Your new payment starts the month after the recast is approved. There is a gap period where you are paying the old payment amount; do not panic. Once the servicer processes the recast, the payment drops and stays there until the loan matures.
 

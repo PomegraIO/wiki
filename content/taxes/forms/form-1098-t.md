@@ -119,15 +119,15 @@ Families should gather 1098-Ts for all students attending eligible institutions 
 <div class="wiki-seealso">
 
 ### Closely related
-- [American Opportunity Credit](/wiki/american-opportunity-credit/) — the primary education tax credit using 1098-T data
-- [Lifetime Learning Credit](/wiki/lifetime-learning-credit/) — the alternative education credit
-- [Education Tax Credits](/wiki/education-tax-credits/) — broader category covering all education-related credits
-- [Form 8863](/wiki/form-8863/) — the form where students calculate and claim the credit
+- American Opportunity Credit — the primary education tax credit using 1098-T data
+- Lifetime Learning Credit — the alternative education credit
+- Education Tax Credits — broader category covering all education-related credits
+- Form 8863 — the form where students calculate and claim the credit
 
 ### Wider context
-- [Tax Deduction](/wiki/tax-deduction/) — related concept; credits are more valuable than deductions
-- [Phase-Out Limitations](/wiki/phase-out-limitations/) — income-based reduction that affects education credits
-- [Qualified Education Expenses](/wiki/qualified-education-expenses/) — what counts for the credit
-- [Student Loan Interest Deduction](/wiki/student-loan-interest-deduction/) — another education-related tax benefit
+- Tax Deduction — related concept; credits are more valuable than deductions
+- Phase-Out Limitations — income-based reduction that affects education credits
+- Qualified Education Expenses — what counts for the credit
+- Student Loan Interest Deduction — another education-related tax benefit
 
 </div>

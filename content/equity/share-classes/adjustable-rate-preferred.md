@@ -110,7 +110,7 @@ Adjustable preferred is treated as equity for accounting purposes, unless it's r
 <ul>
   <li><a href="/wiki/floating-rate-preferred/">Floating Rate Preferred Stock</a> — adjustable preferred with dividend pegged to a benchmark rate.</li>
   <li><a href="/wiki/preferred-stock/">Preferred Stock</a> — equity class with stated (usually fixed) dividends.</li>
-  <li><a href="/wiki/auction-rate-securities/">Auction-Rate Securities</a> — debt/preferred with rate reset by periodic auction.</li>
+  <li>Auction-Rate Securities — debt/preferred with rate reset by periodic auction.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>

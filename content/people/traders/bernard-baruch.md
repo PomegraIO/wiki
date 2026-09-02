@@ -34,7 +34,7 @@ By 1900, he had made his first major fortune through judicious trades in [stock-
 
 When the United States entered World War I in 1917, Baruch's expertise caught the attention of President Woodrow Wilson. Wilson appointed him chairman of the War Industries Board, a vast federal apparatus that controlled wartime production and [procurement](/wiki/commodity-contract-specifications/). Baruch's management of this post—coordinating steel, rubber, fuel, and ammunition supplies—cemented his reputation as both a brilliant administrator and a man of national consequence.
 
-More importantly, his service made him *indispensable* to future presidents. He advised Franklin D. Roosevelt during the [Great Depression](/wiki/great-depression/) and [New Deal](/wiki/american-recovery-act-stimulus/), and later became a key voice in post-war geopolitics and [atomic-policy](/wiki/cold-war/) strategy.
+More importantly, his service made him *indispensable* to future presidents. He advised Franklin D. Roosevelt during the [Great Depression](/wiki/great-depression/) and [New Deal](/wiki/american-recovery-act-stimulus/), and later became a key voice in post-war geopolitics and atomic-policy strategy.
 
 ## Investment philosophy and trading genius
 
@@ -52,7 +52,7 @@ This carefully cultivated image of sage-like detachment actually reflected his g
 
 Baruch's wealth was immense by any standard, yet he spent much of his final decades giving it away to charities, universities, and political causes. He also left behind a body of aphorisms and memoirs (*Baruch: My Own Story*, 1957) that aspiring [investors](/wiki/investment-advisers-act-of-1940/) still cite.
 
-Historians debate his true influence on policy. Some credit him with sage counsel; others suggest his influence has been mythologized. What is clear: he demonstrated that a trader could achieve political legitimacy without apology, and that [supply-and-demand](/wiki/supply-and-demand/) fundamentals, when studied with discipline, could generate consistent [returns](/wiki/return-on-assets/).
+Historians debate his true influence on policy. Some credit him with sage counsel; others suggest his influence has been mythologized. What is clear: he demonstrated that a trader could achieve political legitimacy without apology, and that supply-and-demand fundamentals, when studied with discipline, could generate consistent [returns](/wiki/return-on-assets/).
 
 ## Contrast with later figures
 

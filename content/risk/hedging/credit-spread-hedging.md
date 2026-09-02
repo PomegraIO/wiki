@@ -47,11 +47,11 @@ This hedge is cheaper than CDS (you earn Treasury yields rather than paying CDS 
 
 A manager might hedge selectively based on [credit-rating](/wiki/credit-rating/) distribution. If the portfolio is 20% in single-B high-yield, buy CDS on a B-rated index (like ITRAXX HY or CDX HY). This is cheaper than protecting individual names and hedges the systematic credit risk. A manager holds the idiosyncratic (stock-picker) risk and sheds the [systematic-risk](/wiki/systematic-risk/) that comes with holding a distressed tranche.
 
-Some hedge by [collateral](/wiki/collateral/). If 40% of bonds are backed by real estate (mortgages, CMBS), buy CMBS [put options](/wiki/put-option/) or CMBS-specific CDS. Real estate spreads often lead corporates into downturns, so early protection on property debt catches the warning signal.
+Some hedge by collateral. If 40% of bonds are backed by real estate (mortgages, CMBS), buy CMBS [put options](/wiki/put-option/) or CMBS-specific CDS. Real estate spreads often lead corporates into downturns, so early protection on property debt catches the warning signal.
 
 ## Timing and opportunity cost
 
-The hardest part of hedging spreads is not the mechanic but the timing. [Spread-widening](/wiki/spread-widening/) doesn't happen randomly. It accelerates when [unemployment](/wiki/unemployment-rate/) rises, [corporate earnings](/wiki/earnings-per-share/) disappoint, or [yield-curve](/wiki/yield-curve/) inverts. Some managers hedge only after these signals appear—when the spread is already widening and protection is expensive. Others hedge continuously at elevated cost. The right approach depends on portfolio sensitivity and conviction.
+The hardest part of hedging spreads is not the mechanic but the timing. Spread-widening doesn't happen randomly. It accelerates when [unemployment](/wiki/unemployment-rate/) rises, [corporate earnings](/wiki/earnings-per-share/) disappoint, or [yield-curve](/wiki/yield-curve/) inverts. Some managers hedge only after these signals appear—when the spread is already widening and protection is expensive. Others hedge continuously at elevated cost. The right approach depends on portfolio sensitivity and conviction.
 
 A manager holding $500M in corporate bonds with 7-year [duration](/wiki/duration/) has a 3–4% loss exposure for every 100 bp of spread widening. Over a full cycle, spreads widen 150–250 bp twice per decade. Missing a protection opportunity costs 5–10% of returns. But over-hedging in calm periods can drag returns 0.5–1% annually. This is where [risk-parity-strategy](/wiki/risk-parity-strategy/) and systematic [tactical-asset-allocation](/wiki/tactical-asset-allocation/) shine—rule-based hedging removes emotion.
 

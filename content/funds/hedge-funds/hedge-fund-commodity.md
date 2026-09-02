@@ -25,7 +25,7 @@ Commodities are simultaneously the oldest traded assets and among the most volat
 
 **Agriculture** includes grain ([wheat](/wiki/wheat/), [corn](/wiki/corn/), [soybeans](/wiki/soybeans/)), soft commodities ([coffee](/wiki/coffee/), [cocoa](/wiki/cocoa/), [sugar](/wiki/sugar/)), and livestock ([live cattle](/wiki/live-cattle/), [lean hogs](/wiki/lean-hogs/)). Agricultural prices are driven by weather (droughts, floods), geopolitical supply disruptions (Russia and Ukraine supply large portions of global wheat), and structural demand trends. A fund with agricultural expertise might specialize in analyzing weather patterns and global crop forecasts to anticipate price moves.
 
-**Financial commodities** include [Treasury bonds](/wiki/treasury-bond/), [electricity](/wiki/electricity-as-commodity/), and allowances ([carbon permits](/wiki/carbon/)). These are hybrid assets—part policy, part market—and require understanding of regulatory frameworks as well as supply and demand.
+**Financial commodities** include [Treasury bonds](/wiki/treasury-bond/), [electricity](/wiki/electricity-as-commodity/), and allowances (carbon permits). These are hybrid assets—part policy, part market—and require understanding of regulatory frameworks as well as supply and demand.
 
 ## Major trading strategies
 

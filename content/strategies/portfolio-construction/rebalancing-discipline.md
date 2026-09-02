@@ -70,6 +70,6 @@ Most simple rebalancing addresses just stocks and bonds. Sophisticated portfolio
 - [Strategic Asset Allocation](/wiki/strategic-asset-allocation/) — The long-term plan
 - [Tactical Asset Allocation](/wiki/tactical-asset-allocation/) — Short-term deviations from rebalancing
 - [Mean Reversion](/wiki/mean-reversion-investing/) — The principle rebalancing exploits
-- [Behavioral Finance](/wiki/behavioral-finance/) — The psychological benefits of discipline
+- Behavioral Finance — The psychological benefits of discipline
 
 </div>

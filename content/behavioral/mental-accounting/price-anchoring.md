@@ -51,9 +51,9 @@ Investors and dealmakers aware of anchoring try to counter it by explicitly cons
 
 Anchoring interacts with [mental accounting](/wiki/mental-accounting/), another bias where investors treat gains and losses in isolated "accounts" rather than optimizing the overall portfolio. An investor who bought a stock at $50 and sees it at $40 is anchored to the $50 cost basis and reluctant to sell, perceiving the stock as "down" and due for a bounce. A rational agent would ignore the $50 anchor and ask: "Do I want to own this stock at $40 today?" But anchoring to the cost basis—a sunk cost—distorts the decision.
 
-## Anchoring in [valuations](/wiki/valuation/) and multiples
+## Anchoring in valuations and multiples
 
-When [analysts](/wiki/analyst-rating/) estimate [fair value](/wiki/fair-value/), they often anchor to the current [price](/wiki/price-to-earnings-ratio/) or a recent "consensus" [target](/wiki/target-price/). If the consensus target is $100, new analysts tend to converge near that figure even if their independent models suggest $75 or $125. This produces a "sticky" anchor effect where estimates cluster, especially during sideways markets where new information is sparse and psychological inertia dominates.
+When analysts estimate [fair value](/wiki/fair-value/), they often anchor to the current [price](/wiki/price-to-earnings-ratio/) or a recent "consensus" target. If the consensus target is $100, new analysts tend to converge near that figure even if their independent models suggest $75 or $125. This produces a "sticky" anchor effect where estimates cluster, especially during sideways markets where new information is sparse and psychological inertia dominates.
 
 <div class="wiki-seealso">
 

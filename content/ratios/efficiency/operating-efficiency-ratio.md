@@ -179,7 +179,7 @@ Investors typically apply:
 
 ### Wider context
 - [Profit margin](/wiki/profit-margin-ratio/) — broader profitability family
-- [Financial statement analysis](/wiki/financial-statements/) — includes efficiency ratios
+- Financial statement analysis — includes efficiency ratios
 - [Cost structure](/wiki/cost-of-carry/) — underlies OpEx ratio
 - [Return on assets](/wiki/return-on-assets/) — depends on efficiency and margins
 

@@ -36,7 +36,7 @@ Fiscal drag emerges when rules about government spending and taxation override t
 
 ## Europe 2010–2015: the paradigmatic case
 
-The European sovereign debt crisis and subsequent austerity programs offer the clearest example of fiscal drag in practice. After 2008, countries like Greece, Ireland, and Portugal faced a [credit crunch](/wiki/credit-crisis/)—they couldn't borrow easily and faced pressure from the EU and IMF to cut deficits.
+The European sovereign debt crisis and subsequent austerity programs offer the clearest example of fiscal drag in practice. After 2008, countries like Greece, Ireland, and Portugal faced a credit crunch—they couldn't borrow easily and faced pressure from the EU and IMF to cut deficits.
 
 Facing this pressure, governments imposed austerity: wage cuts for public employees, pension reductions, higher taxes, and spending cuts across social programs. The intent was to restore fiscal sustainability and investor confidence.
 

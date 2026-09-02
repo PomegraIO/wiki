@@ -62,6 +62,6 @@ The threat of intervention can be as powerful as actual intervention. If the cen
 <ul>
 <li><a href="/wiki/currency-risk/">Currency Risk</a> — volatility that can trigger intervention.</li>
 <li><a href="/wiki/carry-trade/">Carry Trade</a> — disrupted by unexpected interventions.</li>
-<li><a href="/wiki/financial-stability/">Financial Stability</a> — a goal of intervention.</li>
+<li>Financial Stability — a goal of intervention.</li>
 </ul>
 </div>

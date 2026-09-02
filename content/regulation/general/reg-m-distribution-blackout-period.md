@@ -118,7 +118,7 @@ Regulation M applies not just to IPOs but also to any significant secondary dist
 
 This also constrains [share buybacks](/share-buyback/). A company that buys back its own stock is executing a distribution (or anti-distribution, more precisely). If the company simultaneously has an outstanding public offering, it cannot execute the buyback. This prevents the issuer from playing both sides of the market.
 
-In contrast, smaller, routine buybacks that occur well outside of any offering period are not subject to Regulation M restrictions — they're governed by [Rule 10b-18](/https://example.com/) (safe-harbor rules for buyback timing and execution).
+In contrast, smaller, routine buybacks that occur well outside of any offering period are not subject to Regulation M restrictions — they're governed by Rule 10b-18 (safe-harbor rules for buyback timing and execution).
 
 ## Global Parallels
 
@@ -135,14 +135,14 @@ Other major exchanges (London, Tokyo, Singapore) have equivalent rules restricti
 - [Secondary offering](/secondary-offering/) — another common trigger for blackout periods
 - [FINRA](/finra/) — co-enforcer of underwriter compliance
 - [Share buyback](/share-buyback/) — restricted during certain distributions under Regulation M
-- [Underwriting](/https://example.com/) — the process that Regulation M governs
+- Underwriting — the process that Regulation M governs
 
 ### Wider context
 
-- [Price manipulation](/https://example.com/) — the core problem Regulation M prevents
+- Price manipulation — the core problem Regulation M prevents
 - [Securities and exchange commission](/securities-and-exchange-commission/) — the broader regulatory framework
-- [Market efficiency](/https://example.com/) — the information-asymmetry issue Regulation M addresses
-- [Insider trading](/https://example.com/) — a related prohibition on trading on non-public information
-- [Disclosure requirements](/https://example.com/) — another pillar of fair offering practices
+- Market efficiency — the information-asymmetry issue Regulation M addresses
+- Insider trading — a related prohibition on trading on non-public information
+- Disclosure requirements — another pillar of fair offering practices
 
 </div>

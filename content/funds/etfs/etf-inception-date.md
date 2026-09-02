@@ -89,8 +89,8 @@ A good rule of thumb: prefer ETFs with at least 5 years of history if possible, 
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/performance/">Performance Measurement</a> — how inception date affects interpretation.</li>
-<li><a href="/wiki/survivorship-bias/">Survivorship Bias</a> — funds that close are not in historical comparisons.</li>
+<li>Performance Measurement — how inception date affects interpretation.</li>
+<li>Survivorship Bias — funds that close are not in historical comparisons.</li>
 <li><a href="/wiki/due-diligence/">Due Diligence</a> — checking inception date as part of fund analysis.</li>
 </ul>
 </div>

@@ -88,12 +88,12 @@ Partial hedges are a compromise. They cost less than full hedges but provide les
 <li><a href="/wiki/international-etf/">International ETF</a> — commonly hedged for currency.</li>
 <li><a href="/wiki/currency-risk/">Currency Risk</a> — what currency hedges eliminate.</li>
 <li><a href="/wiki/put-option/">Put Option</a> — the tool for downside hedging.</li>
-<li><a href="/wiki/volatility/">Volatility</a> — what some hedges reduce.</li>
+<li>Volatility — what some hedges reduce.</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the mechanics of hedging.</li>
-<li><a href="/wiki/risk-management/">Risk Management</a> — hedging strategy philosophy.</li>
-<li><a href="/wiki/portfolio-insurance/">Portfolio Insurance</a> — older term for downside hedging.</li>
+<li>Derivatives — the mechanics of hedging.</li>
+<li>Risk Management — hedging strategy philosophy.</li>
+<li>Portfolio Insurance — older term for downside hedging.</li>
 </ul>
 </div>

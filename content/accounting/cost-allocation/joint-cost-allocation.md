@@ -101,6 +101,6 @@ The choice of allocation method also matters for **performance evaluation**. If 
 ### Wider context
 - [Balance Sheet](/wiki/balance-sheet/) — Inventory and COGS that include allocated costs
 - [Product Mix and Contribution Margin](/wiki/contribution-margin/) — The framework for product decisions under capacity constraints
-- [Manufacturing Cost Accounting](/wiki/manufacturing/) — The broader field of production accounting
+- Manufacturing Cost Accounting — The broader field of production accounting
 
 </div>

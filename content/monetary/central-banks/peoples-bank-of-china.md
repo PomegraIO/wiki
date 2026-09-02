@@ -32,7 +32,7 @@ In 2005, facing enormous pressure from the U.S. and other trading partners over 
 
 ## The 2008 crisis and massive stimulus
 
-When the global [financial crisis](/wiki/financial-crisis/) hit in 2008, the PBOC deployed stimulus on a scale that dwarfed the [Federal Reserve](/wiki/federal-reserve/)'s response. China's government launched a 4 trillion yuan fiscal stimulus (roughly 13% of GDP at the time), and the PBOC cut [interest rates](/wiki/interest-rate/) and lowered reserve requirements to free up cash for banks. The goal was to keep growth above 8%, a target set by the Communist Party leadership. The stimulus worked in the short run — China's growth remained positive while most of the world contracted — but it also built up enormous debt in the financial system, creating problems that persist today.
+When the global financial crisis hit in 2008, the PBOC deployed stimulus on a scale that dwarfed the [Federal Reserve](/wiki/federal-reserve/)'s response. China's government launched a 4 trillion yuan fiscal stimulus (roughly 13% of GDP at the time), and the PBOC cut [interest rates](/wiki/interest-rate/) and lowered reserve requirements to free up cash for banks. The goal was to keep growth above 8%, a target set by the Communist Party leadership. The stimulus worked in the short run — China's growth remained positive while most of the world contracted — but it also built up enormous debt in the financial system, creating problems that persist today.
 
 ## Monetary policy within state planning
 

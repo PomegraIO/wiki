@@ -52,7 +52,7 @@ Regulatory maturity also varies by state. California and the Northeast have aggr
 
 ## Research Priorities for Evaluating CH4
 
-Examine the [10-K](/10-K/) (CIK 2044817) for the breakdown of revenue between service fees and commodity sales, the number of customer sites, customer [concentration risk](/concentration-risk/), and capital expenditure needs. Understand which geographies the company operates in and what the regulatory environment is in each.
+Examine the [10-K](/10-k/) (CIK 2044817) for the breakdown of revenue between service fees and commodity sales, the number of customer sites, customer [concentration risk](/concentration-risk/), and capital expenditure needs. Understand which geographies the company operates in and what the regulatory environment is in each.
 
 Look for forward-looking statements about pipeline demand—are municipalities and waste operators planning increased investments in methane capture, or is demand flattening? Review commodity price exposure: if the company has long-term fixed-price contracts, upside from rising gas prices is limited but downside is protected. If it captures commodity upside, earnings are more volatile.
 

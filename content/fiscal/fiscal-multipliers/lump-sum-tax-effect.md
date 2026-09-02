@@ -54,21 +54,21 @@ The fiscal contraction works as follows:
 4. **Employment and incomes decline**, which further reduces consumption.
 5. **The cycle repeats** until the [output gap](/wiki/output-gap/) widens by the multiplier amount.
 
-If the [central bank](/wiki/central-bank/) holds [interest rates](/wiki/interest-rate/) constant and the [exchange rate](/wiki/currency-exchange-rate/) does not adjust, this multiplier is larger—closer to 1.5 or 2 in a closed economy. If the [real interest rate](/wiki/real-interest-rate/) rises due to [crowding out](/wiki/crowding-out/) or the currency appreciates due to [capital inflows](/wiki/capital-flows/), the multiplier shrinks.
+If the [central bank](/wiki/central-bank/) holds [interest rates](/wiki/interest-rate/) constant and the exchange rate does not adjust, this multiplier is larger—closer to 1.5 or 2 in a closed economy. If the [real interest rate](/wiki/real-interest-rate/) rises due to [crowding out](/wiki/crowding-out/) or the currency appreciates due to [capital inflows](/wiki/capital-flows/), the multiplier shrinks.
 
 ## Why economists prefer lump sum taxes (in theory)
 
-From a [deadweight loss](/wiki/deadweight-loss/) perspective, a lump sum tax is superior. It raises the same revenue with zero distortion to supply or demand curves at the margin. An income tax of the same size creates a wedge between the worker's productivity and take-home pay, reducing labor supply. A lump sum tax does not.
+From a deadweight loss perspective, a lump sum tax is superior. It raises the same revenue with zero distortion to supply or demand curves at the margin. An income tax of the same size creates a wedge between the worker's productivity and take-home pay, reducing labor supply. A lump sum tax does not.
 
 The [Laffer curve](/wiki/laffer-curve/) concept illustrates this: as an income-tax rate climbs, the quantity of taxable income eventually falls fast enough to reduce total revenue. A lump sum tax cannot do this—revenue is fixed at the amount per capita times the population.
 
-Economists across the spectrum—from [classical](/wiki/classical-economics/) to Keynesian to [supply-side](/wiki/supply-side-economics/)—agree that lump sum taxes are more efficient. The disagreement is on [multipliers](/wiki/fiscal-multiplier/) and how much one should care about efficiency versus distribution.
+Economists across the spectrum—from classical to Keynesian to supply-side—agree that lump sum taxes are more efficient. The disagreement is on [multipliers](/wiki/fiscal-multiplier/) and how much one should care about efficiency versus distribution.
 
 ## The real-world barrier: perceived regressivity
 
 A fixed $100 tax affects a $20,000-income household (0.5% of income) very differently from a $200,000-income household (0.05% of income). Although the tax is technically non-distortionary, it is highly regressive—it consumes a larger share of lower incomes.
 
-Most democracies reject lump sum taxation for equity reasons. [Progressive taxation](/wiki/progressive-taxation/), even with [deadweight loss](/wiki/deadweight-loss/), is preferred on distributional grounds.
+Most democracies reject lump sum taxation for equity reasons. Progressive taxation, even with deadweight loss, is preferred on distributional grounds.
 
 When a government does deploy near-lump-sum taxes—vehicle registration fees, driver's license fees, fishing licenses—the amounts are kept small to avoid political backlash.
 
@@ -81,9 +81,9 @@ When a government does deploy near-lump-sum taxes—vehicle registration fees, d
 - [Consumption function](/wiki/consumption-function/) — the relationship between income and spending
 
 ### Wider context
-- [Fiscal policy](/wiki/fiscal-policy/) — government spending and taxation as demand management
-- [Deadweight loss](/wiki/deadweight-loss/) — the economic loss from distortionary taxes
-- [Progressive taxation](/wiki/progressive-taxation/) — tax rates that rise with income
-- [Supply-side economics](/wiki/supply-side-economics/) — taxation effects on labor supply and growth
+- Fiscal policy — government spending and taxation as demand management
+- Deadweight loss — the economic loss from distortionary taxes
+- Progressive taxation — tax rates that rise with income
+- Supply-side economics — taxation effects on labor supply and growth
 
 </div>

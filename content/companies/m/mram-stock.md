@@ -57,7 +57,7 @@ Everspin's moat is contingent on maintaining technological leadership and manufa
 
 ## Assessing Everspin's Competitive Durability
 
-Examine the company's [10-K](/10-K/) (CIK 1438423) for: (1) patent activity (new patents filed, expiring patents); (2) customer concentration and customer wins or losses in key segments (data center, automotive, industrial); (3) manufacturing capacity utilization and plans for expansion; (4) gross margins over time (high, stable margins suggest pricing power; declining margins suggest competitive pressure); and (5) R&D spending relative to revenue.
+Examine the company's [10-K](/10-k/) (CIK 1438423) for: (1) patent activity (new patents filed, expiring patents); (2) customer concentration and customer wins or losses in key segments (data center, automotive, industrial); (3) manufacturing capacity utilization and plans for expansion; (4) gross margins over time (high, stable margins suggest pricing power; declining margins suggest competitive pressure); and (5) R&D spending relative to revenue.
 
 Evidence of durable moat: stable or growing customer base, high and stable [gross-profit-margin](/gross-profit-margin/), steady patent filings addressing emerging applications, and manufacturing capacity constraints due to excess demand.
 

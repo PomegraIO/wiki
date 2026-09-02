@@ -90,7 +90,7 @@ Nassim Taleb argues in *Antifragile* that tails risks are so skewed (small cost,
 - [Value at Risk](/wiki/value-at-risk/) — Tail-risk measurement framework
 - [Conditional Value at Risk](/wiki/conditional-value-at-risk/) — Expected value of tail losses
 - [Nassim Taleb](/wiki/nassim-taleb/) — Philosopher of tail risk
-- [Flight to Safety](/wiki//) — Market behavior during crises that impacts hedges
+- Flight to Safety — Market behavior during crises that impacts hedges
 - [Correlation Risk](/wiki/correlation-risk/) — Hedges break down when correlations shift
 
 </div>

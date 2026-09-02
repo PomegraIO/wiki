@@ -72,14 +72,14 @@ The crisis left millennials with a permanent institutional memory of tail risk. 
 
 ### Closely related
 - [2008 Financial Crisis](/wiki/subprime-mortgage-crisis/) — causal event
-- [Great Recession](/wiki/great-recession/) — macroeconomic context
+- Great Recession — macroeconomic context
 - [Housing Bubble 2008](/wiki/housing-bubble-2008/) — housing component
-- [Stock Market Crash](/wiki/stock-market-crash-2008/) — equities component
+- Stock Market Crash — equities component
 
 ### Wider context
-- [Wealth Inequality](/wiki/wealth-inequality/) — long-term consequence
+- Wealth Inequality — long-term consequence
 - [Unemployment](/wiki/unemployment-rate/) — labor market impact
-- [Student Debt](/wiki/student-loans/) — confounding burden
-- [Generational Economics](/wiki/generational-economics/) — cohort effects
+- Student Debt — confounding burden
+- Generational Economics — cohort effects
 
 </div>

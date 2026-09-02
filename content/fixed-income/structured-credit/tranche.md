@@ -76,7 +76,7 @@ The tranche structure is customized to the asset class. Mortgages with historica
 <li><a href="/wiki/securitization/">Securitization</a> — the process by which tranches are created.</li>
 <li><a href="/wiki/structured-finance/">Structured Finance</a> — the practice of creating tranches to reshape risk.</li>
 <li><a href="/wiki/subordination/">Subordination</a> — the legal priority that defines tranches.</li>
-<li><a href="/wiki/waterfall/">Waterfall</a> — the payment priority rule that distributes cash to tranches.</li>
+<li>Waterfall — the payment priority rule that distributes cash to tranches.</li>
 <li><a href="/wiki/credit-rating/">Credit Rating</a> — how rating agencies assign ratings to each tranche.</li>
 </ul>
 <h3>Wider context</h3>

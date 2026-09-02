@@ -70,7 +70,7 @@ These calculations happen in milliseconds, informed by historical data about how
 
 ## When liquidity seeking fails
 
-Liquidity-seeking execution performs worst when market conditions are extreme. A flash crash, a data release, a [geopolitical event](/https://example.com/)—these create moments when all venues tighten spreads or dry up simultaneously. An algorithm hunting for liquidity will find there is none, or will pay punitive spreads everywhere.
+Liquidity-seeking execution performs worst when market conditions are extreme. A flash crash, a data release, a geopolitical event—these create moments when all venues tighten spreads or dry up simultaneously. An algorithm hunting for liquidity will find there is none, or will pay punitive spreads everywhere.
 
 It also underperforms in very thin markets. A stock trading 100,000 shares per day across all venues has no fragmented liquidity to exploit; an algorithm trying to buy 50,000 shares is going to move all prices significantly, regardless of routing sophistication. In this case, a slow [schedule-driven](/schedule-driven-execution/) approach often works better.
 
@@ -99,9 +99,9 @@ These hybrids acknowledge that pure liquidity seeking—chasing the absolute bes
 ### Wider context
 
 - [Stock market](/stock-market/) — the context where venue fragmentation is most developed
-- [Market fragmentation](/https://example.com/) — the underlying condition that makes liquidity seeking profitable
+- Market fragmentation — the underlying condition that makes liquidity seeking profitable
 - [Over-the-counter market](/over-the-counter-market/) — one venue the algorithm may route to
 - [Price discovery](/price-discovery/) — the market mechanism the algorithm is exploiting
-- [Execution](/https://example.com/) — the fundamental problem all algorithms aim to solve
+- Execution — the fundamental problem all algorithms aim to solve
 
 </div>

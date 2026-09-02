@@ -6,7 +6,7 @@ description: "Earnings adjusted to remove non-cash charges like depreciation, di
 *Cash earnings yield measures what percentage of your stock purchase price you would earn back in actual cash if the company's cash generation rate stayed constant. It strips away the accounting accounting choices—primarily [depreciation](/wiki/depreciation/) and [amortization](/wiki/amortization/)—that are real economic costs but not cash outlays.*
 
 <div class="wiki-hatnote">
-Similar in spirit to [FCF yield](/wiki/fcf-yield/) but less comprehensive; cash earnings includes depreciation as non-cash but not [capex](/wiki/capital-expenditures/) or changes in working capital.
+Similar in spirit to [FCF yield](/wiki/fcf-yield/) but less comprehensive; cash earnings includes depreciation as non-cash but not capex or changes in working capital.
 </div>
 
 <aside class="wiki-infobox">
@@ -48,7 +48,7 @@ This is why cash earnings yield is not a complete picture. Use it as a screening
 
 ## The tax question
 
-Cash earnings (often represented as [EBITDA](/wiki/ebitda/)) are pre-tax, while net income is post-tax. Two companies with identical EBITDA can have different net incomes if they face different [tax rates](/wiki/tax-rate/). Cash earnings yield is therefore useful for comparing companies across tax jurisdictions, but remember: the shareholder ultimately gets post-tax cash.
+Cash earnings (often represented as [EBITDA](/wiki/ebitda/)) are pre-tax, while net income is post-tax. Two companies with identical EBITDA can have different net incomes if they face different tax rates. Cash earnings yield is therefore useful for comparing companies across tax jurisdictions, but remember: the shareholder ultimately gets post-tax cash.
 
 ## Comparing to EBITDA yield
 
@@ -60,7 +60,7 @@ A company with very high cash earnings yield (10%+) but low reported earnings (1
 
 ## A common mistake: confusing with free cash flow yield
 
-Cash earnings yield ignores [capex](/wiki/capital-expenditures/) and working capital changes. A company with 7% cash earnings yield might have only 2% [FCF yield](/wiki/fcf-yield/) if it must reinvest heavily. Always use cash earnings yield as a starting point, then adjust for reinvestment needs.
+Cash earnings yield ignores capex and working capital changes. A company with 7% cash earnings yield might have only 2% [FCF yield](/wiki/fcf-yield/) if it must reinvest heavily. Always use cash earnings yield as a starting point, then adjust for reinvestment needs.
 
 ## The bridge between accounting and cash
 
@@ -78,7 +78,7 @@ Cash earnings yield is a useful halfway point between reported [earnings yield](
 <h3>Wider context</h3>
 <ul>
   <li><a href="/wiki/free-cash-flow/">Free cash flow</a> — the gold standard for cash generation.</li>
-  <li><a href="/wiki/capital-expenditures/">Capital expenditures</a> — the capex that cash earnings ignore but FCF includes.</li>
+  <li>Capital expenditures — the capex that cash earnings ignore but FCF includes.</li>
   <li><a href="/wiki/amortization/">Amortization</a> — the intangible asset non-cash expense also added back.</li>
 </ul>
 </div>

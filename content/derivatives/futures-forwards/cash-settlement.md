@@ -93,6 +93,6 @@ These arbitrage trades keep cash-settled [futures](/wiki/futures-contract/) appr
 </ul>
 <h3>Wider context</h3>
 <ul>
-<li><a href="/wiki/derivatives/">Derivatives</a> — the broader category encompassing all risk-transfer instruments.</li>
+<li>Derivatives — the broader category encompassing all risk-transfer instruments.</li>
 </ul>
 </div>

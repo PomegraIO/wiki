@@ -4,6 +4,14 @@
 Reads scripts/_sec_tickers.json (SEC's company_tickers.json, ordered by
 prominence) and the company slugs already on disk, then reports the candidate
 pool and how the next N would distribute. Writes nothing unless --emit.
+
+INDEXING POLICY (2026-09): Search Console reported ~4.6k "Crawled - currently
+not indexed" URLs dominated by long-tail company pages (vavx-stock, taoz-stock,
+...). Company pages are pruned from the index by demand
+(scripts/prune_candidates.py + scripts/apply_noindex.py, fed by a FULL GSC pages
+export). Do not plan new batches from the SEC long tail until the pruned set is
+deployed and re-measured; a new company page with no demand signal should ship
+with `noindex: true` in its front matter from day one.
 """
 from __future__ import annotations
 import argparse, glob, json, os, re

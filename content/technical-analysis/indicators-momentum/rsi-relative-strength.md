@@ -8,7 +8,7 @@ keywords:
   - overbought oversold
 ---
 
-*The **Relative Strength Index (RSI)** is a momentum oscillator that bounces between 0 and 100, flagging when a security has risen or fallen so sharply over a short window that a reversal is likely. RSI above 70 is commonly deemed overbought; below 30, oversold. It is one of the most widely used indicators in [technical analysis](/wiki/technical-analysis/), implemented by nearly every trading platform.*
+*The **Relative Strength Index (RSI)** is a momentum oscillator that bounces between 0 and 100, flagging when a security has risen or fallen so sharply over a short window that a reversal is likely. RSI above 70 is commonly deemed overbought; below 30, oversold. It is one of the most widely used indicators in technical analysis, implemented by nearly every trading platform.*
 
 <aside class="wiki-infobox">
 
@@ -54,7 +54,7 @@ A 14-period RSI is standard, but the indicator can be calculated at any period. 
 
 ## Limitations and misuse
 
-RSI is a *relative* measure, not an absolute one. It does not account for [volume](/wiki/volume-breadth-divergence/), [price acceleration](/wiki/price-acceleration-strategy/), or fundamental catalysts. A stock can be "overbought" and still rise for months if earnings growth is accelerating. Equally, RSI can remain oversold during a corporate crisis as shareholders capitulate. Using RSI in isolation leads to many false signals; it is best combined with [chart patterns](/wiki/head-and-shoulders/), [moving averages](/wiki/moving-average/), and [price action](/wiki/support-and-resistance-basics/).
+RSI is a *relative* measure, not an absolute one. It does not account for [volume](/wiki/volume-breadth-divergence/), [price acceleration](/wiki/price-acceleration-strategy/), or fundamental catalysts. A stock can be "overbought" and still rise for months if earnings growth is accelerating. Equally, RSI can remain oversold during a corporate crisis as shareholders capitulate. Using RSI in isolation leads to many false signals; it is best combined with [chart patterns](/wiki/head-and-shoulders/), [moving averages](/wiki/moving-average/), and price action.
 
 Retail traders sometimes mechanically buy oversold stocks or short overbought stocks without considering the broader context. This is known as "fighting the [trend](/wiki/trendline/)." Professionals use RSI as one signal among many and always ask: *Is the trend still intact? Why is RSI at this extreme?*
 
@@ -69,9 +69,9 @@ The [MACD](/wiki/macd-indicator/) (moving average convergence divergence) is ano
 <div class="wiki-seealso">
 
 ### Closely related
-- [Technical Analysis](/wiki/technical-analysis/) — discipline of price-pattern analysis
+- Technical Analysis — discipline of price-pattern analysis
 - [Momentum Investing](/wiki/momentum-investing/) — strategy around trend continuation
-- [Overbought Oversold](/wiki/overbought-condition/) — extremes in momentum
+- Overbought Oversold — extremes in momentum
 - [Candlestick Chart](/wiki/candlestick-chart/) — charting format for RSI overlay
 - [Support and Resistance](/wiki/support-and-resistance/) — price levels RSI helps confirm
 

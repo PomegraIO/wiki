@@ -10,7 +10,9 @@
 # rate limits) and pins to an exact version reproducibly.
 FROM alpine:3.20 AS builder
 ARG HUGO_VERSION=0.161.1
-RUN apk add --no-cache wget tar libstdc++ libc6-compat git \
+# python3 is only for scripts/check_links.py (stdlib only, no pip) - the
+# pre-build link gate below.
+RUN apk add --no-cache wget tar libstdc++ libc6-compat git python3 \
  && wget -q "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz" -O /tmp/hugo.tgz \
  && tar -xzf /tmp/hugo.tgz -C /usr/local/bin/ hugo \
  && rm /tmp/hugo.tgz \
@@ -22,6 +24,12 @@ WORKDIR /src
 # and one full read of content/). Copy the whole tree and let `hugo --gc`
 # decide what to do.
 COPY . .
+
+# Link gate: every cross-link must be a root-absolute `/<slug>/` that exists
+# on disk. Relative, category-path, `/link/` and `.md` targets all became
+# crawlable 404s in Search Console (thousands of them), so a build with a
+# single malformed or dangling link fails here instead of shipping.
+RUN python3 scripts/check_links.py --strict
 
 # Build for /wiki/ on pomegra.io. Override the dev-friendly defaults so
 # absolute URLs are correct and minification is on. canonifyURLs (set in

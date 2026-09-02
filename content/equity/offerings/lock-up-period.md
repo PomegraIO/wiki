@@ -107,7 +107,7 @@ Waivers and extensions require consent from all parties; they are not automatic.
 
 ## Lock-up in secondary offerings
 
-[Secondary offerings](/equity/secondary-offering/) often trigger lock-up releases:
+[Secondary offerings](/secondary-offering/) often trigger lock-up releases:
 
 - Founder conducts secondary offering; sells 10 million shares to the public at IPO price + 5%.
 - Secondary offering proceeds are released from lock-up contract; founder can sell directly to the public.
@@ -152,17 +152,17 @@ In rare cases (small IPOs, specific industries), lock-ups are shorter or waived,
 ### Closely related
 
 - [Initial public offering](/initial-public-offering/) — trigger for lock-up
-- [Secondary offering](/equity/secondary-offering/) — insider selling post-lock-up
-- [Founder liquidity](/equity/founder-shares/) — motivation for lock-up expiration
-- [Insider selling](/equity/secondary-offering/) — what lock-up prevents
-- [Restricted stock](/equity/restricted-stock/) — similar time lock
+- [Secondary offering](/secondary-offering/) — insider selling post-lock-up
+- [Founder liquidity](/founder-shares/) — motivation for lock-up expiration
+- [Insider selling](/secondary-offering/) — what lock-up prevents
+- [Restricted stock](/restricted-stock/) — similar time lock
 
 ### Wider context
 
 - [Public company](/public-company/) — subject to lock-ups
 - [Stock price](/stock-market/) — affected by lock-up expiration
-- [Underwriter](/equity/initial-public-offering/) — enforces lock-up
-- [Market manipulation](/equity/lock-up-period/) — lock-ups prevent
-- [Insider transaction](/equity/secondary-offering/) — SEC reporting
+- [Underwriter](/initial-public-offering/) — enforces lock-up
+- [Market manipulation](/lock-up-period/) — lock-ups prevent
+- [Insider transaction](/secondary-offering/) — SEC reporting
 
 </div>
