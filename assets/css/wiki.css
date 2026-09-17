@@ -2001,3 +2001,25 @@ img { max-width: 100%; height: auto; }
   margin: 0;
 }
 .wiki-cat-foot a { color: var(--pom-accent); }
+
+/* "Learn more" - cross-link from a wiki entry to its library lesson.
+   Deliberately quieter than .wiki-seealso: it is a single outbound pointer,
+   not a list, and should read as an editorial aside rather than a CTA. */
+.wiki-learnmore {
+  margin-top: 2.4rem;
+  padding: 0.95rem 1.1rem;
+  border-left: 3px solid var(--pom-accent);
+  background: var(--pom-paper-warm);
+}
+.wiki-learnmore-kicker {
+  font-family: var(--pom-font-mono);
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--pom-accent);
+  margin-bottom: 0.3rem;
+}
+.wiki-learnmore p { margin: 0; font-size: 0.95rem; line-height: 1.6; color: var(--pom-ink-soft); }
+.wiki-learnmore a { color: var(--pom-accent); font-weight: 600; }
+.wiki-learnmore a:hover { color: var(--pom-accent-hi); }
