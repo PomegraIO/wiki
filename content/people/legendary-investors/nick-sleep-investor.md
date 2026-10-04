@@ -1,6 +1,7 @@
 ---
 title: "Nick Sleep"
-description: "London-based investor whose thesis on scale economies and network effects generated exceptional returns at Nomad Partnership before retreating from public life."
+seo_title: "Nick Sleep: Nomad Partnership and Scale Economics Shared"
+description: "Nick Sleep ran the Nomad Investment Partnership, building a concentrated bet on Amazon around scale economies shared. His thesis, method, and retreat."
 keywords:
   - nomad partnership
   - scale economies

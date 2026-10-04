@@ -13,9 +13,11 @@
        twitter:title below stay on .Title: social cards want the clean name. */}}
   {{ with .Params.seo_title }}{{ $title = . }}{{ end }}
   {{/* Description resolution lives in partials/meta-desc.html so this file
-       and seo-jsonld.html can never drift apart. Escaping stays here — the
-       partial returns the raw string. */}}
-  {{ $desc := htmlEscape (partial "meta-desc.html" .) }}
+       and seo-jsonld.html can never drift apart. The partial returns the raw
+       string and Go's contextual autoescaping escapes it inside content="…".
+       Do NOT add htmlEscape here: it double-escapes (one's → one&amp;#39;s),
+       and Google then shows a literal "&#39;" in the snippet. */}}
+  {{ $desc := partial "meta-desc.html" . }}
   {{ $canonical := .Permalink }}
   {{ $section := .Section }}
   {{ $sectionLabel := humanize $section }}

@@ -1,6 +1,7 @@
 ---
 title: "How to Annualize Volatility from Daily Returns"
-description: "Annualize daily volatility by multiplying by the square root of 252 trading days per year. The square-root-of-time rule assumes independent returns, which markets violate in crises."
+seo_title: "How to Annualize Volatility: Daily Std Dev × √252"
+description: "Annualized volatility = daily standard deviation × √252 (≈15.87). A worked example, why 252 and not 365, and why the rule fails when losses cluster."
 keywords:
   - annualize volatility daily returns
   - square root of time rule

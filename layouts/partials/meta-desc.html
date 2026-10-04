@@ -9,9 +9,11 @@
      safe so we never cut mid-word.
 
      Returns the RAW (unescaped) string via `return`: correct escaping is
-     context-dependent, so it belongs to the call sites — baseof.html pipes
-     through `htmlEscape` for attribute use, seo-jsonld.html leaves it to
-     `jsonify`. */}}
+     context-dependent, so it belongs to the call sites — baseof.html relies on
+     Go's attribute autoescaping (no htmlEscape: that double-escapes),
+     seo-jsonld.html leaves it to `jsonify`. */}}
 {{ $desc := cond (ne (string .Description) "") (string .Description) (cond (ne (string .Summary) "") (string .Summary) .Site.Params.description) }}
-{{ $desc = truncate 155 (plainify $desc) }}
+{{/* `truncate` HTML-escapes plain input and returns template.HTML; unescape
+     so callers get one raw string and each context escapes exactly once. */}}
+{{ $desc = strings.TrimSpace (htmlUnescape (truncate 155 (htmlUnescape (plainify $desc)))) }}
 {{ return $desc }}
