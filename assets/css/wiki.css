@@ -2023,3 +2023,51 @@ img { max-width: 100%; height: auto; }
 .wiki-learnmore p { margin: 0; font-size: 0.95rem; line-height: 1.6; color: var(--pom-ink-soft); }
 .wiki-learnmore a { color: var(--pom-accent); font-weight: 600; }
 .wiki-learnmore a:hover { color: var(--pom-accent-hi); }
+
+/* ══ STARTUP HIGHLIGHTS (/startups/) ═══════════════════════════════════ */
+.wiki-startups { display: grid; gap: 1.2rem; margin: 1.2rem 0 2rem; }
+.wiki-startup-card {
+  border: 1px solid var(--pom-rule-firm);
+  border-radius: 12px;
+  background: var(--pom-card);
+  padding: 1.4rem;
+}
+.wiki-startup-card.is-first {
+  border-color: color-mix(in srgb, var(--pom-accent) 45%, var(--pom-rule-firm));
+  box-shadow: 0 0 0 3px var(--pom-accent-wash);
+}
+.wiki-startup-kicker {
+  font-family: var(--pom-font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--pom-accent);
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+}
+.wiki-prose .wiki-startup-name { font-size: 1.6rem; font-weight: 600; letter-spacing: -0.02em; margin: 0 0 0.3rem; }
+.wiki-startup-name a { color: var(--pom-ink); }
+.wiki-startup-name a:hover { color: var(--pom-accent); }
+.wiki-startup-tagline { font-family: var(--pom-font-display); font-style: italic; color: var(--pom-graphite); margin: 0 0 0.9rem; }
+.wiki-startup-card p,
+.wiki-startup-card li { font-size: 0.98rem; }
+.wiki-prose .wiki-startup-meta { font-size: 0.88rem; color: var(--pom-graphite); margin: 0.9rem 0 0; }
+.wiki-startup-meta a { font-weight: 600; }
+/* Card image: full-bleed across the top of the card, 3:2 like the partner art. */
+.wiki-startup-card-img {
+  display: block;
+  margin: -1.4rem -1.4rem 1.1rem;
+  border-bottom: 1px solid var(--pom-rule-firm);
+  border-radius: 12px 12px 0 0;
+  overflow: hidden;
+  background: var(--pom-card);
+}
+.wiki-prose .wiki-startup-card-img img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+}

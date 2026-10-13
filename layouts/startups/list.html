@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{/* ── Startup highlights index (/startups/) ─────────────────────────────
+     Intro from content/startups/_index.md, then one card per highlight page,
+     newest first. Cards link to the internal highlight page; the outbound
+     link lives on that page. */}}
+<article class="wiki-article">
+  <div class="wiki-article-layout-3col">
+    <aside class="wiki-toc"></aside>
+
+    <div class="wiki-article-body">
+      <h1 class="wiki-title">{{ .Title }}</h1>
+      {{ with .Params.lede }}<p class="wiki-lede">{{ . | markdownify }}</p>{{ end }}
+
+      <div class="wiki-prose">
+        {{ .Content }}
+
+        <h2>Featured startups</h2>
+        <div class="wiki-startups">
+          {{ range $i, $p := .RegularPages.ByDate.Reverse }}
+            <article class="wiki-startup-card{{ if eq $i 0 }} is-first{{ end }}">
+              {{ with $p.Params.card_image }}
+                <a class="wiki-startup-card-img" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true">
+                  <img src="{{ . }}" alt="{{ $p.Params.card_image_alt }}" loading="lazy" decoding="async" />
+                </a>
+              {{ end }}
+              <div class="wiki-startup-kicker">{{ $p.Params.kicker }}</div>
+              <h3 class="wiki-startup-name"><a href="{{ $p.RelPermalink }}">{{ $p.Params.name | default $p.Title }}</a></h3>
+              <p class="wiki-startup-tagline">{{ $p.Params.lede }}</p>
+              <p>{{ $p.Description }}</p>
+              <p class="wiki-startup-meta"><a href="{{ $p.RelPermalink }}">Read the highlight →</a></p>
+            </article>
+          {{ end }}
+        </div>
+
+        <hr />
+        <p><em>See also: <a href="{{ "/about/" | relURL }}">About Pomegra Wiki</a> · <a href="{{ "/atlas/" | relURL }}">Browse by topic</a> · <a href="https://pomegra.io/learn">Pomegra Learn</a></em></p>
+      </div>
+    </div>
+
+    <aside class="wiki-rightrail"></aside>
+  </div>
+</article>
+{{ end }}

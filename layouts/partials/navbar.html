@@ -7,9 +7,10 @@
 
     <nav class="wiki-nav" aria-label="Primary">
       <a href="{{ "/" | relURL }}" class="wiki-nav-link{{ if .IsHome }} is-active{{ end }}">Main page</a>
-      <a href="{{ "/atlas/" | relURL }}" class="wiki-nav-link{{ if or (eq .RelPermalink "/atlas/") (and (not .IsHome) (ne .Section "") (ne .Section "companies")) }} is-active{{ end }}" title="Browse the wiki by topic">Browse</a>
+      <a href="{{ "/atlas/" | relURL }}" class="wiki-nav-link{{ if or (eq .RelPermalink "/atlas/") (and (not .IsHome) (ne .Section "") (ne .Section "companies") (ne .Section "startups")) }} is-active{{ end }}" title="Browse the wiki by topic">Browse</a>
       <a href="{{ "/companies/" | relURL }}" class="wiki-nav-link{{ if eq .Section "companies" }} is-active{{ end }}" title="The Exchange — every company profiled, by ticker">Companies</a>
       <a id="pom-random" href="#" class="wiki-nav-link" title="Open a random entry">Random</a>
+      <a href="{{ "/startups/" | relURL }}" class="wiki-nav-link{{ if eq .Section "startups" }} is-active{{ end }}" title="Startup highlights — independent products worth knowing">Startup highlights</a>
       <a href="{{ "/about/" | relURL }}" class="wiki-nav-link{{ if eq .RelPermalink "/about/" }} is-active{{ end }}">About</a>
 
       <span class="wiki-nav-divider" aria-hidden="true"></span>

@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{/* All non-system pages — used for counts, sampling, featured entry, etc. */}}
 {{ $skip := slice "About Pomegra Wiki" "A–Z index" "Pomegra Wiki" "Atlas" "The Exchange" }}
-{{ $entries := where .Site.RegularPages "Title" "not in" $skip }}
+{{ $entries := where (where .Site.RegularPages "Section" "!=" "startups") "Title" "not in" $skip }}
 {{ $totalEntries := len $entries }}
 
 {{/* Category counts. "companies" is excluded — it has its own home at The

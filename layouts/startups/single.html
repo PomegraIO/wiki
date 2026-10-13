@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{/* ── Startup highlight ─────────────────────────────────────────────────
+     One page per startup under content/startups/. Own layout so the page
+     skips _default/single.html's in-article ads and sister-entry widgets.
+     Front matter: name, kicker, site (outbound URL), host, umami (event slug). */}}
+{{ $all := .CurrentSection.RegularPages.ByDate.Reverse }}
+
+<article class="wiki-article">
+  <div class="wiki-article-layout-3col">
+
+    <aside class="wiki-toc">
+      <div class="wiki-toc-label">Startup highlights</div>
+      <ul class="wiki-widget-list">
+        {{ range $all }}
+          <li><a href="{{ .RelPermalink }}">{{ .Params.name | default .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </aside>
+
+    <div class="wiki-article-body">
+      <div class="wiki-startup-kicker">{{ .Params.kicker }}</div>
+      <h1 class="wiki-title">{{ .Title }}</h1>
+      {{ with .Params.lede }}<p class="wiki-lede">{{ . | markdownify }}</p>{{ end }}
+
+      <div class="wiki-prose">
+        {{ .Content }}
+        <p class="wiki-startup-meta">Visit <a href="{{ .Params.site }}" rel="noopener" target="_blank" data-umami-event="startup-click" data-umami-event-to="{{ .Params.umami }}">{{ .Params.host }}</a></p>
+        <p><a href="{{ "/startups/" | relURL }}">← All startup highlights</a></p>
+      </div>
+    </div>
+
+    <aside class="wiki-rightrail"></aside>
+  </div>
+</article>
+{{ end }}

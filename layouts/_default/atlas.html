@@ -5,7 +5,7 @@
      paginated page. No giant link dump — orientation, then a door to walk
      through. Labels + blurbs come from data/categories.toml. */}}
 {{ $skip := slice "About Pomegra Wiki" "A–Z index" "Pomegra Wiki" "Atlas" "The Exchange" }}
-{{ $entries := where .Site.RegularPages "Title" "not in" $skip }}
+{{ $entries := where (where .Site.RegularPages "Section" "!=" "startups") "Title" "not in" $skip }}
 {{ $total := len $entries }}
 
 {{ $cats := dict }}
