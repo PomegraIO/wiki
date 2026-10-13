@@ -1,0 +1,48 @@
+{{/* Site-wide paid banner, rendered directly under the footer on every page.
+     Mirrors pomui's PartnerBanner (They Said Buy campaign, 2026-10-13 to
+     2026-11-13). Remove the include in baseof.html when the campaign ends.
+     Class names deliberately avoid the word "sponsor" (ad blockers hide it). */}}
+<aside class="wiki-partner" aria-label="They Said Buy: What happened after the stock call?">
+  <a class="wiki-partner-link" href="https://theysaidbuy.com/" target="_blank" rel="sponsored noopener noreferrer">
+    <div class="wiki-partner-text">
+      <p class="wiki-partner-kicker">Sponsored · theysaidbuy.com · Not financial advice</p>
+      <p class="wiki-partner-title">They Said Buy: What happened after the stock call?</p>
+      <p class="wiki-partner-dek">YouTube stock calls, the exact quote and video moment, and what the share price did next.</p>
+    </div>
+    <span class="wiki-partner-cta">See what happened &rarr;</span>
+  </a>
+</aside>
+<script>
+  // Umami: partner_banner_impression (once per page load, after half the
+  // banner has been on screen for 1s) and partner_banner_click (left/middle).
+  // Umami loads deferred, so events wait for window.umami before sending.
+  (function () {
+    var link = document.querySelector('.wiki-partner-link');
+    if (!link) return;
+    var data = { link: 'theysaidbuy', host: 'theysaidbuy.com', site: 'wiki' };
+    function send(name) {
+      var tries = 0;
+      (function attempt() {
+        if (window.umami) { try { window.umami.track(name, data); } catch (_) {} return; }
+        if (tries++ < 20) setTimeout(attempt, 500);
+      })();
+    }
+    link.addEventListener('click', function () { send('partner_banner_click'); });
+    link.addEventListener('auxclick', function (e) { if (e.button === 1) send('partner_banner_click'); });
+    if (!('IntersectionObserver' in window)) return;
+    var seen = false, timer = null;
+    var io = new IntersectionObserver(function (entries) {
+      var entry = entries[0];
+      if (seen) return;
+      clearTimeout(timer);
+      if (!entry.isIntersecting || entry.intersectionRatio < 0.5) return;
+      timer = setTimeout(function () {
+        if (seen) return;
+        seen = true;
+        send('partner_banner_impression');
+        io.disconnect();
+      }, 1000);
+    }, { threshold: [0, 0.5] });
+    io.observe(link.parentNode);
+  })();
+</script>
