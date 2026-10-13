@@ -2083,13 +2083,12 @@ img { max-width: 100%; height: auto; }
 .wiki-partner-link:focus-visible { outline: 2px solid #a444cf; outline-offset: -2px; }
 .wiki-partner-kicker {
   margin: 0 0 0.3rem; font-family: var(--pom-font-mono); font-size: 0.68rem;
-  font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #a8a194;
+  letter-spacing: 0.04em; color: #a8a194;
 }
 .wiki-partner-title {
   margin: 0; font-family: var(--pom-font-display); font-size: 1.3rem;
   font-weight: 700; line-height: 1.2; letter-spacing: -0.01em;
 }
-.wiki-partner-dek { margin: 0.3rem 0 0; font-size: 0.9rem; line-height: 1.4; color: #a8a194; max-width: 42rem; }
 .wiki-partner-cta {
   flex-shrink: 0; align-self: flex-start; display: inline-block;
   background: #a444cf; color: #fff; padding: 0.75rem 1.25rem; border-radius: 2px;
