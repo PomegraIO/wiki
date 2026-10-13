@@ -2073,7 +2073,7 @@ img { max-width: 100%; height: auto; }
 }
 
 /* ══ PARTNER BANNER (under footer, site-wide) ══════════════════════════ */
-.wiki-partner { background: #0a0908; border-top: 1px solid #2a2725; }
+.wiki-partner { background: #0a0908; border-bottom: 1px solid #2a2725; }
 .wiki-partner-link {
   display: flex; flex-direction: column; gap: 0.85rem;
   max-width: 1200px; margin: 0 auto; padding: 1.4rem 1.25rem;

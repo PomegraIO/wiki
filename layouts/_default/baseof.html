@@ -169,13 +169,13 @@
 </head>
 <body class="{{ if .IsHome }}is-home{{ else if eq .Section ""}}is-page{{ else }}is-article{{ end }}">
   {{ partial "navbar.html" . }}
+  {{ partial "partner-banner.html" . }}
 
   <main class="wiki-main">
     {{ block "main" . }}{{ end }}
   </main>
 
   {{ partial "footer.html" . }}
-  {{ partial "partner-banner.html" . }}
 
   <script>
     // Theme toggle
